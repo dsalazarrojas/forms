@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Roof Inspection Form, we first need to understand the purpose of this form. Based on the provided YAML fields, it appears that this form is used to gather information about a roof inspection. The form likely serves as a template for roofing inspectors to document their findings and provide relevant details such as the general condition of the roof, its type, area, and inspection date. It also includes fields for photos, contact information, and notes. This form might be used by roofing professionals to report their inspections and provide valuable information for maintenance or repair purposes.
-
-Before proceeding, let's review the form fields to ensure we haven't duplicated any information and that each field is relevant to the inspection process.
-
-After reviewing the fields, it seems that there are some redundant fields such as multiple contact phone fields and email fields, but they are likely meant to cater to different use cases or provide backup contact information.
-
-Let's move on to creating the help guide.
-
-</thinking>
-
 # Roof Inspection Form - Help Guide
 ## Purpose
 The Roof Inspection Form is designed to gather information about a roof inspection. It's intended for roofing inspectors to document their findings and provide relevant details about the roof's condition, type, area, and inspection date. The form also allows for photos and notes to be included.

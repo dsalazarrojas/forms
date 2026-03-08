@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's work phone arrangement, likely for organizational or business use cases where understanding employee work phone arrangements is essential. The form's purpose is to gather details such as work phone numbers, arrangement types, and any additional relevant information. This form likely aims to streamline administrative tasks for HR or management teams, ensuring accurate and efficient tracking of work phone arrangements across the organization. 
-
-Before proceeding, ensure this form is not a duplicate or a variation of a similar form already created, as this could lead to unnecessary data duplication. This form is a customized solution generated based on public survey topic metadata, making it an original adaptation. 
-
-</thinking>
-
 # work_phone_arrangement_survey - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's work phone arrangement.

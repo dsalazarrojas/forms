@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to generate a report on helpdesk ticket resolutions. It allows users to input relevant information about a ticket, including its details, resolution status, and submission information. This form is intended to be used by helpdesk personnel to track and report on ticket resolutions. It is crucial to fill out all required fields to ensure accurate and comprehensive reporting. 
-</thinking>
-
 # helpdesk_ticket_resolution_report_form - Help Guide
 ## Purpose
 The helpdesk ticket resolution report form is used to generate a report on helpdesk ticket resolutions. It helps helpdesk personnel track and report on ticket resolutions, ensuring accurate and comprehensive reporting.

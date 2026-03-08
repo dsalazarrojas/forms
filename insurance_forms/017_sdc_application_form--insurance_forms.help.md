@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sdc_application_form - Help Guide
 ## Purpose
 The **sdc_application_form** is designed to collect information about applicant data. It is intended for use in various contexts where applicant details are required. This form aims to capture the essentials of an applicant's profile, including personal and optional information. Before proceeding, verify that this form is relevant to your specific use case and not a duplicate of another form.

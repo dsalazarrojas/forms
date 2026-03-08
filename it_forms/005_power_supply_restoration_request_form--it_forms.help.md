@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers regarding power supply restoration requests. It will likely be used to report outages, schedule appointments, or other related activities. Before filling out this form, ensure that you have a valid reason for submission and check that you are not duplicating any existing requests. If you're unsure, please check with the relevant team or supervisor for clarification.
-
-</thinking>
-
 # Power Supply Restoration Request Form - Help Guide
 ## Purpose
 The Power Supply Restoration Request Form is a tool used to record and track power supply restoration requests. This form is typically filled out when there is an issue with power supply at one of our facilities.

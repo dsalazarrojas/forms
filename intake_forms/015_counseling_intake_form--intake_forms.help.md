@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from patients for the purpose of providing counseling services. This form is a crucial part of our intake process, and filling it out will help our team understand your needs and provide you with the best possible care. Please note that this form is not a substitute for any medical evaluation or diagnosis. It is intended to collect basic demographic and medical history information. 
-</thinking>
-
 # Counseling Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from patients for the purpose of providing counseling services.

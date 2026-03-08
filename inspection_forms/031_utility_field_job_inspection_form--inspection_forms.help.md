@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to analyze the form's structure and purpose to create a clear and concise user guide. The Utility Field Job Inspection Form appears to be a template for inspecting utility fields, such as electric, gas, water, and sewer systems. The form is designed to collect information about the inspection process, including the inspector's details, dates and times, location, and photos. It also includes a section for notes and comments. The purpose of this form is to document and track the inspection process, ensuring that utility fields are properly maintained and functioning correctly.</thinking>
-
 # Utility Field Job Inspection Form - Help Guide
 ## Purpose
 This form is designed to help utility field inspectors record and document their inspection findings. It captures essential information about the inspector, location, and condition of the utility field, which is crucial for maintaining and troubleshooting the system.

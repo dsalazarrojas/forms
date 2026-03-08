@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to guide users in submitting a software update troubleshooting request to the support team.
-The form is intended to gather information from users about the issues they are experiencing with the software, including the operating system they are using, the error message they see, and the steps they take to reproduce the problem.
-To prevent duplication of work, please ensure that you are submitting a new issue that hasn't been reported before.
-</thinking>
-
 # software_update_troubleshooting_request_form - Help Guide
 ## Purpose
 This form is designed to gather information from users about issues they are experiencing with our software and to assist our support team in troubleshooting and resolving these issues.

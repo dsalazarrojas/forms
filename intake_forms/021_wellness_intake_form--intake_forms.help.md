@@ -1,5 +1,3 @@
-<thinking>...This form appears to be a comprehensive intake form for patients or clients to provide information about their general well-being and medical history. The form collects various personal and health-related information, including contact details, medical conditions, allergies, health insurance, and medical facilities usage. It also allows the user to include medical notes and emergency contact information... </thinking>
-
 # Wellness Intake Form - Help Guide
 ## Purpose
 This form is designed to collect personal and health-related information from patients or clients to help medical professionals assess their well-being and create an accurate and comprehensive health profile.

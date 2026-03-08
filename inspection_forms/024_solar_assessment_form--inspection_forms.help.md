@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect information about a property's solar assessment. It is designed to be completed by the user, typically a field inspector, to gather data on a property's solar features, such as its type, status, and contact information. This form will be used to generate a report that can be used to inform decisions or actions related to the property. Before proceeding, please ensure that you have the necessary permissions and that the property is not already being assessed. If you have previously completed this form for the same property, please do not submit duplicate requests...</thinking>
-
 # Solar Assessment Form - Help Guide
 ## Purpose
 The Solar Assessment Form is used to collect information about a property's solar features, which can be used to inform decisions or actions related to the property.

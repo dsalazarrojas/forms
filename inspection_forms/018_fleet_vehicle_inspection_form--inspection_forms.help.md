@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is used to gather information about a vehicle's inspection status and condition. It is intended to be completed by fleet management or maintenance personnel to record and track the vehicle's current status. The form may be used for routine inspections, maintenance checks, or special circumstances such as accidents or repairs. Ensure that the form is used consistently and accurately to record all necessary details about the vehicle. Note that this form is not intended for vehicle sales or purchasing purposes.
-
-</thinking>
-
 # Fleet Vehicle Inspection Form - Help Guide
 ## Purpose
 This form is used to collect and record details about a vehicle's status and condition during inspections.

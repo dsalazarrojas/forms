@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for collecting information during a rental inspection to document any issues found on the property and requests for repair. The form aims to gather data on contact information, property details, whether issues were found, and the date and time of the inspection. This information will be used to create a report for the landlord/property owner. To avoid duplication of work and to ensure accuracy, it is crucial that the inspector carefully reviews the form before submitting it for review and approval.
 
 # Rental Inspection Report Form - Help Guide

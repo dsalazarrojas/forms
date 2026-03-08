@@ -1,9 +1,3 @@
-<thinking>
-This form is used for Service Tiering Assessment, which is a process to determine the priority and urgency of services or projects within an organization. The form is used to gather information about the service, team, and other relevant details to make informed decisions about resource allocation and prioritization. The fields on this form are designed to provide a comprehensive overview of the service, including its organisational structure, priority, and other relevant attributes.
-
-Please note that this form is not intended for duplicate or redundant information entry. It is designed for one-time submission and review.
-</thinking>
-
 # Service Tiering Assessment - Help Guide
 ## Purpose
 The Service Tiering Assessment form is used to gather information about a service or project within an organisation. This form helps to determine the priority and urgency of the service, enabling the organisation to allocate resources more effectively.

@@ -1,14 +1,3 @@
-<thinking>
-We will create a comprehensive help guide to help end users understand the purpose of the "Workforce Technology Enablement Application Form", how to complete it, and what each field means.
-
-The form is designed to collect information for a workforce technology enablement application, which involves requesting access to specific tools and resources within the organization. To fill out this form, users should carefully read through the guide to ensure they provide accurate and relevant information.
-
-This form is used to request access to certain tools and resources, so it's essential to complete it accurately to ensure the request is processed correctly and quickly. The form is divided into different sections for clarity and ease of use.
-
-Before starting, make sure to review the form carefully and provide all required information to avoid errors or delays in processing.
-
-</thinking>
-
 # Workforce Technology Enablement Application Form - Help Guide
 ## Purpose
 The Workforce Technology Enablement Application Form is used to request access to specific tools and resources within the organization. This form is designed to collect relevant information from the requester, the manager, and other relevant stakeholders to process the request efficiently.

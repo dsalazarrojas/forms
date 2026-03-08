@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's health and wellness status. It's intended to be filled out by new clients or patients to provide healthcare providers with relevant background information. Ensure you're filling this form only once, and avoid resubmitting it. If you're unsure about any field, please ask your healthcare provider for clarification.
-</thinking>
-
 # Health And Wellness Intake Form - Help Guide
 ## Purpose
 This form collects information about a client's health and wellness status to help healthcare providers understand their medical background and provide personalized care.

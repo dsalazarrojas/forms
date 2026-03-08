@@ -1,5 +1,3 @@
-<thinking>...This form is designed to ensure that excavation work is conducted safely by assessing various aspects of the excavation site. It includes questions about the presence of a trench safety barrier, personal protective equipment, clearance around excavated areas, trench depth, safety hatch protection, and site access control measures. The form aims to gather information on the effectiveness of safety measures implemented on the site. It is essential to complete this form carefully to ensure that all necessary safety protocols are met before starting or continuing with excavation work... </thinking>
-
 # Excavation Safety Checklist - Help Guide
 ## Purpose
 This form is used to assess the safety of an excavation site before starting or continuing with excavation work. It checks for various safety protocols such as trench safety barriers, personal protective equipment, clearance around excavated areas, and site access control measures.

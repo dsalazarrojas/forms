@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from applicants for a job opening, ensuring they provide accurate and complete data to facilitate the hiring process. It is crucial to fill out the form accurately to avoid duplication or incomplete submissions. The form is designed to collect the most critical information about the applicant, including their name, contact details, job application details, educational background, work experience, and any additional relevant information.
-</thinking>
-
 # CV Application Form - Help Guide
 
 ## Purpose

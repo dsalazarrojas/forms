@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in job openings within our organization. The form is used to gather inquiries from applicants about available positions. Please note that if you have already inquired about a job, please do not submit duplicate inquires. This will help ensure that our team is not overwhelmed with redundant inquiries.</thinking>
-
 # Hiring Inquiry Form - Help Guide
 
 ## Purpose

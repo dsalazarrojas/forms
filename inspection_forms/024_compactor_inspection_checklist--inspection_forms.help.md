@@ -1,8 +1,3 @@
-<thinking>
-The form appears to be designed for conducting regular inspections of compactors, which are likely heavy machinery used in various industries such as construction, manufacturing, or waste management. The purpose of this form is to gather information about the current condition of the compactor, including its visual condition, safety features, hydraulic system, and any recommended next steps for maintenance. This data will help ensure that the equipment is in good working order and identify any potential issues before they become major problems. It's essential to complete this form accurately to maintain the integrity of the inspection process and ensure the safety of operators and surrounding personnel. Please ensure that the inspector's name is filled out as it is required for record-keeping purposes.
-
-</thinking>
-
 # Compactor Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about the condition of compactors during regular inspections. The goal is to ensure that the machinery is in good working order and identify any potential issues before they become major problems.

@@ -1,5 +1,3 @@
-<thinking>Inspections play a vital role in ensuring the food safety and hygiene of establishments that handle, store, or prepare food. To prevent food-borne illnesses and diseases, inspections help identify potential hazards and facilitate corrective actions to eliminate them. A food safety inspection form is used by regulatory authorities to conduct thorough reviews of food establishments, including facilities, food vehicles, and equipment. This form guides inspectors in collecting crucial information about an establishment's compliance with food safety laws and regulations. To avoid any confusion or misinterpretation, this form is designed for the specific purpose of facilitating food safety inspections, so please ensure that you fill it out accurately and thoroughly.</thinking>
-
 # Food Safety Inspection Form - Help Guide
 
 ## Purpose

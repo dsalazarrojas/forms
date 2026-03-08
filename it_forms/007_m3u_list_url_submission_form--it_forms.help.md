@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The M3U List URL Submission Form is designed to collect user-provided information for M3U (Multi-Stream) usage tracking purposes. This form is used to track and record the usage details and consent of users when accessing M3U-listed content. The form is not intended for general feedback or support, but rather for collecting specific data related to the M3U usage.
 
 ## M3U List URL Submission Form - Help Guide

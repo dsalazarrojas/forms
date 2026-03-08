@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about store conditions, shelf standards, and other essential details during an audit. The form is intended to be used by inspectors to gather data on the state of a store and identify areas for improvement. The fields are organized in a way that allows for efficient and clear data collection. 
 
 This form should not be used for any other purpose than as a tool for inspections. 

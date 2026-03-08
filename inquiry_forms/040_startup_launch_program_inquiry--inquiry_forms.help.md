@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Startup Launch Program Inquiry - Help Guide
 
 ## Purpose

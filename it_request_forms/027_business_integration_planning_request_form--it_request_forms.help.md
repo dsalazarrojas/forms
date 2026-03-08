@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users to plan and prioritize business integration requests. To ensure the form is completed correctly and relevant requests are not duplicated, please consider the following:
-- This form is intended for business integration planning requests, not general inquiries or support tickets.
-- If you have already submitted a request for the same integration, please do not submit another form. Instead, update your existing request or contact the support team to inquire about its status.
-- This form will be reviewed and prioritized based on the provided information, so please ensure you are submitting accurate and complete details.
-- If your request requires a detailed technical explanation, please provide a clear and concise description of the systems involved and the integration goals.
-</thinking>
-
 # Business Integration Planning Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for school facility maintenance inspections. It collects information about the school facility, such as its ID, location, and the type of issue being inspected. The form also captures information about the inspectors assigned to the facility, including their contact information and the status of their inspections. This form is likely to be used by facility maintenance personnel to track and manage maintenance requests and inspections.
-</thinking>
-
 # School Facility Maintenance Inspection Form - Help Guide
 ## Purpose
 The School Facility Maintenance Inspection Form is used to track and manage school facility maintenance requests and inspections.

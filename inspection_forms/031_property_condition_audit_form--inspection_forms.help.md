@@ -1,19 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Property Condition Audit Form, I need to consider the purpose of the form and the required and available fields. The form is designed to audit the property condition of a specific property, gathering information such as the property address, type, condition score, and contact details.
-
-The form is likely used by property managers, auditors, or other personnel to assess the condition of a property and provide a score based on its condition. This score could be used for various purposes, such as determining the need for repairs or maintenance, evaluating the property's value, or tracking changes in the property's condition over time.
-
-To determine if the form is being used for the intended purpose, I should consider the following:
-
-* Is the form being used for regular property condition assessments?
-* Are the fields being used to collect accurate and relevant information about the property?
-* Are the contact details being used to follow up with property owners or managers?
-
-If the form is being used for the intended purpose, I can proceed with creating the help guide.
-
-</thinking>
-
 # Property Condition Audit Form - Help Guide
 ## Purpose
 The Property Condition Audit Form is used to assess the condition of a property, providing a score based on its condition. This score can be used for various purposes, such as determining the need for repairs or maintenance, evaluating the property's value, or tracking changes in the property's condition over time.

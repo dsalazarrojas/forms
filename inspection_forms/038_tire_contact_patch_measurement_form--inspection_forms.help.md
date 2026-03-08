@@ -1,5 +1,3 @@
-<thinking>This form is designed for collecting contact patch measurement information for tires. It is meant to be filled out by inspectors or other personnel during an inspection process. The purpose of this form is to collect data about whether there is a contact patch or not, how to select the correct option (e.g., "Yes" or "No"), record the date and time of the inspection, leave a note, and collect contact information (email or phone number) in case the inspector needs to reach out for further clarification or next steps. This form does not require all fields to be completed, as some are marked as optional. However, please complete all relevant fields for accurate and thorough reporting.</thinking>
-
 # Tire Contact Patch Measurement Form - Help Guide
 ## Purpose
 The Tire Contact Patch Measurement Form is designed for inspecting tire contact patches for wear. It is an essential tool for ensuring accurate and thorough reporting during tire inspections.

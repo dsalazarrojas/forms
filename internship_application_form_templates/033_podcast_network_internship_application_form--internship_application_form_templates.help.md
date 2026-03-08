@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in participating in an internship program at a podcast network. The form gathers personal details, address, education background, and work experience from applicants. This form is not affiliated with, endorsed by, or derived from any form platform, and its purpose is to provide a structured and efficient way for podcast networks to collect relevant information from potential interns. To ensure that only relevant and high-quality applications are submitted, please note that this form is not intended for mass submissions or to be filled out by multiple people in the same household. Only one submission per person is accepted.
-
-</thinking>
-
 # Podcast Network Internship Application Form - Help Guide
 ## Purpose
 

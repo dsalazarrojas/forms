@@ -1,12 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers or clients about their music preferences and call back options when a phone call is made. The form includes questions about whether the customer wants music to be played during the call, the call back options, and additional information such as call back time, time zone, and email. This form helps the business understand the customer's preferences and requirements for a successful phone call.
-
-The form is designed to be completed by a single person and the questions are meant to be answered accordingly.
-
-
-</thinking>
-
 # Music Selection For Phone Hold - Help Guide
 ## Purpose
 The form is intended for customers or clients to provide information about their preferences for phone holds, including music selection and call back options.

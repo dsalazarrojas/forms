@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from claimants about an accident they have experienced. This form is designed to be used by a company or organization to gather details about the accident, including the claimant's contact information, the date and location of the accident, and a description of the injury. By filling out this form, the claimant can provide a clear and concise account of the accident, which can be used to facilitate a prompt and efficient claims process.
-
-To ensure that the form is used correctly, we should check if the form has been used for similar purposes in the past, and if so, we may need to review the previous responses to avoid duplication of effort.
-
-</thinking>
-
 # personal_accident_claim_form - Help Guide
 ## Purpose
 This form is designed to collect information from claimants about an accident they have experienced.

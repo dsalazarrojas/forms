@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Security Uniform Checklist - Help Guide
 
 ## Purpose

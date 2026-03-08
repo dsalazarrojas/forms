@@ -1,5 +1,3 @@
-<thinking>Is there any other context that would help me better understand the form's purpose, such as which department or team uses it, or specific industry standards it's meant to follow?</thinking>
-
 # Floor Safety Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to be a comprehensive checklist for inspecting and monitoring floor safety in various settings, such as industrial workplaces, offices, or other facilities. It's meant to ensure that the floors are safe and free from hazards that could lead to accidents and injuries.

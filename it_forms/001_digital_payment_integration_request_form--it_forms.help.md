@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to request integration of digital payments into their system. The form is used to gather relevant information from the user to facilitate this integration process. Please ensure that you have a legitimate reason for requesting digital payment integration before submitting this form. If you have already submitted a request for digital payment integration, please do not resubmit this form as it may cause unnecessary duplication of work.
-</thinking>
-
 # Digital Payment Integration Request Form - Help Guide
 ## Purpose
 This form is designed to gather information for digital payment integration into your system. Please fill out this form accurately and thoroughly to ensure that we can provide you with the necessary assistance.

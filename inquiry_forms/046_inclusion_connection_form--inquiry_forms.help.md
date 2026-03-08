@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to create an inclusion connection between different programs within the system, providing essential information such as the program name, user details, and support requests. This form aims to facilitate efficient communication and collaboration between stakeholders. It's crucial that users complete this form accurately to ensure that the inclusion connection is established correctly and promptly.
-</thinking>
-
 # inclusion_connection_form - Help Guide
 ## Purpose
 The inclusion_connection_form is a tool for users to create an inclusion connection between programs, enabling seamless communication and collaboration among stakeholders.

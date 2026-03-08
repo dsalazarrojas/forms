@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Tech Industry Candidate Skills Interview Form is used to gauge a candidate's skills and experience in the tech industry. The form is designed to be completed by a candidate and can be used by hiring managers or interviewers to evaluate the candidate's suitability for a role. This form is not meant to be a comprehensive evaluation of a candidate, but rather a starting point for further assessment and discussion.
 
 To ensure that this form is not duplicated for the same candidate, you may want to check if the candidate has already been evaluated through this form. If you've already assessed a candidate, please do not duplicate the form and instead update their existing evaluation.

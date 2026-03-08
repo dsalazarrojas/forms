@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect user inquiries about software launches. It is intended for users who want to express their interest in launching software with our company. The form is designed to gather information about the user's contact preferences, launch interest, and product details. The form is not intended for sales or marketing purposes, but rather to provide a channel for users to get in touch with us and inquire about potential software launches.
-
-Before filling out this form, please note that we do not allow duplicate inquiries. If you have already submitted an inquiry, you will be notified accordingly.
-
-</thinking>
-
 # software_launch_user_inquiry_form - Help Guide
 ## Purpose
 This form is a tool for users to express their interest in launching software with our company.

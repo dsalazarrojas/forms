@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather internal feedback from users regarding the performance and functionality of internal systems. To ensure the collected feedback is relevant and accurate, please note that this form should only be filled out once per individual. If you have already filled out this form, please do not submit it again. If you're unsure about the form's purpose or have questions, please contact the support team.
-</thinking>
-
 # Internal Systems Feedback Survey - Help Guide
 
 ## Purpose

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect comprehensive medical information from patients for the purpose of assessment and treatment planning. It is intended to be used by healthcare professionals to gather essential details about a patient's medical history, symptoms, and allergies. The information collected will be used to create a comprehensive treatment plan tailored to the individual's needs.
-
-To determine if the form is relevant to the user, consider the following:
-
-*   The form is intended for medical professionals to collect medical information from patients.
-*   The form is meant to be completed by patients or their authorized representatives.
-*   The form collects information that is sensitive in nature (e.g., medical history, symptoms, allergies).
-
-The form is designed to be a comprehensive tool for collecting medical information, and its fields will be explained in detail below. Please ensure that each field is filled out as accurately and thoroughly as possible to ensure the best possible outcome for the patient.
-
-</thinking>
-
 # Medical Intake Form - Help Guide
 ## Purpose
 The Medical Intake Form is a collection of questions designed to gather essential medical information from patients for the purpose of assessment and treatment planning. This form is meant to be completed by patients or their authorized representatives and is intended for use by medical professionals.

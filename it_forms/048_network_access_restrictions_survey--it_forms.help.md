@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Network Access Restrictions Survey - Help Guide
 ## Purpose
 

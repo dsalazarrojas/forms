@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about a logistics delivery punctuality inquiry. This form is likely used by logistics teams to track and report on the punctuality of deliveries, allowing them to identify areas for improvement and optimize their delivery processes. It may also be used by customers to report issues with their shipments and by carriers to provide feedback on their delivery experiences. This form appears to be primarily used to gather details about a specific shipment, such as delivery dates, times, and locations, but also allows for notes and comments from both customers and carriers. It's unclear if this form is primarily intended for internal use by logistics teams or if it's a tool for external communication with customers.
-</thinking>
-
 # Logistics Delivery Punctuality Inquiry Form - Help Guide
 ## Purpose
 The Logistics Delivery Punctuality Inquiry Form is used to gather information about the punctuality of a shipment. This form helps logistics teams to track and report on shipment delays or issues.

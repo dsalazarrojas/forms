@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graduate School Interview Form - Help Guide
 
 ## Purpose

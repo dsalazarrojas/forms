@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Net User Feedback Survey - Help Guide
 ## Purpose
 This form is intended for users to provide feedback on the service they have experienced. The survey aims to collect information on their satisfaction level, any issues encountered, and their future expectations. It's essential to fill out this form to help us understand your needs and improve our service.

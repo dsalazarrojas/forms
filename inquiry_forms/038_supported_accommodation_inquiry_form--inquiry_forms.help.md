@@ -1,23 +1,3 @@
-<thinking> 
-This form is designed to capture information for supported accommodation inquiries. It's intended for clients who are seeking assistance with temporary or long-term accommodation needs. The form is divided into several sections to gather essential details about the client's requirements and support needs.
-
-To ensure that the form is completed accurately and efficiently, please review the following instructions and explanations for each field:
-
-1. **Supported Accommodation Inquiry Form**: This is the main title of the form, which serves as a header.
-2. **Client Name**: This field is required and should contain the client's name.
-3. **Client Email**: This field is also required and should be the client's email address.
-4. **Supported Accommodation Type**: This field is a selection of options, where clients can choose the type of supported accommodation they are seeking (Homeless, Emergency, Transitional, Short-term, or Long-term).
-5. **Accommodation Needs**: In this field, clients should describe their accommodation needs in detail.
-6. **Accommodation Location**: Here, clients should provide the location where they are looking for accommodation.
-7. **Accommodation Support Services**: This field is a selection of options, where clients can choose the support services they require (Transportation, Food, Medical, or Other). If they need something not listed, they can use the "Other" option and describe their needs in the text field below.
-8. **Accommodation Support Services Other**: This field is optional and should be used if clients need to specify additional support services not listed in the previous field.
-9. **Follow-up Date**: This field is not required and is for scheduling follow-up dates and times.
-10. **Follow-up Time**: Similar to the previous field, this is also not required and is for scheduling follow-up time.
-11. **Follow-up Contact**: This field is optional and is for any additional contact information.
-12. **Submit**: This button is used to submit the form.
-13. **Supported Accommodation Inquiry Form Comments**: This field is optional and is for any additional comments or notes about the form.
-
-</thinking>
 # Supported Accommodation Inquiry Form - Help Guide
 ## Purpose
 The Supported Accommodation Inquiry Form is designed to gather information from clients who are seeking supported accommodation. It helps in providing the necessary details for efficient allocation and management of available resources.

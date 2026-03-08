@@ -1,12 +1,3 @@
-<thinking>
-To confirm that the form is for gathering feedback and evaluations from policyholders about their experiences with insurance plans.
-To determine the relevance of the form, consider the following:
-The form is called "Health Insurance Evaluation Survey", which suggests it's intended to gauge policyholder satisfaction and provide recommendations.
-The form asks questions about policyholder information, insurance plans, satisfaction, and other related topics.
-The presence of fields like "phone number" and "email" implies that data collection is a goal.
-The form's layout, with multiple fields and options, suggests it's not a simple form, but rather a comprehensive survey.
-</thinking>
-
 # Health Insurance Evaluation Survey - Help Guide
 
 ## Purpose

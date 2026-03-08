@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # electric_vehicle_charging_station_inquiry_form - Help Guide
 
 ## Purpose

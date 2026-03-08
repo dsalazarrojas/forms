@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect relevant information about an individual's health insurance coverage, including their insurance provider, effective and expiration dates, coverage details, and employer information. The form is designed to be completed by the individual themselves, and the information collected will be used to determine their health insurance coverage status. It's essential that the user accurately completes this form to ensure that their information is up-to-date and correct. This form should not be used for other purposes or by people without the right access and permissions.
-</thinking>
-
 # Health Insurance Declaration Form - Help Guide
 ## Purpose
 The Health Insurance Declaration Form is a crucial document that provides details about an individual's health insurance coverage. It's essential to fill this form accurately to avoid any discrepancies or errors in your insurance status.

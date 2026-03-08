@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the inspection of smart factory equipment. It is intended for use by authorized personnel to assess the condition and maintenance needs of equipment within the factory. Before filling out this form, please ensure that you have reviewed and understand the equipment's current status and that your answers are accurate and complete. Please do not fill out this form if the equipment has already been inspected in the past 30 days.
-</thinking>
-
 # Smart Factory Equipment Inspection Form - Help Guide
 ## Purpose
 The Smart Factory Equipment Inspection Form is a tool used to collect information about the condition and maintenance needs of smart factory equipment. It helps authorized personnel assess the equipment's status, identify any issues, and schedule maintenance as needed.

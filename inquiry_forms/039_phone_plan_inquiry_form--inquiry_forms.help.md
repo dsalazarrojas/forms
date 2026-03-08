@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that only relevant and unique inquiries are made, and that the form is not used for duplicate purposes. This form is intended for customers to inquire about their phone plans and provide necessary information. We should verify that the form is being used as intended to avoid spam or duplicate requests.
-</thinking>
-
 # Phone Plan Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their phone plans. It is intended for customers to inquire about their current or future phone plans.

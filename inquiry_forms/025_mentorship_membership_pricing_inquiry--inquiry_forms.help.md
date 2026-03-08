@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form is intended to gather information from individuals interested in exploring mentorship membership opportunities. The form helps collect details about the individual's background, goals, and preferences to provide tailored guidance and support. It's essential to be aware that this form is not for general inquiries or support requests; its primary function is for those considering or applying for mentorship membership. Please fill it out only if you're seriously interested in exploring this option.
-To ensure accuracy and relevance, please fill out the form completely and honestly. If you have any previous inquiries, it's best to create a new account or mention it in the notes section so that we can avoid duplicate submissions.
-</thinking>
-
 # Mentorship Membership Pricing Inquiry - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in exploring mentorship membership opportunities. Please fill it out carefully, as it will help us provide tailored guidance and support.

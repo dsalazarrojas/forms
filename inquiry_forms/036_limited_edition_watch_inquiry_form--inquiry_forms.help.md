@@ -1,8 +1,3 @@
-<thinking>
-This guide is for users who wish to inquire about limited edition watches. The form is used to gather information from users who are interested in purchasing or learning more about limited edition watches. The form is designed to be completed by users who are looking for specific information about upcoming releases or existing limited edition watches. The form is not intended for users who are looking for general information about watches or to place an order for a standard watch. Users should not submit duplicate inquiries, as this may lead to unnecessary communication and confusion. 
-
-Before submitting the form, please ensure that you are not inquiring about a watch that you have already contacted us about in the past. To avoid any issues, it's best to check the "My Inquiries" section of our website or contact our customer support team to confirm if you've already made an inquiry.
-</thinking>
 # Limited Edition Watch Inquiry Form - Help Guide
 ## Purpose
 This form is for users who are interested in learning more about limited edition watches. It is used to gather information from users who are looking for specific details about upcoming releases or existing limited edition watches.

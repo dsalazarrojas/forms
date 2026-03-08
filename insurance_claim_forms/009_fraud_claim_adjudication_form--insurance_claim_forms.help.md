@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process and adjudicate insurance claims that have been reported as potentially fraudulent. It is intended for use by employees of the insurance company who need to review and investigate claims that may be suspect or require further attention. The form is designed to collect specific information about the claimant and the claim, including personal details and dates/times associated with the claim. To ensure accurate and efficient completion of this form, please ensure that you have reviewed the relevant claim documentation and have a clear understanding of the claimant's circumstances before proceeding. Additionally, please note that this form is not intended for general public use and is restricted to authorized personnel only. Please do not complete this form if you are not an authorized representative of the insurance company.
-</thinking>
-
 # Fraud Claim Adjudication Form - Help Guide
 ## Purpose
 The Fraud Claim Adjudication Form is used to process and adjudicate insurance claims that have been reported as potentially fraudulent. It is intended for use by employees of the insurance company who need to review and investigate claims that may be suspect or require further attention.

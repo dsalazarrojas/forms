@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect relevant information from potential candidates for a portfolio management position. This form is designed to gather data about the candidate's personal details, contact information, and educational background. To ensure that the form is completed correctly and efficiently, please review the following guide carefully.
-
-</thinking>
-
 # portfolio_manager_interview_form - Help Guide
 ## Purpose
 This form is designed to collect information from potential candidates for a portfolio management position. It consists of three sections: Candidate Information, Contact Details, and Education Background.

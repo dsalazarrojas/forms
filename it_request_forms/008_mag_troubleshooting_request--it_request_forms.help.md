@@ -1,14 +1,3 @@
-<thinking>
-This form is for collecting information from users to help the support team troubleshoot issues with the MAG system. The form is used to ensure that the support team receives all necessary details about the problem, including the issue category, urgency level, and any relevant file attachments. This form is not meant to be a comprehensive diagnostic tool, but rather a way to gather initial information to begin the troubleshooting process.
-
-To complete this form, please follow the instructions below.
-
-This form is not meant to be filled out multiple times for the same issue. If you have already submitted a form for a specific problem, please do not submit another one. If you have a new issue that requires attention, please fill out a new form.
-
-Please note that the support team will use the information you provide to guide further troubleshooting steps and potentially resolve the issue.
-
-</thinking>
-
 # MAG Troubleshooting Request - Help Guide
 ## Purpose
 The MAG Troubleshooting Request form is a tool used by the support team to gather information about issues with the MAG system. By providing detailed information, you can help the support team to quickly identify and resolve the problem.

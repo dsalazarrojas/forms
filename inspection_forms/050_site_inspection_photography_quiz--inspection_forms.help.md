@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used for a site inspection photography quiz, where the user is presented with a series of questions about the best practices for photography in a site inspection. The form is designed to be a self-assessment or quiz to test the user's knowledge and understanding of photography best practices in a site inspection context. I will make sure to follow the provided instructions for the form and create a help guide that is concrete, concise, and practical. The form seems to be a series of multiple-choice questions, likely aiming to gauge the user's knowledge on photography practices in a site inspection setting.
-
-Given the structure of the form, I will ensure that the help guide is clear and easy to follow, with a focus on the specific questions and their corresponding options. The guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each question, making it easy for the user to understand and complete the form accurately.
-</thinking>
-
 # site_inspection_photography_quiz - Help Guide
 ## Purpose
 The site_inspection_photography_quiz form is a self-assessment or quiz designed to test your knowledge and understanding of photography best practices in a site inspection context. It consists of a series of multiple-choice questions, where you will be presented with a question and several possible answers.

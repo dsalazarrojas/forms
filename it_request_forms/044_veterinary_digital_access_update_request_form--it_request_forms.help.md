@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help veterinary staff update the access levels of existing digital access to sensitive information within the organization. This form will allow staff to select the staff member, role, and new access level for the update. The fields are designed to be completed by the staff member or their designee, and the submitter will provide their contact information for follow-up purposes.
-
-</thinking>
-
 # Veterinary Digital Access Update Request Form - Help Guide
 ## Purpose
 This form is used to update the access levels of existing digital access to sensitive information within the organization.

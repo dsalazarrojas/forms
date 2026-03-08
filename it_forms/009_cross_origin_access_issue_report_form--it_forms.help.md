@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to report Cross-Origin Access Issues (CORA) that occur when accessing a web application. CORA issues happen when a website's access is restricted by a browser or web application due to security or policy restrictions. This form will help users provide detailed information about the issue they are experiencing, including the browser type, issue description, steps to reproduce the issue, issue details, browser version, issue impact, issue date, issue time, whether the issue is reproducible, and the issue frequency. Before filling out this form, please ensure you have not already reported this issue, and that it is not a duplicate of an issue you have already reported. If you are unsure or need clarification, please refer to your organization's policies and procedures for handling Cross-Origin Access Issues.
-</thinking>
-
 # Cross Origin Access Issue Report Form - Help Guide
 ## Purpose
 This form is intended for users to report Cross-Origin Access Issues that occur when accessing a website.

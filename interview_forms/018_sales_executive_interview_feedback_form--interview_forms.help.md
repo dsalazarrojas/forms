@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Executive Interview Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from sales executives after an interview, ensuring accurate and fair evaluation of candidates. It should be filled out by the sales executive who conducted the interview, and should only be completed after an interview has taken place. 

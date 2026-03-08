@@ -1,13 +1,3 @@
-<thinking>
-This form is for reporting on the condition of a property. It is meant to capture details about the property's condition, including the type of property, its status, and any other relevant information. This form is likely used by building inspectors or other personnel to document their findings during property inspections.
-Before filling out this form, please make sure to have the following information readily available:
-- The type of property (residential, commercial, or other)
-- The status of the property (active, inactive, or vacant)
-- The date and time of the inspection
-- The name and contact information of the person conducting the inspection
-- The address of the property
-</thinking>
-
 # property_condition_report - Help Guide
 ## Purpose
 This form is for reporting on the condition of a property.

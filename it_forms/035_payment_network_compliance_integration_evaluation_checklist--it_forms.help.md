@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is designed to help users understand the Payment Network Compliance Integration Evaluation Checklist form. The form is used to assess the compliance of a payment network integration with a business's payment gateway. The guide will walk users through the purpose of the form, how to complete it, and provide explanations for each field.
 
 # Payment Network Compliance Integration Evaluation Checklist - Help Guide

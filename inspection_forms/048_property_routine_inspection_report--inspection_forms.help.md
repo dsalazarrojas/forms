@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property_routine_inspection_report - Help Guide
 ## Purpose
 This form is used to report on the results of a routine property inspection, which is a regular check-up to evaluate the condition and state of a property. The form collects information about the property's inspection status, size, age, condition, and other details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a Moving Company Damage Claim Form used to report damages during a moving process. The purpose of this form is to gather information from customers about their damaged items, including their description, location, condition, value, and claimed amount. The form is intended to ensure that the customer's claims are documented accurately and efficiently processed. This form is not a duplicate of other forms used for different purposes, and it does not overlap with any other forms used within the moving company.
-</thinking>
-
 # Moving Company Damage Claim Form - Help Guide
 ## Purpose
 The Moving Company Damage Claim Form is used to report damages that occurred during a move. It helps our team to gather essential information to assess and process your claim.

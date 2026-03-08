@@ -1,7 +1,3 @@
-<thinking>
-The form is for employees to report on the status of equipment assigned to them. The purpose of this form is to ensure that equipment is properly maintained and updated. We want to avoid duplication of effort in reporting and want employees to understand the importance of accuracy and consistency in their responses. If an employee has already completed this form, please make sure to review and update any changes before submitting the form again.
-</thinking>
-
 # Employee Equipment Agreement - Help Guide
 ## Purpose
 The Employee Equipment Agreement form is used to report on the status of equipment assigned to employees. This form helps the team to stay up-to-date on the equipment's condition and availability.

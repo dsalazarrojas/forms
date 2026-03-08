@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness App Malfunction Incident Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about malfunctions or issues experienced with the fitness app. It will help the support team to identify and resolve the issues efficiently.

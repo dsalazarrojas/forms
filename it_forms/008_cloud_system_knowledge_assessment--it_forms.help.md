@@ -1,5 +1,3 @@
-<thinking>Before we create the help guide, let's quickly review the form purpose and required fields. The form is titled "Cloud System Knowledge Assessment" and appears to be a self-assessment tool for individuals to evaluate their cloud system knowledge and experience. The form has several required fields, including Candidate or Employee Name, Email Address, Assessment Date, Cloud Experience Level, Primary Cloud Platform Experience, IaaS Architecture Knowledge, PaaS and Containerization Knowledge, SaaS Integration Knowledge, Cloud Networking Knowledge, Cloud Security and Compliance, Automation Tools Proficiency, and API Development and Integration Knowledge.</thinking>
-
 # Cloud System Knowledge Assessment - Help Guide
 ## Purpose
 The Cloud System Knowledge Assessment form is designed to help you evaluate your cloud system knowledge and experience. It's a self-assessment tool that guides you through a series of questions and ratings to help you identify areas where you need improvement.

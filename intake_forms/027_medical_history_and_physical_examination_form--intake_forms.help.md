@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture a comprehensive medical history and physical examination for patients, which is an essential part of the diagnostic process. The fields included in this form cover various aspects of the patient's medical history, such as their contact information, appointment details, and medical history. Each field is designed to gather specific information to aid in the assessment and treatment of the patient's health condition.
-</thinking>
-
 # Medical History And Physical Examination Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document a patient's medical history and physical examination information. This form helps healthcare professionals gather essential information to assess and treat the patient's health condition.

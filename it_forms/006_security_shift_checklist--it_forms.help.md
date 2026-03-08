@@ -1,12 +1,3 @@
-<thinking> 
-This is a form designed to collect information from shift leaders about the security of their shifts. The purpose of this form is to gather data on the adherence to security standards during each shift. It is intended to be filled out by shift leaders, such as production supervisors or shift managers, who are responsible for ensuring the security of their team members and the facilities during their shifts. The form should not be filled out by team members or employees who are not shift leaders.
-
-Before proceeding, please ensure that you have the necessary permissions to access and fill out this form. If you have filled out this form previously, ensure that you have not already submitted it for the same shift period.
-
-This guide is intended to provide clear instructions on how to complete this form accurately and efficiently. If you have any questions or concerns, please reach out to the relevant authorities for assistance.
-
-</thinking>
-
 # Security Shift Checklist - Help Guide
 
 ## Purpose

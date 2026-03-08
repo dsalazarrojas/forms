@@ -1,15 +1,3 @@
-<thinking> 
-  This form is a Therapy Walk In Registration form designed to collect information 
-  from clients before their therapy sessions. It's used to gather essential details 
-  about the client's intake and contact information, as well as any emergency contact. 
-  The form's purpose is to create an efficient and secure way to collect necessary 
-  data before the start of therapy sessions. 
-  Before creating this guide, we checked to ensure that there is no existing 
-  similar form for this topic, and it was created using only public metadata, 
-  making it an original adaptation.
-  We'll now provide a user-friendly guide to help fill this form.
-</thinking>
-
 # Therapy Walk In Registration - Help Guide
 ## Purpose
 This form is designed to collect information from clients before their therapy sessions. 

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect demographic information and investment preferences from participants to simulate investment scenarios and provide personalized investment recommendations. The form is meant to be a starting point for further discussions between the participant and the investment advisor. The form will help identify key factors such as investment goals, risk tolerance, and investment experience. 
-
-This form is not a substitute for personalized investment advice. Investment decisions should be made after consulting an investment professional. 
-
-Please ensure that you are familiar with the provided options before completing this form. If you have any questions or concerns, please don't hesitate to reach out to us for clarification.
-</thinking>
-
 # Investment Simulation Survey - Help Guide
 ## Purpose
 This form is designed to collect demographic information and investment preferences from participants to simulate investment scenarios and provide personalized investment recommendations.

@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose and content of the user-facing help guide for the "vehicle Insurance Claim Form", I will analyze the provided YAML.
-
-The form appears to be a comprehensive insurance claim form for a vehicle-related incident. It includes various fields for policy holder information, vehicle details, incident information, claimant information, and claim details. The form also includes fields for attachments, claim amount, claim date, claim status, assigned tool, claim type, policy holder, vehicle registration, incident date, incident location, incident description, claimant name, policy provider, policy number, claimant address, claimant phone, policy effective date, and claimant email.
-
-Given this analysis, the form is likely used to collect information for processing vehicle insurance claims.
-
-</thinking>
-
 # Vehicle Insurance Claim Form - Help Guide
 ## Purpose
 The vehicle insurance claim form is used to collect information about a vehicle-related incident and its associated claim. This form is designed to be completed by the policy holder or claimant to facilitate the processing of the claim.

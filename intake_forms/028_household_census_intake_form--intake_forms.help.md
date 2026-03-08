@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect demographic information from households in order to better understand the socioeconomic dynamics of the community. The goal is to gather accurate and comprehensive data on household size, income, and location, which will be used to inform future planning and resource allocation decisions. To avoid duplication of efforts, please ensure that you are not filling out this form for a household that has already been surveyed.
-</thinking>
-
 # Household Census Intake Form - Help Guide
 ## Purpose
 The Household Census Intake Form is a tool used to collect data on households in the community. It helps us understand the demographics and socioeconomic characteristics of households, which informs our planning and resource allocation decisions.

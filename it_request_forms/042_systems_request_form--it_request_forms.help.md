@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I'll first need to understand the form's purpose and the fields it includes. The form appears to be a "Systems Request Form" for users to submit requests for various systems-related information or services. The fields include general information about the system, customer details, request details, and contact information of the person making the request.
-
-</thinking>
-
 # Systems Request Form - Help Guide
 ## Purpose
 The Systems Request Form is a tool for users to submit requests for information or services related to systems. This form gathers necessary information about the system, customer, and request, as well as contact details of the person making the request.

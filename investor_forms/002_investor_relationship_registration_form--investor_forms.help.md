@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Investor Relationship Registration Form - Help Guide
 
 ## Purpose

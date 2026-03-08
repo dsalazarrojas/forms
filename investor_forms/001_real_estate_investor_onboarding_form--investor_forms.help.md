@@ -1,5 +1,3 @@
-<thinking>... This form is intended to collect information from real estate investors for onboarding purposes. This form should only be completed by investors who are interested in investing in real estate, and it's essential to ensure that the information is accurate and up-to-date to facilitate a smooth onboarding process. This guide will walk you through the fields and their purpose, so please read on to ensure you complete the form correctly.</thinking>
-
 # real_estate_investor_onboarding_form - Help Guide
 ## Purpose
 This form is designed to collect information from real estate investors for onboarding purposes, ensuring that the data is accurate and up-to-date to facilitate a smooth onboarding process.

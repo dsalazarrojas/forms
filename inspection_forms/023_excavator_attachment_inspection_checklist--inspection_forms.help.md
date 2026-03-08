@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for tracking the inspection status of excavator attachments. It ensures that the attachments are properly inspected and recorded before being used in operations, reducing the risk of equipment failure and ensuring compliance with regulatory requirements. Before proceeding, ensure that the inspection form is filled out for all attachments in use to prevent duplication of effort and ensure accurate records are kept.
-
-</thinking>
-
 # Excavator Attachment Inspection Checklist - Help Guide
 ## Purpose
 The Excavator Attachment Inspection Checklist is used to track the inspection status of excavator attachments. It ensures that all attachments are properly inspected and recorded, reducing the risk of equipment failure and ensuring compliance with regulatory requirements.

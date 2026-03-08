@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to update contact information for devices. The purpose of this form is to collect data from users about devices they have in their inventory. This form should only be completed once for each device, and any existing information should be updated accordingly to avoid duplication of effort. Please ensure that all required fields are filled out to ensure accurate and complete data.
-
-</thinking>
-
 # Device Contact Information Update Form - Help Guide
 ## Purpose
 The Device Contact Information Update Form is used to gather and update information about devices in your inventory. This form is essential for maintaining accurate and up-to-date records of your devices.

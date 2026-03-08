@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to facilitate a supplier audit process. The supplier audit process is a systematic evaluation of a supplier's products or services to ensure they meet a company's quality and safety standards. This form is used to gather information about the supplier's performance, products, and services.
-
-To ensure the form is completed properly, please review the following:
-
-* Review the supplier's recent performance, products, and services to determine the purpose of the audit.
-* Ensure the form is completed in its entirety, including all required fields.
-* If a field is unclear, please contact the relevant department for clarification.
-
-This form will be used to assess the supplier's level of compliance with company policies and procedures.
-
-The completed form will be used to inform future purchasing decisions, evaluate supplier performance, and identify areas for improvement.
-</thinking>
-
 # supplier_audit_checklist - Help Guide
 
 ## Purpose

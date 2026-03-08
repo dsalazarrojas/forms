@@ -1,7 +1,3 @@
-<thinking>
-The Business Insurance Extension Form is used to request an extension of a business insurance policy. This form is intended for business owners and policy holders who need to extend their policy term beyond its initial duration. The form's purpose is to provide a structured and clear request for an extension, ensuring that all relevant information is provided to the underwriters for evaluation.
-</thinking>
-
 # Business Insurance Extension Form - Help Guide
 ## Purpose
 The Business Insurance Extension Form is a necessary step for business owners and policy holders to request an extension of their policy term. This form helps gather all the required information to facilitate the extension process.

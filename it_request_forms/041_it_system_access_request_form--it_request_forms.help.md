@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from employees who require access to IT systems, processes, or services. The goal of this form is to ensure that all requests are documented and reviewed by the IT department in a centralized manner. This form is intended for use by all employees who need to request access to IT systems, and it's recommended to be completed only once per request. Please ensure that you are not submitting duplicate requests.
-</thinking>
-
 # IT System Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to IT systems, processes, or services from the IT department. It helps to ensure that all requests are properly documented and reviewed in a centralized manner.

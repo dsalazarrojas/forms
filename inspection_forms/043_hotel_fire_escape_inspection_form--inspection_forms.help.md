@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about the results of a hotel fire escape inspection. The purpose of this form is to assess the condition of fire escape routes in a hotel and ensure that they are safe for guests to use in case of an emergency. This form should only be completed by authorized personnel and should not be duplicated. 
-</thinking>
-
 # Hotel Fire Escape Inspection Form - Help Guide
 ## Purpose
 The Hotel Fire Escape Inspection Form is designed to collect information about the condition of fire escape routes in a hotel and ensure that they are safe for guests to use in case of an emergency.

@@ -1,7 +1,3 @@
-<thinking>
-This is an insurance partner registration form designed for events, aiming to capture essential information from interested insurance partners. This form should only be used for events that have been explicitly agreed upon with the event organizers. Please ensure that you have been invited to this event by the organizers before filling out this form. This form may be used by event organizers to collect partner information from multiple events. Please do not fill out this form if you have filled it out previously for the same event or category of events. If you are unsure, contact <form@gic.mx> for clarification.
-</thinking>
-
 # Event Insurance Partner Registration Form - Help Guide
 ## Purpose
 The Event Insurance Partner Registration Form is designed to collect essential information from insurance partners to ensure they are properly registered for events. This includes providing contact details, event insurance information, and any other relevant details.

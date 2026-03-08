@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for a job opening. The form is split into two sections: "Personal Information" and "Professional Details". The form requires the applicant to provide their first name, last name, email address, phone number, and mailing address. In the "Professional Details" section, applicants are asked to provide their current job title, total years of professional experience, highest degree earned, primary skill area, and earliest possible start date. The form also includes options for applicants to upload their resume and provide a LinkedIn profile URL, portfolio URL, and information about how they heard about the position. The form is required to be completed in order to progress in the application process.
-
-Please note that the form is designed to gather information for a job opening, and the answers provided will be used to evaluate the applicant's qualifications and suitability for the position.
-</thinking>
-
 # Applicant Information Form - Help Guide
 
 ## Purpose

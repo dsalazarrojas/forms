@@ -1,10 +1,3 @@
-<thinking>
-
-To create this form, we first need to identify its purpose and ensure it's not duplicated in other parts of the system. This form seems to be designed for registering interview slots for press-related activities. It's not a duplicate of the general interview form we have for other purposes, and its main goal is to allow users to schedule interviews with press representatives. This form is likely used by administrators or moderators to manage and coordinate press interviews with specific slots for journalists, companies, and other relevant parties. We'll design the form to cater to these specific needs.
-
-
-</thinking>
-
 # press_interview_slot_registration - Help Guide
 
 ## Purpose

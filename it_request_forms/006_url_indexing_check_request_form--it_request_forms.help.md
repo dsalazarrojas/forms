@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for internal use, likely for the purposes of tracking and managing URLs within an organization or system. The purpose of this form is to collect detailed information about a URL, including its base URL, title, description, URL ID, type (home, internal, external), priority (high, medium, low), status (indexed, not indexed, unknown), date, and time. This form is not intended for public submission or external use; it is for internal review and action. To prevent duplication, users should ensure that this form is not submitted multiple times for the same URL.
-</thinking>
-
 # URL Indexing Check Request Form - Help Guide
 ## Purpose
 This form is used for internal purposes to collect and manage detailed information about a URL.

@@ -1,10 +1,3 @@
-<thinking>
-To provide a clear and concise guide for end-users, let's first review the form's purpose, required fields, and the logic behind each field to ensure that the explanations are accurate and practical. This form, "Retirement Savings Plan Intake Form", likely serves as a data collection tool for financial planning and analysis purposes. It appears to gather various pieces of information about the user's financial situation, goals, and current state of investments. 
-
-Given the required fields are user_info, financial_goals, financial_history, financial_advisor, investment_objectives, investment_risk, retirement_age, retirement_status, and retirement_savings, these are the essential areas that need to be addressed. The remaining fields, while optional, provide additional context and details for a more comprehensive understanding of the user's financial landscape.
-
-</thinking>
-
 # retirement_savings_plan_intake_form - Help Guide
 ## Purpose
 The "Retirement Savings Plan Intake Form" is designed to collect essential information about an individual's financial situation, goals, and current investments for financial planning and analysis purposes.

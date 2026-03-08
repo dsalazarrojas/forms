@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for real estate marketing purposes. This form is designed to gather data about properties, including their characteristics, marketing status, and target audience. It is crucial to ensure that the information provided is accurate and up-to-date to facilitate effective marketing strategies.
-Before proceeding, please note that this form is meant for one-time use, and any duplicate submissions may be disregarded. It is essential to complete the form only once for each property.
-Please provide accurate and comprehensive information to help us provide the best possible service.
-</thinking>
-
 # Real Estate Marketing Intake Form - Help Guide
 ## Purpose
 The Real Estate Marketing Intake Form is designed to collect information for real estate marketing purposes. This form is meant to gather data about properties, including their characteristics, marketing status, and target audience.

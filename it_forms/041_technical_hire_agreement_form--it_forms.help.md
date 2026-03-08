@@ -1,19 +1,3 @@
-<thinking>
-We will be creating a help guide for the "Technical Hire Agreement Form" that will walk users through the purpose and completion process of the form, as well as explain each field's meaning and requirement status. We will be using the provided YAML to inform our explanations. The form appears to be a formal agreement between an employer and a contractor, likely used for freelance or technical work. The form's purpose is to establish clear terms and conditions for the work being done and to obtain necessary signatures. It is likely used in a corporate or business setting. Before proceeding, let's review the form's fields to ensure we cover all necessary information in our guide.
-
-Form fields:
-
-- **Main Page**: This is the main page of the form where the user will input the contract details.
-- **Contract Details**: A text field for the user to input contract information. This field is required.
-- **Manager Signature**: A dropdown select field where the user must choose the manager's signature. This field is required.
-- **Employee Signature**: A dropdown select field where the user can choose to sign or not. This field is not required.
-- **Date Signed**: A date field where the user will input the date they signed the agreement. This field is required.
-- **Terms and Conditions**: A text area field where the user can input any additional terms and conditions. This field is not required.
-- **Technical Agreement**: A text field where the user will input the technical agreement details. This field is required.
-- **Date**: This field is not a standard field name and may be a typo or incorrect. Assuming it refers to "Date Signed" field which is actually a date field.
-
-</thinking>
-
 # Technical Hire Agreement Form - Help Guide
 ## Purpose
 The Technical Hire Agreement Form is a formal document used to establish clear terms and conditions for technical work being done by a contractor. This form helps ensure that both the employer and contractor are on the same page and understand their responsibilities and expectations.

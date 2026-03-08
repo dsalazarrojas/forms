@@ -1,7 +1,3 @@
-<thinking>
-...The purpose of this form is to manage IPTV playlists, which are a collection of channels and programs broadcasted on a specific schedule. The IPTV playlist management form is used to create, edit, or delete playlists for customers. This form is essential for maintaining accurate and up-to-date information about customer playlists, ensuring seamless playback experiences. This form is used by customer service representatives to interact with customers and update their playlists accordingly. To avoid duplication of work, please ensure that you are using this form for its intended purpose and follow up on any updates or changes made to a customer's playlist... 
-</thinking>
-
 # iptv_playlist_management_form - Help Guide
 ## Purpose
 The IPTV Playlist Management Form is a tool used to create, edit, or delete IPTV playlists for customers. It is used by customer service representatives to interact with customers and update their playlists.

@@ -1,7 +1,3 @@
-<thinking>
-The "Drainage Survey" form is designed to collect information about the status and conditions of drainage systems in various settings, such as residential or commercial properties. This form helps assess the functionality and integrity of the drainage system, which is crucial for maintaining public health and safety, preventing water-borne diseases, and ensuring environmental sustainability. The survey is typically conducted by maintenance personnel or facility managers to identify issues, provide recommendations for improvement, and record observations. The form is used to gather information from multiple pages, each focusing on different aspects of the drainage system, and is meant to be completed by a single individual or a team of inspectors.
-</thinking>
-
 # Drainage Survey - Help Guide
 ## Purpose
 The "Drainage Survey" form is a tool used to assess the status and conditions of drainage systems in various settings. It helps identify issues and provide recommendations for improvement, ensuring public health and safety, and environmental sustainability.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly and that users are able to fill it out accurately, while also keeping the instructions concise and practical. I will review the form structure and create a clear user-facing help guide.
-</thinking>
-
 # road_condition_inspection_form - Help Guide
 ## Purpose
 This form is designed for conducting road condition inspections, allowing users to record and report road conditions, maintenance status, and other relevant information. It's essential to complete this form accurately to track and monitor road conditions effectively.

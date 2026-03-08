@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from end-users who are requesting payment card reader services to support the payment card reader program in their location. The form should only be used by authorized personnel who have been granted access to the system to submit requests for payment card readers. The form fields are designed to collect relevant information about the request and the device in question.
-</thinking>
-
 # Payment Card Reader Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for a payment card reader to support the payment card reader program in your location.

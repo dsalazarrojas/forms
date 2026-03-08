@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being created for the "Plumbing Inspection Checklist Form" to ensure that end-users understand its purpose, how to complete it, and what each field means.
-</thinking>
-
 # Plumbing Inspection Checklist Form - Help Guide
 ## Purpose
 This form is used to collect data during a plumbing inspection and to record the status of the inspection. It gathers information about the inspection data, date, and other relevant details such as plumber's name, property address, and notes.

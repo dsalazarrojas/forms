@@ -1,7 +1,3 @@
-<thinking> 
-**This form is used to track and document access review requests for Google Drive access permissions. Each field represents a specific piece of information necessary for processing these access requests. The fields are grouped into different sections and should be filled in accordingly. Before proceeding, make sure to review the fields carefully and avoid duplicating information.**
-</thinking>
-
 # Google Drive Access Review Tracker - Help Guide
 ## Purpose
 The Google Drive Access Review Tracker is used to document and track access requests for Google Drive access permissions. This form helps in maintaining a record of access requests, reviewer comments, and approval status.

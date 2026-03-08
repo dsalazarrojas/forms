@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals seeking housing assistance. The purpose of this form is to collect data on the user's personal details, contact information, housing status, and history of housing assistance. This form may be used by service providers to assess the user's eligibility for housing assistance programs and services. Please ensure that you are completing this form for the intended purpose and that you have reviewed the information provided carefully. Please do not complete this form if you are unsure or have already provided the same information to another organization.
-</thinking>
-
 # Housing Assistance Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals seeking housing assistance.

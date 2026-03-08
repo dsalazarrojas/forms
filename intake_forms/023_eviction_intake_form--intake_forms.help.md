@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer for this form, I need to ensure that end-users understand the purpose and functionality of the <strong>eviction_intake_form</strong>. Before diving into the help guide, I'd like to remind myself to check if the form's purpose is clearly defined, if it's not a duplicate or redundant form, and if it's aligned with the organization's goals and objectives. Additionally, I should confirm that the form's layout and content are user-friendly and logical.</thinking>
-
 # eviction_intake_form - Help Guide
 ## Purpose
 The Eviction Intake Form is designed to gather information about a tenant's eviction process, including details about the reason for eviction, date and time of eviction, and witness information.

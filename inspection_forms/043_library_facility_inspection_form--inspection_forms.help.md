@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication, I will assume that the form is being used to inspect the library facilities for safety and emergency equipment. The form is likely used by librarians or maintenance staff to record the condition of safety and emergency equipment, and to identify any areas that require attention. This form will help to ensure that all equipment is in good working condition, and that regular maintenance is performed.
-
-</thinking>
-
 # Library Facility Inspection Form - Help Guide
 ## Purpose
 This form is used to inspect the library facilities for safety and emergency equipment, ensuring that all equipment is in good working condition and that regular maintenance is performed.

@@ -1,10 +1,3 @@
-<thinking>
-  This guide is intended to help users understand the "Service Repair Warranty Request Form" and its purpose.
-  The form is designed to collect information from customers who are requesting service or repair warranty for their purchased products or services.
-  This form is not intended for users who are not customers or do not have a purchased product or service.
-  Please ensure that you are completing this form for the correct purpose to avoid duplication of requests.
-</thinking>
-
 # Service Repair Warranty Request Form - Help Guide
 ## Purpose
 The Service Repair Warranty Request Form is a form designed to collect information from customers who are requesting service or repair warranty for their purchased products or services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering an auto insurance policy. The purpose of this form is to collect information from policyholders and their vehicle owners to process their insurance policy. This form is typically completed by policyholders who wish to enroll in or change their insurance coverage. The form fields are designed to collect essential details from the policyholder and vehicle owner to create a policy that meets their specific needs. Before proceeding, please ensure you have all necessary information and are authorized to complete this form on behalf of the policyholder and vehicle owner. To ensure accuracy, please double-check the form fields before submission. If you have any questions or concerns, please contact our support team.
-</thinking>
-
 # Auto Insurance Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from policyholders and their vehicle owners to process their insurance policy. It is typically completed by policyholders who wish to enroll in or change their insurance coverage.

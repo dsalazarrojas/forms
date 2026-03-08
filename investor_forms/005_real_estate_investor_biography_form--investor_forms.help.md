@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact and biographical information from real estate investors. It is designed to gather data that can be used for various internal and external purposes, such as marketing, networking, and due diligence. The form is intended to be completed by investors, and it's crucial to ensure that the information provided is accurate and up-to-date. Please review the form carefully and only complete it if you have a genuine interest in being listed as a real estate investor.
-</thinking>
-
 # Real Estate Investor Biography Form - Help Guide
 ## Purpose
 The Real Estate Investor Biography Form is designed to collect contact and biographical information from real estate investors.

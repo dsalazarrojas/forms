@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow policyholders to cancel their insurance policies with Farmers Insurance. This form is designed to collect relevant information from the policyholders, such as the reason for cancellation, policyholder's name and email, policy number, and other details. The form will guide the user through a step-by-step process to provide the necessary information for cancellation.
-
-Before filling out this form, please ensure that you have the necessary permissions and authority to cancel the policy. If you are unsure, please contact your agent or Farmers Insurance representative for assistance.
-
-To avoid duplication, please check if a cancellation request has been submitted for the same policy number and reason code before proceeding. If you have already submitted a cancellation request, please do not resubmit it.
-</thinking>
-
 # Farmers Insurance Cancellation Form - Help Guide
 ## Purpose
 This form is designed to collect information from policyholders for policy cancellation.

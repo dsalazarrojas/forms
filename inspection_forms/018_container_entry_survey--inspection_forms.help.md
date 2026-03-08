@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a container's inspection. The form is likely used in a warehouse or logistics setting where containers are regularly inspected for damage, cleanliness, and condition. The form is used to gather details about the inspector, the container, and the results of the inspection. This form is likely used for record-keeping and quality control purposes.
-
-Before proceeding, ensure that the form is being filled out for the correct purpose and not duplicate work is being done. If this form is for a specific container, make sure that no one else is already working on it.
-</thinking>
-
 # Container Entry Survey - Help Guide
 ## Purpose
 The Container Entry Survey form is used to gather information about a container's inspection, including details about the inspector, the container, and the results of the inspection.

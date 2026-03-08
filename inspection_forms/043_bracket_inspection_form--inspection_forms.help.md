@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect data for the bracket inspection process. This form ensures that inspections are done properly and efficiently, reducing errors and potential hazards associated with bracket failure. The form is used in a variety of settings where brackets are inspected, such as in construction or manufacturing sites. Ensure that all relevant questions are answered, and only submit the form once it is complete. Ensure that all questions have been reviewed thoroughly before submitting. Ensure that all fields that require a signature have been signed.
-
-</thinking>
-
 # Bracket Inspection Form - Help Guide
 ## Purpose
 The Bracket Inspection Form is used to collect data for the bracket inspection process. It ensures that inspections are done properly and efficiently, reducing errors and potential hazards associated with bracket failure.

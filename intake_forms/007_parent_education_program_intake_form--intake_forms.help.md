@@ -1,16 +1,3 @@
-<thinking>
-The Parent Education Program Intake Form is used to gather information from parents and schools about a student's participation in a parent education program. This form helps track student progress, communication, and program status. 
-
-Before filling out the form, please ensure you are completing the form for the correct student and that you have the necessary information to accurately fill out the form. 
-
-This form may be used multiple times for the same student; each form submission will replace any previously submitted form data for that student. To avoid confusion, please do not resubmit forms for the same student if there have been no changes. 
-
-Also, make sure to fill out the form completely and accurately for every field. Incomplete or incorrect information may cause issues with the student's program and may result in delays or inaccuracies in reporting. 
-
-The form consists of the following fields:
-
-</thinking>
-
 # Parent Education Program Intake Form - Help Guide
 
 ## Purpose

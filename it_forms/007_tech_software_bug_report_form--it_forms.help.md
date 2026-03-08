@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for tech software developers to report bugs or issues they encounter while using or testing software. The purpose of this form is to collect valuable information from end-users to help developers identify and resolve problems. The form is intentionally kept minimal, focusing on essential details that allow developers to recreate the bug and diagnose its cause. This form should only be filled out by individuals who have encountered a bug or issue with the software, ensuring that feedback is relevant and actionable. Please do not submit this form if you are reporting a feature request or general feedback. If you have already submitted a bug report, please do not resubmit the same issue.
-
-</thinking>
-
 # Tech Software Bug Report Form - Help Guide
 ## Purpose
 This form is designed for tech software developers to report bugs or issues they encounter while using or testing software. The form is intended to collect essential details to help developers identify and resolve problems.

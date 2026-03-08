@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Energy Source Review Request Form - Help Guide
 ## Purpose
 

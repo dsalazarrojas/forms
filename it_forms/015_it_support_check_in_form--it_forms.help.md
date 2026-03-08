@@ -1,11 +1,3 @@
-<thinking>
-This form is used for checking in on support issues, allowing users to report problems or request help with their tasks. To ensure that the form is completed correctly and accurately, please read this help guide carefully.
-
-This form is designed to gather information about support issues, and it should only be used for this purpose. Please do not use this form for any other purpose, such as reporting non-support issues or submitting new requests.
-
-Before filling out this form, please make sure that you have read and understood the purpose of the form and the information it requests. If you are unsure about any of the fields, please ask for clarification before proceeding.
-</thinking>
-
 # it_support_check_in_form - Help Guide
 ## Purpose
 The it_support_check_in_form is used to report problems or request help with tasks, allowing support teams to track and respond to support requests efficiently.

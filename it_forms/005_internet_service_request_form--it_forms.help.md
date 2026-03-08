@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect user's internet service request, including their name, email, phone number, location, problem description, service type, and priority. This form helps to ensure that the user's internet service request is accurately processed by the assigned technician.
-</thinking>
-
 # Internet Service Request Form - Help Guide
 ## Purpose
 The Internet Service Request Form is used to collect user's internet service request details, including personal contact information, service type, and problem description, to efficiently route it to the assigned technician for support.

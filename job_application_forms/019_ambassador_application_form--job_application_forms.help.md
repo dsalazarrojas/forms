@@ -1,20 +1,3 @@
-<thinking>
-This form is for individuals to apply to be an ambassador for the organization. It is intended for people who are interested in representing the organization and should not be filled out by people who are not applying. Please ensure that you are eligible and have the necessary information to complete this form accurately.
-
-To complete this form, follow these steps:
-
-* Ensure you have the necessary information and are eligible to be an ambassador.
-* Select the "Ambassador Application Form" page.
-* Fill out the required fields, marked with an asterisk (\*) or "required: true".
-* Enter your full name, email address, and phone number (if applicable).
-* Briefly explain why you are applying to be an ambassador.
-* List any relevant experience you have that makes you a good fit for the role.
-* Specify your availability, including days and times you are available.
-* Provide names and contact information for your references (if applicable).
-* Select "yes" to consent to background checks if required.
-
-</thinking>
-
 # Ambassador Application Form - Help Guide
 ## Purpose
 The form is for individuals to apply to be an ambassador for the organization.

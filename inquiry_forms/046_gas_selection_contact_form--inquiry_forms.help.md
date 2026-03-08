@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a contact form for users to inquire about gas-related topics. It's likely used for users to submit their inquiries and messages related to gas selection, pricing, or services. It's probably intended for internal use within an organization that deals with gas suppliers or providers. It's a general-purpose contact form without specific requirements for fields.
-</thinking>
-
 # Gas Selection Contact Form - Help Guide
 ## Purpose
 The Gas Selection Contact Form is a form designed for users to submit inquiries and messages related to gas-related topics. This form can be used to ask questions or seek information on gas selection, pricing, or services.

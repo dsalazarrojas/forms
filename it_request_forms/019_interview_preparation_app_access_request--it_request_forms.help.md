@@ -1,7 +1,3 @@
-<thinking>
-We want to ensure that users only request access to the Interview Preparation App if they are indeed seeking to use it for a legitimate reason. To do this, we need to verify that users are not requesting access unnecessarily and that their access requests are correctly documented. This form will help us track the user's purpose and details of their request.
-</thinking>
-
 # Interview Preparation App Access Request - Help Guide
 ## Purpose
 The Interview Preparation App Access Request form is used to request access to the Interview Preparation App for a specific purpose. This form will help us understand your needs and verify your identity as a valid user.

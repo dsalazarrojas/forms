@@ -1,11 +1,3 @@
-<thinking>
-
-The form is used to request power supply connections for users. The purpose of this form is to collect information from users about their power supply connection requests, which will be reviewed and approved by approvers. This form is used to ensure that all necessary information is collected before processing the connection request. 
-
-Before proceeding, please ensure that you have not submitted a duplicate request. You can check the connection ID to see if a request has already been submitted with the same ID. 
-
-</thinking>
-
 # Power Supply Connection Request Form - Help Guide
 
 ## Purpose

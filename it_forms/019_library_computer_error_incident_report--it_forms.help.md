@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for library staff who need to report incidents related to computer errors that occur in the library environment. The purpose of this form is to gather information about the incident, including its category, description, date, and time, as well as the technology and staff involved. The guide will walk the user through the process of completing the form, field by field, to ensure that all necessary information is captured accurately and thoroughly.
-
-Before filling out the form, please ensure that you are reporting a genuine incident, and not duplicating a previously reported issue. This form is designed to be completed by library staff, including librarians, technicians, and other support personnel, to report and track computer errors that impact library services.
-
-Please note that the form has multiple sections, each with its own specific fields that need to be filled out. The form is structured to gather comprehensive information about the incident, including its category, description, date, time, affected technology, staff involved, location, details, priority, follow-up status, and follow-up date/time.
-
-</thinking>
-
 # Library Computer Error Incident Report - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will help you understand the purpose and fields of the Waterway Infrastructure Inquiry Form. Before you start, make sure you are reporting an issue or concern related to a waterway infrastructure, and that you haven't already reported it through other channels. 
 
 # Waterway Infrastructure Inquiry Form - Help Guide

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for shelf visibility audits in stores. The purpose of this form is to document and track the findings of shelf visibility audits, ensuring that shelves are visible and accessible to customers. The form is used to record observations, photos, and notes about the condition of shelves in various stores. It will help in identifying any issues with shelf visibility and condition, and facilitate follow-up actions to improve the overall shopping experience for customers.
-
-Before starting the form, please ensure that you have completed similar audits for the store or location. This form is meant to be a comprehensive audit tool, so please fill out all required fields to get the most out of it.
-
-Please note that this form is not intended to be a duplicate effort, but rather a single source of truth for shelf visibility audits. If you have any existing audit data, please ensure it is up-to-date and accurate.
-
-</thinking>
-
 # Shelf Visibility Audit Report Form - Help Guide
 ## Purpose
 The Shelf Visibility Audit Report Form is designed to collect information about the condition and visibility of shelves in stores. This form will help identify any issues and facilitate follow-up actions to improve the shopping experience for customers.

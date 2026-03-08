@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll first review the form's purpose and content to ensure I provide the most accurate and helpful guide for the end-users. Based on the YAML fields, this form appears to be for collecting personal and policy information from individuals applying for life insurance. It seems to be a comprehensive form that captures essential details such as name, contact information, medical history, policy specifics, and more.</thinking>
-
 # Life Insurance Declaration Form - Help Guide
 
 ## Purpose

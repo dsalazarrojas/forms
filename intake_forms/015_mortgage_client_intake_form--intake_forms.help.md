@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a mortgage client for a lender or financial institution. It includes fields for the client's name, occupation, income, property type, property value, property location, contact information, loan status, loan amount, loan term, and other relevant details. It also has fields for client and lender signatures, as well as fields for notes and comments. The form is meant to be completed by the client, and the lender will use the information collected to assess the client's loan application.
-Before starting this form, make sure that you are not duplicating an existing record or form. If you are unsure, please contact the relevant department or team to check if a similar record already exists.
-</thinking>
-
 # Mortgage Client Intake Form - Help Guide
 
 ## Purpose

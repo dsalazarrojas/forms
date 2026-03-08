@@ -1,5 +1,3 @@
-<thinking>Is this form for collecting information from insurance applicants? If so, it is likely used in the context of getting quotes for truck insurance. I'm assuming the form is used to gather demographic information about the applicant. I'll design the help guide based on this assumption.</thinking>
-
 # Truck Quote Form Long - Help Guide
 ## Purpose
 This form is used to collect information from truck drivers or owners to provide a quote for truck insurance. Please fill out the form with your personal details to receive an estimate of your insurance costs.

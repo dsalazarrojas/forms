@@ -1,11 +1,3 @@
-<thinking>
-To create a help guide for the "University Campus Facility Inquiry Form", we need to consider the purpose of the form, how to complete it, and what each field means for end-users.
-- The purpose of this form is to gather information about facilities on a university campus.
-- The form is likely used by campus staff or students to inquire about specific facilities, such as maintenance or repair issues, or to gather information about facility services.
-- It's likely that users will be submitting this form to request help or support from campus services.
-- To avoid duplication, it's essential to ensure that users only submit relevant and accurate information.
-</thinking>
-
 # University Campus Facility Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information about facilities on a university campus. It's used to request help or support from campus services.

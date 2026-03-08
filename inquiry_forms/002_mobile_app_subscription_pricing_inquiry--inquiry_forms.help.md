@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and inquiry about the mobile app subscription pricing from end-users. It is intended for internal use and should not be filled out by external parties without explicit request from our team. The purpose of this form is to gather information about the user's preferences, billing cycles, price points, and payment methods.
-
-Before filling out this form, please note that the fields are mostly optional, and you can skip questions that don't apply to you. If you have any questions or concerns, feel free to reach out to our team.
-
-</thinking>
-
 # Mobile App Subscription Pricing Inquiry - Help Guide
 ## Purpose
 This form is designed to collect feedback and inquiry about the mobile app subscription pricing from end-users. It is intended for internal use and should not be filled out by external parties without explicit request from our team.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to declare travel movements within the organization. It is a mandatory form for certain employees who need to travel for work. This form is used by the management to track and monitor travel activities. Please note that this form is not intended for general travel plans or leisure trips. It should only be filled out for work-related travel.
-</thinking>
-
 # travel_movement_declaration_form - Help Guide
 ## Purpose
 The travel movement declaration form is used to document and track employee travel for work purposes. It is required for employees who need to travel for work-related activities.

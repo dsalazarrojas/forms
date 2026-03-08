@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from riders about their experience with the routing efficiency of a specific route. This form is meant to be completed by riders who have taken the route and want to share their thoughts on how well the route was managed. The form is used to gather information on various aspects of the route, including route efficiency, satisfaction level, and any delays that occurred during the trip.
-To ensure that the form is completed accurately and efficiently, please check that you have not already completed this form for the same route. If you have, please do not submit this form again.
-</thinking>
-
 # route_efficiency_rider_inquiry_form - Help Guide
 ## Purpose
 The form is designed to collect feedback from riders on the efficiency of a specific route.

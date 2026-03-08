@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students who want to file an insurance claim for medical expenses or other incidents. The form should only be filled out by students who have an existing insurance policy with the institution or organization providing this form. To avoid duplication, please ensure that you have not previously submitted a claim for the same incident.
-</thinking>
-
 # Student Insurance Claim Form - Help Guide
 ## Purpose
 This form is used to file an insurance claim for medical expenses or other incidents. Please fill out this form carefully and completely to help us process your claim efficiently.

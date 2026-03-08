@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Inbound Contact Center Intake Form" is designed to collect information from customers who are contacting the company for support or assistance. The form ensures that the customer's contact details and preferences are recorded accurately, allowing the customer service representative to address their queries efficiently.
-
-Before completing the form, please ensure that you're not duplicating any existing contact, as this may cause delays or confusion in processing your request. If you're unsure, please check with the customer service team to confirm if a previous contact exists.
-
-</thinking>
-
 # Inbound Contact Center Intake Form - Help Guide
 ## Purpose
 The Inbound Contact Center Intake Form is designed to collect customer contact information and preferences for efficient processing by customer service representatives.

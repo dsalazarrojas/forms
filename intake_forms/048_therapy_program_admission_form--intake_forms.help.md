@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to admit clients to a therapy program. The purpose of this form is to collect information from clients that will be used by the therapy team to understand the client's needs and provide appropriate support. 
-
-The form will only be filled out once per client, and it is essential to fill it out accurately to avoid duplication of effort and to ensure that the therapy team has the necessary information to provide the best possible care for the client.
-
-Before starting, please ensure that you have all the necessary information and that you are filling out the form for the correct client.
-
-</thinking>
-
 # Therapy Program Admission Form - Help Guide
 ## Purpose
 The Therapy Program Admission Form is used to collect information from clients that will be used by the therapy team to provide personalized support and care.

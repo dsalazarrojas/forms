@@ -1,5 +1,3 @@
-<thinking>As the form creator, I have designed this Animal Shelter Digital Platform Registration Form to gather essential information from users who wish to register on our platform. This form will guide users through the registration process, helping them to provide accurate and complete information. Please review the form carefully to ensure you understand each field and what is required for a successful submission.</thinking>
-
 # Animal Shelter Digital Platform Registration Form - Help Guide
 ## Purpose
 The Animal Shelter Digital Platform Registration Form is designed to collect information from users who wish to register on our platform. This includes adopters, foster parents, volunteers, donors, service providers, partner organizations, and staff members. The form will help us understand your needs and preferences, ensuring a smooth and personalized experience on our platform.

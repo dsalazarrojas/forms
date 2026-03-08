@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by employees to assess and mitigate insider risk, which refers to the risk of individuals within the organization causing harm or unauthorized access to sensitive information. To ensure that the form is being used correctly and efficiently, it's essential to follow the instructions carefully. Before starting, please take a moment to review this guide.
-</thinking>
-
 # Insider Risk Mitigation Assessment - Help Guide
 ## Purpose
 The Insider Risk Mitigation Assessment form helps employees identify and document potential insider risks within the organization. It's designed to gather information on incidents, threats, and controls that can help mitigate these risks.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about properties that they are inquiring about. This form is intended to gather details about the type of property, location, and contact information of the user making the inquiry. The form is likely used by real estate agents or property managers to gather information about potential clients or customers.
-
-Before filling out this form, please check that you are not duplicating an existing inquiry by checking with the form administrators or searching for similar forms in the system.
-</thinking>
-
 # Property Inquiry Form - Help Guide
 ## Purpose
 The Property Inquiry Form is designed to collect information from users about properties they are inquiring about.

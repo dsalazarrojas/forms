@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this Adult Inquiry Form is to gather information from adult individuals who are seeking assistance or have specific questions about our organization's services, programs, or resources. By filling out this form, you'll be able to communicate your needs and receive the necessary help in a more efficient and personalized manner. Please ensure you're filling out this form for the first time to avoid duplication of effort.
-</thinking>
 # Adult Inquiry Form - Help Guide
 ## Purpose
 The Adult Inquiry Form is designed to collect information from adult individuals who are seeking assistance or have specific questions about our organization's services, programs, or resources. This form helps us understand your needs and provide you with the most suitable support.

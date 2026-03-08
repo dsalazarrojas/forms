@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's wills-related details. The purpose of this form is to provide a comprehensive understanding of the client's circumstances to inform the creation of a will. The form may be used by legal professionals or administrative staff to gather the necessary information from the client before creating or updating a will.
-</thinking>
-
 # Wills Information Collection Form - Help Guide
 ## Purpose
 The Wills Information Collection Form is a crucial document used to gather information about a client's wills-related details. This form is essential in ensuring that the client's wishes are accurately reflected in the will, and that the legal process is completed efficiently and effectively.

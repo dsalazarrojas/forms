@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-This form is for creating a call request from customers or users to inquire about a product or service. We need to ensure that the form is filled out correctly to gather relevant information and provide accurate support. To avoid duplicate calls, please check if the same inquiry is already being processed before submitting this form.
-</thinking>
-
 # Inquiry Call Request Form - Help Guide
 ## Purpose
 The Inquiry Call Request Form is used to gather information about a customer's inquiry, allowing our team to provide accurate support and address their questions or concerns. Fill out this form to initiate a call and get in touch with our support team.

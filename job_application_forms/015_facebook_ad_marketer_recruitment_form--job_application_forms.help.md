@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for recruiting new Facebook Ad Marketers to the team. Before you start, please ensure that you have reviewed our job openings and that this form is relevant to your interests and qualifications. If you've already applied to a similar job opening, please do not submit another application using this form. Your cooperation is greatly appreciated.
-
-Please note that some fields might have specific instructions or requirements that need to be followed carefully to ensure a smooth and successful application process.
-
-</thinking>
-
 # Facebook Ad Marketer Recruitment Form - Help Guide
 ## Purpose
 This form is designed to help us find the right candidate for our Facebook Ad Marketer position. It collects information about your job experience, preferences, and availability to match you with the best possible job opportunity.

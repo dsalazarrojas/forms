@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine the form's purpose and relevant fields for this form, I will be considering the provided YAML input schema. The form appears to be an Insurance Policy Delivery Form, used for delivering insurance policies to customers. The fields included in the form suggest that it is meant to collect customer information such as name, contact information, and preferences for policy delivery.
 
 The form is divided into multiple pages, which implies that it is designed to be a multi-page form. The fields on the form include:

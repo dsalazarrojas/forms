@@ -1,11 +1,3 @@
-<thinking>
-The Solar Installation Scheduling Form is designed to be filled out by customers who are interested in scheduling an installation or service appointment for their solar system. The form asks for relevant information to ensure that the installation and servicing of the solar system is done efficiently and effectively.
-The form consists of the following pages:
-- Page 1: Customer information (Customer Name, Appointment Date, Appointment Time, Installation Address, Customer Phone, and Email)
-- Page 2: Appointment and Installation Details (Installation Type, Installation Size, Service Technician, and Installation Notes)
-This form is meant to be used for internal purposes only and will not be shared with external parties. It is not a public-facing form and should not be filled out by external individuals.
-</thinking>
-
 # Solar Installation Scheduling Form - Help Guide
 ## Purpose
 The Solar Installation Scheduling Form is a tool used to collect relevant information from customers to schedule an installation or service appointment for their solar system. The form is designed to be filled out by customers to ensure that the installation and servicing of the solar system is done efficiently and effectively.

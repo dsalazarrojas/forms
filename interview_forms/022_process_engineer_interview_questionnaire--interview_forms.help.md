@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from process engineers to better understand their skills and experience. The purpose of the form is to identify potential candidates for a process engineer position. It includes fields for collecting basic contact information and evaluating their experience and skills.
-
-To ensure that we get accurate and relevant responses, please only fill out this form if you are a process engineer or have experience in related fields. Additionally, please note that we will review each submission carefully to avoid duplication of responses.
-
-</thinking>
-
 # process_engineer_interview_questionnaire - Help Guide
 ## Purpose
 The process engineer interview questionnaire is a form designed to collect information from process engineers for evaluation and assessment. It is intended to help us understand their skills and experience.

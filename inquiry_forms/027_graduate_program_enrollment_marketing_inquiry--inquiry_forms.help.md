@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from prospective students about their interest in enrolling in a graduate program. This form will be used for marketing purposes, to gauge interest and gather contact information from potential students. It's essential to ensure that the information is accurate and up-to-date, so please do not fill out this form if you are not genuinely interested in the graduate program or if you have already submitted a similar inquiry.
-</thinking>
-
 # graduate_program_enrollment_marketing_inquiry - Help Guide
 ## Purpose
 This form is for collecting information from prospective students about their interest in a graduate program. The form will help us understand your interest and preferences to better guide you through the enrollment process.

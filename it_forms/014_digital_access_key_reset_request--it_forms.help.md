@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request a reset of a digital access key for users who have forgotten or lost their access credentials. The form ensures that users can provide necessary information for the IT team to verify their identity and reset their access keys. 
-
-Before filling out this form, please ensure that you are the rightful owner of the access key being requested, and that it has not been previously resolved or reset. 
-
-This form will only be processed for unique and valid requests. If you have already submitted a request for this access key, please do not submit another form.
-
-</thinking>
-
 # Digital Access Key Reset Request - Help Guide
 
 ## Purpose

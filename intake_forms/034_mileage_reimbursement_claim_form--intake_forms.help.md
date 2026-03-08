@@ -1,5 +1,3 @@
-<thinking> This form is designed to be filled out by employees to claim reimbursement for mileage expenses. The form will be reviewed and approved by a designated person in the company. The form does not have to be filled out by all employees, only those who have eligible expenses. The form is not intended to be filled out by non-employees. The form will not be used for non-expense claims, such as personal vehicle use not related to work. </thinking>
-
 # Mileage Reimbursement Claim Form - Help Guide
 ## Purpose
 This form is used to claim reimbursement for mileage expenses. Please fill out this form accurately and honestly to ensure a smooth approval process.

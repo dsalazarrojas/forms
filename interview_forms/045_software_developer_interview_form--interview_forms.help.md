@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for software developers who wish to apply for an interview. The form is used to collect information from applicants, and its purpose is to gather relevant details that will help the hiring process. To ensure that the form is not used for other purposes, let's review the YAML fields carefully. We will output a help guide that covers the form's purpose, how to complete it, and a detailed explanation of each field. The fields provided are mainly for collecting contact information and relevant work-related details.</thinking>
-
 # Software Developer Interview Form - Help Guide
 ## Purpose
 The Software Developer Interview Form is a collection of questions and fields to help us better understand your qualifications and interests for the software developer position. Please fill in the form accurately to ensure a smooth and efficient process.

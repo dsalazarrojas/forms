@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the form is used correctly and only once. If a user has already completed this form, a message should be displayed indicating that the form has already been completed and a link to review their previous answers. If the form is not completed for a new user, let's get started on creating the user-facing help guide!
-</thinking>
-
 # database_skills_assessment - Help Guide
 ## Purpose
 The "database_skills_assessment" form is an evaluation tool to assess a user's familiarity with different skills related to databases, including database administration, development, design, and more. It aims to help identify areas where a user may need further training or guidance.

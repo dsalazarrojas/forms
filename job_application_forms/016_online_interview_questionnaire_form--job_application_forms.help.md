@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who have applied for a job position through an online interview. The purpose of this form is to gather relevant details about the applicant, including their personal information, job title, experience, and availability. By filling out this form, applicants can demonstrate their interest and eligibility for the position. Please ensure that you are completing this form for the correct purpose and that your responses are accurate and up-to-date.
-</thinking>
-
 # online_interview_questionnaire_form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who have applied for a job position through an online interview.

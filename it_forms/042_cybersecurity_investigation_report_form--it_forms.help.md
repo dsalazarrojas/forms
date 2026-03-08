@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to gather information about cybersecurity incidents. This form is used to report and document incidents that have occurred or are ongoing. It is intended for use by employees, IT staff, or other individuals who need to report and track cybersecurity incidents. The form is meant to be completed by anyone who has knowledge of an incident, and it is essential to fill out all required fields to ensure accurate and thorough reporting.
-
-</thinking>
-
 # Cybersecurity Investigation Report Form - Help Guide
 ## Purpose
 The Cybersecurity Investigation Report Form is used to gather information about cybersecurity incidents. It helps us to quickly report and document incidents, which enables the team to identify, assess, and respond to these incidents effectively.

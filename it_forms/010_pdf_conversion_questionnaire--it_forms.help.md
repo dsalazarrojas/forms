@@ -1,7 +1,3 @@
-<thinking>
-The form's primary purpose is to guide users through the process of converting PDF files. Before filling out this form, please ensure you have a clear understanding of what you want to achieve through the PDF conversion process. This form is not intended for users who want to convert multiple PDFs at once; if you need to convert multiple PDFs, please refer to [another form/section]. Additionally, please ensure that you have all the necessary permissions and access rights to complete this form.
-</thinking>
-
 # PDF Conversion Questionnaire - Help Guide
 ## Purpose
 This form is designed to help users convert PDF files by providing essential information about their conversion needs.

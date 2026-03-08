@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Chatbot Integration Registration Form - Help Guide
 ## Purpose
 This form is designed for retailers and developers to register their chatbot integration projects. It collects information about the project, contact details, and integration requirements. Please use this form to submit your project for review and approval.

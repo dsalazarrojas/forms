@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying for an archaeologist position. The form is intended for candidates who are interested in working in the field of archaeology. It collects personal contact information, education and credentials, professional experience, and technical skills relevant to the position. The form is divided into several sections, including personal information, education and credentials, professional experience, and technical skills. It is essential to fill in all the required fields to increase the chances of being considered for the position.
-
-This form will not be used to collect duplicate applications. If you have already applied for this position, please do not submit another application.
-
-</thinking>
-
 # Archaeologist Job Application Form - Help Guide
 ## Purpose
 

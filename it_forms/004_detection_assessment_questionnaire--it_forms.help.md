@@ -1,8 +1,3 @@
-<thinking>
-This form is a detection assessment questionnaire designed to collect information from users on a specific topic or industry. The form is composed of three main pages, each with its own unique characteristics and field requirements. 
-The purpose of this form is to gather detailed answers from users on the topic at hand, likely for research, analysis, or other purposes. To ensure the form's relevance and non-duplication, it is essential to understand its context and application correctly.
-</thinking>
-
 # Detection Assessment Questionnaire - Help Guide
 ## Purpose
 The Detection Assessment Questionnaire is a comprehensive form designed to collect user responses on a specific topic or industry. It is meant to gather detailed answers for research, analysis, or other purposes.

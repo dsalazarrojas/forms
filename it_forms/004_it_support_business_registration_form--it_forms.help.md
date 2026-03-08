@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering business support requests. It collects information about the business, including contact person, phone number, email, and address. The form also includes fields for submission date and time, status, and other metadata. The form is designed to be completed by businesses seeking support from our organization. It's intended to capture all relevant information about the business and their support requests in a structured and efficient manner.
-</thinking>
-
 # it_support_business_registration_form - Help Guide
 ## Purpose
 The form is for businesses to register their support requests with our organization.

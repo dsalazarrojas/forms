@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for this form to ensure end-users understand its purpose, how to complete it, and each field's meaning.</thinking>
-
 # Policy Cancellation Form - Help Guide
 ## Purpose
 The Policy Cancellation Form is a document used to request cancellation of a policy. This form is used by policy holders to notify the company of their intent to cancel their policy. It helps to gather essential information for a smooth cancellation process.

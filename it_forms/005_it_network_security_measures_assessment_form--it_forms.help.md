@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to assess the IT network security measures in place, which includes various aspects such as network controls, security measures, incident response plans, and teams. It is crucial to have a thorough understanding of the current state of IT network security to identify potential vulnerabilities and take necessary measures to mitigate them. This form aims to gather information on the different aspects of IT network security, including the types of network controls, security measures, incident response plans, and teams in place.
-
-</thinking>
-
 # IT Network Security Measures Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the current state of IT network security measures, including network controls, security measures, incident response plans, and teams.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's employment history, including their name, email, phone number, employment start and end dates, and educational background. This form is likely used in a hiring or onboarding process where an individual's employment details need to be recorded in a centralized system. To avoid duplicate submissions, make sure to fill out the form completely and accurately.
-</thinking>
-
 # Employment Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about an individual's employment history.

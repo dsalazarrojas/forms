@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to gather information on the comparison of data security standards. It seems to be relevant to the context of IT security and risk assessment. To avoid duplication, it's essential to ensure that the form is filled out for a specific purpose and context, such as a risk assessment or security audit. The form may be used to collect data on various aspects of data security, including standards, risk factors, recommendations, and evaluations. The goal is to provide a systematic way to compare and analyze data security standards.</thinking>
-
 # Data Security Standards Comparison - Help Guide
 ## Purpose
 This form is used to collect and compare data security standards and risk factors. It helps to identify potential risks and make informed decisions about data security.

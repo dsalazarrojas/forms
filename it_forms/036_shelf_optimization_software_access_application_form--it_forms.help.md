@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information for the shelf optimization software access application. It is intended for users who need to request access to the software. The fields are organized in a logical order to guide the user through the process. The required fields are indicated by an asterisk (*) after the label. The form is meant to be completed by the user, but it is also used by the software access manager to track the access status of the software. This form is used for both the request and management of software access. The fields should match the information in the software access management system. 
-</thinking>
-
 # Shelf Optimization Software Access Application Form - Help Guide
 ## Purpose
 This form is used for requesting and managing software access. It provides a standardized way of collecting and tracking information related to software access.

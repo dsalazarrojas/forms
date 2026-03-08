@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from buyers to determine their needs and preferences for a home purchase. This form will be used to understand their requirements for a home, including location, budget, timeline, and features. It will also help in pre-screening the buyer for mortgage and other loan requirements. The goal is to provide a comprehensive understanding of the buyer's situation to facilitate the home buying process.
-</thinking>
-
 # Buyer Intake Form - Help Guide
 ## Purpose
 The Buyer Intake Form is a crucial tool used by real estate professionals to gather essential information about potential buyers. This form helps in creating a personalized experience by understanding the buyer's needs, preferences, and requirements for a home purchase.

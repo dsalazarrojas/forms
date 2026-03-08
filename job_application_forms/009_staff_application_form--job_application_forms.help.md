@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about job applicants for staff positions within the organization. To ensure that the form is completed correctly, please do not submit multiple applications for the same position. This form is intended for new applications only, and you should not reapply for the same job position if you have already submitted an application.
-</thinking>
-
 # Staff Application Form - Help Guide
 ## Purpose
 The Staff Application Form is designed to collect essential information from job applicants for staff positions within the organization. Please provide accurate and complete information to help us assess your qualifications and fit for the job.

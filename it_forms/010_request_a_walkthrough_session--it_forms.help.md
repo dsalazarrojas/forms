@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Request A Walkthrough Session - Help Guide
 ## Purpose
 The purpose of this form is to request a walkthrough session for a customer. The walkthrough session allows our team to guide a customer through a specific process or task, providing personalized assistance and support. This form is meant for customers who require additional guidance or have questions about a particular process or task.

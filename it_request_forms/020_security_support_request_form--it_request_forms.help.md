@@ -1,10 +1,3 @@
-<thinking>
-Internal purpose of the form: This form is designed to collect information regarding incidents or issues that may affect security. This includes details about the incident, the status it's in, and other relevant information that the security team should be aware of. 
-This form should be filled out only once for each incident, and if the user has already submitted a form for a similar incident, it would be best not to fill out this form again, as it would be considered a duplicate.
-
-The form will be reviewed and action will be taken accordingly.
-</thinking>
-
 # Security Support Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about security incidents or issues that you would like the security team to be aware of.

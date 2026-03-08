@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect data about the health status of trees. The purpose of this form is to gather information on various aspects of the tree's health, including its current health status, the date of the last inspection, the time of the inspection, and any reported problems. This form will help users to track and record the tree's health status over time, allowing for easier monitoring and maintenance of tree health.
-
-Before filling out this form, please ensure that you have the necessary information to answer each question accurately. The form will ask for multiple selections, dates, times, and descriptions of problems. Please select "Healthy" only if the tree is indeed healthy; select "Diseased" or "Dead" if it's not. If the tree is unknown, you can select "Unknown" for the health status.
-
-Please note that the form requires the current date of the last inspection and the time of inspection, indicating that these fields are crucial for tracking and recording. Additionally, the "reported problem" field is for describing any issue found on the tree, and the "description of the problem" field is for providing a detailed explanation of the issue.
-
-Before starting to fill the form, please review each field carefully and ensure that you answer each question accurately and completely.
-
-</thinking>
-
 # tree_health_inspection_form - Help Guide
 ## Purpose
 The tree health inspection form is designed to collect information on various aspects of a tree's health status. This form is used to track and record the tree's health over time.

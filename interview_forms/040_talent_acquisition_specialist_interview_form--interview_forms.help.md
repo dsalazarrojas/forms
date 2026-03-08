@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is completed correctly and effectively, the Talent Acquisition Specialist Interview Form is designed to gather essential information about candidates. This form is used to collect data on candidate information, work experience, skills, education, feedback, contact information, candidate preferences, interview details, and other relevant details. Please ensure that the form is filled out accurately and thoroughly, without duplication of efforts, to avoid unnecessary processing time and potential errors. If you are unsure about any section, refer to this help guide for guidance.
-</thinking>
-
 # Talent Acquisition Specialist Interview Form - Help Guide
 
 ## Purpose

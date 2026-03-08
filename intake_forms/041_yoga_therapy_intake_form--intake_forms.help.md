@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for a yoga therapy intake process. The fields in this form are meant to gather relevant data to understand the client's medical history, contact information, emergency contact, health information, and payment details. 
-The purpose of this form is to ensure that all necessary information is collected for a comprehensive understanding of the client's needs and medical history. This form will help the healthcare professional to prepare for the therapy session and provide the best possible service. 
-Please make sure to fill out the form accurately and completely to ensure a smooth and effective therapy process. If any field is not relevant to you, please fill in "N/A" or "Not Applicable." 
-</thinking>
-
 # yoga_therapy_intake_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients for a comprehensive understanding of their medical history, contact information, and other relevant details for a smooth and effective yoga therapy session.

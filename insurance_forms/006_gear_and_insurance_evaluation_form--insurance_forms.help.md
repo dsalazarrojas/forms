@@ -1,11 +1,3 @@
-<thinking>
-To determine if the form is relevant and not a duplication, we must consider the purpose and content of the "Gear and Insurance Evaluation Form". This form appears to be used for evaluating or managing insurance policies related to equipment or gear. It may be used in industries such as manufacturing, construction, or equipment rental businesses. 
-
-The form has several fields that require user input, including user identification, equipment information, insurance provider details, coverage dates, and policy details. The required fields are "Equipment Type", "Equipment Condition", and potentially "Policy Number" if it's being used for policy management.
-
-This form does not appear to be a duplicate of another form, and it seems to be a specific, focused form for equipment-related insurance purposes.
-</thinking>
-
 # Gear And Insurance Evaluation Form - Help Guide
 ## Purpose
 This form is used for evaluating or managing insurance policies related to equipment or gear.

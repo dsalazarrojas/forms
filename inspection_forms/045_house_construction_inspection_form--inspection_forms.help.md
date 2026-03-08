@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a house's construction status and inspection details. It's essential for inspectors to accurately document their findings, which can help ensure the construction process is progressing as expected. This form should only be used for house construction inspections, and it's crucial to complete it thoroughly for accurate and reliable inspection data.
-</thinking>
-
 # House Construction Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about a house's construction status and inspection details.

@@ -1,10 +1,3 @@
-<thinking>
-We're creating a help guide for the "home_insurance_information_form" form. This form is used to collect information from users who are applying for home insurance. The form is split into different fields that cover various aspects of home insurance, such as address, contact details, insurance type, property value, and policy holder information. Our goal is to provide a clear and concise guide for end-users to understand the purpose and usage of each field, making it easier for them to fill out the form accurately and efficiently.
-
-This form is primarily used for home insurance purposes, so it's essential to ensure that users understand what information is being collected and how it will be used. The address field is used to gather the user's home address, which is a critical piece of information for the insurance provider. The zip code field is also required, as it helps the insurance company to verify the user's location. The phone number, email, and insurance type fields are used to communicate with the user and understand their insurance needs. The Square Footage and Home Value fields are used to determine the type and value of the insured property. The Mortgage Info field is optional, but it helps the insurance company to understand if the user has a mortgage on the property. The Insurance Provider field is used to select the insurance company the user wants to work with, and the Policy Holder field is used to determine who the policy is for. The Policy Holder Relationship field is used to specify the relationship between the policy holder and the insured. The Additional Info field is an open-ended field where users can provide any additional information they feel is relevant to their insurance application.
-
-</thinking>
-
 # home_insurance_information_form - Help Guide
 ## Purpose
 This form is used to collect information from users who are applying for home insurance.

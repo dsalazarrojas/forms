@@ -1,8 +1,3 @@
-<thinking>
-The form is likely used by potential customers or partners to express interest or inquire about a drop shipping business or partnership opportunity, seeking more information or requesting to be included in a drop shipping program.
-The form is designed to collect contact information and other relevant details from the inquirers. To avoid duplication and non-relevant inquiries, it's essential to ensure that the inquirers understand the form's purpose and the required fields.
-</thinking>
-
 # Franchise Drop Shipping Inquiry - Help Guide
 ## Purpose
 The Franchise Drop Shipping Inquiry form is designed for potential customers or partners to express interest or inquire about a drop shipping business or partnership opportunity. This form is used to collect contact information and other relevant details from the inquirers.

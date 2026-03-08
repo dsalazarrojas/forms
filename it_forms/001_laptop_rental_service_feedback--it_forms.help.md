@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback from customers on their overall experience with the laptop rental service. This form aims to understand the customer's satisfaction with the service, specifically regarding the condition of the laptop, the quality of support received, and their overall experience. It also allows customers to provide any additional comments they may have.
 
 ## Laptop Rental Service Feedback - Help Guide

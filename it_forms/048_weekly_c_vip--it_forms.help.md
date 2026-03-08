@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for collecting user input for weekly C-vip (Community Volunteer Incentive Program) activities. The form may be used for various purposes such as recording participant details, tracking progress, or sending reminders. To ensure that this form is being used correctly, we'll review each field and provide guidance on how to complete it.
-
-
-</thinking>
-
 # Weekly C-Vip - Help Guide
 ## Purpose
 The purpose of this form is to collect user input for the weekly C-vip (Community Volunteer Incentive Program) activities.

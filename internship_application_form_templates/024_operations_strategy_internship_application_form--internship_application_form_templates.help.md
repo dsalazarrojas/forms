@@ -1,16 +1,3 @@
-<thinking>
-This is a form designed for interns who are applying for an internship at our company. The form should only be completed by individuals who are interested in the internship program and have the necessary qualifications to be considered for the position. 
-
-Before proceeding, please note that you will need to submit your resume and other required documents as attachments. 
-
-The form is split into multiple sections, each with its own set of questions. 
-
-Please fill out this form carefully and thoroughly, and submit it to the relevant department for review and consideration. 
-
-Please do not submit duplicate applications for the same internship position. 
-
-</thinking>
-
 # operations_strategy_internship_application_form - Help Guide
 ## Purpose
 The operations strategy internship application form is a tool for candidates to apply for an internship position at our company. It is intended to gather relevant information about the candidate's qualifications, experience, and availability to work with our team.

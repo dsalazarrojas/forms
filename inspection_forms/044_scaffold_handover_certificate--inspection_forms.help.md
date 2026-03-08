@@ -1,9 +1,3 @@
-<thinking>
-This form is used to certify that the scaffolding process has been completed on a construction site. The form is intended for site managers and inspectors to record important details about the scaffolding, including whether it is complete, the start date, type and location, and other relevant details. The purpose of this form is to ensure that the scaffolding is properly handed over to the site manager after it has been checked and inspected. It is likely used in a construction or civil engineering context where scaffolding is a critical part of the construction process.
-
-To avoid duplication, ensure that the site manager has checked the scaffolding before completing this form, and that the inspection has been carried out according to standard procedures.
-</thinking>
-
 # Scaffold Handover Certificate - Help Guide
 ## Purpose
 This form is used to certify that the scaffolding process has been completed on a construction site.

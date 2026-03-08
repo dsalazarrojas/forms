@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a walkability audit, which is an assessment of a property's or campus's accessibility for people with mobility impairments. This audit is typically conducted to identify areas that need improvement in order to make the property more accessible and user-friendly. The form is used to gather information about the walkability of a specific property or campus, and the user is expected to review the provided options and select all that apply in each section.
-</thinking>
-
 # Walkability Audit Checklist - Help Guide
 ## Purpose
 The purpose of this form is to conduct a walkability audit, which is an assessment of a property's or campus's accessibility for people with mobility impairments.

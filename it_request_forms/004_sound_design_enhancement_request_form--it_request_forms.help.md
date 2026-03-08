@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect sound design enhancement requests from users, which will be used to improve the overall audio quality and user experience in the project. To prevent duplication and ensure that the form is filled out correctly, please review the form carefully and make sure to answer each question accurately and thoroughly. Please note that the form is divided into several sections, each focusing on different aspects of the sound design enhancement request. Before proceeding, make sure you have a clear understanding of your needs and requirements for the project.
-</thinking>
-
 # Sound Design Enhancement Request Form - Help Guide
 ## Purpose
 The Sound Design Enhancement Request Form is a tool used to gather information for sound design enhancement requests. It is designed to help us understand your needs and requirements for the project.

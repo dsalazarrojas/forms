@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Heating System Filling Checklist - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to report errors that have occurred on the system. 
-To prevent non-duplication, the form will only allow one error report per issue per day. 
-Before filling out this form, please ensure that you have not already submitted a report for the same issue on the same day. 
-</thinking>
-
 # Error Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about errors that have occurred on the system. It is used to help identify and resolve issues in a timely and effective manner.

@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be designed for insurance agents to collect information related to mesothelioma claims. The form likely aims to gather essential details about the claimant, including their personal and medical history, to assess and process the claim. It's crucial to ensure this form is not used for other purposes to avoid duplicating effort or collecting irrelevant data. This guide will help users understand the form's purpose and usage.
-</thinking>
-
 # Mesothelioma Claim Form - Help Guide
 ## Purpose
 The Mesothelioma Claim Form is designed for insurance agents to collect relevant information about mesothelioma claims. This form helps to gather essential details about the claimant, including their personal and medical history, to assess and process the claim.

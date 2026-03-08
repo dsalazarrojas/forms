@@ -1,12 +1,3 @@
-<thinking>
-This form is used for gathering feedback from faculty members regarding their evaluation of a student's performance. The form aims to collect data on whether the faculty member has interviewed the student, their evaluation of the student's score, rank, and other relevant details. This form should not be used for duplicate evaluations, as it is intended for unique evaluations. If you have already submitted an evaluation for this student, please do not submit another evaluation. 
-
-This form is designed to be filled out by a faculty member after conducting an interview with a student. It includes fields for selecting whether the faculty member has interviewed the student, evaluating the student's performance, and submitting their comments and review status. The form also includes fields for the faculty member's name, department, and location. 
-
-Before filling out this form, please ensure you have already conducted an interview with the student and are submitting a unique evaluation. 
-
-</thinking>
-
 # Education Faculty Interview Form - Help Guide
 ## Purpose
 The Education Faculty Interview Form is used to collect feedback from faculty members regarding a student's performance after an interview.

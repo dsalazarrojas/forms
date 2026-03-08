@@ -1,7 +1,3 @@
-<thinking>
-...the form is intended to collect inspection data for vehicle quality control, likely for automotive manufacturing or maintenance purposes. The form may be used to track inspection results, identify issues, and provide notes for further action. To avoid duplication, ensure that each vehicle has a unique inspection record. This form should only be used for vehicles with a valid inspection status, i.e., "Active". This guide provides a step-by-step explanation of the form's purpose and fields.
-</thinking>
-
 # Quality Control Inspection Form - Help Guide
 ## Purpose
 The Quality Control Inspection Form is designed to collect data on vehicle inspections for quality control purposes. This form will help you track inspection results, identify potential issues, and provide notes for further action.

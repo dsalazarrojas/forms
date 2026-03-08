@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from software users, likely for product development, research, or customer support purposes. This form may be used by a software company to gather information about their customers' experiences, needs, and preferences. The form's content and design should be tailored to elicit relevant and useful feedback from users, taking into account the specific goals and requirements of the software company.
-To avoid duplication and ensure that the form is filled out correctly, it's essential to understand the form's purpose and requirements before completing it. This guide will walk you through each field in the form, helping you fill it out accurately and efficiently.
-</thinking>
-
 # Software Survey Form - Help Guide
 ## Purpose
 This form is designed to collect information about your experience with software, providing valuable feedback to software companies. Your input will help them improve their products and services, making them more user-friendly and effective.

@@ -1,7 +1,3 @@
-<thinking>
-This form, "server_health_checklist_form", is used to collect information about a server's health status. This form is likely related to server monitoring and management tasks, and is not for user registration or account information collection. The server's performance, status, version, and resource utilization are likely the focus of this form. It might be used by IT teams or server administrators to gather relevant data for monitoring or troubleshooting purposes. It should only be used internally for server management and not shared publicly without proper security and access controls in place.
-</thinking>
-
 # server_health_checklist_form - Help Guide
 ## Purpose
 The server health checklist form is used to collect information about a server's health status, performance, and resource utilization.

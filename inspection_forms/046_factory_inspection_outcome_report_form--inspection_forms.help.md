@@ -1,12 +1,3 @@
-<thinking>
-This form is meant to document the outcome of a factory inspection, collecting relevant information for quality control and regulatory purposes. To ensure the form is used correctly, please make sure to only fill it out after an inspection has taken place. It's also essential to double-check the facility ID and inspection date to ensure accuracy. 
-
-Please do not fill this form out for every single inspection; only submit the form when the inspection outcome is available. This will help maintain a clear and organized record of inspection outcomes. 
-
-Before proceeding, ensure you have the following information readily available: the Facility ID, the Inspector ID, and the inspection date. 
-
-</thinking>
-
 # Factory Inspection Outcome Report Form - Help Guide
 ## Purpose
 This form is used to document the outcome of a factory inspection, collecting relevant information for quality control and regulatory purposes. It is essential to fill out this form accurately to ensure a proper record of inspection outcomes.

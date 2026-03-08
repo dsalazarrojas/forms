@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Criminal Defense Consultation Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients seeking consultation on criminal defense matters. It is intended to provide the consultant with a comprehensive understanding of the client's case and circumstances.

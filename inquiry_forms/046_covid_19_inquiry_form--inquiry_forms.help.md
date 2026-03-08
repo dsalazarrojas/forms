@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from individuals or organizations seeking support or guidance related to COVID-19. The form is designed to gather relevant details such as name, email, phone number, organization (if applicable), and other essential information to effectively address their inquiry.
-To ensure that the information collected is accurate and up-to-date, we have implemented checks to prevent duplicate inquiries and ensure that each field is filled out correctly.
-</thinking>
-
 # COVID 19 Inquiry Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals or organizations seeking support or guidance related to COVID-19.

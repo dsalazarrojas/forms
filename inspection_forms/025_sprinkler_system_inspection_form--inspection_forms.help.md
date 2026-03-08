@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Sprinkler System Inspection Form", I need to understand the form's purpose and the fields it contains. Based on the provided YAML, the form appears to be for inspecting and reporting on the condition and status of a sprinkler system. It seems to be used for evaluating and documenting the safety and functionality of the sprinklers. The form likely serves as a tool for maintenance staff or inspectors to collect and record information on the status of each component of the sprinkler system and identify any potential issues or areas for improvement. 
-
-The form has a mix of single-select, multiple-select, text, note, and date fields. The fields are not necessarily redundant, and there's some overlap between the "system_condition" and "safety_standard_compliance" fields, but they could be considered distinct, with "system_condition" possibly describing the current status of the system, and "safety_standard_compliance" checking whether the system meets relevant safety standards. The "system_component_status" field allows for multiple selections, possibly indicating which parts of the system are functioning properly or need repair. The "notes" field can be used to provide any additional comments or observations about the inspection. The "assigned_inspector" fields seem to be for recording the name, phone number, and email of the staff member responsible for conducting the inspection.
-
-</thinking>
-
 # Sprinkler System Inspection Form - Help Guide
 ## Purpose
 The Sprinkler System Inspection Form is a tool for inspecting and reporting on the condition and status of a sprinkler system. It's used by maintenance staff or inspectors to collect and document information on the status of each component of the sprinkler system and identify any potential issues or areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess the maintenance status of office laptops. The form's purpose is to collect information on various aspects of laptop maintenance, such as battery life, RAM, processor, hard drive capacity, and other essential factors. This information can aid in making informed decisions about laptop upgrades, replacements, or overall device management. The form is intended for use by office employees to report on the maintenance status of their laptops, and the data collected will be used to track and analyze the overall maintenance situation across the office laptops.
-</thinking>
-
 # office_laptop_maintenance_quiz - Help Guide
 ## Purpose
 This form is designed to help office employees report on the maintenance status of their laptops.

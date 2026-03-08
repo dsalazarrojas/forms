@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 # Hospital Patient Visit Inquiry Form - Help Guide
 ## Purpose

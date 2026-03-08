@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to evaluate the performance of a medical science liaison during an interview. The form is designed to assess the individual's skills and knowledge in a specific field of medicine. The form is used to provide a quantitative evaluation of the interviewee's responses, allowing for a more objective assessment of their abilities. The evaluation is typically conducted by an evaluator who has experience in the field of medicine. The form is used to document the evaluation process and provide feedback to the interviewee.
-
-</thinking>
-
 # Medical Science Liaison Interview Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of a medical science liaison during an interview. The evaluation is used to assess the individual's skills and knowledge in a specific field of medicine.

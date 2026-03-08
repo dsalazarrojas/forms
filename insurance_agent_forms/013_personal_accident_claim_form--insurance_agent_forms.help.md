@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for collecting information from claimants who have experienced a personal accident. The goal is to gather relevant details about the accident, including the claimant's identity, accident details, and contact information. This form will be used by insurance agents to process claims and facilitate communication with the claimant. Please ensure that all required fields are completed accurately and thoroughly, as this information will be used to assess and process the claim.
-
-</thinking>
-
 # Personal Accident Claim Form - Help Guide
 ## Purpose
 The Personal Accident Claim Form is used to collect information from claimants who have experienced a personal accident. This form helps insurance agents to gather details about the claimant, the accident, and contact information.

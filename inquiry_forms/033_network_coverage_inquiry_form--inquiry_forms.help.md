@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about network coverage from users. It's used to ensure that users can submit their queries and concerns about network coverage in a structured manner. Before filling this form, please note that if you have submitted a similar inquiry recently, the system will prevent you from resubmitting. This is to prevent duplicate submissions and ensure that our team can efficiently manage and respond to your requests.
-</thinking>
-
 # Network Coverage Inquiry Form - Help Guide
 ## Purpose
 This form is designed to help you submit your inquiries and concerns about network coverage. Please fill out the form accurately and completely to ensure our team can assist you effectively.

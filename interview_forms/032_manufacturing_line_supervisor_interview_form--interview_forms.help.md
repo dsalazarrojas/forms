@@ -1,13 +1,3 @@
-<thinking>
-
-This form is likely used to assess the manufacturing line supervisor's performance, experience, and qualifications for their role. The purpose of this form is to gather information that can help in the evaluation and development of the supervisor's skills and areas where they might need additional training or support.
-
-The form appears to be a comprehensive assessment that covers various aspects of a manufacturing line supervisor's role, including their experience, skills, and performance. The fields on the form are likely used to gather specific information about the supervisor's background, work habits, and relationships with their team members.
-
-To prevent duplication and ensure accuracy, it's essential to review the form carefully and verify the information provided.
-
-</thinking>
-
 # Manufacturing Line Supervisor Interview Form - Help Guide
 ## Purpose
 

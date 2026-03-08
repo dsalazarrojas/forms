@@ -1,8 +1,3 @@
-<thinking>
-To avoid non-duplication of effort, let's first analyze the form and provide a brief internal explanation of its purpose and relevance.
-This form appears to be a comprehensive divorce inquiry form, likely used by law firms or legal professionals to collect information from clients about their divorce cases. It's crucial to ensure that the form is filled out accurately and consistently to avoid any potential issues or complications in the future. This form might be used for internal case management, billing, or other administrative purposes.
-</thinking>
-
 # Divorce Inquiry Form - Help Guide
 ## Purpose
 The Divorce Inquiry Form is a tool used to collect essential information from clients about their divorce cases, helping law firms or legal professionals to efficiently manage and process cases.

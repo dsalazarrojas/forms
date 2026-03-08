@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a client's medical and physical history, goals, and treatment plan for kinesiology purposes. This form is intended for clients who are seeking kinesiology services, such as physical therapy or rehabilitation. The information gathered from this form will be used by therapists to create a comprehensive treatment plan tailored to the client's specific needs.
-
-Before completing this form, please ensure that you have not previously submitted an intake form for the same client. This form is designed to collect essential information about the client's medical and physical history, goals, and treatment plan. Please answer all the questions accurately and thoroughly to ensure that the therapist has a complete understanding of the client's needs.
-
-</thinking>
-
 # Kinesiology Intake Form - Help Guide
 
 ## Purpose

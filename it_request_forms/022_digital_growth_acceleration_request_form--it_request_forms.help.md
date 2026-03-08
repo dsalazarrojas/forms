@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to collect information for Digital Growth Acceleration projects within the organization. This form will help the IT department to understand the project details, prioritize and schedule the projects accordingly.
-Please make sure to fill out this form accurately to ensure a smooth and efficient process for both the IT department and the project team. 
-Before filling out this form, ensure that you are not duplicating an existing project. 
-</thinking>
-
 # Digital Growth Acceleration Request Form - Help Guide
 ## Purpose
 The Digital Growth Acceleration Request Form is a tool for project teams and individuals to submit requests for new or ongoing projects aimed at driving digital growth within the organization. This form helps the IT department to track and prioritize these projects, ensuring that they are properly assessed, planned, and executed.

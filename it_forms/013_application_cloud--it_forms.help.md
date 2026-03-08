@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to report issues with cloud applications, providing details about the cloud service or product in question, the environment where the issue occurred, the severity of the issue, and steps to reproduce the issue. The form aims to gather information for engineering follow-up and resolution. To ensure relevance, please fill out the form only if you are experiencing issues with a cloud application.
-</thinking>
-
 # Application Cloud - Help Guide
 ## Purpose
 This form is for reporting issues with cloud applications, such as cloud services or products. The information collected will help our engineering team understand and resolve the issues you're experiencing.

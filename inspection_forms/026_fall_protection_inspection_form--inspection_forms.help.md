@@ -1,10 +1,3 @@
-<thinking>
-
-This form is designed to collect information for fall protection inspections. It is likely used in workplaces where employees are exposed to falls from heights, such as construction sites or office buildings with high-rise areas like stairways. The form is intended for use by safety personnel, facility managers, or compliance officers. It is crucial to have this form available to ensure that all safety measures are in place and employees are adequately protected.
-
-
-</thinking>
-
 # Fall Protection Inspection Form - Help Guide
 ## Purpose
 The Fall Protection Inspection Form is designed to help inspect and document fall protection equipment, training, and other relevant safety measures in place to protect employees from falls from heights.

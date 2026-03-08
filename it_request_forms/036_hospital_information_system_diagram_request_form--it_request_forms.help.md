@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from hospital staff about their diagram requests, such as details about the user making the request, the IT department involved, and the specific request itself. This form ensures that IT department can efficiently manage and fulfill these requests.
-</thinking>
-
 # Hospital Information System Diagram Request Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information for diagram requests made by hospital staff to the IT department. It is used to ensure that the IT department has the necessary data to process and fulfill the requests accurately and efficiently.

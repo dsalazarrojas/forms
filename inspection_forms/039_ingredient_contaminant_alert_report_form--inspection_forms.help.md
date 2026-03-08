@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to report any potential contaminants found in ingredients. The purpose of this form is for the end user to provide information about a specific ingredient that may be contaminated, including the type of contaminant, its severity, location, and any supporting photos or notes. This form should not be used for routine quality control testing or for reporting non-food-grade ingredients. Please only use this form for reporting potential contaminants that have been identified during the inspection process. If you are unsure about which form to use, please consult with the relevant authorities or contact our support team for guidance.</thinking>
-
 # Ingredient Contaminant Alert Report Form - Help Guide
 ## Purpose
 The purpose of this form is to report potential contaminants in ingredients to ensure their safety and quality.

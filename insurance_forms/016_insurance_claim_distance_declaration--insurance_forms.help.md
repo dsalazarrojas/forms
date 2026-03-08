@@ -1,8 +1,3 @@
-<thinking>
-We are generating an insurance claim distance declaration form to gather information about an insured’s travel-related activities. This form is meant to gather data that will help us better understand and handle insurance claims related to traveling. Please ensure that this form is being used for its intended purpose only and is not being misused or duplicated in any way.
-
-</thinking>
-
 # Insurance Claim Distance Declaration - Help Guide
 ## Purpose
 This form is used to declare distances traveled during insurance-related claims.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for the registration of process simulation software. The form will guide users through a step-by-step process to provide required and optional information for the registration process.
-The purpose of this form is to register process simulation software, which is a crucial step for the management and monitoring of software usage.
-</thinking>
-
 # process_simulation_software_registration - Help Guide
 ## Purpose
 This form is used to register process simulation software for management and monitoring.

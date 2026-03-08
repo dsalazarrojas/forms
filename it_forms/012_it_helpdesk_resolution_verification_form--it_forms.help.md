@@ -1,7 +1,3 @@
-<thinking>
-This form is used for verifying the resolution of IT issues reported to the helpdesk. The purpose of this form is to ensure that the reported issues are properly addressed and closed. To prevent duplication, please fill out this form only once for each resolved issue.
-</thinking>
-
 # IT Helpdesk Resolution Verification Form - Help Guide
 ## Purpose
 This form is used to verify the resolution of IT issues reported to the helpdesk. It helps ensure that issues are properly addressed and closed.

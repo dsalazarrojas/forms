@@ -1,6 +1,3 @@
-<thinking> 
-This form is likely used to configure the settings for screen auto-lock functionality in an application or system, allowing users to set specific settings for screen timeouts and exceptions. This form is probably used by IT or system administrators to manage the auto-lock settings for various devices or operating systems, depending on the selected options. It's essential to ensure that this form's settings are correctly configured to prevent unintended auto-locking of screens, which could lead to user frustration or inconvenience. Before proceeding, review the form's settings to confirm that they are consistent with your organization's policies and procedures.</thinking>
-
 # Screen Auto Lock Settings Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will explain each field in the Internship Placement Information Form in detail for end users.
-</thinking>
-
 # Internship Placement Information Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about students' internship placement details. The form is designed to collect necessary details about the students' names, contact information, academic background, and internship specifics.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from prospective clients about their travel plans and preferences. It is essential to ensure that the data entered is accurate and complete to avoid duplication and miscommunication. Please review each field carefully to ensure you have provided the correct information. The form is used to gather details about the client's travel plans, including travel agency, agent, travel type, destination, duration, budget, and other relevant preferences. 
-</thinking>
-
 # prospective_travel_client_vacation_form - Help Guide
 ## Purpose
 This form collects information from prospective clients about their travel plans and preferences.

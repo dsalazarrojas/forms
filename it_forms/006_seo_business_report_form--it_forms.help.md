@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for SEO (Search Engine Optimization) business reports. It is intended to be used by business owners or administrators to assess the relevance of certain keywords to their business. The form is part of a larger process for creating and maintaining a business's online presence. 
-
-Please note that this form has a large number of fields that ask for "keyword relevance" questions, but they all have the same options ('Yes', 'No'). This could be a candidate for consolidation or simplification in the design of the form.
-
-</thinking>
-
 # seo_business_report_form - Help Guide
 ## Purpose
 This form is used to collect information for SEO business reports. Business owners or administrators can use it to assess the relevance of keywords to their business.

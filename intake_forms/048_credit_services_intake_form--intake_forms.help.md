@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate data, this form is designed to collect borrower information for credit services. This form will be used by loan officers and financial analysts to assess borrowers' creditworthiness, and ensure that each applicant's data is accurate and up-to-date. Please note that this form is not for soliciting or collecting personal data for external use.
-</thinking>
-
 # Credit Services Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from borrowers who are applying for credit services, such as loans, credit cards, or other financial products. This form helps loan officers and financial analysts assess borrowers' creditworthiness and make informed decisions.

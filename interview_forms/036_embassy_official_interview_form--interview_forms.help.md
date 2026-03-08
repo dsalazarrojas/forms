@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and non-duplication...</thinking>
-
 # Embassy Official Interview Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form is likely intended to be used for site inspectors to conduct a safety briefing on a job site. The form may be used to record the current state of safety on the site, including the condition of equipment, the availability of safety personnel, and any potential hazards. It's possible that the form is used to help site inspectors identify and document any safety concerns or issues that need to be addressed.
-</thinking>
-
 # Daily Job Site Safety Briefing Form - Help Guide
 ## Purpose
 This form is used to conduct a daily safety briefing on a job site, ensuring that all necessary safety measures are in place and that any potential hazards are identified and addressed.

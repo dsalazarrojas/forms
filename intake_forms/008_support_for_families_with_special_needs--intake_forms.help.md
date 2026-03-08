@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's analyze the form's purpose and structure. The form appears to be designed to gather information about families with special needs, likely for social services or support organizations. The form has multiple pages with various fields for gathering information about family members, their needs, and the services they require. We need to ensure that the form is filled out correctly to capture the necessary data. Let's review the form's fields and create a clear and concise guide for the end-user.</thinking>
-
 # Support For Families With Special Needs - Help Guide
 ## Purpose
 This form is designed to gather information about families with special needs to provide support and services. It helps us understand their requirements and provide the necessary assistance.

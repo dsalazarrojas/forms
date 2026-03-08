@@ -1,9 +1,3 @@
-<thinking> 
-
-We should confirm that this form is intended for inspectors to document the status and maintenance of tree trimming equipment. This form should only be used for tree trimming equipment, and not other types of equipment. We should also ensure that all fields are properly labeled and understandable for the end-user. This form should not be used for other purposes, such as general equipment inspections. It's best to keep it simple and focused on the specific use case. The fields should reflect the relevant information that is necessary for the inspectors to document the inspection results. This form should not be used to gather redundant or unnecessary information. We should consider adding more fields or options for the specific types of equipment or inspection results if necessary. This form should be kept up-to-date with the latest information on equipment status and maintenance.
-
-</thinking> 
-
 # Tree Trimming Equipment Inspection Form - Help Guide
 ## Purpose
 This form is designed for inspectors to document the status and maintenance of tree trimming equipment. It ensures that all necessary information is captured during the inspection, including equipment identification, inspection dates, locations, and safety certifications. This form helps to maintain accurate records and facilitate compliance with safety regulations.

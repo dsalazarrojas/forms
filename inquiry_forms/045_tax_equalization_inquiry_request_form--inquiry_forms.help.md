@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to create an inquiry request for tax equalization purposes. The form will be used to gather information about an employee's tax status, which will help determine whether they are eligible for certain tax benefits or credits. The form will be filled out by the employee or their representative, and the information will be used by the tax authority to review and process the request.
-
-Before filling out this form, please make sure that you are not duplicating an existing inquiry. If you are unsure, please check with the tax authority or the HR department to confirm.
-
-</thinking>
-
 # Tax Equalization Inquiry Request Form - Help Guide
 ## Purpose
 This form is used to create an inquiry request for tax equalization purposes. The form will be used to gather information about an employee's tax status, which will help determine whether they are eligible for certain tax benefits or credits.

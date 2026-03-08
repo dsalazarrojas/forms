@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from clients about their PCOS (Polycystic Ovary Syndrome) nutrition guide intake. The form is designed to gather details about the client's demographics, medical history, and personal characteristics to help healthcare professionals understand their nutritional needs and provide personalized guidance. This form will help ensure that the client's medical history and current health status are accurately captured to make informed decisions about their diet and treatment plan.
-
-To ensure accuracy and prevent duplication, please only submit the form once after completing all questions. 
-
-</thinking>
-
 # PCOS Nutrition Guide Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information about your PCOS-related nutrition guide intake to help our healthcare professionals understand your medical history and personal characteristics for personalized guidance.

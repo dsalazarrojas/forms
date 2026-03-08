@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information for telecom billing inquiries. 
-The purpose of this form is to collect details about a customer's billing issue with a telecom provider. 
-The form will be used by customer service representatives to identify the issue, contact the customer, and follow up on the issue until it's resolved.
-</thinking>
-
 # Telecom Billing Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information for telecom billing inquiries.

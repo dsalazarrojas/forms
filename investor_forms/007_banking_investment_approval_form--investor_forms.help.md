@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from investors and individuals interested in investing with the bank. The form collects data on the applicant's personal details, investment goals, risk tolerance, investment experience, and portfolio composition. This information will be used to assess their suitability for investment with the bank and to provide a basis for a potential investment proposal.
-
-Before filling out this form, please note that the bank may have existing policies and procedures in place to determine whether an investment opportunity is suitable for the applicant. This form is not intended to be a commitment to invest, but rather an initial assessment to gauge the applicant's interest and eligibility for investment.
-
-To ensure consistency and accuracy, please ensure that you have the relevant documents and information ready before submitting this form. Some fields may be optional, but please fill them out if you have the necessary information available.
-
-</thinking>
-
 # Banking Investment Approval Form - Help Guide
 ## Purpose
 This form is designed to collect information from investors and individuals interested in investing with the bank. It will help us to assess their suitability for investment and provide a basis for a potential investment proposal.

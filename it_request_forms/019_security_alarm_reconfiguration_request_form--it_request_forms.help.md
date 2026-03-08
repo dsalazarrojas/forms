@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Security Alarm Reconfiguration Request Form - Help Guide
 
 ## Purpose

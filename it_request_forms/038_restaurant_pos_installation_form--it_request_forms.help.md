@@ -1,26 +1,3 @@
-<thinking>
-To determine the form's purpose, we first need to analyze the form's properties. This form appears to be related to installing a restaurant POS (Point of Sale) system. The form's sections and fields seem to pertain to gathering information necessary for installation and configuration of the POS system.
-
-To confirm, let's examine the fields:
-
-*   First_name and last_name are typically used in contact and identification purposes, indicating that the form may be for registering or setting up contact information for the POS system.
-*   Company, contact_phone, and contact_email could be related to business and contact details.
-*   Restaurant\_name and location suggest that the form is also used for setting up restaurant information.
-*   Date and time fields, such as installation\_date and installation\_time, imply that the form is used to schedule and plan the installation process.
-*   Additional fields like equipment\_list and equipment\_list2 suggest that the form may need to be filled out multiple times or for multiple types of equipment or restaurants.
-*   Notes and address fields, such as restaurant\_pos\_installation\_form\_note and company\_address, could indicate that the form needs additional comments or location information for the installation process.
-*   POS\_system, restaurant\_hours, and contact\_person seem to pertain to the specifics of the POS system being installed and its operational hours.
-*   Installation\_location and contact\_person could be for the person or team performing the installation.
-*   Having two separate fields for contact information with different labels like contact\_person and contact\_phone2, contact\_email2, and company2 could indicate that this is a secondary contact or a backup contact.
-*   Having multiple fields for equipment list like equipment\_list, equipment\_list2, and equipment\_list3 could mean that the form needs to gather information about different types or quantities of equipment.
-*   Having notes sections like restaurant\_pos\_installation\_form\_note and restaurant\_pos\_installation\_form\_note2 could be for additional comments or explanations.
-
-After analyzing the form's structure and fields, it appears that this form is designed to collect all necessary information for installing a restaurant POS system. This form likely serves as a comprehensive guide for the installer or a template for the restaurant owner to fill out before the installation process begins.
-
-This form's primary purpose is to provide a clear and structured way to gather all relevant information for the installation of a restaurant POS system. By filling out this form, the restaurant and the installer can ensure that all necessary details are collected and the installation process goes smoothly.
-
-</thinking>
-
 # restaurant_pos_installation_form - Help Guide
 ## Purpose
 The restaurant POS installation form is designed to collect all necessary information for installing a restaurant POS system. This form serves as a comprehensive guide for the installer or a template for the restaurant owner to fill out before the installation process begins.

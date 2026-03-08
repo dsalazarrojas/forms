@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about a client's long-term care insurance needs. Before proceeding, please ensure that the client has been assigned to the correct category and that this form is not a duplicate of any other form already in progress.
-</thinking>
-
 # long_term_care_insurance_intake_form - Help Guide
 ## Purpose
 The long_term_care_insurance_intake_form is used to collect information about a client's long-term care insurance needs. This form should only be used for new client intakes and not for existing client updates.

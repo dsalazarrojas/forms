@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Photography Intake Form - Help Guide
 ## Purpose
 The Family Photography Intake Form is designed to collect information about your family's photography session needs. This form will help our team understand your preferences, requirements, and expectations, ensuring we create the perfect experience for your family. Please ensure this form is completed accurately and thoroughly to get the best results from your session.

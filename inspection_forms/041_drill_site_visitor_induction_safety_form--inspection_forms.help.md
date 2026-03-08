@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for documenting and reporting on inspections, training, and other events related to construction site activities. The form appears to be used for capturing information on site inspectors, drill supervisors, and employees' performance, among other things. It is essential that only one instance of this form is created for each event.
-
-</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

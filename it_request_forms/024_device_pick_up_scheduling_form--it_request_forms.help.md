@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for users to schedule a device pick up at a specific location and time. The form requires user to provide their personal information, such as first name, last name, and email, to ensure that the scheduled appointment is associated with the correct person. The appointment time is optional, but required for users to indicate when they wish to pick up their device. Additionally, users are also asked to provide the location they wish to pick up the device from. This information is crucial to ensure that the device is delivered at the correct location and time.
-
-</thinking>
-
 # Device Pick Up Scheduling Form - Help Guide
 ## Purpose
 This form is used to schedule a device pick up at a specific location and time.

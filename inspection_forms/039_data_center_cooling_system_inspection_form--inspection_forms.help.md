@@ -1,9 +1,3 @@
-<thinking>As the form designer, I will analyze the provided YAML structure and create a user-facing help guide that accurately explains the form's purpose, how to complete it, and each field's meaning. I will also make sure to check for any redundant or unnecessary fields that might be added to the form.
-
-Upon reviewing the YAML structure, I notice that there are multiple fields with similar names and labels (e.g., "submitted_date", "submitted_date_2", "submitted_date_3", "submitted_date_4"). This might be a case of non-duplication or redundancy. I will address this issue in the help guide by explaining the purpose and the correct usage of each field.
-
-Additionally, the form seems to be designed for collecting data center cooling system inspection data, which is a critical task to ensure the proper functioning of the data center's climate control systems. The form might be used by facility maintenance personnel or data center operators to report their findings on the cooling system's condition, temperature, humidity, and airflow readings.</thinking>
-
 # Data Center Cooling System Inspection Form - Help Guide
 ## Purpose
 The Data Center Cooling System Inspection Form is designed for facility maintenance personnel or data center operators to report their findings on the cooling system's condition, temperature, humidity, and airflow readings. This form helps to ensure that the data center's climate control systems are functioning properly, which is crucial for the health and safety of equipment and personnel.

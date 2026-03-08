@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from industrial communication requestors, allowing them to submit details about their industrial communication setup requests. To ensure accuracy and efficiency in processing these requests, it's essential that this form is filled out correctly and thoroughly. Duplicate requests should be avoided to prevent confusion and misallocation of resources. Please ensure that each field is populated with relevant information and that the form is completed for the intended purpose.
-</thinking>
-
 # Industrial Communication Setup Request Form - Help Guide
 ## Purpose
 

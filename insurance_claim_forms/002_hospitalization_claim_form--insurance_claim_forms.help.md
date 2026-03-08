@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to analyze the form's purpose, required fields, and how to complete it. This form appears to be for hospitalization claims, where a claimant is seeking medical attention. The form is likely used to gather information from the claimant and medical provider to process the claim.
-
-The form has 23 fields, but not all of them are required, and some have hints, which will be used to provide additional information about each field.
-
-To complete this form, the user should follow these steps:
-
-- Start by entering the claimant's personal information such as name, date of birth, insurance ID, policy number, and relationship with the claimant.
-- Enter the details of the hospitalization event, including date of hospitalization, provider name, diagnosis, procedure description, and medical record numbers.
-- Provide information about the claimant's insurance plan and medical treatment.
-- Sign and date the form as the claimant, attending physician, and hospital staff.
-
-This form is designed to gather relevant information about the claimant and the medical event, and it is essential to fill out all the required fields accurately to ensure that the claim is processed correctly.
-</thinking>
-
 # Hospitalization Claim Form - Help Guide
 ## Purpose
 This form is used to gather information from the claimant and medical provider to process the hospitalization claim. It is essential to fill out the form accurately to ensure that the claim is processed correctly.

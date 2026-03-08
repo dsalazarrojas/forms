@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from users for an online interview questionnaire. It's intended for people who are likely looking for work or have work-related inquiries. This guide will help you understand each field's purpose and how to complete it correctly.
-
-To determine relevance, the form is likely to be used by individuals seeking job opportunities or wanting to inquire about work-related topics. If you're not in this category, please proceed with caution and consider the information shared will be for internal use only.
-
-Please review the fields carefully to ensure you're sharing accurate and relevant information. If you're unsure about a particular field, you can skip it or provide a brief explanation.
-
-The form is designed to be completed in a logical order, with the first page covering contact information, and subsequent pages covering work-related topics. Each field is labeled to give you an idea of what's required.
-
-</thinking>
-
 # Online Interview Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to collect contact and work-related information from users. Please fill it out accurately and thoroughly to ensure you get the most out of this interaction.

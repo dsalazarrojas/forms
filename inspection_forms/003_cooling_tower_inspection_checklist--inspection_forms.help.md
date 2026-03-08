@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal note:** This form is designed to collect information on a cooling tower inspection, specifically for the purpose of assessing its condition and identifying any potential issues. The fields are intended to capture detailed data on various aspects of the cooling tower, including its height, temperature readings, and other critical parameters. This form is meant to be completed by personnel responsible for inspecting and maintaining the cooling tower. It's essential to complete this form accurately and thoroughly to ensure the tower's optimal functioning and prevent potential malfunctions.
-
-</thinking>
-
 # Cooling Tower Inspection Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect and document the results of a cooling tower inspection. It will help maintain the tower's condition, identify potential issues, and ensure proper functioning.

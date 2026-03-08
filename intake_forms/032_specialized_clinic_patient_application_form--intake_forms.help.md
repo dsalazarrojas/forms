@@ -1,11 +1,3 @@
-<thinking>
-
-This form is likely intended for patients to provide information about themselves and their medical history in order to be evaluated by a medical specialist in a specialized clinic. The form likely aims to collect comprehensive data about the patient's intake details, medical history, symptoms, and contact information.
-
-Before proceeding, please ensure that you are filling out this form for the correct purpose and that you have not already submitted this information to the clinic.
-
-</thinking>
-
 # Specialized Clinic Patient Application Form - Help Guide
 
 ## Purpose

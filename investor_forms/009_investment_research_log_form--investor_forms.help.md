@@ -1,10 +1,3 @@
-<thinking>
-The Investment Research Log Form is designed to track and document investment research and analysis, helping users to keep track of their investment decisions and progress. This form will help users to log their research topics, current status, investment amounts, target returns, expected returns, research notes, submission dates, analyst names, and company names.
-
-Before proceeding, ensure that you have reviewed and understood the relevant business logic and processes related to investment research and analysis within your organization. This form should not be used for duplicate or unrelated purposes, as it is designed to be a specific tool for tracking investment research activities.
-
-</thinking>
-
 # Investment Research Log Form - Help Guide
 ## Purpose
 The Investment Research Log Form is a tool used to track and document investment research and analysis activities. It is intended to provide a clear and concise record of your investment decisions and progress.

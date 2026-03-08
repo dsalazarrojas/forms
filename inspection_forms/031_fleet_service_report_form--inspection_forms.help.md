@@ -1,7 +1,3 @@
-<thinking>
-The Fleet Service Report Form is used to report on the maintenance needs and history of a fleet. This form is completed by fleet managers or service personnel to provide a clear and concise overview of a vehicle's service status. It is essential to have a good understanding of the form's purpose and its required fields to ensure accurate and efficient completion. Please ensure this form is not completed unnecessarily, as it may cause duplication of effort and unnecessary data entry. Before completing this form, please review the relevant documents and information related to the vehicle's service history.
-</thinking>
-
 # Fleet Service Report Form - Help Guide
 ## Purpose
 The Fleet Service Report Form is designed to gather information about a vehicle's service needs, maintenance history, and current status. This form helps fleet managers and service personnel to:

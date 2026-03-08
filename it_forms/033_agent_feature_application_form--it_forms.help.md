@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from agents to submit feature requests to the development team. The form will help the team understand the requested feature, its priority, and the expected impact on the business. The form will help prevent duplicate feature requests by ensuring that each request is properly documented and reviewed. This form is intended for internal use within the organization, and the data collected will be used to prioritize and schedule feature development accordingly.
-</thinking>
-
 # Agent Feature Application Form - Help Guide
 ## Purpose
 This form is a tool for agents to submit feature requests to the development team. It collects relevant information to help prioritize and schedule feature development.

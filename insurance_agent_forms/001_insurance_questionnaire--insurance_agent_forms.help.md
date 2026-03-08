@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information for insurance purposes. It is likely used by insurance agents or companies to gather data about patients or policy holders for various reasons such as risk assessment, policy information, or contact details. This form might be used in a healthcare or insurance-related context. There might be some overlap with other forms, but this one seems to focus on patient and policy holder information. It is essential to fill out this form correctly to ensure accurate and relevant information is collected. The form is divided into several pages with various fields, including text, date, email, and select options. Each field has a label and a type. The form might be used for internal purposes or might be shared with external parties. Let's assume it is an internal tool.</thinking>
-
 # Insurance Questionnaire - Help Guide
 
 ## Purpose

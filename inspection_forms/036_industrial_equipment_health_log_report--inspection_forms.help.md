@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information about the health and maintenance status of industrial equipment, with the goal of tracking and reporting on issues and maintenance activities. The form is not intended for use as a primary means of reporting or tracking issues, but rather as a supplement to a larger maintenance program. It is not a substitute for regular, scheduled maintenance or inspections. This form's data will be used internally to help inform maintenance prioritization and resource allocation decisions. 
-</thinking>
-
 # Industrial Equipment Health Log Report - Help Guide
 ## Purpose
 The Industrial Equipment Health Log Report is a form used to document the health and maintenance status of industrial equipment. It captures information about equipment details, inspection dates, issues, and maintenance history to help inform maintenance prioritization and resource allocation decisions.

@@ -1,11 +1,3 @@
-<thinking> 
-
-The purpose of this form is to guide vehicle owners or operators through a comprehensive inspection of a tow truck, ensuring that key systems and components are in good working condition. The form's primary goal is to identify any potential issues or defects that may affect the vehicle's performance, safety, and overall reliability. By using this form, users can efficiently collect and record essential information about the tow truck's general information, vehicle details, engine, transmission, brakes, steering, and tires.
-
-Before proceeding, please ensure that this form is relevant to your needs and does not duplicate any existing forms or procedures you may be using. If you're unsure, refer to your organization's policies and guidelines for vehicle inspections.
-
-</thinking>
-
 # tow_truck_inspection_checklist - Help Guide
 ## Purpose
 This form is designed to help vehicle owners or operators perform a comprehensive inspection of a tow truck, identifying any potential issues or defects that may affect the vehicle's performance, safety, and reliability.

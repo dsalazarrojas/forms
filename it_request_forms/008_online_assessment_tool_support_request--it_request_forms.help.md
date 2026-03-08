@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to support users in providing information for the online assessment tool. It's intended for users who have issues or need assistance with the tool. The form will help collect relevant data that will be used to troubleshoot the problem.
-</thinking>
-
 # Online Assessment Tool Support Request - Help Guide
 ## Purpose
 The form is intended to collect information about issues or problems you're facing while using the online assessment tool, allowing our support team to better understand and resolve these problems.

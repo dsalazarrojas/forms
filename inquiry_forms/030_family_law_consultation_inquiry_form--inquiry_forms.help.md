@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect general information from potential clients who may have questions or need guidance on family law matters. It is recommended to be completed only once. Please note that the form is not intended for complex or sensitive legal matters. If you're unsure whether this form is suitable for your needs or require specific guidance, please get in touch with a legal professional. If you're ready to proceed, please carefully fill out the form below with accurate and up-to-date information. If you need help at any point, don't hesitate to ask. ...</thinking>
-
 # Family Law Consultation Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect general information from potential clients who need guidance on family law matters. Please note that this form is not intended for complex or sensitive legal matters.

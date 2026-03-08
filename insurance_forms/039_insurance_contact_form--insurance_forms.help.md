@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants about their insurance claims or policies. It is not intended to be a comprehensive insurance policy application or claims submission form. It is meant to be used as a guide to assist insurance companies or agents in gathering relevant information from clients. This form has been generated using AI, but it may still require manual review and validation by an insurance professional to ensure accuracy and completeness of the information collected.
-</thinking>
-
 # Insurance Contact Form - Help Guide
 
 ## Purpose

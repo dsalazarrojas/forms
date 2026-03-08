@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rescue_mission_interview_form - Help Guide
 
 ## Purpose

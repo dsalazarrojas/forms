@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a vehicle, specifically its usage and insurance details. It seems to be part of an insurance-related process, possibly for claims or policy management. The form appears to be used by insurance agents or agents working with vehicles, hence the "vehicle-declaration-form" title. To ensure the form is used correctly, it's essential to follow the instructions carefully and answer each field according to the guidelines provided.
-</thinking>
-
 # vehicle-declaration-form - Help Guide
 ## Purpose
 This form is intended to collect vital information about a vehicle's usage and insurance details for insurance purposes.

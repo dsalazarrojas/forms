@@ -1,8 +1,3 @@
-<thinking>
-This form is used for individuals to inquire about public transportation plans, services, or facilities. The purpose of this form is to collect information from users about their public transportation needs, preferences, and experiences. The form's structure is designed to be simple and easy to fill out, with fields for name, email, transportation service type, and comments. The form does not have any complex or technical requirements, and it is intended for public use.
-
-</thinking>
-
 # public_transportation_plan_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their public transportation experiences, needs, and preferences. It is intended to help understand how public transportation plans and services are being used and how they can be improved.

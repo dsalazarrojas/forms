@@ -1,8 +1,3 @@
-<thinking> 
-To avoid duplication and improve accuracy, the form should only be filled out by authorized personnel within the organization and should not be used as a public-facing form. The form collects information from internal workshops and partners for internal purposes, such as review and collaboration. The form is designed for data collection and should be used to gather information about educational workshops. The form can be used to identify potential partners and gather information for future workshops. It will only be used for internal purposes and should not be used for external communication or public disclosure.
-
-</thinking>
-
 # educational_workshop_partner_interview_form - Help Guide
 ## Purpose
 The educational workshop partner interview form is designed to collect information from internal workshop partners for internal review and collaboration purposes.

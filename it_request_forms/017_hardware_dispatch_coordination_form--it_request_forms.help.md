@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Hardware Dispatch Coordination Form", I will consider the following:
-
-* The form is likely used for coordinating the dispatch of hardware items to customers or internal teams.
-* It's possible that the form is used to track and manage the status of hardware dispatches.
-* The form might be used to assign tools or resources to specific individuals or teams.
-* The form could also be used to record notes or comments for each dispatch.
-* The form might be used for internal purposes only, such as within an organization or department.
-
-I will not be able to provide a definitive answer without more information about the form's purpose and use cases. However, based on the provided YAML fields, I will create a help guide that covers the general aspects of the form.
-
-</thinking>
-
 # Hardware Dispatch Coordination Form - Help Guide
 ## Purpose
 The Hardware Dispatch Coordination Form is used for coordinating the dispatch of hardware items to customers or internal teams.

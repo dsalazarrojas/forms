@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Shelter Intake Form, I will first review the provided YAML fields to understand the form's purpose and requirements.
-
-The form appears to be used for collecting information about individuals seeking services from a shelter or organization. It contains a mix of text, select_one, select_multiple, date, time, number, and email fields, which suggests that it's designed to gather both personal identification information and service-related details.
-
-Internal reasoning block: This form is likely used to streamline the intake process for individuals seeking services from the shelter or organization, ensuring that relevant information is collected in a standardized format. This helps the staff to quickly assess the individual's needs and provide the necessary support. The form might also help in reducing duplication of effort by ensuring that all required information is collected at once, rather than having to ask for it multiple times.
-
-</thinking>
-
 # Shelter Intake Form - Help Guide
 
 ## Purpose

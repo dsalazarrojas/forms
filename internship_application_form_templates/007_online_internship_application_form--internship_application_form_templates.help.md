@@ -1,7 +1,3 @@
-<thinking>
-This form is used for students or young professionals to apply for an internship position. It is essential to ensure that the applicant meets the requirements set by the company for the internship. Before completing the form, please review the requirements and make sure you are eligible for the internship. If you're unsure, it's recommended to contact the company or HR department for clarification. 
-</thinking>
-
 # online-internship-application-form - Help Guide
 ## Purpose
 This form is designed to collect personal and professional information from students or young professionals applying for an internship position with our company. It's crucial to fill out the form accurately and thoroughly, as it will be reviewed as part of the application process.

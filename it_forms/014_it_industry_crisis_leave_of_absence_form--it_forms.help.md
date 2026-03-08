@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to handle employee leave of absence requests in the IT industry, providing a structured process for employees to submit their leave applications. The form is meant to gather relevant information from employees, including their contact details, dates of absence, and reasons for leave. This helps ensure that all necessary information is collected in a single, centralized location, reducing the time and effort required for managers to review and approve leave requests.
-
-To avoid duplication of effort, please use this form only for official leave of absence requests. If you have a different reason for reaching out to HR or management, please use the relevant alternative channels.
-</thinking>
-
 # it-industry-crisis-leave-of-absence-form - Help Guide
 ## Purpose
 The it-industry-crisis-leave-of-absence-form is used to submit a formal leave of absence request for work-related crises, such as technical difficulties, server errors, or other emergencies. This form helps gather essential details needed for review and approval by management.

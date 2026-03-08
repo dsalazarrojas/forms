@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a motorcycle, its owner, and their contact details for insurance purposes. It will be used by insurance agents to gather relevant data to issue or renew an insurance policy for a motorcycle. This form should only be completed by the owner of the motorcycle or their authorized representative.
-
-</thinking>
-
 # Motorcycle Insurance Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information about your motorcycle and your contact details to ensure accurate and efficient processing of your insurance policy.

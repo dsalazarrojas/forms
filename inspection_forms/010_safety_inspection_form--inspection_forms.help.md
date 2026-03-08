@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to be a generic safety inspection form, likely used in various settings such as construction, industrial, or manufacturing environments. It is meant to be completed by a safety inspector or a team member who is conducting a thorough safety inspection of the area. The form is likely to be used to document any safety hazards, near misses, and corrective actions taken. 
-
-This form has 9 fields, all of which are text fields, but only field 1 seems to be marked as required.
-
-The form seems to be a template and might not be used as is. It might be intended for a specific industry or company, or as a basic template to be modified for a more specific use case.
-
-The form could be used by a safety inspector or a team member to report on their findings in a specific area or location.
-
-</thinking>
-
 # safety_inspection_form - Help Guide
 ## Purpose
 This form is designed to be a generic safety inspection form for documenting safety hazards, near misses, and corrective actions. It can be used by safety inspectors or team members to report on their findings in a specific area or location.

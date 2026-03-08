@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure that the form is filled out correctly, please review the form carefully before submission. This form is intended for individuals applying for maid worker positions. Ensure that all required fields are filled in accurately and truthfully. If you have any issues or concerns, please refer to the help guide below.
-</thinking>
-
 # Maid Worker Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals applying for maid worker positions. It includes fields for personal and professional information, work experience, and job preferences. Please fill out the form accurately and thoroughly to ensure a successful application.

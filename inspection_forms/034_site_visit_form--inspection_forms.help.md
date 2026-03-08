@@ -1,5 +1,3 @@
-<thinking>What the form is intended to achieve is to collect site visit data in a structured format. Upon reviewing the form fields, it appears that the form is designed to gather contact information, site inspection data, and additional notes. Each field is categorized into "Contact Information" and "Site Inspection" sections, indicating that the form is meant to collect relevant details about the site visit, including contact details of the visitors and a comprehensive checklist of site inspection data.</thinking>
-
 # Site Visit Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The Proust Questionnaire is a form used to gather information from users about their preferences, interests, and experiences. It is designed to be used in a variety of contexts, such as market research, customer surveys, or social media polls. 
-
-To the best of my knowledge, this form is not used in any other context, and its fields are not duplicated in any other form. Therefore, I am assuming that its design and content are specific to a particular use case and will not be used as a general-purpose form. 
-
-The form is designed to be easy to use and understand, with clear labels and instructions. However, to ensure that users complete it accurately and efficiently, it is essential to have a clear understanding of each field's purpose and how to fill it out.
-
-</thinking>
-
 # The Proust Questionnaire - Help Guide
 ## Purpose
 The Proust Questionnaire is a comprehensive form designed to gather information about users' preferences, interests, and experiences. It consists of multiple sections and questions that aim to capture a wide range of information, including text responses, multiple-choice answers, and select-all options.

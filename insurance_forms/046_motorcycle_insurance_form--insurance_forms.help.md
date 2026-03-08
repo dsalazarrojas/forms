@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information about motorcycles for insurance purposes.
-The form should not be used for other purposes, such as vehicle registration.
-The purpose of the form is to gather accurate and comprehensive data about the motorcycle to process insurance claims or requests efficiently.
-</thinking>
-
 # motorcycle_insurance_form - Help Guide
 ## Purpose
 This form is intended to gather information about motorcycles for insurance purposes. Please fill out this form accurately to ensure efficient processing of your insurance claims or requests.

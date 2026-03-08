@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to allow users to get in touch with the Digital Workforce Enablement team to inquire about, provide feedback on, or request information on various digital workforce enablement services.</thinking>
-
 # Digital Workforce Enablement Contact Form - Help Guide
 ## Purpose
 This form is designed for users to contact the Digital Workforce Enablement team with questions, feedback, or requests related to our services.

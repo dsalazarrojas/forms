@@ -1,7 +1,3 @@
-<thinking>
-Power Grid Inspection Form is designed to collect information about the condition of power grids. This form is intended for use by inspectors to document their findings on the state of power grid assets. The form includes fields for various aspects of the grid's condition, including its location, weather conditions, and overall status. The purpose of this form is to help maintain accurate records of power grid inspections, enabling efficient and effective management of these critical infrastructure systems.
-</thinking>
-
 # Power Grid Inspection Form - Help Guide
 
 ## Purpose

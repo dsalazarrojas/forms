@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Biochemist Job Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from applicants for a biochemist position. It includes personal contact information, academic background, professional experience, and technical skills relevant to the field of biochemistry. Please fill out this form accurately and thoroughly to be considered for the position.

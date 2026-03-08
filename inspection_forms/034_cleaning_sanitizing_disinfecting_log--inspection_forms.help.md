@@ -1,7 +1,3 @@
-<thinking>
-To confirm the form's purpose and ensure it doesn't duplicate existing forms, I've reviewed the provided YAML fields. The form appears to be a comprehensive log for recording cleaning, sanitizing, and disinfecting activities across various facilities, departments, or areas within an organization. This includes tracking the time spent on each shift, the tasks completed, and any issues or concerns encountered. The form also covers safety and compliance aspects, such as the use of personal protective equipment and adherence to proper chemical dilution ratios. Given its detailed nature, it's unlikely that a similar form exists within the "inspection_forms" category, and it's reasonable to conclude that this form serves a distinct purpose.
-</thinking>
-
 # Cleaning Sanitizing Disinfecting Log - Help Guide
 ## Purpose
 The Cleaning Sanitizing Disinfecting Log is a comprehensive form for recording and tracking cleaning, sanitizing, and disinfecting activities across various facilities, departments, or areas within an organization. This form helps ensure that cleaning tasks are completed accurately and safely, and that any issues or concerns are documented and addressed.

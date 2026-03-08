@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Construction Final Inspection Checklist - Help Guide
 
 ## Purpose

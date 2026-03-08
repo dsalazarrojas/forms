@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to gather information about a machine learning model's performance. This includes details about the model type (e.g., regression, classification, clustering), dataset size, and various metrics such as model accuracy, dataset quality, and hyperparameters. This form is likely used by data scientists or model developers to document and analyze their machine learning models. It's likely used within an internal or external development process to ensure model quality and consistency.
-
-This form is not designed to gather general feedback or opinions, but rather to collect objective metrics that allow for data-driven decision-making. Users are expected to be familiar with machine learning concepts and terminology.
-
-The form does not ask for any sensitive or personal information, and users do not need to create an account or log in to access it. The goal is to provide a clear and straightforward way for users to input their model validation report data.
-
-Before starting, please ensure that you have the necessary information and permissions to complete this form accurately.
-
-</thinking>
-
 # Machine Learning Model Validation Report Form - Help Guide
 ## Purpose
 This form helps data scientists and model developers to validate and document machine learning models by gathering key performance and configuration metrics.

@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Production Readiness Assessment" form. This form is used to assess a product's production readiness, which means evaluating whether it is ready to be released to the public. The form helps to identify potential risks and issues that need to be addressed before release. This assessment is crucial for ensuring the quality and reliability of the product.
-</thinking>
-
 # Production Readiness Assessment - Help Guide
 ## Purpose
 The Production Readiness Assessment form is designed to evaluate a product's readiness for release to the public. This form helps identify potential risks and issues that need to be addressed before releasing the product.

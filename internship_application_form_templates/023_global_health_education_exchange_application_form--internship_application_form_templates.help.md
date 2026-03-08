@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals who wish to participate in the Global Health Education Exchange program. This program aims to facilitate international collaborations and exchange of knowledge, skills, and best practices in the field of global health. The form serves as a gateway for potential participants to provide their details, qualifications, and experiences, which will be reviewed and considered for inclusion in the program.
-
-**To ensure that your application is processed efficiently, please do not submit duplicate applications. Before starting, please make sure you have not already submitted an application.**
-
-</thinking>
-
 # Global Health Education Exchange Application Form - Help Guide
 ## Purpose
 The Global Health Education Exchange Application Form is designed to gather information from individuals interested in participating in the Global Health Education Exchange program. This program fosters international collaborations and exchange of knowledge, skills, and best practices in global health.

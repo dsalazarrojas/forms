@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect inquiries from clients regarding professional photography services. This includes obtaining client information, preferred dates, photography services required, and other relevant details. The form is designed to be completed by clients, who can select preferred dates and services for their photography needs. The fields are carefully crafted to ensure that all necessary information is gathered for the photographer to provide an accurate quote or proposal. This form is not intended to be a substitute for a real conversation or in-person meeting, but rather a convenient way to collect information remotely. It's essential to review the form carefully to ensure that all required fields are completed accurately and truthfully.</thinking>
-
 # Professional Photography Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect inquiries from clients regarding professional photography services. Please review each field carefully to ensure that you provide accurate and complete information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for planning and organizing information for sprints in software development. It is used to collect and display information about sprints, such as category, description, assigned tool, form IDs, output file, category, and description. It is used by team members to gather and organize data for efficient sprint planning. It is a general form that does not require a specific category or description to be provided. This form can be filled out by anyone and is not limited to a specific group or role within the team.
-</thinking>
-
 # Sprint Release Planning Form - Help Guide
 ## Purpose
 The Sprint Release Planning Form is a tool used to collect and display information about sprints in software development.

@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide for the monthly retail inspection form template. The purpose of this form is to collect data from retailers about their store's condition, layout, equipment, and facilities. This form is used to identify areas of improvement and monitor changes over time. It is essential to complete this form accurately and thoroughly to ensure that the data collected is reliable and useful.
-</thinking>
-
 # monthly_retail_inspection_form_template - Help Guide
 ## Purpose
 The monthly retail inspection form template is designed to collect data from retailers about their store's condition, layout, equipment, and facilities. This data will be used to identify areas of improvement and monitor changes over time.

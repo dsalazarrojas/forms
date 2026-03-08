@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register a network device within the organization. 
-The purpose of this form is to collect information about a network device, including its serial number, device type, location, and other relevant details. The form will help the user to provide accurate and organized data about the network devices. 
-Before filling out this form, please ensure that you are registering a device that does not already exist in the system. Please make sure that the information you provide is correct and up-to-date.
-</thinking>
-
 # Network Device Registration Form - Help Guide
 ## Purpose
 This form is used to register a network device within the organization. The purpose of this form is to collect information about a network device, including its serial number, device type, location, and other relevant details.

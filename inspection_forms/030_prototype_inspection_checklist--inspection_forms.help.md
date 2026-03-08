@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to aid in the assessment and evaluation of prototypes. The form's purpose is to gather information about a prototype, its description, and the results of its inspection. It also captures the reviewer's name, email, and comments. Additionally, the form determines the completion status of the review, the review status, and whether the review has been completed or not. The reviewer can select multiple outcomes for the prototype inspection, choose the assigned person for the review, and add notes to the review.
-</thinking>
-
 # Prototype Inspection Checklist - Help Guide
 ## Purpose
 This form is used to assess and evaluate prototypes, gathering essential information about the prototype, its description, and the results of its inspection.

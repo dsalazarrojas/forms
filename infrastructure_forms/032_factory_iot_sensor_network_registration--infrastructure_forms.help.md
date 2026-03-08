@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to register a Factory IoT Sensor Network, which allows users to provide information about a specific factory's IoT sensor network. This includes details such as the network identifier, the type of sensor, the date of installation, the location of the sensor, and an optional sensor type ID. The form is designed to gather relevant data in a structured and organized manner, facilitating efficient registration and management of factory IoT sensor networks.
-Before starting, ensure that you are registering a valid factory IoT sensor network. If you have already registered the same network, please do not submit this form again.
-</thinking>
-
 # Factory IoT Sensor Network Registration - Help Guide
 ## Purpose
 This form is used to register a Factory IoT Sensor Network.

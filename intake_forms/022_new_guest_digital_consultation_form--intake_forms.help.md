@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for gathering information from guests who have requested a digital consultation, coaching, or therapy session. The form will be used to collect contact details, appointment preferences, and session type selection. Please ensure you only fill out this form once for each new guest. Duplicate submissions will not be accepted, as they may cause confusion and lead to missed opportunities or incorrect data.
 
 # New Guest Digital Consultation Form - Help Guide

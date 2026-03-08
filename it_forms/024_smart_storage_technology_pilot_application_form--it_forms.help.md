@@ -1,8 +1,4 @@
-## <thinking>
-This form is designed for organizations and individuals to submit applications for the Smart Storage Technology Pilot program. This program aims to support innovative projects that leverage smart storage technologies to improve efficiency and productivity. Before filling out this form, please review the eligibility criteria to ensure your project meets the necessary requirements. If you have already submitted a previous application, please do not resubmit. Please ensure that you have all necessary information and approvals from relevant stakeholders before proceeding.
-</thinking>
-
-# Smart Storage Technology Pilot Application Form - Help Guide
+## # Smart Storage Technology Pilot Application Form - Help Guide
 
 ## Purpose
 The Smart Storage Technology Pilot Application Form is designed to help organizations and individuals submit applications for the Smart Storage Technology Pilot program. This form will gather necessary information about your project, allowing our team to review and assess your application.

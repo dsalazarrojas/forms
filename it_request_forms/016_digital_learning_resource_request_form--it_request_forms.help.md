@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for internal requests related to digital learning resources. The purpose is to collect details about a new request for resources. The form fields are intended to capture the essential information needed to evaluate and process the request.
-</thinking>
-
 # Digital Learning Resource Request Form - Help Guide
 ## Purpose
 The Digital Learning Resource Request Form is used to submit new requests for digital learning resources. This form helps to gather essential information to evaluate and process the request internally.

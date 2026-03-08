@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to intake new finance clients from various financial institutions. It's essential to ensure this form is completed accurately to prevent duplication of client data and to provide the best service to our clients. Before proceeding, please check if this form has been completed for the same financial institution or client in the past to avoid unnecessary duplication.
-
-</thinking>
-
 # New Finance Client Intake Form - Help Guide
 ## Purpose
 The New Finance Client Intake Form is used to collect information from new finance clients from various financial institutions. This form helps us understand the client's needs and preferences, ensuring we provide the best possible service.

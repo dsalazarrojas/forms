@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from exhibitors for Wi-Fi access bookings. The purpose of this form is to gather essential details from exhibitors for a smooth and efficient Wi-Fi access process. It is crucial to ensure that the required fields are filled out correctly to avoid any discrepancies or miscommunication. Please make sure to fill out this form accurately and thoroughly.
-
-</thinking>
-
 # Exhibition Wi Fi Access Booking Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from exhibitors for Wi-Fi access bookings during exhibitions, conferences, trade shows, or expos. It will help event organizers and technical teams to prepare and configure Wi-Fi access for a seamless experience.

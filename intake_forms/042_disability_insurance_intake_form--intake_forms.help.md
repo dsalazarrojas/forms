@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Disability Insurance Intake Form" is to collect essential information from clients regarding their disability insurance needs. This form helps gather necessary details to determine the suitability of an individual for disability insurance coverage. 
-
-This form will likely be used for new business or to update an existing policy, and the information collected will be used to assess the client's eligibility for coverage. 
-
-To ensure consistency and accuracy, please complete the form with the most up-to-date information.
-
-</thinking>
-
 # Disability Insurance Intake Form - Help Guide
 ## Purpose
 The Disability Insurance Intake Form is a crucial tool for collecting essential information about an individual's disability insurance needs. This form helps determine the suitability of an individual for disability insurance coverage, ensuring that their needs are accurately assessed and met.

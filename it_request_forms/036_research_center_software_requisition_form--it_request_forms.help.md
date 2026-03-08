@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting software and equipment from the research center. It should only be completed by authorized personnel, and if the form is already open for the same request, it should not be resubmitted. Please make sure to review the form carefully before submitting it to ensure all required fields are filled in correctly.
-</thinking>
-
 # research_center_software_requisition_form - Help Guide
 ## Purpose
 This form is used to request software and equipment from the research center.

@@ -1,5 +1,3 @@
-<thinking>Since this form is designed to aid in the assessment and evaluation of an IT network's security posture, I will explain its purpose and usage in the following sections.</thinking>
-
 # IT Network Security Inspection Form - Help Guide
 ## Purpose
 The IT Network Security Inspection Form is designed to help IT teams, auditors, and network administrators quickly assess and report on the security posture of their networks. This form provides a structured approach to identifying vulnerabilities, potential issues, and recommendations for improvement.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to assess the condition of a specific agricultural unit, collecting data on its current status, infrastructure, and environmental concerns. This information can be used to identify areas for improvement and inform decision-making related to agricultural practices, conservation, and resource allocation.
-
-To complete this form, you will be presented with a series of questions covering various aspects of the unit, including its size, land use, infrastructure condition, and environmental concerns. Please answer each question accurately and thoroughly, providing as much detail as possible.
-
-The form is divided into several sections, each with its own set of questions. Please answer the questions in each section before proceeding to the next.
-
-</thinking>
-
 # Agricultural Unit Assessment Form - Help Guide
 
 ## Purpose

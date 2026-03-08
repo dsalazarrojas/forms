@@ -1,7 +1,3 @@
-<thinking>
-This form is used to set up a Smart Building Alert system. It is a crucial tool for facility management and operations teams to receive critical alerts and notifications for various scenarios. Before filling out this form, please ensure you have a valid reason for requesting a setup and are not duplicating an existing request.
-
-</thinking>
 # Smart Building Alert Setup Request Form - Help Guide
 ## Purpose
 

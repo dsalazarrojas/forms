@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an Auto Insurance Declaration Form. This form is likely used in the context of auto insurance policies and is intended to be completed by policy owners. Before continuing, please ensure that you are familiar with the requirements and restrictions of your auto insurance policy. If you're looking for information on how to complete this form or what each field represents, please proceed with the provided help guide.
-</thinking>
-
 # Auto Insurance Declaration Form - Help Guide
 
 ## Purpose

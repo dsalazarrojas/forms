@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to handle upgrade requests for telecom services, allowing customers to request an upgrade for their existing service. The form will ensure that the customer's request is processed correctly and efficiently. 
-
-To prevent duplicate requests and ensure that only valid and actionable requests are processed, please fill out the form completely and accurately. This includes selecting all required fields and providing clear and detailed information. Please note that this form is specific to telecom service upgrade requests.
-</thinking>
-
 # telecom_service_upgrade_request_form - Help Guide
 ## Purpose
 The "telecom_service_upgrade_request_form" is designed for customers to submit upgrade requests for their telecom services.

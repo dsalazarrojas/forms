@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect information from speakers for an event. It is meant to be filled out by speakers to provide details about their event, such as the event title, speaking formats, audience info, budget, and additional event details. The form helps the organizers understand the speakers' requirements and preferences to better organize and accommodate their needs.
 
 # Speakers Inquiry Form - Help Guide

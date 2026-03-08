@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # virtual_intelligence_agency_solutions_llc_it_forms - Help Guide
 
 ## Purpose

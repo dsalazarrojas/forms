@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the Land Inspection And Risk Assessment Form. Before proceeding, please ensure that you have reviewed the form's purpose and that your response is not a repeat of a previous submission.
-</thinking>
-
 # Land Inspection And Risk Assessment Form - Help Guide
 
 ## Purpose

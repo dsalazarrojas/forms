@@ -1,8 +1,3 @@
-<thinking>
-This form is a tool for submitting IT service tickets, which are used to report issues or requests for technical assistance. The form has multiple sections with different fields to capture relevant information. This form is designed to be used in a technical setting, such as a help desk or support team.
-Before filling out this form, please make sure you have all necessary information and permissions to proceed. Also, check that the issue hasn't been reported already to avoid duplicate submissions.
-</thinking>
-
 # IT Service Ticket Form - Help Guide
 ## Purpose
 The IT Service Ticket Form is a tool for submitting IT service tickets to report issues or requests for technical assistance.

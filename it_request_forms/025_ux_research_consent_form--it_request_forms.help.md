@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from users regarding their participation in UX research, which may include user testing, interviews, or other activities. 
-The form is meant to ensure that users understand and agree to the terms of their participation, including the expected duration and frequency of their involvement. 
-It's likely that you've already discussed the project details with your participants, but filling out this form ensures that all parties are on the same page. 
-Please fill out the form only if you've been approached for participation and not because you're simply interested in the research topic.
-This form does not collect sensitive information and is primarily about agreeing on the terms of participation.
-You've been invited to participate in UX research and would like to fill out this form to confirm your interest and details of participation.
-</thinking>
-
 # UX Research Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users regarding their participation in UX research, including the expected duration and frequency of their involvement.

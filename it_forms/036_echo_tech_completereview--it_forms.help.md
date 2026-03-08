@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive form for collecting user information and status updates. It seems to be used for tracking and managing user interactions or feedback. To the best of my understanding, the form is meant for capturing details about users, including their email, phone number, name, and other relevant information. Each field seems to be carefully selected for its purpose in gathering specific data. I will review the provided YAML fields for further clarification.
-</thinking>
-
 # echo_tech_completereview - Help Guide
 ## Purpose
 This form is designed to collect user information and status updates for tracking and management purposes.

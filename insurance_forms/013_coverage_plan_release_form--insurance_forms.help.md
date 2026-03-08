@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to release coverage plans for employees. The coverage plan is a document that outlines the terms and conditions of an employee's benefits, such as health, dental, and life insurance. It is essential for the employee and the HR department to review and approve the coverage plan before it goes into effect. The purpose of this form is to gather information about the coverage plan and ensure that both parties are on the same page.
-</thinking>
-
 # Coverage Plan Release Form - Help Guide
 ## Purpose
 The Coverage Plan Release Form is used to collect information about an employee's coverage plan, which includes details about their health, dental, and life insurance. This form helps the employee and the HR department review and approve the coverage plan before it goes into effect.

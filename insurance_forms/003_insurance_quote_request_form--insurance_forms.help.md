@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer information for an insurance quote. The form is intended for customers to provide their personal details and vehicle information to receive a quote from insurance providers. This guide will help users understand how to complete the form and what each field is used for.
-</thinking>
 # Insurance Quote Request Form - Help Guide
 ## Purpose
 This form is used to collect customer information for an insurance quote. Customers can fill out their personal details and vehicle information to receive a quote from insurance providers.

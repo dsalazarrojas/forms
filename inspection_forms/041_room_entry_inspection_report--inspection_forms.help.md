@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for recording a room entry inspection report, which is used to capture the condition and status of a room in a property or building. The form is intended to be completed by an inspector or facility manager to document the room's condition, including any issues or observations. The form will help in maintaining accurate records and facilitating communication between stakeholders. 
-
-Form completion is optional, and it is expected that the form will be filled out for every room entry inspection, but not necessarily for every room. The form does not have any specific validation rules, but it is designed to be used as a template for a general room entry inspection report.
-
-This form has 11 fields, some of which are optional. The form's fields are designed to gather information about the room's condition and status. 
-
-Please ensure to only fill out the fields that are relevant to the inspection, and do not hesitate to add any additional information or comments that you feel are necessary.
-
-</thinking>
-
 # room_entry_inspection_report - Help Guide
 ## Purpose
 The room entry inspection report form is designed to document the condition and status of a room in a property or building. This form helps in maintaining accurate records and facilitating communication between stakeholders.

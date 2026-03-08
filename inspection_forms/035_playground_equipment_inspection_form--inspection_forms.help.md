@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to record the condition and inspection status of playground equipment. 
-The form should be completed by an authorized staff member or inspector who has been tasked with inspecting the playground equipment. 
-The form should only be used for the intended purpose and not for other types of inspections or documentation.
-</thinking>
-
 # Playground Equipment Inspection Form - Help Guide
 ## Purpose
 The Playground Equipment Inspection Form is used to record the condition and inspection status of playground equipment. This form is completed by authorized personnel after inspecting the equipment and is used to determine its suitability for use.

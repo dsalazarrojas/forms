@@ -1,11 +1,3 @@
-<thinking>
-
-The Ancestor Healing Agreement form is a vital part of our spiritual healing process, and its purpose is to gather information from clients to ensure they are aware of and agree to the principles and terms of this work. This form is essential for understanding the client's intentions, preferences, and expectations before commencing the healing session. 
-
-Before proceeding, please ensure you have not completed this form in the past or have an existing agreement on file, as this may affect your session and our ability to proceed with your request.
-
-</thinking>
-
 # Ancestor Healing Agreement - Help Guide
 
 ## Purpose

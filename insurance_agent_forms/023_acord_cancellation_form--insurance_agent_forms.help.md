@@ -1,13 +1,3 @@
-<thinking>
-
-The Acord Cancellation Form is used to submit a request to cancel an insurance policy. The form is used by insurance agents to provide a standardized way to gather the necessary information for policy cancellations, ensuring that all required details are captured accurately and consistently.
-
-Before filling out this form, please note that the policyholder must be informed of the cancellation in accordance with the relevant laws and regulations. This form is only for the cancellation of an insurance policy, not for the purchase or update of a new policy. If you're looking to purchase or update a policy, please use the corresponding forms.
-
-To submit a cancellation request, you must ensure that all required fields are filled out accurately and thoroughly. Some fields may have specific formatting or entry requirements, such as dates, which will be explained below.
-
-</thinking>
-
 # Acord Cancellation Form - Help Guide
 ## Purpose
 The Acord Cancellation Form is used to submit a request to cancel an existing insurance policy. This form is essential for ensuring that all necessary information is captured accurately and consistently.

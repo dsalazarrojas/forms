@@ -1,8 +1,3 @@
-<thinking>
-# The Park Supervision Checklist form is designed for park authorities to conduct a quick and efficient inspection of park conditions. 
-It helps park management and staff to monitor and address potential hazards and other park-related issues.
-</thinking>
- 
 # Park Supervision Checklist - Help Guide
 
 ## Purpose

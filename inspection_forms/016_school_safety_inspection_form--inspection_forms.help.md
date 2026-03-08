@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide school administrators or safety personnel through a thorough inspection process to assess the safety and emergency preparedness of a school. The form covers various aspects of school safety, from fire safety and emergency procedures to building accessibility and first aid equipment. The inspection should be conducted regularly to ensure that the school is compliant with safety regulations and to identify areas that require improvement.
-</thinking>
-
 # School Safety Inspection Form - Help Guide
 ## Purpose
 The School Safety Inspection Form is a comprehensive checklist for school administrators or safety personnel to evaluate the overall safety and emergency preparedness of a school. The form helps identify potential hazards and ensures that the school is compliant with safety regulations.

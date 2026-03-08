@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's auto insurance coverage. This form is likely used by insurance companies or related organizations to gather necessary data to process or review an auto insurance policy. It's essential to ensure the form is completed accurately and correctly to avoid any potential issues or delays in processing the policy.
-Before proceeding, please note that this form appears to be designed for a specific set of users, likely those directly involved in the insurance industry or related processes. Ensure that the form's purpose and scope align with your specific use case.
-
-Form fields seem to be divided into two main categories: "Driver Profile" and "Vehicle Details." The "Driver Profile" section gathers personal information about the primary driver, while the "Vehicle Details" section collects data about the vehicle itself. Some fields, like "Safety Features," are optional and might be used to apply for specific discounts. Be cautious not to miss any required fields.
-</thinking>
-
 # Auto Insurance Information Collection - Help Guide
 ## Purpose
 This form is used to collect information about your auto insurance policy. Please complete it accurately to ensure smooth processing and avoid any potential issues.

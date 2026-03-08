@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals seeking legal mediation services. The purpose of this form is to gather contact information, legal background, and specific details about the mediation process, such as goals and preferences. The form is designed to be completed by individuals seeking mediation services for themselves or on behalf of others.
-
-Before proceeding, please ensure that the information provided is accurate and up-to-date. The form will not automatically generate or store duplicate submissions.
-
-</thinking>
-
 # Legal Mediation Intake Form - Help Guide
 ## Purpose
 The Legal Mediation Intake Form is a tool used to gather essential information from individuals seeking legal mediation services. This form helps our team understand your specific needs and requirements for the mediation process.

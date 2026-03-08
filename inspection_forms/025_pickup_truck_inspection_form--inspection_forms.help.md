@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that we're not creating duplicate information or providing unnecessary details for this form. We are creating a help guide for an Inspection Form for pickup trucks. This form should cover all relevant vehicle attributes and dimensions to provide a comprehensive assessment of the vehicle's condition and capabilities. It's essential to keep the explanations concise and clear, so users can focus on accurately completing the form. This form's fields will likely be a mix of text inputs for free-form descriptions, select_one for categorical choices, and numbers for specific measurements. The fields should be ordered in a logical and coherent way to facilitate smooth filling of the form.</thinking>
-
 # Pickup Truck Inspection Form - Help Guide
 ## Purpose
 The Pickup Truck Inspection Form is designed to gather detailed information about the condition and specifications of a pickup truck. It covers various attributes such as vehicle condition, dimensions, and engine details to aid in thorough assessment and inspection.

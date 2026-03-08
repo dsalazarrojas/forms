@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a comprehensive safety assessment of cable hauling operations. This assessment evaluates the condition of winches, slings, and supports, as well as the personnel involved in the operation. The form is designed to identify any potential hazards or risks associated with the cable hauling activity, and to document the necessary corrective measures to address these issues. This form should only be completed during a site visit, and the data collected should reflect the current state of the cable hauling operation at the time of the assessment. 
-The form fields have been carefully selected to gather relevant information to assess the safety of the cable hauling activity, including the assessor's name, the date of the assessment, the site location, the condition of the equipment, environmental hazards, personnel training compliance, and potential corrective measures.
-</thinking>
-
 # Cable Hauling Safety Assessment - Help Guide
 ## Purpose
 This form is designed to conduct a comprehensive safety assessment of cable hauling operations.

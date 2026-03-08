@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the "Ask A Specialist Inquiry Form". The form is designed to allow users to submit inquiries or requests to specialized teams within the organization, providing essential information for the specialists to address their concerns efficiently.
-The purpose of this form is to gather relevant information from users, which will be used to route their inquiries to the most suitable specialist. By filling out this form, users can ensure that their requests are properly understood and addressed in a timely manner.
-Before proceeding, please review the following steps and field explanations to ensure you fill out the form accurately and effectively.
-</thinking>
-
 # Ask A Specialist Inquiry Form - Help Guide
 ## Purpose
 The "Ask A Specialist Inquiry Form" is a crucial tool for users to submit requests or inquiries to our organization's specialized teams. It helps us understand your needs and route your request to the most suitable specialist.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for developers working on web development projects to report their progress. As an expert form designer and technical writer, I need to ensure that end users understand the purpose and functionality of the form. 
-
-The form collects personal information, project start date, target date, progress, and progress report from developers. The form is created by analyzing the metadata of web development projects and is not affiliated with any form platform.
-
-The purpose of this form is to provide a clear and organized way for developers to report their progress and track their work efficiently.
-
-Please note that this form is designed based on public metadata, and no proprietary content has been used. It's released under CC BY 4.0, allowing users to modify and even sell it while giving credit.
-
-</thinking>
-
 # web_development_progress_report_form - Help Guide
 ## Purpose
 This form is designed for web developers to report their project progress. It collects essential information such as personal details, project start and target dates, progress updates, and a progress report.

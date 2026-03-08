@@ -1,12 +1,3 @@
-<thinking>
-Mold exposure can be a serious issue for individuals and organizations. To effectively manage and mitigate mold-related problems, this form is designed to gather essential information for assessment and follow-up purposes.
-
-This form aims to capture details about a property's mold exposure condition, including the type and location of mold growth. It will be used by [insert relevant personnel or department] to assess and address mold-related concerns.
-
-Please fill out this form carefully and accurately to ensure that your mold exposure issue is handled efficiently and effectively.
-
-</thinking>
-
 # mold_exposure_assessment - Help Guide
 ## Purpose
 This form is used to collect information about mold exposure in properties, including occupant concerns, property details, and follow-up instructions. It will help assess and address mold-related issues in a property.

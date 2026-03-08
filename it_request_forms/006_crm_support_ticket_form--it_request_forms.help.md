@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to submit support tickets to the CRM system. The purpose of this form is to collect information about the issue or problem that the user is experiencing, including details about the issue, the user's contact information, and their preferred method of contact. This form is not intended for duplicate submissions, so please ensure that you are submitting a new issue or problem that has not been previously reported. If you're unsure whether to submit a new ticket, please contact the support team directly to ask for guidance.
-</thinking>
-
 # CRM Support Ticket Form - Help Guide
 ## Purpose
 The CRM Support Ticket Form is a tool for submitting issues or problems that require attention from the support team.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information about a piece of furniture during an inspection process. This form is likely used by facilities or real estate professionals to assess the condition, damage, and other relevant details about a piece of furniture. The form is probably part of a larger process to track and manage furniture inventory, maintenance, or asset management. To ensure the form is completed correctly, please ensure you have all the necessary information before starting. Make sure to review each field carefully, as some fields have specific formats (e.g., date fields require a specific format) and others are required to complete the form.
-</thinking>
-
 # Furniture Inspection Form - Help Guide
 ## Purpose
 This form is used to capture information about a piece of furniture during an inspection process.

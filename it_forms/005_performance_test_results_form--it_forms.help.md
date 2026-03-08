@@ -1,12 +1,3 @@
-<thinking>
-To create a helpful guide for the Performance Test Results Form, I will first review the provided YAML fields and determine the best way to present them to end-users.
-
-The form is designed to capture performance test results, which includes various fields such as test ID, run date and time, test outcome, and test notes. The form is likely used for internal tracking and reporting within an organization.
-
-After reviewing the YAML fields, I will create a concise and practical guide that explains the purpose and usage of each field.
-
-</thinking>
-
 # Performance Test Results Form - Help Guide
 ## Purpose
 The Performance Test Results Form is used to capture and store performance test results for internal tracking and reporting purposes.

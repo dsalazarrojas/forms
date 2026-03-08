@@ -1,11 +1,3 @@
-<thinking>
-This thought block will contain my internal reasoning and checks for form purpose and non-duplication:
-- The form is intended to gather inquiries about a specific product, Men's Thobe, which could be a traditional type of clothing.
-- The form is likely to be used by a business or organization that sells or recommends Men's Thobe products, such as a clothing store or a customer service representative.
-- The form's fields seem to be relevant to product details and customer preferences, suggesting that it is meant to facilitate a product inquiry process.
-- There is no indication that this form was generated from a proprietary platform, making it likely a custom-designed form.
-</thinking>
-
 # Men's Thobe Product Inquiry Form - Help Guide
 
 ## Purpose

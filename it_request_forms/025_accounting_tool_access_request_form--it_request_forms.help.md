@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to facilitate a standardized process for requesting access to accounting tools. Before filling out this form, please ensure you have read and understood the internal guidelines for requesting tool access, and that you are not resubmitting a duplicate request. This form requires approval from management prior to processing.
-</thinking>
 # Accounting Tool Access Request Form - Help Guide
 
 ## Purpose

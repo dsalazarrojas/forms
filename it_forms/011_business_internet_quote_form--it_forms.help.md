@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather business internet quote requirements for customers to provide detailed information about their business needs. The form is intended for companies that require a quote for their internet services, such as business internet, voice and data services, and other related services. It helps the business internet providers to better understand the customer's needs and provide more accurate quotes.
-
-This form should not be used if you are a residential customer or if you are not a business customer. Please use the correct quote form for your specific use case.
-
-The form will ask for information about your business and internet requirements, including business name, contact information, service address, and internet usage patterns. This information will be used to provide a detailed quote for your business internet needs.
-
-</thinking>
-
 # Business Internet Quote Form - Help Guide
 ## Purpose
 This form is designed to gather business internet quote requirements from customers. It is intended for business customers who require a quote for their internet services.

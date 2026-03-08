@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Insurance Claims Discrepancy Incident Report - Help Guide
 
 ## Purpose

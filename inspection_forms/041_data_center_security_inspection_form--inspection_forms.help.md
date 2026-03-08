@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for data center security inspections. The purpose of this form is to gather details about the inspected data center, including its location, security check date, and the person or team responsible for conducting the inspection. This form should only be used for data center security inspections and not for any other purpose.
-</thinking>
-
 # Data Center Security Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information for data center security inspections.

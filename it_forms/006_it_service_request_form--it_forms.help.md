@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is for the IT Service Request Form, a digital form designed to facilitate users in submitting service requests for technical assistance. The form is intended to be user-friendly, and this guide will walk you through each step to complete the form effectively and efficiently.
-
-</thinking>
-
 # IT Service Request Form - Help Guide
 ## Purpose
 The IT Service Request Form is designed to enable users to submit service requests for technical assistance in an efficient and organized manner.

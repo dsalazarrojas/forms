@@ -1,8 +1,3 @@
-<thinking>
-The Fire Door Inspection Form is a tool used for conducting regular inspections of fire doors in a facility or building. The form is designed to be completed by facilities management or safety personnel to ensure compliance with fire safety regulations and codes. The purpose of this form is to assess the condition of fire doors, identify any potential fire safety hazards, and provide a record of the findings. This form is used to inspect fire doors and exits in a building and ensure that they are functioning properly and safely. It's essential to complete this form to maintain accurate records and ensure compliance with regulatory requirements.
-
-Before starting the form, please ensure that you have reviewed and completed the Fire Exit Inspection Form for the associated fire exits.</thinking>
-
 # Fire Door Inspection Form - Help Guide
 ## Purpose
 The Fire Door Inspection Form is used to inspect and record the condition of fire doors and fire exits in a building.

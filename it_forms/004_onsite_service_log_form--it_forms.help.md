@@ -1,6 +1,3 @@
-<thinking>
-The onsite_service_log_form is designed to record information about customer service interactions on-site, typically in a retail or hospitality setting. This form aims to capture essential details about the customer's visit, including the onsite engineer's or staff's name, the clinic or department visited, arrival and departure times, any actions taken during the visit, and the customer's signature. The form is intended to be completed by staff members or engineers after each customer interaction. The purpose of this form is to improve customer service quality, facilitate data collection and analysis, and enhance communication among staff members. Before completing this form, ensure that you have the necessary permissions and approvals to do so, and that the information you provide is accurate and up-to-date.</thinking>
-
 # onsite_service_log_form - Help Guide
 ## Purpose
 The onsite_service_log_form is designed to record information about customer service interactions on-site, typically in a retail or hospitality setting. This form captures essential details about the customer's visit and is intended to improve customer service quality, facilitate data collection and analysis, and enhance communication among staff members.

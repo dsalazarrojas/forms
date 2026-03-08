@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Therapy Services Eligibility Screening - Help Guide
 ## Purpose
 

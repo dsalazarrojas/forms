@@ -1,21 +1,3 @@
-<thinking>... internal reasoning block to check form purpose and fields consistency ...
-
-This form is designed to collect information for an insurance claim related to damage caused by a shower door. The form's purpose is to gather details about the claimant, the type of damage, and other relevant information to process the claim.
-
-The fields are as follows:
-- "User Input" is a text field for general information.
-- "Claimant Information" is a text field for the claimant's details.
-- "Claim Type" is a select-one field with three options: "Water damage", "Glass breakage", and "Other".
-- "Claim Details" is a note field for additional information.
-- "Property Address" is a text field for the claimant's property address.
-- "Claim Date" is a date field for the date of the claim.
-- "Contact Number" is a text field for the claimant's contact number.
-- "Policy Number" is a text field for the claimant's policy number.
-
-All fields are optional.
-
-</thinking>
-
 # Shower Door Damage Insurance Claim Form - Help Guide
 ## Purpose
 This form is used to collect information for an insurance claim related to damage caused by a shower door. Fill out the form to provide details about the claimant, the type of damage, and other relevant information to process the claim.

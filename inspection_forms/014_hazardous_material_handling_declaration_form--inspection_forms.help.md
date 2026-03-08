@@ -1,18 +1,3 @@
-<thinking>
-To create this help guide, we'll first analyze the provided form YAML to understand its purpose and requirements. The form is for declaring hazardous material handling, so let's break it down:
-
-- The form's primary purpose is to collect information about a company handling hazardous materials.
-- It's required to fill in the form with the company's basic information: name, address, and contact person.
-- The form requires confirmation of whether hazardous materials were used.
-- It asks for the amount used and the date and time of the declaration.
-- There's also a field for certification, which seems to be about confirming or denying the use of hazardous materials.
-- Finally, there's a field for comments.
-
-The form is likely used for regulatory compliance and auditing purposes.
-
-Now, let's create the help guide based on this analysis.
-</thinking>
-
 # Hazardous Material Handling Declaration Form - Help Guide
 ## Purpose
 This form is used to declare the handling of hazardous materials by a company. It ensures the company provides accurate information about its handling of potentially dangerous substances to regulatory bodies and auditors.

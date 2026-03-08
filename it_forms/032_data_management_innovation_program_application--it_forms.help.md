@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about the Data Management Innovation Program Application. The purpose of this form is to gather data from applicants to determine their eligibility and suitability for the program. The form will be used to assess the project details, team members, impact description, project lead, team lead, data scientist, data engineer, data analyst, business lead, project budget, budget allocation, project start date, and project end date.
-To avoid duplication of efforts, ensure you have read and understood the eligibility criteria before completing this form.
-
-Please note that this form is not a comprehensive or exhaustive list of all possible fields that might be relevant to the program.
-If you have any questions or concerns, please reach out to the program administrators for clarification.
-</thinking>
-
 # Data Management Innovation Program Application - Help Guide
 ## Purpose
 This form is designed to collect information about your project, team, and resources.

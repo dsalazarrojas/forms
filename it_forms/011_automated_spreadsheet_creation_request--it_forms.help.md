@@ -1,11 +1,3 @@
-<thinking>
-This form is meant to collect information from users requesting the creation of custom spreadsheets for internal use. The form is divided into several sections to gather specific details about the requester, the spreadsheet, and its functionality. It is essential to provide accurate information in each field to ensure that the spreadsheet is created according to the requester's needs. Please ensure that you have reviewed the fields carefully before submitting the form, as incorrect or incomplete information may affect the quality and usefulness of the final spreadsheet.
-
-To avoid duplication, please do not submit duplicate requests for the same spreadsheet. If you have already submitted a request, you may want to check if it has been completed or updated.
-
-Please note that the form is intended for internal use within the organization, and the data collected will be used to create the custom spreadsheet. The data will not be shared externally without the requester's approval.
-</thinking>
-
 # Automated Spreadsheet Creation Request - Help Guide
 
 ## Purpose

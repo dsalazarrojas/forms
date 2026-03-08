@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? This form is used to inspect and document the condition of a transfer switch neutral connection in a facility. This form is used by inspectors to record the findings of their inspection, including the date of the inspection, the facility name, and the condition of the switch. This form is also used to track the status of reporting and photo documentation.</thinking>
-
 # transfer-switch-neutral-connection-inspection-form - Help Guide
 ## Purpose
 This form is used to inspect and document the condition of a transfer switch neutral connection in a facility.

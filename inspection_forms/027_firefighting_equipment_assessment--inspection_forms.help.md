@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We should ensure that the form is only accessed by people who need to assess firefighting equipment. This is a specialized form used for evaluating the condition of critical equipment in a fire department or facility. We need to be mindful of the fact that the form is being used for official assessments, and any inaccuracies could impact safety and compliance. It's essential that users are trained on how to use this form accurately and thoroughly.
 
 Let's ensure that the form is completed in its entirety for each piece of equipment, and that users do not skip any fields or provide incomplete information. This will help maintain the integrity of the assessment and ensure that the data collected is useful for making informed decisions.

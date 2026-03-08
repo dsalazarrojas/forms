@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fashion Brand E Commerce Inquiry Form - Help Guide
 ## Purpose
 This form is intended to be used by customers to contact us about their interest in our e-commerce fashion brand. It allows customers to submit their inquiries, questions, or style requests for our products. Please fill out this form to ensure our team can better understand and respond to your needs.

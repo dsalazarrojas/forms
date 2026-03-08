@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-This form is used to report concerns about child safety and welfare. It is intended for mandatory reporters, such as teachers, school staff, and healthcare providers, to report concerns about child abuse or neglect. Please note that the form is not intended for general public use. If you are a concerned citizen, please contact your local authorities or a trusted organization for guidance.
+> This form is used to report concerns about child safety and welfare. It is intended for mandatory reporters, such as teachers, school staff, and healthcare providers, to report concerns about child abuse or neglect. Please note that the form is not intended for general public use. If you are a concerned citizen, please contact your local authorities or a trusted organization for guidance.
 
 # Child Abuse Inquiry Form - Help Guide
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from IT staff or end users to manage changes within the IT department. The form will help the IT team to track, analyze, and implement changes to the IT infrastructure, systems, or processes in a structured and organized way. It's essential to provide as much detail as possible to ensure the request is handled correctly and does not duplicate any existing work.
-</thinking>
-
 # IT Change Management Request Form - Help Guide
 
 ## Purpose

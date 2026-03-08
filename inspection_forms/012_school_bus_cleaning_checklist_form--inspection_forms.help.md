@@ -1,15 +1,3 @@
-<thinking>
-The School Bus Cleaning Checklist Form is designed to track and ensure that school buses are properly cleaned and maintained on a regular basis. This form is meant to be completed by bus drivers or maintenance personnel after a trip or excursion to document the cleaning activities performed and to provide a record of the bus's condition. 
-
-The form is not intended to be used for any other purpose, such as for tracking bus routes, schedules, or other operational data. 
-
-It is assumed that the form will be completed for each trip or excursion, with the completed form serving as a record of the cleaning activities performed on that particular trip.
-
-The form is meant to be completed accurately and thoroughly, with all required fields filled in. The form can be saved and/or printed for reference.
-
-This form is designed to be user-friendly and easy to understand. If you have any doubts or questions about this form, please refer to your supervisor or the maintenance department.
-</thinking>
-
 # School Bus Cleaning Checklist Form - Help Guide
 ## Purpose
 

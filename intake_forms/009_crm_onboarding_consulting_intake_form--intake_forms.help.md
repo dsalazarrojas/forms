@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and concise, and that the fields are properly understood by the end-users before we start the onboarding process. This form collects essential information about the client, onboarding scope, and project details. We will review and verify the provided information to ensure a smooth and successful onboarding process. Please answer the questions accurately and thoroughly.</thinking>
-
 # CRM Onboarding Consulting Intake Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for judicial externship applications, where applicants provide information and documentation relevant to their externship experience and commitment. It seems to be a comprehensive form covering various aspects of an applicant's background, experience, and agreements. The purpose of this form is to gather necessary information for externship placements or programs. 
-Please ensure that you are only completing this form once for a particular externship opportunity. Repeatedly submitting the same form may lead to duplicate or outdated information being considered.
-</thinking>
-
 # Judicial Externship Application Form - Help Guide
 
 ## Purpose

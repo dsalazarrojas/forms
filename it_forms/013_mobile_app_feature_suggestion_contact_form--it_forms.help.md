@@ -1,5 +1,3 @@
-<thinking>...checking that this form is indeed meant for suggesting mobile app features and that it's not a duplicate of an existing one... (checks against existing feature suggestion forms)... and yes, it seems to be the right one...</thinking>
-
 # Mobile App Feature Suggestion Contact Form - Help Guide
 ## Purpose
 This form is designed to allow users to submit suggestions for new features to be included in our mobile app. The purpose of this form is to collect ideas from users and provide feedback on their feasibility and potential impact on the app's development.

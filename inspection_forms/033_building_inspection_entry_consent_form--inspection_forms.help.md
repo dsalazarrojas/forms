@@ -1,5 +1,3 @@
-<thinking>As a building inspection entry consent form, this document is used to gather information and authorization from property owners or landlords for a scheduled building inspection. The form is designed to ensure that all parties involved are aware of the inspection details, access arrangements, and any potential risks or hazards present on the property. This form is typically used by inspectors or inspection companies to conduct routine or special inspections, such as pre-lease inspections or safety inspections. The key fields in this form include property owner or landlord information, inspection type, inspection purpose, inspector details, and inspection scheduling information.</thinking>
-
 # Building Inspection Entry Consent Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be for requesting a virtual meeting, likely for work or business purposes. The goal of this form is to gather information from users to schedule and facilitate a meeting. To ensure that meetings are properly planned and attended, it's essential that users provide accurate and relevant information.
-
-To prevent potential issues, please ensure that you only submit this form if you have a legitimate meeting to request. Avoid submitting duplicate requests, as this may cause confusion and unnecessary work.
-
-</thinking>
-
 # Virtual Meeting Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request a virtual meeting, allowing you to schedule and attend meetings with others over the internet. Fill out this form to initiate the meeting request process.

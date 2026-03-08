@@ -1,8 +1,3 @@
-<thinking>
-The Product Display Checklist form is a tool used by inspectors to record the status of products in a warehouse or inventory. This form is designed to gather information about the condition and location of products, as well as any follow-up actions required. The form is used to document the completion of inspections, including the date and time of completion. It may be used by inspectors or other personnel to track inventory levels and product condition.
-Before starting, ensure you are using the correct form for the intended purpose. This form is specifically designed for recording the display status of products, so use it only for that purpose.
-</thinking>
-
 # Product Display Checklist - Help Guide
 ## Purpose
 The Product Display Checklist is used to record the status of products on display in a warehouse or inventory.

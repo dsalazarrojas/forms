@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for liquid biopsies, which are minimally invasive diagnostic procedures that use a sample of bodily fluids to detect cancer biomarkers. Liquid biopsies are often used to monitor cancer progression and treatment response. This form is designed to gather relevant details about the patient, the sample, and the biopsy process.
-</thinking>
-
 # Liquid Biopsy Request Form - Help Guide
 ## Purpose
 The Liquid Biopsy Request Form is used to collect information for liquid biopsies, a minimally invasive diagnostic procedure. This form is used to gather details about the patient, the sample, and the biopsy process.

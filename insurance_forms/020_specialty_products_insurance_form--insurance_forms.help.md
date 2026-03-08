@@ -1,7 +1,3 @@
-<thinking>
-We need to verify that we're creating a help guide for the Specialty Products Insurance Form, which is likely used for insurance purposes. Let's assume that's the case. We'll review the form fields one by one to confirm that they're correctly explained. We should check the form fields for any potential issues like missing explanations for required/optional fields, incorrect types, or unclear labels.
-</thinking>
-
 # Specialty Products Insurance Form - Help Guide
 ## Purpose
 

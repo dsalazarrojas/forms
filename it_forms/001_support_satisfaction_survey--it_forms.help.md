@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture customer feedback and satisfaction with the support provided by our team. The survey aims to gather information on the quality of service, time taken to resolve issues, and overall customer experience. This information will help us identify areas of improvement and make data-driven decisions to enhance our support services.
-
-</thinking>
-
 # Support Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with our support team. The information collected will help us understand how well we're meeting your needs and identify areas for improvement.

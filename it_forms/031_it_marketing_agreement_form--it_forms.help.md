@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is an internal form used for managing marketing agreements with customers, specifically for IT services. It captures key information related to the agreement, including scope of work, start and end dates, marketing services used, customer details, and approval status. To determine if this form is relevant, consider the following:
 - You are a member of the IT department.
 - You are responsible for creating or managing marketing agreements.

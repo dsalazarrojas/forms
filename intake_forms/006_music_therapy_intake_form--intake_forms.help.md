@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from clients seeking music therapy services. The purpose of this form is to collect basic contact information and any relevant medical conditions or notes that the music therapist should be aware of before scheduling sessions. 
-</thinking>
-
 # Music Therapy Intake Form - Help Guide
 
 ## Purpose

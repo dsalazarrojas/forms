@@ -1,7 +1,3 @@
-<thinking> The purpose of this form is to gather information from applicants who are interested in working with the company as Full Stack Developers. The form collects details about the candidate's basic information, experience, skills, availability, and other relevant details. The form is designed to be completed by the candidate and submitted for review by the company. This form is not intended for internal use by the company's employees, so please do not fill it out unless you are an external candidate. If you are an internal candidate, please use the internal application process instead. Please ensure that you have read and understood the company's privacy policy before submitting this form.
-
-</thinking>
-
 # Full Stack Developer Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates interested in working with the company as Full Stack Developers. Please fill out this form accurately and completely to provide the best possible opportunity for us to review your application.

@@ -1,5 +1,3 @@
-<thinking>...This form is used for requesting an upgrade to the air filtration system. This form is only for internal personnel and should not be used for external or guest users. To ensure efficiency and effective processing, kindly ensure that you're using the correct department and are the intended submitter. Duplicate submissions will be reviewed individually but please avoid submitting multiple forms for the same reason as this may lead to delays and confusion...</thinking>
-
 # Air Filtration Upgrade Request Form - Help Guide
 
 ## Purpose

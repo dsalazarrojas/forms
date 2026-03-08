@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for aquarium tank inspections to document the status of the tank and its contents at a specific point in time. This form will serve as a quick reference for tank inspectors to record and report their findings. It's essential to ensure that all fields are filled out accurately and thoroughly to provide a comprehensive picture of the tank's condition. To avoid duplicating effort, please only submit one inspection report per tank per inspection date.
-</thinking>
-
 # Aquarium Tank Inspection Form - Help Guide
 ## Purpose
 

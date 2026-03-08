@@ -1,11 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and accurately, the form designer and technical writer should check for the following before proceeding:
-
-- Has the form been filled out before? If so, review the existing responses and determine if a new form is necessary.
-- Is the form being used for its intended purpose? The Financial Services Intake Form is meant to gather information from clients regarding their financial services needs and requests.
-- Is the form being filled out by a client or a representative of an institution? If filled out by an institution, the form may need to be reviewed and verified by a financial specialist.
-</thinking>
-
 # Financial Services Intake Form - Help Guide
 ## Purpose
 The Financial Services Intake Form is a tool used to gather information from clients regarding their financial services needs and requests. This form is meant to be completed by a client or a representative of an institution.

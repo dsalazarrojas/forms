@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hr_reporting_dashboard_access_application - Help Guide
 
 ## Purpose

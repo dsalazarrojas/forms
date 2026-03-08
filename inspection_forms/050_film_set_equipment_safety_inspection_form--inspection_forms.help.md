@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Set Equipment Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to record the current status of film set equipment, including whether the equipment is active or inactive, and any issues or concerns that need to be addressed. It helps ensure that all equipment is safe and functioning properly for on-set use.

@@ -1,7 +1,3 @@
-<thinking>Forms are used to collect data and information from users, and it's essential to ensure that the form's purpose and requirements are clear for end users. This form's purpose is to inspect and verify the wayfinding system and floor marking in a building or facility. This form will guide you through the process of collecting all necessary information to inspect the wayfinding system and floor marking. Before you start, please ensure that you're familiar with the building's layout and the specific wayfinding system and floor marking requirements.
-
-Also, please note that you can't submit this form unless all required fields are filled out.</thinking>
-
 # Wayfinding System And Floor Marking Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about the wayfinding system and floor marking in a building or facility. It's intended to help you inspect and verify the wayfinding system and floor marking to ensure compliance with relevant standards and regulations.

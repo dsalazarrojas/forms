@@ -1,7 +1,3 @@
-<thinking>
-The Tax Filing Inquiry Form is intended to collect general information from users who have questions, concerns, or requests regarding their tax filings. This form is used to gather contact information and inquiry details to facilitate a response from our support team. When using this form, please ensure that you are providing accurate and relevant information. Please do not submit this form if you have already contacted us regarding the same issue, as it may lead to duplicate responses and unnecessary back-and-forth communication.
-</thinking>
-
 # Tax Filing Inquiry Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This help guide will assist in understanding the purpose and completion of the "data_backup_infrastructure_inspection_form".
-
-The form, "data_backup_infrastructure_inspection_form", is designed to collect information about the data backup infrastructure of an organization. The purpose of this form is to collect data about the types of storage used, backup frequencies, testing methods, backup media, backup location, backup status, backup schedule, backup window, data inconsistencies, test frequency, test location, test status, and other related details.
-
-The goal of this form is to provide a systematic and comprehensive way to collect and document the data backup infrastructure of an organization, enabling better decision-making and risk assessment.
-
-Please note that the fields required to be completed are: Data Storage Types, Backup Media, Backup Location, Backup Schedule, Backup Window, Backup Infrastructure Risk Level, Assigned Tool, Category, Description, and Output Filename. These fields are marked as required in the form schema.
-</thinking>
-
 # data_backup_infrastructure_inspection_form - Help Guide
 ## Purpose
 The data_backup_infrastructure_inspection_form is designed to collect and document the data backup infrastructure of an organization, enabling better decision-making and risk assessment.

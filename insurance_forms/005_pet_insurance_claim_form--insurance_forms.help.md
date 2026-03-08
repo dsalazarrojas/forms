@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report a claim for a pet insurance policy. This guide will explain each field of the form in detail, so you can complete the form accurately and efficiently. Please note that some fields are not required, but providing as much information as possible will aid in the processing of your claim.
-
-</thinking>
-
 # Pet Insurance Claim Form - Help Guide
 ## Purpose
 The Pet Insurance Claim Form is used to report a claim for your pet's insurance policy.

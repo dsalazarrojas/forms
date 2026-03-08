@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for referring a fundraiser to a potential donor. The purpose of this form is to collect information about the fundraiser, the person making the referral, and the referred individual. This form will be used to create a referral document that can be used to follow up with the referred individual.
-
-To ensure that the form is filled out correctly, please make sure to only fill out the required fields, which are marked as "required". This form is used to prevent duplicate referrals from being created.
-
-</thinking>
-
 # Fundraiser Referal Form - Help Guide
 ## Purpose
 The Fundraiser Referal Form is used to collect information about a fundraiser, the person making the referral, and the referred individual. This form is used to create a referral document that can be used to follow up with the referred individual.

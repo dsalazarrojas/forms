@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-This form was created using AI to generate a form based on the topic of "store audit checklists" and "inspections". It appears to be a form for inspecting and reviewing various aspects of a store or retail setting, gathering information on different areas such as store conditions, maintenance needs, store layout, and more.
+> This form was created using AI to generate a form based on the topic of "store audit checklists" and "inspections". It appears to be a form for inspecting and reviewing various aspects of a store or retail setting, gathering information on different areas such as store conditions, maintenance needs, store layout, and more.
 
 # Store Audit Checklist Form - Help Guide
 ## Purpose

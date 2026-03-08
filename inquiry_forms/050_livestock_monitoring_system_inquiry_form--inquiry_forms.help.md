@@ -1,12 +1,3 @@
-<thinking>
-This help guide is being created to assist users in filling out the Livestock Monitoring System Inquiry Form, which is used to gather information about livestock farms and their operations. The form is designed to collect data on various aspects of farm management, including farm information, contact details, animal types, and feeding practices.
-
-The form is intended to be completed by farmers or farm representatives who want to inquire about or provide information about their livestock monitoring system. It is not intended for use by general users who do not have knowledge or experience in the livestock industry.
-
-Before filling out the form, please ensure that you have the necessary information and permissions to complete the form accurately. Some fields may be marked as optional, but it's essential to fill out as much information as possible to ensure that the form is complete and accurate.
-
-</thinking>
-
 # Livestock Monitoring System Inquiry Form - Help Guide
 ## Purpose
 The Livestock Monitoring System Inquiry Form is used to collect information about farm operations and management practices. This form is designed to help farm representatives gather data about their farm's activities, animal types, and feeding practices.

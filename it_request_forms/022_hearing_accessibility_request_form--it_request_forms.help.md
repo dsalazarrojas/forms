@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of the Hearing Accessibility Request Form is to gather information from users about their accessibility needs and preferences for a specific event. This form helps event organizers and administrators understand the requirements of attendees with disabilities and make necessary arrangements to ensure a comfortable and inclusive experience. To avoid duplication, please fill out this form only if you have not already provided this information to us.
-
-</thinking>
-
 # Hearing Accessibility Request Form - Help Guide
 ## Purpose
 The Hearing Accessibility Request Form is designed to collect information about your accessibility needs and preferences for a specific event. This form helps us ensure a comfortable and inclusive experience for all attendees, including those with disabilities.

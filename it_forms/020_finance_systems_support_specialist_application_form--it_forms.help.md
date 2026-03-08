@@ -1,11 +1,3 @@
-<thinking>
-
-The Finance Systems Support Specialist Application Form is designed for candidates interested in applying for various financial roles within the company. To be eligible for this form, you should have at least 2 years of experience in finance, IT, or a related field. You can fill out this form if you're interested in applying for full-time, part-time, contract, or intern positions in finance, administration, technical, or IT fields.
-
-This form is meant for internal use only. Please do not submit this form if you've already applied for a position within the company or have been rejected for a position in the past 6 months.
-
-</thinking>
-
 # Finance Systems Support Specialist Application Form - Help Guide
 ## Purpose
 

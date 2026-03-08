@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about stormwater discharges and overflows, which is a crucial aspect of maintaining water quality and public health. It is intended for facility inspectors or surveyors to report on the characteristics of stormwater discharges and overflows, providing essential data for environmental monitoring and regulation. This form does not require any proprietary or copyrighted content from other forms or platforms, ensuring that all the information it collects is original and publicly accessible.
-
-</thinking>
-
 # Stormwater Discharge Quality Report - Help Guide
 ## Purpose
 The Stormwater Discharge Quality Report is a form designed to collect data on stormwater discharges and overflows from facilities, providing essential information for environmental monitoring and regulation.

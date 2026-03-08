@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about workplace technology surveys. The form's title is "workplace_technology_survey" and it is categorized under "it_forms". The form doesn't require any specific knowledge or technical expertise to fill out. However, it's best to have basic familiarity with text input fields and select menus.
-</thinking>
-
 # workplace_technology_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your workplace technology advancements. This form is meant to be completed by end users to provide insights into their current state of technology in the workplace.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information related to annual inspections of properties. The purpose of this form is to gather data on the condition of a property, including the inspection date, address, and various aspects of the property's systems and features. The form should not be used for other purposes or as a template for other types of inspections. Please ensure the form's layout and fields align with the inspection's specific needs.
-</thinking>
-
 # Annual Inspection Form - Help Guide
 ## Purpose
 This form is designed for annual property inspections, gathering detailed information on the condition of a property's systems and features.

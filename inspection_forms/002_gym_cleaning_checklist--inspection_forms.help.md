@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to help gym management track and record the results of a comprehensive cleaning and maintenance check of the facility. This form is typically filled out by facility staff after completing a thorough review of the gym's cleanliness, safety, and general state of repair. The results will be used to identify areas that need attention and to ensure that the gym meets the highest standards of cleanliness, safety, and overall quality.
 
 # Gym Cleaning Checklist - Help Guide

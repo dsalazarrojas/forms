@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning check:
-This form is used to request access to the virtual desktop environment. The form is designed to gather information from the user regarding their request, the license details, any supporting information, the current status of their approval, and the submitter's information. This form is likely used by administrators or support staff to review and process license requests. To ensure accurate and efficient processing, users should provide clear and concise information in each field. This form is not a complex or high-risk request process, so users are not required to authenticate or confirm their identity. 
-
-</thinking>
-
 # Virtual Desktop Access License Request Form - Help Guide
 ## Purpose
 This form is used to request access to the virtual desktop environment. It gathers information from the user regarding their request, license details, supporting information, approval status, and submitter's information.

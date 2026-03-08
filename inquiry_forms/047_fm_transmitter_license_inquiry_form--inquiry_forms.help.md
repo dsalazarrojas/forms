@@ -1,9 +1,3 @@
-<thinking>
-# The purpose of the fm_transmitter_license_inquiry_form is to allow users to submit an inquiry for a transmitter license, which is a critical component of the broadcasting system. The form is designed to collect relevant information from users, including their company, product details, contact person, email, phone number, supporting documents, and technical details. This information will be used to assess and verify the transmitter license requirements.
-
-Before starting the process, please ensure that the form is completed accurately and comprehensively. Please note that the form should not be duplicated or submitted multiple times for the same purpose.
-</thinking>
-
 # fm_transmitter_license_inquiry_form - Help Guide
 ## Purpose
 The purpose of the fm_transmitter_license_inquiry_form is to collect information from users for a transmitter license.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to perform a weekly vehicle inspection, where the user is required to report on the condition of various components of their vehicle. The form is designed to be completed by vehicle owners or operators to provide an honest and accurate assessment of their vehicle's condition.
-
-Before completing this form, please ensure that:
-- You have the necessary information and expertise to accurately complete the form.
-- You have reviewed the form for completeness and clarity.
-- You have checked the form's required fields for accuracy.
-</thinking>
-
 # weekly_vehicle_inspection_form - Help Guide
 ## Purpose
 The weekly vehicle inspection form is used by vehicle owners or operators to report on the condition of their vehicle's components.

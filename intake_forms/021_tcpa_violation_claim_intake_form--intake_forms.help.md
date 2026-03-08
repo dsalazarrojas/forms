@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tcpa_violation_claim_intake_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information about an incident that occurred within the organization, and its purpose is to collect data that will aid in the investigation and resolution of the incident. This form is used to gather details about the incident, including its contributing factors, summary, and potential corrective actions that can be taken. It also seeks to determine the outcome of the investigation and any necessary documentation of the incident date, time, and location. Additionally, it is used to collect information about the investigator's name and title, which may be useful in the future for tracking and reference.
-It should only be used for incidents that have actually occurred. Do not use this form for hypothetical or hypothetical events.
-</thinking>
 # Safety Investigation Form - Help Guide
 ## Purpose
 This form is used to document and investigate incidents that occurred within our organization.

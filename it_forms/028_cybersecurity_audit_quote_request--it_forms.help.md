@@ -1,7 +1,3 @@
-<thinking>
-Internal purpose of this form is to collect information for a quote request for a cybersecurity audit. This is for customers to provide details about their project, services needed, and submission schedule. This form should not be filled out by customers who are not planning to purchase a quote or service. Please ensure you are not submitting duplicate requests.
-</thinking>
-
 # Cybersecurity Audit Quote Request - Help Guide
 ## Purpose
 This form is for customers who want to request a quote for a cybersecurity audit service. It helps us understand their project details, required services, and submission schedule.

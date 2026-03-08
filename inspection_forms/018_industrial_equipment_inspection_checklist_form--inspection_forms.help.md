@@ -1,12 +1,3 @@
-<thinking>
-
-This form is designed to assist with inspection and review of industrial equipment. To verify its purpose and prevent duplication, please ensure:
-
-* The form is used only for inspections of industrial equipment, not for other types of inspections or reviews.
-* The form is not used for duplicate inspections, ensuring consistency in the inspection process.
-
-</thinking>
-
 # industrial_equipment_inspection_checklist_form - Help Guide
 ## Purpose
 This form is designed to aid in the inspection and review of industrial equipment, helping ensure that it is in good working condition and meets safety standards.

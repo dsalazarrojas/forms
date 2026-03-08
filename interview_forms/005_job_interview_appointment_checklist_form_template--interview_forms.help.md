@@ -1,5 +1,3 @@
-<thinking>Before creating this form template, please note that the form purpose is to gather information for job interviews, and it should be used to collect relevant data for this purpose. Ensure that you are not duplicating efforts by using this form for other purposes. The form collects various information related to job interviews, including candidate details, contact information, interview details, and other relevant details.</thinking>
-
 # job_interview_appointment_checklist_form_template - Help Guide
 ## Purpose
 This form is designed to collect information for job interviews, ensuring that all necessary details are captured in a structured and organized manner.

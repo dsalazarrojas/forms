@@ -1,8 +1,4 @@
-# <thinking>
-This form is designed to gather patient information and medical history for surgical procedures. The goal is to ensure that all necessary details are collected to provide the best possible care for the patient. Before proceeding, please ensure that this form is not already completed for the same patient and that the provided information is accurate and up-to-date.
-</thinking>
-
-# surgical_intake_form - Help Guide
+# # surgical_intake_form - Help Guide
 ## Purpose
 The **surgical_intake_form** is a patient intake form used to gather necessary information for surgical procedures.
 

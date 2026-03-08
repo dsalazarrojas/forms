@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for an automotive interview guide, which is used by automotive employers or hiring managers to assess a candidate's qualifications, experience, and skills for a position in the automotive industry. The form is divided into several sections, each focusing on a specific aspect of the candidate's background and skills.
-
-The form is intended to be used as a comprehensive evaluation tool to help employers make informed decisions about candidate suitability for a position. It includes fields such as candidate contact information, interview details, and background information, as well as sections for rating the candidate's technical and soft skills.
-
-The form is not intended to be used as a standalone evaluation tool, but rather as a guide to help employers structure their interview process and make informed decisions about candidate qualifications.</thinking>
-
 # Automotive Interview Guide - Help Guide
 ## Purpose
 The Automotive Interview Guide is a comprehensive evaluation tool used by automotive employers and hiring managers to assess a candidate's qualifications, experience, and skills for a position in the automotive industry.

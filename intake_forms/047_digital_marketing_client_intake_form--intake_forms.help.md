@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Marketing Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients about their digital marketing needs and goals. The purpose of this form is to gather essential details that will help us understand your requirements and provide you with the best possible solutions.

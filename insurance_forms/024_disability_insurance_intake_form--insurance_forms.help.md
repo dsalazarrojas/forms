@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for gathering information from clients who wish to inquire about or apply for disability insurance. It will likely be used by insurance companies or organizations providing disability insurance services. The fields are divided into four sections: Client Information, Medical Information, Insurance Information, and Contact Information. This form does not duplicate or replicate any existing form, as it is an original adaptation created using public survey topic metadata from the insurance industry.
-</thinking>
-
 # Disability Insurance Intake Form - Help Guide
 ## Purpose
 

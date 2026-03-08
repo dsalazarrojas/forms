@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the Comfort Care Product Rental Agreement form, which is designed to collect information from renters regarding their rental needs, preferences, and commitments. This form is essential for the rental process, and users should carefully review its contents before proceeding.
-</thinking>
-
 # Comfort Care Product Rental Agreement - Help Guide
 ## Purpose
 The Comfort Care Product Rental Agreement form is designed to collect information from renters about their rental needs, preferences, and commitments. This includes providing their personal details, renting period, product selection, and payment information.

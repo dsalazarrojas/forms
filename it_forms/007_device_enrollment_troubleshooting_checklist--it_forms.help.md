@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to aid employees in troubleshooting issues with device enrollment. The form has been designed to gather relevant information to help identify potential causes and provide resolution steps. It is essential for users to complete this form accurately to ensure that the information provided is helpful for resolving the issue. Before proceeding, please review the form carefully to ensure that all fields are filled out correctly and accurately reflect the current situation.
-
-</thinking>
-
 # Device Enrollment Troubleshooting Checklist - Help Guide
 ## Purpose
 The Device Enrollment Troubleshooting Checklist is a guide to help users identify and resolve issues related to device enrollment. By gathering relevant information, this form aims to streamline the troubleshooting process and ensure that the root cause of the issue is properly addressed.

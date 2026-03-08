@@ -1,8 +1,3 @@
-<thinking>
-We're creating a form to allow users to report errors they experience with our retail application. This form will gather relevant information about the user's device type, app version, and the steps they took to reproduce the error. We want to encourage users to provide a clear error message and to attach any relevant files that will help our team debug the issue. By providing these details, our team can better understand the issue and respond accordingly to resolve the error.
-We aim to minimize duplication of efforts by requiring unique identifiers for attachments to prevent multiple submissions of the same error report.
-</thinking>
-
 # Retail App Error Notification Contact Form - Help Guide
 ## Purpose
 This form is designed to report errors experienced with our retail application. Please provide as much detail as possible so we can better assist you.

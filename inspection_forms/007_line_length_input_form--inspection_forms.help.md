@@ -1,25 +1,3 @@
-<thinking>
-
-This form is used for inputting line length information related to construction, engineering, or other projects, with the ultimate goal of verifying a project's completion status and providing supporting documentation. This form is intended for use by various stakeholders, including project managers, engineers, or surveyors, to accurately record and track line lengths of projects. The form is designed to minimize user error and ensure consistency in data entry.
-
-To confirm, the form is meant to capture the following information:
-
-- Line length (measured in inches, feet, or meters)
-- Project name
-- Measurement unit used
-- Notes or comments
-- Supporting documentation (e.g., photos, videos)
-- Verification notes or comments
-- Project start and finish dates (if applicable)
-- Verification date and personnel responsible
-- Project type (e.g., construction, engineering, surveying)
-- Project status (in progress, completed, pending)
-- Alternative measurement unit
-
-Please ensure that you fill out the form accurately and completely, as the information collected will be used to track and verify project status. Please use the correct measurement unit for line lengths and verify project status with the relevant personnel.
-
-</thinking>
-
 # Line Length Input Form - Help Guide
 ## Purpose
 The Line Length Input Form is used to collect and track information related to line length measurements for various projects, including construction, engineering, and surveying.

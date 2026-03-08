@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to assess an organization's readiness to use Microsoft 365, a suite of productivity and collaboration tools. This form is designed to help organizations evaluate their current state of Microsoft 365 adoption, identify areas that need improvement, and guide the organization in planning the necessary steps for a successful Microsoft 365 deployment.
-This form will ask questions about various aspects of Microsoft 365, including company size, user type, and usage of different Microsoft 365 apps and features. It's essential to complete this form accurately, as it will help us understand the organization's specific needs and provide guidance on how to best utilize Microsoft 365 to its full potential.
-Before starting, ensure that you're completing this form in the correct context. If you've already completed this form, please do not repeat it. Your input will help us better understand the organization's needs and provide more precise guidance. 
-</thinking>
-
 # Microsoft 365 Readiness Assessment Questionnaire - Help Guide
 ## Purpose
 The Microsoft 365 Readiness Assessment Questionnaire helps organizations evaluate their readiness to use Microsoft 365. By answering the questions in this form, you will provide valuable information about your organization's current state of Microsoft 365 adoption, identify areas that need improvement, and receive guidance on how to plan and implement Microsoft 365 in your organization.

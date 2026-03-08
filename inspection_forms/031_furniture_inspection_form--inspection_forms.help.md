@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a general inspection form for assessing the condition and details of furniture. The form likely serves as a checklist for inspectors to evaluate and document the state of furniture during an inspection. The form is likely used in a variety of settings, such as property management, facilities maintenance, or quality control. The form has multiple pages with different types of fields, including text, select_one, select_multiple, number, date, time, note, and email. The form's structure and fields suggest that it is designed to be a comprehensive inspection tool for gathering detailed information about the furniture. To ensure that the form is being used correctly, the following guide provides step-by-step instructions on how to complete the form and explains each field's purpose.</thinking>
-
 # Furniture Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to assess the condition and details of furniture during an inspection. It is designed to be a comprehensive tool for inspectors to document their findings and provide recommendations for maintenance or repairs.

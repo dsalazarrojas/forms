@@ -1,9 +1,3 @@
-<thinking>
-
-As a technical writer, I'd like to explain the purpose and context of this form. The holistic-program-agreement form is a collection of fields meant to gather information from participants in a program or study. The form likely serves as a contract or acknowledgment from the participant, detailing their understanding and commitment to the program. This form could be used in various settings, such as research studies, corporate training programs, or wellness initiatives. I'll make sure to explain each field in a way that's clear and concise, without inventing unsupported business logic.
-
-</thinking>
-
 # holistic-program-agreement - Help Guide
 ## Purpose
 

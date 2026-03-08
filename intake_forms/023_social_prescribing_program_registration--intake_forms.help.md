@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to register an individual in a social prescribing program. Social prescribing is a medical practice that allows healthcare providers to refer patients to non-medical interventions and services to support their health and wellbeing. The goal of this form is to gather essential information from the individual to provide a comprehensive understanding of their interests, wellbeing, and submission preferences. The form is not intended for medical diagnosis or treatment, but rather for the purpose of providing non-medical interventions and services. Please ensure that you are eligible for this program before proceeding. If you have registered previously, please do not submit this form again.</thinking>
-
 # Social Prescribing Program Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who are interested in participating in our social prescribing program. The program aims to support the health and wellbeing of individuals by providing non-medical interventions and services.

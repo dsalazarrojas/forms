@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to create a user-facing help guide for this form, which is used to request access to blockchain RPC services. The form appears to be designed for requesting access to specific blockchain networks and services, and the user must provide their contact information, project details, and requirements for accessing the services. This form likely helps the administrators manage requests for accessing the blockchain services and resources effectively.</thinking>
-
 # Blockchain RPC Provider Access Request Form - Help Guide
 ## Purpose
 This form is for requesting access to blockchain RPC services. Please fill out this form to provide necessary information for your access request.

@@ -1,14 +1,3 @@
-<thinking>
-We are creating a help guide for the "Promotion Interview Form". This form is used to collect information about a candidate's promotion interview, including their candidate details, job history, performance reviews, and promotion decisions. 
-
-We will be using this form to ensure that users understand what each field is used for and how to fill it out correctly.
-
-Before filling out this form, please ensure that you have all the necessary information about the candidate's promotion interview, including their personal details, job history, performance reviews, and promotion decisions.
-
-Also, be aware that some fields may not be required, so please only fill out fields that are relevant to your specific case.
-
-</thinking>
-
 # Promotion Interview Form - Help Guide
 ## Purpose
 The Promotion Interview Form is used to collect information about a candidate's promotion interview, ensuring consistency and accuracy in our promotion evaluation process.

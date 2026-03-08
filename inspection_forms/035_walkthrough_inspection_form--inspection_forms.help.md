@@ -1,7 +1,3 @@
-<thinking>
-The walkthrough_inspection_form is used for inspecting tanks, which involves evaluating the condition and status of a tank. This form is likely used by maintenance or inspection teams to conduct routine checks on tanks, ensuring they are in good working condition and reporting any issues or defects.
-</thinking>
-
 # walkthrough_inspection_form - Help Guide
 ## Purpose
 The walkthrough_inspection_form is used to inspect tanks and evaluate their condition and status.

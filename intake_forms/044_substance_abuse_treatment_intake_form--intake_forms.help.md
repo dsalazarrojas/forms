@@ -1,11 +1,3 @@
-<thinking>
-
-To provide a helpful and relevant form for substance abuse treatment professionals, the form purpose should be to collect information from individuals seeking treatment. This form is likely used in a clinical setting, such as a hospital, addiction clinic, or social services organization, where the intake process is a crucial step in providing appropriate care and treatment. 
-
-Before proceeding, please ensure that this form has not been previously completed by the individual and that it is being submitted in the correct context and by the correct person.
-
-</thinking>
-
 # Substance Abuse Treatment Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from individuals seeking substance abuse treatment. This information will be used to provide personalized care and treatment for the individual.

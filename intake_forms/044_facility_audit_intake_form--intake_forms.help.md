@@ -1,7 +1,3 @@
-<thinking>
-This form is used for facility audits. To determine if the form is necessary, please ask yourself if you are requesting an audit for a facility and if the audit is not already completed. If you are unsure, please check the facility's audit status in the system. If the audit status is already 'Active', please do not submit this form.
-</thinking>
-
 # Facility Audit Intake Form - Help Guide
 
 ## Purpose

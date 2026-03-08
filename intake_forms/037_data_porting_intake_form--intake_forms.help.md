@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect basic information from users, including name, contact details, and other relevant data points. The form will be used to create a data porting record, which can then be used for further processing and analysis. Please ensure that you are filling out this form for the correct purpose and that the information provided is accurate and up-to-date. Before starting, please review the form carefully to avoid duplication of effort and ensure that all required fields are completed.
-</thinking>
-
 # Data Porting Intake Form - Help Guide
 ## Purpose
 The Data Porting Intake Form is a tool used to collect and store data from users. This form will be used to create a data porting record, which can then be used for further processing and analysis.

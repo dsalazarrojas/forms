@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used by homeowners to dispute an increase in their insurance premium. When a premium increase is noticed, the claimant can use this form to provide necessary information and supporting documents to dispute the increase. This form ensures that the claimant's issue is heard and addressed in a timely manner, without having to repeat the same information multiple times.
-
-It's essential to review the form carefully and fill out each field as instructed to provide the necessary information required for the claim process. 
-
-</thinking>
-
 # Homeowners Insurance Claim Premium Increase Dispute Form - Help Guide
 ## Purpose
 This form is designed for homeowners to dispute an increase in their insurance premium. It helps to gather essential information and supporting documents to facilitate a fair review of the claim.

@@ -1,12 +1,3 @@
-<thinking>
-This guide will help you understand the purpose of the Exhibit Storage Inspection Form and how to complete it effectively. This form is used to inspect exhibits for storage conditions and provide information about the storage process. The form is designed to gather data about the storage of exhibits and help ensure that they are stored and maintained properly. It's essential to fill out this form accurately and completely to ensure that the storage process is done correctly.
-
-Before starting, please make sure you have all the necessary information and that you are authorized to access the storage area.
-
-To complete this form, follow the steps below:
-
-</thinking>
-
 # Exhibit Storage Inspection Form - Help Guide
 ## Purpose
 The Exhibit Storage Inspection Form is used to inspect exhibits for storage conditions and provide information about the storage process.

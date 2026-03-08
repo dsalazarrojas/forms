@@ -1,11 +1,3 @@
-<thinking>
-We are generating a user-facing help guide for a "Personalized Search Request" form designed to collect information from users for search requests. The form is used to gather specific details about the search term, type, priority, date, location, time, and any additional information users may want to provide. This form is designed for users to submit their search requests in a structured manner.
-
-Before proceeding, we should check if the form has been filled out correctly and not duplicate any submissions. This will ensure that the data collected is accurate and efficient.
-
-Please note that this form is based on the provided YAML schema and is not affiliated or endorsed by any specific form platform. It is designed to be an original adaptation of a form generated using public survey topic metadata.
-</thinking>
-
 # Personalized Search Request - Help Guide
 ## Purpose
 This form is designed to collect specific details about search requests from users, enabling us to provide a tailored search experience. 

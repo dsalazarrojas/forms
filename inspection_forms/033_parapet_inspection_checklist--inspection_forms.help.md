@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parapet Inspection Checklist - Help Guide
 ## Purpose
 The Parapet Inspection Checklist is designed to document the condition of Parapets during an inspection. This form helps ensure that all relevant information is collected to make informed decisions about maintenance, repairs, or further actions needed to maintain the Parapet's integrity. This form should be completed accurately and thoroughly to ensure that any necessary actions are taken to prevent or address potential issues.

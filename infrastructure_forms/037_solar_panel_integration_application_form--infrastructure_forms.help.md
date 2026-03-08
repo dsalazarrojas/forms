@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a user's solar panel integration application. The form is designed to gather details about the user's name, contact information, and solar panel system specifics. This information is likely used to assess the user's eligibility for solar panel installation or to provide additional support and services. The form is not intended for emergency or time-sensitive applications.
-The form is part of a larger infrastructure management system, and its purpose is to collect data in a structured and organized manner. The data collected from this form will be used to provide relevant services and support to the user.
-This form is not intended for internal use only, and its completion is likely expected from external users. Therefore, the form should be designed to be user-friendly and intuitive.
-</thinking>
-
 # Solar Panel Integration Application Form - Help Guide
 
 ## Purpose

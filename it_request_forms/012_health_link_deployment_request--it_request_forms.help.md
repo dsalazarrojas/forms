@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information for a "Health Link Deployment Request" which is likely to be used for scheduling maintenance or repair tasks for a health-related facility or equipment. The form should be completed by the requestor (the person making the request) and the engineer (the person responsible for completing the task). The form will be used to determine the schedule and priority of the task, as well as any other relevant details.
-
-To avoid duplicate requests, the system will check for existing requests from the same requestor and engineer before submitting this form. If there is an existing request, you will be directed to the existing one.
-
-Please review the form carefully before submitting it.
-
-</thinking>
-
 # Health Link Deployment Request - Help Guide
 ## Purpose
 The purpose of this form is to schedule maintenance or repair tasks for a health-related facility or equipment. It is intended for both the requestor and the engineer to provide necessary information for the task.

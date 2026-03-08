@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to guide insurance agents in documenting and reporting issues with their customers' claims. It is crucial to ensure that each field is accurately filled out to facilitate the processing of claims and maintain accurate records. To prevent duplication and errors, please ensure that you have reviewed and understood the purpose of this form before proceeding. Review the form carefully before submitting it to avoid missing any required fields, especially the claim date, claim amount, issue location, insurance provider, insurance policy number, and other critical fields.</thinking>
-
 # issue_claim_form_template - Help Guide
 ## Purpose
 This form is designed to collect essential information about customer claims from insurance agents, facilitating accurate and timely processing of claims.

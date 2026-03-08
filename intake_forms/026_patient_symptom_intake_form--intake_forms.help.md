@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients about their symptoms and medical history. The purpose of this form is to help healthcare professionals understand the patient's condition and provide accurate diagnoses and treatment plans. To ensure that the form is completed correctly, please review the following instructions and explanations for each field. This form has been designed to be completed by patients, and the information collected will be used to support the healthcare professionals in providing care.
-
-</thinking>
-
 # Patient Symptom Intake Form - Help Guide
 ## Purpose
 The Patient Symptom Intake Form is a tool used by healthcare professionals to collect information about patients' symptoms and medical history. This form helps healthcare professionals understand the patient's condition and provide accurate diagnoses and treatment plans.

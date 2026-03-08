@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to inspect facilities to ensure they comply with government accessibility standards. The form helps facility inspectors gather information about the facility's address, name, type, and compliance with accessibility standards. This information is used to assess the facility's compliance with government regulations and identify areas for improvement. The form is typically used by facility inspectors to conduct regular inspections and provide feedback to facility owners/operators.
-
-</thinking>
-
 # Government Accessibility Standards Inspection Form - Help Guide
 ## Purpose
 The Government Accessibility Standards Inspection Form is used to inspect facilities and determine their compliance with government accessibility standards.

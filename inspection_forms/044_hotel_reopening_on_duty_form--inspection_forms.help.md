@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hotel_reopening_on_duty_form - Help Guide
 
 ## Purpose

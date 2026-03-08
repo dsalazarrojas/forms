@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "cryptocurrency_survey_template" form, we need to understand its purpose and the fields it contains. This form is designed to gather information from start-ups in the fintech industry, specifically in the area of cryptocurrency. The form is likely used for research purposes, aiming to collect data on market trends, start-up information, and research goals. 
-
-This guide will break down the form into sections and explain each field in a clear and concise manner, helping users to understand what information is required and how to fill it out effectively.
-
-</thinking>
-
 # cryptocurrency_survey_template - Help Guide
 ## Purpose
 The "cryptocurrency_survey_template" form is designed to collect data from start-ups in the fintech industry related to cryptocurrency. It is used for research purposes, aiming to gather information on market trends, start-up background, and research goals.

@@ -1,5 +1,3 @@
-<thinking>Internal validation requests are used to verify the integrity of data in various systems. This form is designed to collect information for such requests, ensuring that the provided data is accurate and consistent. Before proceeding, ensure that this form is not a duplicate of an existing request.</thinking>
-
 # Data_Integrity_Validation_Request_Form - Help Guide
 ## Purpose
 The Data Integrity Validation Request Form is used to collect information for internal validation requests. It helps ensure that the provided data is accurate and consistent by collecting necessary details such as names, email, request date, and description.

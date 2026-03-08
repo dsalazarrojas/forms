@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to gather information about external audits, including audit type, status, date, time, location, and other relevant details. This form is intended to be completed by auditors or other individuals involved in the audit process.
-
-The form will help track and monitor external audits, ensuring that all necessary information is captured and that follow-up actions are taken as needed.
-
-To avoid duplication of efforts, ensure that this form is not filled out for internal audits or other types of reviews that do not require external audit processes.
-
-</thinking>
-
 # External Audit Process Checklist - Help Guide
 ## Purpose
 The External Audit Process Checklist is a form used to gather and track information about external audits, ensuring that all necessary details are captured and follow-up actions are taken as needed.

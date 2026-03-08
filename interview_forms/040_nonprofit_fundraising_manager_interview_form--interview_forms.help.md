@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from nonprofit fundraising managers about their background, experience, and skills. It is used to identify potential candidates for a position that requires strong communication, grant writing, event planning, and volunteer management skills. The form is not affiliated with any form platform and is an original adaptation. It is released under CC BY 4.0 and can be modified and distributed freely.
-</thinking>
-
 # Nonprofit Fundraising Manager Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information from nonprofit fundraising managers about their experience, skills, and challenges, and to help identify potential candidates for a position that requires strong fundraising and management skills.

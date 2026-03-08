@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Insurance Hotel Reimbursement Claim Form - Help Guide
 ## Purpose
 The Home Insurance Hotel Reimbursement Claim Form is used by guests to submit claims for reimbursement for expenses incurred due to incidents that occurred while they were staying in a hotel. This form will collect information about the guest, the incident, and other relevant details to process the claim.

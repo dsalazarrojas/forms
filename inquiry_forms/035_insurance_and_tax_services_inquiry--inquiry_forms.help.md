@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from users for insurance and tax services inquiries. The form is designed to gather details about the user's insurance company name, inquiry date, description of the inquiry, preferred tax services, email, phone number, and the tax professional they would like to consult. This form will likely be used by tax professionals or customer support teams to provide personalized assistance to users.
-
-</thinking>
-
 # Insurance And Tax Services Inquiry - Help Guide
 ## Purpose
 The Insurance And Tax Services Inquiry form is used to gather information from users who are looking for assistance with insurance and tax services. This form is used to provide personalized assistance to users by collecting details about their inquiry.

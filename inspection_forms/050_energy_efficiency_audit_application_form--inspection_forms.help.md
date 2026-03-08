@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning:**
-This form is designed to collect information from users regarding energy efficiency audits, including user details, schedule preferences, property specifics, energy usage and savings estimates, contact information, and submission preferences. The form's purpose is to facilitate efficient data collection, streamline the energy audit process, and provide a consistent format for users to input their energy efficiency needs. To avoid duplication, this form should only be used for energy efficiency audits and not for other types of assessments or applications.
-</thinking>
-
 # Energy Efficiency Audit Application Form - Help Guide
 ## Purpose
 The Energy Efficiency Audit Application Form is designed to collect information from users for the purpose of conducting energy efficiency audits. This form ensures that all necessary details are gathered accurately and efficiently.

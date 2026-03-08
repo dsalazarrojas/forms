@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a public square lighting inspection. This form will be used to collect information from inspectors about the condition and maintenance needs of public square lighting fixtures. It is essential to provide accurate and thorough information to ensure the upkeep of public lighting, which is crucial for safety and visibility in public areas. This form should not be used for any other purpose or duplicated for other inspections.
-</thinking>
-
 # public_square_lighting_inspection_form - Help Guide
 ## Purpose
 The public square lighting inspection form is used to inspect and report on the condition and maintenance needs of public square lighting fixtures.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used for clients to provide information about their health details, goals, medical conditions, and history before receiving myotherapy or remedial massage therapy services. This form helps gather essential information to ensure safe and effective treatment.
-</thinking>
-
 # Myotherapy Or Remedial Massage Intake Form - Help Guide
 ## Purpose
 This form is designed to be completed by clients before attending a myotherapy or remedial massage therapy session. It collects essential information about the client's health details, health goals, medical conditions, and health history. Please ensure you fill out this form thoroughly and accurately to help our therapists provide you with the best possible treatment.

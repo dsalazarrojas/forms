@@ -1,18 +1,3 @@
-<thinking>
-We are creating a form specifically for collecting information from potential employees applying for a work-from-home arrangement. The purpose of this form is to gather relevant data about the applicant's contact details, work status, employment status, job title, work from phone experience, work experience, education background, and references. 
-The form is divided into several sections, each addressing a different aspect of the application. 
-This form will likely be used by HR representatives to assess the applicant's eligibility for work-from-home arrangements. 
-It's essential to fill out the form accurately and truthfully to ensure a smooth application process. 
-The form will not be used to collect sensitive or personal financial information. 
-Please read through each field carefully to ensure you understand its intended use. 
-If you have any questions or doubts, please reach out to us. 
-Ensure you fill in the form correctly to increase the chances of a positive outcome. 
-Please note that this form is part of a larger process, and providing accurate information will help us to get back to you with an update on your application status soon. 
-This form is for informational purposes only and will not be used for any other purpose. 
-Please fill out the form carefully and accurately, and do not hesitate to reach out if you have any questions or need help. 
-
-</thinking>
-
 # work_from_phone_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from potential employees applying for work-from-home arrangements. The form gathers essential data about the applicant's contact information, work status, employment status, job title, work experience, education, and references.

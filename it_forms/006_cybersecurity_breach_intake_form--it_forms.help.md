@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cybersecurity Breach Intake Form - Help Guide
 ## Purpose
 The Cybersecurity Breach Intake Form is used to gather information about security incidents that may have occurred within the organization. The form is designed to collect relevant details about the incident, such as the date, time, and description, as well as the severity and impact of the incident. This information will be used to assess and respond to the incident appropriately.

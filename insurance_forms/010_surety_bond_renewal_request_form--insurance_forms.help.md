@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of renewing a surety bond. A surety bond is a financial agreement that ensures an individual or company will fulfill a specific contractual obligation, and in this case, the form is used to gather necessary information to initiate the renewal process. The form is intended for end-users who have previously submitted a surety bond application and need to provide updated information to continue the process. 
-</thinking>
-
 # Surety Bond Renewal Request Form - Help Guide
 ## Purpose
 This form is used to gather information needed to renew an existing surety bond. Please fill out this form to provide your updated information and submit it for review.

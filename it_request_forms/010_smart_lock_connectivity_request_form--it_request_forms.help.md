@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request assistance with a smart lock issue. The form is intended for users who have encountered problems with their smart locks and need help troubleshooting or resolving the issue. The form is not meant to be a general inquiry or a sales pitch, but rather a request for specific assistance.
-
-Before proceeding, please ensure that you haven't already filled out this form with a similar issue. If you're unsure, it's always a good idea to check our support database or search for existing tickets related to your smart lock issue.
-
-</thinking>
-
 # Smart Lock Connectivity Request Form - Help Guide
 ## Purpose
 The Smart Lock Connectivity Request Form is a tool used to report issues with smart locks. Fill out this form to request assistance with your smart lock problems.

@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for the Walt Disney World Vacation Inquiry Form. This guide should be clear and concise, explaining the form's purpose, how to complete it, and what each field means. 
-
-The form's purpose is to gather information from guests inquiring about their vacation plans, including their preferences, dietary needs, and travel dates. This information will help us better understand their needs and provide a more personalized experience.
-
-To avoid duplication and ensure the guide is relevant, we should check that the form is not used for other purposes than gathering information for planning purposes. If this is not the case, please let me know and we can adjust the guide accordingly.
-
-</thinking>
-
 # Walt Disney World Vacation Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from guests about their Walt Disney World vacation plans. The data collected will help us understand their preferences and provide a more personalized experience.

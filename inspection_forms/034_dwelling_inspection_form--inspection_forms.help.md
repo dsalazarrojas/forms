@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information about a dwelling's condition, focusing on specific aspects such as the roof, exterior, and interior. It's crucial to provide accurate and detailed information about the property to ensure that the inspection is thorough and effective. Please note that this form is not meant to be a substitute for professional inspection services, and any discrepancies found during an actual inspection may require further investigation or clarification. To avoid duplication of effort, please ensure that you have reviewed the property's relevant documentation and consulted with the property owner or relevant authorities before completing this form. 
-</thinking>
-
 # Dwelling Inspection Form - Help Guide
 ## Purpose
 This form is designed to gather information about the condition of a dwelling, including its roof, exterior, and interior. The data collected will help identify potential issues and inform further inspection or repair actions.

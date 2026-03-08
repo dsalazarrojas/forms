@@ -1,5 +1,3 @@
-<thinking>As I design this form, I want to ensure that end-users can easily navigate and understand the purpose and each field of the "Software Preference Voting Form". I'll start by identifying the form's purpose and then break down each field to make it easy to follow.</thinking>
-
 # Software Preference Voting Form - Help Guide
 ## Purpose
 The Software Preference Voting Form is designed to collect information about software preferences from users. The form is meant to be a quick and easy way to gather opinions and feedback about software preferences, allowing us to better understand user needs and preferences.

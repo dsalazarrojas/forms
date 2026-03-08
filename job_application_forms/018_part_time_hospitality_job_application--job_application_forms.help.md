@@ -1,6 +1,3 @@
-<thinking>
-This form is a part-time hospitality job application form, designed to gather information from potential employees about their availability and preferences for a part-time role in the hospitality industry. The form is intended to help employers understand candidates' qualifications, schedule, and work preferences to determine their fit for a part-time position. It's essential to fill out the form accurately to ensure that your application is considered for the role. If you've already applied for a similar position or have a similar application on file, please do not reapply; instead, refer to your previous application and the associated application ID.</thinking>
-
 # Part Time Hospitality Job Application - Help Guide
 ## Purpose
 This form is designed to gather information from potential part-time employees about their availability and preferences for a part-time position in the hospitality industry.

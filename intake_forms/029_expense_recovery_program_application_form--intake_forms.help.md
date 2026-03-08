@@ -1,5 +1,3 @@
-<thinking>Understanding the purpose and usage of the Expense Recovery Program Application Form is crucial for a successful and efficient submission process. This form is designed for employees to submit expenses related to work-related activities and events. The purpose of this form is to ensure accurate and transparent documentation of expenses for reimbursement and audit purposes. To prevent duplication and ensure relevance, only employees who have not already submitted expenses for the current period can fill out this form.</thinking>
-
 # Expense Recovery Program Application Form - Help Guide
 ## Purpose
 The Expense Recovery Program Application Form is a document used by employees to request reimbursement for expenses incurred during work-related activities. This form helps to keep track of expenses, ensures transparency, and prevents duplication of claims.

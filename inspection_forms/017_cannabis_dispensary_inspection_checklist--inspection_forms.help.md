@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to inspect a cannabis dispensary's adherence to regulations and industry standards. The purpose of this form is to ensure that the dispensary is operating in a safe and compliant manner. This inspection checklist is intended for use by regulatory inspectors or auditors to evaluate the dispensary's cleanliness, security, and adherence to relevant laws and regulations. This form is not intended to be a comprehensive checklist, but rather a sample template that can be used as a starting point or modified to suit specific regulatory requirements.
-
-Before starting this form, please ensure that you have the necessary permissions and credentials to perform the inspection. This may include wearing personal protective equipment (PPE) and following the dispensary's rules and procedures for visitors.
-
-This form is divided into several sections, each covering a specific aspect of the dispensary's operations. Please follow the instructions below to complete the form accurately and thoroughly.
-
-Please note that some fields are required and must be completed, while others are optional. If a field is marked as "required", it must be filled out to ensure that the form is complete and accurate. If a field is marked as "optional", it is not mandatory, but it can still provide valuable information to aid in the inspection process.
-
-</thinking>
-
 # Cannabis Dispensary Inspection Checklist - Help Guide
 ## Purpose
 The purpose of this form is to inspect a cannabis dispensary's adherence to regulations and industry standards.

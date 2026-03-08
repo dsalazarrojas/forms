@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure that end users understand the purpose and requirements of this form, we will briefly discuss the form's purpose and check for relevance and non-duplication.
-The form is designed to request access to a VPN (Virtual Private Network) for employees, which is a critical component of any organization's infrastructure. The form collects information about the employee, their job title, department, and team, as well as their reason for requesting access. This information is used to determine the level of access and the type of VPN that is required.
-The form is not a duplicate of any existing form, and the information collected will be used to make informed decisions about VPN access requests.
-
-</thinking>
-
 # vpn_access_request_form - Help Guide
 ## Purpose
 This form is used to request access to a VPN (Virtual Private Network) for employees. It collects information about the employee, their job title, department, and team, as well as their reason for requesting access.

@@ -1,12 +1,3 @@
-<thinking>
-The form is used to set up an autodialer schedule, which is a process used to automatically call customers, prospects, or leads as part of a marketing campaign. The form is divided into several sections that collect information related to the campaign, including basic details, call settings, and reporting preferences. This setup form is likely used by sales or marketing teams to configure and manage their autodialer campaigns.
-
-Before filling out this form, it's essential to review the required fields and ensure that all necessary information is accurate and complete. This includes campaign details, call settings, and reporting preferences.
-
-The form can be completed in multiple stages, and each field has been carefully designed to ensure that the necessary information is captured accurately and efficiently.
-
-</thinking>
-
 # Autodialer Schedule Setup - Help Guide
 ## Purpose
 The Autodialer Schedule Setup form is used to configure and manage your autodialer campaigns, allowing you to set up automatic calls to customers, prospects, or leads as part of a marketing campaign.

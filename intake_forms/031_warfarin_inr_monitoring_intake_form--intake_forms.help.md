@@ -1,11 +1,3 @@
-<thinking>
-A patient intake form is a document that contains information about a patient's medical history, current condition, and treatment plans. It is a crucial tool for healthcare providers to gather essential data about a patient before starting treatment or monitoring. In this case, the Warfarin INR Monitoring Intake Form is used to collect information about patients on warfarin therapy, which requires regular monitoring of their INR (International Normalized Ratio) levels to prevent and manage bleeding complications.
-
-This form is designed to gather specific details about the patient, such as their medical history, medications, INR test results, target INR range, contact information for their healthcare provider and clinic, and scheduling information for follow-up visits. This information will help the healthcare provider to ensure the patient is on the correct dose of warfarin and adjust the dose as needed to maintain the target INR range.
-
-Please ensure that you complete this form accurately and thoroughly, and do not hesitate to reach out to your healthcare provider if you have any questions or concerns.
-</thinking>
-
 # Warfarin INR Monitoring Intake Form - Help Guide
 
 ## Purpose

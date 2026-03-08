@@ -1,5 +1,3 @@
-<thinking>... internal validation to ensure the form is filled out correctly and to prevent duplication of entries...</thinking>
-
 # life_coach_intake_form - Help Guide
 ## Purpose
 This form is designed to collect basic information from clients for life coaching services. It aims to provide a comprehensive overview of the client's needs, preferences, and medical history. This information is used to create a personalized coaching plan tailored to their requirements.

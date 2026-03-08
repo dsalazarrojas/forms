@@ -1,10 +1,3 @@
-<thinking>
-The "Quality Incident Treatment Feedback Form" is designed to gather user feedback on the treatment of quality incidents. This form is meant to be completed by users who have experienced a quality incident and are providing their feedback on how the incident was handled. This feedback will help improve the quality incident treatment process and ensure that future incidents are handled more effectively. 
-
-This form is likely to be used by users who have experienced a quality incident and are able to provide feedback on the incident. To avoid duplication of effort, it is suggested that this form is only completed by users who have experienced a quality incident and are able to provide feedback on the incident.
-
-</thinking>
-
 # Quality Incident Treatment Feedback Form - Help Guide
 ## Purpose
 This form is used to gather feedback from users on the quality incident treatment process.

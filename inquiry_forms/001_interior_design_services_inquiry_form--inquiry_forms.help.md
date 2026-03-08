@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # interior_design_services_inquiry_form - Help Guide
 ## Purpose
 This form is designed to help interior designers gather information about a potential project. It is intended for clients who are looking to inquire about interior design services, and the form is used to collect their project details, contact information, and design preferences.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about equipment that requires review and assessment for maintenance, upgrade, or retirement. This information will help the organization to make informed decisions about the equipment's lifecycle and ensure it continues to meet the needs of the department or team.
-To ensure that each form is filled out correctly and accurately, please review the following fields for their relevance and completeness before proceeding.
-</thinking>
-
 # Annual Equipment Review Form - Help Guide
 ## Purpose
 This form is used to gather essential data about an equipment's condition, functionality, and maintenance status, enabling the organization to make informed decisions about its maintenance, upgrade, or replacement.

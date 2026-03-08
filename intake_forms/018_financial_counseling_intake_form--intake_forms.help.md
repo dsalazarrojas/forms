@@ -1,8 +1,3 @@
-<thinking>...
-This form is designed to gather essential information from clients for financial counseling purposes. It's crucial to ensure that each field is completed accurately to provide the best possible service. Please note that the form may not be suitable for all clients, especially those with complex financial situations or sensitive information. In such cases, additional guidance from a financial advisor may be necessary.
-
-</thinking>
-
 # Financial Counseling Intake Form - Help Guide
 ## Purpose
 The Financial Counseling Intake Form is a collection of questions designed to gather essential information from clients to provide personalized financial guidance. This form helps our financial advisors understand your financial situation, goals, and needs.

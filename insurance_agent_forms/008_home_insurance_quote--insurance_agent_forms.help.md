@@ -1,7 +1,3 @@
-<thinking>
-This is the form "home_insurance_quote". It appears to be a form for gathering information from individuals seeking home insurance quotes. The form collects contact information, property details, and insurance coverage information. It seems to be a comprehensive form, covering various aspects of a person's home and insurance needs. I will create a help guide that mirrors this structure and explains each field clearly.
-</thinking>
-
 # home_insurance_quote - Help Guide
 ## Purpose
 The "home_insurance_quote" form is designed to collect information from individuals seeking home insurance quotes. It's meant to be filled out by users to provide their contact and property details, as well as their insurance coverage preferences.

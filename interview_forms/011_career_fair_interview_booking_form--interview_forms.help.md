@@ -1,16 +1,3 @@
-<thinking>
-We need to ensure that the form is being used correctly, without duplication or incorrect data entry. This form is designed for candidates to book interviews with companies at career fairs. The primary goal is to collect necessary information about the candidate and the interview, which will help the company make informed decisions. To achieve this, we need to provide clear explanations and guidance for each field in the form.
-
-Before completing the form, make sure to have all required information available. If a field is not applicable, you can skip it or mark "No" or "Unsure" as needed.
-
-To ensure the correct data is entered and to avoid duplication, we kindly request that you use the following guidelines:
-
-* Use the exact format required for date fields (e.g., mm/dd/yy)
-* Be accurate with phone and email address formatting
-* Choose one option for each select field to avoid confusion
-* If you have a preferred method for communication, select it for confirmation
-</thinking>
-
 # Career Fair Interview Booking Form - Help Guide
 ## Purpose
 

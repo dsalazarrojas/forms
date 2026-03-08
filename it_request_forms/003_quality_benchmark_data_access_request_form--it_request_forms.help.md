@@ -1,7 +1,3 @@
-<thinking>
-The Quality Benchmark Data Access Request Form is designed to collect information from users requesting access to quality benchmark data. This form is meant to ensure that users provide necessary details to facilitate a smooth and efficient process. To ensure that this form is used correctly, it's essential to understand that this form should not be submitted multiple times for the same request. If you have already submitted a request, please do not submit another one. This form is intended for users who are requesting access to quality benchmark data, and it's not necessary to fill out all the fields, but please fill out as much information as you can. This form will be reviewed by the Quality Team, and you will be notified once your request has been processed.
-</thinking>
-
 # Quality Benchmark Data Access Request Form - Help Guide
 ## Purpose
 The Quality Benchmark Data Access Request Form is designed to collect information from users requesting access to quality benchmark data.

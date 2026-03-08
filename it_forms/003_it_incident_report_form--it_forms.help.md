@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents reported in the IT department. The purpose of this form is to gather data on incidents that have occurred, allowing the IT department to track and manage them effectively. This form is intended for use by IT staff to report and document incidents in a centralized manner.
-</thinking>
-
 # it_incident_report_form - Help Guide
 ## Purpose
 ## How To Complete This Form

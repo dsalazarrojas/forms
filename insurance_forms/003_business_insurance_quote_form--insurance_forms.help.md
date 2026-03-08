@@ -1,6 +1,3 @@
-<thinking> 
-The Business Insurance Quote Form is designed to gather essential information from business owners or representatives to provide an accurate and tailored quote for their insurance needs. This form is part of the onboarding process for businesses seeking insurance coverage, and it helps the insurance provider understand the business's requirements and circumstances. It's essential to complete the form accurately to ensure the quote provided is relevant to the business's specific needs. The form consists of 17 fields, each asking for specific information that helps the insurance provider assess the business's risk level, operations, and coverage needs. Please review each field carefully to ensure you provide the most accurate information. If you're unsure about any field, please ask your contact person for clarification. </thinking>
-
 # Business Insurance Quote Form - Help Guide
 ## Purpose
 The Business Insurance Quote Form is designed to gather information about your business to provide an accurate and tailored quote for your insurance needs. Please complete this form accurately to ensure we understand your business requirements and circumstances.

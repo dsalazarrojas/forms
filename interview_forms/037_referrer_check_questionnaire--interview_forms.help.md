@@ -1,5 +1,3 @@
-<thinking>...This form appears to be a Referrer Check Questionnaire, which is designed to collect information about your relationship with a particular individual or entity. It's likely used to verify details about someone's work history or professional connections. Each section of the form is designed to collect specific details, such as the person's name, their job title, years known to you, company information, and other relevant contact details... This form is not a mandatory or required form, as none of the fields are marked as required, indicating that it's likely used for informational or verification purposes only.</thinking>
-
 # Referrer Check Questionnaire - Help Guide
 
 ## Purpose

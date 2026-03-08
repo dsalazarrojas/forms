@@ -1,5 +1,3 @@
-<thinking>Before proceeding with the form design and user guide, we need to determine the purpose and relevance of this form within the company. This form is used for tool deployment releases, which likely involves managing and tracking the deployment of tools and their associated risks, comments, and status updates. The form seems to be designed for internal use, possibly by the IT department or development team, to facilitate communication and coordination among team members. It's essential to review the form's fields to ensure it aligns with the company's internal processes and requirements. If there are any discrepancies or unclear fields, please provide additional context or clarify the expected outcomes of this form.</thinking>
-
 # Tool Deployment Release Form - Help Guide
 ## Purpose
 This form is used to record and track the deployment of tools within the organization. It captures key information such as tool status, risk notes, environments, dates, and comments from approvers and team leads. This form helps ensure that all relevant stakeholders are informed and involved in the tool deployment process.

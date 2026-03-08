@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm that this form is intended for the onboarding of IT specialists, the following form fields will be required or optional based on the provided YAML schema. The fields include:
 
 * First Name

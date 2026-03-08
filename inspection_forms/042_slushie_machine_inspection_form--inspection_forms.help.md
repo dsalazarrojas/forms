@@ -1,12 +1,3 @@
-<thinking>
-...The form purpose is to inspect the Slushie machine for general information, machine status, temperature, water level, potential leaks, safety gloves usage, maintenance status, and comments. This form is designed to gather data on the machine's condition, which is critical for ensuring the machine's functionality and overall facility's operations. The form should be completed by authorized personnel only. It's essential to ensure that the form is filled out accurately and thoroughly to avoid any errors or omissions that might lead to machine malfunctions or accidents.
-
-Please note that the form has several fields that are marked as non-mandatory, but it's crucial to complete all the fields to provide a comprehensive picture of the machine's state. The form's purpose is to facilitate efficient maintenance and upkeep of the Slushie machine, ensuring it operates safely and effectively.
-
-Before starting, ensure you have all the necessary information and tools to complete the form accurately. If you're unsure about any field, please ask your supervisor or colleague for guidance.
-
-</thinking>
-
 # Slushie Machine Inspection Form - Help Guide
 ## Purpose
 The Slushie Machine Inspection Form is designed to inspect the Slushie machine's general information, machine status, temperature, water level, potential leaks, safety gloves usage, maintenance status, and comments. This form ensures the machine's condition is accurately reported, allowing for efficient maintenance and upkeep.

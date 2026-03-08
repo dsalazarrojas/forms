@@ -1,8 +1,3 @@
-<thinking>
-This form is used by claimants to submit travel insurance claims. The purpose of this form is to gather information about the incident, claimant, and policy details. To ensure accuracy, please complete each field carefully and provide relevant documentation as required. To avoid duplication, please ensure that you have not submitted a claim for the same incident before.
-
-</thinking>
-
 # travel_insurance_claim_authorization_form - Help Guide
 ## Purpose
 This form is designed to gather information about a travel insurance claim. Please complete it carefully to ensure that your claim is processed efficiently.

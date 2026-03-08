@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help users assess and improve their personal cyber security habits and awareness. The form is divided into several sections that cover various aspects of cyber security, such as password strength, two-factor authentication, backing up important data, securing devices, network security, account security, software updates, user account management, device locking, password management, secure note keeping, and password reuse. This form will help users identify potential vulnerabilities and provide guidance on how to mitigate them. It is not intended to be used as a definitive security assessment tool, but rather as a starting point for users to improve their personal cyber security posture.</thinking>
-
 # personal_cyber_security_checklist - Help Guide
 ## Purpose
 The personal cyber security checklist is a self-assessment tool designed to help users identify potential vulnerabilities in their personal cyber security habits and provide guidance on how to improve them.

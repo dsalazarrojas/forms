@@ -1,8 +1,3 @@
-<thinking>
-This form is used for mobile home attic access inspections. It's used to track and store information about these inspections. The form is used to collect data about the category, description, assigned tool, form ID, output file, submission status, submission date, submission time, submission notes, submission user ID, submission user name, submission assigned tool, and submission output file. This form is likely used by inspectors or other personnel who need to conduct and store data about mobile home attic access inspections. 
-
-</thinking>
-
 # Mobile Home Attic Access Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about mobile home attic access inspections. It's intended to be used by inspectors or other personnel who need to conduct and store data about these inspections.

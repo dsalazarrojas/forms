@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect patient information for health care coordination purposes. It appears to be a comprehensive form that covers various aspects of patient care, including demographic information, medical history, medications, referrals, allergies, care plans, patient goals, health status, emergency contact, patient goals details, health care provider, medical team, medical specialties, medical notes, medication history, patient care coordinator, medical history details, patient status, medical team members, medical procedure, health education, patient family, patient medical history, patient medications list, and medical specialty.
-
-The form seems to be intended for use in a health care setting, possibly for patient intake or coordination processes. 
-
-To ensure the form is not being duplicated, please check if a similar form is already in use in your organization or if a more comprehensive form already exists that covers all the required fields. 
-
-Please note that this form is AI-generated and does not use proprietary content from any form platform.
-</thinking>
-
 # Health Care Coordination Form - Help Guide
 ## Purpose
 This form is designed to collect patient information for health care coordination purposes, including demographic details, medical history, and other relevant health-related information.

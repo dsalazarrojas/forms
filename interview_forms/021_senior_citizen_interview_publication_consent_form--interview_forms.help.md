@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and structure of the Senior Citizen Interview Publication Consent Form. This form is designed to gather consent from senior citizens for the publication of their interview details. The form is used to ensure that the interviewees are aware of and agree to the publication of their information. It is crucial that the form is filled out accurately and thoroughly to avoid any potential issues with publication.
-
-This form consists of 9 fields. Some fields are required to be filled out while others are optional. The field types and purposes are explained below. Please note that some fields may have multiple options, and users should select the most accurate choice that applies to them.
-
-</thinking>
-
 # Senior Citizen Interview Publication Consent Form - Help Guide
 ## Purpose
 The Senior Citizen Interview Publication Consent Form is designed to gather consent from senior citizens for the publication of their interview details. This form ensures that interviewees are aware of and agree to the publication of their information.

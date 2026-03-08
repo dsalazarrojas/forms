@@ -1,9 +1,3 @@
-<thinking>
-This form was created to collect information from clients or customers who are reaching out to Dropbox for support. The purpose of this form is to gather essential details about the client, their contact information, and any relevant business information that will help the support team assist them efficiently.
-To ensure that you are not experiencing a duplication of efforts, please check that this is the correct form for your issue before proceeding.
-If you have already submitted a form, please do not submit it again. Please contact the support team directly if you need to update or resubmit your request.
-</thinking>
-
 # Dropbox Client Intake Form - Help Guide
 ## Purpose
 The Dropbox Client Intake Form is designed to collect essential information from clients or customers who are reaching out to Dropbox for support. This form helps our support team understand your needs and provide the best assistance possible.

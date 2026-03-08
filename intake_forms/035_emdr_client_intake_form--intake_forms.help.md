@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect client intake information for the purpose of scheduling sessions and gathering essential details about clients. The form is designed to gather data on client identification, contact information, session specifics, and consent. It is crucial to ensure that each client's information is accurately and thoroughly captured to facilitate effective communication and session planning. To avoid duplicate entries, ensure that you only submit one form per client. Please review the form carefully before filling it out to guarantee accurate and complete information is provided.
-</thinking>
-
 # emdr_client_intake_form - Help Guide
 ## Purpose
 The emdr_client_intake_form is designed to collect essential information about clients for the purpose of scheduling sessions and facilitating effective communication. This form is intended to gather data on client identification, contact information, session specifics, and consent.

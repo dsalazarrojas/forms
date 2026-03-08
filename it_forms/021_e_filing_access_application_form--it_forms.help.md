@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to request access to a file or system, and the fields are organized to gather relevant information for approval and tracking purposes. Before proceeding, please make sure you have not already submitted a similar request for the same file or system, as duplicate requests may cause unnecessary delays or conflicts.
-
-</thinking>
-
 # e_filing_access_application_form - Help Guide
 ## Purpose
 This form is used to request access to a file or system, allowing users to provide necessary information for approval and tracking.

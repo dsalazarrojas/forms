@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from the user for the purpose of processing a home insurance claim. The goal is to gather all necessary details about the claim, including the type of damage, description, and supporting documents. This form should only be completed by the policyholder who wishes to file a claim. To ensure accuracy, please carefully review each field and its corresponding label, and do not submit the form until all required fields are filled out correctly. If you are unsure about any section, it is recommended that you contact the insurance provider for guidance.
-</thinking>
-
 # Home Insurance Claim Intake Form - Help Guide
 ## Purpose
 The Home Insurance Claim Intake Form is a tool used to collect information and supporting documentation necessary for processing a home insurance claim. 

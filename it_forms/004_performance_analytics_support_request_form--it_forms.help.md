@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from end-users who require performance analytics support. The form should only be used for genuine support requests, and any duplicate requests will be considered non-compliant and may be rejected. It is essential to ensure that each request is unique and not a re-submission of a previously submitted form. The form will guide the end-user through a series of fields to collect relevant information, including contact details and support details.
 
 # Performance Analytics Support Request Form - Help Guide

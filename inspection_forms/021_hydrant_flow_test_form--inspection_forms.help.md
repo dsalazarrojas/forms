@@ -1,9 +1,3 @@
-<thinking>
-This form is used for testing the flow of hydrants in a building. The purpose of this form is to collect information about the hydrant and the test results. The form is designed to be completed by the inspector or the building's maintenance staff. It is used to record the assigned tool information, test results, and other relevant details about the hydrant flow test.
-
-Before filling out this form, please ensure that you are authorized to complete it and that you have the necessary information and tools required for the test. Please review the form carefully and fill it out accurately and completely. If you have any questions or need assistance, please contact the building's maintenance staff or the inspector.
-
-</thinking>
 # Hydrant Flow Test Form - Help Guide
 ## Purpose
 ## How To Complete This Form

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients to inquire about their hernia mesh complications. It is likely used in a clinical or medical setting to gather information from patients. Before filling out this form, please ensure you have not already completed an inquiry about the same issue. This will save your time and prevent redundant data entry. The form should be completed by a patient who has undergone hernia mesh surgery and is experiencing complications or concerns.
-</thinking>
-
 # Hernia Mesh Inquiry Form - Help Guide
 ## Purpose
 This form is designed for patients to report any complications or concerns they have regarding their hernia mesh surgery. It is intended to help healthcare providers quickly gather information and provide appropriate care.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from potential tenants or clients about their accommodation needs and preferences. It is intended for inquirers to provide details about their desired accommodation type, preferred contact method, and other relevant information. This form will help us better understand their requirements and respond accordingly. The fields are designed to be straightforward and clear, ensuring that inquirers can easily provide the necessary information without confusion. It's essential to fill out this form accurately to ensure that the inquiry is processed correctly and efficiently.</thinking>
-
 # Accommodation Management Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential tenants or clients about their accommodation needs and preferences.

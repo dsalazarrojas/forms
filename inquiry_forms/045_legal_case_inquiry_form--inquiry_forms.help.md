@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to assist users in completing the legal_case_inquiry_form form. Before proceeding, ensure you are familiar with the form's purpose and that you have all the necessary information required to fill it out accurately. Please review the relevant documentation and ensure that the form is not already in progress or has any duplicate inquiries.
-
-</thinking>
-
 # legal_case_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect essential information related to a legal case inquiry. It's used to document and process new inquiries efficiently.

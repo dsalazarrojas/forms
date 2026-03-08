@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from investors about their investment goals, risk tolerance, investment amount, experience, bond type, income level, investment frequency, time horizon, bond size, yield preference, term preference, and primary source of information for investment decisions. It seems to be a comprehensive survey aimed at understanding the diverse needs and preferences of investors. Before proceeding, we should check if this form is being used for a specific business purpose or if it's a duplicate. If it's a duplicate, we can merge this form with an existing one or discard it. If it's not a duplicate, we can proceed with creating the user-facing help guide.
-</thinking>
-
 # investment_bonds_survey - Help Guide
 ## Purpose
 This form is designed to gather information about your investment goals, preferences, and expectations to provide personalized recommendations for investing in bonds.

@@ -1,5 +1,3 @@
-<thinking> This form is a service request for security incidents. It is used to collect information about a security incident that occurred on our system. This form should only be filled out in the case of a legitimate security incident. Please do not fill out this form for non-incident related matters. If you have already filled out this form for the same incident, please do not submit additional requests as this will create duplicate incidents. </thinking>
-
 # security_incident_response_service_request - Help Guide
 ## Purpose
 This form is for reporting and documenting security incidents that have occurred on our system. Please fill out this form to provide as much detail as possible about the incident, including any relevant contact information and incident details.

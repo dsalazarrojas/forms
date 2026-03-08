@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information about elderly care residents, which is crucial for providing them with the necessary care and services. This form is used to gather demographic data, contact information, and other relevant details about each resident. It is essential to complete this form accurately and thoroughly to ensure that the resident receives the best possible care.
-
-To complete this form, follow these steps:
-
-1.  Fill in the resident's name in the "Resident Information Form" field.
-2.  Enter the resident's date of birth in the "Date of Birth" field.
-3.  Provide the resident's address in the "Address" field.
-4.  Enter the resident's phone number in the "Phone" field.
-
-Please note that this form is not a formal medical or legal document. It is designed to be a helpful tool for caregivers to gather essential information about elderly care residents.
-</thinking>
-
 # Elderly Care Resident Information - Help Guide
 ## Purpose
 This form is designed to collect demographic information about elderly care residents, including their name, date of birth, address, and contact phone number. This information will be used to provide personalized care and services to the residents.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to provide a centralized channel for employees to submit requests for support. The purpose of this form is to ensure that all employee support requests are collected and processed efficiently. Please note that this form should only be used for submitting new support requests. Repeated submissions for the same issue may be considered duplicate and will not be processed.
-</thinking>
-
 # employee_support_intake_form - Help Guide
 ## Purpose
 The employee_support_intake_form is a form designed to collect employee support requests. It is intended to be used when an employee requires assistance with a specific issue or concern.

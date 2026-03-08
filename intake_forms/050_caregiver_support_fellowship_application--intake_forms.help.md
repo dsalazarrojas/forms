@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help caregivers, family members, or others providing care to others to apply for a Caregiver Support Fellowship. The purpose of this form is to gather necessary information from potential fellows to ensure they are a good fit for the program and to help us understand their needs, skills, and experience. The form asks for personal and professional information, including education, work history, and experience as a caregiver. This data will be used to assess eligibility and to provide support during the application process. It is essential to note that the form is for personal and professional development, and applicants should be honest about their experiences and qualifications to provide the most accurate and comprehensive information.</thinking>
-
 # Caregiver Support Fellowship Application - Help Guide
 ## Purpose
 

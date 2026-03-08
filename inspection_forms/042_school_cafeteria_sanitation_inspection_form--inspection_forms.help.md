@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used by school administrators or maintenance staff to conduct regular inspections of the school cafeteria's sanitation and cleanliness. The purpose of the form is to ensure that the cafeteria meets the necessary health and safety standards for food handling, storage, and preparation. Inspectors will need to complete this form to note their observations, comments, and any issues that require attention. The form will guide inspectors to assess various aspects of the cafeteria, including cleanliness, pest control, and food handling practices. The goal is to identify areas for improvement and ensure that the cafeteria provides a safe and healthy environment for students and staff.
-
-The form is likely part of an ongoing process to maintain the cafeteria's cleanliness and prevent foodborne illnesses. Inspectors will need to complete this form regularly, perhaps after each inspection, to document their findings and recommendations. This will help the school administration to track progress and make necessary improvements.
-
-To ensure that the form is completed correctly, please follow the instructions below.
-</thinking>
-
 # School Cafeteria Sanitation Inspection Form - Help Guide
 ## Purpose
 This form is used to conduct regular inspections of the school cafeteria's sanitation and cleanliness.

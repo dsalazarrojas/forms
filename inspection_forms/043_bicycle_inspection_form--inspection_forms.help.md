@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect and standardize data for bike inspection, ensuring that bike inspections are thorough, consistent, and effective. The form is intended to be used by bicycle mechanics, service staff, or anyone responsible for bike maintenance. Its primary purpose is to assess the condition of a bike and identify any issues that may affect its safety and performance. The form is meant to be used in conjunction with a pre-existing inspection process, and it should not be used as a standalone tool for inspection. It is essential to have a clear understanding of the form's purpose and its usage guidelines to avoid duplication of effort and ensure accurate data collection. The form's structure and questions are designed to cover all critical aspects of a bike, from the frame and components to the drivetrain, brakes, and overall safety assessment. By following this guide, users will be able to complete the form efficiently and effectively, capturing all necessary information and providing a comprehensive bike inspection report.
-
-</thinking>
-
 # Bicycle Inspection Form - Help Guide
 ## Purpose
 The Bicycle Inspection Form is designed to collect data for bike inspections, ensuring consistency and thoroughness. It covers all critical aspects of a bike, from the frame and components to the drivetrain, brakes, and overall safety assessment.

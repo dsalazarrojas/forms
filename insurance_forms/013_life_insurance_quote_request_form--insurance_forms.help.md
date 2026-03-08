@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request life insurance quotes. To confirm, it is meant for individuals seeking life insurance coverage. Please ensure the form is being used for its intended purpose and not for other types of insurance requests. 
-</thinking>
-
 # life_insurance_quote_request_form - Help Guide
 ## Purpose
 The life insurance quote request form is designed to collect information from individuals seeking life insurance coverage. This form helps our team understand the customer's needs and provides a quote for the requested coverage.

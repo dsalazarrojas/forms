@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to assess the risk of phishing emails received by employees, allowing for the collection of data on the frequency, type, and reporting process of these incidents. This data can be used to identify potential security risks and develop strategies to mitigate them. It is essential that each section of the form is completed accurately and thoroughly to ensure the collection of relevant information.
-
-The form is structured into two categories: "User Information" (questions about the individual who received the phishing email), and "Phishing Incident Details" (information about the phishing email itself). The form also has an open-ended section for comments and follow-up actions. To fill out the form, the user should complete the sections in a logical order, providing accurate information about their experience and the incident.
-
-Before starting to fill out the form, make sure to have all necessary information ready, especially the employee IDs and department names. The fields that require specific dates and times can be left empty if not applicable.
-
-The form will be used internally to track and analyze the data on phishing incidents, which will help in providing better security measures and support. It is recommended that users answer the questions carefully, providing as much information as possible, and following the guidelines and instructions for the fields that require it.
-
-Please note that some of the fields are optional and can be left blank if not applicable. It is also recommended that the submitted data is reviewed and updated if necessary.
-</thinking>
-
 # phishing risk assessment form - Help Guide
 ## Purpose
 This form is designed to collect data on phishing incidents and assess the risk level associated with them.

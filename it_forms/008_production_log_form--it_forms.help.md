@@ -1,8 +1,3 @@
-<thinking>
-This help guide is to be used for end users who will be filling out the Production Log Form.
-The purpose of this form is to record information related to production activities, including production date, production time, production notes, production location, production status, and other relevant details. This form is designed to provide a structured way of capturing data that will be useful for tracking and analyzing production activities.
-</thinking>
-
 # Production Log Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers or users who have inquiries regarding outdoor lighting. The purpose of this form is to gather contact information and address details from the user to facilitate communication and provide support. The form is designed to be completed by users who want to inquire about outdoor lighting-related services or products.
-</thinking>
-
 # Outdoor Lighting Inquiry - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to gather contact information from users inquiring about media research opportunities. 
-  Ensure that users understand the form's purpose and provide relevant contact information.
-  Check for duplicate inquiries before creating a new one.
-</thinking>
-
 # Research Media Inquiry Contact Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking> 
-This guide is intended to help users understand the purpose and structure of the Advice Worker Job Application Form. The form is designed to collect information from job applicants, including their personal details, position applied for, availability, experience, and qualifications. The form's primary purpose is to gather relevant data for the hiring process. It is essential to provide accurate and up-to-date information to increase the chances of being considered for the position. Please note that providing a complete and honest application will help in the evaluation process.
-
-</thinking>
-
 # Advice Worker Job Application Form - Help Guide
 ## Purpose
 The Advice Worker Job Application Form is designed to collect relevant information from potential job applicants for Advice Worker positions. This form gathers data on personal details, position applied for, availability, experience, and qualifications. It is crucial to provide accurate and complete information to increase the chances of being considered for the position.

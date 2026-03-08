@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # transportation_order_inquiry_form - Help Guide
 ## Purpose
 This form is designed to gather information from customers for transportation-related inquiries. It collects essential details such as customer name, company, contact number, email, date, time, and contract agreement.

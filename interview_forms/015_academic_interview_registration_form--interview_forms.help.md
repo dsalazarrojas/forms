@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to register for an academic interview, providing essential details such as their name, email address, phone number, position or role, department/unit, type of interview, interview format, preferred dates and times, and other relevant information. This form ensures that the interview coordinator has all the necessary information to schedule the interview effectively and efficiently. 
-</thinking>
-
 # Academic Interview Registration Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to aid in ensuring the safety of operators working on elevated work platforms, such as scaffolding, cranes, and aerial lifts. This checklist aims to identify potential hazards and document corrective actions taken to mitigate them, promoting a safe working environment for operators and other stakeholders. By providing specific fields for operator, date, and inspector information, as well as areas for hazards and actions identified and corrective notes, this form will help inspectors and operators stay on top of workplace safety and efficiency. Please note that some fields are required and should be completed for accurate and reliable data collection.
-
-This form should only be used for elevated work platform inspection purposes. Any misuse or unauthorized use of the data collected will be considered a breach of safety guidelines.</thinking>
-
 # Elevated Work Platform Safety Checklist - Help Guide
 ## Purpose
 The Elevated Work Platform Safety Checklist is designed to ensure the safety of operators working on elevated work platforms such as scaffolding, cranes, and aerial lifts. This form helps inspectors and operators identify potential hazards and document corrective actions taken to mitigate them.

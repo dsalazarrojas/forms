@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block here is to check if the form design is reasonable and not duplicating any existing form in the same category. Based on the provided YAML, it seems that this form is for gathering information about music sound engineers, specifically their qualifications, experience, and availability. This form is not duplicating any existing form in the same category, and the field types and labels appear to be reasonable for this type of form. There are no required fields, which may indicate that this form is for informational or exploratory purposes rather than a formal application or registration process.
-</thinking>
-
 # Music Sound Engineer Interview Form - Help Guide
 ## Purpose
 This form is designed to gather information from music sound engineers, including their experience, equipment, and availability. It's meant to be completed by music sound engineers to provide their details for internal purposes, such as research or recruitment.

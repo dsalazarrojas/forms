@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insider Access Request Form - Help Guide
 
 ## Purpose

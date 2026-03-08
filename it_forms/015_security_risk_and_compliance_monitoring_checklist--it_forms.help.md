@@ -1,5 +1,3 @@
-<thinking>... This form is used to track and monitor the security and compliance risks within an organization. It allows users to identify potential risks, assess their impact, and schedule reviews and updates. The form includes fields for risk level, description, frequency, and impact assessment, as well as fields for compliance status and remediation progress. The form is designed to help users manage risks and ensure compliance with relevant regulations and standards. Please ensure that you are filling out this form for the right reasons and that the information provided is accurate and up-to-date.</thinking>
-
 # security_risk_and_compliance_monitoring_checklist - Help Guide
 ## Purpose
 This form is used to track and monitor the security and compliance risks within an organization.

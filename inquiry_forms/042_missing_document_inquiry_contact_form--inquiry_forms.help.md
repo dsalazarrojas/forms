@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the submission of inquiries related to missing documents. 
-This form should only be completed for legitimate inquiries to avoid unnecessary work and potential data duplication. 
-Duplicate submissions should be avoided as they can create confusion and extra work for the team. 
-Ensure that the submitted document information is accurate and up-to-date.
-</thinking>
-
 # Missing Document Inquiry Contact Form - Help Guide
 ## Purpose
 The purpose of this form is to submit an inquiry about a missing document. This form is used to gather information about the document and the user's contact details for further investigation and resolution.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information on a digital audit trail report. The audit trail report is a record of all changes made to a system, process, or document. This form is used to report on the status of a digital object, such as a file or a document, and the tools or resources assigned to it. The purpose of this form is to ensure that all changes are properly tracked and documented.
-</thinking>
-
 # Digital Audit Trail Report Form - Help Guide
 ## Purpose
 The Digital Audit Trail Report Form is used to report on the status of digital objects, such as files or documents, and the tools or resources assigned to them. This form helps track changes made to these objects and ensures that all information is properly documented.

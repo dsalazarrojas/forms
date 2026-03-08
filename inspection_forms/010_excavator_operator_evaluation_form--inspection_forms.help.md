@@ -1,6 +1,3 @@
-<thinking>
-Is this form intended to evaluate the performance of an excavator operator in a specific context? Is it meant to assess their proficiency, identify areas for improvement, or track maintenance history? Does it have any specific requirements for completion, such as supervisor involvement or specific fields that need to be filled? I'll make sure to cover the essential details to create a comprehensive help guide for the user. I'm assuming the form is meant to record details about excavator operators and their performance during an inspection.</thinking>
-
 # Excavator Operator Evaluation Form - Help Guide
 ## Purpose
 The Excavator Operator Evaluation Form is designed to collect information about the performance and proficiency of excavator operators during an inspection. This form helps assess their skills, identifies areas for improvement, and tracks the completion status of the inspection.

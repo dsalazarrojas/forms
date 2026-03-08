@@ -1,5 +1,3 @@
-<thinking>As a couples therapy intake form, this form is designed to gather crucial information about the couple, their relationship dynamics, and individual partners' backgrounds. The form aims to provide a comprehensive understanding of the couple's situation, enabling the therapist to tailor their approach to best meet their needs.</thinking>
-
 # Couples Therapy Intake Form - Help Guide
 ## Purpose
 The Couples Therapy Intake Form is a crucial tool for providing personalized couples therapy services. By completing this form, couples can provide essential information about their relationship, partner backgrounds, and individual goals, which helps the therapist understand their situation better.

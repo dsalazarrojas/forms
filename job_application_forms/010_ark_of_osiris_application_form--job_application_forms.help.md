@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ark Of Osiris Application Form - Help Guide
 ## Purpose
 The Ark Of Osiris Application Form is a comprehensive form designed to help us assess your gaming profile, experience, and team commitment. It's a crucial step in the application process for joining our team. Please take the time to carefully complete this form to ensure we get a complete understanding of your background and motivations.

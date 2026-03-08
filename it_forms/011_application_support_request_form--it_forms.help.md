@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from users to help the support team understand the nature of their request and provide effective assistance. This form is used to report issues with applications, and by filling out this form, users can help the support team diagnose and resolve their problems quickly and efficiently.
 
 Before starting, please ensure that you have not already submitted a similar request for the same issue. If you are unsure about the purpose of a field, please read the explanation below for clarification.

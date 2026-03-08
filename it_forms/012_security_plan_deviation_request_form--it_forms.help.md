@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a deviation from the security plan, which helps in handling exceptions or changes to the standard security processes. It is essential to ensure that all deviations are reviewed and approved in a controlled manner to maintain the security posture of the organization. Please fill this form carefully and only if you have a legitimate reason to request a deviation. Please do not fill this form if you are simply testing the system or trying to duplicate a deviation.
-</thinking>
-
 # Security Plan Deviation Request Form - Help Guide
 
 ## Purpose

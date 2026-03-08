@@ -1,12 +1,3 @@
-<thinking>
-The form, titled "Postpartum Health Evaluation Form", appears to be a tool for collecting information about postpartum health status, care, and medical history. Given the lack of explicit instructions or descriptions within the provided YAML file, I will make an educated interpretation of the form's purpose and fields. It seems to be intended for health professionals or caregivers to assess and monitor the postpartum health of new mothers. The form may be used to track recovery trends, symptoms, medications, allergies, hypersensitivities, vaccinations, and test results. The goal of the form is likely to provide a comprehensive overview of the postpartum health status and identify any potential concerns or issues. However, the exact purpose and usage of the form may vary depending on the specific context and organization it is being used in.
-
-Assuming the form is intended for medical professionals or caregivers, it is essential to ensure the collected data is accurate and up-to-date. This guide will help users understand how to complete the form correctly and provide clear explanations for each field to avoid confusion.
-
-Please note that the form's fields and labels seem to be relatively straightforward, but some labels might be unclear or too brief. I will provide explanations that aim to clarify their meaning and purpose while staying true to the original intent.
-
-</thinking>
-
 # Postpartum Health Evaluation Form - Help Guide
 
 ## Purpose

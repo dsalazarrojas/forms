@@ -1,7 +1,3 @@
-<thinking>
-The Electrical Installation Periodic Inspection Checklist form is designed to gather information on the status of electrical installations, ensuring they are functioning correctly and meeting safety standards. This form is intended for periodic inspections to be conducted on a regular basis, such as every 6 months or 1 year, to identify any potential issues or deficiencies in the electrical system. The form's purpose is to facilitate quick and thorough inspections, promoting electrical safety and reducing the risk of accidents or injuries.
-</thinking>
-
 # Electrical Installation Periodic Inspection Checklist - Help Guide
 ## Purpose
 The Electrical Installation Periodic Inspection Checklist is a tool used to inspect and document the status of electrical installations on a regular basis. This form helps ensure that electrical systems are functioning correctly and safely.

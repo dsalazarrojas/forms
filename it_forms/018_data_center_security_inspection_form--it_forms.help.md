@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Data Center Security Inspection Form is to ensure that critical security measures are in place and functioning properly within data centers. This form helps identify potential security risks and ensures that corrective actions are taken to prevent security breaches. By completing this form, facility managers and security teams can assess the overall security posture of the data center and take necessary steps to maintain a secure environment.
-</thinking>
-
 # Data Center Security Inspection Form - Help Guide
 ## Purpose
 The Data Center Security Inspection Form is designed to ensure that critical security measures are in place and functioning properly within data centers.

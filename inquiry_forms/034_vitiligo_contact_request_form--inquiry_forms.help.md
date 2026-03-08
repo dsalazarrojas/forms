@@ -1,13 +1,3 @@
-<thinking>
-
-This form was likely created to allow users to easily and efficiently provide contact information and messages to a contact center or helpline. It is designed to collect basic contact information such as name, email, phone number, and message, as well as additional information like clinic location and appointment date and time. The form may be used by clinics or businesses to collect contact requests from customers or patients, and the extra "message" fields are likely to be used for any additional comments or requests.
-
-This form does not seem to be designed for high-volume or production use, given the large number of "message" fields. It's likely a prototype or a proof-of-concept form created using AI.
-
-Before filling out this form, please review your contact information and the purpose of the form to ensure you are not duplicating an existing contact.
-
-</thinking>
-
 # Vitiligo Contact Request Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and requests from customers or patients.

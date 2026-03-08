@@ -1,19 +1,3 @@
-<thinking>Before creating this user-facing help guide, let's break down the purpose and requirements for the "Online Course Redesign Support Request Form". This form is designed to collect information from institutions regarding their online course redesign needs. The form's main goal is to gather specific details to support the redesign process. The required fields are:
-
-*   Institution Name
-*   Institution Email
-*   Contact Name
-*   Contact Email
-*   Contact Phone
-*   Institution Location
-*   Course Status
-
-These fields are marked as required in the form design. Non-duplication of the form is likely a concern, as it may indicate that the support team has already received similar requests from the same institution. To avoid duplication, the support team may want to keep track of previously received requests and check for similarities before processing new requests.
-
-To complete this form, users must provide accurate and relevant information for the support team to effectively assist with the course redesign. Each field's label, type, and options will be used to guide the user in filling out the form correctly. For example, the "Institution Name" field is a text field that requires a written response. The "Institution Location" field is a select-one field with options "Yes" and "No", indicating whether the institution's location is relevant to the course redesign process. Similarly, the "Course Status" field is a select_multiple field with options "Active" and "Inactive", which likely indicates the status of the course at the time of the redesign request.
-
-By providing these details, users will ensure that their institution's course redesign needs are accurately understood and effectively supported.</thinking>
-
 # Online Course Redesign Support Request Form - Help Guide
 ## Purpose
 The Online Course Redesign Support Request Form is designed to collect information from institutions regarding their online course redesign needs. This form helps the support team understand the requirements and provide effective support for the redesign process.

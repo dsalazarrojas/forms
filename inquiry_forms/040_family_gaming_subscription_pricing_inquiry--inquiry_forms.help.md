@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential customers who are interested in a family gaming subscription service. This form is designed to collect data on family demographics, budget, and device preferences to better understand the target audience's needs and tailor the service accordingly.
-
-When filling out this form, please ensure that you have not already submitted an inquiry for the same service. Duplicate submissions can cause confusion and lead to wasted resources.
-
-This guide is intended to be used as a reference for completing the form. Please follow the instructions carefully to ensure accurate and complete input.
-
-</thinking>
-
 # Family Gaming Subscription Pricing Inquiry - Help Guide
 
 ## Purpose

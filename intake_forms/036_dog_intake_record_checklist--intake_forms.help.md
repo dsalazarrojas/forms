@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to the intake and care of a dog. The purpose of this form is to gather vital details about the dog's intake date, owner's information, medical history, and other relevant details. This form should be used when a dog is being brought into a shelter or rescue organization. The internal logic checks for duplicate records based on the microchip number. This form does not collect any sensitive or personally identifiable information.
-</thinking>
-
 # dog_intake_record_checklist - Help Guide
 ## Purpose
 This form is designed to collect information about the intake and care of a dog. It gathers vital details about the dog's intake date, owner's information, medical history, and other relevant details to help care for the dog.

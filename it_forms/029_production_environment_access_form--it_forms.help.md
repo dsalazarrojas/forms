@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Environment Access Form - Help Guide
 
 ## Purpose

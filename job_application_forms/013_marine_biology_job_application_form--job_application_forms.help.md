@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for individuals to apply for a job in the field of marine biology. It is not intended for use in any other context. Please ensure you are applying for a real job opportunity before submitting this form. If you have already applied for this job using this form, you should not submit it again. 
 
 </thinking>

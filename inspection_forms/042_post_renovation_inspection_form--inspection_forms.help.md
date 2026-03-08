@@ -1,8 +1,3 @@
-<thinking>
-This form is a "post-renovation-inspection-form" used to inspect and verify that a renovation has been completed safely and to the expected standards. The form is used to document the inspection results, ensuring that all safety checks have been performed correctly and that the work area is ready for occupation. The goal is to provide a thorough and accurate assessment of the renovation site, focusing on safety and quality. This form should only be filled out after the renovation has been completed and before the area is occupied.
-
-</thinking>
-
 # post-renovation-inspection-form - Help Guide
 ## Purpose
 The post-renovation-inspection-form is used to inspect and verify that a renovation has been completed safely and to the expected standards.

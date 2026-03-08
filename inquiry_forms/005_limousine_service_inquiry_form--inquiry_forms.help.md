@@ -1,6 +1,4 @@
-# <thinking>... This form is designed to gather information from users who are interested in booking a limousine service for an event or occasion. This form will ask for pickup and drop-off locations, date and time of the event, number of people attending, special requests, contact information, and preferred limo type. The form will also allow users to confirm their input and review their booking information. The purpose of this form is to ensure accurate and efficient communication between the user and the limousine service provider. It is recommended to fill out the form carefully and accurately to avoid any misunderstandings or errors. </thinking>
-
-# Limousine Service Inquiry Form - Help Guide
+# # Limousine Service Inquiry Form - Help Guide
 
 ## Purpose
 The Limousine Service Inquiry Form is designed to gather information from users who are interested in booking a limousine service for an event or occasion.

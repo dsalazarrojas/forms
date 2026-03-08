@@ -1,12 +1,3 @@
-<thinking>
-This form is meant to collect information from potential customers interested in purchasing energy monitoring software licenses. The form should be completed by a company representative, providing details about their company and their energy consumption needs. The form will guide the customer through the process of selecting a suitable license plan and term that suits their needs. 
-
-The form is composed of several fields that will help the company understand the customer's company size, industry, contact information, and energy usage requirements. 
-
-Before proceeding, please review the form to ensure all fields are completed and that the information provided is accurate and up-to-date. 
-
-This guide will walk you through each field of the form and explain what you need to do with it.</thinking>
-
 # Energy Monitoring Software License Order Form - Help Guide
 ## Purpose
 This form is used to collect information from potential customers interested in purchasing energy monitoring software licenses.

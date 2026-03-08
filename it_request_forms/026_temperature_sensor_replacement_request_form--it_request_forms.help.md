@@ -1,6 +1,3 @@
-<thinking>... (internal reasoning)
-The purpose of this form is to collect information for the replacement of a temperature sensor. This form is used to request a replacement for a temperature sensor that has failed or needs to be replaced. The customer information section collects contact details of the person submitting the request, while the serial number field ensures that the correct sensor is identified for replacement. The date of failure and description of failure fields are used to document the reason for replacement. The replacement status field allows the administrator to track the status of the replacement process, and the reason for replacement status field provides additional context for the status. The notes field is used for any additional comments or information about the request. It's essential to fill out the form accurately to ensure efficient and effective processing of the replacement request.</thinking>
-
 # Temperature Sensor Replacement Request Form - Help Guide
 ## Purpose
 This form is designed to gather information for a temperature sensor replacement request. Please fill it out carefully to ensure the correct replacement is processed.

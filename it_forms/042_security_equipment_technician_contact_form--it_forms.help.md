@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a contact form for security equipment technicians to report or request assistance with various security-related issues. To ensure this form is used correctly, please ensure you are submitting it for a legitimate reason and not as a duplicate request. Before submitting, review the form carefully to avoid submitting unnecessary information.
-</thinking>
-
 # security_equipment_technician_contact_form - Help Guide
 ## Purpose
 This form is for security equipment technicians to report or request assistance with security-related issues, such as Security System, System Alarm, Access Control, or Motion Detection issues.

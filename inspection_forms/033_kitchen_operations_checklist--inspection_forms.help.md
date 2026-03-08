@@ -1,8 +1,3 @@
-<thinking>
-This form is used by kitchen staff to report the status of kitchen operations for the day. It is a checklist to ensure all tools are available, equipment is cleaned, and the kitchen is properly closed or opened. The form is used for internal purposes to monitor kitchen operations and provide necessary information for future planning and management.
-
-</thinking>
-
 # Kitchen Operations Checklist - Help Guide
 ## Purpose
 The Kitchen Operations Checklist is a form used by kitchen staff to report the status of kitchen operations. The form is designed to ensure all necessary information is recorded to monitor and improve kitchen operations.

@@ -1,7 +1,3 @@
-<thinking>
-To create a robust and user-friendly help guide for the Schema Creation Form, we need to ensure that it is accessible, easy to read, and provides all the necessary information for end-users to effectively utilize the form.
-</thinking>
-
 # Schema Creation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect data and metadata related to the creation of a new schema for the database. It gathers relevant information about the database name, table name, column name, and other essential details.

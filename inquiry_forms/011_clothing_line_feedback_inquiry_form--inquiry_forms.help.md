@@ -1,12 +1,3 @@
-<thinking>
-The form "Clothing Line Feedback Inquiry Form" is designed to collect feedback from customers and prospects about their experience with a clothing line. This form is intended to gather information on their satisfaction with the clothing line, product quality, and areas for improvement. The form will help the brand to understand customer preferences and expectations, identify areas that need improvement, and make informed decisions on product offerings and marketing strategies.
-
-This form is likely to be used by customers who have purchased or interacted with the clothing line, and the responses will help the brand to gauge customer satisfaction and identify potential areas of improvement. It is possible that some customers may not have interacted with the clothing line, but this form will still allow them to provide feedback as a prospect. It is essential to ensure that the form is completed accurately and thoroughly to provide valuable insights for the brand.
-
-To prevent duplicate submissions, it is recommended that customers do not fill out this form multiple times. If customers need to provide feedback, they can submit one form with all their thoughts and opinions. This will help to ensure that the brand receives a comprehensive and representative dataset for analysis. If customers are unsure about any aspect of the form, they can refer to this guide for clarification.
-
-</thinking>
-
 # Clothing Line Feedback Inquiry Form - Help Guide
 ## Purpose
 The "Clothing Line Feedback Inquiry Form" is designed to collect information on customers' experiences with the clothing line, gather feedback on product quality and satisfaction, and identify areas for improvement.

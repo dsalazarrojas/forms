@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # signal_quality_assessment_form - Help Guide
 ## Purpose
 This form is designed to assess signal quality in a series of signal levels from 1 to 15. It gathers information about the location, signal level, and other relevant details to help evaluate the signal's quality.

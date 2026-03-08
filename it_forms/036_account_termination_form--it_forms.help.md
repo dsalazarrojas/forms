@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Account Termination Form - Help Guide
 ## Purpose
 This form is used to document the termination of an account. It captures information about the account holder, account details, and termination reasons. The form is used to ensure a smooth and secure account closure process.

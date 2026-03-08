@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess a site's conditions before a project starts. It gathers information about the site's details, safety hazards, images, documents, notes, contacts, and comments. This form helps project teams to have a comprehensive overview of the site before commencing work, enabling them to identify any potential issues or risks that may arise during the project.
-
-Before completing this form, please ensure that you are accessing it from a relevant page (e.g., not a project that has already been completed) and that the information you are inputting is accurate and up-to-date.
-
-</thinking>
-
 # Pre Project Site Assessment - Help Guide
 
 ## Purpose

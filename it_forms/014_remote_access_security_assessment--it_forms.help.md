@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to assess the security risks associated with remote access. This form is used to gather information about the remote access practices, duration, location, frequency, risk evaluation, status, and other relevant details from users. This will help in identifying and mitigating potential security risks.
-
-Before proceeding, please ensure that you have completed the assessment for all required fields. The form has a mix of required and optional fields, so make sure to fill out all the required fields as per the specified options. 
-
-If you are unsure about any of the fields, please refer to this help guide for clarification.
-
-</thinking>
-
 # Remote Access Security Assessment - Help Guide
 ## Purpose
 The Remote Access Security Assessment form is used to gather information about remote access practices, duration, location, frequency, risk evaluation, status, and other details to identify and mitigate potential security risks.

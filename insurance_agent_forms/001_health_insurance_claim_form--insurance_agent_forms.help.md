@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Health Insurance Claim Form is to collect information about a patient's health insurance claim, including claim status, date, amount, and provider. The form aims to gather relevant details to process the claim efficiently.
-
-Before proceeding, ensure that you have the necessary information and permissions to complete the form accurately. Double-check that you are not filling out someone else's claim, as this can lead to incorrect data and unnecessary processing delays.
-
-This guide will walk you through the form step-by-step, explaining each field's purpose and how to complete it correctly.</thinking>
-
 # Health Insurance Claim Form - Help Guide
 
 ## Purpose

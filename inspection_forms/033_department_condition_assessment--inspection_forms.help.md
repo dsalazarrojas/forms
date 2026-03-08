@@ -60,6 +60,3 @@ To complete the Department Condition Assessment form, follow these steps:
 * **Department**: The name of the department being assessed.
 * **Notes**: Any additional notes about the department's condition.
 
-<thinking>
-The form is intended to be used by department staff to conduct assessments of the department's condition. The purpose is to gather information about the department's facilities, equipment, and operational status. The form will be used to track and monitor the department's condition over time. The form should only be completed by authorized personnel, and the submissions should be reviewed and updated regularly to ensure the accuracy and relevance of the information. 
-</thinking>

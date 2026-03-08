@@ -1,5 +1,3 @@
-<thinking>This form is a Life Insurance Information Form, which gathers essential information from policy owners and agents to manage and update life insurance policies. The form is designed to be filled out by policy owners and agents to ensure accurate and complete information is captured. This form is not intended to be used for new policy applications, but rather for updating existing policies or for agents to report on policy status. Please ensure that you are filling out this form for the correct purpose.</thinking>
-
 # life-insurance-information-form - Help Guide
 ## Purpose
 This form is used to gather information about life insurance policies, specifically for updating existing policies or reporting on policy status. It's essential to fill out this form accurately and completely to ensure that the information is up to date and correct.

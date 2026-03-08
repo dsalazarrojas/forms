@@ -1,30 +1,3 @@
-<thinking>BSOD (Blue Screen Of Death) Fix Form is a tool used by IT professionals to document and track BSOD (Blue Screen Of Death) issues on Windows computers. This form is used to gather information about the crash, including diagnosis, repair steps, and verification. Please ensure you are using this form only when a Windows computer has crashed and you are reporting it to your IT team. Please do not use this form for other types of technical issues.
-
-To complete this form, fill out each field accurately and thoroughly, and follow these instructions:
-
-1. Enter the Ticket Number from the crash report.
-2. Provide a detailed diagnosis and date of when the issue was diagnosed.
-3. Enter the name and contact information of the technician who performed the diagnosis and repair.
-4. Enter the error code or STOP code found.
-5. Identify the root cause of the crash.
-6. Describe in detail the repair steps taken to resolve the issue.
-7. List any software that was uninstalled to fix the problem.
-8. List any drivers that were updated.
-9. Indicate if Windows Updates were applied.
-10. Enter the duration of the repair in hours.
-11. Check if the system was restored from a backup.
-12. Identify if the BSOD issue is resolved.
-13. Describe how the fix was verified.
-14. Assess the risk of recurrence.
-15. Enter any preventative measures recommended.
-16. Indicate if follow-up monitoring is required.
-17. Indicate if the user was trained on prevention measures.
-18. Enter the completion date of the repair.
-
-Please ensure all fields are completed accurately and thoroughly, as this information is used to track and resolve the issue for future reference.
-
-</thinking>
-
 # BSOD (Blue Screen Of Death) Fix Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-This guide assumes that the form is used to document and report incidents that have occurred during a disaster response or recovery process. It is likely used by staff members or first responders to gather information about the nature of the incident, the affected area, and the contact information for key stakeholders. This form is meant to be a quick and easy way to collect information, making it ideal for use in a fast-paced disaster response situation. The fields in this form are designed to collect relevant information without requiring too much detail, making it suitable for use by staff members with varying levels of expertise.
-
-This form does not appear to be part of any existing process or system, so it is likely a one-off form for specific use cases. It is possible that this form is used in conjunction with other forms or systems to gather more comprehensive information about incidents.
-
-Given the options available in the form, it appears that the primary focus is on collecting basic contact information and categorizing the incident in a way that is easy to understand and report on. The fields included are likely sufficient for most use cases.
-</thinking>
-
 # Disaster Management Checklist Form - Help Guide
 ## Purpose
 The disaster management checklist form is used to document and report incidents that occur during a disaster response or recovery process. It captures basic information about the incident, including the affected category, subcategory, and contact details.

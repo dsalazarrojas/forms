@@ -1,9 +1,3 @@
-<thinking>
-
-To create an intuitive and user-friendly help guide for the "Chat Message Submission Form", we first need to understand that this form is designed for end-users to submit messages or inquires related to technical support, billing, or other issues related to products or services. The form aims to gather essential information to ensure a timely and effective response from the support team. The form's fields are categorized into sections for clarity, and each field is designed to capture specific details necessary for the support team to address the inquiry effectively.
-
-</thinking>
-
 # Chat Message Submission Form - Help Guide
 ## Purpose
 The Chat Message Submission Form is a tool for end-users to submit messages or inquires related to technical support, billing, or other issues related to products or services. This form is designed to gather essential information to ensure a timely and effective response from the support team.

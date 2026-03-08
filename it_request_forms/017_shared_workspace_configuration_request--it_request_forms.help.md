@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist users in understanding the purpose and requirements for the shared workspace configuration request form. This form is used to collect information for planning and setting up shared workspaces. It's crucial to ensure that the form is filled out accurately and completely, as it will impact the planning process. Please review the form carefully before submitting it to ensure that all relevant information is provided. If you have already submitted a similar form for the same workspace, please do not resubmit. This will help avoid unnecessary duplication of effort and reduce the risk of errors.
-</thinking>
-
 # shared_workspace_configuration_request - Help Guide
 ## Purpose
 The shared workspace configuration request form is used to collect information for planning and setting up shared workspaces. This form helps the planning team to accurately determine the workspace requirements and make informed decisions about the workspace setup.

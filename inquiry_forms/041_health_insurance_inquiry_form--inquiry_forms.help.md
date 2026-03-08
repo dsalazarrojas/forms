@@ -1,8 +1,3 @@
-<thinking>
-This help guide is used to ensure that users understand the purpose and requirements of the form, thereby reducing errors and increasing the quality of submissions.
-To minimize duplication, this guide checks for existing forms and prevents users from submitting the same form multiple times.
-</thinking>
-
 # Health Insurance Inquiry Form - Help Guide
 ## Purpose
 The Health Insurance Inquiry Form is used to collect information from customers or employees regarding their health insurance policies. This form helps gather details such as first name, last name, email, phone number, date of birth, policy number, policy name, inquiry type, policy status, policy start and end dates, reason for cancellation, and assigned agent.

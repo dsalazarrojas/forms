@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I will analyze the form purpose and fields to ensure I understand their relevance and requirements. From the form YAML, I see that this form is used for registering smart appliance integrations. It asks for various details such as device name, device type, IP address, password, and other relevant information. The form also includes fields for user and device model data, integration type, and notes. It seems like the form is primarily used for integration management and device configuration. I will create a clear and concise help guide based on this analysis.</thinking>
-
 # Smart Appliance Integration Registration Form - Help Guide
 ## Purpose
 This form is used to register smart appliance integrations. It collects information about the device being integrated, the user, and other relevant details to manage and configure the integration.

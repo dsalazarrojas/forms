@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coach Application Form - Help Guide
 ## Purpose
 This form is designed for individuals to apply for a coaching position. It collects personal details, coaching experience, qualifications, and other relevant information to assess their suitability for the role.

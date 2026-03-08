@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bed Bug Disclosure Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect business information and ATM-related details from customers, ensuring that the product is properly tailored to their needs. The form aims to provide a comprehensive overview of the customer's requirements, including their business type, location, and preferred features. This information will help the team to better understand the customer's needs and provide accurate quotes or proposals for the ATM product or service.
-
-The form is intended to be completed by businesses that are interested in installing an ATM at their premises. The form is not meant to be filled out by individual consumers or individuals who are not business owners or representatives.
-
-Before starting, make sure that the business is not already in the process of having an ATM installed or being served by another company. This will ensure that the provided information is not duplicated and will expedite the service process.
-
-</thinking>
-
 # ATM Product Information Request Form - Help Guide
 ## Purpose
 

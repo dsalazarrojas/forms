@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users in troubleshooting financial models, providing a structured approach to identifying and resolving issues. Before filling out this form, please ensure you are submitting a real issue with a financial model, as this form is not intended for general inquiries or non-issue related requests. To ensure that you're not duplicating efforts, check our issue tracker or knowledge base for any existing solutions or similar issues before starting.
-</thinking>
-
 # Financial Model Troubleshooting Guide - Help Guide
 ## Purpose
 This form is used to report, track, and resolve issues with financial models used for decision-making and analysis.

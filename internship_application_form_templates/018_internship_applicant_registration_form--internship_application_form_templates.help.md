@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for individuals to register their interest in internships with the company. The form aims to gather relevant information from applicants, including their personal details, skills, availability, and career goals. Please ensure that you have read and understood the form requirements before proceeding.
-
-</thinking>
-
 # Internship Applicant Registration Form - Help Guide
 ## Purpose
 The Internship Applicant Registration Form is a document that helps the company assess your eligibility and suitability for an internship position. It collects information about your personal details, skills, availability, and career goals to match you with the best internship opportunities available at our company.

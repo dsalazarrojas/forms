@@ -1,8 +1,3 @@
-<thinking>
-This form is a crucial tool for tracking and recording the inspection and maintenance history of snow plows. It is essential to ensure that all snow plows are thoroughly inspected and maintained regularly to prevent accidents and ensure public safety. 
-The form is designed to be completed by the responsible personnel who are responsible for maintaining and operating the snow plows.
-</thinking>
-
 # Snow Plow Inspection Checklist - Help Guide
 ## Purpose
 This form is used to record the inspection and maintenance history of snow plows. It is essential to complete this form for each snow plow after every use and maintenance activity to ensure accurate tracking and recording of its condition and maintenance status.

@@ -1,8 +1,3 @@
-<thinking>
-The form "Sweet Corn Quality Assessment Form" is designed to evaluate the quality of sweet corn in various aspects such as appearance, maturity, and taste. It consists of multiple pages with fields for different types of information, including text, select options, date, and time entries. The form's purpose is to collect data for further analysis and decision-making in the sweet corn production process. This form is intended for sweet corn producers, farmers, or quality assurance staff to assess and report on the quality of sweet corn in a consistent and standardized manner. This form's data collection will help in identifying areas of improvement and ensure that the quality of sweet corn meets the required standards. Please note that this form is not designed for general consumer use, but rather for professionals in the sweet corn industry.
-
-</thinking>
-
 # Sweet Corn Quality Assessment Form - Help Guide
 
 ## Purpose

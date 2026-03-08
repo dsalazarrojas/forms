@@ -1,5 +1,3 @@
-<thinking>... The form is used to record the findings and details of a nut tree inspection. This checklist should only be completed for orchard inspections. To ensure accurate recording, please complete the form for each inspection individually, without duplicating data between entries. Please do not use this form for other types of inspections or inspections that are not related to nut trees... </thinking>
-
 # Nut Tree Compliance Checklist - Help Guide
 ## Purpose
 

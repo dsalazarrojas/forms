@@ -1,7 +1,3 @@
-<thinking>
-This is a form that allows users to request a tax extension for their business. The purpose of this form is to gather information from the user to process their extension request. To ensure that each user's request is handled efficiently and effectively, we need to collect accurate and complete information. We will review each field carefully to ensure that it is properly filled out before proceeding with the user's request.
-</thinking>
-
 # Form 4868 Tax Extension Form - Help Guide
 ## Purpose
 This form is used to request a tax extension for your business. Please fill out the form accurately and completely to ensure that your request is processed efficiently.

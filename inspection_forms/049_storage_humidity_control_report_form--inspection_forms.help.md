@@ -1,20 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to understand that it's used to report on storage humidity control, which is a critical aspect of maintaining a healthy and productive environment. This form is likely used by facility management teams or maintenance personnel to document and track any issues related to storage humidity control, such as temperature and humidity levels, and corrective actions taken. 
-We should check if there are similar forms or processes in the organization to avoid duplication of effort and data redundancy.
-
-Form fields are quite straightforward, with most being self-explanatory. Some fields might need further explanation to ensure end users understand their purpose. 
-
-Form fields:
-- A date field is commonly used to record the date when the report was filled.
-- A number field for temperature and humidity readings, assuming it's used to measure and record temperature and humidity levels in the storage area.
-- A select_one field for corrective actions, likely to report which action was taken to address any issues.
-- A note field to capture any additional comments or notes.
-- Text fields for facility name, location, and contact person details, presumably for contact and identification purposes.
-- An email field to allow end users to provide their email address.
-
-Considering this form is used to report on storage humidity control, end users will likely be maintenance personnel or facility management teams.
-</thinking>
-
 # Storage Humidity Control Report Form - Help Guide
 ## Purpose
 

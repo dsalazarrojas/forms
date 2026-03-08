@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users requesting replacement audio cables. The form is used to gather details about the person requesting the replacement, the cable type and quantity needed, and the reason for the replacement. The fields are divided into two main sections: requester information and cable details. This form is likely used by IT departments or audio engineers to manage audio cable replacements, and is intended for internal use within the organization. Before submitting the form, the user should ensure they have the necessary approvals and information to complete the form accurately and truthfully.
-
-</thinking>
-
 # Audio Cable Replacement Request Form - Help Guide
 ## Purpose
 The Audio Cable Replacement Request Form is used to request replacement audio cables for various types of equipment and situations. This form is completed by users who need to replace an audio cable due to damage, upgrade, or other reasons.

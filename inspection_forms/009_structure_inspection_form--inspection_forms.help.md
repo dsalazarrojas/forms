@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # structure_inspection_form - Help Guide
 ## Purpose
 The `structure_inspection_form` is a form used to collect information about the structural integrity of a building or structure. It helps to identify any potential issues or defects that may be present in the structure, allowing for swift and effective maintenance or repairs to be conducted. This form is intended for use by building owners, property managers, or maintenance personnel to assess the condition of a building's structure.

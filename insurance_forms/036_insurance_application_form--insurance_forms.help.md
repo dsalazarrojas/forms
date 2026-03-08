@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for insurance applications, allowing users to provide their personal and contact details, select insurance type, and specify coverage dates and terms. The form is divided into sections for user information, contact information, policy holder details, and coverage settings. The user is required to provide their name, contact method, and contact person, and must select the type of insurance and coverage start and end dates. They must also specify the policy holder's ID, term, and contact information. Some fields are optional, such as premium frequency and policy holder contact.
-The form checks for non-duplication of policy holders with the same ID.
-</thinking>
-
 # insurance_application_form - Help Guide
 ## Purpose
 This form is used to collect information for insurance applications.

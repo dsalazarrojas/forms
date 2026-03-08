@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The form is designed to collect information related to <string>, including facility location, safety inspector, inspection date, reported hazards, severity of hazards, actions taken, maintenance status, comments, robot number, and robot name. This form will be used to document and report on the inspection findings and provide information for future reference.

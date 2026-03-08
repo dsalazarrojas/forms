@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to gather information about a salon furniture package inquiry from clients. The form is designed to be completed by clients who are inquiring about a salon furniture package, and it requires fields such as contact information, installation details, and package specifics. The form is likely to be used by salon furniture suppliers or manufacturers to gather relevant information from clients about their package inquiries.
 
 </thinking>

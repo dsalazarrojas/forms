@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from customers or potential customers about their interest in inquiring about a product or service. The purpose of this form is to capture relevant details such as contact information, inquiry type, phone number, email, and preferred method of follow-up contact. This form helps to streamline the customer interaction process by providing a clear and structured way for customers to express their interest. It's essential that the customer's information is accurate and up-to-date, and this form serves as a starting point for future interactions with the customer. By ensuring that the same information is not duplicated, we aim to maintain a smooth and efficient communication channel.</thinking>
-
 # Interest Inquiry Phone Call Form - Help Guide
 ## Purpose
 

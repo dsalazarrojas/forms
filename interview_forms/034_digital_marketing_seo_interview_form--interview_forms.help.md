@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about job candidates for digital marketing and SEO positions. It covers various aspects of the candidate's background, skills, and availability, providing an efficient way to assess their qualifications and schedule for potential employment. The form structure and fields are carefully crafted to gather essential details about the candidate, making it a valuable tool for HR teams and hiring managers.
-</thinking>
-
 # Digital Marketing SEO Interview Form - Help Guide
 ## Purpose
 This form is used to collect information from job candidates for digital marketing and SEO positions. It consists of eight sections that cover different aspects of the candidate's background, skills, and availability.

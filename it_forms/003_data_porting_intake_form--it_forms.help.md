@@ -1,5 +1,3 @@
-<thinking>...the form purpose and checks for relevance and non-duplication are to ensure that the data porting intake form is used correctly and efficiently. This form is used to collect information about the data porting request, and the fields are designed to gather the necessary details. The form's purpose is to guide the user in providing accurate and relevant information, reducing the need for follow-up questions and ensuring that the request is handled correctly. To avoid duplication, the form's fields are designed to be mutually exclusive, and the user is not forced to provide redundant information...)</thinking>
-
 # Data Porting Intake Form - Help Guide
 ## Purpose
 The Data Porting Intake Form is used to collect information about the data porting request, ensuring that the request is handled correctly and efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-Is the form purpose to collect safety evaluation data for machines within a facility? The form likely serves as a centralized repository for tracking machine safety status, ensuring compliance with regulatory requirements, and facilitating risk management. This guide will help users understand the form's functionality, making it easier to collect and maintain accurate machine safety data. Please ensure you only fill out the form if it's a machine safety evaluation and not for other purposes. Also, double-check that the machine is not already registered in the form to avoid duplicates.
-</thinking>
-
 # Machine Safety Evaluation Registration - Help Guide
 ## Purpose
 The Machine Safety Evaluation Registration form is used to collect data on the safety status of machines within a facility. This form helps track the safety status of each machine, ensuring compliance with regulatory requirements and facilitating risk management.

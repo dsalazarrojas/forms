@@ -1,10 +1,3 @@
-<thinking>
-This form is used to inquire about the monthly payment details of a used car. It is designed to gather information about the vehicle's year, make, model, color, trim, loan amount, loan term, down payment, monthly payment, interest rate, and other relevant details. This form is intended for users to input their contact information and provide any additional comments they may have. The form is not meant for users to confirm or finalize any loan agreements, but rather to gather information for inquiry purposes.
-
-To avoid duplication, users should not submit duplicate inquiries for the same vehicle.
-
-</thinking>
-
 # Used Car Monthly Payment Inquiry Form - Help Guide
 ## Purpose
 The Used Car Monthly Payment Inquiry Form is a tool used to gather information about the monthly payment details of a used car. This form helps to provide a quick and easy way to inquire about a vehicle's monthly payment requirements.

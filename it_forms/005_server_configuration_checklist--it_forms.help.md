@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect server configuration and monitoring information. The form is designed to be flexible and adaptable, allowing users to input various details about the server's configuration, monitoring settings, and other relevant information. To ensure that the form is completed accurately and efficiently, it's essential to understand each field's purpose and requirements. This guide will walk you through the form's purpose, how to complete it, and provide a field-by-field explanation of each section.
-</thinking>
-
 # server_config_checklist - Help Guide
 ## Purpose
 The server_config_checklist form is designed to collect server configuration and monitoring information. This form serves as a checklist to verify the status of the server's configuration, monitoring settings, and other relevant details.

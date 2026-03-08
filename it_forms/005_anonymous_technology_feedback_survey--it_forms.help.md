@@ -1,6 +1,3 @@
-<thinking> 
-We need to ensure that this form is used for its intended purpose, which is to gather anonymous feedback from users about various technologies. We should also check that the form is not being filled out by the same user multiple times. Perhaps we can add a unique identifier or IP address tracking to prevent duplication and ensure data integrity.</thinking>
-
 # Anonymous Technology Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect anonymous feedback from users about various technologies they use. Your responses will help us understand your experiences, satisfaction, and areas for improvement.

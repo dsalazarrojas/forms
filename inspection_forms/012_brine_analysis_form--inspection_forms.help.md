@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll help create a comprehensive user-facing help guide for the "Brine Analysis Form" that explains its purpose, how to complete it, and what each field means. I'll draw from the provided YAML fields to craft a clear and concise guide that's easy to follow. After this internal reasoning block, I'll output the final help guide in Markdown format.</thinking>
-
 # Brine Analysis Form - Help Guide
 
 ## Purpose

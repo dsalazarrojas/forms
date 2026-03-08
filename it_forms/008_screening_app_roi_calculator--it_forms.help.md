@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Screening App ROI Calculator" form, I'll first provide a brief internal reasoning block to explain the purpose and potential concerns of the form.
 
 The Screening App ROI Calculator is a tool designed to help users estimate the return on investment (ROI) of different scenarios related to a screening application. The form has multiple pages that guide users through various steps to input time and cost savings, implementation expenses, and ROI timelines for different scenarios. This form is likely used to help organizations evaluate the financial benefits of implementing a screening application.

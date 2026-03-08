@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Warehouse Sponsorship Inquiry - Help Guide
 ## Purpose
 This form is designed to collect information from potential sponsors about their interest in sponsoring a warehouse project. The form is used by project coordinators to gather relevant details and evaluate sponsorship opportunities. Please complete this form to express your interest in sponsoring a warehouse project.

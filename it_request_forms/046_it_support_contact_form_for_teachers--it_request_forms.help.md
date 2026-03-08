@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "it_support_contact_form_for_teachers" form, we first need to understand its purpose. The form is likely designed for teachers to report an issue or request support from the IT department. The form is probably used to categorize whether the teacher is seeking support (yes/no) or not, and what issue they are facing (e.g., technical issue, non-technical issue), and provide any additional information or description of the problem. This form is probably used by teachers to efficiently report their issues and receive help from the IT team.
-</thinking>
-
 # it_support_contact_form_for_teachers - Help Guide
 ## Purpose
 This form is for teachers to report issues or seek support from the IT department.

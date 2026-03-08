@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # laser_treatment_client_intake_survey - Help Guide
 ## Purpose
 This form is designed to collect information from clients prior to laser treatment. It gathers essential details such as contact information, medical history, and any allergies they may have. The data collected will be used for administrative purposes, including scheduling appointments and communicating with the client.

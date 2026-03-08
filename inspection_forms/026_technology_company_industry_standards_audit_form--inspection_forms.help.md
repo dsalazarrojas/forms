@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I will check the form purpose and relevance to ensure that the guide will be useful and informative for the end-users. Upon analyzing the form, it appears to be a Technology Company Industry Standards Audit Form, designed for evaluating the compliance status of technology companies with industry standards. The form includes fields for technology company information, audit frequency, compliance status, and other relevant details. I will create a clear and concise help guide that explains each field and its purpose.</thinking>
-
 # technology_company_industry_standards_audit_form - Help Guide
 ## Purpose
 This form is designed to help technology companies assess their compliance status with industry standards. The goal is to collect information about a company's technology standards, audit frequency, and compliance status, as well as other relevant details. This form will help companies track their progress in maintaining industry standards and identify areas for improvement.

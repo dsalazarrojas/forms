@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for collecting information from customers who are seeking web design services. The form's purpose is to gather data about the customer's project, including the project's title, description, target audience, expected launch date, color scheme, font size, design file type, design platform, email address, contact number, project manager's name, and project status. This form will help us better understand the customer's needs and requirements for their web design project.
-
-</thinking>
-
 # Web Design Interview Form - Help Guide
 ## Purpose
 

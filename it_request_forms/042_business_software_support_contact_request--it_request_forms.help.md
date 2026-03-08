@@ -1,9 +1,3 @@
-<thinking>
-This form is a support contact request form, designed to allow users to submit their business software support requests in an organized manner. The form is intended for internal use within an organization, and it's essential to ensure that the submitted requests are accurate and relevant to the support team's expertise. To avoid duplication, we should check for existing requests before accepting a new one. This form is divided into several sections, each with specific fields that help identify the issue, its priority, and the preferred contact method. It's crucial to fill out the form correctly, providing as much detail as possible, especially in the "Detailed Issue Description" field, to ensure the support team can quickly understand and resolve the issue.
-
-Before submitting the form, please ensure you have a clear and concise description of the issue and the impact it has on your operations. The support team will appreciate the attachments you provide, as they can help them quickly reproduce the problem and find a solution.
-</thinking>
-
 # Business Software Support Contact Request - Help Guide
 ## Purpose
 

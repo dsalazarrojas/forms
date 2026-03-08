@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to generate a secure link for insurance reviews and assessments, which can be sent to agents through various channels (email, SMS, social media, or QR code generation). The generated link will be delivered to the agent's official email address provided. The form requires several fields to generate the link: 
-- The agent's full name and ID number
-- The 15-digit Jotform form number
-- The region for link distribution (e.g., North America, Europe, Asia Pacific, or Latin America)
-- The custom suffix for tracking (optional)
-- The intended platform for sharing the link (e.g., email, SMS, social media, or QR code generation)
-- The priority for link activation (standard or urgent)
-
-This form is intended to be used by agents to generate a secure link for their reviews and assessments. The form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation created using public survey topic metadata as inspiration.
-</thinking>
-
 # Agent ERS Link Generator - Help Guide
 
 ## Purpose

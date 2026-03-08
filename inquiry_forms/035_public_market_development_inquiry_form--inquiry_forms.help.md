@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # public_market_development_inquiry_form - Help Guide
 
 ## Purpose

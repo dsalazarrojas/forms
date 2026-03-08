@@ -1,12 +1,3 @@
-<thinking>
-We will help create a user-facing help guide for this form by breaking down its purpose, how to complete it, and what each field means, based on the provided YAML fields.
-
-The Restaurant Internship Referral Form is designed to collect information about an internship opportunity at a restaurant. The form is meant to gather details about the job, such as the restaurant's name, address, and job title, as well as contact information for the person referring the candidate. This form is likely used by HR departments or recruitment teams to collect referrals from current employees or other sources, and will help streamline the internship application process.
-
-Before filling out this form, make sure you are referring a legitimate internship opportunity that has not already been filled. This form is meant for referrals that have not been previously submitted, so please do not fill out this form if you have already referred this candidate or job opportunity.
-
-</thinking>
-
 # Restaurant Internship Referral Form - Help Guide
 ## Purpose
 The Restaurant Internship Referral Form is designed to collect information about an internship opportunity at a restaurant, helping HR departments or recruitment teams gather details about the job and the person referring the candidate.

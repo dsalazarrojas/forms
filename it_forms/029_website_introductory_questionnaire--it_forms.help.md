@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a website, including its purpose, target audience, and content requirements. Please ensure you have a clear understanding of the website you are creating or managing before filling out this form.
-</thinking>
-
 # website-introductory-questionnaire - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to onboard venture capital investors, collecting their details and due diligence information to facilitate potential investments. To ensure you're using this form correctly, double-check that you're not creating multiple onboarding forms for the same investor, as this might lead to data duplication. Before starting, review the fields below to understand what each section requires.
-</thinking>
-
 # Venture Capital Investor Onboarding Form - Help Guide
 
 ## Purpose

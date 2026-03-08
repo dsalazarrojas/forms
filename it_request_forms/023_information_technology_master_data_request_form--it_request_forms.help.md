@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # information_technology_master_data_request_form - Help Guide
 ## Purpose
 This form is used to collect information about master data requests from the IT department. It is designed to gather essential details about the type of data requested, priority, and other relevant information to ensure efficient handling and processing of the request.

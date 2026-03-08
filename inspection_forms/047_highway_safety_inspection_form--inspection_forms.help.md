@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the safety inspection of highways, gathering data on general inspection information, vehicle inspectee details, vehicle characteristics, safety features, road surface conditions, road geometry, road visibility, traffic signals, and traffic signs. This form should not be used for official government purposes, but rather for personal or educational use. To ensure that the form is used correctly, please review the instructions below.
-</thinking>
-
 # highway_safety_inspection_form - Help Guide
 ## Purpose
 This form is intended to collect data on highway safety inspection information for personal or educational purposes.

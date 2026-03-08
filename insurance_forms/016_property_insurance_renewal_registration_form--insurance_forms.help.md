@@ -1,13 +1,3 @@
-<thinking>
-This form is meant for users to provide information about their property insurance renewal registrations. It's essential to understand that this form is not meant for creating new policies but rather for updating or renewing existing ones. 
-
-This form is designed to collect details about the policy holder, property, and policy coverage. The form will help the user input their property details such as address and policy information like start and end dates, coverage type, and policy status. It will also help users to input their contact information such as email and phone number.
-
-The form also asks for additional notes about the policy, which can be useful for reference. The alternative fields are meant to be used in specific scenarios where the primary fields might not be sufficient.
-
-Before proceeding, ensure you understand the differences between the primary and alternative fields as well as the purpose of this form.
-</thinking>
-
 # Property Insurance Renewal Registration Form - Help Guide
 ## Purpose
 

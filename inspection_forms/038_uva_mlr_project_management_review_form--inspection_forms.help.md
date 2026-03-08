@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a UVA (University of Virginia) MLR (Machine Learning Research) project, specifically to monitor and review project progress. The form is likely used by project stakeholders to track and evaluate project status, identify potential issues, and plan future actions. Before filling out this form, please ensure that the project is not already being reviewed or evaluated elsewhere. This form is meant to be a concise and standardized way to gather relevant information about the project.
-</thinking>
-
 # UVA MLR Project Management Review Form - Help Guide
 ## Purpose
 The form is designed to collect information about a UVA MLR project, allowing project stakeholders to track and evaluate project progress, identify potential issues, and plan future actions.

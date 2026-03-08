@@ -1,7 +1,3 @@
-<thinking>
-This form is used for conducting an air quality inspection. The purpose of this form is to collect data on the ambient air quality conditions in a specific location, including temperature, humidity, CO2 level, TVOC level, PM2.5 and PM10 levels, and other relevant factors. This form is intended to be completed by certified inspectors who will review the results to determine the air quality and provide recommendations for improvement.
-</thinking>
-
 # Air Quality Inspection Form - Help Guide
 ## Purpose
 The Air Quality Inspection Form is used to collect data on the ambient air quality conditions in a specific location. This form is designed for certified inspectors to conduct thorough inspections and identify potential air quality issues.

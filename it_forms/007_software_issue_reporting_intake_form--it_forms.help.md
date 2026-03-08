@@ -1,10 +1,3 @@
-<thinking>
-The "software_issue_reporting_intake_form" form is a tool used by users to report software issues or problems they are experiencing. It helps the support team to gather essential information about the issue, including a brief summary, the type of issue, and relevant details such as description, time, and tags. This form is designed to minimize duplicate reporting and ensure that the support team has a thorough understanding of the issue before addressing it. The goal is to gather accurate and detailed information to expedite the resolution process.
-
-To ensure the form's effectiveness, it is essential to understand its components and how to complete it correctly. This help guide will walk you through each field, providing clear explanations and tips to ensure a smooth and efficient reporting process.
-
-</thinking>
-
 # software_issue_reporting_intake_form - Help Guide
 ## Purpose
 The software_issue_reporting_intake_form is a tool used to report software issues or problems to the support team.

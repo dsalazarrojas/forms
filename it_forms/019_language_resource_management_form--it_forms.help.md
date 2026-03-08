@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Language Resource Management Form. Its primary purpose is to gather information about language resources. Before proceeding, please ensure that you have a clear understanding of what you are providing. This form has multiple fields for various aspects of language resources, and your input will help in effective management.
-
-</thinking>
-
 # Language Resource Management Form - Help Guide
 ## Purpose
 The Language Resource Management Form is designed to collect information about language resources, which helps in effective management and organization of these resources.

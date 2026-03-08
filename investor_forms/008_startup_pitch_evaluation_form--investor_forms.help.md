@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to evaluate a startup's pitch to potential investors. The form likely serves as a structured framework to assess the strengths and weaknesses of a startup's proposal, covering various aspects such as the team, product, market, business model, competition, financials, and management. This form might be used internally within a company or organization to ensure that each startup pitch is thoroughly reviewed and evaluated consistently. It's likely that this form is not meant to be filled out by the general public, but rather by internal reviewers or investors who are familiar with the startup ecosystem. There is no indication that this form is meant to collect sensitive or personal data. It's possible that the form is used to evaluate multiple startups, given the presence of duplicate fields for each section.
-</thinking>
-
 # Startup Pitch Evaluation Form - Help Guide
 ## Purpose
 This guide is designed to help users understand the purpose and proper completion of the Startup Pitch Evaluation Form. This form is used to evaluate the strength of a startup's pitch, covering various aspects of the business.

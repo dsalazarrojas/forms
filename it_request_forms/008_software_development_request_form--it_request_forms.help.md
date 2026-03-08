@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect requests from users for software development projects. It is not intended for general inquiries or support questions. Before proceeding, please ensure that your request is not a duplicate and that you have already submitted a similar request. If you are unsure, please contact the project management team to confirm the status of your request.
-</thinking>
-
 # Software Development Request Form - Help Guide
 ## Purpose
 This form is designed to collect requests from users for software development projects, such as bug fixes, new feature additions, or updates to existing applications. It will guide you through the necessary information for a project request.

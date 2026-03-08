@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this is a form for documenting the results of an inspection of an incubator. The form will be used by inspectors to report on any issues they have encountered and take corrective actions. This form is likely used by facilities management or maintenance teams within the organization to track and address potential issues with incubators. I will now create a help guide for the form.
-</thinking>
-
 # Incubator Inspection Report - Help Guide
 ## Purpose
 This form is used to record the results of an inspection of an incubator. Inspectors will use this form to report any issues or problems that they have found during the inspection, which can help facilities management or maintenance teams to take corrective actions.

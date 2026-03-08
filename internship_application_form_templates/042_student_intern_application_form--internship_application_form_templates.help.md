@@ -1,5 +1,3 @@
-<thinking>This form is used for students who are interested in applying for an internship. The purpose of this form is to gather information about the student's contact details, educational background, work experience, skills, references, and available start date. To ensure that the form is completed accurately and efficiently, please review this guide carefully.</thinking>
-
 # Student Intern Application Form - Help Guide
 ## Purpose
 This form is designed for students who are interested in applying for an internship. The form will be reviewed and considered for placement in our company's internship program.

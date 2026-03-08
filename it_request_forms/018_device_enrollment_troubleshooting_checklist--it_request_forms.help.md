@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for use by IT personnel to troubleshoot issues with device enrollment. It is used to collect information about device issues that require technical support. The form is meant to be completed by IT staff who will analyze and troubleshoot the issues. This form is likely to be used internally within the organization and may not be visible to external users.
-Checking for relevance and non-duplication:
-This form should only be used when there is a specific device enrollment issue that requires technical support. It is not intended for general device information or status updates. Each field is designed to collect specific details about the issue, such as the device serial number, troubleshooting steps, and issue description. The IT contact field is intended to capture the name and contact information of the staff member who will be working on the issue.
-</thinking>
-
 # Device Enrollment Troubleshooting Checklist - Help Guide
 ## Purpose
 This form is used to collect information about device enrollment issues that require technical support. It is intended for use by IT personnel to help diagnose and resolve problems with device enrollment.

@@ -1,5 +1,3 @@
-<thinking>As a barcode scanner feedback form, this form is designed to collect information about your experiences with a specific barcode scanner model. Please use this form to provide feedback on the scanner's performance, usability, and overall satisfaction. Before filling out this form, please ensure that you have filled out the same form in the past. If you have, you can skip to the "Field-by-Field Explanation" section to review the form details. If not, please fill out the form carefully and thoroughly.</thinking>
-
 # Barcode Scanner Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on a barcode scanner's performance, usability, and overall satisfaction.

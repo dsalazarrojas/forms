@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information about Directors and Officers insurance policies. The purpose of this form is to gather detailed information about each policy, including general information about the company, directors and officers information, their experience and education, coverage details, payment terms, and policy status. This form is intended for use by insurance professionals or company administrators to collect and store data about their policies in a structured manner.
-</thinking>
 # Directors And Officers Insurance Questionnaire - Help Guide
 ## Purpose
 This form is used to collect and store information about Directors and Officers insurance policies, including general information, director and officer details, policy coverage, payment terms, and policy status.

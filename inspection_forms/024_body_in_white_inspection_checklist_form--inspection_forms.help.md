@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide inspectors through a comprehensive inspection of a vehicle body in white (a vehicle body that has not undergone final painting). The form is used to evaluate the quality and integrity of the vehicle body, checking for various defects and ensuring that it meets certain standards.
-</thinking>
-
 # Body In White Inspection Checklist Form - Help Guide
 ## Purpose
 This form is designed to guide inspectors through a comprehensive inspection of a vehicle body in white, evaluating the quality and integrity of the vehicle body, and checking for various defects and issues.

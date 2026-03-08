@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ESG Impact Strategy Fellowship Application Form - Help Guide
 
 ## Purpose

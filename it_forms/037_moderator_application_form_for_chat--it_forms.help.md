@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for users to apply to become moderators for a chat forum. Moderators play a crucial role in maintaining the community and enforcing rules, so it's essential that the application process is thorough and clear. To help with this, the form collects information that helps assess the applicant's qualifications, motivation, and fit for the role.
-
-When filling out this form, ensure that you answer all required fields and provide as much detail as possible. If a field is not required, feel free to leave it blank.
-
-Before submitting the form, review your application carefully to ensure that it accurately reflects your qualifications and motivation for becoming a moderator.
-
-This guide will walk you through each field, explaining what each field means and how to complete it. Please read it carefully to ensure a successful application.
-
-</thinking>
-
 # Moderator Application Form For Chat - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # industrial_hygiene_inspection_form - Help Guide
 
 ## Purpose

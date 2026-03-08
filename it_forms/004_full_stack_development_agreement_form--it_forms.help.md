@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide to assist users in completing the "Full Stack Development Agreement Form" form. This form is intended to outline the terms and conditions of a project, including its details, lead information, deadline, payment terms, project status, approval details, agreement details, terms, and comments. The form is designed to ensure that all parties involved in the project are aware of the project's scope, timeline, and expectations. It is crucial to fill out this form accurately and thoroughly to avoid misunderstandings and miscommunications. Please ensure that you have a clear understanding of each field before proceeding to fill out the form.
-</thinking>
-
 # Full Stack Development Agreement Form - Help Guide
 ## Purpose
 The "Full Stack Development Agreement Form" is a comprehensive form used to outline the terms and conditions of a project, ensuring all parties are on the same page.

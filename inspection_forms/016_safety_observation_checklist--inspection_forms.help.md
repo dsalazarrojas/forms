@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for end-users to help them complete the Safety Observation Checklist form effectively and efficiently. The form's purpose is to record observations about patient safety. It is used to gather feedback on whether patients have been handled, examined, transferred, and other critical care activities. The form ensures that patients are treated and examined safely, and that potential risks are identified. This guide will walk you through the steps to complete the form, what each field means, and provide practical tips for successful completion.
-
-</thinking>
-
 # Safety Observation Checklist - Help Guide
 ## Purpose
 The Safety Observation Checklist is a form used to record observations about patient safety during critical care activities, such as patient handling, physical examinations, transfers, and patient falls. The form helps identify potential risks and promotes safe care practices.

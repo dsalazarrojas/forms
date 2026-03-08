@@ -1,10 +1,3 @@
-<thinking>
-The form "ttpost_courier_contractor" is designed to collect information from courier service providers, including their personal details, job status, and assignment history. This form is likely used for administrative purposes, such as maintaining a database of active and inactive contractors. The purpose of this form is to gather accurate and up-to-date information about each contractor, ensuring that the database remains current and efficient. 
-
-It's worth noting that the form includes fields such as date of birth, job description, address, and zip code, which may contain sensitive personal information. Ensure that all data collected from this form is handled and stored in compliance with data privacy and security regulations.
-
-Before proceeding with the submission, please review each field to ensure accuracy and correctness of the information provided.</thinking>
-
 # tpost_courier_contractor - Help Guide
 ## Purpose
 The form "ttpost_courier_contractor" is designed to collect information from courier service providers for administrative purposes.

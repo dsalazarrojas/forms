@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Daily Retail Inspection Form is a form used for inspectors to document their observations and findings during a daily inspection of a retail store. The form is intended to be completed by store managers or inspectors to provide a snapshot of the store's status and inventory levels at a specific time. The form will help identify any issues or areas for improvement within the store and aid in making data-driven decisions. To ensure accuracy, please note that this form should not be completed if the store has not been inspected yet. 
 
 # Daily Retail Inspection Form - Help Guide

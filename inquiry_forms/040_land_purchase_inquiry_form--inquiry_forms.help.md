@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Land Purchase Inquiry Form", I need to consider the provided form fields and the purpose of the form. 
-The form is called "Land Purchase Inquiry Form", which suggests that its primary purpose is to gather information from users about their inquiry or interest in purchasing land. 
-The form has a mix of select_one and text fields, which indicate that users will be asked to select a property type and provide various contact information. 
-The fields that stand out as requiring attention are the "property_address" and "contact_name" fields, as their labels are quite generic and do not provide much explanation. 
-The "property type" field seems to be the most critical field in the form, as it will determine the subsequent fields and options that follow. 
-The "additional info" field is not required, which suggests that users may want to provide additional information, but it is not a critical piece of data for the form. 
-The "realtor name" and "realtor office" fields are also important as they are required, indicating that users need to provide realtor information to complete the form.
-
-</thinking>
-
 # Land Purchase Inquiry Form - Help Guide
 ## Purpose
 The Land Purchase Inquiry Form is designed to gather information from users who are interested in purchasing land. This form will guide you through the necessary steps to provide your contact and property details.

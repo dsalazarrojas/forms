@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block explaining the purpose and potential duplication checks: 
-This form is designed to gather information for the purpose of performing a Google outage technical analysis. It requests details about the business impacted by the outage, including their name, location, and contact information. The form also asks for the duration of the outage, start and end times, and the submitter's contact information. To ensure accuracy and prevent duplication, we recommend that each business only submit a single form for each outage incident. Please ensure that all required fields are completed accurately and thoroughly.
-</thinking>
-
 # Google Outage Technical Analysis Request Form - Help Guide
 ## Purpose
 This form is used to request analysis of a Google outage that has impacted your business. It helps us to understand the scope and effect of the outage and to identify areas for improvement.

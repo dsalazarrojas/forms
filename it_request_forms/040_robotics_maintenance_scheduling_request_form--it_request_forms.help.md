@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to submit a request for robotics maintenance scheduling. This form likely exists to ensure that robotics maintenance is performed in a timely and organized manner, allowing for efficient use of resources and minimizing downtime. To use this form, the user should be a staff member or a team member who needs to schedule maintenance for one or more robots. This form is likely not intended for public use, so only authorized users should be able to access and submit it.
-
-</thinking>
 # robotics_maintenance_scheduling_request_form - Help Guide
 ## Purpose
 This form is used to schedule maintenance for robotics equipment. It gathers essential information to ensure that the maintenance is performed correctly and on time.

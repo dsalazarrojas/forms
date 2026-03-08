@@ -1,7 +1,3 @@
-<thinking>
-The Operations Site Walk Checklist Form is designed to collect information about site walk activities. It helps users to document their site walk experiences in a structured and organized manner.
-</thinking>
-
 # Operations Site Walk Checklist Form - Help Guide
 ## Purpose
 This form is used to collect data related to site walks, including the date, time, start time, duration, location, and notes. The form is used to help users track and document their site walk activities.

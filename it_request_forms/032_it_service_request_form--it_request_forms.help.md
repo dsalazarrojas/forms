@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to be a quick reference for end users who need to submit an IT service request. 
 
 The form has 8 fields that are used to gather necessary information to properly address the request. 

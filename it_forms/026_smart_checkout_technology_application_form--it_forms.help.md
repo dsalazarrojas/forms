@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for applicants to provide information about their interest in implementing Smart Checkout Technology in their business. The purpose of this form is to gather relevant data to assess the potential fit of our technology with the applicant's business needs. This form is not meant to be a comprehensive sales or proposal document, but rather a quick and informal application process to gauge interest and identify potential leads.
-
-To ensure we are not duplicating efforts and to avoid unnecessary follow-ups, please note that this form is meant for initial applications only. If you have already submitted an application or have been in touch with our team regarding Smart Checkout Technology, please do not submit this form again.
-
-</thinking>
-
 # Smart Checkout Technology Application Form - Help Guide
 ## Purpose
 The Smart Checkout Technology Application Form is designed to collect information about your business interest in implementing Smart Checkout Technology. This form will help us understand your business needs and assess the potential fit of our technology with your requirements.

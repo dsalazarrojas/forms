@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to capture server-related requests for Information Technology services. The form ensures that the necessary information is captured correctly and consistently for the IT services team to fulfill the requests efficiently. To avoid duplication of work, the form should only be filled out when a request has not been made previously. It is recommended that users only fill out the form with accurate and up-to-date information.
-</thinking>
 # Information Technology Services Server Request Form - Help Guide
 ## Purpose
 This form is used to capture and document server-related requests for Information Technology services. It is intended to ensure that all necessary information is captured correctly and consistently for the IT services team to fulfill the requests efficiently.

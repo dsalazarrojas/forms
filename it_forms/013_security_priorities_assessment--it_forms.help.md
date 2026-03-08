@@ -1,6 +1,3 @@
-<thinking> 
-We're going to create a help guide for a form called "Security Priorities Assessment" that aims to gather information from users about their security focus areas, readiness levels, and planning status. The form seems to assess the security priorities of various teams or individuals, helping to identify areas of improvement and readiness levels. To ensure relevance, we'll follow the provided YAML structure and explain each field concisely. The guide will be tailored to help end-users understand the form's purpose and usage, making it easier for them to complete it accurately.</thinking>
-
 # Security Priorities Assessment - Help Guide
 ## Purpose
 The Security Priorities Assessment form is designed to evaluate the security focus areas, readiness levels, and planning status of various teams or individuals. This assessment will help identify areas that require improvement and readiness levels to enhance overall security.

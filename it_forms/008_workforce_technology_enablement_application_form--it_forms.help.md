@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from a requester regarding workforce technology enablement applications. This form is used to collect details from the requester, including their manager's information and any additional tool requests. The form is used to ensure that the technology requests are properly approved and processed. It's essential to fill out the form accurately and completely to avoid any delays or issues with the technology enablement process.
-</thinking>
-
 # Workforce Technology Enablement Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from a requester regarding workforce technology enablement applications.

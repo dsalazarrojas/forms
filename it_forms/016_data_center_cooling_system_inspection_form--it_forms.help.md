@@ -1,8 +1,3 @@
-<thinking> 
-This form is meant to collect data center cooling system inspection information and performance metrics. It appears to be used for evaluating and maintaining the overall health and reliability of the data center cooling system. The fields are mostly binary (select_one, select_multiple) or text-based, which suggests it's a simple and straightforward form for data collection. I'll create the help guide in the required format, using the provided YAML schema as a reference.
-
-</thinking>
-
 # Data Center Cooling System Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about the data center cooling system's condition, performance, and reliability. This data will help maintain and improve the overall health of the data center.

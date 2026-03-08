@@ -1,5 +1,3 @@
-<thinking>... internal logic check: form is used for insurance company to review and approve claims. This form is intended to be used by authorized personnel to verify and validate claim information. This form should not be used to initiate or submit new claims, as that process should be done through other means (e.g. website, mobile app). The form is meant to be reviewed and approved by one person at a time, not to be filled out and submitted by the claimant themselves. ...</thinking>
-
 # insurance_claim_review_approval_form - Help Guide
 ## Purpose
 The **Insurance Claim Review and Approval Form** is a tool used by authorized personnel to review and approve or deny insurance claims. It helps to ensure that all required information is verified and accurate before making a decision on a claim.

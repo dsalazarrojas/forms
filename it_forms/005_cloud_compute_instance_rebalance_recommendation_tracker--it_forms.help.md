@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cloud Compute Instance Rebalance Recommendation Tracker - Help Guide
 ## Purpose
 The Cloud Compute Instance Rebalance Recommendation Tracker is a tool used to track and manage recommendations for rebalancing cloud compute instances. It helps users to identify areas where instance sizes can be adjusted to optimize costs, performance, and utilization. This form is intended to guide users through the process of submitting and tracking rebalance requests for cloud instances.

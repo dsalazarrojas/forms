@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for an Orlando Holiday Vacation Inquiry form that is used to gather information from users about their travel plans. This form will be completed by users who are interested in learning more about the vacation packages available in Orlando. 
-We want to make sure the form is easy to understand and that users know exactly what to expect when completing it. We also want to ensure that the information we collect is accurate and complete. 
-Before filling out this form, please check if you have already submitted an inquiry about your vacation plans in the past. You can search for previous inquires on the website to avoid duplicate submissions.
-
-</thinking>
-
 # Orlando Holiday Vacation Inquiry - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your travel plans and preferences to provide you with the best-suited vacation package options. This form will help us tailor our offerings to fit your needs.

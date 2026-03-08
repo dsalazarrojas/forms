@@ -1,8 +1,3 @@
-<thinking>
-To determine the purpose of this form, we must first analyze its fields and options. The form, titled "PC Quote Form", seems to be used for creating and managing quotes for customers. It asks for customer information, including name, email, phone number, note, and address. It also includes fields for selecting quote status, created by, and created date/time. There are also fields for quote price, items, and notes. This suggests that the form is primarily used for quoting and managing customer orders. 
-We'll now create a concise and practical help guide based on this analysis.
-</thinking>
-
 # PC Quote Form - Help Guide
 
 ## Purpose

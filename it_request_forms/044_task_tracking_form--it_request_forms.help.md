@@ -1,8 +1,3 @@
-<thinking>
-The form is likely used for tracking and reporting tasks within an organization, possibly for team collaboration or project management purposes. This form allows users to input details about a task, such as its name, description, and priority. The form also includes fields for selecting an assignee, start and end times, priority, department, manager, and task status. These fields are likely used to track and analyze task completion and progress. The form does not explicitly state any specific requirements for completion, but it does not have a submission button, suggesting that the form is intended to be a static template for tracking and reporting tasks rather than for submitting new task requests. 
-
-</thinking>
-
 # Task Tracking Form - Help Guide
 ## Purpose
 The task tracking form is designed to provide a structured way for users to input and report task-related information for tracking and analysis purposes.

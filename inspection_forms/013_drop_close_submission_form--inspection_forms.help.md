@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information about facility closings and submissions, likely in a business or operational context. It collects data about the submission date and time, facility name, reason for closure, details about the closure, facility type, area, and teams involved (operations and logistics). Additionally, it captures information about supporting documents, comments, and submission metadata (name, email, time, date). This form aims to standardize and streamline the process of recording facility closings and submissions.
-
-This form is likely used in a setting where facility closures are common, such as in healthcare, construction, or emergency response scenarios. The form is intended for users who need to report facility closures and provide detailed information about the events.
-
-Before filling out this form, please note that some fields are required, marked as "true" in the form's metadata. This means that you must provide a value for these fields for the form to be complete and valid.
-
-Also, some fields offer options or lists of possible responses. Please select the correct option that best fits your situation.
-
-Please fill out this form carefully, as it is intended to provide accurate and comprehensive information about facility closures.
-</thinking>
-
 # Drop Close Submission Form - Help Guide
 ## Purpose
 ## How To Complete This Form

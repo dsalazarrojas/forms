@@ -1,5 +1,3 @@
-<thinking>As I create this form guide, I'll need to ensure that the form is clear and easy to understand for end-users. This form is an internal candidate interview questionnaire used to gather feedback and ratings from interviewers after each interaction with a candidate. To prevent duplicate or irrelevant entries, it's essential to fill out the form only when it's a new candidate interview session and after the session has ended. This will help to keep track of accurate and reliable feedback for future reference and data analysis. I'll focus on explaining each field clearly to prevent any confusion and make the process smooth and efficient.</thinking>
-
 # Internal Candidate Interview Questionnaire - Help Guide
 ## Purpose
 The Internal Candidate Interview Questionnaire is a form used to gather feedback and ratings from interviewers after each interaction with a candidate. It's meant to be filled out only after a new candidate interview session has ended to ensure accurate and reliable feedback.

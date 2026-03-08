@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect relevant information from patients visiting the emergency department for assessment. This form helps to gather data about the patient's medical history, chief complaint, medical condition, allergies, and more. Please note that the form is divided into different sections and subsections, each focusing on a specific aspect of the patient's information.
-</thinking>
-
 # Emergency Department Assessment Form - Help Guide
 ## Purpose
 This form is intended to help emergency department staff members assess patients' medical conditions and provide effective care.

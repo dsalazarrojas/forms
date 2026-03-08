@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to request a laundry machine inspection, which is a critical maintenance activity to ensure the proper functioning and safety of the laundry machines. This form is typically used by facility or maintenance staff to report any issues or concerns they have with a laundry machine, such as leaks, odors, or malfunctioning equipment. The form will help the maintenance team identify the problem and schedule the necessary repairs or maintenance to minimize downtime and prevent accidents.
-
-To complete this form correctly, the user should:
-
-1. Ensure they are in the correct location and have access to the relevant information.
-2. Enter the contact details, including their name and contact information, to facilitate communication with the maintenance team.
-3. Provide a brief description of the machine's current status, including any issues or concerns.
-4. Select the correct options for the issues encountered, such as "Yes" or "No".
-5. Attach any relevant photos or supporting documents to help the maintenance team understand the problem.
-6. Specify their preferred dates for the inspection to be performed.
-7. Add any additional comments or notes about the machine or the issue.
-8. Identify the submitter, who will be responsible for verifying the information provided.
-
-</thinking>
-
 # Laundry Machine Inspection Request Form - Help Guide
 ## Purpose
 The Laundry Machine Inspection Request Form is used to report any issues or concerns with a laundry machine, such as leaks, odors, or malfunctioning equipment. This form helps the maintenance team to identify and address problems promptly, minimizing downtime and ensuring the safety of users.

@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is used to process orders for the industrial monitoring software package. It is essential to fill out this form accurately to ensure timely and proper order fulfillment. Please note that this form is only to be used for ordering the software package and not for any other purpose. If you have already submitted an order for the same package, please do not submit another form as it may lead to duplicate orders being processed.
-
-</thinking>
-
 # industrial_monitoring_software_package_order_form - Help Guide
 ## Purpose
 The industrial monitoring software package order form is used to process orders for the industrial monitoring software package. It is essential to fill out this form accurately to ensure timely and proper order fulfillment.

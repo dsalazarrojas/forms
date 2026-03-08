@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from potential sales candidates during the pre-screening process. The form is intended to gather contact information, sales experience, and schedule an interview for further evaluation. The form is designed to be completed by the applicant, and it is crucial that the user understands the purpose and requirements of each field to ensure accurate and complete information is provided.
-
-</thinking>
-
 # Sales Candidate Pre Screening - Help Guide
 ## Purpose
 

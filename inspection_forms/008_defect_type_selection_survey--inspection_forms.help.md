@@ -1,13 +1,3 @@
-<thinking>
-The Defect Type Selection Survey is a form used to collect information about defects that need to be addressed. This form is not meant to be used for emergency or high-priority defects. It is intended for regular defect tracking and selection of defect types for further analysis and action. 
-
-This form is designed to be filled out for each defect type. Please ensure you only fill out this form once for each defect type. 
-
-Please note that the following fields are optional and can be skipped if not applicable: Introduction, Defect Description, Defect Location, Defect Date, Defect Recurring Patterns, Defect Frequency, Defect Status, Defect Priority, Defect Category, Defect Subcategory, Defect Department, Defect Location.
-
-If you need to report a defect that is high-priority or urgent, please contact [insert emergency contact information].
-</thinking>
-
 # Defect Type Selection Survey - Help Guide
 ## Purpose
 The Defect Type Selection Survey is a form used to collect information about defects that need to be addressed. This form is not meant to be used for emergency or high-priority defects. It is intended for regular defect tracking and selection of defect types for further analysis and action.

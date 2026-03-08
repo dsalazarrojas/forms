@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Video Interview Appearance Survey - Help Guide
 ## Purpose
 This guide is intended for users who want to provide feedback on video interview appearances. It helps interviewers evaluate the appearance and demeanor of interviewees during video interviews.

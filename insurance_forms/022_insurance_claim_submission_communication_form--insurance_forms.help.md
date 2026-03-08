@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insurance Claim Submission Communication Form - Help Guide
 ## Purpose
 This form is used to submit insurance claims and communicate with policyholders regarding their claims. It captures essential information about the claim, including policyholder details, claim type, claim date, and submission method, among other relevant fields.

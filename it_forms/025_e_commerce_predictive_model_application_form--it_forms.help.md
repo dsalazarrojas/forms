@@ -1,8 +1,3 @@
-<thinking>
-To create the help guide for this form, I'll first review the provided YAML structure and identify the form's purpose and relevance. The form appears to be designed for collecting information from users applying for an E Commerce Predictive Model Application Form. It includes fields for personal details such as First Name, Last Name, and Project Leads, which suggests that the form is used for internal or external project team member identification and management. Each field is labeled as "text" type, and there is no clear indication of a specific business or technical context that would suggest otherwise. Given this context, I will create a help guide that explains each field's purpose in a concise and practical manner.
-
-</thinking>
-
 # E Commerce Predictive Model Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from users applying for E Commerce Predictive Model applications. The form helps the project team to identify and manage internal or external team members. Please fill out the form carefully to ensure accurate and complete information.

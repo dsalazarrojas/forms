@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users who wish to access the Open Knowledge Platform. The purpose of this form is to collect the necessary details of the requester, understand their intended use of the platform, and ensure they agree to the terms of access. This form should only be filled out by individuals who are requesting access to the Open Knowledge Platform.
-</thinking>
-
 # Open Knowledge Platform Access Request - Help Guide
 ## Purpose
 This form is used to request access to the Open Knowledge Platform. It helps us understand who is requesting access and how they plan to use the platform.

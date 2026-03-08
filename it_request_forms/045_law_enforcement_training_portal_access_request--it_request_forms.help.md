@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for law enforcement personnel to request access to the law enforcement training portal. It is crucial to verify the accuracy of the request and ensure the correct training areas are selected. To avoid duplication of effort, the system will only allow one request per employee per training area per supervisor. Before submitting the form, please make sure the request is accurate and complete.
-</thinking>
-
 # law_enforcement_training_portal_access_request - Help Guide
 ## Purpose
 The law enforcement training portal access request form is used to request access to the law enforcement training portal for law enforcement personnel. This form is used to verify the accuracy of the request and ensure the correct training areas are selected.

@@ -1,10 +1,3 @@
-<thinking>
-The Yard Security Assessment Form is used by security inspectors to evaluate the security features and risks associated with a given yard. It is designed to be filled out by the inspector on site, and is used to gather information on the yard's security measures and any potential risks that need to be addressed.
-This form is intended to be used for security assessment purposes only, and should not be used for other purposes such as maintenance or repair requests.
-Before filling out this form, please ensure that you have a good understanding of the yard's security features and any potential risks that need to be addressed.
-If you have already filled out this form, please do not fill it out again. Instead, update any existing entries if necessary.
-</thinking>
-
 # Yard Security Assessment Form - Help Guide
 ## Purpose
 The Yard Security Assessment Form is used to evaluate the security features and risks associated with a given yard. It is designed to gather information on the yard's security measures and any potential risks that need to be addressed.

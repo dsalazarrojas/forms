@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to document the details of a workers' compensation settlement between an employer and an employee. It captures information regarding the employer and insurer involved, the claim number, the date of the agreement, a brief description of the agreement, and the signatures of all parties. This form should be completed when a settlement between an employer and employee is reached, usually after an injury or illness has occurred while working for the employer. This form may be used in conjunction with other forms or as a standalone document. Please note that this form is not intended to be used for purposes other than documenting workers' compensation settlements.</thinking>
-
 # Workers' Compensation Settlement Agreement - Help Guide
 ## Purpose
 This form is used to document the details of a workers' compensation settlement between an employer and an employee. It captures information about the parties involved, claim number, agreement date, agreement details, and signatures of all parties.

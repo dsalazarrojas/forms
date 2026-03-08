@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help you assess the security risks associated with a member's online activities. It's meant to be completed by an employee or member who is responsible for ensuring the security of your organization. The form will help you understand their level of awareness about various security-related topics, their training readiness, and their concerns about online safety. Please ensure that you only complete this form once for each member, and only once you have had a chance to speak with them. If you have already assessed the member's security risks, please do not use this form.
-</thinking>
-
 # Member Information Security Risk Assessment - Help Guide
 ## Purpose
 This form is designed to help you assess the security risks associated with a member's online activities. It is meant to be completed by the member themselves, or by someone who has had a chance to speak with them. The assessment will help you understand their level of awareness about various security-related topics, their training readiness, and their concerns about online safety.

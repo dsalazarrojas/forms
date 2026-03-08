@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate the onboarding process for new employees in the company. This form collects information about the company, location, job title, email, phone number, and password from the employee. The form appears to be designed to be filled out by new employees as part of a centralized onboarding process.
-
-Before proceeding, please verify that this form is not a duplicate of an existing onboarding form within the organization. If this form is not the intended form, please contact the designated onboarding authority for clarification.
-
-</thinking>
-
 # dentek_onboarding_document - Help Guide
 ## Purpose
 The form is used to collect information from new employees as part of the company's onboarding process.

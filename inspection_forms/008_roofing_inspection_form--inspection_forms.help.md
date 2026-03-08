@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect information about the condition and inspection of a roofing system. It's intended for use by professionals in the construction industry to assess the integrity and condition of roofs. The form is composed of multiple fields that require answers to various questions related to the roofing system. This form is likely used in the context of inspecting and evaluating roofs for maintenance, repair, or replacement purposes. 
-
-Before proceeding, check that you have the necessary information and authority to fill out this form. Ensure that you are not duplicating efforts and that the information you submit is accurate and relevant.
-
-</thinking>
-
 # Roofing Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about the condition and inspection of a roofing system. It's intended for use by professionals in the construction industry to assess the integrity and condition of roofs.

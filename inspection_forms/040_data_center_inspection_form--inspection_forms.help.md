@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Center Inspection Form - Help Guide
 ## Purpose
 The Data Center Inspection Form is used to assess the condition and status of a data center's equipment, electrical outlets, safety protocols, and other relevant aspects. This form is intended to ensure that the data center meets all the necessary standards and regulations, and to identify areas that require improvement or attention.

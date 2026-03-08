@@ -1,8 +1,3 @@
-<thinking>
-This form template is used for verifying patient's medical insurance information. This form is meant for internal use within an organization that deals with patient records and medical billing. To ensure that this form is not being used in other contexts, please verify that you are using it for its intended purpose.
-
-</thinking>
-
 # Medical Insurance Verification Form Template - Help Guide
 ## Purpose
 This form is used for verifying patient's medical insurance information, including their policy details and coverage status.

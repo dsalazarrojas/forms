@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed for investment professionals to confirm the balance of investments for a client. It may be used to document the current state of a client's investments, including the balance date, total investment, and cash balance. The form also includes fields for the client's name, auditor's information (name, company, title, and signature), and review result. It seems to be a critical form used for auditing and reviewing investment information, and the purpose of this guide is to make it easy for end-users to understand how to fill out this form correctly and effectively.
-
-</thinking>
-
 # Investment Balance Confirmation Form - Help Guide
 ## Purpose
 The Investment Balance Confirmation Form is a tool used to document the current state of a client's investments, including the balance date, total investment, and cash balance. It is used by investment professionals to audit and review this information, ensuring accuracy and completeness.

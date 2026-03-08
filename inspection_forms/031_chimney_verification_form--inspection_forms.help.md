@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to aid in the verification of chimneys, specifically for inspectors or verifiers to report on the condition and safety of chimneys. The form is intended for use in various settings, such as home inspections or routine maintenance checks. The fields provided are meant to gather essential information about the verification process, including the verifier's name, date of verification, location of the property, purpose of the verification, and the condition of the flue and cap/chase. The form also asks for a final verification result and any additional comments.
-</thinking>
-
 # Chimney Verification Form - Help Guide
 ## Purpose
 This form is used to collect information from verifiers about the condition and safety of chimneys during inspections or maintenance checks.

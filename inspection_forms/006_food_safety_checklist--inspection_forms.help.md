@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used for food safety inspections, which are crucial for preventing the risk of foodborne illnesses and protecting consumers. It is intended for use by food establishments, such as restaurants, cafes, and food processing facilities, to ensure they meet the necessary standards for safe food handling and storage. The form is a checklist that guides inspectors through a series of questions to determine the level of compliance with food safety regulations. Before proceeding, please review this help guide to understand the form's purpose and requirements.
-
-</thinking>
-
 # Food Safety Checklist - Help Guide
 ## Purpose
 The Food Safety Checklist is a tool designed to help food establishments assess their level of compliance with food safety regulations. It is essential for identifying potential risks and ensuring the safe handling and storage of food.

@@ -1,7 +1,3 @@
-<thinking>... Internal reasoning block to ensure form purpose and relevance checks are performed before rendering the user-facing help guide. The form "Tax Dispute Resolution Services Intake Form" is intended for capturing tax-related disputes and their resolutions. The form will serve as a template for collecting information about the dispute details, taxpayer information, and other relevant aspects of the tax dispute resolution process. The form should be completed by authorized representatives or taxpayers who are involved in resolving tax disputes. The purpose of this form is to provide a standardized framework for gathering necessary data and streamlining the dispute resolution process.
-
-</thinking>
-
 # Tax Dispute Resolution Services Intake Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a Fan Coil Unit's inspection status, which is crucial for maintaining and servicing heating and cooling systems in buildings. This form will help the user collect data on the unit's model, size, capacity, location, status, and maintenance history, including last service date, cost, mileage, next service date, cost, and mileage, as well as any comments or notes. The form is designed to be completed by facility staff or service technicians who are responsible for inspecting and maintaining Fan Coil Units.
-Before proceeding, please ensure that you are familiar with the Fan Coil Unit's maintenance history and the relevant procedures for inspecting and servicing these units. If you are not sure about any information on this form, please consult with your supervisor or the building's facilities manager.
-</thinking>
-
 # Fan Coil Unit Inspection Survey - Help Guide
 ## Purpose
 The Fan Coil Unit Inspection Survey is used to collect information about the Fan Coil Unit's condition, maintenance history, and upcoming service schedule.

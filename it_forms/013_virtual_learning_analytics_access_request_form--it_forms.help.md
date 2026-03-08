@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # virtual_learning_analytics_access_request_form - Help Guide
 ## Purpose
 The virtual learning analytics access request form is designed to collect information from staff members to request access to virtual learning analytics. This form helps us understand the reasons behind each request and ensures that we can provide the right level of access to the requested data. **Please note that requests will be reviewed internally to prevent duplication and ensure consistency.**

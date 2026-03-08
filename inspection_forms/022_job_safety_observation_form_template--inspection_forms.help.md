@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about job safety observations, which is a critical aspect of workplace safety. The form is intended to be completed by site observers who have witnessed a job-related hazard or incident. The primary purpose of this form is to document the observation, including the location, observer details, and any actions taken or additional information related to the incident. This form is not intended for use in emergency situations.
-</thinking>
-
 # Job Safety Observation Form Template - Help Guide
 ## Purpose
 The Job Safety Observation Form is used to collect and document site safety observations. These observations are important for identifying and mitigating potential hazards on the job site. By completing this form, site observers can report incidents, near misses, or observations that may not have resulted in an injury but could have potentially led to one.

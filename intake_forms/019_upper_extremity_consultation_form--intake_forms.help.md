@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Upper Extremity Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather information from patients about their upper extremities, including their symptoms, medical history, and treatment preferences. The form is used to help healthcare providers assess and treat upper extremity-related conditions.

@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the stockroom doors in a warehouse or stockroom setting, specifically their type, condition, size, and maintenance status. This form is designed to be completed by personnel responsible for maintaining or inspecting these doors. The information collected will help in making informed decisions about the maintenance and upkeep of stockroom doors.
-
-To ensure that the correct information is collected, please make sure that the form is filled out in a way that accurately reflects the current state of the stockroom doors.
-
-Before beginning, consider the following:
-
-* The form is only applicable to stockroom doors and not other types of doors or entryways.
-* The form is intended for completion by one person at a time, to avoid duplication of effort.
-* The form should not be used for other purposes, such as creating new stockroom doors or modifying their properties.
-
-Please carefully review each field to ensure accurate and complete information is provided.
-
-</thinking>
-
 # Stockroom Door Type Survey - Help Guide
 ## Purpose
 This form is used to collect information about stockroom doors in a warehouse or stockroom setting.

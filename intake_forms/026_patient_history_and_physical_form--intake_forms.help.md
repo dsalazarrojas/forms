@@ -1,7 +1,4 @@
-> **<thinking>**
->
-To the best of my abilities, this form aims to collect patient information for medical purposes. The form likely targets healthcare professionals or medical facilities for patient intake and physical examination purposes. This form seems to gather information on patient history, medication, allergies, family history, social history, and medical review of systems. This form is designed to be completed by patients or their representatives, with a focus on gathering relevant medical information. It's not clear if this form is for new patient intakes, follow-ups, or routine check-ups. If you're unsure about the purpose or relevance of this form, it's recommended you verify it with the healthcare professional administering it. If you've already completed this form recently, please ensure that you're not duplicating efforts.
-</thinking>**
+> ****
 
 # Patient History And Physical Form - Help Guide
 ## Purpose

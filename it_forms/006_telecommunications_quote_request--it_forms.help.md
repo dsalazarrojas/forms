@@ -1,13 +1,3 @@
-<thinking>Before creating a user-facing help guide for the "Telecommunications Quote Request" form, let's consider the form's purpose and relevance. This form appears to be used for requesting quotes for telecommunications services, allowing users to provide details about the company, contact, and service locations, as well as specifics about the quote, such as date, time, type, amount, and currency. The form seems to be designed for businesses or individuals looking to obtain quotes from service providers.
-
-To avoid duplication and ensure relevance, let's review the form's structure and fields:
-
-- The form has multiple pages, but only page "1" (Quote Request) seems to contain most of the relevant fields.
-- There are several required fields, including "Service Locations", "Service Provider", "Quote Type", "Quote Amount", and "Quote Currency".
-- Some fields like "Contact", "Address Line 1-2", "City", "State", and "Zip" might be used for additional information, but are not required.
-
-Given this analysis, the form purpose is likely to collect necessary information for requesting quotes from telecommunications service providers. With this understanding, we can now create a user-facing help guide.</thinking>
-
 # Telecommunications Quote Request - Help Guide
 ## Purpose
 This form is used to request quotes from telecommunications service providers for specific services. Please fill out the form with your company and contact information, details about the service locations, and any other required fields.

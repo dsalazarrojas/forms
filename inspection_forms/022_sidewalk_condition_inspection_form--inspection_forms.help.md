@@ -1,8 +1,3 @@
-<thinking> 
-The Sidewalk Condition Inspection Form is used for inspecting the condition of sidewalks. This form is used to collect information about the condition of a specific sidewalk, including its condition, location, and any photos or comments that may be relevant. This form is used by authorized users to report and document the condition of sidewalks for maintenance and repair purposes.
-
-</thinking>
-
 # Sidewalk Condition Inspection Form - Help Guide
 ## Purpose
 This form is used to inspect the condition of sidewalks and report any issues or observations.

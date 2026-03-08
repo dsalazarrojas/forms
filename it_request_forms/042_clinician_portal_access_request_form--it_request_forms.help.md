@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The clinician portal access request form is a critical component of our organization's system for managing access to sensitive patient data. This form is used to request access to the clinician portal and related systems. To ensure that access is granted correctly, we have several checks in place to verify the authenticity of each request. 
 
 To submit a complete and accurate form, please ensure you have reviewed and followed the following steps:

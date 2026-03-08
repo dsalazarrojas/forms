@@ -1,22 +1,3 @@
-<thinking>
-
-This form is used to collect site notes from housing inspections. The purpose of this form is to provide a structured way to record the observations, comments, and findings from housing inspections, which can be useful for quality control, maintenance, or other purposes. The form can be used by housing inspectors to document their findings in a clear and concise manner. 
-
-This form is designed to be simple and easy to fill out, with minimal fields to gather essential information. 
-
-The following sections and fields are included:
-
-- General notes for the inspection
-- Property information
-- Inspection date
-- Inspector's name
-
-This form is meant to be used on a single page. 
-
-Please note that the form is not intended to be used for any other purpose and is specific to housing inspections.
-
-</thinking>
-
 # housing_inspection_site_notes_form - Help Guide
 ## Purpose
 The purpose of this form is to collect site notes from housing inspections.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information related to dispute resolution, which is an essential process for resolving conflicts and addressing grievances between parties. The purpose of this form is to gather information from parties involved in a dispute to facilitate a smooth and efficient resolution process. It is crucial to ensure that all parties involved have a clear understanding of the form's purpose and the information required to complete it. To avoid duplication of work, please ensure that you have not already submitted this form before, and review the form carefully before filling it out.
-
-</thinking>
-
 # Dispute Resolution Intake Form - Help Guide
 ## Purpose
 The Dispute Resolution Intake Form is designed to collect information from parties involved in a dispute to facilitate a smooth and efficient resolution process.

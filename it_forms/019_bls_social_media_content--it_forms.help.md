@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # BLS Social Media Content - Help Guide
 ## Purpose
 This form is designed to collect social media content submissions from authorized personnel. It is intended for internal use by the BLS team to review, approve, and schedule content for posting on various social media platforms. The form ensures that all social media content submitted meets the required standards and guidelines of the BLS team.

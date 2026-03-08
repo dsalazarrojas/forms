@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help insurance agents assess a user's insurance needs. The form guides the agent through a series of questions to gather information about the user's contact details, risk factors, coverage preferences, date of birth, and other relevant information. The agent can then use this information to make an informed decision about the best insurance options for the user. This form is designed to be completed by the user in collaboration with the insurance agent. The agent is required to provide guidance and support throughout the process.
-</thinking>
-
 # Insurance Decision Flowchart - Help Guide
 ## Purpose
 The Insurance Decision Flowchart form is designed to help insurance agents assess a user's insurance needs and guide them through a series of questions to gather relevant information.

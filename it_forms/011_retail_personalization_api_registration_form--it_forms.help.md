@@ -1,5 +1,3 @@
-<thinking>As a retail personalization API, this form is designed to collect information from companies interested in integrating our API into their systems. The form should be filled out by a contact person from the company, and it's essential to provide accurate and complete information. The form's purpose is to register the company's interest in using our API, and the information collected will be used to determine the company's eligibility and access levels. This form will help us understand the company's plans for using the API, their company type, and other relevant details.</thinking>
-
 # retail_personalization_api_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from companies interested in integrating our retail personalization API into their systems.

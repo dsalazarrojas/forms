@@ -1,13 +1,3 @@
-<thinking>
-
-This guide will cover the Auto Insurance Quote Form, a critical tool for insurance agents to gather essential information from clients. 
-
-To confirm, this form is intended for use in a B2B setting where insurance agents can gather and manage data for their customers. Its structure and content should align with standard data collection practices for this domain. 
-
-We should ensure that the form is not duplicating any existing functionality or processes within the same B2B environment.
-
-</thinking>
-
 # Auto Insurance Quote Form - Help Guide
 ## Purpose
 The Auto Insurance Quote Form is designed to collect personal and vehicle information from clients to provide accurate and tailored quotes for their auto insurance needs. This form serves as a crucial tool for insurance agents to efficiently gather data and facilitate the quoting process.

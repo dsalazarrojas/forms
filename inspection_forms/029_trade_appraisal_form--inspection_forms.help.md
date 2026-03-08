@@ -1,5 +1,3 @@
-<thinking>...the Trade Appraisal Form is used to gather information about a vehicle's details, condition, and value, which is essential for accurate trade-in or purchasing decisions. This form is typically used by automotive sales or appraisers to gather data for internal use. Ensure that the information provided is accurate and relevant to the vehicle being appraised, and avoid completing this form for duplicate or non-applicable data entries...</thinking>
-
 # Trade Appraisal Form - Help Guide
 ## Purpose
 The Trade Appraisal Form is used to gather information about a vehicle's details, condition, and value for accurate trade-in or purchasing decisions.

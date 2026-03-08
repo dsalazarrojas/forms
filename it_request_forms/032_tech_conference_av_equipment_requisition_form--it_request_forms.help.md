@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that this form is completed correctly and accurately for the following reasons:
-- Ensure that we capture accurate information about the presenter's requirements for the Tech Conference AV Equipment Requisition Form.
-- Prevent duplication and incorrect submissions by double-checking that the form has been filled out correctly.
-</thinking>
-
 # Tech Conference AV Equipment Requisition Form - Help Guide
 ## Purpose
 This form is used to gather information from presenters about their audio-visual (AV) equipment requirements for the Tech Conference. Please fill out this form to ensure that we can provide the necessary equipment and support for your presentation.

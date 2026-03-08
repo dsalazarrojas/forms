@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's clarify the purpose and context of this form. This form is intended for road inspection checklists, likely used for monitoring and reporting on road conditions, maintenance, or other related activities. It's essential to ensure that the form is being used correctly and that the questions are being answered accurately. We should also check for any duplication or redundancy in the form's design to avoid unnecessary complexity.</thinking>
-
 # Road Inspection Checklist - Help Guide
 ## Purpose
 The Road Inspection Checklist is a form used to gather information about road conditions, maintenance, or other related activities. It helps monitor and report on various aspects of road inspection, ensuring accuracy and completeness.

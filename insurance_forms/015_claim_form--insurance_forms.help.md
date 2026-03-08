@@ -1,6 +1,3 @@
-<thinking> 
-This form appears to be a comprehensive claim form for an insurance company, likely for policyholders to report incidents or losses that they wish to claim. The form is designed to collect detailed information about the incident, including the claimant's identity, the type of claim, and various aspects of the incident such as the location, time, and description. It also includes fields for contact information, witness details, and photos or documentation of the damage. The form seems to be intended for use in multiple scenarios, including but not limited to auto insurance, homeowners, renters, health, life, disability, travel, and other types of insurance. The fields and options suggest a structured and systematic approach to collecting information, which implies that the form is designed for efficient processing and assessment of claims. The form appears to be well-rounded, covering various aspects of a claim, including injuries, medical expenses, and police report details. Given the extensive list of fields, it is likely that the form is used in conjunction with other documentation or supporting materials to complete the claims process.</thinking>
-
 # Claim Form - Help Guide
 
 ## Purpose

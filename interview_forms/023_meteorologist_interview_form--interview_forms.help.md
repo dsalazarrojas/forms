@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information for a meteorologist position interview. The form is likely used by HR personnel or interviewers to gather data about potential candidates. The data collected will be used to determine the suitability of each candidate for the position. It's essential to complete this form accurately to ensure that the correct data is collected.
-</thinking>
-
 # Meteorologist Interview Form - Help Guide
 ## Purpose
 The Meteorologist Interview Form is designed to collect information from candidates for a meteorologist position. This form helps interviewers gather necessary details about each candidate, including their contact information, qualifications, and availability.

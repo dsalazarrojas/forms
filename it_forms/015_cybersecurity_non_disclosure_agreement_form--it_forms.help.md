@@ -1,13 +1,3 @@
-<thinking>
-
-The form "Cybersecurity Non Disclosure Agreement Form" is used to collect employee, vendor, or contractor information related to a non-disclosure agreement. A non-disclosure agreement is a legal contract that ensures the confidentiality and security of sensitive information. This form serves as a guide for employees, vendors, or contractors to provide their information and sign the agreement.
-
-The form is divided into several sections, each collecting relevant information from the individual or entity entering the information. These sections include employee information, agreement terms, and signatory information.
-
-Before filling out the form, ensure you have access to the required information and have the necessary permissions to sign the agreement.
-
-</thinking>
-
 # Cybersecurity Non Disclosure Agreement Form - Help Guide
 ## Purpose
 The Cybersecurity Non Disclosure Agreement Form is a legal document that ensures the confidentiality and security of sensitive information shared with employees, vendors, or contractors.

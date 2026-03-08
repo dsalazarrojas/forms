@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for parks investment assessments. The purpose of this form is to evaluate the investment potential of a park based on various factors such as the park's condition, location, and priority level. The form should only be completed by authorized users, and the data collected will be used to guide investment decisions.
-</thinking>
-
 # Parks Investment Assessment - Help Guide
 
 ## Purpose

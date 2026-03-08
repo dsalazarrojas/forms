@@ -1,13 +1,3 @@
-<thinking>
-We are creating a help guide for the "Marketing Analytics Platform Access Request" form. This form is intended to be used by users who need to request access to the marketing analytics platform. The purpose of this form is to collect relevant information from the requester, such as their name, email, department, and reason for requesting access. This information will be used to evaluate and manage the request internally.
-
-The form is designed to be simple and easy to fill out, with only a few fields that require input. However, it's essential to ensure that the form is completed accurately and thoroughly to avoid any confusion or miscommunication. This guide will walk you through each field and explain what to enter and why.
-
-Before starting, please note that some fields are optional, and you can skip them if not applicable. Make sure to double-check the information provided before submitting the form.
-
-The form has 8 fields in total. Each field is explained below:
-</thinking>
-
 # Marketing Analytics Platform Access Request - Help Guide
 ## Purpose
 This form is intended to request access to the marketing analytics platform. To use this form, you must be a valid user and have a legitimate reason for requesting access.

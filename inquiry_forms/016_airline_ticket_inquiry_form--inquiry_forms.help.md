@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information from users about their airline ticket inquiry, including contact details, travel preferences, and budget requirements. This form is designed to ensure that the user's needs are met by providing relevant information to the airline's customer service team. Before starting, please note that this form is not intended to book a ticket directly. It's meant to provide a way for customers to express their interests and preferences for a potential flight.
 
 ## Airline Ticket Inquiry Form - Help Guide

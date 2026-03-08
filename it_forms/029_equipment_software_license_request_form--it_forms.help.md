@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for this "Equipment Software License Request Form". To begin with, let's consider the purpose and design of this form. The form is intended to gather information from users regarding their software licensing needs for equipment. It's likely used within an organization to standardize the request process for equipment software licenses. Before proceeding, please ensure that you are completing this form for the right purpose and not duplicating an existing request. If you're unsure, it's always best to ask your supervisor or colleague for clarification.</thinking>
-
 # Equipment Software License Request Form - Help Guide
 ## Purpose
 The Equipment Software License Request Form is designed to gather information from users regarding their software licensing needs for equipment. This form helps the organization standardize the request process and ensures that all relevant details are collected.

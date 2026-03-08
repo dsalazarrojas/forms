@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # VOC Control Assessment Form - Help Guide
 
 ## Purpose

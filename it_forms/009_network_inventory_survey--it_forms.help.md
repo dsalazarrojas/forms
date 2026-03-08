@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the network inventory, which includes department, location, inventory count, upgrades, and other details. This form should only be completed for the network devices and equipment that are relevant to the department or location specified. Please ensure that the form is filled out with accurate and up-to-date information to provide a comprehensive inventory report.
-This form should not be used to collect general information about the department or location. If you are not sure whether you should be completing this form, please check with your supervisor or manager.
-</thinking>
-
 # Network Inventory Survey - Help Guide
 ## Purpose
 The Network Inventory Survey form is used to collect and track information about the network devices and equipment across the organization.

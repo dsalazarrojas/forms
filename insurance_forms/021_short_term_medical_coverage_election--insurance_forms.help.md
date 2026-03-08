@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect employee information for short term medical coverage. The employee should choose their medical coverage options, including the type of coverage they want, the start and end dates of the coverage, and any additional details such as their group name, group ID, department, and manager. This form will help the HR department process employee enrollments and manage coverage information efficiently.
-The form should only be filled out by employees who are eligible for short term medical coverage. This form is meant to be a quick and easy way for employees to provide necessary information for their coverage, and should not be filled out by employees who are not eligible.
-</thinking>
-
 # Short Term Medical Coverage Election - Help Guide
 ## Purpose
 This form is used to collect information for short term medical coverage for employees who are eligible. It helps the HR department process employee enrollments and manage coverage information efficiently.

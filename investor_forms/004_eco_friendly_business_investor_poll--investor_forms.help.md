@@ -1,9 +1,3 @@
-<thinking>...
-
-This form is a tool for investors to share their thoughts on sustainable investment opportunities. It's designed to gather data on various aspects of a company's eco-friendliness and investment potential. The form is meant to be completed by investors who are considering investing in a company that claims to be eco-friendly. The form's data will be used to help investors make informed decisions and to provide insights for companies on areas where they can improve their sustainability performance.
-
-</thinking>
-
 # eco-friendly-business-investor-poll-form - Help Guide
 ## Purpose
 This form is designed to help investors gather data on various aspects of a company's eco-friendliness and investment potential.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit inquiries for online language courses. 
-This form will be used to collect information about the user, specifically their name, contact details, and preferences for online courses. The form is designed to be simple and user-friendly, with clear labels and instructions to help guide the user through the process.
-
-To complete this form, the user will need to follow the steps outlined below.
-
-</thinking>
-
 # online_language_course_inquiry - Help Guide
 ## Purpose
 The online language course inquiry form is designed to collect information about users who are interested in online language courses. This form will help us better understand their needs and preferences, and will enable us to provide them with relevant course suggestions.

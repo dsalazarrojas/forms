@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify health insurance information for patients. It is essential to ensure that patients' insurance claims are up-to-date and accurate. The form will help you to gather information about the patient's insurance plan, healthcare provider, and claim details. The goal is to ensure that all necessary information is collected to process the claim correctly.
-</thinking>
-
 # Health Insurance Verification Form - Help Guide
 ## Purpose
 The Health Insurance Verification Form is used to collect information about a patient's insurance plan, healthcare provider, and claim details. This form is essential for processing insurance claims correctly and ensuring that all necessary information is collected.

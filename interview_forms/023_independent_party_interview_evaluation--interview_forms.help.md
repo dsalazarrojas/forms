@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect information from an independent party (an individual who is not a part of the organization) about a candidate during an interview. This form aims to gather feedback on the candidate's performance, skills, and fit for the role. The information collected will be used to help make informed decisions about the candidate's suitability for the position.
-
-Before filling out this form, please ensure that you have conducted the interview and have the necessary information to provide feedback. 
-
-This guide is designed to walk you through each field of the form, ensuring you complete it accurately and efficiently.
-
-</thinking>
-
 # Independent Party Interview Evaluation - Help Guide
 ## Purpose
 

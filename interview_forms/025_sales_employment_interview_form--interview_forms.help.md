@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from candidates for sales employment opportunities. 
-The purpose of this form is to gather data from candidates, including their name, contact information, job title and experience, job type, salary range, job type, available work hours, and available days. This information will be used by the hiring team to assess the candidates' suitability for the sales role. 
-Please note that the form has a few fields with specific requirements (required=true) to ensure that candidates provide necessary information. These required fields are: job type, salary range, work hours, and available days. The form also has a select_one and select_multiple type field for job type and salary range respectively. Please ensure that you fill in all relevant fields to ensure that your application is complete and can be considered for the sales role.
-</thinking>
-
 # Sales Employment Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates for sales employment opportunities. 

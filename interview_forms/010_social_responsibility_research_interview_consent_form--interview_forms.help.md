@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect consent from participants in a social responsibility research interview. The form is intended for use by researchers to gather information from participants about their participation in the study. The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI. The form is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # Social Responsibility Research Interview Consent Form - Help Guide
 ## Purpose
 This form is designed to collect consent from participants in a social responsibility research interview. It is intended for use by researchers to gather information from participants about their participation in the study.

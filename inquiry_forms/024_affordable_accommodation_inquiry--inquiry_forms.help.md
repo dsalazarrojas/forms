@@ -1,16 +1,3 @@
-<thinking> 
-This form is designed to gather information from applicants to determine their housing needs and preferences. Before starting, please note that this form is not a formal application for housing, but rather an inquiry to help us understand your requirements and provide guidance on potential accommodation options. Please answer all questions accurately and honestly to ensure we can provide the best possible assistance.
-
-Before proceeding, we also want to ensure you're aware that:
-
-* This form is not a substitute for any formal application or verification processes required for housing assistance programs.
-* The information provided will be kept confidential and used solely for the purpose of providing guidance and support.
-* If you're already registered with a housing assistance program, please let us know and we'll guide you through the next steps.
-
-Please complete this form carefully, as it will help us understand your specific needs and preferences. If you have any questions or concerns, feel free to ask, and we'll be happy to assist.
-
-</thinking>
-
 # Affordable Accommodation Inquiry - Help Guide
 
 ## Purpose

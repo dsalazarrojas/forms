@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about tumor samples submitted for analysis. The purpose of this form is to gather essential details about the specimens, including their type, collection method, and clinical information. This form is typically used by healthcare professionals, researchers, or laboratory personnel to record and track specimens submitted for testing. Please ensure that you are authorized to access and fill this form.
-</thinking>
-
 # Tumor Sample Submission Form - Help Guide
 
 ## Purpose

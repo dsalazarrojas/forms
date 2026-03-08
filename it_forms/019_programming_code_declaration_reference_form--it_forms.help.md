@@ -1,8 +1,3 @@
-<thinking>
-This form is used to declare a programming code for review, and it's a crucial part of the code review process. It ensures that developers have the necessary information to review and provide feedback on the code. The form is designed to gather relevant details about the code, including its repository, reviewers, and review history. This guide is aimed at users who need to fill out this form for their programming code declarations. Please note that the information provided in this form is for internal use only and should not be shared with external parties without explicit consent.
-
-</thinking>
-
 # programming_code_declaration_reference_form - Help Guide
 ## Purpose
 The **programming_code_declaration_reference_form** is used to declare programming code for review, providing necessary information for review and feedback.

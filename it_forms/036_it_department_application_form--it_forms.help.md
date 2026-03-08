@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IT Department Application Form - Help Guide
 ## Purpose
 The IT Department Application Form is a tool for employees to submit applications for various job openings within the IT department. This form collects information about the applicant, including their first name, last name, email, phone number, job title, years of experience, job level, department, date of birth, time of availability, and any additional notes. The purpose of this form is to streamline the application process and allow the IT department to efficiently review and process applications.

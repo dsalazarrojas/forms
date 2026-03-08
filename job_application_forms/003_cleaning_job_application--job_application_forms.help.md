@@ -1,10 +1,3 @@
-<thinking>Here's a brief internal reasoning block to explain the purpose and relevance of this form:
-This form is designed to collect job application information from potential candidates who are interested in working as cleaning professionals. The form will help us assess their qualifications, availability, and other relevant details that we'll use to determine their suitability for the role. This form will help us to avoid duplication of efforts, as we'll use the collected data to track applicants and follow up with them for further evaluation.
-
-Please note that this form is meant for collecting new job applications and not for internal employee information or other purposes. We'll use the collected data solely for recruitment and selection purposes.
-
-Also, please make sure to fill out this form completely and accurately to increase your chances of being considered for an interview.</thinking>
-
 # Cleaning JOB APPLICATION - Help Guide
 ## Purpose
 The purpose of this form is to collect job application information from potential candidates who are interested in working as cleaning professionals.

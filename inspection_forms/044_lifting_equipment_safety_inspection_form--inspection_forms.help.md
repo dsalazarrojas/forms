@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for inspecting and maintaining the safety of lifting equipment. The purpose of this form is to gather essential information about the equipment's condition, location, and inspection details. The form ensures that all relevant fields are filled out accurately and thoroughly to guarantee the equipment's safety. This form is a critical tool for maintenance and inspection purposes, and its accuracy is vital to prevent accidents and ensure compliance with safety regulations.
-</thinking>
-
 # lifting_equipment_safety_inspection_form - Help Guide
 ## Purpose
 This form is used to inspect and maintain the safety of lifting equipment. It gathers essential information about the equipment's condition, location, and inspection details.

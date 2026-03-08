@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # st_pete_pier_ambassador_application - Help Guide
 
 ## Purpose

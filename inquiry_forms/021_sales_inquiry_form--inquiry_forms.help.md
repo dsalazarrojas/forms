@@ -1,5 +1,3 @@
-<thinking> This form appears to be a sales inquiry form designed to collect customer information and potential follow-up details. It may be used by businesses or sales teams to initiate contact with customers or prospects. Please review the form carefully and ensure that it is relevant to your business needs and does not collect unnecessary data. Also, check if this form is not a duplicate of any existing form within your organization. </thinking>
-
 # Sales Inquiry Form - Help Guide
 ## Purpose
 This form is intended to collect information from customers or prospects, allowing your sales team to initiate contact and potentially follow up with them.

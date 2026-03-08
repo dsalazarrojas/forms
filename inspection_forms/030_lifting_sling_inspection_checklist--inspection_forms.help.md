@@ -1,5 +1,3 @@
-<thinking>Before providing the help guide, I'll analyze the form purpose and check for relevance and non-duplication. The form is a "Lifting Sling Inspection Checklist" which appears to be a form used to conduct inspections on lifting slings. This form likely has several fields for collecting information about the inspection process, such as the sling condition, anchor points, inspection area, equipment condition, and certification status. The form's purpose is to gather data about the inspection process, which may be used for quality control, maintenance, or regulatory compliance purposes. I'll create a help guide that is clear, concise, and practical, and follows the specified Markdown structure.</thinking>
-
 # Lifting Sling Inspection Checklist - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for Step Hazard Assessment, where a user can evaluate the hazards present on a step during a manufacturing process. This form helps in identifying potential risks associated with each step, and provides a structured way to document and report on hazards. This form is intended for internal use within the organization, and should only be used for official step hazard assessments. If a step has already been assessed, please use the existing assessment form to avoid duplication of effort.
-</thinking>
-
 # step_hazard_assessment - Help Guide
 ## Purpose
 The Step Hazard Assessment form is used to identify and document potential hazards present on each step of a manufacturing process. This form helps in providing a structured way to assess and report on hazards, allowing for proactive risk management and improvement of workplace safety.

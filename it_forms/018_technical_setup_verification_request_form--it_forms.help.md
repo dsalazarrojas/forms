@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request technical setup verification for a specific technical setup. The user must provide their contact information and answer a few questions about their technical setup, such as whether it requires verification and whether they need to schedule a call. They can also upload supporting documentation if necessary. This form is not intended for production use and is likely used by internal teams to verify and validate technical setups before they are put into production.
-</thinking>
-
 # Technical Setup Verification Request Form - Help Guide
 ## Purpose
 This form is used to request technical setup verification from internal teams. It helps gather necessary information to validate and verify technical setups before they are put into production.

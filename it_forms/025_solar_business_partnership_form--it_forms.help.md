@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Solar Business Partnership Form - Help Guide
 ## Purpose
 The Solar Business Partnership Form is designed to collect information about your solar business, including its title, system details, contact information, and business address. This form is used to facilitate the partnership process between your solar business and our company.

@@ -1,23 +1,3 @@
-<thinking>
-  This form will be used to collect information from claimants to file a car insurance claim. 
-  This form will be filled out by the claimant themselves, and will serve as a record of the incident that has occurred. 
-  The form will ask for details such as the claimant's personal information, incident details, vehicle information, and any other relevant details. 
-  Please ensure that the form is completed accurately and thoroughly. 
-  If you are unsure about any of the questions, please refer to this guide for clarification. 
-  This form is meant to be completed once, and not duplicated or resubmitted. 
-  Please note that some of the fields are marked as required, and will need to be filled out in order to submit the form. 
-  If you have any issues with the form, please contact us. 
-  This form is only for car insurance claims, so please ensure that you are filling it out for the correct purpose. 
-  If you have already submitted a claim, please do not resubmit the form. 
-  The information collected in this form will be used to process your claim. 
-  Please ensure that the information is accurate and complete. 
-  If you are unsure about any of the questions, please refer to this guide for clarification. 
-  This form should take around 5-10 minutes to complete. 
-  Please ensure that you have all the necessary information before starting the form. 
-  If you have any issues with the form, please contact us. 
-
-</thinking>
-
 # Car Insurance Claim Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from claimants to file a car insurance claim. This form is used to gather details about the incident, vehicle, and claimant's personal information. It is essential to complete the form accurately and thoroughly to ensure a smooth claims process.

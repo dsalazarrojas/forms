@@ -1,5 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, I'll break down the purpose and requirements of the Network Reliability Report Form, and then provide a user-facing help guide in Markdown format.</thinking>
-
 # Network Reliability Report Form - Help Guide
 ## Purpose
 This form is designed to collect information from users to report incidents related to network reliability issues. The primary goal is to gather detailed descriptions of incidents, allowing the team to analyze and resolve the issues efficiently.

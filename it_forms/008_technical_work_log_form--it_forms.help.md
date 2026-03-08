@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a technical task or project, including its title, description, status, tags, assigned personnel, and comments. The form is intended for users to log and track technical work, such as bug fixes, feature developments, and other tasks.
-
-This form is meant to be completed by technical staff or team members to provide a clear and concise record of their work. The form can be used for tracking progress, assigning tasks, and providing feedback and comments on the task status.
-
-Please ensure that the form is filled out accurately and consistently to maintain the quality of data.
-
-</thinking>
-
 # Technical Work Log Form - Help Guide
 ## Purpose
 This form is designed to collect information about technical work performed by staff members. It is meant to be filled out for each task or project, providing a clear and concise record of work performed.

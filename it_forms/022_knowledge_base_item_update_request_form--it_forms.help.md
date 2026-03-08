@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Knowledge Base Item Update Request Form - Help Guide
 
 ## Purpose

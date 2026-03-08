@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is being created to assist users in understanding the purpose and functionality of the Digital Trace Data Exchange Application Form. The form is designed to gather information from users about their trace data requests, contact information, and consent for data usage. The purpose of the form is to ensure that users understand the process of requesting and consenting to data usage, and to provide a clear and concise way for users to submit their applications.
-
-Internal note: This form is used by the organization's data exchange team to manage and review user requests for trace data. The team will use this information to assess and fulfill the user's data requests, and to ensure that users are aware of and agree to the terms of service.
-
-</thinking>
-
 # Digital Trace Data Exchange Application Form - Help Guide
 ## Purpose
 

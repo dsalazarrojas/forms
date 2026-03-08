@@ -1,7 +1,5 @@
 # <hr>
 
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "external_drive_unlock_request_form" form. This form is used for employees to request the unlocking of an external drive. The form gathers information about the employee requesting the access, the purpose of the access, and other relevant details. It is essential to understand the purpose and relevance of this form to provide accurate and useful information to the user.</thinking>
-
 # external_drive_unlock_request_form - Help Guide
 
 ## Purpose

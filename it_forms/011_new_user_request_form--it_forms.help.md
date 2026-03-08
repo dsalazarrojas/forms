@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose and not submitted multiple times by the same user. This form is for requesting new user accounts. Before submitting, please make sure you have filled out all required fields and have not already submitted a new user request.
-</thinking>
-
 # New User Request Form - Help Guide
 ## Purpose
 The New User Request Form is designed for requesting new user accounts. It helps us process new user requests in a structured and efficient way.

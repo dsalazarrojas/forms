@@ -1,6 +1,3 @@
-<thinking>
-This form is used by customers or staff to report incidents related to telecommunications services. It is used to document and track these incidents, ensuring that issues are addressed and resolved in a timely and efficient manner. The form is not meant to be filled out for general inquiries or support requests, but rather for specific incidents that require immediate attention. Please use this form only for reporting incidents that have already occurred or are currently happening. Duplicate or non-urgent reports may be deleted without review.</thinking>
-
 # Telecommunications Service Incident Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents related to telecommunications services. It helps in tracking and resolving issues in a timely and efficient manner.

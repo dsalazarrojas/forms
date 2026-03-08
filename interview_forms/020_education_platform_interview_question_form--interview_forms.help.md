@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about the user's education background, availability, and preferred communication time zones and days. It is intended to be used by administrators or other users who need to know about the education platform's interview questions, such as HR or recruitment teams. The form is not designed to collect sensitive personal data or payment information.
-</thinking>
-
 # Education Platform Interview Question Form - Help Guide
 
 ## Purpose

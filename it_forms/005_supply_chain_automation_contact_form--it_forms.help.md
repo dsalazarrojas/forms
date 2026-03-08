@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to collect information from users about their automation requirements and needs. The purpose of this form is to gather details about the user's inquiry, their position within the organization, and any additional information that can help the automation team better understand and address their needs. This form ensures that the team has all the necessary information to effectively communicate with the user and provide accurate solutions. Before filling out this form, please ensure that you have not submitted it previously and that you are not duplicating a submitted request. If you need help with your current task, please contact the automation team to discuss alternative ways to address your needs.</thinking>
-
 # Supply Chain Automation Contact Form - Help Guide
 ## Purpose
 The Supply Chain Automation Contact Form is designed to help the automation team understand and address your automation needs and requirements.

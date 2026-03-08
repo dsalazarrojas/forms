@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help individuals prepare for IT Service Management Certification, a professional certification that validates an individual's skills and knowledge in IT service management. The form is used to simulate a real-world IT service request scenario, where the user is presented with various questions and options to practice their decision-making skills. The questions cover different topics related to IT service management, such as service request forms, question types, answer choices, and review processes.
-
-Before completing the form, please note that this is a practice quiz and not a real-world scenario. The form is designed to help you prepare for the actual certification exam, so please answer the questions as you would in a real-world scenario.
-
-Please complete the form by selecting the appropriate options for each question. You can select multiple options for questions that allow multiple selections. When you've completed the form, review your answers and make sure they align with your knowledge and experience in IT service management.
-
-If you need help or clarification on any question, refer to the field-by-field explanation below.
-</thinking>
-
 # IT Service Management Certification Practice Quiz - Help Guide
 ## Purpose
 This form is designed to help you prepare for the IT Service Management Certification exam by simulating real-world scenarios and testing your decision-making skills.

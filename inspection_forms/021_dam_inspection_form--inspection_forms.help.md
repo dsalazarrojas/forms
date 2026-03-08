@@ -1,9 +1,3 @@
-<thinking>
-The Dam Inspection Form is a tool used by maintenance teams and operators to gather data and record observations during dam inspections. This form is used to ensure that all relevant information is collected consistently and accurately, reducing errors and improving the maintenance process. 
-The form is typically completed by maintenance staff on-site at the dam, and its data is used to inform maintenance and repair schedules, as well as to monitor the condition of the dam over time. 
-To the best of my knowledge, there are no other forms with similar purposes and functionalities in our system.
-</thinking>
-
 # Dam Inspection Form - Help Guide
 ## Purpose
 The Dam Inspection Form is a tool used by maintenance teams and operators to gather data and record observations during dam inspections. 

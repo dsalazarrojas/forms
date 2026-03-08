@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us assess your qualifications as a copywriter. To ensure the accuracy and relevance of your application, please fill out this form carefully and honestly. This form is intended to provide us with a comprehensive understanding of your experience, skills, and fit for our team. By completing this form, you will be considered for potential future collaboration opportunities. Please note that filling out this form is not a guarantee of a future interview or contract. If you have already applied to or been interviewed for a similar position at our company, please do not fill out this form again.
-</thinking>
-
 # Advertising Copywriter Interview Form - Help Guide
 ## Purpose
 The Advertising Copywriter Interview Form is designed to gather information about your experience, skills, and qualifications as a copywriter. This form will help us assess your fit for potential future collaboration opportunities with our team.

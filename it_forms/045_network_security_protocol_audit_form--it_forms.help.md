@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the network security protocols used by an organization. The form is designed to help IT professionals and security teams assess the current state of network security protocols within an organization and identify areas for improvement. The form is likely to be used by IT teams, security teams, and possibly compliance or audit teams within an organization.
-
-The form has 25 questions spread across multiple pages, and each page is divided into several fields that ask for specific information. This form is likely to be used for regular audits, risk assessments, or other related activities.
-
-Before completing the form, please ensure you have the necessary permissions to access the required information. Some fields may also be subject to specific constraints, such as required or optional status, which will be indicated in the field explanations below.</thinking>
-
 # Network Security Protocol Audit Form - Help Guide
 ## Purpose
 The Network Security Protocol Audit Form is used to gather information about the network security protocols used by an organization to assess their current state and identify areas for improvement.

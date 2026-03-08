@@ -1,9 +1,3 @@
-<thinking>
-
-The Driver PrePost Trip Inspection Form is used by fleet managers or inspectors to document the pre- and post-trip conditions of a vehicle after a trip. This form is essential for tracking vehicle performance, identifying potential issues, and ensuring that the vehicle is in good condition before and after a trip. It is not designed for any other purposes, such as scheduling maintenance or recording vehicle registration information.
-
-</thinking>
-
 # Driver PrePost Trip Inspection Form - Help Guide
 ## Purpose
 

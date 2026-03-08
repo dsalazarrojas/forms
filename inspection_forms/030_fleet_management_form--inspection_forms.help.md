@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fleet Management Form - Help Guide
 
 ## Purpose

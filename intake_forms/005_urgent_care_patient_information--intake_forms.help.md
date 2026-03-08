@@ -1,9 +1,3 @@
-<thinking>
-This form is a comprehensive patient information intake form for urgent care settings, such as hospitals or clinics. It is designed to collect essential details about the patient's identity, medical history, and emergency contact information. The form is intended to provide a structured and efficient way to capture relevant information, reducing the likelihood of missed or duplicated data.
-
-The form is part of a larger system, so ensuring that each section is filled out correctly and accurately will help in creating a complete and up-to-date record for the patient. Please review each field carefully and fill out only the relevant information.
-</thinking>
-
 # Urgent Care Patient Information - Help Guide
 ## Purpose
 This form is designed to capture patient information for urgent care settings. It helps ensure that all necessary details are collected efficiently, reducing errors and improving the accuracy of patient records.

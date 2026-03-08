@@ -1,7 +1,3 @@
-<thinking>
-To ensure that only authorized guests can access our facilities, we need to restrict access for certain individuals. This form is used to request restriction of guest access for a specific period. Please note that this form is not intended for general requests or casual inquiries. It's essential to provide accurate and complete information to help us process your request efficiently. We review each request carefully, and our team will be in touch with you to confirm or clarify any missing details. This form will not be used to create a recurring request; each submission will be reviewed on a case-by-case basis. To prevent duplication, please do not submit multiple requests for the same purpose. If you're unsure about the purpose of this form or have questions about the submission process, contact our support team for further assistance.
-</thinking>
-
 # Guest Access Restriction Request Form - Help Guide
 
 ## Purpose

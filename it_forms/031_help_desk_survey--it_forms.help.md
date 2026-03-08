@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for customers to provide feedback and ratings on various aspects of their experience with our company. This form will help us understand what our customers think about our services and products, and allow us to make improvements accordingly. To ensure that the form is relevant to your experience, please only submit feedback on interactions with our company that occurred within the last 6 months. Please note that we will not accept duplicate feedback from the same customer.
-</thinking>
-
 # help_desk_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from customers to help us improve our services and products.

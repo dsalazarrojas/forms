@@ -1,19 +1,3 @@
-<thinking>
-This form is used for conducting remote inspections of facilities. It gathers information about the facility, the inspection, and any notes or comments. 
-The form is likely used by inspectors to collect data on facilities that are not physically present during the inspection. The form's purpose is to gather necessary information about the facility and the inspection in a structured and organized manner. This form is probably used in various contexts such as regulatory compliance, quality control, or risk assessment. 
-
-To complete this form, the user should follow these steps:
-
-1. Review the form and understand the purpose and structure.
-2. Select the relevant facility from the dropdown list of options.
-3. Fill in the necessary details about the facility such as its name, address, phone number, and email.
-4. Enter the dates and times of the inspection, including the start and end dates and times.
-5. Add any additional comments or notes about the facility or the inspection.
-6. Upload photos of the facility if necessary or desired.
-7. Add the inspector's signature for verification.
-
-</thinking>
-
 # Remote Inspection Survey - Help Guide
 ## Purpose
 This form is designed for conducting remote inspections of facilities, gathering essential data, and recording any additional comments or notes. 

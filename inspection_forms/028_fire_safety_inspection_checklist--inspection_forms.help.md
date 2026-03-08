@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be used for conducting fire safety inspections of facilities. It is intended to be completed by facility management or staff to ensure that all necessary fire safety measures are in place. The form is divided into sections, each covering different aspects of fire safety, such as equipment, systems, and training. The form is designed to be completed online, and the responses will be used to identify potential fire safety risks and inform corrective actions. This form is intended to be used by facility management or staff, and the information collected will be used to improve fire safety within the facility. Please ensure that the form is completed thoroughly and accurately, and that all required fields are filled in. This will help to identify potential fire safety risks and inform corrective actions to improve fire safety within the facility.</thinking>
-
 # fire_safety_inspection_checklist - Help Guide
 ## Purpose
 The fire safety inspection checklist is used to ensure that all necessary fire safety measures are in place within a facility. It is a comprehensive guide to help facility management or staff identify potential fire safety risks and inform corrective actions to improve fire safety.

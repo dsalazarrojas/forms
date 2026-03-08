@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an investment statement communication consent from users. The form is intended to understand how users want to be contacted (e.g., phone, email) and the frequency of investment statements they would like to receive. It is essential to understand the user's preferences to ensure effective and personalized communication. Please ensure that you are filling out this form for a legitimate purpose and not as a means to collect sensitive information without consent.
-</thinking>
-
 # Investment Statement Communication Consent - Help Guide
 ## Purpose
 This form is designed to collect information about your investment statement communication preferences.

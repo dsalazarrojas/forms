@@ -1,7 +1,3 @@
-<thinking>
-The form "site_inspection_v1" appears to be a comprehensive form designed to capture various types of information related to site inspections. Upon reviewing the YAML, it seems to be a multi-page form consisting of eight distinct sections, each with its own specific purpose and field type. Given its structure, the form might be used for monitoring and evaluating sites, potentially for quality control, health and safety, or other regulatory compliance purposes. It's likely that the form requires users to provide information on their site conditions, equipment, and other relevant details. Before proceeding, please ensure that you have a clear understanding of the form's purpose and that you have not already submitted the form for the same site inspection.
-</thinking>
-
 # site_inspection_v1 - Help Guide
 
 ## Purpose

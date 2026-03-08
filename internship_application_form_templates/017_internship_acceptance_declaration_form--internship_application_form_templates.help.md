@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Internship Acceptance Declaration Form - Help Guide
 ## Purpose
 This form is used to declare the acceptance of an internship opportunity by a student. It captures essential information about the internship's start and end dates, student details, and the status of the internship acceptance.

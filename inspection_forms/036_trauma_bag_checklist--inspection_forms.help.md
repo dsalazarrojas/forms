@@ -1,5 +1,3 @@
-<thinking>This form appears to be a Trauma Bag Checklist used for identifying the contents of a medical trauma bag and the information associated with it. It is likely to be used in emergency or medical settings to ensure that all necessary items are present and accounted for. The form does not appear to be a duplicate of any publicly available form, and its purpose is to collect information from users in a structured and organized way.</thinking>
-
 # Trauma Bag Checklist - Help Guide
 ## Purpose
 The Trauma Bag Checklist is a form used to identify the contents of a medical trauma bag and gather information about the first responders and location associated with it.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the registration of IT governance compliance within an organization. The form aims to collect information on an organization's current state of IT compliance, including areas of compliance, documentation, centralization, and involvement of IT forms and teams. The purpose of this form is to help organizations assess and improve their IT governance compliance, and it is intended for use by IT managers, auditors, and compliance officers. The form is not intended for public use, and the data collected will be used internally within the organization.
-</thinking>
-
 # it-governance-compliance-registration-form - Help Guide
 ## Purpose
 This form is used for the registration of IT governance compliance within an organization. It aims to collect information on an organization's current state of IT compliance, including areas of compliance, documentation, centralization, and involvement of IT forms and teams.

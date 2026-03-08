@@ -1,7 +1,3 @@
-<thinking>
-The form is used for submitting application schema information to support the development and implementation of data systems. The form is meant to gather essential details about the schema, including submitter information, schema details, and submission details. This guide is intended to help users complete the form correctly and understand its purpose and requirements.
-</thinking>
-
 # Application Schema Submission Form - Help Guide
 ## Purpose
 This form is designed to collect application schema information from submitters, which will be used to support the development and implementation of data systems. Please ensure you have the necessary permissions and authority to submit this schema information on behalf of your team or department.

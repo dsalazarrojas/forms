@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and opinions from users about a data warehouse platform. The form will help to evaluate the performance, data quality, data governance, size, and usage of the platform, as well as gather additional comments and suggestions.
-It's essential to ensure that the form's purpose remains consistent with its intended use and that it doesn't duplicate any existing forms or assessments. If you're unsure about the form's purpose or relevance, please review the form's design and functionality to determine the best approach.
-</thinking>
-
 # Data Warehouse Assessment Questionnaire - Help Guide
 ## Purpose
 The Data Warehouse Assessment Questionnaire is a user-facing form designed to gather feedback and opinions about a data warehouse platform. The form aims to evaluate the platform's performance, data quality, data governance, size, and usage, as well as gather additional comments and suggestions.

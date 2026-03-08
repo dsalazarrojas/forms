@@ -1,7 +1,3 @@
-<thinking>
-This form is used to cancel an extended warranty for a customer's product. The purpose of this form is to collect relevant information about the warranty cancellation, including the type of warranty, the warranty number, the date purchased, the date of cancellation, the date the cancellation was received, the reason for cancellation, customer comments, the method of confirmation, and the status of the cancellation. This form will help the customer service representative to process the cancellation efficiently and effectively.
-</thinking>
-
 # Extended Warranty Cancellation Form - Help Guide
 ## Purpose
 This form is used to cancel an extended warranty for a customer's product.

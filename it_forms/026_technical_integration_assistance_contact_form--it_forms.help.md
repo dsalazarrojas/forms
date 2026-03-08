@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect basic information from users who require technical integration assistance. The primary purpose of this form is to gather essential details from users that will help the support team provide effective and efficient assistance. The form is not affiliated with or endorsed by any form creation platform, and it is an original adaptation created using public survey topic metadata.
-
-This guide will walk you through how to complete the form correctly, ensuring that you provide the necessary information for the support team to assist you promptly.
-</thinking>
-
 # technical_integration_assistance_contact_form - Help Guide
 ## Purpose
 The technical_integration_assistance_contact_form is designed to collect basic information from users that require technical integration assistance. This form will help the support team provide effective and efficient assistance by gathering essential details.

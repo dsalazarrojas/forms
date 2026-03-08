@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for documenting and tracking the commissioning process for HVAC systems, which involves testing and certifying systems to ensure they are functioning correctly. The form captures relevant details about the system, commissioning process, and any certification documents required for completion. To maintain consistency and reduce duplication, please ensure that each system is only commissioned once. If the system has been previously commissioned, please do not duplicate the entry, and update the existing one instead.
-</thinking>
-
 # hvac_commissioning_checklist - Help Guide
 ## Purpose
 The HVAC Commissioning Checklist is a tool for documenting and tracking the commissioning process of HVAC systems. It ensures that all relevant details are captured and that systems are properly tested and certified to function correctly.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Artist Inquiry Form is a tool used to gather information from artists for various purposes such as exhibition interest, gallery representation, art classes, commission inquiries, collaborations, or other types of inquiries. This form helps us understand the artist's background, medium, experience, and preferred contact method, which enables us to tailor our interactions and opportunities to their needs. Please note that each field is crucial in providing us with accurate and relevant information about the artist. Completing this form helps us ensure that we don't duplicate efforts and minimize unnecessary inquiries.
 
 # Artist Inquiry Form - Help Guide

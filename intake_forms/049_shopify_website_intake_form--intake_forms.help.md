@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from shopify store owners or administrators to create or manage their shopify store. This form will be used to collect data about the website domain, name, category, description, address, phone number, email, image URL, image caption, website URL, store tags, social media presence, shopify product types, payment gateway, shopify currency, shopify currency symbol, shopify currency symbol position, shopify website type. This form will be used for internal purposes only.
-
-</thinking>
-
 # shopify_website_intake_form - Help Guide
 ## Purpose
 The shopify_website_intake_form is a form designed to collect information from shopify store owners or administrators to create or manage their shopify store. 

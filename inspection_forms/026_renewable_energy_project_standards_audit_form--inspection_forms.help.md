@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about renewable energy projects in progress, allowing project owners and reviewers to track project status, details, and inspections. The form is used to standardize data collection and ensure consistency across projects. It is intended for project owners to fill out project details and project status, while reviewers fill out the audit and inspection sections.
-</thinking>
-
 # Renewable Energy Project Standards Audit Form - Help Guide
 ## Purpose
 The Renewable Energy Project Standards Audit Form is a standardized tool for collecting project information and tracking project status, site inspections, and audit results.

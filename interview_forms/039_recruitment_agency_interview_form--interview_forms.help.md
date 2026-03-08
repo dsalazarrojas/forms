@@ -1,7 +1,3 @@
-<thinking>
-The Recruitment Agency Interview Form is used by recruitment agencies to record and store information about candidates who have gone through an interview process. This form is designed to capture relevant details about the candidate, including their name, contact information, availability, and feedback from the interview process. By filling out this form, the agency can keep track of multiple candidates and their respective statuses, making it easier to manage the recruitment process and identify suitable candidates for available positions. 
-</thinking>
-
 # Recruitment Agency Interview Form - Help Guide
 ## Purpose
 The Recruitment Agency Interview Form is a tool used by recruitment agencies to document and track the progress of candidates through the interview process.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the "Security System Recalibration Request Form" is to request a recalibration of the security system for an employee's or user's assigned tool. This form is used to inform the maintenance team about any issues with the security system, allowing them to schedule a visit to perform the necessary repairs or adjustments.
-
-The user is encouraged to fill out this form to ensure that their tool's security system is up-to-date and functioning correctly.
-
-Before proceeding, please ensure that:
-
-* You have not submitted a similar request for this tool recently. 
-* You have checked the tool's current status and are not submitting a duplicate request.
-</thinking>
-
 # Security System Recalibration Request Form - Help Guide
 ## Purpose
 This form is designed to assist users in requesting a recalibration of their assigned tool's security system. 

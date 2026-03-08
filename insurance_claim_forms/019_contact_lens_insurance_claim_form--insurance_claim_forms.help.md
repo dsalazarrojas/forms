@@ -1,12 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Contact Lens Insurance Claim Form", we need to consider the following:
-
-* The form is intended for policy holders to submit claims related to their contact lens insurance policy.
-* The form collects various information such as policy holder name, policy number, patient name, date of purchase/examination, provider name, provider phone number, claim category, lens prescription type, total amount paid, whether a receipt is available, preferred reimbursement method, certification statement, submission date, and adjuster notes.
-* The form requires the policy holder to provide accurate information, including certification that the information provided is true and correct.
-* The form's purpose is to facilitate the submission of insurance claims in a clear and organized manner.
-
-</thinking>
 # Contact Lens Insurance Claim Form - Help Guide
 ## Purpose
 This form is designed for policy holders to submit claims related to their contact lens insurance policy. Please provide accurate information to ensure efficient processing.

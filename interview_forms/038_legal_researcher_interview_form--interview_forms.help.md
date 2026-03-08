@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Legal Researcher Interview Form is designed to collect information from potential legal researchers about their background, experience, and availability. This form helps us understand the qualifications and fit of candidates for various legal research positions. Please note that this form is for internal use only and will not be shared externally. Ensure that you have the necessary permissions and approvals before proceeding.
 
 </thinking>

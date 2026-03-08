@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shipping Dock Operational Safety Inspection Form - Help Guide
 
 ## Purpose

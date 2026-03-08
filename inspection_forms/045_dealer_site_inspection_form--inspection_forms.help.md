@@ -1,10 +1,3 @@
-<thinking>
-We should ensure that the form is used for its intended purpose: collecting and recording information about a dealer site inspection. The form's fields should be filled out accurately to ensure that the correct data is collected. The form should not be duplicated or used for other purposes that may confuse or mislead users.
-
-Before starting the inspection, review the site's address, name, and any previous inspections or notes related to the site.
-
-</thinking>
-
 # Dealer Site Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about a dealer site inspection. It is intended for use by authorized personnel to document and record observations during an inspection visit to a dealer site. This includes site address, name, date, and time of inspection, type of inspection, and other relevant details.

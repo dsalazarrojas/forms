@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from new clients for tax purposes. It should only be used for clients who have never been registered before. The form will guide the user through various personal details and contact information to complete. 
-</thinking>
-
 # tax_new_client_intake_interview_form - Help Guide
 ## Purpose
 This form is used to collect information for new clients who are not registered in the system.

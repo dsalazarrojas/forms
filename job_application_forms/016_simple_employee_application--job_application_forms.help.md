@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Simple Employee Application" form, which is used for submitting job applications. The form is meant to collect relevant information from employees, such as their personal and professional details, and is used to streamline the application process. Please ensure that you are using this form for its intended purpose and not duplicating effort or submitting unnecessary information.
-</thinking>
 # Simple Employee Application - Help Guide
 ## Purpose
 The Simple Employee Application form is used to collect information from applicants for job openings. This form is meant to be completed by applicants to provide their relevant personal and professional details.

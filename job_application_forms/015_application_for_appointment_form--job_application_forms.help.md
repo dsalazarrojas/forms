@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in applying for a job at our organization. The purpose of this form is to gather essential details about the applicant, including their contact information, job preferences, and supporting documents. To ensure accurate and efficient processing, please fill out this form carefully and completely.
-
-Before you start, please note that you can save your progress and come back later to finish the form. However, each time you submit the form, all previously submitted information will be cleared.
-
-</thinking>
-
 # Application For Appointment Form - Help Guide
 ## Purpose
 This form is used for applicants to submit their information and preferences for job positions available at our organization.

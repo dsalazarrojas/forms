@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from foreign contacts, including their contact information and reason for contact. The purpose of this form is to gather data for internal tracking and reference purposes. Please note that the fields are not all required, and users can complete the form with the information they deem necessary. To ensure that the form is filled out correctly, please review each field carefully and provide accurate information. Also, please be aware that if you have already completed this form in the past, your previous response may be automatically populated, so please review it before submitting to ensure that your information is up-to-date and accurate.
-</thinking>
-
 # Foreign Contact Disclosure Form - Help Guide
 ## Purpose
 This form is designed to collect contact information from foreign contacts for internal tracking and reference purposes.

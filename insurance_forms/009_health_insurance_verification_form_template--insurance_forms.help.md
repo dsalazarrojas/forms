@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users verify health insurance information. The purpose of this form is to collect necessary details about a patient's health insurance policy. This includes their name, birthdate, relationship to the policyholder, provider, policy number, phone number, and email address. This form is designed to be completed by the patient or their representative.
-</thinking>
-
 # health_insurance_verification_form_template - Help Guide
 ## Purpose
 This form is used to verify health insurance information of a patient. It is essential for ensuring that the patient's insurance details are accurate and up-to-date.

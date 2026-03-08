@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for copying requests, allowing users to provide details about the item they want to copy. The form is designed to be completed by end-users, and it is expected that the form will be used for both internal and external purposes. This form should not be used for other purposes without explicit approval.
-To prevent duplication of effort, ensure that this form is only used for its intended purpose and that you have checked with the team before submitting this form. 
-</thinking>
-
 # copy_request_form - Help Guide
 ## Purpose
 This form is designed to collect information about copying requests for internal and external purposes. Ensure that you only use this form for this specific purpose.

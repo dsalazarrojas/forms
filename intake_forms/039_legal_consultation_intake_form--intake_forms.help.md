@@ -1,8 +1,3 @@
-<thinking>
-This form is a legal consultation intake form designed to collect information from clients and assign cases to lawyers or paralegals based on their specialization and case type. The form collects information about the client, case details, contact information, and other relevant notes. It is intended to be used by clients or their representatives to provide details about their case and for lawyers or paralegals to intake new cases and assign them accordingly.
-We will check for duplicate cases using the case file number, case type, and case status. We will also check if the case is already assigned to a lawyer or paralegal before assigning it again. If a duplicate case is detected, an error message will be displayed to the user.
-</thinking>
-
 # legalConsultationIntakeForm - Help Guide
 ## Purpose
 This form is designed to collect information from clients and intake new cases for lawyers or paralegals based on their specialization and case type.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals or organizations that wish to apply for land use rezoning. Rezoning typically involves modifying the zoning designation of a specific property to accommodate new land uses or development. This form will help applicants submit a clear and concise request that includes all necessary information required for a thorough review of their zoning change request. Before filling out this form, please ensure that you have all necessary supporting documents and a clear justification for the zoning change. Additionally, please be aware that this form should not be used for duplicate requests. If you have already submitted a rezoning application for the same property, please do not submit another.
-</thinking>
-
 # Land Use Rezoning Application Form - Help Guide
 ## Purpose
 This form is for applying for land use rezoning, which involves modifying the zoning designation of a specific property to accommodate new land uses or development.

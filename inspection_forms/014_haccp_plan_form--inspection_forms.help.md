@@ -1,9 +1,3 @@
-<thinking>
-This form is used for creating and managing HACCP (Hazard Analysis and Critical Control Points) plans, which are risk assessment and control measures for food safety. The form helps users to identify potential hazards in the food processing or handling process, analyze them, and implement corrective and preventive measures to mitigate those hazards.
-The form guides users through a structured process, from identifying hazards to documenting the assigned inspector and their contact information.
-The purpose of this form is to standardize the HACCP planning process across the organization.
-</thinking>
-
 # haccp_plan_form - Help Guide
 ## Purpose
 The HACCP plan form is used to create and manage risk assessment and control measures for food safety in food processing or handling.

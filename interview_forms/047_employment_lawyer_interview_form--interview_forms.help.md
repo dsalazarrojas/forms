@@ -1,16 +1,3 @@
-<thinking>
-To determine the purpose and context of this form, I'll review the form's fields and structure. The form appears to be an Employment Lawyer Interview Form, designed to collect information from candidates or employees. This form likely serves as a template for lawyers or HR representatives to gather details about a candidate's employment history, contact information, and other relevant data.
-
-The form contains a mix of text, date, time, email, and multiple-choice fields, which suggests that it's intended for both basic contact information and more specific data about employment. The fields are organized in a way that suggests a structured interview process, with some fields requiring specific types of information (e.g., date of birth, hire date, and categories).
-
-Upon further review, it's clear that this form is designed for a more in-depth interview or assessment process, as indicated by the presence of multiple category fields (categories 2-16). These categories seem to be used to categorize or label specific aspects of a candidate's employment history or qualifications.
-
-To avoid non-duplication and ensure relevance, users should fill out the form in a linear manner, from left to right, and from top to bottom. It's essential to note that some fields, such as categories 4, 6, 7, 9, and 15, allow for selecting multiple options, which might lead to errors if not filled correctly.
-
-Given the form's complexity and the variety of fields, it's crucial to provide clear guidance on how to complete it accurately and efficiently. This guide will help users understand the form's purpose, structure, and each field's relevance, ensuring they fill out the form correctly and minimize errors.
-
-</thinking>
-
 # Employment Lawyer Interview Form - Help Guide
 ## Purpose
 The Employment Lawyer Interview Form is designed to collect detailed information from candidates or employees for assessment or interview purposes. This form will help you gather crucial data for making informed decisions about employment-related matters.

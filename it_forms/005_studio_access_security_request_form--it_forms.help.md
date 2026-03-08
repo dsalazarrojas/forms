@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request studio access for an employee. It is intended for employees who need access to the studio for work purposes. The form is designed to gather information about the employee, their work hours, job title, department, and reason for access request. It also asks for the start and end dates of the access request and the duration of access. The form is usually submitted by the employee, but also requires the approval of the reporting manager. The reporting manager will review the request, add comments, and sign the form. This form is not meant to be filled out by non-employees.
-</thinking>
-
 # Studio Access Security Request Form - Help Guide
 ## Purpose
 The "Studio Access Security Request Form" is used to request access to the studio for work purposes. This form is typically completed by employees who need access to the studio for a specific period of time.

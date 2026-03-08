@@ -1,7 +1,3 @@
-<thinking>Before we proceed with the help guide, let's briefly discuss the purpose and structure of the Education Librarian Job Application Form. This form is designed to collect information from applicants for a librarian position, covering various aspects such as personal details, job preferences, and application status. The form is intended to gather relevant data for the hiring process, and its structure ensures that all necessary fields are completed to ensure accurate and comprehensive evaluation of applicants.
-
-Upon reviewing the form structure, we notice that the fields can be grouped into several categories, including applicant information, job preferences, and application status. The form requires fields like first name, last name, email, phone number, education level, work experience, and skills to gather basic applicant information. It also requires fields like job role, job type, employment status, available to relocate, job description, job requirements, job qualifications, and job duties to understand the applicant's job preferences. Finally, the form has fields like job status, submitted by, submitted on, and submitted at to record the application status.</thinking>
-
 # Education Librarian Job Application Form - Help Guide
 ## Purpose
 The Education Librarian Job Application Form is a comprehensive form designed to collect information from applicants for a librarian position. It ensures that all necessary fields are completed to evaluate applicants accurately and efficiently.

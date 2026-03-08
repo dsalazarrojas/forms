@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from dog owners about their pets and their needs for grooming services. This form will help us understand how often their dogs are bathed, what medical conditions they may have, and any contact preferences. It's essential to complete this form accurately to ensure we provide the best service for their dogs.
-
-This form is used to collect intake information from dog owners before their pets receive grooming services. It's a crucial step in our process to understand their needs and provide the best possible care for their pets. Please ensure that this form is completed accurately and thoroughly to help us deliver the best experience for both you and your pet.
-
-Before starting, please note that some fields are optional, and you can skip them if not applicable. Also, please be aware that this form is not a substitute for veterinary advice or medical consultations. If you have any concerns about your pet's health or well-being, please consult a veterinarian before visiting us.
-
-If you have any questions or concerns, please don't hesitate to reach out to us.
-
-</thinking>
-
 # Dog Grooming Intake Form - Help Guide
 ## Purpose
 The dog grooming intake form is designed to collect information from dog owners about their pets and their needs for grooming services.

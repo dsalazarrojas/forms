@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Intake For Healing Sessions - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients for their healing sessions. It gathers personal details, preferred session dates and times, and their goals for the healing process. Please fill out this form to provide the practitioner with the necessary information to create a personalized and effective plan for your healing sessions.

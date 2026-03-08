@@ -1,17 +1,3 @@
-<thinking>
-
-This form is meant to collect information about glove intake registrations. The form likely pertains to medical or industrial settings where gloves are being used for various purposes. Each field in the form serves a specific purpose, and users need to fill it out accordingly.
-
-The form consists of several sections, including selecting a department, specifying a quantity of gloves needed, and selecting an assigned individual. Other sections collect information about the intake time, date, and other details.
-
-To prevent errors, users should ensure that they select the correct department and assigned individual. The intake time and date should reflect the correct time zone. The phone number and email fields should be in a format that can be used for communication.
-
-To avoid duplication of entries, make sure to check if an entry with the same intake time and date already exists in the system. If it does, do not submit another entry.
-
-Before proceeding, please ensure that all fields are filled in accurately and correctly. Double-check the form for any errors or inconsistencies.
-
-</thinking>
-
 # Glove Intake Registration Form - Help Guide
 ## Purpose
 This form is used to collect information about glove intake registrations for medical or industrial purposes.

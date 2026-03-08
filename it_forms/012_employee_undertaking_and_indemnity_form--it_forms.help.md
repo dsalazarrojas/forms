@@ -1,7 +1,3 @@
-<thinking>
-To begin with, let's break down the form "employee_undertaking_and_indemnity_form". This form appears to be designed for employees to acknowledge and agree to company policies, potentially related to risk management, indemnity, and company details. I'll provide an internal reasoning block to clarify the context and purpose of the form.
-</thinking>
-
 # employee_undertaking_and_indemnity_form - Help Guide
 ## Purpose
 This form is for employees to provide their undertakings and indemnity, which includes acknowledging company policies, risk management, and other company details.

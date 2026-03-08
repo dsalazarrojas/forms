@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about the accuracy of smart meters, which are electronic devices used to measure electricity consumption in homes and businesses. This form will be used to report on the results of inspections performed on these meters. The purpose of this form is to document and track the inspection results, which can help in identifying potential issues with the meter's accuracy. This is a straightforward form with only a few fields to fill out. Each field is explained in the next section, and users can easily navigate to complete the form.
-</thinking>
-
 # Smart Meter Accuracy Report Form - Help Guide
 ## Purpose
 

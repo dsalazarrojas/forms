@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting additional tags and controls related to a specific item. It is designed to allow users to provide more information about the item they are working on, such as tags that are relevant to the item and specific controls that are required to complete the task. The form is likely used by developers, project managers, or team members to gather more context and requirements for a specific item in the system. It's possible that this form is used in conjunction with other forms or workflows to track the status and progress of items in the system. The form does not appear to be highly complex and seems to be a straightforward request form for additional information. It is possible that this form is used in a variety of contexts, such as in a project management or issue tracking system.
-</thinking>
-
 # Request For Tags And Controls - Help Guide
 ## Purpose
 The purpose of this form is to request additional tags and controls related to a specific item. It gathers information such as relevant tags, required controls, and comments about the request.

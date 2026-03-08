@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to record information about inspection systems, allowing users to provide details about the system's ID, type, location, status, notes, and other relevant details. The form is designed to be completed by authorized personnel, likely technicians or inspectors, to document their findings after inspecting a system.
-</thinking>
-
 # projection_system_inspection_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the projection system's status, location, and inspection details for record-keeping and reference purposes.

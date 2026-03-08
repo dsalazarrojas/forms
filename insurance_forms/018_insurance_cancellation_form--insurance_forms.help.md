@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for an insurance company to process cancellations of policies. The form will gather information about the reason for cancellation, the effective date of cancellation, and other relevant details. The form is designed to be completed by policyholders, and the information gathered will be used by the insurance company to process the cancellation and update their records. To prevent duplication, it's essential to ensure that the form is only used for policies that are currently active and have not already been cancelled.
-</thinking>
-
 # insurance_cancellation_form - Help Guide
 ## Purpose
 

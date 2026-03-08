@@ -1,10 +1,3 @@
-<thinking>
-Before diving into the help guide, it's essential to understand the purpose and context of the Aromatherapy Client Intake Form. This form is designed to collect essential information from clients about their medical history, skin type, and reproductive health. The primary goal is to ensure that the aromatherapist has a comprehensive understanding of the client's needs and limitations before providing treatment. It's crucial to complete this form accurately and truthfully to ensure the best possible outcomes. This form will not be duplicated in any other intake session.
-
-Please note that some of the sections and fields are optional, but they are still essential for the aromatherapist to understand the client's needs. Ensure that you answer all questions truthfully, and the aromatherapist will use this information to tailor treatment to your specific requirements.
-
-</thinking>
-
 # Aromatherapy Client Intake Form - Help Guide
 ## Purpose
 The Aromatherapy Client Intake Form is designed to gather essential information about your health, skin, and preferences to provide safe and effective aromatherapy treatment.

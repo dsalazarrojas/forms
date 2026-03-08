@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to capture information related to long term stays, likely in a healthcare setting or other facilities. It is designed to collect details about the applicant, their stay, and any relevant medical history or contact information. The fields on this form should not be filled out unless you are applying for a long term stay.
-
-This form should only be filled out by the applicant or their authorized representative. Please ensure that you have permission from the applicant before filling out this form on their behalf.
-
-To confirm, you are filling out this form as the applicant or their authorized representative, and you are providing accurate and true information.
-</thinking>
-
 # Long Term Stay Admission Form - Help Guide
 
 ## Purpose

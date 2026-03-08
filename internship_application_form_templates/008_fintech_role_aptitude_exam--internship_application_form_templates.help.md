@@ -1,12 +1,3 @@
-<thinking>
-This guide will help you navigate the Fintech Role Aptitude Exam form, which is designed to evaluate your aptitude for a fintech role. To ensure you complete the exam successfully, please read this guide carefully.
-
-The purpose of this form is to assess your skills and preferences in areas relevant to the fintech industry, such as programming languages, database systems, operating systems, and frameworks. Completing this form will help our team understand your strengths and weaknesses in these areas.
-
-Before proceeding, check if you have already completed this form, as this will ensure that you don't duplicate any efforts.
-
-</thinking>
-
 # Fintech Role Aptitude Exam - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # psychiatric_intake_form - Help Guide
 
 ## Purpose

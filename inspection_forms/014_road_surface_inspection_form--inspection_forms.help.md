@@ -1,9 +1,3 @@
-<thinking>
-Are you ready to inspect the roads and fill out this form? This form is used to document the condition of the road surfaces. It's a great tool to collect data that can help identify areas for improvement and maintain the integrity of our road networks.
-This form helps to identify any issues with the road surface, including the inspector's name, location, and the condition of the road. You can also add photos, videos, and comments to provide additional context. The form also captures information about the assigned tool user and tool.
-Make sure to fill out the form accurately and thoroughly, as the data collected will help us improve our roads and make them safer for everyone.
-</thinking>
-
 # Road Surface Inspection Form - Help Guide
 ## Purpose
 The Road Surface Inspection Form is used to collect data on the condition of road surfaces, allowing us to identify areas for improvement and maintain the integrity of our road networks.

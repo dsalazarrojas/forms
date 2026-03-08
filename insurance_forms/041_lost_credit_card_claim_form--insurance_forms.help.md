@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who have lost their credit card and need to report it to the relevant authorities. This form helps to ensure that the claim is properly documented and can be used for further investigation and resolution. It is essential to complete this form accurately and thoroughly to avoid any potential issues with your claim. Please note that if you have already submitted a claim for the same credit card, you should not fill out this form again. If you are unsure about any of the fields, please contact our support team for assistance.
-</thinking>
-
 # lost_credit_card_claim_form - Help Guide
 ## Purpose
 This form is designed to help individuals report lost credit cards to the relevant authorities. It is essential to complete this form accurately and thoroughly to ensure that your claim is properly documented and processed.

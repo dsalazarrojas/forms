@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process pharmacy payment inquiries. It's essential to fill out this form accurately to ensure that your inquiry is handled promptly and effectively. To prevent duplication, please note that this form is intended for new inquiries only. 
-</thinking>
-
 # Pharmacy Payment Processing Inquiry Form - Help Guide
 ## Purpose
 The Pharmacy Payment Processing Inquiry Form is used to collect information about a payment issue. This form helps our team to investigate and resolve payment-related concerns efficiently.

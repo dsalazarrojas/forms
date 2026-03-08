@@ -1,7 +1,3 @@
-<thinking>
-We will be using this form to guide applicants through the submission process. Please note that this form will not be used for duplicate submissions, and it's intended for new applications. This form will be reviewed internally before any further processing.
-</thinking>
-
 # Application Submission Guide - Help Guide
 ## Purpose
 The Application Submission Guide is a form designed to help applicants provide accurate and complete information for their application. This guide will walk you through each section of the form and help you understand what is required.

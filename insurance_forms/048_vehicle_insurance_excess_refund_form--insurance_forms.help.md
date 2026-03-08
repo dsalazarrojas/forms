@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers or users to claim their vehicle insurance excess refund. It's essential to ensure that all fields are correctly filled in to avoid delays in processing your claim. Please review each field carefully and provide accurate information to help with the processing of your claim. Before proceeding, check that the form is not a duplicate of a previous submission.
-</thinking>
-
 # Vehicle Insurance Excess Refund Form - Help Guide
 ## Purpose
 This form is used to claim a vehicle insurance excess refund. It's essential to provide accurate information to help with the processing of your claim.

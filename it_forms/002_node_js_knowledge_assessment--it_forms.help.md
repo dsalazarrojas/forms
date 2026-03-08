@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for assessing the knowledge of a Node.js developer, gathering information on their skills, frameworks, libraries, versions, and confidence levels, as well as providing an opportunity for feedback. Before proceeding, please ensure that you have reviewed the form instructions carefully to avoid duplication of effort and to provide accurate information. This guide will walk you through each section of the form, making it easier to complete and submit your assessment.
-</thinking>
-
 # Node.js Knowledge Assessment - Help Guide
 ## Purpose
 This guide is designed to help you navigate the Node.js Knowledge Assessment form. The form is meant to evaluate your knowledge and expertise in Node.js, covering various aspects of the technology.

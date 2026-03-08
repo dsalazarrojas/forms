@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Checklist Form - Help Guide
 ## Purpose
 This form is designed to facilitate the completion of digital checklists, enabling users to record and track their progress in a systematic and organized manner. It captures information about tasks, checklists, and related activities to ensure thorough and accurate completion.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote System Scan Scheduling - Help Guide
 ## Purpose
 The Remote System Scan Scheduling form is used to schedule and manage remote system scans. This form allows users to select time slots for scanning, specify scan requests, choose scan types, and record scan details such as start and end times, durations, and notes.

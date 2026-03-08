@@ -1,8 +1,3 @@
-<thinking>
-The form "Acanthamoeba Infection Assessment" is used to collect information from patients about their contact lens use, symptoms, and exposure to potential sources of infection. This form helps healthcare professionals assess the risk of Acanthamoeba infection and identify potential risk factors. Please note that this form is not a substitute for an emergency clinical exam. 
-
-</thinking>
-
 # Acanthamoeba Infection Assessment - Help Guide
 ## Purpose
 This form is designed to collect information from patients about their contact lens use, symptoms, and exposure to potential sources of infection. The information gathered will help healthcare professionals assess the risk of Acanthamoeba infection and identify potential risk factors.

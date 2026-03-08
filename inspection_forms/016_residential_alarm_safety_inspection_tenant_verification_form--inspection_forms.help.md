@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to verify the safety status of residential alarm systems and gather information about the tenant's experience with the system. The form is likely used by building management or maintenance staff to assess the functionality and overall condition of the alarm system. This form might be used for maintenance, repair, or replacement purposes.
-
-The fields in this form are mostly optional, suggesting that it's not a critical or high-priority form, but rather a supplementary tool for gathering information.
-
-Before we dive into the form's structure, let's ensure that we understand what each field represents and its intended use case.
-
-</thinking>
-
 # Residential Alarm Safety Inspection Tenant Verification Form - Help Guide
 ## Purpose
 This form is used to gather information about the residential alarm system's functionality, safety status, and other relevant details from the tenant's perspective.

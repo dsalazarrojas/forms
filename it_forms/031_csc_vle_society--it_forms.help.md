@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # csc_vle_society - Help Guide
 ## Purpose
 This form is used to collect information about a society or organization. It captures details about the company, contact person, email, phone number, meeting date and time, and any additional notes. This form is likely used for scheduling meetings or events with the organization.

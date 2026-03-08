@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by factory inspectors to collect information about the condition of equipment, general information, and any findings during the inspection. The purpose of this form is to provide a standardized way of documenting and tracking the status of equipment, which can help improve maintenance and safety procedures in the factory. 
-</thinking>
-
 # Factory Inspection Checklist - Help Guide
 ## Purpose
 This form is a checklist for factory inspectors to document the condition of equipment and any findings during an inspection. It can help improve maintenance and safety procedures in the factory.

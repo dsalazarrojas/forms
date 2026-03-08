@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Loss Control Survey - Help Guide
 
 ## Purpose

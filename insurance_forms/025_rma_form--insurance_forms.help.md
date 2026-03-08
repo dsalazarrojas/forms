@@ -1,17 +1,3 @@
-<thinking>
-
-This form, called "RMA Form", is designed to collect information from customers about their return requests. The form is used in the context of Return Merchandise Authorization (RMA) for product returns. The RMA process allows customers to initiate a return process for a product that has not met their expectations or is no longer needed. 
-
-This form ensures that customers provide necessary information about their return, such as the reason for return, their contact details, and the status of the return request. The form also helps in managing the return process efficiently by providing a status field for the form completion status and the order status.
-
-The form is divided into several sections, each collecting specific information to facilitate the return process. 
-
-The purpose of this form is to ensure that customers can initiate the return process easily and that the return process is handled efficiently. 
-
-Please note that this form is designed for internal use within the company, and the information collected will be used to process the return request internally.
-
-</thinking>
-
 # rma_form - Help Guide
 ## Purpose
 This form is used to collect information from customers for product return requests.

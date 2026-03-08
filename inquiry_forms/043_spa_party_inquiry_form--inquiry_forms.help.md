@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a spa party inquiry. The purpose of this form is to gather essential details about the customer's preferences and requirements for a potential spa party. This form will help us understand their service preferences, reservation status, and other important information that will aid us in providing the best possible experience for the customer.
-
-The form is divided into two main sections: customer details and services. The customer details section includes fields for the customer's name, email, and phone number. The services section allows customers to choose their preferred services, such as massage, facial, and manicure, as well as provide additional services details if needed.
-
-This form should only be filled out by customers who are interested in booking a spa party. If a customer has already inquired about or booked a spa party with us, please do not fill out this form again.
-
-</thinking>
-
 # spa_party_inquiry_form - Help Guide
 ## Purpose
 The spa_party_inquiry_form is designed to collect information from customers for a spa party inquiry.

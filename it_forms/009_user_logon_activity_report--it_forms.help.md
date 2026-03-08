@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about user logon activities, such as login and logout times, activity types, device locations, and notes. The form is intended to gather data that will help organizations track and analyze user behavior, potentially identifying trends or patterns in user activity. This form may be used by IT administrators or support teams to monitor user activity, troubleshoot issues, or provide insights to stakeholders. 
-
-To avoid duplication of effort and ensure accurate data collection, it is essential to ensure that the form is completed correctly and consistently. Therefore, please carefully read and understand this help guide to ensure you complete the form with accuracy.
-
-</thinking>
-
 # User Logon Activity Report - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for field inspectors to gather information about the condition and maintenance of telecom network infrastructure. The form is used to ensure that inspectors collect all necessary data and observations during site visits. The form's fields cover general information about the site, network condition, and maintenance activities.
-</thinking>
-
 # Telecom Network Infrastructure Inspection Form - Help Guide
 ## Purpose
 This form is designed for field inspectors to record information about the condition and maintenance of telecom network infrastructure during site visits.

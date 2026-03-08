@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect application information from potential candidates for the Computer Operator position. It is intended to be completed by individuals who are interested in applying for this role. Please note that the form is for internal use only and should not be filled out by individuals who are not applying for the position.
-
-Before starting the form, please ensure you have not filled out this form previously and that your application is accurate and up-to-date.
-
-After completing the form, please review it carefully to ensure all required fields are filled out correctly. If you have any questions or concerns, please don't hesitate to reach out to the hiring team.
-
-</thinking>
-
 # Application For Computer Operator - Help Guide
 ## Purpose
 The Application For Computer Operator form is used to collect information from potential candidates who are interested in applying for the Computer Operator position. This form helps us to assess your qualifications, experience, and availability for the role.

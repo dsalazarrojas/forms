@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about candidates during the screening stage of the hiring process. This stage is used to assess a candidate's suitability for the position they are applying for. The form is divided into three main sections: Interview Overview, Initial Assessment, Competency Check, Recommendation, and Final Decision. Each section is designed to evaluate different aspects of the candidate's qualifications, experience, and fit for the role.
-
-To ensure that the form is completed correctly, it is essential to review the guidelines and requirements for each field carefully. The form will help identify potential candidates that match the job requirements and will also assist in making an informed decision about who to proceed to the next stage of the hiring process.
-
-The form must be completed by the interviewer, and the information gathered will be used to determine if the candidate meets the basic qualifications and requirements for the position. It is crucial to fill out the form accurately and honestly, as it will directly impact the candidate's chances of advancing to the next stage of the hiring process.
-
-</thinking>
-
 # Candidate Screening Interview Form - Help Guide
 ## Purpose
 The Candidate Screening Interview Form is a critical part of the hiring process that helps determine a candidate's suitability for a position. It assesses their qualifications, experience, and fit for the role, ensuring that the hiring process is efficient and effective.

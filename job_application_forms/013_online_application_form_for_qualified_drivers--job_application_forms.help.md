@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for qualified drivers who want to apply for various positions related to driving or driving-related activities. The form is meant to collect information about the driver's education, training, and employment history, as well as their driving experience and license status. This form is intended to be completed by drivers who have the necessary qualifications and experience to be considered for these positions. Please make sure you have the required qualifications and experience before completing this form.
-
-</thinking>
-
 # Online Application Form For Qualified Drivers - Help Guide
 ## Purpose
 

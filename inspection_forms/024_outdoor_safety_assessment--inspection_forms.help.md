@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from field staff to report and record outdoor safety incidents in the field. The purpose of this form is to gather details about the incident, including the location, time, and description of the incident. This information will be used to help management track and address potential safety concerns.
-The form should only be filled out after an incident has occurred. Please note that some fields are required to be filled out. If you are unsure about any field, please seek guidance from your supervisor.
-</thinking>
-
 # Outdoor Safety Assessment - Help Guide
 ## Purpose
 This form is used to collect information from field staff to report and record outdoor safety incidents.

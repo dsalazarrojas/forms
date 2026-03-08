@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to update XML files, which are used to store and manage data in a structured format. This form is used to collect information about the request to update an XML file, including the file itself, priority level, assignee, and other relevant details. The form should only be filled out when a user needs to request an update to an existing XML file. To ensure accuracy, please fill out this form only for legitimate requests and not for duplicate or unnecessary updates.
-</thinking>
-
 # xml_file_update_request_form - Help Guide
 ## Purpose
 The xml_file_update_request_form is used to collect information about requests to update XML files.

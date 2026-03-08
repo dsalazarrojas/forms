@@ -1,10 +1,3 @@
-<thinking>
-This is an internal form used by authorized personnel to create and track emergency claims. 
-The purpose of this form is to collect information about a claim, including details about the claimant's contact information, the nature of the claim, the incident date and time, and any supporting documentation that may be required. 
-The form is divided into several sections, and each field is carefully labeled to provide the necessary information for creating and processing a claim in a clear and concise manner. 
-Please ensure that you have the necessary permissions to access and complete this form, as it contains sensitive information.
-</thinking>
-
 # Emergency Claim Form - Help Guide
 ## Purpose
 The Emergency Claim Form is used to collect information about emergency claims and to provide a structured way of documenting and tracking these claims.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Conservatory Base Commencement - Help Guide
 
 ## Purpose

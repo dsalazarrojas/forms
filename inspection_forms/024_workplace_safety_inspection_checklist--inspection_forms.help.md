@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information related to workplace safety and emergency procedures. It's essential to complete this form accurately to ensure a safe working environment.
-Please note that this form is not intended for use in emergency situations. The purpose of this form is to collect data for training, planning, and record-keeping purposes. 
-Before starting, ensure that the form is relevant to your workplace or situation. 
-If you've already filled out this form for the same purpose, there's no need to redo it.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information about various hazards and safety measures in the workplace, including fire hazards, emergency procedures, and safety equipment. The data collected will be used to help improve safety protocols and ensure a safe working environment.

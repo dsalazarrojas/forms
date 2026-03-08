@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for TANF (Temporary Assistance for Needy Families) program. The form is intended to gather essential details from both the client and the social services provider, ensuring accurate and comprehensive record-keeping. This form is not meant for general public use or public disclosure.
-
-This form is part of a larger intake process, but its specific purpose is to capture TANF-specific information. It is used to document client and provider details, including client consent and authorization, which are crucial for program management and compliance. 
-
-To avoid duplication of effort and potential errors, it is essential to fill out this form accurately and completely. Each field is designed to capture specific, vital information that helps in tracking client and provider data for TANF programs.
-
-</thinking>
-
 # tanf_information_disclosure_form - Help Guide
 
 ## Purpose

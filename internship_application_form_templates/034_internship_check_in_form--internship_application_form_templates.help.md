@@ -1,8 +1,3 @@
-<thinking>
-This form is used for interns to check in with their supervisor or manager during their internship. Interns should fill out this form to provide regular updates on their progress, feedback, and any challenges they're facing. This form is meant to help interns stay on track and ensure a smooth workflow with their team. Before filling out this form, please make sure you have not already submitted it in the past 2 weeks, as this may lead to duplicate entries.
-
-</thinking>
-
 # internship_check_in_form - Help Guide
 ## Purpose
 This form is for interns to check in with their supervisor or manager during their internship. It helps ensure they are on track and provides an opportunity for feedback and guidance.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to inquire about the status of a title transfer in real estate transactions. The purpose of this form is to collect information from the user regarding the title transfer process. This form is not intended to be used for multiple instances of the same title transfer status inquiry, as it would be considered a data redundancy issue. 
-</thinking>
-
 # Title Transfer Status Inquiry Form - Help Guide
 ## Purpose
 

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of RFID (Radio Frequency Identification) systems. The purpose of this form is to collect data on specific aspects of RFID system performance, such as test type, test date, issue description, and performance metrics. The form will help users to identify areas of improvement and track progress over time.
-
-To ensure accuracy and relevance of the data collected, please make sure to:
-
-- Fill out the form carefully and truthfully
-- Avoid duplication of entries
-- Review and validate your responses before submission
-
-</thinking>
-
 # rfid_performance_evaluation_form - Help Guide
 ## Purpose
 The "rfid_performance_evaluation_form" is a form used to collect performance metrics and feedback on RFID systems.

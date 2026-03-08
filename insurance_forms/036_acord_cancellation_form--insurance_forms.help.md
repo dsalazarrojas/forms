@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to cancel an insurance policy, and it's intended to be filled out by policy holders or their authorized representatives. The Acord Cancellation Form is used internally to process policy cancellations and updates. Before proceeding, please note that there should be only one Acord Cancellation Form submission for each policy. If you need to cancel or update a policy, please ensure that you are providing the most up-to-date information.
-
-</thinking>
-
 # Acord Cancellation Form - Help Guide
 ## Purpose
 

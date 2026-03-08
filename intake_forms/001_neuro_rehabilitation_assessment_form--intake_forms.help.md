@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Neuro Rehabilitation Assessment Form - Help Guide
+> # Neuro Rehabilitation Assessment Form - Help Guide
 
 ## Purpose
 This form is designed to collect information from patients undergoing neuro rehabilitation. It gathers details about the patient's medical history, neurological history, physical exam, medications list, treatment plans, patient outcome, and additional comments. The form is intended to help healthcare professionals assess and manage patient care.

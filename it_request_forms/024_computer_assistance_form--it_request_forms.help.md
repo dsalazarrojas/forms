@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users about a computer-related issue they are experiencing. The form is intended to help the support team understand the problem and respond accordingly. The form will be filled out by the end-user, and the support team will review and follow up on the issue.
-The form has 10 fields: 1. Issue Summary (note), 2. Requester name, 3. Contact email, 4. Device type, 5. Operating system, 6. Issue description, 7. Urgency, 8. Preferred contact method, and 9. Location.
-</thinking>
-
 # Computer Assistance Form - Help Guide
 ## Purpose
 The Computer Assistance Form is designed to gather information about computer-related issues from end-users, enabling the support team to provide efficient assistance.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for tech clients to inquire about software development projects. When filling out this form, please ensure you are representing your company or organization as a client. This form helps us understand your software needs, and we will contact you to discuss further details.
-
-If you are a repeat client or have already submitted an inquiry, please do not submit the same inquiry again, as it may lead to duplication of efforts.
-
-</thinking>
-
 # Tech Client Software Inquiry Form - Help Guide
 ## Purpose
 The Tech Client Software Inquiry Form is a tool used to gather information about your software development project. This form helps us understand your project requirements and preferences to provide you with the best possible solutions.

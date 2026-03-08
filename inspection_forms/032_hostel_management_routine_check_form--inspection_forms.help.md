@@ -1,7 +1,3 @@
-<thinking>
-The Hostel Management Routine Check Form is used to record the daily management and upkeep of the hostel. This form is used to report on the status of various aspects of the hostel, including general information, facilities, cleanliness, maintenance, shopping routine, staff presence, issues found, comments, and notes. This form is an essential tool for hostel management to ensure that the hostel is run effectively and efficiently.
-</thinking>
-
 # Hostel Management Routine Check Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-We are checking to ensure that you are not duplicating feedback for the same API release. Please do not submit the form if you have already provided feedback for the same release. This form is intended for developer feedback and should only be submitted by developers or those who wish to provide feedback as a developer. If you're not a developer or do not have a legitimate reason for providing feedback, we may not be able to act on your submission.
-
-This form is used to gather feedback on API releases from developers. Developers use this form to share their experience, suggestions, and issues they encountered while using the API. The feedback will be reviewed and used to improve the API.
-
-Please ensure that your feedback is clear, concise, and respectful. The form will be reviewed for quality and relevance.
-
-Before proceeding, please make sure that you have not already submitted feedback for this API release.
-
-</thinking>
-
 # software_api_release_developer_feedback_form - Help Guide
 ## Purpose
 This form is used to provide feedback on API releases from developers. It helps our team to improve the API based on developer experiences and suggestions.

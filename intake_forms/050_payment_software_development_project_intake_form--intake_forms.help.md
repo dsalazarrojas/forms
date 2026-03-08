@@ -1,5 +1,3 @@
-<thinking>...checking if the form purpose is to onboard new projects for the payment software development team, and verifying that all fields are relevant and not duplicated...</thinking>
-
 # Payment Software Development Project Intake Form - Help Guide
 ## Purpose
 This form is designed to collect project details and information for the payment software development project team. The goal is to ensure accurate and comprehensive data entry for project management and development purposes.

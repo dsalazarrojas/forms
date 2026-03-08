@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and concise for the end-users to understand its purpose and how to complete it. This form is used to record the pre-trip inspection of a school bus, which is essential for identifying any potential issues before starting the trip. The goal is to gather information on the condition of the vehicle, the driver's signature, and the completion status of the inspection. By filling out this form, the driver can document any problems or concerns they have with the bus, which can help the maintenance team address these issues before departure.
-We will review each field's label and purpose to create a user-facing help guide that covers the form's purpose, how to complete it, and a field-by-field explanation.
-</thinking>
-
 # School Bus Pre Trip Inspection Report Form - Help Guide
 ## Purpose
 The School Bus Pre Trip Inspection Report Form is used to record the pre-trip inspection of a school bus. This form helps identify any potential issues with the vehicle before it departs, ensuring a safe and efficient trip.

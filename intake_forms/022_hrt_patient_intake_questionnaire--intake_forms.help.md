@@ -1,14 +1,3 @@
-<thinking> 
-This form is intended to collect information about patients' medical history and treatment preferences for Hormone Replacement Therapy (HRT). The purpose of this form is to gather essential details from patients before their medical consultation, ensuring that the healthcare provider is well-equipped to provide the best possible care. This form will only be used for patients who are seeking HRT services, and its completion is a mandatory step in the intake process.
-
-To ensure that you have access to this form, you should be a patient who is seeking HRT services. If you are not a patient or have already completed this form, you will not have access to it.
-
-Please note that this form has multiple pages, and some fields may be optional. However, all required fields are marked as such, and you will not be able to proceed without completing them.
-
-When completing this form, please be sure to enter your information accurately and honestly. Your responses will be used to guide the healthcare provider's treatment plan and ensure that you receive the best possible care.
-
-</thinking>
-
 # HRT Patient Intake Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential information about patients' medical history and treatment preferences for Hormone Replacement Therapy (HRT).

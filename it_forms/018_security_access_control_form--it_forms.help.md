@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the "security_access_control_form" form. The form is used for controlling access to sensitive security areas. It is designed to be filled out when requesting access to a security area. To ensure you are using the correct form, please review the following fields carefully to ensure you are submitting the correct information.
-</thinking>
-
 # security_access_control_form - Help Guide
 ## Purpose
 The security_access_control_form is used for controlling access to sensitive security areas. It should be filled out when requesting access to a security area.

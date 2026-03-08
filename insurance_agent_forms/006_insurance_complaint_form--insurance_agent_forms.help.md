@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for insurance agents to collect and process complaints from policyholders. The form gathers information such as policyholder details, complaint description, and contact information. The form is divided into two main sections: Policyholder Information and Complaint Details. Each section is designed to collect specific information necessary for processing the complaint.
-</thinking>
-
 # Insurance Complaint Form - Help Guide
 ## Purpose
 The Insurance Complaint Form is used to collect and process complaints from policyholders, allowing insurance agents to efficiently manage and resolve issues related to policies.

@@ -1,13 +1,3 @@
-<thinking>
-
-The Data Request Form is intended for users to provide information about data requests they wish to have fulfilled. This form helps to gather necessary information such as contact details, dates, and specific data requested. It's essential to fill out the form accurately to ensure that the requested data is properly understood and handled.
-
-This form appears to be designed to collect data for multiple pages, with each page containing similar fields for contact information and data requests. The form's structure suggests that it might be used for tracking or processing recurring data requests.
-
-Please review the form carefully to understand its purpose and content. If you're unsure about any part of the form, it's likely due to a missing or unclear label or hint, which can be addressed internally to improve the form's usability.
-
-</thinking>
-
 # Data Request Form - Help Guide
 ## Purpose
 The Data Request Form is a tool for users to provide details about data requests they wish to have fulfilled. This form ensures that the requested data is properly understood and handled.

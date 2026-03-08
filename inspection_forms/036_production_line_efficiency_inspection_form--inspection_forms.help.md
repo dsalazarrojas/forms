@@ -1,7 +1,3 @@
-<thinking>
-  The form purpose is to evaluate the efficiency of a production line, which is a series of machines or processes used to manufacture a product. The form is used to collect data on the status of the production line equipment, issues, and other relevant information. This form is designed to be completed by production line inspectors to provide an accurate assessment of the production line's efficiency.
-</thinking>
-
 # Production Line Efficiency Inspection Form - Help Guide
 ## Purpose
 The Production Line Efficiency Inspection Form is designed to evaluate the efficiency of a production line by collecting data on the status of the production line equipment, issues, and other relevant information.

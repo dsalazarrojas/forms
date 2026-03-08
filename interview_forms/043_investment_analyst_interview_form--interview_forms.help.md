@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Investment Analyst Interview Form - Help Guide
 ## Purpose
 

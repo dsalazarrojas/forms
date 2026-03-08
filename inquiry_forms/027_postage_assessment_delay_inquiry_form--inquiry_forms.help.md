@@ -1,7 +1,3 @@
-<thinking>
-This form is used to inquire about postage assessments that have been delayed. It is intended for use by customers or support staff to report issues with postage assessments. This form is not intended for use by administrators or staff who need to perform bulk actions or updates.
-</thinking>
-
 # postage_assessment_delay_inquiry_form - Help Guide
 ## Purpose
 The Postage Assessment Delay Inquiry Form is used to report issues with delayed postage assessments. Customers or support staff can use this form to report problems with their postage assessments.

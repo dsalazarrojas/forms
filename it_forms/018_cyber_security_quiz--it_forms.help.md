@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on cyber security practices and awareness from users. The form is intended to be filled out by individuals who are interested in or already have experience with cyber security. Each field is designed to be simple and straightforward, with no complex logic or conditional fields. This guide will help users understand what each field means and how to complete it correctly.
-</thinking>
-
 # cyber_security_quiz - Help Guide
 ## Purpose
 The purpose of this form is to collect information on your cyber security practices and awareness.

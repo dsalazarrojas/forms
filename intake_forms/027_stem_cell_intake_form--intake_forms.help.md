@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's medical history, medical conditions, and social history, which is crucial for medical professionals to provide personalized and accurate care. The form aims to gather comprehensive data about the patient's medical history, including medical conditions, allergies, and contraindications. The form is meant to be completed by patients and their caregivers to ensure that medical professionals have all the necessary information to provide optimal care. This form is not intended to replace a comprehensive medical examination or diagnosis by a qualified healthcare professional. It is recommended to review the form carefully before completing it and to ensure that all relevant information is provided.
-
-Please note that the form has a large number of fields, which might seem overwhelming. However, each field is designed to collect specific information and is necessary for a comprehensive understanding of the patient's medical history. If you have any doubts or concerns, please consult with a healthcare professional before completing this form.
-</thinking>
-
 # Stem Cell Intake Form - Help Guide
 ## Purpose
 The Stem Cell Intake Form is designed to collect comprehensive information about a patient's medical history, medical conditions, and social history to aid medical professionals in providing personalized care.

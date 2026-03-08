@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users get support for the Smart Building App. The purpose of this form is to collect information from users who are experiencing issues or need assistance with the app. This form will help the support team to provide effective solutions to their problems.
-
-Before filling out this form, please make sure you haven't already submitted a similar request, as this can lead to duplicated efforts and inefficient resolution of your issue. If you're unsure whether you've already submitted a request, you can check our support history or contact us directly to inquire.
-
-</thinking>
-
 # Smart Building App Support Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the necessary information for a medical tour service agreement. The form will guide users through two pages of questions that cover various aspects of their medical history, appointment schedule, and other relevant details. The form requires users to answer each question accurately and truthfully.
-</thinking>
-
 # Medical Tour Service Agreement - Help Guide
 ## Purpose
 This form is used to collect information for a medical tour service agreement. The agreement requires users to provide personal and medical information to ensure the safety and effectiveness of the tour.

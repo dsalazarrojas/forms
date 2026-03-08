@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request access to faculty engagement data. The faculty engagement data includes information such as start and end dates, duration, and policy acknowledgment for a specific time period. Before submitting the form, please ensure that you have not already submitted a similar request for the same period and that you have a clear understanding of the request's purpose. 
-
-This form is intended for data access requests that are not routine or recurring and only applies to specific instances.
-</thinking>
-
 # Faculty Engagement Data Access Request - Help Guide
 ## Purpose
 This form is used to request access to faculty engagement data. The faculty engagement data includes information such as start and end dates, duration, and policy acknowledgment for a specific time period.

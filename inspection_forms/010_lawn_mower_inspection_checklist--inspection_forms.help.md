@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assist in conducting a thorough inspection of a lawn mower, focusing on various aspects such as the mower's model, blade condition, engine condition, oil level, air filter, oil filter, spark plugs, drive system, drive tires, mower tires, cutting system, mower condition, maintenance schedule, last maintenance, and maintenance frequency. The form is intended to collect information that can be used to assess the overall state of the lawn mower and identify potential issues or needed maintenance. By answering the questions in this form, users can obtain an accurate picture of the lawn mower's condition.
-
-This form is part of the inspection forms category. To avoid duplication, ensure that no other form with similar content exists in the same category.
-
-</thinking>
-
 # Lawn Mower Inspection Checklist - Help Guide
 
 ## Purpose

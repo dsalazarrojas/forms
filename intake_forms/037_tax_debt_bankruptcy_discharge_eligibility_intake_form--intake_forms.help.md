@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Tax Debt Bankruptcy Discharge Eligibility Intake Form", we need to consider the form's purpose, how to complete it, and what each field means. This guide will provide an overview of the form's intended use, step-by-step instructions on filling it out, and a detailed explanation of each field's purpose.
-
-The form's purpose is to help individuals determine their eligibility for bankruptcy discharge by gathering essential information about their tax debt, bankruptcy details, financial institutions involved, and other relevant factors. The form is designed to be filled out by individuals who need to assess their eligibility for bankruptcy discharge.
-
-</thinking>
-
 # Tax Debt Bankruptcy Discharge Eligibility Intake Form - Help Guide
 
 ## Purpose

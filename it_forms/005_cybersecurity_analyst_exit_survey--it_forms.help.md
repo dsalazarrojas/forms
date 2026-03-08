@@ -1,17 +1,3 @@
-<thinking>
-To provide guidance on the purpose and completion of the Cybersecurity Analyst Exit Survey form, I'll first outline the form's intention and context.
-
-The Cybersecurity Analyst Exit Survey is designed to gather information from cybersecurity analysts about their experiences, preferences, and concerns related to their work environment, tools, and processes. The survey aims to help organizations understand the strengths and weaknesses of their current cybersecurity setup and gather feedback to improve the working conditions and processes of analysts.
-
-To ensure that the survey is relevant to your role and experiences, please take a moment to review the following:
-- Are you a cybersecurity analyst or have you held a similar position in the past?
-- Have you worked with the tools and processes mentioned in the survey?
-- Are you familiar with the work environment described in the survey?
-
-If you're unsure or have concerns, please contact your supervisor or HR representative for clarification.
-
-</thinking>
-
 # Cybersecurity Analyst Exit Survey - Help Guide
 ## Purpose
 

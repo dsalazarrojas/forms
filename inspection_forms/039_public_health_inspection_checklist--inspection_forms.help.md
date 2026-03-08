@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be used to document the Public Health Inspection Checklist form, which is a crucial tool used by public health authorities to conduct inspections and assess facilities' compliance with health and safety standards.
-</thinking>
-
 # Public Health Inspection Checklist - Help Guide
 ## Purpose
 This form is used to gather information about a facility's compliance with public health regulations, including its previous inspection history. It's a crucial tool for public health authorities to conduct thorough assessments and ensure facilities are up to standard.

@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form seems to be a contact form for facilities experiencing digital issues. It appears to gather information about the location, priority, contact email, and other relevant details. It also includes fields for comments and additional contact information. Based on this analysis, the form's purpose is likely to provide support for facilities experiencing digital issues.
-</thinking>
-
 # Facility Digital Service Contact Form - Help Guide
 ## Purpose
 This form is designed to help facilities contact digital service support when they experience issues. It helps the support team to quickly identify the location and priority of the issue, making it easier to allocate resources and provide timely assistance.

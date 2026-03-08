@@ -1,10 +1,3 @@
-<thinking> 
-  The BBS Behavioral Based Safety Checklist form is designed to help inspectors and safety personnel evaluate the safety of an employee's behavior during work activities. It helps identify potential hazards and areas for improvement in the workplace.
-  This form is intended to be used by inspectors and safety personnel to conduct regular safety observations and provide feedback to employees on their safety performance.
-  To avoid duplication of effort, this form should only be filled out by authorized personnel and should not be used in place of other safety protocols or procedures.
-  It is recommended that this form is used in conjunction with other safety tools and procedures to ensure a comprehensive understanding of the workplace safety posture.
-</thinking>
-
 # BBS Behavioral Based Safety Checklist - Help Guide
 ## Purpose
 This form is used to observe and document the safety behavior of employees during work activities. It helps identify potential hazards and areas for improvement in the workplace.

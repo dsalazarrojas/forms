@@ -1,11 +1,3 @@
-<thinking>
-  The form purpose is to gather information about telecom network reliability incidents, allowing users to report issues such as service outages, interference, or other problems affecting the network. This form is likely used by network teams or customer support to track and address these incidents. Before filling out this form, it's essential to ensure that the incident has not been reported or addressed already. Please make sure that this form is being used for a new or ongoing incident.
-
-  To prevent duplication of efforts, please make sure to check if a similar report has already been submitted for the same issue. If you are reporting an ongoing incident, please ensure it has not been resolved and that the form is not being used for an already addressed issue.
-
-  After filling out the form, please review it carefully before submitting to ensure all necessary information has been provided. If you need further guidance or have questions, don't hesitate to reach out to the team.
-</thinking>
-
 # Telecom Network Reliability Inquiry Form - Help Guide
 ## Purpose
 The Telecom Network Reliability Inquiry Form is designed to gather information about incidents affecting the telecom network. This form helps the network team to track and address these issues promptly.

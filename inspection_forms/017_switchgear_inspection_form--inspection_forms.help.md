@@ -1,5 +1,3 @@
-<thinking>It seems that this form is designed for inspecting switchgear, which is an electrical switchgear assembly used in electrical power systems, particularly in distribution and transmission systems. This form likely contains a comprehensive set of questions and fields to inspect and record information about the switchgear. Each field should guide the user through the necessary steps and information collection to effectively inspect the switchgear and ensure it is functioning as expected.</thinking>
-
 # Switchgear Inspection Form - Help Guide
 ## Purpose
 This form is designed to guide users through the process of inspecting switchgear assemblies to ensure they are functioning correctly and meet the expected standards. The form will help you collect information about the switchgear's condition, identify any issues, and record the results of the inspection.

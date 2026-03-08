@@ -1,9 +1,3 @@
-<thinking>
-This help guide is being generated to ensure that end-users understand how to complete the "Technician Evaluation Form for Westmin Area 22" correctly and efficiently.
-The form is designed to collect feedback and evaluation from technicians in Westmin Area 22. The feedback will help improve the services and processes provided by the team.
-Before starting, ensure that you are using this form for its intended purpose and not duplicating any existing efforts.
-</thinking>
-
 # Technician Evaluation Form Westmin Area 22 - Help Guide
 ## Purpose
 The Technician Evaluation Form for Westmin Area 22 is designed to collect feedback and evaluation from technicians working in the area. This form helps identify areas of improvement and ensures that the services provided meet the expected standards.

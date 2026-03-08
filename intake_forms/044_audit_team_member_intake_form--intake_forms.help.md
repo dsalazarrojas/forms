@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential candidates who are applying to join the audit team. To be eligible for the position, applicants must meet the minimum requirements specified in the form. Please ensure you have read and understood the form before submitting your application. Note that you will be asked for sensitive and personal information, so please answer truthfully and accurately. 
-
-</thinking>
-
 # Audit Team Member Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential candidates who wish to join the audit team. It is essential that you fill out this form accurately and truthfully to ensure that we can review your application efficiently.

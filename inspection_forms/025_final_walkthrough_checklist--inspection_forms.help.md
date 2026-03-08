@@ -1,8 +1,3 @@
-<thinking>
-This form is used to perform a final walkthrough of a property, checking various systems and components to ensure everything is in working order before completion or handover. This form should only be used for properties that have not been modified or changed significantly since the initial inspection. It is recommended to review and update the inspection report from the initial inspection to ensure that all issues have been addressed.
-Before starting this form, please ensure that you have access to the property's documentation and records, including previous inspection reports and any relevant maintenance records.
-</thinking>
-
 # Final Walkthrough Checklist - Help Guide
 ## Purpose
 The Final Walkthrough Checklist is a form used to perform a thorough review of a property's systems and components before completion or handover.

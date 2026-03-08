@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from users requesting support. It is not intended for use as a general contact form. The purpose of this form is to gather specific details necessary for support requests, such as user details, request specifics, and contact information. This form should only be completed by users who are requesting support, and not by users who wish to contact the organization for general purposes.
-
-The form will be reviewed and validated to ensure that it is completed correctly before it is processed.
-
-</thinking>
-
 # it_support_subscription_form - Help Guide
 ## Purpose
 This form is used to collect information from users requesting support from the organization. It is designed to gather specific details necessary for efficient support request handling.

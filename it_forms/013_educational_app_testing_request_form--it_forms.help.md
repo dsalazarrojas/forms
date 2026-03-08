@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect information from users who want to test an educational app. The form will ask for general information about the tester, the testing goals, and the app, as well as contact details and other relevant information. This form is likely used in an educational setting to gather feedback from users about an educational app, which will help the developers to improve the app. The form might be used by educational institutions, schools, or companies that create educational apps.
-
-It's possible that the form is intended for internal use within the company, but the purpose of the form is still the same - to collect feedback from users. The form does not require any specific information, which means that the users are free to submit any information they feel is relevant to the testing.
-
-This form is meant to be filled out by people who are interested in testing an educational app. The form's design and structure should be clear and easy to understand for the users.
-
-Please note that the fields' labels might not be very clear, so I'll try my best to provide a good explanation based on the available information.</thinking>
-
 # Educational App Testing Request Form - Help Guide
 
 ## Purpose

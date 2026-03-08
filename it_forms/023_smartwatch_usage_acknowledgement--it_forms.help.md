@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Smartwatch Usage Acknowledgement - Help Guide**
 
 ## Purpose

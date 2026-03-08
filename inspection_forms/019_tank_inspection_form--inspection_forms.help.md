@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect data from tank inspections. The form is likely used by maintenance or operational teams to document and track tank inspections, ensuring the tanks are inspected at appropriate intervals to maintain their integrity and safety. To create a comprehensive help guide, we should consider the various fields and their potential meanings.
-
-</thinking>
-
 # Tank Inspection Form - Help Guide
 ## Purpose
 The Tank Inspection Form is used to record and document tank inspections, ensuring the tanks are properly maintained and safe to use.

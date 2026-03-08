@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather essential information from clients prior to their hypnotherapy consultation. Before filling out this form, please ensure you have not already completed it for this client. If you are unsure about any information, please reach out to your hypnotherapist for guidance.</thinking>
-
 # Hypnotherapy Intake And Consultation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from clients before their hypnotherapy consultation. The form aims to understand the client's background, preferences, and requirements for the session, ensuring a successful and effective consultation.

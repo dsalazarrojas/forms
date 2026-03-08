@@ -1,13 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose and fields align with the business needs and user goals.
-- Is the form used for billing and payment management? 
-  - Yes, it's used for this purpose.
-- Are all required fields correctly identified? 
-  - Yes, all fields are marked as required to ensure user completeness.
-- Is the form's content clear and concise? 
-  - Yes, each field has a clear and concise label and hint to guide the user.
-</thinking>
-
 # Auto Insurance Billing Form - Help Guide
 ## Purpose
 This form is used to provide billing and payment information for your auto insurance policy. It's designed to gather essential details for efficient and accurate billing processes.

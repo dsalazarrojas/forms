@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to conduct a thorough safety inspection of a cottage, covering various aspects such as fire safety, electrical safety, gas safety, water safety, structural integrity, safety equipment, electrical hazards, gas leaks, and water leaks. 
-The form will help users identify potential risks and ensure the cottage meets safety standards. To avoid duplication of effort, this form is intended to be used only for initial inspections or when there are significant changes to the cottage's safety systems.
-</thinking>
-
 # Cottage Safety Inspection Checklist - Help Guide
 ## Purpose
 The Cottage Safety Inspection Checklist is a form designed to help users conduct a thorough safety inspection of a cottage, covering various critical areas to identify potential risks and ensure the cottage meets safety standards.

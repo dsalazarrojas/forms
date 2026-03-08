@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for store managers to provide information about their job openings. The form is AI-generated and is not affiliated with any specific form platform. It is designed to be used as a starting point for conducting interviews and gathering relevant information from store managers. 
-
-Please note that this form is not intended to be used as a substitute for actual human interaction and should be reviewed and approved by the relevant stakeholders before being used in a professional setting.
-
-Also, this form is open-source and can be modified and used as needed. However, any changes made to the form should be done so responsibly and with the understanding that the original intent and meaning of the form's content may be altered.
-
-Before proceeding, ensure that this form meets your specific needs and requirements. If you have any doubts or concerns, please reach out to the form creators at form@gic.mx.
-
-</thinking>
-
 # store_manager_interview_form - Help Guide
 ## Purpose
 This form is designed to gather information from store managers about their job openings. The form is intended to be used as a starting point for conducting interviews and gathering relevant information.

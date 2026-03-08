@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to inquire about the accuracy of their personal data stored in our system. It's designed to gather information to help us improve the accuracy of our records and ensure that your data is up-to-date and correct.
-</thinking>
-
 # Personal Data Accuracy Inquiry Form - Help Guide
 ## Purpose
 This form is used to inquire about the accuracy of your personal data stored in our system. Fill out this form to let us know about any discrepancies or inaccuracies in your data.

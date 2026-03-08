@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about the state of the IT room on a weekly basis. The purpose of this form is to assess the conditions of the room, including the condition of various aspects, cleanliness, and security measures. This form is intended to be completed by a designated inspector, who will fill out the form based on their observations. The information collected will be used by facilities management to track the room's condition and take corrective actions if necessary.
-</thinking>
-
 # IT Room Weekly Inspection Checklist - Help Guide
 ## Purpose
 The IT Room Weekly Inspection Checklist is used to evaluate the state of the IT room on a weekly basis. This form helps identify any potential issues that may affect the proper functioning of the equipment and overall environment.

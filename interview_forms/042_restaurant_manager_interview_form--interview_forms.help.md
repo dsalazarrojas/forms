@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information from a restaurant manager, likely for administrative or operational purposes such as hiring, training, or communication. This form is designed to be completed by an individual, and the information collected will be used by the restaurant management team to facilitate their work. This form is not intended for public use or public data collection, and the information collected will be treated confidentially.
 
 </thinking>

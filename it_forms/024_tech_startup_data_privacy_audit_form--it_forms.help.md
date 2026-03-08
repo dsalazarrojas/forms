@@ -1,27 +1,3 @@
-<thinking>
-
-This form is used to collect information about data privacy audits for tech startups. The purpose of the form is to gather essential details about the audit, including its title, category, description, form ID, category of the form, and the assigned tool used for the audit. The form also asks for additional details such as email, phone number, and other relevant fields like date and time.
-
-To ensure that the form is filled out correctly and efficiently, it's essential to understand each field's purpose and requirements. Here's a step-by-step guide on how to complete this form:
-
-1.  Enter the title of the audit in the "Form Title" field. This title should be a brief summary of the audit.
-2.  Select the appropriate category from the "Form Category" dropdown list (e.g., IT, Marketing, or HR).
-3.  Provide a detailed description of the audit in the "Form Description" field.
-4.  Enter the unique ID of the audit in the "Form ID" field.
-5.  Select the category of the form from the "Category" dropdown list (e.g., IT, Marketing, or HR).
-6.  Enter the assigned tool used for the audit in the "Assigned Tool" field.
-7.  Enter the date of the audit in the "Date" field.
-8.  Enter the time of the audit in the "Time" field.
-9.  Add any additional notes about the audit in the "Note" field.
-10. Enter the email of the person responsible for the audit in the "Email" field.
-11. Enter the phone number of the person responsible for the audit in the "Phone" field.
-12. Enter any integer value related to the audit in the "Integer" field.
-13. Enter any decimal value related to the audit in the "Decimal" field.
-
-This form is designed to collect information about data privacy audits for tech startups. Please review each field carefully and fill out the form accurately.
-
-</thinking>
-
 # Tech Startup Data Privacy Audit Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about data privacy audits for tech startups.

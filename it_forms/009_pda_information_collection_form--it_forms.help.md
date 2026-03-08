@@ -1,7 +1,3 @@
-<thinking> 
-This form is for collecting information about a PDA (Personal Digital Assistant). The purpose of this form is to gather essential details about the PDA, such as its type, location, and other relevant information. This form is meant for internal use only and is not intended for public access. Users will be asked to submit the form only once per PDA, and any duplicate submissions will be flagged for manual review. 
-</thinking>
-
 # PDA Information Collection Form - Help Guide
 ## Purpose
 The PDA Information Collection Form is designed to gather information about Personal Digital Assistants (PDAs) for internal use only. It is essential to submit accurate and complete information to ensure the correct categorization and utilization of the PDA.

@@ -1,22 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the "Seasonal Cabin Inspection Checklist" form. This form is designed to collect information and data related to the maintenance and upkeep of seasonal cabins. The form's purpose is to ensure that cabins are properly maintained and inspected on a regular basis to prevent accidents, ensure guest safety, and identify potential issues before they become major problems.
-
-The following fields are included in the form:
-
-*   "Cabin Address": This field is used to record the physical address of the cabin, which is necessary for maintenance and inspection purposes.
-*   "Contact Person": This field is used to record the person responsible for the cabin's maintenance and upkeep.
-*   "Inspection Date": This field is used to record the date of the inspection, which is essential for tracking maintenance and upkeep schedules.
-*   "Maintenance Manager": This field is used to record the name of the person responsible for the maintenance and upkeep of the cabin.
-*   "Cabin Type": This field is used to select the type of cabin, which can be Cabin, Lodge, Chalet, or Cabinette.
-*   "Season": This field is used to select the season of the year in which the inspection is performed.
-*   "Maintenance Status": This field is used to select the status of the cabin's maintenance, which can be Active, Inactive, or both.
-*   "Notes": This field is used to record any additional comments or notes about the cabin's condition.
-*   "Email": This field is used to record the contact person's email address.
-*   "Phone": This field is used to record the contact person's phone number.
-*   "Follow-up": This field is used to select whether a follow-up inspection is required or not.
-
-</thinking>
-
 # Seasonal Cabin Inspection Checklist - Help Guide
 ## Purpose
 The Seasonal Cabin Inspection Checklist form is designed to collect information and data related to the maintenance and upkeep of seasonal cabins. The form is intended to ensure that cabins are properly maintained and inspected on a regular basis to prevent accidents, ensure guest safety, and identify potential issues before they become major problems.

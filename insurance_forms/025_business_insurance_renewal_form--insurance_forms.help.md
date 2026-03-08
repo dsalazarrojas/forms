@@ -1,13 +1,3 @@
-<thinking>
-This form is used for business insurance renewal. To ensure you get the correct policy information and updates, please ensure that:
-- The policy holder business name is correctly entered to match the policy details.
-- The policy number is the existing identifier for the policy.
-- The renewal date is accurate and correctly entered to avoid any delays or cancellations.
-- For any requested changes, provide clear descriptions to avoid miscommunication.
-- Select the correct billing preference to avoid any discrepancies in payment.
-- Confirm acceptance of the renewal terms to avoid any issues.
-</thinking>
-
 # Business Insurance Renewal Form - Help Guide
 ## Purpose
 The Business Insurance Renewal Form is used to gather information for the business insurance policy renewal process. This form ensures that policy details are accurate, and any changes are properly documented and communicated.

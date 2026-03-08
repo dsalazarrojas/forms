@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on the LIFE Needs Analysis, which is likely a assessment or survey to understand an individual's life needs and circumstances. This form is likely used to determine the need for insurance coverage or other life-related services. It's assumed that the form is used within a specific industry, possibly healthcare or financial services. The form's layout suggests that it's used to gather information on an individual's life needs, family situation, medical history, and insurance status. It's likely that this form is used to identify areas where additional support or coverage may be necessary. It's worth noting that while the form has multiple fields, some of the fields are not required, which may indicate that they are optional or dependent on the user's responses in other fields. To avoid duplication of effort, it's recommended to fill out this form only once you have a clear understanding of what you're trying to achieve with the LIFE Needs Analysis.
-</thinking>
-
 # LIFE Needs Analysis - Help Guide
 ## Purpose
 The LIFE Needs Analysis form is designed to collect information on an individual's life needs and circumstances to identify areas where additional support or coverage may be necessary.

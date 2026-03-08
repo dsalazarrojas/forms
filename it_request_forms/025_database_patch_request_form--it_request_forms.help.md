@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # database_patch_request_form - Help Guide
 
 ## Purpose

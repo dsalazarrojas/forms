@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information related to vehicle inspections, specifically for a vehicle inspection process. This form appears to be designed for a simple, text-based input format, where users will provide details about the vehicle, driver, and inspection results in a series of text fields. Given the lack of options or complex form logic, it's likely that this form is intended for a basic, manual data collection process rather than an automated or conditional assessment.
-
-Form fields seem to be focused on collecting general information about the vehicle and the inspection process, without any apparent conditional or branching logic. This suggests that the form is designed to be a straightforward data collection tool, rather than a comprehensive inspection checklist or a complex assessment form.
-
-With these assumptions, it's possible that this form is used in a context where a mechanic or an inspector needs to document their findings and observations about a vehicle in a simple and concise manner.
-
-</thinking>
-
 # uber_inspection_form - Help Guide
 ## Purpose
 The uber_inspection_form is designed to collect information related to vehicle inspections, providing a simple and straightforward way to document details about the vehicle, driver, and inspection results.

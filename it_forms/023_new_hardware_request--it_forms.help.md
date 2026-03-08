@@ -1,10 +1,3 @@
-<thinking>
-The internal reasoning for this form is to help users request new hardware in an efficient and organized manner, ensuring that all necessary information is collected for the requesting department. This form is likely used by staff members or users to request new hardware for various purposes, such as office upgrades, employee devices, or other business equipment. It's essential to fill out this form carefully to avoid duplication of requests and ensure the correct information is submitted.
-
-Before filling out this form, please check that you have not already submitted a similar request for the same hardware. This will help prevent unnecessary processing and ensure that your request is prioritized correctly.
-
-</thinking>
-
 # new-hardware-request - Help Guide
 ## Purpose
 The "New Hardware Request Form" is designed to help staff members or users request new hardware for various business needs. It's a crucial tool for gathering essential information to process and fulfill these requests efficiently.

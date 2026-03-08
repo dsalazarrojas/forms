@@ -1,8 +1,3 @@
-<thinking>
-To create this user-facing help guide, we need to understand the purpose and requirements of the Health Insurance Claim Monitoring Form. This form is likely used to track and monitor the status of health insurance claims, allowing users to submit information about their claims. The form should be clear, concise, and easy to understand for end-users.
-
-</thinking>
-
 # Health Insurance Claim Monitoring Form - Help Guide
 ## Purpose
 The Health Insurance Claim Monitoring Form is used to track and monitor the status of health insurance claims. This form helps users to submit information about their claims, which is useful for insurance companies to keep track of claims and provide timely resolutions.

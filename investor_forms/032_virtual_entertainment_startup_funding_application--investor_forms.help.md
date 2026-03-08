@@ -1,7 +1,3 @@
-<thinking>
-This form is for virtual entertainment startups seeking funding. It is intended for founders to provide information about their companies, including contact details, business information, and funding requirements. To ensure relevance, please ensure that your company is a virtual entertainment startup. This guide is intended to help you navigate the form accurately. If you have any questions, please contact us.
-</thinking>
-
 # Virtual Entertainment Startup Funding Application - Help Guide
 ## Purpose
 This form is designed for virtual entertainment startups to apply for funding. It captures essential information about your company, including founder contact details, business information, and funding requirements.

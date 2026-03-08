@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for investors to provide information about themselves, which will be used to assess their investment preferences and financial goals. The purpose of this form is to help us better understand your investment profile, risk tolerance, and financial situation. Please note that this form does not store any sensitive information and is only used for internal purposes. If you have already completed a similar form or have any concerns, please let us know and we will review and merge the data accordingly.
-</thinking>
-
 # Investor Profile Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about your investment profile, risk tolerance, and financial goals. The information collected will help us understand your investment preferences and provide you with more accurate investment advice.

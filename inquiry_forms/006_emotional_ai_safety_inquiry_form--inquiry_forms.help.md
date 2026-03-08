@@ -1,14 +1,3 @@
-<thinking>
-This is a technical guide to help internal developers understand how to create a user-facing help guide for an "Emotional AI Safety Inquiry Form". The form is used for users to report potential safety concerns related to emotional AI development. The guide will cover the purpose and usage of the form, as well as a detailed explanation of each field in the form. This will ensure that users understand how to effectively complete the form and what information is required or optional for them to provide.
-
-The form is designed to be completed by users who are concerned about the safety aspects of emotional AI development. It is intended for individuals working within the internal organization or external stakeholders. Users will be required to provide their name and email, but this will only be used for contact purposes if the inquiry needs further discussion.
-
-To complete the form, users will select the risks they perceive in the "Emotional AI Risks" field and provide additional comments in the "Additional Comments" field if needed. They will also be asked about the safeguards they perceive as in place in the "Emotional AI Safeguards" field and the impact of these safeguards on the AI system in the "Emotional AI Safeguards Impact" field. Users can optionally provide their contact information, including phone number and job title, for further discussion if needed.
-
-Each field in the form has a specific purpose and requirements. Here is a detailed explanation of each field:
-
-</thinking>
-
 # Emotional AI Safety Inquiry Form - Help Guide
 ## Purpose
 The Emotional AI Safety Inquiry Form is designed to gather information from users about potential safety concerns related to emotional AI development. This form is used to identify and address potential risks and safeguards associated with emotional AI systems.

@@ -1,19 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the fields provided. The form appears to be a general inquiry form for a jewelry customer design, likely for a business that offers custom jewelry design services. This form would help customers submit their inquiry for a custom jewelry design, providing essential information such as their name, contact details, and design preferences. 
-
-To confirm, let's look at the fields:
-
-- "First Name" and "Last Name" suggest that the form is meant to collect personal information.
-- "Email" and "Contact Phone" indicate that the business wants to ensure they can reach the customer.
-- "Message Details" and "Jewelry Description" imply that customers need to provide more details about their design preferences.
-- Select fields like "Jewelry Type" and "Metal Type" and "Design Type" suggest specific options for the design, likely used as filters for the customer's preferences.
-- The "budget" and "size" fields imply that customers are likely interested in discussing budget and size constraints.
-- "Stone Type" and "Date" fields might be used for specifying specific materials or dates for the design.
-
-Upon reviewing the form, it seems there are no redundant fields or fields that are not relevant to the purpose. The only fields not directly related to the customer's design preferences are "first_name", "last_name", "email", "contact_phone", and "date", which are standard contact information fields.
-
-The form's purpose is likely to gather information from customers to create a custom design for their jewelry needs. This form is a crucial tool for the business to understand customer preferences and provide an accurate quote or design concept.</thinking>
-
 # Jewelry Customer Design Inquiry Form - Help Guide
 ## Purpose
 The Jewelry Customer Design Inquiry Form is a tool for customers to submit their inquiry for a custom jewelry design. This form helps the business understand the customer's preferences and provide a quote or design concept tailored to their needs.

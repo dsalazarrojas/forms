@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Faculty Administrative Support Inquiry Form is to collect information about administrative support requests from faculty members. This form helps to ensure that the support requests are properly documented, assigned to the correct department, and addressed in a timely manner. By using this form, faculty can request assistance with various administrative tasks, such as equipment requests, personnel issues, or other departmental matters. To avoid duplicate requests, please check the box at the top right corner of the form, if you are re-submitting the same request.
-</thinking>
-
 # Faculty Administrative Support Inquiry Form - Help Guide
 ## Purpose
 The Faculty Administrative Support Inquiry Form is designed to gather information about administrative support requests from faculty members. It helps to streamline the process of submitting and managing support requests.

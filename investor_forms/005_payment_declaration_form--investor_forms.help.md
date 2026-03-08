@@ -1,12 +1,3 @@
-<thinking>
-The Payment Declaration Form is used to collect information about payments made by investors, including the name of the investor, the date of the payment declaration, the amount paid, and the method of payment. This form is typically used for internal accounting and auditing purposes to track and verify payments made to the organization. It is recommended that investors fill out this form accurately and completely to ensure that the payment is properly recorded and reported.
-
-Before filling out this form, please ensure that you are authorized to access the form and that you have all necessary information required to complete it. Please note that this form is for internal use only and should not be shared with third parties without proper clearance.
-
-To prevent duplicate entries, please check the form's title for any existing submissions with the same title.
-
-</thinking>
-
 # Payment Declaration Form - Help Guide
 ## Purpose
 The Payment Declaration Form is used to collect information about payments made by investors for internal accounting and auditing purposes.

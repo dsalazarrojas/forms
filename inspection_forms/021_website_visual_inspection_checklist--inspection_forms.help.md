@@ -1,7 +1,3 @@
-<thinking>
-This form is used to inspect and evaluate the quality of a website. The purpose of this form is to ensure that the website meets certain standards for design, accessibility, content, and performance.
-</thinking>
-
 # Website Visual Inspection Checklist - Help Guide
 ## Purpose
 The Website Visual Inspection Checklist is a tool used to evaluate the quality of a website. It provides a framework for inspecting and assessing the website's design, accessibility, content, and performance. By filling out this form, you can quickly and easily identify areas of improvement and make informed decisions about the website's overall quality.

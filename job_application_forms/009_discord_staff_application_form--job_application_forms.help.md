@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about potential new staff members, including their contact details and other relevant personal details. The form has four fields, each with its own specific purpose and requirements.
-
-The form is designed to be straightforward and easy to complete, with only one page and four fields in total. The fields are labeled clearly, and the required fields are marked as such.
-
-To ensure that users have a good understanding of each field, we will be explaining each field in detail below.
-
-</thinking>
-
 # discord_staff_application_form - Help Guide
 ## Purpose
 The discord_staff_application_form is a tool used to collect information from potential new staff members. It helps to gather contact details and other relevant personal details that can be used in the hiring process.

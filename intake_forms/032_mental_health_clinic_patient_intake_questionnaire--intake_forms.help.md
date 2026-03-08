@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from mental health clinic patients, and its purpose is to serve as a comprehensive intake questionnaire to gather essential details about the patient's medical history, mental health history, family and social background, treatment history, and emergency contact information. This form is intended to be used by mental health clinics to better understand their patients' needs and provide appropriate care. 
-
-Before proceeding, please note that this form is a generated AI form and not affiliated with any specific platform or organization. The purpose of this form is to provide a general guide for mental health clinic patient intakes, and you may need to adapt or supplement it according to your clinic's specific needs and standards.
-
-</thinking>
-
 # Mental Health Clinic Patient Intake Questionnaire - Help Guide
 ## Purpose
 The Mental Health Clinic Patient Intake Questionnaire is designed to collect vital information from patients visiting mental health clinics. This form will guide you through a series of questions to help us understand your medical history, mental health experiences, and other essential details.

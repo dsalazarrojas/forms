@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to schedule a device pick up from a repair shop for a customer's convenience. 
-This form will help customers provide their contact details, device information, preferred time for pick up, location, appointment time, and any other relevant repair shop information. 
-It will help the repair shop staff to process the pick up request efficiently and ensure accurate information is captured.
-</thinking>
-
 # Device Pick Up Scheduling Form - Help Guide
 ## Purpose
 The Device Pick Up Scheduling Form is designed to make it easy for customers to schedule a device pick up from a repair shop. This form helps you provide your contact details, device information, and preferred pick up time, ensuring that the repair shop has all the necessary information to process your request efficiently.

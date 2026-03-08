@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger system for tracking and reporting on the safety of various types of vehicles, particularly those used for transportation. Its purpose is to collect data regarding the safety status of a vehicle, including its condition and inspection history. To ensure accurate and relevant information is collected, please review each field to understand its intended use and provide the required information accordingly. If you are unsure about any field, please contact the relevant authority for guidance.
-</thinking>
-
 # Ride Safety Inspection Form - Help Guide
 ## Purpose
 The Ride Safety Inspection Form is used to track the safety status of a vehicle, providing a snapshot of its condition and inspection history.

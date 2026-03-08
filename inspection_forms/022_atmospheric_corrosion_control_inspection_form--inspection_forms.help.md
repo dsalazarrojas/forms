@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Atmospheric Corrosion Control Inspection Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...this form is used to inspect the conditions of windows and doors in a residential or commercial setting. It is likely used for maintenance or quality assurance purposes. The form is not affiliated with any platform and is an original creation. It can be modified and used for free under CC BY 4.0 license. The form can be used in various contexts, such as in housing inspections, real estate assessments, or maintenance checklists. Please verify the form's relevance and non-duplication within your organization before using it. ...</thinking>
-
 # Home Window And Door Inspection Form - Help Guide
 ## Purpose
 This form is designed to inspect and record the conditions of windows and doors in a residential or commercial setting. It can be used for maintenance, quality assurance, or housing inspections.

@@ -1,11 +1,3 @@
-<thinking>Checking the provided YAML file for the crane_safety_assessment form...
-
-The form appears to be a comprehensive inspection form for cranes, which is used to assess their safety and condition. It covers various aspects of the crane, including its type, location, and maintenance history. The form is used to identify potential hazards and schedule corrective actions to prevent accidents and ensure the crane's continued safe operation.
-
-The form has multiple fields, including select-one and select-multiple options, date fields, text fields, and a note field. Each field has a specific purpose and is essential for a thorough crane inspection.
-
-Before proceeding, I'll create a user-facing help guide for the form.</thinking>
-
 # crane_safety_assessment - Help Guide
 ## Purpose
 This form is used to assess the safety and condition of cranes on your site. It helps identify potential hazards and schedule corrective actions to prevent accidents and ensure the crane's continued safe operation.

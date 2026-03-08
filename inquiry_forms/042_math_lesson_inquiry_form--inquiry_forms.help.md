@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help students inquire about specific math lessons, allowing them to request help from teachers or tutors on a preferred schedule and format. This form is intended for students to request assistance from teachers or tutors with math lessons, providing a straightforward and user-friendly way to submit inquiries. It's a good idea to double-check that you're using the correct form for your intended purpose and that you're not duplicating an inquiry that may have already been submitted.
-</thinking>
-
 # Math Lesson Inquiry Form - Help Guide
 
 ## Purpose

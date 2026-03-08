@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request remote work access from an IT approver. The form is used by employees to submit a request for remote work, providing necessary details such as employee name, department, remote start and end dates, and the reason for the request. This information is then reviewed by the approver and can result in approval or denial. 
-
-The purpose of this form is to ensure a formalized process for requesting remote work access to maintain consistency and transparency throughout the organization.
-
-Please be aware that this form will not be used for testing purposes.
-
-</thinking>
-
 # Remote Work Access Request Form - Help Guide
 ## Purpose
 This form is used to request remote work access for a set period of time. Fill out the form to provide necessary information for your request.

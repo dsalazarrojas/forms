@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed for a claim adjuster to collect information and data during a site visit. The form is likely used by insurance companies to gather details about a claim, such as the adjuster's name, claim number, visit date, client name, and purpose of the visit. The form may be used to document the adjuster's findings, observations, and next steps. To avoid duplication of effort, it's crucial for end-users to understand the purpose and correct use of the form. 
-
-The form is likely used for insurance claims related to property damage or loss. The visit date and submission time fields suggest that the form captures data for time-sensitive claims. The form may also serve as a means to communicate with clients through the client acknowledgement signature field.
-
-This guide is to ensure end-users understand how to complete the form accurately and efficiently. 
-
-</thinking>
-
 # Claim Adjuster Check In Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure the form is used correctly, please verify that the transfer is not already in progress or scheduled for the requested date and time. Also, ensure you're not submitting a request for the same URL with a different host provider or transfer type.
-</thinking>
-
 # Website Hosting Transfer Request Form - Help Guide
 ## Purpose
 This form is designed to request website hosting transfer services. Please fill out the form carefully to provide necessary information for a smooth transfer process.

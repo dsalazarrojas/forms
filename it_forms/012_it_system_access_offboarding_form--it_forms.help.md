@@ -1,11 +1,3 @@
-<thinking>
-
-The "it_system_access_offboarding_form" is a form used to offboard users from the IT systems after their employment terminates. 
-This form ensures that users no longer have access to IT systems and prevents potential security risks. 
-The form is used by IT administrators to document the offboarding process and ensure a smooth transition for both the user and the organization. 
-
-</thinking>
-
 # it_system_access_offboarding_form - Help Guide
 ## Purpose
 The "it_system_access_offboarding_form" is used to offboard users from the IT systems after their employment terminates. This form is used by IT administrators to document the offboarding process and ensure a smooth transition.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to record the details of a border patrol facility inspection. The purpose of this form is to gather information about the condition of the facility, including the date of inspection, the name of the inspector, and the facility's overall condition rating. This information will be used to track and report on the condition of facilities and ensure that they are properly maintained.
-The form should be completed by the border patrol facility staff or a designated inspector. If you are not a border patrol facility staff, please do not complete this form.
-The form is divided into several pages, each with a specific set of questions or fields that need to be completed. The questions are designed to gather relevant and practical information about the facility's condition.
-
-</thinking>
-
 # Border Patrol Facility Inspection Form - Help Guide
 ## Purpose
 The Border Patrol Facility Inspection Form is used to record the details of a border patrol facility inspection, including the date of inspection, the name of the inspector, and the facility's overall condition rating.

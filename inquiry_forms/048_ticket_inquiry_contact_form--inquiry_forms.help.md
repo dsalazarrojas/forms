@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The form purpose is to allow users to inquire about tickets, and this form will be used by customers to submit their inquiries. 
 
 This form should only be filled out for inquiries and not for general customer service requests or support tickets. Please fill out the form only if you have a specific ticket or issue you are inquiring about. If you are not sure, please contact our customer service team directly for assistance. 

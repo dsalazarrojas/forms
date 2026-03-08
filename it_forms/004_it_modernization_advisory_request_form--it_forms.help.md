@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their modernization initiatives and projects. This form is used to collect data on the project details, modernization initiatives, project urgency, advisory requests, project goals, project status, completion date, and assigned tool.
-Before filling out this form, ensure that you are submitting a new request for modernization. If you have already submitted a request, do not duplicate your entry.
-</thinking>
-
 # it_modernization_advisory_request_form - Help Guide
 
 ## Purpose

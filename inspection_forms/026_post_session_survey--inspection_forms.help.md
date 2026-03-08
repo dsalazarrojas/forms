@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users after a seminar or workshop. The goal is to understand their opinions, experiences, and suggestions for improvement. Please answer these questions to help us understand your perspective.
-</thinking>
-
 # Post-session survey - Help Guide
 ## Purpose
 This guide will walk you through the post-session survey form to help you provide valuable feedback about your experience with the seminar.

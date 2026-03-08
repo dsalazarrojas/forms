@@ -1,11 +1,3 @@
-<thinking>
-  * This form is for contact purposes only and is intended for human rights advisory partners to communicate with other partners or the organization.
-  * It is recommended that this form is only completed if you need to make a general inquiry or information request.
-  * Please note that this form is not intended for urgent or time-sensitive matters.
-  * The form does not store any personal data and is for contact purposes only.
-  * If you are unsure which partner to select, please contact the organization's human rights team.
-</thinking>
-
 # human_rights_advisory_partner_contact_form - Help Guide
 ## Purpose
 This form is for non-urgent general inquiries or information requests from human rights advisory partners.

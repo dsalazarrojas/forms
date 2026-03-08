@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from food truck operators, including their vehicle details, license status, equipment, and hygiene practices. The fields are intended to be used for inspection purposes, and the form will likely be used by health and safety officers or other authorities to assess the food truck's compliance with regulations. Before proceeding, ensure that this form is not a duplicate of another existing form for similar purposes, and that the provided fields are relevant to the inspection process. If the form is a duplicate or lacks essential fields, consider revising it to improve its effectiveness.
-</thinking>
-
 # Food Truck Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information from food truck operators for inspection purposes. It includes fields for vehicle details, status, location, equipment, hygiene practices, and other relevant information.

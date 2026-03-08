@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's examine the provided YAML fields. The form appears to be for requesting a structural safety review, likely for buildings or structures. The form has multiple pages, with fields for inspection requests, building information, concerns, uploaded documents, contact information, manager details, property type, structural status, uploaded documents 2, inspection date and time, assigned inspector, notes, inspection status, inspection comments, uploaded documents 3, submitted date and time, manager status, and uploaded documents 4. The form requires fields such as inspection concerns, uploaded documents 2, inspection status, inspection comments, and assigned tool, indicating that it's focused on inspecting and reviewing structures for safety.
-
-To prevent duplication, this form seems to be designed for creating new requests, rather than editing existing ones. If this is the case, the fields that are required for creating new requests should be clear, and any optional fields should be labeled as such.
-
-This form also seems to be designed for users who need to request a structural safety review, likely for a building or structure. The form could be used by anyone who needs to request a structural safety review, such as facility managers, property owners, or maintenance personnel.
-
-</thinking>
-
 # Structural Safety Review Request Form - Help Guide
 
 ## Purpose

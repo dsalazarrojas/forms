@@ -1,7 +1,3 @@
-<thinking>
-We will create a comprehensive user-facing help guide for the "Financial Services Intake Form" that explains its purpose, how to complete it, and each field's meaning. This guide will be based on the provided YAML fields and will be written in Markdown format.
-</thinking>
-
 # Financial Services Intake Form - Help Guide
 ## Purpose
 The Financial Services Intake Form is designed to gather essential information about a client's financial situation, including their contact information, financial status, assets, income, expenses, employment status, income source, financial institutions, type of assets, and other relevant details. This form helps our financial services team understand the client's needs and provide accurate assistance.

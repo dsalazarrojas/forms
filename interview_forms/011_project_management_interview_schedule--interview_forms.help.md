@@ -1,7 +1,3 @@
-<thinking>
-Before creating the help guide, let's break down the form's purpose and requirements. The form is likely used for managing project interviews, which involves scheduling meetings with candidates. The form collects information about the interview, such as the date, time, location, and attendees, as well as the interviewers' preferences and additional comments. The form appears to be designed for internal use within an organization, likely for HR or project management teams.
-</thinking>
-
 # Project Management Interview Schedule - Help Guide
 ## Purpose
 The Project Management Interview Schedule form is designed to help project teams manage and schedule interviews with candidates. This includes collecting information about the interview date, time, location, and attendees, as well as the interviewers' preferences and additional comments.

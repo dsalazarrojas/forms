@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IT Helpdesk Efficiency Report Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Program Intake Form - Help Guide
 
 ## Purpose

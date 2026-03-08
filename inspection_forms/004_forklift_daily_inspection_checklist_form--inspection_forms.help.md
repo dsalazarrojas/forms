@@ -1,5 +1,3 @@
-<thinking>Inspection forms are crucial for ensuring the safety and efficiency of equipment and machinery. A daily inspection checklist form helps operators and supervisors identify potential issues before they become major problems. This form is designed to be used by forklift operators to report on the status of their forklifts after each use, including checks on hydraulic fluid levels, oil levels, tire tread conditions, and other critical systems.</thinking>
-
 # Forklift Daily Inspection Checklist Form - Help Guide
 ## Purpose
 This form is designed to be used by forklift operators to report on the status of their forklifts after each use. The purpose of this form is to help identify potential issues before they become major problems, ensuring the safety and efficiency of the equipment.

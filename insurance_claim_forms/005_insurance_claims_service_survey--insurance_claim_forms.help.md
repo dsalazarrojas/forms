@@ -1,7 +1,3 @@
-<thinking>
-We need to determine the purpose and relevance of this form before creating the help guide. This form is for gathering feedback from customers about their insurance claims experience. The form aims to collect data on how satisfied customers are with the claims service, the speed of resolution, communication with the adjuster, ease of the claims process, and the outcome of their claim. We should ensure that the guide is clear and concise for end-users to understand how to complete the form and what each field represents.
-</thinking>
-
 # Insurance Claims Service Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with our insurance claims service. Your input will help us understand where we excel and where we can improve to better serve you in the future.

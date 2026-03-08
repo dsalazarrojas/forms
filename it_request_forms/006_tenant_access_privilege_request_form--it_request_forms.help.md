@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting access privileges for a tenant. It's intended to be used when a user wants to access a tenant's information or resources. Please only submit this form if you have a valid reason for requesting access and have not already been granted access. Also, please note that submitting duplicate requests will not affect the processing of your request.
-</thinking>
-
 # Tenant Access Privilege Request Form - Help Guide
 ## Purpose
 This form is for requesting access privileges for a tenant. It's intended to be used when a user wants to access a tenant's information or resources.

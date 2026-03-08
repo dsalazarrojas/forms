@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Runway And Taxiways Inspection Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about inspections of runways and taxiways. This includes collecting data on the airport name, runways, and taxiways inspected, as well as any issues identified during the inspection. The form is used to ensure that all aspects of the airport's infrastructure are well-maintained and safe for aircraft operations.

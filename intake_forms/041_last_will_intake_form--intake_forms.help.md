@@ -1,5 +1,3 @@
-<thinking>...This form is a Last Will Intake Form, designed to collect essential information from individuals about their last will and testament. The form is meant to be completed by individuals who have a will and want to ensure that their wishes are respected after they pass away. The form is divided into several fields that require the individual's personal details. Please ensure that you have the necessary information before completing the form, as it is a crucial document. Please be aware that the form is not intended for general inquiry, rather for individuals who have already decided on their last will and testament. If you are unsure, please do not complete this form. You can only submit the form once, and any duplicate submissions will not be accepted. Please ensure that you have read and understand the terms and conditions before proceeding.</thinking>
-
 # Last Will Intake Form - Help Guide
 
 ## Purpose

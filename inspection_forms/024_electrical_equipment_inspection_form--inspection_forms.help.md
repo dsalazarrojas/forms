@@ -1,20 +1,3 @@
-<thinking>
-To confirm, I'll create a user-facing help guide for the "electrical_equipment_inspection_form" form, which has the following purpose: to collect information about the status and inspection of electrical equipment. This form is likely used for maintenance or safety purposes, perhaps as part of a regular asset management process. 
-
-The form has 8 fields:
-- Page 1: "electrical_equipment_inspection_form_page" (a text field)
-- Page 1: "electrical_equipment_model" (a text field)
-- Page 1: "electrical_equipment_location" (a text field)
-- Page 1: "electrical_equipment_status" (a select_multiple field with options "Active" and "Inactive")
-- Page 1: "electrical_equipment_notes" (a note field)
-- Page 1: "electrical_equipment_inspection_date" (a date field)
-- Page 1: "electrical_equipment_inspection_time" (a time field)
-- Page 1: "electrical_equipment_inspection_user" (a select_one field with options "Yes" and "No")
-- Page 1: "electrical_equipment_inspection_form_submitted_by" (a select_one field with options "Yes" and "No")
-
-To prevent duplication, I'll ensure that the guide explains each field clearly and concisely, providing an understanding of the form's purpose and each field's role within it.
-</thinking>
-
 # electrical_equipment_inspection_form - Help Guide
 ## Purpose
 This form is used to record the inspection of electrical equipment, collecting information on its status, location, notes, inspection date and time, and the person responsible for the inspection and submission of the form.

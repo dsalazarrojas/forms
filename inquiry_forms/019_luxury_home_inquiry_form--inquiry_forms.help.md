@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users who are interested in inquiring about luxury homes. The form is designed to collect details about the user's preferences and requirements, such as the type of home they are looking for, their preferred location, and any additional information they would like to provide. This form is likely used by real estate agents or agencies to understand the needs and interests of potential clients and to follow up on their inquiry. To avoid duplication, users should only submit this form once, as it is meant for initial inquiries.
-</thinking>
-
 # Luxury Home Inquiry Form - Help Guide
 ## Purpose
 This form is for users who are interested in inquiring about luxury homes. It helps real estate agents understand their preferences and requirements to better assist them in their search.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact Lens Insurance Claim Form - Help Guide
 ## Purpose
 This form is designed to help patients and claimants submit claims for contact lens coverage through their insurance provider. It collects necessary information to verify the claim, including patient details, insurance policy information, and prescription details.

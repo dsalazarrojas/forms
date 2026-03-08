@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to extend their current insurance policy. The form is designed to collect information from the customer, such as whether they want to extend their policy, the type of policy they have, the reason for the extension, policy details, and contact information. The form is typically filled out by customers who are looking to continue their insurance coverage. To ensure accuracy, please review the form carefully and make sure to fill it out correctly.
-</thinking>
-
 # Insurance Policy Extension Form - Help Guide
 ## Purpose
 The Insurance Policy Extension Form is used to collect information from customers who want to extend their current insurance policy.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the Orthotic Prescription Survey form is to collect patient information and medical history for the prescription of orthotic devices. The form is designed to be completed by patients or their representatives to provide detailed information about the patient's symptoms, medical history, and preferences. This information will be used by healthcare professionals to prescribe the most appropriate orthotic device for the patient's specific needs.
-
-Before starting the form, please make sure you have the patient's permission to collect this information and that you have access to the necessary medical records. This form should not be used to duplicate information that is already available in the patient's medical records.
-
-Please note that this is not a medical consultation or assessment, and if you have any concerns or doubts about the patient's condition, please refer them to a healthcare professional for further evaluation and advice.
-</thinking>
-
 # Orthotic Prescription Survey - Help Guide
 
 ## Purpose

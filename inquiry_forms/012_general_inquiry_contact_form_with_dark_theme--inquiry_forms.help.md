@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # General Inquiry Contact Form With Dark Theme - Help Guide
 ## Purpose
 

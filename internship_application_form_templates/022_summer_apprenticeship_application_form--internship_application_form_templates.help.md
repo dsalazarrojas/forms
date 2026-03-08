@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect applications for the Summer Apprenticeship Program. It is designed to be completed by individuals interested in participating in the program during the summer. To ensure a smooth application process, please review the form carefully and fill it out completely. 
-
-Before starting, please ensure that you are applying for the correct program and that all required fields are filled out. If you have any doubts or questions, do not hesitate to reach out to the program administrators.
-
-</thinking>
-
 # Summer Apprenticeship Application Form - Help Guide
 ## Purpose
 The Summer Apprenticeship Application Form is designed to collect information about your background, skills, and experience to help us assess your suitability for the Summer Apprenticeship Program. The form is divided into several sections, each with specific fields that require your attention.

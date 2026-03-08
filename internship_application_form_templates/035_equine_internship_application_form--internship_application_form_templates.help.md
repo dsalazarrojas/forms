@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information from potential interns who are applying for an equine internship position. This form serves as a guide to ensure that applicants provide necessary contact information, work experience, and availability details. It also helps to prevent duplication of applications by ensuring that each field is filled correctly before submission.
-
-To confirm, this form is intended for potential interns who are looking to work with equines. Please make sure that you are eligible for this internship program before proceeding.
-
-Please note that this form is intended for equine-related work. If you are applying for a different type of internship, please do not fill out this form.
-
-Please ensure that you are providing accurate information in this form. Incomplete or incorrect information may lead to delays in the application process.
-
-Before starting, please ensure you have all necessary information and documents ready for the application.
-
-Please fill out the form carefully and completely.
-</thinking>
-
 # Equine Internship Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential interns who are applying for an equine internship position.

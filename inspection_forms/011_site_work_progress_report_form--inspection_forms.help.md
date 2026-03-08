@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about site work progress from clients and inspectors. It is meant to be used by clients and inspectors to report progress on site work projects, including site location, inspection dates and times, project status, and other relevant details. 
-
-To ensure the form is completed correctly, please make sure to fill out each field as follows:
-
-</thinking>
-
 # site work progress report form - Help Guide
 ## Purpose
 The site work progress report form is used to gather information about site work progress from clients and inspectors.

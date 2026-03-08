@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's quickly review the form's purpose and ensure it's being used correctly. This form appears to be for collecting information from investors, likely for business development or partnership purposes. To ensure accuracy, please verify that the form is indeed intended for this use case and that you're not duplicating efforts. If you're unsure, please review the form's original intent and adjust accordingly.</thinking>
-
 # Investor Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from investors, including their contact details, investment preferences, and other relevant details.

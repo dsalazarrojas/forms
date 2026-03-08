@@ -1,12 +1,3 @@
-<thinking>
-This help guide will be based on the provided YAML fields for the "Education And Employment Intake Form" form.
-
-The form purpose is to collect information about a person's education and employment background. This form will be used to gather details about their work experience, education, relevant coursework and projects, certifications, skills, volunteer activities, language abilities, and previous college or university attended information.
-
-To ensure that the provided details are accurate and not duplicated, we will review and verify each section carefully.
-
-</thinking>
-
 # Education And Employment Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information about a person's education and employment background, including work experience, education, relevant coursework and projects, certifications, skills, volunteer activities, language abilities, and previous college or university attended information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers who want to inquire about pricing updates for a specific product or service. The form is designed to be completed by the customer to provide their contact information and a brief description of their request. The fields are meant to be filled out with as much detail as possible to help the business provide an accurate and timely response. This form is not intended to be used for urgent or time-sensitive requests, as it is not set up to handle expedited processing times. Please review the fields carefully to ensure you are providing the necessary information to receive a prompt and accurate response.
-</thinking>
-
 # Price Update Inquiry Contact Form - Help Guide
 ## Purpose
 This form is used to collect information from customers who want to inquire about pricing updates for a specific product or service.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used to track the maintenance and status of devices. The purpose of this form is to collect information about devices from customers, including their contact information, device details, and consent for tracking. This form will be used to gather data on the devices being tracked, their status, and any comments or concerns related to their maintenance.
-</thinking>
-
 # Maintenance Device Tracking Consent Form - Help Guide
 ## Purpose
 The Maintenance Device Tracking Consent Form is designed to gather information about devices from customers, including their contact information, device details, and consent for tracking. This form helps us understand the needs of our customers and ensures that we are providing them with the best possible service.

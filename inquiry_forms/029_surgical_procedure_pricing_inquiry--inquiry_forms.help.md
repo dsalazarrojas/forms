@@ -1,7 +1,3 @@
-<thinking>
-We will assume that this form is designed to collect information related to surgical procedure pricing inquiries. The form likely serves as a means to gather relevant details from patients or healthcare professionals regarding various aspects of surgical procedures, including fees, dates, and contacts. This guide will walk users through the form purpose, completion process, and field-by-field explanations.
-</thinking>
-
 # surgical_procedure_pricing_inquiry - Help Guide
 
 ## Purpose

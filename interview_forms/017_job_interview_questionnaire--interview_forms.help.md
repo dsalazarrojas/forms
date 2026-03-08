@@ -1,34 +1,3 @@
-<thinking>
-The Job Interview Questionnaire is designed to collect information about job openings and interview settings. This form should only be used for job seekers to provide details about the position they are applying for, and not for internal users to create new job listings. Please ensure that each field is filled in correctly to provide the most accurate and up-to-date information.
-
-This form is divided into several sections:
-
-*   Job Title
-*   Job Description
-*   Job Type
-*   Work Location
-*   Job Level
-*   Work Hours
-*   Job Category
-*   Job Requirements
-*   Job Preferences
-*   Job Qualification
-*   Job Employment Type
-*   Job Education
-*   Job Experience
-*   Job Availability
-*   Job References
-*   Job Notes
-*   Job Comments
-*   Interview Location
-*   Interview Date
-*   Interview Time
-*   Contact Number
-*   Email
-
-Each field is labeled with a clear and concise description to guide users in filling it out correctly. Some fields are also required and must be filled in completely to ensure that the form is submitted correctly.
-</thinking>
-
 # Job Interview Questionnaire - Help Guide
 ## Purpose
 The Job Interview Questionnaire is designed to collect detailed information about job openings and interview settings. It should be used by job seekers to provide accurate and up-to-date information about the job they are applying for.

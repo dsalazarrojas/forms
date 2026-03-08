@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from users who are interested in developing a website. The purpose of this form is to gather project details, developer information, and contact details from the user. This information will be used to follow up with the user and provide more information about the website development process. Please note that the form is not for actual website development project proposals, but rather for gathering initial inquiries.
-
-Before starting, please make sure you have not submitted this form before. If you have already submitted this form, please do not resubmit it. This will help us keep the communication and project development process more organized and prevent duplicates.
-</thinking>
-
 # Website Development Inquiry Form - Help Guide
 ## Purpose
 This form is a tool to gather information from users who are interested in developing a website. It helps us understand their project requirements, contact details, and other relevant information to follow up and provide more information about the website development process.

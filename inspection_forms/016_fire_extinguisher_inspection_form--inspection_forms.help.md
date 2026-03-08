@@ -1,7 +1,3 @@
-<thinking>
-This form was created to help organizations conduct regular inspections of fire extinguishers in their premises. Fire safety is crucial for preventing accidents and ensuring the well-being of employees, visitors, and assets. This form aims to standardize the process of inspecting fire extinguishers, making it easier to identify any issues or maintenance needs. The form is designed to be completed by authorized personnel, such as safety officers or facilities managers, and can be used to record and track inspection results over time.
-</thinking>
-
 # Fire Extinguisher Inspection Form - Help Guide
 ## Purpose
 The Fire Extinguisher Inspection Form is designed to facilitate regular inspections of fire extinguishers in your premises. It helps track the inspection results and provides a systematic approach to identifying any potential issues or maintenance needs.

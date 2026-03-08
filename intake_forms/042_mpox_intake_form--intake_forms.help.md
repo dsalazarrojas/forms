@@ -1,14 +1,3 @@
-<thinking>
-
-This form appears to be an intake form for medical professionals to collect information from patients, particularly in cases where patients have been exposed to Mpox (monkeypox), a viral disease. The form aims to gather essential details such as exposed areas, symptoms and prophets, travel history, contact traces, exposure date, healthcare provider, phone number, email, prophetic symptoms, medical facility, submitted by information, and submitted time.
-
-Internal reasoning check:
-* The form seems to cover essential information for a medical intake process, including symptoms, exposure history, and contact information. However, it may be beneficial to add more details such as patient's ID or medical record number for better tracking.
-* Some fields like "travel history" and "contact traces" might be better handled with separate dedicated fields or sections for better clarity and accuracy.
-* The field "prophetic symptoms" uses a single-select format which might not be the best choice as it seems to be a collection of multiple symptoms. Perhaps a multi-select or text field with checkboxes would be more suitable.
-
-</thinking>
-
 # Mpox Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients for the diagnosis and treatment of Mpox. Please follow this guide to complete the form accurately.

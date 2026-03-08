@@ -1,10 +1,3 @@
-<thinking>
-Form Purpose: The "it_support_billing_form" is used to collect billing and payment information from the end-user. This form is designed to gather essential details such as payment method, billing address, and contact information. It also includes fields for terms and conditions acceptance, payment terms acceptance, and agreement to billing terms. The form is meant to be filled out by the end-user when they need to initiate a billing process or make a payment. This form is a crucial part of the payment process, ensuring that all relevant information is collected accurately and efficiently.
-
-To prevent duplication, please note that this form is intended for new billing processes only. If you have already submitted a billing form, please do not fill out this form again.
-
-</thinking>
-
 # it_support_billing_form - Help Guide
 ## Purpose
 The "it_support_billing_form" is used to collect billing and payment information from the end-user. This form is designed to gather essential details such as payment method, billing address, and contact information. It also includes fields for terms and conditions acceptance, payment terms acceptance, and agreement to billing terms.

@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose of this form and ensure it's being completed correctly, please review the form's title and the fields included. This form appears to be for requesting reimbursement related to media training. The fields included suggest it's for an employee to submit a request for reimbursement for expenses related to media training, such as dates, amounts, and types of media training.
-
-The form seems to be designed for employees to submit their requests in a structured manner, ensuring all necessary information is collected. The fields include employee name, project title, media type, dates, total hours, reimbursed amount, expense description, expense amount, approval status, comments, submitted by, submitted on, and approved by. These fields imply that the form is for internal use within an organization, likely for HR or accounting purposes.
-
-Before proceeding, check if you've completed a similar form recently to avoid duplication of work. If you're unsure about any field, please refer to this guide for clarification.
-</thinking>
-
 # Media Training Reimbursement Request Form - Help Guide
 ## Purpose
 The Media Training Reimbursement Request Form is designed for employees to submit requests for reimbursement related to media training expenses. This form helps ensure all necessary information is collected and processed efficiently.

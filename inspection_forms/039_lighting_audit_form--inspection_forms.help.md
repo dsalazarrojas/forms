@@ -1,7 +1,3 @@
-<thinking>
-A Lighting Audit Form should be used to collect data about lighting fixtures and conditions. This form is likely used by maintenance personnel or facilities managers to record observations and notes about lighting installations. To ensure the data collected is accurate and useful, users should only complete the form if they have actual knowledge about the lighting situation. It's essential to review and validate the information before submitting it. 
-</thinking>
-
 # Lighting Audit Form - Help Guide
 ## Purpose
 The Lighting Audit Form is used to collect data about lighting fixtures and conditions. This form helps maintenance personnel or facilities managers record observations and notes about lighting installations.

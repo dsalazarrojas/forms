@@ -1,7 +1,3 @@
-<thinking>
-This form is used for inspecting and tracking the condition and status of power amplifier units. It's essential for ensuring that these units are functioning correctly and efficiently. To complete this form, you'll need to provide information about the power amplifier unit being inspected. Please note that this form is designed for the power amplifier unit inspectors, so it's essential to follow the guidelines and requirements set forth in the form.
-</thinking>
-
 # Power Amplifier Unit Inspection Form - Help Guide
 ## Purpose
 The Power Amplifier Unit Inspection Form is used to inspect and track the condition and status of power amplifier units. It helps to ensure that these units are functioning correctly and efficiently.

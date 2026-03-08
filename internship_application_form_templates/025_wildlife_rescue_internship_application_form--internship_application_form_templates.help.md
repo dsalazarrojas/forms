@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to apply for a wildlife rescue internship. It gathers information about the applicant's background, motivation, and availability. The form is not affiliated with any form platforms and is an original adaptation, released under CC BY 4.0 license.
-</thinking>
-
 # Wildlife Rescue Internship Application Form - Help Guide
 ## Purpose
 This form is intended to collect relevant information from applicants interested in participating in a wildlife rescue internship program. It will be used to assess their background, motivation, and availability to ensure they are a good fit for the program.

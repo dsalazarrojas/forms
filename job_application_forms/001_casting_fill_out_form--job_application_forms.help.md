@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for casting purposes, specifically for actors and actresses to submit their information and materials for consideration for a role in a production. The form is designed to gather information about the individual's personal details, physical attributes, acting experience, and preferences. This form is intended for use by casting directors, agents, and other production professionals who are seeking to cast talent for a production. 
-
-It's essential to complete this form accurately and thoroughly, as the information collected will be used to evaluate the suitability of the applicant for the role. The form will be reviewed internally to ensure that the applicant meets the necessary qualifications and requirements for the production.
-
-This form is intended to be completed by one individual at a time. 
-
-</thinking>
-
 # Casting Fill Out Form - Help Guide
 ## Purpose
 The Casting Fill Out Form is used to gather information about actors and actresses for casting purposes in a production. 

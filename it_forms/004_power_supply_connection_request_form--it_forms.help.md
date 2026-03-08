@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about power supply connections. 
-This form is intended for use by authorized personnel who need to request power supply connections for their work sites. 
-Please do not submit this form if you have already submitted one for this site or if you are unsure about the power supply connection requirements.
-
-</thinking>
 # Power Supply Connection Request Form - Help Guide
 ## Purpose
 The Power Supply Connection Request Form is used by authorized personnel to request power supply connections for their work sites. This form helps to streamline the process of requesting power supply connections, ensuring that the necessary information is collected and that the request is processed efficiently.

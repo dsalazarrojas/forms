@@ -1,11 +1,3 @@
-<thinking>
-
-I'm creating a user-facing help guide for the "Men's Hormonal Health Lab Review" form. To confirm, the form is for reviewing lab results for men, and it includes various fields to gather information about the patient's medical history, lab test results, and follow-up plans. The form seems to be designed for healthcare professionals to document and track lab reviews and follow-up procedures.
-
-Before proceeding, I want to ensure that I'm covering all the necessary points for a clear and concise guide. Can you please review the form's fields and provide any further clarification or corrections needed?
-
-</thinking>
-
 # Men's Hormonal Health Lab Review - Help Guide
 ## Purpose
 This form is designed for healthcare professionals to document and track lab reviews for men, providing a comprehensive overview of their hormonal health. The purpose of this form is to gather information about the patient's medical history, lab test results, and follow-up plans.

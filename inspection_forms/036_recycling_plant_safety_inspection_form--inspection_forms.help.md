@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used for recording safety inspections at recycling plants. The form is likely to be used by facility staff to report any safety issues found during an inspection, and to note any relevant details about the inspection, such as the date, location, and any necessary repairs or maintenance. It's possible that this form is used in conjunction with other forms or systems for tracking and addressing safety issues in the facility. It's also possible that the form is used for reporting and record-keeping purposes, and that the information collected is used to inform decisions about facility maintenance and safety protocols. The field layout and options suggest that the form is primarily designed for use by facility staff, and that it is intended to be a relatively simple and straightforward tool for recording and reporting safety information.</thinking>
-
 # Recycling Plant Safety Inspection Form - Help Guide
 
 ## Purpose

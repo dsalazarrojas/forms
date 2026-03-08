@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from employees who are leaving the company. It's intended to be completed by the departing employee, and its purpose is to collect feedback and suggestions for improvement. Please ensure that you only complete this form if you are actually leaving the company. If you're just taking a break or a secondment, do not complete this form. If you've already completed this form, please do not submit it again as it will be considered a duplicate.
-</thinking>
-
 # Exit Interview Form - Help Guide
 ## Purpose
 

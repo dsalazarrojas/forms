@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used for declaring and reporting properties with hazards. The form will ask the user to identify if a hazard is present, and then gather more information about the hazard if it exists. The purpose of this form is to ensure that properties are accurately reported and documented. This guide should serve to walk users through the process of filling out this form, including what each field means and why it's necessary.
-
-</thinking>
-
 # Property Hazard Declaration Form - Help Guide
 ## Purpose
 The Property Hazard Declaration Form is used to report properties with potential hazards. It is essential to fill out this form to ensure accurate documentation and reporting of hazards on properties.

@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about tractors, including their engine conditions, types, models, years, and vehicle details. However, there are some inconsistent and unclear fields present in the form. For instance, fields like `tractor_year` and `vehicle_year` suggest they are about tractors and vehicles respectively, but they are not clearly linked to the corresponding fields. Similarly, the `vehicle_model` field seems to be a duplicate of `tractor_model` field. To provide a helpful guide, I'll assume these fields are part of the form and explain them based on their labels and types.
-
-</thinking>
-
 # Tractor Inspection Form - Help Guide
 ## Purpose
 The Tractor Inspection Form is designed to collect information about tractors, including their engine conditions, types, models, years, and vehicle details. This form helps inspectors and users to assess and record the condition and specifications of tractors.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from farmers to generate a quote for crop insurance. This form is designed to gather essential details about the farmer, their crops, risk factors, coverage needs, and contact information. The form will help the insurance provider understand the farmer's requirements to provide a tailored quote. Before proceeding, ensure that you have the necessary information and permissions to fill out this form accurately. This form is not intended to be a substitute for any official insurance application or documentation. Please review the form carefully to avoid duplication of effort and ensure that you are not submitting unnecessary or redundant information.
-</thinking>
-
 # Crop Insurance Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information from farmers to generate a quote for crop insurance. Fill out the form accurately to help the insurance provider understand your needs and provide the best possible quote for you.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Software Access Authorization Form is to grant or deny software access to users, ensuring that only authorized personnel have access to sensitive software applications. This form helps to streamline the process of requesting access to software and reduce potential security risks. It's essential to complete this form accurately to avoid duplication of efforts and ensure that the requested access is approved or denied in a timely manner.
-</thinking>
-
 # Software Access Authorization Form - Help Guide
 ## Purpose
 The Software Access Authorization Form is a crucial tool for managing software access within the organization. Its primary goal is to provide a structured way to request or deny software access to authorized personnel, promoting a controlled and secure environment.

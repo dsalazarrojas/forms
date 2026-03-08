@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Health Insurance Verification Form", I'll first consider the following:
-
-* The form is designed to collect information from users to verify their health insurance details.
-* The form has multiple sections and fields, each with a specific purpose.
-* Some fields are optional, but it's essential to ensure the user understands the purpose of each field.
-
-</thinking>
-
 # Health Insurance Verification Form - Help Guide
 
 ## Purpose

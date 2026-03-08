@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block)
-
-The Software Project Outcome Report Form is designed to collect information about the outcomes of software project management activities. This form is used to gather key details about the project, including its status, categorization, and outcomes, to help project managers and stakeholders track and analyze project performance. By completing this form, project managers can provide a comprehensive report that captures the essential information needed to evaluate and improve the project's success. 
-
-</thinking>
-
 # Software Project Outcome Report Form - Help Guide
 ## Purpose
 This form is used to gather information about the outcomes of software project management activities, providing a comprehensive report that captures key details about the project's status, categorization, and outcomes.

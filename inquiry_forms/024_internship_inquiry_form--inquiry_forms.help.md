@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to gather information from users who want to inquire about internships. This form is for users who are interested in exploring internship opportunities within a company. The form should be used to collect contact information and details about the user's interest in internships, but not for users who have already applied or been accepted into an internship. To prevent duplicates, the form should not be filled out by users who have already submitted an inquiry or been accepted into an internship.
 
 # Internship Inquiry Form - Help Guide

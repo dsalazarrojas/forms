@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workspace Modification Request Form - Help Guide
 ## Purpose
 

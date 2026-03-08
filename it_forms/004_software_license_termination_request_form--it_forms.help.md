@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is used to submit a software license termination request to IT. The purpose of this form is to formally initiate the process of terminating a software license, which may be due to non-compliance, technical issues, or other reasons. It's essential to complete this form accurately to ensure the request is properly assessed and acted upon. Please review the form carefully to avoid duplicates or errors. The form requires input from the requestor, and their supervisor or department head may also be involved in the process. The goal is to ensure a smooth termination process. </thinking>
-
 # Software License Termination Request Form - Help Guide
 
 ## Purpose

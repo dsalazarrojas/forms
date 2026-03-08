@@ -1,11 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Flight Attendant Job Application Form" in the following structure: 
-
-1.  Brief introduction explaining the purpose of the form and why it's being used.
-2.  Step-by-step instructions on how to complete the form.
-3.  A field-by-field explanation of each field on the form, providing clear and concise information about what the field is for and what information is required.
-
-</thinking>
-
 # Flight Attendant Job Application Form - Help Guide
 ## Purpose
 

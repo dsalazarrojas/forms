@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from end users requesting access to a network, likely for a specific reason or purpose. Before starting, make sure you're not duplicating an existing request or that this is not a test. Please read through the form carefully and ensure you've completed all required fields before submitting it.
-</thinking>
-
 # Network Connection Request Form - Help Guide
 ## Purpose
 This form is used to request network access for yourself or others in your organization. Fill out this form to provide necessary information about your request.

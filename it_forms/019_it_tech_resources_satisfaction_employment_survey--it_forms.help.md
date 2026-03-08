@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gauge the satisfaction and employment experience of IT tech resources. It is meant to be completed by employees within the IT department to provide feedback on their experience with IT tools, support, and overall job satisfaction.
-This form is not intended to be completed by management or non-IT department employees.
-Please ensure you have read and understood the form's purpose before proceeding.
-</thinking>
-
 # IT Tech Resources Satisfaction Employment Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from IT department employees on their satisfaction with IT resources, such as tools, support, and equipment, as well as their job satisfaction and feedback on improvement priorities.

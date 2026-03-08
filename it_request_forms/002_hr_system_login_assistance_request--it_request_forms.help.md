@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to assist users with login issues and that users don't submit duplicate requests. This form is intended for HR system login assistance. We should validate that the user has a valid reason for submitting this form, and we need to ensure that all required fields are completed before the form is submitted. We should also provide guidance on how to fill out the form properly and what information is expected in each field. 
-</thinking>
-
 # hr_system_login_assistance_request - Help Guide
 ## Purpose
 This form is designed to help IT and HR teams resolve login issues for employees. It is used to collect information about the employee's login problems and provide assistance.

@@ -1,5 +1,3 @@
-<thinking>...this form is designed to gather information from individuals or businesses to potentially request a quote for vehicle and home insurance. This form will help us understand the user's vehicle and home details to provide a more accurate quote. We will be checking for duplicates before creating a new quote request to avoid multiple submissions for the same individual/business... </thinking>
-
 # Vehicle And Home Insurance Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals or businesses to potentially request a quote for vehicle and home insurance.

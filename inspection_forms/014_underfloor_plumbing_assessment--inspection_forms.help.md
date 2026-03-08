@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the underfloor plumbing conditions and issues in a facility or building. The purpose of this form is to gather data on the presence of underfloor plumbing, identify potential issues, and assess the severity of those issues. It's essential to provide accurate and detailed responses to help facilities management or maintenance teams take appropriate action.
-</thinking>
-
 # Underfloor Plumbing Assessment - Help Guide
 ## Purpose
 This form is used to gather information about underfloor plumbing conditions and issues in facilities or buildings.

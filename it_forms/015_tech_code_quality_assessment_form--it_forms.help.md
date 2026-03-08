@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess the quality of technical code. The purpose of this form is to collect feedback from reviewers on the quality of the code, its completeness, readability, and overall assessment. The form is intended to provide a systematic way of evaluating code quality, which is crucial in software development. This form will help identify areas where code improvement is necessary and provide a basis for ongoing code quality evaluation and improvement processes.
-
-It's worth noting that the form is not meant to be a complex, time-consuming process. The questions are designed to be straightforward and easy to understand.
-
-In addition, the form is likely to be part of a larger process, such as code review meetings or code quality checklists. The feedback collected through this form will be used to guide further discussions and improvement actions.
-
-Lastly, the fields in the form have been designed to be clear and concise. Each field is carefully crafted to elicit specific types of feedback and provide a clear picture of code quality.
-</thinking>
-
 # Tech Code Quality Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the quality of technical code. It helps evaluate code quality, completeness, and readability, providing feedback that guides further improvement actions.

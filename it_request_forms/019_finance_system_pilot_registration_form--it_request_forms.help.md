@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of the finance-system-pilot-registration-form is to collect information from pilots participating in the finance system pilot program. This form ensures that pilots provide necessary details about themselves and their objectives, ensuring a smooth and successful pilot registration process. 
-It's crucial to fill out the form correctly to avoid any potential issues during the pilot process. Please ensure you have not filled out this form in the past, and it's the right time to fill out this form for the current cycle.
-</thinking>
-
 # finance-system-pilot-registration-form - Help Guide
 ## Purpose
 The Finance-System-Pilot-Registration-Form is designed to collect participant information and pilot objectives for the finance system pilot program. This form ensures that participants provide necessary details for a smooth and successful pilot registration process.

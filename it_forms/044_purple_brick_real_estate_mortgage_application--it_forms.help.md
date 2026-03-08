@@ -1,11 +1,3 @@
-<thinking>
-
-The Purple Brick Real Estate Mortgage Application form is designed to gather information for mortgage loan applications. The form collects personal data, employment and income information, and loan specifics to assess loan eligibility and provide loan details.
-
-The form consists of 25 fields, each with its corresponding label, type, and options. 
-
-</thinking>
-
 # Purple Brick Real Estate Mortgage Application - Help Guide
 ## Purpose
 This form is designed to collect information for a mortgage loan application. Please fill in the required information accurately to help us assess your loan eligibility and provide you with loan options.

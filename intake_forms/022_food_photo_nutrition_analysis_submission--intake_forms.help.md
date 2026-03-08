@@ -1,11 +1,3 @@
-<thinking>
-
-The "Food Photo Nutrition Analysis Submission" form is a digital intake form designed to collect information about a food item from a photo. The purpose of this form is to provide a structured way to gather essential details about the food, including its name, category, portion size, and nutrition review, which can be helpful for analyzing and comparing the nutritional content of different food items.
-
-To ensure accurate and relevant data collection, please complete this form only when you have a clear and high-quality photo of the food item. The form is intended for non-duplicate submissions, so please do not resubmit existing data.
-
-</thinking>
-
 # Food Photo Nutrition Analysis Submission - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a food item from a photo. This data will be used for nutrition analysis and comparison.

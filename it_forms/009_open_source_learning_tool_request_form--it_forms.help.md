@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect requests for open-source learning tools. It's a simple, user-friendly form designed to gather information about a tool that can be shared freely among users in the learning and education sector. It's not affiliated with any proprietary form platforms, but rather an original adaptation created using public metadata.
-The form is not a duplicate of any existing form platform, and the original code can be freely used, modified, and even sold under the Creative Commons 4.0 license. If you're interested in using this form or creating a derivative work, please feel free to do so and give credit where credit is due.
-That being said, the form's purpose is to collect information about open-source learning tools that can be shared among users. The form is designed to be easy to complete and understand. If you're a developer, researcher, or educator looking for a tool to aid your work or research, this form might be just what you're looking for.
-Please fill out the form carefully and accurately, and make sure to provide enough information about the tool you're requesting so that we can better understand your needs and share the tool with others.
-
-</thinking>
-
 # Open Source Learning Tool Request Form - Help Guide
 ## Purpose
 This form is designed to collect requests for open-source learning tools. It's a simple, user-friendly form intended for developers, researchers, and educators to share and collaborate on open-source tools for learning and education.

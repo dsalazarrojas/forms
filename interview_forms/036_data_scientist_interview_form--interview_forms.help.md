@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a data scientist candidate's details, contact information, work experience, technical skills, education, personal statement, references, and any additional comments or attachments such as a resume and portfolio link. The form will be used to evaluate the candidate's suitability for a data science role. Before proceeding, please ensure that you have the necessary information and attachments ready. If you have already completed this form for the same role, you may not need to complete it again. Please review the form carefully to avoid duplication of effort.
-</thinking>
-
 # data_scientist_interview_form - Help Guide
 ## Purpose
 The data scientist interview form is designed to collect information from candidates for data science roles. This form helps us to evaluate a candidate's suitability for the position.

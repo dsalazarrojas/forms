@@ -1,10 +1,3 @@
-<thinking>
-This help guide assumes that the user is inspecting a foundation as part of a routine maintenance activity. The purpose of the form is to collect contact information and details about the property's foundation, such as its address, type, and the date and time of the inspection. The form is designed to be completed by the person conducting the inspection, and it will be used to record the results of the inspection and any issues that were found. It is essential to fill out this form accurately and thoroughly to ensure that the inspection process is conducted efficiently and effectively.
-
-This form is a single-page form and should not be duplicated or used for multiple inspections. Please ensure that you have all the necessary information and resources before starting the inspection and completing the form.
-
-</thinking>
-
 # Foundation Inspection Form - Help Guide
 ## Purpose
 The Foundation Inspection Form is a tool used to record the details of a foundation inspection. It is used to collect contact information and property-specific data to ensure that the inspection is conducted properly.

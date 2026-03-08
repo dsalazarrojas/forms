@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patron's experience accessing online library resources. The purpose of this form is to help libraries understand and address any issues that patrons are facing when trying to access online resources. This information will be used to improve the library's online resource collection and services. To avoid duplication, please fill out a new form only when you experience a new issue or have a different concern from a previous submission. This form should not be used for general feedback or suggestions, but rather for reporting specific problems or issues you've encountered while accessing online library resources.
-</thinking>
-
 # Library Online Resource Access Report Form - Help Guide
 ## Purpose
 

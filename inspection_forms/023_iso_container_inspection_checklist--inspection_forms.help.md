@@ -1,7 +1,3 @@
-<thinking>
-To confirm, we will create a user-facing help guide for the "iso_container_inspection_checklist" form. I will assume that the form is used to inspect and record information about ISO containers. The purpose of the form is to gather data that helps ensure the containers are properly managed and stored, reducing the risk of contamination and damage. This is a critical process that requires attention to detail and adherence to established protocols. To avoid duplication, the form will only be used for containers that have not yet been inspected.
-</thinking>
-
 # iso_container_inspection_checklist - Help Guide
 ## Purpose
 The iso_container_inspection_checklist form is used to inspect and record information about ISO containers. The form helps ensure that containers are properly managed and stored, reducing the risk of contamination and damage.

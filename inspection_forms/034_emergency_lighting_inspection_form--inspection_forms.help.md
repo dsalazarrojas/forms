@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for inspecting emergency lighting systems, which is crucial for ensuring the safety and well-being of individuals within a building or facility. The form likely serves as a checklist to document the status of emergency lighting systems, including exit paths, signs, and electrical systems. The form might be used by facility managers or safety experts to conduct regular inspections and identify any defects or deficiencies in the emergency lighting systems. It's essential to ensure that the form is completed accurately and thoroughly to maintain accurate records and prevent potential hazards.
-</thinking>
-
 # emergency_lighting_inspection_form - Help Guide
 ## Purpose
 The emergency lighting inspection form is designed to document the status of emergency lighting systems within a building or facility. This form helps identify any potential defects or deficiencies in the systems and ensures that they are functioning correctly.

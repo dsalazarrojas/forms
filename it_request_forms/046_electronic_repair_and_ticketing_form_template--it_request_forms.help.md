@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for tracking and managing electronic repair and ticketing requests, possibly for internal use within a company or organization. The form collects information about the repair shop, customer details, and order-related data. The purpose of this form is to create a unified way to record and follow up on electronic repair and ticketing requests, ensuring that relevant information is captured and easily accessible. To avoid duplication of efforts, ensure that this form is not filled out for duplicate requests.
-
-</thinking>
-
 # electronic_repair_and_ticketing_form_template - Help Guide
 ## Purpose
 The electronic_repair_and_ticketing_form_template is used to record and manage electronic repair and ticketing requests. This form captures essential information about the repair shop, customer details, and order-related data, allowing for efficient tracking and follow-up.

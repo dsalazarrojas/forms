@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information from clients seeking recovery coaching services for eating disorders. This form will help clients provide their background, goals, and objectives, as well as contact details for both the client and recovery coach. The form will also collect data on the recovery coaching progress, including the number of sessions completed, total hours spent in coaching, and dates and times of first and last sessions. This information will help the recovery coach understand the client's progress and provide better guidance. This form should only be filled out by clients who are actively engaged in recovery coaching.
-
-</thinking>
-
 # Eating Disorders Recovery Coaching Request - Help Guide
 ## Purpose
 This form is designed to gather information from clients who are seeking recovery coaching services for eating disorders. Please fill out this form to provide necessary background, goals, and contact details for your recovery coach.

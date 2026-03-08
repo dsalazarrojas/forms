@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inspection Checklist Submission Acknowledgement Form - Help Guide
 ## Purpose
 This form is intended for use by inspectors to acknowledge the completion of inspections, providing information about the submitter and inspector involved, as well as details about the inspection itself. It aims to collect relevant data for administrative and auditing purposes, ensuring that all necessary steps are taken care of inspection completion.

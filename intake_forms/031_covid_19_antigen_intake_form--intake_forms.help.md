@@ -1,9 +1,3 @@
-<thinking>Before we dive into the user-facing help guide, let's quickly review the form's purpose and ensure it's being used correctly.
-
-The Covid 19 Antigen Intake Form is designed to gather essential information from patients or their representatives about their experiences with Covid-19 antigens, including vaccine information, medical conditions, and follow-up visit details. This form is intended for healthcare providers to collect accurate and comprehensive data.
-
-To prevent duplication of efforts, please ensure that this form is not submitted multiple times for the same patient. If you need to update a patient's information, please use the "Update" button on the patient's profile instead.</thinking>
-
 # Covid 19 Antigen Intake Form - Help Guide
 ## Purpose
 This form is used to gather information from patients or their representatives about their experiences with Covid-19 antigens, including vaccine information, medical conditions, and follow-up visit details.

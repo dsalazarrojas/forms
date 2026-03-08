@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to create a checklist for site inspections in the context of timber construction. The form likely aims to ensure that site inspections are completed thoroughly and consistently across all sites.
-
-The form likely serves as a checklist for a specific site inspection process, ensuring that all necessary aspects are covered during the inspection, such as the site's current status, the location of the site, and any relevant notes or observations.
-
-This form might be used by site inspectors to document the results of their inspections, and by site review administrators to review and approve the inspections. It could be used to track progress on site inspections and ensure that they are completed efficiently.
-
-To avoid duplication of effort, it's assumed that the form is not meant to replace other, more comprehensive forms or documentation, but rather to supplement them with a specific and concise set of information.
-
-</thinking>
-
 # Timber Construction Safety Check List - Help Guide
 ## Purpose
 The timber construction safety checklist form is designed to help site inspectors ensure that all necessary aspects of site inspections are completed thoroughly and consistently across all sites. It's meant to be a tool for documentation and tracking of site inspection progress.

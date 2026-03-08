@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form, "self_help_group_impact_interview", is to collect data on the impact of self-help groups on participants' outcomes, satisfaction, and engagement. It is likely used in research studies or evaluations to assess the effectiveness of self-help groups in achieving desired outcomes.
-
-Before completing this form, please ensure you have already gathered data on the self-help group and its participants. The form is designed to be completed by a researcher or evaluator who has access to this data.
-
-Please note that this form is not intended for participants to complete themselves. It is meant to be a data collection tool for researchers or evaluators to assess the impact of self-help groups.
-
-This form consists of 25 fields, each of which is designed to capture specific data points related to the self-help group's impact. Some fields may seem repetitive or have similar labels, but each has a distinct purpose in capturing the nuanced aspects of self-help group effectiveness.
-
-</thinking>
-
 # self_help_group_impact_interview - Help Guide
 ## Purpose
 This form is designed to collect data on the impact of self-help groups on participants' outcomes, satisfaction, and engagement.

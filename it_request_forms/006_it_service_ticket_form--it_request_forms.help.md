@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate submission of it_service_ticket_form, please note that this form will be used for submitting requests related to IT services, and it's recommended to fill in the form only if it's related to IT services. If the issue is not IT-related, please use the 'Non-IT Service' option for the 'Ticket Type' field.
-</thinking>
-
 # it_service_ticket_form - Help Guide
 ## Purpose
 The it_service_ticket_form is a form used for submitting requests related to IT services. It's a crucial tool for submitting and tracking IT service tickets.

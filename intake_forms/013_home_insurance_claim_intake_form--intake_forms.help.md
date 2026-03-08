@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a home insurance claim, which will be used by the insurance company to process and handle the claim. This form is not intended for emergency or critical claims, and should only be used for routine, non-urgent claims. The purpose of this form is to ensure that all necessary information is collected in a clear and efficient manner, reducing the need for follow-up questions or phone calls. Before starting, please review the form carefully to ensure you understand what information is required and why.
-</thinking>
-
 # Home Insurance Claim Intake Form - Help Guide
 ## Purpose
 The Home Insurance Claim Intake Form is a form used to collect information about a home insurance claim. This form is designed to be completed by the claimant (the policyholder) and should be filled out carefully to ensure all necessary information is collected.

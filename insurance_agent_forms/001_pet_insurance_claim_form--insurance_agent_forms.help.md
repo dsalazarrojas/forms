@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from pet owners about their insurance claims. The form is part of a larger system used to manage pet insurance claims, and it's crucial that the end-user understands its purpose and how to fill it out correctly to ensure accurate and complete data collection. To prevent duplication, please ensure you're not submitting this form more than once for the same claim. If you've already submitted this form, kindly contact our support team to inquire about the status of your previous submission.
-</thinking>
-
 # Pet Insurance Claim Form - Help Guide
 
 ## Purpose

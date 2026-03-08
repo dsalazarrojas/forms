@@ -1,13 +1,3 @@
-<thinking>
-
-This is a Chiropractic Treatment Intake Form, a crucial document used to collect essential information from patients for the purposes of diagnosing and treating chiropractic issues. It is essential to ensure that the form is completed accurately to ensure effective and safe care. Please review the form carefully before submission. If you have already completed this form for this clinic, you may be prompted to confirm the accuracy of the information provided, as indicated by the 'I confirm this information is accurate' field, typically located at the end of the form.
-
-This document may be used in conjunction with other medical records; therefore, please ensure all fields are filled in with accurate and up-to-date information.
-
-To avoid duplication of efforts, ensure you have not already completed this form at this clinic before attempting to submit it.
-
-</thinking>
-
 # Chiropractic Treatment Intake Form - Help Guide
 ## Purpose
 The Chiropractic Treatment Intake Form is a vital document designed to collect information from patients to help chiropractors accurately diagnose and treat their conditions.

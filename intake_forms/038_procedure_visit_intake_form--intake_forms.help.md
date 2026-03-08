@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for medical procedures, specifically to intake visit information for patients. It is intended to be used by medical practices to gather necessary details about patients, including their contact information, medical history, and visit specifics. To prevent duplication of effort, it's recommended that each entry is completed only once and all fields must be filled out for a complete record.
-</thinking>
-
 # Procedure Visit Intake Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for economic development business inquiries, aiming to gather relevant details about projects, contacts, and other necessary information for business development purposes. To avoid any potential duplication of efforts, this form is meant for one-time use and is not intended to collect ongoing or recurring information.
-
-</thinking>
-
 # Economic Development Business Inquiry Form - Help Guide
 ## Purpose
 The economic development business inquiry form is a crucial tool for collecting information from potential partners, customers, or other stakeholders for economic development projects. It gathers essential details about contacts, projects, and other relevant information for business development purposes.

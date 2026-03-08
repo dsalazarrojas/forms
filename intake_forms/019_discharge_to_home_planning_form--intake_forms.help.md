@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to collect patient information and planning for discharge to home. It is used by healthcare professionals to document the patient's medical status, medications, and follow-up plans before discharging them from the hospital or care facility.
-Before using this form, please ensure that you have reviewed the patient's medical chart and have obtained consent from the patient or their legal representative if necessary. Also, please note that this form should not be used for patients who are being discharged due to non-compliance with treatment or other reasons that do not involve medical necessity.
-</thinking>
-
 # Discharge To Home Planning Form - Help Guide
 
 ## Purpose

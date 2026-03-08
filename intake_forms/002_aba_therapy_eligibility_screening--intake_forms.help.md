@@ -1,15 +1,3 @@
-<thinking>
-
-To understand the purpose and relevance of the ABA (Applied Behavior Analysis) Therapy Eligibility Screening form, let's briefly analyze the provided YAML. 
-
-The form is used for screening patients or children to determine their eligibility for ABA therapy, which is a treatment approach used to help individuals with autism spectrum disorder (ASD) or other behavioral concerns. 
-
-The form aims to gather essential information about the patient, including their personal details, medical history, and reasons for referral. 
-
-Before filling out the form, please ensure that you haven't already submitted one or have a similar form that covers the same information. 
-
-</thinking>
-
 # ABA Therapy Eligibility Screening - Help Guide
 ## Purpose
 The purpose of this form is to determine a patient's eligibility for ABA therapy, a treatment approach for individuals with autism spectrum disorder or other behavioral concerns. This form gathers essential information about the patient's personal details, medical history, and reasons for referral.

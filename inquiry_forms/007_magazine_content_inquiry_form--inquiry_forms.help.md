@@ -1,8 +1,3 @@
-<thinking>
-This form was created using AI, inspired by public survey metadata from the magazine content inquiry field. It's intended for users to submit their ideas, pitches, and inquiries related to magazine content. The form is non-duplicative and does not use any proprietary content from other form platforms.
-
-</thinking>
-
 # magazine_content_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect user input and feedback on magazine content ideas, pitches, and inquiries.

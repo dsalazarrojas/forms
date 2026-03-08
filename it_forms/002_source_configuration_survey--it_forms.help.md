@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Source Configuration Survey - Help Guide
 ## Purpose
 The Source Configuration Survey form is designed to gather information about your role, source configurations used, and other relevant details for internal purposes.

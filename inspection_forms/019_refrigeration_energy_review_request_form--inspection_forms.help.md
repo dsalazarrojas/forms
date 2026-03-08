@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Refrigeration Energy Review Request Form - Help Guide
 
 ## Purpose

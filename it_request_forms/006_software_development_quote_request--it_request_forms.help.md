@@ -1,11 +1,3 @@
-<thinking>
-The form "Software Development Quote Request" is designed to capture essential information from clients or customers seeking quote requests for software development projects. The purpose of this form is to gather details about the project, including project type, location, development stack, deadline, and other relevant information. This form will help software development teams or agencies to provide accurate quotes and understand the client's requirements better. 
-
-When filling out this form, please ensure that you have all the necessary information readily available. This form may not be a one-time use case, and you may be contacted to provide additional details or clarification based on the provided information. Please do not submit the form multiple times if the project requirements or details have not changed.
-
-Please review each field carefully and provide accurate information to help us provide you the best quote for your project.
-</thinking>
-
 # Software Development Quote Request - Help Guide
 ## Purpose
 The Software Development Quote Request form is designed to gather essential information from clients or customers seeking quote requests for software development projects.

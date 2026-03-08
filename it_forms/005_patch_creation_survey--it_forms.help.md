@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their experience with patch creation, which is a crucial aspect of workflow management in various industries. The form is meant to be a simple and user-friendly way to gather feedback, communication details, and other relevant information from users. 
-
-To avoid duplication, we will not include any information that is easily available or already known to us, such as contact information or user ID. 
-
-This form was created using AI, but it is an original adaptation, and users are free to use, modify, and even sell forms derived from it, with proper credit given.
-
-Form purpose is to collect user input on their experience with patch creation, which includes workflow information, communication details, tooling information, feedback, and patch information. 
-
-</thinking>
-
 # patch creation survey - Help Guide
 ## Purpose
 The patch creation survey is designed to collect user input on their experience with patch creation, including workflow information, communication details, tooling information, feedback, and patch information.

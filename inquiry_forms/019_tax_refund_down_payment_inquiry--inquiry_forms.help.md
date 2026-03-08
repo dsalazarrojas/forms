@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information about a tax refund down payment inquiry from a client. This form is used to gather details such as client information, tax refund type, amount, and payment date, as well as other relevant details. It's essential to ensure that the client's down payment is processed correctly, and the form helps in maintaining accurate records.
-
-Before proceeding with this form, please ensure that you're not duplicating an already existing inquiry or that the client's information is not already in our system. This will save time and prevent any confusion in the processing and follow-up process.
-
-This guide will walk you through each field of the form to help you complete it accurately and efficiently.
-</thinking>
-
 # Tax Refund Down Payment Inquiry - Help Guide
 ## Purpose
 This form is used to collect information about a tax refund down payment inquiry from a client.

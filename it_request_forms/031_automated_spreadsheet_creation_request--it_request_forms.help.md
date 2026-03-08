@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect detailed information from users who are requesting the creation of an automated spreadsheet. The form is meant to be filled out by the person or team requesting the spreadsheet, and the information collected will be used to determine the best course of action for creating the spreadsheet. Before filling out this form, please ensure that you haven't already submitted a request for this type of spreadsheet in the past. If you're unsure, please check with your manager or the IT department to confirm.
-
-This form is divided into several sections that cover different aspects of the spreadsheet request. Please complete this form thoroughly, and make sure to answer all questions accurately. Some questions have specific options to choose from, while others require more detailed descriptions.
-
-This form is intended for internal use only and is not meant to be filled out by external users. If you're not an internal user, please do not submit this form.
-</thinking>
-
 # Automated Spreadsheet Creation Request - Help Guide
 ## Purpose
 This form is used to collect information from internal users who are requesting the creation of an automated spreadsheet. The information collected from this form will be used to determine the best course of action for creating the spreadsheet.

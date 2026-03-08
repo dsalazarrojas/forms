@@ -1,20 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "travel_and_hotel_partnership_inquiry_form" form, we need to consider the following:
-
-*   The form is used for travel and hotel partnership inquiries. This implies that it is likely used to gather information from potential partners or collaborators in the travel industry.
-*   The form fields include contact information (email and phone numbers), business name and address, partner name, partner email and phone number, and partner company. This suggests that the form is used to facilitate communication and collaboration with travel and hotel partners.
-
-Internal reasoning block to check for relevance and non-duplication:
-
-*   Is the form intended for internal use only, or can it be used by external parties (e.g., customers, partners)?
-*   Are there any specific business rules or processes that need to be followed when filling out this form?
-*   Are there any specific fields that need to be filled out in a particular order or sequence?
-
-Given the provided YAML, it appears that this form is intended for external use, as it includes fields like partner name, partner email, and partner phone number. The form does not seem to have any specific business rules or processes that need to be followed, and the fields are not in a specific order.
-
-</thinking>
-
 # travel_and_hotel_partnership_inquiry_form - Help Guide
 
 ## Purpose

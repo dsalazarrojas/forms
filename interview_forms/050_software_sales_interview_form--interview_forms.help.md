@@ -1,7 +1,3 @@
-<thinking>This form is used to collect information from sales candidates after an interview. The form is meant to be completed by the sales team members to evaluate and provide feedback on the candidate's performance during the interview. The form should only be used for candidates who have already been interviewed. This will help in tracking and managing the interview process more effectively.
-
-To avoid duplication, please do not use this form for candidates who have not been interviewed yet. This form is not meant to be completed by the candidate themselves, but rather by the person conducting the interview.</thinking>
-
 # Software Sales Interview Form - Help Guide
 ## Purpose
 This form is used to collect feedback and assessment from the sales team members after an interview with a sales candidate.

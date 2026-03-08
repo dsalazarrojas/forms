@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from drilling operations, specifically to track and report on daily drilling activities. This form is used to gather data on various aspects of drilling, including location, drilling rig, drilling mud, and various parameters such as depth, temperature, water depth, drilling rate, and others. The collected data is likely used for monitoring, analysis, or reporting purposes. 
-
-To ensure data accuracy and completeness, please review each field carefully and provide the required information.
-</thinking>
-
 # Doha Drilling Daily Report Master تقرير الحفر اليومي - Help Guide
 ## Purpose
 This form is designed to collect daily drilling data from the field, providing a structured and standardized way to document and report on drilling activities. It is a critical tool for drilling operations teams to ensure accurate and reliable data collection.

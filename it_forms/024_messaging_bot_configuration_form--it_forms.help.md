@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive help guide for the Messaging Bot Configuration Form to ensure end-users understand its purpose, completion process, and each field's meaning.</thinking>
-
 # Messaging Bot Configuration Form - Help Guide
 ## Purpose
 This form is designed to configure settings for the messaging bot, which is used to manage customer communication and support processes. The form helps administrators set up the bot's channel type, routing rules, and essential contact information for support and product teams.

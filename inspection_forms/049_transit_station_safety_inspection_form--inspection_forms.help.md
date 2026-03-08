@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to conduct a comprehensive safety inspection of a transit station, ensuring that it meets the necessary standards and protocols for safe operation. The form helps inspectors assess the station's condition, identify potential safety hazards, and record the results of their inspection. This includes reviewing the station's status, checking safety equipment and practices, and documenting any issues or concerns.
-
-Before completing this form, please ensure that you have reviewed the station's safety guidelines and protocols to ensure accuracy. This form should only be completed by authorized personnel or inspectors who have a good understanding of the station's safety procedures.
-
-The following fields require specific information and should be filled in accurately and thoroughly. If you are unsure about any field, please refer to the relevant section below for further guidance.
-
-</thinking>
-
 # Transit Station Safety Inspection Form - Help Guide
 
 ## Purpose

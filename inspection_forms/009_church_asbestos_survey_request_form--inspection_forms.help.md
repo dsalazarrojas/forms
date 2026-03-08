@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from the church requesting an asbestos survey. The form is used by the church administration to provide detailed information about the church property and the survey requirements to the asbestos surveyor. This form is designed to minimize duplication of effort and reduce the likelihood of miscommunication. Before proceeding, please verify that you have not previously submitted this form for the same church property.
-</thinking>
-
 # Church Asbestos Survey Request Form - Help Guide
 ## Purpose
 This form is intended for church administrators to provide information about their church property and the required survey details to asbestos surveyors. It helps in ensuring that the right information is collected and communicated effectively to conduct a successful survey.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the submitter's kink lifestyle, including their interests, boundaries, and other relevant details. This form is intended to help the Kink Community gather a better understanding of their members' preferences and boundaries. Before submitting this form, please ensure that you are familiar with the Kink Community's guidelines and rules. If you are unsure about any of the information requested, please do not hesitate to reach out to the Kink Community moderators for clarification. Additionally, please note that this form should not be used to collect information about minors or individuals who are not a part of the Kink Community.
-</thinking>
-
 # Kink Lifestyle Submission Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is for customers to acknowledge and agree to the terms of their tech installation, providing necessary information for the installation process and ensuring the customer's and technician's responsibilities are understood. This form should only be used for tech installations where the customer is physically present. If not used for a tech installation, please do not proceed.</thinking>
-
 # Tech Installation Liability Waiver - Help Guide
 ## Purpose
 This form is designed to be filled out by customers and technicians to provide important information and ensure mutual understanding before and after a tech installation. It includes fields for customer and technician details, installation dates, and agreement to terms.

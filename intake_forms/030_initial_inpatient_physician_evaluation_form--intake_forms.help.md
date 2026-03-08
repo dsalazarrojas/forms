@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by an Inpatient Physician for the purpose of evaluating a patient's condition during an inpatient stay. It should be used to document the patient's vital signs, medical history, and treatment plan. Before filling out this form, please verify that the patient's medical history is up-to-date and accurate. Also, ensure that any necessary permissions or consents have been obtained from the patient or their representatives.
-</thinking>
-
 # Initial Inpatient Physician Evaluation Form - Help Guide
 ## Purpose
 

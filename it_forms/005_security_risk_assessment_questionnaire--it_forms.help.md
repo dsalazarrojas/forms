@@ -1,5 +1,3 @@
-<thinking>...This form is designed to help organizations and individuals assess their security risk, identify potential threats, and take steps to mitigate them. The form is composed of 25 questions that are meant to guide users through a thorough evaluation of their security posture. The form is likely intended for use in the field of information security, cybersecurity, or risk management. It is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using public metadata as inspiration. It is released under a CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit. Contact form@gic.mx for any queries or concerns. </thinking>
-
 # Security Risk Assessment Questionnaire - Help Guide
 
 ## Purpose

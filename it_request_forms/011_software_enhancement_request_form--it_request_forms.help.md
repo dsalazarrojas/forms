@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect user feedback and suggestions for improving the software. To ensure that this form is being used effectively, please be aware that:
-- Only submit one enhancement request per form.
-- Do not submit duplicate requests for the same enhancement.
-- Be specific about the enhancement you are suggesting, including any relevant details and product information.
-- If you have any questions or concerns, please don't hesitate to reach out to our support team.
-</thinking>
-
 # Software Enhancement Request Form - Help Guide
 ## Purpose
 The Software Enhancement Request Form is a tool for users to submit suggestions and ideas for improving the software. This form helps us understand your needs and preferences to deliver better software experiences.

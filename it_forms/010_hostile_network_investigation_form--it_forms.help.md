@@ -1,16 +1,3 @@
-<thinking>
-The Hostile Network Investigation Form is used to document and track hostile network incidents within an organization. It is intended to collect information about the incident, including its category, description, location, and resolution status. The form helps in maintaining a record of all incidents, which is useful for monitoring and responding to future occurrences.
-
-It is recommended to only fill out this form for genuine incidents that are not part of regular business operations. Repeating the form for non-incident purposes will not provide useful data and will only serve to clutter the records.
-
-Before starting to fill out the form, check if you have all the necessary information about the incident and if there is any existing record of the incident. 
-
-Please fill out the form carefully, as this will help to ensure that accurate and complete records are maintained.
-
-Note that the form can be submitted at any time and the status can be updated later as and when the incident is resolved.
-
-The form can be used by any authorized personnel within the organization.
-</thinking>
 # Hostile Network Investigation Form - Help Guide
 
 ## Purpose

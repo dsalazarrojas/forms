@@ -1,11 +1,3 @@
-<thinking>
-# This form is designed to collect information for a digital capability audit request. 
-# It is intended to be used by users to request a digital capability audit, which is an assessment of an organization's digital capabilities to achieve its goals and objectives. 
-# The form is part of a larger process to ensure that the organization is well-equipped to operate effectively in a digital environment.
-# Before filling out this form, please ensure that you have not already submitted a similar request in the past.
-# If you need to make multiple requests, please submit a new form for each request.
-</thinking>
-
 # digital_capability_audit_request_form - Help Guide
 ## Purpose
 The digital capability audit request form is designed to collect information for a digital capability audit. This form is used to request an assessment of an organization's digital capabilities, which will help to identify areas for improvement and ensure that the organization is well-equipped to operate effectively in a digital environment.

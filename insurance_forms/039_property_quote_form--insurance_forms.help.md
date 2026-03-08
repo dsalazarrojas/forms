@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to collect relevant property information for financial calculations and analysis. It appears to be designed to capture details about a property, including its address, type, estimated value, and various expenses and premiums associated with it. This form likely serves as a data collection tool for a financial institution or property management company.
-
-To determine if this form is relevant, we can consider the types of fields included:
-
-* Property address (street address)
-* Type of property (e.g., condo, townhouse, house)
-* Estimated value of the property
-* Various expenses and premiums related to the property (e.g., property tax, insurance, maintenance, management fees)
-
-Given the presence of fields like "annual property tax", "annual homeowners insurance premium", and "annual property maintenance cost", it seems that the form is likely used for financial planning or analysis related to a residential property. The fields for "annual rental income" and "other expenses" suggest that the form might be used for both owner-occupied properties and rental properties.
-
-There might be some redundancy or overlap between fields, but overall, this form appears to be a comprehensive data collection tool for property-related financial information.
-
-</thinking>
-
 # Property Quote Form - Help Guide
 ## Purpose
 This form collects property information for financial calculations and analysis.

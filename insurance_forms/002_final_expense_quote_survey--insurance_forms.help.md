@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information from clients to provide a quote for their final expenses. This form will be used by our insurance agency to understand the client's needs and preferences. Please use this form only once you have been directed by an internal team member or when you have a genuine use case for the final expense quote survey. If you have already completed this form for the client, please do not resubmit. This guide will walk you through each field in the form so you can complete it accurately...</thinking>
-
 # Final Expense Quote Survey - Help Guide
 ## Purpose
 The Final Expense Quote Survey is a form used to gather information from clients to provide a quote for their final expenses. This form is used by our insurance agency to understand the client's needs and preferences.

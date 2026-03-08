@@ -1,5 +1,3 @@
-<thinking>... This help guide is for the "Software Development Statement Of Work SOW" form, a document that outlines the scope, requirements, and details of a software development project. It appears to be a general-purpose form that captures various information related to the project. Before proceeding, ensure that this form is being used for its intended purpose and not duplicating other processes... </thinking>
-
 # Software Development Statement Of Work SOW - Help Guide
 ## Purpose
 The Software Development Statement Of Work SOW form is used to document the scope, deliverables, and requirements of a software development project. It provides a centralized location for capturing project details, which helps project stakeholders to understand the project's objectives, timelines, and payment terms.

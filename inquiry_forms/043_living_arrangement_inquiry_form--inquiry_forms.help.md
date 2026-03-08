@@ -1,9 +1,3 @@
-<thinking>
-
-The Living Arrangement Inquiry Form is designed to gather information about an individual's living arrangement preferences and needs. This form will help us better understand what type of living arrangement is most suitable for you, considering your lifestyle, budget, and personal circumstances. Please note that this form should be filled out only once, and any subsequent submissions will be considered duplicates.
-
-</thinking>
-
 # Living Arrangement Inquiry Form - Help Guide
 ## Purpose
 The Living Arrangement Inquiry Form is a tool used to gather information about your living arrangement preferences and needs. This form will help us understand what type of living arrangement is most suitable for you, considering your lifestyle, budget, and personal circumstances.

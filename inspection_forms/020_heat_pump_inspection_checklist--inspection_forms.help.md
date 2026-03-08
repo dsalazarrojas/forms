@@ -1,12 +1,3 @@
-<thinking>
-The Heat Pump Inspection Checklist is a form used to collect information related to heat pump systems. This form is intended for use by HVAC professionals or facility managers to gather and document data about the condition and performance of heat pump systems in various locations.
-
-The form is designed to be completed by an authorized person, typically an HVAC technician or facility manager, and should not be filled out by the property owner or other unauthorized personnel. The data collected on this form will be used to track and analyze the performance and maintenance needs of heat pump systems.
-
-Please note that some fields are optional, and users should only fill out the fields that are relevant to their situation. 
-
-</thinking>
-
 # Heat Pump Inspection Checklist - Help Guide
 ## Purpose
 The Heat Pump Inspection Checklist is a form used to collect information related to heat pump systems.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # health_insurance_premium_authorization - Help Guide
 
 ## Purpose

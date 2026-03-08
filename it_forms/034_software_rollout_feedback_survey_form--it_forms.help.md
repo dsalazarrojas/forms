@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on our software rollout process. The goal is to understand how well our software is performing in real-world settings and identify areas for improvement. This form will help us gather information on the user's experience with our software, including their level of satisfaction and any suggestions they may have for improvements or new features. 
-</thinking>
-
 # Software Rollout Feedback Survey Form - Help Guide
 ## Purpose
 This form is used to collect feedback from users about their experience with our software. Your input will help us identify areas for improvement and make informed decisions about future software releases.

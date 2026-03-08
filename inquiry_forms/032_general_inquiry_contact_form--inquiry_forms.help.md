@@ -1,8 +1,3 @@
-<thinking>
-This form is used for general inquiries, allowing users to send messages or ask questions to the support team.
-To ensure the form is used correctly, users must not submit duplicate inquiries. 
-</thinking>
-
 # General Inquiry Contact Form - Help Guide
 ## Purpose
 The General Inquiry Contact Form is a tool that allows users to send messages or ask questions to the support team. It is designed to be a quick and easy way to get in touch with us for any general inquiries or concerns.

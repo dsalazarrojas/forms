@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Remote Teaching Tools Faculty Inquiry Form", I'll need to understand the purpose and functionality of the form. From the provided YAML file, it appears that the form is designed to gather information from faculty members about their experiences and needs related to remote teaching tools. The form has several fields, including text inputs, select-one and select_multiple options, and notes fields. 
-
-The form may be used by support teams to provide targeted assistance to faculty members based on their responses. However, I would need to clarify the purpose and intended use of each field to ensure that the help guide is clear and accurate.
-
-Upon reviewing the form, I noticed that many fields have similar labels and options, which may be redundant or confusing for users. For example, fields 3, 4, 6, 8, 14, 15, 18, and 19 all have similar options (Yes/No/Other). This might be due to a lack of clear labeling or a design flaw. I would suggest reorganizing or rephrasing these fields to improve clarity.
-
-Additionally, I would recommend adding more context to the form's purpose and intended use. Is this form meant for faculty members to report their needs for remote teaching tools, or is it for gathering data for a specific research project? Without clear context, users may struggle to understand the relevance of their responses.
-
-To create a clear and effective help guide, I would focus on explaining each field in a way that is concrete and concise, avoiding any unsupported business logic or assumptions.</thinking>
-
 # Remote Teaching Tools Faculty Inquiry Form - Help Guide
 ## Purpose
 The Remote Teaching Tools Faculty Inquiry Form is designed to gather information from faculty members about their experiences and needs related to remote teaching tools. This form is intended for support teams to provide targeted assistance to faculty members based on their responses.

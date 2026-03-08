@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to collect information about cybersecurity incidents that have occurred within an organization or system. It helps to gather details about the incident, such as its description, type, location, date, and severity. The form also captures the status of the incident and the category it belongs to. This information can be used to track and analyze cybersecurity incidents, identify trends, and implement necessary measures to prevent future incidents.
-
-This form is intended to be completed by individuals responsible for reporting incidents, such as IT staff, security teams, or incident response teams. It is an optional form, and users are not required to complete it.
-
-The form is designed to be completed in an online or digital environment, using a web-based interface. Users can fill out the form on a device with a web browser, such as a computer or mobile phone.
-
-To complete this form, users will provide information about the incident through text boxes, dropdown menus, and date/time selections. The form is broken down into several sections, each focusing on a different aspect of the incident.
-
-Before starting to complete the form, it is recommended to read and understand the explanations provided for each field to ensure you provide the necessary information accurately.</thinking>
-
 # Cybersecurity Incident Check Out Form - Help Guide
 ## Purpose
 

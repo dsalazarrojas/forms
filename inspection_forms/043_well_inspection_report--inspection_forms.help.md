@@ -1,5 +1,3 @@
-<thinking>Well Inspection Report form is used by the inspection team to document their findings and observations of a well. This form is designed to gather information about the well's condition, identify any issues or defects, and track recommendations for future improvements. To complete this form, the inspector will need to provide details about the well's ID, the inspector's name, the date of the inspection, and any comments or observations they made during the inspection. Additionally, they will need to upload and store photos of the well's condition and provide their signature to confirm the inspection. The form also includes fields for assigning the well to a specific entity and tracking the assignment date.</thinking>
-
 # Well Inspection Report - Help Guide
 ## Purpose
 The Well Inspection Report form is used to document the findings and observations of a well inspection. This form is completed by the inspection team and is used to gather information about the well's condition, identify any issues or defects, and track recommendations for future improvements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mining Operation Environmental Compliance Inspection Form - Help Guide
 ## Purpose
 This form is designed to record information about a mining operation's environmental compliance inspection. The form is used to track the details of the inspection, including the site's location, date and time of inspection, and environmental features observed. It also collects information about the inspection findings, actions taken, and follow-up requirements.

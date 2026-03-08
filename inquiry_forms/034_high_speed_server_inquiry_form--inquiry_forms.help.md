@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather information from the user about their server inquiry needs and preferences. 
-The form will be used to provide the best possible experience for the user. 
-Please fill out the form completely and accurately. 
-Please note that submitting this form will not create an inquiry, it is only a request for information and resources. 
-Please fill out this form only once per inquiry. 
-Please be aware that submitting this form will add your company's information to our database, which may be used for follow-up and lead tracking. 
-</thinking>
-
 # High Speed Server Inquiry Form - Help Guide
 ## Purpose
 The High Speed Server Inquiry Form is designed to collect information from users about their server inquiry needs and preferences. This form will help us provide the best possible experience for the user.

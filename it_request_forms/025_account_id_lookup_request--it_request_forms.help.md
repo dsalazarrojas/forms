@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is used as intended, please confirm that you're familiar with the process of requesting an account ID lookup. This form is used to collect information from requesters to facilitate the identification and verification of account IDs. Please note that duplicate requests might be rejected, and ensure that you're not resubmitting a request for the same purpose. If you're unsure about the purpose of this form or have questions, please contact your supervisor or support team for clarification.
-</thinking>
-
 # Account ID Lookup Request - Help Guide
 ## Purpose
 The Account ID Lookup Request form is used to gather information from requesters to identify and verify account IDs. This form helps our team in locating and resolving issues related to account IDs.

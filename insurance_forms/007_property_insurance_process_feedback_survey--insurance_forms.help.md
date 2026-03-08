@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We've included this form in the "insurance_forms" category to gather feedback on the property insurance process. This form is designed to be a subjective evaluation tool, allowing users to rate the process based on their experience. To ensure consistency, please only submit feedback on a single process.
 
 </thinking>

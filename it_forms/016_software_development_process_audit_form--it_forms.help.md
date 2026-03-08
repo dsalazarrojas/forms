@@ -1,11 +1,3 @@
-<thinking> 
-
-We are going to create a comprehensive help guide for the "software_development_process_audit_form" form. This form is designed to assess the software development process of an organization. Its purpose is to collect data on the organization's development methodologies, communication and collaboration practices, documentation, testing, and continuous integration and deployment processes. The form will help identify areas of improvement and provide insights into the organization's software development process. 
-
-We'll be using the provided YAML fields to guide the explanation. Before we proceed, we'll review the form fields and determine the best way to present the information in a clear and concise manner.
-
-</thinking>
-
 # software_development_process_audit_form - Help Guide
 ## Purpose
 This form is designed to help evaluate the software development process of an organization. It collects data on methodologies, communication and collaboration practices, documentation, testing, and continuous integration and deployment processes.

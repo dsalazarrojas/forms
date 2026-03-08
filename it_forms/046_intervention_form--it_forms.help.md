@@ -1,11 +1,3 @@
-<thinking>
-
-The "Intervention Form" is a comprehensive form used for documenting and recording interventions performed by healthcare professionals in a variety of settings. This form is essential for tracking patient data, identifying trends, and making informed decisions. Before filling out this form, please review the provided guidance carefully to ensure you're completing the form correctly and accurately. 
-
-To avoid duplication of efforts and ensure consistency across the organization, please make sure you're not already working on an intervention report with the same ID.
-
-</thinking>
-
 # Intervention Form - Help Guide
 
 ## Purpose

@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to gather information about a vehicle fault report from the user. It's essential to ensure that the form is filled out accurately and thoroughly to provide the most effective support for the vehicle's maintenance and repair. Please verify that you are filling this form for a legitimate fault report and not for a duplicate or incorrect submission.
-
-Before filling out this form, please note that some fields are not required, but including them will help to get a more comprehensive understanding of the situation and provide better support.
-
-When filling out the form, ensure that you provide clear and concise answers to the questions. If you're unsure about any field, please feel free to ask for clarification or guidance.
-
-Please note that this form will help us to:
-
-* Identify the issue with the vehicle
-* Determine the necessary repairs or actions
-* Track and analyze faults for future maintenance and improvements
-
-This form will be reviewed and updated regularly to ensure it meets the evolving needs of the users and the team.
-
-</thinking>
-
 # Template F M THS Vehicle Fault Report Form - Help Guide
 ## Purpose
 The Template F M THS Vehicle Fault Report Form is designed to collect detailed information about a vehicle fault report. It will help to identify the issue, determine the necessary repairs or actions, and track and analyze faults for future maintenance and improvements.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from potential candidates for marketing internship positions. The purpose of this form is to gather relevant details about the candidate's general information, contact details, education history, work experience, skills and abilities, availability, and job preferences. The form is intended to be completed by the candidate themselves, and the information collected will be used to assess their suitability for the marketing internship position.
-
-Before starting, please ensure that the information you provide is accurate and up-to-date, as this form will be used to assess your qualifications for the position. If you have any previous experience or qualifications that are not listed here, please be sure to mention them in the relevant sections.
-
-Additionally, please note that some fields are required to complete, and you will not be able to submit the form without providing the necessary information. If you need help or clarification on any of the fields, do not hesitate to ask.
-</thinking>
-
 # Marketing Intern Interview Form - Help Guide
 ## Purpose
 The Marketing Intern Interview Form is a tool used to collect information from potential candidates for marketing internship positions. This form will help us understand your qualifications, interests, and availability, which will be used to determine your suitability for the position.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect necessary information from clients seeking a mortgage loan. The primary purpose of this form is to gather details about the client's financial situation, loan requirements, and other relevant factors that will help in assessing their creditworthiness for a mortgage loan. This form will be used to evaluate the client's credit history, income, employment status, and other factors to determine the feasibility of the loan. To avoid duplication of effort, the system will check for existing clients and prevent duplicate submissions if the client already exists in the system.
-
-</thinking>
-
 # Mortgage Client Intake Form - Help Guide
 ## Purpose
 The Mortgage Client Intake Form is designed to collect necessary information from clients seeking a mortgage loan. This information includes financial data, loan requirements, and other relevant factors to assess their creditworthiness for a mortgage loan.

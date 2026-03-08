@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Plastic Surgery Patient Intake Form" based on the provided YAML fields. This guide will explain the form's purpose, provide step-by-step instructions on how to complete it, and provide a field-by-field explanation of each section. The guide will be concise and practical, making it easy for end-users to understand the form's requirements and submit their information accurately.</thinking>
-
 # Plastic Surgery Patient Intake Form - Help Guide
 
 ## Purpose

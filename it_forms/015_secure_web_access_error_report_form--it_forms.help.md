@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information about errors that occur when attempting to access the web application, with the purpose of identifying and resolving the issue. Users are asked to provide details about the error, including their User ID, error type, and other relevant information to help IT identify the cause of the issue. This form should only be filled out in cases where there is a problem with accessing the web application, and it should not be filled out if the issue is resolved already.
-
-To determine if this form has already been filled out for the same issue, the system checks for User ID, error type, and other fields. If the issue has already been reported, it will not be duplicated.
-</thinking>
-
 # Secure Web Access Error Report Form - Help Guide
 ## Purpose
 The Secure Web Access Error Report Form is used to report errors when attempting to access the web application. Please provide details about the error to help IT identify and resolve the issue.

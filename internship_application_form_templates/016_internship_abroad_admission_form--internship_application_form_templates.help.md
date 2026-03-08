@@ -1,10 +1,3 @@
-<thinking>
-Before designing this form, I want to ensure that we're creating a form that accurately captures the necessary information for an internship abroad admission process. The form's purpose is to gather data from students applying for internships abroad. To confirm, this form will be used by students to provide their personal and academic details, as well as information about their internship preferences.
-
-I will review the form fields to ensure that I'm not duplicating any existing fields and that all required fields are included. I will also make sure that the form's design is user-friendly and easy to understand.
-
-</thinking>
-
 # internship-abroad-admission-form - Help Guide
 ## Purpose
 This form is designed to collect personal and academic information from students applying for internships abroad. It will help us assess their eligibility and prepare their applications for the program.

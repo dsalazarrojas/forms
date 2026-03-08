@@ -1,7 +1,3 @@
-<thinking>
-The Game Bug Report Form is designed to collect bug reports from end-users to help developers identify and fix issues within the game. The form is meant to be completed by users who experience any problems or errors while playing the game. To ensure that the form is used effectively, please note that it's intended to collect specific data related to the bug and not to be used as a general feedback form.
-</thinking>
-
 # Game Bug Report Form - Help Guide
 ## Purpose
 The Game Bug Report Form is a tool designed to help developers identify and fix issues within the game. It allows users to report bugs or problems they encounter while playing the game, providing essential information to aid in the development process.

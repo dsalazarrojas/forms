@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning: The social media management inquiry form is a tool used to gather information from potential customers or clients about their needs and preferences for a particular service or product. This form helps to qualify leads, gather contact details, and understand their expected start date and time. 
-
-Before creating this form, it's essential to check if the inquiry is genuine and not a duplicate. 
-
-To ensure the form's purpose is clear, we'll break down the form into sections and explain each field in detail. 
-</thinking>
-
 # social media management inquiry - Help Guide
 ## Purpose
 The social media management inquiry form is a tool used to gather information from potential customers or clients about their needs and preferences for a particular service or product. This form helps to qualify leads, gather contact details, and understand their expected start date and time.

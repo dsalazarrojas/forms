@@ -1,6 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate completion, please note that this form is only accessible to those who are eligible and invited to participate in the Eviction Diversion Program. If you are not invited or do not meet the eligibility criteria, please contact the program administrator for further instructions.</thinking>
-
 # Eviction Diversion Program Registration - Help Guide
 ## Purpose
 This form is for individuals who are eligible and invited to participate in the Eviction Diversion Program. The program is designed to provide temporary assistance to individuals who are facing eviction and need help getting back on their feet.

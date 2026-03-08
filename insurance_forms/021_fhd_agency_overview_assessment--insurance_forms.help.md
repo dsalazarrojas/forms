@@ -1,8 +1,3 @@
-<thinking>
-The form is designed for users to assess and provide an overview of a specific agency's characteristics, such as their name, contact information, and other relevant details. This form will likely be used by someone with administrative or management level responsibilities within an organization. 
-The form should only include fields that have the 'required: false' attribute. This indicates that the fields are not mandatory. Therefore, the form is intended to be a free-form survey type form, allowing the user to complete the fields as they see fit. 
-</thinking>
-
 # FHD Agency Overview Assessment - Help Guide
 ## Purpose
 The FHD Agency Overview Assessment form is designed to gather information about an agency, providing a comprehensive overview of its details. This form is intended to be completed by someone with authority level responsibilities within an organization.

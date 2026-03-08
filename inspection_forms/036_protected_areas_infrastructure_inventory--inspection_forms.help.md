@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Protected Areas Infrastructure Inventory - Help Guide
 
 ## Purpose

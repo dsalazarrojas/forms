@@ -1,9 +1,3 @@
-<thinking>
-This guide will help you understand the Invoice Automation Setup Registration Form, which is used to register and configure the invoice automation feature for your business.
-This form is for businesses that want to set up and manage their invoices automatically. It is not intended for personal or individual use.
-Before proceeding, ensure that you have not already registered for this feature to avoid duplicating your registration.
-</thinking>
-
 # Invoice Automation Setup Registration Form - Help Guide
 ## Purpose
 The Invoice Automation Setup Registration Form is a form designed to help businesses set up and manage their invoices automatically. This form collects necessary information to enable our system to process and send invoices on your behalf.

@@ -1,18 +1,3 @@
-<thinking>
-This form is for documenting damage on a vehicle and collecting information for insurance purposes. 
-The form is likely used for insurance claims, accident reports, or vehicle inspections. 
-It's possible that this form is used in conjunction with other forms or processes to ensure accuracy and completeness of data.
-
-The form fields include a mix of text fields (e.g., vehicle make, model, VIN), numeric fields (e.g., damage rating), and date fields. 
-Each field has a corresponding label and hint (if any). 
-Some fields (e.g., vehicle VIN, damage rating) seem to be required, while others (e.g., damage description) are optional.
-
-This form's fields and structure suggest it is used in an industry related to insurance, vehicle inspections, or vehicle claims.
-
-The form seems to be designed for a single vehicle inspection. 
-The fields for images (e.g., image 1, image 2, image 3, image 4) could potentially be used to collect multiple photos of the vehicle damage.
-</thinking>
-
 # Vehicle Damage Inspection Form - Help Guide
 ## Purpose
 This form is designed to document and collect information about vehicle damage for insurance purposes. It is used to record details about the vehicle's condition, including the year, make, model, and VIN, as well as photos of the damage.

@@ -1,36 +1,3 @@
-<thinking>
-To avoid duplicated data and ensure accuracy, please review the form purpose and content before submitting. This form is designed to gather information from candidates for temporary agency positions. It captures essential details about the job, candidate, and screening process.
-
-The form consists of the following fields:
-
-1. **Job Title**: Enter the title of the job you're applying for.
-2. **Job Description**: Provide a brief description of the job, including its responsibilities and requirements.
-3. **Job Reference**: Enter a reference number or ID for the job (if applicable).
-4. **Job Status**: Select the status of the job: Active, Inactive, or Closed.
-5. **Job Type**: Choose the type of job: Full-Time, Part-Time, or Contract.
-6. **Job Category**: Select the category of the job: Sales, Marketing, or Engineering.
-7. **Job Skills**: Enter any specific skills required for the job (optional).
-8. **Candidate Name**: Enter the name of the candidate applying for the job.
-9. **Candidate Email**: Enter the candidate's email address (if applicable).
-10. **Candidate Phone**: Enter the candidate's phone number (if applicable).
-11. **Candidate Availability**: Enter the candidate's availability for the job (in the format 'YYYY-MM-DD').
-12. **Availability**: Enter the desired availability for the job (in the format 'HH:MM' or 'HH:MM AM/PM') (optional).
-13. **Role Fitting**: Enter how the candidate fits the job's requirements.
-14. **Candidate Fit**: Select whether the candidate is a good fit for the job: True or False.
-15. **Screening Outcome**: Select the outcome of the screening process: True or False.
-16. **Notes**: Add any additional notes about the candidate or job (optional).
-17. **Screening Comments**: Enter any comments about the screening process (optional).
-18. **Screening Outcome Comments**: Enter any comments about the screening outcome (optional).
-19. **Screening Outcome Notes**: Add any additional notes about the screening outcome (optional).
-20. **Screening Status**: Select the status of the screening process: Open, Screened, or Declined.
-21. **Screening Outcome 2**: Select the outcome of the second screening: True or False.
-22. **Screening Outcome 3**: Select the outcome of the third screening: True or False.
-23. **Screening Outcome 4**: Select the outcome of the fourth screening: True or False.
-24. **Screening Outcome 5**: Select the outcome of the fifth screening: True or False.
-
-Please fill out the form accurately and completely to ensure a successful and efficient interview process.
-</thinking>
-
 # Temp Agency Interview Form - Help Guide
 ## Purpose
 This form is designed to gather information from candidates for temporary agency positions, allowing for a thorough and efficient screening process.

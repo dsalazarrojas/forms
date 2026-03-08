@@ -1,13 +1,3 @@
-<thinking>
-We are creating a help guide for the "Applicant Portal Login Assistance Request" form, which is designed to collect information from applicants who are experiencing issues with logging in to the applicant portal. The form helps IT support staff provide timely and effective assistance by providing a structured way to gather necessary details about the issue. This guide will ensure that applicants know what to expect and how to complete the form correctly, making the support process smoother and more efficient.
-
-Before filling out the form, please note that:
-
-* You should only submit a request if you are experiencing a problem with logging in to the portal.
-* If you have already submitted a request, please do not resubmit. Our support team will follow up with you regarding your previous request.
-
-</thinking>
-
 # Applicant Portal Login Assistance Request - Help Guide
 ## Purpose
 The "Applicant Portal Login Assistance Request" form is a support request form designed to help applicants who are experiencing issues with logging in to the applicant portal. This form provides a structured way for applicants to describe their problem and for IT support staff to provide timely and effective assistance.

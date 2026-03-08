@@ -1,5 +1,3 @@
-<thinking>...The "Anonymous Bullying Reporting Form" aims to provide a safe and confidential channel for reporting bullying incidents in a school or workplace setting, allowing individuals to report incidents without fear of retaliation or retribution. This form will help identify the frequency and nature of bullying and inform authorities to take necessary actions to create a safe environment. It is recommended that you only report incidents that you are certain are bullying. Reporting false or non-existent incidents can hinder the investigation process and may lead to unnecessary consequences for the accused... </thinking>
-
 # Anonymous Bullying Reporting Form - Help Guide
 
 ## Purpose

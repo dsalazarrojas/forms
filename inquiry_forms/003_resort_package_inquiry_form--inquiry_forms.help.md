@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from users who are inquiring about resort packages. The form is designed to be simple and easy to use, but it's essential to ensure that the user provides accurate and complete information to get the most accurate and personalized responses from the resort staff.
-When filling out this form, users are not required to provide information on every field. However, please note that the more information provided, the better the resort staff can tailor their response to the user's needs.
-</thinking>
-
 # Resort Package Inquiry Form - Help Guide
 ## Purpose
 This form is used to gather information from users about their resort package inquiries. Please fill out the form accurately and completely to get the most helpful response from the resort staff.

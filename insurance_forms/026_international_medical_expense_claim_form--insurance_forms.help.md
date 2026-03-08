@@ -1,17 +1,3 @@
-<thinking>... internal reasoning block to verify form purpose and ensure non-duplication ...
-
-Form purpose: The form is designed to collect information for international medical expense claims. It appears to be a comprehensive form that covers various aspects of medical expenses, including medical information, claim details, and claimant information.
-
-Form non-duplication: The form has 25 fields, which might be excessive. Some fields seem to be redundant or similar in purpose. To ensure non-duplication, let's review each field and group them into categories or remove redundant fields.
-
-After reviewing the form, I've grouped fields into categories: Medical Information, Claim Details, Claimant Information, Financial, and Signatures & Attachments.
-
-Form purpose remains unchanged: This form is for international medical expense claims. Its primary goal is to gather necessary information for processing and resolving such claims.
-
-Non-duplication adjustments: I've kept all fields but removed redundant ones and grouped them for better understanding. Some fields' labels might be weak or unclear, but I've explained them best-effort.
-
-... </thinking>
-
 # international_medical_expense_claim_form - Help Guide
 ## Purpose
 This form is designed to collect information for international medical expense claims. It gathers essential details for processing and resolving such claims.

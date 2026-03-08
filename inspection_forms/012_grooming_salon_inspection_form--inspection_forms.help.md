@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Grooming Salon Inspection Form - Help Guide
 ## Purpose
 This form is used for salon owners and staff to report and record details about their grooming salon. The inspection will help identify areas of improvement and assess the overall cleanliness and professionalism of the salon.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide school bus drivers through a pre-trip inspection checklist, which is an essential safety measure to ensure the vehicle is in good condition before embarking on a trip. The form covers various aspects of the bus, including driver information, vehicle details, and safety equipment. It aims to standardize the inspection process, making it easy for drivers to follow and ensuring that all necessary safety checks are performed. By using this form, drivers can quickly and efficiently identify any potential issues and address them before the trip, reducing the risk of mechanical failures, accidents, or injuries.
-</thinking>
-
 # School Bus Pre Trip Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to assist school bus drivers in conducting a pre-trip inspection of their vehicle. It helps drivers identify potential safety issues and ensures that all necessary checks are completed before embarking on a trip.

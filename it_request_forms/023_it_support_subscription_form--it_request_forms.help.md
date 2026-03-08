@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect general information and support requests from users. It is not intended for urgent requests or emergency assistance. Please do not use this form for matters that require immediate attention. Before submitting the form, ensure you have not already submitted a similar request or issue.
-</thinking>
-
 # it_support_subscription_form - Help Guide
 ## Purpose
 The it_support_subscription_form is designed to collect general information and support requests from users. It helps us understand your needs and preferences, and enables us to provide you with the best possible support and guidance.

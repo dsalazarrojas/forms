@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture information regarding access requests for the Virtual Communication Platform. The main goal is to provide a structured way to request and track access to this platform. This form will help the requesting user provide necessary details about the request, such as the purpose of the request and the expected start and end dates. The requesting user will also be able to select the team members who should be granted access and provide any additional comments or reasons for the request. The manager of the platform will be able to review and approve the request, making any necessary adjustments before approving or rejecting the request. This form should be used by users to request access to the Virtual Communication Platform, and it is not intended to be a comprehensive resource request form. Therefore, users should not be using it for other purposes.
-</thinking>
-
 # Virtual Communication Platform Access Request - Help Guide
 ## Purpose
 The Virtual Communication Platform Access Request form is a tool used to submit requests for access to the Virtual Communication Platform. It helps in organizing and tracking access requests in a structured way.

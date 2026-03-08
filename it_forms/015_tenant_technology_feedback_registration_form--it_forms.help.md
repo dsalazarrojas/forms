@@ -1,5 +1,3 @@
-<thinking>...this form is used to gather feedback from tenants about the technology used in their unit...it is intended to help identify areas of improvement and ensure that the technology meets the needs of the tenants...the information gathered from this form will be used to inform future development and maintenance of the technology...</thinking>
-
 # Tenant Technology Feedback Registration Form - Help Guide
 ## Purpose
 The Tenant Technology Feedback Registration Form is a tool for tenants to provide feedback about the technology used in their unit. The information gathered from this form will help identify areas of improvement and inform future development and maintenance of the technology.

@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, I analyzed the YAML input and identified that it appears to be a request form for visual effects adjustments. The fields suggest that the form is used to collect information related to submissions, including dates, times, users, and file uploads, likely for administrative or reporting purposes.
-
-Upon further inspection, I noticed that the form has multiple pages and a variety of field types (text, date, time, email, select_one), which implies that the form is designed to be comprehensive and adaptable for different use cases.
-
-To check for duplication, I looked for similar forms or processes in the organization and found no exact matches, so it's possible that this form is a custom or project-specific solution.
-
-Based on these findings, the purpose of this form appears to be for users to request visual effects adjustments, and the form is designed to collect relevant information for processing and tracking these requests.
-
-</thinking>
-
 # Visual Effects Adjustment Request Form - Help Guide
 ## Purpose
 The Visual Effects Adjustment Request Form is a comprehensive form used to request visual effects adjustments for submissions. This form is designed to collect necessary information for administrative or reporting purposes.

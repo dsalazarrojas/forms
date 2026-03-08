@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate an organization's backup procedure practices. It is meant to help assessors evaluate the effectiveness of the backup process in place within an organization. This form can be used by IT professionals or other individuals responsible for maintaining the organization's backup and recovery procedures.
-The form is meant to be used to identify areas of improvement and potential risks or gaps in the backup process.
-</thinking>
-
 # Backup Procedure Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess an organization's backup procedure practices and identify areas of improvement.

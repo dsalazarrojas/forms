@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Alarm Inspection Checklist Form - Help Guide
 
 ## Purpose

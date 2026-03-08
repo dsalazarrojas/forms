@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information about a maintenance service company's company information, contact details, services offered, payment terms, and other relevant data. However, it's not entirely clear why some fields have been duplicated (e.g., `key_personnel`, `key_personnel_title`, `key_personnel_email`, etc.). It would be best to review the original YAML file with the development team to understand the reasoning behind this design.
-</thinking>
-
 # Maintenance Service Company Information Intake Form - Help Guide
 ## Purpose
 This guide is intended to help you complete the Maintenance Service Company Information Intake Form. This form is designed to collect information about your company, including its contact details, services offered, and other relevant data.

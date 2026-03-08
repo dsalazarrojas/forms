@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block for form purpose and checks for relevance and non-duplication ... </thinking>
-
 # Lymph Node Swelling Evaluation Form - Help Guide
 ## Purpose
 The Lymph Node Swelling Evaluation Form is designed to collect patient information regarding swollen lymph nodes. This form helps healthcare professionals assess the severity and characteristics of swollen lymph nodes, enabling them to make informed decisions for diagnosis and treatment.

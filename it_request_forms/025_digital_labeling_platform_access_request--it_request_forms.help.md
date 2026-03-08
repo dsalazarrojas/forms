@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to create a new access request for the Digital Labeling Platform. This form is typically used by users who wish to access the platform for their projects. The form is designed to collect information about the requester, their project, and their agreement to terms and conditions of the platform. This information will be used to validate the request and ensure that the user is properly trained and authorized to use the platform.
-
-Before proceeding, please make sure that you have not already submitted a request for access to the Digital Labeling Platform or that your project is not already listed as active. Duplicate requests may cause confusion and delays in project processing.
-
-This form is designed to be completed in a few minutes, and it is recommended to have all necessary information readily available to ensure that you can submit the form quickly and accurately.
-</thinking>
-
 # Digital Labeling Platform Access Request - Help Guide
 ## Purpose
 This form is used to request access to the Digital Labeling Platform for your project. Please fill out this form to provide us with the necessary information about yourself and your project.

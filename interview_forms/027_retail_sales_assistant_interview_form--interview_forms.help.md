@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help store information about candidates applying for a retail sales assistant position. The form is typically filled out by candidates and used to collect relevant details about their background and qualifications. Before proceeding, please confirm that you are a candidate applying for this position and that this form is not a duplicate of one you've already completed.
-</thinking>
-
 # Retail Sales Assistant Interview Form - Help Guide
 
 ## Purpose

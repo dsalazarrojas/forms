@@ -1,7 +1,3 @@
-<thinking>... internal purpose of this form is to gather information about the safety inspection of a vehicle, including its condition, safety status, and inspection results. This information is crucial for the maintenance and upkeep of the vehicle, as well as for regulatory compliance. By using this form, the user will be able to evaluate the vehicle's safety and condition, identify any issues or concerns, and create an action plan to address them. To fill out this form, you do not need to be an expert in vehicle safety inspection, and it is recommended to review and follow the guidelines below.
-
-</thinking>
-
 # Vehicle Safety Inspection Checklist - Help Guide
 ## Purpose
 This form is used to document the results of a vehicle safety inspection. It includes information on the condition, safety status, and other relevant details of the vehicle.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # BHAVESHDAS VAISHNAV Curriculum Vitae - Help Guide
 
 ## Purpose

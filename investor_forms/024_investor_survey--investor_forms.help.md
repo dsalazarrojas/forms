@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for investors to provide feedback and input on various aspects of an investment project or proposal. The purpose of this form is to gather information from investors about their interests, expectations, and opinions on different aspects of the project. This form will help the project team understand the investor's perspective and make informed decisions accordingly.
-
-To avoid duplication of effort, please review the form carefully and fill it out only once. Your input will contribute significantly to the success of the project, so take a few minutes to provide thoughtful and comprehensive responses.
-
-This form is divided into several sections, each with multiple fields. Some fields may have options or prompts that will guide your responses. Please answer all required fields and provide as much detail as possible in optional fields.
-
-</thinking>
-
 # investor_survey - Help Guide
 ## Purpose
 The investor_survey form is designed to gather input from investors on various aspects of an investment project or proposal.

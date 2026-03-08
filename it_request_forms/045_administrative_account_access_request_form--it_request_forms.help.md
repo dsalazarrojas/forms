@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by staff members or users to request access to administrative accounts within an organization. This form is meant to be filled out by the person requesting access, providing necessary information about themselves and the reason for the access request. 
-This form serves as a template to ensure consistency and clarity in access requests, which can be reviewed and approved by a manager. The manager's approval is a required step in the process. 
-To avoid duplication, staff members should only submit one form per request, and the system will handle the subsequent process and updates. 
-</thinking>
-
 # Administrative Account Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to administrative accounts within the organization. It captures essential information to facilitate the review and approval process.

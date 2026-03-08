@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose, which is to collect necessary information about a pet's medical condition and treatment. To do this, we need to verify that the form is not being used for any other purpose, such as general contact information or marketing purposes. We also want to avoid duplication of effort by ensuring that the fields are not redundant or unnecessary. With this in mind, let's create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Pet Medical Admission Form - Help Guide
 ## Purpose
 The purpose of this form is to collect important information about a pet's medical condition and treatment. This information helps our veterinarians understand the pet's needs and provide the best possible care.

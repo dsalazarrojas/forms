@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from agents who need to submit data on behalf of others. It's designed to gather basic contact information, job title, and submission details. The submission type is crucial for the system to understand the nature of the submission correctly. The form will only be accessible to authorized individuals. The submission date is also critical for tracking purposes. To prevent duplicate submissions, we should ensure each unique reference number is only entered once.
-</thinking>
-
 # Agent Submission Form - Help Guide
 ## Purpose
 The Agent Submission Form is used to collect information from agents who need to submit data on behalf of others. This form is essential for tracking and managing submissions efficiently.

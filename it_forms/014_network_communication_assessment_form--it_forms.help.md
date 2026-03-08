@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to assess an individual's perception of the network communication practices within their team or department. The form aims to gather information on how often team members communicate with each other, the channels they use for communication, and their satisfaction with the response times for different communication methods. This form is likely to be used by team leaders or managers to understand the state of team communication and identify areas for improvement.
-
-Before proceeding, please ensure that you have completed this form before and do not need to repeat the assessment. If you have already completed this form, please contact the form administrator to discuss any changes or updates.
-
-</thinking>
-
 # network_communication_assessment_form - Help Guide
 ## Purpose
 This form is used to gather information on network communication practices, communication channels, and response times within a team or department.

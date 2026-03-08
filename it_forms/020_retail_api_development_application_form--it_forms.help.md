@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to provide information about their retail API development needs, such as user details, API type, access level, company, and contact information. This form is likely used for internal purposes, possibly for tracking or processing requests for API access. The goal of this form is to collect relevant data from users to facilitate efficient communication and resource allocation for API development purposes. This form may not be intended for public consumption, and its purpose is likely internal to the organization or team managing the API. It's essential to ensure the form is completed accurately and thoroughly, as the provided data will be used to make informed decisions about API access and development.
-
-</thinking>
-
 # Retail API Development Application Form - Help Guide
 ## Purpose
 The Retail API Development Application Form is a tool used to gather information from users about their retail API development needs. This form helps us understand the requirements and details necessary for our team to develop and provide effective API support.

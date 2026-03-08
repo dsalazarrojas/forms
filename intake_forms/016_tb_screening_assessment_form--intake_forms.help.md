@@ -1,7 +1,3 @@
-<thinking>
-The "tb_screening_assessment_form" is a critical component in the intake process for identifying potential cases of tuberculosis (TB) in patients. This form is used to gather essential information about the patient's medical history, symptoms, and contact information. It is crucial that the form is completed accurately to ensure that patients receive the best possible care and to prevent the spread of TB. It is also important to note that some fields in this form are required, as indicated by the "required" field in the YAML schema. This ensures that patients do not leave any critical information out, which is necessary for proper assessment and diagnosis.
-</thinking>
-
 # tb_screening_assessment_form - Help Guide
 ## Purpose
 The tb_screening_assessment_form is used to gather essential information about patients suspected of having tuberculosis. This form helps healthcare providers identify potential TB cases and ensure accurate diagnosis and treatment.

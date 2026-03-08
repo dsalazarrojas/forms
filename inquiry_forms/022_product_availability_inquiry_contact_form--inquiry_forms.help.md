@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from customers regarding product availability. It is meant to be used by customers to inquire about the availability of a specific product. The form will be used by sales representatives to gather information about the customer's needs and preferences, and to respond accordingly.
-To ensure that the form is used correctly, please make sure to fill out all required fields and provide accurate information. If you have any doubts or questions about the form, please contact our support team.
-
-</thinking>
-
 # Product Availability Inquiry Contact Form - Help Guide
 
 ## Purpose

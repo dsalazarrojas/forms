@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for insurance claim review and approval purposes. The fields are intended to gather details about the policyholder and their claim, including the incident date and time, insurance provider, policy number, and other relevant contact information. This form is meant to be completed by the policyholder to provide accurate and complete information to facilitate a thorough review and approval process. 
-</thinking>
-
 # Insurance Claim Review Approval Form - Help Guide
 
 ## Purpose

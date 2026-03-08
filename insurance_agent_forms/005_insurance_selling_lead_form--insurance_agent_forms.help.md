@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information from potential customers about their insurance needs. It's essential to understand the form's purpose and ensure that users fill it out correctly to provide accurate and useful data. Before creating this guide, let's confirm that the form's purpose and requirements are clear.
-</thinking>
-
 # insurance_selling_lead_form - Help Guide
 ## Purpose
 The insurance_selling_lead_form is designed to collect information about potential insurance customers, including their personal and insurance-specific details. This form helps insurance agents to understand the customers' needs and preferences, enabling them to provide tailored assistance and guidance.

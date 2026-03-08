@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees who request privacy shields for their workstations. The purpose of this form is to streamline the approval process for privacy shields, ensuring that all necessary fields are completed accurately and efficiently. This form is part of the internal process to safeguard sensitive data and protect individual privacy. Before proceeding, ensure you have the necessary permissions and approvals in place. Duplicate submissions will be removed to avoid confusion and ensure that only the latest version of the form is processed.
-</thinking>
-
 # Workstation Privacy Shield Enrollment Form - Help Guide
 ## Purpose
 The Workstation Privacy Shield Enrollment Form is used to collect information for employees who request privacy shields for their workstations. This form is a crucial part of the internal process to ensure that sensitive data is protected and individual privacy is maintained.

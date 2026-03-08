@@ -1,5 +1,3 @@
-<thinking>...This form is designed to help users submit requests for hybrid learning support. Hybrid learning combines traditional face-to-face instruction with online or digital learning methods. This form allows learners to report issues or problems they are experiencing with hybrid learning, which will be reviewed and addressed by support staff. Please ensure that you have not already submitted a request for the same issue before filling out this form...</thinking>
-
 # Hybrid Learning Support Desk Request Form - Help Guide
 ## Purpose
 

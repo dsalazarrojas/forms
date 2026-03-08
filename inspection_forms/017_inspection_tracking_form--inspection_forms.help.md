@@ -1,7 +1,3 @@
-<thinking>
-This form is used for tracking inspections, providing a structured format for collecting and recording information related to inspections. It is designed to be a general-purpose form for capturing various types of inspection data, including form titles, categories, and descriptions. The fields on this form are meant to be filled out based on the specific needs and requirements of the inspection being tracked.
-</thinking>
-
 # inspection_tracking_form - Help Guide
 ## Purpose
 This form is used to track and record inspection data in a structured format. It captures information such as the form title, category, description, and other relevant details.

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to be used by end users to understand the Hybrid Job Interview Form, which is used to collect information about job interviews. This form should only be filled out by authorized personnel, and not by individuals who are not relevant to the job or interview process. The form is likely used for internal HR purposes, such as tracking employee interviews or job postings. To ensure data accuracy and consistency, please ensure that the form is only filled out by those who have a legitimate reason to do so. 
-
-Please note that some fields may be required or optional, as indicated in the form configuration. The user is advised to fill out all required fields accurately and thoroughly to ensure that the data is recorded correctly.
-
-</thinking>
-
 # Hybrid Job Interview Form - Help Guide
 ## Purpose
 The Hybrid Job Interview Form is used to collect and record information about job interviews, including interview schedules, participants, and job details.

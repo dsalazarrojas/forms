@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive user-facing help guide for the Chiropractic Intake Form. This guide will ensure users understand the form's purpose, how to complete it, and what each field means. I'll use the provided YAML fields to provide clear and concise explanations.</thinking>
-
 # Chiropractic Intake Form - Help Guide
 
 ## Purpose

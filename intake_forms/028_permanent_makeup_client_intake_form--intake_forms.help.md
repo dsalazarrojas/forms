@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for clients to provide their personal information, medical history, and preferences for permanent makeup procedures. The form should be used to gather relevant data that will help the permanent makeup artist understand the client's needs and provide the best possible service. Please ensure that the form is filled out completely and accurately to avoid any potential complications during the treatment.
-
-Before filling out this form, make sure to review the questions carefully and answer them as thoroughly as possible. This will help the permanent makeup artist provide the best possible service.
-
-</thinking>
-
 # Permanent Makeup Client Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients about their personal details, medical history, and preferences for permanent makeup procedures. 

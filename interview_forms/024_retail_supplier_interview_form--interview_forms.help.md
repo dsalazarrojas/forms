@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # retail_supplier_interview_form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a reported scam link, including its URL, description, and context. It is intended to be used by individuals who have encountered a suspected scam link and want to report it to the relevant authorities or organization. The form is divided into several sections, each with its own purpose. Before submitting the report, please make sure to fill in all relevant fields accurately and thoroughly.
-
-</thinking>
-
 # Scam Link Report Form - Help Guide
 ## Purpose
 The Scam Link Report Form is a tool used to report suspected scam links to relevant authorities or organizations. It helps in gathering information about the link, its context, and other relevant details to aid in its investigation and potential removal.

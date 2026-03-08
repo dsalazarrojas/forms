@@ -1,9 +1,3 @@
-<thinking>
-
-This form is an Executive Interview Assessment Form used to gather information about a candidate for an executive position. To ensure consistency and accuracy, please only complete this form for executives and not for other roles. Before starting, verify that you have all the necessary information about the candidate and that you are not duplicating existing data.
-
-</thinking>
-
 # Executive Interview Assessment Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to check the document watermark status. The form helps users determine whether a document has a watermark and where it is located. The form asks users to select the document's status, location, and other related information. This form is likely used by document management or administrative personnel to verify the authenticity of documents before they are used or shared.
-</thinking>
-
 # Document Watermark Check Form - Help Guide
 ## Purpose
 The Document Watermark Check Form is a tool used to check if a document has a watermark and other relevant information about the document.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tailboard_meeting_form - Help Guide
 ## Purpose
 The tailboard_meeting_form is used to capture information about a meeting, including location, participants, any issues that arose, and details about who it was assigned to.

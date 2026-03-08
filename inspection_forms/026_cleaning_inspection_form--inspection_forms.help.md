@@ -1,29 +1,3 @@
-<thinking>
-
-This form is designed to assist inspectors in documenting and reporting on the findings of cleaning inspections of properties. The form is a comprehensive tool to evaluate the overall cleanliness and condition of a property, identify any issues or concerns, and determine the necessary cleaning services required to address these concerns.
-
-To complete the form, the inspector will:
-
-1. Enter the client's name and property address.
-2. Select the date of the inspection.
-3. Provide their own name.
-4. Choose the type of property being inspected.
-5. Report on the property's size (square footage).
-6. Evaluate the overall condition of the property, including cleanliness, floors, walls, windows, bathrooms, and kitchen areas.
-7. Identify any noticeable odors, pest evidence, and mold or mildew presence.
-8. List any property damage or safety concerns.
-9. Determine the cleaning priority level (routine, elevated, high, or urgent).
-10. Select all recommended cleaning services.
-11. Provide any special equipment needed.
-12. List any access restrictions or special instructions.
-13. Estimate the time required for cleaning.
-14. Choose the recommended crew size.
-15. Enter any additional recommendations or comments.
-16. Indicate if a follow-up inspection is required.
-17. Sign the form with their full name.
-
-</thinking>
-
 # Cleaning Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a comprehensive assessment of a property's cleanliness and condition, identify any issues or concerns, and determine the necessary cleaning services required to address these concerns.

@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Web Development Payment Form", I will follow these steps:
-
-1. Analyze the form's purpose and requirements.
-2. Extract relevant information from the YAML schema.
-3. Use the extracted information to create the help guide in Markdown format.
-
-The form is designed to collect information from clients or customers for web development projects. The form will likely be used by business development teams or project managers to gather essential details for project planning, budgeting, and communication.
-
-</thinking>
-
 # Web Development Payment Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients or customers for web development projects, including project details, payment preferences, and contact information.

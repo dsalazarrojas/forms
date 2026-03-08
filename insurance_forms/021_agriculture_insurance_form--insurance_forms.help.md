@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or businesses that require agriculture insurance. The form has two main sections: Applicant Information and Coverage Details. This form is intended to be used by farmers, ranchers, or business owners who need to get coverage for their farming operations. It should only be used for agricultural-related purposes and not for other types of insurance needs. The form is designed to be filled out by the policyholder who will be applying for insurance. It will be reviewed by an insurance professional before approval or rejection of the policy. Please note that the form has been designed in a way that it is easy to understand and fill out by the policyholder. If you are not sure about any of the information asked, you can ask for help.
-
-</thinking>
-
 # Agriculture Insurance Form - Help Guide
 ## Purpose
 This form is designed to collect information from farmers, ranchers, or business owners who need agricultural insurance. It will be used by insurance professionals to determine the best coverage options for you based on your operations and needs.

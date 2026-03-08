@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for business coverage renewal and check up, likely for insurance purposes. This form is for business owners or representatives to provide accurate and up-to-date information about their company, including contact details, business type, and insurance coverage specifics. This form is likely to be used by insurance providers or underwriters to assess and update business coverage accordingly.
-</thinking>
-
 # Renewal And Check Up Worksheet  - Business Coverage - Help Guide
 ## Purpose
 This form is designed to collect information for business coverage renewal and check-up. Please provide accurate and up-to-date information about your business to ensure seamless insurance coverage.

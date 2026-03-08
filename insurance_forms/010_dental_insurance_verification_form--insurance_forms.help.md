@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to verify dental insurance information for patients. This form likely serves as a tool for healthcare providers to collect and verify patient's insurance details, ensuring accurate and up-to-date information for billing and claim purposes.
-The form collects various pieces of information related to the patient's insurance, including their personal details, insurance provider, policy number, effective and end dates, status, billing and payment information, and claims status.
-This form appears to be designed to accommodate multiple providers and policies, allowing for the verification of various insurance details.
-</thinking>
-
 # dental_insurance_verification_form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for claimants to file an insurance claim for an Airbag Control Unit issue. This form will help to gather the necessary information for the insurance provider to process the claim. Please make sure that this form is being used for the intended purpose and that all information is accurate and up-to-date. If you have already submitted a claim, please do not submit this form again.
-</thinking>
-
 # Airbag Control Unit Claim Form - Help Guide
 ## Purpose
 This form is used to file an insurance claim for an Airbag Control Unit issue. The claimant must provide accurate and relevant information to support their claim.

@@ -1,14 +1,3 @@
-<thinking> 
-This form is a Church Background Check Form, designed to collect information from applicants for potential employment, volunteering, or other church-related activities. The purpose of this form is to gather relevant background information about the applicant, including contact details, employment history, and criminal history. 
-
-Before starting this form, please ensure that you have reviewed the church's policies and procedures and that you understand the required fields. This form should not be completed by applicants if they have not been authorized to do so by the church's administration. 
-
-The form will be reviewed and evaluated in conjunction with other information collected during the application process. The results of this form will not be shared with any third party without the applicant's explicit consent. 
-
-Please note that some fields are marked as "required", and these fields must be filled out to progress through the form. 
-
-</thinking>
-
 # Church Background Check Form - Help Guide
 
 ## Purpose

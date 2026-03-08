@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "iso_security_exam_quiz" form, I'll start by analyzing the provided YAML field structure. This form appears to be a complex security-related quiz, designed to test the knowledge and understanding of various security concepts and principles.
-
-The primary purpose of this form is to assess the user's knowledge and skills in different areas of security, which seems to be a crucial part of the organization's security assessment process. The quiz is divided into multiple pages, each with a distinct label and type of question.
-
-To confirm the form's relevance and avoid duplication, I'll review the internal documentation and business requirements to ensure that this form aligns with the organization's security standards and guidelines. This includes verifying that the form's questions and sections are consistent with the existing security protocols and policies.
-
-Assuming the form is relevant and non-duplicate, I'll proceed with creating the help guide.</thinking>
-
 # iso_security_exam_quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and understanding of various security concepts and principles. It is a multiple-page quiz that tests your skills in different areas of security.

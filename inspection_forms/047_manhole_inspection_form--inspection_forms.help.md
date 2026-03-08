@@ -1,5 +1,3 @@
-<thinking>Manhole Inspection Form is used for documenting and tracking the inspection of manholes. This form is used to capture the necessary information regarding the condition and inspection status of manholes. To ensure accurate and consistent completion, please review the form carefully and ensure you are providing the correct information.</thinking>
-
 # Manhole Inspection Form - Help Guide
 ## Purpose
 The Manhole Inspection Form is used to document and track the inspection of manholes.

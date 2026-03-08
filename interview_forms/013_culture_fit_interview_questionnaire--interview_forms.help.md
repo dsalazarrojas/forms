@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's work history and contact details. It is used to determine the cultural fit of a candidate for a job or project. This form is not intended for general users and should only be filled out by individuals who are responding to a job posting or have been asked to fill out this form by their employer or HR representative. Please ensure that you have been authorized to fill out this form before proceeding.
-</thinking>
-
 # Culture Fit Interview Questionnaire - Help Guide
 ## Purpose
 The Culture Fit Interview Questionnaire is a form used to collect information about an individual's work history and contact details. It is intended for individuals responding to job postings or filling out the form at the request of their employer or HR representative.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the condition and installation of asphalt shingles on a roof. The purpose of this form is to help inspectors document their findings and provide a comprehensive report for clients or roofing companies. This form is intended for use by roofing inspectors and contractors who need to evaluate the quality and condition of asphalt shingles on a roof.
-</thinking>
-
 # Asphalt Shingles Inspection Form - Help Guide
 ## Purpose
 This form is designed to gather detailed information about the condition and installation of asphalt shingles on a roof.

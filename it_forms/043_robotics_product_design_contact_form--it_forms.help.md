@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users who want to submit a project proposal for a robotics product design project. This form will help the project team to understand the project requirements, robot type, project duration, deadline, and other relevant details. It is not meant to be used for other purposes, such as reporting or inquiry.
-Before proceeding, please ensure that you have a clear project proposal in mind and that the information you provide is accurate and relevant to the project.
-</thinking>
-
 # robotics_product_design_contact_form - Help Guide
 ## Purpose
 This form collects information from users who want to submit a project proposal for a robotics product design project.

@@ -1,9 +1,3 @@
-<thinking> 
-  To ensure the accuracy and completeness of the credential verification process, it is essential to have a well-defined and user-friendly form that guides insurance agents through the necessary steps. This guide will cover the Agent Credentials Verification Form, a crucial tool used to gather critical information about insurance agents. The form is divided into several sections, each focusing on a specific aspect of an agent's credentials, such as license information, education, and employment history. It is vital to complete this form accurately and thoroughly to facilitate efficient verification.
-
-  Please note that some fields are marked as optional or have specific options. Be sure to only input relevant information in these fields, as unnecessary data may cause delays or inaccuracies in the verification process.
-</thinking>
-
 # Agent Credentials Verification Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is for investors to apply for an investment portfolio opening. The form is designed to collect contact information and risk-related details from potential investors. It includes a variety of fields such as contact name, email, phone number, address, city, state, zip, risk tolerance, risk capital, risk return, account number, account type, account holder, additional information, terms and conditions, terms and conditions check, agreement check, signature, signature type, agreement date, and contact agreement. This form is required for all potential investors to apply for an investment portfolio opening.
-</thinking>
-
 # investment_portfolio_opening_application_form - Help Guide
 ## Purpose
 The investment portfolio opening application form is a crucial document for potential investors to submit their information and application for an investment portfolio opening. This guide will walk you through the form's fields, purpose, and completion instructions to ensure a smooth application process.

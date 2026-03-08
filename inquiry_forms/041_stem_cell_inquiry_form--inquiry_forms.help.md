@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of the Stem Cell Inquiry Form, we can look at the form's fields and their types. It appears to be a form for inquiring about stem cells, which could be used to collect information for research, patient treatment, or staff inquiries. The form has fields for patient information, contact details, and submission information. The required fields include patient name, email, patient ID, inquiry type, and stem cell type, indicating that these are essential details needed for the inquiry. 
-</thinking>
-
 # Stem Cell Inquiry Form - Help Guide
 ## Purpose
 The Stem Cell Inquiry Form is a tool used to collect information for various inquiries related to stem cells. This form helps in gathering details about patients, staff, or public inquiries.

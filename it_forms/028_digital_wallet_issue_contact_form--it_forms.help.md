@@ -1,10 +1,3 @@
-<thinking>
-This form is a Digital Wallet Issue Contact Form designed to collect information from users about digital wallet-related issues. The form is intended to be used by customers who are experiencing difficulties with their digital wallet functionality. It is crucial that users fill out the form accurately and completely to ensure that the issue is properly documented and addressed.
-
-Before filling out this form, please ensure that you have not already submitted a report for this issue. Filling out duplicate reports can cause unnecessary delays and confusion in the issue resolution process.
-
-</thinking>
-
 # Digital Wallet Issue Contact Form - Help Guide
 ## Purpose
 This form is used to report digital wallet-related issues. Please use this form to provide a detailed description of the issue you are experiencing, along with any supporting documentation such as screenshots.

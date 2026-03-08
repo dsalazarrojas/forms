@@ -1,7 +1,3 @@
-<thinking>
-We'll be designing a help guide for the Fire Alarm Testing Notice Request Form. This form is likely intended for building or facility managers to request testing services for fire alarm systems. The form will likely be used to provide essential information for scheduling and performing fire alarm system testing, ensuring that the systems are in good working order. It's essential to complete the form accurately to avoid any confusion or miscommunication. Before filling out the form, please ensure you have all the necessary details and that you are authorized to submit the request on behalf of the property.
-</thinking>
-
 # Fire Alarm Testing Notice Request Form - Help Guide
 ## Purpose
 The Fire Alarm Testing Notice Request Form is used to request testing services for fire alarm systems in your property. Please use this form to provide essential information for scheduling and performing fire alarm system testing.

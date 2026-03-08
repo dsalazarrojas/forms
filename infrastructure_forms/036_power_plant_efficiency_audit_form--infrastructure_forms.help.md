@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help power plant operators and engineers assess the efficiency of a power plant. It's a comprehensive form that covers various metrics related to the plant's performance. The purpose of this form is to gather data on the plant's capacity, operating temperature, cooling water usage, steam usage, and other key performance indicators. This form can help users identify areas for improvement and optimize the plant's efficiency. By completing this form, users can ensure that all relevant data is collected and analyzed to make informed decisions about the plant's operations.
-
-</thinking>
-
 # Power Plant Efficiency Audit Form - Help Guide
 ## Purpose
 This form is designed to help power plant operators and engineers assess the efficiency of a power plant.

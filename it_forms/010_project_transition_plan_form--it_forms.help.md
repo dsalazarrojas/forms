@@ -1,8 +1,3 @@
-<thinking>
-The Project Transition Plan Form is a crucial tool for project managers to document and track the transition of projects between different stakeholders or phases of the project lifecycle. This form is used to ensure that all relevant information is captured and reviewed before transitioning the project. It's essential to fill out this form accurately and completely to avoid any potential issues that might arise during the transition.
-Please make sure to fill out this form only once the project is ready for transition and that all required fields are filled out correctly. If you're unsure about any field or have questions, please reach out to the project team for clarification.
-</thinking>
-
 # Project Transition Plan Form - Help Guide
 ## Purpose
 The Project Transition Plan Form is used to document and track the transition of projects between different stakeholders or phases of the project lifecycle.

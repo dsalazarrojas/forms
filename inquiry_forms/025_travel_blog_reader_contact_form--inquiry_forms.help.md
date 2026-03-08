@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow users to contact the travel blog with their inquiry, feedback, or collaboration request. The purpose of this form is to provide a convenient way for readers to get in touch with the blog owner or author. The form is intended for general inquiries and is not for booking or making reservations for specific trips or services.
-
-To avoid duplication, users are encouraged to check the blog's FAQ section or contact page for information on common questions and concerns before submitting a contact form. If you're unsure whether your inquiry falls under one of the listed categories, please select "Other" from the "Type of inquiry" field.
-
-</thinking>
-
 # Travel Blog Reader Contact Form - Help Guide
 
 ## Purpose

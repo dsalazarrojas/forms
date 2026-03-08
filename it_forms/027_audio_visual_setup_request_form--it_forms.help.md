@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the Audio Visual Setup Request Form, let's quickly review its purpose and relevance. This form is designed to gather information from users requesting setup of audio-visual equipment for meetings, presentations, or other events. It's essential to ensure that the form is completed accurately and thoroughly to guarantee the proper execution of these requests. To prevent duplication, please review the form carefully and only submit new requests that haven't been made before.</thinking>
-
 # Audio Visual Setup Request Form - Help Guide
 ## Purpose
 This form is used to gather information for setup of audio-visual equipment for meetings, presentations, or other events. Please fill out this form accurately to ensure that your request is processed correctly.

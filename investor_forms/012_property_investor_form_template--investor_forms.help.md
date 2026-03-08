@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from property investors, capturing key details about their investment activities. It is a comprehensive form that covers various aspects of property investment, including the property's status, location, price, and agreement details. The form is intended to be completed by investors, property managers, or other stakeholders involved in property investment activities. To ensure accurate and consistent completion of the form, it is recommended to follow the instructions carefully and ensure that all required fields are filled in.
-
-Before starting to fill out the form, please review the following instructions:
-
-*   Each page of the form has a unique ID and label for easy identification.
-*   All fields are labeled with a brief description to help with understanding their purpose.
-*   Some fields are marked as "required", indicating that they need to be filled in for the form to be complete.
-*   Some fields are marked as "select_one" or "select_multiple", which means you need to choose one or multiple options from the available choices.
-*   Some fields are marked as "date", "time", or "text", indicating the type of information expected in that field.
-
-</thinking>
-
 # Property Investor Form Template - Help Guide
 ## Purpose
 The Property Investor Form Template is designed to collect information from property investors, capturing key details about their investment activities. It is a comprehensive form that covers various aspects of property investment, including the property's status, location, price, and agreement details.

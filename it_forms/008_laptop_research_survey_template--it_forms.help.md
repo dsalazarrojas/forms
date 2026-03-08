@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's laptop usage habits and preferences. It's meant to be filled out by individuals who use laptops regularly. To ensure that the form is completed accurately and relevantly, please make sure you're currently or have recently used a laptop.
-</thinking>
-
 # Laptop Research Survey Template - Help Guide
 ## Purpose
 This form is designed to gather insights into users' laptop usage habits, preferences, and purchasing behavior. The collected data will help us better understand how people use their laptops and what features they value most.

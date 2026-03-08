@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to collect information from customers or users who want to integrate their products on our digital shelf. The form is designed to collect essential details about the product, company, and user, and to track the status of their integration requests. It's essential that the form is filled out accurately and completely to ensure that the integration request is processed correctly and efficiently. Please note that this form should only be filled out by the actual requestor, and not by third-party agents or automated systems. If you're not sure about any of the information required, please reach out to our support team for clarification. Also, be aware that incomplete or duplicate submissions may be flagged for review and potentially rejected. 
-</thinking>
-
 # Digital Shelf Integration Request Form - Help Guide
 
 ## Purpose

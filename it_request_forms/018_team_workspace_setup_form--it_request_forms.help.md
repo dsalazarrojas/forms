@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Workspace Setup Form - Help Guide
 ## Purpose
 The Team Workspace Setup Form is a setup form used to collect information from teams to better understand their needs and preferences for team workspaces. This form helps IT teams to configure the workspace settings based on the team's requirements and needs. The form is used to determine team leads, team members, workspace setup details, collaboration needs, access requests, data centralization, and standardization of access.

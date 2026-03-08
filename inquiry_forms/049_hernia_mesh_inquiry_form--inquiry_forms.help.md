@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients or their representatives to inquire about hernia mesh complications or concerns. It helps medical offices and support teams track and respond to such inquiries efficiently. The form is not meant for scheduling routine check-ups or appointments. Please note that the form will be reviewed and verified by medical staff before any action is taken.
-</thinking>
-
 # Hernia Mesh Inquiry Form - Help Guide
 ## Purpose
 The Hernia Mesh Inquiry Form is designed for patients or their representatives to report concerns or complications related to hernia mesh implants.

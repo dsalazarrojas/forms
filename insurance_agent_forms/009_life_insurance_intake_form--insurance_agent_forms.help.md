@@ -1,12 +1,3 @@
-<thinking>
-We need to create a help guide for the "life-insurance-intake-form" form, which is used for users to input information about a life insurance policy. This form is likely used by insurance agents or representatives to gather information from customers to process their life insurance requests.
-
-The purpose of this form is to collect relevant details about the customer's life insurance policy, such as the type of policy, coverage amount, premium, start and end dates, and status. This information will help the insurance agent to process the customer's request efficiently and accurately.
-
-Before we begin, let's make sure that we're not duplicating any existing help guides or forms. This form is specifically designed for life insurance policies, so it's unlikely that we'll need to cross-reference any other forms.
-
-Now that we've confirmed the form's purpose and uniqueness, let's create the help guide!</thinking>
-
 # life-insurance-intake-form - Help Guide
 ## Purpose
 This guide will walk you through completing the life-insurance-intake-form, which is used to gather information about a life insurance policy.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect applications from individuals interested in participating in a digital optimization internship. It is designed to gather relevant information from applicants, including contact details, skills, and work experience. Please note that this form is a public, AI-generated adaptation of a survey template and is not affiliated with any specific form platform.
-</thinking>
-
 # Digital Optimization Internship Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect applications from individuals interested in participating in a digital optimization internship. This form is designed to be completed by individuals who want to showcase their skills and qualifications for the internship.

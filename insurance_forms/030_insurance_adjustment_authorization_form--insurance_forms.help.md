@@ -1,5 +1,3 @@
-<thinking>...The purpose of the "Insurance Adjustment Authorization Form" is to gather relevant information from a user to process a claim or payment adjustment. This form helps ensure accuracy and completeness in the adjustment process. To fill out this form correctly, please make sure to have all necessary information and details ready. This form typically serves as a template for internal use, but its contents will be reviewed and validated by a representative of the insurance company. Ensure that you provide accurate and clear information in all fields to avoid delays or complications in the adjustment process.</thinking>
-
 # Insurance Adjustment Authorization Form - Help Guide
 
 ## Purpose

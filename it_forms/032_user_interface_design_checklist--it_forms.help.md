@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help designers evaluate and improve the user interface of a website or application by considering various design principles and factors. The form aims to assess the usability, accessibility, and overall user experience of the interface. The goal is to provide a comprehensive checklist for designers to identify areas for improvement and track their progress.
-
-Before proceeding, please note that this form is a non-technical tool and does not assess the functionality or technical aspects of the interface. It focuses on the visual and interactive aspects that impact user experience.
-
-Please fill out this form carefully and honestly to get an accurate evaluation of your design. This will help you create a more user-friendly and efficient interface.
-
-</thinking>
-
 # User Interface Design Checklist - Help Guide
 ## Purpose
 This form is a self-assessment tool for designers to evaluate and improve the user interface of a website or application. It checks for adherence to design principles such as usability, accessibility, and visual hierarchy.

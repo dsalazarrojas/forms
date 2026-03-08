@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to review and manage insurance policies. It is used for scheduling appointments related to policy reviews, and each field is designed to capture specific information necessary for this process.
-
-To avoid duplication and ensure the form's purpose is relevant, let's review the form's properties:
-
-* The form title is "insurance_policy_review_appointment_form_template", which is a clear indication of its purpose.
-* The form has fields for policy owner name, policy number, contact name, contact email, contact phone, appointment date, and appointment time, which are all relevant to scheduling an appointment for policy review.
-* The form also has fields for policy type and policy status, which could be used to categorize and track policies.
-* The form has multiple custom fields, which can be used to capture additional information not covered by the standard fields.
-
-This form is intended for use by insurance professionals, such as agents or adjusters, to schedule appointments with policy owners or contacts.
-</thinking>
-
 # insurance_policy_review_appointment_form_template - Help Guide
 ## Purpose
 The purpose of this form is to review and manage insurance policies by scheduling appointments with policy owners or contacts.

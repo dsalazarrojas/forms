@@ -1,7 +1,3 @@
-<thinking>
-This form is a generic life insurance application form. It is intended for individuals who wish to purchase life insurance policies. It should only be filled out by people seeking to apply for life insurance, not for any other purpose. Please ensure that you are filling out this form for the correct purpose.
-</thinking>
-
 # Life Insurance - Help Guide
 ## Purpose
 The Life Insurance form is used to collect information for the application of a life insurance policy. This form is designed to gather essential details about the policy holder, including contact information and policy specifics.

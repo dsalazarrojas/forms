@@ -1,7 +1,3 @@
-<thinking>
-The "Digital Experience Enhancement Application Form" is designed to collect information from end users about digital experience enhancements requested or proposed by them. This form is typically used to gather feedback and suggestions for improving digital products or services. The form is used by product managers, engineers, and other stakeholders to collect requests, evaluate them, and track the progress of the enhancements. It's essential that users fill out the form accurately to ensure that the enhancement requests are understood correctly and can be properly assessed and acted upon. Please ensure that you have read this document carefully and only fill out the form if you are certain that the information is correct and relevant to the enhancement request. 
-</thinking>
-
 # Digital Experience Enhancement Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect enhancement requests for digital experiences. Please use this form to submit your suggestions or proposals for improvements to our digital products or services.

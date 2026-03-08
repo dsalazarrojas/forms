@@ -1,7 +1,3 @@
-<thinking>
-This form is an AI-generated adaptive form, designed to be used for inspection purposes, likely for collecting information from end-users in a structured manner. The form consists of three pages, each with a text field for users to input their responses. To ensure that the form is used correctly, please review the following guide to help you complete it efficiently.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed for collecting information from end-users for inspection purposes.

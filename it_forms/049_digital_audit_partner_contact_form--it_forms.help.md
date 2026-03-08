@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for digital audit partners to collect contact information from interested individuals. The purpose of this form is to capture details such as name, email, phone number, and inquiry type. It will be helpful for audit partners to follow up with the individuals who submitted the form.
-
-Before starting with this form, we need to clarify that this form is not affiliated, endorsed, or derived from any form platform. It's an original adaptation created using public survey topic metadata as inspiration.
-
-</thinking>
-
 # digital_audit_partner_contact_form - Help Guide
 ## Purpose
 The digital audit partner contact form is a tool used by digital audit partners to gather contact information from potential clients or partners. This information will allow the partners to follow up with the individuals who expressed interest in their services.

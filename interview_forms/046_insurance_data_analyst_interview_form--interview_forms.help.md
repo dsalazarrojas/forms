@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be a comprehensive interview form designed to collect data from candidates applying for an insurance data analyst position. The form includes fields for personal contact information, job application details, and relevant work experience. The purpose of this form is likely to facilitate the evaluation and shortlisting process for potential candidates for the insurance data analyst position. It's essential to ensure that the form is completed accurately to avoid any issues during the evaluation process.
 
 # Insurance Data Analyst Interview Form - Help Guide

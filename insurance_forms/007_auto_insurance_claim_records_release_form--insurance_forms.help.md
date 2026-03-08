@@ -1,14 +1,3 @@
-<thinking> 
-This form is intended to help claimants authorize the release of their insurance claim records, and it captures essential information about the claimant and the records being released. This form will be used by insurance companies to verify identity and ensure that records are released to the correct parties. 
-
-This form should only be used once, and it will not be used as a template for other types of forms, to prevent duplication of effort and potential errors. It's also a good idea to keep a record of who received this form and who authorized its completion. 
-
-Please review the instructions carefully before filling out the form, as the incorrect completion of this form can lead to delays or issues with your claim. 
-
-Please ensure that you fill out all the required fields correctly. 
-
-</thinking>
-
 # Auto Insurance Claim Records Release Form - Help Guide
 ## Purpose
 

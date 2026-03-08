@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for healthcare professionals to collect information about their practice and themselves as a provider. It is likely used by administrative staff or administrators to collect data for billing, insurance claims, or other purposes. Please check if this form already exists in your organization before proceeding.
-</thinking>
-
 # Digestive Health Provider Information Intake Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about digestive health providers, including their contact details, practice size, and specialty. The data collected will be used to manage and improve healthcare services.

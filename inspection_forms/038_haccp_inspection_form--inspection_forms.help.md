@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for recording and documenting HACCP (Hazard Analysis and Critical Control Points) inspections, which are essential for ensuring food safety and quality control in food processing and manufacturing facilities. The form is used to capture data on production dates, plant information, inspection status, and other relevant details. To avoid duplication of effort, please ensure that each inspection is completed only once for each production date and plant ID. If the form is completed incorrectly or with incomplete information, it may lead to unnecessary re-inspections or delays in production.
-</thinking>
-
 # HACCP Inspection Form - Help Guide
 ## Purpose
 The HACCP Inspection Form is a critical tool for monitoring and maintaining food safety and quality control standards in food processing and manufacturing facilities. It is used to document HACCP inspections, which are essential for identifying and addressing potential hazards and risks.

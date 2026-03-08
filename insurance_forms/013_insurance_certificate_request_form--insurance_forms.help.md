@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from vendors to request an insurance certificate. The form is used to capture essential details about the vendor, their insurance coverage, and the specific certificate they need. The form has multiple fields to accommodate various types of certificates and additional information. Ensure that you fill out all required fields to ensure the accuracy and completeness of the information.</thinking>
-
 # Insurance Certificate Request Form - Help Guide
 ## Purpose
 This form is used to request an insurance certificate from a vendor. Please fill out the form accurately and completely to facilitate the processing of your request.

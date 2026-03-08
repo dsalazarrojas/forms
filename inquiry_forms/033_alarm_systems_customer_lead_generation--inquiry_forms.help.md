@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Alarm Systems Customer Lead Generation - Help Guide
 ## Purpose
 The purpose of this form is to gather information from potential customers who are interested in alarm systems for their properties. This includes personal contact information, property details, and security requirements. The form helps us understand their needs and provide tailored solutions to their security concerns.

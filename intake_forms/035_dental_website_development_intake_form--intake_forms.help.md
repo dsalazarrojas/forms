@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from dental practices about their website development projects. The purpose of this form is to ensure that we have a clear understanding of their requirements and needs before starting the project. This form will help us to avoid misunderstandings and miscommunication that may occur during the project. We will check for relevance and non-duplication to prevent redundant submissions.
-
-The form is divided into different sections. The first section, "Contact Info," asks for the contact information of the practice. Then, there are sections for "Project Scope," "Project Budget," "Expected Start Date," "Preferred Contact Method," "Type of Practice," "Practice Size," "Technology Stack," "Target Audience," "Website Features," "Website Launch Date," "Contact Person," "Phone," "Email," "Address," "Website," "Current Technology Stack," "Current Platform," "Current Content Management System," "Current Website URL," "Notes," and "Website Development Preferences."
-
-Please make sure to fill out the form accurately and completely. If you have any questions or concerns, please don't hesitate to contact us.</thinking>
-
 # dental_website_development_intake_form - Help Guide
 ## Purpose
 This form is designed to gather information from dental practices about their website development projects.

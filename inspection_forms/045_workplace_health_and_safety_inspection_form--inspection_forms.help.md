@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Health And Safety Inspection Form - Help Guide
 ## Purpose
 

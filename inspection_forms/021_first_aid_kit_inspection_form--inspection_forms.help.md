@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for inspecting the contents of a first aid kit, a set of supplies used to provide basic medical care in emergency situations. The purpose of this form is to gather information about the condition and completeness of the first aid kit, ensuring that it is properly maintained and up-to-date. This form is likely to be used in various settings such as workplaces, schools, or public places where first aid kits are present.
-
-</thinking>
-
 # First Aid Kit Inspection Form - Help Guide
 ## Purpose
 This form is designed to help you inspect and document the contents of a first aid kit, ensuring it is properly maintained and up-to-date.

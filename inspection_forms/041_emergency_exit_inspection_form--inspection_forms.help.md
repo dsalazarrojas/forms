@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to provide an understanding of the "Emergency Exit Inspection Form" and its purpose. It is a form designed for inspections related to emergency situations, possibly for evacuation purposes. To ensure relevance, please note that the form might not be applicable in all emergency scenarios. Additionally, this form was not created with the intention of being a comprehensive solution, but rather as a sample form for general guidance.
-</thinking>
-
 # Emergency Exit Inspection Form - Help Guide
 ## Purpose
 The Emergency Exit Inspection Form is a template designed for inspecting emergency exits. This form is meant to guide users through an examination of emergency exits to identify any hazards or risks.

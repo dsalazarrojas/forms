@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # data_backup_infrastructure_inspection_form - Help Guide
 
 ## Purpose

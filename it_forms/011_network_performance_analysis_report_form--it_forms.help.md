@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for a network performance analysis report. This form will help users to gather data on the current state of their network performance, including the date, time, location, issues experienced, findings, recommendations, comments, and any supporting attachments. 
-
-The form is intended for internal use within an organization and is likely used by IT or network administrators to monitor and analyze the performance of network systems. 
-
-It's not meant to be used for external or public-facing purposes, and its completion should only be done by authorized personnel.
-</thinking>
-
 # Network Performance Analysis Report Form - Help Guide
 ## Purpose
 This form is used to collect and document information about network performance analysis reports. It's designed to help IT or network administrators gather data on the current state of their network systems.

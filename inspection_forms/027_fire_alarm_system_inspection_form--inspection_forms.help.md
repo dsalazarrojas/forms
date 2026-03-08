@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fire_alarm_system_inspection_form - Help Guide
 ## Purpose
 The fire_alarm_system_inspection_form is used to document and record the inspection of fire alarm systems in a facility or building. This form helps ensure that all necessary information is collected and recorded for compliance and regulatory purposes.

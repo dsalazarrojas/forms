@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be used by site inspectors to report on field inspections. The form will be used to document the results of the inspection, including the date, location, and status of the inspection. The form will be used to assign a site visit ID and track comments from both the inspector and the assigned inspector. 
-
-The form is intended to be completed by site inspectors and will be used by site managers or other administrators to track and manage field inspections. The form's fields will be used to provide detailed information about the inspection, including the date of the inspection, the location, and the status of the inspection. 
-
-This form is part of a larger system used to manage field inspections, and the information collected on this form will be used to generate reports and track progress. 
-
-Please make sure to complete the form accurately and thoroughly, as it will be used to inform decisions and guide future actions.
-
-Before starting, ensure that you have a clear understanding of the purpose and requirements of this form. If you are unsure about any part of the form, please refer to the help guide for clarification.
-</thinking>
-
 # Field Inspection Report Form - Help Guide
 ## Purpose
 The Field Inspection Report Form is used by site inspectors to document the results of field inspections. This form collects information about the date, location, and status of the inspection, as well as other relevant details.

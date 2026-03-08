@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Structural Health Monitoring Sensor Inspection Log - Help Guide
 
 ## Purpose

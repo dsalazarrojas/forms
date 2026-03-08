@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients or customers interested in booking an equine photography session. The form collects details about the photographer, preferred date, package preference, session details, trainer information, barn information, contact preferences, and additional notes. It also collects an email address for further communication. This form is intended to be used by equine photographers or businesses providing photography services to their clients.
-</thinking>
-
 # Equine Photography Session Inquiry - Help Guide
 ## Purpose
 This form is designed to collect information from clients or customers interested in booking an equine photography session. It will guide you through the necessary steps to provide your details, preferred date, package preference, and other relevant information to help us prepare for your photography session.

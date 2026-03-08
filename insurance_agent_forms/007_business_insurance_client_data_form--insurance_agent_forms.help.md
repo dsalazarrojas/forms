@@ -1,20 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Business Insurance Client Data Form", we need to understand that this form is designed to collect business insurance data from clients, including business name, type, industry, address, years in operation, number of employees, annual revenue, number of locations, current insurance carrier, policy expiration, coverage types, property ownership, property value, number of vehicles, vehicle types, claims history, risk management practices, special risks, coverage limits preference, deductible preference, and additional comments. This information is crucial for the insurance agent to assess the business's insurance needs.
-
-To avoid duplication, we should ensure that the form is filled out accurately and thoroughly. The form is divided into several sections, each with its own set of questions. The sections may seem extensive, but they are designed to understand the business's risk profile and ensure that the business gets the right insurance coverage.
-
-Before filling out the form, the business owner should have all the necessary information ready, including business name, type, industry, address, years in operation, number of employees, annual revenue, number of locations, current insurance carrier, policy expiration, coverage types, property ownership, property value, number of vehicles, vehicle types, claims history, risk management practices, special risks, coverage limits preference, deductible preference, and additional comments.
-
-The form requires the business owner to select the type of business structure, industry, coverage types, property ownership, vehicle types, and claims history. This ensures that the business is adequately insured against various risks.
-
-The sections on coverage limits preference and deductible preference are crucial as they help determine the business's risk appetite and financial capacity. Business owners should carefully consider these options to ensure they choose the right level of coverage.
-
-The form also provides the opportunity for business owners to add any additional comments or information about their business.
-
-The guide should be reviewed and updated regularly to ensure that the information is up-to-date and relevant.
-
-</thinking>
-
 # Business Insurance Client Data Form - Help Guide
 ## Purpose
 This form is designed to collect business insurance data from clients, including business name, type, industry, address, years in operation, number of employees, annual revenue, number of locations, current insurance carrier, policy expiration, coverage types, property ownership, property value, number of vehicles, vehicle types, claims history, risk management practices, special risks, coverage limits preference, deductible preference, and additional comments. This information is crucial for the insurance agent to assess the business's insurance needs.

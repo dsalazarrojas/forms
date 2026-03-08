@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Thesis Support Inquiry Form - Help Guide
 ## Purpose
 The University Thesis Support Inquiry Form is a tool used to gather information about your thesis support needs. This form is designed to help you get support from the university for your thesis work. Please fill out this form completely and accurately to ensure that you receive the support you need.

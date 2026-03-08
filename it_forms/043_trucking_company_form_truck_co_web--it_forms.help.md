@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect general information about a trucking company. This form should only be completed by authorized personnel. Please note that this form may be used to generate reports or updates in the future, so it's essential to ensure that all fields are filled in accurately and completely. To avoid duplication of effort, please do not submit this form if you have already completed one with the same information.
-</thinking>
-
 # Trucking Company Form - Help Guide
 ## Purpose
 This form is used to collect general information about a trucking company. It helps us to understand the company's details and generate reports or updates as needed.

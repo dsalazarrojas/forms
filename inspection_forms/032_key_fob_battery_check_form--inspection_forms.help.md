@@ -1,9 +1,3 @@
-<thinking>
-The "Key Fob Battery Check Form" is used to check the condition and status of the vehicle key fob batteries. This form is typically used in a maintenance or service context, and its purpose is to ensure that the key fob batteries are functioning correctly and not causing any issues with the vehicle's keyless entry and start system. This form is usually completed by someone inspecting or servicing the vehicle, such as a mechanic or a maintenance personnel.
-
-Before starting this form, make sure that you have the necessary information and resources available, and that you are not duplicating effort or wasting time on an unnecessary inspection. This form is intended to be a quick and efficient way to assess the status of the key fob batteries and document the findings.
-</thinking>
-
 # Key Fob Battery Check Form - Help Guide
 ## Purpose
 The "Key Fob Battery Check Form" is used to inspect and document the condition and status of a vehicle's key fob batteries.

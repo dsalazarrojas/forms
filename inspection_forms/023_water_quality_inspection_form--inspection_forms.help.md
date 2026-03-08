@@ -1,5 +1,3 @@
-<thinking>This form is used to record and report water quality parameters in various water bodies. To determine if this form needs to be filled out, you can check with the relevant authorities or check the form's usage frequency. Make sure to fill it out for each new water sample collected. Please be sure to follow your organization's guidelines and standards to the letter.</thinking>
-
 # Water Quality Inspection Form - Help Guide
 ## Purpose
 The Water Quality Inspection Form is used to record and report water quality parameters from various water bodies. This form is intended for data collection, analysis, and reporting purposes.

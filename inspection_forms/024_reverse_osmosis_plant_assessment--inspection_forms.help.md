@@ -1,5 +1,3 @@
-<thinking>Is this form used to assess the condition of a plant's reverse osmosis system, ensuring that it is functioning properly and meeting performance standards? This form is likely used in a maintenance or inspection context. It seems that some pages are related to maintenance activities, while others have date, time, and select fields. This form is likely used to track and record information for maintenance, inspection, or operational purposes. There should be a check to see if this form is a duplicate of any other form in the system, to avoid redundancy and unnecessary data entry.</thinking>
-
 # Reverse Osmosis Plant Assessment - Help Guide
 ## Purpose
 The Reverse Osmosis Plant Assessment form is used to evaluate the condition of a plant's reverse osmosis system and ensure it meets performance standards in a maintenance or inspection context.

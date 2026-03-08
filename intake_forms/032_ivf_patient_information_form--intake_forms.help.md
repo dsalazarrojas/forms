@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IVF Patient Information Form - Help Guide
 
 ## Purpose

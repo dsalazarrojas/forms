@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for mobile inspections, which are likely used in various contexts such as construction, manufacturing, or quality control. The purpose of this form is to collect data about the inspection process, including category, description, assigned tool, and date. This form is created to be user-friendly, with a clear and simple layout, making it easier for inspectors to input necessary information.
-
-Before proceeding, please ensure that this is the correct form for your specific use case. This form does not contain any sensitive or proprietary content, and it is released under the Creative Commons Attribution 4.0 license. If you have any questions or need further clarification, please contact form@gic.mx.
-</thinking>
-
 # Mobile Inspection Form - Help Guide
 ## Purpose
 The Mobile Inspection Form is designed to collect data about the inspection process for mobile inspections. This form can be used to record details about the category, description, assigned tool, and date of the inspection.

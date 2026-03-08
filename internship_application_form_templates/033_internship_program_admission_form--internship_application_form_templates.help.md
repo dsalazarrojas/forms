@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in participating in an internship program. The purpose of this form is to gather applicant information, work experience, skills, education background, a resume, internship details, and other relevant details necessary to assess eligibility for the program. Please note that the information collected through this form will be used to review and evaluate each applicant's qualifications. To avoid duplication of efforts, please do not submit duplicate applications through this form.
-</thinking>
-
 # Internship Program Admission Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from individuals interested in participating in an internship program.

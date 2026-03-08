@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Litigation Specialist Interview Form - Help Guide
 
 ## Purpose

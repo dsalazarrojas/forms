@@ -1,8 +1,3 @@
-<thinking>
-The Mobile App User Inquiry Form is designed to collect information from users regarding their interaction with a mobile app. This form helps us understand the user's experience, identify potential issues, and provide a platform for users to share their thoughts and feedback. To ensure that their concerns are addressed, we need to verify that this form is being filled out by the correct person. This form is intended to be used by users who have encountered a problem with the app, and it's essential that the user's name, email address, and date of reporting are accurate. The fields in this form will guide you through a series of questions and prompts that will help us understand your experience and needs.
-
-</thinking>
-
 # Mobile App User Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from users regarding their interaction with a mobile app. It helps us understand your experience, identify potential issues, and provide a platform for you to share your thoughts and feedback.

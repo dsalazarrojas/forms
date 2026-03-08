@@ -1,12 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and efficiently, please take a moment to review the following internal reasoning and guidelines:
-
-*   The Sports Massages Consultation Form is designed to collect information from clients about their current health status, medical history, and massage preferences before they can receive a massage.
-*   The form is divided into several sections, each with its own set of questions and options. Please make sure to fill out each field carefully and accurately.
-*   Before submitting the form, double-check that all required fields have been filled out.
-*   If you're unsure about any of the options or questions, please ask for clarification before proceeding.
-</thinking>
-
 # Sports Massages Consultation Form - Help Guide
 ## Purpose
 The Sports Massages Consultation Form is a crucial tool for us to understand your health status and medical history before we can provide you with the best possible massage experience.

@@ -1,5 +1,3 @@
-<thinking>Before proceeding with this guide, please note that this form is intended for veterinary clinical placements. This is a non-compulsory form. It is not necessary to complete it if you do not wish to apply for a placement. Ensure you have the necessary information and resources to complete this form, as it may require some time to fill in. Also, this form has been designed to be completed by one person at a time. If you need to complete it for a team, please contact your supervisor for guidance. Please review the form carefully before submitting it. If you have any questions or concerns, do not hesitate to reach out to us. You can save the form as a draft and revisit it later. The form will be stored in our database, so you can access it later and pick up where you left off.</thinking>
-
 # Veterinary Clinical Placement Application Form - Help Guide
 ## Purpose
 

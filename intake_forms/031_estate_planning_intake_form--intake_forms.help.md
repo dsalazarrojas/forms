@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information from clients or customers for estate planning purposes. This form is intended for use by individuals or organizations seeking to gather data for estate planning needs. The form's purpose is to ensure that all necessary information is collected to facilitate effective estate planning. It is essential to review the form's contents carefully to ensure it aligns with your specific needs. Please note that this form is an adaptation and not a direct copy of any proprietary form, and it's not affiliated with any form platform.
-
-</thinking>
-
 # Estate Planning Intake Form - Help Guide
 ## Purpose
 The Estate Planning Intake Form is designed to collect essential information from clients or customers for estate planning purposes. This form aims to gather details that will help facilitate effective estate planning.

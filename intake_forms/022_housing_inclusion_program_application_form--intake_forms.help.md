@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals who are interested in the Housing Inclusion Program. This program aims to provide assistance and support to those in need of housing. By filling out this form, individuals can share their personal and household information to be considered for inclusion in the program.
-
-This guide will cover all fields in the form, so please make sure to review each field carefully to ensure you provide accurate and relevant information.
-
-Before proceeding, please note that some fields are not required. However, providing all required information will help ensure a smoother application process.
-
-</thinking>
-
 # Housing Inclusion Program Application Form - Help Guide
 
 ## Purpose

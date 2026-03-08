@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # insurance_claim_form - Help Guide
 
 ## Purpose

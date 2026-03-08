@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tattoo Inquiry Form Dtp - Help Guide
 ## Purpose
 This form is for collecting information from individuals who have been tattooed by artists. The purpose of this form is to gather details about the tattoo, including its location, size, and type, as well as the artist's contact information and statement. This information will be used to improve our tattooing services and better serve our clients.

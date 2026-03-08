@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by users to request calibration for gaming equipment, such as gaming devices, consoles, and chairs. The form will be completed by users to provide necessary information for calibration, including their name, email, and phone number. The form will also be used to select the type of gaming equipment and its location, as well as to specify the requested calibration date and status of the calibration. 
-This form is a crucial part of maintaining accurate and up-to-date records of gaming equipment calibration, and it is essential to ensure that all users complete the form correctly to provide the necessary information. 
-Please check that you haven't filled out this form before, as this will help in avoiding duplicate requests. If you are unsure about any part of this process, please reach out to your supervisor for assistance.
-</thinking>
-
 # Gaming Equipment Calibration Request Form - Help Guide
 
 ## Purpose

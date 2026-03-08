@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Software Analytics Collection User Consent Form - Help Guide
 
 ## Purpose

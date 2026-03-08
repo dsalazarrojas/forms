@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # error_report_form - Help Guide
 ## Purpose
 The error_report_form is designed to collect information about errors that occur during the error reporting process. This form is intended to be filled out by users to report errors or incidents that need to be documented and addressed.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by faculty and staff to request access to specific data and systems for research and engagement purposes. The form is intended to be completed by individuals who need to access certain data or systems for legitimate research or engagement activities. It is expected that the request is not redundant or unnecessary.
-</thinking>
-
 # Faculty Engagement Data Access Request - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for maintenance audit for operators, likely for equipment or assets. It's used to track the status and history of maintenance activities. The form might be used by maintenance teams or operators to record and report on regular inspections, identify potential issues, and schedule next maintenance actions.
-The form should not be used for non-maintenance purposes or for collecting data that is not related to maintenance activities. To avoid duplication of effort, make sure to only fill in this form for legitimate maintenance-related purposes.
-</thinking>
-
 # Maintenance Audit For Operators - Help Guide
 ## Purpose
 This form is used to record and report on maintenance activities for operators. It helps in tracking the status and history of maintenance, identifying potential issues, and scheduling next maintenance actions.

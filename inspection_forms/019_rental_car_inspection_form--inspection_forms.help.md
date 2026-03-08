@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for rental car inspectors to assess the condition of a rental vehicle's various components. The form's purpose is to help ensure that vehicles are properly maintained and any issues are addressed before they become major problems. 
-
-The form is likely used in the context of rental car companies or dealerships where vehicles are rented out to customers and need to be inspected regularly to maintain their integrity and value. This form's design aims to streamline the inspection process by providing a structured and comprehensive way to assess the vehicle's condition. 
-
-Please note that this form is not affiliated with any form platform, and its design is inspired by the rental car inspection process. This form can be used as-is or modified to suit specific business needs. The design of this form is based on the assumption that the vehicle inspection process involves assessing various components of a rental car. 
-
-This form is released under CC BY 4.0 license, which means you can freely use, modify, and even sell it, just give credit.
-</thinking>
-
 # Rental Car Inspection Form - Help Guide
 ## Purpose
 The Rental Car Inspection Form is designed to assess the condition of a rental vehicle's various components to ensure they are properly maintained and any issues are addressed before they become major problems.

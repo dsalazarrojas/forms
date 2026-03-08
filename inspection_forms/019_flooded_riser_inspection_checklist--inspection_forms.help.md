@@ -1,7 +1,3 @@
-<thinking>...This form is intended to be a checklist for inspecting flooded risers. It appears to be used to record findings and recommendations for flooded risers in a facility. Each field is likely to be relevant to the inspection process. However, the form does not appear to be designed for repetitive or ongoing inspections, as many fields are marked as required, indicating that they are to be filled out only once for a given inspection.
-
-</thinking>
-
 # Flooded Riser Inspection Checklist - Help Guide
 ## Purpose
 This form is used to record the results of a flooded riser inspection, including the location and date of the inspection, findings, and recommendations for action.

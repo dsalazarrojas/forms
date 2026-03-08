@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll break down the form purpose, how to complete it, and field-by-field explanations to help end-users navigate the "User Data Protection Audit Form" with ease.</thinking>
-
 # User Data Protection Audit Form - Help Guide
 ## Purpose
 The User Data Protection Audit Form is designed to help users assess and document their company's data protection practices and policies. This form guides you through the necessary steps to ensure that your organization is compliant with data protection regulations and best practices. Fill out this form to identify areas of improvement and take concrete steps to safeguard sensitive data.

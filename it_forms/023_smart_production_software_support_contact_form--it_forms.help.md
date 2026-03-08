@@ -1,9 +1,3 @@
-<thinking>
-  The purpose of this form is to gather information from users who are experiencing issues with the smart production software. This form allows users to report problems, ask questions, or provide feedback related to the software's operation. The information collected will be reviewed and addressed by the support team to ensure the software's quality and user experience.
-  The form will not ask for duplicate information, and users are encouraged to fill in the required fields to provide a clear and concise message.
-  This guide will help users understand the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # smart_production_software_support_contact_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users who are experiencing issues with the smart production software.

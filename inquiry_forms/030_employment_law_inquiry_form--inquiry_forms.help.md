@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for inquiring about employment law-related issues, potentially for employees or individuals seeking legal advice or guidance. However, there are 17 fields with seemingly identical labels, which may indicate duplication or redundancy. It's essential to review the form and determine which fields are truly necessary and relevant to the intended purpose. If not necessary, consider removing or merging them to improve user experience and reduce cognitive load.
-</thinking>
-
 # employment_law_inquiry_form - Help Guide
 ## Purpose
 This form is designed for inquiring about employment law-related issues, allowing you to provide detailed information and specific areas of concern regarding employment law.

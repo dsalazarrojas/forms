@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by project reviewers to review shop drawings, which are detailed plans and drawings of the construction project. The form is designed to gather information about the reviewer's identity, their comments, and the current status of the project. This form is likely to be used by architects, contractors, or project managers to review and provide feedback on the shop drawings.
-</thinking>
-
 # Shop Drawing Review Form - Help Guide
 ## Purpose
 The Shop Drawing Review Form is used to gather information from reviewers to review and provide feedback on shop drawings.

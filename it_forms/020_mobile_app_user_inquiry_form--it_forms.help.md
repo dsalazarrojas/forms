@@ -1,12 +1,3 @@
-<thinking>
-The form, "mobile_app_user_inquiry_form", is used to gather information from users about their experiences or issues with a mobile app. The form is intended to be a platform for users to report bugs, provide feedback, or ask questions about the app, and to allow the development team to gather necessary details to address the issue. This form is designed to be used by both internal and external users, including customers and users with access to the app's login credentials.
-
-Please note that this form is not meant for internal reporting or debugging purposes. The primary goal of this form is to collect data from end-users in a structured way, making it easier for the development team to identify and address the issues.
-
-Before completing the form, please ensure that the issue you're experiencing is not already reported or resolved. Repeatedly reporting the same issue may cause unnecessary delays in addressing it.
-
-</thinking>
-
 # mobile_app_user_inquiry_form - Help Guide
 ## Purpose
 The "mobile_app_user_inquiry_form" is a tool for users to report bugs, provide feedback, or ask questions about a mobile app.

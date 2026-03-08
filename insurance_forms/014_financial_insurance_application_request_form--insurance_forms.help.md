@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a financial insurance application request form, which allows users to provide personal and financial information in order to apply for financial insurance. Before filling out this form, please check with your HR or finance department to see if this is the correct form for your insurance needs. If you're not sure, you can also check the company's intranet or contact the finance department for more information.
-
-The form is intended to be a general template, and it may not be applicable to your specific situation. Please fill it out with caution and review the information carefully before submitting it.
-
-Also, make sure to fill out the form only once, and if you need to make changes, do not resubmit the form. This can cause unnecessary processing and delays in your insurance application.
-</thinking>
-
 # Financial Insurance Application Request Form - Help Guide
 ## Purpose
 The Financial Insurance Application Request Form is a template designed to collect necessary information for a financial insurance application. This form helps to gather personal and financial details that will be reviewed by the finance department.

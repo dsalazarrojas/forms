@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form assesses the respondent's ability to identify their level of proficiency in various Python-related skills, including programming skills, Python version, code completion, syntax knowledge, problem-solving, code review, communication, teamwork, and feedback. This form is designed to be a self-assessment for individuals to gauge their strengths and weaknesses in these areas.
-</thinking>
-
 # Python Programming Skills Assessment - Help Guide
 ## Purpose
 This form is designed to help you evaluate your skills in various areas of Python programming.

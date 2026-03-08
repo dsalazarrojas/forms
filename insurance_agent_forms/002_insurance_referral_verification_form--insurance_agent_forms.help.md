@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to verify the accuracy of information provided by an individual or organization regarding an insurance referral. The purpose is to ensure that the information is correct and trustworthy.
-The form is likely used by insurance companies or agencies to assess the credibility of referrals and make informed decisions.
-</thinking>
-
 # Insurance Referral Verification Form - Help Guide
 ## Purpose
 This form is designed to verify the accuracy of information provided by an individual or organization regarding an insurance referral.

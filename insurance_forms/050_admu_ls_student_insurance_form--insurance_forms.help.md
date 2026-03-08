@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Admu Ls Student Insurance Form - Help Guide
 ## Purpose
 This form is for students to submit insurance claims for medical expenses, dental expenses, vision care, accidents, prescription medication, mental health, and other types of claims. The form requires information about the student's identification, claim details, and supporting documents.

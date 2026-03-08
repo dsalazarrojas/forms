@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, I want to make sure I understand the form's purpose and its relevance. Based on the provided YAML fields, it appears that this form is designed to report a website downtime incident, which is likely used for internal purposes within an organization. The form asks for various details such as start and end times, affected users, resolution status, and other relevant information. I will ensure that the help guide is clear, concise, and practical for end-users to complete the form correctly.</thinking>
-
 # Website Downtime Incident Form - Help Guide
 ## Purpose
 This form is used to report a website downtime incident. It helps to track and document the incident, including its start and end times, affected users, resolution status, and other relevant details.

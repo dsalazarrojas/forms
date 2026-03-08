@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the inspection of common areas within a property or building. This form collects information about the inspection process, including dates, times, and details about the property and inspectors. The form also assesses the cleanliness, condition, and functionality of various common areas, such as restrooms, hallways, and elevators. Additionally, it evaluates the overall safety, accessibility, and maintenance needs of the property. By using this form, building managers and facility administrators can ensure that common areas are well-maintained and safe for occupants.
-
-To ensure relevance, I'll check that the form is not being used for purposes beyond what is intended here. To prevent duplication, we can consider implementing a database or spreadsheet to collect and store inspection results.
-</thinking>
-
 # Common Area Inspection Form - Help Guide
 
 ## Purpose

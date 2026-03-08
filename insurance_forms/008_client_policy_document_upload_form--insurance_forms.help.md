@@ -1,10 +1,3 @@
-<thinking>
-...to ensure that this form is correctly filled out and processed, please note the following:
-
-This form is for uploading client policy documents, and it's essential to fill it out accurately to avoid any delays or issues with processing. Please ensure that you're submitting the correct type of document and that the information provided is up-to-date and accurate. This form is not intended for duplicate submissions; if you've already submitted this form, please do not resubmit. If you're unsure about any field or have questions, please don't hesitate to contact our support team for assistance.
-
-</thinking>
-
 # Client Policy Document Upload Form - Help Guide
 ## Purpose
 This form is used to upload and process client policy documents for various insurance purposes. It ensures that your documents are correctly uploaded and reviewed for accurate and efficient processing.

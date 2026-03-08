@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect essential information from new patients for intake purposes. This form serves as the starting point for the patient's medical records, helping the medical staff to understand the patient's medical history, insurance coverage, and contact details.
-
-This form is designed to guide patients in providing necessary information about themselves, ensuring that the medical staff has the required details for effective care. By filling out this form, patients can help the medical team get a better understanding of their situation, making it easier to provide personalized care.
-
-It is essential to ensure that each form is filled out accurately and completely, as incomplete or incorrect information may lead to misunderstandings or miscommunication. Patients are encouraged to take their time and fill out the form carefully.
-
-When completing this form, please refer to the following explanations for each field to ensure clarity and accuracy.
-
-</thinking>
-
 # new_patient_intake_form - Help Guide
 ## Purpose
 ## How To Complete This Form

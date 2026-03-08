@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide information about their web development needs and preferences. This form will help the development team understand what kind of services the user is looking for, and tailor their response accordingly. It's essential to fill out this form completely and accurately to ensure that the development team can provide the best possible service. Please ensure that you are not submitting duplicate requests, as this form is meant to be used for new inquiries only.
-</thinking>
-
 # web_development_inquiry - Help Guide
 ## Purpose
 This form is designed to gather information from users about their web development needs and preferences. It will help the development team create tailored responses to meet these requirements.

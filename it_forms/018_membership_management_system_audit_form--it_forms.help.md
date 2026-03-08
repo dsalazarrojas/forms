@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information for the Membership Management System (MMS) audit process. The goal of this process is to evaluate the current state of the MMS, identify areas of improvement, and track progress towards achieving optimal performance. The form collects metadata about the organization, the audit date, who conducted the audit, and any comments or feedback.
-Please ensure that the information you provide is accurate and complete before submitting the form. This form is part of the regular MMS evaluation process, which helps to ensure that the system is running efficiently and effectively.
-</thinking>
-
 # Membership Management System Audit Form - Help Guide
 ## Purpose
 The Membership Management System Audit Form is used to collect data for the regular audit of the Membership Management System. The information collected will be used to evaluate the system's performance and identify areas of improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **inspector_qualification_assessment - Help Guide**
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking> 
-
-The "Security Log And Event Monitoring Checklist" form is used to track and analyze security logs and events in an organization. This form collects various types of information related to security monitoring activities, including general information, monitoring activity, security log reviews, findings and follow-up actions, monitoring frequency, security log frequency, dates and times, notes, email, phone, user details, location, device, browser, operating system, IP address, security notes, and comments. The form is designed to provide a structured approach to monitoring and reporting on security events, allowing for better tracking, analysis, and response.
-
-This form is intended to be used by security professionals, IT administrators, and other stakeholders who need to monitor and analyze security events in the organization. The form is not intended for public use and is only accessible to authorized personnel. 
-
-It's worth noting that the fields in this form are quite diverse, and some fields may seem redundant or unclear. However, each field has been carefully designed to collect specific types of information that are relevant to security monitoring and analysis.
-
-</thinking>
-
 # Security Log And Event Monitoring Checklist - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The Security Update Notification Form is designed to collect information about security updates from IT teams. This form helps in identifying and addressing potential security threats in a timely and efficient manner. It's essential to fill out this form accurately and completely to ensure that the security team receives the necessary information to take action.
-
-This form is intended for IT team members who have identified a potential security threat and want to notify the security team. It should not be used for other purposes, such as reporting non-security-related issues.
-
-To fill out this form, please follow the instructions below.</thinking>
-
 # Security Update Notification Form - Help Guide
 
 ## Purpose

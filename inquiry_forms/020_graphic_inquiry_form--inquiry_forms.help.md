@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: 
-This form, "graphic_inquiry_form", is designed to collect information from users regarding graphic design services or other related services. The form has a date field for submission tracking, name, phone number, and email fields for general contact information. Users can select one service type and choose files to attach for reference. The form aims to ensure correct service assignment by requiring the selection of a specific tool. This form's fields should be filled in accurately and consistently with the provided options to facilitate smooth service handling.
-</thinking>
-
 # Graphic Inquiry Form - Help Guide
 ## Purpose
 This form is used to collect information for graphic design or other related services, including service type and file attachments.

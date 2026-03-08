@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Surveillance Tour Checklist - Help Guide
 ## Purpose
 The Surveillance Tour Checklist is a form used to record and document the details of a surveillance tour. This form is used to gather information about the officer's tour, including patrol details, incident reports, and patrol frequency. It is designed to be completed by the officer during the tour.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to input information for a Smart Access Control Pilot Application. The purpose of this form is to collect user data for access control purposes. This form is not intended for other purposes such as general inquiry or feedback. Ensure that the information is accurate and up-to-date as it will be used to validate user identity and access control.
-</thinking>
-
 # Smart Access Control Pilot Application Form - Help Guide
 ## Purpose
 The Smart Access Control Pilot Application Form is used to collect user data for access control purposes.

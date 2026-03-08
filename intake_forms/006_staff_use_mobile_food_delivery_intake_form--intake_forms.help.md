@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Staff Use Mobile Food Delivery Intake Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, we'll examine the fields and labels. The form appears to be a checklist for inspecting an access cage, which is likely a secure room or area that requires regular monitoring and maintenance. The form covers various aspects of the cage's condition, including structural integrity, locking mechanism, access control system, surveillance cameras, lighting, cleanliness, safety hazards, and more. The overall purpose of the form is to document the findings of an inspection and provide a final assessment of the cage's status.
-
-We'll also assume that the form is used by inspectors or maintenance personnel to report on the condition of the cage and any issues that need to be addressed. This form may be used as a tool for scheduling follow-up inspections or maintenance tasks.
-
-Before we proceed, let's review the fields and ensure that there's no duplication or unnecessary fields. The form appears to be well-structured, with each field contributing to a comprehensive assessment of the cage's condition.
-
-</thinking>
-
 # Building Access Cage Inspection Checklist - Help Guide
 ## Purpose
 The Building Access Cage Inspection Checklist is a tool used by inspectors or maintenance personnel to document and report on the condition of an access cage, highlighting any issues that need to be addressed.

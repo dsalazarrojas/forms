@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Legacy Contact Setup Request Form is a form used to request the setup of a legacy contact for an account. This form is used to collect information about the user who will be handling the account's legacy contact, including their name, email, phone number, and any additional account details they may need to know. The form is not meant to be used for regular account requests, but rather for situations where there is a need to set up a legacy contact to handle an account's specific circumstances. To fill out this form, please ensure you are requesting a legacy contact for an existing account and not creating a new one. If you are unsure about which form to use, please contact your administrator for clarification.</thinking>
 
 # Legacy Contact Setup Request Form - Help Guide

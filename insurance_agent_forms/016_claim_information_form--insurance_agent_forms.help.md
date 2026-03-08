@@ -1,9 +1,3 @@
-<thinking>Internal notes and reasoning about this form purpose and field explanations are provided here. This guide will be helpful in understanding the form's purpose and field explanations. The form is designed to collect information from a claimant who has experienced an incident related to an insurance policy. The form is meant to be completed by the claimant to provide details about the incident, including the claimant's information, the incident's details, and any supporting documentation that will be submitted as evidence.
-
-The form has 25 fields, each with a specific purpose and explanation. Below is the final help guide for the user-facing form.
-
-</thinking>
-
 # Claim Information Form - Help Guide
 
 ## Purpose

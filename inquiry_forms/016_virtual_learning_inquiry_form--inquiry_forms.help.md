@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a platform for students and instructors to submit inquires about virtual learning opportunities. The form is typically used to gather information from students who are interested in taking online courses or programs. This form helps to identify and address their needs, provide information on available courses, and facilitate communication between students and learning administrators. Before completing this form, please ensure that you have already researched and are interested in a specific program and want to inquire about it.
-</thinking>
-
 # Virtual Learning Inquiry Form - Help Guide
 ## Purpose
 

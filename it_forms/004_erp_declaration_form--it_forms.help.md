@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from employees about their work-related activities, such as their company, role, department, work schedule, and any necessary declarations. It is likely used for internal HR purposes.
-</thinking>
-
 # ERP Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information about employees' work-related activities.

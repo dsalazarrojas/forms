@@ -1,7 +1,3 @@
-<thinking> 
-This form is for companies seeking to register on the Industrial Data Exchange Platform. It collects information about the company, its contact person, and other relevant details. This form should only be filled out by companies that are eligible to register and should not be duplicated. If a company has already registered, they should not fill out this form again.
-</thinking>
-
 # industrial-data-exchange-platform-registration-form - Help Guide
 ## Purpose
 This form is for companies to register on the Industrial Data Exchange Platform. It collects information about the company, its contact person, and other relevant details.

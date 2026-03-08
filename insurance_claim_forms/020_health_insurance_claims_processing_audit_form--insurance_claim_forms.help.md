@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process health insurance claims in a structured and efficient manner. The purpose of this form is to gather relevant information about a claim, including its status, amount, type, and details. This form will guide users through a series of questions to ensure that all necessary information is captured accurately and consistently. This form will help to reduce errors and increase the speed of the claims processing workflow.
-</thinking>
-
 # health_insurance_claims_processing_audit_form - Help Guide
 ## Purpose
 The health insurance claims processing audit form is used to collect and review claims data in an organized and systematic way. This helps to ensure that all necessary information is gathered and validated for accurate and efficient claims processing.

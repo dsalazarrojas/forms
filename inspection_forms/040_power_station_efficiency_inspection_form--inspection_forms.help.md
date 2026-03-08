@@ -1,11 +1,3 @@
-<thinking>... The goal of this form is to gather information about the power station's efficiency. This form is intended for power stations to report their efficiency metrics, such as power consumption, efficiency rating, and power factor. It is not meant to be filled out by users who are not authorized to access the power station's efficiency data.
-
-This form is not meant to be used as a general-purpose form for other purposes. Please ensure that you are accessing the correct form for your intended purpose.
-
-The following instructions assume that you are filling out the form for the intended purpose.
-
-</thinking>
-
 # Power Station Efficiency Inspection Form - Help Guide
 ## Purpose
 The Power Station Efficiency Inspection Form is used to gather data about the power station's efficiency. This form is intended for power station staff to report their efficiency metrics, such as power consumption, efficiency rating, and power factor.

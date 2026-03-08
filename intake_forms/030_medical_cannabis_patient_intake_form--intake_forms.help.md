@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the purpose of the form and the fields it contains. Based on the provided YAML fields, it appears that this form is for collecting information from medical cannabis patients for intake purposes.
-
-The form has multiple pages, each with a label (e.g. "Patient Information", "Medical History", etc.), and contains various fields such as text inputs, select options, and notes. Some fields are required, while others are optional. The fields are likely used for different aspects of the patient's medical history, consent, and submission process.
-
-Before creating the help guide, I would like to clarify a few points:
-
-* What is the expected use case for this form? Is it for patients to fill out before a doctor's visit, or is it for administrative purposes only?
-* What is the purpose of the "Medical History Context" and "Doctor Info" fields? Are they for additional context or supplementary information?
-* Why are the "Submission" and "Consent" fields select_multiple fields with only two options ("Yes" and "No")? Are they asking for a yes/no response or multiple selections?
-
-Assuming I can make some educated guesses, I will create the help guide based on the provided YAML fields.
-
-</thinking>
-
 # Medical Cannabis Patient Intake Form - Help Guide
 ## Purpose
 This form is for patients to provide their information and consent for medical cannabis use.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information about a purchase center location. To confirm, this form will be used to gather details about a specific location where purchases are made or services are provided. This form may be used for various purposes, such as tracking inventory, monitoring sales performance, or analyzing customer behavior. Before filling out this form, please ensure you have not submitted this form previously, as it may cause data duplication issues.
-</thinking>
-
 # Form For Collection Of Purchase Center Location - Help Guide
 
 ## Purpose

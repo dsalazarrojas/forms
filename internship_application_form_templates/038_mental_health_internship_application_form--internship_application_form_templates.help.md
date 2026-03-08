@@ -1,7 +1,3 @@
-<thinking>This form is a crucial tool for potential mental health interns to provide necessary information about themselves and their qualifications for the internship. To ensure that this form is completed accurately and thoroughly, please note the following:
-
-This form is intended for applicants who wish to apply for a mental health internship. Please only submit this form if you have a genuine interest in pursuing a mental health internship. If you have applied to this internship before, please do not submit a duplicate application. This form is a critical part of the application process, and any incomplete or inaccurate submissions may lead to a delayed or unsuccessful application process.</thinking>
-
 # Mental Health Internship Application Form - Help Guide
 ## Purpose
 The Mental Health Internship Application Form is designed to gather essential information from potential interns to ensure they are qualified and suitable for the internship program.

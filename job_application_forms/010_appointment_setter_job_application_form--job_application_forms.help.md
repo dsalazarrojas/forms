@@ -1,10 +1,3 @@
-<thinking>
-The "Appointment Setter Job Application Form" is designed to collect information from individuals interested in applying for appointment setter roles. This form is intended for job seekers who wish to be considered for appointment setting positions, likely within a sales or customer service context. The form should only be filled out by individuals who are genuinely interested in exploring potential opportunities, ensuring that the submitted data is accurate and relevant. 
-
-This form is not intended to be a general inquiry or a resume upload. To get the most out of this form, please be sincere and provide as much detail as possible, especially for fields marked as "required".
-
-</thinking>
-
 # Appointment Setter Job Application Form - Help Guide
 ## Purpose
 The Appointment Setter Job Application Form is designed to collect relevant information from candidates who are interested in exploring appointment setting roles. Please fill out this form to provide your contact details, work experience, and availability for a potential opportunity.

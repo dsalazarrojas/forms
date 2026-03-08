@@ -1,6 +1,3 @@
-<thinking>
-This form is meant to assess the overall quality and efficiency of a manufacturing plant's logistics system, covering audits and any corrective actions taken. Its goal is to provide an evaluation of the system, helping stakeholders make informed decisions for improvement. This form should not be used for other purposes such as creating new orders, tracking stock, etc. as this would be duplicating effort and may lead to inconsistent data.
-</thinking>
 # Manufacturing Logistics And Distribution Audit Form - Help Guide
 ## Purpose
 The Manufacturing Logistics And Distribution Audit Form is designed to help assess the quality and efficiency of a manufacturing plant's logistics system. This form collects information on logistics audits and corrective actions taken to identify areas for improvement and enable informed decision-making.

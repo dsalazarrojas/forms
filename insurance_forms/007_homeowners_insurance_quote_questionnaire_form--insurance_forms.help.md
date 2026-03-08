@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to collect information for the purpose of creating a homeowner's insurance quote. It gathers relevant details such as address, contact information, insurance coverage type, and policy dates. The form is divided into several sections, each with its own set of fields. Please note that this form is a template and actual fields and their requirements might be subject to change. Ensure that you have a clear understanding of each field's purpose before proceeding.
-</thinking>
-
-# Homeowners Insurance Quote Questionnaire Form - Help Guide
+> # Homeowners Insurance Quote Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to collect information for the purpose of creating a homeowner's insurance quote.
 

@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to generate leads for life insurance agents. 
-It's designed to gather information from clients about their potential life insurance needs and provide a basis for the agent to follow up with them. 
-This form is part of the process of converting leads into potential clients for life insurance policies. 
-The form includes multiple pages for the user to input various information. 
-The fields are designed to be easy to fill out and provide clear options for the user to select from. 
-The form will be used by life insurance agents to identify potential clients and follow up on their needs. 
-The form will help agents provide personalized service to their clients. 
-The form can be filled out by the client themselves or by the agent, depending on the agent's preference. 
-The form is not intended to be a substitute for a comprehensive life insurance policy application. 
-This form is for lead generation purposes only.
-</thinking>
-
 # life_insurance_lead_generation_form - Help Guide
 ## Purpose
 The life_insurance_lead_generation_form is a lead generation form designed for life insurance agents to gather information from potential clients about their life insurance needs.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a crucial tool for assessing an organization's readiness for cloud migration. The purpose of this form is to gather essential information about the company's current infrastructure, workloads, data volume, IT staff readiness, budget availability, compliance concerns, and other relevant factors. This will help the organization determine whether they are prepared for a successful cloud migration.
-
-The form will help identify potential roadblocks, constraints, and requirements for the migration process, allowing the company to make informed decisions about their cloud migration strategy.
-
-The form is divided into sections that cover various aspects of cloud migration, including infrastructure, workloads, data, staff, budget, and timeline. Each section will help the company assess their current situation and identify areas that require improvement or attention.
-
-This form should not be filled out if the company is already well-versed in cloud migration, but rather as a self-assessment tool to help identify knowledge gaps and potential issues that need to be addressed.
-
-</thinking>
-
 # Cloud Migration Readiness Assessment - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for investment limit increase applications. To be eligible to submit this form, you should have a legitimate reason to request an increase in investment limit, such as a new investment opportunity or change in financial situation. To avoid duplication, please check if there's a similar request already pending or in process.
-</thinking>
-
 # Investment Limit Increase Application Form - Help Guide
 ## Purpose
 The Investment Limit Increase Application Form is designed to help investors and brokers submit applications for increasing their investment limits. The form gathers essential details to facilitate a smooth review and approval process.

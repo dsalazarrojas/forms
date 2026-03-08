@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to report incomplete work items that need to be reworked or addressed. The form helps to track and document incomplete items in a structured manner, making it easier for inspectors to keep track of items that require attention. This form should only be used by authorized personnel to report incomplete work items, and not for other purposes.
-</thinking>
-
 # Incomplete Work Items Report Form - Help Guide
 
 ## Purpose

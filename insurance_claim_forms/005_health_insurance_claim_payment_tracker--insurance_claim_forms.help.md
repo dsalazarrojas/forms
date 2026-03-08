@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is used for tracking health insurance claims payments accurately and effectively. This form should not be used for other purposes, such as creating new claims or updating existing ones. The user should only use this form to track the status and payment details of existing claims.
-The form is designed to be flexible and adaptable to accommodate various claim types, statuses, and payment methods. We will not duplicate or overwrite existing data, and any changes made to the form will be reflected in the main database.
-</thinking>
-
 # Health Insurance Claim Payment Tracker - Help Guide
 ## Purpose
 

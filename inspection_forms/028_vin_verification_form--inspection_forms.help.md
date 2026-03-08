@@ -1,9 +1,3 @@
-<thinking>
-
-To verify the Vehicle Identification Number (VIN) of a vehicle, the vin_verification_form is used to collect and validate essential vehicle information. The form is designed to be completed by authorized personnel to ensure accurate and efficient vehicle identification and validation processes. 
-
-</thinking>
-
 # vin_verification_form - Help Guide
 ## Purpose
 The vin_verification_form is designed to collect and validate Vehicle Identification Numbers (VINs) for vehicles being brought in for inspection. This form helps ensure accurate and efficient vehicle identification and validation processes.

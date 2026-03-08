@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers or users who are interested in getting a tattoo, and to provide a way for them to communicate their inquiries or requests to the tattoo studio. This form is likely used by a business or organization that provides tattoo services, and the goal is to gather relevant details about the customer's preferences and needs so that the studio can provide personalized services or follow up on their inquiry. To ensure that this form is used correctly, please make sure to review this help guide carefully and only fill out the form if you have a genuine inquiry about a tattoo.
-</thinking>
-
 # Tattoo Inquiry Form - Help Guide
 ## Purpose
 The Tattoo Inquiry Form is a tool for customers to share their tattoo inquiries with the studio. Please use this form to provide us with your details, and we will contact you to discuss your options.

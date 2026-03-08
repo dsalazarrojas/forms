@@ -1,24 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and experience of IT support personnel in troubleshooting and resolving general issues. The form is intended to gauge the level of confidence and proficiency in handling hardware and software components, troubleshooting procedures, and overall experience in the field.
-
-The form is structured to collect information on the following topics:
-
-* General troubleshooting knowledge
-* Hardware components
-* Software components
-* Troubleshooting procedure
-* Hardware problems
-* Software problems
-* Hardware troubleshooting
-* Software troubleshooting
-* Confidence in knowledge
-* Confidence in procedure
-* Experience
-
-The form is not affiliated with or derived from any form platform, but rather created using AI to adapt to public survey topic metadata. This form is released under CC BY 4.0 and can be used, modified, or even sold with proper credit.
-
-</thinking>
-
 # it_support_knowledge_assessment - Help Guide
 ## Purpose
 The form is designed to assess the knowledge and experience of IT support personnel in troubleshooting and resolving general issues.

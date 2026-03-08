@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose and requirements for the "property_exit_inspection_form", I need to analyze its YAML structure. The form is designed to collect information related to property inspections, likely for maintenance or assessment purposes. The "Property Exit Inspection Form" is likely used to document the state of a property when a tenant or occupant vacates the premises.
-
-The required fields appear to be minimal, but it's possible that some of the optional fields might be necessary depending on the specific use case or regulatory requirements. For example, the "property_id" field is optional, but it's hard to imagine a property inspection form without it. Similarly, the "notes" field is also optional, but it's a common practice to include notes for future reference.
-
-The form seems to be designed for a simple and straightforward use case, but it's essential to review the form's fields and their purposes to ensure it meets the intended use case.
-</thinking>
-
 # property_exit_inspection_form - Help Guide
 ## Purpose
 The Property Exit Inspection Form is a tool used to document the state of a property when a tenant or occupant vacates the premises. This form helps to assess the property's condition and identify any needed repairs or maintenance.

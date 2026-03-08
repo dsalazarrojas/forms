@@ -1,5 +1,3 @@
-<thinking>Since this form is related to inspecting a mobile home, we need to ensure that the user understands its purpose. This form is used to collect information about the property's address, condition, and features. It is intended to be filled out by someone inspecting a mobile home, probably as part of a home buying or selling process. We should double-check that the form isn't being filled out for a different purpose. Let's also make sure that the user isn't already familiar with the form.</thinking>
-
 # Mobile Home Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about a mobile home's address, condition, and features during an inspection.

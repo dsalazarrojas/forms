@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect user information for virus support purposes. It consists of three pages:
-- User Information: This page asks for basic details about the user submitting the form.
-- Contact Details: This page captures contact information for the user to allow for further communication.
-- Device Information: This page collects details about the device(s) affected by the virus.
-This form was generated using a public survey topic metadata as input for the AI form generator and is released under the Creative Commons BY 4.0 license. This means that users are free to use, modify, and even sell forms derived from this original form, but must give credit.
-</thinking>
-
 # Virus Support Contact Form - Help Guide
 ## Purpose
 This form is for users who need help with virus issues on their devices. It's designed to gather relevant information from users to facilitate effective support.

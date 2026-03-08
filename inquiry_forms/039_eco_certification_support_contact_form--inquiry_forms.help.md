@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a support contact form for individuals seeking help with eco-certification, a process related to environmental certifications or standards. It is likely used to gather contact information and inquiry type from the user. The "inquiry_type" field suggests that this form might be used to distinguish between different types of inquiries, such as seeking eco-certification, general information, or other support. This form does not seem to be intended for users who are already certified or have a specific account to log in with, as none of the fields require or imply a login or account information. There is no indication that the form is used for multiple purposes or that it's a duplicate of another form. 
-
-</thinking>
-
 # Eco Certification Support Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and support inquiries related to eco-certification, allowing users to seek help and guidance on the certification process.

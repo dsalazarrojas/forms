@@ -1,11 +1,3 @@
-<thinking>
-This guide is for the "Device Transfer Log" form, which is used to document the transfer of devices between organizations. This form is intended to be completed by the person responsible for the transfer, and it will help you keep track of the asset's current location, its condition, and the reason for transfer.
-
-Before you start, please note that this form is not meant to be a comprehensive inventory of all devices within an organization. Instead, it's meant for individual, one-time transfers. If you have a large-scale transfer or inventory update, consider using our dedicated inventory tools.
-
-Also, please fill out this form only once for each device transfer. If you need to log multiple transfers for the same device, create a new entry for each transfer.
-</thinking>
-
 # Device Transfer Log - Help Guide
 ## Purpose
 

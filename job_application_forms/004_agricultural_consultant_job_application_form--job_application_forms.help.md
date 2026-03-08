@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agricultural Consultant Job Application Form - Help Guide
 ## Purpose
 This form is a job application for an agricultural consultant position. It collects information about your background, education, experience, and preferences to help us assess your suitability for the role. Please ensure that you are applying for a real job opportunity and not duplicate applications.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to report property damage, allowing users to provide detailed information about the damage incurred, including the type of damage, a description of the damage, the date and time of the damage, and the responsible party. This form is likely used by insurance agents or adjusters to gather information from the insurer (insurer) about the damage. The form is designed to be completed by the insurer, who will be required to provide their details, including name, address, phone number, and email. This form is a critical component of the insurance claims process, and accurate completion of this form is essential for efficient processing of the damage claim.
-</thinking>
-
 # Property Damage Report Form - Help Guide
 
 ## Purpose

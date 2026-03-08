@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure that this form is relevant and not a duplicate, please note that its purpose is to facilitate the software requisition process within an organization. This form collects information necessary for the IT department to understand the request, including the requester's name, department, software name, license type, justification, and other relevant details. The form should only be filled out if the requester is making a new software requisition.
-
-</thinking>
-
 # Collaboration Software Requisition Form - Help Guide
 ## Purpose
 The purpose of this form is to gather necessary information for a software requisition within the organization.

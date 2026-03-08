@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that the Car Seat Donation Intake Form is used correctly and effectively by donors to provide accurate information about the car seats they are donating. This form is designed to collect detailed information about the car seat, including its condition, history, and any potential issues that may affect its safety or functionality. The form should not be used to collect information that is already available in other records or databases. For example, if a car seat has already been inspected and evaluated by our organization, there is no need to fill out this form again. Please fill out this form carefully and accurately to help us process your donation efficiently and ensure the seat's safety and usability.
-
-</thinking>
-
 # Car Seat Donation Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information about the car seat you are donating, ensuring that the seat is safe and suitable for use in our program. Please answer all questions accurately and truthfully.

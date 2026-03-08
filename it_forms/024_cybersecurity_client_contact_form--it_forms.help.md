@@ -1,8 +1,3 @@
-<thinking>
-This form was created to gather information from clients regarding their cybersecurity concerns and contact details. The form is intended to be used by cybersecurity professionals to collect data on potential threats, vulnerabilities, and other security-related issues that clients may be experiencing. The form's design is original and not affiliated with any proprietary form platforms. It is released under a Creative Commons license, allowing users to freely use, modify, and even sell forms derived from it. 
-
-</thinking>
-
 # Cybersecurity Client Contact Form - Help Guide
 
 ## Purpose

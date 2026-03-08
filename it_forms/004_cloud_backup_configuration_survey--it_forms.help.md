@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cloud Backup Configuration Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your current cloud backup configuration and gather feedback to improve the service provided.

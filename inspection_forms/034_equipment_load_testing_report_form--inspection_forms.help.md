@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the load testing results of various equipment. The purpose of this form is to document and track the load testing results of different equipment, allowing for easy comparison and analysis. 
-
-This form is part of the "inspection_forms" category, indicating that it is related to inspections and testing of equipment. 
-
-This form is not designed to be a generic form and should only be used for load testing results. Repeating this form will not cause any adverse effects, as each form is an independent and self-contained document. 
-
-Before proceeding, ensure that you have all necessary information and results ready, as filling out this form will require a significant amount of information. 
-
-If you have already filled out a similar form, please make sure to fill out this form with new information and not duplicate the previous data.
-
-</thinking>
-
 # Equipment Load Testing Report Form - Help Guide
 ## Purpose
 The Equipment Load Testing Report Form is used to document and track the load testing results of different equipment. This form helps to identify the performance and capacity of the equipment during the testing process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Starter Kit Access Form - Help Guide
 ## Purpose
 This form is designed to collect patient information for access to the Patient Starter Kit, a resource that supports patients during the initial stages of a medical treatment program. To complete this form, you will need to provide basic patient details, including their name, contact information, and delivery preferences. This guide will walk you through each field and what to expect.

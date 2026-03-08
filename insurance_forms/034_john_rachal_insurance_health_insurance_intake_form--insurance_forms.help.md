@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from customers or clients about their health insurance coverage. The purpose of the form is to gather relevant details such as name, address, and contact information, as well as specific insurance-related data like policy number, effective date, and expiration date. This form is likely used for internal administrative purposes, such as updating or verifying insurance records.
-Please ensure that you are completing this form for the relevant purpose and do not duplicate it unnecessarily.
-</thinking>
-
 # john_rachal_insurance_health_insurance_intake_form - Help Guide
 ## Purpose
 The John Rachal Insurance Health Insurance Intake Form is a document used to collect information about a person's health insurance coverage.

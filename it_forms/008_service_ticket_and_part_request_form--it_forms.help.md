@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Ticket And Part Request Form - Help Guide
 ## Purpose
 This form is used to create a service ticket and part request for maintenance and repair services. Please use this form to provide details about the service required, part needed, and customer information. This form is not meant for general customer inquiries or feedback.

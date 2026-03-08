@@ -1,7 +1,3 @@
-<thinking>...
-This guide helps end-users understand the purpose and fields of the Seal Intake Inspection Form. The purpose of the form is to collect information about a seal, including its location, type, status, and next steps. It is essential to complete this form accurately to ensure that the seal is properly documented and managed.
-</thinking>
-
 # Seal Intake Inspection Form - Help Guide
 ## Purpose
 The Seal Intake Inspection Form is used to collect information about a seal for inspection and further evaluation. This form is required for all seals.

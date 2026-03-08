@@ -1,11 +1,3 @@
-<thinking>
-
-We are creating this form to help users verify their device's authenticity, which is a crucial process for our internal quality assurance and inventory management. The form will help us collect relevant information about the device, ensuring that it meets our standards for quality, safety, and compatibility.
-
-Before proceeding, please ensure that you have the relevant information and permissions to complete this form.
-
-</thinking>
-
 # Device Verification Form - Help Guide
 ## Purpose
 The Device Verification Form is designed to collect details about devices to verify their authenticity and ensure they meet our quality and safety standards.

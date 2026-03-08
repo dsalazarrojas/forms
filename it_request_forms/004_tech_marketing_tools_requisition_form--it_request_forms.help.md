@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tech-marketing-tools-requisition-form - Help Guide
 
 ## Purpose

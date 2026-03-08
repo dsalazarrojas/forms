@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lost & Found Dog Intake Form - Help Guide
 ## Purpose
 This form is designed to help us gather information about a lost dog, its owner, and any relevant details that might aid in the dog's recovery. Please provide as much detail as possible to increase the chances of reuniting the dog with its owner.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about software inquiries from clients. It is intended to be filled out by clients or project managers to provide details about software requests, project status, and follow-up methods. This form should only be filled out once for each software inquiry. Please note that this form is designed to be completed for internal use only and is not intended for public display.
-</thinking>
-
 # tech_client_software_inquiry_form - Help Guide
 ## Purpose
 This form is used to gather information about software inquiries from clients. It is intended to be filled out by clients or project managers to provide details about software requests, project status, and follow-up methods.

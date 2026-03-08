@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an IT infrastructure. The purpose of this form is to gather data on the primary function of the infrastructure, which components are affected, how it is used, its current status, expected outcome, and other relevant details. This form is not a mandatory form and users can fill it out voluntarily. The form has 25 fields with varying types such as text, select_one, select_multiple, date, time, and number, among others.
-</thinking>
-
 # IT Infrastructure Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect information about the IT infrastructure, its primary function, affected components, usage, and current status.

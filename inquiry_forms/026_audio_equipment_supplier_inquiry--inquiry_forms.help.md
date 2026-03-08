@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients who are inquiring about audio equipment suppliers. It is intended to be completed by clients who are seeking audio equipment for a specific project or event. The form will help the supplier's sales team understand the client's needs and provide a more personalized response. To avoid duplication, please ensure that the client's inquiry is not already in the system before submitting this form.
-</thinking>
-
 # Audio Equipment Supplier Inquiry - Help Guide
 ## Purpose
 The Audio Equipment Supplier Inquiry form is designed to gather information from clients who are inquiring about audio equipment suppliers. This form helps the supplier's sales team understand the client's needs and provide a more personalized response.

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to request access to process documentation. This access is typically needed for tasks such as editing or reviewing documents. The form helps to ensure that the requester provides all necessary information about the document and the intended use of the access request. 
-
-This form is used by users who are requesting access to process documentation, and it is used by administrators to review and manage these requests.
-
-Before filling out this form, ensure that you are not duplicating an existing request.
-
-</thinking>
-
 # Process Documentation Access Request - Help Guide
 ## Purpose
 The Process Documentation Access Request form is used to request access to process documentation. This form helps to gather necessary information about the document and the intended use of the access request.

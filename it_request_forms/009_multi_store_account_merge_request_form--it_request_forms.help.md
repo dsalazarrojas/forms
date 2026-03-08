@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for requesting a merge between multiple store accounts. To request a merge, you must provide information about the account you want to merge. Please ensure that you have the necessary permissions and follow the correct procedures to avoid any account restrictions.
-
-This form is used by administrators to review and approve or reject merge requests based on the provided information. The review process may take some time, so please be patient and allow sufficient time for the review to be completed.
-
-Before submitting this form, please check that the information you provide is accurate and up-to-date. Duplicate or outdated information may cause delays in the review process.
-
-</thinking>
-
 # Multi Store Account Merge Request Form - Help Guide
 ## Purpose
 This form is used to request a merge between multiple store accounts. Please use this form to provide the necessary information for a smooth and efficient merge process.

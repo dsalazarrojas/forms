@@ -1,23 +1,3 @@
-<thinking>
-This form seems to be designed for collecting data related to the status of a pre-loading checklist in an industrial or logistical setting. The form is used to capture details about an event, its completion status, and the completion date of the pre-loading checklist. It may be used in a warehouse, manufacturing, or transportation setting.
-The form has the following fields:
-
-*   **Event Details**: The field for entering a brief description of the event that occurred during the loading process.
-*   **Event Date**: The field for entering the date of the event.
-*   **Loading Status**: The field to select the current status of the loading process (Complete, Incomplete, or No Load).
-*   **Loading Tasks**: The field to select the type of loading tasks performed (Preventive Maintenance, Corrective Maintenance, or Pre Loading Checklist Tasks).
-*   **Comments (Event)**: The field for entering any additional comments related to the event.
-*   **Comments (Overall)**: The field for entering any general comments about the event.
-*   **Additional Comments**: The field for entering any additional information that is not covered in the other fields.
-*   **Pre-Loading Checklist Completion Status**: The field to select the completion status of the pre-loading checklist (Complete, Incomplete).
-*   **Pre-Loading Checklist Completion Date**: The field for entering the date the pre-loading checklist was completed.
-*   **Review Date**: The field for entering the date of the next review of the pre-loading checklist.
-*   **Review Status**: The field to select the current status of the review (Complete, Incomplete).
-*   **Additional Review Comments**: The field for entering any additional comments from the review.
-
-The fields on this form are used to document and track events and activities related to the pre-loading checklist, allowing users to monitor and review progress.
-</thinking>
-
 # Pre Loading Checklist Form - Help Guide
 
 ## Purpose

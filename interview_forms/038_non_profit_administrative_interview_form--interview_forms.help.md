@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Non Profit Administrative Interview Form - Help Guide
 
 ## Purpose

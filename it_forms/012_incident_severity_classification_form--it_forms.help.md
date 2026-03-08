@@ -1,7 +1,3 @@
-<thinking>
-The Incident Severity Classification Form is a tool used to classify incidents based on their impact on the organization. The form helps to standardize and prioritize the classification process, ensuring that incidents are evaluated consistently and accurately. This form is used by staff to classify incidents as Low, Medium, or High, and provide relevant details and justifications for each classification.
-</thinking>
-
 # Incident Severity Classification Form - Help Guide
 ## Purpose
 The Incident Severity Classification Form is a tool used to classify incidents based on their impact on the organization. The form helps to standardize and prioritize the classification process, ensuring that incidents are evaluated consistently and accurately.

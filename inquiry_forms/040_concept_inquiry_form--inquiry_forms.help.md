@@ -1,16 +1,3 @@
-<thinking>
-
-This help guide is to assist users in understanding the purpose of the Concept Inquiry Form and how to fill it out correctly. This form is used to collect information for new concept submissions, and it is essential to complete it accurately and thoroughly.
-
-To ensure that the submitted concept is complete and well-structured, please review the following points before starting:
-
-* Make sure you have a clear and concise concept to submit.
-* Review the form fields to ensure you have all required information.
-* Check that you have not already submitted a similar concept.
-* Double-check that the submission is relevant to the correct department and category.
-
-</thinking>
-
 # Concept Inquiry Form - Help Guide
 ## Purpose
 The Concept Inquiry Form is designed to collect information for new concept submissions. It will help our team understand your idea, its feasibility, and potential impact.

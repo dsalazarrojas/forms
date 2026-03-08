@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Digital Memory Log For Engineers" form, let's analyze the form's purpose and structure. The form appears to be used for logging digital memory-related projects or assets, categorizing them, and tracking associated information such as descriptions, output files, and assigned tools. The "Category" field is a key component in this process, as it seems to group projects/assets into different categories. This guide will aim to clarify each field's intent and requirements for end-users.
-
-</thinking>
-
 # Digital Memory Log For Engineers - Help Guide
 ## Purpose
 The "Digital Memory Log For Engineers" form is designed to collect and organize digital memory-related projects or assets. This form is used to categorize and store information about these projects/assets for easy reference and retrieval.

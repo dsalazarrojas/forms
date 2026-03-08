@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Media Strategist Interview Form - Help Guide
 
 ## Purpose

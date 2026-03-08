@@ -1,5 +1,3 @@
-<thinking>As we design this form, let's ensure that we are meeting the needs of our users. The Insurance Verification Daily Report form is intended to be a tool for insurance providers, claims adjusters, or other authorized personnel to collect and verify daily reports for claims. The form will help to track and process claim statuses, gather necessary information from claimants and submitters, and provide a platform for note-taking and communication. We should verify that the form is easy to use, intuitive, and requires minimal effort from the user. By following this guide, users should be able to complete the form accurately and efficiently.</thinking>
-
 # Insurance Verification Daily Report - Help Guide
 ## Purpose
 The Insurance Verification Daily Report form is designed to collect and verify information for insurance claims on a daily basis. It serves as a tool to track claim statuses, gather necessary details from claimants and submitters, and facilitate note-taking and communication among authorized personnel.

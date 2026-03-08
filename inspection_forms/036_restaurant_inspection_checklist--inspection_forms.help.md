@@ -1,8 +1,3 @@
-<thinking>
-**Inspection Forms are a crucial tool for ensuring businesses and organizations comply with regulatory requirements and maintain high standards of safety and quality. The Restaurant Inspection Checklist is a standard form used to assess a restaurant's compliance with health and safety regulations, fire safety protocols, and other relevant codes and guidelines. Before completing this form, ensure you have reviewed and understood the inspection criteria and the relevant regulations. This form is not intended to be a comprehensive checklist of every possible safety and health inspection item, but rather a general guide to help ensure that your restaurant is in compliance with the most critical aspects of these regulations.**
-
-</thinking>
-
 # Restaurant Inspection Checklist - Help Guide
 ## Purpose
 The Restaurant Inspection Checklist is a standardized form used to evaluate a restaurant's adherence to health and safety regulations, fire safety protocols, and other relevant codes and guidelines. This guide will walk you through each section of the form, explaining the purpose and requirements of each field.

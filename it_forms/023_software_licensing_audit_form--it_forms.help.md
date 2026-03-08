@@ -1,8 +1,3 @@
-<thinking>
-The form is used to conduct a software licensing audit, which is a process to verify the compliance of software usage within an organization. This form will likely be used by IT teams or compliance officers to assess software usage, identify potential issues, and provide feedback for improvement. Before proceeding, please ensure you are familiar with the software licensing audit process and have access to relevant information such as software usage data and vendor information.
-
-</thinking>
-
 # software_licensing_audit_form - Help Guide
 ## Purpose
 This form is designed to guide users through the software licensing audit process, ensuring accurate and thorough data collection.

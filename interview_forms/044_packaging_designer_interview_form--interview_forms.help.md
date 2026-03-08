@@ -1,8 +1,3 @@
-<thinking>
-Packaging Designer Interview Form is used to collect information about an individual who wants to get a job as a packaging designer. This form is likely used in hiring processes within companies or agencies that require packaging design expertise. The form is designed to be completed by the candidate to provide their personal details and experience relevant to the job position. This is not intended for internal use, so it is assumed that it will be filled out by the candidate themselves or their representative. The form is likely to be submitted with other supporting documents like resume and portfolio to get an interview.
-
-</thinking>
-
 # Packaging Designer Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information about your background, experience, and expectations as a packaging designer. Please fill out this form to the best of your ability to help us get to know you better.

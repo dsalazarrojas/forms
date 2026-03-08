@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining authorization to place students in internships. Please ensure that you are filling out the form for the correct purpose and do not submit duplicate forms. This form is for the use of authorized personnel only. Please ensure that you are an authorized user before submitting this form.
-</thinking>
-
 # Internship Placement Authorization Form - Help Guide
 ## Purpose
 This form is for employers to request authorization to place students in internships. The form collects necessary information about the student and employer for the internship placement process.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about equipment process inspections, which are critical for maintaining the health and safety of equipment, ensuring compliance with regulatory requirements, and optimizing operational efficiency. To be effective, the form should only be used for equipment process inspections, and not for other types of inspections or surveys.
-
-When filling out this form, please provide accurate and detailed information about the equipment being inspected. If you're unsure about any field, refer to this guide for clarification.
-
-This form is not intended for use in situations where equipment maintenance status is not relevant (e.g., for non-maintained equipment).
-</thinking>
-
 # Equipment Process Inspection Form - Help Guide
 ## Purpose
 This form collects information about equipment process inspections to maintain equipment health and safety, ensure regulatory compliance, and optimize operational efficiency.

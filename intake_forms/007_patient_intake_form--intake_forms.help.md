@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to provide clear instructions for end-users on how to complete the patient intake form. The form is a crucial part of the patient's care journey, providing essential information for healthcare providers to offer proper treatment. To prevent errors, users should carefully review each field to ensure they complete the form accurately and thoroughly.
-
-Before proceeding, it's essential to note that the form's purpose is to collect patient information for medical treatment purposes. This form should not be used for other reasons, such as marketing or sales activities.
-
-When completing the form, users should be aware that some fields are optional, but all required fields are marked as such. Please ensure that all required fields are filled in to avoid any potential issues with the form submission.
-
-This guide will walk you through each field of the form, explaining what to expect and how to complete it correctly.</thinking>
-
 # Patient Intake Form - Help Guide
 
 ## Purpose

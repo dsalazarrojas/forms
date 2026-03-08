@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the context and purpose of the "Hazardous Material Handling Checklist Form". Based on the provided YAML fields, it seems that this form is used to collect information related to the handling of hazardous materials in a workplace or facility. The form might be used to ensure that employees follow proper procedures for handling hazardous materials to prevent accidents and ensure a safe working environment.
-
-I'll check for relevance and non-duplication by considering the form fields:
-- Page 1: Introduction (not required, but provides context)
-- Employee information (name, phone, email, business address): Collecting basic contact information for the employee
-- Hazardous location: Identifying the area where the hazardous materials are handled
-- Material type: Selecting the type of hazardous material being handled (e.g., chemicals, radioactive materials)
-- Material presentation: Selecting how the material is presented (e.g., liquid, solid, gas)
-- Storage conditions: Noting any specific storage conditions for the hazardous materials
-- Employee signature: Capturing the employee's signature to confirm they completed the form
-
-Based on this analysis, I'll create the help guide in Markdown structure as requested.
-</thinking>
-
 # Hazardous Material Handling Checklist Form - Help Guide
 ## Purpose
 The Hazardous Material Handling Checklist Form is designed to ensure that employees follow proper procedures for handling hazardous materials in the workplace or facility. This form helps to identify potential risks and hazards associated with the handling of hazardous materials and ensures that employees take necessary precautions to prevent accidents and injuries.

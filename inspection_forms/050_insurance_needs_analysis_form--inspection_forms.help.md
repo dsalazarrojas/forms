@@ -1,7 +1,3 @@
-<thinking>
-The form's primary purpose is to analyze the insurance needs of an entity, typically for inspection-related purposes. This form is likely to be used by individuals or teams within an organization to gather information about the entity's insurance status, risk assessment, and potential insurance requirements. The form's purpose is to provide a structured approach to identifying the entity's insurance needs, ensuring accurate and comprehensive analysis.
-</thinking>
-
 # insurance_needs_analysis_form - Help Guide
 ## Purpose
 The Insurance Needs Analysis Form is designed to collect information about an entity's insurance status, risk assessment, and potential insurance requirements. This form helps to ensure accurate and comprehensive analysis of the entity's insurance needs.

@@ -1,15 +1,3 @@
-<thinking>
-Is the form meant to be a request for maintenance, support, or troubleshooting for the HVAC control system? This form is meant to be for maintenance and support requests for the HVAC control system. It appears to be a form for reporting issues or problems with the HVAC control system.
-
-Is this form a duplicate or redundant request? It seems that some fields are related to issues that are already being tracked, such as "Issue Status" and "Closed Date". Are these fields intended to be used in conjunction with a separate system for issue tracking?
-
-Is there a need for additional fields to be added to the form, such as a field for the type of issue (e.g., temperature control, humidity control, etc.)?
-
-Is there a specific format for attachments that should be uploaded? Are there any file size or type restrictions?
-
-Is the "Contact Person" field intended to be used for assigning tasks to specific personnel or individuals?
-</thinking>
-
 # HVAC Control System Request Form - Help Guide
 ## Purpose
 The HVAC Control System Request Form is used to report any issues or problems with the HVAC control system. This form allows users to provide information about the facility, issue, and desired outcome.

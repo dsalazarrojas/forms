@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Sponsorship Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or organizations interested in sponsoring an event. It helps us understand their interest, event details, and contact information. Please fill out this form to initiate the sponsorship process.

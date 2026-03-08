@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll review the form's purpose and ensure it's a good fit for the target audience. This form appears to be a client intake form for neuromuscular massager therapy, which requires clients to provide personal and medical information. I'll review the fields to understand their purpose and create a clear, concise help guide for end-users.</thinking>
-
 # Neuromuscular Massager Therapy Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients before their session with a neuromuscular massager therapist. The data collected will help the therapist understand the client's medical history, treatment goals, and emergency contact information.

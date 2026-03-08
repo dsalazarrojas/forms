@@ -1,20 +1,3 @@
-<thinking>
-
-This form is used to record and store data related to retail product quality audits. The purpose of this form is to gather information about products being inspected, including their name, ID, and location, as well as details about the inspection process, such as the date and time of the audit, the type of audit being performed, and any additional notes or attachments. This form will help auditors collect and document all relevant information about a product's quality in a structured and organized manner.
-
-The form has multiple pages with different sections, each focusing on a specific aspect of the audit. The sections include:
-
-* Audit Data: This page is where auditors enter general information about the product being inspected, such as its name and ID.
-* Questions: This page is where auditors answer specific questions related to the product's quality.
-* Type: This page is where auditors select the type of audit being performed (Physical, Visual, or Documentation).
-* Observation Notes: This page is for auditors to enter any observations or notes related to the product.
-* Product Information: This page is where auditors enter details about the product, including its name, ID, and location.
-* Inspection Details: This page is where auditors enter the date and time of the audit, as well as their ID.
-
-This form is designed to be completed by inspectors who are conducting quality audits on retail products. It is intended to provide a structured and organized way to collect and document information about the products being inspected.
-
-</thinking>
-
 # Retail Product Quality Audit Form - Help Guide
 ## Purpose
 This form is used to record and store data related to retail product quality audits.

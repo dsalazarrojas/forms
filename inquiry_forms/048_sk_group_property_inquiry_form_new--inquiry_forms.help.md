@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a new inquiry form for a property, likely for a real estate or asset management purpose. The form likely serves to collect information from users, such as their inquiry status (yes or no), address, city, state, zip, phone number, email, note, and other relevant details. The form has a mix of select multiple, text, and select one fields, indicating that it is designed to collect various types of data. To prevent duplication, the form might be designed to ensure that a user can only submit the form once. 
-</thinking>
-
 # sk_group_property_inquiry_form_new - Help Guide
 
 ## Purpose

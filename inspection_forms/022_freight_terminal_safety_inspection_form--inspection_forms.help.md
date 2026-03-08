@@ -1,5 +1,3 @@
-<thinking>Inspection forms are an essential tool for ensuring the safe operation of facilities and equipment. The purpose of this form is to gather information about the safety conditions of a freight terminal. The form will ask for general information about the terminal, its location, and contacts. It will also ask specific questions about the terminal's safety features, such as exit markings, lighting, fire extinguishers, and first aid kits. This information will help identify potential safety hazards and facilitate corrective actions to prevent accidents.</thinking>
-
 # Freight Terminal Safety Inspection Form - Help Guide
 ## Purpose
 The Freight Terminal Safety Inspection Form is designed to gather information about the safety conditions of a freight terminal. This form will help you identify potential safety hazards and facilitate corrective actions to prevent accidents.

@@ -1,7 +1,3 @@
-<thinking>
-The Scar Treatment Evaluation Form is designed to collect data and information about scars, including their location, type, size, color, depth, surface, and treatment history. This form will help healthcare professionals evaluate the scar's characteristics and treatment outcomes. To use this form, please ensure that you have a valid reason for filling it out and that it is not a duplicate entry. A valid reason might include a new scar, an updated scar status, or a specific treatment request. 
-</thinking>
-
 # Scar Treatment Evaluation Form - Help Guide
 ## Purpose
 The Scar Treatment Evaluation Form is a tool for healthcare professionals to collect data and information about scars. It helps evaluate the characteristics of a scar and its treatment history.

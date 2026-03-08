@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to conduct a construction project specification audit, which involves reviewing and verifying that a construction project meets the specified requirements and standards. The form is designed to be completed by an auditor who conducts the audit, and it captures key information about the project, including the auditor's name, the project's reference or ID, the date of the audit, and the overall compliance status. The form also allows the auditor to list non-conforming items and recommend corrective actions if needed. The follow-up date for re-inspection or verification is also included. The purpose of this form is to ensure that the construction project meets the specified requirements and standards, and to provide a record of the audit process.
 
 # Construction Project Specification Audit Form - Help Guide

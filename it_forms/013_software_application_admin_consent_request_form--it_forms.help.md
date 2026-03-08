@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Application Admin Consent Request Form - Help Guide
 
 ## Purpose

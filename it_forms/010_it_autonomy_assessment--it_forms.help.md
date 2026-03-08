@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the autonomy and support needs of employees, managers, and reviewers. It collects information on various aspects of employee development and performance, including current level, training needs, assessment completion, and review details. This form likely plays a crucial role in employee development and performance management, ensuring that employees receive the necessary support and resources for growth and improvement.
-
-To ensure that this form is used correctly, it's essential to understand the purpose and requirements of each field. This guide will help users navigate the form and provide clear explanations for each field.
-
-</thinking>
-
 # IT Autonomy Assessment - Help Guide
 ## Purpose
 The IT Autonomy Assessment form is designed to assess the autonomy and support needs of employees, managers, and reviewers. It helps to identify areas where employees need improvement and provides a framework for developing and implementing a support plan.

@@ -1,9 +1,3 @@
-<thinking> 
-  This form is for collecting information from tow truck owners to facilitate the towing insurance process. It's essential to complete this form accurately to ensure that the tow truck's insurance provider is informed of any incidents that may affect their coverage. Please ensure that the information provided is true and up-to-date. 
-
-  To avoid duplication of effort, please note that the information in this form will be sent to the relevant insurance provider for processing. 
-</thinking>
-
 # Tow Truck Insurance Intake Form - Help Guide
 
 ## Purpose

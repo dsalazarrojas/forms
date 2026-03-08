@@ -1,12 +1,3 @@
-<thinking> 
-This form appears to be related to requesting access to a Marketing Keyword Research Tool. The purpose of this form is to gather information from team members who need access to the tool for their projects. The form asks for information about the team members, the access start and end dates, the reason for the request, and other relevant details. This form is likely used by marketing teams to manage access to the keyword research tool within their organization. It's essential to ensure that this form is filled out correctly to avoid any confusion or issues with accessing the tool. It's also crucial that the fields are filled out accurately, as the information will be used to determine access rights and track usage.
-
-To ensure that this form is filled out correctly, it's recommended to review the fields carefully and provide clear explanations for each field. This will help team members understand what information is required and how to fill out the form correctly.
-
-This form is likely to be filled out by marketing team members who need access to the keyword research tool for their projects. If you're unsure about any of the fields, it's recommended to consult with your team lead or marketing director.
-
-Before filling out this form, please review the fields carefully to ensure that you provide accurate and complete information. If you're missing any required information, you may need to request access again, which could delay your project timeline.</thinking>
-
 # Marketing Keyword Research Tool Access Request Form - Help Guide
 ## Purpose
 The Marketing Keyword Research Tool Access Request Form is a tool used to request access to the marketing keyword research tool for projects. This form helps to manage access to the tool and ensure that team members have the necessary permissions to use it.

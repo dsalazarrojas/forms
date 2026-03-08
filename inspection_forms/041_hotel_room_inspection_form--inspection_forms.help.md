@@ -1,13 +1,3 @@
-<thinking>
-This help guide will walk the user through the purpose and usage of the Hotel Room Inspection Form.
-
-The form is designed to be used by hotel staff to inspect and report the condition of a hotel room, including the overall condition of the room, any maintenance requests, and the status of the room after inspection. It is used to ensure that the rooms are kept in a safe and clean condition, and to track any maintenance needs.
-
-The form can be filled out by hotel staff, and will help to identify areas that need attention, and assign tasks and deadlines for maintenance and repair. The information collected on this form will help hotel management to track and follow up on maintenance requests and room conditions.
-
-
-</thinking>
-
 # Hotel Room Inspection Form - Help Guide
 ## Purpose
 The Hotel Room Inspection Form is designed to be used by hotel staff to report the condition of a hotel room, track maintenance needs, and assign tasks and deadlines for maintenance and repair.

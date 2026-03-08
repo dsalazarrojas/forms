@@ -1,5 +1,3 @@
-<thinking>...The goal is to create a comprehensive help guide that provides step-by-step instructions on how to fill out the Smart Sensor Network Upgrade Request Form. Before we dive into the form details, let's make sure the end user understands the purpose of this form. The purpose of this form is to request a hardware upgrade or maintenance for a specific smart sensor, and the form will help us track and manage such requests. Please ensure that you only submit this form for a genuine request and not for other purposes. It's essential to fill out the form accurately to help us serve you better... </thinking>
-
 # Smart Sensor Network Upgrade Request Form - Help Guide
 ## Purpose
 The Smart Sensor Network Upgrade Request Form is designed to request a hardware upgrade or maintenance for a specific smart sensor. This form will help us track and manage such requests efficiently.

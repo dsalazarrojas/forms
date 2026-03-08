@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a private chat room. The purpose of this form is to collect information from users to create a private chat room for a specific purpose. This form should not be filled out multiple times by the same user, as it may cause confusion and duplication of effort. 
-</thinking>
-
 # private_chat_room_request_form - Help Guide
 ## Purpose
 This form is used to request a private chat room for a specific purpose. The information collected through this form will be used to create a private chat room that meets the specified requirements.

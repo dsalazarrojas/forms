@@ -1,9 +1,3 @@
-<thinking>
-This guide is to ensure that end-users understand the purpose and requirements of the Entry Questionnaire form, which is used to gather information about a program.
-The form is designed to collect data on a program's entry details, which is used for internal purposes.
-Before starting, verify that you're not duplicating an existing program.
-</thinking>
-
 # Entry Questionnaire - Help Guide
 ## Purpose
 The Entry Questionnaire form collects data about a program's entry details. This data is used to help manage and track program-related activities.

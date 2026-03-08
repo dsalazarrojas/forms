@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect demographic and contact information from individuals seeking vocational rehabilitation services. It is designed to be completed by the individual or their representative. The purpose of the form is to ensure that the individual's needs and requirements are accurately assessed and processed efficiently. The information collected will be used to provide personalized guidance and support for the individual to achieve their vocational goals. To prevent duplication of services, please ensure that the form is completed only once per individual.
-
-</thinking>
-
 # Vocational Rehabilitation Intake Form - Help Guide
 ## Purpose
 This form is designed to collect demographic and contact information from individuals seeking vocational rehabilitation services. It is intended to be completed by the individual or their representative.

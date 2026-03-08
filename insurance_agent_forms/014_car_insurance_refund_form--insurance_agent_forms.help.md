@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended for insurance agents who need to help clients complete the Car Insurance Refund Form. The form is used to collect information for insurance refund requests, and it's essential to ensure clients provide accurate and complete data to process their refunds correctly. 
-
-Before starting to fill in the form, please note that the client should be guided through each section to avoid missing important information. 
-
-This form is divided into two main sections: Policyholder Information and Refund Information. 
-
-In the Policyholder Information section, clients must provide details about themselves, including first and last names, email, phone number, and address. The client must also specify the policy number associated with the refund request. 
-
-In the Refund Information section, clients will provide details about their refund request, such as the reason for the request, the amount they are requesting, and the method of payment. They will also provide information about their vehicle, including the year, make, and model. 
-
-Please make sure clients complete all required fields to ensure their refund is processed correctly.</thinking>
-
 # Car Insurance Refund Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for recording and documenting the results of a log inspection. The purpose of the form is to gather information about the inspection process, the location and equipment inspected, and any findings or issues that arose during the inspection. This form is intended to help inspectors record their findings in a structured and standardized way, making it easier to track and analyze the data.
-
-To ensure that this form is not duplicated, please check if the same form is available in your organization's repository before creating a new version.
-</thinking>
-
 # Log Inspection Checklist - Help Guide
 ## Purpose
 The Log Inspection Checklist is a form used to document the results of a log inspection. It is designed to gather information about the inspection process, location, and any findings or issues that arose during the inspection.

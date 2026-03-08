@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and track child relocation requests, typically in the context of family court cases. The purpose of this form is to collect information about the applicant's identity, the case details, the child's information, and the reasons and proposed arrangements for the relocation. The form is designed to be completed by the applicant, providing a comprehensive and structured approach to documenting their request. This form should only be completed by the person making the relocation request, and not by anyone representing or acting on behalf of the other parent or party involved in the case. Please ensure you are only completing this form to request relocation for yourself and not on behalf of another party.
-</thinking>
-
 # Child Relocation (Move Away) Request Intake Form - Help Guide
 
 ## Purpose

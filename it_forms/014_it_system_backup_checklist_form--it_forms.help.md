@@ -1,9 +1,3 @@
-<thinking>
-This is my internal reasoning block to understand the form purpose and avoid duplication:
-The form "it_system_backup_checklist_form" is designed to collect information about the IT system backup status, including backup status, server status, storage capacity, system backups, backup schedule, backup frequency, backup method, backup location, backup date, and backup time. This form is likely used for IT system administrators or backup managers to ensure that the system backups are up-to-date and functioning properly. The form requires some fields to be filled out, such as storage capacity, system backups, backup method, backup location, backup date, and backup time, indicating that these are essential pieces of information for the backup process. The form is likely to be used to track and verify the system's backup status, making sure that the backups are being performed regularly and correctly.
-
-</thinking>
-
 # it_system_backup_checklist_form - Help Guide
 
 ## Purpose

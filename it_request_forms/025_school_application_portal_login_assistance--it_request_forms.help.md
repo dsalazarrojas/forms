@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assist individuals with logging in to the School Application Portal. The purpose of this form is to collect information from users in order to verify their identity and ensure a smooth and secure login experience. This form is not intended to collect sensitive or confidential information, and all fields are optional. Please note that this form is not a replacement for the actual login process, but rather a supplementary tool to aid in the process.
-
-Before starting, ensure you are filling out this form with the correct information, as incorrect submissions may cause delays or errors in the login process. If you are unsure about any field, please refer to the field-by-field explanation below.
-
-</thinking>
 # school_application_portal_login_assistance - Help Guide
 ## Purpose
 This form is designed to assist individuals with logging in to the School Application Portal.

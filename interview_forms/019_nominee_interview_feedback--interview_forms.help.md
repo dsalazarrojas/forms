@@ -1,12 +1,3 @@
-<thinking>
-This form is used by hiring managers and interviewers to gather feedback on nominees who have gone through an interview process. The form is designed to collect information on the nominee's performance, strengths, areas for improvement, and final decision. 
-
-When completing this form, make sure you have access to the relevant information and have a clear understanding of the interview process. 
-
-If you've already completed an interview feedback form for this nominee, please ensure that you're not submitting redundant feedback. This form is meant to be a snapshot of the interview experience, so it's essential to be accurate and concise in your input.
-
-</thinking>
-
 # Nominee Interview Feedback - Help Guide
 
 ## Purpose

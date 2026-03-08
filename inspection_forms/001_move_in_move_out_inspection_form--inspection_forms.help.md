@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, "move_in_move_out_inspection_form", is used for the inspection of a building or a house. It is meant to gather information about the condition and status of the building's interior and exterior features. It checks if the property meets the necessary requirements and regulations set by the authorities.
 The form is usually used during a move-in or move-out scenario, when a new tenant or owner takes possession of a property.
 

@@ -1,10 +1,3 @@
-<thinking>
-This guide will help ensure that the user completes the form accurately and correctly. Please review the following steps before proceeding: 
-- Ensure that you have all necessary information to complete the form.
-- Review the form's required fields.
-- Ensure that you have any necessary permissions or approvals before completing the form.
-</thinking>
-
 # Hip Pain Physical Therapy Intake Form - Help Guide
 ## Purpose
 The Hip Pain Physical Therapy Intake Form is used to gather essential information from patients to help our therapists understand their hip pain and create a personalized treatment plan.

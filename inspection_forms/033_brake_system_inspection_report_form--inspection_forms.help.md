@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for documenting the inspection of a vehicle's brake system. It will be used to record information about the vehicle, its brakes, and any issues found during the inspection.
-
-The form is divided into several sections: Report Information, Vehicle Information, Inspection Findings, Issues Identified, Recommendations, and Inspection Status. Each section is meant to collect specific information about the vehicle's status.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Brake System Inspection Report Form - Help Guide
 ## Purpose
 This form is used to document the inspection of a vehicle's brake system. The goal is to record information about the vehicle's brakes, including the type, condition, and any issues found during inspection.

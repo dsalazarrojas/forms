@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, I will review the provided YAML fields to understand its structure and purpose. This form seems to be for inspecting trailers, and it appears to be a checklist-based form with various options for different aspects of the trailer inspection. The purpose of the form seems to be to gather information about the trailer's condition, type, and other relevant details. I will create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means in a concise and practical way.</thinking>
-
 # Trailer Inspection Form - Help Guide
 ## Purpose
 This form is designed to gather information about the trailer's condition and other relevant details during an inspection. The form helps to identify any issues or defects with the trailer and provides a way to document the results of the inspection.

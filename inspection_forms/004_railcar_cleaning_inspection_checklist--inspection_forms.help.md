@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a Railcar Cleaning Inspection Checklist. The form is intended for inspecting the cleanliness of railcars, which is an essential aspect of maintaining rail transportation systems. The form should be used by rail operators or maintenance personnel to ensure that railcars are cleaned and maintained according to established procedures and standards. The fields are designed to collect data on the railcar's condition, inspection details, and any supporting documentation. The form is divided into several sections, including general information, condition assessment, and documentation. Each section has a clear and specific purpose, and the questions are crafted to gather relevant information for the inspection process. The form is designed to be user-friendly and easy to complete, with clear labels and concise options.
-</thinking>
-
 # Railcar Cleaning Inspection Checklist - Help Guide
 ## Purpose
 This form is used to collect information for the cleaning inspection of railcars.

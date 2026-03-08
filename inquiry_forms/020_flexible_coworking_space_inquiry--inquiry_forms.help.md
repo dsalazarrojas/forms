@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This block is meant to be filled with internal reasoning and non-duplication checks.
 
 The purpose of this form is to collect information from users about their flexible coworking space requirements. The form is likely used for internal business development and sales teams to understand the needs and preferences of potential clients. 

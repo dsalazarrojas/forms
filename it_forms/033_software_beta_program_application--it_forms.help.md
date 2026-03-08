@@ -1,7 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Software Beta Program Application" form. This guide will help end-users understand the purpose of the form, how to complete it, and what each field means.
-</thinking>
-
 # Software Beta Program Application - Help Guide
 ## Purpose
 The "Software Beta Program Application" form is designed for users to apply to the beta program for testing and development purposes. The form collects information about the user's background, experience, and motivation for joining the beta program.

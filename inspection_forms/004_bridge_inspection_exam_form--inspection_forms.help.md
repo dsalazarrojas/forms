@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to guide inspectors and engineers in conducting thorough and systematic inspections of bridges. The form is used to record and report on the condition of a bridge, its components, and the findings of the inspection. It is essential to use this form to ensure that all necessary data is collected and reported accurately and consistently. This guide will help users understand how to complete the form and what each field represents.
-
-The form is divided into several sections, each with its unique set of questions and fields. It's crucial to fill out the form in the correct sequence, starting with the general information section, then moving to the bridge details, condition assessment, and finally, the recommendations and follow-up inspection requirements. Please note that some fields are mandatory and must be filled out to ensure accurate and complete reporting.
-
-Before filling out the form, ensure that you have all the necessary information and resources available, such as the bridge's official name or identification number, its location, and the date of the inspection. You should also be familiar with the bridge's components and their condition before proceeding.
-
-</thinking>
-
 # Bridge Inspection Exam Form - Help Guide
 ## Purpose
 This form is designed to guide inspectors and engineers in conducting thorough and systematic inspections of bridges, recording and reporting on the condition of a bridge, its components, and the findings of the inspection.

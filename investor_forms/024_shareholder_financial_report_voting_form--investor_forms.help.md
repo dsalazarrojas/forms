@@ -1,7 +1,3 @@
-<thinking>
-The Shareholder Financial Report Voting Form is a crucial tool for shareholders to submit their financial reports for review and voting. This form is designed to collect essential information from shareholders, including their selected reporting period, contact details, and financial report submission. It is essential that this form is used correctly to ensure accurate and efficient voting processes. This form should not be used for any other purpose other than its intended use. Please make sure to fill out the form completely and accurately as required fields are marked.
-</thinking>
-
 # Shareholder Financial Report Voting Form - Help Guide
 ## Purpose
 The Shareholder Financial Report Voting Form is used for shareholders to submit their financial reports for review and voting. This form is crucial for the financial review process and ensures accurate and efficient voting.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect software user issues from end-users. The fields are designed to gather detailed information about the issue, including its description, category, priority, status, assigned tool, and other relevant details such as the date and time it was reported, the version of the software, and contact information for the reporter. The form is divided into two pages, with the first page asking for basic information like description, category, priority, and status, and the second page asking for more specific details like assigned tool, date, time, and contact information. This form is not intended for general feedback or suggestions but rather for reporting specific issues with the software. The fields marked as "required" are necessary to be filled in order to process the issue correctly. 
-
-</thinking>
-
 # Software User Issue Inquiry Form - Help Guide
 ## Purpose
 The Software User Issue Inquiry Form is a tool for software users to report any issues they encounter with the software. This form is designed to collect relevant information from users to help our team identify and resolve issues effectively.

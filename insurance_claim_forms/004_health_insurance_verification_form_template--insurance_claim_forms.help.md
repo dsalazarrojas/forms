@@ -1,15 +1,3 @@
-<thinking>
-This form is likely used for verifying the details of a health insurance policy. Given the fields included, it seems to cover personal details of the policyholder, policy details, and contact information, which are common requirements for verification purposes. To confirm, the form asks for:
-- First and last names of the policyholder
-- Date of birth
-- Insurance number (which may be the policy ID or similar)
-- Contact information (phone number, email)
-- Policy details (policyholder ID, insurance provider, group number)
-- Policy duration (effective date, expiration date, policy start date)
-
-This guide will help users understand the purpose and use of each field in the form.
-</thinking>
-
 # Health Insurance Verification Form Template - Help Guide
 ## Purpose
 This form is designed to help verify the details of a health insurance policy. It collects personal and policy information to ensure accuracy and validity of the policyholder's identity and coverage.

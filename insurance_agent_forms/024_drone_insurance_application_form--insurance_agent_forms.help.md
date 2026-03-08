@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from drone users for the purpose of applying for drone insurance. The form is intended to gather relevant personal and insurance-related information from the user. 
-
-Before proceeding, please ensure that you are filling out this form for the correct purpose and are not duplicating your efforts. This form is designed for new applications, not renewals or updates. 
-
-Please review the required fields carefully and ensure that you have all necessary information before submitting the form. This will help prevent unnecessary delays in processing your application.
-</thinking>
-
 # Drone Insurance Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from drone users for the purpose of applying for drone insurance. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for digital platform integration contact purposes, such as troubleshooting or providing feedback on issues related to integrations with external tools. The form is designed to collect relevant information from the user, including their name, email, phone number, and integration inquiry details. This information will be used to assign a team member or department to address the inquiry, and track the status of the integration process.
-</thinking>
-
 # digital-platform-integration-contact-form - Help Guide
 ## Purpose
 This form is used for digital platform integration contact purposes, such as troubleshooting or providing feedback on issues related to integrations with external tools.

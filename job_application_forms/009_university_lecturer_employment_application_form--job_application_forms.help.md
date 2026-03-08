@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential candidates for university lecturer positions, ensuring they align with the specific needs and requirements of our institution. This is the primary form used for applications, and its purpose is to gather essential details about the candidate's background, skills, and experience. To avoid duplication of efforts, this form is only accessible by authorized personnel in the HR department. We recommend that candidates complete this form carefully and accurately, as the information provided will be reviewed thoroughly in the hiring process.
-</thinking>
-
 # University Lecturer Employment Application Form - Help Guide
 ## Purpose
 The University Lecturer Employment Application Form is designed to collect necessary information from candidates applying for lecturer positions at our institution. This form helps us assess each candidate's qualifications, experience, and fit for the role. By providing accurate and detailed responses, candidates can help us understand their potential contributions to our academic community.

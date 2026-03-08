@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for insurance purposes. This form is a comprehensive questionnaire that gathers details about a customer's demographics, employment status, family history, medical history, and other relevant information to assess insurance needs and provide accurate quotes or services.
-
-Before proceeding, please ensure that you have not already completed this form. If you have any previous submissions, you may be able to reuse them. In that case, please refer to your previous submission.
-
-This form is divided into sections, each focusing on a specific aspect of the customer's information. Please complete each section carefully, ensuring that you provide accurate and complete information.
-
-Please note that this form collects sensitive information, so please do not submit it if you are not comfortable sharing the required details.
-
-To complete this form, you may need to answer questions about your personal and employment history, medical conditions, and other aspects of your life. The sections may appear lengthy, but please don't hesitate to take the necessary time to provide comprehensive information.
-
-The form's design and layout might vary depending on your device or browser, but it should display clearly and allow you to navigate easily.
-
-Now, let's begin the form completion process!
-
-</thinking>
-
 # insurance_form_questionnaire - Help Guide
 ## Purpose
 This comprehensive form is designed to gather detailed information about a customer's demographics, employment status, family history, medical history, and other relevant aspects to assess insurance needs and provide accurate quotes or services.

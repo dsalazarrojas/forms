@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the purpose and context of this form. This is a Virus Removal Analysis Form, used to collect information for the removal of viruses from a computer system. The form is designed to gather specific details from the user, including suspected malware type, system and user information, and technician's notes, among other fields. This form is likely used by IT departments or help desks to analyze and remove viruses from computer systems.</thinking>
-
 # Virus Removal Analysis Form - Help Guide
 ## Purpose
 The Virus Removal Analysis Form is used to collect information for the removal of viruses from a computer system. This form is designed to help IT departments or help desks gather all necessary details to analyze and remove viruses efficiently.

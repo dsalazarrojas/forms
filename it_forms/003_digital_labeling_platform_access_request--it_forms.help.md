@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request access to a digital labeling platform. The form is likely used for users or clients who want to access the platform to label content, data, or other digital assets. Before proceeding, it is recommended to check if an identical request has already been submitted and approved. This form is not a duplicate if the request is for a different project or purpose.
-</thinking>
-
 # Digital Labeling Platform Access Request - Help Guide
 ## Purpose
 This form is used to request access to the digital labeling platform. Please fill out the form below to submit your request.

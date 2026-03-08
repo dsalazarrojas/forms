@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information related to policy renewal, which is a critical aspect of insurance policies. It is intended for use by insurance agents to gather necessary details from policyholders, ensuring a smooth renewal process. The form is not affiliated with or endorsed by any form platform, and its creation is based on public survey topic metadata and AI algorithms. The form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit. This form is meant to be an original adaptation, not copying or extracting proprietary content from any form creation or survey platform.
-</thinking>
 # Renewal Questionnaire Form - Help Guide
 ## Purpose
 This form is used to collect necessary information related to policy renewal from policyholders. It is designed to help insurance agents gather all required details, ensuring a seamless renewal process.

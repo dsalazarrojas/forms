@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the "Homeowners Insurance Form Template" to assist end-users in understanding its purpose, completing it correctly, and grasping the meaning of each field. This form is designed to gather information for homeowners' insurance policies. It's essential to ensure that the form is completed accurately to prevent errors and provide the best possible coverage. Before creating this guide, let's review the form's properties in the provided YAML input schema. We'll make sure to cover all fields, their types, and any specific instructions or requirements. This guide will be concrete, concise, and practical, explaining each field's purpose and intent without inventing unsupported business logic.
-</thinking>
-
 # Homeowners Insurance Form Template - Help Guide
 ## Purpose
 This form is designed to collect information for homeowners' insurance policies. It's essential to complete it accurately to ensure you receive the best possible coverage.

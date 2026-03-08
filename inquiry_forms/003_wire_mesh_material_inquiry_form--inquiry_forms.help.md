@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # wire_mesh_material_inquiry_form - Help Guide
 
 ## Purpose

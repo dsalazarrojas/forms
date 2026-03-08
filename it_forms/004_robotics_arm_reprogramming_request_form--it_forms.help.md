@@ -1,9 +1,3 @@
-<thinking>
-
-**Automated form validation checks will be performed before submitting this form to ensure that it is not being duplicated or submitted by an unauthorized user.**
-
-</thinking>
-
 # Robotics Arm Reprogramming Request Form - Help Guide
 ## Purpose
 This form is intended to facilitate the reprogramming of robotics arms in our organization. It will help us track requests, assign tasks, and ensure that the necessary adjustments are made efficiently.

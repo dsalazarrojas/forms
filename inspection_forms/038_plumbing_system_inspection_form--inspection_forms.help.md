@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to guide inspectors, building managers, or other authorized personnel in conducting a thorough inspection of a plumbing system. This form is designed to ensure that all necessary information is collected and recorded during the inspection process, allowing for accurate and comprehensive assessment of the system's condition. The form should be used to identify any issues or defects that need to be addressed, and to provide a clear and concise record of the inspection's findings.
-</thinking>
-
 # plumbing_system_inspection_form - Help Guide
 ## Purpose
 The plumbing system inspection form is used to conduct a thorough inspection of a plumbing system and document any issues or defects found. This form helps to identify potential problems and ensure the system is functioning correctly.

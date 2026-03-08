@@ -1,14 +1,3 @@
-<thinking>...
-This form is used to request an extension of an existing user profile. The user profile extension is necessary when an employee's current profile does not accurately reflect their new role, position, or job title. This form is intended for employees who need to add or modify details in their profile.
-To complete this form, the user should follow these steps:
-1. Fill in the request details in the "Request Details" field.
-2. Select the approval status for the request from the dropdown menu next to the "Manager Approval" field.
-3. Enter the manager's name in the "Manager Name" field.
-4. Enter the manager's email in the "Manager Email" field.
-5. (Optional) Enter the manager's phone number in the "Manager Phone" field.
-6. (Optional) Enter the manager's job title in the "Manager Job Title" field.
-</thinking>
-
 # Enterprise User Profile Extension Request - Help Guide
 ## Purpose
 This form is used to request an extension of an existing user profile. The user profile extension is necessary when an employee's current profile does not accurately reflect their new role, position, or job title.

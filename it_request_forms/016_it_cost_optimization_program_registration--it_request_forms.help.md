@@ -1,14 +1,3 @@
-<thinking>
-This form is used to register participants for the IT Cost Optimization Program. The purpose of this form is to capture information about the participant, their organization, and the submitter who is requesting the program. This information will be used to review and approve the submission.
-
-Before proceeding, please ensure that you are not already registered for this program and that you are submitting on behalf of yourself or your organization. If you are unsure, please contact your manager or the program administrator for clarification.
-
-Please note that this form is divided into several sections, each with its own specific fields and instructions. Please review each section carefully to ensure that you are providing the correct information.
-
-To submit this form, you will need to provide information for the following fields:
-
-</thinking>
-
 # IT Cost Optimization Program Registration - Help Guide
 ## Purpose
 This form is used to register participants for the IT Cost Optimization Program. The purpose of this form is to capture information about the participant, their organization, and the submitter who is requesting the program.

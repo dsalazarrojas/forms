@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for reporting potential or actual cybersecurity threats to the IT security team. It is intended to gather information about a specific threat, including its description, type, severity, frequency, source, and recommended action. It is essential to fill out this form thoroughly and accurately to ensure that the IT security team can effectively address and mitigate the threat.
-
-To complete this form, please review each field carefully and enter relevant information.
-
-</thinking>
-
 # Cybersecurity Threat Report Form - Help Guide
 ## Purpose
 The Cybersecurity Threat Report Form is a tool used to report and document potential or actual cybersecurity threats to the IT security team.

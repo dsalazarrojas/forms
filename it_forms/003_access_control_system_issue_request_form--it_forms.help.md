@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help me create the help guide for the Access Control System Issue Request Form, I will first review the provided YAML fields and provide a brief internal reasoning block to clarify the form's purpose and potential issues with duplication and relevance.
 
 **Internal Reasoning Block**

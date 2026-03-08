@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to help inspectors record and document the findings of a plumbing inspection. This form is likely used by building inspectors or plumbers to ensure that a property's plumbing system meets certain standards and safety requirements. It's a simple form that gathers basic information such as the house address, type of inspection (e.g., general inspection, well inspection, or other), inspector signature, date of inspection, time of inspection, and any additional notes.
-</thinking>
-
 # Plumbing Inspection Checklist Form - Help Guide
 ## Purpose
 The Plumbing Inspection Checklist Form is used by inspectors to document the findings of a plumbing inspection on a property, ensuring that the system meets safety standards and regulations.

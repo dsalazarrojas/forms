@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from potential customers interested in purchasing a custom cake for an event or occasion. This form will help you provide the necessary details to ensure that your cake needs are met. Please note that some fields are marked as "required" to ensure that we have enough information to proceed with your order. You can skip any non-required fields if they do not apply to your situation. Before completing this form, please check that you haven't already submitted similar information, as this will help us to better understand and address your needs.</thinking>
-
 # Cake Inquiry Form - Help Guide
 ## Purpose
 The Cake Inquiry Form is designed to collect information from potential customers interested in purchasing a custom cake for an event or occasion.

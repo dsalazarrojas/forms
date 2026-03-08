@@ -1,9 +1,3 @@
-<thinking> 
-This form is designed to collect information for integrating Retail Voice Assistant into a retail store location. The form is used to gather details about the store's integration status, location, and integration requirements. The form will help us understand the store's needs and provide guidance on how to proceed with the integration.
-
-To confirm, I will not duplicate this form and ensure it meets the requirements for the integration. The form will be reviewed and validated before processing.
-
-</thinking>
 # retail_voice_assistant_integration_application - Help Guide
 ## Purpose
 This form is designed to collect information for integrating Retail Voice Assistant into a retail store location.

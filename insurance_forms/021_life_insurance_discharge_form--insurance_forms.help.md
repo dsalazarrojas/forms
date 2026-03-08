@@ -1,12 +1,3 @@
-<thinking>
-To ensure that I provide the most accurate and relevant information, let me analyze the form purpose and fields before generating the user-facing help guide.
-
-This form is likely used for the life insurance process to obtain a discharge, which means the policy holder wants to cancel or terminate their life insurance policy. The purpose of this form is to gather information about the policy holder, claimant, and other relevant details.
-
-After analyzing the form fields, I will generate the user-facing help guide with clear and concise explanations for each field.
-
-</thinking>
-
 # Life Insurance Discharge Form - Help Guide
 ## Purpose
 The purpose of this form is to provide information required to complete a life insurance discharge.

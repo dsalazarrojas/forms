@@ -1,6 +1,3 @@
-<thinking> 
-We need to ensure that only unique, genuine registrations are submitted, avoiding duplication of work. Please review the form carefully before submitting. This form collects information for the Long Term Care Planning process, used to determine the appropriate level of care required. This information will be reviewed and processed for planning and care coordination.</thinking>
-
 # Long Term Care Planning Registration - Help Guide
 ## Purpose
 The Long Term Care Planning Registration form is used to collect information for the Long Term Care Planning process, which helps determine the appropriate level of care required for a patient.

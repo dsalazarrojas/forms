@@ -1,8 +1,3 @@
-<thinking>
-The ride sharing vehicle inspection form is designed to inspect vehicles for ride sharing purposes, such as taxis, Ubers, Lyfts, etc. This form will help inspect vehicles to check on their condition, status, and other relevant details before they are allowed to operate on the platform. This form is intended for use by inspectors who are checking vehicles for fitness to operate on the ride sharing platform. Please note that this form is not intended to be used for personal vehicle inspections.
-
-</thinking>
-
 # ride_sharing_vehicle_inspection_form - Help Guide
 ## Purpose
 The ride sharing vehicle inspection form is used to inspect vehicles for ride sharing purposes, ensuring they meet the required conditions and standards to operate on the platform.

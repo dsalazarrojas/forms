@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users about issues that require attention from the CrowdStrike team. The form is designed to be completed by users who identify an issue that needs to be addressed, and it will be reviewed by the team to determine the best course of action. To avoid duplicate submissions, users are encouraged to check if a similar issue has already been reported before filling out this form. 
-</thinking>
-
 # CrowdStrike Fix Request Form - Help Guide
 
 ## Purpose

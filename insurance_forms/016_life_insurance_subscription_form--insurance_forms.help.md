@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed for users to provide contact and insurance information for life insurance subscriptions. It is crucial that the user has a clear understanding of the type of life insurance being subscribed to (Individual or Group) and the details of the policy. This form is typically used during the onboarding process of a new life insurance subscription. 
 
 # life_insurance_subscription_form - Help Guide

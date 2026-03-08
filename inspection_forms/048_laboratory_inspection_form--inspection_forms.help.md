@@ -1,12 +1,3 @@
-<thinking>
-The "laboratory_inspection_form" is a form used to document and record information about a facility's inspection. The purpose of this form is to gather data about the facility's safety, equipment, and personnel, which can be used to inform inspection decisions and ensure compliance with regulatory requirements. This form is likely used in an occupational health and safety context, such as in a construction site or a laboratory setting. 
-
-This form should not be used for other purposes, such as general contact information gathering or employee onboarding. Each field in this form is specifically designed to capture relevant details about the facility, and the form should only be used for the intended purpose of inspection documentation.
-
-In this guide, we will walk you through the different sections and fields of the form, explaining each one in detail to ensure you can complete the form accurately and effectively.
-
-</thinking>
-
 # laboratory_inspection_form - Help Guide
 ## Purpose
 The laboratory_inspection_form is used to document and record information about a facility's inspection. This form is designed to gather data about the facility's safety, equipment, and personnel, and is used to inform inspection decisions and ensure compliance with regulatory requirements.

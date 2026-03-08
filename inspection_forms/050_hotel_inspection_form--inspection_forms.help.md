@@ -1,16 +1,3 @@
-<thinking>
-This form is used for inspecting hotels and gathering feedback from users. The form is designed to collect data on various aspects of the hotel, such as facilities, services, cleanliness, staff, and overall satisfaction. The form is meant to be completed by users who have visited or interacted with the hotel, and the feedback collected will be used for improvement purposes.
-
-To ensure that the form is not used for malicious purposes, the following guidelines should be followed:
-
-* The form should not be used to submit fake or misleading feedback.
-* The form should not be used to collect sensitive or personal information about individuals without proper consent.
-* The form should not be used to manipulate or influence users to submit specific answers.
-
-If the form is being used for these purposes, it will be removed from the system and users may be penalized accordingly.
-
-</thinking>
-
 # Hotel Inspection Form - Help Guide
 ## Purpose
 The Hotel Inspection Form is used to gather feedback from users about their experience with a hotel. The feedback collected will help the hotel management to identify areas of improvement.

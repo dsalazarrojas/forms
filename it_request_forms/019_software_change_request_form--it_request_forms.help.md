@@ -1,7 +1,3 @@
-<thinking>
-This form is used by internal stakeholders to submit software change requests. Please fill out this form if you have a software change request that requires technical support or maintenance. Ensure that you are using this form for a new software change request, as repeating the same request multiple times may lead to confusion. If you have already submitted a change request, it's best to check the status and update your previous request instead of submitting another one.
-</thinking>
-
 # Software Change Request Form - Help Guide
 ## Purpose
 This form is used by internal stakeholders to submit software change requests for technical support or maintenance.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request access to a security group. It is intended for users to provide details about their access request, including the requestor's name and email, a description of the request, and the type of access they are requesting. The form is not intended for users to request multiple types of access simultaneously. If a user has already submitted a request for the same type of access, they will be prompted to check if they have already submitted a request for that type of access before submitting a new one.
-</thinking>
-
 # security_group_ingress_authorization_request_form - Help Guide
 ## Purpose
 This form is used to request access to a security group.

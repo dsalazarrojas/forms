@@ -1,8 +1,3 @@
-<thinking>
-To prevent duplication and ensure accurate completion, it's essential to understand that the jkc-kakinada form is a crucial tool for tracking and managing user information. This form is designed to collect various details about users, including their category, description, form IDs, assigned tool, file, date, time, phone number, email, note, file, username, password, password verification, relation, status, status date, status time, status note, additional files, phone numbers, and email addresses. To avoid confusion and errors, please review each field carefully and ensure that you fill in the correct information in the right fields.
-
-</thinking>
-
 # jkc-kakinada - Help Guide
 ## Purpose
 The jkc-kakinada form is a comprehensive tool for collecting and tracking user information. It is designed to gather essential details about users, including their category, description, form IDs, assigned tool, file, date, time, phone number, email, note, file, username, password, password verification, relation, status, status date, status time, status note, additional files, phone numbers, and email addresses.

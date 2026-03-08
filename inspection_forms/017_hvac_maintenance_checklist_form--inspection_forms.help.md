@@ -1,7 +1,3 @@
-<thinking>
-The form was created to gather information about the status and maintenance needs of HVAC systems in a facility or building. It is meant to be used by facility managers, maintenance personnel, or other stakeholders to ensure that all components of the HVAC system are functioning properly and in good condition. This form should not be used for purposes other than HVAC system maintenance, and it is designed to be a one-time use form. It was not derived from any existing form or survey platform.
-</thinking>
-
 # HVAC Maintenance Checklist Form - Help Guide
 ## Purpose
 This form is used to gather information about the status and maintenance needs of HVAC systems in a facility or building. It is intended for facility managers, maintenance personnel, or other stakeholders to ensure all components of the HVAC system are functioning properly and in good condition.

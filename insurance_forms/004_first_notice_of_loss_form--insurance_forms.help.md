@@ -1,14 +1,3 @@
-<thinking>
-To provide a comprehensive guide for users, let's break down the purpose and requirements of the First Notice Of Loss Form.
-
-This form is used for reporting an incident or loss that may be covered under an insurance policy. The form helps the user to provide essential details about the incident, including the insured's name, address, and contact information, as well as information about the loss, such as type and location. The form is designed to gather relevant facts about the incident to support the claims process.
-
-This form is not intended to be completed for every small incident. It is primarily used for reporting significant events that may impact the insurance coverage or policy terms.
-
-Please note that the form is not a substitute for any official police report.
-
-</thinking>
-
 # First Notice Of Loss Form - Help Guide
 ## Purpose
 The First Notice Of Loss Form is used to report an incident or loss that may be covered under an insurance policy. It is an essential document to provide details about the event and support the claims process.

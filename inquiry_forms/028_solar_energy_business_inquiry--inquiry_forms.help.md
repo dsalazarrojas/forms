@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Solar Energy Business Inquiry - Help Guide
 ## Purpose
 The Solar Energy Business Inquiry form is designed to collect information from customers interested in learning more about our solar energy business. This form is intended for customers who want to get in touch with our team to discuss their solar energy needs or to inquire about our services. By providing us with their contact information, customers can help us to better understand their requirements and provide them with tailored solutions.

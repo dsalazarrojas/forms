@@ -1,5 +1,3 @@
-<thinking>...checking if the form is a duplicate of an existing form and if it aligns with our company's vehicle inspection process...</thinking>
-
 # Company Vehicle Weekly Inspection Sheet - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting Over The Air (OTA) updates for various categories and subcategories. This form is intended for internal use only, and it's meant for employees to submit requests for updates to devices, software, or configurations. The form is not meant for external users. To ensure that each request is reviewed and processed efficiently, please only submit requests that are not already in progress or completed. Before submitting a request, please check the status of the current request with the relevant team or department to avoid duplicate submissions.
-</thinking>
-
 # Over The Air Update Request Form - Help Guide
 ## Purpose
 The Over The Air Update Request Form is designed to collect information from employees for requesting Over The Air updates. This form helps the IT team to track and manage update requests efficiently.

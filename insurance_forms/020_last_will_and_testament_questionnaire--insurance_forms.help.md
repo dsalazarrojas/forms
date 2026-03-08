@@ -1,7 +1,3 @@
-<thinking> This form is designed to collect information from an individual about their personal details, beneficiaries, and estate information. It's essential to fill out this form accurately and honestly to ensure that the will is executed as intended. Please note that this form is not intended for minor children or individuals with cognitive disabilities. 
-
-</thinking>
-
 # Last Will And Testament Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information necessary for creating a Last Will and Testament. Please answer all questions truthfully and accurately.

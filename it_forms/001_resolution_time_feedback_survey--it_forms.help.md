@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from customers or end-users about the response and resolution times of support teams. It is meant to help the support team evaluate their performance and identify areas for improvement. This form should only be filled out by customers or end-users who have had an experience with the support team. Please do not fill out this form if you have already provided feedback on this issue previously.
-</thinking>
-
 # Resolution Time Feedback Survey - Help Guide
 ## Purpose
 The Resolution Time Feedback Survey is a tool used to collect feedback from customers or end-users about the response and resolution times of support teams. This form is meant to help the support team evaluate their performance and identify areas for improvement.

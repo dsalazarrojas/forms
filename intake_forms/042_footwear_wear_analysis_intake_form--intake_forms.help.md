@@ -1,7 +1,3 @@
-<thinking>
-We must ensure that the user-facing help guide accurately conveys the purpose and requirements for completing the Footwear Wear Analysis Intake Form. This form is intended to collect detailed information about a user's footwear wear, including pain reports, gait assessment, footwear usage, and other relevant factors. The form's layout and field labels should be clear and concise to facilitate easy understanding and completion. Before proceeding, let's review the provided YAML fields to understand the form's structure and requirements.
-</thinking>
-
 # Footwear Wear Analysis Intake Form - Help Guide
 ## Purpose
 The Footwear Wear Analysis Intake Form is designed to collect comprehensive information about a user's footwear wear, including pain reports, gait assessment, and other relevant factors. This form helps our team understand the user's footwear wear and provide informed recommendations for prevention and management.

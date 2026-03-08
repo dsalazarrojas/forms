@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **School District Technology Audit Form - Help Guide**
 
 ## Purpose

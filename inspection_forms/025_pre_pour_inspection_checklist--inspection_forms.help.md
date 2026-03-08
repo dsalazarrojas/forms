@@ -1,7 +1,3 @@
-<thinking>
-The goal is to ensure that the form's purpose is clearly understood and the fields are accurately completed.
-</thinking>
-
 # Pre Pour Inspection Checklist - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to estimate software budget. The form is used to collect information from users for the purpose of estimating software budget. This form does not contain any sensitive or proprietary content, and it is a public domain form created using public metadata as inspiration. The form does not collect or use any data from any other form platforms. 
-
-</thinking>
-
 # software-budget-estimation-form - Help Guide
 ## Purpose
 This form is designed to help you estimate software budget for your project. It collects information about your project and team to provide an estimation of the costs involved.

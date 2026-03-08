@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feature details from users, which will likely be used to track and report on the progress of features within the organization. It is likely used by project managers or developers to gather information about the features being worked on. To ensure the form is filled out correctly, it should only be filled out once per feature.
-</thinking>
-
 # feature_details_form - Help Guide
 ## Purpose
 The feature_details_form is used to collect information about features being worked on in your project.

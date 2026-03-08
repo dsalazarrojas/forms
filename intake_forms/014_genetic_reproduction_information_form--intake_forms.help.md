@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for collecting genetic reproduction information from patients. The purpose of this form is to gather data on the patient's family history, reproductive history, and genetic background, aiming to provide valuable insights for medical professionals and researchers.
-
-The form is not intended to be a comprehensive medical questionnaire, but rather a collection of text-based information. It is not a substitute for professional medical advice or diagnosis. The data collected will be used for research and statistical analysis purposes only.
-
-Please note that this form is a generic adaptation and not affiliated with any form platform. The form fields are self-explanatory, and the required fields are marked as "required" in the form metadata.
-
-</thinking>
-
 # Genetic Reproduction Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect genetic reproduction information from patients, including their family history, reproductive history, and genetic background.

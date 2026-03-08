@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information on process compliance checklists, likely used in a business or organizational setting to ensure that processes are reviewed and audited regularly. The form's purpose is to provide a structured way to document and track the completion of these checklists, allowing for efficient and effective process management. The form likely serves as a tool for process owners and reviewers to ensure that processes are running smoothly, identifying areas of improvement, and implementing corrective actions to prevent future issues. 
-
-Before proceeding, it is crucial to review the form's content to ensure that it accurately reflects the specific requirements and processes of the organization. It is also essential to check for any duplicate or irrelevant fields to avoid unnecessary data entry and potential confusion.
-
-To confirm, I will proceed to create the help guide for the user-facing form, based on the provided YAML content.
-</thinking>
-
 # Process Compliance Checklist Form - Help Guide
 ## Purpose
 This form is designed to collect information on process compliance checklists, used for reviewing and auditing processes in a business or organizational setting.

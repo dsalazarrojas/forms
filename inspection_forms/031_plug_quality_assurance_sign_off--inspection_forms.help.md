@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and sign off on the quality assurance process for a specific plug. It ensures that all relevant details are captured and approved by the relevant parties. Before starting, ensure you have all the necessary information and approvals in place. This form should not be used for any other purpose other than plug quality assurance sign off.
-</thinking>
-
 # Plug Quality Assurance Sign Off - Help Guide
 ## Purpose
 This form is used to document and sign off on the quality assurance process for a specific plug.

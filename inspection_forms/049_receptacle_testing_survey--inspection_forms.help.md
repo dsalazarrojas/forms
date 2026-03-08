@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about the testing of receptacles, which are containers or containers used to store or transport liquids, gases, or other substances. The purpose of this form is to collect data on the receptacles being tested, including their location, address, and test results. It appears to be a comprehensive form that covers various aspects of the testing process, including the testing date and time, results, and any issues found.
-
-This form likely originated from a public survey topic related to inspection forms, which are commonly used in industries such as construction, manufacturing, or logistics. The form's structure and fields suggest it's intended for use by people with some level of knowledge about the context, such as inspectors, quality control specialists, or engineers.
-
-The form does not appear to be a generic or one-size-fits-all form, but rather a specific tool for a particular industry or context. Its complexity and number of pages suggest that it might be used for detailed, technical testing processes.</thinking>
-
 # Receptacle Testing Survey - Help Guide
 
 ## Purpose

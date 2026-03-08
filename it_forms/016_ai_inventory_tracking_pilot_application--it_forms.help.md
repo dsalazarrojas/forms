@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to be a tool for tracking and managing inventory data for AI applications. The form collects information from applicants who wish to participate in an AI inventory tracking pilot application. The information gathered will help the pilot project team understand the needs and expectations of potential participants and guide the project's development and implementation.
-
-This form is intended for use by applicants who wish to submit their application for participation in the pilot project. The form will be reviewed by the project team to determine eligibility and suitability for participation.
-
-The form collects the following information:
-- Applicant information (name, contact email)
-- Company information (name)
-- Project details (expected scope of inventory, objectives)
-- Technical contacts (names, emails)
-- Additional information (constraints, preferred start date)
-
-It's essential to be clear and concise in providing the necessary information to maximize the chances of a successful application.
-</thinking>
-
 # AI Inventory Tracking Pilot Application - Help Guide
 ## Purpose
 This form is designed to gather information from applicants who wish to participate in the AI inventory tracking pilot application.

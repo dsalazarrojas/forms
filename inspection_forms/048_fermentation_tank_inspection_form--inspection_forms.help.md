@@ -1,25 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, it's essential to confirm that the form is being used correctly and for its intended purpose. This is the Fermentation Tank Inspection Form, used to track and document the condition and status of fermentation tanks on a specific date. 
-
-* Confirm that the form is used for its intended purpose and not for any other reason.
-* Ensure that the form is only filled out for the correct tank, and not a different type of tank.
-* Verify that all necessary information is filled out before submitting the form.
-This form is intended to collect the following key information about each tank:
-* The tank number for easy identification.
-* The type of tank, which can be a specific material or style.
-* The condition of the tank, including any signs of contamination or damage.
-* The date and time of inspection.
-* The temperature of the tank, in degrees Celsius or Fahrenheit.
-* The level of contents in the tank.
-* Any comments or notes about the tank's condition.
-* The person assigned to monitor the tank.
-* The date assigned to, which can be used for tracking progress.
-* The contact email and phone number of the person assigned.
-* A signature of the inspector, which can be used for verification.
-
-Before proceeding, please note that some fields are optional, but all required fields are marked as such. This form is designed to be simple and easy to use. If you're unsure about any field or the entire form, please reach out to your supervisor or colleague for clarification.
-</thinking>
-
 # Fermentation Tank Inspection Form - Help Guide
 ## Purpose
 The Fermentation Tank Inspection Form is a document used to record and assess the condition and status of fermentation tanks on a specific date. This form is used to collect crucial information about each tank, enabling efficient monitoring, inspection, and maintenance.

@@ -1,7 +1,3 @@
-<thinking>
-This is a form used to collect information on the maintenance work performed on a bridge. The form is used by maintenance crews to record the details of their work and submit it for review and approval. It's designed to be completed by the crew leader after each maintenance session. The form should only be filled out by authorized personnel and only for official maintenance activities.
-</thinking>
-
 # Bridge Maintenance Checklist Form - Help Guide
 ## Purpose
 

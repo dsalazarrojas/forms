@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used for IT network security inspections, allowing users to report and track network security issues and incidents. The form is likely used by IT teams to identify and address potential security threats, and to document the results of their inspections. Before proceeding, please ensure that you are authorized to complete this form and that the information you provide is accurate and up-to-date.
-
-To complete this form, follow the instructions below.
-</thinking>
-
 # IT Network Security Inspection Form - Help Guide
 ## Purpose
 This form is used to report and track network security issues and incidents. It helps IT teams identify and address potential security threats.

@@ -1,7 +1,3 @@
-<thinking>
-This block is intended to check if the purpose of this form is relevant and not duplicated. For example, does the form ask questions that are specific to a solar system inquiry, like energy usage or preferred installers? If so, it's likely relevant and not a duplication. However, if it's just asking general questions that can be answered on other forms, then it's likely a duplication.
-</thinking>
-
 # Custom Solar System Inquiry - Help Guide
 ## Purpose
 This form is designed to gather information from customers who are interested in inquiring about custom solar system solutions for their properties. The questions cover various aspects of the inquiry, such as energy usage, preferred installers, and property details, to provide a comprehensive understanding of the customer's needs and preferences.

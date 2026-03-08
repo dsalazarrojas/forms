@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a new server application. 
-The form is used to register and store details of the new server application, which can be used to track and manage the application's requirements and characteristics. 
-This form should not be completed multiple times, as it is intended to capture only one server application's details at a time. 
-Ensure that each server application is registered only once.
-</thinking>
-
 # Server Application Registration - Help Guide
 ## Purpose
 The "Server Application Registration" form is used to collect information about a new server application. This form helps to store and track the characteristics and requirements of the server application, making it easier to manage and monitor its resources.

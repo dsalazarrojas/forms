@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for massage therapy services. The form is intended to gather details about the patient's appointment, including the appointment time, date, and type. The form also collects information about the patient's symptoms, massage preferences, and any relevant medical history. This form is a necessary part of the massage therapy process to ensure that the practitioner is adequately prepared to provide the best possible care for the patient.
-To complete this form, the practitioner should review the form carefully and ensure that all required fields are filled in accurately. The patient's appointment time, date, and type should be filled in according to their actual schedule and preferences. The symptoms section should be filled in according to the patient's actual symptoms, and the practitioner should note any relevant medical history. The massage duration should be selected according to the patient's preferred length of time for the massage.
-</thinking>
-
 # Massage Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from patients for massage therapy services, including appointment details, symptoms, and massage preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess a user's network and internet connection quality, devices used, issues encountered, provide feedback, and collect additional contact information. This form will be used to help identify potential issues with network connectivity and provide a way for users to report issues or provide feedback. This form is not intended for general feedback or comments, but rather for specific issues related to network and internet connectivity.
-</thinking>
-
 # Network And Internet Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about a user's network and internet connection quality, devices used, and any issues encountered. This information will be used to help identify potential issues and provide a way for users to report issues or provide feedback.

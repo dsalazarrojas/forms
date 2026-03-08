@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for hospital staff members to assess the hygiene standards in various hospital departments during a visit. The form collects data on patient identification, date of visit, inspector's information, patient condition, hospital department, assessment type, facility rating, patient rating, comments, follow-up recommendations, facility score, and score explanation.
-
-The form's purpose is to gather information to evaluate the cleanliness and safety of hospital facilities, identify areas that need improvement, and provide recommendations for future visits. It is essential to complete this form accurately to ensure that the hospital maintains high standards of hygiene and care.
-
-To avoid duplication of effort, it is recommended that the form is completed by one inspector per department during each visit. This will help to ensure that the data collected is consistent and accurate.
-
-</thinking>
-
 # Hospital Hygiene Standards Assessment Form - Help Guide
 ## Purpose
 The Hospital Hygiene Standards Assessment Form is a tool used to evaluate the hygiene standards in hospital departments during visits.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from clients to provide them with personalized guided meditation services. Before completing this form, please ensure that you are a client seeking these services and that you have not already submitted a similar form in the past. The fields below are designed to help us understand your needs and preferences for meditation sessions.
-</thinking>
-
 # Guided Meditation Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from clients to provide them with personalized guided meditation services. Please ensure that you are a client seeking these services and have not already submitted a similar form in the past.

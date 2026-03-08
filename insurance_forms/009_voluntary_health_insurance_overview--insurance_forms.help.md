@@ -1,13 +1,3 @@
-<thinking>
-This help guide is for users who need to provide information about voluntary health insurance coverage. The form is designed to collect personal and insurance-related information from users. To ensure accurate and complete data entry, please review each section carefully and provide the required information. Please be aware that this form is for general informational purposes only and not for actual insurance application or claim submission.
-
-Before starting, please note that the form is divided into several sections. Each section has a specific purpose and requires relevant information. If you are unsure about any field, please refer to the "Field-by-Field Explanation" section for clarification.
-
-Please keep in mind that all fields are optional unless marked as required. Required fields are marked with a asterisk (\*). Failure to provide required information may result in incomplete or inaccurate record keeping.
-
-To complete this form, follow the "How To Complete This Form" instructions. If you have any questions or concerns, feel free to reach out to our support team for assistance.
-</thinking>
-
 # Voluntary Health Insurance Overview - Help Guide
 ## Purpose
 This form is designed to collect information about voluntary health insurance coverage for users. It is used to capture details about coverage type, start and end dates, and other relevant information.

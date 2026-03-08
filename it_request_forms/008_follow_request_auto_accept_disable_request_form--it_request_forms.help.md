@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Follow Request Auto Accept Disable Request Form - Help Guide
 ## Purpose
 This form is designed to be filled out by support teams when a follow-up action is required on a ticket. The form helps to track and manage follow-up requests, and its primary purpose is to disable auto-accept functionality for specific requests.

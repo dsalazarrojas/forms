@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect essential information for social workers to intake patients, ensuring they have the necessary data to provide proper care and support. This form should only be completed by authorized personnel, and the information collected will be reviewed and verified before being stored in our system.
-
-Before filling out this form, ensure you are authorized to access and complete it. If you're unsure, please contact the relevant authorities for guidance. Also, please note that this form is intended for individual entries, so please do not duplicate entries or submit unnecessary information.
-
-</thinking>
-
 # Social Worker Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information for social workers to provide proper care and support to patients.

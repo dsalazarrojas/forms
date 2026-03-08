@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insurance Opt Out Form - Help Guide
 ## Purpose
 The Insurance Opt Out Form is used to document a student's or patient's decision to opt out of their insurance coverage. This form is typically used when a student or patient wants to decline or cancel their insurance coverage for any reason. It is essential to complete this form accurately to ensure that the relevant parties are informed of the decision.

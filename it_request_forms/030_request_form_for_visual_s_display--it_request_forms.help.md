@@ -1,5 +1,3 @@
-<thinking>...this form is for end users to request a visual display for various purposes, such as presentations, meetings, or training sessions...it's a simple form with a few fields that require users to provide some basic information...make sure to read this guide carefully to complete the form correctly...</thinking>
-
 # Request Form For Visuals Display - Help Guide
 ## Purpose
 This form is designed to help users request a visual display for various purposes such as presentations, meetings, or training sessions. Please fill out this form to provide the necessary information for your visual display request.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for potential partners to contact us about integrating their industrial IoT solutions. The purpose of this form is to capture the necessary information from the partner to initiate the collaboration process. This form will be reviewed by our internal team to determine the next steps for potential partnership.
-
-We need to ensure that the form is completed correctly to ensure that we can follow up with the partner with the correct information. Please take the time to fill out the form accurately and thoroughly.
-
-</thinking>
-
 # industrial_iot_integration_partner_contact_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from potential partners about their industrial IoT integration solutions. It will be used by our internal team to review and follow up with the partner accordingly.

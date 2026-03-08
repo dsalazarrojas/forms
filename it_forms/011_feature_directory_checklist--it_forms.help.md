@@ -1,7 +1,3 @@
-<thinking>
-This form is a feature directory checklist form. It is intended to be used to assess the status of a specific feature in a software or project context. The form will be completed by team members to provide an overview of the feature's progress and completion status. It's designed to be completed for each feature, hence the "directory" aspect, allowing team members to easily track and compare different feature's progress. Please ensure that you only create a new entry for a new feature, and do not duplicate an existing one. Duplicate entries can cause confusion and make it difficult to accurately track progress.
-</thinking>
-
 # feature_directory_checklist - Help Guide
 ## Purpose
 This form is used to track and assess the status of a specific feature in a software or project context.

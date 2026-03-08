@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for an email migration request. This form is designed to help individuals submit their email migration requirements, preferences, and confirmations. The information collected will be used by the IT team to assess and process the email migration request.
-
-</thinking>
-
 # email_migration_request_form - Help Guide
 ## Purpose
 This form is used to submit an email migration request. It captures essential details such as date, time, migration window, service provider, IT team information, notes, email migration, and confirmations.

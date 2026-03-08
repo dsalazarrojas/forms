@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form, let's make sure you understand its purpose and relevance. This form is used for direct mailer business purposes, which means it's for sending mailers to customers. It's designed to gather information about the mailer, the customer, and the mailing status. Please review the form carefully and ensure you're filling it out for the correct purpose.</thinking>
-
 # direct_mailer_business_form - Help Guide
 ## Purpose
 The direct_mailer_business_form is used to gather information about mailers, customers, and mailing status for direct mailer business purposes.

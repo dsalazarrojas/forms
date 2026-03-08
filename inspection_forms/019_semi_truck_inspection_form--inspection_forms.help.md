@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a semi-truck's inspection. This form is used to record the details of a semi-truck's inspection, including its identification details, inspection date, and notes about the condition of the truck and trailers. 
-
-The form will be used by maintenance personnel or inspectors to gather data for record-keeping and reporting purposes. To ensure the form is completed correctly, please follow the instructions below.
-
-</thinking>
-
 # semi_truck_inspection_form - Help Guide
 ## Purpose
 The semi-truck inspection form is used to collect information about a semi-truck's inspection, including its identification details, inspection date, and notes about the condition of the truck and trailers.

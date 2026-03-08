@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about IT administrators. It appears to be a form for providing or requesting information about the role and responsibilities of IT personnel within an organization. The form likely serves as a tool for administrators to provide their contact details, departmental affiliation, and reporting structures within the organization.
-
-Before proceeding, please ensure that you are filling this form for the intended purpose and not duplicating effort. This form is intended for use by IT administrators and should not be used for other purposes.
-
-</thinking>
-
 # IT Administrator Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about IT administrators, including their contact details, departmental affiliation, and reporting structures within the organization.

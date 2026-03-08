@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from patients regarding their post-treatment symptoms after undergoing treatment for vaginal discharge. The purpose of this form is to gather specific details about the patient's symptoms, treatment outcome, and follow-up schedule. This form is meant to be completed by patients or healthcare providers to track the patient's progress and identify any potential issues that require further attention. It is essential to ensure that the form is completed accurately and thoroughly to provide valuable information for future follow-up appointments. Please note that this form is for informational purposes only and should not be considered a substitute for professional medical advice.
-
-</thinking>
-
 # Post Treatment Vaginal Discharge Symptom Check Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients regarding their post-treatment symptoms after undergoing treatment for vaginal discharge.

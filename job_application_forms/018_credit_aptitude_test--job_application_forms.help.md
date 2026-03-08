@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Credit Aptitude Test" form is to collect information from users about their credit aptitude and credit score. This form is used to evaluate an individual's creditworthiness for financial purposes.
-
-Before starting the form, please ensure you have not completed this form previously, as it is designed to be a one-time assessment. If you have completed this form before, please do not fill it out again, as it will not affect your current situation.
-
-The form is divided into several sections, each with its own set of fields. Please read through each section carefully and answer all required fields to ensure accurate completion.
-
-</thinking>
-
 # credit_aptitude_test - Help Guide
 ## Purpose
 The "Credit Aptitude Test" form is a tool used to assess an individual's credit aptitude and credit score for financial evaluation purposes.

@@ -1,13 +1,3 @@
-<thinking>... 
-
-This form is designed to collect information from customers who are interested in learning more about our Customer Experience Platform subscription. The purpose of this form is to understand the customer's needs, preferences, and requirements in order to provide them with relevant information and follow up on their inquiry. 
-
-When a customer submits this form, our team will receive the inquiry and will follow up with the customer to provide more information and answer any questions they may have. 
-
-This form is not intended for customers who are already existing customers or have already been in touch with our sales team. Please do not submit this form if you have already reached out to us previously, as it may cause duplication of effort and confusion. 
-
-</thinking>
-
 # Customer Experience Platform Subscription Inquiry - Help Guide
 
 ## Purpose

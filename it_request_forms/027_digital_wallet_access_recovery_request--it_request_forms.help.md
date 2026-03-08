@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block: this form is used for requesting access recovery for a digital wallet, which is a critical system that requires security and confidentiality. This form should only be used by authorized personnel, and the user should ensure they have the necessary permissions to access it. Additionally, if the user has previously submitted a digital wallet access request, this form should not be duplicated. 
-
-</thinking>
-
 # Digital Wallet Access Recovery Request - Help Guide
 ## Purpose
 The Digital Wallet Access Recovery Request form is used to request access to the digital wallet, a secure system that requires authorization and permission. This form should only be used by authorized personnel who need access to the digital wallet.

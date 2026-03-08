@@ -1,7 +1,3 @@
-<thinking>
-The form is used to request that a team member be added to the focus mode allowlist, which is a list of team members that are allowed to access certain sensitive features or resources within the application. This is typically done for security reasons, such as allowing a team member to access certain pages or features that are not available to other team members. The form ensures that the team member's manager has approved their addition to the allowlist and provides additional context for the request. To prevent duplicate requests, the form is only accessible to team members who are already on the allowlist or managers who have already approved a team member for the allowlist. 
-</thinking>
-
 # Focus Mode Allowlist Request - Help Guide
 ## Purpose
 The Focus Mode Allowlist Request form is used to request that a team member be added to the focus mode allowlist, allowing them access to sensitive features or resources.

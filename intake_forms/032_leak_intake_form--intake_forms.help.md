@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a leak, which is a type of issue that requires attention from a specific team. It is intended to be completed by individuals who have observed or reported a leak, such as facility staff, maintenance personnel, or management. The form is not meant to be used for non-leak related issues. Please ensure that you have read this guide completely before proceeding.
-</thinking>
-
 # Leak Intake Form - Help Guide
 ## Purpose
 The Leak Intake Form is used to collect information about a leak that has been observed or reported. This form is intended to be completed by individuals who have witnessed or reported a leak and need to report it to the assigned team.

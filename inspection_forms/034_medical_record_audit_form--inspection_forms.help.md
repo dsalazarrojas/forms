@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Record Audit Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Valve Inspection Checklist - Help Guide
 
 ## Purpose

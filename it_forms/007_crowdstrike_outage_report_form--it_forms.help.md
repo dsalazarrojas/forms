@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block...</thinking>
-
 # Crowdstrike Outage Report Form - Help Guide
 ## Purpose
 The Crowdstrike Outage Report Form is used to report and track service outages, their causes, impacts, and corrective actions taken. This form is essential for IT teams to communicate and coordinate the status of service outages, ensure prompt resolution, and maintain up-to-date records.

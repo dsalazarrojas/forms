@@ -1,11 +1,3 @@
-<thinking>
-We have a form for software and device needs assessment which is used by the company to gather information about current software and hardware usage as well as their needs. 
-This form is primarily used for IT purposes and is meant to be filled out by company employees. 
-The form is meant to be a comprehensive list of all software and hardware that the company currently uses and needs. 
-We want to make sure that the company's software and hardware needs are well understood so that we can provide the best possible support. 
-This form should not be filled out by someone who is not familiar with the company's current software and hardware inventory.
-</thinking>
-
 # Software And Device Needs Assessment - Help Guide
 
 ## Purpose

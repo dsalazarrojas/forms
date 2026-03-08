@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect initial documentation for patients undergoing rehabilitation. It is likely used by healthcare professionals to gather necessary information for patient care and treatment. This form is not a critical, high-priority form, and its purpose is to ensure that all necessary information is collected before starting rehabilitation.
-
-To prevent duplication of effort, it's essential to review the form fields to ensure they match the requirements for other forms used in the same context.
-
-</thinking>
-
 # rehabilitation_initial_documentation - Help Guide
 ## Purpose
 The rehabilitation_initial_documentation form is used to gather essential information for patients undergoing rehabilitation. This form helps healthcare professionals collect and document the patient's medical history, details, and treatment preferences.

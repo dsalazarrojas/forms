@@ -1,9 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to analyze the fields and options provided. The form appears to be for a job application for a Content Writer position. The fields indicate that the form is collecting information about the applicant's personal details, work experience, skills, and preferences. The options for fields such as "Position Applied For" and "Writing Specialties" suggest that the form is focused on finding a suitable candidate for a specific role within the company. The fields also include sections for references, additional skills, and how the applicant heard about the job posting, which suggests that the form is comprehensive and thorough.
-
-Before proceeding, we need to ensure that this form is not already in use and that the information is accurate and up-to-date.
-</thinking>
-
 # Content Writer Job Application Form - Help Guide
 ## Purpose
 The Content Writer Job Application Form is a comprehensive form designed to collect information from candidates applying for Content Writer positions within the company. The form helps us to evaluate your qualifications and suitability for the role.

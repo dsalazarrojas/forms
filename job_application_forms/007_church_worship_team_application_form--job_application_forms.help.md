@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Church Worship Team Application Form - Help Guide
 
 ## Purpose

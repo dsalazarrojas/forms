@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Final Village form, which is a critical component of our system. The purpose of this form is to collect user information for internal management and tracking. To prevent duplication and ensure accurate completion, please ensure that each form is submitted only once.
-</thinking>
-
 # Final Village - Help Guide
 ## Purpose
 The Final Village form is used for internal purposes to collect user information for management and tracking.

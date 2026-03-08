@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request access to a studio, likely for a team member or external collaborator who needs temporary access to specific resources or services within the studio. This form should only be filled out once for each access request, and should not be submitted again if the request is still pending. The form will be reviewed and responded to by studio administrators, who will decide on access approval or denial.
-
-</thinking>
-
 # Studio Access Security Request Form - Help Guide
 ## Purpose
 The Studio Access Security Request Form is used to submit a request for temporary access to a studio. It is intended for team members or external collaborators who need access to specific resources or services within the studio for a short period of time.

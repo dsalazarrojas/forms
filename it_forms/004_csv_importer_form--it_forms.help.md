@@ -1,17 +1,3 @@
-<thinking>
-
-This form is used for importing CSV data into our systems. Before proceeding, ensure that you have a valid CSV file and that you understand the import process. 
-
-To avoid errors, please review each field carefully and ensure that it accurately reflects your needs. If you're unsure, please reach out to the IT team for guidance. 
-
-The form will guide you through the process of providing necessary information about the CSV import, such as the type of data being imported, the target system, and the estimated number of records. You will also need to provide details about the CSV file, including its description, delimiter type, and encoding format. 
-
-Additionally, you will be asked to indicate whether the data contains sensitive information and how duplicates should be handled. The form will also ask for any special requirements or additional notes that the IT team needs to know.
-
-Please complete this form accurately and thoroughly to ensure that the import process is successful and meets your needs.
-
-</thinking>
-
 # CSV Importer Form - Help Guide
 ## Purpose
 The CSV Importer Form is used to provide necessary information for importing CSV data into our systems.

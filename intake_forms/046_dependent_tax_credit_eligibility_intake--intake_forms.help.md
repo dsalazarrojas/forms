@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from clients regarding their dependent tax credit eligibility. This form is typically used by financial aid professionals or other staff members to assess whether a client is eligible for dependent tax credits, which can provide significant financial benefits to families with dependents. The form is designed to be user-friendly and easy to complete, guiding clients through a series of fields that help determine their eligibility.
-
-To ensure that clients receive the correct support and guidance, the form is also used to prevent duplication of efforts by staff members. This is achieved by requiring staff members to go through a series of questions and prompts that help verify the client's eligibility before sending the form to the relevant department for further review. 
-
-</thinking>
-
 # Dependent Tax Credit Eligibility Intake - Help Guide
 ## Purpose
 This form is used to gather information from clients regarding their dependent tax credit eligibility, which can help provide financial benefits to families with dependents.

@@ -1,7 +1,3 @@
-<thinking>
-The Foreclosure Property Inspection Form is likely used in a real estate or property management context to collect data on properties undergoing foreclosure. This form aims to gather information about the property's address, type, and inspection details, including condition ratings, necessary repairs, and inspector notes. It also includes fields for the assigned user, property status, and notes. The form seems to be designed for use cases where a property's condition or ownership status needs to be assessed. Given its features, it might be used by a real estate company, bank, or government agency involved in foreclosure proceedings.
-</thinking>
-
 # Foreclosure Property Inspection Form - Help Guide
 
 ## Purpose

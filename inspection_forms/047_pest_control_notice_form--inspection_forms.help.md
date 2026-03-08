@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture information related to pest control activities on a facility's premises. It's intended for facility management, inspection teams, and other stakeholders to report and record pest control notices, updates, and resolutions. To ensure accurate completion, review the form carefully to avoid duplication of records.
-
-</thinking>
-
 # Pest Control Notice Form - Help Guide
 ## Purpose
 This form is used to record and report pest control notices, updates, and resolutions on a facility's premises. It helps track and manage pest control activities, ensuring compliance with regulatory requirements and facility safety.

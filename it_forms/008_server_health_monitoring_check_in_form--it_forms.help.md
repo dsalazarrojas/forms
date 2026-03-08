@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and usage of the server health monitoring check-in form. This form is intended for checking in on the health status of servers, which is crucial for maintaining server reliability and efficiency. To avoid duplication of effort, users should only use this form if they have not already done so within the last X days/weeks/months.
-</thinking>
-
 # server_health_monitoring_check_in_form - Help Guide
 ## Purpose
 The purpose of this form is to check in on the health status of servers, helping to maintain server reliability and efficiency.

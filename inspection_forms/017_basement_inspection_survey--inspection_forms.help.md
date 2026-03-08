@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Basement Inspection Survey - Help Guide
 ## Purpose
 The Basement Inspection Survey is a form designed to collect information about the condition and characteristics of a basement, including its property address, owner's name, inspection date, and various aspects such as foundation, moisture, drainage, structural components, systems, and safety issues. This form is intended to aid inspectors in conducting thorough and accurate assessments of the basement's condition.

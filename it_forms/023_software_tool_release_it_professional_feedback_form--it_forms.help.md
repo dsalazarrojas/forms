@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "software_tool_release_it_professional_feedback_form" is used correctly by end-users, and this guide will help achieve that. To confirm, this form is intended to gather feedback from users on the release of a software tool, providing insight into its quality and areas for improvement. The form is not meant to be filled out by anyone who hasn't used the software tool, so let's make sure that's understood. Also, we want to avoid duplication of effort, so please only fill out this form if it's the first time you're giving feedback.
-</thinking>
-
 # software_tool_release_it_professional_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on the release of a software tool, providing insight into its quality and areas for improvement.

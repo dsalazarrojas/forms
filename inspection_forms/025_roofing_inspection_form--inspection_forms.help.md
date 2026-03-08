@@ -1,5 +1,3 @@
-<thinking>This form is designed to be a comprehensive inspection form for roofing systems. It is likely used by inspectors to evaluate and document the condition and status of roofing systems for buildings. This form's purpose is to collect data on various aspects of the roofing system, including its materials, structure, and compliance with safety and regulatory requirements. Before proceeding, please confirm that you have reviewed the form carefully and understand the questions being asked. This form is not to be used for other purposes. </thinking>
-
 # Roofing Inspection Form - Help Guide
 ## Purpose
 The Roofing Inspection Form is a comprehensive tool used to inspect and document the condition and status of roofing systems for buildings. It covers various aspects of the roofing system, including its materials, structure, and compliance with safety and regulatory requirements.

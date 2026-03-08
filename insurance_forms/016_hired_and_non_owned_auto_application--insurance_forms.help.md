@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a vehicle used for business purposes or not. The form is intended for use by employees of an organization to submit applications for auto insurance coverage. The purpose of this form is to gather necessary details about the vehicle, including business use, vehicle type, make, model, year, and insurance history. This information will be used to determine the appropriate insurance coverage for the vehicle.
-</thinking>
-
 # Hired And Non Owned Auto Application - Help Guide
 ## Purpose
 This form is used to collect information about a vehicle used for business purposes or not, and to gather necessary details for determining the appropriate insurance coverage for the vehicle.

@@ -1,8 +1,3 @@
-<thinking>
-The form is intended for potential candidates who are interested in applying to be a cybersecurity specialist. It's designed to collect essential information about the candidate, including their contact details, education background, work experience, skills, and availability. The form aims to ensure that the candidate's data is accurate and up-to-date, and is suitable for the role.
-To prevent duplication, this form should only be filled out by genuine candidates who are not already registered as cybersecurity specialists. The form is not intended for internal use within the company, but rather for external candidates applying for the role.
-</thinking>
-
 # Cybersecurity Specialist Candidate Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates interested in applying for the Cybersecurity Specialist role.

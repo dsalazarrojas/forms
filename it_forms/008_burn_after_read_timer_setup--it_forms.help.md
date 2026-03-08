@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to set up a "Burn After Read" timer, a security feature that allows senders to control when and how sensitive information is shared with recipients. The burn timer is a tool used to ensure that information is not kept indefinitely, promoting data security and confidentiality. It's essential to fill out this form accurately and completely to ensure that the intended recipient receives the correct information at the right time. Please note that some fields might be optional, but they are still crucial for proper configuration of the burn timer. This form is intended for administrators or users with specific permissions to set up and manage burn timers for secure messages.
-
-</thinking>
-
 # Burn After Read Timer Setup - Help Guide
 
 ## Purpose

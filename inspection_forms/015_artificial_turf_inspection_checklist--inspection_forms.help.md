@@ -1,15 +1,3 @@
-<thinking>
-The goal here is to create a comprehensive help guide for users of the "Artificial Turf Inspection Checklist" form. This form is designed to inspect and document the condition of artificial turf fields, including their inspection details, surface condition, seams, drainage and infill, damage and hazards, and maintenance needs.
-
-The form is intended to be completed by field inspectors who will be evaluating the overall condition of the turf field. This guide will walk users through each section of the form, explaining the purpose of each field and providing clear instructions on how to complete it accurately and efficiently.
-
-Upon completion, the form will provide valuable information to facility managers and maintenance teams on the condition of the turf and the necessary maintenance and repairs needed to maintain its optimal performance and safety.
-
-To ensure accuracy and consistency in the completion of this form, it's essential to understand each field's purpose and how it contributes to the overall assessment of the turf field. This guide aims to facilitate this understanding, providing clear explanations and instructions for each field.
-
-By following this guide, inspectors will be able to complete the form with confidence and ensure that the data collected is accurate and reliable.
-</thinking>
-
 # Artificial Turf Inspection Checklist - Help Guide
 ## Purpose
 The "Artificial Turf Inspection Checklist" is a comprehensive form designed for field inspectors to assess the condition of artificial turf fields. The form is divided into six sections: Inspection Details, Surface Condition, Seams and Joints, Drainage and Infill, Damage and Hazards, and Maintenance Needs.

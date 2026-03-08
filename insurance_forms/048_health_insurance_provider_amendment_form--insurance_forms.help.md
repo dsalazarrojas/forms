@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Insurance Provider Amendment Form - Help Guide
 ## Purpose
 This form is used to request changes to an existing health insurance plan. Please use this form to update your health insurance provider information when necessary.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather intake information from users, specifically for weight loss services. This form likely collects demographic data, medical history, contact information, and other relevant details to support the user's weight loss goals. Please ensure that this form is completed accurately and thoroughly, as this information will help our staff understand the user's needs and provide appropriate support. Note that some fields may be optional, but required fields are essential for a comprehensive understanding of the user's situation. Please ensure that you only complete this form once; if you have already completed a similar form, do not duplicate your efforts.
-</thinking>
-
 # Weight Loss Intake Form - Help Guide
 
 ## Purpose

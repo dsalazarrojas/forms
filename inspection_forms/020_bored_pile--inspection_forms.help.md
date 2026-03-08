@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bored Pile - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for predictive maintenance inspections of Inertial Measurement Units (IMUs). It is intended for use by maintenance personnel to ensure the proper functioning of IMUs, which are critical components in various industries such as aerospace, automotive, and defense. The form is divided into three pages, each with a text field for collecting information. The fields are designed to be straightforward and easy to understand, allowing maintenance personnel to quickly and accurately capture the necessary data.
-</thinking>
-
 # Inertial Measurement Unit Predictive Maintenance Inspection Form - Help Guide
 ## Purpose
 The Inertial Measurement Unit Predictive Maintenance Inspection Form is designed to aid maintenance personnel in performing regular inspections and predictive maintenance on IMUs. This form helps identify potential issues before they become major problems, ensuring optimal performance and reducing downtime.

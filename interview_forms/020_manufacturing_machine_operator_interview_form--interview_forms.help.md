@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from manufacturing machine operators to facilitate the process of hiring and managing staff for production line operations. It is intended for use by HR representatives or production managers to collect personal details, qualifications, and availability from potential candidates. Please ensure you have the necessary approval and permissions to fill out this form, as it may contain sensitive information.
-</thinking>
-
 # Manufacturing Machine Operator Interview Form - Help Guide
 ## Purpose
 This form is used to collect information from manufacturing machine operators, including personal details, qualifications, and availability for work.

@@ -1,20 +1,3 @@
-<thinking>
-
-This form appears to be designed to track and manage the nomination process of insurance providers. The purpose of this form is to gather and store information about insurance providers, including their details, nomination status, benefits team members, agency name, reviewer, comments, and vendor information.
-
-To ensure the form is used correctly, I'll provide a brief internal reasoning block to check for relevance and non-duplication:
-
-1. Is the form purpose clear and specific? 
-   Yes, the form is designed to track and manage insurance provider nominations.
-
-2. Are the required fields correctly marked?
-   Yes, all fields have their required status clearly marked.
-
-3. Are any potential conflicts or inconsistencies identified?
-   No potential conflicts or inconsistencies are identified.
-
-</thinking>
-
 # Insurance Provider Nomination Tracking Log - Help Guide
 ## Purpose
 This form is designed to track and manage the nomination process of insurance providers. It helps users to store and organize information about nominated providers in an organized and structured way.

@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to guide semi-structured interviews, which means it's a combination of open-ended and closed-ended questions. This form is likely used for data collection purposes, such as gathering information about a product or service. It's possible that the form is used for customer feedback or satisfaction surveys.
-The form is composed of multiple pages, each with its own set of fields. Each page has a unique ID, name, and label. The fields on each page are of different types, such as text, select_multiple, date, time, and notes.
-The "interviewer_notes" field on page 9 and "additional_notes" field on page 10 are likely used for the interviewer to note down any additional information that may not be covered in the other fields.
-The "interviewers" field on page 20 is a select_multiple field, which is likely used to select multiple interviewers for the interview.
-</thinking>
-
 # Semi Structured Interview Guide - Help Guide
 ## Purpose
 This semi-structured interview guide is designed to help gather information about a product or service through a combination of open-ended and closed-ended questions. It's a tool for data collection, possibly for customer feedback or satisfaction surveys.

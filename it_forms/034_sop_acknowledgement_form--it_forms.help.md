@@ -1,7 +1,3 @@
-<thinking>... This form appears to be a comprehensive assessment and review form for security personnel, likely for administrative or personnel management purposes. It collects information about the individual's work schedule, security protocols acknowledged or not, manual reviews, comments, and other relevant details. The form's purpose is to ensure that security personnel are informed and compliant with Standard Operating Procedures (SOPs) and to provide a record of their acknowledgment and understanding of these procedures. Before proceeding with this guide, please ensure that you have the necessary permissions and authority to access and complete this form. If you are unsure, please consult your supervisor or HR representative. 
-
-</thinking>
-
 # SOP Acknowledgement Form - Help Guide
 ## Purpose
 The SOP Acknowledgement Form is designed to ensure that security personnel are informed and compliant with Standard Operating Procedures (SOPs). This form is used to collect information about security personnel's understanding and acknowledgment of SOPs, as well as their work schedule and other relevant details.

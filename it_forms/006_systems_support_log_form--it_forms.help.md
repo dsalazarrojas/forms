@@ -1,12 +1,3 @@
-<thinking>
-This form, named "systems_support_log_form", is used to document and track systems support interactions. It captures information related to the interaction, which may include reporting an issue or requesting help from the systems support team.
-
-This form aims to minimize duplication of effort and facilitate collaboration among team members, by providing a centralized platform to gather and manage all relevant details about a support interaction.
-
-Please ensure that you have a legitimate reason to fill out this form, and that the information entered is as accurate as possible to maximize its utility and avoid confusion.
-
-</thinking>
-
 # systems_support_log_form - Help Guide
 ## Purpose
 The systems_support_log_form is used to document and track systems support interactions. This form is intended for use when reporting issues or requesting help from the systems support team.

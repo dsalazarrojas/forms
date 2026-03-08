@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the Housing Support Services, to provide assistance to individuals or families in need of housing support. This form is intended for individuals or organizations to inquire about the services offered by the housing support services. 
-
-When filling out this form, please ensure that you do not submit duplicate inquiries, as this may cause confusion and slow down the processing of your request. If you have previously submitted an inquiry, please do not resubmit the form. 
-
-Please carefully review the following instructions and ensure you fill out the form accurately to ensure your inquiry is processed efficiently. 
-</thinking>
-
 # Housing Support Services Inquiry - Help Guide
 ## Purpose
 The purpose of this form is to gather information for the Housing Support Services, to provide assistance to individuals or families in need of housing support.

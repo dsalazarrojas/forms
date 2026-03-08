@@ -1,7 +1,3 @@
-<thinking>
-We'll start by clarifying the purpose of the "Travel Insurance Claim Records Release Form". This form is used to gather information from policyholders, allowing them to release their travel insurance claim records. The goal is to collect the necessary details for handling and processing their claims. This form is likely to be used by insurance companies to verify the identity and authenticity of the claimants, ensuring the accuracy and legitimacy of the claims being made. We should check that no other form with the same purpose exists to avoid duplication.
-</thinking>
-
 # Travel Insurance Claim Records Release Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-Insurance Coverage Declaration Form helps to provide a clear and consistent method to document policy coverage declarations for insurance providers.
-This form is intended to be used by various teams within the organization to document policy coverage declarations. It will help reduce errors and inconsistencies in policy documentation by providing a standard set of questions and fields for data collection. 
-The form is meant to be completed by policy holders or their representatives to provide required information for policy coverage declarations. 
-The form should be reviewed by relevant stakeholders to ensure that all required information is captured accurately and completely. 
-This form should be stored and managed by the IT department, as they will need to access the form data for various reasons such as policy management and reporting.
-</thinking>
-
 # Insurance Coverage Declaration Form - Help Guide
 
 ## Purpose

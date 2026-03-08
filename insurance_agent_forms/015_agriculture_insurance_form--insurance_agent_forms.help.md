@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that the form is clear and easy to understand for users who are not familiar with agricultural insurance policies. To avoid confusion, we'll focus on the essential fields and options that are most relevant to the user's needs. We should also consider including a "help" or "information" icon that links to a more comprehensive guide or FAQs for further clarification. This guide will be concise and practical, covering the key points that users need to know to complete the form correctly. Let's break down each field into a simple, easy-to-understand format.
-</thinking>
-
 # Agriculture Insurance Form - Help Guide
 ## Purpose
 This form is designed to collect information for agriculture insurance policies. It helps us understand your farm's details and needs to provide you with the best insurance coverage.

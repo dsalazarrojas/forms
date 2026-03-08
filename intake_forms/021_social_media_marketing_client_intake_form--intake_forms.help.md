@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about social media marketing clients. The form is designed to gather data about the clients' first name, last name, email address, phone number, social media platforms, social media goals, budget, expected launch date and time, and any additional notes. This form should only be filled out by authorized personnel and should not be filled out if the client has already been set up in the system. If a client has already been set up, please do not fill out this form again. If you are unsure about a client's status, please verify with the project lead or manager before filling out this form.
-</thinking>
-
 # Social Media Marketing Client Intake Form - Help Guide
 ## Purpose
 This form is used to collect information about new social media marketing clients.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## septic_system_camera_inspection_summary - Help Guide
 
 ## Purpose

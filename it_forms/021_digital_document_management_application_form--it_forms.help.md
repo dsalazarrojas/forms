@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "digital_document_management_application_form", is designed for managing digital documents and their associated metadata. It allows users to input information about the document, including the user's request, needs, implementation details, document system request, and more.
-
-Before filling out this form, please ensure that you have all the required information and that you are not duplicating an already existing document. The form is used to create or update digital documents, and it's essential to provide accurate and complete information to avoid errors.
-
-The form consists of several sections, each with specific fields that require input. Please review each section carefully to understand the purpose of each field and provide the necessary information accordingly.
-
-</thinking>
-
 # digital_document_management_application_form - Help Guide
 ## Purpose
 

@@ -1,10 +1,3 @@
-<thinking>
-To confirm, we will create a user-facing help guide for the "Auto Insurance Questionnaire" form. This form is designed to collect relevant information from users, primarily insurance applicants, to determine their coverage preferences and requirements for auto insurance. We will follow the provided YAML schema to create an easy-to-understand guide that helps users navigate the form accurately and efficiently.
-
-To avoid duplication and ensure that the form serves its purpose correctly, we will ensure the guide provides a clear and concise explanation of each field, eliminating any ambiguity or confusion.
-
-</thinking>
-
 # Auto Insurance Questionnaire - Help Guide
 ## Purpose
 

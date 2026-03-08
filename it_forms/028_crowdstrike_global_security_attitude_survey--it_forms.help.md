@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the security posture of the organization. It seems to be asking for an evaluation of the company's security practices from the perspective of the individual filling the form. There may be some redundancy in the questions regarding the overall security posture, but the form is likely trying to get a comprehensive understanding of the organization's security situation. There doesn't seem to be any obvious purpose for the date and time fields in this context. The email, phone, and note fields are likely for collecting contact information for follow-up purposes. The "note" field is likely a text area for any additional comments or remarks. I will assume that the form is meant to be completed by someone with a job title within the organization. I will proceed with the help guide creation.
-</thinking>
-
 # CrowdStrike Global Security Attitude Survey - Help Guide
 ## Purpose
 This form is designed to evaluate your organization's current security posture from your perspective.

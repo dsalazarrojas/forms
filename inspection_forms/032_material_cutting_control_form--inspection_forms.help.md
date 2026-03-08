@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and track the control process of material cutting operations. It captures information on cutting details, quality checks, sign-offs, and acceptance criteria. This form is designed to ensure that all relevant information is recorded and verified during the material cutting process. By using this form, operators and quality control personnel can quickly and accurately record and track key information related to material cutting operations. 
-</thinking>
-
 # Material Cutting Control Form - Help Guide
 
 ## Purpose

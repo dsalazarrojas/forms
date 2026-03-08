@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the police officer interview survey form is used correctly and efficiently. The form is designed to collect information about police officers' performance and feedback during their interviews. Before completing this form, ensure that it is relevant to the current situation and that you are not duplicating efforts. This form is not intended to be a general survey, but rather a specific evaluation tool for individual police officer interviews. If you are unsure about its purpose or relevance, please review the guidelines provided by your supervisor or team lead.</thinking>
-
 # police_officer_interview_survey - Help Guide
 ## Purpose
 The police officer interview survey form is designed to collect information about police officers' performance and feedback during their interviews. It helps evaluate their skills, behavior, and areas for improvement.

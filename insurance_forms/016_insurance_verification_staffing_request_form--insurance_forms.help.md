@@ -1,9 +1,3 @@
-<thinking>
-This form is used by staff to request insurance verification, which is an important step in the process of verifying the identity and eligibility of an individual or group for insurance coverage. The form helps to ensure that all necessary information is gathered and documented correctly, preventing any potential issues or delays in the insurance verification process.
-This form should only be completed by authorized staff members, and it is essential to ensure that a legitimate request is being made. Please check that no similar request has been made recently or is currently pending before completing this form.
-Please note that some fields may not be required, but it is still crucial to provide accurate and complete information to support the insurance verification process.
-</thinking>
-
 # Insurance Verification Staffing Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request insurance verification, which is an essential step in verifying the identity and eligibility of an individual or group for insurance coverage.

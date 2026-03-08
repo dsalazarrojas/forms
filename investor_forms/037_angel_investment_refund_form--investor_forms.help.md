@@ -1,7 +1,3 @@
-<thinking>
-This form is used to facilitate a refund for an angel investment. The goal is to gather information from the investor to process a refund for their investment. The form will be reviewed internally to ensure the request is valid and processed accordingly. Please note that the form is not intended to collect sensitive information, only the necessary details to expedite the refund process. This form should only be used for investors who have previously invested in our company, as the form requires the investor's name to be on record. To avoid duplication of effort, please ensure that the form is filled out correctly and thoroughly before submitting it.
-</thinking>
-
 # Angel Investment Refund Form - Help Guide
 ## Purpose
 This form is used to request a refund for an angel investment made to our company.

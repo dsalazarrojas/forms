@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Introduction To Recovery Programs - Help Guide
 ## Purpose
 The "Introduction To Recovery Programs" form is used to gather information from individuals seeking recovery programs or services. This form helps us understand their interests, goals, and needs to provide personalized support and guidance.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals who have been interviewed for a podcast. The purpose of this form is to obtain consent from the individual to be recorded and published, and to collect any necessary details for the recording and publication process. The form asks for the individual's name, email, role (e.g. guest, host, etc.), and other relevant details such as consent, recording preferences, and publication preferences. The form is designed to be completed by the individual being interviewed, and will likely be filled out prior to the actual interview. It's assumed that this form is being filled out by someone who has been identified as a potential interviewee.
-
-</thinking>
-
 # League Podcast Interview Consent Form - Help Guide
 ## Purpose
 The League Podcast Interview Consent Form is a crucial document that ensures the comfort and consent of the individuals being interviewed. It collects essential information about the individual, their role, and their preferences regarding recording and publication.

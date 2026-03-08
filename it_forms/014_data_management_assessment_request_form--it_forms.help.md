@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to request data management assistance from the IT department. It is not to be filled in duplicate, and should only be used if the user is not already familiar with the data management process. If a user submits this form without first checking the provided help guide, it is likely a non-duplicate request.
-</thinking>
-
 # Data Management Assessment Request Form - Help Guide
 ## Purpose
 The purpose of this form is to allow end-users to request assistance from the IT department regarding data management issues. This form helps the IT team understand the scope of the issue and prioritize requests accordingly.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for internal use only and is subject to review and approval before sharing with end-users. Please check that this form is not a duplicate or redundant effort. This form is designed to collect information from patients who are interested in participating in our Diabetes Prevention Program. The program aims to provide support and resources for individuals at risk of developing type 2 diabetes. This guide will walk you through the process of completing the Diabetes Prevention Program Intake Form.
-</thinking>
-
 # Diabetes Prevention Program Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients interested in participating in our Diabetes Prevention Program. The goal is to understand the patient's risk factors, medical history, and other relevant information to provide personalized support and resources.

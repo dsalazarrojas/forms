@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect support requests from users, allowing them to report issues or ask questions related to AdBook. The goal is to gather essential information about the user's request, including their contact details, description of the issue, and preferred contact method. This form will help AdBook support agents understand the user's needs and respond accordingly. It is recommended that users fill out the form only once they are sure about the issue; duplicate submissions will not be processed.
-</thinking>
-
 # AdBook Support Request Form - Help Guide
 ## Purpose
 This form is used to submit support requests for various issues related to AdBook. It helps our support team understand your concerns and provide timely resolutions.

@@ -1,8 +1,3 @@
-<thinking>
-We are creating a form for users to verify medical insurance information, ensuring accurate and efficient processing of medical claims. This form will help medical clinics and healthcare providers collect and submit necessary information about patient medical insurance, claim status, and related details. 
-This form should not be used to collect personal identifiable information of patients. Instead, it's designed to gather relevant information about medical insurance providers, claim status, and other related details. Please ensure that all required fields are filled out accurately to avoid duplication and ensure correct processing of medical claims. 
-</thinking>
-
 # Medical Insurance Verification Form Template - Help Guide
 ## Purpose
 The Medical Insurance Verification Form Template is designed to help medical clinics and healthcare providers collect and submit necessary information about patient medical insurance, claim status, and related details.

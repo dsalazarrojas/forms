@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The retail technology pilot application form is designed for retail technology vendors to submit their solutions for evaluation and potential inclusion in our pilot program. The form captures essential information about the vendor and their solution, including its details, objective, category, and supporting documents.
 
 This form is meant for new vendors to submit their applications, but please note that we only allow one application per solution and vendor. If you've already submitted an application, please do not submit another.

@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect information for a robot escort service request. The form has multiple pages with various input fields, including text, select one, select multiple, date, time, note, email, and text fields. Some of these fields are required, while others are optional. The form is likely used in a service industry or a business setting where customers or clients need to provide specific information for a robot escort service.
-
-The form could be used in a variety of scenarios, such as:
-
-* A hotel or resort that offers robot companions for guests
-* A hospital or healthcare setting that requires robot assistants for patient care
-* A company that uses robots for delivery services
-
-Before filling out this form, make sure you have the necessary information and permissions to complete it accurately. This form is intended for customers or clients who need to request a robot escort service.
-
-Please note that some fields in this form are required, while others are optional. Please fill out all required fields to ensure that your request is processed correctly.
-
-</thinking>
-
 # robot_escort_service_request_form - Help Guide
 ## Purpose
 The robot escort service request form is designed to collect information for a robot escort service request. This form is intended for customers or clients who need to request a robot escort service for a specific occasion or event.

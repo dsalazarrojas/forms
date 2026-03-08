@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather information for the creation and management of contracts between customers and adjusters. It is essential to ensure accuracy and completeness of the data. This form is a crucial document in the insurance industry, and its purpose is to streamline the process of creating and managing contracts. Before proceeding, please ensure that this form is filled out correctly and accurately, as any errors or missing information can lead to delays or complications in the contracting process.
-</thinking>
-
 # public_adjuster_contract_form - Help Guide
 ## Purpose
 This form is used to create and manage contracts between customers and adjusters. It gathers essential information for the insurance industry, including customer details, contract terms, and other relevant data.

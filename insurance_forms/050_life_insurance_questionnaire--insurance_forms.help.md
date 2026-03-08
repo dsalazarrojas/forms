@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for life insurance policies, including personal details, contact information, coverage options, premium details, beneficiary information, insurance history, policy details, payment plans, and policy status. It seems that this form is for creating or updating a life insurance policy. This form likely serves as a comprehensive guide for users to input their requirements and preferences for their life insurance policy. I will ensure that the explanations for each field in the help guide are concrete, concise, and practical based on the provided YAML fields.
-</thinking>
-
 # Life Insurance Questionnaire - Help Guide
 ## Purpose
 This form is used to create or update a life insurance policy by collecting necessary information for policy issuance or policy renewal. Please provide accurate and complete information to ensure efficient processing of your policy application.

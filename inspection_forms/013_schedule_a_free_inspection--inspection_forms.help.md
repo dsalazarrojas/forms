@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information for a free inspection, likely for a service provider or inspection agency. The purpose of this form is to capture relevant details about the inspection, the provider, and the property being inspected. This information will help the provider or agency to efficiently conduct the inspection and provide better service to the client.
-The form appears to be designed for scheduling appointments or inspections for various types of properties (residential, commercial, industrial) and collecting contact information, including email and phone numbers. It may be used for multiple industries or sectors, but its primary focus seems to be on property-related inspections. This could be used internally within an organization or by external users.
-</thinking>
-
 # Schedule A Free Inspection - Help Guide
 
 ## Purpose

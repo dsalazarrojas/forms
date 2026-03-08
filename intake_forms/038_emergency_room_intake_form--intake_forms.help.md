@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect patient information for emergency room intake. It is likely used in a hospital or healthcare setting to gather basic patient data for immediate medical treatment. The form fields are relatively simple and focused on collecting essential information from the patient. 
-
-There are no specific rules about required fields, which suggests that the form may not be used for official medical reporting or billing purposes. The form could be used as a template for patients to provide information to hospital staff or medical professionals during emergency room visits. 
-
-This form does not require authentication or user registration, which further suggests a patient-facing use case. 
-
-The form structure also does not indicate any advanced analytics or data collection beyond basic demographic information.
-</thinking>
-
 # emergency_room_intake_form - Help Guide
 ## Purpose
 This form is designed to collect patient information for emergency room intake. It is intended to be used by patients to provide essential details to medical staff during emergency visits.

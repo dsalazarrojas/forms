@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to evaluate an individual's internship experience. It is meant to be completed by someone who has participated in an internship program and is being asked to provide feedback on their experience. The form is used to gather information about the program and help identify areas for improvement.
-
-To complete this form, please ensure that you have actually participated in an internship program. If you are completing this form for someone else, please note that this form is intended for personal experience and not for external evaluators.
-
-Please fill out the form with the details of your internship experience, including the name of the company, your job title, and the dates you participated in the program. You will also have the opportunity to describe your experiences during the internship, rate your satisfaction with the program, and provide comments.
-
-The form is designed to be completed by one person at a time, and the fields should not be filled out by multiple people.
-
-</thinking>
-
 # Internship Experience Evaluation Form - Help Guide
 
 ## Purpose

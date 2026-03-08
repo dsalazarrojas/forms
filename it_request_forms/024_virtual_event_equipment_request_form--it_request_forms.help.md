@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request virtual event equipment for events. Before filling out this form, please ensure that you have already checked the availability of equipment with the event planner. Please note that this form is intended for requesting equipment for a specific event, not for general purposes. If you're unsure about the form's purpose or have questions, please contact the event planner for clarification.
-</thinking>
-
 # virtual_event_equipment_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request virtual event equipment for an event. This form helps the event planner to gather necessary information for the event's logistics.

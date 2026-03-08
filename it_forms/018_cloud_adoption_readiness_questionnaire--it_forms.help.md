@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help organizations assess their cloud adoption readiness. It's essential to understand that the form is meant to be a self-assessment tool for the organization, and the responses should reflect the current state of the organization's cloud adoption and readiness. Please note that the form is not a certification or audit tool, and the results are only indicative of the organization's current state.
-</thinking>
-
 # Cloud Adoption Readiness Questionnaire - Help Guide
 ## Purpose
 The Cloud Adoption Readiness Questionnaire is a tool designed to help organizations evaluate their current cloud adoption state and identify areas for improvement. It's a comprehensive assessment that covers various aspects of cloud adoption, from infrastructure and services to organizational readiness and compliance.

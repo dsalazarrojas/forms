@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Temperature Sensor Replacement Request Form - Help Guide
 
 ### Purpose

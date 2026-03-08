@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about the IT service desk. It is intended to help identify areas of improvement and ensure that the service desk is meeting the needs and expectations of its users. The form is not designed for real-time technical support, but rather for capturing feedback and suggestions that can help us better serve our users. This guide will explain each section and field of the form to help you complete it accurately and effectively.
-</thinking>
-
 # it_service_desk_feedback_questionnaire - Help Guide
 ## Purpose
 The it_service_desk_feedback_questionnaire is a form designed to collect feedback and suggestions from users about the IT service desk. This information will be used to improve the service desk's performance and meet the needs and expectations of its users.

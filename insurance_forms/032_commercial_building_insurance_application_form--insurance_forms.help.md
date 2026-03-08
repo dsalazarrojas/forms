@@ -1,7 +1,3 @@
-<thinking>
-We are going to create a help guide for a user-facing form that collects information for commercial building insurance applications. The purpose of this form is to gather essential details about the building and its occupants to provide an accurate insurance quote. Please ensure that all fields are filled in accurately and thoroughly. This form should only be filled out by authorized personnel, and any duplication or submission of this form should be avoided to prevent errors or misrepresentations.
-</thinking>
-
 # Commercial Building Insurance Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about your commercial building to provide you with an accurate insurance quote. Please fill out this form carefully, providing as much detail as possible.

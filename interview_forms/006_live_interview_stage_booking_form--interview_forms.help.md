@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to book a live interview stage, which involves booking a specific time and date for an interview. To confirm that the correct person is booking the interview, we need to capture details such as the candidate's name and contact information. To prevent over-booking of the same time slot by multiple people, we'll be storing the selected slot status as 'Yes' or 'No' to track availability. Additionally, we'll be tracking the duration of the interview to ensure that we're prepared with enough resources.
-</thinking>
-
 # Live Interview Stage Booking Form - Help Guide
 
 ## Purpose

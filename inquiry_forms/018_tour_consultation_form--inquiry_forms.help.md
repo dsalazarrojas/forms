@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a comprehensive tour consultation form designed to gather various information related to travel-related inquiries. It seems to be used by travel agencies or tour operators to collect data from clients. The form includes fields for general inquiry, travel agency, travel agency phone number, travel agency email, travel operator, travel operator phone number, travel operator email, travel date, travel time, travel start date, travel end date, travel duration, travel purpose, travel priority, travel priority other, travel notes, client information, client relation, tour product, tour product other, package type, package type other, tour price, and tour terms. The purpose of this form is to collect all relevant information about the client's travel needs and preferences. To avoid duplication, it would be best to complete this form only once for a specific travel inquiry.
-
-</thinking>
-
 # Tour Consultation Form - Help Guide
 ## Purpose
 The Tour Consultation Form is designed to collect information from clients about their travel needs and preferences for a tour or travel consultation.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for remote job interviews. It is intended for individuals interested in participating in remote job interviews. The form collects personal and professional information, such as name, email, availability, preferred language, time zone, work location, job title, job description, and other relevant details. This information will be used to facilitate the interview process. Please ensure that you only fill out this form if you are genuinely interested in participating in the interview. If you are a recruiter or hiring manager, please ensure that this form is used for its intended purpose and do not attempt to use it for other purposes, such as collecting general user data or for non-related business purposes.</thinking>
-
 # Remote Job Interview Form - Help Guide
 
 ## Purpose

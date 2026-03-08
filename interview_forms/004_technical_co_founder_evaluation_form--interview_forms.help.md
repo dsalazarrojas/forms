@@ -1,5 +1,3 @@
-<thinking>...The Technical Co-Founder Evaluation Form is designed to assess the skills and characteristics of potential co-founders for a tech project or startup. It aims to evaluate their technical abilities, leadership qualities, and interpersonal skills. This form helps to determine the best fit for the project, considering factors such as problem-solving, time management, adaptability, and team fit. The form will ask for basic contact information, project description, and rating of the candidate's skills and qualities. This information will be used to make informed decisions about potential co-founders for the project. This form is not affiliated with any form platform and is released under the Creative Commons Attribution 4.0 license. You are free to use, modify, and distribute this form as needed. Please fill out this form with care, providing accurate and honest answers... </thinking>
-
 # Technical Co-Founder Evaluation Form - Help Guide
 ## Purpose
 This form is designed to assess the skills and characteristics of potential co-founders for a tech project or startup.

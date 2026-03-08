@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payroll System Access Registration Form - Help Guide
 ## Purpose
 This form is used to register employees for access to the Payroll System. It collects employee-specific information, job title, department, and manager details. The form aims to provide a structured way of requesting access for new employees, ensuring that all necessary information is captured accurately and consistently.

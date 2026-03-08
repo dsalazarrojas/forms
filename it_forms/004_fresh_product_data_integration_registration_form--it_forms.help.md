@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fresh Product Data Integration Registration Form - Help Guide
 
 ## Purpose

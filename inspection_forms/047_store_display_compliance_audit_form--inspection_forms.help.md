@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The store display compliance audit form is designed to help store owners and managers evaluate the compliance of their store's visual merchandising standards. The form is used to assess whether the store's merchandise display meets the required standards, including product placement, pricing, shelf facing, and category correct placement. The form also helps to identify non-compliant items and provides a space for store owners to add notes and photos to support their audit findings.
 
 This form is intended for use by store owners, managers, and other authorized personnel to inspect and audit store displays. It is not intended for customers or other non-authority personnel.

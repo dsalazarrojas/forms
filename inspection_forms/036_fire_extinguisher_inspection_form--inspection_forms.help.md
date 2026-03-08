@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the status of fire extinguishers in a facility or building. This form is used to track the inspection and maintenance of fire extinguishers, ensuring they are functioning properly and meet safety standards. It's essential to understand that this form is a crucial tool for fire safety and should be completed accurately and thoroughly. This form should only be used for fire extinguishers that are part of the facility's fire safety system.
-</thinking>
-
 # fire_extinguisher_inspection_form - Help Guide
 ## Purpose
 This form is used to track the inspection and maintenance of fire extinguishers in a facility or building. It ensures that fire extinguishers are functioning properly and meet safety standards.

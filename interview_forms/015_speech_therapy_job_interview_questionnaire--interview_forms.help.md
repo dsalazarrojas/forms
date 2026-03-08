@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Speech Therapy Job Interview Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about your job preferences and requirements for speech therapy positions. It will help us understand your goals, qualifications, and availability to provide you with potential job opportunities that suit your needs.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that only relevant and original feedback is submitted through this form. If you're looking to report a bug or ask for help, please use the designated channels. Duplicate or redundant submissions will be deleted. Please only use this form for genuine client feedback inquiries.
-</thinking>
-
 # Tech Client Feedback Inquiry Form - Help Guide
 ## Purpose
 The Tech Client Feedback Inquiry Form is designed to collect valuable feedback from clients on our tech services. This form is intended for clients to provide detailed feedback on their experience with our products or services. Your input will help us improve our offerings and provide better support to our clients in the future.

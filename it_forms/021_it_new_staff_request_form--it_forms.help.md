@@ -1,5 +1,3 @@
-<thinking>As an IT staff, we want to ensure that all new staff requests are accurately and efficiently processed. This form is designed to gather essential information about the new staff members, which will help us to better understand their needs and manage the onboarding process. Please note that this form should only be filled out for new staff members who have not been previously submitted through this form. Please make sure to fill out all required fields and double-check your entries for accuracy. If you have any questions or concerns, feel free to reach out to our IT team.</thinking>
-
 # it_new_staff_request_form - Help Guide
 ## Purpose
 This form is used to submit requests for new staff members, providing essential details for processing and onboarding.

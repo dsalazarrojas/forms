@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Access Escalation Request Form - Help Guide
 
 ## Purpose

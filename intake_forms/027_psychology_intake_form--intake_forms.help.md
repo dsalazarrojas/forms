@@ -1,11 +1,3 @@
-<thinking>
-
-This form, the "Psychology Intake Form," is designed to collect patient information and medical history for psychology-related services. It's intended for patients to provide their personal details, medical background, and other relevant information to help healthcare providers understand their needs and provide effective care. 
-
-The form has 10 sections, and it's essential to complete all required fields to ensure accurate and comprehensive information is collected.
-
-</thinking>
-
 # Psychology Intake Form - Help Guide
 ## Purpose
 The Psychology Intake Form is a collection tool used to gather patient information and medical history for psychology-related services.

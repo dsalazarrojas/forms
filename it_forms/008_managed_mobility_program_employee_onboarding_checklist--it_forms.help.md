@@ -1,5 +1,3 @@
-<thinking>This form is designed to guide employees through the managed mobility program onboarding process. The form collects various employee information and preferences to ensure a smooth transition into the organization. The form fields are categorized into personal and work-related categories to streamline the process. This guide will walk you through each field in the form, providing a clear understanding of its purpose and requirements.</thinking>
-
 # managed_mobility_program_employee_onboarding_checklist - Help Guide
 ## Purpose
 The managed mobility program is designed to assist employees in their onboarding process, providing a tailored experience for each individual. This form helps to streamline the process by collecting essential information and preferences.

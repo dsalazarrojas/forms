@@ -1,5 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, I'll create a comprehensive help guide for the "Vintage Item Condition Checklist" form. To start, let's clarify the form's purpose and ensure it's a good fit for the intended use case. The form seems designed to collect detailed information about vintage items, focusing on their condition, provenance, and other relevant attributes. I'll review the fields and their labels to provide a clear and concise explanation.</thinking>
-
 # Vintage Item Condition Checklist - Help Guide
 ## Purpose
 The "Vintage Item Condition Checklist" form is designed to collect detailed information about vintage items, including their condition, provenance, and other relevant attributes. This form helps you assess the item's value, authenticity, and overall condition.

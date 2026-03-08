@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users who are requesting access to the Shelf Optimization Software. The form is intended to be completed by employees who are seeking access to the software in order to perform their job functions efficiently. It is essential that the form is completed accurately and thoroughly to ensure that the software access request is processed correctly and that the user receives the necessary access permissions. Before filling out this form, please make sure you have a valid reason for requesting access and that you have checked that you have not already submitted a request for this software.
-</thinking>
-
 # Shelf Optimization Software Access Application Form - Help Guide
 
 ## Purpose

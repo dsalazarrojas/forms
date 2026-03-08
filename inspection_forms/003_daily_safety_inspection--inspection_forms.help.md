@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Safety Inspection - Help Guide
 ## Purpose
 This form is used for daily safety inspections to ensure that a site is safe for work. The form collects information about the general site conditions, equipment, and other relevant details to help maintain a safe working environment.

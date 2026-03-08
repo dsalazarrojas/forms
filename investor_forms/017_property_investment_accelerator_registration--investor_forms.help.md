@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for property investment acceleration, and its purpose is to collect information from individuals seeking to invest in properties. This form is meant to be completed by potential clients, who will have their experience level, investment goals, and objectives. The form aims to gather relevant information that will help in tailoring the investment program and coaching services to their specific needs.
-The form should not be used for non-relevant purposes, and its data is not for sharing or public consumption. It is essential to complete all required fields to ensure that your information is accurately recorded.
-The form fields are as follows: First name, Last name, Email, Phone number, Experience level (beginner, intermediate, advanced), Investment goals (cash flow, capital appreciation, diversification), Investment program, Investment program name, Investment objectives, Investment strategy, Investment experience (date), Coaching credentials (real estate coaching, investment coaching, both), Coaching hours.
-</thinking>
-
 # property-investment-accelerator-registration - Help Guide
 ## Purpose
 The property-investment-accelerator-registration form is a crucial document that helps us understand your investment preferences and goals. Please take a few minutes to fill out this form accurately, and our team will be in touch to discuss your investment acceleration.

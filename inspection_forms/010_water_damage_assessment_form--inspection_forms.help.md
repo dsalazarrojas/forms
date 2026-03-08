@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture information related to water damage incidents. It's used to document and assess the situation. Ensure the form is used for its intended purpose and not for other types of incidents.
-</thinking>
-
 # Water Damage Assessment Form - Help Guide
 ## Purpose
 

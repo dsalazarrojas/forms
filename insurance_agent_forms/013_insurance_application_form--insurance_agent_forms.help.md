@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a comprehensive insurance application form, designed to collect various information from applicants, including personal details, policy-related information, and agent contact information. The form is likely used by insurance agents to collect data for policy issuance or renewal. Before proceeding with the help guide, it's worth noting that the form seems to be mostly self-explanatory, with clear and descriptive field labels. However, some fields like "Insurance Type" and "Policy Status" could be confusing without further context. We should aim to provide explanations that are clear and concise while avoiding any unnecessary business logic assumptions.
-
-The form is divided into sections, with each field label serving as a heading for the corresponding section. This structure should help guide users through the form without overwhelming them with too much information at once.
-
-The final output will be a human-readable help guide in Markdown format.
-</thinking>
-
 # Insurance Application Form - Help Guide
 ## Purpose
 The Insurance Application Form is designed to collect detailed information from applicants, including personal details, policy-related information, and agent contact information. This form will be used by insurance agents to issue or renew policies.

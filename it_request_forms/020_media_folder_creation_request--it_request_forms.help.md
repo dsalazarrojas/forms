@@ -1,7 +1,3 @@
-<thinking>
-The "Media Folder Creation Request" form is used to collect information about a media folder creation request from a user. The form's purpose is to gather relevant details such as folder priority, type, status, and any other relevant metadata. It is essential to fill out this form to ensure that the media folder creation request is processed correctly and in a timely manner. Please make sure to fill out the form completely and accurately to avoid delays in the processing of your request. You should not submit duplicate requests for the same media folder creation.
-</thinking>
-
 # Media Folder Creation Request - Help Guide
 ## Purpose
 The "Media Folder Creation Request" form is used to collect information about a media folder creation request from a user.

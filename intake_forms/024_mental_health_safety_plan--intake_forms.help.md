@@ -1,5 +1,3 @@
-<thinking>...This form will help clients create a mental health safety plan in a way that allows for the collection of essential information from clients about their general information, mental health history, crisis history, coping strategies, support system, emergency contact, and mental health safety plan. This form is designed to help clients provide accurate and complete information, reducing the risk of missing critical details that could impact their mental health and well-being. The form is not intended to be a substitute for professional mental health services, but rather a complement to existing care plans...</thinking>
-
 # Mental Health Safety Plan - Help Guide
 ## Purpose
 The Mental Health Safety Plan is a form designed to help individuals create a comprehensive plan for managing their mental health needs. It collects information about their general information, mental health history, crisis history, coping strategies, support system, emergency contact, and mental health safety plan.

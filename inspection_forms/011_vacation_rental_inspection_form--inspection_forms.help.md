@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic form for a vacation rental inspection. It is likely used to collect information about a property's condition, any maintenance requests, and photos during a rental inspection. This form does not seem to be a highly specific or complex form and its fields appear to be basic text fields. However, more context about the form's usage and purpose would be helpful to determine the exact requirements of the form.
-</thinking>
-
 # vacation_rental_inspection_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the condition of a vacation rental property, any maintenance requests, and photos during an inspection.

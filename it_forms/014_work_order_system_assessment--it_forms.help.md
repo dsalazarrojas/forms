@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a general form used for assessing the status of work orders across various teams, including IT, Maintenance, and Facilities. Its purpose is likely to track progress, report issues, and gather feedback.
-
-Before filling out this form, please ensure that the form you are using is an original adaptation of the provided YAML schema and not a copy of any other form platform.
-
-To complete this form, follow the steps below.
-
-</thinking>
 # Work Order System Assessment - Help Guide
 ## Purpose
 This form is designed to assess the status of work orders across various teams, including IT, Maintenance, and Facilities. It helps track progress, report issues, and gather feedback.

@@ -1,13 +1,3 @@
-<thinking>
-To create an effective help guide for the Rental History Verification Form, I need to consider the following:
-- The form's purpose is to gather information about a tenant's rental history, including their previous leases, rental property addresses, and rental status.
-- The form will have 15 fields, each with a specific type and label.
-- Some fields are optional, while others are required.
-- The fields include date fields, text fields, select-one fields, and number fields.
-
-Given this context, the form's purpose is likely to be used by rental property owners or managers to verify a tenant's rental history to assess their creditworthiness or eligibility to rent a property.
-</thinking>
-
 # Rental History Verification Form - Help Guide
 ## Purpose
 The Rental History Verification Form is used to gather information about a tenant's rental history, including their previous leases, rental property addresses, and rental status. This information helps rental property owners or managers assess a tenant's creditworthiness or eligibility to rent a property.

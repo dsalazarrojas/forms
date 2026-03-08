@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to facilitate a facility safety inspection by allowing users to select multiple options for various aspects of facility safety, such as laws, regulations, policies, equipment, procedures, training, inspections, records, and certifications. The form also collects information about the facility's contact details, owner, and emergency contact information. The form's purpose is to ensure that facilities comply with relevant safety standards and regulations.
-</thinking>
-
 # Facility Safety Inspection Checklist - Help Guide
 ## Purpose
 This form is a checklist for facility safety inspections. It helps ensure that facilities comply with relevant safety standards and regulations.

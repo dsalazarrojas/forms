@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creative Direction Interview Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to submit requests for updates to XML files. The form is designed to collect specific information from the user, including the file to be updated, details about the request, and the priority level of the update. The purpose of this form is to streamline the update process and ensure that the necessary information is collected in a clear and concise manner. To use this form, please make sure you have the necessary permissions and approvals in place before submitting your request. Also, please note that duplicate requests will not be processed.
-</thinking>
-
 # XML File Update Request Form - Help Guide
 ## Purpose
 This form is used to submit requests for updates to XML files. Please use this form to provide the necessary information for your update request.

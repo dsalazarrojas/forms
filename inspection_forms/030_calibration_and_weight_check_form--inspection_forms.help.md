@@ -1,29 +1,3 @@
-<thinking>
-To create a helpful and user-friendly guide for the "Calibration And Weight Check Form", we need to consider the purpose of the form, how it should be completed, and what each field means. This form is designed for calibration and weight check of various equipment, such as scales, balances, and other precision instruments. 
-
-The form's purpose is to collect accurate and detailed information about the equipment's calibration status, including the last calibration date, next calibration due date, and measured weights. This information will help ensure that the equipment is functioning correctly and within the specified tolerance range. 
-
-To complete this form, the user will need to:
-
-1. Enter the equipment's ID or serial number.
-2. Select the equipment type (e.g., balance scale, digital scale, weight scale, precision scale, laboratory scale, or other).
-3. Enter the equipment's location.
-4. Enter the inspection date and time.
-5. Enter the inspector's name and credentials.
-6. Enter the last calibration date.
-7. Enter the next calibration due date.
-8. Choose the calibration standard used (e.g., NIST, ISO 9001, company standard, or other).
-9. Enter test weights and measured results for multiple weights (up to three).
-10. Enter the accuracy tolerance percentage.
-11. Choose the calibration status (within tolerance, outside tolerance, or needs recalibration).
-12. If necessary, enter corrective action to be taken.
-
-This form should be completed by authorized personnel, such as calibration technicians or maintenance staff, who are familiar with the equipment and calibration procedures.
-
-To make the form user-friendly, we will use clear and concise labeling, provide examples or hints where possible, and make sure the fields are properly labeled and organized.
-
-</thinking>
-
 # Calibration And Weight Check Form - Help Guide
 
 ## Purpose

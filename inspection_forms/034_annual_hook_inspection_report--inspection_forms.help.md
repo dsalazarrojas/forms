@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for inspecting a hook, likely a heavy industry hook used in a manufacturing or construction setting. It's used to collect information about the condition of the hook, including its manufacturer, model number, serial number, and other critical parameters such as throat opening measurement, twist check, and overall condition. This form is likely used by maintenance or quality control teams to track the inspection history and schedule future inspections. It's also possible that this form is used for regulatory compliance, such as for OSHA or industry-specific standards. Before proceeding, ensure that the form is not already being used for another purpose and that you have the necessary permissions to use this form for your organization.
-
-</thinking>
-
 # Annual Hook Inspection Report - Help Guide
 ## Purpose
 The Annual Hook Inspection Report is a form designed to gather information about the condition of a hook during its annual inspection. It helps maintenance or quality control teams track the inspection history and identify potential issues with the hook, ensuring it remains safe and operational for use.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ประกIT Service Request Form 2 - Help Guide
 ## Purpose
 This form is for requesting IT services from the IT department. It is used to submit a formal request for assistance with an issue or problem. Fill out this form to ensure that your request is documented and reviewed for prompt resolution.

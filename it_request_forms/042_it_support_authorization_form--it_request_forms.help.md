@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for IT support staff to request access to certain systems or resources on behalf of employees. The form is used to gather information about the employee requesting access, including their status (employee or not), name, department, job title, access start date, access start time, access type, and access level. The purpose of this form is to ensure that all IT support requests are properly documented and that the access levels are accurately tracked. This form should only be submitted once the necessary access has been granted. The following instructions are intended to help users fill out the form correctly and efficiently.
-</thinking>
-
 # it_support_authorization_form - Help Guide
 ## Purpose
 The it_support_authorization_form is used to request access to IT systems and resources on behalf of employees. This form is essential for documenting and tracking access levels.

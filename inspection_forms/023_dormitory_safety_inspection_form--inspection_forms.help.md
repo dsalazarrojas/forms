@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect safety inspection data for dormitory safety protocols. The form will help dormitory managers, administrators, or safety inspectors assess the safety and security of the dormitory environment. The form will ask for general information, safety equipment availability, electrical outlet conditions, fire safety conditions, emergency exit sign presence, first aid kit availability, fire extinguisher conditions, and emergency phone number availability. This form is not intended to be a comprehensive safety inspection checklist, but rather a general assessment tool to identify potential safety concerns.
-</thinking>
-
 # Dormitory Safety Inspection Form - Help Guide
 ## Purpose
 The Dormitory Safety Inspection Form is designed to help dormitory managers, administrators, or safety inspectors assess the safety and security of the dormitory environment.

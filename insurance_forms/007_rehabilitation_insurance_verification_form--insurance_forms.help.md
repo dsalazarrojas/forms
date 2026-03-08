@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to verify the details of a client's rehabilitation insurance information. The fields are designed to be completed by the client or a representative, providing relevant details about their insurance policy and treatment services. To ensure accurate and complete information, please follow the instructions below.
-
-</thinking>
-
 # Rehabilitation Insurance Verification Form - Help Guide
 
 ## Purpose

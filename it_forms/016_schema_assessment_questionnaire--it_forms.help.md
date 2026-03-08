@@ -1,7 +1,3 @@
-<thinking>
-The Schema Assessment Questionnaire is a form used to collect feedback and information about schemas. It is likely a form used by development teams, quality assurance teams, or data management teams to assess and document the status of database schemas. This form is designed to gather detailed information about schema owners, versioning, reviewers and evaluators, and other relevant metadata.
-</thinking>
-
 # Schema Assessment Questionnaire - Help Guide
 ## Purpose
 The Schema Assessment Questionnaire is a form used to collect and document information about database schemas. It helps teams to assess and track the status of schemas, including their owners, versioning, and reviews.

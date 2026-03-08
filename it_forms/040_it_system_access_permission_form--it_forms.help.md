@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting IT system access. 
-</thinking>
-
 # it_system_access_permission_form - Help Guide
 ## Purpose
 This form is designed to collect information for requesting access to the IT system. It is meant to gather essential details from the user, making it easier for IT administrators to assess and manage access requests.

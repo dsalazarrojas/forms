@@ -1,9 +1,3 @@
-<thinking>
-This form is used to report loading-related issues, such as delays, damage, or other problems. It captures information about the facility, carrier, dock ID, issue type, and description, as well as any images or documents that may be relevant to the issue. This form also includes fields for reporting the solution status and providing additional details about the solution.
-The form is designed to be filled out by personnel responsible for loading and unloading processes, and is intended to help track and analyze issues related to these processes.
-Before starting, check that the issue has not already been reported and that you are not duplicating an existing report.
-</thinking>
-
 # Loading Issue Report - Help Guide
 ## Purpose
 The purpose of this form is to report loading-related issues, such as delays, damage, or other problems, to help track and analyze these issues.

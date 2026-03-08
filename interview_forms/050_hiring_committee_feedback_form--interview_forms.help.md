@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive feedback collection tool, designed to gather input from multiple committee members regarding a candidate or nominee. It seems to have 12 fields in total, with each field corresponding to a different committee member, with some fields asking for binary ratings (yes/no) and others open-ended text input for feedback. 
-
-The purpose of this form might be to collect opinions and feedback from committee members about a candidate, likely for a hiring or promotion process. It might be used in an HR or management context to gather input from a diverse group of people, allowing for a more comprehensive evaluation of a candidate.
-
-The form does not appear to be duplicated or redundant, each field seems to have a distinct purpose and contribution to the overall evaluation process.
-
-</thinking>
-
 # Hiring Committee Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from committee members on a candidate or nominee. Each field corresponds to a different committee member, and their input will help in the overall evaluation process.

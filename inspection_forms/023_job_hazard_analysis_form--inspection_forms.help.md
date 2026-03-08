@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to document and evaluate job hazards in the workplace. It is used by safety professionals to identify and mitigate potential hazards that could impact employees' well-being and productivity. The goal of this form is to provide a standardized way of assessing job hazards and tracking progress in implementing control measures. It is intended for use by various roles within an organization, including safety managers, supervisors, and employees.
-
-The form is designed to be completed in a specific manner, with each field having a specific purpose and required/optional status. This guide is intended to provide clarity and support to end-users who may not be familiar with the form's purpose and usage.
-
-</thinking>
-
 # Job Hazard Analysis Form - Help Guide
 ## Purpose
 The Job Hazard Analysis Form is used to document and evaluate job hazards in the workplace. It is a tool for safety professionals to identify and mitigate potential hazards that could impact employees' well-being and productivity.

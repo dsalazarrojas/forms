@@ -1,21 +1,3 @@
-<thinking>
-This form is intended to collect information related to forms, likely for administrative or organizational purposes. The form appears to be used for creating and managing forms within a specific context, such as a database or application. It's possible that this form is part of a broader workflow or process for form design, submission, and review.
-
-To determine the relevance and uniqueness of this form, consider the following:
-
-* The form has multiple fields related to form metadata, such as title, description, and category, which suggests that it's focused on form design and management.
-* The presence of fields like SKU lists and attachments implies that this form might be used for data collection or submission.
-* The options available in select_one fields, such as Option 1, Option 2, and Option 3, indicate that the form is designed to be user-selectable, allowing users to choose from predefined choices.
-
-To ensure that this form is not duplicating existing functionality, consider the following:
-
-* Are there similar forms or workflows that collect similar information?
-* Are there any existing forms that already address the specific needs of users in this context?
-
-If this form is not redundant, the next step would be to proceed with creating a user-facing help guide to support users in completing the form.
-
-</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

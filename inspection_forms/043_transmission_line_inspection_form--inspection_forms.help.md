@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about a transmission line inspection. It is used to record the status of a transmission line, including whether it is functional, and if so, what type of inspection was performed. The form is used by maintenance staff to inspect a transmission line and gather data on its state. It is likely used in a maintenance or asset management context, such as a factory or plant inspection, to ensure that the transmission lines are in proper working condition.
 
 The purpose of this form is likely to identify issues with transmission lines, assign responsibility for inspection or repair, and to track the status of ongoing work.

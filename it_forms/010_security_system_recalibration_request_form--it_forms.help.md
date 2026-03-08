@@ -1,6 +1,3 @@
-<thinking>
-This form is used to request a recalculation of a user's security system access levels. The purpose of this form is to gather information from the user to understand their current access levels and preferences. The form should only be filled out once per user, as it's not intended for repeated submissions. Please ensure that you have not already submitted a recalculation request before filling out this form.</thinking>
-
 # Security System Recalibration Request Form - Help Guide
 ## Purpose
 This form is used to request a recalculation of a user's security system access levels.

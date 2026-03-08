@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to collect information from clients about their auto insurance needs. This form will guide users through a series of fields that cover essential information about the client, their vehicle, and their insurance preferences. 
 
 # Auto Insurance Information Form - Help Guide

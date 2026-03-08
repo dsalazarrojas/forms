@@ -1,10 +1,3 @@
-<thinking>
-This form is a structured questionnaire designed to gather information about an artist for a music label. The purpose of this form is to collect detailed data about the artist, including their contact information, social media links, and other relevant details. The form is intended to be used by music label staff to gather information about artists they work with or would like to work with.
-
-To ensure that the form is filled out accurately and thoroughly, it is essential to understand the purpose and relevance of each field. This guide will walk you through each field and provide explanations for what is being asked.
-
-</thinking>
-
 # Music Label Artist Interview Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about artists for a music label.

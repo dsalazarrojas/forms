@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a YouTube video fetch request, a process typically used in the digital marketing and content creation fields. Before proceeding, please ensure that the form is not submitted for the same purpose twice, as it may lead to duplicate requests and unnecessary work for the support team. Ensure that the form is filled out accurately and completely to facilitate efficient processing.
-</thinking>
-
 # YouTube Video Fetch Request - Help Guide
 ## Purpose
 The YouTube Video Fetch Request form is a tool used to collect information for the creation, modification, or removal of YouTube videos. This form is used by various departments, including Marketing and Creative, to ensure that the support team has all the necessary details for a successful video fetch operation.

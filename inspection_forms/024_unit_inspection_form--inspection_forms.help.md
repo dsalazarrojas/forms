@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is for end-users who will be using the "Unit Inspection Form" to collect information related to unit inspections. To ensure relevance and avoid duplication, it is essential to understand that this form is used to gather data on the status of rental units and the interactions between renters and landlords. 
-
-Before using this form, make sure that all fields are necessary and that you are not duplicating work that is already being done. This form should be used when a unit is inspected for move-in or move-out, and you need to gather information such as inspection dates, conditions, and communication with the renter.
-
-</thinking>
-
 # Unit Inspection Form - Help Guide
 
 ## Purpose

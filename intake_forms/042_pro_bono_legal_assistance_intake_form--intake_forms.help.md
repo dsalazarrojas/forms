@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to gather user information for pro bono legal assistance. 
-The form checks for relevance and non-duplication to ensure that users are not submitting duplicate or irrelevant information. 
-Please ensure that the information provided is accurate and complete. 
-This form is meant to be completed by individuals seeking legal assistance. 
-The fields are designed to be as straightforward as possible to minimize confusion. 
-However, please refer to the field-by-field explanation for any unclear or ambiguous fields. 
-This form's fields are meant to collect user information and are not intended to be used for any other purpose. 
-Please complete this form carefully and accurately. 
-This guide will walk you through each field of the form, ensuring that you understand what each field is intended to collect. 
-Please follow the instructions carefully to ensure accurate completion of the form. 
-If you have any questions or concerns, please do not hesitate to reach out to the relevant authorities. 
-Please note that this form does not collect sensitive or personal information beyond what is absolutely necessary for the legal assistance process. 
-We take data privacy seriously. 
-</thinking>
-
 # Pro Bono Legal Assistance Intake Form - Help Guide
 
 ## Purpose

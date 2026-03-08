@@ -1,13 +1,3 @@
-<thinking>
-The Developer Authentication Form is designed for developers to provide their information for authentication and authorization purposes. This form ensures that only authorized developers with the correct credentials can access certain areas or resources. The form is used for internal authentication and verification processes, and it's essential to complete it accurately to ensure a smooth and secure experience.
-
-Please note that this form is not intended for public-facing purposes, and the information collected is only for internal use within the organization. The form's fields are designed to collect specific information from developers, and each field has a specific purpose and requirement status. It's crucial to fill out the form correctly to avoid any issues or delays in the authentication process.
-
-Before proceeding, ensure that you are filling out the form for the correct purpose and that you have the necessary permissions to access the resources associated with this form. If you're unsure, please contact the form administrators at <form@gic.mx> for further assistance.
-
-After filling out the form, please review your entries carefully to ensure accuracy and completeness.
-
-</thinking>
 # Developer Authentication Form - Help Guide
 ## Purpose
 The Developer Authentication Form is designed to collect necessary information from developers for authentication and authorization purposes.

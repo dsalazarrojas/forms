@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to report malfunctions in the trace system, which is a critical component of a larger system used for tracing and monitoring various data points. Before filling out this form, please ensure that you have not already reported the same malfunction or a similar issue. This form is meant to gather essential information about the malfunction, its impact, and any relevant details that will help the technical team diagnose and resolve the issue efficiently. 
-</thinking>
-
 # Trace System Malfunction Report Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their credit repair inquiries. It is intended for internal use only and is not for external publication. To ensure that you are providing accurate and relevant information, please review the form carefully before submitting it. Duplicate inquiries may lead to data duplication and errors in credit repair processes. Ensure that you have not submitted an inquiry with the same details previously. 
-</thinking>
-
 # Credit Repair Inquiry Form - Help Guide
 
 ## Purpose

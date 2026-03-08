@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for collecting and recording data related to underground insulation resistance testing. It's likely used by engineers or technicians in construction or utility companies to document the results of insulation resistance tests conducted on underground pipes and cables. The form appears to be a general, one-off form for reporting test data and results.
-
-Form fields seem to be a mix of standard data entry fields (date, text, number) and specific fields for collecting data related to insulation resistance (insulation type, resistance readings). The presence of 'Insulation Type' suggests that the form might be used for collecting data on different types of insulation materials used underground, which could be relevant for quality control or research purposes. There's no indication of a complex or proprietary business process, so the form likely has a standard, practical use in documenting test results and associated notes.
-
-The form doesn't appear to have any conditional fields or dependencies, suggesting it's a simple, one-form-fits-all solution for collecting test data.
-
-</thinking>
-
 # Underground Insulation Resistance Testing Form - Help Guide
 ## Purpose
 The Underground Insulation Resistance Testing Form is designed to collect and record data related to underground insulation resistance testing. This form is used for documenting test data and results, including the type of insulation used, resistance readings, and other relevant information.

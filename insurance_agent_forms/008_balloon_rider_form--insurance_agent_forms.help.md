@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for policyholders to add coverage for specific items or activities, such as hot air balloons, high-value items, or special events. The form is intended to gather information about the item or activity, including its value, location, and usage frequency. This form will help insurance agents gather the necessary information to provide accurate quotes and coverage options for the policyholder. Please note that some fields may be optional, but all required fields must be completed in order to generate a quote.
-</thinking>
-
 # Balloon Rider Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to gather information about an individual's vehicle and their insurance inquiry status. To avoid duplication of effort, it is best to first check with the insurance provider to see if the vehicle is already insured before filling this form. If the vehicle is already insured, please do not fill the form. The form is intended for new insurance inquires only.
-</thinking>
-
 # Vehicle Insurance Inquiry Form - Help Guide
 ## Purpose
 This form is used to gather information about an individual's vehicle and their insurance inquiry status. It is designed for new insurance inquires.

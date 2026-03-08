@@ -1,15 +1,3 @@
-<thinking>
-The form "Family Boundary Guidance Request Form" is a tool used to collect information from users regarding the family boundary guidance requests they have. It helps to gather essential details about the requests, including names, relationships, and contact information. This form is designed to be used by users who need to provide guidance and support to family members or loved ones who require it. 
-
-To determine if this form is relevant for you, please consider the following:
-- Are you looking to provide guidance and support to family members or loved ones?
-- Do you need to gather information about their requests and preferences?
-If you answered yes to these questions, this form might be relevant for you. 
-
-However, before filling out this form, please check that you have not already done so. Duplicating the form might cause confusion and unnecessary work for our team.
-
-</thinking>
-
 # Family Boundary Guidance Request Form - Help Guide
 ## Purpose
 The Family Boundary Guidance Request Form is a tool used to collect information from users regarding the family boundary guidance requests they have. This form helps to gather essential details about the requests, including names, relationships, and contact information.

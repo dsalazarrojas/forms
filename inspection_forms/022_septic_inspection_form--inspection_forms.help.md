@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Septic Inspection Form - Help Guide
 ## Purpose
 The Septic Inspection Form is designed to collect information about the condition and status of a septic system at a specific property. This form is typically used by inspectors to document their findings and provide recommendations for future maintenance and inspections.

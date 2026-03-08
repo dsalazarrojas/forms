@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The New Hire Request form is used to collect information from employees for new hires within the company. This form is typically completed by HR or management staff when a new employee is joining the team, and it ensures that the relevant department manager is notified and any necessary equipment is allocated for the new hire. The form is also used to track and manage employee requests for equipment and software, ensuring that the necessary resources are available for them to start work effectively.
 
 # New Hire Request - Help Guide

@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form purpose and instructions are clear for end-users who will be completing this form. Let's assume that this form is used in a safety-related context, such as an industrial facility, where a "Process Grounding Check" is a safety inspection to verify that a piece of equipment or facility is properly grounded to prevent electrical shock or fire hazards. The form is meant to collect information about the location of the facility, the inspector's name and ID, the date and time the inspection was completed, the result of the grounding check, and any actions taken as a result.
-
-To avoid duplication of effort, we should also ensure that the form is not used for the same facility and inspection multiple times.
-
-</thinking>
-
 # Process Grounding Check Form - Help Guide
 ## Purpose
 The Process Grounding Check Form is used to record the result of a safety inspection at an industrial facility, verifying that the facility's equipment is properly grounded to prevent electrical shock or fire hazards.

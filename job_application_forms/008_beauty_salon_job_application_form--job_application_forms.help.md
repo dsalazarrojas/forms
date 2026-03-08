@@ -1,24 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in applying for a job at a beauty salon. The form is intended for applicants to provide their contact information, position applied for, desired employment type, available start date, weekly availability, professional experience, and any relevant certifications or references.
-
-The form is likely intended for use by salon management or human resources staff to assess applicant suitability for available positions.
-
-The form's fields cover essential information for a job application, including contact details, job specifics, availability, experience, and references. This comprehensive approach allows applicants to provide a thorough overview of their qualifications and background, making it easier for salon staff to evaluate their fit for the position.
-
-The form's structure is designed to guide applicants through the application process, making it more straightforward and efficient.
-
-The fields are clearly labeled and defined, ensuring that applicants understand exactly what information is required.
-
-The form's fields are also well-structured to allow for easy sorting and filtering of applicant data for salon staff.
-
-By using this form, applicants can provide accurate and complete information, increasing the chances of their application being considered for the position.
-
-The form is a crucial tool for salon recruitment, ensuring that applicants provide the necessary information to be evaluated for available positions.
-
-The form's length and complexity are reasonable, considering the amount of information required to assess an applicant's suitability for the position.
-
-</thinking>
-
 # Beauty Salon Job Application Form - Help Guide
 ## Purpose
 The Beauty Salon Job Application Form is designed to collect information from individuals interested in applying for a job at a beauty salon. This form helps salon management or human resources staff to evaluate applicants' qualifications and suitability for available positions.

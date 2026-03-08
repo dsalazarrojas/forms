@@ -1,9 +1,3 @@
-<thinking>
-The goal of this form is to collect information from tax clients, including personal details such as name, contact information, and emergency contacts. This form is likely intended for tax planning and consulting services, where the gathered data will be used to provide personalized advice or representation. To ensure accurate data collection, it is crucial to double-check that each field is filled out correctly.
-
-To confirm, the form should only be filled out by the actual client or authorized representative, and not by anyone else. This is to prevent duplicate or incorrect submissions.
-</thinking>
-
 # Personal Tax Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect personal details from tax clients, including contact information and emergency contacts. It will be used to provide personalized advice or representation for tax planning and consulting services.

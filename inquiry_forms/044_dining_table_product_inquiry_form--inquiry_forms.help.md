@@ -1,7 +1,3 @@
-<thinking>
-The form is used for customers or sales teams to inquire about a specific dining table product, including details such as product specifications, customer information, and shipping address. This form ensures that the customer's needs and preferences are captured correctly, helping the sales team to provide accurate quotes, deliver products on time, and follow up with customers effectively.
-</thinking>
-
 # Dining Table Product Inquiry Form - Help Guide
 ## Purpose
 The "Dining Table Product Inquiry Form" is a tool for sales teams and customers to gather information about a specific dining table product. This form helps to gather details such as product specifications, customer information, and shipping address, allowing the sales team to provide accurate quotes and deliver products on time.

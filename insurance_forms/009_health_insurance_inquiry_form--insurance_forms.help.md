@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for health insurance inquiries. Its purpose is to gather details about an individual's identity and health insurance needs. This form is intended to be filled out by customers or clients, and its completion is a mandatory step in the insurance application process. The form's fields will be used to create an output file with relevant insurance information.
-
-To ensure the form is completed correctly and efficiently, please read the help guide carefully.
-
-</thinking>
-
 # Health Insurance Inquiry Form - Help Guide
 ## Purpose
 This form is used to collect health insurance information from customers or clients. Please fill out the form accurately and completely to ensure that your insurance needs are properly assessed.

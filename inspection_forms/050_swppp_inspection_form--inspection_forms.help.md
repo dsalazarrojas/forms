@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # SWPPP Inspection Form - Help Guide
 ## Purpose
 The SWPPP (Site Wide Pollution Prevention Program) Inspection Form is a tool used to collect information about site inspections, ensuring compliance with relevant regulations and standards. This form is crucial for assessing the overall condition of the site and guiding future inspection schedules. Please ensure that this form is completed accurately and consistently to maintain a record of site inspections.

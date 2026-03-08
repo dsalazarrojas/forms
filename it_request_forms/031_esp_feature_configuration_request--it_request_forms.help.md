@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is likely to allow users to request new features for the Electronic System of Programs (ESP) system. This form is probably used to gather information from users about the features they want to see implemented in the system. The form is structured into separate pages, each with its own set of fields, allowing the user to provide detailed information about their request. The form is not strictly required for users to complete, but its completion is likely beneficial for the development team to understand user needs and improve the system. This form might be used internally by the ESP development team or externally by users, depending on the context.
-</thinking>
-
 # ESP Feature Configuration Request - Help Guide
 ## Purpose
 The ESP Feature Configuration Request form allows users to submit requests for new feature configurations to be implemented in the ESP system.

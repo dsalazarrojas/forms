@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for the "Life Insurance Records Release Form" that provides clear instructions to end-users on how to complete the form and explains each field's purpose in a concrete and concise manner. The form aims to collect essential information for releasing life insurance records. This form is crucial for policyholders and authorized parties to provide accurate details about a policyholder's relationship and authorization.
-</thinking>
-
 # Life Insurance Records Release Form - Help Guide
 
 ## Purpose

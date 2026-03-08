@@ -1,12 +1,3 @@
-<thinking>
-This form will be used to collect information on the details of an SSH audit log entry. 
-This guide will provide a step-by-step walkthrough on how to fill up this form and what each field represents. 
-
-This form will help in tracking user activity on the system through SSH and will provide information on who accessed the system, from where they accessed it, when they started and when they ended the session. This will be crucial for security and access control purposes.
-
-Please make sure to fill up all the required fields. 
-</thinking>
-
 # SSH Audit Log Form - Help Guide
 
 ## Purpose

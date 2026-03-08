@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about the IT support service they received. This form is intended to help the support team understand the quality of service provided and identify areas for improvement. Please fill out this form only if you have actually received service and have feedback to share.
-The form is intended for actual users, not for internal or testing purposes. Duplicate submissions may be discarded, so please do not submit multiple times.
-</thinking>
-
 # it_support_service_feedback_form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the guide, let's confirm that this form is intended to collect information from clients about their consultancy services needs. This form will be used to gather details about the client's company, project scope, objectives, timeline, budget, and other relevant information. Please ensure that you have not already completed this form before, as duplicates will not be accepted.</thinking>
-
 # Consultancy Service Information Collection Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # public_health_informatics_fellowship_application - Help Guide
 ## Purpose
 This form is for applying to the Public Health Informatics Fellowship. It collects general information, experience, motivation, and supporting documents from applicants. The purpose of this form is to assess the qualifications and fit for the fellowship program.

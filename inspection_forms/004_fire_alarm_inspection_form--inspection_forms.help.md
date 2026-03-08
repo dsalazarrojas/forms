@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I want to ensure that I understand the purpose and context of this form. Based on the provided YAML, it appears that this form is used to inspect fire alarm systems in a facility or building. The form collects information about the fire alarm system, including its status, description, and other relevant details. It also asks for information about the inspection process, such as the date and time of the inspection, the presence of a fire alarm certificate, and any comments or notes from the inspector. I will now create a help guide that explains the purpose and usage of the form in a clear and concise manner.</thinking>
-
 # Fire Alarm Inspection Form - Help Guide
 ## Purpose
 The Fire Alarm Inspection Form is used to collect information about the fire alarm system in a facility or building. This form is designed to help inspectors conduct a thorough inspection of the fire alarm system and record their findings.

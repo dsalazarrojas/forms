@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure that the form is used correctly, we should confirm that the form is being used for its intended purpose and not for any other reason.
-
-This Railway Track Safety Inspection Form is designed to gather data about the safety inspection of railway tracks. This form is used to document the inspection process, which helps in identifying potential safety issues and taking corrective actions. To use this form correctly, you should only answer questions that are relevant to the safety inspection of railway tracks.
-
-</thinking>
-
 # Railway Track Safety Inspection Form - Help Guide
 ## Purpose
 This form is used for the safety inspection of railway tracks. It helps in documenting the inspection process, identifying potential safety issues, and taking corrective actions.

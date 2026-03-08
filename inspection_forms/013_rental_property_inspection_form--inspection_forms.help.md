@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to record the findings and data associated with a rental property inspection. Inspectors, agents, and other users will input their findings for each property, including inspection dates, addresses, property types, conditions, and any additional notes. To ensure consistency, it's essential that each submission adhere to the format outlined below. Ensure that every instance of this form is reviewed and approved before submitting multiple forms for the same property.
-</thinking>
-
 # Rental Property Inspection Form - Help Guide
 ## Purpose
 This form collects information on rental property inspection dates, addresses, and conditions, along with the identity of the assigned agent and any additional notes.

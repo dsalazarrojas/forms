@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Claim Processing Efficiency Audit Form - Help Guide
 
 ## Purpose

@@ -2,12 +2,6 @@
 ## Purpose
 The Investment Performance Disclosure Consent Form is a mandatory document that aims to obtain your consent for the use of your contact information and the disclosure of your investment performance. This form is part of a larger process to ensure transparency and compliance in the investment industry.
 
-<thinking>
-This form is designed to be a comprehensive guide for investors to provide their consent for the disclosure of their investment performance. The form will collect essential information about your investment history, type, and level of experience. Please fill out the form accurately to ensure that your information is recorded correctly.
-
-Form sections are designed to be self-explanatory, but if you have any questions or concerns, please don't hesitate to reach out.
-</thinking>
-
 ## How To Complete This Form
 1. Select 'Yes' or 'No' to indicate if the investment performance disclosure consent form is necessary for you.
 2. Fill in your name and email address accurately.

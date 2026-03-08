@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used by customers to inquire about travel plans and options. The form is designed to be completed by customers who are interested in booking a trip and are looking for information or advice on destinations, prices, and travel options. It's possible that this form is used to route customer inquiries to a travel agency or travel consultant who can provide personalized guidance.
-Before filling out this form, please note that you are not required to complete all fields. However, providing as much information as possible will help the travel consultant better understand your travel preferences and provide more accurate and relevant recommendations.
-To fill out this form, simply select the relevant fields and provide as much detail as you can. You can choose one or multiple options for each field.
-</thinking>
-
 # Travel Inquiry Form - Help Guide
 ## Purpose
 This form is designed to help customers inquire about travel plans and options. It will be reviewed by a travel consultant who will provide personalized guidance on destinations, prices, and travel options.

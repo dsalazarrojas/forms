@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about tone frequency adjustments from submitters, allowing them to request changes in tone frequency, providing a way to track and document these requests. 
-This form is likely part of a larger system used in a specific industry or application, possibly related to music, audio, or audio-visual content where tone or pitch adjustments are common. 
-Before starting, make sure you understand the specific requirements and context of this form within your organization. 
-This form might be used by multiple people, so it's essential to ensure everyone understands what each field is intended for. 
-</thinking>
-
 # Tone Frequency Adjustment Form - Help Guide
 
 ## Purpose

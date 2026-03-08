@@ -1,5 +1,3 @@
-<thinking>Inspectors are required to fill this form for every property inspection they perform. They will be assessing the building's condition, listing major issues, and providing an overall assessment. Please fill this form carefully and accurately.</thinking>
-
 # Building Inspection Checklist - Help Guide
 ## Purpose
 The Building Inspection Checklist is used by inspectors to document their findings after inspecting a building. It helps them to identify potential issues and provide an overall assessment of the property's condition.

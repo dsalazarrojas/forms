@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from users who want to participate in UX research studies. The purpose of this form is to capture the necessary details of the user for research purposes. This form should only be filled out once, and the information provided will be used solely for research purposes. Please fill out the form completely and accurately to ensure that your information is captured correctly. If you have filled out this form before, please do not submit it again, as duplicate entries are not necessary and may lead to confusion in our research data.</thinking>
-
 # ux_research_consent_form - Help Guide
 ## Purpose
 The UX Research Consent Form is used to collect demographic information from users who want to participate in UX research studies. This form helps us gather details about the participant, such as their name, email, and contact information, as well as project-specific information like project name and start date.

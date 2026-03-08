@@ -1,12 +1,3 @@
-<thinking>
-We are designing a help guide for the "network_shop_qualification_survey" form to ensure end-users understand its purpose, how to complete it, and what each field means. This form is used to collect information about a vendor's qualifications and experiences in the network shop industry. We will review the form's fields and provide clear explanations to help users navigate it effectively.
-
-This form is intended to gather information from vendors about their services, experiences, and qualifications. It includes fields for selecting services offered, business experience, vendor certification, and other relevant details. By completing this form, vendors can demonstrate their suitability for network shop projects.
-
-Before proceeding, ensure that you have read and understood the instructions for each field.
-
-</thinking>
-
 # network_shop_qualification_survey - Help Guide
 ## Purpose
 The "network_shop_qualification_survey" form is designed to collect information about a vendor's qualifications and experiences in the network shop industry. This form is used to assess a vendor's suitability for network shop projects.

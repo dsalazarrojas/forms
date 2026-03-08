@@ -1,7 +1,3 @@
-<thinking>
-This form is a general-purpose inquiry form used by the marketing team to collect information from customers, partners, or other stakeholders. It is used to record and track inquiries, and the data collected will help the marketing team understand customer needs and preferences. Please ensure that you fill in all required fields accurately to ensure that your inquiry is processed efficiently. 
-</thinking>
-
 # Marketing Inquiry Form - Help Guide
 ## Purpose
 The Marketing Inquiry Form is used by the marketing team to collect information from customers, partners, or other stakeholders to better understand their needs and preferences.

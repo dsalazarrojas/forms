@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about engineering candidates during the interview process. It helps gather data on the candidate's details, contact information, technical skills, communication style, overall fit, feedback, interview panel, hiring manager, and date of the interview. This form aims to provide a structured approach to evaluating candidates and streamlining the hiring process.
-
-When completing this form, please ensure that all required fields are filled in. If a field is marked as optional, you can skip it or fill it in at your discretion. However, keep in mind that some fields might be critical in the evaluation process.
-
-</thinking>
-
 # Engineering Candidate Interview Form - Help Guide
 ## Purpose
 This form is used to collect information about engineering candidates during the interview process. It helps assess the candidate's fit and suitability for the role.

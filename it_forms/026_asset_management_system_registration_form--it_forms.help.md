@@ -1,15 +1,3 @@
-<thinking>
-This form is part of a larger asset management system, designed to help organizations efficiently track and manage their assets. It's essential that the information provided in this form is accurate and complete, as it will be used to determine the system's configuration and setup. Please ensure that you have the necessary permissions and authority to complete this form on behalf of your organization.
-
-To avoid any potential issues with data duplication, it's recommended that this form is filled out only once for each organization.
-
-The form is divided into sections that cover various aspects of the organization's needs and preferences. Please read each section carefully and answer accordingly.
-
-Before starting the form, please make sure you have all the necessary information and approvals to complete it accurately.
-
-If you're unsure about any aspect of the form, please reach out to your internal contacts or the asset management system team for clarification.
-</thinking>
-
 # Asset Management System Registration Form - Help Guide
 ## Purpose
 The Asset Management System Registration Form is designed to gather essential information from organizations interested in using our asset management system. This form helps us understand your organization's needs, preferences, and requirements to tailor the system's configuration and setup for a smooth implementation.

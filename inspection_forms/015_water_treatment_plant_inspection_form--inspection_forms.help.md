@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for water treatment plant inspection. The purpose of the form is to collect data about the water treatment plant's maintenance schedule and inspections. The form is likely to be used by plant operators or maintenance personnel to ensure that the plant is complying with regulatory requirements and maintaining a safe and efficient operation. The form will help track and report on the plant's maintenance activities, which is an essential part of maintaining the water treatment plant's functionality and performance. To avoid duplication, we should check if similar forms exist in the organization or industry before proceeding with this form.
-
-</thinking>
-
 # Water Treatment Plant Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about the water treatment plant's maintenance schedule and inspections. It is intended to be used by plant operators or maintenance personnel to ensure that the plant is operating safely and efficiently.

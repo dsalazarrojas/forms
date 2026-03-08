@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is used to document a store takeover, including information about the store, the owner, and the investor involved. The form helps to gather details for administrative and decision-making purposes. It ensures the collection of relevant data to facilitate smooth operations and effective management.</thinking>
-
 # new_store_takeover_form - Help Guide
 ## Purpose
 The new store takeover form is used to collect information about a store's takeover, including its details, ownership, and investor involvement. This form is essential for administrative and decision-making processes, ensuring accurate and comprehensive data collection.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a template for requesting documentation related to database audit extensions. It seems that the form is designed for users to submit information and attachments that are necessary for the extension's development and documentation process. The form likely requires users to provide context about what they are requesting, what materials they are providing, who has approved the request, and any review notes that accompany the request. The form's purpose might be for internal use within an organization, given that it's not affiliated with any form platform and doesn't mention external sharing or distribution. 
-</thinking>
-
 # Database Audit Extension Documentation Request Form - Help Guide
 ## Purpose
 This form is designed for requesting documentation related to database audit extensions. It collects information to help developers and maintainers create accurate and thorough documentation for the extension.

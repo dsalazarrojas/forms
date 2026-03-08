@@ -1,7 +1,3 @@
-<thinking>
-This form is used to inquire about music festival ticket holders, collecting information about them, and tracking follow-up activities. To avoid duplication, ensure that you have not submitted an inquiry for the same ticket holder before. This guide will walk you through the steps to complete the form correctly.
-</thinking>
-
 # Music Festival Ticket Holder Inquiry Form - Help Guide
 ## Purpose
 The Music Festival Ticket Holder Inquiry Form is designed to gather information about ticket holders and their follow-up activities. This form helps staff to efficiently track and manage inquiries, ensuring that ticket holders' concerns are addressed promptly.

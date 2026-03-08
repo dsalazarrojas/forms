@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Editing Tools Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the editing tools used in your daily work, their satisfaction with these tools, and any feature needs or training needs related to these tools. This form helps identify potential areas where tools can be improved to better support your work.

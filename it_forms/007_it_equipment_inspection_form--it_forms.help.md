@@ -1,5 +1,3 @@
-<thinking>As I review the provided form YAML, I can see that this is an IT Equipment Inspection Form, which is used to inspect and report issues with IT equipment. The form has a mix of text fields, select options, and date fields. It appears to be used for tracking and managing equipment issues. I'll make sure to break down the form into an easy-to-follow guide for end-users.</thinking>
-
 # IT Equipment Inspection Form - Help Guide
 ## Purpose
 This form is used to report and manage issues with IT equipment. It helps track the status of equipment and ensures that issues are addressed promptly.

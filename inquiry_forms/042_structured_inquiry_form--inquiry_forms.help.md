@@ -1,7 +1,3 @@
-<thinking>What is the purpose of this form? This form is designed to gather structured inquiries from users. It is meant to be used to collect information about a specific issue or concern that a user wants to be addressed. The form's purpose is to help us better understand the issue and prioritize it accordingly. Please ensure that you only submit one inquiry per form. If you have multiple issues, please submit separate forms for each one.
-
-</thinking>
-
 # Structured Inquiry Form - Help Guide
 
 ## Purpose

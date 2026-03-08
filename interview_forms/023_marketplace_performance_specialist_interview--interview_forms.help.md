@@ -1,8 +1,3 @@
-<thinking>
-This help guide will help users complete the Marketplace Performance Specialist Interview form, a crucial step in our recruitment process. This form gathers information to evaluate candidates' expertise, experience, and availability for an interview. To ensure a smooth completion, review each field carefully and take note of required fields.
-
-</thinking>
-
 # Marketplace Performance Specialist Interview - Help Guide
 ## Purpose
 This form is designed to gather information about your expertise, experience, and availability as a Marketplace Performance Specialist. Please provide accurate and relevant information to increase your chances of being selected for an interview.

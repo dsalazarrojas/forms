@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to gather information about their insurance needs and preferences. The form collects data on various aspects of insurance, including policy benefits, insurance goals, type of insurance, and demographic information such as age and contact details. It's likely that this form is intended for use in a business or financial context, possibly for an insurance company or broker, to assess and offer tailored insurance solutions to customers.
-</thinking>
-
 # insurance_consultation_form - Help Guide
 ## Purpose
 This form is designed to collect information about your insurance needs and preferences.

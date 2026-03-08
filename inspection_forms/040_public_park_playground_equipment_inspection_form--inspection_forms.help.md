@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to guide park inspectors in conducting regular inspections of public park playground equipment. The purpose of this form is to collect data on the condition of equipment and playgrounds, allowing for better maintenance, upkeep, and resource allocation. By completing this form, inspectors can provide a comprehensive overview of the playground's state, identifying any potential safety hazards, maintenance needs, and opportunities for improvement. This form is part of a larger effort to ensure public parks are safe and enjoyable for users.
-</thinking>
-
 # Public Park Playground Equipment Inspection Form - Help Guide
 ## Purpose
 The Public Park Playground Equipment Inspection Form is used by park inspectors to record their observations and findings during regular inspections of public park playgrounds. The data collected will help park administrators identify maintenance needs, prioritize resource allocation, and improve the overall quality of the park's playgrounds.

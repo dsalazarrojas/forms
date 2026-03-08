@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for referrals from healthcare providers to other healthcare organizations or services. The form allows providers to share information about a patient's care requirements and preferences. The form's fields are designed to collect relevant details about the patient, the referral purpose, and the provider's contact information. When creating a referral, the provider will need to provide basic information about themselves and the patient, including the patient's name, contact number, and email. They will also need to select the referral reason, type, and source, and provide any additional notes. To prevent duplication, the form should only be completed once for each patient referral. If a provider has already completed the form for a particular patient, they should not re-complete it.
-</thinking>
-
 # Healthcare Provider Referral Form - Help Guide
 ## Purpose
 The Healthcare Provider Referral Form is designed for healthcare providers to share information about a patient's care requirements and preferences with other healthcare organizations or services.

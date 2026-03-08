@@ -1,7 +1,3 @@
-<thinking>
-This form is a Bio Safety Inspection Form used for inspecting labs to identify potential biosafety issues and ensure compliance. The form is designed to capture details about the inspection, including inspector information, inspection data, lab location, area inspected, biosafety level, PPE compliance, contamination observed, immediate actions taken, and corrective actions required. This form will help ensure that lab personnel are following biosafety guidelines and protocols.
-</thinking>
-
 # Bio Safety Inspection Form - Help Guide
 ## Purpose
 The Bio Safety Inspection Form is a tool used to inspect labs and identify potential biosafety issues. This form ensures that lab personnel are following biosafety guidelines and protocols.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Allergen Free Zone Audit Report Form is to assess the compliance of a facility with allergen-free zone regulations, ensuring a safe environment for individuals with food allergies. This form helps auditors evaluate the facility's management and control of allergens, including their handling, storage, and labeling of food products. By completing this form, auditors can identify areas of compliance and non-compliance, and provide recommendations for corrective actions to maintain a safe and allergen-free environment.
-The form is designed to be completed by an auditor who has conducted a thorough inspection of the facility. The information collected through this form will be used to evaluate the facility's overall compliance with allergen-free zone regulations and identify potential risks and corrective actions needed to improve compliance.
-Please note that the form is intended for internal use within the facility and is not intended for external use. However, the results of this form can be used to inform decisions on facility operations and risk management.
-</thinking>
 # Allergen Free Zone Audit Report Form - Help Guide
 ## Purpose
 The purpose of this form is to assess the compliance of a facility with allergen-free zone regulations, ensuring a safe environment for individuals with food allergies.

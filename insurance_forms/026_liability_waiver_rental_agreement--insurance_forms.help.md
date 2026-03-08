@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information for a liability waiver rental agreement, which is a document that protects both the renter and the landlord by releasing each party from liability in the event of an injury or damage during a rental or use of equipment.
-To determine if this form is relevant, check if it is used for a rental or lease scenario.
-To avoid duplication, ensure that you are not already using this form for another purpose or location.
-</thinking>
-
 # Liability Waiver Rental Agreement - Help Guide
 ## Purpose
 The Liability Waiver Rental Agreement is a document that protects both the renter and the landlord by releasing each party from liability in the event of an injury or damage during a rental or use of equipment.

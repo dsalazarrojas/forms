@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact information from international contacts, including name, contact details, global time zone, chat information, and any additional note. It is designed to be a simple and efficient way to gather relevant data from individuals or organizations across different time zones and countries.
-</thinking>
-
 # International Contact Information Form - Help Guide
 ## Purpose
 The International Contact Information Form is a tool used to collect contact information from international contacts, including their name, contact details, global time zone, chat information, and any additional note. This form helps to streamline data collection and facilitate communication across different time zones and countries.

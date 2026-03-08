@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # stockpile_safety_inspection_checklist--inspection_forms - Help Guide
 ## Purpose
 This form is designed to help you conduct a stockpile safety inspection. It is meant to be used by inspectors and individuals responsible for monitoring stockpiles to identify potential hazards and record corrective actions.

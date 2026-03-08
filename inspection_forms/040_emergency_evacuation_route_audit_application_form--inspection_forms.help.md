@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a simple, straightforward form designed for users to provide their information in case of an emergency evacuation route audit. The purpose of this form is to gather data about the user's name and contact information, likely for the purpose of quickly and efficiently evacuating them in the event of an emergency.
-
-Before proceeding, let's confirm that this form is not duplicating any other form with a similar purpose within the organization. The form does not require any special technical knowledge, and the questions are clear and simple.
-
-The form appears to have four pages, but since each page only has a single field, we'll focus on explaining each field individually.
-
-</thinking>
-
 # Emergency Evacuation Route Audit Application Form - Help Guide
 
 ## Purpose

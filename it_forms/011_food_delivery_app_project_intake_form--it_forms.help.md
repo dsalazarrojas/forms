@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a project that requires food delivery. This form will be used to track and manage the project's progress, including its timeline, budget, and status. It is essential to complete this form accurately and thoroughly to ensure that the project is set up correctly and can be managed effectively.
-</thinking>
-
 # Food Delivery App Project Intake Form - Help Guide
 ## Purpose
 This form is designed to collect and manage project information for food delivery projects. It is a crucial tool for setting up and tracking the progress of these projects.

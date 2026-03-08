@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users ensure that their application's Content Security Policy (CSP) is properly implemented. It's essential to fill out this form carefully to avoid any security issues. The form is meant to be a checklist to help developers and engineers verify that their project's CSP is correctly set up and functioning as expected. Please ensure you're only filling this form once for each project, as duplicating this form will not be processed.
-</thinking>
-
 # CSP Nonce Implementation Checklist - Help Guide
 ## Purpose
 This form is used to collect information about the implementation of Content Security Policy (CSP) in a project or application. It helps ensure that the CSP is correctly set up and functioning as expected.

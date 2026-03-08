@@ -1,5 +1,3 @@
-<thinking>Ship inspection forms are an essential part of ensuring the safety and efficiency of maritime operations. This form is designed to collect relevant information about a ship's condition, details, and inspection results. It's used to provide a comprehensive overview of the ship's status, helping stakeholders make informed decisions. To avoid duplication of effort, please ensure this form is only used for official purposes and not for duplicate or test submissions.</thinking>
-
 # Ship Inspection Form - Help Guide
 ## Purpose
 The Ship Inspection Form is a document used to record and document the condition and details of a ship during inspections. This form is used to gather information about the ship's hull condition, details, and inspection results.

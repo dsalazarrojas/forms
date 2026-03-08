@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Investment Proposal Submission Form - Help Guide
 ## Purpose
 The Investment Proposal Submission Form is designed to collect information from companies and investors who have submitted investment proposals to our organization. This form helps us track and organize the proposals we receive, making it easier for our team to review and respond to them.

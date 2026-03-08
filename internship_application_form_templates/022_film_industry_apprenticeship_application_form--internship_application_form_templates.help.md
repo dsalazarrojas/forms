@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in applying for an apprenticeship in the film industry. This form is an original adaptation created by AI using public survey topic metadata and is not affiliated with any specific form platform.
-
-Before proceeding, please review the fields and ensure you are submitting a complete and accurate application. If you have previously submitted an application, please do not submit again. Duplicate applications may lead to processing delays and potential disqualification.
-
-This form is designed to collect the following information:
-- Candidate Details (Page 1)
-- Portfolio (Page 2)
-- Preferences (Page 3)
-- Contact (Page 4)
-- Submission (Page 5)
-
-Each field is crucial in helping us understand your background, experience, and interests. Please ensure you answer each question thoroughly and accurately.
-
-If you are unsure about any field, please refer to the explanations below.
-</thinking>
-
 # Film Industry Apprenticeship Application Form - Help Guide
 ## Purpose
 The Film Industry Apprenticeship Application Form is a tool designed to collect information from individuals interested in applying for an apprenticeship in the film industry. The form is meant to gather relevant details about the candidate, their experience, and preferences to ensure a smooth and successful application process.

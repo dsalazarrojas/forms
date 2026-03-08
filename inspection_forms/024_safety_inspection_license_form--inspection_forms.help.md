@@ -1,17 +1,3 @@
-<thinking>
-This form is used for safety inspection purposes. It is used to collect information about a specific safety inspection, including business details, contact information, inspection results, and corrective actions taken. The fields in this form are designed to guide the inspector through the process of documenting the inspection.
-
-To complete this form, the user should have the following information ready:
-
-* The name and contact information of the business being inspected
-* The date and time of the inspection
-* The results of the inspection, including whether safety standards were met
-* Any corrective actions taken as a result of the inspection
-* The name of the assigned inspector
-
-The fields in this form are used to collect the following information:
-</thinking>
-
 # Safety Inspection License Form - Help Guide
 ## Purpose
 This form is used to document safety inspections and record important details about the inspection process.

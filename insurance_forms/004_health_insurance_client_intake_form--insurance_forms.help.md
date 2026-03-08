@@ -1,14 +1,3 @@
-<thinking>
-We are creating this help guide to ensure that users understand the purpose and requirements of the "Health Insurance Client Intake Form". The form is used to collect information from clients seeking health insurance, and it's essential to provide clear instructions and explanations for each field to ensure accurate and complete data entry.
-
-The form is designed to collect various personal and insurance-related details, including first and last names, contact information, insurance provider, policy details, and payment information. The fields are labeled and ordered in a logical and user-friendly manner to facilitate efficient completion.
-
-Before starting, please review the form carefully and refer to this help guide if you need any clarification on a specific field.
-
-Please note that the form fields are not mandatory for all clients; however, some fields may be required based on the client type or other conditions determined by the insurance provider or organization.
-
-</thinking>
-
 # Health Insurance Client Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from clients seeking health insurance. Please complete this form accurately and thoroughly to ensure that your insurance needs are assessed and managed efficiently.

@@ -1,16 +1,3 @@
-<thinking>
-This form is likely used for inspecting fire pumps in a fire station. The purpose of this form is to gather information about the condition, location, type, maintenance status, last inspection date, Fire Station ID, and any notes related to the pump being inspected. This form is not intended for critical or emergency situations. There are multiple fields with various types, including select_multiple, text, select_one, date, and note, indicating a variety of possible answers or descriptions for each. The form is designed for non-mandatory, optional, or information-gathering purposes.
-
-To determine if this form should be used in a specific scenario or if it is a duplicate effort, consider the following:
-
-*   Is the form being used for an actual inspection of a fire pump? 
-*   Has this form been used before for the same purpose? 
-*   Are the fields and their labels clear and concise? 
-
-If the form is to be used, the following steps will guide the user:
-
-</thinking>
-
 # fire_pump_inspection_form - Help Guide
 ## Purpose
 The fire_pump_inspection_form is designed to gather information about the condition, location, type, maintenance status, last inspection date, Fire Station ID, and any notes related to the pump being inspected.

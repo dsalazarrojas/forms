@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # power_efficiency_compliance_application_form - Help Guide
 ## Purpose
 The "power_efficiency_compliance_application_form" is designed to collect information about a facility's power efficiency compliance status, including facility details, energy efficiency details, supporting documents, and other relevant information. This form is intended for facilities that need to demonstrate their commitment to power efficiency and compliance with relevant regulations.

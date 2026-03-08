@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "criminal-defense-intake-form" that explains its purpose, how to complete it, and each field in detail.</thinking>
-
 # criminal-defense-intake-form - Help Guide
 ## Purpose
 The criminal-defense-intake-form is a document used to collect information from defendants, attorneys, and other stakeholders involved in a criminal case. This form helps to gather essential details about the case, including defendant information, charges, case status, trial date, and contact information. The purpose of this form is to streamline the intake process and ensure accurate and comprehensive data collection.

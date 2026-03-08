@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information necessary for a life insurance quote, providing a streamlined experience for users to quickly and accurately gather the required details. The form has 7 fields, and users should fill it out in the following order: 
-
-The form is meant to collect information about the life insurance quote, the policy holder, coverage details, premium information, contact details, and policy details. Users should not need to refer back to the previous fields for information as they go through the form, as each field is designed to be self-contained and easy to complete.
-
-The form is suitable for most users who wish to obtain a life insurance quote. However, some fields may require additional information depending on the specific requirements of the insurer. 
-
-Please note that this form does not guarantee the generation of an accurate quote, as the final results are dependant on the input provided.
-
-</thinking>
-
 # Life Insurance Quote Form - Help Guide
 ## Purpose
 This form is designed to help you quickly and accurately gather the necessary information for a life insurance quote. Please fill out the form below to provide the required details for your quote.

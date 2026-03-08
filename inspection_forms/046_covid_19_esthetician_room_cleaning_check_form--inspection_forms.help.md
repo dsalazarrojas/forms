@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## COVID 19 Esthetician Room Cleaning Check Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-We are about to create a help guide for a form used for customers to inquire about custom leather design services.
-The form is designed to gather information from customers to understand their needs and preferences for a custom leather product.
-The form should be completed by customers who are interested in inquiring about custom leather design services.
-The form should not be duplicated, so customers should not submit multiple inquiries for the same project.
-</thinking>
-
 # Custom Leather Design Inquiry - Help Guide
 ## Purpose
 The Custom Leather Design Inquiry form is a tool used to gather information from customers about their custom leather design needs and preferences. It is intended for customers who are interested in inquiring about custom leather design services.

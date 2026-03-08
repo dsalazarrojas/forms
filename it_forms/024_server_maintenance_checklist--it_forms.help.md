@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic server maintenance checklist designed for IT teams to conduct routine checks on various aspects of server systems. The form might be intended to identify potential issues or maintenance needs, although the current YAML does not provide detailed information on the exact purpose or scope of the checks. It's possible that the form is meant to be completed by system administrators or IT personnel to ensure the health and stability of servers in the organization. Further investigation or clarification is necessary to determine the exact use case and potential dependencies.
-</thinking>
-
 # Server Maintenance Checklist - Help Guide
 ## Purpose
 This form is designed for IT teams to perform routine server maintenance checks to identify potential issues or maintenance needs.

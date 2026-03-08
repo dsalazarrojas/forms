@@ -1,7 +1,3 @@
-<thinking>
-  The worksite_inspection_form is designed to collect essential information for conducting site inspections. This form aims to gather data on the site's address, identification (Site ID), site manager's contact details (site_manager and manager_phone), and any additional Notes that might be relevant to the inspection. It serves to ensure that all necessary information is collected accurately and in a standard format for future reference.
-</thinking>
- 
 # worksite_inspection_form - Help Guide
 
 ## Purpose

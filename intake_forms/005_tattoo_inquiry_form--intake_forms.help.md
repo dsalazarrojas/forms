@@ -1,5 +1,3 @@
-<thinking>... This form is used to capture customer inquiries related to tattoos. It is meant to be used in a variety of contexts, such as when a customer has a tattoo appointment or inquiry about a specific tattoo design. This form helps us to gather essential information about the customer and their tattoo inquiry, making it easier to process and respond to their requests. Before filling out this form, please ensure that you are not duplicating an existing inquiry, as this form is designed to be used only once per customer. If you have any questions or concerns, please reach out to our support team. ...</thinking>
-
 # tattoo_inquiry_form - Help Guide
 ## Purpose
 The tattoo_inquiry_form is used to capture customer inquiries related to tattoos, providing essential information for processing and responding to customer requests.

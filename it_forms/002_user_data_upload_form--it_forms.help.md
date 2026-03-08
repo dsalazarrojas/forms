@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # User Data Upload Form - Help Guide
 ## Purpose
 The User Data Upload Form is designed for users to upload and manage files, team leaders, and follow-ups. This form is used to collect context and additional information about uploaded files and team leaders.

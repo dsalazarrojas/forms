@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for inquiring about veterinary billing. It's essential to ensure that the user's information is accurate and up-to-date to process their request efficiently. Please fill out the form with care, as it will help our team to quickly respond to your query. Before submitting, ensure you have not already inquired about this matter in the past to avoid duplicate requests.</thinking>
-
 # Veterinary Billing Inquiry Request Form - Help Guide
 ## Purpose
 

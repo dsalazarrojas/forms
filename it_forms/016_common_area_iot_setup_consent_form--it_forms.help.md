@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information and consent from residents for the installation and operation of IoT devices in common areas of a property or complex. This is a crucial step in ensuring that all residents are aware of the devices, their purpose, and the data collection process. The information collected will be used to configure the devices and provide the necessary permissions for data collection and usage. It is essential that this form is completed accurately and thoroughly, as it will help prevent any potential issues or conflicts with residents. This form should only be completed once for each property or complex and is intended to be a one-time consent process. Residents who are not listed as the primary contact person for the property or complex should not fill out this form. The primary contact person should ensure that all other residents are aware of the consent process and have had an opportunity to fill out this form.
-</thinking>
-
 # Common Area IoT Setup Consent Form - Help Guide
 ## Purpose
 This form is used to collect information and consent from residents for the installation and operation of IoT devices in common areas of a property or complex.

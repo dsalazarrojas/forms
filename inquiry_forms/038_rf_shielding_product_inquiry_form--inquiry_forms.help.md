@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users to inquire about RF shielding products. The form is used to gather specific information from customers or internal teams to better understand their needs and requirements for RF shielding products. 
-
-The form is not intended for duplicate submissions; each submission should be a new inquiry. 
-
-This form is not intended to be filled out by users with no prior knowledge of RF shielding products or concepts.
-</thinking>
-
 # RF Shielding Product Inquiry Form - Help Guide
 ## Purpose
 The RF Shielding Product Inquiry Form is a tool used to collect information about potential customers' or internal teams' requirements for RF shielding products. This form is designed to be a quick and efficient way to gather necessary details for the sales team or engineering team to follow up with customers and provide the best possible solutions.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about software orders from requestors and submitters. Its purpose is to gather details such as software name, version, category, and requested by a specific person, as well as the requestor's and submitters' contact information. This form is intended to be used by requestors to request software and submitters to submit software orders for approval. Please note that this form is likely intended to be used within a specific organization, and some fields may be redundant or have a specific meaning within that context. It's possible that some fields may not be relevant to external users.
-
-Before filling out this form, please ensure that you are submitting a legitimate request and that you have the necessary permissions to do so. Also, be aware that some fields may require additional information or approvals from other parties. If you're unsure about any field, please consult with the relevant stakeholders or contact the form administrators.
-
-To avoid duplication of requests, please check the current status of your software order before submitting a new request. You can find the current status in the software order request form itself or by contacting the form administrators.
-
-Please fill out this form accurately and thoroughly to ensure that your software order request is processed efficiently and effectively.
-</thinking>
-
 # software_order_request_form - Help Guide
 
 ## Purpose

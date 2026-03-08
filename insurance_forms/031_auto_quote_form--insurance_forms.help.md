@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from primary applicants for insurance quotes. 
-It collects demographic and vehicle information to determine eligibility and provide accurate quotes. 
-Each field is essential for a comprehensive quote, and skipping any field may lead to inaccurate or incomplete quotes. 
-Please ensure that the form is filled out accurately to avoid any issues during the quote process. 
-This form is not meant to be filled out by representatives or brokers on behalf of clients. 
-It is intended for direct use by the applicant, ensuring accurate and personalized information. 
-</thinking>
-
 # Auto Quote Form - Help Guide
 ## Purpose
 The Auto Quote Form is designed to collect information from primary applicants for auto insurance quotes. This form is used to determine eligibility and provide accurate quotes based on the provided information.

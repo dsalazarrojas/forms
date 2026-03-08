@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Structural Steel Work Inspection Form - Help Guide
 
 ## Purpose

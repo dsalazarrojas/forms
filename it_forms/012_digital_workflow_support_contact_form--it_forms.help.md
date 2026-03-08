@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information and details about their issue with the digital workflow. It's meant to be used by users who are experiencing problems with the workflow and need assistance. This form should only be used for support-related purposes and not for general feedback or other non-support inquiries. 
-</thinking>
-
 # digital_workflow_support_contact_form - Help Guide
 
 ## Purpose

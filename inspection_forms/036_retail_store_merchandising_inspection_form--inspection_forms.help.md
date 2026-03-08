@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a retail store during an inspection. The purpose of the form is to gather essential details about the store, such as its address, name, region, type, and contact person. This information will be used to document and record the store's status during the inspection. Before filling out this form, please note that it's not designed for general store information or feedback. This form is specifically used for inspection purposes only. Ensure that each field is filled out accurately and truthfully, and if any field is not applicable, please mark it as "N/A" or "Not applicable".
-</thinking>
-
 # retail_store_merchandising_inspection_form - Help Guide
 ## Purpose
 This form is used to collect information about a retail store during an inspection.

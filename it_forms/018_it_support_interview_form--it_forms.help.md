@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IT Support Interview Form - Help Guide
 ## Purpose
 This form is designed to gather information from employees to aid in creating a positive and productive support experience. It is essential to fill out the form accurately and completely to ensure that our team receives the necessary information to assist you effectively. Please take a few minutes to fill out this form, and don't hesitate to reach out if you have any questions or concerns.

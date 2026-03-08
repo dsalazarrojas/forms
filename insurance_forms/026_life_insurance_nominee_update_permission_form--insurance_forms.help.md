@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to update the nominee information for a life insurance policy. This form is typically used by authorized individuals to modify the details of a nominee associated with a life insurance policy. The form is used to update the policyholder's name, email, and other relevant details of the nominee.
-
-To confirm that the form is being used for the correct purpose, we should check that:
-- The form is not being used to create a new policy or add a new policyholder.
-- The form is not being used to update the policyholder's information directly.
-- The form is not being used for any other purpose that may require different documentation or authorization.
-
-This form is designed to be completed by a specific person, usually an authorized representative of the life insurance company, and is intended for internal use. 
-
-If you're not sure about the purpose or process, please reach out to your supervisor or someone in authority for clarification.
-</thinking>
-
 # Life Insurance Nominee Update Permission Form - Help Guide
 
 ## Purpose

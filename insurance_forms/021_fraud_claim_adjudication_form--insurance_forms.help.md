@@ -1,14 +1,3 @@
-<thinking> 
-This form is used for fraud claim adjudication, a process used to determine the validity and legitimacy of fraudulent claims. It is essential to ensure that the form is filled out accurately and thoroughly, as it will be used to make informed decisions regarding fraud claims. Please ensure that you have reviewed the form carefully before proceeding. If you are unsure about any field or the process as a whole, please consult with a supervisor or the relevant authorities.
-
-Please note that this form has multiple pages and fields that are designed to gather specific information about the fraud claim. Each field has a specific purpose, and filling out the form correctly will help in the efficient and accurate adjudication of the claim.
-
-Before starting the form, please make sure you have all the necessary information and documentation required for the fraud claim adjudication process.
-
-Also, please be aware that this form is a critical document and must be filled out accurately and completely. Any incomplete or inaccurate information may lead to delays or incorrect decisions in the adjudication process.
-
-</thinking>
-
 # Fraud Claim Adjudication Form - Help Guide
 ## Purpose
 The Fraud Claim Adjudication Form is used to gather information about fraudulent claims and to determine their legitimacy. It is a critical document that helps in making informed decisions regarding fraud claims.

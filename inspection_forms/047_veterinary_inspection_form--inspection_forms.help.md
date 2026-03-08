@@ -1,12 +1,3 @@
-<thinking>
-A veterinary inspections form is a document used to collect and document information about animal inspections, which can be used for veterinary care, treatment, and monitoring. The form may be used by veterinarians, animal owners, or other veterinary staff to record and report the details of animal inspections. This form helps ensure that all relevant information is accurately and thoroughly documented, making it easier to track and analyze inspection data. The form can be used for various purposes, such as tracking vaccination records, monitoring animal health, and recording inspection findings.
-
-To determine if this form is relevant, check if the form is being used for veterinary inspections or related activities. If the form is for a different purpose, it may not be suitable.
-
-To avoid duplication, verify if a similar form already exists. If a similar form is in use, it's best to use that one instead.
-
-</thinking>
-
 # Veterinary Inspections Form - Help Guide
 ## Purpose
 This form is used to record and document information about animal inspections. It helps veterinarians, animal owners, and other veterinary staff to track and report on animal inspections efficiently.

@@ -1,15 +1,3 @@
-<thinking>
-Form purpose: 
-The Tax Software User Registration form is designed to collect user information for onboarded users. This form is likely used for administrative purposes, such as assigning users to specific tools or roles within the tax software system. The form's fields likely pertain to user details, such as name, contact information, and user type, which are required for the proper functioning and management of the system.
-
-Non-duplication: 
-The form does not appear to have any duplicate fields, but it's essential to review the form's logic and rules to ensure that there are no duplicate fields or redundant information.
-
-Form type: 
-The form is a registration form for tax software users.
-
-</thinking>
-
 # Tax Software User Registration - Help Guide
 ## Purpose
 The Tax Software User Registration form is designed to collect user information for onboarded users within the tax software system.

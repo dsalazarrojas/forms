@@ -1,14 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information about factory system integrations, specifically project details, integration tasks, project outcomes, issues encountered, and attachments. It is designed to be completed by factory system administrators or users who need to report on the integration process. This form should only be used for reporting and not for general project management or issue tracking purposes.
-
-It's essential to note that this form should not be used for reporting on every project, but rather for specific instances where system integration is required. 
-
-Please ensure that you only submit the form after completing the integration process, and that you have filled out all relevant fields. 
-
-If you're unsure about any information or field, please refer to the field explanation below for guidance.
-
-</thinking>
-
 # Factory System Integration Report Form - Help Guide
 ## Purpose
 This form is used to report on the factory system integration process.

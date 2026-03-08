@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contaminant Detection Analysis Report - Help Guide
 ## Purpose
 This form is designed to collect and document the results of contaminant detection analysis performed on samples from various sources. The report provides a comprehensive overview of the analysis process, including the sample type, detection method, and potential health risks associated with the detected contaminant. The form helps to ensure that all necessary information is recorded accurately and consistently.

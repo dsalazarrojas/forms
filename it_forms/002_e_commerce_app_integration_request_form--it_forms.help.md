@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from e-commerce app developers and partners about their app and its integration with our system. It is used for internal purposes, such as tracking and reviewing app integration requests. Please fill out this form thoroughly and accurately to ensure that your request is properly assessed and addressed.
-
-Before filling out this form, ensure that you are not duplicating an existing request. If you are unsure, please check our internal tracking system or contact our support team for assistance.
-
-If you have any questions or concerns, please don't hesitate to reach out to us at [support email].
-
-</thinking>
-
 # E Commerce App Integration Request Form - Help Guide
 ## Purpose
 This form is for requesting e-commerce app integration with our system. Please fill it out to submit your app for integration.

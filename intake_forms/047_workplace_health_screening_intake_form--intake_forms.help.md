@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive health screening intake form for a workplace setting. It likely collects information on employees' medical history, health concerns, and other relevant health-related details. The form may be used for initial screening, follow-up, or other health-related purposes. It's essential to review the form's purpose and relevance within the organization to avoid duplication of effort or incorrect usage.
-</thinking>
-
 # Workplace Health Screening Intake Form - Help Guide
 ## Purpose
 This form collects information from employees for workplace health screening purposes.

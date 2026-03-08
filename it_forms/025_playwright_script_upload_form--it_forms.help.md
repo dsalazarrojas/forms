@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed for uploading scripts for playwright, a type of automation or user interface testing. It captures relevant information about the script, including its type, name, description, and context. The form also includes fields for requesting and reviewing the uploaded script, as well as tracking the review status and the date and time of the request. The form is meant to be used by individuals or teams who need to upload and manage scripts for automation or user interface testing. 
-
-</thinking>
-
 # Playwright Script Upload Form - Help Guide
 ## Purpose
 The Playwright Script Upload Form is a tool for uploading, reviewing, and managing scripts for playwright, a type of automation or user interface testing.

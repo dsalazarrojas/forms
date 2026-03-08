@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Time Flow Diagram Improvement Request - Help Guide
 ## Purpose
 This form is used to submit requests for improvement suggestions on existing Time Flow Diagrams. The form is intended for users to provide detailed feedback on what needs to be improved or fixed on the Time Flow Diagram, allowing the team to make adjustments and enhancements as needed. 

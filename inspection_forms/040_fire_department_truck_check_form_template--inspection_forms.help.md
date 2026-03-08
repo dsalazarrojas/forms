@@ -1,7 +1,3 @@
-<thinking>
-The Fire Department Truck Check Form Template is designed to gather important information about fire department trucks during regular checks. Before using this form, ensure you're not duplicating checks on the same vehicle. Each vehicle should be checked individually. This form is for general use and is not specific to any particular type of truck or vehicle inspection. It's intended for fire department trucks, but it can be adapted for other types of vehicles if needed. The form collects data on vehicle number, driver, vehicle identification, year, make, model, mileage, and condition of the truck. The form is divided into two pages, and the first page is for overall vehicle information. The second page is for more specific details about the truck's safety equipment.
-</thinking>
-
 # Fire Department Truck Check Form Template - Help Guide
 ## Purpose
 The Fire Department Truck Check Form Template is a tool used to gather essential information about fire department trucks during regular checks. It ensures that each vehicle is thoroughly inspected and documented.

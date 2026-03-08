@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for SWPPP (Stormwater Management Plan) inspections, which are required to ensure that construction sites are in compliance with environmental regulations. The form is used to track and document the results of these inspections, including site location, stormwater runoff source, compliance frequency, responsible party, inspection date, status, and other relevant details. This form is intended to be completed by site inspectors after each inspection.
-</thinking>
-
 # SWPPP Inspection - Help Guide
 ## Purpose
 The SWPPP Inspection form is used to track and document the results of SWPPP inspections at construction sites. It ensures that site inspectors gather all necessary information to verify compliance with environmental regulations.

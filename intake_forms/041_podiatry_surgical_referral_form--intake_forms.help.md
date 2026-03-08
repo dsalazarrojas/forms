@@ -1,17 +1,3 @@
-<thinking>
-This form is designed for podiatrists to gather information for surgical referrals. The form is meant to streamline the referral process by collecting relevant patient details and medical information in a structured format. Before proceeding, please ensure that you are using this form for its intended purpose and do not duplicate any existing referrals or forms.
-
-The purpose of this form is to ensure accurate and comprehensive information collection, which will ultimately enhance the patient's care and treatment. The form's fields are designed to guide you in gathering essential details without overwhelming or redundant questions.
-
-To use this form, please ensure that you are a healthcare professional authorized to collect and process this information. 
-
-Please note that this form has been generated using AI, but the content is intended to be used for educational purposes only. You are free to use, modify, and share this form, but please give credit to the original creators.
-
-Before completing this form, make sure to understand the following:
-- The fields and their corresponding labels are explained below.
-- You must fill in the required fields to ensure the form can be submitted.
-</thinking>
-
 # Podiatry Surgical Referral Form - Help Guide
 ## Purpose
 This guide is to help you understand the purpose and usage of the Podiatry Surgical Referral Form.

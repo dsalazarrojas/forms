@@ -1,6 +1,3 @@
-<thinking> 
-We have to consider the following when designing the help guide: the form's purpose, how users can complete it, and what each field means. The form is designed for pet insurance billing, indicating it's used to collect payment information for pet insurance plans. To complete it, users will likely need to select the method of payment, enter the amount due, and provide relevant details such as the due date, payment method, and billing information. Each field should be explained in a way that's clear and concise. The field labels should be used as the main text for the explanations, and any additional information or clarifications should be provided in a brief and practical tone.</thinking>
-
 # Pet Insurance Billing Form - Help Guide
 ## Purpose
 This form is used to collect payment information for pet insurance plans. It's essential to provide accurate and complete information to ensure timely processing of your payment.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to support the caregivers of individuals who are in need of assistance. As a caregiver, you are the primary support person for someone else, whether it's a family member, friend, or client. This form is intended to gather essential information about you, your care recipient, and your caregiving situation. Your responses will help us tailor the support and resources to best meet your unique needs.
-
-**Please note that this form is the first step in our intake process. Once completed and submitted, you will be contacted for further discussion or to schedule an in-person meeting.**
-
-</thinking>
-
 # Caregiver Empowerment Initiative Application Form - Help Guide
 
 ## Purpose

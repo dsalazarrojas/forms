@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect data about patients who have been experiencing upper respiratory symptoms. Upper respiratory infections can be caused by a variety of factors, including viruses, bacteria, and other microorganisms. This form is designed to help healthcare professionals gather information about a patient's symptoms, medical history, and other relevant details.
-When to use this form:
-* Use this form when a patient has presented with upper respiratory symptoms such as fever, sore throat, or runny nose.
-* Do not use this form for patients with lower respiratory symptoms (e.g., cough, chest pain).
-</thinking>
-
 # upper_respiratory_infection_assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a patient's upper respiratory symptoms, medical history, and other relevant details to aid in the diagnosis and treatment of an upper respiratory infection.

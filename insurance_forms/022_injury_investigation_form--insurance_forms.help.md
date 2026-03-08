@@ -1,9 +1,3 @@
-<thinking>
-
-The Injury Investigation Form is used to document and investigate incidents that occurred within an organization. This form ensures that all necessary information is collected to provide a clear and accurate account of the incident. Before completing this form, check if a similar incident has already been reported and documented. Ensure that the information provided is accurate and up-to-date to avoid duplication of effort.
-
-</thinking>
-
 # Injury Investigation Form - Help Guide
 ## Purpose
 The Injury Investigation Form is a crucial document used to investigate and record incidents that occurred within an organization. It helps to gather all necessary information to provide a clear and accurate account of the incident.

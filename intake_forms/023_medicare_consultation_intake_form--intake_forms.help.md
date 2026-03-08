@@ -1,10 +1,3 @@
-<thinking>
-The Medicare Consultation Intake Form is a document used to gather information from patients before a consultation with a healthcare provider. It is an essential tool for healthcare professionals to understand the patient's medical history, current condition, and reason for the consultation. 
-Before completing the form, please ensure that the information provided is accurate and up-to-date. 
-Please note that the form is not intended to replace a thorough medical evaluation or diagnosis. The information collected here will help the healthcare provider prepare for the consultation and make informed decisions during the visit. 
-If you have already submitted a similar form in the past, please do not re-submit the same information. 
-</thinking>
-
 # Medicare Consultation Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from patients before a consultation with a healthcare provider. It will help the healthcare provider understand the patient's medical history, current condition, and reason for the consultation.

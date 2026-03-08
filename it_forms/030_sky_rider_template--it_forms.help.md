@@ -1,19 +1,3 @@
-<thinking>...thinking>
-
-The form is used to create a new template for the Sky Rider system, which is likely a custom content management system or a template engine. The purpose of the form is to allow users to create and configure new templates with specific settings, such as category, description, form ID, output file, assigned tool, and assigned user. 
-
-The form is likely used by administrators or content editors to create new templates that can be used to generate output in specific formats, such as HTML, CSV, or JSON. The output file field may indicate the file format that the template will generate as output.
-
-It is assumed that the template category, description, and assigned user fields are free-text fields, while the assigned tool field is likely a fixed set of options that the administrator has pre-defined. The form ID and output file fields are likely intended to be filled with numeric and text inputs, respectively.
-
-The form is not explicitly designed to prevent non-duplication, so it is possible that users may create multiple templates with the same form ID or output file.
-
-This form may be part of a larger system that allows users to create, edit, and manage templates. The form is likely to be used in conjunction with other features, such as template editing and management interfaces.
-
-The user is expected to have a basic understanding of how to fill out a form, and should be able to complete it with ease.
-
-</thinking>
-
 # Sky Rider Template - Help Guide
 ## Purpose
 The Sky Rider Template form is used to create a new template for the Sky Rider system, specifying category, description, form ID, output file, assigned tool, and assigned user for the template.

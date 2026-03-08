@@ -1,7 +1,3 @@
-<thinking>...I need to create a user-facing help guide for a form called "Pet Insurance Claim Form". The form is used to submit claims for medical expenses related to pets. It is intended for pet owners to provide information about their pet and the medical expenses incurred. Each field in the form is designed to gather specific details about the pet and the claim. I will review the form fields to ensure they are properly explained in the guide...
-
-</thinking>
-
 # Pet Insurance Claim Form - Help Guide
 ## Purpose
 This form is used to submit claims for medical expenses related to your pet. Please fill out the form accurately to ensure your claim is processed efficiently.

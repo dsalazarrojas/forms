@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a fishing boat inspection, which is a crucial process to ensure the safety and compliance of fishing boats. The inspection covers various aspects of the boat, including the captain and crew, boat details, safety features, fire fighting equipment, first aid equipment, navigation and signalization, communication equipment, and the overall inspection result. The form is intended to be completed by a designated authority, such as a harbor master or a marine inspector, who will review the information provided and verify the compliance of the fishing boat with relevant regulations.
-</thinking>
-
 # Fishing Boat Inspection Form - Help Guide
 ## Purpose
 The Fishing Boat Inspection Form is designed to collect information about the safety and regulatory compliance of a fishing boat. This form helps ensure that the boat meets the necessary standards for safe operation and compliance with relevant regulations.

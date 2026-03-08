@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect documentation and metadata for API requests. It's intended for internal use within a team, and its purpose is to ensure accurate and consistent documentation of HTTP requests. This form should only be filled out for actual requests, not for hypothetical or test scenarios. It's essential to avoid duplication of requests by checking the form's "Tags" field to see if a similar request has already been documented.
-</thinking>
-
 # http_request_workflow_documentation_request_form - Help Guide
 ## Purpose
 The http_request_workflow_documentation_request_form is a documentation request form for API requests. It helps collect metadata and notes for actual HTTP requests made within the team, promoting consistency and accuracy in documenting these requests.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for the Stage Manager Internship position. This form is used to gather essential details about the applicant, including their contact information, availability, and motivation for applying. The form will be reviewed by the selection committee to assess each applicant's suitability for the internship.
-
-Before completing this form, please ensure that you have not previously submitted an internship application for this role. If you are unsure, please contact the hiring team to verify your application status.
-
-Please note that this form should be filled out completely and accurately to ensure that your application is considered for the internship. If you have any questions or concerns, feel free to reach out to the hiring team.
-</thinking>
-
 # Stage Manager Internship Application - Help Guide
 ## Purpose
 The Stage Manager Internship Application form is designed to collect necessary information from applicants for the Stage Manager position. This form will be used to evaluate your suitability for the internship and ensure that your application is processed correctly.

@@ -1,14 +1,3 @@
-<thinking> 
-This form is used to collect information from clients for lash extensions services. The form collects information on client contact details, appointment schedule, payment methods, and other relevant details for the lash technician. 
-
-When filling out this form, please ensure that all required fields are completed accurately and truthfully. 
-
-Please note that this form is not intended for duplicate entries or non-actual data. If you've previously filled out this form, please do not repeat your entries without a valid reason. 
-
-Also, please ensure that all information is accurate and up-to-date as this form is used for scheduling and billing purposes. 
-
-</thinking>
-
 # lash_extension_intake_form - Help Guide
 ## Purpose
 This form is used to collect information from clients for lash extensions services.

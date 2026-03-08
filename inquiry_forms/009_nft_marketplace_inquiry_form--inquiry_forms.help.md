@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their non-fungible token (NFT) inquiries. NFTs are unique digital or physical assets that can be bought, sold, and traded on online marketplaces. The purpose of this form is to collect data about the NFTs inquired about, including the type of NFT, the contact method preferred by the user, the date and time of the inquiry, and any notes or messages related to the inquiry. This information will be used to provide better support and service to the users.
-
-Before filling out this form, please note that you are not required to fill out all the fields. However, providing as much information as possible will help us to better understand your inquiry.
-
-Also, please fill out this form only if you have not already contacted us about the same NFT. If you have already inquired about the same NFT, please do not fill out this form again.
-</thinking>
-
 # NFT Marketplace Inquiry Form - Help Guide
 ## Purpose
 The NFT Marketplace Inquiry Form is used to gather information from users about their non-fungible token (NFT) inquiries.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for inspecting printed materials. The form has 10 fields, including Printed Material Quality, Inspection Team Name, Printed Material, Material Type, Material Color, Material Size, Inspection Location, Inspection Date, Inspection Time, and Printed Material Quality Notes. The form is not affiliated with any form creation platforms and is released under the Creative Commons BY 4.0 license.
-</thinking>
-
 # Printed Material Quality Audit Form - Help Guide
 ## Purpose
 The Printed Material Quality Audit Form is designed for inspecting printed materials. This form is used to record and evaluate the quality of printed materials, including their material type, color, size, and other relevant details.

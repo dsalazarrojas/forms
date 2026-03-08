@@ -1,5 +1,3 @@
-<thinking>Before we start, let's ensure that the form is properly understood in terms of its purpose and the fields it contains. This form is designed to gather information about a facility, including its location, type, condition, equipment, safety, and ratings. The form also has several fields for comments and ratings from inspectors, including the facility inspector, safety inspector, and possibly multiple inspectors. The purpose of this form is likely to conduct a thorough evaluation of a facility, taking into account its location, type, and various aspects of its safety and condition. We'll break down each field below to make sure we understand how to complete it correctly.</thinking>
-
 # Facility Location Evaluation Form - Help Guide
 ## Purpose
 The Facility Location Evaluation Form is a tool used to evaluate a facility's location, type, condition, safety, and other relevant factors. This form is completed by facility inspectors to gather information about a facility's suitability for a particular purpose.

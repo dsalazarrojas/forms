@@ -1,7 +1,3 @@
-<thinking> 
-This help guide will walk through the Equity Accelerator Application form, breaking down its purpose, how to complete it, and each field's explanation. 
-</thinking>
-
 # Equity Accelerator Application - Help Guide
 
 ## Purpose

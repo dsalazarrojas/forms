@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from clients about their dermal filler treatments. It is designed to gather medical history, contact details, and other relevant information from clients before their scheduled appointments. This form is not intended for emergency or urgent medical situations. It is recommended that clients complete this form before their appointment to ensure that the practitioner has all the necessary information to provide the best care.
-</thinking>
-
 # Dermal Filler Client Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from clients about their dermal filler treatments, including medical history, contact details, and other relevant information.

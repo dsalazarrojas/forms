@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information about a property inspection, including property type, address, location, size, year built, condition, status, inspection date, inspector details, and manager details. It's likely used for maintenance or upkeep purposes in a residential or commercial setting. Before filling out this form, please ensure that you're using it for a specific property inspection and not duplicating efforts by checking with the relevant parties or systems already tracking such information.
-
-Please note that this form might be used in conjunction with other forms or systems, so it's possible that some of the information provided here will be used to populate or update other records.
-</thinking>
-
 # Property Inspection Assessment Form - Help Guide
 
 ## Purpose

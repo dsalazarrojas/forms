@@ -1,12 +1,4 @@
-> <thinking>
-
-This form is designed to gather feedback from customers about their experience in a retail store. It asks for information about the store category, employee friendliness, and other aspects of their visit. This form will help the store management to better understand their customers' needs and preferences.
-
-Before starting, please note that this form is not meant for duplicate or anonymous responses. Please ensure that you've visited the store in question and have a genuine reason for filling this form. Your feedback is valuable, and we appreciate your honesty.
-
-</thinking>
-
-# Retail Store Experience Inquiry Form - Help Guide
+> # Retail Store Experience Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience in a retail store. It helps the store management to understand their customers' needs and preferences.
 

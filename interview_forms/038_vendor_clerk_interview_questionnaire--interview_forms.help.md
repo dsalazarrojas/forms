@@ -1,12 +1,3 @@
-<thinking> 
-This form is intended to collect information from vendors for a specific interview process. The form is meant to capture relevant details about the candidate, including contact information and work-related specifics. To avoid duplication or miscommunication, please ensure that each field is filled in accurately and completely. 
-
-The form fields are designed to gather information in a structured and concise manner, making it easier to review and process the responses. By following this guide, you can ensure that all necessary information is captured correctly. 
-
-Please note that all fields are not required, as indicated by the 'required: false' label in the form schema. This means that you can leave these fields blank if they are not applicable or relevant to your situation. 
-
-</thinking>
-
 # Vendor Clerk Interview Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from vendors for a specific interview process. The goal is to gather essential details about the candidate to facilitate a smooth and effective interaction.

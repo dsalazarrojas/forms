@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture information related to a property claim discharge, which is a process where an insurance company formally closes a claim, releasing the policyholder from further liability. This form is intended to be used by insurance companies, brokers, or agents to document the discharge of a property claim.
-
-The purpose of this form is to collect essential information about the claim, including the policyholder's name, claim number, claim status, and reason for discharge. This information will help the insurance company or agent to accurately document the claim discharge process and ensure that the policyholder is properly informed and released from liability.
-
-Please note that this form is not intended to be a substitute for any legal or regulatory requirements, and it is the responsibility of the user to ensure that all relevant laws and regulations are complied with. If you are unsure about any aspect of this form, please consult with a legal expert or the insurance company's regulatory department.
-
-Before starting, please review the form carefully and ensure that all required fields are filled out accurately and completely. This guide will walk you through each field and help you understand what information is required.
-</thinking>
-
 # Property Claim Discharge Form - Help Guide
 ## Purpose
 This form is designed to capture information related to a property claim discharge, which is a process where an insurance company formally closes a claim, releasing the policyholder from further liability.

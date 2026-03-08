@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about IT service tickets. A service ticket is a request for help or assistance with a technical issue. This form will guide you through the process of creating a new service ticket. Please fill out the form completely and accurately to ensure your request is processed efficiently.
-
-Before starting, make sure you are not creating a duplicate ticket. If you need help with something similar to a previous ticket, you can search for and reference that ticket instead of creating a new one.
-
-</thinking>
-
 # it_service_ticket_form - Help Guide
 ## Purpose
 This form is for requesting help with IT services. Please use it to describe your issue and provide relevant details so that our team can assist you effectively.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to facilitate the collection of data for the inspection and audit of water heaters. The form is meant to capture information regarding the condition, maintenance, and any issues found during the inspection. This form is typically used for administrative purposes, such as keeping records and tracking progress. It is recommended that this form is used for water heaters that are in need of repair, replacement, or routine maintenance.
-</thinking>
 # Water Heater Audit Form - Help Guide
 ## Purpose
 This form is designed to gather information about the water heater inspection, including the home address, customer details, and any issues found. It will help in maintaining accurate records and facilitating effective maintenance.

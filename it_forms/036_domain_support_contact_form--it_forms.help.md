@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information and requests from users regarding support for their domains. The purpose of this form is to allow users to provide details about their domain(s) and the type of support they need. This form is not intended for urgent or emergency support requests. Please ensure that you have not already submitted a request for the same issue before filling this form, as duplicate requests may cause delays in processing your support request.
-</thinking>
-
 # Domain support contact form - Help Guide
 ## Purpose
 The Domain support contact form is used to submit requests for support or assistance with your domain(s). Please use this form to provide detailed information about your domain(s) and the type of support you need.

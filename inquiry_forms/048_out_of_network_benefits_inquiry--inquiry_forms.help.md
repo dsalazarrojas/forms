@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the Out Of Network Benefits Inquiry form. The form is used to gather information from users to verify whether a service is medically necessary or not when a patient is being referred to an out-of-network provider.
- 
- The guide will cover the purpose of the form, how to complete it, and explain each field in detail, ensuring users understand what is required and what their options are.
- 
- Before proceeding, please ensure this form is not a duplicate for the user. The internal systems will check for existing submissions before allowing the completion of this form.
- 
-</thinking>
-
 # Out Of Network Benefits Inquiry - Help Guide
 ## Purpose
 The Out Of Network Benefits Inquiry form is used to gather information from users to verify whether a service is medically necessary or not when a patient is being referred to an out-of-network provider.

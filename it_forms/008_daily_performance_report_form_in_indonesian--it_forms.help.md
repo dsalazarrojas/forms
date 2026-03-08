@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect daily performance reports from users, likely for a business or organizational setting. It appears to be intended for use in an Indonesian context, suggesting its purpose is to gather information from users in that region. The form has five fields: User, date, time, note, and email. Given the fields, it seems that the form is intended to collect general information about a user's daily performance, possibly including their availability or activities. However, without more information about the specific use case or target audience, it's difficult to provide a more accurate explanation. It's also not clear what type of "note" field this form uses - whether it's a free-text field or a structured one with specific options.
-
-</thinking>
-
 # daily-performance-report-form-in-indonesian - Help Guide
 ## Purpose
 The purpose of this form is to collect daily performance reports from users in an Indonesian context.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect intake information for tax preparation services. The primary purpose of the form is to gather essential details from clients before commencing tax preparation work. The form will help in ensuring that all necessary information is collected in one place, facilitating a smooth and efficient tax preparation experience for both the client and the tax preparation professional.
-
-</thinking>
-
 # Tax Preparation Virtual Client Intake Form - Help Guide
 ## Purpose
 The Tax Preparation Virtual Client Intake Form is designed to collect essential information from clients to prepare their taxes efficiently.

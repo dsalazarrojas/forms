@@ -1,9 +1,3 @@
-<thinking>
-This form is used to document a vehicle's inspection status, ensuring that a vehicle meets the required safety standards. The inspector's declaration will be used to provide assurance that the vehicle is in a safe and compliant state for operation. This form should only be filled out for vehicles that have undergone a physical inspection. The purpose of this form is to gather information about the vehicle's inspection, including its year, make, model, inspection date, inspection result, and any repairs or comments.
-
-Before proceeding, ensure that the form is being used for its intended purpose and that no duplicate forms exist for the same vehicle.
-</thinking>
-
 # Vehicle Inspection Declaration Form - Help Guide
 
 ## Purpose

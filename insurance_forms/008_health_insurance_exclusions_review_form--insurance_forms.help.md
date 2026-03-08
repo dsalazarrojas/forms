@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Insurance Exclusions Review Form - Help Guide
 
 ## Purpose

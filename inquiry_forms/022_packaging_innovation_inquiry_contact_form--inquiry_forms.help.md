@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # packaging-innovation-inquiry-contact-form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-The form "personal_training_client_intake_form" is designed to collect client information and relevant details for personal training. This information will be used to ensure a smooth and effective training process. **Please complete this form if you are a new client or need to update existing information.**
-
-</thinking>
-
 # personal_training_client_intake_form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential details about you as our client, allowing us to provide the best possible experience and training. Please fill out this form completely and accurately to ensure we have a clear understanding of your needs.

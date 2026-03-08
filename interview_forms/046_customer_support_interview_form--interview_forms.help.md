@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is relevant to the context of a customer support interview, it seems like the form is intended to gather information about a person's experience, skills, education, and availability for potential job opportunities within a customer support role. This form likely aims to collect details about the individual's general information, job application, work experience, education, skills, certifications, availability, preferred communication methods, references, and work history. The form's structure suggests it's designed to be a comprehensive questionnaire for customer support candidates.
-</thinking>
-
 # customer_support_interview_form - Help Guide
 ## Purpose
 The customer support interview form is designed to gather information about a person's experience, skills, and availability for potential job opportunities within a customer support role.

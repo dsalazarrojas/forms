@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being generated with the understanding that the Vascular Health Assessment Form is used to gather patient information and medical history for health professionals to assess the patient's vascular health. It's essential to ensure that each form is filled out thoroughly and accurately to avoid duplication and ensure consistency. 
-</thinking>
-
 # Vascular Health Assessment Form - Help Guide
 
 ## Purpose

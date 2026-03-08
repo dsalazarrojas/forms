@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to allow users to submit general inquiries, and potentially, requests for information or assistance. This form should only be used for this purpose and not for other types of requests. It's essential to fill out the form correctly to ensure that the user's inquiry is properly addressed. Please make sure to review your request before submitting it, and be aware that the form is not intended for emergency or urgent matters. If you have such matters, please contact us directly.
-</thinking>
-
 # General Inquiry Contact Form - Help Guide
 ## Purpose
 This form is meant for users to submit general inquiries, comments, or questions that require attention from our team.

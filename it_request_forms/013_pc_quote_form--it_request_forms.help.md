@@ -1,5 +1,3 @@
-<thinking>...This form seems to be a quote form for customers, used to gather information about a customer's quote request. It appears to collect various details such as customer information, quote details, contact information, payment terms, and quote terms. The form also includes fields for customer email, phone number, address, quote date, quote time, assigned to, status, quote number, customer note, sales note, due date, due time, customer company, sales person, quote total, quote total before discount, quote discount type, and quote sub total. Each field is a combination of text, number, select_one, select_multiple, and date/time fields... </thinking>
-
 # PC Quote Form - Help Guide
 ## Purpose
 The PC Quote Form is designed to collect information from customers about their quote requests. This form is used to gather details such as customer information, quote details, and other relevant information to process the quote request.

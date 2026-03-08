@@ -1,14 +1,3 @@
-<thinking>
-The Client Session Preference Information Form is designed to collect essential details about the client's preferences for their sessions, such as personal information, session scheduling, location, communication, language, and other relevant aspects. 
-
-This form will help the session facilitators understand the client's needs and tailor the sessions accordingly. 
-It's essential that clients complete this form accurately and thoroughly to ensure a smooth and personalized experience. 
-
-Please note that the form will not be duplicated, and the information will be used for the sole purpose of serving the client's needs. 
-
-If the client has any questions or concerns about the form, please feel free to reach out to us. 
-</thinking>
-
 # Client Session Preference Information Form - Help Guide
 ## Purpose
 This form collects essential information to help us better understand and tailor your session experience to your needs. Please provide accurate and thorough answers to the following questions.

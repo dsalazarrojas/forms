@@ -1,5 +1,3 @@
-<thinking>Placenta Encapsulation Client Intake Form is designed to gather essential information from clients before providing placenta encapsulation services. This form aims to ensure accurate and comprehensive documentation of client medical history, contact and birth information, and other relevant details. Please complete this form to ensure our services are tailored to your needs and ensure a smooth, secure, and safe experience for you and your loved one(s). Before proceeding, please ensure you don't duplicate this form's information on any other service or platform.</thinking>
-
 # Placenta Encapsulation Client Intake Form - Help Guide
 ## Purpose
 This form is a comprehensive intake form for placenta encapsulation clients, aiming to gather essential information for providing tailored services.

@@ -1,9 +1,3 @@
-<thinking>
-
-To create the help guide for the Bot Account Setup Form, I will first review the provided YAML and identify the form's purpose and key fields. The form appears to be used for setting up a new bot account within an organization, gathering information about the requester, the bot itself, and the expected usage and deployment details.
-
-</thinking>
-
 # Bot Account Setup Form - Help Guide
 ## Purpose
 This form is designed to collect information for setting up a new bot account. The form is intended to gather details about the requester, the bot's purpose, and the technical and operational requirements for its deployment.

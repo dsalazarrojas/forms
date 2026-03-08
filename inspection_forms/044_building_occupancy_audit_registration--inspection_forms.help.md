@@ -1,5 +1,3 @@
-<thinking>... The Building Occupancy Audit Registration form is designed to gather information from building owners or facility managers to register their building for an occupancy audit. This form helps the auditor understand the building's characteristics, occupancy details, and audit requirements to ensure a comprehensive and accurate assessment. Before proceeding, please ensure that the building has not already been registered for an occupancy audit. If the building has a previous audit record, please do not register it again. ...</thinking>
-
 # Building Occupancy Audit Registration - Help Guide
 
 ## Purpose

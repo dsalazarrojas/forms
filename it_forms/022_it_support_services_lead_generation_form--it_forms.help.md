@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to generate a new lead for IT support services. This form is designed to gather information from users about their IT support needs and preferences. The form consists of multiple pages, each with its own set of fields.
-
-The form is intended to be used by customers, partners, or internal stakeholders to provide information about a new lead. This form is not meant to be used for existing leads or for editing existing lead information.
-
-To determine if this form is relevant to the user, we will check the following:
-
-* The user is a customer, partner, or internal stakeholder.
-* The user is creating a new lead for IT support services.
-</thinking>
-
 # it_support_services_lead_generation_form - Help Guide
 ## Purpose
 The it_support_services_lead_generation_form is used to generate a new lead for IT support services. This form is designed to gather information from customers, partners, or internal stakeholders about their IT support needs and preferences.

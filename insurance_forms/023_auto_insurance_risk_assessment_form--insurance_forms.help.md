@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess potential risks associated with auto insurance policies. It asks the user for personal information, driving history, vehicle details, and other relevant factors that may impact the policy risk profile. This form helps insurers to evaluate the likelihood of claims or losses on a policy, which can impact premium prices or policy terms.
-We've designed the form with clear questions to gather specific information that can help us understand your risk profile. Please answer each question thoroughly and accurately. If you're unsure about any field, you can refer to this help guide.
-</thinking>
-
 # Auto Insurance Risk Assessment Form - Help Guide
 ## Purpose
 This form is used to assess potential risks associated with auto insurance policies. We'll use the information you provide to understand your risk profile and determine the best insurance terms for you.

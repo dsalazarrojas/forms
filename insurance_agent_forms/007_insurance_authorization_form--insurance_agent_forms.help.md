@@ -1,5 +1,3 @@
-<thinking>Insurance Agents use this form to verify the identity and authorization of patients or policyholders to access certain medical procedures or services. This form ensures that all required information is collected in one place, making it easier for insurance agents to manage their work and reduce errors. Please note that the form fields are designed to be filled out by the patient or policyholder, so it's essential to ensure that they understand the purpose and requirements of the form.</thinking>
-
 # Insurance Authorization Form - Help Guide
 
 ## Purpose

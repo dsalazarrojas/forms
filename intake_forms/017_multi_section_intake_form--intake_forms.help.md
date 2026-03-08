@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients in a multi-section format, likely for intake or survey purposes. The form is not affiliated with any specific platform and is an original adaptation created by an AI using public metadata. The form's purpose is to gather data from clients in a clear and concise manner. Please review the form carefully to ensure you understand the information being requested and the context in which it is being used. This form is not intended to be a substitute for professional advice or medical evaluation.
-</thinking>
-
 # Multi Section Intake Form - Help Guide
 ## Purpose
 The Multi Section Intake Form is a comprehensive form designed to collect various types of information from clients in a single document. This form is intended to gather essential details about clients, including their contact information, medical history, family background, social support, and emergency contact information.

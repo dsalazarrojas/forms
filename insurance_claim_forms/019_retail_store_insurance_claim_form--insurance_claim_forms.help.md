@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from retail store employees about insurance claims related to incidents that occurred within the store. This form is used to gather details about the incident, including the store's name, the employee's contact information, and any supporting documents that may help with the claim process. It is essential to ensure that all required information is provided to facilitate a smooth insurance claim process.
-</thinking>
-
 # Retail Store Insurance Claim Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents that occurred within the store, including details about the incident, employee contact information, and supporting documents.

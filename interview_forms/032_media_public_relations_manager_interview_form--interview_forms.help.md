@@ -1,10 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the Media Public Relations Manager Interview Form, we first need to understand the form's purpose and the reasoning behind its design. This form is intended to gather information about the candidate's experience, skills, and preferences as a Public Relations Manager. The form is likely used in a hiring process, where the goal is to collect relevant information from potential candidates for a public relations manager position. The form is likely designed to be completed by the candidate, and the answers will be reviewed by the hiring team to determine the candidate's fit for the role.
-
-The form has 10 fields, ranging from basic information like email and phone number to more specific questions about the candidate's experience and skills. The form is likely designed to be completed by candidates applying for a position in the media industry, but the specific use case and the context in which the form is being used will determine the exact requirements and constraints for the form completion.
-
-</thinking>
-
 # Media Public Relations Manager Interview Form - Help Guide
 ## Purpose
 The Media Public Relations Manager Interview Form is designed to gather information from potential candidates about their experience, skills, and preferences as a Public Relations Manager. This form is used in the hiring process to determine the candidate's fit for the role.

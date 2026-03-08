@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient with Leukaemia, a type of cancer that affects the blood and bone marrow. The form will be used by medical professionals to gather data for diagnosis, treatment, and monitoring of the patient's condition. Before proceeding, please ensure that this form is relevant to your situation and not a duplicate effort. If you have already submitted similar information, please do not resubmit. This form is intended for informational purposes only and should not be used for actual patient data collection without medical professional guidance and approval.
-
-</thinking>
-
 # Leukaemia Patient Information Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Access Card Replacement Request - Help Guide
 ## Purpose
 This form is used to request a replacement for a lost, stolen, or damaged Access Card. It is intended to be completed by users who need a new card to access certain facilities or services.

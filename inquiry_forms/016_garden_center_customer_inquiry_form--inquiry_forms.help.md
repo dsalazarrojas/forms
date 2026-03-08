@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers visiting the Garden Center. The purpose of this form is to gather data that will help the center better understand customer needs and preferences, allowing them to tailor their services and offerings accordingly. The form should only be filled out once per customer visit, and it is recommended to review the current form to avoid duplicate entries. Please note that filling out this form does not create a commitment or obligation to purchase.
-
-</thinking>
-
 # Garden Center Customer Inquiry Form - Help Guide
 ## Purpose
 The Garden Center Customer Inquiry Form is used to collect information from customers visiting the center. This information helps the center understand customer needs and preferences, allowing them to provide better services and offers.

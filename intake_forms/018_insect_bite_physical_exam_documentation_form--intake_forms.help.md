@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide for the Insect Bite Physical Exam Documentation Form, I will briefly assess the form's purpose and ensure it doesn't overlap with other forms or processes. The form is designed to document the physical examination of a patient for an insect bite, capturing essential information about the bite, the patient, and the examiner. It seems to be a straightforward and comprehensive form for medical professionals to gather and record details about the bite, including symptoms, location, bite size, patient condition, medical history, and follow-up information. I will ensure that the help guide is clear, concise, and practical, explaining each field's purpose and relevance in the context of the form's overall objective.</thinking>
-
 # Insect Bite Physical Exam Documentation Form - Help Guide
 
 ## Purpose

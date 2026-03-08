@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Publishing Authoring Tools Requisition Form - Help Guide
 
 ## Purpose

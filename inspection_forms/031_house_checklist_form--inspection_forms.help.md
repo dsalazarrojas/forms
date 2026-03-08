@@ -1,20 +1,3 @@
-<thinking>
-This form is intended to collect information about a house's status, including its systems and components, such as electrical, gas, water, and security systems. It also covers exterior and interior information, like roof condition, exterior damage, and foundation information. The form is to be filled out for each house in a neighborhood to assess its condition.
-
-To prevent duplication, the form is only to be filled out once for each house. Please ensure that the form is filled out for each house only once.
-
-Before filling out the form, please make sure that you are authorized to access and fill out the form for the house in question.
-
-The form has multiple sections, each covering a different aspect of the house's condition. Please fill out each section completely and accurately.
-
-This form is intended to be filled out by a single person, but multiple people may be involved in the process of filling it out. However, please ensure that each person is aware of the other's input and agrees on the information provided.
-
-Please fill out the form in the following order: house status, systems and engines, service requirements, exteriors information, security systems, electrical systems, gas leakage, water leakage, plumbing systems, HVAC systems, security measures, exterior damage, roof condition, foundation information, basement status, garage status, exterior information, electrical systems information, security information, plumbing information, heating information, cooling information, electrical information, gas information, and water information.
-
-Please answer all questions accurately and truthfully. If unsure of an answer, use the "Option 1, Option 2, or Option 3" provided.
-
-</thinking>
-
 # House Checklist Form - Help Guide
 ## Purpose
 The House Checklist Form is a comprehensive form designed to collect information about a house's status, systems, and components. It is used to assess the condition of each house in a neighborhood and ensure that it is filled out only once.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to record the results of a vehicle emissions inspection. The purpose of the form is to collect information about a vehicle, its emissions inspection date, and the outcome of the inspection. This form will help inspectors gather the necessary data to document and track vehicle emissions inspections. The form is designed to be completed by inspectors who conduct emissions inspections, and it provides a structured way of collecting and recording the information.
-
-Before filling out the form, make sure you have the necessary information about the vehicle, such as its registration number and make, and have performed the emissions inspection. If the vehicle has not been inspected or does not have a registration number, do not fill out this form.
-
-</thinking>
-
 # Vehicle Emissions Inspection Result Log - Help Guide
 
 ## Purpose

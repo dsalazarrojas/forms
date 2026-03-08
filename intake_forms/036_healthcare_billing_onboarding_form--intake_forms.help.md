@@ -1,7 +1,3 @@
-<thinking>
-This form aims to gather information about patients and their billing status. The purpose of this form is to onboard new patients and track their billing status. This form should only be filled out once for each patient.
-</thinking>
-
 # Healthcare Billing Onboarding Form - Help Guide
 ## Purpose
 The Healthcare Billing Onboarding Form is a tool to gather essential information about patients and track their billing status. This form is designed for healthcare professionals to quickly and accurately collect required data to onboard new patients and ensure smooth billing processing.

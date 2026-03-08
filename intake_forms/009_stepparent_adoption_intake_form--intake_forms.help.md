@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is for intake purposes only, and it is intended for Stepparent Adoption. Please make sure you have a valid reason for filling out this form. If you are unsure about the purpose or requirements of this form, please review our internal documentation or seek clarification with the relevant authorities before proceeding.
 
 </thinking>

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form, "Electrical Injection Testing Form", is to gather information about electrical injection tests performed on equipment. This form should only be completed by authorized personnel and is intended to document the details of the test, including date and time, equipment ID, location, and test results. It's essential to ensure that all required fields are filled to provide accurate and comprehensive data.
 
 To complete this form, follow these steps:

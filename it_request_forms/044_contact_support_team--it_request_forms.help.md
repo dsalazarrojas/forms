@@ -1,7 +1,3 @@
-<thinking>
-To prevent abuse and ensure that support tickets are handled efficiently, we should only allow legitimate and unique requests. Before submitting a request, check to see if the issue has already been addressed on our public knowledge base (e.g., FAQs, documentation, or previous support tickets). If you're unsure or have already checked and found nothing, feel free to submit this form to bring the matter to our attention.
-</thinking>
-
 # Contact Support Team - Help Guide
 ## Purpose
 The contact support team form is used to submit requests for help and support from our IT team.

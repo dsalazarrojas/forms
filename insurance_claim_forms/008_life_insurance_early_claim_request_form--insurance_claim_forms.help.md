@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting an early claim request for life insurance. The form is used to provide information about the claimant and the claim being submitted. To ensure that each claim is processed efficiently and accurately, please review each field carefully before submitting the form. Note: If you have already submitted a claim for the same policy, please do not fill out this form again. You can check the status of your previous claims on our website or contact us for assistance.
-</thinking>
-
 # Life Insurance Early Claim Request Form - Help Guide
 ## Purpose
 This form is used to submit an early claim request for a life insurance policy. It gathers information from the policyholder or beneficiary to process the claim.

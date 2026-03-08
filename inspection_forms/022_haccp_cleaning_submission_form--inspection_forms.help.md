@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information related to the HACCP (Hazard Analysis and Critical Control Points) cleaning process. The HACCP cleaning process is a systematic approach to identify and control hazards in the cleaning process to prevent or reduce risks to food safety. This form is intended to be used by facility staff to submit information about cleaning schedules, verification, and other relevant details.
-
-To complete this form, follow these steps:
-- Review the form purpose and ensure this form is not being duplicated. If it is, please cancel any previous submissions and start fresh.
-- Select "Yes" or "No" for the verification option, indicating whether the cleaning has been properly verified.
-- Choose the responsible person for the cleaning schedule from the options provided.
-- Enter the date and time of the cleaning verification in the respective fields.
-- Add any additional notes about the cleaning process, if necessary.
-- Attach any relevant files or images for further reference.
-
-This form will guide facility staff to provide essential information for a thorough HACCP cleaning process.
-</thinking>
-
 # haccp_cleaning_submission_form - Help Guide
 ## Purpose
 The haccp_cleaning_submission_form is used to collect and document information related to the HACCP cleaning process, ensuring a systematic and controlled approach to prevent or reduce risks to food safety.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information about security incidents in a structured and organized manner. It appears to be intended for use in a business or institutional setting, possibly for tracking and analyzing security incidents such as data breaches, system errors, or other security-related events. The form includes a mix of text fields for detailed descriptions, date and time fields for timestamping, and selection fields for categorizing responses. The goal of this guide is to provide clear instructions for users to complete the form accurately and effectively. It will check for potential duplication and ensure that users understand the purpose and intended use of each field. The guide will cover the form's purpose, how to complete it, and what each field represents. It's assumed that users have a basic understanding of the form's context, but this guide will clarify any potential ambiguities. Please follow the instructions carefully to ensure you complete the form correctly. </thinking>
-
 # Security Log Form - Help Guide
 ## Purpose
 

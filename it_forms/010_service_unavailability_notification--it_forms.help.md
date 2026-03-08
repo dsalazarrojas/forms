@@ -1,13 +1,3 @@
-<thinking>
-This is an internal reasoning block to explain the form purpose and checks for relevance and non-duplication.
-The form is designed to notify the system of potential or actual service unavailability. 
-It is meant for service administrators or managers to provide a clear and prompt alert when services are not available due to any reason.
-The form is designed to be filled out when there's a planned or unplanned interruption in services.
-The form fields are self-explanatory and designed to be filled out quickly.
-This form is not meant to be filled out for general feedback or inquiries. 
-The main purpose of this form is to report unavailability of services.
-</thinking>
-
 # Service Unavailability Notification - Help Guide
 ## Purpose
 The Service Unavailability Notification form is designed to alert the system of potential or actual service unavailability. 

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form is a "Responsive Life Insurance Quote Form" used for end-users to provide their personal information for life insurance quotes. This form includes various fields for personal details such as first name, last name, age, email, phone number, coverage start and end dates, address, life insurance type, coverage type, policy holder information, and quote details. The form is designed to be completed by users who are interested in obtaining a life insurance quote, and the collected data will likely be used by insurance companies or brokers to provide a quote. This form should not be used for any other purpose, and users should be cautious with their sensitive information. 
-</thinking>
-
 # Responsive Life Insurance Quote Form - Help Guide
 ## Purpose
 This form is designed to help you get a life insurance quote. Please fill out the form with your personal details to get an accurate quote.

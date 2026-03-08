@@ -1,27 +1,3 @@
-<thinking>
-
-This form appears to be a generic interview form for a Social Media Manager position. It seems to be collecting information about a person's background, experience, and skills, but I'll need to double-check the form details before providing any further guidance.
-
-Let's break it down:
-
-1. Introduction (Page 1, ID 1) - A brief introduction to the form.
-2. Name (Page 1, ID 2) - The form asks for the candidate's full name.
-3. Email (Page 1, ID 3) - The candidate's professional email address.
-4. Job Title (Page 1, ID 4) - The position the candidate is applying for.
-5. Company (Page 1, ID 5) - The company the candidate is currently working for or has previously worked for.
-6. LinkedIn (Page 1, ID 6) - The candidate's LinkedIn profile or username (assuming it's a text field for LinkedIn profile link).
-7. Location (Page 1, ID 7) - The location where the candidate is based or available to work.
-8. Experience (Page 1, ID 8) - The number of years of experience the candidate has in the field.
-9. Salary (Page 1, ID 9) - The candidate's expected or current salary.
-10. Education (Page 1, ID 10) - A brief description of the candidate's education background.
-11. About (Page 1, ID 11) - A short paragraph about the candidate's background and interests.
-12. Skills (Page 1, ID 12) - A multiple-select field for listing relevant skills.
-13. Available to Start (Page 1, ID 13) - A date indicating when the candidate is available to start work.
-
-Assuming there are no specific business rules or logic to be followed, the form seems to be a generic form for collecting candidate information. Please let me know if any of these assumptions are incorrect or if there's further information that needs to be considered for a more comprehensive guide.
-
-</thinking>
-
 # social_media_manager_interview_form - Help Guide
 ## Purpose
 This form is designed to collect information about a candidate for a Social Media Manager position. It helps in getting a better understanding of the candidate's background, experience, and skills required for the role.

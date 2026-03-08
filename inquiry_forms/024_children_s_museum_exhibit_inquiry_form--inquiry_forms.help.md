@@ -1,5 +1,3 @@
-<thinking>As this form is intended to collect information from potential exhibitors and proposers for new exhibits at the Children's Museum, it's crucial to ensure that the correct information is gathered and processed efficiently. This form should only be used for proposals that have not been previously approved or submitted, and it's essential to verify that all required fields are filled out correctly to avoid duplication and miscommunication. The form will be reviewed and responded to by museum staff, so it's vital to provide clear and accurate information to facilitate a smooth process.</thinking>
-
 # Children's Museum Exhibit Inquiry Form - Help Guide
 ## Purpose
 The Children's Museum Exhibit Inquiry Form is designed to collect information from potential exhibitors and proposers for new exhibits. This form helps the museum understand the proposal's details, including the exhibit's title, description, learning objectives, target age group, and logistics.

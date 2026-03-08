@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Flooring Inspection Checklist - Help Guide
 ## Purpose
 The Flooring Inspection Checklist is used to assess the condition and type of flooring in a property. It helps to identify the flooring type, condition, and any additional notes or comments.

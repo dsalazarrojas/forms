@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and requests from users regarding the Wallpaper Browser Extension. The form will be used to provide a clear and organized way for users to submit their thoughts, bugs, and suggestions related to the browser extension. This form will help the development team better understand the user's concerns and improve the extension based on the feedback. Please ensure that you have read this guide carefully before submitting your feedback to avoid duplication and non-relevant submissions.
-</thinking>
-
 # Wallpaper Request For Browser Extension - Help Guide
 ## Purpose
 This guide will walk you through the process of filling out the Wallpaper Request for Browser Extension form. The form is designed to collect feedback and requests from users, enabling the development team to improve the extension.

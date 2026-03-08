@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to request a vehicle and home insurance quote. It is intended for customers who are interested in obtaining a quote for their vehicle and/or home insurance needs. This form will help us gather the necessary information to provide a quote, which will be calculated based on the customer's vehicle type, vehicle year, vehicle make, home address, and other relevant details.
-
-When filling out this form, please ensure you are providing accurate and honest information, as this will help us provide the best possible quote for your needs.
-
-To avoid duplication of efforts, please do not submit this form if you have already contacted us for a quote or have already been provided with a quote.
-
-</thinking>
-
 # Vehicle And Home Insurance Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information necessary for a vehicle and home insurance quote.

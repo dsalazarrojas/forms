@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # System Update Request Form - Help Guide
 
 ## Purpose

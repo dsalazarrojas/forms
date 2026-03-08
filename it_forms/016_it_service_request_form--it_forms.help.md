@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to request services from internal teams or departments. It is meant to be used for non-urgent, low-impact requests. To ensure that only relevant requests are submitted, please review this form's purpose and guidelines before proceeding. Duplicate requests will not be accepted. If you are unsure about the form's purpose or have any questions, please reach out to the team that manages this form.
-</thinking>
-
 # it_service_request_form - Help Guide
 ## Purpose
 The it_service_request_form is a tool for submitting service requests to internal teams or departments. It allows users to submit requests for non-urgent, low-impact tasks that don't require immediate attention.

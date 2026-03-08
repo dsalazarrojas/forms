@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect detailed information about IT incident reports, including incident type, description, status, priority, and more. It is intended to be completed by IT staff members to report and track incidents related to IT systems and services.
-
-The form is structured into two main categories: 'Incident Details' and 'Resolution'. The 'Incident Details' section captures the essential information about the incident, including the type, description, status, priority, reporter, and location. The 'Resolution' section captures the outcome of the incident, including the resolution, reopened status, escalation level, and closed status.
-
-Please ensure that each field is filled in according to its type and description. For example, date fields should be filled in with the exact date in the 'YYYY-MM-DD' format. Select fields should be filled in with the corresponding option value. Text fields should be filled in with a brief description of the incident.
-
-The form should not be submitted if it is not complete or if it contains errors, such as invalid dates or options.
-
-</thinking>
-
 # Ticket Incident Portal For IT Issues Form - Help Guide
 ## Purpose
 ## How To Complete This Form

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # it_license_purchase_request_form - Help Guide
 
 ## Purpose

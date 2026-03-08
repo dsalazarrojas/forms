@@ -1,10 +1,3 @@
-<thinking> 
-The Quilt Intake Form is designed to collect information from customers about their quilt requirements, design preferences, and other details for custom quilts. This form is intended to gather essential data to create a comprehensive understanding of the customer's needs for a custom quilt project. 
-
-To ensure that all relevant information is collected, please note that this form should only be filled out by customers who are interested in creating a custom quilt. If you're unsure, you can contact your administrator for assistance. Additionally, if you have filled out this form previously, please do not submit it again. Your previous submissions will be referenced and updated as necessary. 
-
-</thinking>
-
 # Quilt Intake Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to request a Security PIN, which is a unique identifier used for security purposes. This form is used to capture information from the user about their request, including their details, access reasons, policy acknowledgments, PIN request, and PIN details. The form should only be filled out once per user, and users should not be able to register more than one PIN per form submission.
-</thinking>
-
 # Security PIN Registration Request - Help Guide
 ## Purpose
 This form is for requesting a Security PIN, a unique identifier used for security purposes.

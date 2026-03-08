@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request inclusion in the focus mode allowlist for a specific user. The user must provide some basic information about themselves, a URL, and a reason for inclusion in the allowlist. Additionally, the form asks for approval from a manager, which can either be a simple 'Yes' or 'No' answer, and allows the manager to provide comments if necessary. The user must not submit duplicate requests or requests from the same user.
-</thinking>
-
 # Focus Mode Allowlist Request - Help Guide
 
 ## Purpose

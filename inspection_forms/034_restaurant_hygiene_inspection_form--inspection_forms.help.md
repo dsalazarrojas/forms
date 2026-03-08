@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for restaurant hygiene inspections. The purpose of this form is to assess the level of cleanliness and safety in a restaurant. The form is used by inspectors to evaluate the restaurant's compliance with food safety and hygiene regulations. The form will be completed by an inspector during an on-site visit to the restaurant. It will help the inspector gather data on the restaurant's cleanliness, safety, and compliance with regulations. The data collected will be used to identify areas of improvement and to provide feedback to the restaurant on how to improve their hygiene practices.
-</thinking>
-
 # Restaurant Hygiene Inspection Form - Help Guide
 ## Purpose
 The Restaurant Hygiene Inspection Form is designed to collect information on the cleanliness and safety of a restaurant during an on-site inspection.

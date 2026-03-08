@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture user information for the purpose of evaluating their eligibility for a Retail Cloud Solution certification. This form is used to collect demographic information, such as name, contact details, and address, as well as information specific to the solution, such as the name of the solution and a brief description. All fields are optional, except for the email field which is required to be a valid email address.
-
-The form is intended to be completed by individuals or organizations looking to obtain certification for their Retail Cloud Solution. The form data will be reviewed and verified by the certification team before approval.
-
-Note: This form is not intended to be used for any other purpose other than certification application, and all fields are subject to verification and validation.
-
-</thinking>
-
 # Retail Cloud Solution Certification Application Form - Help Guide
 ## Purpose
 The Retail Cloud Solution Certification Application Form is designed to collect information for the purpose of evaluating the eligibility for a Retail Cloud Solution certification. Please complete this form to apply for certification.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facepiece Inspection Checklist - Help Guide
 ## Purpose
 The Facepiece Inspection Checklist is a form used to track the inspection and maintenance of facepieces, a critical component of a respirator or air-purifying system. This form helps ensure that all necessary checks and corrective actions are completed to maintain the facepiece's integrity and functionality.

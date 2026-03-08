@@ -1,7 +1,3 @@
-<thinking>
-This guide will provide a step-by-step walkthrough on how to fill out the Environmental Inspection Checklist form. This form is used to collect information about the facility's environmental and physical conditions. It's essential to fill out this form accurately to help the inspectors evaluate the facility's status and provide recommendations for improvement.
-</thinking>
-
 # Environmental Inspection Checklist - Help Guide
 ## Purpose
 The Environmental Inspection Checklist is a form used to assess the environmental and physical conditions of a facility. This form helps inspectors evaluate the facility's compliance with safety and environmental standards.

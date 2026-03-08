@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help assess an organization's DevOps readiness, which is a key factor in determining the success of software development and deployment processes. The form collects information on various aspects of DevOps, including team size, experience, tools, processes, culture, metrics, and feedback. This assessment is intended for internal use within the organization, and the information collected will help in identifying areas of improvement and development of effective strategies for implementing DevOps.
-Before filling out this form, please ensure that you are completing it for the correct purpose and not duplicating efforts. This form is meant for self-assessment, and responses should be based on the team's actual practices and experiences.
-</thinking>
-
 # DevOps Readiness Assessment Form - Help Guide
 ## Purpose
 This form is designed to help assess an organization's DevOps readiness.

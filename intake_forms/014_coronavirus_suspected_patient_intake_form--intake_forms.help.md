@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from suspected patients about their medical condition, contact details, and medical history to facilitate proper handling and treatment of their situation. This form should only be filled out by suspected patients who have not yet been diagnosed or treated. If a patient has already been diagnosed or treated, please use a different form. 
-</thinking>
-
 # Coronavirus Suspected Patient Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information from suspected patients about their potential exposure or symptoms of the coronavirus. The information collected here will help healthcare professionals assess the situation and provide necessary support.

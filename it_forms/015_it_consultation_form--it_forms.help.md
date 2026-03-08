@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information related to IT consultation services, likely for clients or customers. The fields seem to cover a range of topics from client and contact information to service details, costs, and statuses. This form might be used in an IT consultancy or support context to provide a centralized hub for storing and viewing client and service information. Given the structure of the form, it's possible that this form is used by multiple users, such as IT staff or consultants, to manage and view different aspects of the consultation process. It's worth noting that not all fields are required, which might suggest that the form is intended for optional or supplementary use. 
-</thinking>
-
 # it consultation form - Help Guide
 ## Purpose
 The IT consultation form is designed to collect information related to IT consultation services. This form can be used by multiple users, such as IT staff or consultants, to manage and view different aspects of the consultation process.

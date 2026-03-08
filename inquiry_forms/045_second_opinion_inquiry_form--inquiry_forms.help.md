@@ -1,6 +1,4 @@
-> <thinking>... This form is designed for patients or their representatives to provide a second opinion on a medical condition or treatment. It is intended to be completed by the patient or their representative, and will be reviewed by a medical professional. Before completing this form, please ensure you are not duplicating an existing inquiry, and that your inquiry is not already being reviewed or addressed by a medical professional. This form is intended to be used for new inquiries only. If you are unsure, please contact the medical team before continuing. ...</thinking>
-
-# Second Opinion Inquiry Form - Help Guide
+> # Second Opinion Inquiry Form - Help Guide
 ## Purpose
 This form is designed for patients or their representatives to provide a second opinion on a medical condition or treatment.
 

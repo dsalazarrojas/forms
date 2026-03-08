@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather vital information about a patient's medical history and contact details. Before starting, ensure you have the patient's consent to collect this information. To avoid duplication, please check if the patient has already been registered in our system or if a similar form has been submitted recently. 
-</thinking>
-
 # Medical Patient Intake Form - Help Guide
 ## Purpose
 This form is used to collect medical history and contact details of patients to help healthcare professionals assess and provide adequate care.

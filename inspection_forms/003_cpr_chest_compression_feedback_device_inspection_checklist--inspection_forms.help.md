@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's make sure this form is a good fit for your needs. The form appears to be designed for inspecting CPR chest compression feedback devices, which suggests it's used in medical or emergency response settings. It checks for both physical conditions, such as casing integrity and battery level, and functional tests, like power-on self-test and compression depth accuracy. Please review the form content carefully to ensure it accurately represents your specific use case.</thinking>
-
 # CPR Chest Compression Feedback Device Inspection Checklist - Help Guide
 
 ## Purpose

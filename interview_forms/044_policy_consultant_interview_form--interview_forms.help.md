@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from policy consultants during the interview process. 
-It is essential to fill out this form accurately, as it will be used to update the consultant's profile. 
-Please ensure that you only fill out this form once for each consultant, as duplicate entries will not be accepted.
-</thinking>
-
 # Policy Consultant Interview Form - Help Guide
 ## Purpose
 This form is used to collect information from policy consultants during the interview process. 

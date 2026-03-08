@@ -1,5 +1,3 @@
-<thinking>As the form's internal reasoning suggests, the Collaborative Whiteboard Selection Guide was created using public metadata from various surveys on collaboration whiteboard topics. The form is meant to help users determine their needs and preferences for a whiteboard solution, which is a platform used for collaborative work, brainstorming, and planning. The form's goal is to gather specific information to help users find the right whiteboard that meets their needs. This form is not affiliated with or derived from any proprietary form platforms and is released under a Creative Commons license. It is free to use, modify, and even sell, as long as you give credit.</thinking>
-
 # Collaborative Whiteboard Selection Guide - Help Guide
 
 ## Purpose

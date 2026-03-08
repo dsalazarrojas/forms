@@ -1,5 +1,3 @@
-<thinking>As an intern seeking to join the church's internship program, it's essential to provide accurate and complete information to ensure a successful application process. This form is designed to help the church assess your suitability for the internship program and provide a positive experience for both you and the church. Please complete this form carefully, ensuring that all required fields are filled out. If you have any questions or concerns, please don't hesitate to reach out to the church's internship team.</thinking>
-
 # Church Internship Application Form - Help Guide
 ## Purpose
 The Church Internship Application Form is designed to gather information from potential interns interested in joining the church's internship program. This form helps the church evaluate your qualifications, interests, and suitability for the program.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from patients undergoing high dose IV therapy for assessment and potential treatment. This form will help clinicians and healthcare staff evaluate the patient's medical history, condition, and other relevant information to provide the best possible care. Please ensure you only complete this form for patients who have not previously completed the high dose IV therapy assessment.
-
-Note: Please ensure you are not duplicating any previous assessments.
-</thinking>
-
 # High Dose IV Therapy Assessment - Help Guide
 ## Purpose
 This form is used to collect information from patients undergoing high dose IV therapy for assessment and potential treatment. It will help clinicians and healthcare staff evaluate the patient's medical history, condition, and other relevant information to provide the best possible care.

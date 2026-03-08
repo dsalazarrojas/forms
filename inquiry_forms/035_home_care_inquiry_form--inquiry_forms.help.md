@@ -1,8 +1,3 @@
-<thinking>
-The Home Care Inquiry Form is designed to gather information from individuals seeking home care services for their loved ones. The form is divided into several sections, each focusing on a different aspect of the inquiry. The purpose of this form is to provide the necessary details to facilitate efficient and effective care for the individual or family member in need.
-The form can be completed by anyone seeking home care services, including family members, caregivers, or healthcare professionals. Before submitting the form, please ensure that the information is accurate and up-to-date.
-</thinking>
-
 # Home Care Inquiry Form - Help Guide
 ## Purpose
 The Home Care Inquiry Form is used to gather information from individuals seeking home care services for their loved ones. The form helps us understand their specific needs and preferences, enabling us to provide the best possible care and support.

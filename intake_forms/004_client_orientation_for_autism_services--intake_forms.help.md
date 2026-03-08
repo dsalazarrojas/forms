@@ -1,12 +1,3 @@
-<thinking> 
-We need to ensure the client is properly oriented and prepared for our services.
-This is the first step in our intake process for new clients who will be receiving services.
-We need to gather accurate information from clients and their caregivers to provide effective and personalized services.
-Please only complete this form if you are a new client or have not previously submitted a similar form.
-Do not submit multiple forms for the same client.
-If you need assistance with the form or have questions, please contact us.
-</thinking>
-
 # Client Orientation For Autism Services - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a property and its tenants. It is likely intended for use by landlords or property managers to gather data on the people living in a rental property. The form is structured into four pages, each with a single field. 
-
-The form does not appear to be collecting any sensitive or personal data, and its purpose seems to be general information gathering. The structure suggests it is meant for a simple property information sheet.
-
-Please review this form and let me know if it is indeed for a general property information sheet, or if there's more context that would clarify its purpose.
-
-</thinking>
-
 # Property And Tenant Information Form - Help Guide
 ## Purpose
 This form is designed to collect general information about a property and its tenants. It is likely intended for use by landlords or property managers to gather data on the people living in a rental property.

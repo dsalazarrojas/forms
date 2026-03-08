@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to facilitate inspections of zoo habitats, allowing inspectors to gather information about the status, condition, and other relevant details of the facilities being inspected. The form is intended to be completed by inspectors who conduct regular checks on zoo animals and their habitats to ensure the welfare and safety of the animals and visitors. 
-
-The form is likely to be used by zoo staff or external inspectors, and its completion will likely be required for regulatory purposes or internal record-keeping.
-
-</thinking>
-
 # Zoo Habitat Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the inspection of a zoo habitat, including its status, condition, and other relevant details.

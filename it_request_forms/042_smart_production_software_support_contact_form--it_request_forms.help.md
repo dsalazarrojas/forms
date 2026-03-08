@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Production Software Support Contact Form - Help Guide
 ## Purpose
 This form is designed to help customers or users of the Smart Production Software report any issues or concerns they may have with the software. This form is intended to gather necessary information to assist in resolving the issue efficiently and effectively.

@@ -1,12 +1,3 @@
-<thinking>
-We will create a help guide for the "Softgel Capsule Quality Inspection Checklist" form. This form is used to inspect softgel capsules for quality issues, such as color, weight, size, and shape inconsistencies. It is designed to help users quickly identify any defects and ensure that the capsules meet the required standards.
-
-The form consists of 22 fields, including select multiple and select one options, text fields, and batch number input field. To complete the form, users will select the appropriate options for each field based on their observations during the inspection.
-
-Here is a brief internal reasoning block to justify the form purpose and ensure it is not duplicated:
-
-This form is designed to inspect softgel capsules for quality issues and ensure they meet the required standards. It is not meant to be used for other purposes, such as tracking inventory or managing production data. Its purpose is specific to quality inspection, and its fields are optimized for that goal.</thinking>
-
 # Softgel Capsule Quality Inspection Checklist - Help Guide
 ## Purpose
 

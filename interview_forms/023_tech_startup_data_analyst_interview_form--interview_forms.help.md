@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about a tech startup data analyst interview. It's meant for recruiters, hiring managers, or interviewers to record and document their interactions with candidates. The form should only be filled out by authorized personnel and not by candidates themselves. The form's fields cover various aspects of the interview process, including candidate details, role relevance, contact information, and screening questions. It's intended to be a helpful tool for tracking and evaluating candidate performance during the interview process.</thinking>
-
 # Tech Startup Data Analyst Interview Form - Help Guide
 ## Purpose
 The Tech Startup Data Analyst Interview Form is a tool used by recruiters, hiring managers, or interviewers to collect and document information about candidate interactions during the interview process for a data analyst position in a tech startup.

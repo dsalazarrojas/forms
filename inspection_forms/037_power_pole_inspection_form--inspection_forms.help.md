@@ -1,25 +1,3 @@
-<thinking>
-
-The Power Pole Inspection Form is a data collection tool designed to gather information about the condition and maintenance needs of power poles in a utility system. This form is intended for use by maintenance technicians and inspectors to document their findings and report back to management.
-
-The form consists of a series of fields that guide the user through a power pole inspection process. The form is divided into several sections, including:
-
-*   Power pole inspection form sections: This section is used to gather information about the specific power pole being inspected, including its condition and any maintenance needs.
-*   Location and inspection details: This section is used to gather information about the location of the power pole and the details of the inspection.
-*   Technician and inspection details: This section is used to gather information about the technician performing the inspection and the details of the inspection.
-
-The form requires the user to provide the following information:
-
-*   Location: The location of the power pole being inspected.
-*   Condition: The condition of the power pole, which can be Normal, Abnormal, or Critical.
-*   Notes: Any additional comments or notes about the power pole or inspection.
-*   Assigned Technician: The name(s) of the technician(s) assigned to inspect the power pole.
-*   Inspection Date: The date of the inspection.
-
-The form is designed to be completed by maintenance technicians and inspectors in the field, and is intended to help them document their findings and report back to management.
-
-</thinking>
-
 # Power Pole Inspection Form - Help Guide
 ## Purpose
 The Power Pole Inspection Form is a data collection tool designed to gather information about the condition and maintenance needs of power poles in a utility system.

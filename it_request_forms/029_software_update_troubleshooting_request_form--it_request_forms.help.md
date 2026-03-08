@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information and help troubleshoot software updates. It's meant to be completed by software users who are experiencing issues with an update. The form will guide them through the process of describing their problems and providing relevant details to help the support team understand and resolve the issue quickly and effectively. 
-
-To prevent duplication of effort and ensure relevant submissions, please review the form carefully before filling it out. This will help ensure that your issue is accurately captured and efficiently addressed.
-
-Please ensure that the form is filled out completely and accurately for our team to assist you better.
-</thinking>
-
 # Software Update Troubleshooting Request Form - Help Guide
 ## Purpose
 The Software Update Troubleshooting Request Form is designed to collect information and help resolve issues related to software updates. This form helps the support team understand the problem and provide efficient assistance.

@@ -1,11 +1,3 @@
-<thinking>
-This form is for tracking and reporting the status of electrical infrastructure, including facility name, inspection date and time, electrical grid status, and other related details. It is likely part of a larger inspection or audit process for a commercial or industrial facility.
-
-The form appears to be intended for use by maintenance or operations teams, or facility management personnel, to gather and record information about electrical infrastructure in a standardized way.
-
-Before completing this form, ensure that the data is accurate and up-to-date. If duplicate or outdated records are encountered, refer to the most recent record first, and update as necessary.
-</thinking>
-
 # Electrical Infrastructure - Help Guide
 ## Purpose
 This form is designed to gather and track information about the electrical infrastructure in a facility, including status, condition, and other relevant details.

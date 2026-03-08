@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the safety of a building in the event of an earthquake. It is used to gather information about the building's condition, structural integrity, and evacuation plan in preparation for an earthquake. The form should only be completed if the building is located in an area prone to earthquakes. 
-
-Please ensure you are not duplicating existing assessment and that the assessment is not redundant. Ensure the information collected is accurate and up-to-date, as this will help inform emergency response and mitigation plans.
-
-</thinking>
-
 # Earthquake Safety Assessment Form - Help Guide
 ## Purpose
 This form is used to gather information about a building's safety in the event of an earthquake. It helps assess the building's structural condition, evacuation plan, and other critical details that are essential for emergency response and mitigation plans.

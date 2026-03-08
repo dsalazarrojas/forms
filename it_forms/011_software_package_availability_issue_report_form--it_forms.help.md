@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's review the form's purpose and ensure it's a one-time report form for software package availability issues. This form is meant to report issues related to software packages, and it's essential to fill it out correctly to ensure that the right person is assigned to investigate and resolve the issue. Please review each field carefully and fill out the form only once you've found the correct information. If you're unsure about any field, please don't hesitate to contact your team for guidance.</thinking>
-
 # Software Package Availability Issue Report Form - Help Guide
 ## Purpose
 The Software Package Availability Issue Report Form is a one-time report form used to report issues related to software packages. This form helps ensure that the correct person is assigned to investigate and resolve the issue efficiently.

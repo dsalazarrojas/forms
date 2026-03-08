@@ -1,7 +1,3 @@
-<thinking>
-...This form is used for farmers to get an insurance quote for their farm operations, property, or livestock. The form collects basic information such as name, contact details, and any other relevant data required to provide an accurate quote. Ensure that all required fields are filled in to avoid submission failures. Please do not resubmit this form with the same information; it may cause duplicate records and confusion. Ensure that all information is accurate and up-to-date...
-</thinking>
-
 # farmers_insurance_quote_form - Help Guide
 ## Purpose
 This form is designed to gather essential information from farmers to provide them with an accurate insurance quote for their farm operations, property, or livestock.

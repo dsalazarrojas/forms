@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Operational Compliance Inspection Checklist - Help Guide
 ## Purpose
 The Operational Compliance Inspection Checklist is designed to collect data during on-site inspections to ensure the smooth operation of facilities, equipment, and teams. The form helps to monitor and report any issues or concerns that arise during inspections, enabling prompt corrective actions to be taken.

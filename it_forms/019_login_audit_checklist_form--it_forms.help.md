@@ -1,7 +1,3 @@
-<thinking>
-This form is used to conduct a thorough audit of login controls on a system. The purpose of this form is to ensure that login controls are properly set up and functioning correctly. This form should be completed by IT staff to document and review the status of login controls on a system. The form should not be used for other purposes.
-</thinking>
-
 # Login Audit Checklist Form - Help Guide
 ## Purpose
 The purpose of this form is to conduct a comprehensive review of login controls on a system. This form is used to ensure that all login controls are properly set up and functioning correctly.

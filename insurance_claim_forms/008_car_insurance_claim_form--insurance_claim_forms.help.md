@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be designed for car insurance claim submissions. It's likely used by customers to file a claim with their insurance provider after an accident or incident involving their vehicle. The purpose of this form is to collect necessary information about the claimant, their vehicle, and the incident, which will help the insurance company assess and process the claim. 
-
-The form includes sections for claimant information, policy details, accident details, vehicle details, and other relevant information. This structure seems to be well-organized and comprehensive. However, it's essential to ensure that all fields are correctly filled out to avoid delays or rejected claims.
-
-To create a user-friendly experience, let's break down the form into sections and provide clear explanations for each field.
-
-</thinking>
-
 # Car Insurance Claim Form - Help Guide
 ## Purpose
 The Car Insurance Claim Form is designed to collect information necessary for processing your insurance claim after an accident or incident involving your vehicle. Please fill out this form accurately and thoroughly to help us assess and process your claim efficiently.

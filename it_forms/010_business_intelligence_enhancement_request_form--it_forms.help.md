@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request business intelligence enhancements to improve the reporting and analytics capabilities of the organization. It is a crucial document that captures the necessary information to prioritize and manage these requests effectively. To ensure that your enhancement request is properly evaluated and implemented, please make sure to fill out this form completely and accurately. Additionally, if you have already submitted a similar request, please check your previous submissions to avoid duplication of effort.
-
-</thinking>
-
 # Business Intelligence Enhancement Request Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about the business intelligence enhancements needed by your team or department. It helps the BI team to understand the requirements and prioritize the requests effectively.

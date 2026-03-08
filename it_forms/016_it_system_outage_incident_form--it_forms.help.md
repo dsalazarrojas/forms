@@ -1,14 +1,3 @@
-<thinking>
-To determine the form's purpose, I've analyzed the input schema and extracted the following information:
-
-* The form is called "IT System Outage Incident Form" and is intended to collect information about IT system outages.
-* The form includes fields for categorizing, describing, and timing the incident, as well as its resolution status.
-* The form's options and labels suggest that it is used for tracking and managing IT system outages, likely for IT support or operations teams.
-
-To avoid duplication, I've reviewed the form's fields and determined that it is not a duplicate of any other form that I've previously analyzed.
-
-</thinking>
-
 # IT System Outage Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about IT system outages, including the category, description, timing, and resolution status of the incident. It helps IT support or operations teams to track and manage outages efficiently.

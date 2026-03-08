@@ -1,13 +1,3 @@
-<thinking>
-The Surface Finish Evaluation Form is used to assess the quality of a surface finish on a material or product. It typically captures the overall appearance and quality of the surface, as well as any notable defects or imperfections. This form is often used in industries such as manufacturing, construction, or materials science to help assess the quality of a product or material during production, quality control, or inspection processes.
-
-The form's purpose is to help users evaluate the surface finish and provide a clear and concise assessment of its quality. The form is designed to be simple and easy to use, allowing users to quickly and effectively capture the necessary information.
-
-Before completing this form, please ensure that you have a clear understanding of the surface finish you are evaluating. This will help you provide an accurate and informed assessment.
-
-Note: The form is divided into several sections, each with different fields. This guide will walk you through each field and its purpose.
-</thinking>
-
 # Surface Finish Evaluation Form - Help Guide
 
 ## Purpose

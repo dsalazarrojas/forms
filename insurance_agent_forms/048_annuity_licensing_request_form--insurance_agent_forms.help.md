@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by insurance agents who wish to obtain an annuity license. This form is used to collect necessary information for the licensing process. The form is divided into two main sections: the application, which collects personal and professional information from the applicant, and the supporting documentation, which requires the applicant to provide supporting documents for their application. To ensure accuracy and efficiency, the form should only be submitted once. If you have previously submitted this form, please do not resubmit it. Please ensure that all fields are completed accurately and thoroughly, as incomplete or inaccurate information may delay the processing of your application. This form is not intended for use in other contexts; only agents applying for an annuity license should use this form.
-</thinking>
-
 # Annuity Licensing Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from insurance agents applying for an annuity license. It is used by the licensing department to review and process the application.

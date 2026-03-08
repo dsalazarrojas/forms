@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from applicants for the Learning Technology Fellowship program. It is intended for students and researchers with a strong background in technology and education, who are looking to advance their skills and knowledge in the field. Please ensure that you are eligible and not applying for a duplicate fellowship. The form asks for personal and academic information, project details, and supporting documents to assess your suitability for the program.
-</thinking>
-
 # Learning Technology Fellowship Application - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Learning Technology Fellowship Application form. The form is designed to collect information about your personal background, academic history, and project details to assess your eligibility for the Learning Technology Fellowship program.

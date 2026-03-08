@@ -1,25 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about sensors, including their status, maintenance, and inspection results. The form is used to track and record data about sensors, which is essential for maintaining accurate and reliable sensor data.
-
-Before filling out this form, please ensure that you have all necessary information about the sensors to be inspected and maintained. This form is designed for use by authorized personnel and should not be filled out by non-authorized users.
-
-To complete this form, please follow the instructions below:
-
-1. First, select the sensors that are to be inspected and maintained from the "select_sensors" field.
-2. In the "select_action" field, choose the maintenance actions that need to be performed on the selected sensors.
-3. Enter the location where the sensors are installed in the "sensor_location" field.
-4. In the "inspection_result" field, enter the results of the inspection and maintenance performed.
-5. Select the inspection frequency for the sensors from the "sensor_inspection_frequency" field.
-6. Enter the reorder frequency for the sensors from the "sensor_reorder_frequency" field.
-7. Enter the total reorder cost for the sensors from the "sensor_reorder_total" field.
-8. Choose the status of the sensor reorder from the "sensor_reorder_status" field.
-9. Enter any additional comments or notes in the "notes", "notes2", and "notes3" fields.
-10. Select the date and time of the inspection and maintenance from the "select_date" and "select_time" fields.
-11. Enter the email and phone number of the contact person in the "enter_email" and "enter_phone" fields.
-
-Please note that some fields are required, denoted by an asterisk (\*) in the label. Ensure that all required fields are completed before submitting the form.
-</thinking>
-
 # Sensor Inspection And Maintenance Checklist - Help Guide
 ## Purpose
 The purpose of this form is to gather information about sensors, including their status, maintenance, and inspection results.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information about systems requests from customers. This form helps to track and process customer requests for changes, maintenance, or other system-related tasks. Before starting to fill out this form, please ensure you have the necessary information and permissions to request changes on behalf of your organization. This form may be used for internal purposes only and should not be used for external requests or sales purposes. Please fill out the form accurately and completely to ensure that the request is processed efficiently.
-
-</thinking>
-
 # Systems Request Form - Help Guide
 ## Purpose
 This form is used to collect and track customer requests for systems changes, maintenance, or other tasks. It is designed to help the requesting department process and manage these requests efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-I'm thinking about the purpose of this form and checking for relevance and non-duplication. The form is intended to collect information from applicants for medical premium calculations, likely for insurance purposes. It's a straightforward form with minimal complexity, likely designed for data collection and analysis. I'll make sure to cover all the required fields and provide clear explanations for each field to help users complete the form accurately and efficiently.
-</thinking>
-
 # Medical Premium Calculation Form - Help Guide
 ## Purpose
 The Medical Premium Calculation Form is designed to collect information from applicants for medical premium calculations. This form helps to gather necessary details to estimate and calculate premiums accurately.

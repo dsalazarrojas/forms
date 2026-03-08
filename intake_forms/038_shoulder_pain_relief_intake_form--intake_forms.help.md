@@ -1,16 +1,3 @@
-<thinking>
-This form is a tool for medical professionals to collect information about patients who are experiencing shoulder pain. The purpose of this form is to gather essential details about the patient's symptoms, medical history, and contact information. This data will help medical experts understand the patient's condition better and provide personalized care.
-
-Before filling out this form, please ensure that you are a patient or a medical professional authorized to fill out this form. Duplicate submissions are not allowed to avoid data duplication and ensure accurate patient data.
-
-This form has five sections, each with its own specific purpose:
-* User Info: This section is used to collect basic information about the patient, such as name, email, and phone number.
-* Pain Details: This section asks about the patient's shoulder pain experience, including its duration, intensity, and location.
-* Medical History: This section aims to capture the patient's medical history, including previous injuries or surgeries related to the shoulder.
-* Contact Info: This section is for collecting the patient's contact information, such as address and emergency contact.
-
-</thinking>
-
 # Shoulder Pain Relief Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients who are experiencing shoulder pain, allowing medical professionals to provide personalized care and treatment.

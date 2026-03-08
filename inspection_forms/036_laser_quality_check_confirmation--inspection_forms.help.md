@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-The purpose of this form is to provide a structured confirmation of the laser quality check process, ensuring that all necessary checks are performed correctly. This form should only be used for laser quality checks that are not related to any other quality check. To prevent duplication, this form should not be used for quality checks that have already been completed using other forms. 
-
-</thinking>
-
 # Laser Quality Check Confirmation - Help Guide
 ## Purpose
 The Laser Quality Check Confirmation form is designed to ensure that all necessary steps for a laser quality check are completed correctly. It is intended for situations where a laser quality check is required but not related to other quality checks. 

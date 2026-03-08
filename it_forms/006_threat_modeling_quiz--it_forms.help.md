@@ -1,11 +1,3 @@
-<thinking>Form Purpose and Validation
-
-This form is a Threat Modeling Quiz designed to gauge knowledge and understanding of threat modeling concepts, methods, and best practices. It's intended to be a self-assessment tool for individuals to evaluate their understanding of threat modeling principles and methodologies.
-
-Before attempting to complete this form, ensure you understand the purpose and scope of threat modeling. This quiz is not a certification or assessment tool, but rather a learning opportunity to improve your knowledge and skills in threat modeling.
-
-To avoid duplication of effort, please do not take this quiz if you have already completed a similar assessment or quiz on the same topic within the past 30 days. If you have any concerns or need clarification on any questions, please reach out to our support team.</thinking>
-
 # Threat Modeling Quiz - Help Guide
 ## Purpose
 The Threat Modeling Quiz is a knowledge assessment tool designed to evaluate your understanding of threat modeling concepts, methods, and best practices. It's not a certification or assessment tool, but rather a learning opportunity to improve your knowledge and skills in threat modeling.

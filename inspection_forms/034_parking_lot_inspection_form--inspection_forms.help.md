@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the parking lot inspection. It is designed to gather data on various aspects of the parking lot, including its status, conditions, and other related details. This form should only be used for inspections of parking lots, and the data collected will be used to track and analyze the inspection results.
-
-To ensure that the correct data is collected, please note that some fields may have been duplicated in the YAML configuration. This is not an error, but rather a result of the form being designed to have a specific structure. The fields are intended to be used for different purposes, and the duplication is a reflection of this.
-
-The fields in this form should be filled in as follows:
-</thinking>
-
 # parking_lot_inspection_form - Help Guide
 ## Purpose
 The parking lot inspection form is designed to collect information about the parking lot's condition and status. This form helps in tracking and analyzing the inspection results.

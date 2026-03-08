@@ -1,7 +1,3 @@
-<thinking>
-To prevent unnecessary processing and duplication of effort, please only complete this form if you have a genuine need for a service request. This form is intended to collect information about your request in a clear and concise manner. If you have already submitted a service request or have been asked to do so in the past, please do not resubmit. Your feedback on our services will help us better understand your needs and improve our services.
-</thinking>
-
 # Fast Line Service Request - Help Guide
 ## Purpose
 The purpose of this form is to provide a clear and concise way to submit service requests to the team. This form gathers essential information about your service request, including the issue, report details, contact information, service category, priority, and any additional comments.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for upgrading the Smart Sensor Network, a crucial system that collects and analyzes data from various sensors deployed across different buildings. Before proceeding, please ensure you have a genuine reason for upgrading the network and that it aligns with your role's responsibilities and the organization's policies. Also, please be aware that filling out this form will create a record that will be reviewed by relevant stakeholders. This form should not be used to request upgrades for non-work-related purposes or for testing purposes without authorization.
-</thinking>
-
 # Smart Sensor Network Upgrade Request Form - Help Guide
 ## Purpose
 The Smart Sensor Network Upgrade Request Form is designed to collect information from users to upgrade the Smart Sensor Network, which is essential for data collection and analysis. To complete this form, follow the steps below.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Filler Information Form - Help Guide
 ## Purpose
 This form is used to gather essential details about a fillers' business information to facilitate smooth interactions and operations within our organization. It's not meant to be a comprehensive business registration form but a supplementary form to collect specific information to improve communication and services.

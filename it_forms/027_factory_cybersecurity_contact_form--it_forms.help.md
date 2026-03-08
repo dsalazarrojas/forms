@@ -1,13 +1,3 @@
-<thinking>
-We will be creating a help guide for a form used to report and handle security incidents in a factory setting. This form allows users to report security issues, submit incident details, share files, select issue types, and provide contact information for further communication. To ensure that users understand the form's purpose and requirements, it's essential to provide clear and concise guidance on how to fill it out correctly.
-
-The main goal of this form is to gather information about security incidents, so it's crucial to ensure that each field is filled out accurately and completely. To this end, we will break down the form into separate sections and explain each field's purpose in detail.
-
-Before starting to fill out the form, please note that all fields are optional unless specified otherwise in this guide. If you're not sure about any field or require clarification, please consult this help guide.
-
-Additionally, please be aware that this form is not meant to replace any existing incident management processes. It's meant to supplement and facilitate the reporting of security incidents.
-</thinking>
-
 # Factory Cybersecurity Contact Form - Help Guide
 ## Purpose
 The Factory Cybersecurity Contact Form is designed to gather information about security incidents reported by employees. This form helps to collect data about security incidents in a structured manner, allowing for efficient and effective handling of such incidents.

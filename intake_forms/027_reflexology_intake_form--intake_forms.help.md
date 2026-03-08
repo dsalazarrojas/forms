@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients or clients for reflexology appointments. The form includes fields for scheduling the appointment, providing health information, and collecting patient information. The reflexologist will use this information to provide personalized treatment and services. This form is meant to be filled out by the patient or client before the appointment, to ensure that the reflexologist has all necessary information. It's recommended that this form is reviewed before starting the session to avoid any issues or miscommunications during the appointment.
-</thinking>
-
 # Reflexology Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from patients or clients for reflexology appointments. It helps the reflexologist to have a better understanding of the patient's health status and requirements before the session.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from directors about their personal and professional details. It is essential to fill out this form accurately to ensure that the information is up-to-date and complete. Please do not fill out this form if you have already done so in the past; duplicate submissions will not be accepted.
-</thinking>
-
 # Director Information Intake Form - Help Guide
 ## Purpose
 The Director Information Intake Form is designed to collect personal and professional details from directors, which will be used for various purposes such as communication, record-keeping, and reporting. It is crucial that you provide accurate and up-to-date information to ensure that your data is correct and reliable.

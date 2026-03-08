@@ -1,15 +1,3 @@
-<thinking>
-This form is used for customers to initiate an insurance policy cancellation request. It's essential to follow these instructions carefully to ensure the cancellation process is initiated correctly. Please note that this form is a crucial step in the insurance policy termination process, and any inaccuracies or omissions may lead to delays or complications.
-
-To confirm that this is the correct form for your needs, please review the following:
-
-* The form is intended for insurance policy cancellation.
-* Ensure you are filling out the form for the correct policy owner's information.
-* Verify that you have the necessary permissions and authority to request a policy cancellation.
-
-If you're unsure or have any questions, please contact the insurance provider or the designated support team for guidance.
-
-</thinking>
 # Insurance Cancellation Form - Help Guide
 ## Purpose
 The Insurance Cancellation Form is used by customers to initiate an insurance policy cancellation. This form helps the insurance provider process the cancellation request efficiently and accurately.

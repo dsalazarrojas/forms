@@ -1,5 +1,3 @@
-<thinking>Inspection forms are used to document the results of routine maintenance or inspection checks. This helps track and maintain a record of the status of critical equipment and personnel. The purpose of this form is to record key information about an inspection, including the operator performing it, the location, and the date of the inspection. The form will be used for tracking and record-keeping purposes only. Ensure the correct form is used for each specific type of inspection to avoid duplication and maintain accurate records.</thinking>
-
 # excavator_daily_inspection_form - Help Guide
 ## Purpose
 The excavator daily inspection form is used to document the results of routine inspections of excavating equipment. This form helps track and maintain a record of the status of critical equipment and personnel, ensuring accurate and up-to-date information is kept.

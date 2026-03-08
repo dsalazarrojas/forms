@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users who are requesting a download of the Document Scanner App. The purpose of this form is to collect relevant details such as user contact information, app type, and request date to fulfill the download request efficiently. To prevent duplication, the form will check if the user has already submitted a request for the same app type. If a user has, they will be notified that they need to try a different app type or contact the support team.
-</thinking>
-
 # Document Scanner App Download Request - Help Guide
 ## Purpose
 The Document Scanner App Download Request form is used to collect information from users requesting a download of the Document Scanner App. This form helps our team to fulfill the download request efficiently and prevent duplication of requests.

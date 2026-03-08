@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the system requirements and implementation plans for inventory management systems. The purpose is to collect data on the evaluation criteria, comparison options, and implementation details of the systems being evaluated. This form will help in creating a comprehensive inventory management system requirements questionnaire, which will aid in identifying and addressing the needs of the stakeholders.
-</thinking>
-
 # inventory_management_system_requirements_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about the system requirements and implementation plans for inventory management systems.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to gather information for the energy meter reconfiguration or replacement process. The goal is to ensure that the end user provides accurate and complete data to facilitate a smooth and efficient reconfiguration or replacement process. It is crucial that the user submits a single instance of this form per meter type per location to avoid duplication of effort and potential delays. Please ensure that you have read and understood the purpose of this form before proceeding.
-
-</thinking>
-
 # energy_meter_reconfiguration_request_form - Help Guide
 ## Purpose
 

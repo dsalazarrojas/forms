@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for stakeholders to request Business Intelligence (BI) enhancements, which aim to improve the organization's data-driven decision-making capabilities. It is essential to ensure that the BI team receives clear and well-structured requests, allowing them to prioritize and deliver efficient enhancements. Before filling out this form, please ensure that you have not submitted a similar request recently, as this will help the team avoid duplicate work and prevent unnecessary effort.
-</thinking>
-
 # Business Intelligence Enhancement Request Form - Help Guide
 ## Purpose
 This form is designed to capture requests for Business Intelligence enhancements, allowing the BI team to deliver efficient and effective solutions to stakeholders. It helps us understand the specific needs and goals of the requester, enabling us to prioritize and allocate resources effectively.

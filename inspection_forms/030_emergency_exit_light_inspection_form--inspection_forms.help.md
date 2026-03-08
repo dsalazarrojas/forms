@@ -1,12 +1,3 @@
-<Thinking>
-This form was designed to be used for inspection purposes, specifically for the assessment of emergency exit lights. The purpose of this form is to collect information about the state of emergency exit lights in a facility or building, including their maintenance frequency, last performed maintenance date, last tested date, and other relevant details. This form is designed to be completed by individuals responsible for maintaining or inspecting emergency exit lights. It is essential to provide accurate and thorough information to ensure the safety and security of people in the facility.
-
-This form is part of the "inspection_forms" category, which suggests that it is used for inspection-related tasks. 
-
-Before proceeding, please ensure that you are authorized to complete this form and that you are in a facility that has emergency exit lights to be inspected. If you have already completed this form, please review the information provided and update it only if necessary, as duplicating efforts can lead to unnecessary work and potential misunderstandings.
-
-</thinking>
-
 # emergency_exit_light_inspection_form - Help Guide
 
 ## Purpose

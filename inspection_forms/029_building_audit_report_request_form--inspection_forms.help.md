@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from requestors for a building audit report, which is a comprehensive evaluation of a building's condition, systems, and compliance with relevant regulations. This form ensures that the requestor provides all necessary details for the audit, including their contact information, the building's characteristics, and the desired scope and format of the report.
-
-To avoid duplication of effort, it is essential that the requestor fills out the form accurately and completely, providing all required information, and that they are aware of the potential reasons why the audit is being requested (e.g., regulatory requirement, property transaction, etc.). This form helps the audit team to plan and prepare for the audit accordingly.
-
-This form is designed to be completed by the requestor (typically the building owner or manager) to provide the necessary information for the audit process. If the requestor has had previous audits, it is crucial to indicate this, as well as the frequency and recency of those audits. Additionally, they should inform the audit team about the availability of relevant documentation and their preferred format for the report.
-
-Please note that some fields are marked as "required," which means that the requestor must provide information for these fields to ensure a successful audit process.
-
-</thinking>
-
 # Building Audit Report Request Form - Help Guide
 ## Purpose
 

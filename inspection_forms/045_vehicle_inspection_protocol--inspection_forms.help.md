@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a vehicle inspection protocol form, designed to collect information about a vehicle's inspection status. The form is composed of 24 fields with various types, including notes, dates, times, select one, select multiple, text, numbers, and email fields. The form does not specify a particular vehicle type or category, so it may be applicable to a wide range of vehicles. Given the large number of fields, the form might be used for a comprehensive inspection of a vehicle's condition, perhaps for maintenance, repair, or regulatory purposes.
-The form's structure suggests that it is a free-form text field, allowing users to provide detailed descriptions or comments about the vehicle. However, the presence of date and time fields might imply that the inspection is time-stamped or date-specific.
-To create a user-friendly help guide, let's focus on explaining each field in a simple and concise manner, avoiding any assumptions about the specific use case.
-</thinking>
-
 # Vehicle Inspection Protocol - Help Guide
 ## Purpose
 This form is designed to collect information about a vehicle's inspection status.

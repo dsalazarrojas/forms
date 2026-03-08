@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from job candidates for a job interview. The purpose of this form is to gather data from candidates that will be used by the hiring team to assess their qualifications and fit for the available position. The form is divided into multiple sections, each focusing on different aspects of the candidate's experience and skills. The information collected will help the hiring team to identify the best candidate for the position.
-</thinking>
-
 # Data Stream Job Interview Questions - Help Guide
 ## Purpose
 This form is designed to collect information from job candidates for a job interview. The data collected will be used by the hiring team to assess the candidate's qualifications and fit for the available position.

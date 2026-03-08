@@ -1,7 +1,3 @@
-<thinking>
-Internal note: This form is used to gather threat intelligence feed requests from users. It is meant to be filled out by the requestor when they have information about a potential threat. The form should not be used for duplicate or updated threats, only for new ones. It is required to fill out the form completely and accurately for it to be processed correctly.
-</thinking>
-
 # Threat Intelligence Feed Request Form - Help Guide
 ## Purpose
 The Threat Intelligence Feed Request Form is used to gather information about potential threats from users. It helps us to track and analyze threats more efficiently.

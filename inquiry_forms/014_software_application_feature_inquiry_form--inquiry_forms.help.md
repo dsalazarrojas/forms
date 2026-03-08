@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to gather information from users about their software application feature inquiry. It is intended to be filled out by users who want to request new features or report problems with their software. The purpose of this form is to collect relevant information about the issue or feature request so that our team can efficiently address it.
-
-This form will not be used for duplicate submissions. Before submitting this form, please make sure you have not previously filled out this form for the same issue or request.
-
-If you are unsure about any of the questions, please don't hesitate to reach out to us. Our team will get back to you with further questions or clarification.
-
-</thinking>
-
 # Software Application Feature Inquiry Form - Help Guide
 ## Purpose
 The software application feature inquiry form is designed to gather information about your software application experience. It is intended for users who want to report problems or request new features for their software.

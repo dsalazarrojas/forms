@@ -1,5 +1,3 @@
-<thinking>This form is designed to help us get to know you better as a candidate for an entry-level accountant position. Please fill in your information accurately and truthfully so we can get a better understanding of your background and qualifications. Note that some fields are required, but others are optional for you to provide more information about yourself. If you have any questions or concerns, please don't hesitate to reach out to us.</thinking>
-
 # Entry Level Accountant Interview Form - Help Guide
 ## Purpose
 This form is designed to help us get to know you better as a candidate for an entry-level accountant position. We will use the information you provide to assess your qualifications and fit for the role.

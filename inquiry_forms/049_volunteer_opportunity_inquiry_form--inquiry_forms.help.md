@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is designed to collect information about volunteer opportunities. It will help us understand the details of the volunteer opportunity and match it with the right volunteer. Please make sure to fill out the form completely and accurately. Also, note that this form is only for inquiry purposes and not for actual volunteering. If you have already submitted an inquiry for this opportunity, please do not submit another one. If you have any questions or concerns, please contact us.</thinking>
-
 # Volunteer Opportunity Inquiry Form - Help Guide
 
 ## Purpose

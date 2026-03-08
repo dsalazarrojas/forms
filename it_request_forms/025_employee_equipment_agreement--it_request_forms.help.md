@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record employee equipment agreements, which are agreements between an employee and the organization for the use of company-provided equipment. The purpose of this form is to ensure that employees understand their responsibilities and obligations when using company equipment. This form will help to prevent confusion and potential misuse of equipment, ensuring that all parties are clear on expectations. Before proceeding, please ensure that you are not duplicating an existing record, and that the information is up-to-date and accurate.
-</thinking>
-
 # Employee Equipment Agreement - Help Guide
 ## Purpose
 This form is used to document the agreement for employee equipment usage, ensuring that employees understand their responsibilities and the organization's expectations.

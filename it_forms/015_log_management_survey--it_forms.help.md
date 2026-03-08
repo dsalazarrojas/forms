@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information on an individual's role, frequency of log management, and satisfaction level with the current log management system. The goal is to gather data that can be used to identify potential areas for improvement or optimization in log management processes. This form is intended to be used by employees or stakeholders who can provide honest and accurate responses.
-
-Before proceeding, it's essential to ensure that the responses are not duplicated or biased. For this reason, we've included a unique ID to identify each response. This will help us to avoid redundant information and ensure that each response is considered separately.</thinking>
-
 # Log Management Survey - Help Guide
 
 ## Purpose

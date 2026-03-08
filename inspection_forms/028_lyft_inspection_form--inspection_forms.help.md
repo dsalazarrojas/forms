@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lyft Inspection Form - Help Guide
 
 ## Purpose

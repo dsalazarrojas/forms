@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about vehicle inspections, allowing users to input details about a vehicle's make, model, year, color, type, and inspection type. This form will be used for various purposes such as safety, emissions, and maintenance inspections. It is recommended to complete the form for all relevant fields, but note that some fields are not required.
-
-</thinking>
-
 # Dot Inspectoin Form - Help Guide
 ## Purpose
 The Dot Inspectoin Form is a tool used to collect and store vehicle inspection information. It is used for various types of inspections, including safety, emissions, and maintenance checks.

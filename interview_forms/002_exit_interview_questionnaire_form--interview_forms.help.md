@@ -1,14 +1,3 @@
-<thinking>
-The exit interview questionnaire form is designed to gather information from employees who are leaving the company. This form is intended to collect data for internal use in understanding the reasons for employee departure and areas for improvement. The form will be used by HR or management to identify trends and patterns in employee departures. It is essential to complete this form thoroughly and honestly to provide valuable feedback for future organizational improvements.
-
-Before starting, please review the form and answer all questions to the best of your ability. This form is not intended to be a comprehensive survey, but rather a brief and focused collection of information.
-
-Ensure that you have permission from your supervisor or HR representative to complete this form. If you are not sure, please seek clarification before proceeding.
-
-Please note that the form is not a formal resignation letter or a replacement for any official exit procedures. You are still required to follow the company's formal exit procedures.
-
-</thinking>
-
 # exit_interview_questionnaire_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employees about their experiences, reasons for departure, and feedback about the company. This data will help us understand the reasons for employee departures and identify areas for improvement.

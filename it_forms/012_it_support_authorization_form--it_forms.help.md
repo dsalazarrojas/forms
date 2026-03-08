@@ -1,18 +1,3 @@
-<thinking>
-This form is used to request support authorization for a specific user. The purpose of this form is to provide a structured way for a user to request access to specific devices and systems. The form must be completed by the user to ensure that their support request is processed accurately and efficiently.
-
-To complete this form, follow these steps:
-
-*   Ensure you have the necessary access level (Limited, Full, or Custom) and department (IT, Finance, HR, or Admin) information.
-*   Select the appropriate access level and department from the respective drop-down menus.
-*   If your supervisor has not already approved or denied your request, select the correct option from the supervisor approval drop-down menu.
-*   Choose the devices you need access to from the device access drop-down menu.
-*   Choose the systems you need access to from the system access drop-down menu.
-*   If you are requesting access to start and end times, enter your start and end dates and times in the date and time fields.
-*   Submit the form once all fields are filled.
-
-</thinking>
-
 # it_support_authorization_form - Help Guide
 ## Purpose
 The it_support_authorization_form is a structured form used to request support authorization for a user.

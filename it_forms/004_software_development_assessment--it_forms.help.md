@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a software developer's experience and skills in various areas of software development. The form is used for internal assessment purposes and is intended to help the development team make informed decisions about team members' roles and responsibilities. It is not intended for external use or for collecting sensitive or personal information.
-
-The form should only be completed by software developers and not by non-developers or other types of team members. If the form is completed by someone who is not a software developer, their responses will not be accurate or useful.
-
-To avoid duplication of effort, please do not complete this form if you have already done so in the past.
-
-</thinking>
-
 # Software Development Assessment - Help Guide
 ## Purpose
 The Software Development Assessment form is designed to collect information about your experience and skills as a software developer. This information will be used by the development team to make informed decisions about team roles and responsibilities.

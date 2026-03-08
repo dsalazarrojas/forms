@@ -1,9 +1,3 @@
-<thinking>
-
-We are creating a help guide for the "Business Insurance Client Data Form", a crucial tool for capturing essential information from business clients for insurance purposes. The form's primary function is to collect and process data that will help us better understand the client's needs and provide tailored insurance solutions. This guide will walk you through the form's purpose, how to complete it, and each field's significance.
-
-</thinking>
-
 # Business Insurance Client Data Form - Help Guide
 ## Purpose
 The Business Insurance Client Data Form is a crucial tool for capturing and processing essential information from business clients to provide tailored insurance solutions.

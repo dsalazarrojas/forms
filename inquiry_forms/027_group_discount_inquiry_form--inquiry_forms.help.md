@@ -1,5 +1,3 @@
-<thinking> This form is used to inquire about group discounts for events. The purpose of this form is to gather information about a group's event details, contact person, and event-related information to determine if a group discount is available. This form should only be used for events that are eligible for group discounts. If you are unsure, please contact the sales team for clarification.</thinking>
-
 # group_discount_inquiry_form - Help Guide
 ## Purpose
 This form is used to inquire about group discounts for events. Please fill out the form to provide information about your event and contact details.

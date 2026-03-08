@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about an organization's cybersecurity insurance coverage. It asks for details about the insurance company, risk level, annual revenue, number of employees, assets, and various aspects of the insurance policy, including coverage type, coverage amount, premium, payment frequency, payment method, payment date, payment time, payment amount, payment status, policy holder, policy type, policy start date, policy end date, and policy status. The goal of this form is to gather comprehensive data about the organization's insurance coverage to provide a clear picture of their risk management and insurance needs. Before filling out this form, please ensure that you have all necessary information ready and that it is accurate. This is not a duplicate or redundant form. Please fill out the form carefully and thoroughly.
-</thinking>
-
 # cyber_insurance_questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about an organization's cybersecurity insurance coverage to provide a comprehensive picture of their risk management and insurance needs.

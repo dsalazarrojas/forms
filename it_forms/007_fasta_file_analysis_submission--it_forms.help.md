@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users to submit their FASTA file analysis requests. 
-The form requires users to select the type of analysis they need, provide information about the sample, and upload any necessary files. 
-It is intended for internal use by the research team to process and analyze the submitted FASTA files. 
-Please make sure you have the necessary permissions and follow any relevant guidelines before submitting this form.
-
-</thinking>
-
 # FASTA File Analysis Submission - Help Guide
 ## Purpose
 This form is a submission template for users to request analysis on their FASTA file. 

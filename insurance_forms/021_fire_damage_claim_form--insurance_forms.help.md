@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to gather information from individuals who have suffered fire damage to their property or assets. The purpose of this form is to collect details about the claimant, the fire accident, the extent of the damage, and the insurance information related to the claim. It is also necessary to record the current status of the claim, which is a critical aspect of the claim process. The form is not meant to be a comprehensive or exhaustive guide to the entire insurance claim process, but rather a tool to facilitate the initial stages of a claim. To avoid duplication, it is recommended to fill out the form only once the claim has been reported and before the claim is submitted to the insurance company or other relevant parties. </thinking>
-
 # Fire Damage Claim Form - Help Guide
 ## Purpose
 This is the Fire Damage Claim Form, designed to collect relevant information from individuals who have experienced fire damage. Please use this form to provide accurate and complete data to support your claim.

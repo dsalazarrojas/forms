@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the technical checklist results for a MCC (Motor Control Center) panel inspection. The purpose of this form is to provide a structured format for technicians to document their findings and observations during the inspection process. This form should only be used for MCC panel inspections and should not be used for other types of inspections. It's essential to ensure that the form is filled out completely and accurately to record all necessary information.
-</thinking>
-
 # MCC PANEL TECHNICAL CHECKLIST - Help Guide
 
 ## Purpose

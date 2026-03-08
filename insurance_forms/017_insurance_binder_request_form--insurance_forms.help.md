@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for an insurance binder request. A binder is a legal document that confirms a customer's insurance coverage. This form helps the user provide necessary details to generate or update a binder, which can be used for various purposes, such as binding new policies or updating policy information. This form must be completed accurately to ensure the correct processing and handling of the request.
-</thinking>
 # Insurance Binder Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for an insurance binder request. A binder is a legal document that confirms a customer's insurance coverage.

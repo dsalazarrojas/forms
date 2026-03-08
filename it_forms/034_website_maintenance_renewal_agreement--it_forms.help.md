@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information for a website maintenance renewal agreement. It captures details about the user, company, support term, support level, renewal date, contact person, contact email, phone number, and current status of the agreement. It also includes a field for users to confirm their agreement to the terms. This form is likely used internally to track and manage website maintenance agreements.
-
-To prevent duplication, we should check if a user has already submitted this form with the same agreement details before creating a new entry.
-</thinking>
-
 # Website Maintenance Renewal Agreement - Help Guide
 ## Purpose
 The Website Maintenance Renewal Agreement form is designed to collect information necessary for maintaining and renewing website agreements. This form helps ensure that all necessary details are captured accurately and consistently.

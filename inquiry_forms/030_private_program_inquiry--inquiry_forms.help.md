@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for users to inquire about a private program. The purpose of this form is to gather information from the user about their interest in a private program, including the type of session they are interested in, the dates they are available, and their contact information.
-
-Before proceeding, please be aware that the system may flag this inquiry as duplicate if the user has already submitted a similar inquiry for the same purpose. If the system flags this as a duplicate, the user will be notified and asked to modify their inquiry.
-
-</thinking>
-
 # Private Program Inquiry - Help Guide
 ## Purpose
 The Private Program Inquiry form is a tool used to gather information from users about their interest in a private program. This form is used to help our team understand your requirements and preferences for a private program.

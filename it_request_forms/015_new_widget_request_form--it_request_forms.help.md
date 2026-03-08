@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are requesting a new widget. The form will help us track and manage these requests efficiently. To ensure that the form is filled out correctly, please note that some fields are optional but others are required. If you are unsure about any field, please refer to this help guide for clarification.
-</thinking>
-
 # New Widget Request Form - Help Guide
 ## Purpose
 The New Widget Request Form is used to gather information from customers regarding their requests for new widgets.

@@ -1,5 +1,3 @@
-<thinking>...this form appears to be designed for IT support purposes, possibly for evaluating and rating candidates. The form is likely used to collect information about the candidates, including their name, email, phone number, date and time of the interview, and their performance in the interview. The form seems to be a straightforward collection of personal and interview data. It's essential to ensure that the form is not filled out multiple times for the same candidate, as this could lead to data duplication and inaccuracies. Additionally, please verify that the candidate's information is accurate and up-to-date...</thinking>
-
 # IT Support Interview Form - Help Guide
 
 ## Purpose

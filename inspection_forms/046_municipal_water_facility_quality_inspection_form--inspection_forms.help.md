@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the condition and operational status of municipal water facilities. This form will be used by inspectors to assess the quality of water facilities and identify areas that require attention. Before starting the inspection, please ensure that you have permission to access the facility and that you have the necessary equipment and expertise to complete the task.
-
-The form is split into several sections, and each section corresponds to a specific page. This guide will walk you through each field and its corresponding section, making it easier for you to complete the form accurately and efficiently.
-
-Before proceeding, please note that some fields are required and must be filled in for the form to be considered complete. Required fields are marked as such in the guide.
-
-Please ensure that you answer each question honestly and accurately, and that you complete all required fields before submitting the form.
-</thinking>
-
 # Municipal Water Facility Quality Inspection Form - Help Guide
 ## Purpose
 ## How To Complete This Form

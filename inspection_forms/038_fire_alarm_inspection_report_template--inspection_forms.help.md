@@ -1,7 +1,3 @@
-<thinking>Before diving into the help guide, let's consider the purpose of the "Fire Alarm Inspection Report Template" form. This form is likely used to gather information about the status and inspection of fire alarm systems in a building or facility. It's crucial to ensure that fire alarm systems are functioning correctly and meeting safety standards. The form will help identify any issues or non-compliances and guide the necessary actions to correct them. This guide will walk through the form step by step to help users understand its purpose and usage.
-
-The form is designed to collect information about fire alarm systems, including their status, inspection, and repair. Each field has a specific purpose, as we'll explain below.</thinking>
-
 # Fire Alarm Inspection Report Template - Help Guide
 ## Purpose
 The Fire Alarm Inspection Report Template is used to document the inspection of fire alarm systems in a building or facility. The form helps identify any issues or non-compliances and guides the necessary actions to correct them.

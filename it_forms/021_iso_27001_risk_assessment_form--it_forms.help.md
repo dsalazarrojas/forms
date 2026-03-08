@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess risks in an IT context, specifically related to the ISO 27001 standard. The goal of the form is to identify and document potential security risks that require attention. The form is structured into six sections: General Information, Risk Assessment Questions, Risk Assessment Findings, Corrective Actions, Risk Assessment Summary, and Compliance Team. Each section is designed to collect specific information related to risk assessment. 
-
-The form is intended to be completed by an IT professional or a compliance team member, and the information collected will help in identifying and mitigating potential risks. This form is not affiliated with or endorsed by any form platform and is an original adaptation. It is released under CC BY 4.0 and can be used, modified, and even sold with proper attribution.
-</thinking>
-
 # ISO 27001 Risk Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to identify and document potential security risks related to the ISO 27001 standard in an IT context.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information from potential clients or users interested in business intelligence solutions, such as data analysis, business analytics, or data visualization. The form is intended to be a simple and efficient way to collect relevant data for the business intelligence solutions team to assess project requirements and provide tailored solutions.
-</thinking>
-
 # Business Intelligence Solutions Contact Form - Help Guide
 ## Purpose
 This form is meant to gather information from potential clients or users seeking business intelligence solutions, such as data analysis, business analytics, or data visualization. It is designed to be a quick and easy way to share project details and requirements with the business intelligence solutions team.

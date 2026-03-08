@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to collect information from candidates during an executive interview process. The form is used to gather essential details about the candidate's background, experience, and qualifications for a C-Suite position. The form ensures that all necessary information is captured for a comprehensive evaluation of the candidate. Please review the form carefully and ensure you understand the purpose and requirements before proceeding.
-
-</thinking>
-
 # C Suite Interview Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to facilitate the maintenance inspection of irrigation systems, which is a critical process to ensure the proper functioning and optimal performance of these systems. The form is divided into several sections, each with specific questions and fields that need to be completed in order to provide a comprehensive overview of the current state of the irrigation system's maintenance status, equipment availability, and other relevant details. 
-
-The form is intended to be used by authorized personnel, such as maintenance staff or facility managers, who are responsible for the upkeep and repair of irrigation systems in various settings like parks, gardens, or farmland. 
-
-The following guide will walk the end user through the form, explaining the purpose and functionality of each field, helping them to complete it accurately and efficiently.
-
-</thinking>
-
 # irrigation_system_maintenance_inspection_form - Help Guide
 ## Purpose
 

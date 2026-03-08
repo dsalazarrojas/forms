@@ -1,11 +1,3 @@
-<thinking>
-The Game Developer Asset Support Request Form is designed to allow game developers to submit requests for support and assistance with their game assets, including textures, 3D models, audio files, and other assets. The form is intended to help developers provide accurate and helpful information about their assets, making it easier for support staff to assist them in a timely and efficient manner.
-
-The form is divided into multiple fields that gather various details about the asset, the developer, and their request. The form's purpose is to ensure that developers can quickly and easily submit their requests, which are then reviewed and addressed by the support team.
-
-To avoid duplication and ensure that developers are able to get the support they need, please use the following form only for support requests related to game assets. Do not use the form for other purposes.
-</thinking>
-
 # Game Developer Asset Support Request Form - Help Guide
 ## Purpose
 The Game Developer Asset Support Request Form is designed to help game developers get assistance with their game assets, including textures, 3D models, and audio files.

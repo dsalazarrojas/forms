@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to handle string replacements requests. It is intended for users to submit requests for replacing specific strings in various platforms, such as websites, apps, or documentation, with a high degree of precision regarding the request type, location, and priority.
-
-Internal note: This form is part of an internal information system, and it is essential to submit accurate requests to avoid confusion and ensure efficient processing.
-
-Before continuing, please ensure that the request is not a duplicate, and if it is, kindly reference the original request for further assistance. If the request is not related to string replacements, please submit the request to a different form.
-
-If you need assistance with something else, please do not use this form. This form is only for submitting string replacements requests.
-
-</thinking>
-
 # String Replacement Request Form - Help Guide
 ## Purpose
 This form is used to submit string replacements requests for updates to various platforms such as websites, apps, or documentation.

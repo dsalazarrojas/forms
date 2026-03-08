@@ -1,11 +1,3 @@
-<thinking>
-Please ensure that the purpose of this form is clear to the end user. This form is intended to be a tool for requesting access to the project Building Information Model (BIM) and is meant to be filled out by individuals or teams who require access to specific BIM models or components. To avoid duplication of work, please ensure that this form is not completed if you already have access to the project BIM.
-
-This form is intended for external users, so please do not use it for internal team members who are already authorized to access the project BIM. Please fill out this form carefully to ensure that the information provided is accurate and up-to-date.
-
-To avoid any confusion, please review the form carefully and ensure that all required fields are completed before submitting it.
-</thinking>
-
 # Building Information Model Access Application Form - Help Guide
 ## Purpose
 This form is used to request access to the project Building Information Model (BIM). Please fill out this form carefully to ensure that your access request is processed correctly.

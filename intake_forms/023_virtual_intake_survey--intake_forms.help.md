@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Intake Survey - Help Guide
 ## Purpose
 The Virtual Intake Survey is a form designed to collect general information, session details, and client preferences for virtual sessions. It is intended to gather essential data for a better understanding of clients' needs and goals, allowing for more personalized and effective services to be provided.

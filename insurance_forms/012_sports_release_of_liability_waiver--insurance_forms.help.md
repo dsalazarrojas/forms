@@ -1,11 +1,3 @@
-<thinking>
-This form is a sports release of liability waiver, a document that acknowledges and waives any claims or liabilities related to an individual's participation in sports or activities. The purpose of this form is to ensure that individuals understand and agree to the risks involved in sports or activities, and to provide necessary contact information and medical history in case of an emergency. This form is required for participants in sports or activities where there is a risk of injury or harm. 
-This form is designed to be completed by an individual participating in sports or activities, and it must be signed by both the participant and a doctor. The form requires providing personal and medical information, as well as contact details for emergency contacts. 
-The form must be completed and signed before participating in the activity, and it must be kept on file for the duration of the activity. 
-Please ensure that you have read and understood the form before proceeding. 
-Please note that this form has been designed to be completed by an individual participating in sports or activities, if you are not sure about the purpose or requirement of this form, please contact your administrator or activity provider for further clarification.
-</thinking>
-
 # sports_release_of_liability_waiver - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information and obtain consent from individuals participating in sports or activities to ensure their safety and well-being.

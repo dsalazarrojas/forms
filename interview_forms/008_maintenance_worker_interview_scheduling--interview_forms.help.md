@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule interviews for maintenance workers. The purpose of this form is to collect information about the candidate, interview details, and other relevant details for the interview process. It is essential to fill out this form accurately to ensure that all necessary information is collected and that interviews are scheduled correctly. Please make sure to review each field carefully to ensure that you are filling out the form correctly.
-</thinking>
-
 # Maintenance Worker Interview Scheduling - Help Guide
 ## Purpose
 The purpose of this form is to schedule interviews for maintenance workers. It is used to collect information about the candidate, interview details, and other relevant details for the interview process.

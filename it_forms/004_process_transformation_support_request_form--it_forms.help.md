@@ -1,9 +1,3 @@
-<thinking>
-
-Before we dive into the form's purpose and instructions, let's quickly review the form's purpose and the fields it contains. This form, titled "Process Transformation Support Request Form," appears to be designed for requesting support or transformation services related to business processes. It involves several sections to gather information about the team members, team lead, and other relevant details. The form has multiple fields for the team members, team lead, problem statement, current process, ideal process, impact, change requestors, support requestor, and more. It's likely used for internal or external support requests, and it's essential to ensure that the form is completed accurately and thoroughly to provide the necessary information for efficient support.
-
-</thinking>
-
 # Process Transformation Support Request Form - Help Guide
 ## Purpose
 The Process Transformation Support Request Form is designed to gather information about process transformation requests, ensuring that the support team has all the necessary details to address the issue effectively. This form is typically used by team members, team leads, or support requestors to submit requests for process transformation support.

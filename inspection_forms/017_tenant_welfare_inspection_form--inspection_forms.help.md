@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to be used for conducting regular inspections on rental properties to assess the welfare and conditions of the properties and tenants. This form helps to keep track of the findings, next inspection dates, follow-up actions, and other relevant information. It may be used by property management or maintenance teams to document and manage inspection processes.
-The purpose of this form is to streamline and standardize the inspection process, reducing the risk of human error and ensuring that all relevant information is captured consistently. It is designed to be used for both individual and multi-unit properties.
-</thinking>
-
 # Tenant Welfare Inspection Form - Help Guide
 ## Purpose
 This form is used to record and track the welfare and conditions of rental properties during regular inspections. It helps property management teams ensure that properties are well-maintained and address any issues promptly.

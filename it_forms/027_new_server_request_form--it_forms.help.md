@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be for requesting new server resources, likely in an IT department or server management context. It likely aims to collect information about the server's operating system, hardware and software products, operating environment, and other relevant details. I will now create a user-facing help guide based on this form's purpose and fields.
-</thinking>
-
 # New Server Request Form - Help Guide
 
 ## Purpose

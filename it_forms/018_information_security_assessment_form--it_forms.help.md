@@ -1,7 +1,3 @@
-<thinking>
-To provide an accurate help guide, I'll first analyze the form's purpose and structure based on the provided YAML. The form appears to be an information security assessment form, likely used to collect input from users or systems regarding security-related information. Each page seems to focus on a specific aspect of the assessment, such as user input, system input, security input, and so on. The fields on each page are designed to collect various types of information, including notes, attachments, and multiple-choice options. The required fields are indicated by the "required: true" tag, suggesting that these fields must be filled out for the form to be considered complete.
-</thinking>
-
 # information_security_assessment_form - Help Guide
 ## Purpose
 This form is used to collect security-related information from users or systems. The form consists of multiple pages, each focusing on a specific aspect of the assessment, such as user input, system input, and security input.

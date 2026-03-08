@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Capital Orientation Intake Form - Help Guide
 
 ## Purpose

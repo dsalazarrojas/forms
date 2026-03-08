@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather data for the Quality Control department for the weekly inspection reports. This form is meant to be completed by inspectors on a weekly basis, and it helps track the progress and issues found during the inspection. This data will be used to identify trends and improve quality control processes.
-</thinking>
-
 # Quality Control Weekly Report - Help Guide
 ## Purpose
 The Quality Control Weekly Report is a form used to collect data for the Quality Control department on a weekly basis. This form helps identify trends and areas for improvement in the quality control processes.

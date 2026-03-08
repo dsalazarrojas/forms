@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing form for collecting data storage billing information. To confirm, the form is not affiliated with, endorsed by, or derived from any form platform, but rather an AI-generated form created using public survey topic metadata as inspiration. The form is intended to be an original adaptation and not a copy, extraction, or use of proprietary content from any form creation, data collection, or survey platform. The form is released under CC BY 4.0, allowing free use, modification, and even sale, provided proper credit is given. The form's purpose is to collect user information and payment details for data storage services.
-</thinking>
-
 # data_storage_billing_form - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a checklist used to gather information about HVAC installations. The purpose of this form is to collect data on the status of various aspects of the installation, including general safety checks, furnace information, electrical checks, venting, cooling, and heating. The form likely serves as a reference for quality control, compliance, or auditing purposes in the HVAC industry. This form does not seem to be used for any other specific purpose within the company or industry, and it doesn't seem to have any overlapping or redundant fields.</thinking>
-
 # HVAC Installation Checklist Form - Help Guide
 ## Purpose
 This form is used to collect data on the status of various aspects of HVAC installations, including general safety checks, furnace information, electrical checks, venting, cooling, and heating. It serves as a reference for quality control, compliance, or auditing purposes.

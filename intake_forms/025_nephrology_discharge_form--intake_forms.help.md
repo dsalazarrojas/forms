@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture necessary information for the discharge process of patients under nephrology treatment. This form ensures that all required information is captured to facilitate a smooth and efficient discharge process. This form should only be used for nephrology-specific discharges to avoid confusion with other departments or facilities. To ensure accuracy and reduce errors, please verify that this form is being used correctly and only for its intended purpose.
-</thinking>
-
 # nephrology_discharge_form - Help Guide
 ## Purpose
 The Nephrology Discharge Form is a standardized template for capturing the necessary information for the discharge process of patients under nephrology treatment.

@@ -1,11 +1,3 @@
-<thinking>
-This form is a Cyber Attack Report Form, designed to collect information about cyber attacks or incidents that have occurred within an organization. The purpose of this form is to gather specific details about the impact, response, and resolution of these incidents, as well as information about the attacker's identity and location. To ensure data accuracy and reduce duplication of effort, this form must be filled out for each new incident reported.
-
-Note that all fields marked as "required" are crucial in understanding the nature and scope of the incident, and should be filled out accurately. Optional fields provide additional context and information that can be helpful in understanding the incident, but are not essential for the basic reporting process.
-
-Please refer to the field-by-field explanations below for specific guidance on filling out this form.
-</thinking>
-
 # crowdstrike_cyber_attack_report_form - Help Guide
 ## Purpose
 The Cyber Attack Report Form is used to collect information about cyber attacks or incidents that have occurred within an organization.

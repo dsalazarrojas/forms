@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the receiving of an item in inventory, ensuring that it meets certain conditions and requirements for safe and proper handling.
-This form is designed to be completed by the person receiving the item, and it should be filled out carefully to ensure accurate and complete information.
-The form will be used to record details about the item, including its job number, delivery company, vehicle type, and other relevant details.
-To prevent duplication, this form should not be filled out by multiple people at the same time.
-</thinking>
-
 # Receiving Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the receiving of an item in inventory.

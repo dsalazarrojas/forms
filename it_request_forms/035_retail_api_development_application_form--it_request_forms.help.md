@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the form's purpose and relevance, I'll analyze the input schema provided. The form is named "Retail API Development Application Form" and is divided into 12 fields across multiple pages. It seems to be a form for individuals or businesses to apply for API access, specifying details such as name, email, company, role, description, API type, access duration, submission date, submitter information, review status, comments, and API access requested.
-
-Upon reviewing the fields, it appears that the form is intended for internal use within a company or organization that manages API access and development applications. This form likely helps to gather information about the applicant, their company, and their API requirements, which can then be reviewed and approved before granting API access.
-
-Before providing the user-facing help guide, let's ensure that the form is not duplicating any existing form platforms' functionality, such as Jotform, Google Forms, ODK Collect, Tally, Formbricks, or Cloudflare. This form is an original adaptation created by AI, using only public survey topic metadata, and is released under CC BY 4.0.
-
-</thinking>
-
 # Retail API Development Application Form - Help Guide
 ## Purpose
 This form is for individuals or businesses to apply for API access and development. It helps us gather necessary information about you and your company to review and approve your API access request.

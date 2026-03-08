@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the results of a property isolated routine inspection. It captures information about the property, including general information, property details, maintenance issues, recommended actions, photos, notes, comments, who is assigned to, date and time of inspection, and the inspector's signature. The form is intended for recording the findings of a routine inspection, and should only be used for this purpose. Please ensure this form is not used for other purposes, as incorrect use may lead to incomplete or inaccurate records.
-</thinking>
-
 # property_isolated_routine_inspection_report_form - Help Guide
 ## Purpose
 The property isolated routine inspection report form is used to record the results of a property isolated routine inspection. The form captures information about the property, including general information, property details, maintenance issues, recommended actions, photos, notes, comments, who is assigned to, date and time of inspection, and the inspector's signature.

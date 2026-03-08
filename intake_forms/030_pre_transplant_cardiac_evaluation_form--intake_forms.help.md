@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended for end-users who will be filling out the Pre-Transplant Cardiac Evaluation Form. This form is designed to collect information about a patient's cardiac history, medical history, and other relevant factors related to a potential transplant. It will be used by the medical team to assess the patient's risk factors and make informed decisions about their suitability for transplant.
-
-Before filling out the form, please ensure that you have the necessary information and permissions to complete it accurately. This form should not be used to collect redundant or duplicate information. The form is divided into sections that correspond to different aspects of the patient's cardiac history and medical information.
-
-</thinking>
-
 # Pre Transplant Cardiac Evaluation Form - Help Guide
 ## Purpose
 The Pre-Transplant Cardiac Evaluation Form is designed to collect information about a patient's cardiac history, medical history, and other relevant factors related to a potential transplant. This form will be used by the medical team to assess the patient's risk factors and make informed decisions about their suitability for transplant.

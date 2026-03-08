@@ -1,8 +1,3 @@
-<thinking>
-This is a brief internal reasoning block to explain the form purpose and check for relevance and non-duplication:
-The form "Insurance Claim Communication Form" is a crucial tool for claimants to communicate their insurance claims in a clear and organized manner. This form is designed to gather essential information from claimants to facilitate a smooth and efficient insurance claim process. Before proceeding, ensure that you have the necessary permissions to access this form and that the claimant's details are accurate and up-to-date. Please review the form fields carefully to ensure that you understand each field's purpose and requirement.
-</thinking>
-
 # Insurance Claim Communication Form - Help Guide
 ## Purpose
 The Insurance Claim Communication Form is a document that helps claimants communicate their insurance claims in a clear and organized manner. It is used to gather essential information from claimants and facilitate a smooth and efficient insurance claim process.

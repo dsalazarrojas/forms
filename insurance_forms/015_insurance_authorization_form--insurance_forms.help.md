@@ -1,9 +1,3 @@
-<thinking>
-  This form is used for obtaining insurance authorization and disclosure of a patient's medical information. It's a necessary step in the healthcare process to ensure that patients' medical records are accurately documented and that their providers are aware of any insurance coverage.
-  The form is used to gather patient information, insurance details, goals of care, medical history, and authorization to disclose medical information. The form is typically filled out by the patient or their representative, with some fields being mandatory to ensure accuracy and completeness of the information.
-  To prevent duplication, this form should only be filled out once for each patient encounter, and the patient information should be verified against existing records before filling out this form.
-</thinking>
-
 # Insurance Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain insurance authorization and disclosure of a patient's medical information. It's essential for ensuring that a patient's medical records are accurately documented and that their healthcare providers are aware of any insurance coverage.

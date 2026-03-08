@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for patients to input information about their chronic disease management, including demographic information, medical history, lifestyle habits, symptoms, and healthcare goals. To ensure accurate completion and efficient processing of this form, please review the following sections carefully before proceeding.
-
-This form is intended to be used by patients with chronic diseases, such as diabetes, hypertension, or asthma. The purpose of this form is to gather essential information about the patient's medical history, current symptoms, and lifestyle factors that may impact their condition. This information will help healthcare providers better understand the patient's situation and develop an effective management plan.
-
-Please note that some of the fields in this form are optional, but it's essential to complete all required fields to ensure accurate and complete information.
-
-If you have any questions or concerns about this form, please don't hesitate to reach out to your healthcare provider or contact our support team.
-</thinking>
-
 # Chronic Disease Management Intake Form - Help Guide
 ## Purpose
 The Chronic Disease Management Intake Form is designed to gather essential information about your medical history, symptoms, and lifestyle habits to help healthcare providers develop an effective management plan for your chronic disease.

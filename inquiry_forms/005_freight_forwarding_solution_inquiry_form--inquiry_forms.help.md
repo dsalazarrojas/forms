@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users who are interested in freight forwarding solutions. This form is likely used by logistics or shipping companies to capture details from potential clients or partners. The form asks for details about the shipping service inquiry, including options for the type of service required, shipping rates, delivery timeline, package details, contact information, and any additional comments. This guide will walk you through each field to ensure you provide accurate and relevant information.
-
-Before starting, ensure that you are filling out the form for the right purpose and have not already submitted a similar inquiry. Relevance is checked internally to prevent duplicate requests.
-
-To begin, please follow the instructions below.
-
-</thinking>
-
 # Freight Forwarding Solution Inquiry Form - Help Guide
 
 ## Purpose

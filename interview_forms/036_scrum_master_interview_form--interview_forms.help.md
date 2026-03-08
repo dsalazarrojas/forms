@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about an individual's background and experience as a Scrum Master. The purpose of this form is to help evaluate a candidate's suitability for a Scrum Master role. The form will help the candidate's manager to assess their experience, values, skills, and background to make an informed decision.
-Please ensure that the form is completed by the correct individual, and do not duplicate the effort by completing the form for someone else.
-</thinking>
-
 # scrum_master_interview_form - Help Guide
 ## Purpose
 The scrum_master_interview_form is designed to collect information about an individual's background and experience as a Scrum Master. This form helps to evaluate a candidate's suitability for a Scrum Master role.

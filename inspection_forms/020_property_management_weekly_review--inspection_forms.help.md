@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to be used by property managers to review and update the status of properties under their management. This form is meant to be completed on a weekly basis, hence the "weekly review" name. The form is designed to gather information about the properties, including any issues encountered, their status, and follow-up details. This form will help property managers stay on top of their tasks and ensure that properties are being managed effectively.
-
-</thinking>
-
 # Property Management Weekly Review - Help Guide
 
 ## Purpose

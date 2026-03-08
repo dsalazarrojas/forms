@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to determine the form's purpose and ensure non-duplication ...
-
-This form appears to be a support request form, likely used to capture information from customers or users requesting support for an "it" related issue. It's designed to collect basic information about the issue and the contact details of the person submitting the request.
-
-To avoid duplication, this form should not be used for other purposes beyond its intended scope.
-
-</thinking>
-
 # it_support_application_form - Help Guide
 ## Purpose
 This form is used to capture information from customers or users who are requesting support for an "it" related issue. It's intended to gather details about the issue and contact information of the person submitting the request.

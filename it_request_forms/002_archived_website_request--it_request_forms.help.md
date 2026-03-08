@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information from users who are seeking assistance with finding a specific page on an archived website. The purpose of this form is to help the support team understand what the user is looking for, so that they can provide the best possible assistance.
-The form is intended to be completed by users who are trying to find a specific page on a website that is no longer available. The support team will use the information provided to help the user locate the information they are seeking.
-
-The form is not intended for general feedback or suggestions, but rather for specific requests for help with finding a particular page or piece of content.
-
-To avoid duplication of effort, please make sure to only submit this form once for each specific request.
-
-</thinking>
-
 # Archived Website Request - Help Guide
 ## Purpose
 This form is used to request assistance with finding a specific page on an archived website.

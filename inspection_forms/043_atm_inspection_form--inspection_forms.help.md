@@ -1,6 +1,3 @@
-<thinking>
-This help guide will cover the ATM Inspection Form, which is used to assess the condition of an ATM unit. The form is a critical tool for evaluating the overall state of the machine and identifying any maintenance needs. Before starting, please ensure you have not previously submitted an inspection for this ATM, as this form is designed for new inspections only. If you have any questions or concerns, refer to your supervisor or the relevant documentation. This form consists of 22 fields, each addressing a different aspect of the ATM's condition. Please complete this form carefully and accurately, as it will help us maintain the highest standards of ATM reliability and security.</thinking>
-
 # ATM Inspection Form - Help Guide
 ## Purpose
 The ATM Inspection Form is used to assess the condition of an ATM unit, ensuring the machine is functioning correctly and safely for users. This form helps identify any issues that need attention, allowing for prompt maintenance and repairs.

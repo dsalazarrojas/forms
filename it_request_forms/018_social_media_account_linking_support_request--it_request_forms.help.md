@@ -1,5 +1,3 @@
-<thinking>... This form is used to gather information from users about issues they are experiencing with social media accounts that are linked to our system. This could be related to account status changes, errors, or other problems. The form is designed to be filled out by users to provide as much detail as possible about the issue. It is essential to provide accurate and clear information in this form to ensure that the support team can effectively assist with the issue. Before filling out this form, please ensure that you have not previously submitted one, and you have the necessary permissions to access or update social media account details. If you are not sure, you can check with your internal support team or supervisor first. ...</thinking>
-
 # social_media_account_linking_support_request - Help Guide
 ## Purpose
 

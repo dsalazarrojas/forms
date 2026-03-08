@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users submit a damage claim. The damage claim form is used to provide details about an insurance claim, including the claimant's information, description of the loss, and financial details about the property involved in the claim. This form is not mandatory, but providing accurate and complete information will help process the claim efficiently.
-</thinking>
-
 # Damage Claim Form - Help Guide
 ## Purpose
 The Damage Claim Form is a tool used to submit a claim for damage to a property. It helps the insurance company gather the necessary information to process the claim and provide a resolution.

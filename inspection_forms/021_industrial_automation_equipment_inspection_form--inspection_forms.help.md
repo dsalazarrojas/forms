@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is used for the inspection of industrial automation equipment. The form is used to collect information about the equipment's status, maintenance schedule, and other relevant details. The purpose of this form is to ensure that the equipment is properly maintained and functioning correctly. The form is a required field for certain sections, denoted by the "required" tag, which is set to true for fields 6 (photos) and 7 (maintenance schedule) and 9 (equipment type). This form is designed to be completed by a technician or inspector with the goal of providing accurate and complete information about the industrial automation equipment being inspected.
-</thinking>
-
 # industrial_automation_equipment_inspection_form - Help Guide
 ## Purpose
 This form is used to collect information about the industrial automation equipment being inspected, including its status, maintenance schedule, and other relevant details. This form is used to ensure that the equipment is properly maintained and functioning correctly.

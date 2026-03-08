@@ -1,7 +1,3 @@
-<thinking>
-This form is used to transfer stocks between different entities, such as between departments or companies. It's essential to complete this form accurately and in a way that reflects the actual stock transfer process. Please ensure that you are submitting this form for the correct stock transfer purpose.
-</thinking>
-
 # Stock Transfer Form - Help Guide
 ## Purpose
 This form is used to record stock transfers between different entities, such as between departments or companies. It helps to track the movement of stocks, ensuring accurate accounting and record-keeping.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide explains how to complete the "Health Insurance Claim Form" which is used to process and manage health insurance claims. This form is intended for claimants (patients or their representatives) to submit claims related to medical or non-medical services received. Please note that all fields are optional but may be required in certain circumstances. This form will be reviewed and updated periodically to reflect changing business rules or regulatory requirements. If you have any questions or concerns, please contact your insurance provider or claims administrator.
-</thinking>
-
 # Health Insurance Claim Form - Help Guide
 ## Purpose
 This form is used to submit claims for medical or non-medical services. Please select the correct category and provider to ensure accurate processing of your claim.

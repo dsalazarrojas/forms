@@ -1,39 +1,3 @@
-<thinking>
-To create a helpful form guide for end-users, we should first understand that the form is for custom suit design inquiry, allowing users to specify their preferences for different components of a suit, such as category, fabric type, color scheme, and various details like sleeve length, pocket type, and more. The form is likely designed for customers or clients who want to customize their own suit according to their taste and style.
-
-To check for relevance and non-duplication, we should consider that the form likely has a specific use case, such as creating bespoke suits for clients. This form is probably used by sales or customer service teams to gather information about the client's preferences and create a tailored suit according to their specifications.
-
-To avoid duplication, we should ensure that the form doesn't ask for information that is already known or can be easily inferred by the system or team members. For instance, if the system already knows the client's gender, we shouldn't ask for it again.
-
-Before creating the help guide, let's review the fields:
-
-  1. **Category**: This is likely about choosing between men's, women's, or children's suits.
-  2. **Fabric Type**: Select multiple options for the fabric types, e.g., wool, cotton, linen, or silk.
-  3. **Color Scheme**: Select multiple options for the color scheme, e.g., navy, black, gray, or beige.
-  4. **Sleeve Length**: Choose the sleeve length, e.g., long, short, or adjustable.
-  5. **Pocket Type**: Decide on the type of pockets, e.g., none, slit, or flap.
-  6. **Button Holes**: Select the number of button holes, e.g., none, one, or two.
-  7. **Collar Style**: Choose the collar style, e.g., spread, point, or wing.
-  8. **Lapel Width**: Select the lapel width, e.g., regular or long.
-  9. **Shoulder Type**: Decide on the shoulder type, e.g., notch or pad.
-  10. **Sleeve Buttons**: Choose the number of sleeve buttons, e.g., none, single, or double.
-  11. **Waistcoat**: Select the type of waistcoat, e.g., none, single, or double.
-  12. **Jacket-Pant Suit**: Choose between a suit with jacket and pants or pants only.
-  13. **Pant-Pant Suit**: Similar to 12.
-  14. **Pant-Jacket Suit**: Similar to 12.
-  15. **Jacket-Only Suit**: Choose a suit with a jacket only.
-  16. **Waistcoat Type**: Decide on the type of waistcoat, e.g., none, single, or double.
-  17. **Shirt Collar Style**: Choose the collar style, e.g., button, tab, or stand.
-  18. **Shirt Sleeve Style**: Select the sleeve style, e.g., short, long, or extra long.
-  19. **Shirt Sleeve Length**: If not satisfied with the previous options, enter a custom sleeve length.
-  20. **Shirt Pocket Type**: Choose the pocket type, e.g., none, flap, or pocket.
-  21. **Shirt Cuff Style**: Select the cuff style, e.g., French, button, or link.
-  22. **Pant Pocket Type**: Choose the pocket type, e.g., none, flap, or pocket.
-  23. **Pant Hem Style**: Select the hem style, e.g., false, single, or double.
-  24. **Pant Vent Style**: Select the vent style, e.g., false, single, or double.
-
-</thinking>
-
 # Custom Suit Design Inquiry - Help Guide
 ## Purpose
 This guide is to help users understand how to fill out the Custom Suit Design Inquiry form to specify their preferences for a custom suit.

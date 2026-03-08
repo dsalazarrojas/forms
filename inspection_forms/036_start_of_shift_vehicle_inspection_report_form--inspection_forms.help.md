@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report the condition of a vehicle at the start of a shift. It's designed to collect information on the vehicle's id, make, year, odometer reading, and various system conditions such as engine temperature, engine oil level, tire pressure, and condition of different components like brakes, suspension, steering, and more. This form is likely used by mechanics or maintenance personnel to ensure the vehicle is in good working condition before starting a shift. It's essential to fill out this form accurately and thoroughly to help identify any potential issues and prevent accidents or malfunctions during the shift. Please ensure that you fill out all required fields and provide as much detail as possible for each field.
-</thinking>
-
 # Start Of Shift Vehicle Inspection Report Form - Help Guide
 ## Purpose
 This form is used to report the condition of a vehicle at the start of a shift, ensuring it's in good working order.

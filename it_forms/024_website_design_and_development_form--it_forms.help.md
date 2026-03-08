@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive form for managing website design and development projects, covering various aspects such as project details, client information, project deadlines, and project status. The form includes fields for website domain, project budget, client name, client email, client phone number, website description, assigned tool, project manager, project status, and project start time. There are also custom fields and tags that can be applied to the project. This form likely serves as a centralized platform for project management and data collection for the company or organization using this form.
-</thinking>
-
 # website_design_and_development_form - Help Guide
 ## Purpose
 This form is designed to collect and manage information about website design and development projects. It captures details such as project deadlines, client information, and project status.

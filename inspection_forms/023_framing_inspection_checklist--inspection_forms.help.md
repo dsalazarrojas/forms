@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended for use by internal personnel who will be completing the framing inspection checklist. Before proceeding, please review the following:
-
-* The form is used to collect data on the framing inspection process for residential or commercial buildings. This includes inspecting the building's framing, which involves checking for defects, issues, and necessary improvements.
-* Ensure that the data entered is accurate and thorough, as it will be used for future reference and decision-making.
-* Please do not enter duplicate information, as it may lead to data inconsistencies and affect the integrity of the inspection process.
-</thinking>
-
 # Framing Inspection Checklist - Help Guide
 ## Purpose
 The Framing Inspection Checklist is a tool used to assess the condition and quality of a building's framing during an inspection. It helps ensure that the building's structural integrity is maintained and any necessary repairs or improvements are identified.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used for employees to provide their bond details to their employer. It's a security measure to ensure employees are committed to their employment contract. The form is used to collect personal and financial information from employees. It's a required form for employees, but the employer can adjust the required fields. This form is not used for external users, it's an internal tool for employees.</thinking>
-
 # Security Bond Form - Help Guide
 ## Purpose
 This form is used to collect employee bond details from employees, ensuring they are committed to their employment contract.

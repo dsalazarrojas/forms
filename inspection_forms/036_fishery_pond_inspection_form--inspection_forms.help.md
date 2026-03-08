@@ -1,5 +1,3 @@
-<thinking>Form purpose: The Fishery Pond Inspection Form is designed to collect information about a fishery pond's condition, water, and fish life. This form will help inspectors collect and record data that will aid in the assessment, management, and conservation of the pond. This information will be used to identify potential issues and take appropriate actions to maintain the pond's health and ecosystem. Ensure that you are familiar with the pond's current status and any relevant regulations or guidelines before completing this form.</thinking>
-
 # Fishery Pond Inspection Form - Help Guide
 ## Purpose
 The Fishery Pond Inspection Form is designed to collect information about a fishery pond's condition, water, and fish life. This form will help inspectors collect and record data that will aid in the assessment, management, and conservation of the pond.

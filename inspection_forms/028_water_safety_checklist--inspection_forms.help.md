@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about water safety checklists conducted by various teams. The form is meant to capture general information, identify hazards, take action, schedule follow-ups, and record the location and remarks of the inspection. It is a generic form created using AI, and its purpose is to help collect data for the water safety checklist process.
-</thinking>
-
 # Water Safety Checklist - Help Guide
 ## Purpose
 This form is used to capture information about water safety checklists conducted by various teams. The form helps identify hazards, take action, schedule follow-ups, and record the location and remarks of the inspection.

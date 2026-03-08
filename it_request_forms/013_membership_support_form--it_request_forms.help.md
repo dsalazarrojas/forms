@@ -1,5 +1,3 @@
-<thinking>Membership Support Form is a form designed to provide users with a platform to request support for their membership needs. This form allows users to provide details about their membership inquiries and support requests. It's essential to fill out the form accurately to ensure that your request is handled efficiently.</thinking>
-
 # Membership Support Form - Help Guide
 ## Purpose
 The Membership Support Form is a platform for users to seek assistance with their membership concerns. This form collects information about the user's membership inquiries, making it easier for the support team to address their issues.

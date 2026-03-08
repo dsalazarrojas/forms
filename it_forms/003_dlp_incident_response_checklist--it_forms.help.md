@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide for the "DLP Incident Response Checklist" form, we need to understand its purpose and ensure that it is not a duplicate of an existing form. The form appears to be a comprehensive checklist for documenting and managing incidents within an organization, possibly in a security or IT department. Its purpose is likely to provide a standardized way of collecting and tracking incident information, including dates, incident types, causes, effects, classifications, and more. However, without further information on the organization's specific context and existing forms, we cannot confirm the form's purpose or uniqueness. We will proceed with creating the help guide based on the provided YAML fields, but keep in mind that further clarification may be necessary.</thinking>
-
 # DLP Incident Response Checklist - Help Guide
 ## Purpose
 The DLP Incident Response Checklist is a form used to document and manage incidents within an organization. It helps collect and track relevant information about incidents, ensuring a standardized approach to incident response and review.

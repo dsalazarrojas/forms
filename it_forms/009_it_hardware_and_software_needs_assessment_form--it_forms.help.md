@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the IT Hardware And Software Needs Assessment Form, the following is the internal reasoning block to ensure relevance and non-duplication:
-
-The form's purpose is to gather information about the needs of different departments within an organization, specifically related to IT equipment and software. It is designed to help IT teams assess and prioritize the needs of various departments, ensuring that the right equipment and software are being used across the organization. The form should only be completed by authorized personnel within the department, to avoid duplication of efforts and ensure that the data collected is accurate and relevant.
-
-</thinking>
-
 # IT Hardware And Software Needs Assessment Form - Help Guide
 
 ## Purpose

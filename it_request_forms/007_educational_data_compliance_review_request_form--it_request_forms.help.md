@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form "educational_data_compliance_review_request_form" is used for requesting educational data compliance reviews. A user must fill out this form to initiate a compliance review of their project, which is categorized under "it_request_forms" category. The form requires a project name, project lead, project type, team members, review status, and notes. The form is meant to ensure that the project complies with all educational data regulations, and the review process is crucial for ensuring the data's integrity and accuracy. Before filling out the form, please ensure that you have reviewed the form's purpose and the information required to complete it accurately. If you have any questions or concerns, please contact "form@gic.mx".
-</thinking>
-
 # educational_data_compliance_review_request_form - Help Guide
 ## Purpose
 This form is used to request a compliance review of educational data. Please fill out the form to initiate a review process to ensure the accuracy and integrity of your project's educational data.

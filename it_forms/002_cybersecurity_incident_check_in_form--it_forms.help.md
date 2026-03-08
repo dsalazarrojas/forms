@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by IT teams to report and track cybersecurity incidents. It is essential to report all incidents to ensure that the appropriate measures are taken to mitigate and resolve the issue as quickly as possible. Please ensure that you only report each incident once and provide as much detail as possible.
-</thinking>
-
 # cybersecurity_incident_check_in_form - Help Guide
 ## Purpose
 This form is used to report and track cybersecurity incidents.

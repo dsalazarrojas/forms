@@ -1,25 +1,3 @@
-<thinking>
-This is the internal reasoning block to help you understand the form purpose and non-duplication check.
-The form is designed to support hybrid learning requests. The purpose of this form is to gather essential information about a user's support request, including their contact method, time zone, date, and resolution details. This form will also help in assigning a technician to the request and track the resolution progress.
-The form is designed to collect information in the following categories: 
-- User Information 
-- Support Request 
-- Learning Resources 
-- Description 
-- Contact Method 
-- Time Zone 
-- Date 
-- Additional Comments 
-- Assigned Technician 
-- Resolution 
-- Resolution Date 
-- Category 
-- Location 
-- Assigned Tool 
-- Notes 
-The non-duplication check is done by ensuring that each request is unique based on the combination of Category and Resolution fields. This means that a user cannot submit duplicate requests in the same category with the same resolution.
-</thinking>
-
 # Hybrid Learning Support Desk Request Form - Help Guide
 ## Purpose
 This form is designed to support hybrid learning requests. It helps in gathering essential information about a user's support request, including their contact method, time zone, date, and resolution details. The form's main goal is to assign a technician to the request and track the resolution progress.

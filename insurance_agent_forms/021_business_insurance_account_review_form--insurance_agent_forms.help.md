@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Insurance Account Review Form - Help Guide
 ## Purpose
 This form is used to review and analyze the current status of a business insurance account. It helps insurance agents to gather necessary information about the account's risk profile, coverage, and any potential issues that require attention.

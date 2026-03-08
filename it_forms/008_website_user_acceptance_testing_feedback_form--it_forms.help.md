@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about their experience with a website, specifically regarding its usability, bugs, and overall satisfaction. The form is designed to gather information on the user's ability to complete tasks on the website, identify any bugs or issues that hinder their progress, and provide a space to share their overall satisfaction and comments. The form should be completed by users who have recently interacted with the website, and it's not necessary to provide their contact information unless they have a specific concern that requires further communication. 
-</thinking>
-
 # Website User Acceptance Testing Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with a website, specifically regarding its usability, bugs, and overall satisfaction.

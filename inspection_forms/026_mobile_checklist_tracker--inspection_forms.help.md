@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to be a generic form for tracking mobile checklist items. It is meant to be used in various contexts, such as quality control, inventory management, or maintenance schedules. The form is not affiliated with any specific platform and is a public domain adaptation. The purpose of this guide is to help users understand the form's purpose and fields, ensuring they can efficiently complete it.
-</thinking>
-
 # Mobile Checklist Tracker - Help Guide
 ## Purpose
 The Mobile Checklist Tracker is a form designed to collect information about mobile checklists. It is intended for various use cases, including quality control, inventory management, and maintenance schedules.

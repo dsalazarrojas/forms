@@ -1,34 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about an intervention ticket, which is a request for assistance or support from a technical team for a specific problem. To complete this form, a user should follow these steps:
-
-1.  **User Input**: Enter a brief description of the problem you are experiencing.
-2.  **Ticket Type**: Select the type of ticket you are submitting. The options are: Hardware, Software, and Other.
-3.  **Problem Description**: Describe the problem in more detail, providing any relevant information or context.
-4.  **Location**: Select one or more locations where the problem exists (e.g. Location 1, Location 2, Location 3).
-5.  **Submitter**: Enter your name.
-6.  **Date of Visit**: Enter the date you plan to visit the technical team (if applicable).
-7.  **Time of Visit**: Enter the time you plan to visit the technical team (if applicable).
-8.  **Contact Info**: Enter any relevant contact information for follow-up.
-9.  **Email**: Enter your email address.
-10. **Submitter Notes**: Enter any additional comments or notes about the submission.
-11. **Submitter Comments**: Enter any comments or feedback for the technical team.
-12.  **Submitter Name**: Enter your name.
-13.  **Submitter Phone**: Enter your phone number.
-14.  **Submitter Email**: Enter your email address again (to confirm).
-15.  **Submitter Company**: Enter your company name.
-16.  **Submitter Job Title**: Enter your job title.
-17.  **Submitter Department**: Enter your department name.
-18.  **Submitter Location**: Enter your location.
-19.  **Submitter Notes**: Enter any additional comments or notes about yourself.
-20.  **Submitter Request**: Enter a specific request for the technical team.
-21.  **Submitter Category**: Enter any relevant category for the submission.
-22.  **Submitter Comments**: Enter any additional comments for the technical team.
-23.  **Submitter Employees**: Enter the number of employees affected by the problem.
-24.  **Submitter Date of Visit**: Enter the date you plan to visit the technical team (if applicable).
-
-</thinking>
-
 # Intervention Ticket Submission Form - Help Guide
 ## Purpose
 

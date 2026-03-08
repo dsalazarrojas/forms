@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Tax Preparation Client Intake Form is to collect necessary information from clients to prepare their taxes accurately and efficiently. This form serves as an essential tool for tax professionals to gather required details from clients, ensuring that their tax returns are completed with precision and completeness. Before proceeding, please note that this form is not intended for public use. Ensure you are a client of a tax preparation professional before accessing this form.
-</thinking>
-
 # Tax Preparation Client Intake Form - Help Guide
 
 ## Purpose

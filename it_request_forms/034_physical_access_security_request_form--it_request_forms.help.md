@@ -1,11 +1,3 @@
-<thinking>
-
-Physical Access Security Request Form is used to request physical access to a facility or location within the organization. This form is used by employees to request access to areas that are restricted to certain levels of access, such as sensitive areas or high-security zones. The form is completed by the employee requesting access and must be approved by a designated approver before access is granted.
-
-This form is intended for internal use only and should not be filled out by external users. The form must not be duplicated or reused for other purposes.
-
-</thinking>
-
 # Physical Access Security Request Form - Help Guide
 ## Purpose
 The Physical Access Security Request Form is used to request physical access to a facility or location within the organization.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Integration Pilot Application Form - Help Guide
 
 ## Purpose

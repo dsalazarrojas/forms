@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from academic experts for the purpose of conducting interviews. The form aims to gather essential details about the expert, their background, and their preferences for the interview. The goal is to ensure that the expert is properly prepared and informed about the interview process, and to provide a clear understanding of the expectations and boundaries.
-</thinking>
-
 # Academic Expert Interview Form - Help Guide
 ## Purpose
 The Academic Expert Interview Form is a tool used to collect information from academic experts for the purpose of conducting interviews. The form helps to gather essential details about the expert, their background, and their preferences for the interview.

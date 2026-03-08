@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow residents to request access to training programs. The purpose of this form is to gather necessary information for the training coordinator to review and grant access to the requested program. Before filling out this form, please ensure that the training program is approved and that you have discussed the request with your supervisor. Also, be aware that duplicate requests will not be accepted. If you have already submitted a request for the same program, it will not be approved again. Please fill out this form completely and accurately to ensure that your request is processed efficiently.
-</thinking>
-
 # Resident Training Access Request Form - Help Guide
 ## Purpose
 The Resident Training Access Request Form is used to request access to a training program. To complete this form, please provide the following information.

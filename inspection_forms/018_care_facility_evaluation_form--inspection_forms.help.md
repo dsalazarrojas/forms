@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Care Facility Evaluation Form - Help Guide
 
 ## Purpose

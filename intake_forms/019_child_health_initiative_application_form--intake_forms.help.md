@@ -1,7 +1,3 @@
-<thinking>
-The Child Health Initiative Application Form is used to collect information from parents or guardians to determine which programs they would like to apply for their child, based on their child's needs and eligibility. To avoid duplication, please ensure you have not previously submitted an application for the same child. If you are unsure or have questions, please contact us to verify your eligibility.
-</thinking>
-
 # Child Health Initiative Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from parents or guardians to determine which programs their child is eligible for. This information will be used to assess the child's needs and select the most suitable program for them.

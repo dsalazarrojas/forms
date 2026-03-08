@@ -1,5 +1,3 @@
-<thinking>This form is used to provide an overview of an internship rotation for the purpose of planning and coordinating internship activities. Please make sure you have a valid reason for completing this form and that the information you provide is accurate and relevant. You should not complete this form for general purposes or to gather redundant information.</thinking>
-
 # Internship Rotation Overview - Help Guide
 ## Purpose
 This form provides an overview of an internship rotation, which is a critical component of an internship program. The purpose of this form is to collect information about the start and end dates of each rotation, as well as key details about the rotations, such as the department, supervisor, and goals.

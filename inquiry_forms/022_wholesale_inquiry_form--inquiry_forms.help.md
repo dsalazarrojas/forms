@@ -1,14 +1,3 @@
-<thinking>
-To create a help guide for the wholesale inquiry form, I will follow the provided YAML fields to understand the form's purpose and functionality. The form is likely used to collect information from businesses or individuals who are interested in inquiring about wholesale products or services. This form will help the company to gather details about the business or individual's contact information, product interest, and inquiry type.
-
-The form appears to be designed for multiple pages, with each page containing various fields for collecting different types of information. This form will help the company to understand the customer's needs and preferences, which can be used to tailor their products or services accordingly.
-
-Before proceeding, I will check if this form is a duplicate of any existing form, and if not, I will proceed with the creation of the help guide.
-
-This form is a new and distinct form, so I will proceed with creating the guide.
-
-</thinking>
-
 # Wholesale Inquiry Form - Help Guide
 ## Purpose
 The wholesale inquiry form is used to collect information from businesses or individuals who are interested in inquiring about wholesale products or services.

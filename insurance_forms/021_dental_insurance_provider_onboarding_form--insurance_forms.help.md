@@ -1,20 +1,3 @@
-<thinking> 
-To create a user-facing help guide for this form, we need to understand the purpose of the form. Based on the YAML provided, it appears that this form is for onboarding a dental insurance provider. The form is used to collect information about the provider, including their address, contact details, and practice information. The form is likely used by administrators or staff to collect and store this information for the provider's record.
-
-We should also note that the form has a mix of required and optional fields, which is good for flexibility and user experience. However, we should be careful not to confuse users with too many options, especially for fields that are not strictly required.
-
-Before we start designing the help guide, let's quickly review the fields and their purposes to ensure we understand each one correctly. We have fields for:
-
-* Provider address and practice address
-* Contact details (phone, fax, email)
-* Practice hours and specialty
-* Provider type and status
-* Specialty and practice name
-* Date the practice was opened
-
-With this understanding, we can now create a user-facing help guide that is clear, concise, and practical.
-</thinking>
-
 # Dental Insurance Provider Onboarding Form - Help Guide
 ## Purpose
 The Dental Insurance Provider Onboarding Form is used to collect and store information about dental insurance providers. This information is used to keep their records up-to-date and accurate.

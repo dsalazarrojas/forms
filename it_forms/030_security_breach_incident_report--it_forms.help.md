@@ -1,13 +1,3 @@
-<thinking>
-
-We need to ensure that the Security Breach Incident Report form is used correctly by providing clear instructions and explanations for end-users. The form is intended to collect information about security breaches or incidents that have occurred within the organization. To confirm, this form should only be used for reporting incidents that have actually occurred, not for hypothetical or hypothetical scenarios.
-
-Before filling out this form, please review the incident details carefully and ensure that you have all necessary information and evidence before submitting the report.
-
-To prevent duplication, please check with the incident reporter or reporting officer before submitting a report for the same incident.
-
-</thinking>
-
 # Security Breach Incident Report - Help Guide
 ## Purpose
 The purpose of this form is to report security breaches or incidents that have occurred within the organization. This form will help to gather all necessary information about the incident to facilitate a prompt and effective response.

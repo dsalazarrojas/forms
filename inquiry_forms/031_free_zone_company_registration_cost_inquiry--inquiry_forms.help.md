@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about a company that is interested in registering under the 'Free Zone' category. This form will help us understand the details of the company and its representative, which will aid in the process of registration. Before proceeding, please ensure that you haven't filled out this form previously, as duplication will lead to unnecessary complications.
-
-</thinking>
-
 # Free Zone Company Registration Cost Inquiry - Help Guide
 
 ## Purpose

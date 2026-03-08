@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be an inspection checklist for an office setting. The form's purpose is likely to help users conduct a thorough inspection of the office environment to identify areas of improvement or potential hazards. It might be used by facilities managers, safety inspectors, or maintenance personnel to ensure the office is compliant with safety and maintenance standards. I'll create a help guide that outlines the form's purpose, how to complete it, and a field-by-field explanation to ensure users understand what each field is for.</thinking>
-
 # Office Inspection Checklist - Help Guide
 ## Purpose
 The Office Inspection Checklist is a tool used to inspect the office environment to identify areas of improvement or potential hazards. This guide will walk you through the steps to complete the form.

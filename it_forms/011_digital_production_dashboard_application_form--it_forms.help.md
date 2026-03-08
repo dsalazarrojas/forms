@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information for the Digital Production Dashboard Application. The purpose of this form is to collect relevant details about a project, such as project details, project lead, dashboard owner, technical requirements, supporting files, project manager, business manager, start date, end date, status, priority, technical issues, non-technical issues, comments, assigned tool, and notes. This form is intended for project managers and other stakeholders to provide accurate and up-to-date information about ongoing projects. 
-
-Please ensure that you are familiar with the project's status and other relevant details before filling out this form.
-
-</thinking>
-
 # Digital Production Dashboard Application Form - Help Guide
 ## Purpose
 This form is used to provide information about projects in the Digital Production Dashboard Application. It helps project managers and stakeholders to get an accurate picture of project status and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pipework Pressure Test Certificate - Help Guide
 ## Purpose
 This form is designed to collect information regarding a pressure test certificate for pipeworks. It is intended to document the results of a pressure test conducted on a facility, ensuring that all the required details are captured accurately.

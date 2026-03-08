@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the systems_support_log_form is to provide a structured format for reporting system issues that require support. This form is designed to collect relevant information from users who encounter problems with our systems, allowing us to efficiently understand the issue and provide timely assistance.
-
-Before filling out this form, ensure that you have not already reported the issue to us. If you have, please do not fill out this form again to avoid duplication. This guide will walk you through the fields of the form and what information is expected.
-
-</thinking>
-
 # systems_support_log_form - Help Guide
 ## Purpose
 The systems_support_log_form is used to report system issues that require support.

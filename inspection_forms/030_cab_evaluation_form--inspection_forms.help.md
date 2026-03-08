@@ -1,5 +1,3 @@
-<thinking>This form is designed for taxi cab inspectors to evaluate and record the condition of a taxi cab. The form is used to check the vehicle's identification, physical condition, and mechanical performance. This form ensures that all required fields are filled out to provide a comprehensive evaluation of the cab's roadworthiness. The form's design follows a logical and structured approach to make it easy to fill out and understand. It also reduces the chances of missing crucial information that could affect the evaluation results. By using this form, inspectors can provide accurate and detailed reports of the cab's condition, which helps in making informed decisions about maintenance and service actions.</thinking>
-
 # Cab Evaluation Form - Help Guide
 ## Purpose
 This form is designed for taxi cab inspectors to evaluate and record the condition of a cab.

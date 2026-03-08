@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to enable end-users to request patches (updates) to be applied to the database. The form should only be used for legitimate requests that are not already being worked on or planned. This ensures that the development team can focus on the most important and up-to-date requests. 
 
 # Database Patch Request Form - Help Guide

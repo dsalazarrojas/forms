@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to configure threshold settings for monitoring and alerting. The form is used to define conditions under which a threshold is breached, choose how to notify users, and determine the frequency of actions taken when the threshold is reached. This form is not a duplicate of the "threshold_configuration" form. The form is used to store settings related to threshold configuration for monitoring and alerting purposes.
-
-</thinking>
-
 # Threshold Configuration Form - Help Guide
 ## Purpose
 The Threshold Configuration Form is used to configure threshold settings for monitoring and alerting. This form defines the conditions under which a threshold is breached, chooses how to notify users, and determines the frequency of actions taken when the threshold is reached.

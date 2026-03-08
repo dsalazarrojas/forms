@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Deployment Check In Form - Help Guide
 ## Purpose
 This form is used to track and record information about software deployments, including the software status, deployment details, and relevant notes and comments. The form is primarily intended for IT teams to check in on software deployments, ensuring that all necessary updates and information are accurately recorded.

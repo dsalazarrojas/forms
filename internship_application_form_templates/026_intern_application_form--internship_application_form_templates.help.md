@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # intern-application-form - Help Guide
 
 ## Purpose

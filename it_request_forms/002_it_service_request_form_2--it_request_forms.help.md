@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # it_service_request_form_2 - Help Guide
 ## Purpose
 This form is for customers to request internal support services from IT department. It will help in efficiently routing requests from customers, allowing the IT department to provide swift assistance.

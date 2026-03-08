@@ -1,5 +1,3 @@
-<thinking>... This form is intended to collect information from users who are experiencing issues with the Smart Building App. The form is designed to help the support team quickly understand the problem and provide a resolution. This form is a simple text-based form that allows users to enter a brief description of their issue, along with some additional details such as building app version, email address, and phone number. The form is not meant to be a comprehensive issue-tracking tool, but rather a way to get basic information from users to facilitate initial support. The support team will review each submission and respond accordingly...</thinking>
-
 # Smart Building App Support Request Form - Help Guide
 ## Purpose
 

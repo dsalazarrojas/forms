@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to gather information about the state of the pharmaceutical production line during an inspection. This form likely serves as a tool for quality control or maintenance teams to document their findings, actions taken, and next steps. The form is not affiliated with any specific platform, and its purpose is to provide a basic structure for data collection.
-</thinking>
-
 # Pharmaceutical Production Line Inspection Form - Help Guide
 ## Purpose
 This form is designed to aid in the inspection of the pharmaceutical production line. It captures information about the manufacturing area, production line ID, date and time of inspection, inspector's name, department, section inspected, findings, corrective actions, preventative actions, next inspection schedule, next inspector's name, and any additional notes or signature.

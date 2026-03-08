@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from passengers about their airline flight experience. It is meant to help the airline assess the quality of service and identify areas for improvement. The form will ask for basic passenger information such as name and contact email, as well as details about their flight, including the flight number, travel date, and travel class. It will also ask for ratings on various aspects of the flight experience, including seat comfort, cabin cleanliness, crew friendliness, and meal satisfaction. Finally, it will allow passengers to provide additional comments and suggestions.
-This form should only be used for genuine passenger feedback and should not be filled out by airline employees or other staff.
-To ensure consistency and accuracy, please do not fill out this form if you have already done so previously.
-</thinking>
-
 # Airline Flight Experience Inquiry Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and ratings from passengers about their airline flight experience.

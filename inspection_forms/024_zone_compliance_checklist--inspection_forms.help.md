@@ -1,6 +1,3 @@
-<thinking>
-The goal of this form is to provide a comprehensive Zone Compliance Checklist for the users to assess their zones for compliance. This form is used to track and verify the compliance of each zone with the required standards and regulations. The purpose of this form is to make sure that all areas of the site are checked thoroughly, ensuring that users are aware of any potential issues and can take action to correct them. This form is not meant to be used for other purposes or for tracking other types of data. Please ensure that this form is used for its intended purpose and do not duplicate the efforts by using it for other tasks or purposes.</thinking>
-
 # Zone Compliance Checklist - Help Guide
 ## Purpose
 The Zone Compliance Checklist is a tool used to assess the compliance of each zone with the required standards and regulations.

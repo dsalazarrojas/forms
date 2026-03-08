@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Development Project Management Audit Form - Help Guide
 
 ## Purpose

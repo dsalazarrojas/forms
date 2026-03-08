@@ -1,12 +1,3 @@
-<thinking>
-This form is used to assess the impact of a technology system upgrade on an organization. It is designed to help stakeholders understand the potential effects of an upgrade on the organization's technical systems and processes. The form is typically used in the context of IT project planning and management.
-
-Before starting this form, please ensure that you have a clear understanding of the upgrade project and its potential impact. If you have already completed this form for a similar project, you may not need to fill it out again.
-
-The form is divided into several sections, each addressing a different aspect of the upgrade. Please answer each question carefully and thoroughly, as it will help in making informed decisions about the upgrade.
-
-</thinking>
-
 # tech_system_upgrade_impact_assessment_form - Help Guide
 ## Purpose
 

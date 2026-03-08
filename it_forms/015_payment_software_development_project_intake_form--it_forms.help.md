@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients or customers who are interested in developing a software project for their company. The form is meant to be filled out by a contact person at the client company, providing details about the project they would like to have developed. The form will help the development team at the software development company understand the project requirements, timeline, and budget, so they can properly scope and plan the project. This form is meant to be completed only once per project, and any changes to the project details should be communicated separately.
-</thinking>
-
 # Payment Software Development Project Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients or customers about their software development project needs. It will help the development team understand project requirements, timeline, and budget.

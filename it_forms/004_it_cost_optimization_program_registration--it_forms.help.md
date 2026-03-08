@@ -1,13 +1,3 @@
-<thinking>
-This form is meant to collect information about IT Cost Optimization Program registrations.
-Before proceeding, please ensure you have a valid reason for submitting this form. Review your current programs to avoid duplication. Ensure you understand the fields below, as they are crucial for a complete registration.
-The form is divided into 4 main sections: 
-- Program Title
-- Program Details
-- Participants and Goals
-- Focus Areas
-</thinking>
-
 # IT Cost Optimization Program Registration - Help Guide
 ## Purpose
 This form is for registering new IT Cost Optimization Programs. It helps us track and manage existing and future programs.

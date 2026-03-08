@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by school bus drivers for a daily pre-trip inspection to ensure the vehicle is in a safe condition before embarking on a trip. The form collects information on various aspects of the vehicle's condition, including its brakes, suspension system, tires, parking brakes, emergency exit, fire extinguisher, first aid kit, reflective device, fire hydrant, fire report, emergency contact, bus number, route number, vehicle weight capacity, vehicle length, vehicle height, driver license number, driver license status, vehicle status, driver status, comments, and signed by. The form is meant to be completed by the driver and reviewed by the transportation manager or another authorized personnel.
-</thinking>
-
 # School Bus Driver’s Daily Pre Trip Inspection Form - Help Guide
 ## Purpose
 

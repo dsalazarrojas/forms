@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used for restaurant managers to review and evaluate the performance of their restaurants. It's used to collect ratings and comments on various aspects of the restaurant such as cleanliness, service quality, food quality, value for money, and overall performance. The form is probably used by restaurant management or quality control teams to identify areas of improvement and monitor the progress of their restaurants. This form might not be used for real-time customer feedback or sales, so it's likely not a high-priority or time-sensitive task.
-</thinking>
-
 # Restaurant Opening Manager Review - Help Guide
 ## Purpose
 This form is used to evaluate and review the performance of your restaurant. It's a crucial tool for restaurant managers and quality control teams to assess the overall quality of the restaurant's service, food, and cleanliness.

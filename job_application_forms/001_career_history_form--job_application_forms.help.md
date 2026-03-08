@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the "Career History Form" is to gather information about an individual's work history, including personal details, job titles, employment dates, and reasons for leaving previous roles. This form is likely used in a professional or educational setting to evaluate a candidate's experience and qualifications. To ensure you are filling this form out correctly, please review these instructions carefully.
-
-To start, please ensure you have a clear understanding of the form's purpose and relevance to your current situation. If you have completed this form before, please review your previous submissions to ensure you are not duplicating information.
-
-Before proceeding, note that this form requires you to provide accurate and honest information about your work history. Incomplete or inaccurate submissions may lead to issues with the evaluation process.
-
-</thinking>
 # Career History Form - Help Guide
 ## Purpose
 The "Career History Form" is designed to gather comprehensive information about your work history. This includes your personal details, job titles, employment dates, and reasons for leaving previous roles. This form helps assess your experience and qualifications for various purposes such as hiring, promotions, or educational programs.

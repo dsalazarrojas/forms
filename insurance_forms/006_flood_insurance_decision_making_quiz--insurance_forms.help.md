@@ -1,8 +1,3 @@
-<thinking>
-To help you understand the Flood Insurance Decision Making Quiz form and make informed decisions about your flood insurance needs, I'll break down the form's purpose and each field explanation.
-The form is designed to gather information from you to help determine your flood insurance needs and provide guidance on how to make informed decisions about your flood insurance. The form asks questions about your current address, property type, annual income, awareness of flood insurance, and other relevant factors.
-</thinking>
-
 # Flood Insurance Decision Making Quiz - Help Guide
 ## Purpose
 The Flood Insurance Decision Making Quiz is designed to help you understand your flood insurance needs and make informed decisions about your flood insurance coverage. This form will guide you through a series of questions to determine your level of risk and provide you with tailored advice on what type of flood insurance plan is right for you.

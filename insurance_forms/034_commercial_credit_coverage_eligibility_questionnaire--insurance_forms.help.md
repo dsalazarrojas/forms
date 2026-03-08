@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the Commercial Credit Coverage Eligibility Questionnaire form. The form is designed to gather information about a business's creditworthiness and coverage needs. It is not intended for general users who are not business owners or operators. The form's sections are divided into several categories: Business Details, Credit History, Coverage Needs, Financial Stability, Risk Factors, and Eligibility Assessment. Each section aims to gather specific data about the business's financial and operational status, credit history, and coverage needs. The form's questions are designed to be straightforward and easy to follow.
-</thinking>
-
 # Commercial Credit Coverage Eligibility Questionnaire - Help Guide
 ## Purpose
 The Commercial Credit Coverage Eligibility Questionnaire is a form designed to help businesses assess their creditworthiness and coverage needs. It is intended for business owners or operators who wish to determine their eligibility for credit coverage.

@@ -1,15 +1,3 @@
-<thinking>
-To avoid duplication and ensure the correct understanding of the form's purpose, let's analyze the form's structure and fields. The form, "Wealth Management Loan Inquiry," is likely used for collecting information from individuals or organizations seeking loans for various purposes, such as personal or commercial loans, or home equity loans. The form's purpose might be to gather essential details about the contact person, loan specifics, and the status of the loan application.
-
-Upon reviewing the form structure, we can deduce the following:
-
-- Page 1: Collects basic contact information.
-- Page 2: Collects loan amount, term, and type information.
-- Page 3: Selects the loan status, which is likely used for tracking and follow-up purposes.
-
-To avoid duplication, the form likely has a unique identifier for each page, allowing for easier navigation between pages and reducing errors due to redundant input.
-</thinking>
-
 # Wealth Management Loan Inquiry - Help Guide
 ## Purpose
 The Wealth Management Loan Inquiry form is used to collect information from individuals or organizations seeking loans. This form helps our team gather essential details about the contact person, loan specifics, and the status of the loan application.

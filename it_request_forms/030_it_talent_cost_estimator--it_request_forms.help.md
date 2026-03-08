@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help the IT department estimate the cost of labor and overhead costs for a given job role and location. The form will ask for the role, location, duration, and other relevant details, and will generate a file with the estimated total cost. This form is likely to be used by the finance department to get information on the cost of new or ongoing projects. The form will not be used to create a new job role, but rather to estimate the cost of existing or new projects. Please ensure that you are not duplicating the work of the finance department and that this form is used for its intended purpose.
-</thinking>
 # IT Talent Cost Estimator - Help Guide
 ## Purpose
 The IT Talent Cost Estimator is a tool used to estimate the cost of labor and overhead costs for a given job role and location.

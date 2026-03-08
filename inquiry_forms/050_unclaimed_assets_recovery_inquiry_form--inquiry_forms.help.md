@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about unclaimed assets that need to be recovered. It is designed to guide the user through the process of identifying and recovering unclaimed assets, ensuring that all necessary steps are taken to reclaim them.
-This form is meant to be used by staff members who handle unclaimed assets, and its completion is required for asset recovery purposes only. Please ensure that you only fill out this form if you have a legitimate asset recovery request.
-</thinking>
-
 # Unclaimed Assets Recovery Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information about unclaimed assets and guide staff through the recovery process.

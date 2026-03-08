@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inventory System Failure Contact Form - Help Guide
 ## Purpose
 This form is designed for users to report inventory system failures or issues they have encountered. Please fill out this form to report any problems you've experienced with the inventory system, including any details about the incident and your contact information.

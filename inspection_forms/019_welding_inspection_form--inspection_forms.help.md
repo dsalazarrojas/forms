@@ -1,5 +1,3 @@
-<thinking>Before creating a comprehensive user-facing help guide for the Welding Inspection Form, I'll review the provided YAML field structure and ensure that every step is clear and practical for end-users. The form is designed to collect information about welding inspections, which is a crucial process to ensure the quality and safety of welded products. To confirm, the form's purpose is to document the results of a welding inspection, including the production process, welder details, and inspection findings.</thinking>
-
 # Welding Inspection Form - Help Guide
 
 ## Purpose

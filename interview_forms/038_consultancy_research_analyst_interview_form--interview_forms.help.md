@@ -1,14 +1,3 @@
-<thinking>
-This form is used to capture information about a candidate during an interview process for a consultancy research analyst position. The purpose of this form is to assess the candidate's qualifications, skills, and fit for the role. The form is divided into several sections that gather information on the candidate's identification, interview details, skills assessment, qualitative feedback, and hiring recommendation. The form is designed to be completed by the interviewer after the interview, and it helps to ensure consistency and accuracy in the hiring process.
-
-To complete this form, the interviewer will need to select the relevant fields based on the interview stage and the information gathered during the conversation. The form should be filled out for each candidate interviewed, and the completed form will serve as a reference for future interviews and hiring decisions.
-
-Before starting to fill out the form, please ensure that you have all the necessary information about the candidate and the interview. If you need to complete the form for multiple candidates, please make sure to use the same format for each candidate.
-
-Please note that some fields are marked as "required", which means they are essential for the form to be complete and submitted. In case of any issues or questions, please reach out to the relevant team member for assistance.
-
-</thinking>
-
 # Consultancy Research Analyst Interview Form - Help Guide
 ## Purpose
 This form is used to capture information about a candidate during an interview process for a consultancy research analyst position.

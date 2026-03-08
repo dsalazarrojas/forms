@@ -1,10 +1,3 @@
-<thinking>
-  The "email_migration_request_form" is designed to collect information from customers who are requesting email migration services.
-  This form is intended to gather essential details that will be used to understand and fulfill their email migration requirements.
-  To ensure you get the correct information and avoid duplication, please only submit a single request per customer per issue.
-  Please fill out this form with as much detail as possible and ensure that all required fields are completed before submitting.
-</thinking>
-
 # email_migration_request_form - Help Guide
 ## Purpose
 The email_migration_request_form is a request form for customers seeking email migration services.

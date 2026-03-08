@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for capturing details about a feature, likely for development, testing, or other internal purposes. The goal is to provide a comprehensive view of the feature, including its status, priority, and associated metadata.
-
-To avoid duplication, please make sure to only complete this form for new features. If you're updating an existing feature, please refer to the original feature details form.
-
-Please note that some fields are optional, but providing accurate and relevant information will help with processing and decision-making.
-
-After completing the form, please submit it for review and approval. The form will be reviewed and updated accordingly.
-</thinking>
-
 # Feature Details Form - Help Guide
 ## Purpose
 This form is used to provide information about a feature, including its status, priority, and other associated details.

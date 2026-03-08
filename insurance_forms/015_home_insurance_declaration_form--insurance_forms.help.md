@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Insurance Declaration Form - Help Guide
 ## Purpose
 This form is designed for individuals to declare their home insurance information, including property address, year built, property value, and list of insurance providers.

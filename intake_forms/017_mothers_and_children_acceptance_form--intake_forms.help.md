@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from parents about their consent to participate in a program, their contact details, and information about their children. The form is designed to be completed by parents and guardians, and it is essential to ensure that all required fields are filled out to avoid duplication of effort and ensure accurate data collection. Please review the form carefully before completing it.
-</thinking>
-
 # Mothers And Children Acceptance Form - Help Guide
 ## Purpose
 This form is a mothers and children acceptance form designed to collect information from parents and guardians about their consent, contact details, and child information.

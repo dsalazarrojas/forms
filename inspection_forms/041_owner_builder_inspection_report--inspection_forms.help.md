@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form, "Owner Builder Inspection Report", is likely to capture information about an inspection that an inspector conducted on a building project. This form probably contains details such as the inspection date, start and end times, weather conditions at the time of inspection, inspector's personal information, project site address, contact person's information, and other relevant details. To ensure relevance, let's check the form's fields and see if they indeed support this purpose. 
-
-Form fields such as inspection_date, start_time, end_time, weather_conditions, inspector_info, project_site_address, contact_person, contact_email, and inspector_signature seem to support the inspection purpose. However, it seems like there is a mix of personal and technical information, which might lead to redundancy. For instance, contact_person and contact_email are used, but contact_phone is also included, which might be considered redundant. It seems like the form might be intended to be used for both general information and contact purposes. This form might need further review or adjustments to avoid duplication and make it more focused on inspection information only.
-
-The form seems to be intended for both internal and external use, as it contains both technical fields like start_time and end_time, and personal information like contact_person and contact_email. Considering the purpose and potential use cases, let's move on to structuring the help guide.
-
-</thinking>
-
 # Owner Builder Inspection Report - Help Guide
 
 ## Purpose

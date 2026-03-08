@@ -1,7 +1,3 @@
-<Thinking>
-This form is designed to collect employee information, coverage details, and benefits acknowledgement from employees. It is part of the accident insurance benefits process, and its primary purpose is to gather necessary information to manage and administer employee benefits. The form consists of two main sections: "Employee Information" and "Benefits Acknowledgement." The "Employee Information" section collects relevant details about the employee, such as their name, ID, email address, and employment status. The "Benefits Acknowledgement" section is used for the employee to review and acknowledge their coverage details. This form is crucial for ensuring that employees understand and agree to their coverage terms and conditions.
-</thinking>
-
 # Accident Insurance Benefits Overview - Help Guide
 ## Purpose
 This form is used to collect employee information and benefits details for the accident insurance benefits process.

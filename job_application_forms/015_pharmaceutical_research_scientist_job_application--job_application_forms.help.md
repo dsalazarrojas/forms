@@ -1,7 +1,3 @@
-<thinking>
-We are providing a help guide for the Pharmaceutical Research Scientist Job Application form. This form is intended to collect information from applicants who are interested in working as pharmaceutical research scientists. It's essential to ensure that you understand the form's purpose and how to complete it correctly to increase the chances of your application being processed accurately. Before proceeding, please take a moment to confirm that you're eligible to apply for this position and that your details are up-to-date.
-</thinking>
-
 # pharmaceutical_research_scientist_job_application - Help Guide
 ## Purpose
 The Pharmaceutical Research Scientist Job Application form is designed to collect your personal and professional details for the position of a Pharmaceutical Research Scientist. It is a crucial step in the hiring process, and providing accurate and complete information will help us assess your qualifications and suitability for the role.

@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to create a device rollover request for an IT asset, which is used to track the process of transferring ownership and maintenance responsibilities of a device from one employee to another. This form helps to ensure that all necessary information is collected and processed correctly, reducing the risk of data loss, miscommunication, and asset mismanagement. It is crucial to fill out this form accurately and completely to avoid any potential issues with the device or its transfer.
-
-Before proceeding, please ensure that:
-
-* You have the necessary authority and permissions to create a device rollover request.
-* You have not submitted a similar request for the same device recently.
-* The device is not currently being used or is in a state that would prevent its transfer (e.g., in repair, stolen, etc.).
-
-Please read this guide carefully and fill out the form accurately and completely.
-</thinking>
-
 # Device Rollover Request Form - Help Guide
 ## Purpose
 This form is used to create a device rollover request for an IT asset. It helps to track the process of transferring ownership and maintenance responsibilities of a device from one employee to another.

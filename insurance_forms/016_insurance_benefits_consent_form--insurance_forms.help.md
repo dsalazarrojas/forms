@@ -1,15 +1,3 @@
-<thinking>
-
-We will create a help guide for the "Insurance Benefits Consent Form" to assist end-users in understanding its purpose, how to complete it, and the meaning of each field. This guide will help ensure that users have a clear understanding of the form's requirements and will be able to fill it out accurately and efficiently.
-
-The form is used to capture information related to an insurance policy, including the patient's name, date of birth, insurance provider, policy number, effective date, expiration date, and other relevant details. The form is typically used for insurance-related purposes, such as verifying patient information or processing payments.
-
-Before starting the form, please note that this guide is only a help guide and may not cover all possible scenarios or fields that may appear on the form. If you are unsure about any field or have questions, please reach out to your supervisor or the form's creator for clarification.
-
-After filling out the form, please make sure to proofread for accuracy and completeness, and save the form for reference.
-
-</thinking>
-
 # Insurance Benefits Consent Form - Help Guide
 ## Purpose
 

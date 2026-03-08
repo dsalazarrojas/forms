@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information regarding QDRO (Qualified Domestic Relations Order) details. QDROs are court orders that determine how property and assets are divided in a divorce or separation. This form is intended to ensure that all necessary information is collected and documented accurately.
-
-Before proceeding, please ensure that this form is relevant and not a duplicate. If you are unsure or have questions, please consult with the relevant authority or department.
-
-Please note that some fields may be required or optional depending on the specific situation. The form will guide you through the process, but if you are unsure about any field, please reach out to the relevant department for clarification.</thinking>
-
 # QDRO Information Form - Help Guide
 ## Purpose
 This form is used to collect and document QDRO information for accurate and efficient processing.

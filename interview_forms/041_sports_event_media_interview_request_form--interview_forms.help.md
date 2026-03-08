@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is not being used for duplicate requests or purposes other than media interviews for sports events. This form is specifically designed for media representatives who want to request interviews with athletes, teams, or other stakeholders related to sports events. To prevent abuse, we will review each request carefully and may contact the requestor to confirm the legitimacy of the request. We will also ensure that the form is used for its intended purpose only, and not for commercial or other unauthorized uses.
-</thinking>
-
 # Sports Event Media Interview Request Form - Help Guide
 ## Purpose
 The Sports Event Media Interview Request Form is designed for media representatives to request interviews with athletes, teams, or other stakeholders related to sports events. It helps event organizers and media representatives to coordinate and schedule interviews efficiently.

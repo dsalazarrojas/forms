@@ -1,7 +1,3 @@
-<thinking>
-This form is for recording and managing food waste incidents within facilities. It's essential for facility management to track food waste events to prevent contamination, maintain cleanliness, and ensure compliance with health and safety regulations. The form's primary purpose is to provide a structured way to document food waste incidents, including the date, inspector's name, facility ID, and a description of the incident. This form will help facility staff to efficiently log and report food waste events, facilitating better resource allocation and decision-making. 
-</thinking>
-
 # Food Waste Log - Help Guide
 ## Purpose
 The "Food Waste Log" form is designed to record and manage food waste incidents within facilities. It helps facility management track and analyze food waste events, ensuring compliance with health and safety regulations and maintaining cleanliness standards.

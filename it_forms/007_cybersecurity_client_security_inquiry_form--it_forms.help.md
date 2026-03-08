@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to submit their security inquiries to the organization's cybersecurity team. This form will help the team gather necessary information to assess and mitigate potential security risks. Before filling out this form, please ensure that you have not already submitted a similar inquiry, as duplication of submissions can lead to unnecessary resource duplication and inefficiencies.
-</thinking>
-
 # Cybersecurity Client Security Inquiry Form - Help Guide
 ## Purpose
 This form is used by clients to submit their security inquiries to the organization's cybersecurity team. Please fill out this form to provide the necessary information to help us assess and mitigate potential security risks.

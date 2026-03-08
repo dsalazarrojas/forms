@@ -1,9 +1,3 @@
-<thinking>
-
-This form, the "weekly_audio_visual_checklist", is designed to collect information related to audio-visual equipment in an institution, specifically to check the status of rooms, issue tracker, and sign-offs. To confirm its relevance, it's used to monitor and update the status of rooms with audio-visual equipment. Non-duplication of this form is crucial as it helps in avoiding unnecessary repetition of tasks and streamlines the collection of data.
-
-</thinking>
-
 # weekly_audio_visual_checklist - Help Guide
 ## Purpose
 The "weekly_audio_visual_checklist" is a form used to collect information on the status of rooms with audio-visual equipment in an institution. It helps in monitoring and updating the status of these rooms for better management and maintenance.

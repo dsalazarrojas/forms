@@ -1,9 +1,3 @@
-<thinking>
-The Fence Estimation Form is used to estimate the cost of a fence project. This form is typically used by fence contractors and sales teams to gather information about a customer's property and fence requirements. It ensures that all necessary fields are filled out correctly to provide an accurate estimate to the customer.
-
-To ensure accurate results, please verify that the form is filled out for a single house type and fence type, and that the material cost and labor costs are filled out correctly.
-</thinking>
-
 # Fence Estimation Form - Help Guide
 
 ## Purpose

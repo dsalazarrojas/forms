@@ -1,6 +1,3 @@
-<thinking> 
-To ensure that this form is properly filled out, let's first consider the purpose and potential use cases for the "Schedule A Virtual Meeting Form". This form appears to be designed for meeting planning and preparation. Users might be submitting meetings requests for various purposes such as team meetings, client calls, or other types of virtual gatherings. It seems that the form is aimed at capturing essential details to facilitate the organization and coordination of these meetings. However, a key consideration is to prevent form duplication - perhaps this form could be a follow-up or secondary form after an initial meeting request has been submitted, or it could be used for other purposes entirely. Let's ensure that the instructions are clear and accurate to avoid confusion. </thinking>
-
 # Schedule A Virtual Meeting Form - Help Guide
 ## Purpose
 The "Schedule A Virtual Meeting Form" is a tool used to gather information about virtual meetings. It is intended for meeting planners and organizers to capture the details of meetings, ensuring that all necessary information is collected and that meetings run smoothly.

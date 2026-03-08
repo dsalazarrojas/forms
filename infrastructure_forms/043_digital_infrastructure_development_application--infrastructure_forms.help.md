@@ -1,8 +1,3 @@
-<thinking>
-This form is for collecting information about digital infrastructure development projects. The purpose of this form is to gather essential details about each project, which will be reviewed and assessed by relevant teams before proceeding with further actions.
-To ensure that the right projects are being reviewed and assessed, we want to make sure that each project is unique and not a duplicate. If a project with the same title and description is already in the system, the user will be notified and asked to provide additional information to differentiate it from the existing project.
-</thinking>
-
 # Digital Infrastructure Development Application - Help Guide
 ## Purpose
 The Digital Infrastructure Development Application form is used to collect information about digital infrastructure development projects. This form gathers essential details about each project, including title, description, technical requirements, timelines, and contact information.

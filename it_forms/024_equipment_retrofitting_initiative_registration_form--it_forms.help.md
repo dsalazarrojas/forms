@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register an organization or individual's interest in participating in the Equipment Retrofitting Initiative. The form is used to gather information about the participant's equipment and preferences, which will aid the initiative's planning and execution. Before proceeding, please ensure that you have not registered for this initiative before, and that your submission is not a duplicate. If you have any questions or concerns, please contact the initiative's administrators.
-</thinking>
-
 # Equipment Retrofitting Initiative Registration Form - Help Guide
 ## Purpose
 This form is for registering your interest in participating in the Equipment Retrofitting Initiative. It is used to gather information about your equipment and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is to ensure that users understand the purpose and usage of the Infrastructure Project Inquiry Form. The form is designed to collect information about infrastructure projects, and its fields should not be filled out if the project is already in progress or completed. It's also essential to avoid duplicate submissions, as this may lead to confusion and data redundancy. The form should be filled out carefully, and users should be aware that some fields are optional but others are required. It's also a good idea to check the options of each field for a better understanding of the possible responses.
-</thinking>
-
 # Infrastructure Project Inquiry Form - Help Guide
 ## Purpose
 This form is used to gather information about infrastructure projects. It is designed to collect project details, contact information, and other relevant data to ensure that the project is properly managed and executed.

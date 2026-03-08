@@ -1,7 +1,3 @@
-<thinking>
-We should only allow users to fill out this form if they have a clear request to make, and they should not fill it out more than once. To do this, we will implement logic that checks if a user has already filled this form out before, and if so, will show an error message. This form is a simple tool for requesting tasks, resources, or services. 
-</thinking>
-
 # Minimalist Request Form - Help Guide
 ## Purpose
 The Minimalist Request Form is a simple tool for requesting tasks, resources, or services. Fill out this form to submit your request and provide as much information as possible.

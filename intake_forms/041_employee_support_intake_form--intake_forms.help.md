@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-This form is designed to collect information from employees about their support requests, which will help the support team to efficiently address their concerns. Before filling out this form, please make sure that you have not already submitted a similar request for support in the past. If you are unsure, please verify with your supervisor or the support team before proceeding.
-
-</thinking>
-
 # Employee Support Intake Form - Help Guide
 ## Purpose
 The Employee Support Intake Form is designed to collect information from employees about their support requests. This form helps the support team to understand the employee's concerns and allocate resources effectively to resolve the issue.

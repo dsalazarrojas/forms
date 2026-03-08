@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for individuals interested in coaching positions, providing an opportunity for them to express their interest, provide necessary contact information, and showcase their qualifications and preferences. This form aims to gather specific details to ensure a smooth coaching process, and its completion should be a straightforward, guided process.
-</thinking>
-
 # Coach Simple Job Application Form - Help Guide
 ## Purpose
 This form is designed for individuals interested in coaching positions, allowing them to apply and express their interest in being part of the team.

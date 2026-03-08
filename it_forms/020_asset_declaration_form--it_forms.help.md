@@ -1,7 +1,3 @@
-<thinking>
-This form is an asset declaration form used to collect information about an employee's financial assets, including real estate, vehicles, bank accounts, investments, and other valuable items. The form is designed to help employees accurately report their assets to the company to ensure compliance with company policies and tax reporting requirements. It is expected that employees will fill out this form with the most accurate and up-to-date information possible.
-</thinking>
-
 # Asset Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information about your financial assets, including real estate, vehicles, bank accounts, investments, and other valuable items. Please fill out this form accurately and honestly to ensure compliance with company policies and tax reporting requirements.

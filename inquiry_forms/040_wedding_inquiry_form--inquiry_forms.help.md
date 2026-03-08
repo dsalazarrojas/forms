@@ -1,12 +1,3 @@
-<thinking>
-We will design a help guide for the "wedding_inquiry_form" form, which is a general-purpose form for potential customers to inquire about wedding services. This form is designed to collect information from customers who are interested in our wedding services, and the purpose of this form is to gather essential details from them in a structured and organized way. 
-
-The form is composed of several fields that are meant to be filled out by customers to help us understand their needs and preferences better. However, it is essential to note that the form is not intended for real-time bookings or scheduling, but rather for initial inquiries and general information gathering.
-
-To ensure that customers do not fill out the form multiple times, we will have a mechanism in place to prevent duplication of form submissions. This will help us track and manage inquiries more efficiently.
-
-</thinking>
-
 # wedding_inquiry_form - Help Guide
 ## Purpose
 The "wedding_inquiry_form" is designed to collect information from potential customers who are interested in our wedding services. This form helps us understand their needs and preferences better.

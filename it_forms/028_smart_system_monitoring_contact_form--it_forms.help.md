@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for users to provide contact information and send messages to the support team regarding smart system monitoring issues. To ensure that only relevant and non-duplicate messages are received, we have a system in place to detect and prevent such instances. This form is intended for end-users who need help or have concerns about their smart system monitoring setup. 
-</thinking>
-
 # Smart System Monitoring Contact Form - Help Guide
 ## Purpose
 This form is for users to provide contact information and send messages to the support team regarding smart system monitoring issues.

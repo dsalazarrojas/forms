@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from developers who are using our platform, allowing us to gauge their experience and make improvements where necessary. It's essential to ensure that the form is completed accurately and thoroughly to provide valuable insights. To avoid duplication, please only submit one feedback form per issue or concern. If you've already submitted feedback for this issue, please do not resubmit.
-</thinking>
-
 # Developer Platform Feedback Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from developers who are using our platform, allowing us to understand their experience and make improvements.

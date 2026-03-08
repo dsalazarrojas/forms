@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from applicants for a summer internship. Please note that this form is intended for applicants who are looking to gain practical experience in their field of study and contribute to the company's goals for a specific duration. 
-To avoid duplication, ensure that you have not already completed this form and that the information submitted is accurate. 
-</thinking>
-
 # summer_internship_application_form - Help Guide
 ## Purpose
 

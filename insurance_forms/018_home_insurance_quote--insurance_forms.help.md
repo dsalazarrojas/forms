@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users to provide a home insurance quote. This form should only be filled out for the sole purpose of obtaining a home insurance quote. The following guide will walk you through each field and explain its purpose.
-
-</thinking>
-
 # Home Insurance Quote - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information for an End Of Life Care Plan. It's essential to fill out this form carefully, as the information provided will help us understand the patient's current state and create a personalized care plan. Please review the form carefully and ensure that you're not duplicating information that's already been provided elsewhere. It's recommended that you complete the form in its entirety and then review your responses for accuracy before submitting.
-</thinking>
-
 # End Of Life Care Plan - Help Guide
 ## Purpose
 The End Of Life Care Plan form is designed to gather essential information about the patient's health status, medical history, and current care needs.

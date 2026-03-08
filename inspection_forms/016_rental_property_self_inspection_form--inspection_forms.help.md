@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by property managers or inspectors to conduct self-inspections of rental properties. The purpose of this form is to collect information about the current status and condition of the property. The form will be used to track the property's status, features, and any existing damage. The form will also allow for recording the inspection date and time, as well as any comments or notes made during the inspection. Additionally, the form includes fields for contact information and property address. All this information will be used by property managers or inspectors to assess the property's overall condition and make necessary decisions.
-</thinking>
-
 # Rental Property Self Inspection Form - Help Guide
 ## Purpose
 This form is used by property managers or inspectors to record information about the current status and condition of rental properties.

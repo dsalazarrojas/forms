@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to help inspectors report on the quality of fabric samples. To ensure accurate and consistent reporting, please review the information carefully before filling out the form. 
-
-Each question should only be answered once, and answers should only be checked against the relevant section of the fabric sample. If you're unsure about any aspect of the form, please refer to the relevant section of the fabric sample for guidance. 
-
-Please make sure that the form is filled out completely and accurately. Incomplete or inaccurate reports can lead to misunderstandings and potential issues with fabric supply chain management.
-
-Before proceeding, please note that the form is split into different sections, each addressing a specific aspect of fabric quality. Please review each section carefully and fill out the relevant fields accordingly.
-
-If you're using this form, you may already have some familiarity with fabric inspection processes. However, if you're unsure about any specific aspect of the form, please review the relevant information on fabric quality control procedures.
-
-Also, please note that some fields in this form use multiple-choice answers. Please select the option that best describes your observations or findings during the inspection. 
-
-Please ensure that you're providing clear and accurate information in this form. If you're unsure about any aspect of the form, please consult with a relevant expert or refer to the fabric quality control manual for guidance.
-
-Please review the information carefully and answer each question accurately and completely. The information you provide will help ensure the quality of fabric supply chain management.
-</thinking>
-
 # Fabric Quality Report Form - Help Guide
 ## Purpose
 This form is designed to help inspectors report on the quality of fabric samples. It is used to gather information on the fabric's physical and chemical properties, as well as its appearance and performance.

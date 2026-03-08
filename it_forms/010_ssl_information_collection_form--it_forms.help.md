@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about SSL (Secure Sockets Layer) for security purposes. The form is likely used by a web application's or service's support team to gather data about a customer's or user's SSL certificates. This information is crucial for troubleshooting, maintenance, and security purposes. It's essential to fill out the form accurately to ensure the correct information is collected. Please fill out the form carefully and accurately.
-</thinking>
-
 # SSL Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect relevant information about your SSL certificates for support and security purposes.

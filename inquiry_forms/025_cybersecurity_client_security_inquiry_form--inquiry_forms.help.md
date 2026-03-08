@@ -1,11 +1,3 @@
-<thinking>... internal logic checks: 
-- This form is for clients to inquire about their current security status.
-- Each field should be filled out according to the clients' answers to the previous questions.
-- The form should be filled out by the client themselves, but also reviewed by a consultant before submission.
-- We want to avoid duplicate inquiries from the same client with the same answers.
-- We want to make sure that the client understands what the form is for and how to fill it out.
-</thinking>
-
 # Cybersecurity Client Security Inquiry Form - Help Guide
 
 ## Purpose

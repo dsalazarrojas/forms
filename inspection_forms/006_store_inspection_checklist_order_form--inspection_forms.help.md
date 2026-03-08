@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Store Inspection Checklist Order Form - Help Guide
 
 ## Purpose

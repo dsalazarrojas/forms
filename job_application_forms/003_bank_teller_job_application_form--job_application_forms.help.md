@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bank Teller Job Application Form - Help Guide
 ## Purpose
 The Bank Teller Job Application Form is designed to gather information from applicants for bank teller positions. This form collects personal details, professional qualifications, and other relevant data that will be used to assess your candidacy for the position.

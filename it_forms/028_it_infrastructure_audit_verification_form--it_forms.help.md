@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for IT infrastructure professionals who need to perform an infrastructure audit verification. The form is used to collect information about the current state of an organization's IT infrastructure, including servers, network segments, firewalls, virtualization, backup, disaster recovery, monitoring, compliance, remediation, infrastructure changes, security, backup, disaster recovery, monitoring, security patches, security updates, infrastructure patches, infrastructure updates, decommissioning, and remediation. This form is designed to be completed by IT professionals who need to verify the current state of their organization's infrastructure and identify areas for improvement.
-Before completing this form, ensure that you have the necessary permissions and access to the relevant information. This form is not intended for general users.
-</thinking>
-
 # it_infrastructure_audit_verification_form - Help Guide
 ## Purpose
 This form is used to collect information about the current state of an organization's IT infrastructure.

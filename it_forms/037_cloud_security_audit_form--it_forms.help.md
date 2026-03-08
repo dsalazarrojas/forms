@@ -1,7 +1,3 @@
-<thinking>...I will create a help guide for the Cloud Security Audit Form. This form is used for conducting a security audit on cloud infrastructure. Its primary purpose is to gather information on cloud security settings and practices. I will review the YAML fields to ensure that I cover all required information...
-
-</thinking>
-
 # Cloud Security Audit Form - Help Guide
 ## Purpose
 This form is designed to conduct a comprehensive cloud security audit to assess the security posture of your cloud infrastructure. It will gather information on various aspects of cloud security, including access control, encryption, compliance, and monitoring.

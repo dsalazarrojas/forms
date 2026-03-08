@@ -1,21 +1,3 @@
-<thinking>
-Before creating the help guide, let's analyze the form's purpose and fields. The form is called "Gear And Insurance Evaluation Form" and is likely used to collect information related to gears and insurance evaluations.
-
-Form purpose:
-- The form is designed to collect general information, equipment condition, insurance details, contact information, additional details, equipment type, equipment condition date, and equipment condition assessment.
-
-Fields analysis:
-- **General Info (text)**: This field likely collects the basic information about the gear or equipment, such as its name, description, or other relevant details.
-- **Equipment Condition (select_one)**: This field asks the user to rate the condition of the equipment, with options Good, Fair, or Poor.
-- **Insurance Info (text)**: This field might collect information about the insurance coverage related to the gear or equipment.
-- **Contact Info (text)**: This field is for the contact person's details.
-- **Additional Info (text)**: This field is for any additional comments or notes.
-- **Equipment Type (select_one)**: This field is used to categorize the equipment type, with options Machinery, Equipment, or Other.
-- **Equipment Condition Date (date)**: This field likely collects the date the equipment condition was last assessed.
-- **Equipment Condition Assessment (text)**: This field allows the user to provide a more detailed assessment of the equipment condition.
-
-</thinking>
-
 # Gear And Insurance Evaluation Form - Help Guide
 ## Purpose
 The Gear And Insurance Evaluation Form is designed to collect information related to gears and insurance evaluations. This form helps assess the condition and insurance coverage of gears or equipment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for recording inspection data, specifically for painting-related inspections. The form captures relevant information about the inspection, including the date and time of the inspection, the name and contact details of the inspector and customer, and the status of the inspection. The purpose of this form is to document the inspection process and provide a centralized record of all painting inspections. Please ensure that each section is accurately and thoroughly filled out to ensure a comprehensive record. It is essential to note that this form is for painting inspections only; if you are inspecting another type of area, please use a relevant form specific to that inspection type. This form must be completed accurately and thoroughly to ensure the integrity and usefulness of the inspection record.
-</thinking>
-
 # painting_inspection_record - Help Guide
 ## Purpose
 The "painting_inspection_record" form is a tool for documenting the details of a painting-related inspection. It captures information on inspection date and time, inspector and customer contact details, and the status of the inspection. This form ensures that all relevant information is recorded accurately and efficiently.

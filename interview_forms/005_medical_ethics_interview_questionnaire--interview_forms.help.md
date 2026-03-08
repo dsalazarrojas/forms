@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect insights on medical ethics interviews. The purpose of this form is to gather information on the interview readiness of participants, their ability to make ethical decisions, and their involvement in training, education, and research activities. This form is intended for healthcare professionals involved in medical ethics interviews.
-
-Before proceeding, ensure that this form is relevant to your specific context and that you have not already completed it. If you have any doubts, please consult with the relevant authorities.
-
-</thinking>
-
 # Medical Ethics Interview Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect insights on medical ethics interviews.

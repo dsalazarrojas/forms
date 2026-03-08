@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for inspecting a vehicle in multiple points, such as exterior and interior conditions, engine condition, safety features, vehicle history, and inspection date. The form is not strictly necessary to be completed, but it helps to standardize and make it easier to track and analyze the vehicle's state. It might be part of a regular maintenance or audit process.
-
-Before proceeding with this guide, ensure you have access to this form and understand its purpose in your specific context.</thinking>
-
 # Multi Point Vehicle Inspection Form - Help Guide
 ## Purpose
 The Multi Point Vehicle Inspection Form is designed to help inspect a vehicle's state in multiple aspects, such as exterior and interior conditions, engine condition, safety features, vehicle history, and inspection date.

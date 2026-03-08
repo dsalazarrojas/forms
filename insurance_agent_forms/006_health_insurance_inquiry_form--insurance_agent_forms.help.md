@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Insurance Inquiry Form - Help Guide
 ## Purpose
 The Health Insurance Inquiry Form is designed to collect information from users about their health insurance needs and preferences. This form is used to gather relevant details to provide a better understanding of the user's requirements, enabling the insurance provider to offer tailored solutions.

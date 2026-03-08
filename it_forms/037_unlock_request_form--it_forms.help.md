@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect user input for an "Unlock Request" process. The form will be used to gather information from users to facilitate a lock/unlock process for a specific resource. To ensure that the form is used correctly, please review the following guidelines to avoid duplication and incorrect usage.
-
-The form has multiple fields that require user input, and each field has a specific purpose in the unlock request process. To complete this form correctly, please follow the instructions below.
-
-This form is designed to be completed by users who need to request access to a locked resource. Please make sure that you have read and understood the form instructions before submitting your request.
-</thinking>
-
 # Unlock Request Form - Help Guide
 ## Purpose
 The Unlock Request Form is used to request access to a locked resource. This form is designed to gather necessary information from users to facilitate the unlock process.

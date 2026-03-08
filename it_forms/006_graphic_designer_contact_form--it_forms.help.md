@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graphic Designer Contact Form - Help Guide
 ## Purpose
 This form is intended for clients to get in touch with our team of graphic designers. It allows users to share their ideas, ask questions, or inquire about design services for their projects. Our team will receive the submitted data and use it to create personalized responses to the user's inquiry.

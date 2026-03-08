@@ -1,7 +1,3 @@
-<thinking>
-The form "Smart Retail Infrastructure Application Form" is used to collect information about a retail infrastructure project. The form is used to gather relevant details about the project, including its category, status, and submission notes. The purpose of this form is to streamline the application process for retailers who want to implement smart retail infrastructure in their stores. To complete this form, follow the instructions below.
-</thinking>
-
 # Smart Retail Infrastructure Application Form - Help Guide
 ## Purpose
 

@@ -1,15 +1,3 @@
-<thinking>... (checking for internal consistency and avoiding duplication)
-
-The form "kid_castle_application_form" is a user-facing form used to collect information from users to create or modify a kid's profile in the kid's castle system.
-
-Before filling out this form, please ensure you are the authorized person submitting the information and that you are not duplicating efforts. Make sure you have all the necessary information to complete the form accurately.
-
-To ensure the integrity of the submitted data, please do not submit incomplete or duplicate applications.
-
-Please review the form carefully and fill it out accordingly.
-
-</thinking>
-
 # kid_castle_application_form - Help Guide
 ## Purpose
 This form is used to create or modify a kid's profile in the kid's castle system.

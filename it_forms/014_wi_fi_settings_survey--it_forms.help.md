@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the user's Wi-Fi network settings and experiences. This form is used to gather data on the user's current network status, connection type, network speed, Wi-Fi device, Wi-Fi signal strength, access frequency, network performance, and any issues they may have with their Wi-Fi network. The information collected will help improve the Wi-Fi network settings for better performance and reliability.
-
-This form is designed for end-users to report their experiences and preferences regarding their Wi-Fi network settings. The form is divided into several sections, each representing a different aspect of the user's Wi-Fi network experience. The questions are straightforward and easy to understand, and the required fields are clearly marked.
-
-</thinking>
-
 # Wi Fi Settings Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request verification on a specific component's compatibility with a given system or environment. The form is designed to be completed by a requester who needs to verify the compatibility of a component with their existing system specifications.
-The purpose of this form is to gather information about the component and the requester's requirements, so that a technical expert can review and verify the compatibility.
-When filling out this form, the requester should ensure that the information is accurate and complete, as it will be used to make a final determination on the component's compatibility.
-</thinking>
-
 # Component Compatibility Verification Request - Help Guide
 ## Purpose
 This form is used to request verification on a specific component's compatibility with a given system or environment.

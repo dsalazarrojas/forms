@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to capture information for the Real Estate IoT Pilot Application. It is intended for real estate companies or individuals to submit their applications for participation in the pilot program. This form is not meant for general public use and is primarily used internally within the organization. Please ensure that you have the necessary permissions and access to access this form. If you have already submitted an application, you can skip this form. If you need to edit or update an existing application, please contact the support team for assistance.</thinking>
-
 # Real Estate IoT Pilot Application Form - Help Guide
 ## Purpose
 This form collects information required for the Real Estate IoT Pilot Application process. The purpose of this form is to gather the necessary details from real estate companies or individuals interested in participating in the pilot program.

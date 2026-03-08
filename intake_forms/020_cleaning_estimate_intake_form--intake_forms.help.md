@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect essential information from clients about their cleaning needs for an estimate. This form should only be used for clients who are new to the service and have not previously used our cleaning services.
-</thinking>
-
 # Cleaning Estimate Intake Form - Help Guide
 ## Purpose
 This form is for clients who need to book a cleaning service for their property. Please fill out this form completely and accurately to ensure an accurate estimate can be provided.

@@ -1,9 +1,3 @@
-<thinking>
-This form is a Health Data Capture Assessment tool designed to collect essential information from users. The purpose of this form is to gather general information, medical history, lifestyle insights, consent, health details, social determinants, contact information, emergency contacts, medications, and allergies. This form is intended for use by healthcare professionals or authorized personnel to collect data for health-related purposes.
-The form consists of several sections with different fields for each topic. Some fields are text-based, while others require users to select from a list of options. The form is designed to be user-friendly and easy to navigate.
-Please ensure that you complete all required fields to provide accurate and comprehensive information. If a field is not applicable, please select "None" or leave it blank.
-</thinking>
-
 # Health Data Capture Assessment - Help Guide
 ## Purpose
 The Health Data Capture Assessment form is a tool used to collect information on a user's health, medical history, and related topics. This form helps healthcare professionals gather essential data for accurate diagnosis, treatment, and care planning.

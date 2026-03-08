@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to request permissions for add-ons or extensions to be installed on various levels of scope within an organization. The purpose of this form is to gather information about the requester, the add-on, and the reasons for the request. This information will be used to assess the request and make decisions regarding approval or denial. It is essential to fill out the form accurately and thoroughly to ensure a smooth evaluation process.
-
-Before proceeding, please ensure that you have not submitted a similar request in the past. If you have already submitted a request for the same add-on, please do not resubmit. This form is designed to help you create new requests, not to duplicate existing ones.
-
-The form is divided into several sections, each of which is explained below. Please read each section carefully before filling out the form.
-
-</thinking>
-
 # Add On Permission Request Form - Help Guide
 ## Purpose
 

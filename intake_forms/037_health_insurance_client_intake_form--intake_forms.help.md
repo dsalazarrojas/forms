@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to collect information from clients seeking health insurance.
-  It is meant to gather details about their insurance provider, plan, policy holder, and contact information.
-  The form's fields are intentionally kept minimal, with no dropdowns or other complex fields.
-  This form does not collect any sensitive or private information.
-</thinking>
-
 # health_insurance_client_intake_form - Help Guide
 ## Purpose
 The Health Insurance Client Intake Form is used to collect essential information from clients about their health insurance. This form helps our team gather the necessary details to provide the best possible service and support.

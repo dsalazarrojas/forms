@@ -1,20 +1,3 @@
-<thinking>
-This help guide will cover the purpose, completion steps, and field-by-field explanation of the "IT Helpdesk Efficiency Report Form". The form is used to monitor and evaluate the efficiency of the IT helpdesk process. To avoid duplication, users should only submit reports for tickets that are already open or have not been resolved.
-
-The purpose of this report form is to collect data on how the IT helpdesk process is performing, specifically:
-
-* Average user response time: how fast the users receive answers to their requests
-* Average resolution rate: the percentage of resolved issues out of the total
-* Average satisfaction rate: how satisfied users are with the helpdesk service
-* Average number of resolved issues: the total number of issues resolved
-* Average number of unresolved issues: the total number of issues that remain pending
-* User satisfaction level: how satisfied users are with the helpdesk service
-
-Users can report these metrics on a scale from 0 to 5 for the satisfaction rate and number of resolved and unresolved issues. The user satisfaction level is a select-one field with predefined options from very dissatisfied to very satisfied.
-
-The form should only be used for reports of open or unresolved tickets.
-</thinking>
-
 # IT Helpdesk Efficiency Report Form - Help Guide
 ## Purpose
 The IT Helpdesk Efficiency Report Form is used to monitor and evaluate the efficiency of the IT helpdesk process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for applicants to apply for a position on a Health Ethics Advisory Board, likely in an academic or professional setting. The form collects information about the applicant's background, experience, and qualifications. This form should be filled out by individuals who are interested in or have been nominated for a position on the board and are not yet members of the board.
-</thinking>
-
 # health_ethics_advisory_board_application_form - Help Guide
 ## Purpose
 This form is for applicants to apply for a position on a Health Ethics Advisory Board. It is used to gather information about the applicant's qualifications and background.

@@ -1,9 +1,3 @@
-<thinking>
-The Home Insurance Claim Records Release Form is used to obtain a release from the policyholder of a claim, indicating their consent for the insurance company to access and share information about their claim. This form is essential for the insurance company to verify the claim's validity and for the policyholder to provide their authorization to release their claim information. Before filling out this form, please ensure that you have the policyholder's consent and that this is the correct form for the specific claim in question. 
-
-Please note that if you're not sure about filling out this form or if you've already filled out a similar form before, double-check to avoid duplication of effort and incorrect information.
-</thinking>
-
 # Home Insurance Claim Records Release Form - Help Guide
 ## Purpose
 The Home Insurance Claim Records Release Form is used to get a release from the policyholder of a claim, indicating their consent for the insurance company to access and share information about their claim.

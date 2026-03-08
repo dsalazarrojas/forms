@@ -1,10 +1,3 @@
-<thinking>
-The form is used to collect information from patients in the home health care setting. 
-This form is used to gather patient data, such as demographics, medical history, medications, and care team members. 
-This form is designed to be filled out by a nurse or other healthcare provider in a home health care setting. 
-Please confirm that this form is being used for its intended purpose and is not duplicated in any other form.
-</thinking>
-
 # Home Health Intake Form Template - Help Guide
 ## Purpose
 The Home Health Intake Form Template is a tool used to gather essential information from patients in the home health care setting. It helps healthcare providers collect and document crucial patient data, ensuring accurate and comprehensive care.

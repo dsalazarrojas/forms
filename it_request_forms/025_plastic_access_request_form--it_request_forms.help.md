@@ -1,8 +1,3 @@
-<thinking>
-The Plastic Access Request Form is designed to allow users to request access to plastic materials for their department or team. This form helps to ensure that requests are properly documented and reviewed by the relevant stakeholders.
-To prevent duplication, the form is only accessible through a specific internal approval process. This guide will walk you through the form's purpose and how to complete it.
-</thinking>
-
 # Plastic Access Request Form - Help Guide
 ## Purpose
 The Plastic Access Request Form is used to request access to plastic materials for your department or team. Fill out this form to submit your request and provide necessary information for approval.

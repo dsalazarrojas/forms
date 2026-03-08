@@ -1,10 +1,3 @@
-<thinking>
-This form is used to facilitate inspections for hoses in a facility. The purpose of this form is to ensure that all routine checks are performed, and the necessary documentation is up-to-date. The form is used to collect information on the presence of maintenance equipment, safety equipment, photo documentation, submission records, and other essential details. This form is likely used by maintenance teams or facility managers to conduct thorough inspections and ensure compliance with regulations.
-
-Before proceeding, please ensure that you are using this form for its intended purpose and do not duplicate efforts. If you are not sure which form to use, please reach out to the relevant personnel for clarification.
-
-</thinking>
-
 # hose_inspection_checklist - Help Guide
 ## Purpose
 This form is used to perform routine inspections of hoses, ensuring compliance with regulations and maintaining a high level of safety and maintenance standards.

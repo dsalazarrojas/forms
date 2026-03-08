@@ -1,9 +1,3 @@
-<thinking>
-The form is used to collect information from writers applying for an online magazine content writer position. 
-The form has multiple fields that ask for personal and professional information such as name, email, phone number, writing samples, and experience. The form also includes fields to ask writers to confirm or decline to review samples provided by the magazine. Each field is designed to provide detailed information about the writer and their experience, making it easier for the magazine to assess their suitability for the content writer position.
-It is recommended to ensure that each writer fills out the form only once and provides accurate and honest information about themselves and their work. 
-</thinking>
-
 # Online Magazine Content Writer Interview Form - Help Guide
 ## Purpose
 The Online Magazine Content Writer Interview Form is designed to collect applications from writers interested in writing for our online magazine. Please fill out this form to provide us with your details and writing experience.

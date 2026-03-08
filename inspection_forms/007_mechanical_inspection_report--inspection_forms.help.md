@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information related to mechanical inspections. It is used to document and report on the condition of a vehicle after an inspection, providing a standardized and systematic way to record and communicate inspection results. 
-
-This form is likely used in scenarios such as vehicle maintenance, repair, or assessment purposes.
-
-</thinking>
-
 # Mechanical Inspection Report - Help Guide
 ## Purpose
 The Mechanical Inspection Report form is used to document and report on the condition of a vehicle after an inspection. It provides a standardized way to record and communicate inspection results.

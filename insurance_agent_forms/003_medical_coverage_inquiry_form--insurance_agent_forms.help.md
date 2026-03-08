@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Coverage Inquiry Form - Help Guide
 ## Purpose
 The Medical Coverage Inquiry Form is a tool used to gather information about an individual's insurance coverage for medical purposes. This form is designed to be completed by the individual or their representative to provide necessary details for insurance coverage assessment. It is intended for use in medical settings where understanding an individual's insurance coverage is crucial for providing proper care and services.

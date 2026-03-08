@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agent Linking Guide Form - Help Guide
 
 ## Purpose

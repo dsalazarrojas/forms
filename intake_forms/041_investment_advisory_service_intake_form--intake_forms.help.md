@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I need to ensure that the form is being used correctly and that the user is aware of its purpose. The Investment Advisory Service Intake Form is a crucial tool for collecting information from clients to provide personalized investment advice. To ensure accurate and relevant data collection, please verify that you are not a duplicate client and that you have not filled out this form previously. This form is intended to gather specific information about your investment objectives, risk tolerance, and financial history. By completing this form, you will be providing us with the necessary information to tailor our advice to your specific needs.</thinking>
-
 # Investment Advisory Service Intake Form - Help Guide
 ## Purpose
 The Investment Advisory Service Intake Form is designed to collect information about you and your investment goals. Please answer each question accurately to help our advisors provide personalized investment advice tailored to your specific needs.

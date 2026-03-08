@@ -1,16 +1,3 @@
-<thinking>
-This form is used for inspecting stormwater drainage systems and reporting on their condition. The form will be used by facility managers, maintenance personnel, and others responsible for ensuring the integrity and functionality of these systems. 
-
-This form is designed to be used in conjunction with the facility's existing maintenance and inspection procedures. It may be used to identify areas of concern, track progress, and inform future maintenance and repair schedules. 
-
-Please ensure that you are authorized to complete this form and that it is being used for the correct purpose. If you are unsure, please contact the relevant personnel. 
-
-Before starting, ensure that you have all necessary information, permissions, and equipment to complete the form. This may include photos, videos, or other supporting materials that help illustrate the system's condition.
-
-Please use this form to report on the condition of the entire stormwater drainage system, including all components and subsystems, as well as any issues or concerns. Be specific and detailed in your reporting.
-
-</thinking>
-
 # Stormwater Drainage Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about the condition and performance of stormwater drainage systems, enabling facilities to identify areas of concern and inform maintenance and repair activities.

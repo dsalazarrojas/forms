@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for internship applications. It includes various fields to gather details about the applicant's personal and professional background, such as name, contact information, education, skills, and work experience. The form also includes sections for attachments, such as resume, cover letter, and transcript, which should be uploaded in relevant formats. The purpose of this form is to help the hiring team evaluate and review applications for potential internship opportunities.
-This form is intended for internal use only and should not be shared or used for any other purpose. To ensure accuracy, please fill out the form carefully and thoroughly.
-The form is divided into several sections. Please complete each section as instructed.
-</thinking>
-
 # stem_hear_application - Help Guide
 ## Purpose
 This form is for internship applications. Please fill it out carefully to provide the hiring team with accurate and detailed information.

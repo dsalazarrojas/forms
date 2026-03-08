@@ -1,6 +1,3 @@
-<thinking>
-The form is used to gather information from house cleaners who are applying for a job. It asks for personal details such as name, email, and phone number, as well as information about their availability, experience, and job preferences. The form also inquires about their notice period, available shifts, and job types, among other things. It's essential to ensure that the form is filled out accurately to match the right candidate with the right job. Please verify that you're eligible to apply and that you haven't filled out this form for another job posting before proceeding. This will save you time and ensure that you're applying for a position that suits your qualifications and interests.</thinking>
-
 # Interview Questions For House Cleaners Form - Help Guide
 ## Purpose
 The Interview Questions For House Cleaners Form is used to gather information from potential house cleaners who are interested in working as house cleaners. The form helps the hiring manager to assess the candidate's qualifications, availability, and preferences to find the best fit for the position.

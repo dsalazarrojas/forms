@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for monitoring and recording the noise exposure levels of employees in a workplace. It may be used by safety officers or human resources personnel to track and report on potential noise hazards and ensure employees are taking necessary precautions.
-The form should not be used for other purposes or filled out by anyone who doesn't have access to the necessary information or authorization to complete it.
-</thinking>
-
 # Noise Exposure Monitoring Form - Help Guide
 ## Purpose
 The Noise Exposure Monitoring Form is a tool used by safety officers or human resources personnel to monitor and record the noise exposure levels of employees in a workplace. This form helps to identify potential noise hazards and ensure employees are taking necessary precautions to protect their hearing.

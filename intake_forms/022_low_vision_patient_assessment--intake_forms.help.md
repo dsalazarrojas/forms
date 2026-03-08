@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's low vision status. It's essential to ensure that the patient's vision level, medical history, and other relevant details are accurately recorded. Please note that this form is only intended for new patients or those with significant changes in their condition. If you've already completed this form for the patient, please don't resubmit the form. 
-</thinking>
-
 # Low Vision Patient Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a patient's low vision status, medical history, and other relevant details to provide accurate and effective care.

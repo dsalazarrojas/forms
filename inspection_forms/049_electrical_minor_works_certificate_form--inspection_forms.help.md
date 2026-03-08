@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to be used as a certificate of completion for electrical minor works, likely used by electrical inspectors or certifiers to document their findings and certification after completing an inspection. The purpose of this form is to collect information about the works completed, including the type and nature of the works, and to obtain a certification from the inspector. This form should only be used for electrical minor works and not for major works that require a more extensive certification process.
-
-Before starting this form, ensure that it is the correct form for your specific situation and that you are not duplicating work that has already been done.
-
-</thinking>
-
 # Electrical Minor Works Certificate Form - Help Guide
 ## Purpose
 This form is used to document and certify the completion of electrical minor works. It is designed to be used by electrical inspectors or certifiers to provide a record of their findings and certification after inspecting electrical work.

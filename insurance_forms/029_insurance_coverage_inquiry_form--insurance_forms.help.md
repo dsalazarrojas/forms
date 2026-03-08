@@ -1,12 +1,3 @@
-<thinking>
-This is an internal reasoning block to ensure we're on the same page.
-
-This form is intended to be used for users to inquire about insurance coverage. They will need to provide their personal details, such as their first and last name, email address, phone number, and birth date. They will also need to specify what type of insurance they are interested in (Life, Health, or Home) and the type of coverage they need (Auto, Bike, or House). Additionally, they will have to select the start and end dates of their policy. This form is crucial for users to get a quote or more information about insurance coverage that suits their needs.
-
-Before proceeding, please ensure that this form meets the requirements and doesn't duplicate any other existing form in the system.
-
-</thinking>
-
 # insurance_coverage_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect information about insurance coverage inquires from users.

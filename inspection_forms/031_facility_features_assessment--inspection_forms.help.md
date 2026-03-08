@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's quickly review the purpose of this form and verify that it's not a duplicate effort. The form appears to be a self-assessment tool for facility features, likely designed to evaluate the safety and emergency preparedness of a given facility. This form is likely used by facility management or inspection teams to gather data on various aspects of the facility's features, including safety equipment, systems, and emergency contact information. This guide will provide a clear explanation of each field to help users fill out the form accurately and effectively.</thinking>
-
 # Facility Features Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate the safety and emergency preparedness of a facility. It collects information on various features such as safety equipment, systems, and emergency contact information.

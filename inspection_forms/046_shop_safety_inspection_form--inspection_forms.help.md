@@ -1,9 +1,3 @@
-<thinking>
-  To create a clear and concise help guide for the "shop_safety_inspection_form", we need to consider the following:
-  The form is designed to collect information about shop safety inspections, likely for monitoring and reporting purposes. It appears to be used to record and track safety inspection data.
-  Each field has a specific purpose, and we should focus on providing clear explanations for each field to ensure end-users understand what information is being collected and why.
-</thinking>
-
 # shop_safety_inspection_form - Help Guide
 ## Purpose
 The shop safety inspection form is designed to collect information about shop safety inspections. This form helps in monitoring and reporting on shop safety data.

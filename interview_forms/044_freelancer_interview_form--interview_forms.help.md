@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a freelancer's availability and experience for potential collaboration or partnership opportunities. It is intended to be filled out by freelancers who are interested in working on a project with our team. The form will be reviewed internally to determine the best fit for potential projects.
-</thinking>
-
 # Freelancer Interview Form - Help Guide
 ## Purpose
 The Freelancer Interview Form is designed to gather essential information about your availability, experience, and payment preferences as a freelancer. This information will help us understand your qualifications and determine the best fit for potential projects.

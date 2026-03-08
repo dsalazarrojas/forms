@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate inquiries about free purchase of wireless security cameras. The purpose of this form is to gather information from potential buyers to understand their requirements and preferences for a wireless security camera subscription. This form is not intended for urgent or time-sensitive purchases, as it is primarily used for informational purposes to gauge interest in free purchase options. It is assumed that the buyer is not currently under a contract with another provider and is seeking to switch or explore free purchase opportunities.
-</thinking>
-
 # wireless_security_camera_subscription_free_purchase_inquiry - Help Guide
 ## Purpose
 This form is used to gather information about potential buyers' preferences and requirements for a free purchase of wireless security cameras. It is not for immediate purchases, but for informational purposes.

@@ -1,11 +1,3 @@
-<thinking> 
-
-This help guide is intended for end-users who will be filling out the Personal Trainer Client Intake And Liability Form. The form is designed to collect essential information from clients about their medical history, emergency contact details, and other relevant personal data. It's essential to complete this form carefully and accurately to ensure that the trainer is aware of any potential risks or health concerns. This form is a crucial part of the onboarding process and will help the trainer provide personalized guidance and support throughout the training program.
-
-Before filling out the form, please note that some fields may be optional, but it's recommended that you provide as much information as possible to ensure your safety and success in the training program.
-
-</thinking>
-
 # Personal Trainer Client Intake And Liability Form - Help Guide
 ## Purpose
 The Personal Trainer Client Intake And Liability Form is designed to gather essential information about you, the client, to ensure that our trainers are aware of any potential risks or health concerns. This information will help us provide personalized guidance and support throughout your training program.

@@ -1,5 +1,3 @@
-<thinking>This form is intended for documenting and reporting security incidents that occur within an organization. This form will help you record essential details about the incident, including the type, description, and other relevant information. Please ensure that you are familiar with the incident response process and procedures within your organization before completing this form. It's also a good idea to review your organization's security incident response policy to understand the specific requirements and guidelines for reporting security incidents.</thinking>
-
 # Security Incident Response Log - Help Guide
 ## Purpose
 The Security Incident Response Log is a form designed to collect and document information about security incidents that occur within an organization. This form helps ensure that incident details are accurately recorded, making it easier to investigate and respond to incidents in a timely and effective manner.

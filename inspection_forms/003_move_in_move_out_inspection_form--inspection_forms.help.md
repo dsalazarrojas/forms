@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # move-in-move-out-inspection-form - Help Guide
 
 ## Purpose

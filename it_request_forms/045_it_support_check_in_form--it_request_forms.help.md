@@ -1,16 +1,3 @@
-<thinking>
-This form is used for IT support check-in purposes. The form is meant to gather information from users about their IT-related issues or questions. The form is not meant for urgent or critical issues that require immediate attention, but rather for general inquiries or check-ins that do not require immediate resolution. The form is designed to be simple and easy to fill out, with fields for basic information and issue details. 
-
-The form is intended to be completed by users who are not sure what they are looking for, or who want to check in with the IT department on the status of their issue. The form will not be duplicated for users who have already submitted an IT request. 
-
-Please note that some fields are optional, and are meant to provide additional information to help the IT team better understand the user's issue or question. For example, the "Contact Info" field is meant to help the IT team reach out to the user if needed, but it is not required for all users. 
-
-Also, the "Issue Priority" field is meant to give the user an opportunity to specify the urgency level of their issue, but it is not required to be filled out by all users.
-
-The form is designed to be submitted by users who are willing to follow up on the status of their issue, and understand that it may take some time for the IT team to resolve. 
-
-</thinking>
-
 # it_support_check_in_form - Help Guide
 ## Purpose
 This form is used for IT support check-in purposes, gathering information from users about their IT-related issues or questions.

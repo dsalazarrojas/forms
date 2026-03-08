@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about drug delivery research projects. The purpose of this form is to gather essential details about the research project, such as its type, status, name, sponsor, contact person, contact information, location, and project deadline. This information will help the relevant teams to understand the project's requirements and plan accordingly. 
-
-Please note that this form is for internal use only, and the collected information will be reviewed by authorized personnel to ensure its accuracy and completeness.
-
-Before proceeding, make sure that you have filled out this form for a new project and not for an ongoing or previously submitted one.
-</thinking>
-
 # Drug Delivery Research Intake Form - Help Guide
 
 ## Purpose

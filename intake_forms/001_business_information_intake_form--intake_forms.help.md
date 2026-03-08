@@ -1,9 +1,3 @@
-<thinking>
-To prevent duplication and misclassification of business information, this form is designed to capture a comprehensive set of business details. 
-This form will help us better understand your business and its needs, and provide you with the most relevant and effective support. 
-Please answer all questions to the best of your abilities, and do not hesitate to ask if you need help.
-</thinking>
-
 # Business Information Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential business information to help us understand your company's needs and provide effective support.

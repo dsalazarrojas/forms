@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from companies interested in participating in a cloud-based inventory pilot application. The form asks for company information, such as name, contact person, and email address, as well as specific details about their current inventory system and requirements. This includes the type of system they currently use, the number of SKUs and inventory locations, and the primary objectives for cloud inventory. The form also asks about their pain points and required features, integration needs, data migration requirements, and pilot program timeline. This information will help the company and the product development team plan and tailor the pilot program to the company's needs and expectations.
-
-This form is meant to be filled out by companies interested in participating in the pilot program. Please ensure that the answers provided are accurate and reflect the company's actual needs and requirements.
-
-Note that this form should not be used for other purposes or duplicated. If you have already provided this information or have other forms with similar information, please do not fill this out. If you're unsure, please contact the relevant department or team to clarify any doubts.
-</thinking>
-
 # Cloud Based Inventory Pilot Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from companies interested in participating in the cloud-based inventory pilot application. This form helps us understand your company's needs, requirements, and expectations from the pilot program.

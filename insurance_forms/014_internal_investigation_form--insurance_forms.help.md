@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended for users who will be completing and submitting internal investigations. Please ensure you have the necessary information and permissions before starting this form. If you're unsure about any field, please refer to your organization's internal guidelines and protocols. This form should not be used for external or external submissions. Before starting, please note that some fields are required, marked as such in this guide.</thinking>
-
 # Internal Investigation Form - Help Guide
 ## Purpose
 The Internal Investigation Form is used to collect information for internal investigations within the organization. This form is intended for employees who will be conducting and submitting investigations, as well as their supervisors or reviewers who will review and approve the results.

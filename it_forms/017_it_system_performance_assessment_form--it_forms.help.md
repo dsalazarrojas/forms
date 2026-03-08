@@ -1,32 +1,3 @@
-<thinking>
-The goal of this help guide is to ensure that end users understand the purpose and requirements of the IT System Performance Assessment Form, so they can efficiently fill it out and get the information needed.
-
-Before we begin the guide, we will review the form to ensure it covers all the necessary fields for the assessment.
-
-The form has a total of 25 fields, which include fields for:
-* First name
-* Email
-* System name
-* Location
-* Performance level
-* Select multiple options
-* Date and time
-* Time input
-* Note
-* More email fields (3)
-* More user input fields (3)
-* More select multiple options (3)
-* More date fields (3)
-* More time input fields (3)
-* More note fields (3)
-* More system name fields (3)
-
-The form seems to be a performance assessment tool, likely used by IT personnel or management to evaluate the performance of systems or systems' users. The fields are mostly self-explanatory, but there might be some fields that are not immediately clear, such as the performance level field, which likely requires some explanation.
-
-Let's proceed to create the help guide.
-
-</thinking>
-
 # IT System Performance Assessment Form - Help Guide
 ## Purpose
 The IT System Performance Assessment Form is a tool used to evaluate the performance of systems or systems' users. This form helps IT personnel or management to gather information about the systems' performance, which can be used to identify areas for improvement and optimize system functioning.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tristone Financial Intake Form - Help Guide
 
 ## Purpose

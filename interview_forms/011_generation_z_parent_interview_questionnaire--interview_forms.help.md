@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I've analyzed the provided YAML and created a comprehensive help guide for the Generation Z Parent Interview Questionnaire. This guide explains the form's purpose, how to complete it, and provides a field-by-field explanation to ensure end-users understand what each field means.</thinking>
-
 # Generation Z Parent Interview Questionnaire - Help Guide
 
 ## Purpose

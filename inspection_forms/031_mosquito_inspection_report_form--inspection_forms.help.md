@@ -1,9 +1,3 @@
-<thinking>
-
-I'm checking that this form is for a "mosquito inspection report" within the category of "inspections_forms". The purpose of the form is to record inspection data for mosquito populations, likely for public health monitoring or other related purposes. I've reviewed the schema and see that it includes fields for property address, inspector signature, and inspection date. I've also checked that the form is not a direct copy of any existing form and is instead an original adaptation created using AI, released under a permissive license. I've made sure to follow the required fields and options for the form.
-
-</thinking>
-
 # Mosquito Inspection Report Form - Help Guide
 ## Purpose
 This form is designed to record inspection data for mosquito populations, typically for public health monitoring or other related purposes. The form allows inspectors to collect information about mosquito populations, helping to identify areas with high mosquito activity or potential breeding grounds.

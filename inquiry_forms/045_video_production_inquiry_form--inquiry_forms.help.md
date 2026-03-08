@@ -1,5 +1,3 @@
-<thinking>As the "Video Production Inquiry Form" is designed to gather information from users to facilitate the production process of videos, it's essential to ensure that all required fields are completed accurately to ensure a smooth inquiry process. This form must not be used for non-video production inquiries, as it's specifically tailored for this purpose. Please ensure you are using this form for the correct use case, and do not duplicate this form for other types of inquiries. If you're unsure, please reach out to our support team for assistance.</thinking>
-
 # Video Production Inquiry Form - Help Guide
 ## Purpose
 This form is used to collect information from users to inquire about video production services. It's essential to have all the necessary details to ensure that your video project is completed efficiently and effectively.

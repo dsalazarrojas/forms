@@ -1,12 +1,3 @@
-<thinking>
-To create a help guide for the "Copywriter Intake Form", we first need to understand the purpose of the form. This form is designed for business owners and entrepreneurs to provide information about their business for the copywriter's internal use. The purpose of the form is to gather essential details about the business, its products/services, target audience, and social media presence. This information will help the copywriter create effective and tailored content that resonates with the business's brand and audience.
-
-Before filling out the form, please check that you haven't already submitted it to prevent duplication of efforts. If you have previously submitted the form, you can edit your submission to update your information.
-
-This guide will walk you through each field in the form and help you complete it successfully.
-
-</thinking>
-
 # Copywriter Intake Form - Help Guide
 ## Purpose
 The Copywriter Intake Form is designed to gather essential information about your business to create tailored and effective content.

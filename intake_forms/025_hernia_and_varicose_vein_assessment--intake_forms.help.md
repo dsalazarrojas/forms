@@ -1,9 +1,3 @@
-<thinking>
-
-The "Hernia And Varicose Vein Assessment" form is designed to collect relevant information from patients undergoing a hernia and varicose vein assessment. This form aims to gather patient data for further medical evaluation and diagnosis. Please ensure you have the necessary permissions from your patient before collecting and processing their sensitive data. This form is part of a larger medical assessment, and your responses will be reviewed by medical professionals in the healthcare industry. Please answer the questions truthfully and completely to ensure accurate and reliable data.
-
-</thinking>
-
 # Hernia And Varicose Vein Assessment - Help Guide
 ## Purpose
 The "Hernia And Varicose Vein Assessment" form is designed to collect patient information for further medical evaluation and diagnosis.

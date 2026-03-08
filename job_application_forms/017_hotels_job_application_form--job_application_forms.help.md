@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely used for job applicants to apply for various hotel-related positions. The form asks for contact information (Name, Email, Phone Number, and Postal Code), address information (Street, City, and Country), desired position, available start date, resume, attachments, job title, company name, department, and job status. This form is likely used by a hotel management or HR department to collect information from applicants for job openings in the hotel industry. 
-
-</thinking>
-
 # hotels_job_application_form - Help Guide
 ## Purpose
 This form is for job applicants to provide their contact and work-related information for job openings in the hotel industry.

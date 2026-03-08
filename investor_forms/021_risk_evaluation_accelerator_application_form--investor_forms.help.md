@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that will make it easy for end-users to understand the purpose and functionality of the Risk Evaluation Accelerator Application Form. I will carefully review the provided YAML schema to ensure that each field and option is clearly explained, and that the instructions are concise and practical. This guide should cover the purpose of the form, how to complete it, and a field-by-field explanation of each section. This will help users to quickly and accurately fill out the form, reducing errors and increasing the efficiency of the process.</thinking>
-
 # Risk Evaluation Accelerator Application Form - Help Guide
 ## Purpose
 The Risk Evaluation Accelerator Application Form is designed to collect project information for risk assessment and evaluation purposes. This form helps project stakeholders to provide essential details about the project, including its type, status, contact information, and other relevant details. The form will help to streamline the risk evaluation process, ensuring that all necessary information is gathered and reviewed efficiently.

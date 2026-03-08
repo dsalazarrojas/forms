@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information for a remote workforce monitoring dashboard request. The purpose of this form is to gather details about the specific requirements and needs of the end-user, ensuring that the requested dashboard meets their expectations. 
-
-Before proceeding, please take a moment to review the form carefully and ensure that you have filled in all required fields. 
-
-This form is intended for internal use and is not intended for external submission. If you are unsure about any field or have questions, please contact the support team for clarification. 
-
-To avoid duplication, please check if a similar request has been made before. If so, please reference the existing request and provide any additional information that has changed. 
-
-Please fill in the form accurately and thoroughly, as the information will be used to configure the dashboard according to your specifications. 
-
-</thinking>
 # Remote Workforce Monitoring Dashboard Request - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a custom remote workforce monitoring dashboard request. It will guide the IT department in configuring the dashboard according to your requirements.

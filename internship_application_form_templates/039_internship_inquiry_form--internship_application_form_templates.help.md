@@ -1,6 +1,3 @@
-<thinking>
-This form is used by students or individuals interested in pursuing an internship to gather information about their internship inquiry. The form ensures that the internship details are collected accurately and consistently for future reference. Please note that the form should only be filled out once per internship inquiry and ensure that you are not duplicating an existing record. If you have filled out this form previously, please check with your HR department or supervisor for further information.</thinking>
-
 # Internship Inquiry Form - Help Guide
 ## Purpose
 The Internship Inquiry Form is used to collect information about an internship opportunity. This form gathers details about the internship such as institution, program title, start and end dates, internship type, and other relevant information.

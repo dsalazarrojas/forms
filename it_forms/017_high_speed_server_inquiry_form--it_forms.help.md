@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from end-users about their high-speed server inquiries, which can be used to provide support and guidance on meeting their server-related needs. To ensure relevance and non-duplication, this form should only be used for users who have already been identified as requiring high-speed server support. The form is designed to collect detailed information about the user's server requirements, contact details, and technical specifications, which will be used to provide personalized support and guidance.
-
-</thinking>
-
 # High Speed Server Inquiry Form - Help Guide
 ## Purpose
 The High Speed Server Inquiry Form is designed to gather detailed information about your high-speed server requirements, contact details, and technical specifications. This form will help us understand your needs and provide personalized support and guidance.

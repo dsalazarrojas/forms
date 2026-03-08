@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule property inspections. It's intended to be filled out by staff members or users who are responsible for scheduling and documenting property inspections. The form should only be filled out for properties that are currently active and require inspection. It's likely used in a maintenance or facilities management context, such as in a property management company or real estate agency. This form is designed to be completed by one person at a time and should not be duplicated or submitted multiple times for the same property.
-</thinking>
-
 # Property Inspection Scheduling Form - Help Guide
 ## Purpose
 The Property Inspection Scheduling Form is used to schedule property inspections for active properties.

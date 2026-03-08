@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to aid in the inspection and evaluation of irrigation systems. It should only be used for systems that meet the following conditions: 
-- The system is in a condition where its status needs to be assessed.
-- The system has been inspected previously, but not recently enough to warrant an immediate inspection (i.e., not in the last week or 2).
-- This form is intended to gather data for the sake of tracking and comparison.
-</thinking>
-
 # Irrigation Audit Form - Help Guide
 ## Purpose
 The Irrigation Audit Form is used to assess the status of irrigation systems. It helps in tracking and comparing the condition of these systems over time.

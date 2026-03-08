@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect investor information, likely for investment advisory services, portfolio management, or financial planning purposes. To prevent duplication of efforts and ensure that the form's purpose is clear, it's essential to have a comprehensive and accurate user guide. This guide will walk users through the form's purpose, how to complete it, and provide explanations for each field, making it easier for investors to understand what information is required and how to provide it accurately.
-</thinking>
-
 # Investor Portfolio Information Form - Help Guide
 ## Purpose
 The Investor Portfolio Information Form is a collection of questions designed to gather essential information about your investment preferences, goals, and current situation. This form will help our investment advisors provide personalized recommendations and create a tailored investment plan for you.

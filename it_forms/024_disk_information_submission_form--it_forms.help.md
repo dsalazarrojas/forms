@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about disk drives. The purpose of this form is to gather details about disk drives, such as disk ID, serial number, type, status, capacity, size, model, vendor, and location. The form is likely used in an IT or technical context, where users need to report and track disk drive information for management or maintenance purposes. This form is probably not required for every user, but rather for specific personnel handling disk drives, such as IT administrators or technicians. It's possible that this form is part of a larger system for tracking and managing disk drives in a data center or other environment where disk drives are used.
-</thinking>
-
 # Disk Information Submission Form - Help Guide
 ## Purpose
 The Disk Information Submission Form is a tool used to collect and track information about disk drives. Fill out this form to report and manage disk drive details.

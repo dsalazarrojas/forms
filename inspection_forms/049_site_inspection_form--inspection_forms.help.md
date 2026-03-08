@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect data for site inspections, a process typically conducted to evaluate and report on safety issues and compliance with regulations.
-</thinking>
-
 # Site Inspection Form - Help Guide
 ## Purpose
 The Site Inspection Form is a tool used for site inspections, allowing site inspectors to document and report on safety issues and compliance with regulations.

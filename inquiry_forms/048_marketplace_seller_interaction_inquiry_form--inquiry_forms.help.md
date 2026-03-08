@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketplace Seller Interaction Inquiry Form - Help Guide
 
 ## Purpose

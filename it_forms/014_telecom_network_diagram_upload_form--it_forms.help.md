@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telecom Network Diagram Upload Form - Help Guide
 ## Purpose
 This form is designed for uploading telecom network diagrams for documentation and reference purposes.

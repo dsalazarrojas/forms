@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to report the condition of transportation infrastructure, such as roads, bridges, and assets. The purpose of this form is to collect data on the condition of these infrastructure items in order to track and manage their maintenance and repair needs. This form is typically used by maintenance and inspection teams to report on the status of infrastructure assets after an inspection or assessment.
-
-When completing this form, please ensure that you are only reporting on the current condition of the infrastructure asset, and not its planned or proposed future condition.
-
-The form has multiple pages, each with its own set of fields. Please ensure that you complete the entire form carefully and accurately.
-
-</thinking>
-
 # Transportation Infrastructure Condition Report - Help Guide
 ## Purpose
 This form is used to report the condition of transportation infrastructure, such as roads, bridges, and assets.

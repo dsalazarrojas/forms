@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document the results of sewer testing activities. It is intended to be filled out by staff or inspectors after conducting a series of tests on a sewer. To complete this form, you should first select the date of the inspection in the "Inspection Date" field, which should be the date on which the testing was conducted. Next, you should enter the name of the inspector who conducted the test in the "Inspector Name" field. The "Sewer ID" field should be the unique identifier for the sewer being tested. If the test was conducted on a specific type of test (e.g., flow test, visual test), select the corresponding option from the "Test Type" dropdown menu. You can then enter any notes related to the test in the "Notes" field. The "Test Result" field should be selected based on the outcome of the test (e.g., passing or failing). If any additional remarks are required, enter them in the "Remarks" field. Finally, enter the location of the sewer in the "Location" field.
-
-</thinking>
-
 # Sewer Testing Log - Help Guide
 ## Purpose
 This form is used to record the results of sewer testing activities. It captures information about the date and inspector conducting the test, the sewer being tested, the type of test conducted, and the results of the test.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the actual form help guide, let's quickly clarify the form's purpose and ensure it's being used for the right reasons. This "Program Removal Request Form" is designed to gather information from users who need to request the removal of a program. The form's fields are minimal, suggesting it's primarily intended for a simple and straightforward process. We should verify that the form is not being used for any other purpose and that users are not submitting duplicate requests. Let's assume this form is being used correctly.</thinking>
-
 # Program Removal Request Form - Help Guide
 ## Purpose
 The Program Removal Request Form is designed to collect information from users who wish to request the removal of a program. This form is used to gather the necessary details for the removal process, ensuring that the request is processed efficiently and effectively.

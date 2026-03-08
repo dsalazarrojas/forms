@@ -1,10 +1,3 @@
-<thinking>
-To provide a user-facing help guide for this form, I'll first review the form's purpose and requirements to ensure relevance and non-duplication. Upon reviewing the YAML fields, I've identified the following.
-
-The form is designed to collect information from e-commerce organizations, which can be categorized into different types of businesses, such as e-commerce companies, retail chains, marketplaces, B2B sellers, SaaS platforms, or others. The form captures details about the organization's contact information, infrastructure requirements, and specific features needed. Additionally, it requests information on the estimated annual budget, implementation timeline, key priorities, and additional context.
-
-</thinking>
-
 # Cloud Commerce Infrastructure Application Form - Help Guide
 
 ## Purpose

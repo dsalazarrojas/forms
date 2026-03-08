@@ -1,6 +1,3 @@
-<thinking>
-...The form "health_and_lifestyle" is part of our insurance-related forms category, and it collects information about the applicant's health and lifestyle details for risk assessment and policy purposes. This form is meant to be filled out by applicants who have applied or are applying for insurance policies. It's crucial that the information is accurate and up-to-date as it will help in making informed decisions regarding insurance policy coverage. To prevent duplication, this form is intended to be filled out only once during the policy application process. If a user has filled this form previously, they should be directed to the relevant saved form instance to avoid entering redundant information. If no saved instance exists, it is acceptable to fill in the new form. In any case, please review each question carefully and respond with the most accurate information available.
-</thinking>
 # health_and_lifestyle - Help Guide
 ## Purpose
 This form collects information about your health and lifestyle to help us assess your risk factors and provide you with the most suitable insurance policy.

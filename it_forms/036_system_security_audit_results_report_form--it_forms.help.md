@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and document the results of a system security audit. This form will help identify potential security risks and areas for improvement within the system. It is essential to fill out this form accurately and thoroughly to ensure that the results are informative and actionable. Before filling out this form, please make sure you have read the relevant documentation and procedures related to system security audits. If you're filling out this form for the first time, take the time to understand the context and purpose of each section to get the most out of it. Please do not duplicate this form unnecessarily, as it is intended to be a one-time collection of information for each security audit.
-</thinking>
-
 # System Security Audit Results Report Form - Help Guide
 ## Purpose
 

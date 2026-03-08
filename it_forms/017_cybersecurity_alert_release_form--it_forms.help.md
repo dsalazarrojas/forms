@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended to provide clear instructions on how to complete the Cybersecurity Alert Release Form, ensuring that users understand its purpose and how to fill it out correctly. 
-
-The form is designed to capture details about security incidents that require release. To confirm its relevance and avoid duplication, it's crucial to ensure that users only fill this form when a legitimate incident occurs. 
-
-The form's purpose is to collect essential information about the incident, including its severity level, description, location, affected resources, impact level, priority, status, and other relevant details. 
-
-Please read this guide carefully to ensure you understand the form's purpose and how to complete it accurately. 
-</thinking>
-
 # cybersecurity_alert_release_form - Help Guide
 ## Purpose
 The Cybersecurity Alert Release Form is used to report and release information about security incidents that occur on the network. It helps gather essential details to identify and address potential security threats efficiently.

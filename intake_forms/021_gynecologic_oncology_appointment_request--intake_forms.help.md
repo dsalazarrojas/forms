@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for gynecologic oncology appointment requests. The purpose of this form is to gather necessary details from patients, including their personal information, appointment schedule, and medical preferences. 
-Before filling out this form, ensure that you are not duplicating an already existing request. If you are unsure, please consult with the relevant authority or team member for clearance.
-</thinking>
-
 # gynecologic_oncology_appointment_request - Help Guide
 ## Purpose
 This form is used to request an appointment with a gynecologic oncology doctor. It is essential to provide accurate and complete information to ensure efficient processing and effective communication with the hospital's medical team.

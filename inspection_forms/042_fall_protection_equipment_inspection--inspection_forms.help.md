@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to inspect and record the results of fall protection equipment inspections on a construction site, ensuring that all necessary safety equipment is properly inspected and maintained. The form is designed to be completed by a site inspector, who will be able to record the equipment used, the date of the inspection, the location of the inspection, and the results of inspections on both safety and personal protection equipment. This form is a critical part of maintaining a safe working environment on the construction site.
-
-Before starting, ensure that this form is not a duplicate of another form, and only the authorized personnel are completing this form.
-
-</thinking>
-
 # Fall Protection Equipment Inspection - Help Guide
 ## Purpose
 This form is used to inspect and record the results of fall protection equipment inspections on a construction site.

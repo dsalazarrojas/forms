@@ -1,9 +1,3 @@
-<thinking>
-The Legal Client Intake Form is used to collect vital information from legal clients, including their personal details, contact information, and agreement to certain terms. This form is crucial for the legal team to understand the client's context and provide the best possible service.
-To avoid duplication and ensure the correct completion of this form, please make sure you have the necessary permissions and approvals before proceeding.
-This form is split into multiple pages, each focusing on a specific aspect of the client's information.
-</thinking>
-
 # Legal Client Intake Form - Help Guide
 ## Purpose
 The Legal Client Intake Form is used to collect essential information from legal clients, enabling the legal team to understand their requirements and provide tailored services.

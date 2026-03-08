@@ -1,7 +1,3 @@
-<thinking>
-This form is used for software release planning and management. It captures important details about a planned software release, including release name, version, date, and description. The form also captures relevant team members involved and the status of the release. This information is likely used for internal planning and coordination purposes within a product team or IT department. It's essential to fill out this form accurately to ensure smooth software release processes.
-</thinking>
-
 # software_update_release_form - Help Guide
 ## Purpose
 This form is designed to collect information about planned software releases, enabling teams to coordinate and prepare for upcoming releases. It helps in tracking release details, team members' involvement, and release status.

@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect application information from job seekers for auditor positions. It includes fields to provide personal details, education, professional experience, and job preferences. The form is divided into several sections to ensure that the applicant's qualifications and availability are thoroughly captured. Please ensure you answer all questions accurately and truthfully to help us evaluate your application properly. This form is intended for new applicants and should not be used for internal promotions or transfers within the company. If you have any questions or concerns, please feel free to contact us for assistance...</thinking>
-
 # Auditor Job Application Form Template - Help Guide
 ## Purpose
 The Auditor Job Application Form Template is designed to collect application information from job seekers for auditor positions. It is divided into several sections to help us evaluate your qualifications and availability for the job.

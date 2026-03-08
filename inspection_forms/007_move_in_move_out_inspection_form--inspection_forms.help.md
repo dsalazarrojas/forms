@@ -1,7 +1,3 @@
-<thinking>
-The form "Move In Move Out Inspection Form" is intended to record the condition of a property during tenant move-in and move-out. This form helps identify any damages, missing items, or issues with the property that the landlord, property owner, or facility manager can use for future maintenance and repairs. The purpose of this form is to ensure a comprehensive inspection is performed to capture all the important details about the property's condition at the start and end of a tenancy.
-</thinking>
-
 # Move In Move Out Inspection Form - Help Guide
 ## Purpose
 The Move In Move Out Inspection Form is a tool used to record the condition of a property at the beginning and end of a tenancy. It helps landlords, property owners, or facility managers to identify any damages, missing items, or issues with the property that may be present. This form is essential for future maintenance and repairs.

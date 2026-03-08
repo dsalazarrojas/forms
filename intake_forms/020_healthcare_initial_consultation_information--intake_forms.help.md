@@ -1,5 +1,3 @@
-<thinking>...this form is intended to gather information for new patient consultations, including demographic details, medical history, and other relevant information for healthcare providers to review before and during the consultation. This form is likely used for initial intake purposes only, and the information collected here will be used to inform the consultation process. To avoid duplication, ensure that you have not already submitted this form for the same patient. Please review each field carefully to ensure you provide accurate and complete information...</thinking>
-
 # Healthcare Initial Consultation Information - Help Guide
 ## Purpose
 This form is designed to gather essential information for new patient consultations. Please complete this form to provide healthcare providers with the necessary details to review before and during your consultation.

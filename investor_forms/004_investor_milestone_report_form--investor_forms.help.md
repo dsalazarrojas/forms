@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help investors report milestones and provide feedback on investment opportunities. It is intended for use by investors to submit their own information and insights about specific investment opportunities. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using public survey topic metadata.
-</thinking>
-
 # investor_milestone_report_form - Help Guide
 ## Purpose
 The investor_milestone_report_form is a tool for investors to report milestones and provide feedback on investment opportunities. It helps investors to track and document their progress and insights.

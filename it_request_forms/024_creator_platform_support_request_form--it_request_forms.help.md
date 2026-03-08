@@ -1,7 +1,3 @@
-<thinking>
-This form, "creator_platform_support_request_form", is used for users to submit support requests to the creator platform. The form is designed to gather relevant information about the request, including category, description, issue, and follow-up details. Before filling out the form, please ensure that the issue has not already been reported or addressed by checking the platform's issue tracker or support logs. If you are unsure about the form's purpose or have any questions, feel free to ask the platform's support team for clarification.
-</thinking>
-
 # creator_platform_support_request_form - Help Guide
 ## Purpose
 The creator_platform_support_request_form is used to submit a support request to the creator platform.

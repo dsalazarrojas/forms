@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form "Device Erasure Verification Issue Report Form" is designed for reporting issues related to device erasure, which involves the removal or destruction of a device, potentially affecting data and user productivity. This form is used to collect information about the issue, including the asset ID, device ID, and asset type, to help in resolving the problem efficiently. Before submitting the form, ensure that you have not already reported the issue to avoid duplication of effort. If the issue is a duplicate, please refer to the original report for the latest updates.
-</thinking>
-
 # Device Erasure Verification Issue Report Form - Help Guide
 ## Purpose
 The "Device Erasure Verification Issue Report Form" is a tool used to report issues related to device erasure, allowing your team to track and resolve these problems efficiently.

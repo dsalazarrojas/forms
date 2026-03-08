@@ -1,7 +1,3 @@
-<thinking>
-The form is used to process claims for insurance refunds. It is a critical part of the insurance company's process to ensure that customers receive their refunds in a timely and accurate manner. Before proceeding, please ensure that the form is relevant to your current situation and not a duplicate submission. The form is designed to collect necessary information to process the claim, including customer details, claim details, and bank information. Please read through the form carefully and fill it out accurately to avoid any delays in the refund process.
-</thinking>
-
 # Gap Insurance Refund Form - Help Guide
 ## Purpose
 The Gap Insurance Refund Form is used to process claims for insurance refunds.

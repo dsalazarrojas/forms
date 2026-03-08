@@ -1,16 +1,3 @@
-<thinking>
-The "Winch System Inspection Checklist" form is designed to be used by inspection team members to record and report on the inspection of a winch system. The form is intended to ensure that all critical aspects of the winch system are checked and documented during the inspection process. To ensure accurate and thorough completion of this form, team members should only complete it after a thorough physical inspection of the winch system has been conducted.
-
-Before completing this form, please ensure you have inspected the winch system and have a clear understanding of its current state. This form should not be used as a substitute for a physical inspection. If you are unsure about any aspect of the inspection or the form's completion, please seek guidance from a qualified inspection team member or the form's author.
-
-Please note that this form is designed to be completed in a specific way, with each field having a specific purpose and expected outcome. Please take the time to read and understand each field's explanation before completing it.
-
-Also, please be aware that some fields may have specific options or instructions that require careful consideration. If you are unsure about any field, please seek clarification before proceeding.
-
-To avoid duplication of effort and ensure accuracy, please do not complete this form without first conducting a thorough physical inspection of the winch system. If you have already completed this form, please do not repeat the inspection or form completion unless instructed to do so by a qualified inspection team member.
-
-</thinking>
-
 # Winch System Inspection Checklist - Help Guide
 ## Purpose
 The Winch System Inspection Checklist is a form used to record and report on the inspection of a winch system. The form is designed to ensure that all critical aspects of the winch system are checked and documented during the inspection process.

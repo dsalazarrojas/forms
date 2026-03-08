@@ -1,13 +1,3 @@
-<thinking> 
-  This form is intended to collect information about workflow configurations, allowing users to provide details about the workflow's status, type, priority, starting and ending dates, and other relevant attributes. This form is used to capture the specific settings and parameters for a particular workflow, ensuring that all necessary information is recorded accurately and consistently. 
-  To confirm, it seems that there is no duplication of fields, as all fields have unique IDs. However, I will make sure to cover every field in this explanation to ensure users understand what to expect.
-  Before proceeding, please note the following:
-  1. This form is primarily used for workflow configuration, not for user feedback or comments.
-  2. Some fields might be optional or have specific default values.
-  3. Certain fields require specific input types, such as dates or numbers.
-  4. Please be accurate and consistent in your input.
-</thinking>
-
 # Workflow Configuration Form - Help Guide
 ## Purpose
 This form is used to capture the essential details and attributes of a workflow configuration, providing a structured way to document and analyze the workflow's status, type, and other relevant settings.

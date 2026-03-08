@@ -1,7 +1,3 @@
-<thinking>
-The form "Software Development Lifecycle Audit Form" is designed to collect information about the software development lifecycle (SDM) of a project, focusing on the project's status, phase, and various aspects related to the SDM process. This form is intended to provide a comprehensive overview of the project's current state, allowing for a thorough audit of the SDM process. The form's fields cover different stages and activities involved in the software development lifecycle, such as project status, phase, SDM model, continuous integration, deployment, monitoring, and meeting aspects. It's essential that the form is filled out correctly to ensure accurate representation of the project's current status.
-</thinking>
-
 # Software Development Lifecycle Audit Form - Help Guide
 ## Purpose
 The Software Development Lifecycle Audit Form is designed to collect information about the software development lifecycle (SDM) of a project, providing a comprehensive overview of the project's current state.

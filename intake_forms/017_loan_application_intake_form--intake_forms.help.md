@@ -1,12 +1,3 @@
-<thinking>
-The Loan Application Intake Form is designed to collect information from individuals seeking loan applications. This form is intended to gather essential data required for loan processing and approval. **Please note that this form is not meant to replace the actual loan application process and that any submitted information will be reviewed and verified as part of the loan application review process.**
-
-Before submitting this form, please ensure that you have all necessary information and that you are submitting the form on behalf of the loan applicant. Duplicate submissions can be time-consuming and may lead to unnecessary delays in the loan application process.
-
-**Please review the following fields carefully and provide accurate information. If you have any doubts or concerns, please reach out to our loan team for assistance.**
-
-</thinking>
-
 # Loan Application Intake Form - Help Guide
 ## Purpose
 The Loan Application Intake Form is designed to collect basic information from loan applicants to facilitate the loan application review process. This guide will walk you through each section of the form to ensure accurate and efficient submission.

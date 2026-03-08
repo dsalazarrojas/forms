@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the configuration of signals in a system. This form will help the user to determine the settings for signal types, frequency, device type, signal status, and priority.
-The form is designed to be completed by users who need to configure signals for a system, and the data collected will be used to inform decisions about signal processing and alerting.
-
-To avoid duplication of effort, please ensure that users are not completing this form unnecessarily, and that all required fields are filled out to ensure accurate and complete data collection.
-</thinking>
-
 # Signal Configuration Survey - Help Guide
 ## Purpose
 The Signal Configuration Survey form is used to collect information about the configuration of signals in a system, helping to inform decisions about signal processing and alerting.

@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about access requests, specifically the requester's details and the type of access they are requesting. It seems to be related to employee access or privileges within a company or organization. The form likely has multiple pages, but only one page is defined in the provided schema. The fields on this page are mostly text-based, allowing the user to input various types of information, including the requester's name, reason for the request, access type, and notes. The access level and start and end dates are also included as options for the user to choose from. This form appears to be a general access request form, possibly used in HR or administrative contexts.</thinking>
-
 # Veracity Access Form - Help Guide
 ## Purpose
 The Veracity Access Form is designed to collect information about access requests for employees or contractors within a company or organization. This form helps gather the necessary details to grant or deny access based on the submitted information.

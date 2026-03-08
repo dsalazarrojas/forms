@@ -1,38 +1,3 @@
-<thinking> 
-**Form Purpose and Relevance Check**
-
-This form, "Wall Surface Inspection Checklist", is used for conducting inspections on the surface of walls in properties. The form collects information about the property's wall surface, including its type, material, and condition. This information will be used by inspectors to assess and document the current state of the property's walls.
-
-Upon reviewing the form fields, I notice that the form has 15 fields in total. All fields are either select_one, select_multiple, text, date, or note types. None of the fields are redundant or unnecessary.
-
-The following fields are marked as required:
-
-* Property ID
-* Wall Surface Type
-* Condition
-* Completed
-
-These fields are essential for the form's functionality and cannot be omitted. The remaining fields are either optional or provide additional context and information for the inspection.
-
-Form Validation:
-
-* Property ID: A numerical value that identifies the property being inspected
-* Inspection Date: The date of the inspection
-* Wall Surface Type: The type of wall surface being inspected (Concrete, Drywall, Painted, Wood)
-* Wall Material: The material used for the wall surface (Concrete Block, Drywall, Painted, Plaster, Wood)
-* Condition: The overall condition of the wall (Good, Fair, Poor)
-* Notes: Any additional comments or observations from the inspector
-* Inspector Name: The last name and first name of the inspector
-* Inspector Phone: The phone number of the inspector
-* Inspector Email: The email address of the inspector
-* Property Manager Name: The last name and first name of the property manager
-* Property Manager Phone: The phone number of the property manager
-* Property Manager Email: The email address of the property manager
-* Follow Up: The date for any follow-up inspections
-* Follow Up Notes: Any additional comments or observations from the follow-up inspection
-
-</thinking>
-
 # Wall Surface Inspection Checklist - Help Guide
 
 ## Purpose

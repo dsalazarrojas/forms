@@ -1,10 +1,3 @@
-<thinking>
-This form is for creating or managing software surveys. The form is likely used by IT staff to track and manage surveys associated with software projects. Each field is intended to capture specific information about the survey, such as its title, category, description, and status. The form also captures metadata about the survey, like the assigned tool, form ID, and creation/update dates. The comments and output fields are for providing additional context and results of the survey.
-
-Before creating this form, please ensure that you are not duplicating an existing one. You can check the 'Form ID' field to see if a similar survey already exists.
-
-</thinking>
-
 # software_survey_form - Help Guide
 ## Purpose
 

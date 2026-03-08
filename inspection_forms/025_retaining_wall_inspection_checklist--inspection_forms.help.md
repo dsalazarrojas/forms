@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retaining Wall Inspection Checklist - Help Guide
 
 ## Purpose

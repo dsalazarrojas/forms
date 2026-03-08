@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "Ask A Specialist Inquiry Form", we need to consider the following:
-
-* The form's purpose is to allow users to inquire about specific topics or questions related to various expert domains, such as Medical and Healthcare, Legal and Regulatory, Technical and IT, Financial and Investment, or Career and HR.
-* The form is designed to gather information about the user's inquiry, including their name, email address, the specialist category they are seeking, a brief title and description of their inquiry, and their preferred response format.
-* The form aims to ensure that users provide accurate and relevant information to help the specialists provide efficient and timely responses.
-
-</thinking>
-
 # Ask A Specialist Inquiry Form - Help Guide
 ## Purpose
 The purpose of this form is to allow users to inquire about specific topics or questions related to various expert domains, and to provide necessary information for the specialist to offer efficient and timely responses.

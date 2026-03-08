@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll first provide an internal reasoning block to ensure I understand the form's purpose and requirements.</thinking>
-
 The purpose of this form is to handle the logout process for devices, which involves collecting relevant information from the user, such as their name, reason for logout, and device-specific details. This form is likely used in an IT or administrative setting where devices need to be logged out for various reasons.
 
 To ensure non-duplication and relevance, let's break down the form fields into sections or categories to help us understand their purpose:

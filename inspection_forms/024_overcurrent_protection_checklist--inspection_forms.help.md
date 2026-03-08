@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about overcurrent protection checks, which are an essential part of ensuring the safety and efficiency of electrical equipment. Overcurrent protection checks help identify and prevent potential electrical hazards by verifying that electrical systems, devices, and equipment are functioning as intended. This form is designed to guide inspectors in collecting the necessary data for these checks.
-</thinking>
-
 # Overcurrent Protection Checklist - Help Guide
 
 ## Purpose

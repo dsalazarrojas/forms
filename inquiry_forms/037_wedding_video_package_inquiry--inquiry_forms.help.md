@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Wedding Video Package Inquiry" form. This form is used to gather information about a couple's wedding video package requirements. The form's purpose is to collect details about the couple, their event, and their package preferences. This data will be used to provide a quote for the requested service.
-
-Before filling out this form, please ensure you have not already submitted an inquiry. If you have submitted an inquiry in the past, please check your previous submission to see if your question has already been answered.
-
-To fill out the form, please select the correct options for each field and enter the required information. If a field is not required, you can leave it blank, but be aware that providing incomplete information may result in a less accurate quote.
-
-</thinking>
-
 # Wedding Video Package Inquiry - Help Guide
 ## Purpose
 This form is used to gather information about your wedding video package needs. We will use the information you provide to provide a quote for our services.

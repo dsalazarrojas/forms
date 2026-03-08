@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Release Tag Creation Request Form - Help Guide
 ## Purpose
 This form is used to create a release tag for a specific release version in a specified environment. It's intended for requesting access to a release tag for testing or other purposes.

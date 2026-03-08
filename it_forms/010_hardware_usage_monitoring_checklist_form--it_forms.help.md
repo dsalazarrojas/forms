@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to track and monitor the usage and status of hardware assets. It is designed to be a checklist-style form for users to input information about specific hardware, including its serial number, asset name, last used date and time, and other relevant details. This form is intended to be used in conjunction with other forms and systems to keep track of hardware inventory and monitor usage patterns. To ensure that the form is completed correctly, please review each field carefully and make sure to provide accurate information.
-</thinking>
-
 # hardware_usage_monitoring_checklist_form - Help Guide
 ## Purpose
 The hardware usage monitoring checklist form is designed to track and monitor the usage and status of hardware assets. It is a checklist-style form that collects information about specific hardware, including its serial number, last used date and time, and other relevant details.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about a client's health and wellness goals, medical history, and questions for a health coach to ask during the coaching process. The form has multiple pages with various types of questions, including text inputs, select-one and select-multiple options, and free-form questions for the health coach. This form is likely used by health coaches to gather information about their clients' goals and medical history before starting the coaching process.
-
-Before using this form, please ensure that you have not previously completed this form. If you have previously submitted a form, your responses will not be reflected in the current form. Please provide accurate and complete information about your goals and medical history.
-</thinking>
-
 # Health Coach Client Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your health and wellness goals, medical history, and questions for a health coach to ask during the coaching process.

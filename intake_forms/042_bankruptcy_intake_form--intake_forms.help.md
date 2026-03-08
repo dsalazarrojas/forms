@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will help users understand the purpose of this Bankruptcy Intake Form, which is intended to collect information about an individual's financial situation to assess their eligibility for bankruptcy protection. This form is used to gather details about the debtor's identification, employment, income, expenses, assets, and debts to determine the best course of action for their case. It's crucial to ensure that the information provided is accurate and comprehensive to avoid duplication of efforts and ensure the correct assessment of the individual's financial situation. Please review the form carefully and provide the required information to facilitate a smooth and effective process.</thinking>
-
 # Bankruptcy Intake Form - Help Guide
 ## Purpose
 The Bankruptcy Intake Form is designed to collect detailed information about an individual's financial situation in order to assess their eligibility for bankruptcy protection. This form gathers information about the debtor's identification, employment, income, expenses, assets, and debts to provide a comprehensive understanding of their financial status.

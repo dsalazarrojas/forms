@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used for verifying insurance policies. The purpose of this form is to collect information from users about their insurance policies, which can be used to update or verify existing information. This form is likely used by insurance companies or other organizations involved in the insurance industry.
-This form is not a substitute for an actual insurance policy, and users should not use it to report or verify their policies unless they are authorized to do so. It is assumed that the user has an existing policy and is attempting to verify its details.
-It is also assumed that users understand what their policy status means and can select the correct option accordingly.
-</thinking>
-
 # insurance_policy_verification_form - Help Guide
 ## Purpose
 This form is used to collect information from users about their insurance policies. It is intended to be used for verifying existing policies.

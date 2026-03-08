@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anti Static Curtain Wall Assessment - Help Guide
 
 ## Purpose

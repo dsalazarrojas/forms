@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Aircraft Inspection Checklist - Help Guide
 ## Purpose
 The Aircraft Inspection Checklist is a form designed to assess the airworthiness of an aircraft after maintenance, repair, or inspection. This form helps inspectors ensure that all critical systems and components are functioning correctly and safely. It's a standard tool for verifying that an aircraft is airworthy, which means it's safe to fly.

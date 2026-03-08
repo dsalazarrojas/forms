@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for inspections of vessels, which is a crucial process in the maritime industry for ensuring compliance and safety. The form is likely used by harbor or marine inspectors to record their findings and observations during these inspections. The purpose of this guide is to explain the purpose of the form, how to fill it out, and what each field represents.
-</thinking>
-
 # Vessel Inspection Form - Help Guide
 ## Purpose
 The Vessel Inspection Form is used to record the results of an inspection of a vessel, including its safety equipment, inspection result, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a System Access Approval Form, used to request and track access to company systems for employees. The form ensures that all necessary information and approvals are documented, reducing administrative overhead and improving the efficiency of the approval process. It appears to be a comprehensive form for various types of requests, including access to systems, applications, and other resources. 
 
 # System Access Approval Form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...The form is designed to be used by facility or equipment managers to conduct regular monthly inspections of gym equipment to ensure that they are in good working condition, safe for use, and properly maintained. This form is intended to be used in conjunction with the organization's regular maintenance and inspection schedule. To avoid duplication of effort, the form should only be completed when the scheduled inspection date is due...+</thinking>
-
 # Gym Equipment Monthly Inspection Checklist Form - Help Guide
 ## Purpose
 This form is used to conduct a monthly inspection of gym equipment to ensure their proper functioning, safety, and maintenance.

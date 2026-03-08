@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Climate Adaptation Housing Application Form - Help Guide
 
 ## Purpose

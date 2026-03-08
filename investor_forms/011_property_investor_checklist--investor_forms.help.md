@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Investor Checklist - Help Guide
 ## Purpose
 The Property Investor Checklist is a form designed to gather information from investors about their investments in properties. This form is used to collect data on specific properties, including their location, type, and financial prospects. It is intended to help investors evaluate and compare different properties.

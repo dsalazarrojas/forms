@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect data for agricultural spray records, which are crucial for ensuring the safe and responsible use of chemicals in agriculture. This data will help track and verify that all necessary safety protocols are followed during the application process. This form should only be used for collecting data for agricultural sprays and should not be used for other types of applications.
-</thinking>
-
 # Agricultural Spray Records Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information about agricultural spray applications, ensuring that all necessary safety measures and protocols are followed.

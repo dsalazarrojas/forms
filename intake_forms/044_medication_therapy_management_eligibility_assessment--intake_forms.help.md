@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a patient's eligibility for medication therapy management, which is a process of reviewing and optimizing a patient's medication regimen to ensure they are receiving the most effective and safe treatment. This form guides the clinician through a series of questions to gather necessary information about the patient's medical history, medical conditions, and medication list. By completing this form, the clinician can identify potential issues with the patient's medication regimen and make recommendations for improvement. This form should only be used for patients who are currently taking multiple medications or have complex medical conditions. Please review the form carefully and only submit it if you are confident that the patient meets the eligibility criteria.
-</thinking>
-
 # medication_therapy_management_eligibility_assessment - Help Guide
 ## Purpose
 The purpose of this form is to assist clinicians in assessing a patient's eligibility for medication therapy management, a process of reviewing and optimizing a patient's medication regimen to ensure they are receiving the most effective and safe treatment.

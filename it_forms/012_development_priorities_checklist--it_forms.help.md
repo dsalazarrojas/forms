@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to help project stakeholders prioritize and track the progress of various development projects. The form is used to collect information about a project's name, description, priority level, and status. It is meant to be a quick and easy reference for project managers and developers to keep track of project progress and make informed decisions about resource allocation. 
-
-The purpose of this form is to reduce duplication of effort and ensure that all relevant information about a project is collected and accessible to all stakeholders. By using this form, project stakeholders can quickly determine which projects are top-priority and focus their efforts on those tasks.
-
-</thinking>
-
 # Development Priorities Checklist - Help Guide
 ## Purpose
 The Development Priorities Checklist form is used to collect and track information about various projects, helping project stakeholders to prioritize and make informed decisions about resource allocation.

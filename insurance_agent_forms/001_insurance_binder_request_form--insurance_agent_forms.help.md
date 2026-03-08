@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to support the process of requesting an insurance binder. The goal of this form is to gather necessary information from the user to fulfill their insurance needs. 
-
-This form is intended for agents to submit requests, providing essential details about the insurance policy they are inquiring for. The information gathered will be used to create or renew an insurance binder, which is a document that outlines the agreed-upon terms and conditions of the policy.
-
-To ensure accurate and efficient processing, we ask that you only submit one request at a time. If you have multiple requests, please submit them individually and include a brief description of each request in the 'Request Details' field.
-
-Please ensure that you fill out the form accurately and completely to avoid any potential issues with your request. 
-
-</thinking>
-
 # Insurance Binder Request Form - Help Guide
 ## Purpose
 This form is used to request an insurance binder, which is a document that outlines the agreed-upon terms and conditions of an insurance policy.

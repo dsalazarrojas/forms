@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information from clients about their website-related requirements and needs. It's designed to ensure that all necessary details are captured and communicated to the development team, reducing misunderstandings and miscommunications. Before proceeding, please review the form carefully to ensure that you're submitting accurate and complete information.
-</thinking>
-
 # Website Client Requirement Intake Form - Help Guide
 ## Purpose
 The Website Client Requirement Intake Form is used to gather essential information from clients about their website-related needs and requirements. This form helps the development team understand the project requirements, deadlines, and expectations, ensuring a smooth and successful project execution.

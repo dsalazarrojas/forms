@@ -1,14 +1,3 @@
-<thinking>
-  This form is designed to gather information about a business's insurance account, 
-  specifically their current coverage types, risk profile, and satisfaction with their 
-  current premiums. This form will help the agent or representative understand the 
-  business's insurance needs and identify potential areas for improvement or adjustments 
-  to their policy. The form will help ensure that the business is adequately 
-  protected and that their insurance coverage is up-to-date and relevant to their 
-  changing needs. This form should only be filled out by the business owner or their 
-  authorized representative.
-</thinking>
-
 # Business Insurance Account Review Form - Help Guide
 
 ## Purpose

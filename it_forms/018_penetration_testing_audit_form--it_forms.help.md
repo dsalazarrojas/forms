@@ -1,5 +1,3 @@
-<thinking> The Penetration Testing Audit Form is designed to collect information about penetration testing activities. It's intended for organizations to document and record details about their penetration testing efforts. The form aims to standardize the process and ensure consistency in the type and quality of information collected. This guide will walk through the form's purpose, how to complete it, and a field-by-field explanation of each section. </thinking>
-
 # Penetration Testing Audit Form - Help Guide
 
 ## Purpose

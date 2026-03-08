@@ -1,8 +1,3 @@
-<thinking> 
-This form appears to be designed for companies seeking to integrate their support channels with some unspecified system or service. The form asks for general contact information, integration goals, support channels, and some other specifics about the company such as its name and address. It seems like it's meant to be filled out by company representatives or support teams. I'll assume that this form will be used for some sort of support integration process or service that the company wants to use or already uses. The fields seem to be mostly self-explanatory, but I'll clarify any confusion in the help guide. I'm not sure what the purpose of having multiple "Integration Goals" fields, but I'll assume it's for collecting more specific information about what the company hopes to achieve through this support integration. I'll also assume that each support channel option is for different communication channels the company has or would like to have (e.g., phone, email, chat, etc.). If any of these assumptions are incorrect, please let me know, as it would be helpful to have more context. 
-
-</thinking>
-
 # Omnichannel Support Integration Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from companies seeking to integrate their support channels with our service. This integration allows our system to provide a unified support experience across various communication channels, enhancing customer engagement and satisfaction. To submit your application, please fill out this form with accurate and detailed information about your company and its support goals.

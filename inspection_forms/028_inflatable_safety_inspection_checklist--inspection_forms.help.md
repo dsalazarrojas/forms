@@ -1,7 +1,3 @@
-<thinking>
-The inflatable safety inspection checklist is a crucial tool for ensuring the inflatable devices used for various purposes, such as pool parties, water games, or emergency response operations, are safe to use. This form is designed to collect data about the condition and state of inflatables, helping operators and safety inspectors verify that they are functioning as intended and meet safety standards. This form should only be used for inflatables that are not part of a specific project or asset, as indicated by other more detailed checklists in the "Project" category.
-</thinking>
-
 # inflatable_safety_inspection_checklist - Help Guide
 ## Purpose
 The inflatable safety inspection checklist is a tool designed to ensure the safe use and operation of inflatables, such as pool inflatables or emergency response balloons. This form helps operators and safety inspectors verify that inflatables are in good condition and meet safety standards.

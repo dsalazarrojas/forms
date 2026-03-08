@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about security incidents, allowing the incident response team to quickly assess and address security threats. Before filling out this form, please make sure you have not already reported this incident to ensure non-duplication of effort. If you are unsure, you can check the incident log to verify whether a similar incident has already been reported.
-</thinking>
-
 # it_security_incident_investigation_request_form - Help Guide
 ## Purpose
 

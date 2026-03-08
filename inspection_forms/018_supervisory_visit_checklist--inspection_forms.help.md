@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supervisory Visit Checklist - Help Guide
 ## Purpose
 The Supervisory Visit Checklist form is designed to help supervisors document and track their site visits, including site status, supervisory visit standards, follow-ups, and other relevant information.

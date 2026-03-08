@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose and instructions for the Screen Share Session Registration form. The form is used for registering screen share sessions, and the goal is to provide a clear and concise guide for users to complete the form accurately. 
-
-</thinking>
-
 # Screen Share Session Registration - Help Guide
 ## Purpose
 The Screen Share Session Registration form is used to register screen share sessions for meetings. Users are required to provide information about the session, including the topic, schedule, and other relevant details. This form helps to ensure that the session is properly registered and communicated to the relevant parties.

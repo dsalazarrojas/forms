@@ -1,11 +1,3 @@
-<thinking>
-
-Before proceeding, I will create an internal reasoning block to understand the form purpose and verify that there are no duplicated information.
-
-The form, "weekly_vehicle_inspection_classic", is designed to collect information about a vehicle's condition and status for regular inspections. It appears to be used for tracking and maintaining vehicle records. I will ensure that the explanations provided in this help guide are accurate and clear.
-
-</thinking>
-
 # weekly_vehicle_inspection_classic - Help Guide
 ## Purpose
 The "weekly_vehicle_inspection_classic" form is used to collect information about a vehicle's condition and status for regular inspections. This information will help in tracking and maintaining vehicle records.

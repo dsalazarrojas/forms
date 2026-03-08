@@ -1,19 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Body Inspection Checklist" form, I'll consider the provided YAML fields and their implications. The form seems to be a comprehensive checklist for inspecting a person's physical condition, covering various aspects like medical history, physical appearance, skin condition, and more.
-
-The form is designed to gather information on:
-
-- Inspections date and name
-- The inspector's name
-- Type of inspection
-- Basic information on the person being inspected (name, age, gender)
-- Specific body regions (head and neck, eyes and vision, ears and hearing, etc.)
-- Overall health status and any injuries
-
-This form likely serves a vital purpose in various settings such as medical offices, sports teams, or workplaces to assess a person's physical well-being. Given its scope, it's essential to ensure users understand its purpose, how to fill it out correctly, and what each field implies.
-
-</thinking>
-
 # Body Inspection Checklist - Help Guide
 ## Purpose
 The "Body Inspection Checklist" form is designed to assess a person's physical condition, helping professionals determine if they are fit for certain activities or require medical attention.

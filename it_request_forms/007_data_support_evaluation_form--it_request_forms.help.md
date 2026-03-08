@@ -1,10 +1,3 @@
-<thinking>
-The Data Support Evaluation Form is used to collect feedback from customers about their experience with our data support team. This form aims to identify areas where we can improve our support and service. Before filling out this form, please ensure that you're not duplicating a previous evaluation, as this may help us to identify and address any ongoing issues more efficiently.
-
-This form is divided into 10 fields, each designed to gather specific information about your interaction with our data support team. Please answer the fields as accurately and thoroughly as possible to help us provide the best support experience for you and other customers in the future.
-
-</thinking>
-
 # Data Support Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to help us understand your experience with our data support team, identify areas for improvement, and make necessary adjustments to better serve you and other customers.

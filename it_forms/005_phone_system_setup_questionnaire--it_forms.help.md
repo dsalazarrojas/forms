@@ -1,23 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about phone system setup from end users. This form is intended for administrators to quickly and accurately gather essential details about the phone system they are responsible for maintaining. The form is likely to be used for internal record-keeping and troubleshooting purposes. 
-
-To avoid duplication, please ensure that you are filling out this form for a new phone system setup. If you have already filled out this form for a particular phone system, do not re-submit the form.
-
-To complete this form, you will need to provide the following information:
-- Business name
-- Contact person
-- Contact email (if available)
-- Whether the phone system is set up or not
-- Type of phone system
-- Description of the phone system
-- Features of the phone system
-- System capacity
-- System location
-
-Please be as accurate and detailed as possible when filling out the form.
-
-</thinking>
-
 # Phone System Setup Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information about phone system setup from end users.

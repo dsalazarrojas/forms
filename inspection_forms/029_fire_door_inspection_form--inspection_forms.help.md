@@ -1,12 +1,3 @@
-<thinking>
-This form is used by fire safety inspectors to record information about fire doors, which are used to contain and extinguish fires in emergency situations. The purpose of this form is to gather data on the status of fire doors, including their inspection history, condition, and next scheduled inspection date.
-
-Before starting, please ensure that you are filling this form for the correct fire door and that you are authorized to perform the inspection. To avoid duplication of effort, check the fire door's inspection history to see if it has already been inspected recently.
-
-This form consists of multiple pages, each with its own set of fields. Please complete each page thoroughly and accurately.
-
-</thinking>
-
 # fire_door_inspection_form - Help Guide
 ## Purpose
 The fire door inspection form is used to record information about fire doors, including their inspection history, condition, and next scheduled inspection date.

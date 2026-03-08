@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Holistic Healing Practitioner Certification Application Form - Help Guide
 ## Purpose
 This form is intended to collect information from holistic healing practitioners who wish to be certified. It is meant to be completed by individuals who have experience in their field and want to demonstrate their expertise in the certification process. The form is used to verify the applicant's qualifications, experience, and supporting documents.

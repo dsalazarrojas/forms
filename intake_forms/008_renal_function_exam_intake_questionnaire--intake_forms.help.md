@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Renal Function Exam Intake Questionnaire - Help Guide
 
 ## Purpose

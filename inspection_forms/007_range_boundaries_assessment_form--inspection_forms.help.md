@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about range boundaries, which is essential for various environmental, spatial, or geographical assessments. The form will gather data on the type, description, location, and status of the boundary, as well as other relevant details like elevation, latitude, and longitude. This information will help users understand the properties and boundaries of the area being assessed. To complete this form accurately, please ensure you have all the required information readily available.
-</thinking>
-
 # Range Boundaries Assessment Form - Help Guide
 ## Purpose
 The Range Boundaries Assessment Form is a tool used to collect and document information about range boundaries. This form will help you gather data on the properties and boundaries of the area being assessed.

@@ -1,5 +1,3 @@
-<thinking>...This form is used to assess the knowledge of IT staff on ERPs (Enterprise Resource Planning) and ITIL (Information Technology Infrastructure Library). The form will help to evaluate the understanding of the concepts, principles, and terminology related to ERPs and ITIL. This form is not mandatory, so the user can fill it at their own pace. The form consists of 4 sections: 2 multiple-choice questions, 2 text fields for open-ended questions, and a multiple-select question for evaluating the relation between ERPs and ITIL. Please fill in this form only when you have a good understanding of the concepts and principles of ERPs and ITIL. If you are not sure about some concepts, it's better not to fill this form.</thinking>
-
 # knowledge_assessment_on_erp_and_itil - Help Guide
 ## Purpose
 This form is used to assess your knowledge on ERPs and ITIL. Please take your time to fill in this form to demonstrate your understanding of the concepts, principles, and terminology related to ERPs and ITIL.

@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information from users who have inquiries or concerns regarding royalty related matters. This form is likely to be used for customer service, support, or sales purposes. The fields are designed to collect basic contact information and event details to allow the user to reach out to the relevant team with their concerns or inquiries.
-This guide will help the user understand how to complete the form correctly, which is essential for the team to respond to their concerns efficiently and effectively.
-</thinking>
-
 # Royalty Inquiriy Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a way for users to submit their inquiries or concerns regarding royalty related matters. Please use this form to reach out to us with any questions or issues you have.

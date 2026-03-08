@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to provide an insurance quote. The form is designed to gather details about the user's address, vehicle, and insurance preferences. This information will be used to generate a quote for the user's insurance needs. Before proceeding, please ensure that you have read and understand the form's purpose and requirements. Also, please note that this form is not intended for actual insurance transactions or quotes. It is a demonstration of the form's design and functionality.
-</thinking>
-
 # Farmers Insurance Quote Form - Help Guide
 ## Purpose
 This form is designed to collect information necessary to provide an insurance quote for users. Please fill out the form accurately to ensure that we can provide you with a suitable insurance quote.

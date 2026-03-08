@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Workforce Pipeline Intake Form", I need to first understand the form's purpose and the required fields for completion. The form's purpose seems to be to collect information about an individual's work experience, availability, and other relevant details that can be used in a workforce pipeline process. To ensure that the form is completed correctly, I will provide a clear and concise guide on how to complete each field and what each field means.
-
-</thinking>
-
 # Workforce Pipeline Intake Form - Help Guide
 ## Purpose
 The Workforce Pipeline Intake Form is designed to collect information about your work experience, availability, and other relevant details that can be used in a workforce pipeline process. This form will help us understand your skills, work type, and availability, which will assist us in finding the best fit for you in our pipeline.

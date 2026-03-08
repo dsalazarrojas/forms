@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for conducting platform inspections at railway stations. The purpose of this form is to assess the platform's condition, safety, and status in a standardized and efficient manner. This form is used to ensure consistency and accuracy in recording and reporting inspection results, and to help identify any necessary maintenance or corrective actions. This form is meant to be used by authorized personnel, such as inspectors or managers, to collect data on the platform's condition and status. Before filling out this form, make sure to read the help guide to understand each field's purpose and requirements.
-</thinking>
-
 # Railway Station Platform Inspection Form - Help Guide
 ## Purpose
 The Railway Station Platform Inspection Form is used to collect data on the condition, safety, and status of a railway station platform. This form helps ensure that the platform is properly maintained and meets the required standards.

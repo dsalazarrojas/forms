@@ -1,5 +1,3 @@
-<thinking> The form is intended to collect pre-screening information from clients before their psychological appointment. This information will be used to assess the client's suitability for treatment and to identify any potential risks or concerns. Please make sure you fill out this form accurately and provide all the required information. If you have any previous medical or psychological history, please be as detailed as possible so that we can ensure your safety and well-being during the appointment. </thinking>
-
 # Psychological Appointment Pre Screening - Help Guide
 
 ## Purpose

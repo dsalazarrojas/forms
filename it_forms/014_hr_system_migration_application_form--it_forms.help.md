@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users for the purpose of migrating an HR system. It is crucial that users understand that this form should only be used for this specific purpose and not for other unrelated tasks. The form is designed to gather essential details from the user about the migration process, including user information, HR system migration requests, objectives, timelines, IT teams involved, HR teams involved, system requirements, migration plan, and attachments. It is essential that users understand the purpose of each field as they fill out the form. This guide will walk them through each step of the process.
-</thinking>
-
 # HR System Migration Application Form - Help Guide
 ## Purpose
 This form is for collecting information from users for HR system migration. It is only to be used for this purpose and not for other tasks.

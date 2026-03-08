@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for a form designed to capture user inquiries, specifically for Ultherapy treatments. This form is intended to gather information from users to provide a personalized response or follow-up. It's crucial to ensure that users understand the form's purpose and how to complete it to achieve the desired outcome.
-</thinking>
-
 # Ultherapy Inquiry Form - Help Guide
 ## Purpose
 The Ultherapy Inquiry Form is designed to collect information from users inquiring about Ultherapy treatments. This form is used to gather details about the user's inquiry, such as their name, contact preferences, and preferred method of contact.

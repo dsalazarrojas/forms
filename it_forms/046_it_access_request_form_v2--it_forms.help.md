@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to facilitate their access requests to the IT department. This form is designed to be user-friendly and efficient, allowing users to quickly and easily submit their requests. To ensure that you're using the form correctly, please review the following guidelines.
-</thinking>
-
 # IT Access Request Form V2 - Help Guide
 ## Purpose
 The IT Access Request Form V2 is a tool to help you submit access requests to the IT department. This form is designed to gather essential information from you to expedite the processing of your requests.

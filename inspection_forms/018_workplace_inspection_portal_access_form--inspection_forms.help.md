@@ -1,7 +1,3 @@
-<thinking>
-This form is used to grant access to the Workplace Inspection Portal. It is used by administrators to add or modify the contact information and access permissions of users within the organization. 
-</thinking>
-
 # Workplace Inspection Portal Access Form - Help Guide
 ## Purpose
 This form is designed to provide a way for administrators to grant access to the Workplace Inspection Portal for their organization. 

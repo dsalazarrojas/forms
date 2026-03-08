@@ -1,12 +1,3 @@
-<thinking>
-This form is used when an employee wants to deactivate call forwarding for their phone number. Before completing this form, please verify that this request is not a duplicate and that you are the correct person submitting this request. If the request is a repeat, please do not submit this form again as this will lead to unnecessary processing time and may delay approval.
-
-Call forwarding deactivation is typically used in cases where the employee's work location or phone extension is changing, or they are no longer with the organization. Please ensure that you have the necessary approvals in place before submitting this form.
-
-To complete this form, please enter your full name, department, and contact information, and provide the details required for the deactivation. Please ensure that you have the manager's approval email to confirm the deactivation request. If you are unsure about any part of this process, please contact IT support for guidance.
-
-</thinking>
-
 # Call Forwarding Deactivation Request Form - Help Guide
 ## Purpose
 This form is used to request the deactivation of call forwarding for an employee's phone number.

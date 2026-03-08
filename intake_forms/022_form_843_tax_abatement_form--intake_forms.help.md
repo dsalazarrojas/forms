@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Form 843 Tax Abatement Form - Help Guide
 
 ## Purpose

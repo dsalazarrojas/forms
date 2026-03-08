@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's consider the purpose and context of the Holistic Mastery Agreement form. This form appears to be a comprehensive document used in a coaching or consulting context, likely for new clients or customers. It captures various information related to the client's intake, their agreement to the coaching process, payment terms, and other relevant details. Given the form's structure, it's essential to ensure that the help guide is clear, concise, and easy to follow.</thinking>
-
 # Holistic Mastery Agreement - Help Guide
 ## Purpose
 The Holistic Mastery Agreement is a form used to gather essential information from clients about their coaching or consulting needs, their agreement to the coaching process, and payment terms. This document helps to establish a clear understanding between the coaching practitioner and the client, ensuring a smooth and successful coaching process.

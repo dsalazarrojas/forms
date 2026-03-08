@@ -1,7 +1,3 @@
-<thinking>
-The form "screen_capture_feedback_form" is used to collect feedback on screen captures. This feedback is used to improve the quality and relevance of the screen captures provided to end-users. To ensure accurate and helpful feedback, please complete this form with as much detail as possible.
-</thinking>
-
 # screen_capture_feedback_form - Help Guide
 ## Purpose
 The "screen_capture_feedback_form" is used to provide feedback on screen captures. Your input will help us improve the quality and relevance of our screen captures.

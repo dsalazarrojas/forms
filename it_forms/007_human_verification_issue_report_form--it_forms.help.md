@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a human verification issue, including a detailed description of the issue, its type, date, and severity. The form will help the user to report a problem that requires verification, and the collected data will be used to track and resolve the issue.
-
-This guide will help users understand how to complete the form and what each field means.
-
-</thinking>
-
 # Human Verification Issue Report Form - Help Guide
 ## Purpose
 This form is used to report and track human verification issues that require attention.

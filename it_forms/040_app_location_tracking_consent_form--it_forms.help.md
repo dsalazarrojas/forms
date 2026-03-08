@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an "App Location Tracking Consent Form" that informs users about its purpose, how to complete it, and explains each field in a clear and concise manner. This form is used to capture user permission for location-based features in an app. The goal is to ensure users understand the implications and requirements of this form. Let's break down the form sections and fields, and then create the guide.
-</thinking>
-
 # App Location Tracking Consent Form - Help Guide
 ## Purpose
 This form is used to obtain your consent for location-based features within our app. By filling out this form, you're giving us permission to track your location while using the app, which helps us improve the overall user experience and provide personalized services.

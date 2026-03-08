@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Clean Energy Investment Interest Form - Help Guide
 ## Purpose
 This form is designed to gather information from investors interested in clean energy investments. It collects contact and demographic details, investment preferences, and other relevant information to help us better understand your interests and needs.

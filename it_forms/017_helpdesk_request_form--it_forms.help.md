@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the help desk request form is used correctly to submit tickets to the right team, without any duplication or unnecessary requests. This form should be used by end-users to report any issues or requests they have, and it should only be used for requests that are not already being addressed. If the same issue is being reported by multiple users, it will be closed as a duplicate and escalated to the correct team leader for review and resolution.
-</thinking>
-
 # Helpdesk Request Form - Help Guide
 ## Purpose
 The Helpdesk Request Form is used to submit requests or issues to the helpdesk team for assistance. It's a simple form that allows users to report problems, provide details, and assign a priority level to their request.

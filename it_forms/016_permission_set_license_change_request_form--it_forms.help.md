@@ -1,8 +1,3 @@
-<thinking>
-  The purpose of this form is to request changes to an existing license or permission set. It allows users to select from a predefined list of options for the category, form type, and assigned tool, as well as provide additional descriptions and file outputs.
-  This form is likely used for internal IT management or administrative tasks, and users are expected to have a basic understanding of the IT forms and permission sets involved.
-</thinking>
-
 # permission_set_license_change_request_form - Help Guide
 ## Purpose
 This form is used to request changes to an existing license or permission set.

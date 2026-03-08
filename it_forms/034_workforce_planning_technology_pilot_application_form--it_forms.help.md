@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential applicants for the Workforce Planning Technology Pilot Application. The purpose of this form is to gather relevant details about the applicant, such as their name, job title, work location, and contact information. The form will be used to determine eligibility and suitability for the pilot program. Please note that this form is not intended for general work order submissions or job applications. It is specific to the Workforce Planning Technology Pilot Application.
-
-</thinking>
-
 # Workforce Planning Technology Pilot Application Form - Help Guide
 ## Purpose
 The Workforce Planning Technology Pilot Application Form is designed to collect information from potential applicants for the Workforce Planning Technology Pilot Application. This form helps the organizers to determine eligibility and suitability for the pilot program.

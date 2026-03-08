@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from customers regarding their software requirements. It is used by the customer support team to understand and address the needs of our customers effectively.
-The form should not be used to request for general customer support queries. Please use the dedicated customer support channel for such queries.
-</thinking>
-
 # Customer Support Software Requisition Form - Help Guide
 ## Purpose
 This form is designed to collect specific information from customers regarding their software requirements. It helps our customer support team understand and address the needs of our customers effectively.

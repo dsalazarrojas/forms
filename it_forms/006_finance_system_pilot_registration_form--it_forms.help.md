@@ -1,6 +1,3 @@
-<thinking>
-The Finance System Pilot Registration Form is designed to collect information from finance system pilots, providing details about the pilot's goals, objectives, participants, and financial requirements. This form will help the pilot registration process for finance systems. The form is meant to be completed by finance system pilots who wish to register their pilots for review and approval. Before filling out this form, please ensure that you have not already submitted a registration for the same pilot, and that the information you provide is accurate and up-to-date.</thinking>
-
 # Finance System Pilot Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from finance system pilots during the registration process.

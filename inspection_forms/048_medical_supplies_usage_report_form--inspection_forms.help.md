@@ -1,6 +1,3 @@
-<thinking>...
-The Medical Supplies Usage Report Form is used for staff members to report on the usage of medical supplies across the organization. This form helps to track and monitor the usage of medical supplies, ensuring that they are being used correctly and that stock levels are kept accurate. To avoid duplication of effort, please note that this form should only be submitted once per day. Please ensure you have the most up-to-date information before filling out this form.
-</thinking>
 # Medical Supplies Usage Report Form - Help Guide
 
 ## Purpose

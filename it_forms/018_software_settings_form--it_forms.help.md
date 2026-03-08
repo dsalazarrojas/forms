@@ -1,14 +1,3 @@
-<thinking>
-This form, "software_settings_form," is used to manage and maintain various software settings within the system. The form is crucial for ensuring that all the necessary settings are properly configured to ensure optimal software functionality and performance.
-
-To complete this form, the user needs to select the correct category and answer the other fields according to their needs. 
-
-The user has to provide a brief title for the software settings, a description for a better understanding of the settings, category and category name selection and other details like form_title, form_description_2 and email.
-
-The settings form is primarily used for system configuration. 
-The user must carefully fill out the form with accurate information, especially when selecting category and category name. 
-</thinking>
-
 # software_settings_form - Help Guide
 ## Purpose
 The software settings form is used to manage and maintain various software settings within the system. This form is crucial for ensuring that all the necessary settings are properly configured to ensure optimal software functionality and performance.

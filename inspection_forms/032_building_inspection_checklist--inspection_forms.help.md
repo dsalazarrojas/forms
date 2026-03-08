@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide inspectors to conduct a comprehensive building inspection, covering various aspects of a building's condition, including the exterior (roof, foundation, siding, windows, doors, gutters, and downspouts), interior (ceiling, walls, flooring, doors, stairs, and railings), systems (electrical, plumbing, HVAC, and water heaters), and overall assessment. The form aims to identify issues, note minor and major concerns, and recommend repairs and follow-up actions. It is essential to fill out this form accurately and thoroughly to ensure a comprehensive inspection. Please ensure that you are familiar with the inspection process and the building's condition before filling out this form. This form is not meant to be filled out by untrained personnel or for routine inspections; instead, it is designed for experienced inspectors who are well-versed in the inspection process and can accurately assess the building's condition. 
-</thinking>
-
 # Building Inspection Checklist - Help Guide
 ## Purpose
 

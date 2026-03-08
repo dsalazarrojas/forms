@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for factory owners, managers, or inspectors to report on the infrastructure integrity of a factory. The form likely aims to collect information about the factory's condition, status, and any issues or concerns that need to be addressed. The form might be used for maintenance, safety, or quality control purposes. The form's fields cover general information, contact details, inspection dates and times, location, notes, photos, and factory status among other things. I will assume that the factory infrastructure inspection is an internal process and the form's purpose is to gather necessary information for the factory's internal operations. 
-</thinking>
-
 # Factory Infrastructure Integrity Report Form - Help Guide
 ## Purpose
 

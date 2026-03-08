@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect metrics data related to software projects. It is intended for internal use within the organization, likely for reporting and tracking purposes. Before proceeding, please ensure that you are filling this form for a valid project and not duplicating an already existing one.
-</thinking>
-
 # Software Code Metrics Report Form - Help Guide
 ## Purpose
 This form is used to collect metrics data for software projects. It is a report form for tracking and analyzing project details.

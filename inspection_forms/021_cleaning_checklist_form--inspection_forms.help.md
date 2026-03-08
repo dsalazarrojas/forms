@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive cleaning checklist for properties, allowing users to track the progress of various cleaning tasks across different areas of the property, including living areas, kitchen, bathrooms, and general tasks. The form's purpose is to ensure that all necessary cleaning tasks are completed and documented for quality control and future reference. The form is intended for use by cleaning staff or inspectors to report on the status of each task, allowing them to provide a detailed report of the cleaning service.
-
-This form is a self-contained, standalone form, and not part of any larger form suite. It does not duplicate any information from other forms and does not rely on external data sources.
-
-This form is a simple, user-friendly guide for end-users to understand the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Cleaning Checklist Form - Help Guide
 ## Purpose
 

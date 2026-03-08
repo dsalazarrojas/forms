@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a candidate applying for an E Learning Specialist position. It is meant to be a comprehensive guide for the candidate to provide their details, work experience, technical skills, education background, references, and other relevant experience. The form is not affiliated with or endorsed by any form platform, and it is created using public survey topic metadata as inspiration. This form is released under CC BY 4.0, allowing users to use, modify, and even sell derived forms, as long as they give credit.
-
-This form is intended to be used for informational purposes only and should not be used for actual employment decisions. The form is a general guide and may not cover all specific requirements or qualifications for a particular role or company.
-
-Before filling out this form, please ensure that you are applying for a real position and that you have the necessary qualifications and experience to be considered for the role.
-
-</thinking>
-
 # E Learning Specialist Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information about a candidate applying for an E Learning Specialist position.

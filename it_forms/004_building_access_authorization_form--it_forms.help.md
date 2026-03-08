@@ -1,9 +1,3 @@
-<thinking>
-This form is used for requesting access authorization to buildings within the organization. This form is required for all employees, contractors, and visitors who need access to specific buildings. The form is used to gather information about the applicant, their access needs, and the duration of their access.
-Before filling out this form, please ensure you have the necessary information and approvals from your direct manager. This form should only be submitted once the necessary approvals have been obtained.
-Please note that this form is a one-time submission form and should not be resubmitted for the same access request.
-</thinking>
-
 # Building Access Authorization Form - Help Guide
 
 ## Purpose

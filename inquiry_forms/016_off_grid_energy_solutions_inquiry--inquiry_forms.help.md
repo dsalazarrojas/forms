@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's inquiry regarding off-grid energy solutions. It is used to gather details about a potential project, customer, and project location. The form will be used by customers or project managers to provide information about their project and project status. This form will likely be used for internal tracking and follow-up purposes. It is not intended for public submission or public viewing. To ensure accuracy and relevance, please review the form carefully before submitting.
-
-</thinking>
-
 # off-grid-energy-solutions-inquiry - Help Guide
 ## Purpose
 This guide will help you understand how to complete the "Off-Grid Energy Solutions Inquiry" form.

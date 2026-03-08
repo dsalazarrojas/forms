@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is used correctly, please note that the form is designed to collect patient information and medical specialty selection for patient care. This form should only be filled out by authorized personnel, such as medical providers, to avoid duplication of effort and ensure accurate patient records.
-</thinking>
-
 # Patient Information And Specialty Selection Form - Help Guide
 ## Purpose
 This form is used to collect patient information and medical specialty selection for patient care.

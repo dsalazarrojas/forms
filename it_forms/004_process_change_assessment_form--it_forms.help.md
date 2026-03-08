@@ -1,7 +1,3 @@
-<thinking>
-**Please note that the form is used to assess proposed changes to business processes. The purpose of this form is to gather information about the proposed change, its impact on services, users, and IT, and the change request status. This form is likely used by process owners, managers, and sponsors to evaluate and track changes within the organization. Before filling out this form, please make sure you have a clear understanding of the proposed change and its implications. If you have filled out this form recently, please review your answers to ensure they are up-to-date and accurate.**
-</thinking>
-
 # Process Change Assessment Form - Help Guide
 ## Purpose
 This form is used to assess proposed changes to business processes.

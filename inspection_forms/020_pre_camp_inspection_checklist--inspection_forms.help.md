@@ -1,33 +1,3 @@
-<thinking>
-This form is designed to assess the readiness and quality of a campsite for camping purposes. It appears to be a comprehensive checklist for evaluating various aspects of a campsite, including its location, water sources, food storage, waste disposal, fire suppression, emergency exit routes, first aid kits, fire safety, campsite security, campsite access, neighboring areas, campsite environment, electricity, water availability, food availability, sanitation, waste disposal, fire suppression, first aid, staff presence, and other essential facilities. The form might be used by outdoor recreation or park management professionals, or by individuals preparing for or participating in camping events to ensure that the campsite meets the necessary standards and safety requirements.
-
-The form seems to be a combination of multiple-choice and text fields, which indicates that it's designed to collect specific, quantifiable data from the user. The fields appear to be focused on the following areas:
-
-- Location of the campsite
-- Availability of water sources
-- Food storage
-- Waste disposal
-- Fire suppression
-- Emergency exit routes
-- First aid kits
-- Fire safety
-- Campsite security
-- Campsite access
-- Neighboring areas
-- Campsite environment
-- Electricity
-- Water
-- Food
-- Sanitation
-- Waste disposal
-- Fire suppression
-- First aid
-- Staff presence
-
-Please refer to the following help guide for more information on filling out the form:
-
-</thinking>
-
 # Pre Camp Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to help users evaluate the readiness and quality of a campsite for camping purposes.

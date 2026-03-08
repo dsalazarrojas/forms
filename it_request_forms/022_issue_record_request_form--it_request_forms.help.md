@@ -1,8 +1,3 @@
-<thinking>...
-We will create a help guide for the issue_record_request_form that explains its purpose, how to complete it, and what each field means. This form is used for requesting an issue record, which could be a technical issue or a problem that needs to be addressed by the IT department. The form is used to gather information about the issue, including the form name, date it occurred, category, description, and other relevant details.
-
-</thinking>
-
 # issue_record_request_form - Help Guide
 ## Purpose
 The issue_record_request_form is used to request an issue record from the IT department. This form is used to report problems that need to be addressed, and to gather information about the issue, such as when it occurred, what category it falls under, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # insurance_coverage_needs_assessment_form - Help Guide
 
 ## Purpose

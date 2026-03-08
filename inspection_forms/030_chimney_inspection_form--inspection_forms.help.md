@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a chimney inspection, including the inspector's name, the date of the inspection, the property address, the type of chimney, the level of creosote buildup, any structural issues observed, the recommended action, and the overall safety status of the chimney. The form is designed for use by individuals inspecting chimneys to document their findings and provide a concise summary of the inspection results.
-</thinking>
-
 # Chimney Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about a chimney inspection, including the inspector's name, the date of the inspection, the property address, the type of chimney, the level of creosote buildup, any structural issues observed, the recommended action, and the overall safety status of the chimney.

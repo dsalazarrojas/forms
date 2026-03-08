@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from users to enhance the Treasury system. This form aims to gather information on how often users interact with the system, their level of satisfaction with the system, areas that need improvement, and any other comments or suggestions they may have. This form is not a required form and users can provide their feedback voluntarily. Please ensure that you complete all relevant fields to provide the best possible feedback. Before proceeding, please review the following instructions and explanations for each field.
-</thinking>
-
 # Treasury System Enhancement Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and suggestions from users to enhance the Treasury system. This will help the development team understand how to improve the system to better meet the needs of its users.

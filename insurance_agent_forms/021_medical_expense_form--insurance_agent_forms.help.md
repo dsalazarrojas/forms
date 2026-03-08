@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Expense Form - Help Guide
 ## Purpose
 The Medical Expense Form is used to report medical expenses for an employee. This form is a part of the employee's record and is used for tracking and management of medical expenses.

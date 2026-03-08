@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the `voice_channel_activation_form` form. The form is used to activate new voice channels in the system. To use this form, make sure you are authorized to do so and not duplicating an already activated voice channel. 
-
-The form is split into multiple pages, but this guide will cover all pages. Each page will have its own explanation, and some explanations might be similar. 
-</thinking>
-
 # voice_channel_activation_form - Help Guide
 ## Purpose
 The `voice_channel_activation_form` is used to activate new voice channels in the system. It allows administrators to select the type of voice channel, set the purpose, and define the activation timing.

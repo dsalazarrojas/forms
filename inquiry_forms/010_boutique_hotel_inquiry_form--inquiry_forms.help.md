@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended for customers or potential customers to contact the hotel with inquiries, requests, or questions related to their stay, booking, or event planning. This form is designed to gather relevant information to assist the hotel staff in providing personalized responses and follow-up. To avoid duplication, users are not required to create an account or be logged in. The form is intended for one-time inquiries, making it an ideal tool for addressing a specific issue or concern.
 
 # Boutique Hotel Inquiry Form - Help Guide

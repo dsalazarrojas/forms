@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide information and preferences for a group insurance quote. It's a standard form used in the insurance industry for getting quotes for a group of people. The goal of this form is to help the user submit their details for an insurance quote, and it should be filled out by a group or representative of a group. The form's fields cover various aspects of the group's insurance needs, such as quote request, quote terms, insurance products, quote frequency, quote amount, insurance coverage, additional information, phone number, email, insurer, and a note.
-</thinking>
-
 # Group Insurance Quote Form - Help Guide
 ## Purpose
 This form is designed to collect information from a group or representative of a group for an insurance quote. Please fill out the form accurately to provide the necessary details for a quote.

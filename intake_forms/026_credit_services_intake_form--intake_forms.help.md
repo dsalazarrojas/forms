@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is intended to collect data for the credit services team to assess and manage credit services requests. 
-The form is designed to collect information about the borrower's loan type, amount, income, employment status, and other relevant details. The team will use this data to make informed decisions regarding loan approval or denial. 
-The form does not currently have any duplicate or redundant fields. 
-However, the fields can be modified or removed as the business requirements change, and it's essential to monitor this form's integrity and ensure data consistency. 
-To avoid errors and improve the efficiency of the credit services process, it is crucial to provide clear and concise instructions to end-users.
-</thinking>
-
 # Credit Services Intake Form - Help Guide
 ## Purpose
 The Credit Services Intake Form is designed to collect information from borrowers to assess and manage credit services requests. This form helps the credit services team make informed decisions regarding loan approval or denial.

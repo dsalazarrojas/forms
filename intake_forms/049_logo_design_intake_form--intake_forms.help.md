@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to collect information about a logo design project. The form is used to gather details such as the client's name, logo color scheme, type, size, color, shape, orientation, description, and additional information. This form is used by designers to guide their work and ensure that all necessary details are collected. To ensure that all relevant information is captured, please check that the form fields are complete and accurate before submitting. </thinking>
-
 # Logo Design Intake Form - Help Guide
 ## Purpose
 This form is used to collect information about a logo design project from the client. The form is designed to gather all necessary details to guide the design process and ensure the final product meets the client's requirements.

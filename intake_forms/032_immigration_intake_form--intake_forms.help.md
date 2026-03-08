@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Immigration Intake Form - Help Guide
 ## Purpose
 This form is designed for clients to provide personal and immigration-related information to assist with the intake process. It is intended for use by immigration experts, lawyers, or officials to gather essential details for further evaluation and action.

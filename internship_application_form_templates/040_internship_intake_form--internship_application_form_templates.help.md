@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure relevance, please ensure that you are not applying for an internship if you are already employed full-time. If you are currently employed, please select "Currently employed" in the "Work Status" field. This will help us to tailor the application process to your needs and preferences.
-</thinking>
-
 # internship_intake_form - Help Guide
 ## Purpose
 The internship intake form is a comprehensive form designed to collect information about your academic, professional, and personal background, as well as your preferences and availability. This information will be used to assess your eligibility and suitability for an internship opportunity.

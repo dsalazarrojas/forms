@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from business continuity specialists who need support or guidance on various aspects of business continuity planning, disaster recovery, risk assessment, staff training, and plan testing. The form is intended to help the support team understand the nature of the inquiry, the urgency level of the support needed, and the specific requirements and challenges the business faces. By gathering this information, the support team can provide tailored assistance and guidance to help the business continuity specialist achieve their goals.
-
-This form should only be completed by business continuity specialists who are seeking support or guidance. Please ensure that you have permission to complete this form if you are not a business continuity specialist. If you are not sure whether your inquiry falls within the scope of this form, please contact the support team before completing it.
-
-Please provide accurate and clear information to help the support team understand your needs and provide effective support. If you are unsure about any of the fields, please contact the support team for clarification.
-
-</thinking>
-
 # Business Continuity Specialist Contact Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from business continuity specialists who need support or guidance on various aspects of business continuity planning, disaster recovery, risk assessment, staff training, and plan testing.

@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "information_technology_application_form" form. The form is likely used to collect information from applicants for an IT or technology-related job position. The form is not strictly required, but it's likely that filling it out will make it easier for the hiring team to quickly review your application.
-
-The form has 25 fields in total, and most of them are text or select fields. Some fields are required, some are optional. It seems that the form is trying to collect both personal information and professional experience information.
-
-Let's assume that this form is part of a web application process for a company that is hiring IT or tech professionals.
-
-</thinking>
-
 # information_technology_application_form - Help Guide
 ## Purpose
 This form is for applicants to submit their information for an IT or technology-related job position. By filling this form, you will provide the hiring team with an overview of your background and qualifications.

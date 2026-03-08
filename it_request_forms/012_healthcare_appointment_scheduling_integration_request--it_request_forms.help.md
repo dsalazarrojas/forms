@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for healthcare professionals and administrators who are requesting integration with existing clinical systems to schedule appointments. The purpose of this form is to gather necessary information for such integration requests, ensuring that the request is properly assessed and processed for approval. Before filling out this form, kindly note that you may have already submitted an identical request in the past. Please ensure that this form is completed only once for a specific integration request to avoid duplication.
-</thinking>
-
 # Healthcare Appointment Scheduling Integration Request - Help Guide
 ## Purpose
 This form is designed to collect information for integration requests with healthcare clinical systems for appointment scheduling.

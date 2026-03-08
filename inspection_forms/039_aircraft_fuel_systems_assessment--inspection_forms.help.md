@@ -1,5 +1,3 @@
-<thinking> This form is designed to assess the condition of the aircraft's fuel systems. As an inspector, this form is used to document the results of a visual inspection, checking the condition of various components such as fuel tanks, vents, lines, and selector valves. To ensure accuracy, please review the form carefully and complete it in its entirety. If any issues or discrepancies are found, please list them in the "Discrepancies Found" field. This form should not be used for routine or recurring inspections. If you have already completed this form, please check if it's a new or repeat inspection before proceeding. If it's a repeat inspection, please ensure that you're updating the correct form with the latest information. If unsure, please reach out to the relevant authorities for clarification. </thinking>
-
 # Aircraft Fuel Systems Assessment - Help Guide
 ## Purpose
 The Aircraft Fuel Systems Assessment form is designed to evaluate the condition of your aircraft's fuel systems, ensuring safe and efficient operations.

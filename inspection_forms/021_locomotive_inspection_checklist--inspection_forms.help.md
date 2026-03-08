@@ -1,12 +1,3 @@
-<thinking>
-This form is a Locomotive Inspection Checklist, designed to guide users through a comprehensive inspection process for locomotives. The purpose of this form is to collect relevant information about the locomotive's condition, maintenance status, and any issues or concerns that need to be addressed. This form is intended for use by authorized personnel who are responsible for ensuring the safe and efficient operation of locomotives.
-
-This form is likely to be used in conjunction with other forms or tools that provide more detailed information about the locomotive's history, maintenance schedule, and other relevant data. 
-
-The form is designed to be user-friendly and easy to navigate, with clear instructions and prompts to guide the user through the inspection process. However, it is essential to review the form carefully and ensure that all required fields are completed accurately and thoroughly.
-
-The following guide will walk you through each field on the form and provide explanations to ensure that you complete it correctly.</thinking>
-
 # Locomotive Inspection Checklist - Help Guide
 ## Purpose
 The Locomotive Inspection Checklist is a comprehensive inspection form designed to help ensure the safe and efficient operation of locomotives. This guide will walk you through each field on the form and provide explanations to help you complete it correctly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from developers who are interested in enrolling with the organization. Before completing this form, please ensure you are not duplicating your efforts by checking our internal system to see if you are already enrolled. If you are already enrolled, you will not be able to submit this form.
-</thinking>
-
 # Developer Enrollment Form - Help Guide
 ## Purpose
 The Developer Enrollment Form is designed to collect information from developers interested in enrolling with the organization. This form will help us understand your background, experience, and skills to better serve your needs.

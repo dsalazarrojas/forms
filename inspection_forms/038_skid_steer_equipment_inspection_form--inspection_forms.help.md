@@ -1,8 +1,3 @@
-<thinking>
-This form is a general-purpose form for recording the inspection of Skid Steer equipment. The form is not specific to any particular industry or domain. The form's fields cover basic information about the equipment, its condition, any issues found during inspection, and details about the inspection process.
-The fields are not specifically designed for any particular type of user or use case. The form's flexibility allows it to be used in various contexts.
-</thinking>
-
 # Skid Steer Equipment Inspection Form - Help Guide
 ## Purpose
 The Skid Steer Equipment Inspection Form is designed to gather information about the condition and status of Skid Steer equipment. This form helps to ensure that the equipment is properly maintained and reported.

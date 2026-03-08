@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Damage Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about vehicle damage after an incident. It helps to identify the severity and type of damage to the vehicle. This form is intended for use in situations where a vehicle has been involved in an accident, been involved in a collision, or has suffered wear and tear.

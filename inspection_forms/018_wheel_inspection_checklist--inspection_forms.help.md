@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the Wheel Inspection Checklist form, I will first clarify the internal reasoning and considerations for its design and purpose.
-
-*   **Purpose:** The form is designed for wheel inspection, likely for vehicles such as cars, trucks, motorcycles, or forklifts, focusing on the condition of their wheels, tires, bearings, seals, and hubs. The form might be used in a maintenance or inspection context, possibly for quality control or regulatory compliance. The form's purpose is to gather specific information about the vehicle's wheel components, including their condition and maintenance history.
-*   **Non-duplication consideration:** It is assumed that the form is used in a scenario where the inspection or maintenance history for a specific vehicle is not well-documented, and the goal is to ensure consistent and thorough inspection processes across different vehicles and contexts.
-*   **Relevance and completeness consideration:** Given the form's focus on wheel components, it is likely that the target audience is someone inspecting or maintaining vehicles, possibly in a workshop or service setting. The form might be used by mechanics, maintenance staff, or quality control personnel.
-
-</thinking>
-
 # Wheel Inspection Checklist - Help Guide
 ## Purpose
 The Wheel Inspection Checklist form is designed to help you inspect and evaluate the condition of a vehicle's wheels and related components. This form is intended for use in inspection, maintenance, or quality control contexts, such as in a workshop or service setting.

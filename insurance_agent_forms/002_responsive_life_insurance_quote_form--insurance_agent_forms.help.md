@@ -1,7 +1,3 @@
-<thinking>
-**Form purpose:** This form is designed to collect basic information from users to provide them with a life insurance quote. The goal is to gather contact details, coverage preferences, and other relevant information to facilitate the insurance quoting process. This form should not be used for other purposes such as submitting claims or updating policy information. Please make sure this form is not used for non-relevant purposes such as marketing or lead generation as it may lead to unnecessary delays in the quoting process.
-</thinking>
-
 # Responsive Life Insurance Quote Form - Help Guide
 ## Purpose
 This form is designed to collect information from users to generate a life insurance quote. It is intended to gather contact details and coverage preferences.

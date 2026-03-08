@@ -1,7 +1,3 @@
-<thinking>
-To provide a relevant and non-duplicated help guide, I will analyze the form's purpose and fields. This form appears to be designed for assessing the technical product development process, gathering information about a project, including its name, team members, project manager, initiative status, project readiness, project roadmap, team communications, project initiatives, submission date and time, email address, phone number, and additional comments. The form is likely used for quality assurance, project monitoring, or similar purposes. This explanation will focus on the fields that are most relevant to the form's purpose.
-</thinking>
-
 # Tech Product Development Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about a project in the tech product development process. It will help assess the project's progress, identify potential issues, and provide insights for improvement.

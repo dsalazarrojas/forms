@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insurance Claim Discharge Form - Help Guide
 ## Purpose
 This form is used to process insurance claims after treatment or settlement has been finalized. It is required for all claimants to fill out this form accurately and completely to ensure a smooth claimant process.

@@ -1,11 +1,3 @@
-<thinking>...The form is used by managers to assess the need for a leave of absence for a Cybersecurity Analyst. This form is typically used when an Analyst is experiencing a situation that requires time off due to personal or work-related reasons. The form helps to determine the appropriate amount of time needed for the leave and ensures that the necessary steps are taken to maintain the Analyst's work and security responsibilities during the absence. 
-
-The form should not be used if the Analyst is already on a planned leave of absence or if the Analyst has a prior agreement for the leave of absence. 
-
-Before filling out this form, the Analyst should check their employee handbook or speak with HR to confirm that they have not already completed a leave of absence request and to review any relevant leave of absence policies and procedures. 
-
-</thinking>
-
 # Cybersecurity Analyst Leave Of Absence Assessment - Help Guide
 
 ## Purpose

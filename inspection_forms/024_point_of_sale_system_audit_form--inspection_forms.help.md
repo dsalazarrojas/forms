@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a point of sale system audit, which is likely an internal quality control process to ensure the accuracy and reliability of the point of sale system used in stores. This form is designed to gather data about the audit, including the store ID, date submitted, store location, auditor's name, audit findings, planned actions, status, assigned personnel, follow-up, and comments. To avoid duplication, users should only complete this form if they are directly involved in the audit process.
-</thinking>
-
 # Point Of Sale System Audit Form - Help Guide
 ## Purpose
 The Point of Sale System Audit Form is used to document and review point of sale system audits. This form helps maintain accuracy and reliability of the point of sale system and ensures that any issues are addressed promptly.

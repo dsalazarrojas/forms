@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insurance Quote Form - Help Guide
 ## Purpose
 The Insurance Quote Form is a tool designed to provide you with a quick and efficient way to generate quotes for various types of insurance. This form gathers relevant information from you to help us provide an accurate quote. Please ensure you provide the correct information to get an accurate quote.

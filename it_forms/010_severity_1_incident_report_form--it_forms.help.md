@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Severity 1 Incident Report Form - Help Guide
 ## Purpose
 This form is designed to report incidents that require immediate attention and resolution. It helps to gather essential information about the incident, including its severity level, type, and location, to ensure that incidents are handled efficiently and effectively.

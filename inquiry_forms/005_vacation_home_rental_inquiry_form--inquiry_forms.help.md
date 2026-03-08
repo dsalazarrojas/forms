@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to ensure that the form is used correctly to avoid duplication of effort and to provide a clear understanding of the purpose behind the form. The purpose of this form is to gather information about a user's inquiry for a vacation home rental. The form should only be used when a user is interested in renting a vacation home, and not for other purposes. This form is designed to collect necessary information from the user, which will be used to provide a personalized response. Each field is carefully crafted to ensure that the user can provide the required information efficiently and effectively.
 
 </thinking>

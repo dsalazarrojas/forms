@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect structured interview data from candidates. This form helps to gather specific information about candidates during the hiring process. The form includes fields such as candidate name, contact information, ratings, feedback, and review status. The structured format allows for efficient and consistent collection of data... </thinking>
-
 # Structured Interview Survey - Help Guide
 ## Purpose
 This form is used to collect structured interview data from candidates during the hiring process.

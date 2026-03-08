@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about job opportunities, allowing users to input details about job titles, companies, locations, and other relevant job-related information.
-Before proceeding, ensure that you're on the correct page for the relevant job opportunity and that you haven't already filled out this form for the same job. 
-</thinking>
-
 # Responsive Interview Questionnaire Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about job opportunities, allowing users to input details about job titles, companies, locations, and other relevant job-related information.

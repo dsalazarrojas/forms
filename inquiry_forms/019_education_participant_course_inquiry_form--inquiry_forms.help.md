@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect information from education participants about a course they are interested in or are currently participating in. The purpose of this form is to gather relevant details such as their name, contact information, and program specifics. 
-
-Before filling out this form, please note that some of the fields are optional. You should only fill out the fields that are relevant to your inquiry. 
-
-Also, if you have already submitted an inquiry for the same program, you will receive a message stating that your inquiry is a duplicate and will not be processed. 
-
-</thinking>
-
 # Education Participant Course Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from education participants about a course they are interested in or are currently participating in.

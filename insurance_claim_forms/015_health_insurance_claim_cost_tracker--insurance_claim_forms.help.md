@@ -1,7 +1,3 @@
-<thinking>
-This form, "Health Insurance Claim Cost Tracker", is used to track and process health insurance claims. It allows users to provide essential information about the claim, including their personal details, claim specifics, and status updates.
-</thinking>
-
 # Health Insurance Claim Cost Tracker - Help Guide
 ## Purpose
 The Health Insurance Claim Cost Tracker is a form used to gather information about health insurance claims. This form helps in tracking and processing claims in an efficient and organized manner.

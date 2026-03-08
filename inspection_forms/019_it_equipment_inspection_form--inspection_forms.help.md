@@ -1,5 +1,3 @@
-<thinking> This form is used for IT equipment inspection. It's designed to collect information about the equipment's condition, issues, and maintenance status. The form requires the user to select the equipment type and condition, and provide details about the inspection date, issues found, and repair status. The user is also asked to provide contact information and email address. This form is intended for IT staff to use when inspecting equipment, and it's meant to be completed by someone with knowledge of the equipment and its maintenance history. I'm assuming the context is a workplace or office setting, where IT staff need to keep track of equipment maintenance records. There are no duplicate fields in this form, and I'll focus on explaining each field clearly. </thinking>
-
 # it_equipment_inspection_form - Help Guide
 ## Purpose
 This form is used for IT equipment inspection and maintenance record keeping. It helps IT staff to track the condition, issues, and repair status of equipment.

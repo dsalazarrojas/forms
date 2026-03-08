@@ -1,7 +1,3 @@
-<thinking>
-This is a form used to collect data for street light maintenance. The purpose of this form is to help inspectors efficiently gather and document information about the condition and status of a street light. This form is part of a broader data collection process used to identify maintenance needs and plan repairs and replacements. The form is designed to be completed in the field, allowing inspectors to easily collect information without having to refer to separate documentation or notes.
-</thinking>
-
 # Street Light Maintenance Checklist Form - Help Guide
 ## Purpose
 The Street Light Maintenance Checklist Form is used to collect data on the condition and status of a street light. This information is used to identify maintenance needs and plan repairs and replacements.

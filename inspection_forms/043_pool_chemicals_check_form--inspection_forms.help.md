@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help pool operators and maintenance personnel quickly and accurately check the pool chemicals and report any issues or problems. The form is used to gather information about the pool's chemical levels, water level, and other relevant details. 
-
-This form should only be used for pools that are not part of a larger facility or system. If a pool is part of a larger facility, please use the "Facility Pool Chemicals Check Form" instead.
-
-When filling out this form, be sure to include all required fields. If any issues or problems are found, please select "Problem" as the result in the "Chemicals Check Results" field.
-
-This form is meant to be used for routine checks, not for emergency or critical incidents. If an emergency or critical incident occurs, please contact your supervisor or facilities team immediately.
-
-</thinking>
 # Pool Chemicals Check Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the pool's chemical levels, water level, and other relevant details during a routine chemical check. This form should be used for pools that are not part of a larger facility or system.

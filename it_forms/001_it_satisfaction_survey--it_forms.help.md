@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IT Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gauge the satisfaction of our users with our IT service. It will help us identify areas of improvement and provide insights for future development.

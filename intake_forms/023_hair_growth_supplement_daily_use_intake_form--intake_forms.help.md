@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Hair Growth Supplement Daily Use Intake Form is to collect information from users about their daily use of hair growth supplements. This form is designed to gather data on how often users take the supplement, their overall experience with it, any side effects they may have encountered, and their adherence to the supplement schedule. This form will help us understand user behavior and preferences, which can inform future product development and improvement. Please note that this form is intended for internal use only and will not be shared externally. It is essential to complete this form accurately and honestly to provide valuable insights.
-</thinking>
-
 # Hair Growth Supplement Daily Use Intake Form - Help Guide
 ## Purpose
 The Hair Growth Supplement Daily Use Intake Form is a collection of data about your daily use of hair growth supplements. Your responses will help us understand how you use the supplement and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: The Health Insurance Proposal Form is designed to collect basic demographic information from potential customers interested in purchasing health insurance. This form will help the customer provide their personal details, including their name, email, phone number, and proposal date. This form will help us gauge the customer's interest in our health insurance services, and we will be able to follow up with them for further discussions and quote them for the best plans available. To ensure that your form submission is processed correctly, please ensure that all required fields are filled out accurately and truthfully.
-</thinking>
-
 # Health Insurance Proposal Form - Help Guide
 ## Purpose
 The purpose of this form is to collect basic demographic information from individuals interested in purchasing health insurance. Please fill out the form to help us understand your requirements and provide you with a quote for our health insurance services.

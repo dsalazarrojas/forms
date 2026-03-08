@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to aid project implementers in capturing essential details about a new project's implementation plan. Its primary purpose is to gather key information that will help project teams and stakeholders make informed decisions about project progress, timelines, and resources allocation. This form ensures a structured approach to project planning and execution. Before starting, ensure this form is not a duplicate effort and that the project details are accurate and up-to-date. If you're using this form for a project that has already been created, please do not use this form to update project progress; instead, use the original project's progress tracking tools.
-</thinking>
-
 # Implementation Planning Checklist - Help Guide
 ## Purpose
 The Implementation Planning Checklist is a comprehensive form for capturing essential project details, including general information, project name, owner, start and end dates, resources, team, notes, status, comments, files, issues, risks, and reviews. This form serves as a centralized repository for project implementers to document and track project progress, ensuring a structured approach to project execution.

@@ -1,12 +1,3 @@
-<thinking> 
-The form purpose is to gather information for technical projects, and it seems to be a work order form that is likely used by internal teams or departments to create, manage, and track technical projects. This form might be used for various purposes such as requesting resources, tracking progress, and assigning tasks and tools to team members. The fields included in this form cover essential information like project title, owner, requestor, priority, deadline, start and end dates, assigned team members, and other relevant details. This form appears to be a general-purpose form and might be used across different departments or teams within an organization. 
-
-To confirm, I will assume that the form is intended to be used by team members to create, manage, and track technical projects, and that the fields are designed to collect relevant information to support these activities. Please correct me if this assumption is incorrect.
-
-If you'd like me to make any changes or corrections, let me know. Otherwise, I'll proceed with creating the help guide based on this YAML.
-
-</thinking>
-
 # Technical Project Work Order Form - Help Guide
 ## Purpose
 The Technical Project Work Order Form is used by internal teams or departments to create, manage, and track technical projects.

@@ -1,5 +1,3 @@
-<thinking>As a work-from-home job opportunity form, this form is designed to collect necessary information from job seekers to facilitate a successful work-from-home job application process. This form helps potential candidates provide their job titles, descriptions, categories, and other relevant details that match the requirements of potential employers. The form ensures that the application process is efficient and accurate, making it easier for both employers and job seekers to connect. By ensuring that each field is filled out correctly, the job seeker will increase their chances of getting hired. Please note that some fields are required for the form to be processed correctly. This form is a crucial step in the job application process and requires careful attention to detail. Ensure that all required fields are filled out before submission.</thinking>
-
 # work_from_home_job_opportunity - Help Guide
 ## Purpose
 This form is designed to collect job opportunity information from job seekers to facilitate a successful work-from-home job application process.

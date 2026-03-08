@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the Medical Insurance Application form with clarity and ease. Before diving into the form explanation, it's essential to understand the form's purpose and potential duplication checks. The Medical Insurance Application form is designed to collect information about the applicant's medical history, contact details, and policy preferences. To avoid confusion and ensure accuracy, please review the form carefully and ensure you have all the necessary information before proceeding.
-</thinking>
-
 # Medical Insurance Application - Help Guide
 ## Purpose
 The Medical Insurance Application form is designed to collect information about your medical history, contact details, and policy preferences. This form helps us understand your medical needs and preferences to provide you with the best possible medical insurance options.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a checklist for inspecting gas safety in a specific context, likely in a residential or commercial setting. The form appears to be used for identifying potential gas safety hazards and ensuring that gas appliances and connections are properly installed and maintained. It's likely used in a regulated industry such as construction or maintenance. The purpose of this form is to provide a structured and comprehensive approach to inspecting gas systems and appliances, ensuring compliance with relevant safety regulations. This form does not appear to be a general-purpose inspection form, and its specific fields and options imply a focus on specific aspects of gas safety. This form may be specific to a particular company or jurisdiction, and its content may have been generated based on local regulations or industry standards.
-</thinking>
-
 # Gas Safety Checklist - Help Guide
 ## Purpose
 This form is designed to be used as a checklist for inspecting gas safety in various locations. It is intended to help identify potential gas leaks, ensure proper installation and maintenance of gas appliances, and verify compliance with safety regulations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Multi Factor Authentication Opt Out Form - Help Guide
 ## Purpose
 This form is designed to help users opt out of Multi-Factor Authentication (MFA), a security feature that requires users to provide additional verification factors beyond just a username and password to access certain systems or applications. MFA adds an extra layer of security, but may be inconvenient or unnecessary for some users. This form allows users to provide reasons for opting out and acknowledge the risks associated with disabling MFA.

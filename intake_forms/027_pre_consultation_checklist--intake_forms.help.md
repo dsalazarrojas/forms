@@ -1,11 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I've generated this form based on public survey topic metadata to help users gather information for a pre-consultation checklist. This form is not affiliated with, endorsed by, or derived from any form platform, nor does it copy, extract, or use proprietary content from any survey platform. The form is released under a Creative Commons Attribution 4.0 (CC BY 4.0) license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-This form is intended to be a tool for users to gather information from clients before a consultation, likely for healthcare or medical professionals. The form is divided into four pages, each with a specific section to collect relevant information. Please review the form carefully and ensure it meets your specific needs before using it.
-
-</thinking>
-
 # Pre Consultation Checklist - Help Guide
 ## Purpose
 This form is designed to collect information from clients before a consultation, typically for healthcare or medical professionals. It's a pre-consultation checklist that helps gather relevant details to provide the best possible care and services.

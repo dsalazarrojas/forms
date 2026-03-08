@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # restaurant_delivery_vehicle_inspection_form - Help Guide
 ## Purpose
 The restaurant_delivery_vehicle_inspection_form is designed to collect information about a vehicle's registration and its inspection details. This form is intended for restaurants or businesses that need to inspect and verify the authenticity of vehicles delivering food, beverages, or other goods. The form helps to ensure that vehicles are registered and comply with relevant regulations.

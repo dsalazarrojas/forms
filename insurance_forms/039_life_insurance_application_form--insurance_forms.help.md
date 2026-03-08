@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for life insurance applications. The form will be used to capture demographic and contact information of the applicant, which will be used to determine insurance eligibility and coverage. This form should only be filled out by individuals who are applying for life insurance, as it is not intended for general use. There are no required fields, but filling out all fields will help ensure that the application process is completed smoothly.
-</thinking>
-
 # life_insurance_application_form - Help Guide
 ## Purpose
 The life_insurance_application_form is used to collect demographic and contact information for life insurance applications.

@@ -1,15 +1,3 @@
-<thinking>
-To ensure we provide accurate and helpful information to the end-users of this form, I will review the provided YAML and consider the following:
-
-* The form is intended for analytical chemists seeking employment or promotion in a related field.
-* There is a focus on gathering detailed personal and professional information, including education, experience, and skills.
-* The form requires specific fields such as full name, email address, and expected salary range, indicating that these are crucial details for the hiring process.
-* There is a section for additional information, allowing the applicant to provide further context or details that may be relevant to the hiring process.
-* The form includes specific fields for education, experience, and skills, which suggests that these are highly valued by the hiring organization.
-* Some fields are required, while others are optional, allowing the applicant to choose what they feel is most relevant to their situation.
-
-</thinking>
-
 # Analytical Chemist Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from analytical chemists interested in employment or promotion opportunities in our organization. By providing detailed personal and professional information, you will be able to showcase your qualifications and increase your chances of being considered for a position.

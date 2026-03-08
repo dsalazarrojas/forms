@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assist individuals with issues related to their referral service login. It is intended for those who are experiencing difficulties with accessing their referral accounts, such as forgotten passwords, account lockouts, or other login-related problems. To ensure that the correct information is collected, we check for duplicate requests from the same user within a 30-day timeframe. Please only submit a new request if your issue is not resolved or if you have a new concern.
-
-</thinking>
-
 # Referral Service Login Assistance Request - Help Guide
 ## Purpose
 The Referral Service Login Assistance Request form is designed to help individuals resolve issues with their referral service logins. If you are experiencing difficulties with accessing your referral account, such as forgotten passwords or account lockouts, this form is intended to guide you through the process of resolving your issue.

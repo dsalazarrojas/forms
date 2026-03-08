@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Pulmonary Discharge Form - Help Guide
 =====================================
 

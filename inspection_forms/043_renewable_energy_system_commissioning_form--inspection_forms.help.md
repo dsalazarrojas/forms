@@ -1,5 +1,3 @@
-<thinking>This form is designed for commissioning renewable energy systems. The form is used to capture information about the system's location, project details, contact information, and commissioning data. The form is divided into several sections, each covering a different aspect of the commissioning process. The form's fields are a mix of text fields for general information and select fields for specific options or dates. The form requires the selection of a "Sign Off" option and the input of a "Reviewer" name, indicating that the form is a formal commissioning document. The "Reviewer" and "Review Date" fields are required, while other fields are optional or have specific options.</thinking>
-
 # Renewable Energy System Commissioning Form - Help Guide
 ## Purpose
 This form is used to commission renewable energy systems. It captures information about the system's location, project details, contact information, and commissioning data to ensure a thorough and accurate commissioning process.

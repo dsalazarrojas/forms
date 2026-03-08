@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for documenting non-compliance incidents in manufacturing facilities. It captures the necessary details for tracking and managing these incidents, such as the incident description, corrective actions taken, and status updates. The form also includes fields for assigning tasks and tracking changes made to the form over time.
-</thinking>
-
 # Smart Manufacturing Compliance Report Form - Help Guide
 ## Purpose
 The Smart Manufacturing Compliance Report Form is used to document and track non-compliance incidents in manufacturing facilities. It helps ensure that all relevant information is recorded and reported, enabling timely corrective actions to be taken.

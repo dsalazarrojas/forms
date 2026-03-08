@@ -1,9 +1,3 @@
-<thinking>Expansion Joints Inspection Checklist - Help Guide
-## Purpose
-The Expansion Joints Inspection Checklist is used to collect information about the condition of expansion joints on a bridge or building. This form is a structured guide to ensure that all necessary details are documented during the inspection process.
-
-</thinking>
-
 # Expansion Joints Inspection Checklist - Help Guide
 ## Purpose
 

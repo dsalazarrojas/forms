@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to schedule remote system scans for IT systems, allowing users to request scans at their preferred time slots. The form is used for internal purposes within an organization, and its purpose is to collect information from users who need to schedule a scan for their systems. The form is not intended for external use or public distribution. The fields in this form are designed to collect necessary information for scheduling and facilitating the scan process.
-</thinking>
-
 # Remote System Scan Scheduling - Help Guide
 ## Purpose
 This form is used to schedule remote system scans for IT systems. It allows users to select a time slot and provide any necessary details for the scan request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal and professional information from job applicants to the Abdan Prestige Holding company. The purpose of this form is to assess the qualifications, experience, and fit of candidates for available positions. Please note that the form is divided into sections, each focusing on a specific aspect of a candidate's background and qualifications. Ensure that you answer all required fields accurately and thoroughly to provide a complete picture of your profile.
-</thinking>
-
 # Abdan Prestige Holding Interview Questionnaire Form - Help Guide
 ## Purpose
 The Abdan Prestige Holding Interview Questionnaire Form is designed to collect essential information from job applicants, allowing us to assess their qualifications, experience, and fit for available positions.

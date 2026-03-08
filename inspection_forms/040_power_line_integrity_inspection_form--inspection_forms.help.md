@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the power line integrity inspections, which is a critical process to ensure the reliability and safety of power lines. The form is designed to gather details about the power line location, inspection type, and other relevant information to help inspectors perform thorough and accurate inspections. This form is not intended to be a comprehensive inspection report, but rather a supplementary tool to aid inspectors in their work. Before proceeding, please ensure that you have the necessary permissions and authorities to access and complete this form.
-
-</thinking>
-
 # power_line_integrity_inspection_form - Help Guide
 ## Purpose
 The Power Line Integrity Inspection Form is a supplementary tool for inspectors to gather information about power line inspections. It is designed to aid in the collection of data and ensure that inspections are performed thoroughly and accurately.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from end users about digital media viewer content. It is intended to be used by users to submit inquiries or requests related to media content, such as seeking additional information or clarification on specific content items. The form should only be submitted once for each unique content item, to avoid duplication of efforts. This form will be used by content creators and administrators to review and address the inquiries and requests submitted by users.
-</thinking>
-
 # Digital Media Viewer Content Inquiry Form - Help Guide
 ## Purpose
 This form is used to submit inquiries or requests related to digital media content. Use this form to ask questions, provide feedback, or seek clarification on specific content items.

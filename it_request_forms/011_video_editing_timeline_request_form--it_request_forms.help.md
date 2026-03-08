@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for project management and video editing purposes. It seems to be used for collecting information about video editing projects, such as project details, deadlines, and files related to the project. The form might be used by content creators, video editors, or project managers to gather information and coordinate tasks. Before filling out this form, ensure that you are using it for a video editing project and not for any other purpose. Please ensure that you do not duplicate the submission process, as this form is intended for original project management and video editing tasks only.
-</thinking>
-
 # video_editing_timeline_request_form - Help Guide
 ## Purpose
 This form is designed to collect and organize project details for video editing tasks. It includes fields for project descriptions, deadlines, files, deadline dates, times, and notes. This form is intended to streamline project management and video editing processes.

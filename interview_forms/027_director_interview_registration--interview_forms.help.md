@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block ...</thinking>
-
 The purpose of this form is to collect information from candidates during the director interview process. This form is likely used by HR or recruitment teams to gather relevant details from each candidate, including their personal details, availability, and other important information. 
 
 To ensure that the form is not duplicated, it's essential to check if the form has been completed for the same candidate in the past. 

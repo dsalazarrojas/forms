@@ -1,11 +1,3 @@
-<thinking>
-The form is used by administrators to request smart monitoring access for a user. 
-Smart Monitoring is a feature that allows certain users to access specific monitoring systems on our internal platforms. 
-The form must be submitted only once, for each user, to avoid duplicating access. 
-Please submit only if you have a legitimate reason for requesting access to our systems. 
-Only the approved users will have access to the systems and they will be informed about it via email.
-</thinking>
-
 # Smart Monitoring Access Request Form - Help Guide
 
 ## Purpose

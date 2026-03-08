@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for policy cancellation purposes, allowing users to input relevant information about the cancellation. The form's fields are intended to gather details such as vehicle type, policy number, reason for cancellation, and other related factors. To ensure that this form is used correctly, it's essential to understand its purpose and how to fill it out accurately. Before proceeding, please confirm that your intention is to cancel a policy and that you haven't already completed this form for the same purpose previously.
-</thinking>
-
 # Policy Cancellation Form - Help Guide
 ## Purpose
 This form is designed to gather information for policy cancellation purposes. It will help you to accurately document the cancellation of a policy, ensuring that all relevant details are captured.

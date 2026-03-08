@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for an offsite accommodation inspection. It is likely used by facility management or maintenance staff to conduct regular checks on offsite properties. The form should only be completed once per property inspection. Please confirm that this form is relevant to your task before proceeding.
-</thinking>
-
 # offsite-accommodation-inspection-form - Help Guide
 ## Purpose
 The offsite-accommodation-inspection-form is used to collect information for an offsite accommodation inspection. It is designed to be completed once for each property being inspected.

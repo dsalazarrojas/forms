@@ -1,5 +1,3 @@
-<thinking>Inspecting freight trains for safety and regulatory compliance is a critical task in the rail industry. This form is used to document the inspection status and findings of trains, which helps ensure that trains are safe for operation and comply with relevant regulations. The form should only be used for freight trains, and the following guide will walk you through the completion process. Please ensure that the form is completed accurately and thoroughly, as it is a critical document for regulatory compliance.</thinking>
-
 # Train Freight Inspection Form - Help Guide
 ## Purpose
 The Train Freight Inspection Form is used to document the inspection status and findings of freight trains. This form helps ensure that trains are safe for operation and comply with relevant regulations.

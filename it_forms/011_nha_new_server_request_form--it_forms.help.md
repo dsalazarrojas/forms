@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect new server request information from users. It's intended to be completed by individuals who need to request a new server from the network administration team. The form ensures that the request is properly documented with relevant details for tracking and processing. To avoid duplicating efforts and ensure accurate record-keeping, users are encouraged to review the form carefully and ensure that all required and optional fields are filled out correctly.
-
-</thinking>
-
 # NHA New Server Request Form - Help Guide
 ## Purpose
 The NHA New Server Request Form is a form for requesting a new server from the network administration team.

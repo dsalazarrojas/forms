@@ -1,19 +1,3 @@
-<thinking>
-This form is used to assess the compliance status of data usage practices within a Telecom company. The form aims to evaluate and identify areas of non-compliance, collection methods, and policy effectiveness. It's a tool to ensure that the company adheres to regulatory and industry standards. 
-
-The following form guide will help users complete the "Telecom Data Usage Compliance Audit Form" efficiently. The guide will walk through the purpose and process of the form, explaining each field's significance and required information. 
-
-The form is divided into six main sections: Compliance Audit, Collection Practices, Policy Effectiveness, Incidents, Corrective Actions, Comments, and Date. Each section is designed to collect specific data that contributes to the overall assessment of the company's data usage compliance.
-
-The form is not a replacement for legal or regulatory experts. It's a support tool for internal teams to identify potential issues and address them proactively. 
-
-Before filling this form, ensure you have the necessary information and authorization to complete it accurately. 
-
-This form does not collect any sensitive or personal data. It's a compliance assessment tool, and the information collected will only be used to improve the company's data usage practices. 
-
-Please read each section carefully, and fill in the required fields accordingly. If you're unsure about any field or section, please reach out to your supervisor or internal compliance team for guidance. 
-</thinking>
-
 # Telecom Data Usage Compliance Audit Form - Help Guide
 ## Purpose
 

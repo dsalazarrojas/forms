@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information from potential candidates for a business analyst internship opportunity. The form aims to collect relevant details about the applicant's personal information, academic background, skills, experience, and preferences. It is essential to ensure that the applicant meets the requirements for the internship. Please note that providing incomplete or inaccurate information may disqualify the applicant from consideration.
-
-To ensure that each application is thoroughly reviewed, please fill out the form carefully and accurately. If you have any questions or concerns, don't hesitate to reach out to us for clarification.
-</thinking>
-
 # Business Analyst Internship Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential candidates for a business analyst internship opportunity. Your application will be reviewed thoroughly, and providing accurate details is crucial to ensure consideration.

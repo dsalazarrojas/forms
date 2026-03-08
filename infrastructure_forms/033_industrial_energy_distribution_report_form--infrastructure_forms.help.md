@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about industrial energy distribution systems, including energy sources, operational issues, and maintenance schedules. To ensure that end users complete the form accurately and efficiently, it is essential to understand the purpose and requirements of each field. The following guide will walk users through the form, explaining each field and its significance.
-
-</thinking>
-
 # Industrial Energy Distribution Report Form - Help Guide
 ## Purpose
 The Industrial Energy Distribution Report Form is a tool to collect data on industrial energy distribution systems. This form helps in tracking energy sources, operational issues, and maintenance schedules to optimize system performance and energy usage.

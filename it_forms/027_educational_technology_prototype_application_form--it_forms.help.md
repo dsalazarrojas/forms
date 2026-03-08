@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Technology Prototype Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about educational technology prototypes. It is intended for educational institutions, researchers, and developers to share their ideas, experiences, and outcomes related to educational technology. The form collects various details about the prototypes, including text descriptions, selection options, and contact information.

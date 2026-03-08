@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect contact information and classify the urgency of data integrity issues that require staff attention. This form is meant for internal use only and is not intended for general public submission. 
-The form will be used by IT, Quality, and Governance teams to track and address data integrity concerns.
-</thinking>
-
 # process_data_integrity_contact_form - Help Guide
 ## Purpose
 The purpose of this form is to provide a centralized platform for staff to report and track data integrity concerns. This form will help ensure that issues are addressed in a timely and efficient manner.

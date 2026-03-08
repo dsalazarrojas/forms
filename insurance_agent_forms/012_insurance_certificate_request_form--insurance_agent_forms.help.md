@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from insurance agents regarding their requests for insurance certificates. This form is likely used within an organization or company that provides insurance services, and it's meant to gather necessary details for processing and verifying the agent's requests. The fields in this form are designed to collect basic contact information, insurance policy details, and reason for the request. 
-
-Please ensure you've reviewed the form's purpose and that it's applicable to your situation before proceeding.
-</thinking>
-
 # insurance_certificate_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from insurance agents for insurance certificate requests.

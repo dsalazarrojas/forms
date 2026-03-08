@@ -1,12 +1,3 @@
-<thinking>
-The form "hpa_operations_log_2021" is used to record operational notes and activities related to Health and Performance Assessment (HPA). The purpose of this form is to provide a structured way to document and track these notes and activities. This form is likely used by a team or organization to maintain a record of who submitted the notes and activities, as well as who they were assigned to. The form should only be filled out by authorized personnel and is likely used in an internal context. The form's structure is based on a set of fields that capture essential information, including names, dates, times, phone numbers, and notes. The fields also allow users to select who submitted and who was assigned to the noted activity. It appears that the form is designed to be filled out by multiple individuals, as indicated by the presence of multiple "Submitted By" and "Assigned To" fields.
-
-Given the nature of the form, it is essential to ensure that the correct personnel are filling out the form and that the information is accurate and up-to-date. This form is likely used in a controlled environment where the submitted data is used for internal purposes only.
-
-To avoid duplication of effort, please ensure that you are only filling out this form for new and unique operational notes and activities. If you are unsure about the purpose or scope of the form, please reach out to the relevant authorities for clarification.
-
-</thinking>
-
 # hpa_operations_log_2021 - Help Guide
 ## Purpose
 The purpose of this form is to record operational notes and activities related to Health and Performance Assessment (HPA). It is used to document and track who submitted the notes and activities, as well as who they were assigned to.

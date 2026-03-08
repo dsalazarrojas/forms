@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information related to escalations or interactions with customers. The form is intended to provide a clear and organized way to document these interactions, including details about the customer's experience, the actions taken, and any next steps or follow-up actions.
-The purpose of this form is to ensure that all relevant information is captured consistently and accurately, making it easier to review and respond to customer escalations. It also serves as a record of communication and action taken, which can be used for auditing and quality control purposes.
-Before proceeding, please check that you are not duplicating existing entries for the same customer interaction. If you've already submitted an entry for the same customer interaction, it's best to update that entry instead of creating a new one.
-</thinking>
-
 # escalation_interaction_log - Help Guide
 ## Purpose
 The escalation_interaction_log form is used to document customer interactions and escalations. It captures key details about the customer, the escalation reason, and the actions taken to resolve the issue.

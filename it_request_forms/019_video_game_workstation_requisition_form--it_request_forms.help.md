@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect requests for video game workstations, which are computing systems used for gaming purposes. It's intended for employees to request a workstation for their personal or professional use. To ensure that the form is filled out correctly, check the fields and their descriptions below.
-
-</thinking>
-
 # video_game_workstation_requisition_form - Help Guide
 ## Purpose
 The video game workstation requisition form is used to collect requests for computing systems used for gaming purposes. This form is for internal use only and should not be used for external purposes.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for use by Courtesy Officers to report on their daily activities and incident reports. The form should be used in conjunction with the organization's incident management procedures to ensure that all necessary information is collected and recorded accurately. The form should not be used for other purposes or for reporting on non-incident related activities.
-Please note that the form has a mix of required and optional fields. Required fields are marked as such, and users are expected to fill out only those fields that are necessary for the specific incident report.
-Before completing the form, please ensure that you have all necessary information and attachments ready. The form can be submitted with attachments if needed.
-</thinking>
-
 # Courtesy Officer Daily Activity Report Form - Help Guide
 ## Purpose
 The Courtesy Officer Daily Activity Report Form is designed to collect information on daily activities and incident reports from Courtesy Officers. This form helps to ensure that all necessary information is collected and recorded accurately.

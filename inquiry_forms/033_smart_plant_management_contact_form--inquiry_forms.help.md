@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information from users for the purpose of inquiring about smart plant management services. The form is likely used by a business or organization to gather data from interested customers or clients. The form fields are intentionally not marked as required, suggesting that it's not a mandatory submission, but rather an optional inquiry.
-</thinking>
-
 # smart_plant_management_contact_form - Help Guide
 ## Purpose
 This form is used to collect contact information from users for inquiring about smart plant management services.

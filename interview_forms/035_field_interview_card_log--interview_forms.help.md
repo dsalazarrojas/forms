@@ -1,27 +1,3 @@
-<thinking>
-The purpose of this form is to document field interviews, capturing essential information about each interview, including the title and description of the event, details about the participant, and any additional notes. This form helps to ensure that all relevant information is collected in a standardized and easily accessible manner, making it easier to review and analyze the data.
-
-The form can be completed by anyone who has conducted or plans to conduct a field interview, such as fieldworkers, researchers, or team members. It is essential to fill out the form as thoroughly and accurately as possible to maintain data quality.
-
-Before starting, make sure you are not duplicating an existing entry for the same event and participant. Check the database or previous submissions to avoid creating duplicate entries.
-
-To complete this form, follow these steps:
-
-1.  Enter a title that describes the event and its purpose.
-2.  Provide a brief description of the event.
-3.  Enter the date and time of the event.
-4.  Identify the location of the event.
-5.  Fill in the name of the participant.
-6.  Select the gender of the participant.
-7.  Enter the age of the participant.
-8.  Enter the contact number of the participant.
-9.  Enter the email of the participant.
-10. Add any additional notes about the participant or the event.
-
-When filling out the form, be as detailed as possible to provide valuable information for future reference and analysis.
-
-</thinking>
-
 # Field Interview Card Log - Help Guide
 ## Purpose
 The Field Interview Card Log is a form designed to document field interviews, providing a structured way to capture essential details about each interview, including the event's title and description, participant's information, and any additional notes.

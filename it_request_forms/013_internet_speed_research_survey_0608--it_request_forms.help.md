@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about internet speed research surveys. It is intended for users who want to report their internet speed test results. The form should only be filled out once per test, and the data should not be duplicated.
-</thinking>
-
 # internet_speed_research_survey_0608 - Help Guide
 ## Purpose
 This form is used to report the results of internet speed tests. Please fill out the form to help us collect data on your internet speed test results.

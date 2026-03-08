@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from candidates applying for an entry-level position within the organization. It serves as a means to gather details about the candidate's background, qualifications, and relevant experience. 
-</thinking>
-
 # Entry Level Position Interview Form - Help Guide
 ## Purpose
 The Entry Level Position Interview Form is used to collect information from candidates applying for an entry-level position. This form helps the hiring team to have a better understanding of the candidate's background, skills, and experience.

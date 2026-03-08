@@ -1,5 +1,3 @@
-<thinking>...The IT Talent Cost Estimator form is a tool used to estimate the cost of hiring and managing IT talent. It helps IT teams and project managers to quickly calculate the cost of various roles, locations, and duration of projects. This form ensures that the estimated costs are accurate and up-to-date, reducing the risk of over- or under-budgeting...</thinking>
-
 # IT Talent Cost Estimator - Help Guide
 ## Purpose
 The IT Talent Cost Estimator form is a tool used to estimate the cost of hiring and managing IT talent. It helps IT teams and project managers to quickly calculate the cost of various roles, locations, and duration of projects.

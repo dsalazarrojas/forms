@@ -1,20 +1,3 @@
-<thinking>
-This form is used to confirm the status of groundwork site preparation tasks, inspector name, inspection date, site prep approvals, notes, contact email, contact phone, and submission status. It is essential to ensure that all necessary steps have been completed before proceeding with the inspection. Please review each field carefully and ensure that you are filling it out accurately to avoid any issues.
-
-Before filling out this form, please ensure that you have completed the following:
-
-- Site prep tasks have been completed.
-- You have verified the inspector's name and credentials.
-- You have confirmed the inspection date.
-- Site prep approvals have been obtained or denied.
-- You have taken notes of any concerns or issues.
-- You have the contact email and phone number of the relevant personnel.
-- You have confirmed whether this form has been submitted or not.
-
-Please note that some fields are optional, and it's essential to fill out only the necessary fields accurately. If a field is not required, you can leave it blank.
-
-</thinking>
-
 # Groundwork Confirmation Checklist - Help Guide
 ## Purpose
 

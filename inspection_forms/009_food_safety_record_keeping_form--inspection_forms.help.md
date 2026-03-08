@@ -1,5 +1,3 @@
-<thinking>As a food safety expert, I understand that keeping accurate records is crucial for maintaining a clean and safe food handling environment. This form is designed to guide food safety inspectors to collect and document critical data about food safety checks. It helps ensure that food handlers are aware of the status of their food handling operations and can take immediate corrective actions when necessary. Each field in this form is carefully crafted to collect detailed information about the items checked, their results, and any follow-up actions taken. By filling out this form, food safety inspectors can quickly identify areas of improvement and take steps to maintain food safety standards.</thinking>
-
 # Food Safety Record Keeping Form - Help Guide
 ## Purpose
 This form helps food safety inspectors collect and document critical information about food safety checks. It guides them in assessing food items, recording results, and tracking follow-up activities to maintain a clean and safe food handling environment.

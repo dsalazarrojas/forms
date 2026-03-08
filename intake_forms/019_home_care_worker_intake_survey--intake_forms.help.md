@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect demographic and employment information from home care workers, ensuring accuracy and consistency. It will help us understand who the home care worker is, what they do, and how they provide care services. We will use the information collected here to ensure we're able to reach out to them for future services. Please ensure this is the right form for you, and that you haven't submitted this form before.
-</thinking>
-
 # Home Care Worker Intake Survey - Help Guide
 ## Purpose
 The Home Care Worker Intake Survey is designed to collect information about home care workers to ensure accuracy and consistency in our records. This information will be used to identify and contact home care workers for future services.

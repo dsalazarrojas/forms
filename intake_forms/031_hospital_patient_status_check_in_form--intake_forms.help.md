@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hospital patient status check in form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather essential information for the Behavior Support Service Agreement, which is a crucial document for service providers and participants in the behavior support services. It collects details about the participant's agreement, including their name, service start and end dates, type of service, frequency, and hourly rate. The form also includes sections for terms and consent, cancellation policies, confidentiality, and data collection, as well as space for additional notes or special requirements.
-
-This form is intended to be filled out by the participant (or their representative) and will help service providers tailor their support services to meet the participant's needs. It's essential to review each field carefully to ensure accurate and complete information is provided.
-
-To determine if this form has been previously completed for the same participant, please refer to the internal participant database or ask the participant about their previous services.
-
-</thinking>
-
 # Behavior Support Service Agreement - Help Guide
 
 ## Purpose

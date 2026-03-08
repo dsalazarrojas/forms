@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users to apply for mobile phone services. To determine the relevance and non-duplication of this form, let's consider the context in which it would be used. This form is likely used by individuals or businesses looking to acquire mobile phone services such as contracts, plans, or specific services from a mobile network provider. It's possible that this form is used for internal purposes, such as customer service applications, or external purposes, such as online applications. To avoid duplication of effort, it's essential to ensure that users understand the purpose and requirements of this form.
-
-Given the YAML structure, this form appears to be a multi-purpose form that gathers information from users, including carrier selection, service requests, plan choices, and contact information. The form seems to be designed to be user-friendly, with a mix of select and text fields, allowing users to provide varying types of input.
-
-The form's structure and fields suggest that it's intended for customers or potential customers to apply for services. However, without further context, it's challenging to determine the exact use case. To ensure that this form is completed correctly and efficiently, it's essential to provide clear guidance on its purpose and requirements.
-</thinking>
-
 # Mobile Phone Service Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end users who will be submitting a phone interview application. The form is designed for gathering information about phone interviews, including contact details, call type, schedule, and note-taking. Before proceeding, please ensure that you are submitting a complete and accurate application. If you have already submitted an application for this type of interview, please do not resubmit.
-</thinking>
-
 # Phone Interview - Help Guide
 ## Purpose
 This form is for scheduling and recording phone interviews. It captures the contact details, call type, schedule, and any additional note-taking information.

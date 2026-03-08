@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information about suspected malware incidents. It is intended for use by technicians and engineers who need to analyze and address potential malware issues on systems. The form is typically used to gather data for internal analysis and reporting purposes. Before proceeding, please ensure that you have already checked the system for malware using other methods and have a clear understanding of the incident's details. Additionally, please fill out this form only for new incidents, and avoid duplicating previous reports.</thinking>
-
 # Virus Removal Analysis Form - Help Guide
 ## Purpose
 The Virus Removal Analysis Form is used to gather information about suspected malware incidents on systems. This form helps technicians and engineers collect data for internal analysis and reporting purposes.

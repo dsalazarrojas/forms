@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for prenatal massage clients to gather necessary information for their care and consent. It's essential to review the form carefully to ensure all required fields are filled out and to understand the implications of each field. Please note that this form is not a replacement for medical care or advice. If you have any questions or concerns, please reach out to your healthcare provider.
-</thinking>
-
 # Prenatal Massage Client Intake Form - Help Guide
 ## Purpose
 The Prenatal Massage Client Intake Form is a vital document for our prenatal massage clients to provide us with essential information about their health and consent.

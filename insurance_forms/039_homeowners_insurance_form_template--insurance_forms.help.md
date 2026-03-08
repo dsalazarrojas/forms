@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from homeowners regarding their insurance needs. It is a general template that can be used to gather data on various aspects of the homeowners' properties. The purpose of this form is to collect information necessary for insurance coverage purposes. The form has various sections and fields to gather information such as address, type of home, coverage level, coverage limit, and other relevant details.
-
-Before filling out this form, please ensure you are familiar with the purpose and content of each section. If you are not sure about any field, refer to the field explanation for clarification.
-
-To ensure consistency in the form, we will be checking for redundant information and invalid data entry.</thinking>
-
 # Homeowners Insurance Form Template - Help Guide
 ## Purpose
 This form is intended to gather information from homeowners regarding their insurance needs.

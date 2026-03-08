@@ -1,5 +1,3 @@
-<thinking>Form created by AI for development service agreement, not affiliated with any form platform, original adaptation of public survey topic metadata, released under CC BY 4.0. Form purpose: to capture service agreement information from clients and projects in development.</thinking>
-
 # Service Agreement For Development - Help Guide
 ## Purpose
 This form is designed to capture essential information related to service agreements for development projects.

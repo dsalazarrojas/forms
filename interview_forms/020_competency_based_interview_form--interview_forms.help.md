@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to evaluate a candidate's competencies in various areas such as communication, teamwork, problem-solving, leadership, adaptability, and technical skills during an interview. It is a tool for the interviewer to assess the candidate's performance and provide a final recommendation for hiring.
-Before completing this form, please ensure that you are familiar with the candidate's interview and have taken notes during the conversation. This form is not intended to be a comprehensive assessment, but rather a snapshot of the candidate's performance at a specific point in time.
-To avoid duplication of effort, please only complete this form if you have conducted a thorough interview and have taken notes throughout the conversation.
-</thinking>
-
 # Competency Based Interview Form - Help Guide
 ## Purpose
 This form is designed to evaluate a candidate's competencies in various areas during an interview.

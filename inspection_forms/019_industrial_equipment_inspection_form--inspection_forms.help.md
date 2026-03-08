@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for the general inspection of industrial equipment. This form is not to be used for any other purpose and should not be used as a template for other types of forms. Ensure that you understand the purpose of this form before proceeding.
-</thinking>
-
 # Industrial Equipment Inspection Form - Help Guide
 ## Purpose
 The Industrial Equipment Inspection Form is used to collect data on industrial equipment inspections, including the type of equipment, inspection date, and any notes from the inspection process.

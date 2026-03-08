@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be a simple inquiry form for customers or partners to get pricing information for a payment gateway service. It's likely used by sales or customer support teams to gather information about a customer's or partner's business, contact details, and message or inquiry description. 
-
-The form doesn't appear to have any duplicate fields, however, it is designed to be a single-page form. This might be intended for a single inquiry or question from an individual. 
-
-It does not seem to have any validation checks for business or contact details, however, this may be a requirement for the backend validation. 
-
-Please review and update this information if it doesn't meet your expectations
-</thinking>
-
 # Payment Gateway Pricing Inquiry Form - Help Guide
 ## Purpose
 The Payment Gateway Pricing Inquiry Form is a simple inquiry form designed to allow customers or partners to submit their information and get personalized pricing information for our Payment Gateway Service. This form is used to gather contact details, business information, and a message or question about payment gateway pricing.

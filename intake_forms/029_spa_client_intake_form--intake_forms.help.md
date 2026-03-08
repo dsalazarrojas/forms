@@ -1,9 +1,3 @@
-<thinking>...
-The Spa Client Intake Form is intended to collect essential information from clients before scheduling a session. This form helps the client provide their personal details, medical history, and contact information, ensuring a smooth and safe therapeutic experience.
-The form aims to gather information such as client contact details, medical history, and any allergies or medications the client may have. This form will also help the client specify their preferred schedule for the session and provide any necessary medical notes or emergency contact information.
-Please note that this form is not intended for clients with severe medical conditions or emergencies. In such cases, please contact a medical professional immediately.
-</thinking>
-
 # Spa Client Intake Form - Help Guide
 ## Purpose
 

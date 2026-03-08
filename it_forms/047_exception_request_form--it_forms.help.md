@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exception Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about exceptions that have occurred on-site. Exceptions are unusual events or issues that require immediate attention from the IT department. By filling out this form, you will be able to provide a clear and concise description of the problem, the job that was affected, and the solution or action taken to resolve the issue.

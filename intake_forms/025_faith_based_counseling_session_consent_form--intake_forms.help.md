@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients for faith-based counseling sessions, ensuring that their consent is obtained before proceeding with the counseling. It's essential to complete this form accurately and honestly, as it helps the counselor understand the client's background, goals, and requirements for the session. To avoid duplication of effort, please ensure that you have not completed this form before, and if you need to make changes, update your information accordingly.
-</thinking>
-
 # Faith Based Counseling Session Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from clients for faith-based counseling sessions, ensuring their consent and understanding of the session details.

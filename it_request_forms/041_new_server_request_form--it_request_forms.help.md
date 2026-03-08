@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect <string> information from users. It is intended for internal use within the organization and helps in <string> related to <string>.

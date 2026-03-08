@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and that users are not submitting duplicate requests. This form is for requesting a Certificate of Insurance (COI) for business or organizational clients. It's crucial that the request is processed accurately and efficiently. Before proceeding, please review this guide carefully to ensure you fill out the form correctly.
-</thinking>
-
 # Certificate Of Insurance Request Form - Help Guide
 ## Purpose
 The Certificate of Insurance Request Form is used to request a Certificate of Insurance from an insurance company for business or organizational clients. It is a crucial document that provides proof of insurance coverage for projects or contracts.

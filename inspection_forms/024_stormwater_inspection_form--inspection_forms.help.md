@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about a stormwater inspection, which is likely used for monitoring and maintaining the quality of stormwater systems. The purpose of this form is to gather details about the status of stormwater systems, including their functionality and any issues that may be present. This information can be used by maintenance teams or other relevant stakeholders to identify areas that need attention and to take corrective action.
-The form is likely part of a larger maintenance or quality control process, and its completion will help to ensure that stormwater systems are functioning properly and safely. Before filling out this form, users should ensure that they have all necessary information and authorization to complete it.
-It's possible that this form is used in conjunction with other forms or checklists, and that users may need to refer to other resources or guidelines for specific details.
-</thinking>
-
 # Stormwater Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about stormwater system inspections. The form helps to gather details about the status of stormwater systems, including their functionality and any issues that may be present.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **The Software Developer Project Interview Form is used by software developers to collect information about a candidate's background, experience, and skills during the hiring process. This form helps to gather necessary details about the candidate's qualifications for a specific project, ensuring that all required information is collected in a structured and organized manner. Please fill out this form accurately and thoroughly to ensure your application is complete.**
 
 # Software Developer Project Interview Form - Help Guide

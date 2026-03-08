@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information on the status of fountain equipment being inspected. The form will gather data on the type of equipment, its location, condition, and other relevant details. It will also ask for the date and person who performed the last inspection, as well as any comments or observations from the inspector. This form will be completed by someone inspecting the equipment, and the collected data will be used for internal purposes to track and manage inspection records.
-</thinking>
-
 # Fountain Beverage Equipment Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information on the status of fountain equipment being inspected. It will help track and record details about the equipment, such as its type, location, condition, and maintenance history.

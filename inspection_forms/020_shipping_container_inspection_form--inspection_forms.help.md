@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for shipping container inspections, allowing users to report on the condition and type of containers being shipped. The form will be used to ensure consistency in container reporting and to aid in the inspection process. The form has three fields: "Container Type", "Container Condition", and "Damage". This form is designed to be user-friendly and adaptable to the specific needs of the user, and is meant to help streamline the inspection process.
-
-</thinking>
-
 # shipping_container_inspection_form - Help Guide
 ## Purpose
 The shipping container inspection form is used to record the type and condition of shipping containers, ensuring accurate and consistent reporting.

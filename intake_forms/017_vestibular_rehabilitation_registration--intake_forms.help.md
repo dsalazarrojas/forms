@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vestibular Rehabilitation Registration - Help Guide
 ## Purpose
 The Vestibular Rehabilitation Registration form is used to collect patient information for vestibular rehabilitation treatment. This form gathers essential details about the patient, their medical history, and their insurance information to provide personalized treatment plans.

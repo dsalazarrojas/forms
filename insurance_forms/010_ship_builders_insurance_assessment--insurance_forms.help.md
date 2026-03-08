@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a Ship Builders Insurance Assessment form, likely designed to collect information from ship builders for insurance purposes. The form has 10 fields, including user input, shipyard details, contract details, operational risks, risk management, claims history, coverage options, coverage details, notes, and a submit button. The form does not appear to have any specific conditional logic or branching, suggesting it is a straightforward data collection form. However, the lack of explicit instructions or guidance within the form itself may cause some confusion for end-users. This form guide will aim to clarify the purpose and usage of each field to ensure users understand the expected input and can successfully complete the form.
-</thinking>
-
 # Ship Builders Insurance Assessment - Help Guide
 ## Purpose
 This form is designed to collect information from ship builders for insurance assessment purposes. It helps insurers assess the risks associated with ship building and determine the appropriate coverage options for the shipyard.

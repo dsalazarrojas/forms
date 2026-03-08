@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Employee Handover Form is designed to collect information about an employee's transfer, including details about the employee themselves, the date of transfer, and the assets involved. This form helps in ensuring a smooth handover process by gathering all the necessary information in one place. 
 
 Before completing this form, please ensure you have all the necessary information and approvals from the relevant parties involved. 

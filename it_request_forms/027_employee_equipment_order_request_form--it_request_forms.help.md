@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Equipment Order Request Form - Help Guide
 ## Purpose
 This form is used by employees to submit requests for new or replacement equipment. The form helps employees provide essential details about the equipment they need, including the type of equipment, reason for the request, and other relevant information. The completed form will be reviewed and processed by the relevant department.

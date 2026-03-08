@@ -1,15 +1,3 @@
-<thinking>
-
-This form seems to be used for collecting information about cybersecurity incidents. The form likely serves as a starting point for incident investigation and resolution processes. I'm assuming that the purpose is to gather details about incidents that require attention and potentially involve sensitive data or security concerns. This form might be used by internal teams or external partners to provide incident reports and recovery information. To determine the relevance and non-duplication of this form, let's consider the following:
-
-* The form includes fields for user information, incident details, and recovery plan, which suggests it's used for reporting and planning purposes.
-* The presence of fields like incident type, severity, and priority indicates that it's used for categorizing and evaluating incidents.
-* The fact that it includes fields for incident status, report type, and report date implies that it's used for tracking and follow-up purposes.
-
-Given this understanding, it's likely that the form is used to streamline the incident response process, ensure accurate data collection, and facilitate collaboration among teams or partners. To confirm, I'd need more context or specific business requirements.
-
-</thinking>
-
 # Cybersecurity Data Recovery Referral Form - Help Guide
 
 ## Purpose

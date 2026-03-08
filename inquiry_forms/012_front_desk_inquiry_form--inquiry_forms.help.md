@@ -1,7 +1,3 @@
-<thinking>
-This form is used by front desk staff to record information about a guest's check-in to a facility. This information will be used for internal tracking and reporting purposes. To prevent data duplication, front desk staff should ensure that each guest's information is not already present in the system before submitting a new entry.
-</thinking>
-
 # Front Desk Inquiry Form - Help Guide
 ## Purpose
 The Front Desk Inquiry Form is used to record information about a guest's check-in to a facility. This form will help front desk staff collect and store essential details about each guest.

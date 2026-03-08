@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive preflight checklist for drones, ensuring that all critical systems are checked before flight. This form is intended for drone pilots and crew members to systematically verify the status of various components of the drone, including propellers, motors, batteries, and navigation systems. The purpose of this form is to reduce the risk of accidents and ensure a safe and efficient flight operation. By using this checklist, pilots and crew members can methodically assess each component and identify any issues that need to be addressed before flight.
-</thinking>
-
 # Drone Preflight Checklist - Help Guide
 ## Purpose
 This form is a comprehensive preflight checklist for drones, designed to ensure that all critical systems are checked before flight.

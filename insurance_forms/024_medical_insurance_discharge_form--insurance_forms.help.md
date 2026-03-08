@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and context should be considered to determine its relevance and avoid duplication. In this case, the "Medical Insurance Discharge Form" is likely used in a healthcare setting to document a patient's discharge from a hospital or medical facility. The form is likely used by medical professionals to gather information about the patient's insurance coverage and contact details. This information is essential for ensuring that the patient receives the necessary medical attention and care after discharge.
-</thinking>
-
 # Medical Insurance Discharge Form - Help Guide
 ## Purpose
 This form is used to document a patient's insurance information and contact details for medical facilities.

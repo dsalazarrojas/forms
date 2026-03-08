@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to facilitate referrals to software and hardware suppliers for various purposes, such as requesting a demo, requesting a quote, or submitting a purchase request. The form will be used to collect information about the referral, including the type of product or service being referred, the customer's contact information, and the status of the referral. This form should be used for both internal and external referrals. The fields in this form are designed to collect relevant information for each type of referral, but the form should not be used for duplicate or unnecessary referrals. Each field has been carefully selected to ensure that it is relevant and useful for the referral process.
-</thinking>
-
 # software_hardware_supplier_referral_form - Help Guide
 ## Purpose
 This form is used to facilitate referrals to software and hardware suppliers for various purposes, such as requesting a demo, requesting a quote, or submitting a purchase request.

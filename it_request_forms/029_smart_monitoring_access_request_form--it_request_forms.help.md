@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a tool for users to request access to monitoring tools. The goal is to provide a clear and concise way for users to submit their requests, specifying the monitoring level, start and end dates (if applicable), reason for the request, and any additional comments. The form is designed to be easy to fill out and submit, while also allowing IT, security, and operations teams to assess and approve the request based on their specific access rights and needs. The form will likely be used to manage and track requests internally, so ensure that all necessary information is provided and the form is not submitted unnecessarily.
-</thinking>
-
 # Smart Monitoring Access Request Form - Help Guide
 ## Purpose
 The Smart Monitoring Access Request Form is used to request access to monitoring tools. This form allows users to specify the level of monitoring access required and other relevant details to support their request.

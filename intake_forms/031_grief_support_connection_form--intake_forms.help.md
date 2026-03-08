@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Grief Support Connection Form - Help Guide
 ## Purpose
 The Grief Support Connection Form is designed to provide a connection between individuals experiencing grief and available support services. This form helps us understand your situation, needs, and preferences to provide the best possible support.

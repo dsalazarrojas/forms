@@ -1,17 +1,3 @@
-<thinking>
-We need to ensure that the form's internal reasoning block checks for relevance and non-duplication before creating the user-facing help guide. This form is intended for students to access the internship portal, and its fields should be designed to collect all necessary information to grant access to the portal. Before starting, please make sure that you are eligible for the internship portal access and that you have not already submitted a request. If you're unsure, please contact your supervisor or the relevant department for clarification.
-
-The form is designed to gather the following information:
-- Student name and contact details (name, email, phone number)
-- Internship-specific information (internship name, job position, company)
-- Access settings (start and end dates, duration, access frequency, type)
-- Other requests or comments
-- Signatures from the student and staff members involved
-
-The goal is to create a complete and accurate picture of the internship portal access request. Please follow the instructions carefully to ensure that your request is processed smoothly.
-
-</thinking>
-
 # Internship Portal Access Form - Help Guide
 ## Purpose
 The Internship Portal Access Form is a form for students to request access to the internship portal. This form is designed to collect necessary information to process your request efficiently.

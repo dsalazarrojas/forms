@@ -1,8 +1,6 @@
 # portal_access_pre_survey - Help Guide
 ## Purpose
 
-<thinking>...</thinking>
-
 The purpose of this form is to determine why a user needs access to the portal, how they plan to use it, and to obtain confirmation that they have read and agreed to the relevant policies and have or do not have existing user credentials. This form helps to ensure that users have a clear understanding of their intended use and that they have the necessary permissions to access the portal.
 
 ### How To Complete This Form

@@ -1,12 +1,3 @@
-<thinking> 
-This form is used for new client group session intake. It is a collection of questions and fields that help us understand client details, their health history, and consent for sessions. Please fill out all required fields (indicated by *) or provide relevant information where possible. The form will be reviewed by our staff to ensure it's complete and accurate.
-
-The goal of this form is to gather essential information about each client for their scheduled sessions. This includes details about the client's group session preferences, contact information, and any health-related concerns. Your responses will help us tailor the group sessions to each client's unique needs and ensure their safety and satisfaction.
-
-Please be aware that some questions are optional and are only required for our internal review process. We will not use your responses for any other purpose except for the session planning and execution. If you are unsure about any question, please contact us for clarification.
-
-</thinking>
-
 # New Client Group Session Intake Form - Help Guide
 ## Purpose
 This form is used to collect information about new clients for group sessions. Please answer all required questions and provide as much detail as possible for our staff to review.

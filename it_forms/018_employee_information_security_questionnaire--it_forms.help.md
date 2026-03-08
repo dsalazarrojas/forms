@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their perceived level of security risk regarding various aspects of their work environment. The form's primary objective is to assess the employee's comfort level with the security measures in place, such as password security and access control. This data will be used to identify potential security gaps and areas for improvement within the organization. The questions are designed to be straightforward and easily understandable, ensuring that employees can provide accurate and thoughtful responses. The form's results will be used for internal purposes only, not for external sharing or disclosure. The goal is not to single out individual employees but to provide a collective picture of the organization's security posture and help identify necessary adjustments.
-</thinking>
-
 # Employee Information Security Questionnaire - Help Guide
 ## Purpose
 The Employee Information Security Questionnaire is designed to collect employee perceptions on various security aspects of their work environment. It will help identify potential security gaps and guide organizational efforts to improve the overall security posture.

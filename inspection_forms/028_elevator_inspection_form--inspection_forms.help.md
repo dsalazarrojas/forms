@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for recording information about elevator inspections, including the maintenance team, inspection date and time, location, and result. It will likely be used by maintenance personnel to report on the status of elevators in a facility. Before filling out this form, please ensure that you have not filled out an inspection for this elevator in the past.
-</thinking>
-
 # Elevator Inspection Form - Help Guide
 ## Purpose
 This form is used for recording information about elevator inspections, including the maintenance team, inspection date and time, location, and result.

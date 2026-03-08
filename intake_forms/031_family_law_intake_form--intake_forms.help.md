@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect basic information from clients seeking family law services. The form includes fields for identifying personal details (client name, contact number, email address, address), financial information (employment status, employment income), family structure (marital status, number of dependents), and emergency contact information. Each section of the form is designed to be filled out in a logical order, starting with identifying information and progressing to more specific details. This order helps ensure that the most essential details are captured first and allows for a comprehensive understanding of the client's situation. Note that some fields, such as contact number and email address, are not required for all clients, as they may not be applicable in certain cases. The form also allows for additional comments or explanations from the client, which can be useful for further discussion or clarification. It's also worth noting that this form is designed to be filled out by the client themselves, rather than being completed by a third party. This ensures that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Family Law Intake Form - Help Guide
 ## Purpose
 The Family Law Intake Form is designed to collect essential information from clients seeking family law services. This form helps us understand their personal and financial situation, allowing us to provide effective support and guidance.

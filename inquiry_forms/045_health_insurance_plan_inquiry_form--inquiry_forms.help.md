@@ -1,9 +1,3 @@
-<thinking>
-We should first confirm that the form is not a duplicate or has a different name in the organization, before proceeding. 
-The form purpose is to gather information from users about their health insurance plans. We need to ensure that the form is filled out correctly and that users understand what information is being requested.
-
-</thinking>
-
 # Health Insurance Plan Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from users about their health insurance plans. Please fill out this form accurately to help us better understand your insurance needs.

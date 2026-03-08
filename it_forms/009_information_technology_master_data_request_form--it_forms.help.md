@@ -1,7 +1,3 @@
-<thinking>
-...Internal reasoning block: This form is intended for submitting requests for information technology support. The form is divided into two pages, with the first page containing form data and the second page displaying the submitted information for review. The "IT Form Data" page (page 1) is optional and allows users to provide any additional information they feel is relevant to their request. The "Request Type", "Data Request Category", "Description", and "Submitter Information" sections are all required fields. The "Submitter Phone" field is optional. The "Submit Date" field will automatically be populated with the current date when the form is submitted. The form is intended to be completed by a single person, and the "Submitted By" field will display the name of the person who submitted the form.
-</thinking>
-
 # Information Technology Master Data Request Form - Help Guide
 ## Purpose
 The Information Technology Master Data Request Form is a tool for submitting requests for information technology support. This form helps IT teams to efficiently gather and track requests for assistance.

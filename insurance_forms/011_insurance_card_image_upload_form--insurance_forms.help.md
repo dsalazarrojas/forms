@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist users in uploading images of insurance cards, categorize them by type, and optionally uploading other documents related to insurance. The form is used in an insurance context, and the fields are meant to be completed by insurance company representatives, agents, or customers. This guide is intended to help users understand the purpose and process of completing the form.
-</thinking>
-
 # Insurance Card Image Upload Form - Help Guide
 ## Purpose
 The Insurance Card Image Upload Form is used to upload images of insurance cards for categorization and further processing. This form is a crucial tool for insurance company representatives, agents, or customers to provide accurate and efficient service.

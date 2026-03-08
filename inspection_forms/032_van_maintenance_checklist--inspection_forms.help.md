@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to complete the "Van Maintenance Checklist" form. This form is designed to track and record the maintenance schedule for a van, allowing users to input relevant information such as the van's year, make, model, last maintenance date, mileage, and service intervals for various components. The form is intended to be used by individuals responsible for maintaining or managing vehicles, such as fleet managers or maintenance coordinators.
-</thinking>
-
 # Van Maintenance Checklist - Help Guide
 ## Purpose
 The Van Maintenance Checklist form is a tool to help track and record the maintenance schedule for a van, ensuring that regular services are performed at the right time to prevent costly repairs and ensure the vehicle's longevity.

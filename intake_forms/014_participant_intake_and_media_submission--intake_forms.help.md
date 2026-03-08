@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants, including their name, email address, and uploaded media files. The form also includes a field for the participant to provide a description of the uploaded media file. The purpose of this form is to gather relevant data from participants, which can be used for various purposes such as research, surveys, or other data collection activities. Please ensure that you only submit this form once for each participant, as duplicate submissions may cause confusion and data redundancy.
-</thinking>
-
 # Participant Intake And Media Submission - Help Guide
 ## Purpose
 This form is designed to collect participant information and media submissions for data collection activities.

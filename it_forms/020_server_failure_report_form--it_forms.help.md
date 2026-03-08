@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information about server failures, helping the support team identify and resolve issues quickly and effectively. The form should only be used when a server failure has occurred. Please note that some fields are required and must be filled in for the form to be complete, while others are optional and can be left blank if not applicable. Before submitting the form, please make sure to fill in all required fields, and if you're unsure about any information, contact support for assistance.</thinking>
-
 # Server Failure Report Form - Help Guide
 ## Purpose
 The Server Failure Report Form is used to document and report server failures, helping the support team to diagnose and resolve issues efficiently.

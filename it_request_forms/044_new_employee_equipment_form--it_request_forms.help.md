@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from new employees regarding their equipment preferences and requests. To complete this form, please make sure you are a new employee or have been assigned to complete this form by your supervisor. Please do not complete this form if you are not in this category.
-</thinking>
-
 # new_employee_equipment_form - Help Guide
 ## Purpose
 The "new_employee_equipment_form" is used to collect information from new employees regarding their equipment preferences and requests. This form helps the HR department to understand the equipment needs of new employees and facilitate the process of providing necessary equipment for work tasks.

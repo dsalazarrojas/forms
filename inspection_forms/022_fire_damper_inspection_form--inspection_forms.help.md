@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide for the Fire Damper Inspection Form, let's ensure that the form is being used for its intended purpose. The form is designed to collect information about the fire damper system, including its condition, status, and other relevant details. This form is likely being used by inspectors to conduct regular checks on fire damps to ensure they are functioning properly and to record any issues or observations. To verify this, we can check if the form is being used by the fire safety team or maintenance personnel in buildings with fire damper systems.</thinking>
-
 # Fire Damper Inspection Form - Help Guide
 ## Purpose
 The Fire Damper Inspection Form is designed to collect information about the fire damper system in a building, including its condition, status, and other relevant details. This form is intended for use by inspectors or maintenance personnel to conduct regular checks on fire damps and record any issues or observations.

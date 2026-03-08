@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for a computer animation job position. The purpose of this form is to gather essential details about the applicant's personal information, professional experience, and skills relevant to the job requirements. It's essential to complete this form carefully and accurately to increase the chances of being considered for the position.
-
-Please note that the form has two main sections: personal information and professional experience. The form requires specific information, including contact details, education, and proficiency in various software tools, and a clear understanding of one's skills and experience in computer animation. This information will help the hiring team to assess your fit for the position.
-
-Before starting to complete the form, ensure you have the following information available:
-
-* Your full name and contact details
-* Your email address and phone number
-* A link to your online portfolio or animation reel
-* Details about your experience in computer animation
-* Your proficiency in various software tools
-* Your highest level of education
-* Your earliest available start date
-
-</thinking>
-
 # Computer Animator Job Application Form - Help Guide
 ## Purpose
 

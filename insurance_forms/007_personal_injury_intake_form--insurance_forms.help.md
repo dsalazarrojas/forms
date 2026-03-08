@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information related to personal injury claims from clients. It is intended to gather details about the client's contact information, insurance coverage, the circumstances of the injury, and any relevant medical or legal details. 
-The form is a critical component of the personal injury intake process, ensuring that all necessary information is collected to facilitate efficient and effective claims handling. 
-Before proceeding, please ensure that the client is aware of the purpose and requirements of this form.
-</thinking>
-
 # Personal Injury Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information related to personal injury claims from clients. It is intended to gather details about the client's contact information, insurance coverage, the circumstances of the injury, and any relevant medical or legal details.

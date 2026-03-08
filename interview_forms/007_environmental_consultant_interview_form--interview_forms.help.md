@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Environmental Consultant Interview Form. The purpose of this form is to collect information from individuals seeking employment as an environmental consultant, covering their work experience, education, and job search status. This form is designed to guide users through the necessary steps to complete it efficiently and effectively. It is not intended for internal usage, so there's no need for internal reasoning blocks or duplication checks. The form has 25 fields spread across multiple pages, each with unique labels and requirements. I will create a clear and concise guide to help users understand the form's purpose, completion process, and field explanations.</thinking>
-
 # Environmental Consultant Interview Form - Help Guide
 ## Purpose
 The Environmental Consultant Interview Form is designed to collect relevant information from individuals seeking employment as an environmental consultant. This form helps us assess their qualifications, experience, and job search status.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from new users who want to access our system. It is intended for users who do not already have an account with us. 
-The form will be used to gather basic contact information and job titles to help us better understand the user's needs and preferences.
-We recommend filling out this form only if you do not already have an account with us. If you're unsure, feel free to reach out to us and we'll verify your status.
-</thinking>
-
 # new_user_request_form - Help Guide
 ## Purpose
 This form is used to collect information from new users who want to access our system, allowing us to better understand their needs and preferences.

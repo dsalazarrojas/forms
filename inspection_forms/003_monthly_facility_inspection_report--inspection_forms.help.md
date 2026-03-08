@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Monthly Facility Inspection Report - Help Guide
 
 ## Purpose

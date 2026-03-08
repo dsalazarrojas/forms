@@ -1,6 +1,3 @@
-<thinking>
-This form is used to create a new object, which can be used to store and manage various types of data. Before filling out this form, please ensure you have a valid reason for creating a new object, as it is not intended for testing or demo purposes. Please also check if a similar object already exists in the system to avoid duplication. If you need to create a new object, follow these steps:</thinking>
-
 # Create New Object Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This is a technical exercise to create a user-facing help guide for the "smart_equipment_systems_contact_form" form. The form is used for clients to contact us about smart equipment systems, which likely relates to smart home or industrial automation systems. The main goal of this form is to collect information from clients for communication and possibly for internal use. 
-
-The form consists of multiple fields, all of which will be explained in the following guide to ensure a smooth and successful completion of the form.
-
-</thinking>
-
 # smart_equipment_systems_contact_form - Help Guide
 
 ## Purpose

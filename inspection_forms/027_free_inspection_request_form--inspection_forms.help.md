@@ -1,8 +1,3 @@
-<thinking>
-This form is used by customers to request free inspection services from a company. The form is designed to collect basic contact information and service request details. The goal is to ensure that the customer's request is processed efficiently and that the customer receives the necessary service without any delays.
-The form should only be filled out once per customer, and if a customer submits another form, it should be considered a new request and not an update to an existing one.
-</thinking>
-
 # Free Inspection Request Form - Help Guide
 ## Purpose
 This form is used to collect contact information and service request details from customers.

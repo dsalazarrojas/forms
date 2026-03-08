@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to be used by end-users to understand the purpose and process of completing a "Food Safety Inspection Records Release Form". The form is likely used to document and release inspection records related to food safety in a business or establishment. The form is designed to collect information about the business, inspector's details, inspection date, inspection result, and any additional notes or contact information. This guide will walk the end-user through each section of the form, explaining what each field is intended to capture. It is recommended to complete the form with care and attention to detail to ensure accurate and complete information is provided.
-
-</thinking>
-
 # Food Safety Inspection Records Release Form - Help Guide
 ## Purpose
 This form is used to document and release food safety inspection records, providing relevant information to food safety authorities.

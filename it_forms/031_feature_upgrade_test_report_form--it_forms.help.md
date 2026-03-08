@@ -1,7 +1,3 @@
-<thinking>
-This form was created to gather information on the outcome of feature upgrade tests. The purpose of this form is to collect data on which category the feature belongs to, what the feature is, and what was the outcome of the test. This will help the development team to identify patterns and make improvements.
-</thinking>
-
 # Feature Upgrade Test Report Form - Help Guide
 ## Purpose
 The Feature Upgrade Test Report Form is a tool used to collect data on the outcome of feature upgrade tests. This form is used by the development team to gather information on the category, description, test outcome, and any issues or notes regarding the test.

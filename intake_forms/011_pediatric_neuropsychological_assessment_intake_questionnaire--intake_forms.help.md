@@ -1,7 +1,3 @@
-<thinking>
-To provide a comprehensive and accurate diagnosis, it's essential to gather detailed information about the patient's medical history, family history, and behavioral information. This form is designed to be completed by the patient or their guardian, providing insight into the patient's condition, medical history, and any relevant details that may affect their treatment. Please ensure that this form is relevant to the patient's condition and that you're not duplicating efforts already done in the past. If you're unsure about any of the information, it's best to consult with the patient or their guardian for clarification.
-</thinking>
-
 # Pediatric Neuropsychological Assessment Intake Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential information about the patient's medical history, family history, and behavioral information to aid in the diagnosis and treatment of pediatric neuropsychological conditions.

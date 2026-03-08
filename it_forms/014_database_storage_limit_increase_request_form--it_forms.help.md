@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to request an increase in database storage limits for a team. When completing this form, please ensure that:
-* Your team leader has authorized you to submit this request
-* You have a clear reason for requesting the limit increase, such as a large dataset or expected future growth
-* You have considered the implications of the limit increase on other team members and resources
-* You have checked if the requested limit increase is not already in progress or has already been approved
-
-</thinking>
-
 # Database Storage Limit Increase Request Form - Help Guide
 ## Purpose
 This form is used to request an increase in database storage limits for your team's database. Fill out this form to provide necessary information to support your request.

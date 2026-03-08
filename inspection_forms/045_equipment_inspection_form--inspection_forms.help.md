@@ -1,11 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the Equipment Inspection Form, let's consider the following internal reasoning and considerations:
-
-1. The form is intended for inspecting and maintaining equipment in a facility. To avoid duplication, we can assume that the form will be used by authorized personnel, and the internal reasoning can focus on how to complete the form properly, rather than explaining what the form is used for. 
-2. Given the form's layout, which includes various fields for selecting equipment type, location, inspection date and time, inspection status, and others, we can anticipate that users will need help navigating these fields and understand their relevance. We can explain each field in the form of bullet points, making it easier for users to quickly grasp the form's purpose and requirements.
-
-</thinking>
-
 # Equipment Inspection Form - Help Guide
 ## Purpose
 This form is used to inspect and record information about equipment in a facility. It ensures that all equipment is properly maintained and inspected at regular intervals, helping to prevent accidents and downtime.

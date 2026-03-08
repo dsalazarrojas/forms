@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Manufacturing Quality Control Assessment - Help Guide
 ## Purpose
 The Manufacturing Quality Control Assessment form is used to collect information and data related to quality control issues that occur during the manufacturing process. It helps track and report issues, document evidence, and record resolutions.

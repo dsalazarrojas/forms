@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from participants for the Hybrid Classroom Technology Testing Registration process. It is crucial to complete this form accurately and thoroughly, as it will help us understand your preferences and requirements for the demo session. Please make sure to fill in all required fields, and if you are unsure about any field, you can refer to this guide for clarification.
-
-It is also essential to note that this form should not be filled out multiple times. If you have already registered for a previous testing session, do not register again. Please use the same account information (email address) for all registrations.
-</thinking>
-
 # Hybrid Classroom Technology Testing Registration Form - Help Guide
 ## Purpose
 

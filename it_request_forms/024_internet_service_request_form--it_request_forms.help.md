@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information for internet service requests. Before submitting this form, please ensure that:
-* You have not already submitted a service request for the same issue, to avoid duplicating work and potential delays in resolution.
-* The issue you are requesting is related to the internet service category. 
-Please use this form to request assistance with your internet connection or other related services.
-</thinking>
-
 # Internet Service Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for internet service requests, allowing our team to efficiently address your technical issues and resolve them in a timely manner.

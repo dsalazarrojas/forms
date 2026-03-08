@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information for a software requisition request at the Research Center. This form is meant to capture essential details from the requester, including the lab name and contact information, to facilitate the evaluation and procurement process. To ensure that each request is thoroughly assessed and managed, please note that this form is not intended to be filled out multiple times for the same purpose. It is crucial to review the form carefully before submitting it to avoid duplicating requests.
-</thinking>
-
 # Research Center Software Requisition Form - Help Guide
 ## Purpose
 The Research Center Software Requisition Form is designed to collect necessary information from requesters to support the evaluation and procurement process for software needs at the Research Center. Please fill out this form accurately and thoroughly to ensure that your software requisition is properly assessed and managed.

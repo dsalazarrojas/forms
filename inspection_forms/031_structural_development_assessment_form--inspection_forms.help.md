@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # structural_development_assessment_form - Help Guide
 ## Purpose
 The purpose of this form is to collect data for the structural development assessment of a site. This form is used to gather information about the site address, type, status, and other relevant details about the site.

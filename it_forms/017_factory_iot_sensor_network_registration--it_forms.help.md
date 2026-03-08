@@ -1,6 +1,3 @@
-<thinking>
-This form is used for registering new sensors within the IoT sensor network for a factory environment. It's intended for use in industrial settings where sensors are deployed to monitor and analyze various conditions. Before completing this form, please ensure that you haven't already registered the sensor, as duplicate registrations might lead to confusion. Ensure you fill in the required information accurately to create a new entry in the sensor network.</thinking>
-
 # Factory Iot Sensor Network Registration - Help Guide
 ## Purpose
 The Factory Iot Sensor Network Registration form is designed to add a new sensor to the factory environment's IoT sensor network. This form collects relevant information about the deployed sensors to ensure accurate tracking and monitoring.

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Course Management Tools Instructor Inquiry Form, I need to understand the form's purpose and how it will be used. This form appears to be designed to gather information from instructors about their needs and experiences with course management tools. The form likely aims to help instructors provide feedback, report issues, and inquire about new features or support.
-
-Before creating the guide, I need to consider that the form is not explicitly stated to be for internal use only, so it might be intended for public use as well. The form seems to be a general inquiry form, not specific to a particular product or service. Therefore, the guide should cater to both internal and external users.
-
-The form's layout is straightforward, with various fields for different types of information. I will focus on explaining each field's purpose and requirements in a clear and concise manner, making sure to cover all the fields in the form.
-
-</thinking>
-
 # Course Management Tools Instructor Inquiry Form - Help Guide
 ## Purpose
 This form is designed for instructors to provide feedback, report issues, and inquire about new features or support related to course management tools. It's a general inquiry form that can be used by both internal and external users.

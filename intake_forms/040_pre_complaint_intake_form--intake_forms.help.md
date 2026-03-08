@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the Pre Complaint Intake Form is to collect information about incidents or complaints that have occurred. This form is intended to gather details about the incident, including when and where it happened, a brief description, and any relevant customer or staff details. The information collected will be used to process and resolve the complaint efficiently.
-Before filling out this form, please ensure that:
-* The incident is not already being addressed in a separate process or form
-* You have reviewed and understand the form's content and requirements
-Please note that some fields are optional and may not apply to every incident. If you're unsure about a particular field, please contact the relevant department or support staff for guidance.
-</thinking>
-
 # Pre Complaint Intake Form - Help Guide
 ## Purpose
 The Pre Complaint Intake Form is a collection tool used to gather information about incidents or complaints that have occurred. This form helps us to efficiently process and address these issues.

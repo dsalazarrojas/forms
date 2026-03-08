@@ -1,30 +1,3 @@
-<thinking>
-This form is intended to gather information for a Last Will And Testament, which is a legal document that outlines the distribution of a person's assets after their passing. The purpose of this form is to collect the necessary details to create a comprehensive and accurate Last Will, ensuring that the deceased's wishes are respected and their loved ones are taken care of.
-
-The form is designed to be user-friendly, with clear labels and instructions to guide the user through the process. Each field is carefully crafted to capture the relevant information required for a complete and accurate Last Will.
-
-The form's design is based on the following fields:
-- Relatives To Notify: This field is for listing the relatives that need to be notified after the person's passing.
-- Executor Details: This field is for selecting who will be responsible for carrying out the deceased's wishes after their passing.
-- Estate Description: This field is for describing the deceased's estate, including any properties, assets, and debts.
-- Beneficiaries: This field is for selecting the beneficiaries of the estate, including primary and co-beneficiaries.
-- Property Values: This field is for entering the values of the properties mentioned in the estate description.
-- Other Assets: This field is for listing any other assets that are not mentioned in the estate description.
-- Real Estate: This field is for selecting which properties are part of the estate.
-- Debts: This field is for listing any debts that need to be settled after the person's passing.
-- Financial Institutions: This field is for selecting which financial institutions are part of the estate.
-- Vehicles: This field is for listing which vehicles are part of the estate.
-- Pets: This field is for listing any pets that are part of the estate.
-- Funeral Expenses: This field is for estimating the expenses related to the funeral.
-- Probate Fees: This field is for estimating the fees associated with probate.
-- Other Expenses: This field is for listing any other expenses related to the estate.
-- Assets Description: This field is for providing a description of the assets.
-- Executor Notes: This field is for the executor to note any important information or instructions.
-
-Each field is designed to capture the necessary information for a complete and accurate Last Will, ensuring that the deceased's wishes are respected and their loved ones are taken care of.
-
-</thinking>
-
 # Last Will And Testament Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect the necessary information for a comprehensive Last Will And Testament, ensuring that the deceased's wishes are respected and their loved ones are taken care of.

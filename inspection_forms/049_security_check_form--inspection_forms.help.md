@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to conduct a comprehensive security check on a client's systems, networks, and data. This form is designed to guide the user through a series of questions to identify potential security threats and vulnerabilities. The form is not a replacement for a professional security audit, but rather a starting point for a security check that can be used to identify areas that require further attention.
 
 The form is divided into several sections, each covering a different aspect of security, such as systems, networks, software, hardware, data, and user access. By completing this form, the user can get a good understanding of the current security posture of their systems and identify areas that need improvement.

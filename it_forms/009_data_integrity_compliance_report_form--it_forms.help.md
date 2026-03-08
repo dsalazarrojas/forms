@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for reporting incidents related to data integrity, which is crucial for maintaining the trust and security of sensitive information. The purpose of this form is to gather information about incidents that have occurred, such as security incidents, data breaches, data loss, or other related events. 
-The form captures various details about the incident, including the date and time it occurred, a brief description of the incident, the type of incident, and the location where it occurred. It also includes fields for reporting the affected users, the incident status, category, and any attachments or comments related to the incident. 
-To ensure data accuracy and thoroughness, it is essential that all fields are filled out accurately and completely. 
-</thinking>
-
 # Data Integrity Compliance Report Form - Help Guide
 ## Purpose
 This form is designed for reporting incidents related to data integrity, which is crucial for maintaining the trust and security of sensitive information.

@@ -1,5 +1,3 @@
-<thinking>... This form is designed for healthcare professionals to collect information about healthcare audits, including patient identifiers, audit details, and corrective actions. The form will help track and document the progress of healthcare audits, ensuring that all necessary information is captured and reviewed. The form is not intended for duplicate submissions, so please ensure that you are submitting a new audit response. If you have already submitted a response for this audit, please do not submit again. This form is intended for healthcare professionals and should only be completed by authorized personnel. Please ensure that you have the necessary permissions and authorizations before completing this form... </thinking>
-
 # Healthcare Audit Response Intake Form - Help Guide
 ## Purpose
 This form is used to collect and document information about healthcare audits. It is intended to track and record the progress of audits, including patient identifiers, audit details, and corrective actions.

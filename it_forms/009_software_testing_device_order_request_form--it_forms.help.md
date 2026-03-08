@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request a software testing device. The purpose of this form is to gather information about the device that needs to be tested, the requestor's contact details, and the shipping status of the device. This form is intended for internal use within the organization, and the information collected will be used to manage the testing process and ensure that the device is delivered to the correct person. 
-
-To avoid duplication, please do not submit this form if you have already requested a testing device in the past.
-
-This form is only to be used for requesting testing devices, and any other requests or comments should be directed to a different form.
-</thinking>
-
 # software_testing_device_order_request_form - Help Guide
 ## Purpose
 The software testing device order request form is used to submit a request for a software testing device.

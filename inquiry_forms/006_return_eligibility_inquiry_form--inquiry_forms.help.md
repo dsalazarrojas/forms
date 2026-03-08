@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Return Eligibility Inquiry Form, I first need to understand the purpose and context of the form. The form's internal ID is "inquiry_forms" and it's titled "Return Eligibility Inquiry Form". From the provided YAML fields, the form appears to be designed to inquire about the eligibility of a return, likely for an order or product. It's probably used to gather information from customers or clients about a return request. 
-
-The form seems to have fields for order details, reason for return, and additional notes. Some fields are optional, and it's possible that the form is used to gather information for various scenarios, including returns due to damage or changes of mind. The form's fields are mostly self-explanatory, but I'll aim to provide concrete and concise explanations for the end-users.
-
-</thinking>
-
 # Return Eligibility Inquiry Form - Help Guide
 ## Purpose
 This form is used to inquire about the eligibility of a return for an order or product. Please fill it out to provide the necessary information for our team to assess the return request.

@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is intended to provide instructions for the Performance Management Fellowship Application form, which is used to collect information from applicants who are applying for a fellowship position. The purpose of this form is to gather relevant details about the applicant's personal and professional background, including contact information, education, work experience, and referees. This information will be used to evaluate the applicant's suitability for the fellowship position.
-
-The form is divided into several sections, each representing a different aspect of the applicant's profile. To complete the form, please follow the instructions below.
-
-</thinking>
-
 # Performance Management Fellowship Application - Help Guide
 ## Purpose
 The Performance Management Fellowship Application form is used to collect information from applicants who are applying for a fellowship position. This information will be used to evaluate the applicant's suitability for the position.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are interested in custom tailoring services. The purpose of this form is to gather details such as the type of service required, preferred service time, frequency, and location. This form is intended to be a contact form for customers to inquire about custom tailoring services and for service providers to get in touch with them. The form should not be used for other purposes, such as general feedback or support requests, as it does not have the necessary fields for such use cases. 
-</thinking>
-
 # Custom Tailoring Inquiry Contact Form - Help Guide
 
 ## Purpose

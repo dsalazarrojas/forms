@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to request data integrity validation from users. The form is used to track and manage data integrity validation requests. The purpose of this form is to help users request validation for data that may be inconsistent or incorrect. This form is typically used by users when they need to verify the accuracy of data, especially when data is being used for critical business processes or decision making. It's a way to identify potential issues with data and get them resolved in a structured and organized way.
-
-This form is not meant for users to submit new data or create new records. It's a request form, where users can specify what needs to be validated, and the system will follow up with the requestor to provide the validation results.
-
-Before filling out this form, please make sure the data you are requesting validation for is indeed inconsistent or incorrect. Also, double-check that you haven't already submitted this request, as duplicate requests may not be processed.
-</thinking>
-
 # Data Integrity Validation Request Form - Help Guide
 ## Purpose
 The Data Integrity Validation Request Form is used to request validation for data that may be inconsistent or incorrect. It's a way to identify potential issues with data and get them resolved in a structured and organized way.

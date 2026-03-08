@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart POS Integration Trial Registration - Help Guide
 ## Purpose
 This form is used for trial registration of the Smart POS (Point of Sale) integration with our system. The form is designed to collect necessary information from businesses interested in integrating their POS system with our platform.

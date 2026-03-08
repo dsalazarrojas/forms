@@ -1,11 +1,3 @@
-<thinking>
-This form is for gathering information about a car accident involving your vehicle. It's essential to fill out this form accurately and thoroughly to help your insurance provider understand what happened. This form will ask you for details about your policy and vehicle, as well as information about the accident itself. Please fill out this form completely and accurately to ensure your claim is processed smoothly.
-
-Before starting, ensure you have all necessary documents and information ready, including your policy number, vehicle registration, and any supporting evidence of the accident. Some fields may be optional, but providing as much information as possible will help the insurance provider assess your claim.
-
-When filling out this form, please note that some fields are required and must be completed. If you're unsure about any of the fields or require clarification, please contact your insurance provider for assistance.
-</thinking>
-
 # Car Insurance Accident Information Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a car accident involving your vehicle. It will help your insurance provider understand the circumstances of the accident and process your claim efficiently.

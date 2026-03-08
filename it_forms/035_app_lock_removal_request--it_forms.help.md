@@ -1,5 +1,3 @@
-<thinking>... internal purpose of this form is for App Lock Removal Requests, which are submitted when an employee or student requires access to an app that has been locked or restricted on their company device. This form is to be filled out by the individual making the request, and it helps the IT department to quickly process and evaluate the request without having to ask additional questions or seek clarification. To avoid duplication, please note that this form is intended for use by authorized personnel only, so please only use this form if you have been instructed to do so by a supervisor or manager...</thinking>
-
 # App Lock Removal Request - Help Guide
 ## Purpose
 The App Lock Removal Request form is used to request access to an app that has been locked or restricted on your company device. Please fill out this form to provide necessary information for the IT department to process your request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to submit new staff requests, which could include new hires, transfers, or changes in job titles. This form is used to collect relevant information about the new staff member, including their name, job title, contact information, and location details.
-</thinking>
-
 # IT New Staff Request Form - Help Guide
 ## Purpose
 This form is used to submit new staff requests for internal hiring or changes in job titles. It is used by employees to provide information about the new staff member, including their name, job title, contact information, and location details.

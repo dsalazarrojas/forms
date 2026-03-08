@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the inspection of textile quality. The user will go through the form, completing fields as necessary to report their findings. The form will be used to collect data on the condition of textiles being inspected. Each field has been carefully designed to capture relevant information. The fields are divided into separate pages to break up the task into manageable chunks.
-</thinking>
-
 # Textile Quality Inspection Form - Help Guide
 ## Purpose
 This form is used for textile quality inspection. It helps gather information about the condition of textiles being inspected.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information from users about their pet insurance needs. It's designed to collect data about the type of pet, age, species, desired insurance payout, location, contact information, and insurance provider preferences. This form will likely be used by pet owners who are seeking insurance coverage for their pets. Before completing this form, ensure you have not already submitted a similar survey, as this form is intended to gather unique information from each user.
-
-</thinking>
-
 # Pet Insurance Survey - Help Guide
 ## Purpose
 This form is designed to help pet owners provide information about their pet's insurance needs. 

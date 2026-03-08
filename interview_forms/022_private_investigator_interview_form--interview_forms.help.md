@@ -1,7 +1,3 @@
-<thinking>
-The Private Investigator Interview Form is designed to collect information from a private investigator to gather details about their background, experience, and services offered. This form helps the investigator to create a comprehensive profile of their services and skills, which can be used for various purposes such as vetting, background checks, or other investigations. To avoid duplicating efforts, ensure that you have not already completed this form for the same private investigator. If you have previously filled out this form, you may need to update your information.
-</thinking>
-
 # Private Investigator Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information from private investigators, including their personal details, experience, and services offered.

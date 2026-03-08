@@ -1,6 +1,3 @@
-<thinking> 
-The purpose of this form is to collect feedback from end-users on the system configuration, allowing administrators to identify areas for improvement and make informed decisions for system optimization. It is essential to complete this form to provide valuable insights that can help refine the system's performance and user experience. Please note that this form is a feedback mechanism and not a comprehensive system configuration tool. Ensure that you have the right to provide feedback and that your input is not duplicated or submitted in error.</thinking>
-
 # System Configuration Feedback Form - Help Guide
 ## Purpose
 The System Configuration Feedback Form is designed to collect your thoughts and opinions on the system's configuration. Your input will help us improve the system's performance and user experience.

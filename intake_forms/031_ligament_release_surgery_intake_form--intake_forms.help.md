@@ -1,10 +1,3 @@
-<thinking>
-This is a form for recording information about a patient's intake for ligament release surgery. It is used to gather important details about the patient's medical history, surgical instructions, and post-operative care. The form should only be used for patients who are undergoing ligament release surgery, and it is essential to ensure that the patient has provided their informed consent before proceeding with the surgery. This form helps to streamline the process by capturing all relevant information in one place, reducing the need for follow-up questions and ensuring that important details are not missed.
-
-Please check that this form is relevant to your situation and that you have not already completed this form.
-
-</thinking>
-
 # ligament_release_surgery_intake_form - Help Guide
 ## Purpose
 This form is used to record the intake information for a patient's ligament release surgery. It helps to ensure that all relevant details are captured and that the patient has provided their informed consent.

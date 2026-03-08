@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the GPS Field Testing Form is to collect and document the testing process and results of a GPS field. The form is designed to be completed by a tester during or after the testing process, and it will provide valuable information for future reference and quality control purposes.
-This form is likely used in a quality control or testing context, such as in a manufacturing or quality assurance setting, where the testing process and results of a GPS device are documented.
-The form has several sections, including Device Information, Location Information, Date and Time Tested, and Tester Information. Each section is designed to capture specific details about the GPS device being tested, the location where the testing was performed, and the results of the test.
-To avoid duplication and ensure the form is completed correctly, it is essential to understand the purpose and use case of each field.
-</thinking>
-
 # GPS Field Testing Form - Help Guide
 ## Purpose
 The GPS Field Testing Form is a document used to collect and document the testing process and results of a GPS device.

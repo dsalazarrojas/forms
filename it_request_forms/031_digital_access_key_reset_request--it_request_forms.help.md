@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to request a reset of their digital access keys. The purpose of this form is to gather necessary information from users to facilitate the reset process. To avoid duplication, users should only submit one request per user. This form is intended for internal use within the organization and is not publicly accessible.
-</thinking>
-
 # Digital Access Key Reset Request - Help Guide
 ## Purpose
 The purpose of this form is to request a reset of your digital access keys. Fill out this form to provide the necessary information for the reset process.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for readings, such as appointments, consultations, or sessions, with practitioners. The form includes fields for client contact information, preferences, and availability. It is intended for use by practitioners to gather information from clients and schedule follow-up appointments or sessions as needed.
-
-Before filling out this form, please ensure that you have not already submitted an inquiry for the same reading. Duplicate submissions will not be processed.
-
-</thinking>
-
 # Inquiry Form For Readings - Help Guide
 ## Purpose
 This form is used to gather information from clients for readings, such as appointments, consultations, or sessions.

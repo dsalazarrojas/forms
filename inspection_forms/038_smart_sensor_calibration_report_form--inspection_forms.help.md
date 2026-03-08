@@ -1,9 +1,3 @@
-<thinking>
-- The purpose of this form is to allow users to report the calibration status of sensors in use. This form is typically used by operations teams or engineers to keep track of sensor calibration, ensuring that they are functioning correctly and accurately.
-- This form should only be used for reporting the calibration status of sensors that are already in use. If you are looking for information on how to calibrate a new sensor, please refer to the calibration procedure documentation.
-- The following form is only to be used for reporting the status of sensors once. If a sensor needs to be recalibrated, please fill out this form again.
-</thinking>
-
 # Smart Sensor Calibration Report Form - Help Guide
 ## Purpose
 The Smart Sensor Calibration Report Form is used to report the calibration status of sensors in use.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback and consent from policyholders regarding the sharing of their stories. It's designed to gather information on whether policyholders are willing to share their stories, how often they want to be contacted for follow-up, and what method of contact they prefer. The form likely serves as a way to manage relationships and communication with policyholders, ensuring that their consent is obtained before sharing their stories.
-
-</thinking>
-
 # Policyholder Story Sharing Consent Form - Help Guide
 ## Purpose
 The Policyholder Story Sharing Consent Form is a tool used by insurance companies to collect information and consent from policyholders regarding the sharing of their stories. This form will help you understand their preferences and boundaries, ensuring you can maintain a strong relationship with them.

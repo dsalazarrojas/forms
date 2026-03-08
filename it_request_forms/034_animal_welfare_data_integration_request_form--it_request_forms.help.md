@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to request data integration for animal welfare services. It is used to collect information about the data that needs to be shared between different systems or destinations. This form helps to ensure that the required data fields are selected correctly and that the integration process is initiated with the correct frequency and purpose.
-
-Before starting, please note that this form is not intended for duplicate requests or non-relevant requests. If you have previously submitted a similar request, please check the status of your previous request first. If you need to update or modify an existing request, please refer to the provided instructions or reach out to the support team for assistance.
-
-Please make sure to complete this form with accurate and detailed information to avoid any issues during the integration process.
-
-</thinking>
-
 # Animal Welfare Data Integration Request Form - Help Guide
 
 ## Purpose

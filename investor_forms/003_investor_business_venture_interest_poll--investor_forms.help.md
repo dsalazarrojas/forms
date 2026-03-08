@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Investor Business Venture Interest Poll" form. This form is designed to gather information from investors about their business venture interests and preferences. It appears to be a poll-style form with various fields related to investment and business interests.
-
-Before creating the help guide, we should confirm that the form is correctly configured and not duplicating any existing forms. This form should be intended for investors who are interested in investing in business ventures. The purpose of this guide is to assist users in understanding how to complete the form accurately and effectively.</thinking>
-
 # Investor Business Venture Interest Poll - Help Guide
 ## Purpose
 This form is designed to gather information from investors about their business venture interests and preferences. It is intended to help investors express their interests and priorities in various categories related to investments and business development.

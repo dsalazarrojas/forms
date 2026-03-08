@@ -1,14 +1,3 @@
-<thinking>
-To create a helpful and user-friendly guide for the Device Rollover Request Form, we need to understand the purpose and context of the form. This form is likely used to request a device rollover for an employee, which involves replacing an old device with a new one. The form should be designed to gather relevant information about the employee, the device, and the request process.
-
-Upon reviewing the YAML structure, we can see that the form has multiple sections with various fields, including employee details, device information, and approval and submission fields. The form seems to be a combination of simple text fields, multiple-choice options, and date and time fields. Some fields are required, indicating that they are essential for the form submission process.
-
-We should consider creating a guide that explains the purpose of each field, how to fill it out correctly, and any specific guidance or tips for completing the form. This will help users understand what information is required and how to provide accurate and complete data. Additionally, we should ensure that the guide is clear and concise, avoiding unnecessary jargon or technical terms that might confuse users.
-
-Let's assume that the form is used by employees to request a device rollover, and the manager or IT manager will review and approve the request.
-
-</thinking>
-
 # Device Rollover Request Form - Help Guide
 
 ## Purpose

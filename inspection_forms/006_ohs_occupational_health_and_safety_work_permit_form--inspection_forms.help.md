@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # OHS (Occupational Health and Safety) Work Permit Form - Help Guide
 ## Purpose
 The OHS (Occupational Health and Safety) Work Permit Form is a document that provides a standardized way for workers to report on any hazards they encounter during work activities. This form is designed to ensure that workers take necessary precautions and follow safety protocols to minimize risks and prevent accidents. 

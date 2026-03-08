@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on the resolution time of support requests. It allows customers to provide feedback on how long they waited for the support team to respond, how long it took for the issue to be resolved, their satisfaction with the response time, and other relevant information such as the method of resolution used. This form is important as it helps the support team to understand the efficiency of their response time and make improvements to better serve the customers in the future.
-
-To ensure accurate and complete feedback, please ensure that you provide feedback for every question. This will help the support team to gather the most useful information to improve their service.
-
-When completing this form, please answer the questions in as much detail as possible. For the multiple-choice questions, please select the most accurate answer.
-
-Please note that the support team's response time includes the time from when you initially submitted your request to when the issue was resolved. If you had multiple interactions with the support team, please provide the total time spent on all interactions.
-
-The support team will use this feedback to identify areas of improvement and make changes to better serve you and our customers in the future.
-
-</thinking>
-
 # Resolution Time Feedback Survey - Help Guide
 ## Purpose
 The Resolution Time Feedback Survey is designed to gather feedback on the response time of the support team. It will help the support team to understand how long customers had to wait for their issues to be resolved and what they can do to improve.

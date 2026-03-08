@@ -1,10 +1,4 @@
-> <thinking>
-
-This form is designed to collect information about tech product development projects, focusing on various aspects of their development process, such as project status, team structure, communication plans, testing practices, quality control, project management tools, risk management, lessons learned, and project status updates. It is intended to aid in the documentation and review of projects, helping stakeholders understand the project's lifecycle and identify areas for improvement. This form should not be used for production environments; instead, it's designed for internal use within organizations.
-
-</thinking>
-
-# tech_product_development_audit_form - Help Guide
+> # tech_product_development_audit_form - Help Guide
 ## Purpose
 The Tech Product Development Audit Form is a tool used to collect detailed information about projects' development processes. It helps project managers and leads to document and evaluate projects, highlighting successes, lessons learned, and areas for improvement.
 

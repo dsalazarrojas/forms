@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for life insurance quotations. The purpose of this form is to collect personal and insurance-related information from the user to provide accurate insurance quotes. 
-To avoid duplication and ensure the user has the necessary knowledge to fill out the form, it's crucial that users are guided through the process in a clear and concise manner. This form guide will help users understand the form's purpose and how to complete it accurately and efficiently.
-</thinking>
-
 # philam-life-insurance-quotation-form - Help Guide
 ## Purpose
 The philam-life-insurance-quotation-form is designed to gather information for life insurance quotations. This form will collect personal details and insurance-related information from you to provide you with accurate insurance quotes.

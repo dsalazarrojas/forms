@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to be a comprehensive checklist for inspecting the logistics facility, covering various aspects such as facility performance, equipment condition, storage area cleanliness, and safety and emergency procedures. The form is used to evaluate the current state of the facility and identify areas for improvement. This form is intended to be used regularly to monitor the facility's compliance with safety and regulatory standards. By answering the questions in this form, users can ensure the facility is well-maintained, safe, and compliant with relevant regulations.</thinking>
 
 # Logistics Audit Checklist - Help Guide

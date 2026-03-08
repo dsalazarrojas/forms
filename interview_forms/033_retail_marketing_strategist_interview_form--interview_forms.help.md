@@ -1,5 +1,3 @@
-<thinking>As a retail marketing strategist, this form is designed to collect information about your background, experience, and skills. The form is used to gather data for internal purposes only and does not affect any employment or hiring decisions. Please answer the questions to the best of your ability, and if you have any questions or concerns, feel free to reach out to the designated contact person for assistance.</thinking>
-
 # Retail Marketing Strategist Interview Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your background, experience, and skills as a retail marketing strategist. This information will be used for internal purposes only and will not be used in any hiring or employment decisions.

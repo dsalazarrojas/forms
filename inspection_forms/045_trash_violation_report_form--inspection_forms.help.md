@@ -1,7 +1,3 @@
-<thinking>
-This form is used for reporting a trash violation. The form is used to report an incident of trash being in a violation of some sort, and the details of the incident are to be filled in. This form is likely to be completed by a witness or a resident who has information about the incident. The form is designed to be completed by the resident if they are submitting the report, but it could also be used by a witness to report the incident. The fields in this form are designed to be filled in by the person completing the form, providing details about the incident, including the resident's information, the address where the incident occurred, and other details about the incident. The form is likely to be used by authorities or facility management to track and investigate incidents of trash violations.
-</thinking>
-
 # trash_violation_report_form - Help Guide
 ## Purpose
 This form is used for reporting a trash violation incident.

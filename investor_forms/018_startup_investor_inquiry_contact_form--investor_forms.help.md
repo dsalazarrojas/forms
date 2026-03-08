@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, we can infer that it is intended for potential investors to reach out to the startup, and the form is used to collect contact information and inquire about potential investment or partnership opportunities. This form likely serves as a way for the startup to gauge interest from potential investors and to provide a means for them to contact the startup.
-
-We should check for duplication and ensure that this form is not a duplicate or redundant form. If it is a duplicate, it's likely that the form should be removed or modified to make it distinct from other forms used for similar purposes.
-
-This form appears to be a single-page form, so there's no need to worry about pagewise explanations.
-
-</thinking>
-
 # Startup Investor Inquiry Contact Form - Help Guide
 ## Purpose
 The Startup Investor Inquiry Contact Form is a form designed to collect information from potential investors who are interested in collaborating or investing with the startup. This form allows us to gather contact information, understand how they found us, and what they are interested in.

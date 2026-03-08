@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for system administrators to check in and out of the system, indicating their status and providing additional information as needed. It is intended for use during system administrator shift changes or breaks. The form should not be used for other purposes or by users without authorization to use it.
-</thinking>
-
 # System Administrator Check In Form - Help Guide
 ## Purpose
 This form is used by system administrators to check in and out of the system, providing their status and allowing for optional notes and contact information to be included.

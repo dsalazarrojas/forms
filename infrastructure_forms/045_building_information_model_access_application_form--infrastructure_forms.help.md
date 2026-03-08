@@ -1,7 +1,3 @@
-<thinking>
-This form is used to provide access to building information models (BIMs) for various stakeholders, such as architects, engineers, contractors, and project managers. The form ensures that all necessary information is provided for access requests, and that the requesting party agrees to the terms and conditions of access. To prevent unauthorized access, the form requires approval from specified parties before access can be granted.
-</thinking>
-
 # Building Information Model Access Application Form - Help Guide
 ## Purpose
 This form is used to request access to building information models (BIMs) for various stakeholders, ensuring that all necessary information is provided and that the requesting party agrees to the terms and conditions of access.

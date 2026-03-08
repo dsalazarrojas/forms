@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used by facility managers, maintenance staff, or other personnel responsible for assessing and evaluating the condition of a room within a building or property. The form's purpose is to gather information about the room's general area, bathroom, kitchen area, room type, status, condition, and any maintenance items that need attention. The form can be used to identify areas that require immediate attention, schedule follow-up actions, and record additional comments or observations.
-
-</thinking>
-
 # Room Evaluation Checklist - Help Guide
 ## Purpose
 

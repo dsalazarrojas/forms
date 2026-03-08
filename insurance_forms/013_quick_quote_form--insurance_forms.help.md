@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to quickly gather customer information and payment details for a quote or order. It is likely used for sales or customer service purposes, such as generating a quote or proposal for a customer's order. This form should be used when a customer has already been identified as a potential client and the purpose is to finalize the details of the order.
-To avoid duplication, it's recommended to only use this form when the customer has already been contacted and the sales process has begun. Otherwise, it's possible that the customer may be contacted multiple times, leading to confusion and a poor user experience.
-</thinking>
-
 # quick_quote_form - Help Guide
 ## Purpose
 The quick_quote_form is designed to gather customer information and payment details for a quote or order. It is intended for sales or customer service use cases where a quote or proposal is needed for a customer's order.

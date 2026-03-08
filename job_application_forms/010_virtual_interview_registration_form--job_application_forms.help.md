@@ -1,6 +1,3 @@
-<thinking>
-To prevent duplicate applications and ensure that our hiring team receives complete and accurate information, we need to carefully complete this form. This form is for registering for a virtual interview. Please make sure to fill it out accurately and honestly. If you've already registered or submitted an application, please do not register again. If you're unsure about any of the questions or have any questions, feel free to contact us.</thinking>
-
 # Virtual Interview Registration Form - Help Guide
 ## Purpose
 This form is for registering for a virtual interview. Please complete it accurately and honestly.

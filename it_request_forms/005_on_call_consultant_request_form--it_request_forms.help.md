@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from on-call consultants who are available to provide support or assistance. This form will help ensure that the consultant is correctly matched with the request based on their availability and expertise. To ensure that the consultant is correctly matched with the request, please make sure to fill out this form accurately and thoroughly.
-This form should only be filled out once per user, so please do not submit multiple requests for the same on-call consultant.
-</thinking>
-
 # on_call_consultant_request_form - Help Guide
 
 ## Purpose

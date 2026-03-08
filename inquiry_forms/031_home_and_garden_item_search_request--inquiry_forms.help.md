@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to facilitate the search request of products for home and garden items. Users need to submit a form with specific details to request a product, and the sales representative will be assigned to handle the request based on the selected options. The form is designed to gather essential information about the product and the contact person, ensuring that the sales representative has all necessary details to follow up on the request.
-
-To avoid duplication of effort, we should ensure that users do not submit multiple requests for the same product. This form is intended for new product requests only.
-
-</thinking>
-
 # Home And Garden Item Search Request - Help Guide
 ## Purpose
 This form is designed to collect information about home and garden items that you are looking for. Please fill in the form with your product search request, and our sales representative will be assigned to follow up with you.

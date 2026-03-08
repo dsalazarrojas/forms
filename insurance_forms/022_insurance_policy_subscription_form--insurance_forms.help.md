@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a template for collecting information related to an insurance policy subscription. It is intended for use in the insurance industry and is meant to gather client details, insurance information, agent information, payment terms, and submission details. It is not affiliated with any specific form platform and is an original creation using public metadata. 
-</thinking>
-
 # insurance_policy_subscription_form - Help Guide
 ## Purpose
 The insurance_policy_subscription_form is a template for collecting information related to an insurance policy subscription. This form is meant to be used by insurance companies, agents, or brokers to gather essential details from clients or policyholders.

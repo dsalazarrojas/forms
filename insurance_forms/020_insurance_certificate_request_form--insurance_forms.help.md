@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insurance Certificate Request Form - Help Guide
 ## Purpose
 The Insurance Certificate Request Form is designed to collect information from insurance companies to process and verify the insurance certificates of their clients. This form is intended for insurance company representatives to fill out the form with their client's policy details and request a certificate.

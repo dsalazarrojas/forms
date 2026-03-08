@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect personal and medical information from patients for an aesthetic surgery clinic. The form's purpose is to gather essential details about the patient's medical history, current health, and treatment goals to ensure a smooth and safe treatment process. This guide will help users understand how to complete the form accurately and effectively.
-</thinking>
-
 # Aesthetic Surgery Clinic Intake Form - Help Guide
 ## Purpose
 The Aesthetic Surgery Clinic Intake Form is designed to collect essential information from patients before their consultation and treatment. This form helps our medical team understand your medical history, current health, and treatment goals, ensuring a safe and effective treatment process.

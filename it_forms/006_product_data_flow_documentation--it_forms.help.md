@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect product data flow documentation information from users. It seems like the form is intended to gather data about the origin and destination of product data, as well as other relevant details. However, upon reviewing the YAML, I notice that the "required" field for each section is set to false, suggesting that this form is not mandatory. To confirm, I will make sure to reflect this in the help guide. I will also try to provide clear explanations for each field.
-</thinking>
-
 # Product Data Flow Documentation - Help Guide
 ## Purpose
 This form is used to collect information about the flow of product data, including its source, destination, transfer process, and ownership.

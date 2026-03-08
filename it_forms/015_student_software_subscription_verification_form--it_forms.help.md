@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to verify the student software subscriptions. This form is designed to be completed by students or administrators to confirm the software subscriptions for a student. The form is meant to be simple and straightforward, with minimal required fields. The fields are categorized into three main sections: "Submit Request", "Student Information", and "Software Information". Each section is designed to collect relevant information that helps in verifying the student's software subscriptions. 
-
-The form is meant to be used in conjunction with other verification processes, and it is not designed to be a comprehensive verification form. 
-
-To avoid any confusion, this form should not be used for other purposes than student software subscription verification.
-</thinking>
-
 # Student Software Subscription Verification Form - Help Guide
 ## Purpose
 This form is used to verify student software subscriptions. It is designed to be completed by students or administrators to confirm the student's software subscriptions.

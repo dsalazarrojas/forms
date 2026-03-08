@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a generic form for testing webhooks, but its purpose could be more specific depending on the context in which it is used. For instance, it might be used to test a company's public API, or to test a specific web application's webhook endpoint. Without more information, it is difficult to determine the exact use case.
-</thinking>
-
 # Webhook Testing Form - Help Guide
 ## Purpose
 This form is designed to test webhooks for a specific use case. The exact purpose of the form may vary based on its application.

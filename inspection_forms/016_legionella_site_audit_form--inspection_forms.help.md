@@ -1,11 +1,3 @@
-<thinking>
-This form was likely created to aid in the inspection and assessment of potential Legionella contamination sites, likely for water systems within facilities, such as hotels, hospitals, or public buildings. The form's purpose would be to gather information on site-specific conditions, contact information, and other relevant details for the site visit. This form's structure and field labels suggest it's designed for a simple, straightforward assessment and reporting process. However, the lack of specific industry guidelines or regulatory requirements in the provided YAML means the form's actual purpose and intended use might vary depending on the organization or context using it. It's essential to review the form's actual purpose and context before using it to ensure it meets your specific needs.
-
-Before proceeding, ensure the form is not a duplicate or redundant effort. Double-check that the form is up-to-date and tailored to your specific inspection and reporting needs.
-
-Please note that the form's structure and field labels may not reflect any specific regulatory or industry standards, and it might not be designed for complex or high-risk environments (e.g., those with high levels of contamination or where strict quality protocols are required).
-</thinking>
-
 # legionella_site_audit_form - Help Guide
 ## Purpose
 The Legionella Site Audit Form is designed to help inspectors collect and document relevant information during site visits to assess potential Legionella contamination sites.

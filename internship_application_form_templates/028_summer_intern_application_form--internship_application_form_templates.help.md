@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, please be sure you are applying for a summer intern position and that you have not submitted an application already. If you have any questions or concerns, please contact us at [insert contact information].</thinking>
-
 # Summer Intern Application Form - Help Guide
 ## Purpose
 The Summer Intern Application Form is designed to help us get to know more about you and your qualifications for the internship position. This form is typically completed by students or recent graduates looking to gain work experience in a specific field over the summer.

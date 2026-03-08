@@ -1,7 +1,3 @@
-<thinking>
-This form is a Property Damage Declaration Form, used to document and report property damage in the workplace. The form is intended for employees or staff members to report any damage that occurs to company property, such as equipment, fixtures, or other assets. This form helps to track and record such incidents, facilitating communication and resolution processes with relevant stakeholders. It is crucial to report damages accurately and promptly to ensure proper repair and replacement. Please note that this form is not a duplicate of any other form, and its completion is mandatory for reporting property damage.
-</thinking>
-
 # Property Damage Declaration Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for van inspection purposes, likely for fleet management or safety evaluation. The form's primary function is to document the inspection results of a van, including its exterior condition, body damage, safety equipment, tires, brakes, suspension systems, steering systems, engine, electrical systems, transmission, and other critical components. It also captures the vehicle's identification information, inspection date, and other relevant details. The form likely serves as a reference for maintenance or repair decisions and ensures that inspections are conducted consistently and thoroughly.
-
-This form is not meant for any other purpose; it is specifically designed for van inspections. Please ensure that you understand the fields and their relevance to the van inspection process before filling out this form.
-</thinking>
-
 # Van Inspection Form - Help Guide
 ## Purpose
 The Van Inspection Form is a comprehensive document used to evaluate and report on the condition of a van. It is used to identify any damage or issues with the vehicle's exterior, safety equipment, tires, brakes, suspension systems, and other critical components.

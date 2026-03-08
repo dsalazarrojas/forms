@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who have been injured as a passenger in a vehicle accident. The form is used to gather details about the accident, the claimant's injuries, medical treatment, and compensation sought. The form is meant to be completed by the claimant or their representative.
-
-When filling out this form, ensure that all fields are completed accurately and thoroughly. Some fields may ask for information that could be sensitive or personal, but it is essential to provide truthful and complete answers. This information will be used to support the claim and ensure that the claimant receives fair compensation for their injuries.
-
-Please review each field carefully and ensure that all required fields are completed before submitting the form.
-</thinking>
-
 # Car Passenger Injury Compensation Claim Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who have been injured as a passenger in a vehicle accident. The form will gather details about the accident, the claimant's injuries, medical treatment, and compensation sought.

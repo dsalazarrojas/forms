@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to schedule a safety inspection appointment. The purpose of this form is to gather information for a safety inspection appointment, which is a crucial aspect of maintaining a safe and healthy work environment. This form is meant to be completed by individuals responsible for scheduling safety inspections, such as facilities managers or maintenance supervisors. The information collected through this form will be used to determine the scope and frequency of the safety inspections, which will ultimately contribute to reducing accidents and ensuring compliance with regulatory requirements.
-
-Before proceeding, ensure that the information is accurate and relevant to the specific safety inspection appointment being scheduled. Duplicate entries may lead to confusion, so please review the form carefully and provide unique answers for each field.
-
-This form has several sections with various fields that need to be filled out. Please read the explanation and instructions for each field carefully to ensure you complete the form correctly.</thinking>
-
 # Safety Inspection Appointment Form - Help Guide
 
 ## Purpose

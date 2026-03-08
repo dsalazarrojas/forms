@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to report on the inspection of a kitchen, ensuring it meets kosher standards. The form is likely used by health inspectors or other authorized personnel to assess the cleanliness and adherence to kosher rules in a kitchen. The form is part of a larger system for tracking and monitoring kitchen inspections, and its data is probably used for quality control and assurance purposes.
-
-The form's structure is composed of several fields, each focusing on different aspects of the kitchen inspection. The goal is to provide a comprehensive view of the kitchen's compliance with kosher standards. 
-
-Before starting, please note that all fields are optional unless otherwise stated. Ensure that all required fields are filled out before submitting the form, as they will be necessary for accurate reporting and processing. Also, be aware that some fields might have specific formats or constraints (e.g., date format for the inspection date).
-
-</thinking>
-
 # Kosher Kitchen Inspection Report - Help Guide
 ## Purpose
 This form is used to report on the inspection of a kitchen, ensuring it meets kosher standards. It's an essential tool for tracking and monitoring kitchen compliance.

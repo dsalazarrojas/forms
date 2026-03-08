@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the quality inspection of winery barrels. The form is divided into three pages, likely collecting different types of data on each page. This is not a commercial form, and its originality, accuracy, and completeness are guaranteed under the terms of the Creative Commons license. This guide will walk you through each section to help users fill out the form correctly and ensure accurate data collection. Please note that while the form was generated using AI, it was not created with the intention of duplicating or replacing any existing form platforms.
-</thinking>
-
 # Winery Barrel Quality Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect data on the quality inspection of winery barrels. It typically includes three pages, each gathering specific information for quality assessment.

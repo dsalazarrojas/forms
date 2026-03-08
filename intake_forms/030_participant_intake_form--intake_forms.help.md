@@ -1,10 +1,3 @@
-<thinking>
-This help guide is being created to ensure that end-users can properly fill out the Participant Intake Form and to prevent non-duplication and relevance checks. 
-The form is meant for capturing participant information for programs and events. 
-Please make sure to fill this form only if you are the intended participant or a person acting on behalf of the participant. 
-The form should not be filled by other participants or people who are not authorized to do so.
-</thinking>
-
 # Participant Intake Form - Help Guide
 ## Purpose
 This form is intended for capturing information about program participants. It is designed to collect details such as program name, contact information, and participant details to ensure accurate and efficient participant management.

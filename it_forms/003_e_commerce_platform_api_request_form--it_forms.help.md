@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for the e-commerce platform API request, which is a process that allows external partners to access the platform's API. The form is used to gather details about the integration requirements, such as the type of access and the specific end-points needed. This information will help in reviewing and granting the requested API access.
-
-Note: The form fields should not be filled out if the user already has an existing e-commerce platform API request in place.
-</thinking>
-
 # e_commerce_platform_api_request_form - Help Guide
 ## Purpose
 This form is used to request API access for external partners. Please fill out the following sections to provide necessary information for the review process.

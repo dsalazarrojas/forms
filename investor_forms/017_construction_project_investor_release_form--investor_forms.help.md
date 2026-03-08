@@ -1,11 +1,3 @@
-<thinking>
-**Internal reasoning:**
-This form is intended to gather information from investors about the release of funds or resources related to a construction project. The purpose of this form is to verify the identity of the investor, the project details, and the terms of the release. This form is not designed to create a formal contract or agreement, but rather to serve as a record of the investor's release. The information gathered through this form will help the project team to track and manage the investor's involvement in the project.
-
-The form should only be completed by authorized individuals who have a legitimate reason for accessing this information.
-
-</thinking>
-
 # Construction Project Investor Release Form - Help Guide
 ## Purpose
 This form is used to collect information from investors about the release of funds or resources related to a construction project.

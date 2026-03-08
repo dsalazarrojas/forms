@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by healthcare providers to inquire about out-of-network benefits for their patients. The form is used to gather information about the patient's out-of-network benefits, including their out-of-pocket costs, any out-of-network coverage, and other relevant details. It's crucial to understand that the form's purpose is to gather accurate information for the patient's insurance coverage, and it is not a claim form. This form should be completed for each patient's out-of-network benefit inquiry individually, and duplicate forms should not be used for multiple inquires on the same patient. It's essential to ensure the patient's information is up-to-date and accurate to avoid any discrepancies or delays in processing their benefits. 
-</thinking>
-
 # Out Of Network Benefits Inquiry - Help Guide
 ## Purpose
 

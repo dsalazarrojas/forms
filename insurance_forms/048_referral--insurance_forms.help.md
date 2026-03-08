@@ -1,5 +1,3 @@
-<thinking>This guide will explain how to complete the Referral form for insurance companies. This form is used to collect contact and policy information for referral purposes. Ensure that you are filling out the form for the correct purpose and not duplicating any existing records.</thinking>
-
 # Referral - Help Guide
 ## Purpose
 This form is used to collect contact and policy information for referral purposes. It is used to gather information about the policy holder, insurance company, and other relevant details.

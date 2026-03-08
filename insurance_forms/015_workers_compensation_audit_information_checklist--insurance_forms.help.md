@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for an audit of workers' compensation policies. The form will be used to gather details about the policy, including the audit start and end dates, employee docket number, insurance policy number, policy audit frequency, audit status, and any additional attachments or comments related to the policy. This form is designed to be completed by individuals responsible for managing workers' compensation policies. 
-
-When completing this form, please ensure that you have reviewed and understood the information provided, and that you have attached all relevant supporting documentation as required. This guide is intended to help you complete the form accurately and efficiently. 
-
-Please note that the required fields are marked as such, and failure to complete these fields may result in delays or errors in the auditing process.
-
-</thinking>
-
 # Workers' Compensation Audit Information Checklist - Help Guide
 ## Purpose
 The Workers' Compensation Audit Information Checklist is a form used to collect information for an audit of workers' compensation policies.

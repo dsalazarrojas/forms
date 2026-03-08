@@ -1,7 +1,3 @@
-<thinking> 
-This help guide is for employees to complete a security quiz related to their cyber security practices. The quiz is used to assess employee knowledge and behavior related to cyber security, including their use of password managers, two-factor authentication, security training, and other related practices. The goal of this quiz is to help employees understand their current level of cyber security awareness and provide them with guidance on best practices for improving their security posture.
-</thinking>
-
 # Cyber Security Quiz For Employees - Help Guide
 ## Purpose
 This form is a quiz to assess your cyber security practices as an employee. Please answer all the questions honestly to get a clear picture of your current level of cyber security awareness and knowledge.

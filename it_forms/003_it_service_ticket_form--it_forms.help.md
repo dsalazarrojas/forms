@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # it_service_ticket_form - Help Guide
 ## Purpose
 The IT Service Ticket Form is a tool to help you report and manage IT service tickets. The form is designed to gather necessary information about the issue or request you're submitting, such as category, priority, and due date. This form is meant for internal use within the organization, and the information collected will help the IT team to efficiently manage and resolve the issue.

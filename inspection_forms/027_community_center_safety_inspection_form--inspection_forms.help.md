@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for community center safety inspectors to gather information on the current state of safety conditions within the facility. It is intended to be used for regular safety inspections to identify potential hazards and ensure the safety of users and staff. The form is divided into several sections, each focusing on a different aspect of safety, including fire safety and emergency preparedness, general facility safety, and inspection findings and recommendations. 
-
-This form is intended to be completed by the inspector during the inspection process, and the information gathered will be used to inform decisions on corrective actions to be taken to address any identified issues. The form includes fields for the inspector's name, job title, date and time of inspection, and other relevant details. The form's structure and fields are designed to be clear and concise, allowing the inspector to quickly and efficiently collect the necessary information.
-
-</thinking>
-
 # Community Center Safety Inspection Form - Help Guide
 ## Purpose
 This form is designed for community center safety inspectors to conduct regular safety inspections and gather information on the current state of safety conditions within the facility.

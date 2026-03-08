@@ -1,7 +1,3 @@
-<thinking>
-This form will be used by inspectors to document and report on inspection activities. Before starting, please check if you've completed the inspection previously. If you're not sure, you can search for existing reports or reach out to the event organizers for guidance. Ensure that the form is not duplicated and only filled out once per event.
-</thinking>
-
 # Event Inspection Report - Help Guide
 ## Purpose
 The Event Inspection Report is used by inspectors to document and report on inspection activities after attending an event. This form helps to collect information on the event's key details and findings.

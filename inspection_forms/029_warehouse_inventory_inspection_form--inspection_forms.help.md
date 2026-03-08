@@ -1,8 +1,3 @@
-<thinking>
-This form is for the purpose of conducting an inventory inspection at a warehouse facility. It is used to gather data on the date of the inspection, the frequency of the inspection, and details about the warehouse, such as its address and name. This form is typically used for auditing and inventory management purposes. 
-To avoid duplication of effort, please do not use this form for purposes other than warehouse inspections. 
-</thinking>
-
 # warehouse_inventory_inspection_form - Help Guide
 ## Purpose
 This form is for the purpose of conducting an inventory inspection at a warehouse facility. It is used to gather data on the date of the inspection, the frequency of the inspection, and details about the warehouse.

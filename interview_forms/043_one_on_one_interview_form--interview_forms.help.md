@@ -1,7 +1,3 @@
-<thinking>
-This form is used for conducting one-on-one interviews. The form is divided into five pages. Page 1 is an introduction, page 2 consists of three options for the interviewer to choose from, page 3 is a text field for notes, page 4 is for the participant's email address, and page 5 is for the participant's phone number. The form is not required, meaning that it is optional to fill out. However, it is recommended to fill out as much as possible. This form will only be visible to the person being interviewed.
-</thinking>
-
 # One On One Interview Form - Help Guide
 ## Purpose
 The One On One Interview Form is used for conducting one-on-one interviews with participants. This form helps gather information from the participant and stores it in a secure location.

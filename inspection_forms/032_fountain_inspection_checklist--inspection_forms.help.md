@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to inspect various aspects of a fountain, which is a critical system for watering plants and providing water supply. It's essential to ensure that the inspection is thorough and accurate to prevent water waste and maintain the health of the plants. This form will help you inspect the fountain's water level, mechanism, safety features, maintenance needs, and other components. Please make sure to complete the form carefully and truthfully to ensure the accuracy of the inspection results.</thinking>
-
 # Fountain Inspection Checklist - Help Guide
 ## Purpose
 The Fountain Inspection Checklist is a form designed to inspect various aspects of a fountain's functionality and maintenance needs. This guide will walk you through each section of the form to help you complete it accurately and efficiently.

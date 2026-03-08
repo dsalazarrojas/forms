@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their pulmonary treatment history and medical conditions. This form is intended for healthcare professionals to use during the initial consultation or review of a patient's file. To ensure that this form is completed accurately and correctly, please review each field carefully and answer all relevant questions.
-</thinking>
-
 # Pulmonary Treatment Intake Form - Help Guide
 ## Purpose
 The Pulmonary Treatment Intake Form is a patient information sheet designed to capture a patient's medical history, current medical conditions, and treatment goals. This form is meant to provide a comprehensive understanding of the patient's pulmonary health, enabling healthcare professionals to better assess and tailor treatment plans accordingly.

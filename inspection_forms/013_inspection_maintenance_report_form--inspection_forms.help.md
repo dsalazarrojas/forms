@@ -1,13 +1,3 @@
-<thinking>
-
-This form seems to be related to maintenance inspection reports for assets or equipment in a warehouse or similar setting. The form is used to collect information about the condition and maintenance status of assets, including their type, location, condition, and any repairs or maintenance performed. It also captures information about the inspection process, such as who conducted the inspection, when it was done, and any follow-up actions planned.
-
-The form appears to be part of a workflow for managing asset maintenance and inspections, likely in a large organization or facility.
-
-Before proceeding, I'll assume that the form is not a duplicate of another form, and that it is meant to be a comprehensive guide for end-users.
-
-</thinking>
-
 # inspection_maintenance_report_form - Help Guide
 ## Purpose
 The inspection_maintenance_report_form is used to document the condition and maintenance status of assets or equipment in a warehouse or similar setting. It helps track and record information about asset inspections, including type, location, condition, and any repairs or maintenance performed.

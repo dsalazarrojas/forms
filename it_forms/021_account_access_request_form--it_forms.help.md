@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users requesting access to company resources, typically for employee or contractor access requests. To avoid duplicating work, please ensure that you are submitting a new request only if you have not already done so. If you have already submitted a request, do not duplicate your request, as this may cause delays in the approval process.
-</thinking>
-
 # Account Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to company resources, such as systems, applications, or data, for employees or contractors. It helps the requestor provide relevant information about their access needs and facilitates the approval process for the resource owner.

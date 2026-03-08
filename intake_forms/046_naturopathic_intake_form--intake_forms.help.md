@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from patients for Naturopathic consultations. It includes sections for personal data, medical conditions, treatment plans, and payment information. The form ensures that all required fields are filled out, and provides options for selecting medical conditions, payment methods, and insurance information.
-Please ensure that you are completing this form for your own medical consultation, and not for someone else.
-</thinking>
-
 # Naturopathic Intake Form - Help Guide
 ## Purpose
 This form is used to gather information from patients for Naturopathic consultations.

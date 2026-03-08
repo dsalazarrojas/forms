@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Service Inquiry Form Green Theme" designed to gather information from customers about their service-related inquiries. The form is meant to collect specific details about the customer's concerns, providing the company with a clear understanding of their needs.
-</thinking>
-
 # Service Inquiry Form Green Theme - Help Guide
 ## Purpose
 The purpose of this form is to collect service-related inquiries from customers, allowing the company to provide efficient assistance and support.

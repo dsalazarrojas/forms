@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from group administrators or representatives to gather details about their group's insurance needs. The form asks for contact information, group details, and specific insurance-related questions to provide an accurate quote. It's essential to fill out the form accurately and thoroughly to ensure the quote provided is relevant to the group's needs. Please review the form carefully to understand the questions and provide the required information.
-</thinking>
-
 # Group Insurance Quote Form - Help Guide
 ## Purpose
 This form is designed to collect information from group administrators or representatives to gather details about their group's insurance needs. It will help insurance providers to provide an accurate quote that suits the group's requirements.

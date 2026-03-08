@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information for a home inspection order. This is likely a standard form used in various contexts such as property management, real estate, or construction industries. Before proceeding, it's essential to ensure that there's no duplicate entry for the same client and address, and that the form is completed accurately and completely.
-
-</thinking>
-
 # Home Inspection Order Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for a home inspection order, which is a crucial step in various processes such as property management, real estate, or construction.

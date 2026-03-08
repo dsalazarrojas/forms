@@ -1,15 +1,3 @@
-<thinking>
-
-To create an internal and user-friendly help guide for the Counter Inquiry Log Form, we need to consider the following:
-
-*   The form is designed to log inquiries from customers and track their progress through different status levels (Active/Inactive).
-*   This form will be used for internal purposes, such as logging customer interactions and updating the status of inquiries.
-*   The form includes various fields to capture detailed information about each inquiry, including customer contact information, description, status, and more.
-*   Some fields are mandatory and must be filled out, while others are optional.
-*   The form is intended for use within an organization, so internal logic and rules apply.
-
-</thinking>
-
 # Counter Inquiry Log Form - Help Guide
 
 ## Purpose

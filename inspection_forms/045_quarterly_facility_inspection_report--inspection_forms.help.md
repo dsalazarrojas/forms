@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quarterly Facility Inspection Report - Help Guide
 
 ## Purpose

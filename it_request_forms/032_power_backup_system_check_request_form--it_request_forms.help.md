@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Power Backup System Check Request Form - Help Guide
 
 ## Purpose

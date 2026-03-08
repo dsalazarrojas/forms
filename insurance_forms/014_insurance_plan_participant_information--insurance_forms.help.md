@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about participants in an insurance plan, including contact and demographic details, emergency contact information, and insurance-related data. The purpose of this form is to ensure that participants have provided accurate and complete information about themselves and their emergency contacts. This form is not intended to be a medical history form or a comprehensive medical history form. It is essential to fill out this form accurately and thoroughly, as the information collected will be used to process and manage insurance claims.
-</thinking>
-
 # Insurance Plan Participant Information - Help Guide
 
 ## Purpose

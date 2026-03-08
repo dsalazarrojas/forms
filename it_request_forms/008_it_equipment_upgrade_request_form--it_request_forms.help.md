@@ -1,15 +1,3 @@
-<thinking>
-
-To determine whether the end user has a legitimate reason for requesting the form and to prevent form duplication, the system could check for the following:
-
-* Is the request type "New" (i.e., requesting a new piece of equipment) or "Upgrade" (i.e., requesting an upgrade to an existing piece of equipment)?
-* Is there an existing equipment tag that matches the one requested?
-* Is the user submitting this form for the same equipment type they previously requested?
-
-If the form is submitted with a valid request type and without any matching or previously submitted tags, the system would accept the form submission.
-
-</thinking>
-
 # it_equipment_upgrade_request_form - Help Guide
 ## Purpose
 The "it_equipment_upgrade_request_form" is a form for submitting requests for IT equipment upgrades or new equipment purchases. This form helps the IT department to quickly and accurately gather information about the user's needs and preferences.

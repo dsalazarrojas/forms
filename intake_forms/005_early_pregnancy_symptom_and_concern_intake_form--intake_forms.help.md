@@ -1,27 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a patient's general health and well-being, including their pregnancy status, symptoms, concerns, and medical history. It is intended to be completed by a patient or their representative, and will be reviewed by a medical provider. The form is not intended to be used for medical diagnosis or treatment, but rather as a starting point for further evaluation and discussion with a healthcare professional.
-
-This form is a collection of 15 fields, each with its own specific purpose:
-
-*   General Information: This field is not explicitly used in the current form implementation, but it's likely intended to capture basic contact information or demographic details.
-*   Pregnancy Info: This field is used to gather details about the patient's pregnancy, such as the due date and any relevant medical notes.
-*   Symptoms: This field is used to capture any symptoms or issues the patient is experiencing, which may be related to the pregnancy.
-*   Concerns: This field is used to capture any concerns or questions the patient has about their pregnancy.
-*   Medical History: This field is used to gather information about the patient's medical history, including any relevant allergies or sensitivities.
-*   Allergies: This field is used to capture any allergies or sensitivities the patient has.
-*   Medications: This field is used to capture any medications the patient is currently taking.
-*   Contact Info: This field is used to capture contact information for the patient or their representative.
-*   Review and Signature: This field is used for the patient or their representative to review and sign the form, indicating that they have read and understood the information provided.
-*   Medical Provider Info: This field is used to capture information about the medical provider who will be reviewing the form.
-*   Medical Provider Signature: This field is used for the medical provider to sign the form, indicating that they have reviewed the information provided.
-*   Submit: This field is not explicitly used in the current form implementation, but it's likely intended to trigger the submission of the form data.
-*   Review: This field is not explicitly used in the current form implementation, but it's likely intended to allow the patient or their representative to review the form.
-*   Submit Review: This field is not explicitly used in the current form implementation, but it's likely intended to trigger the submission of the review data.
-*   Submit Button: This field is not explicitly used in the current form implementation, but it's likely intended to allow the user to submit the form.
-
-</thinking>
-
 # Early Pregnancy Symptom And Concern Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information about a patient's general health and well-being, including their pregnancy status, symptoms, concerns, and medical history.

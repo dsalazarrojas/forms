@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for the insurance coverage portal. The main goal is to gather essential details about clients, including their contact information, coverage type, coverage level, and other relevant specifics. This form will likely be used by agents or representatives who need to access or manage client coverage information. To ensure accurate and efficient completion, it's essential to follow the instructions carefully.
-
-
-</thinking>
-
 # insurance_coverage_portal_access_form - Help Guide
 
 ## Purpose

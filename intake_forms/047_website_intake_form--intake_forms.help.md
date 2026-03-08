@@ -1,7 +1,3 @@
-<thinking>
-Is the form intended for collecting information about a website? Is it to be used as a template for other forms? Are there any other specific requirements or considerations I should be aware of when creating this help guide?
-</thinking>
-
 # website_intake_form - Help Guide
 ## Purpose
 The website_intake_form is designed to collect information about a website. It appears to be a standard template for gathering essential details about a website. 

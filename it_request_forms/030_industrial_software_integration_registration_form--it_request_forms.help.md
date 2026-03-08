@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate submissions and ensure that the form is used for its intended purpose, we will be checking for duplicates and rejecting submissions that do not meet the required criteria. Please note that some fields may be optional, but we still need them to provide accurate information to our customers.
-</thinking>
-
 # Industrial Software Integration Registration Form - Help Guide
 ## Purpose
 This form is used for registering industrial software integrations with our organization. Please fill out the form with your company and software details to initiate the integration process.

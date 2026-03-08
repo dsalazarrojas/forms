@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Travel Insurance Decline Form" using the provided YAML fields. This form is designed to collect information from users about why they are declining travel insurance. The form has multiple fields to gather details about the reasons for decline, allowing users to provide a clear explanation for their decision. The form's purpose is to gather accurate and comprehensive information from users, ensuring that the decline of travel insurance is justified and understood.
-</thinking>
-
 # Travel Insurance Decline Form - Help Guide
 
 ## Purpose

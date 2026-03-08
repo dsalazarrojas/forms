@@ -1,9 +1,3 @@
-<thinking>
-The "data_center_inspection_form" is used to inspect and report on the status of various systems and equipment within a data center. This form is designed to ensure that the data center meets the required safety and operational standards. The form includes fields for each type of equipment and system, such as safety, electrical, cooling, and structural, and also includes fields for notes and status.
-
-The purpose of this form is to gather accurate and comprehensive information about the data center's condition, which can be used to identify potential issues and take corrective actions.
-</thinking>
-
 # data_center_inspection_form - Help Guide
 ## Purpose
 The data_center_inspection_form is used to inspect and report on the status of various systems and equipment within a data center.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "fire_alarm_system_inspection_absence_form" is to collect information regarding the absence of a fire alarm system inspection. This form is likely used by facilities or maintenance personnel to report the absence of a scheduled inspection, provide reasons for the absence, and specify details such as notification recipients, method, and time.
-
-To avoid duplication and ensure correct completion, please ensure that the form is filled out for every instance of absence or missed inspection.
-
-</thinking>
-
 # fire_alarm_system_inspection_absence_form - Help Guide
 ## Purpose
 The "fire_alarm_system_inspection_absence_form" is used to report the absence of a fire alarm system inspection and provide details for the missed inspection.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for gathering information about a patent examiner's preferences and availability. It is intended to be completed by an individual who is interested in being a patent examiner, and will be reviewed by the relevant authorities to assess their qualifications and fit for the position. It is recommended that the user carefully reads through the form and fills out as much information as possible, as this will increase their chances of being selected for the position. It is also suggested that users do not complete the form multiple times, as each submission will be reviewed independently.
-</thinking>
-
 # Patent Examiner Interview Form - Help Guide
 ## Purpose
 This form is used to gather information about your preferences and availability as a patent examiner. It will be reviewed by the relevant authorities to assess your qualifications and fit for the position.

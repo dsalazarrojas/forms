@@ -1,9 +1,3 @@
-<thinking>Automated Trading Configuration form is a crucial component of the trading system, and its purpose is to collect essential information from users to configure their trading settings. This form is typically used by traders to set up their trading account, platform, and risk management settings. It's essential to fill out this form accurately to ensure seamless trading experience and effective risk management.
-
-Before starting, ensure that you have read and understand the form instructions and have all the necessary information required to complete it. You may need to refer to other relevant documentation or resources if you're unsure about any field.
-
-To complete this form, follow the instructions below:</thinking>
-
 # Automated Trading Configuration - Help Guide
 ## Purpose
 This form is used to configure your trading account, platform, and risk management settings for automated trading.

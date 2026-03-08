@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the purpose of inspecting tunnels, likely for the purpose of assessing their condition or performing routine maintenance checks. This form should be completed by personnel responsible for maintaining or inspecting tunnels. The form's data will likely be used to track and analyze tunnel condition reports.
-</thinking>
-
 # Tunnel Inspection Form - Help Guide
 ## Purpose
 The Tunnel Inspection Form is designed to collect information about the condition of tunnels. This form is intended for tunnel inspectors and maintenance personnel to report their findings and observations.

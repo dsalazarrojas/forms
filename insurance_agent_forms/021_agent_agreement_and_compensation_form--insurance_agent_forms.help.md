@@ -1,7 +1,3 @@
-<thinking>
-I will create a comprehensive help guide for the "Agent Agreement And Compensation Form" in the required Markdown format. I will carefully review the form schema and provide clear explanations for each field, making sure to avoid any internal business logic assumptions.
-</thinking>
-
 # Agent Agreement And Compensation Form - Help Guide
 
 ## Purpose

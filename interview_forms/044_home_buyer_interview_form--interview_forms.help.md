@@ -1,21 +1,3 @@
-<thinking>
-The purpose of the "Home Buyer Interview Form" is to gather information from potential home buyers about their preferences, needs, and expectations when searching for a new home. This information will help real estate agents and other stakeholders better understand the buyer's requirements and provide personalized guidance and support throughout the home buying process.
-
-The form is designed to be completed by the home buyer, and it's intended to be a collaborative and conversational tool to ensure a smooth and stress-free experience for the buyer.
-
-This form is NOT a duplicate or a replacement for any other form used in the real estate industry. It's a separate and essential part of the home buying process that helps to identify and address the buyer's needs and preferences early on.
-
-Please note that this form is intended to be used in conjunction with other forms and processes, and not as a standalone document. By completing this form, the home buyer will be able to:
-
-* Clarify their budget and preferences
-* Indicate their preferred location and property type
-* Specify their desired property features
-* Provide contact information for follow-up
-* Break down their budget for a clearer understanding of their financial situation
-
-By providing accurate and detailed answers, the home buyer will be able to get the most out of this form and have a more productive and successful home buying experience.
-</thinking>
-
 # Home Buyer Interview Form - Help Guide
 ## Purpose
 The Home Buyer Interview Form is designed to gather information from potential home buyers about their preferences, needs, and expectations when searching for a new home. This form is used to ensure a smooth and stress-free experience for the buyer.

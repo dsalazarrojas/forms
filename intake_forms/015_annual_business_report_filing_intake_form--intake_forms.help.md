@@ -1,9 +1,3 @@
-<thinking> 
-This form is intended to collect information for the Annual Business Report Filing, which is a critical document required for businesses to report their financial and business information to the relevant authorities. This form serves as a comprehensive guide for businesses to accurately and efficiently provide their required information, ensuring compliance with regulatory requirements. Please note that the form requires a valid contact person's name and email address for communication purposes.
-
-Before starting the form, ensure that you have reviewed the relevant laws and regulations regarding business reporting in your state or territory. This form should not be used as a substitute for professional advice or legal guidance, and it's recommended to consult with a qualified tax professional or attorney to ensure compliance with all applicable laws and regulations.
-</thinking>
-
 # Annual Business Report Filing Intake Form - Help Guide
 
 ## Purpose

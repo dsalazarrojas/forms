@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the purpose of onboarding new applicants for the Community Housing Initiative. It's a crucial part of the application process, ensuring that all necessary information is collected to facilitate smooth communication and effective case management. Before proceeding, please ensure that you're not duplicating this form for the same purpose or individual. This form has been generated using AI, but it's a human-readable and adaptable document.
-</thinking>
-
 # Community Housing Initiative Onboarding - Help Guide
 ## Purpose
 This form is used to collect information from new applicants for the Community Housing Initiative. It ensures that all necessary details are gathered for efficient communication and effective case management. 

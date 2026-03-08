@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to update signage direction requests, which are likely used for facilities or locations that require directional information. This form should only be filled out by authorized personnel, and it is likely used internally within an organization. To avoid duplication of effort, please check if a similar request has been made recently before filling out this form. 
-</thinking>
-
 # Signage Direction Update Request Form - Help Guide
 ## Purpose
 The purpose of this form is to update the direction signage for facilities or locations. It is used to submit a request to update the signage direction.

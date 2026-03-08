@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to prevent misrouting or unnecessary back-and-forth with our team. This form is meant for customers to provide their contact information and message regarding any refund-related issues they're experiencing with their orders. We don't want customers contacting multiple times for the same reason, so please only use this form for inquiries that haven't been resolved previously. 
-</thinking>
-
 # refund_status_inquiry_contact_form - Help Guide
 ## Purpose
 This form is for customers to contact us regarding any refund-related issues with their orders. Please use this form to provide your user name, order ID, email, phone number, and a detailed message about the issue you're experiencing.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather inquiries for graphic design services from users. It is intended for both internal and external use, and its purpose is to collect relevant information about the services needed, timeline, budget, and contact details from the user. The form will be used to provide a clear and organized way to gather this information and ensure that the services are tailored to the user's needs. 
-</thinking>
-
 # Graphic Design Services Inquiry Form - Help Guide
 
 ## Purpose

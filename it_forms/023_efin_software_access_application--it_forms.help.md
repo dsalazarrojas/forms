@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a request for access to the efin software application. The purpose of this form is to gather information from employees to facilitate access to the efin software. The form likely serves as a internal request process for employees to gain access to the application. I will proceed to create a user-facing help guide based on the provided YAML fields.
-</thinking>
-
 # efin_software_access_application - Help Guide
 ## Purpose
 This form is used to request access to the efin software application. Please fill out the form below to submit your request.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential clients about their consulting needs, allowing our team to tailor our services to their specific requirements. This form will be used to determine the best course of action for their project, and the team will review the submitted information to provide relevant solutions. It is recommended that users review the form carefully before submitting it to ensure that they are providing accurate and complete information. If you have used consulting services before, please select "True" in the "Have You Used Consultants Before" field. The team will use this form to guide the conversation and determine the most suitable services for the client's project.
-</thinking>
-
 # Consulting Services Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential clients about their consulting needs and project requirements. It will help us understand their project goals, constraints, and expectations, allowing us to provide tailored solutions and services.

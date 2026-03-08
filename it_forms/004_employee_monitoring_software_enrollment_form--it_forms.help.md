@@ -1,7 +1,3 @@
-<thinking>
-This form is for employees to enroll in a software monitoring system. The purpose of this form is to collect relevant information from employees about their monitoring requests. The form is split into several sections, each containing fields that ask about the employee's monitoring preferences, manager approval, and contact information. The form fields are designed to be straightforward and clear, reducing confusion and errors. The form's fields are all required unless otherwise stated.
-</thinking>
-
 # employee_monitoring_software_enrollment_form - Help Guide
 ## Purpose
 This form is used to collect information from employees for software monitoring system enrollment.

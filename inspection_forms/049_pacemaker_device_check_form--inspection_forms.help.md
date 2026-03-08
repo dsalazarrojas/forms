@@ -1,6 +1,3 @@
-<thinking>
-This form was designed to collect information about pacemaker devices. I've reviewed the input schema to ensure it's accurate. No proprietary information was extracted from any form platform. This form should be used to collect data from healthcare professionals or individuals who need to monitor pacemaker devices. To the best of my knowledge, it's a one-time use form and not meant for frequent submissions. I'll make sure to keep this form up-to-date with the latest schema changes. No duplicate fields were found in the schema. All fields have a clear label and type, which should be self-explanatory. I'll provide a clear and concise explanation for each field below. I'll also include a "Tips" section for any additional guidance. Please let me know if you have any questions or concerns!</thinking>
-
 # Pacemaker Device Check Form - Help Guide
 ## Purpose
 This form is designed to gather information about pacemaker devices, allowing healthcare professionals to monitor and track their status. It's a one-time use form, intended for collecting data from a single patient at a time.

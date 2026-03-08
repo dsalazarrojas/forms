@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to request access to the e-commerce platform's API (Application Programming Interface) and provide necessary contact information. The form will be used by the IT department to review and process the requests. Before filling out this form, please ensure you have the necessary permissions and approvals within your organization. This form will not be duplicated if it is already completed with the same or similar information. If you are requesting access to multiple endpoints, please specify each one in the "requested_endpoints" field. Please note that some fields may be required or optional, depending on the type of integration you are requesting. Please fill out this form accurately and completely. 
-</thinking>
-
 # e_commerce_platform_api_request_form - Help Guide
 
 ## Purpose

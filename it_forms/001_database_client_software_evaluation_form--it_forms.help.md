@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from database client software evaluation forms.
-It appears to be intended for evaluating database client software, likely for IT or engineering teams.
-However, some fields seem to lack clear labels or descriptions, making it difficult to infer their purpose.
-For example, the field "helps_it_and_engineering_teams" is not explicitly linked to a specific aspect of database client software that requires team support.
-Similarly, "compararate_database_client_tools" seems to be a misspelling or typo.
-The field "support_purchasing_or_standardization_decisions" also lacks clarity.
-The form seems to be focused on evaluating the functionality and features of database client software, but some fields could be improved for better clarity.
-</thinking>
-
 # Database Client Software Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate and compare database client software based on your specific needs and preferences.

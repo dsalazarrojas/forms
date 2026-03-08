@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers or users regarding their business renewal, likely for insurance policies or subscriptions. The form is meant to be completed by a user to provide their business details and contact information for the purpose of renewal.
-</thinking>
-
 # Renewal Questionnaire Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # WhatsApp Message Sending Form - Help Guide
 ## Purpose
 This form is designed to create and send WhatsApp messages to a recipient. It allows users to input their message request, schedule outreach, select a date and time for the outreach, and choose a message type. The form is used to streamline and facilitate communication with recipients through WhatsApp.

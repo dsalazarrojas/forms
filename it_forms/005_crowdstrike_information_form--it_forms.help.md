@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for users to provide information about their company or organization, specifically regarding their use of CrowdStrike products or services. The form is designed to collect relevant details such as first-name, email, security insights, product services, company name, company URL, contact person, phone number, and notes. This information will help the support team to effectively assist and communicate with the users regarding their queries.
-
-The form has been designed to gather all the necessary information in a structured and organized manner, reducing any confusion or miscommunication during the support process.
-
-To ensure that the information is accurate and complete, it is essential that the users understand the purpose and usage of each field. This guide will provide a step-by-step explanation of the form, helping users complete it with ease.
-
-</thinking>
-
 # CrowdStrike Information Form - Help Guide
 ## Purpose
 The CrowdStrike Information Form is designed to gather essential information from users about their company or organization. This information will help the support team to effectively assist and communicate with users regarding their queries.

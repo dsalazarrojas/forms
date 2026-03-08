@@ -1,8 +1,3 @@
-<thinking> 
-This form was generated using AI to help organizations collect information about events in a structured way. The form is not affiliated with, endorsed by, or derived from any form platform. It was created using public survey topic metadata and is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it - just give credit. Contact me at form@gic.mx for any questions or inquiries.
-
-</thinking>
-
 # Event Opening Checklist - Help Guide
 ## Purpose
 This guide will walk you through the Event Opening Checklist form. The form is designed to collect information about events in a clear and concise way.

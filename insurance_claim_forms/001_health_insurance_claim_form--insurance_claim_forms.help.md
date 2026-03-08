@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for submitting a new health insurance claim. The form's purpose is to gather information about the patient and the claim they are submitting. The form includes fields for personal identification, claim details, and billing information. The form should only be completed by the patient or their representative.
-
-</thinking>
-
 # Health Insurance Claim Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a new health insurance claim. This form will help gather information about the patient and the claim they are submitting.

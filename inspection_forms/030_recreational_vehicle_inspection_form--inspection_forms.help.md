@@ -1,19 +1,3 @@
-<thinking>Checking the form YAML to understand the form's purpose, fields, and functionality... 
-
-This form appears to be a standard vehicle inspection form used to collect information about a recreational vehicle (RV) during an inspection. The form is likely used by mechanics, RV dealerships, or RV owners to record details about the vehicle's condition, maintenance, and repairs. Each field seems to be designed to capture specific aspects of the vehicle, such as make, model, year, and inspection date.
-
-Upon further review, I notice that most fields are optional, suggesting that the form is intended for general inspections rather than formal documentation. The presence of "note" fields implies that free-form text comments are encouraged, allowing inspectors to record any additional information or observations.
-
-The form appears to be well-suited for a variety of uses, including:
-
-* Pre-sale inspections for RV dealerships
-* Regular maintenance check-ups for RV owners
-* Repair and maintenance records for mechanics or repair shops
-
-However, I couldn't determine the exact purpose or context of the form without more information about the organization or business using this form. If the form is intended for internal use within an organization, I may be able to provide more guidance on the intended use.
-
-</thinking>
-
 # Recreational Vehicle Inspection Form - Help Guide
 ## Purpose
 The Recreational Vehicle Inspection Form is used to record information about the condition, maintenance, and repairs of a recreational vehicle during an inspection. This form helps inspectors capture details such as vehicle make, model, year, and inspection date, as well as any repairs or issues identified.

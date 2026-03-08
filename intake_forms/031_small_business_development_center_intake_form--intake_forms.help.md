@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # small_business_development_center_intake_form - Help Guide
 
 ## Purpose

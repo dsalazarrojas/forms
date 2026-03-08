@@ -1,5 +1,3 @@
-<thinking>...the form "Pharmacy Inspection Form" is designed to collect information from pharmacies during an inspection. This form ensures that all required fields are completed, and optional fields are used for additional information. Ensure that you have completed all required fields before submitting the form. If you are not sure about the purpose of a specific field, please refer to this help guide for clarification. If you have already completed a similar form, please review the changes made to this version before resubmitting. Ensure that all fields are correctly filled and submitted. If you need help, don't hesitate to reach out to the pharmacy team for assistance...</thinking>
-
 # Pharmacy Inspection Form - Help Guide
 ## Purpose
 The Pharmacy Inspection Form is a standard form used to collect information from pharmacies during an inspection. This form helps ensure that all pharmacies are operating in compliance with regulations and standards.

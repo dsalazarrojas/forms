@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to facilitate a structured inspection of appliances to ensure their safety and integrity. It is intended for inspectors to collect data on appliances that require attention, and to document any necessary corrective actions. This form is not meant for general appliance information or inventory tracking. It should only be used when an appliance is found to have issues or hazards that need to be addressed.
-
-</thinking>
-
 # Appliance Security Inspection Checklist - Help Guide
 ## Purpose
 The Appliance Security Inspection Checklist is a form used to inspect appliances for potential safety hazards and document any issues that need to be addressed. This form guides the inspector through a series of questions and checks to ensure a comprehensive and accurate inspection.

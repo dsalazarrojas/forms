@@ -1,7 +1,3 @@
-<thinking>
-It's a form for IT professionals to keep track of their progress in preparing for an IT certification exam. The fields on this form help the user plan out their preparation schedule, gather relevant study materials, and set up their exam details such as date, time, location, and duration. This form should help the user create a clear and effective study plan. It's essential to fill out all fields that apply to your situation to get the most out of this form. Note that the form does not store exam-specific questions or content, so if you're preparing for a specific exam, you might need to research and create separate resources for that exam.
-</thinking>
-
 # IT Certification Exam Study Checklist - Help Guide
 ## Purpose
 The IT Certification Exam Study Checklist form is designed to help IT professionals create a structured plan for preparing for an IT certification exam. This guide will walk you through each field on the form and provide explanations and tips to help you get the most out of this tool.

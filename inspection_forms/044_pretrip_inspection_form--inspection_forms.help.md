@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is likely used for vehicle inspections, where a technician or mechanic needs to assess the condition and status of a vehicle's various systems. The form is divided into several sections, each covering a specific aspect of the vehicle's mechanics, such as engine, transmission, brake, suspension, steering, electrical, and overall condition. The form may be used for routine maintenance, repair, or inspection purposes. The fields are designed to be simple and straightforward, with select options for multiple-choice questions and text fields for more detailed information. The "vehicle status" field at the end suggests that the form is also used to track the vehicle's overall status or readiness for use... </thinking>
-
 # prophets_inspection_form - Help Guide
 
 ## Purpose

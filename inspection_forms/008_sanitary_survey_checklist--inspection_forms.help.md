@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about facilities' sanitary conditions, including their systems, construction materials, and inspection details. The goal is to ensure that facilities are inspected regularly and meet certain standards. This form should only be used for facilities that meet the specified conditions and are relevant to the inspection process.
-</thinking>
-
 # Sanitary Survey Checklist - Help Guide
 ## Purpose
 The Sanitary Survey Checklist is a form used to inspect facilities and gather information about their systems, construction materials, and inspection details.

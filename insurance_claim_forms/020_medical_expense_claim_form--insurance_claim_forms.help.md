@@ -1,8 +1,3 @@
-<thinking>
-  The form purpose is to collect information from claimants for medical expense claims. This form is likely used by health insurance providers or administrators to gather relevant details from individuals who want to file claims. Each field is crucial for understanding the claimant's medical expenses and processing the claim efficiently.
-  To avoid non-duplication, the form should only be used for initial claims. If a claimant wants to update or refile an existing claim, the form should not be used. This form is for new claims only.
-</thinking>
-
 # medical_expense_claim_form - Help Guide
 
 ## Purpose

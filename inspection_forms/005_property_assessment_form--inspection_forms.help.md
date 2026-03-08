@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for assessing properties, likely for real estate purposes such as appraisals or valuations. The form collects relevant information about a property's address, type, and various features that can impact its value or condition. It's possible that this form is used for internal property management or as a template for real estate agents or inspectors.
-</thinking>
-
 # Property Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect property information for assessment purposes, such as appraisals or valuations.

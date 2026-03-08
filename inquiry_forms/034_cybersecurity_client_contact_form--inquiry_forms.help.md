@@ -1,10 +1,4 @@
 >
-<thinking>
-
-The "Cybersecurity Client Contact Form" is a tool used to collect contact information and details from clients seeking cybersecurity services. The form helps to efficiently capture essential data such as client contact information, assigned team members, and issue descriptions. This form should only be used for legitimate client inquiries and not for internal purposes or repetitive submissions. Please ensure that this form is not submitted multiple times for the same client inquiry.
-
-</thinking>
-
 # Cybersecurity Client Contact Form - Help Guide
 ## Purpose
 The Cybersecurity Client Contact Form is designed to gather essential information from clients seeking assistance with cybersecurity services. This includes contact details, problem descriptions, and assigned team members. The collected information helps our team in addressing client concerns and providing swift support.

@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's first understand the context and purpose of the form. This form appears to be a tool for requesting private chat rooms, likely for team meetings, discussions, or other collaborative activities. It's designed to collect information about the room's configuration and requirements. The form fields are a mix of simple text fields for descriptive information and select fields for choosing options. Given the form's structure, it seems to be aimed at ensuring that the chat room is correctly set up and configured with all necessary details before creating it. Let's break down each field and make it user-friendly for end-users.</thinking>
-
 # Private Chat Room Request Form - Help Guide
 ## Purpose
 This form is used to request a new private chat room. You'll need to fill in the required fields to provide all necessary information for the room setup.

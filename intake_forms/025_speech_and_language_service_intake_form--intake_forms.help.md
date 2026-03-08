@@ -1,10 +1,3 @@
-<thinking>
-This form is for patients or family members to provide information about their or their loved one's background, medical history, communication concerns, and other relevant details when seeking speech and language services. 
-This form likely aims to help service providers assess the patient's needs and tailor services accordingly. 
-It's assumed that the form is not intended for general public submission, as it contains sensitive medical information. 
-Please ensure that the form is only accessible to authorized individuals and that data is handled securely and confidentially. 
-</thinking>
-
 # Speech And Language Service Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information about a patient's background, medical history, and communication concerns to help service providers offer tailored speech and language services.

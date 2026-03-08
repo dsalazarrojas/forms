@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to gather information for an insurance claim. This form is intended for hospitalization claims, which are typically used for medical events that require an extended stay in a healthcare facility, such as a hospital. The primary purpose of this form is to collect relevant details about the claimant, the claim, and the medical treatment received.
-
-Before proceeding, ensure that you are filling out the correct type of claim form for your situation. If you are unsure, please consult the relevant insurance documentation or contact your insurance provider for guidance.
-
-This form is divided into multiple pages, each with a set of questions designed to gather specific information. Ensure that you complete each page thoroughly and accurately to avoid delays or issues with your claim.
-
-The following guide will walk you through the process of completing this form, field by field.
-
-</thinking>
-
 # Hospitalization Claim Form - Help Guide
 ## Purpose
 This form is used to collect information for an insurance claim related to hospitalization.

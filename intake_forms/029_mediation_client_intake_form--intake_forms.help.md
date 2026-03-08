@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mediation Client Intake Form - Help Guide
 ## Purpose
 

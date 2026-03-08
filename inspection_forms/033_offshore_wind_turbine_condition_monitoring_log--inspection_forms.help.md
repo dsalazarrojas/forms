@@ -1,16 +1,3 @@
-<thinking>
-The form is intended for collecting information about the condition monitoring of offshore wind turbines. This form is likely used by maintenance teams to gather data on the status of turbines, including whether they are active or inactive, whether a monitoring system is in place, and the frequency and duration of monitoring. The form is likely used in a context where offshore wind turbines require regular monitoring to ensure optimal performance and maintenance.
-
-The form appears to be used in a context where multiple teams are involved, including team leads, team members, and contact persons. It also asks for location information, contact person, department, and team lead information, which suggests that the form is used for communication and coordination between teams.
-
-To avoid duplication of effort, the form should be filled out by only one person per team or unit, and the information should be consistent across all instances of the form.
-
-The form has a mix of fields that ask for yes/no answers, date fields, and free text fields. This suggests that the form is used for both structured and unstructured data collection.
-
-The form appears to be used for both initial assessments and follow-up activities, as indicated by the presence of "Issue Description" and "Action Taken" fields. The "Follow-up" field further suggests that the form is used for tracking progress and outcomes.
-
-</thinking>
-
 # offshore_wind_turbine_condition_monitoring_log - Help Guide
 ## Purpose
 The offshore wind turbine condition monitoring log is used to gather information about the status of offshore wind turbines. This includes their condition, monitoring systems, and other relevant details.

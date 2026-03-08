@@ -1,8 +1,3 @@
-<thinking> 
-This form is a critical tool for inspecting high voltage equipment, ensuring they are in good working condition and safe for use. The form's purpose is to document the findings during each inspection, including the equipment's current status and any issues that need to be addressed. The correct completion of this form is essential for maintaining accurate records and facilitating the timely maintenance of high voltage equipment. Before proceeding, ensure you understand the scope of each field as described below.
-
-</thinking>
-
 # High Voltage Equipment Inspection Report - Help Guide
 ## Purpose
 This form is designed to gather information on the condition and maintenance status of high voltage equipment. It helps ensure that the equipment is properly documented, inspected, and maintained, reducing the risk of electrical accidents and promoting a safe working environment.

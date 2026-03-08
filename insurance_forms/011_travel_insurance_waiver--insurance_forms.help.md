@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about travel insurance waivers. This could potentially be used by HR departments or managers to verify that employees have the necessary insurance coverage for travel. 
-</thinking>
-
 # travel Insurance Waiver - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the security features and practices of an online learning platform. It is intended to gather information on various aspects of platform security, including data storage, security policies, user authentication, and user experience. This form is not affiliated with any specific platform and is an original adaptation of a public survey topic. 
-</thinking>
-
 # e-learning-platform-security-assessment-form - Help Guide
 ## Purpose
 This form is designed to assess the security features and practices of an online learning platform.

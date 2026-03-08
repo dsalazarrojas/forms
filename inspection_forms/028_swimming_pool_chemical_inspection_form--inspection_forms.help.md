@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the chemical inspection of a swimming pool. The primary purpose is to gather data that will help pool inspectors conduct thorough and accurate inspections. This form will be used by pool inspectors to document their findings and ensure consistency in their evaluations.
-</thinking>
-
 # swimming_pool_chemical_inspection_form - Help Guide
 
 ## Purpose

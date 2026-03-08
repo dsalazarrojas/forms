@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect diagnostic information about the system, 
-to help identify potential issues and areas for improvement. 
-This form is intended for end-users to report their experience with the system, 
-and is not a formal support request form. 
-It is recommended that users only fill out this form if they have a clear understanding 
-of the issues they are experiencing and their impact on their daily work. 
-Please ensure that you have permission from the system owners before filling out this form.
-</thinking>
-
 # System Diagnostic Survey - Help Guide
 ## Purpose
 The System Diagnostic Survey is a form designed to collect information about the system's status. It helps us identify potential issues and areas for improvement.

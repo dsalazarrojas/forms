@@ -1,11 +1,3 @@
-<thinking>
-We are creating a help guide for a form that will be used to collect information from potential renters. This form is designed to gather relevant details about their preferences and needs for renting a property. The purpose of this form is to ensure that we, as property managers, can understand their requirements and provide the most suitable options for their needs. 
-
-This form is intended to be used for general inquiries about renting a property, and it's not meant to be used for other purposes like scheduling appointments or signing agreements. It's essential to fill out the form accurately to ensure that we can provide the best possible response to their inquiry.
-
-Please note that the form is not meant to be filled out multiple times for the same purpose. If a user has already filled out the form, they should not fill it out again. This is to avoid duplication of effort and ensure that we have the most up-to-date information about their preferences.
-</thinking>
-
 # Rental General Inquiry Form - Help Guide
 ## Purpose
 This form is used to collect general information from potential renters about their preferences and needs for renting a property.

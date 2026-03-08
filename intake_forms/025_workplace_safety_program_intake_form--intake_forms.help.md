@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # workplace_safety_program_intake_form - Help Guide
 ## Purpose
 

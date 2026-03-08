@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the "infrastructure_security_risk_assessment" form. This form is used to evaluate the security risk associated with a specific site or infrastructure. The form is used to assess the risk level of a site based on various factors such as site evaluation, security controls rating, remediation status, and risk impact. It's essential to complete this form accurately to ensure that the risk assessment is thorough and reliable. To avoid duplication of effort, it's recommended to use this form for new risk assessments or updates of existing assessments. Before proceeding, ensure that all required fields are filled out accurately and thoroughly.</thinking>
-
 # infrastructure_security_risk_assessment - Help Guide
 ## Purpose
 The "infrastructure_security_risk_assessment" form is used to evaluate and document the security risk associated with a specific site or infrastructure.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be filled out by users who need to report the status of a device. It's designed to gather information about the device type, its current condition, whether it requires maintenance, and other relevant details. To ensure data consistency, it's essential to fill out the form accurately and not duplicate any entries. The form's fields are structured in a way that guides the user through the reporting process, making it straightforward and efficient.
-</thinking>
-
 # Device Status Report Form - Help Guide
 ## Purpose
 The Device Status Report Form is designed to gather information about the status of a device. It helps users provide essential details about the device, including its type, condition, and maintenance needs.

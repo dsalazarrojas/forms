@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to be a comprehensive checklist for cybersecurity measures in a given organization. It's designed to collect information on various aspects of cybersecurity, including risk level, data classification, security standards, data protection measures, incident response procedures, and security practices. The form is meant to be a quick and easy way to assess an organization's cybersecurity posture and identify areas for improvement. It is not meant to be a comprehensive risk assessment or audit, but rather a high-level overview of the organization's cybersecurity measures.
 
 # cybersecurity_measures_checklist_form - Help Guide

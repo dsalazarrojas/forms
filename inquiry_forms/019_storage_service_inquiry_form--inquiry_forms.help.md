@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Storage Service Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from users about their storage service inquiries. The form collects details about the user's storage needs and preferences, including contact method, storage location, and inquiry description.

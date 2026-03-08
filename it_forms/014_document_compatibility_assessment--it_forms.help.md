@@ -1,15 +1,3 @@
-<thinking>
-This form appears to be a Document Compatibility Assessment form designed to collect information about a specific document. It likely aims to evaluate the compatibility of a document with different platforms or versions. The form might be used in an academic or professional setting to ensure that documents are compatible with various systems or requirements. 
-The following is a possible use case:
-
-*   A researcher wants to assess the compatibility of a scientific document with different platforms.
-*   A company needs to evaluate the compatibility of a document with their specific software version.
-*   A university wants to assess the compatibility of a document with different browsers or operating systems.
-
-Before proceeding, please ensure that you are using the correct form for your intended purpose and that you do not duplicate efforts by using this form for multiple, unrelated tasks.
-
-</thinking>
-
 # Document_Compatibility_Assessment - Help Guide
 ## Purpose
 The Document Compatibility Assessment form is designed to collect information about a specific document and its compatibility with different platforms or versions.

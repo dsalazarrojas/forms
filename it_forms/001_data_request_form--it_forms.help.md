@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Data Request Form, we first need to understand the purpose of the form and how it should be completed. This form is designed to collect information about a client's data request, including client details, contact preferences, and request specifics. The goal of this guide is to walk the user through the form step-by-step, explaining what each field means and how to complete it correctly.
-
-Before we begin, let's consider the context in which this form might be used. This form is likely to be used by administrators or support staff to manage client data requests, and it's essential to ensure that the user understands how to fill out the form accurately to avoid errors and ensure that the request is processed correctly.
-
-Given the form's structure, we should focus on explaining each field in a clear and concise manner, using bullet points for easy reading and understanding.
-
-</thinking>
-
 # Data Request Form - Help Guide
 ## Purpose
 The Data Request Form is designed to collect information about a client's data request, including client details, contact preferences, and request specifics. This form is used to manage client data requests and ensure that the request is processed correctly.

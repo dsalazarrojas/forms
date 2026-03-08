@@ -1,18 +1,3 @@
-<thinking>
-This form appears to be a compliance inspection checklist for a spa, designed to assess various aspects of the facility's health code compliance. 
-
-The form seems to be intended for use by an inspector, likely a health department official or an external auditor. 
-
-The form includes fields for general information, inspection date and time, facility details, and various aspects of compliance, such as equipment conditions, safety equipment presence, and emergency exit conditions. 
-
-The fields suggest that the form is part of a larger process for evaluating and maintaining compliance with health codes and regulations. 
-
-It's not entirely clear if this form is for a one-time inspection or an ongoing series of inspections. 
-
-The options for some fields seem to be limited, which might be due to the fact that the form is designed to be used in conjunction with other supporting documents or systems that provide additional details.
-
-</thinking>
-
 # Spa Health Code Compliance Inspection Form - Help Guide
 ## Purpose
 The Spa Health Code Compliance Inspection Form is a tool used to evaluate a spa's compliance with relevant health codes and regulations. It helps inspectors assess the facility's conditions, identify potential risks, and track corrective actions.

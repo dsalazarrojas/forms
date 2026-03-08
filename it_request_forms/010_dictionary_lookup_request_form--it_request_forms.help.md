@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used for users to request a dictionary lookup, which involves searching for specific terms or words in a dictionary. The form collects information about the dictionary being requested, the type of request, and the user's details. The form is used to provide a clear and structured way for users to submit dictionary lookup requests.
-
-To avoid duplicate requests and ensure that the form is used correctly, users are only required to fill in the necessary fields, and the "Follow-up" field is optional, used for additional information or clarification.
-
-Before filling out this form, please check that you are not submitting duplicate requests for the same dictionary and request type, as this might cause unnecessary work and delay the process.
-
-</thinking>
-
 # Dictionary Lookup Request Form - Help Guide
 ## Purpose
 The Dictionary Lookup Request Form is a tool for users to request dictionary lookups, allowing them to search for specific terms or words in a dictionary.

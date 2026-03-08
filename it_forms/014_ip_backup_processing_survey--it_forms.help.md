@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be for collecting information about IP backup processing processes. The form likely aims to gather data on when and how often backups are performed, where the backups are stored, and who is responsible for them. This information can help in understanding the current state of backup processes and identifying potential issues or improvements. Before proceeding, ensure that you are not familiar with backup procedures in general and have a basic understanding of the options provided in the form. This guide will explain the form's purpose and each field in detail, helping you to complete the form accurately and efficiently.
-</thinking>
-
 # IP Backup Processing Survey - Help Guide
 ## Purpose
 

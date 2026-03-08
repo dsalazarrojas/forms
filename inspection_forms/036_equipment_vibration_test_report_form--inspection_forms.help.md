@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data from equipment vibration tests. It is used to document the results of such tests, including the test conditions, equipment used, measurements taken, and any relevant remarks. It is likely used in a maintenance or quality control context where the vibration test report form is a crucial tool for monitoring and ensuring the proper functioning of equipment. Before proceeding, ensure you understand the context in which this form is used and that the test is not a part of a larger ongoing process. If you're not familiar with the form's purpose or the equipment being tested, please seek clarification with the relevant personnel before proceeding.
-</thinking>
-
 # Equipment Vibration Test Report Form - Help Guide
 ## Purpose
 This form is used to document the results of equipment vibration tests, including test conditions, equipment used, measurements, and any relevant remarks. It helps in monitoring and ensuring the proper functioning of equipment in a maintenance or quality control context.

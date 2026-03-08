@@ -1,11 +1,3 @@
-<thinking>
-The "Deck Pricing Inquiry" form is used to collect information from homeowners who are interested in having their deck priced by a contractor. This form helps gather details about the homeowner's project, including details about the project size, type, location, and budget. The form also collects information about the contractor's name and phone number, as well as a brief description of the pricing request. The purpose of this form is to facilitate communication between the homeowner and the contractor, ensuring that the contractor has all the necessary information to provide an accurate price quote for the project. The form is intended to be completed by the homeowner, and the data collected will be used by the contractor to provide personalized pricing information.
-
-To avoid duplication of effort, it is recommended that this form is only completed once the homeowner has made initial contact with the contractor, or if the homeowner has not received a price quote from the contractor in the past.
-
-Before filling out this form, please ensure you have discussed your project details with the contractor and have a clear understanding of their pricing structure and process.
-</thinking>
-
 # Deck Pricing Inquiry - Help Guide
 ## Purpose
 The "Deck Pricing Inquiry" form is used to collect information from homeowners interested in having their deck priced by a contractor. This form helps gather details about the project, enabling the contractor to provide an accurate price quote.

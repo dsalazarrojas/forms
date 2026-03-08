@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data from candidates applying for curator positions in an art gallery, gathering information about their background, experience, and potential fit with the gallery's culture. This form should help the curator team make informed decisions about candidate suitability.
-</thinking>
-
 # Art Gallery Curator Interview Form - Help Guide
 ## Purpose
 This form is used to collect information from candidates applying for curator positions in an art gallery. It helps the curator team assess their background, experience, and cultural fit, enabling informed hiring decisions.

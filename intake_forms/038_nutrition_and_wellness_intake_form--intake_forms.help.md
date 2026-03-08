@@ -1,7 +1,3 @@
-<thinking>This form is designed for clients to provide their information and medical history to their healthcare practitioner. The form is typically used to take a comprehensive intake of the client's health and wellness status. This form will help the practitioner understand the client's medical history, allergies, medications, and health goals, which will inform the creation of a personalized nutrition and wellness plan. By filling out this form, clients can ensure that they are providing the necessary information for the practitioner to effectively assess their health and create a plan that meets their unique needs.
-
-</thinking>
-
 # Nutrition And Wellness Intake Form - Help Guide
 ## Purpose
 

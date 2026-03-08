@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form is used to track and manage issues reported by users. It's a crucial tool for software developers to understand and address problems, ensuring the software is stable and functional. Before filling out this form, please ensure you have not already reported this issue. Duplicate submissions will be discarded. Please provide clear and concise information for the best assistance. ...</thinking>
-
 # software_user_issue_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect and track information about software user issues, allowing developers to address and resolve problems efficiently.

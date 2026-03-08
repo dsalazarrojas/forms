@@ -1,7 +1,3 @@
-<thinking>
-The "Company Selection For Interviews" form is designed to collect information from candidates being considered for an interview. This form is meant to be used by hiring teams to gather essential details about the candidate, such as their name, position applied for, and preferred interview format. The form is divided into several sections, each with a unique purpose and field requirements.
-</thinking>
-
 # Company Selection For Interviews - Help Guide
 ## Purpose
 This form is used to collect essential information from candidates being considered for an interview, allowing hiring teams to make informed decisions.

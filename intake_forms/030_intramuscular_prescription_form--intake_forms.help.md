@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # intramuscular_prescription_form - Help Guide
 ## Purpose
 The intramuscular_prescription_form is designed to collect patient data and prescription information from medical professionals for intramuscular injections. This form aims to standardize the intake process for healthcare providers, ensuring accurate and complete patient information is collected.

@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information about loan selections from users. The form is divided into two pages, with the first page collecting information about the loan amount, loan term, interest rate, collateral, collateral type, loan type, loan term, and loan status. The second page collects additional loan details in the form of select multiple questions.
-
-To complete this form, users should:
-1. Select the loan amount they are applying for.
-2. Choose whether they are selecting a loan term or not.
-3. Select the interest rate for the loan.
-4. Indicate whether they have collateral or not.
-5. Choose the type of collateral (if applicable).
-6. Select the loan type (if applicable).
-7. Input the loan term in months (if applicable).
-8. Select the loan status (if applicable).
-
-Each field in the form should be filled in accordingly to provide accurate and relevant information for the loan selection process.
-</thinking>
-
 # Loan Selection Form - Help Guide
 ## Purpose
 The Loan Selection Form is designed to collect information about loan selections from users.

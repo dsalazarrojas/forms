@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and transformation strategy details from customers or stakeholders. It is meant for internal use only and should only be filled out by authorized personnel. Please only fill out this form if you have a legitimate inquiry or need to discuss transformation strategy implementation with our team. If you have previously filled out this form, please do not fill it out again without consulting the relevant team member first.
-</thinking>
-
 # Transformation Strategy Implementation Contact Form - Help Guide
 
 ## Purpose

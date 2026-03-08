@@ -1,5 +1,3 @@
-<thinking>Software Change Request Form is used to submit a formal request for changes to software applications or features. This form should be filled out to initiate a software change request, ensuring that the request is properly documented and tracked for follow-up action. Please note that this form should only be filled out for software changes that are not already in progress. If a similar request has been made previously, please refer to the original request for the most up-to-date information.</thinking>
-
 # Software Change Request Form - Help Guide
 ## Purpose
 The Software Change Request Form is a tool used to submit and document formal requests for changes to software applications or features. This form helps track and manage software changes efficiently.

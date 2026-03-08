@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # holistic_health_intake_form - Help Guide
 ## Purpose
 The Holistic Health Intake Form is a comprehensive form used to gather information about a patient's medical history, contact details, and symptoms. This form helps healthcare professionals assess a patient's overall health status and create a personalized treatment plan.

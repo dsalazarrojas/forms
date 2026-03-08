@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential buyers about their profile, preferences, and needs when searching for a property. The goal is to help the sales team provide personalized guidance and recommendations. Please ensure that you're only filling out this form once and that you're not duplicating the information with other forms or sales associates.
-</thinking>
-
 # Buyer Profile Intake Form - Help Guide
 
 ## Purpose

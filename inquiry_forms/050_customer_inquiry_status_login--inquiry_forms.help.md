@@ -1,5 +1,3 @@
-<thinking>....</thinking>
-
 # Customer Inquiry Status Login - Help Guide
 
 ## Purpose

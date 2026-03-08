@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for assessing the continuity of services, likely for IT services, within an organization. It appears to be used to identify potential risks and threats to service continuity, allowing stakeholders to evaluate the impact of service disruptions. The form collects information on the first name, last name, and other contact details of the individual filling it out. It also inquires about the organization, email address, and job title of the person. 
 
 Additionally, it gathers information on potential service disruptions, risk levels, impact, likelihood, and recovery times. 

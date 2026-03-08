@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document and report defects found during an inspection. This form captures essential information about the defect, including its description, location, and severity. It also captures relevant details about the inspected product, such as its ID, category, and type. The form allows inspectors to record their notes, comments, and the inspection result, providing a comprehensive record of the inspection process.
-</thinking>
-
 # Defect Inspection Report Form - Help Guide
 ## Purpose
 The Defect Inspection Report Form is used to document and report defects found during an inspection.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users to provide them with a life insurance quote. This form will help users input their personal details, insurance preferences, and policy requirements, which will be used to generate a quote that suits their needs. Before starting, ensure that you have all the necessary information and answers to the questions below.
-
-This form will be used for both internal and external purposes. If you have filled out this form before, you can skip to the section that explains each field in detail. Please note that this form is not intended to be a comprehensive guide to life insurance, but rather a tool to provide a basic quote. It's recommended that you consult a professional if you have any questions or concerns.
-
-Please review each field carefully to ensure you provide accurate information, as it will help us provide a more accurate quote. If you're unsure about any field, it's better to err on the side of caution and seek clarification before proceeding.
-
-Before filling out the form, ensure that you have all the necessary documents and information at hand.
-
-</thinking>
-
 # Life Insurance Quote Form - Help Guide
 ## Purpose
 

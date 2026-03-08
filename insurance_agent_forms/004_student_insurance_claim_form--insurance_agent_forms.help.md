@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll assume the form is intended for students to submit claims related to their insurance coverage. The form will likely be used by students to file a claim, describe the issue that occurred, and provide supporting information for the claim. To ensure that this form is used correctly, we'll create a comprehensive help guide that covers the purpose, how to fill out the form, and a detailed explanation of each field.</thinking>
-
 # Student Insurance Claim Form - Help Guide
 ## Purpose
 The Student Insurance Claim Form is designed to help students report and document incidents that may be covered under their insurance policy. This form will help you submit a claim and provide relevant information to support your claim.

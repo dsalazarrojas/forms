@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this form, I will consider the following:
 
 - The form is for truck driver applications, and its purpose is likely to gather information from potential candidates about their qualifications, experience, and vehicle details.

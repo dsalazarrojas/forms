@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the inspection of real estate properties using a drone. It is intended to be completed by the client and the inspector, providing a record of the inspection process and findings. It is a critical component of the real estate inspection process and must not be duplicated. 
-
-</thinking>
-
 # Real Estate Drone Inspection Application Form - Help Guide
 ## Purpose
 This form is used to record the inspection of real estate properties using a drone. It captures the necessary information to document the inspection process and findings.

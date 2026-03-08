@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture user input for server transfer requests. The form aims to gather information about the source and destination servers, timing, and reason for the transfer. 
-
-Before proceeding, please ensure that you have the necessary permissions and approvals to initiate a server transfer. This form is not intended to be a substitute for official transfer procedures and protocols within your organization. 
-
-Please be aware that this form is a public domain form and its usage should not infringe on any existing agreements or contracts related to form use or data collection. 
-
-If you're looking to create a custom form for your specific use case, please consider reaching out to our team for further assistance.
-</thinking>
-
 # Server Transfer Request Form - Help Guide
 ## Purpose
 The Server Transfer Request Form is designed to collect information about server transfers within your organization. This form will guide you through the required fields and ensure that you provide accurate and complete information for the transfer process.

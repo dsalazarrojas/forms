@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll first consider the form's purpose and the context in which it will be used. This "life_insurance_quote_request_form" is likely used to collect information from users who are requesting a life insurance quote. The form might be used by insurance agents or companies to gather necessary details to provide accurate quotes. Given the form's fields, it seems that the goal is to collect basic contact information and specific details about the user's insurance needs, such as coverage period and type, to process their request efficiently.
-</thinking>
-
 # life_insurance_quote_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are requesting a life insurance quote. It will help the insurance agent process your request and provide you with an accurate quote.

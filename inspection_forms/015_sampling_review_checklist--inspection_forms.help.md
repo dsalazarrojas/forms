@@ -1,6 +1,3 @@
-<thinking>
-The purpose of the "Sampling Review Checklist" form is to collect information from users about the sampling process for review and approval. This form is likely used in a quality control or audit context where users need to document their sampling procedures and outcomes. The form is divided into several sections, each focusing on different aspects of the sampling process. To ensure that this form is filled out correctly and consistently, it's essential to understand the purpose behind it and follow the instructions below.
-</thinking>
 # Sampling Review Checklist - Help Guide
 ## Purpose
 The Sampling Review Checklist form is used to gather essential information about the sampling process, including sampling details, sampling steps, and sampling dates and times. This form helps to ensure that the sampling process is documented accurately and consistently, which is crucial for quality control and audit purposes.

@@ -1,9 +1,3 @@
-<thinking>
-The Laptop Purchase Questionnaire is designed to collect information about a laptop purchase, ensuring accurate and detailed documentation of the transaction. This form helps to maintain consistency and accuracy in the records and is a crucial part of the internal processes. Please ensure that you are completing this form for a valid purpose and not for any other reason. Before proceeding, review the options carefully to avoid duplication of effort and incomplete submissions.
-
-Please note that some fields are marked as required or optional. Required fields are necessary for a complete submission. Optional fields are not mandatory but help to provide more context or details to the submission.
-</thinking>
-
 # Laptop Purchase Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect accurate and complete information about a laptop purchase for internal documentation and consistency purposes.

@@ -1,9 +1,3 @@
-<thinking>
-
-This guide will help users understand the purpose and function of the Flexible Office Package Inquiry form, ensuring they can complete it correctly and get the most out of it. The form is designed to gather information from users to provide a flexible office package that meets their specific needs. The form will be used to determine the type of office space that the user requires and will be used for internal processing and communication purposes only. Please ensure you complete the form accurately and do not submit duplicate inquiries.
-
-</thinking>
-
 # Flexible Office Package Inquiry - Help Guide
 ## Purpose
 The Flexible Office Package Inquiry form is designed to gather information from users to provide a flexible office package that meets their specific needs. This form is used to determine the type of office space that the user requires and will be used for internal processing and communication purposes only. 

@@ -1,17 +1,3 @@
-<thinking>
-This form is used to request a property snagging inspection from the inspection team. A property snagging inspection is typically used to identify and document any issues or defects found during the inspection process. This form is used to provide relevant information about the property that requires inspection, including its ID, type, inspection date, and other details. To prevent duplication, this form should only be used when there is a new property that requires inspection or a property that requires a follow-up inspection.
-
-Before completing this form, please ensure that you have the necessary information and approvals. This form is not meant to be used for routine or regular inspections.
-
-Please use this form only for new properties or properties that require a follow-up inspection. For routine or regular inspections, please use other designated inspection forms.
-
-When filling out this form, please ensure that all required fields are filled in correctly and accurately.
-
-Please note that the form is divided into several pages, each with its own set of fields. The first page will have fields for Property ID, Property Type, Inspection Type, and other details. 
-
-Please ensure that you complete each field accurately and follow the instructions provided.
-</thinking>
-
 # Property Snagging Inspection Request Form - Help Guide
 ## Purpose
 

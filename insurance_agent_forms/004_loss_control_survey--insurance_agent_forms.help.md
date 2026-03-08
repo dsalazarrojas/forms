@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help organizations assess and control losses that can impact their operations and bottom line. The form is intended to be filled out by insurance agents working with clients who have suffered losses due to various risks. The purpose of the form is to gather information about the client's risk assessment, risk factors, loss control measures, risk prevention, and loss frequency.
-The form is divided into five sections, each focusing on different aspects of loss control:
-- Risk Assessment
-- Risk Factors
-- Loss Control Measures
-- Risk Prevention
-- Loss Frequency
-</thinking>
-
 # Loss Control Survey - Help Guide
 
 ## Purpose

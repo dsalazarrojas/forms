@@ -1,9 +1,3 @@
-<thinking>
-To determine the correct structure and content for the help guide, I've considered the provided YAML fields and the form's purpose. The form seems to be designed to collect information from individuals applying for a "Film Critic" job, likely in the field of journalism or film review. The form appears to be a straightforward, 11-field form that collects basic contact information, job application details, and work experience. The fields include text fields for names, email address, phone number, job position, and job title; a select-multiple field for work experience; a select-one field for availability; a date field for availability date; and a time field for availability time. To complete the form, users will need to fill out their first name, last name, email address, phone number, job position, job title, upload or attach their resume, select their work experience, select their availability, and enter their availability date and time. However, the "resume" field is of type "note," which might imply that users can upload or attach a document, but it's not entirely clear. To clarify this, we'll mention it as a file upload field in the guide.
-
-The form is not strictly required, but some fields might be required based on the selected options. The form's purpose is to provide a convenient way for potential film critics to apply for the job. The guide will aim to make it easy for users to understand the form's fields and their purposes.
-</thinking>
-
 # Film Critic Job Application Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a way for you to apply for a Film Critic job position. Fill out this form to submit your application and be considered for the role.

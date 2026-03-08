@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Server Downtime Incident Form - Help Guide
 ## Purpose
 The Server Downtime Incident Form is used to report and track server downtime incidents. Please fill out this form to report any server-related issues that are currently affecting or have affected the server. This form is meant to be completed only once per incident, and it will help us to better understand and respond to the incident.

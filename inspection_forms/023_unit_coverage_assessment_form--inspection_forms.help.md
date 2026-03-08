@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the coverage status of a unit. The form is used to assess whether a unit has any coverage, some coverage, or full coverage. The "Unit Coverage Assessment Form" is not meant for duplicate or redundant entries, but rather to ensure accurate and up-to-date information is collected. Please review the form carefully and only fill it out if you are providing new or updated information.
-</thinking>
-
 # unit_coverage_assessment_form - Help Guide
 ## Purpose
 The "Unit Coverage Assessment Form" is used to collect information about the coverage status of a unit. This form is essential for ensuring accurate and up-to-date records of a unit's coverage status.

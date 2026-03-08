@@ -1,9 +1,3 @@
-<thinking> 
-  This form is designed to gather information from users for office liquidation inquiries. The purpose of this form is to collect relevant details from users so that we can provide accurate and efficient service. The form includes various fields to capture different types of information such as text, number, date, time, select options, and more. To ensure that users understand and fill out the form correctly, it's essential to provide clear instructions and explanations for each field.
-  To prevent duplication of efforts and ensure consistency in the process, please note that this form should be filled out only for the current liquidation inquiry.
-
-</thinking>
-
 # office-liquidation-inquiry-form - Help Guide
 ## Purpose
 The office liquidation inquiry form is designed to collect information necessary for office liquidation inquiries. Please fill out the form with accurate details to assist us in providing the best possible service.

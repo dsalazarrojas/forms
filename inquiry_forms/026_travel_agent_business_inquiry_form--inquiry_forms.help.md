@@ -1,12 +1,3 @@
-<thinking>
-To create a travel agent business inquiry form, we need to determine that the form is intended for travel agents to inquire about business opportunities. The form should be used to capture relevant information about the travel agent's business, including their name, contact information, and specific business inquiries. This form is likely used by travel agents to reach out to potential clients or partners, and the collected data will be used to facilitate communication and negotiation.
-
-Before filling out the form, please ensure that the information provided is accurate and up-to-date. The form is not intended for personal travel booking or general inquiries, so only travel agents with a legitimate business purpose should use it.
-
-To avoid duplication and ensure that the form's purpose is clear, please only fill out the form if you have a specific business inquiry in mind. If you have already inquired about a particular business opportunity, please do not fill out the form again, as this may cause confusion and duplication of effort.
-
-</thinking>
-
 # travel_agent_business_inquiry_form - Help Guide
 ## Purpose
 The travel agent business inquiry form is intended for travel agents to inquire about business opportunities with our company. Please use this form to capture relevant information about your business and your specific inquiry.

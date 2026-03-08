@@ -1,21 +1,3 @@
-<thinking>
-This form is intended for users to request financial insurance. It's likely used by customers or clients seeking to acquire a loan or insurance policy. To avoid duplication of efforts, make sure to only fill this form once per financial transaction.
-
-This form has multiple pages, which are not displayed here as they are not relevant to the user-facing help guide.
-
-Each field in this form corresponds to specific information required for the financial insurance application.
-
-The user input field is likely used for general contact or identifying information.
-
-The loan amount, interest rate, loan type, financial institution, and credit score fields likely pertain to the loan specifics.
-
-Employment status, income source, employment length, income frequency, and credit history fields are probably related to the user's personal employment and financial situation.
-
-Fields 17-25 seem to be duplicates of 1-16, possibly indicating that they are for additional or backup information.
-
-This guide will focus on fields 1-16.
-</thinking>
-
 # Financial Insurance Application Request Form - Help Guide
 ## Purpose
 

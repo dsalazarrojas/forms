@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information related to wood destroying insect inspections. It is used by pest control professionals to document the type of pest observed, the location and description of the infestation, and the method of control used. This form helps to ensure that all necessary information is collected consistently and accurately across different inspections. By completing this form, users are able to provide a detailed account of the inspection process, which can be useful for future reference and quality control purposes.
-</thinking>
-
 # Wood Destroying Insect Inspection Form - Help Guide
 ## Purpose
 This form is used to document the results of a wood destroying insect inspection. It is intended to collect information on the type of pest observed, the location and description of the infestation, and the method of control used.

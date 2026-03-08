@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to support the Energy Sector Environmental Compliance Audit Form, which aims to evaluate and document an energy sector facility's compliance status regarding environmental regulations and guidelines. The form should ideally be completed by facility staff or designated users who have intimate knowledge of the facility's operations and compliance history.
- 
-The form is intended to be used for routine audits and reviews, ensuring that facilities meet and maintain their environmental compliance standards. It may also be used for special events or investigations that require detailed documentation. To ensure accuracy, it is crucial that the user completes the form thoroughly and correctly.
- 
-The form's fields should be filled out accurately, without duplication or omission of critical information. If a field is not applicable or not known, the user should mark the correct option accordingly.
- 
-The form may be completed by different types of users, including facility staff and designated auditors. It's essential to note that the user's role and position within the facility may impact their ability to access and complete this form correctly.
- 
-The form's output file serves as an audit trail, which may be reviewed by higher management or external auditors for evaluation and decision-making purposes.
- 
-</thinking>
-
 # Energy Sector Environmental Compliance Audit Form - Help Guide
 ## Purpose
 This form is designed to assess and document an energy sector facility's compliance status with environmental regulations and guidelines.

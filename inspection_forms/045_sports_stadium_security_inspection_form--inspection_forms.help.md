@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Sports Stadium Security Inspection Form. This form is used to inspect sports stadiums for security purposes. The form collects various pieces of information such as event date, event name, security team, venue access points, and emergency procedures, among others. To complete this form, users need to provide details about the event date, event name, and other relevant information. Each field is explained below for better understanding.</thinking>
-
 # Sports Stadium Security Inspection Form - Help Guide
 ## Purpose
 The Sports Stadium Security Inspection Form is designed to ensure that sports stadiums are secure and safe for events. This form helps identify potential risks and threats that may be present in the stadium and provides a report of the findings.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Source Code Waiver Request Form - Help Guide
 ## Purpose
 The Source Code Waiver Request Form is designed to allow employees to request waivers for source code use, providing a standardized process for submission and review of such requests. This form helps track and manage the waiver request process, ensuring that necessary information is collected and reviewed efficiently.

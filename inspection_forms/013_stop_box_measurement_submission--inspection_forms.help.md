@@ -1,8 +1,3 @@
-<thinking>
-This form is for inspectors to submit measurements and other relevant information for a specific stop box. The form ensures that the inspector accurately and thoroughly documents the condition of the stop box. This form is typically completed by inspectors who are conducting regular inspections of the stop box and its surroundings.
-Before filling out this form, make sure you have a clear understanding of the stop box's condition and the relevant measurement data. Please note that this form should not be completed if it's a duplicate inspection, or if the stop box condition has not changed since the last inspection.
-</thinking>
-
 # Stop Box Measurement Submission - Help Guide
 ## Purpose
 This form is designed to collect information about the condition of a stop box, its measurement data, and any comments or photos taken during an inspection.

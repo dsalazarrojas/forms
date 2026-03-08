@@ -1,11 +1,3 @@
-<thinking>
-The form "resource_navigation_guide" is designed to collect essential information from users to provide guidance on navigating resources. The purpose of this form is to gather details from users about their program name, contact details, required services, dates, and additional notes. This form helps ensure that users have the necessary information to effectively navigate resources, and the collected data can be used to provide personalized guidance and support.
-
-This form is a critical tool for providing accurate and efficient support, and it's essential to complete it accurately to ensure that the information gathered is correct and up-to-date. Please review the form carefully and ensure you have filled in all the required fields.
-
-To prevent duplication of effort and ensure that the correct information is collected, please only fill out this form once and ensure that all the provided information is accurate.
-</thinking>
-
 # resource_navigation_guide - Help Guide
 ## Purpose
 This form is designed to collect information from users to provide personalized guidance on navigating resources.

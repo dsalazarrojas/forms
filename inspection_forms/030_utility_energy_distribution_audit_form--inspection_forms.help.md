@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about utility energy distribution audits. The purpose of this form is to record details about inspections and follow-up actions related to utility energy distribution. It's likely used by maintenance or operations teams within a facility or organization to standardize and document their inspection processes. This form likely serves as a template for a recurring inspection cycle, ensuring that all necessary information is gathered consistently and effectively.
-
-To ensure relevance and non-duplication of the form, the following fields can be marked as required to ensure that users provide all necessary information. This will help prevent incomplete submissions and reduce the risk of missed critical data points.
-
-</thinking>
-
 # Utility Energy Distribution Audit Form - Help Guide
 ## Purpose
 This form is used to collect and document information about utility energy distribution audits, including company details, inspection dates, and other relevant data.

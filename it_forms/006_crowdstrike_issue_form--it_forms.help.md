@@ -1,5 +1,3 @@
-<thinking>Before generating the form, let's ensure we understand the context and purpose of this AI-generated form. The form is designed to collect customer data for issue resolution, and it's essential to ensure it serves the intended purpose without duplication. Our goal is to provide a user-friendly guide for end-users to fill out the form correctly and efficiently.</thinking>
-
 # Crowdstrike Issue Form - Help Guide
 ## Purpose
 The Crowdstrike Issue Form is designed to collect relevant customer information to help resolve issues related to Crowdstrike services. This form aims to gather essential details to ensure prompt and effective issue resolution.

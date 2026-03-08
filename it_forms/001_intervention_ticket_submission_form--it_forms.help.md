@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about incidents, providing a structured format for reporting and submission of tickets. The purpose of this form is to gather essential details about the incident, including general information, incident details, technical information, and other relevant specifics. It is intended for use in a business or professional setting where timely and accurate incident reporting is crucial. To ensure consistency and accuracy, it is recommended that users fill out the form completely and carefully, ensuring that all required fields are filled in before submitting.
-
-When filling out this form, please note that some fields are not required, but filling them out can provide more context and help in the resolution process.
-
-</thinking>
-
 # Intervention Ticket Submission Form - Help Guide
 ## Purpose
 The Intervention Ticket Submission Form is designed to collect and document incident information in a structured and organized manner. This form is used to ensure that all relevant details about an incident are captured accurately and efficiently.

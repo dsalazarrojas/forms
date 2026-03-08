@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to inspect kitchens for various aspects, including cleanliness, food safety, and facility conditions. The form is meant to gather information on the condition of kitchen facilities, including the presence or absence of certain features such as pest control, food handling, and waste disposal. However, it is unclear if this form is meant for a specific regulatory or internal assessment purpose. To ensure that the form is used correctly, please verify that the purpose and scope of the inspection match your needs.
-</thinking>
-
 # Kitchen Inspection Form - Help Guide
 ## Purpose
 The kitchen inspection form is designed to collect information on the condition of a kitchen facility. The form assesses the cleanliness, safety, and condition of the kitchen.

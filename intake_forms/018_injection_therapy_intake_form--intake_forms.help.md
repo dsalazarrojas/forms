@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Injection Therapy Intake Form - Help Guide
 
 ## Purpose

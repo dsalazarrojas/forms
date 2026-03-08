@@ -1,7 +1,3 @@
-<thinking>
-This form is used for inspecting and documenting the status of equipment in the workplace. The form is used to track the availability and condition of equipment, and to note any maintenance issues or other comments. This form is not intended to be used in high-pressure or critical situations where immediate action is required, but rather for routine inspections and check-ins. To avoid duplication of effort, please ensure that only one form is completed per equipment item.
-</thinking>
-
 # Equipment Inspection Check In Form - Help Guide
 
 ## Purpose

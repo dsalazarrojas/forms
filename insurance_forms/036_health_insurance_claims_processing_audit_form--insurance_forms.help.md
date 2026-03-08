@@ -1,7 +1,3 @@
-<thinking>
-The goal of the "Health Insurance Claims Processing Audit Form" is to collect and track information about insurance claims submitted for processing. This form is used to gather data on the form title, category, description, and other relevant details. The form is designed to be filled out by users who submit insurance claims for processing. The information collected through this form helps in tracking and managing the claims processing workflow.
-</thinking>
-
 # Health Insurance Claims Processing Audit Form - Help Guide
 ## Purpose
 This form is used to collect information about insurance claims submitted for processing. It helps in tracking and managing the claims processing workflow.

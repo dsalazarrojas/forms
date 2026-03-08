@@ -1,7 +1,3 @@
-<thinking>
-**Internal Reasoning:** This form is designed to capture information for equipment inspections, allowing workers to request inspection of their equipment. The form is meant to be used by workers to report any issues or concerns with their equipment, and to provide supporting photos for further investigation. 
-</thinking>
-
 # Worker Equipment Inspection Request Form - Help Guide
 ## Purpose
 The Worker Equipment Inspection Request Form is used to report issues or concerns with equipment used by workers. This form helps ensure that equipment is inspected regularly, reducing downtime and preventing accidents.

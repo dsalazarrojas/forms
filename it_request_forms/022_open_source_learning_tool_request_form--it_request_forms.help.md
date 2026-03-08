@@ -1,9 +1,3 @@
-<thinking>
-We want to ensure that our internal stakeholders and developers have a clear understanding of the purpose and requirements for this form, and avoid duplicating effort in filling it out.
-The main purpose of this form is to provide a structured way to request open-source learning tools, which will be used to support the education of various groups within the organization. To ensure that this form serves its purpose, we need to make sure that it is completed accurately and thoroughly.
-To achieve this, we need to provide clear guidance on how to complete this form, including what each field means and how to fill it out correctly.
-</thinking>
-
 # Open Source Learning Tool Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from stakeholders and developers to support the education of various groups within the organization by requesting open-source learning tools.

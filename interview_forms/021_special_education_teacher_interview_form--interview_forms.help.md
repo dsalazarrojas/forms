@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for capturing information about a Special Education Teacher's background, experience, and qualifications. It is intended for use in the hiring process, particularly for schools or educational institutions seeking to fill special education teaching positions. This form should only be filled out once for each applicant, and should not be duplicated or submitted multiple times. 
-</thinking>
-
 # Special Education Teacher Interview Form - Help Guide
 ## Purpose
 This form is used to gather information about a Special Education Teacher's background, experience, and qualifications for hiring purposes.

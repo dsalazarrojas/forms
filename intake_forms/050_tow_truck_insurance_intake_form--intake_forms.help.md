@@ -1,14 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for the Tow Truck Insurance Intake Form, we need to ensure that the form's purpose and each field's explanation is clear and concise. Here's a suggested internal reasoning block:
-
-*   We need to explain the form's purpose and its intended use.
-*   We should break down each field into a clear and concise explanation.
-*   Each explanation should be concrete and practical, without assuming any business logic not explicitly stated in the YAML.
-*   We will use Markdown structure for the help guide, as specified in the instructions.
-
-</thinking>
-
 # Tow Truck Insurance Intake Form - Help Guide
 ## Purpose
 

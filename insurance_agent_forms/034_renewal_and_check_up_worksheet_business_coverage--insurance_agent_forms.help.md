@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to gather information for renewal and check-up of business coverage. This form will help insurance agents to collect necessary details from policyholders. Please ensure that the form fields align with the actual business use case and that all relevant fields are filled out.
-
-The form is divided into the following fields:
-
-*   Business Coverage: This field is used to describe the type of business coverage required.
-*   Risk Rating: This field is used to rate the level of risk associated with the business coverage.
-*   Coverage Type: This field is used to select the type of business coverage (e.g. Business Auto, Business Liability, Workers Compensation).
-*   Coverage Limit: This field is used to specify the limit of the coverage.
-*   Premium: This field is used to specify the premium amount.
-*   Effective Date: This field is used to specify the effective date of the coverage.
-*   End Date: This field is used to specify the end date of the coverage.
-*   Broker Name: This field is used to specify the name of the broker.
-
-Ensure that all relevant fields are filled out and that the information is accurate and up-to-date.
-
-</thinking>
-
 # Renewal And Check Up Worksheet Business Coverage - Help Guide
 ## Purpose
 This form is designed to collect information for the renewal and check-up of business coverage.

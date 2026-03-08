@@ -1,9 +1,3 @@
-<thinking>
-
-The Pet Insurance Claim Form is a crucial document that needs to be filled out accurately to ensure prompt processing of your insurance claim. To confirm, please fill out this form if you are a pet owner and have a medical condition or injury that you would like to claim under your pet insurance policy. This form is not intended for use with other types of claims or policies. Please review all fields carefully to ensure that you have provided all required information and accurate details about your pet and its medical condition.
-
-</thinking>
-
 # Pet Insurance Claim Form - Help Guide
 ## Purpose
 The Pet Insurance Claim Form is a document used to submit a claim for your pet's medical expenses under your pet insurance policy. To fill out this form accurately and efficiently, please read the following instructions.

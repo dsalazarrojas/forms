@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a vehicle after a rain transport event. The purpose of this form is to verify that the vehicle has been inspected and cleared for operation after exposure to rain. This form is not designed to be used for other purposes, such as general vehicle inspections. The form is not intended to be filled out if the vehicle has not been exposed to rain, nor is it intended for use by non-authorized parties. The form should only be filled out once, as each vehicle inspection is a unique event. This guide will walk you through the process of completing this form.
-</thinking>
-
 # Post Rain Transport Inspection Form - Help Guide
 ## Purpose
 The Post Rain Transport Inspection Form is used to record information about a vehicle that has been inspected after exposure to rain. This form helps ensure that the vehicle has been properly inspected and cleared for transport.

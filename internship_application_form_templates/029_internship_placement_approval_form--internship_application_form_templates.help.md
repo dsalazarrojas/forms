@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Internship Placement Approval Form - Help Guide
 ## Purpose
 This form is used to seek approval from the management for a student's internship placement. To ensure that the form is filled out correctly, please make sure that the internship placement is not already approved or pending approval. If you are filling out this form for a previously approved or pending placement, please do not proceed. 

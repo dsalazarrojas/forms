@@ -1,17 +1,3 @@
-<thinking>
-This form is used to document the resolution of a client's tech support ticket. It allows the tech support team to record the status of the ticket, the client's satisfaction with the support received, and any next steps that were taken. The goal is to ensure that the client's issue is fully resolved and that they are aware of the status of their ticket.
-
-The form is intended to be completed by the tech support team after the ticket has been resolved, and it should only be used for tickets that have been fully resolved.
-
-This form will help to:
-
-*   Document the status of client tickets
-*   Ensure that clients are aware of the status of their tickets
-*   Gather feedback from clients to help improve tech support services
-
-When completing this form, please ensure that all required fields are filled in accurately and thoroughly. If a field is not applicable, please leave it blank.
-</thinking>
-
 # Tech Support Client Discharge Form - Help Guide
 ## Purpose
 

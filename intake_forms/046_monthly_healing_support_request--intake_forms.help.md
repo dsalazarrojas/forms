@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for users to provide their personal details, contact preferences, support preferences, and consent for healing support. It's crucial to fill out all the required fields to ensure that the support team can provide effective and personalized support. Before submitting the form, please review your answers carefully and ensure they accurately reflect your situation.
-</thinking>
-
 # Monthly Healing Support Request - Help Guide
 ## Purpose
 The purpose of this form is to gather user details, contact preferences, support preferences, and consent for monthly healing support.

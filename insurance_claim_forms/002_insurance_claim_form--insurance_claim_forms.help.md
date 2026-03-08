@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to collect information for an insurance claim from a claimant, who is the individual submitting the claim. The form is designed to gather data about the claimant, including their contact information, policy details, and claim details. The form's purpose is to ensure accurate and complete information is collected for the insurance provider to process the claim.
-
-Please ensure this form is used only for genuine claims and not for other purposes to maintain the integrity of the insurance process.
-
-Before starting the form, review the following to ensure the information provided is accurate and up-to-date.
-
-1.  The claimant's name, address, and contact information should match the policyholder's information on the policy.
-2.  The claimant's relationship to the policyholder should be clearly stated.
-3.  The claim details should be accurately described, including any supporting documents.
-
-</thinking>
-
 # insurance_claim_form - Help Guide
 ## Purpose
 This form is intended to collect information for an insurance claim from a claimant, the individual submitting the claim. The form gathers data about the claimant, policy details, and claim specifics for the insurance provider to process the claim.

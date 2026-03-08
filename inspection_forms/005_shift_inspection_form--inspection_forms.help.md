@@ -1,7 +1,3 @@
-<thinking>
-This form is used for inspecting shifts, which is likely a crucial process for ensuring that employees are performing well in their roles. The purpose of this form is to gather information about the employee's performance during their shift, including their attendance, performance, and other relevant details. This form is likely used by managers or supervisors to provide feedback to employees and help them improve their performance.
-</thinking>
-
 # Shift Inspection Form - Help Guide
 ## Purpose
 This form is used to inspect shifts and gather information about an employee's performance during their shift.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a vehicle's maintenance needs. The purpose of this form is to help customers or users report any issues or concerns they have with their vehicle's condition, such as maintenance requests or problems they have encountered while driving. It's intended to be a simple and intuitive form that gathers relevant information from users in an orderly and structured way.
-
-This form has five fields: vehicle details, vehicle status, service request, vehicle condition, and submit. Each field is used to collect specific information related to vehicle maintenance. This form is not designed to be a replacement for any specific maintenance process, but rather a starting point for further evaluation and action.
-
-The following help guide will walk you through each field to ensure you understand what information is needed for each section.
-
-</thinking>
-
 # Vehicle Maintenance Intake Form - Help Guide
 ## Purpose
 The Vehicle Maintenance Intake Form is a tool for customers or users to report any issues or concerns they have with their vehicle's condition, such as maintenance requests or problems they have encountered while driving.

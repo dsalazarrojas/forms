@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate the renewal process of retail technology certifications. The form is intended for individuals who hold retail technology certifications and wish to maintain their credentials. The form's primary objective is to collect necessary information for the renewal review and processing.
-
-To ensure the form is not completed in duplicate, we have built-in checks to prevent the submission of duplicate forms. This is crucial to minimize administrative overhead and prevent unnecessary processing time. It's vital to provide accurate and up-to-date information to speed up the review process.
-
-</thinking>
-
 # Retail Tech Certification Renewal Application Form - Help Guide
 ## Purpose
 The Retail Tech Certification Renewal Application Form is designed to assist in the renewal process for retail technology certifications. This form collects necessary information to facilitate the review and processing of renewal applications.

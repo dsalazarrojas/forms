@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for patients visiting a rehabilitation center. The purpose of this form is to collect information about the patient's arrival, such as their name, date of birth, contact number, arrival time, visit date, if they have a therapist assigned to them, their appointment number, patient ID, and any additional notes. This form is likely used by healthcare professionals to track patient arrivals and assign necessary resources. 
-Please review the fields below to ensure you're completing the form with the correct information. 
-</thinking>
-
 # Rehabilitation Center Patient Arrival Check In Form - Help Guide
 ## Purpose
 The purpose of this form is to collect patient information for rehabilitation center arrivals.

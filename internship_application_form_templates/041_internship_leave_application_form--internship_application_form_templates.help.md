@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for employees to apply for leave during their internship period. The form is used to gather information about the leave request, including the dates of the leave, reason for leave, and other relevant details. This information will be reviewed by supervisors to determine the approval status of the leave request.
-
-The form will help the employee to provide all necessary details about their leave request in one place, making it easier for the supervisor to review and process the request.
-
-</thinking>
-
 # Internship Leave Application Form - Help Guide
 
 ## Purpose

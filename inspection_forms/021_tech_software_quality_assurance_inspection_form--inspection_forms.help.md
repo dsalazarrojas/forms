@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for quality assurance inspections in the software industry, likely for tracking and documenting the progress of releases, builds, and other related processes. The form is meant to be a generic template and may not be specifically affiliated with any particular form platform or business.
-</thinking>
-
 # Tech Software Quality Assurance Inspection Form - Help Guide
 ## Purpose
 This form is designed to help quality assurance teams track and document the progress of software releases and builds, including findings and actions taken.

@@ -1,16 +1,3 @@
-<thinking>
-
-To ensure we're on the same page, let's quickly review the purpose and requirements for this form. This form, the "Auto Insurance Quote Form," is designed to collect necessary information from users to provide personalized insurance quotes. Each field is carefully crafted to collect relevant data that will help us assess the user's insurance needs and provide accurate quotes. The form is divided into several sections, each focusing on a specific aspect of the user's profile and insurance requirements.
-
-Before filling out the form, please make sure to review the following:
-
-* All fields marked as "required" must be filled out.
-* Selecting "Not Sure" or "Other" for state of residence or preferred deductible does not impact the form's functionality.
-* If you have multiple vehicles to insure, select the number of vehicles accordingly.
-* If you are unsure about any field, please contact us for clarification.
-
-</thinking>
-
 # Auto Insurance Quote Form - Help Guide
 ## Purpose
 The Auto Insurance Quote Form is designed to collect information necessary to provide personalized insurance quotes. This form is divided into sections that cover personal information, vehicle details, and insurance preferences.

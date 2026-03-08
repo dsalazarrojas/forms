@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Wastewater Treatment Plant Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about the inspection of a wastewater treatment plant. It gathers data on various aspects of the facility, including inspection dates and times, inspector and facility information, critical and non-critical areas observations, regulatory compliance, and signatures. This form helps to ensure that all necessary details are documented during the inspection process.

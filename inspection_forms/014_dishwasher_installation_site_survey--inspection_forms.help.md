@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, ensure that the form is only accessed by users who have been invited by the administrator to complete the form, typically technicians and site administrators. The purpose of this form is to collect information and feedback from users after they have inspected a site for a potential dishwasher installation. This information will help the administration and technical teams to better understand the site conditions and identify any potential issues that need to be addressed before or during the installation process.
-</thinking>
-
 # Dishwasher Installation Site Survey - Help Guide
 ## Purpose
 The Dishwasher Installation Site Survey form is a tool used to collect information and feedback from users after they have inspected a site for a potential dishwasher installation. This form is intended to be completed by authorized users, such as technicians and site administrators, to provide a comprehensive overview of the site conditions and any issues that need to be addressed.

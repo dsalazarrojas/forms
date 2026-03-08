@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smoke Detector Inspection Form - Help Guide
 ## Purpose
 The Smoke Detector Inspection Form is designed to collect information about the status of smoke detectors in a building. This form helps building inspectors conduct thorough checks on the presence, functionality, and placement of smoke detectors, as well as the status of fire extinguishers and fire alarm panels. The data collected through this form can be used to ensure that the smoke detectors and fire safety systems are functioning properly, identifying any potential issues that need to be addressed.

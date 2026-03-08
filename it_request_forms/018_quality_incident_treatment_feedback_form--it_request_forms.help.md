@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from end users after a quality incident has been treated. Before proceeding, check that you have not already completed this form for the same incident. This ensures that feedback from each incident is recorded correctly and reduces duplicate submissions.
-
-</thinking>
 # Quality Incident Treatment Feedback Form - Help Guide
 
 ## Purpose

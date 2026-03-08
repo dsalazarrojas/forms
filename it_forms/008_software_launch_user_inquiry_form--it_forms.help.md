@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather user feedback and interests regarding our software launch. This form will help us understand the user's level of interest in our software and their thoughts on our product. We are using this form to collect data that will guide our future development and decision-making processes. Please fill out this form carefully, and do not submit duplicate responses. This form is not intended for sales or marketing purposes, but rather for internal use to better understand our users' needs.
-</thinking>
-
 # Software Launch User Inquiry Form - Help Guide
 ## Purpose
 This form is used to gather feedback and interests from users regarding our software launch.

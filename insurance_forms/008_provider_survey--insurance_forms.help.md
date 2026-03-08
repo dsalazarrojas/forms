@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Provider Survey - Help Guide
 
 ## Purpose

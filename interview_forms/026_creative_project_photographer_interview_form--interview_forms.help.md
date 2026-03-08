@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from photographers applying for a creative project. Before filling out this form, ensure you have reviewed the submission guidelines and understand the expectations of the project. If you have already submitted an application, please do not duplicate your effort and contact the project administrators instead.
-</thinking>
-
 # Creative Project Photographer Interview Form - Help Guide
 ## Purpose
 This form is intended to gather essential information from photographers interested in participating in a creative project. It is used to evaluate their suitability for the project and to ensure they have a clear understanding of the project's guidelines and expectations.

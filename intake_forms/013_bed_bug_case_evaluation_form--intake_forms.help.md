@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a bed bug infestation in a property, enabling us to assess and address the issue promptly. This information will be used to evaluate the severity of the infestation, the areas affected, and the preferred schedule for inspection and treatment. This form aims to minimize the likelihood of duplicate submissions by asking about previous treatment history and the date of the last treatment. This form is designed for residential customers, but please note that this form is not designed for commercial properties such as hotels or office buildings, as their pest control procedures and regulations may differ from those of homes.
-</thinking>
-
 # Bed Bug Case Evaluation Form - Help Guide
 ## Purpose
 The Bed Bug Case Evaluation Form is used to gather information about your bed bug infestation so that we can provide accurate and effective solutions to eradicate the issue.

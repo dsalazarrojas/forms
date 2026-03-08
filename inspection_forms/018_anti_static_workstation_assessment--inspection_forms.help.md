@@ -1,8 +1,3 @@
-<thinking>
-This form is used to conduct an anti-static workstation assessment, which is a critical process to ensure that workstations in various departments are properly configured and maintained to prevent electrical discharges that can lead to accidents and injuries. This assessment should be performed regularly to identify any potential issues and take corrective actions to maintain a safe working environment. The purpose of this form is to guide assessors in identifying and evaluating the condition of workstations, which is essential for preventing electrostatic discharges and promoting workplace safety. This form will help ensure that all relevant information is collected and documented in a systematic and organized manner, reducing the likelihood of oversights or missed critical issues.
-
-</thinking>
-
 # Anti-Static Workstation Assessment - Help Guide
 
 ## Purpose

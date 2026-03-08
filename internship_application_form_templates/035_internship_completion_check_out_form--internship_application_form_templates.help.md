@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # internship_completion_check_out_form - Help Guide
 ## Purpose
 This form is designed to track and verify the completion of internships. It captures essential information regarding the submission and completion dates, feedback, and certification status. The form helps in maintaining an accurate record of internship submissions and their current status in the review process.

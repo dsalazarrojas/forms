@@ -1,7 +1,3 @@
-<thinking>
-This form is for greenhouse crop inspection, which involves evaluating the condition of crops in a controlled environment, typically to identify any issues or concerns. The form is designed to gather information about the inspected location, the date and time of inspection, the condition of the crops, and any additional notes or comments. The purpose of this form is likely to ensure that the crop is healthy and thriving, and to identify any areas that require attention or follow-up.
-</thinking>
-
 # Greenhouse Crop Inspection Form - Help Guide
 ## Purpose
 The Greenhouse Crop Inspection Form is used to inspect the crops in a controlled environment, evaluate their condition, and identify any issues or concerns.

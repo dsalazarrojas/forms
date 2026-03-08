@@ -1,8 +1,3 @@
-<thinking>
-The Security Alarm Reconfiguration Request Form is used to request a reconfiguration of existing security alarms. This form is designed for customers to submit their requests for changes to their current security alarm settings. The form should only be submitted by customers who have previously been in contact with the security team and have been authorized to make such requests. Please ensure that you are submitting this form to reconfigure an existing alarm and not for other purposes.
-Before proceeding, please review the following sections carefully to ensure that you have all the necessary information to complete the form correctly.
-</thinking>
-
 # Security Alarm Reconfiguration Request Form - Help Guide
 ## Purpose
 This form is for customers to request reconfiguration of their existing security alarms. Please ensure that you have been in contact with the security team previously and have been authorized to submit this form.

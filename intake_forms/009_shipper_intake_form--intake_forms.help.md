@@ -1,7 +1,3 @@
-<thinking>
-The Shipper Intake Form is designed to collect information about the shipper, which is a vital part of the shipping process. This form ensures that all necessary details are gathered correctly, including pickup and delivery details, shipper type, status, and contact information. It also allows for the assignment of tasks to specific users, which is a key part of the workflow. Each field in this form is designed to provide a structured and efficient way to collect the necessary information.
-</thinking>
-
 # Shipper Intake Form - Help Guide
 ## Purpose
 The Shipper Intake Form is a crucial part of the shipping process, and it's essential to complete it accurately.

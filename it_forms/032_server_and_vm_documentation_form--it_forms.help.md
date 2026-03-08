@@ -1,11 +1,3 @@
-<thinking>
-The form "Server And VM Documentation Form" is used to document the characteristics of servers and virtual machines (VMs) used in a system. This form should only be filled out for each server and VM in your organization. To ensure that you're filling out the form correctly, make sure you have the necessary information about your server or VM before starting.
-
-When filling out this form, ensure that you don't duplicate information. If you're unsure if you've already filled out this form for a specific server or VM, please check with your team or refer to your organization's documentation.
-
-The following fields must be filled out for each page. Please see the field-by-field explanation for specific instructions.
-</thinking>
-
 # Server And VM Documentation Form - Help Guide
 ## Purpose
 This form is used to document the characteristics of servers and virtual machines (VMs) used in a system. This includes information such as operating system, type, and network configuration.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and that the user hasn't already searched for the code previously. This form is for employees of the company to request a company code lookup, which is a crucial process for various business-related tasks such as vendor setup, transactions, and reporting. To avoid duplicate requests, we need to check if the user has searched for the code before and if so, we should verify the reason why they're making a new request. This form requires accurate and complete information to ensure that the code is correctly assigned and used in the company's system.
-</thinking>
-
 # Company Code Lookup Request - Help Guide
 
 ## Purpose

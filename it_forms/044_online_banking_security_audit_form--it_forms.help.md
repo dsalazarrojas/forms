@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to be filled out by banking security professionals to assess the security controls and practices of an organization's online banking system. The purpose of this form is to identify areas that need improvement and provide feedback to the organization on their security posture.
-
-The form is split into several sections, each covering a specific aspect of security controls and practices. The sections include:
-
-- Security Controls: This section assesses the organization's current security controls and practices in place.
-- Training Practices: This section evaluates the training programs and policies related to security and incident response.
-- Incident Readiness: This section assesses the organization's incident response plan and their readiness to respond to security incidents.
-- Incident Reporting: This section evaluates the process for reporting and handling security incidents.
-- Follow-up Actions: This section reviews the actions taken by the organization to follow up on security incidents.
-- Security Controls Rating: This section allows the user to assign a score to the organization's security controls.
-- Comments: This section provides space for users to add comments on the security controls.
-
-Before filling out the form, please review the following:
-
-- Each section has a "Security Controls X" field that assesses the specific security control. These fields are not required.
-- The "Rating" fields are optional and allow users to provide a numerical score for each section.
-- The "Comments" fields are optional and allow users to provide additional comments on each section.
-- The form is designed to be completed by a single user, but multiple users can review and edit the form as needed.
-
-</thinking>
-
 # Online Banking Security Audit Form - Help Guide
 ## Purpose
 The online banking security audit form is a tool for security professionals to assess the security controls and practices of an organization's online banking system.

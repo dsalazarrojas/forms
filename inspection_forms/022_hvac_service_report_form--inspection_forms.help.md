@@ -1,18 +1,3 @@
-<thinking>
-This form is used to report on the service performed on heating, ventilation, and air conditioning (HVAC) systems. The purpose of this form is to gather information from customers about their HVAC systems to ensure that the service was completed accurately and efficiently. Before filling out this form, please ensure that you have the following information available:
-- The customer's first and last name
-- The customer's company (if applicable)
-- The customer's address
-- The customer's phone number
-- The customer's email
-- The type of HVAC system serviced (heating, cooling, both, or none)
-- The age of the system
-
-Please note that some fields are not required, but it's recommended to provide as much information as possible to ensure accurate reporting. It's also important to ensure that the system type selected is one of the options provided.
-
-Before submitting this form, please double-check that all required fields are filled out and that the system type selected is accurate.
-</thinking>
-
 # HVAC Service Report Form - Help Guide
 ## Purpose
 The HVAC Service Report Form is used to report on the service performed on heating, ventilation, and air conditioning (HVAC) systems. It gathers information from customers about their HVAC systems to ensure accurate and efficient completion of services.

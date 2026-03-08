@@ -1,10 +1,3 @@
-<thinking>
-The goal of this form is to collect information about a specific tool inspection, which is a crucial process for monitoring and maintaining the quality and reliability of equipment, tools, and other assets within an organization. The tool_inspection_form is designed to be used for recording details about a tool's condition, its assigned status, and any additional relevant information such as its description, condition, and notes.
-
-This form should be used to record inspections on a per-tool basis, making it easy to track and compare the results of different tools. By filling out this form, users can ensure that the tool is properly recorded in the system, making it easier to identify areas for improvement and optimize maintenance schedules.
-
-The form should be used for each tool inspection, and not for other purposes. If the form is intended for another use, please use a different form.</thinking>
-
 # tool_inspection_form - Help Guide
 ## Purpose
 The tool_inspection_form is designed to collect information about a tool's condition, description, assigned status, and additional details after inspection.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Closing Manager Review - Help Guide
 ## Purpose
 The Restaurant Closing Manager Review form is used to gather information about a restaurant's closing process, including the category of the review, a brief description, and the assigned tool used during the review. This form is designed to provide insight into the restaurant's closing operations and help the management team assess their performance.

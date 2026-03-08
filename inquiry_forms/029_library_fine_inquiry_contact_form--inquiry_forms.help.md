@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to inquire about library fines. The purpose of this form is to allow users to report or inquire about library fines that they or someone they know may be liable for. The form is typically used by library staff or administrators to gather information about library users who have outstanding fines or overdue items. This form is not intended to be a payment instrument, but rather a means to gather additional information.
-
-</thinking>
-
 # library_fine_inquiry_contact_form - Help Guide
 ## Purpose
 The purpose of this form is to inquire about library fines or overdue items.

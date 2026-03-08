@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for recording the details of onsite service provided by a company's engineers to its clinics. It is likely used for tracking and documenting the services provided, including the engineer, clinic, and any other relevant details. This form is not meant to be used for any other purpose, and it is essential to fill it out accurately and consistently for effective tracking and analysis.
-
-</thinking>
-
 # onsite_service_log_form - Help Guide
 ## Purpose
 This form is designed to record the details of onsite service provided by a company's engineers to its clinics. It helps in tracking and analyzing the services provided.

@@ -1,7 +1,3 @@
-<thinking> 
-  The "Filter Inspection Report" form is used to filter inspection reports based on specific conditions. This form collects information that helps inspectors categorize inspection reports, making it easier to locate relevant data.
-</thinking>
-
 # Filter Inspection Report - Help Guide
 ## Purpose
 The "Filter Inspection Report" form is designed to assist inspectors in quickly searching for specific inspection reports based on their desired criteria. This guide will walk you through each section of the form to help you complete it successfully.

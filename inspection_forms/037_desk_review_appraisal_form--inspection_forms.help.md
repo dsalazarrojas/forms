@@ -1,12 +1,3 @@
-<thinking>
-As a form expert and technical writer, I'll help create a comprehensive help guide for the "Desk Review Appraisal Form" to ensure end-users understand its purpose, how to complete it, and what each field means.
-
-The "Desk Review Appraisal Form" is a crucial tool for real estate professionals to gather essential information about a property. This form is used to collect data about the property's general information, contact details, property specifics, and appraisal details. The form is designed to be completed by a contact person, and its data will be reviewed and submitted for further analysis.
-
-This guide will walk you through each field of the form, providing explanations and tips to ensure a smooth and accurate completion process.
-
-</thinking>
-
 # Desk Review Appraisal Form - Help Guide
 ## Purpose
 

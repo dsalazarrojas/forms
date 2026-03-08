@@ -1,11 +1,3 @@
-<thinking>
-
-The form is likely designed for users to provide information and register for a training session on facility IoT integration, where users can specify their details, preferred training session, and contact information. This form may be used by internal users or external partners to sign up for the training, and it's likely that the form will be used to keep track of who has attended the training sessions.
-
-To ensure that users do not register for multiple sessions or duplicate their information, a check should be implemented to verify that the user's information has not been previously submitted.
-
-</thinking>
-
 # Facility IoT Integration Training Registration - Help Guide
 ## Purpose
 This form is designed for users to register for a training session on facility IoT integration.

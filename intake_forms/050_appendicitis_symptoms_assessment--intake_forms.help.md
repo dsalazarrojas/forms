@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide will be used to ensure end-users understand the form's purpose and how to complete it accurately. This form is an Appendicitis Symptoms Assessment used to collect information for triage and potential diagnosis. To confirm relevance and non-duplication, we should consider the following:
-
-*   This form is designed for patients or clinicians to assess the severity of symptoms associated with appendicitis.
-*   The form collects information on symptom onset date, pain location, pain severity, associated symptoms, and recent abdominal trauma or surgery.
-*   The form is not designed to provide a definitive diagnosis but rather to help clinicians make informed decisions about patient care.
-
-</thinking>
-
 # Appendicitis Symptoms Assessment - Help Guide
 ## Purpose
 The Appendicitis Symptoms Assessment form is used to collect and assess symptoms associated with appendicitis, a medical condition that requires prompt attention. This form is designed for patients or clinicians to input information that will help healthcare professionals make informed decisions about patient care.

@@ -28,8 +28,4 @@ To complete this form, follow these steps:
 * **Special Instructions or Behavioral Notes**: Enter any special requirements or instructions about your pet.
 * **Vaccinations Up to Date?**: Confirm if your pet's vaccinations are up to date. Please note that this is required for boarding and grooming services.
 
-**<thinking>**
-
-This form is designed to help us understand your pet's needs and schedule your service appointments efficiently. We will use this information to provide you with the next available appointment slots based on your preferences. Please make sure to fill out all required fields to ensure a smooth and accurate processing of your inquiry.
-
-</thinking>
+**

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather data on the environmental impact and condition of national parks during inspections. This form is used to record observations and notes from inspectors about the park's environmental condition, habitat, and wildlife. The form will help park rangers and conservationists to assess the park's status and make informed decisions for its conservation and management... </thinking>
-
 # national_park_environmental_impact_inspection_form - Help Guide
 ## Purpose
 The national park environmental impact inspection form is used to record data on the environmental condition of national parks during inspections. It helps park rangers and conservationists to assess the park's status and make informed decisions for its conservation and management.

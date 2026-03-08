@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather data for field inspections, which involves evaluating the condition of fields in the field inspection area. It may be used to record observed damage, assess the type and status of the field, and determine whether the field is active or inactive. This guide will walk you through the form's purpose and how to fill out each field. Ensure that you have all required fields completed before submitting the form, as missing or empty fields may cause issues with processing.</thinking>
-
 # Field Inspection Form - Help Guide
 ## Purpose
 The Field Inspection Form is a tool to record and document the inspection of fields in the field inspection area.

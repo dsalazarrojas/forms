@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a service inspection, including the service inspection date and time, service provider's name, and any additional notes or comments. This form may not always be required to be filled out, but its purpose is to gather feedback and insights about the services provided. It's meant for use by internal stakeholders, so ensure that users are familiar with their company's internal systems and protocols before using this form.
-</thinking>
-
 # Service Inspection Form - Help Guide
 ## Purpose
 The Service Inspection Form is used to record and document service inspection information. This form captures details about the service inspection date, service provider, and inspection condition, as well as customer satisfaction and any comments or notes.

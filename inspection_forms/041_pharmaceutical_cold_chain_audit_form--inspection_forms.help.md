@@ -1,7 +1,3 @@
-<thinking>
-The Pharmaceutical Cold Chain Audit Form is a critical document used to monitor and record the storage conditions of pharmaceutical products. This form ensures that the storage conditions meet the required standards for safe and effective storage. It is essential to fill out this form accurately to prevent contamination, degradation, or damage to the products. This form should only be completed for specific storage conditions and not for every single storage event.
-</thinking>
-
 # Pharmaceutical Cold Chain Audit Form - Help Guide
 ## Purpose
 The Pharmaceutical Cold Chain Audit Form is used to record and verify the storage conditions of pharmaceutical products. It ensures that the storage conditions meet the required standards for safe and effective storage.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to a technology data protection referral. This form helps to gather relevant details about the incident, such as the team responsible for handling it, the priority level, types of data involved, classification of data, and the resolution status. It's essential to complete this form accurately to ensure that the IT team can efficiently handle and resolve the issue.
-</thinking>
-
 # tech_data_protection_referral_form - Help Guide
 ## Purpose
 The tech_data_protection_referral_form is used to report and manage a technology data protection referral.

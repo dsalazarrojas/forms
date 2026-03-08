@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Insurance Evaluation Survey - Help Guide
 
 ## Purpose

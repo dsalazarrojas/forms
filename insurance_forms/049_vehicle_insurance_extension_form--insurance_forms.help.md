@@ -1,15 +1,3 @@
-<thinking>
-We need to consider the purpose and context of this form. The form is for vehicle insurance extension, which implies it's an add-on or renewal process for existing vehicle insurance policies. The goal is to collect information to update or modify the insurance coverage for a vehicle. 
-
-The form seems to be focused on capturing various details about the vehicle, its insurance, and its owner/agent. Some fields like "insurance-start-date" and "insurance-end-date" are used for specifying the start and end dates of the vehicle's insurance coverage. "driver-name", "driver-phone", and "driver-email" are likely for the vehicle's owner or policyholder's information.
-
-There are some fields that appear to be specific to the vehicle, like "vehicle-make", "vehicle-model", "vehicle-year", "vehicle-plate", "vehicle-plate-state", and "vehicle-plate-country". These could be about specifying details about the vehicle. 
-
-Some fields are about the insurance itself, like "insurance_type", "insurance_start_date", "insurance_end_date", and "insurance_agent_name". Others are about the contact information of the agent handling the insurance, "insurance_agent_phone" and "insurance_agent_email". 
-
-This form is likely used for both policyholders and agents to interact with the vehicle insurance system.
-</thinking>
-
 # vehicle-insurance-extension-form - Help Guide
 ## Purpose
 This form is used to extend or modify an existing vehicle insurance policy. It is designed to capture the necessary information to update or add to the current coverage.

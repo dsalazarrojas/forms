@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide their consent for smart lighting calibration on their premises. It's likely used for utility management or building maintenance purposes. This form likely aims to gather basic contact information and authorization details from the user, as well as confirmation of approval or declination for the smart lighting adjustment. It is essential to ensure that the user understands the purpose of the form and its requirements before proceeding. To confirm, the form is not meant for general customer inquiries, but rather for specific use cases like utility management or property maintenance. Please make sure to complete this form accurately and thoroughly.
-</thinking>
-
 # Smart Lighting Calibration Consent Form - Help Guide
 ## Purpose
 The Smart Lighting Calibration Consent Form is a document that requires users to provide their consent for smart lighting adjustments on their premises. It is used to gather essential information and authorization details for utility management or building maintenance purposes.

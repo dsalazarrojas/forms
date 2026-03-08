@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tech_prototype_design_upload_form - Help Guide
 ## Purpose
 This form is designed to allow users to upload and manage tech prototypes. The form is intended for internal use only and is not publicly accessible. Please ensure that you have the necessary permissions to access and submit this form.

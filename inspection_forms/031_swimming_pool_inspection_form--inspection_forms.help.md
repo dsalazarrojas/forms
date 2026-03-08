@@ -1,7 +1,3 @@
-<thinking>
-This is a form for collecting information about swimming pools. Its purpose is to inspect and document the current state and condition of a pool and its surroundings. This form is designed to be used by professionals in the swimming pool industry or local government agencies that need to ensure public pools meet safety and maintenance standards. The information collected in this form will be used for inspection, monitoring, and reporting purposes. This form was created to streamline the process of collecting pool information, reducing errors and making it easier to manage pool data.
-
-</thinking>
 # Swimming Pool Inspection Form - Help Guide
 
 ## Purpose

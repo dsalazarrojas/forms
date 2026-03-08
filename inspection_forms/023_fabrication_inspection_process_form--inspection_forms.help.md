@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fabrication_inspection_process_form - Help Guide
 ## Purpose
 The "fabrication_inspection_process_form" is a form used to document the inspection process of a fabrication process in manufacturing. This form is designed to collect information on defects found during the inspection, the status of the inspection, and other relevant details.

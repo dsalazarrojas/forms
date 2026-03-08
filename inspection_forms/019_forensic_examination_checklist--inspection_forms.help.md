@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Forensic Examination Checklist - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data related to the monitoring and inspection of aquaculture environments using remotely operated vehicles (ROVs). The purpose of this form is to gather information on the mission details, environmental conditions, and observations made during the monitoring process. This data collection will help aquaculture professionals to evaluate the effectiveness of their operations, identify potential issues, and take necessary actions to improve the health of the aquaculture environment. It is crucial to ensure that the data collected is accurate, complete, and consistent to make informed decisions.
-</thinking>
-
 # Aquaculture ROV Monitoring Data Collection - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients who have been diagnosed with Long COVID, a condition caused by a prolonged period of COVID-19 infection. The form aims to gather data on the patient's symptoms, contact information, medical history, and other relevant details. It is essential to fill out this form accurately and completely to help healthcare professionals provide the best possible care for the patient. Please note that this form is only for patients who have been diagnosed with Long COVID; if you are not sure if you have Long COVID, do not fill out this form. If you have previously filled out this form, please do not submit this form again. 
-</thinking>
-
 # Long COVID Patient Intake Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from patients who have been diagnosed with Long COVID. The goal is to gather accurate and complete data on the patient's symptoms, medical history, and other relevant details to help healthcare professionals provide the best possible care.

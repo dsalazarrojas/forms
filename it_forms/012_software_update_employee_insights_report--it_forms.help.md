@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from employees on the performance of software updates, specifically to understand their experiences and identify areas for improvement. This form is intended for end-users who have interacted with the software during or after an update. The form should only be filled out by employees who have actually used the software during or after an update, and not by anyone who has not. 
-
-This form is meant to gather insights on the employee's experience with the software update, and should not be used for other purposes. If you are unsure whether you should fill out this form, please ask your supervisor or IT department.
-</thinking>
-
 # Software Update Employee Insights Report - Help Guide
 ## Purpose
 The Software Update Employee Insights Report is a form designed to gather feedback from employees on the performance of software updates. This feedback is used to identify areas for improvement and make data-driven decisions about future updates.

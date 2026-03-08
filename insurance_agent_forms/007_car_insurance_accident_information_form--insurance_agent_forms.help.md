@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to collect information about a car insurance accident, which is a crucial process for insurance agents to gather accurate and detailed descriptions of the incident. The form will help agents efficiently collect data, making it easier to process claims and provide the best support to clients. This form is designed to cover most common aspects of an accident, including the policy number, accident details, vehicle information, and any other relevant data. Ensure you have all the necessary information before filling out this form, as some fields are mandatory for processing.
 
 # Car Insurance Accident Information Form - Help Guide

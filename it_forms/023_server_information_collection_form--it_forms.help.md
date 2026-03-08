@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to collect information about servers, which can be physical, virtual, or cloud-based. The form has multiple pages with various fields to capture different aspects of the server's details. The form does not require any specific order for the fields, allowing users to complete it in a flexible manner. This form aims to gather comprehensive information about the servers, including their status, location, and technical specifications.
-</thinking>
-
 # Server Information Collection Form - Help Guide
 ## Purpose
 The Server Information Collection Form is used to gather comprehensive information about servers, including their status, location, and technical specifications.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for submitting a feature request for a product or feature in the "it_request_forms" category. 
-It is designed to gather information from the user about the feature they are requesting, such as the company, product, and priority of the request.
-To submit a feature request, the user will need to fill out the form with the required information, which includes the title of the feature, the company, the description of the feature, and the date submitted.
-The form will then be reviewed and processed internally, and the user will receive a response about the status of their request.
-</thinking>
-
 # feature_request_form - Help Guide
 ## Purpose
 The feature request form is designed for submitting feature requests for products or features.

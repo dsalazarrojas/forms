@@ -1,7 +1,3 @@
-<thinking>
-This is a form for documenting a pest inspection, which is a crucial process in pest management. The form is likely used by pest control technicians or inspectors to record information about the date and type of treatment performed, the customer's details, and any notes taken during the inspection. The form may be used by pest control companies, property managers, or facilities maintenance teams to record and manage pest control activities. This form is a generic adaptation and not specifically designed for a particular company or industry. It should be reviewed for relevance and completeness before use, to ensure it meets the specific needs of the user.
-</thinking>
-
 # Pest Inspection Form - Help Guide
 ## Purpose
 This form is designed to aid in the documentation of pest inspection activities, such as recording treatment dates, customer information, and treatment details.

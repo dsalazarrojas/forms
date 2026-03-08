@@ -1,7 +1,3 @@
-<thinking>
-This form is used to conduct regular power line inspections to ensure the safety and reliability of power lines in the electrical grid. The purpose of this form is to gather relevant information about the inspection date, location, type of inspection, and any hazards or compliance issues found during the inspection. This form should be completed by authorized personnel only. Please ensure you have the necessary permissions and authority to complete this form.
-</thinking>
-
 # Power Line Safety Inspection Form - Help Guide
 ## Purpose
 The Power Line Safety Inspection Form is used to conduct regular power line inspections to ensure the safety and reliability of power lines in the electrical grid. This form gathers information about the inspection date, location, type of inspection, and any hazards or compliance issues found during the inspection.

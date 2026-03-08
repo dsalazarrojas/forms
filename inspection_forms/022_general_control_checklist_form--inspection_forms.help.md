@@ -1,5 +1,3 @@
-<thinking>This form is a General Control Checklist Form, designed for inspecting general control systems in different departments. Its purpose is to gather information on the status of general control systems and ensure that they are functioning correctly. This form helps in the following areas: tracking progress, identifying issues, and maintaining records of control system inspections.</thinking>
-
 # General Control Checklist Form - Help Guide
 ## Purpose
 The General Control Checklist Form is used to inspect general control systems, track progress, and maintain records of control system inspections.

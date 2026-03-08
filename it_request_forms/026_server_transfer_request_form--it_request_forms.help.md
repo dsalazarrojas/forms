@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to request a server transfer between different locations. The purpose of this form is to gather the necessary details about the source server and the desired new location for the transfer. This form will likely be used by IT personnel or system administrators to facilitate the process of server transfer. Please ensure to only fill out this form if the transfer request is legitimate and not a duplicate request. 
-</thinking>
-
 # Server Transfer Request Form - Help Guide
 ## Purpose
 The Server Transfer Request Form is used to request a server transfer from one location to another.

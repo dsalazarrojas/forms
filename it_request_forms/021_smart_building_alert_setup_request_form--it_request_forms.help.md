@@ -1,11 +1,3 @@
-<thinking>
-
-To prevent duplication and ensure accuracy, please review this help guide carefully before filling out the Smart Building Alert Setup Request Form. This form is intended to be used for setting up smart building alerts, which can be customized to fit your specific needs. 
-
-This guide will walk you through each field of the form to ensure you fill it out correctly and make the most of this form.
-
-</thinking>
-
 # Smart Building Alert Setup Request Form - Help Guide
 
 ## Purpose

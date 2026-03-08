@@ -1,7 +1,3 @@
-<thinking>
-We need to verify that this form is not being used for internal testing or as a duplicate submission. It's also essential to ensure the form is not used in a way that might compromise user data confidentiality.
-</thinking>
-
 # Videoconferencing Product Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from customers about their videoconferencing experience and preferences. Your responses will help us improve our product and services.

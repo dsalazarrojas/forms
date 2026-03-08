@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information from attendees for an eligibility meeting. It's crucial that the information is accurate and complete to ensure a smooth meeting experience. Please ensure you're submitting this form for the correct reason and not duplicating an existing submission. If you're unsure, double-check the form fields to avoid unnecessary delays.
-</thinking>
-
 # Eligibility Meeting Sign In - Help Guide
 ## Purpose
 This form is used to collect information from attendees for an eligibility meeting.

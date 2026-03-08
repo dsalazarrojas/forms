@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for employees to request remote work access, which is a system of allowing them to work from outside the office. The purpose of this form is to ensure that all remote work requests are properly documented and approved. Please note that this form is intended for employees who are looking to work remotely and do not need to be submitted if the request is already approved or if the employee has already been granted remote access. 
-</thinking>
-
 # Remote Work Access Request Form - Help Guide
 ## Purpose
 The Remote Work Access Request Form is a system used by employees to request access to work remotely. This form helps ensure that all remote work requests are properly documented and approved.

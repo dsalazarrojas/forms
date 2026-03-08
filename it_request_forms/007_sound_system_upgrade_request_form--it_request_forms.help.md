@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to help users request an upgrade of the sound system, a key tool for their daily work. To determine if this form is relevant to the user, please consider the following:
-- Are you experiencing issues with your current audio equipment?
-- Are you looking to replace or improve your sound system?
-
-If the answer to either is yes, this form is likely relevant. Please review the form carefully to ensure you are not duplicating a previous request.
-
-</thinking>
-
 # Sound System Upgrade Request Form - Help Guide
 ## Purpose
 The Sound System Upgrade Request Form is used to submit a request to upgrade or replace your sound system.

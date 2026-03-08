@@ -1,7 +1,3 @@
-<thinking>
-To create an internal access request form, the user would first need to review the purpose of this form. This form is intended for requesting access to the Payroll Portal. The request is only valid if it's submitted by an employee who belongs to one of the listed departments. The form must be submitted only once by the same user, otherwise, it will be considered as a duplicate. The form is designed to capture essential information that includes user's current department, job function, manager's name, reason for access, employee ID, employee's name, email, and contact phone number. The form will only allow one user to be in the list of access requests per department. To complete the form successfully, you should select the correct department from the list, choose your current job function, fill in the details of your manager, state the reason for your access, type in your employee ID, enter your employee name, enter your email address, and lastly, type in your contact phone number.
-</thinking>
-
 # Payroll Portal Access Request Form - Help Guide
 ## Purpose
 This form is designed for employees to request access to the Payroll Portal. Please note that access is restricted to one employee per department.

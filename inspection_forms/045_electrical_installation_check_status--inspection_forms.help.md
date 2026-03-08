@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the status of electrical installations during an inspection. The form is likely used by electricians, inspectors, or facilities managers to document their findings and report the condition of electrical systems, connections, and components. The form may be used for routine inspections, maintenance, or safety checks. The purpose of this form is to ensure that electrical installations are safe and functioning correctly. This form is designed to be completed by someone with knowledge of electrical installations and safety protocols.
-</thinking>
-
 # Electrical Installation Check Status - Help Guide
 ## Purpose
 This form is used to document the status of electrical installations during an inspection. It helps to ensure that electrical systems, connections, and components are safe and functioning correctly.

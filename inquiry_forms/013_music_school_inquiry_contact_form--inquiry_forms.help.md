@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Music School Inquiry Contact Form" efficiently and effectively. 
-The form is designed to gather information from users who wish to inquire about music-related services or products offered by the music school. It is not necessary to fill out the form if the user has already inquired or registered for services at the school. Please ensure that you provide accurate and relevant information to help the school's staff better address your needs.
-</thinking>
-
 # Music School Inquiry Contact Form - Help Guide
 ## Purpose
 This form is for users who wish to inquire about music-related services or products offered by the music school.

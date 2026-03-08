@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to document the work method statement for a task or project, which is a critical process in maintaining a safe and healthy work environment. A work method statement is a written description of the sequence of steps to be followed during a task or project to identify and mitigate potential hazards. This form ensures that contractors and workers provide accurate and clear information about the work method, hazards identified, controls implemented, and the role of supervisors and reviewers in ensuring that the work is done safely.
-
-Before filling out this form, please review the task or project details and the site-specific safety procedures to ensure this form is relevant and not duplicating information already available.
-
-</thinking>
-
 # Work Method Statement Form - Help Guide
 ## Purpose
 The Work Method Statement Form is a document used to record the detailed description of the work method to be followed during a task or project, including hazards identified and controls implemented to mitigate them, as well as the roles and responsibilities of supervisors and reviewers.

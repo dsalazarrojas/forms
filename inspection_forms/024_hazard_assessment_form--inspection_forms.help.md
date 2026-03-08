@@ -1,11 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and usage of the Hazard Assessment Form, which is used to assess and record hazards found in a workplace or facility. This form is a critical tool for identifying potential risks and taking corrective actions to prevent accidents and ensure a safe work environment.
-
-Before starting to fill out this form, please ensure that you have read and understand the instructions carefully. This form is intended to guide you through a series of questions that will help you identify and assess hazards in your workplace. You will be asked about the presence of hazards, their locations, types, frequencies, and severities, as well as the control measures in place and any actions taken to mitigate them. You will also be asked to provide information about the employee involved, including their name, position, and contact information.
-
-Please note that some fields are required, and you will not be able to submit the form until all required fields are completed. If you are unsure about a particular field or question, please refer to the instructions below or ask for assistance from your supervisor or safety officer.
-</thinking>
-
 # Hazard Assessment Form - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are applying for Research and Development positions. Before proceeding, please ensure that this is the correct form for your job application. If you're unsure, contact your HR representative or the hiring manager to confirm the correct application process.
-
-This form is used to gather information about your background, qualifications, and experience for a Research and Development role. Please fill out the form accurately and thoroughly to increase your chances of being considered for the position.
-
-Note that some fields are optional, but they are included for your convenience and to provide additional information for the hiring team. Please only fill out fields that you are comfortable sharing.
-
-Before proceeding, ensure that you have all necessary documents and information ready, such as your resume, contact information, and employment history.
-
-After submitting the form, you will receive a confirmation email with the job application status.
-</thinking>
-
 # Research And Development Job Application - Help Guide
 ## Purpose
 The Research and Development Job Application form is used to gather information about your background, qualifications, and experience for a Research and Development role. This form is intended for end-users who are applying for Research and Development positions.

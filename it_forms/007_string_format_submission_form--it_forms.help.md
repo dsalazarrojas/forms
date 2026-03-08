@@ -1,5 +1,3 @@
-<thinking>...this form is used to collect information about a submission, including its specification, example, documentation, technical requirements, format details, submitter's contact information, and submission confirmation. The form is designed to ensure that all submissions meet certain standards and requirements. It's likely intended for use within an organization or institution that receives submissions, such as a government agency or a research institution. The form is likely used to verify and validate the submission information to ensure accuracy and completeness... </thinking>
-
 # String Format Submission Form - Help Guide
 ## Purpose
 This form is used to collect detailed information about a submission, including its specification, example, and documentation. It is designed to ensure that all submissions meet certain standards and requirements.

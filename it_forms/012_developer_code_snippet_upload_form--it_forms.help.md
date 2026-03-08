@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from developers to upload code snippets for future reference and reuse in the organization. The form will not be duplicated if the user has already uploaded a code snippet with the same email address and category. It is recommended to check if a similar code snippet exists before submitting a new one.
-</thinking>
-
 # Developer Code Snippet Upload Form - Help Guide
 
 ## Purpose

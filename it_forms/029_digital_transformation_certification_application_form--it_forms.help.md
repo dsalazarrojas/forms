@@ -1,12 +1,3 @@
-<thinking> 
-This form is intended to collect information from candidates applying for digital transformation certification. The goal is to gather details about the candidate, their motivation, training provider, experience, certification date, and other contact information. The form is designed to be completed by candidates who have completed a digital transformation training and are seeking certification. 
-
-The form will be reviewed and assessed by the certification committee to ensure the candidate meets the required criteria for certification. The candidate must complete all fields in the form to ensure a complete and accurate application. 
-
-Please note that this form is for informational purposes only and is not a substitute for the actual certification process. 
-
-</thinking>
-
 # digital_transformation_certification_application_form - Help Guide
 ## Purpose
 The digital transformation certification application form is used to collect information from candidates applying for digital transformation certification.

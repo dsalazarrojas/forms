@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from healthcare professionals for the discharge planning process of elderly patients in rehabilitation. It is meant to be used for assessing and planning care for patients who are near the end of their hospital stay. The form should only be used for patients in the elderly rehabilitation category and not for other purposes.
-</thinking>
-
 # Elder-Rehabilitation Discharge Form - Help Guide
 ## Purpose
 This form is used to gather essential information for the discharge planning process of elderly patients in rehabilitation. It helps healthcare professionals assess the patient's condition, develop a comprehensive care plan, and ensure a smooth transition to home or other care settings.

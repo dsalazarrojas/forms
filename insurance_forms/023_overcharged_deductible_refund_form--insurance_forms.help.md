@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # overcharged_deductible_refund_form - Help Guide
 
 ## Purpose

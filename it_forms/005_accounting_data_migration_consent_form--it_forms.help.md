@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accounting Data Migration Consent Form - Help Guide
 ## Purpose
 This form is used to gather essential information for the accounting data migration process. It is intended to capture the details required for a successful migration, including client consent, contact information, and system details. The form is crucial for the project team to understand the client's needs and preferences for the migration process.

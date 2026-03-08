@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for CRM (Customer Relationship Management) setup and configuration for a company or team. The purpose of this form is to gather information about the organization, its IT contact, contact information, preferred features, data migration requirements, and other relevant details for setting up and configuring a CRM system. This form is not meant for general user registration or account creation, and it's assumed that users are already familiar with the basics of CRM systems.
-</thinking>
-
 # CRM Setup Guide - Help Guide
 ## Purpose
 The CRM Setup Guide is a form designed to collect essential information from organizations and teams setting up a CRM system. This guide will walk you through each field to ensure you complete the form accurately and efficiently.

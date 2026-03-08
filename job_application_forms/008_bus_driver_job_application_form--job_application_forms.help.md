@@ -1,5 +1,3 @@
-<thinking>Before creating a detailed guide, I need to understand the purpose of the form. It appears that this form is used for job applicants to apply for a bus driver position, providing necessary contact information, driver's license details, experience, and employment history. I will review each section and explain each field in detail.</thinking>
-
 # Bus Driver Job Application Form - Help Guide
 ## Purpose
 This form is designed for individuals interested in applying for a bus driver position. It collects the necessary information to verify the candidate's qualifications, licensing, and background.

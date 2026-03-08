@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Inventory Information Record Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect demographic information and availability data from potential interns for a summer internship program for future CEOs. This form is meant to be used by individuals interested in the program to provide their details and availability. The form will be reviewed and considered for the program by the program managers. Please ensure that you have read the instructions and requirements carefully before filling out the form.
-</thinking>
-
 # Summer Internship Application Form CEOs Of Tomorrow - Help Guide
 
 ## Purpose

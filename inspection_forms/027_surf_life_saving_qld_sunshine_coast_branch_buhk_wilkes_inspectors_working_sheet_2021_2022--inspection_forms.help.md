@@ -1,7 +1,3 @@
-<thinking>
-The form "Surf Life Saving Qld – Sunshine Coast Branch Buhk Wilkes Inspectors Working Sheet 2021 2022" is likely used by surf lifesavers to record details of their patrols, including inspection of beaches, equipment, and other relevant observations. The form is probably used for internal record-keeping and reporting purposes. It is possible that this form is used as a template for other branches or teams within the Surf Life Saving Qld organization. The form's structure and fields are likely based on the specific needs and regulations of the surf lifesaving service on the Sunshine Coast.
-</thinking>
-
 # Surf Life Saving Qld – Sunshine Coast Branch Buhk Wilkes Inspectors Working Sheet 2021 2022 - Help Guide
 
 ## Purpose

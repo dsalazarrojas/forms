@@ -1,5 +1,3 @@
-<thinking>This form is intended to gather information from customers who are interested in a handicraft product. It seems to be a form for inquiring about a specific product, and it includes fields for product details such as name, description, price, and customer contact information. The form also includes fields for customer preferences, including how they found out about the product, whether they want to be contacted, and their budget. It appears to be a straightforward inquiry form, but I'll provide guidance on how to complete it correctly.</thinking>
-
 # Handicraft Product Inquiry Form - Help Guide
 
 ## Purpose

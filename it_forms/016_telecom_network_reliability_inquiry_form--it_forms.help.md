@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about telecom network reliability inquiries from users. The form is likely used by telecom service providers or network administrators to gather data about issues affecting their network, such as outages, equipment malfunctions, or customer issues. This form helps to identify and prioritize problems, allowing for efficient troubleshooting and resolution. It is essential to complete this form accurately to ensure that the right teams are informed and can address the issue promptly.
-</thinking>
-
 # telecom_network_reliability_inquiry_form - Help Guide
 ## Purpose
 This form is used to collect information about telecom network reliability inquiries, helping telecom service providers or network administrators to gather data about issues affecting their network.

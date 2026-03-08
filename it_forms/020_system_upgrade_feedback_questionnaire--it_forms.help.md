@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users regarding the upgrade of the system. The form is designed to gather information about the user's current system, expected upgrade frequency, challenges faced with the current system, expected upgrade frequency, the number of users that will benefit from the upgrade, and how the upgrade will affect their work. This information will be used to better understand the needs and challenges of users and make data-driven decisions for the system upgrade. 
-
-It is essential that users provide accurate and honest feedback to ensure that their needs and concerns are captured correctly. The form should only be filled out once per user.
-
-Please note that this form is not intended for users to fill out multiple times. Each user should fill out the form only once.
-</thinking>
-
 # System Upgrade Feedback Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users regarding the upgrade of the system. 

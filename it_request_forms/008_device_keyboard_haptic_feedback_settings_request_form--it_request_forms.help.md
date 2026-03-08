@@ -1,8 +1,3 @@
-<thinking>
-We will create a help guide that provides clear and concise instructions on how to complete a form related to device keyboard haptic feedback settings.
-The purpose of this form is to request settings changes related to haptic feedback for a device keyboard. It's intended for users to specify their preferences for haptic feedback, such as whether they want haptic feedback, which keyboard model they use, and what level of haptic feedback they desire. This form is likely used by users to submit requests for adjustments to their device's keyboard settings. Before filling this form, please confirm that you're submitting a genuine request and not duplicating an existing submission. If you're unsure, please contact the support team.
-</thinking>
-
 # Device Keyboard Haptic Feedback Settings Request Form - Help Guide
 
 ## Purpose

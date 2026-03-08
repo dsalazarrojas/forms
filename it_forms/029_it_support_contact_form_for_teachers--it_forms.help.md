@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow teachers to submit support requests for technical assistance. The form is intended for internal use and will help the support team to identify the issue, assign the right person to resolve it, and ensure that it is handled accordingly. This form should be used for reporting issues that are specific to IT, excluding general support requests that are not related to IT. 
-
-Please ensure that you are filling out this form only if you need assistance with an IT-related matter, and that the issue you are reporting has not been reported before.
-
-</thinking>
-
 # it_support_contact_form_for_teachers - Help Guide
 ## Purpose
 The purpose of this form is to enable teachers to contact the support team for assistance with IT-related issues.

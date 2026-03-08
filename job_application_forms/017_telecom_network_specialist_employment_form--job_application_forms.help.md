@@ -1,15 +1,3 @@
-<thinking>
-The form is designed for Telecom Network Specialist Employment, which involves collecting information from candidates for job openings. This form likely serves as an application form for potential job candidates, where they can provide their details such as name, contact information, work experience, education, skills, and other relevant details to showcase their suitability for the job. 
-This form may be used by the HR department or hiring managers to quickly evaluate and shortlist suitable candidates for the role. It's crucial to ensure that the form doesn't duplicate or contradict existing systems, and instead, complements them.
-
-To avoid duplication, it's essential to check if a similar form already exists and ensure that this form's data will not be redundantly collected or create inconsistencies in the data collected.
-
-To avoid confusion with the existing systems, it's also crucial to clearly define the fields and their types to prevent misinterpretation of the data collected.
-
-To avoid duplication, ensure that the data collected here will not create inconsistencies with the existing systems and data.
-
-</thinking>
-
 # Telecom Network Specialist Employment Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from new clients visiting a hair salon. The form fields are designed to capture essential details about the client, their appointment schedule, and their payment preferences. The form is meant to be completed by the client before their appointment, to ensure that the salon staff has accurate information to prepare for their visit. It's essential to review and understand this form carefully to ensure that all necessary information is captured correctly.
-</thinking>
-
 # Hair Salon Client Intake Form - Help Guide
 ## Purpose
 This form is a crucial part of the booking process for new clients. It helps the salon staff gather essential information about the client, their appointment schedule, and their payment preferences. Completing this form ensures a smooth and enjoyable experience for both the client and the salon staff.

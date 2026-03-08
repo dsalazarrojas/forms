@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for network coverage inquiry. The purpose of this form is to gather information about the network coverage from the end users. This form is not for submitting a new request, but rather for providing follow-up information after a request has been made. It is expected that the end user has already submitted a request and is looking for the status of their request. If the end user is not sure if they have already submitted a request, they can ask their supervisor or the IT team for assistance.
-</thinking>
-
 # Network Coverage Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information about the network coverage from the end users. It is intended for users who have already submitted a request and are looking for the status of their request.

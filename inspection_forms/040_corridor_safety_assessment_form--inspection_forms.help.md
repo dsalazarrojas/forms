@@ -1,7 +1,3 @@
-<thinking>
-The "Corridor Safety Assessment Form" is designed to collect information about potential hazards in a facility's corridors, allowing facility managers to identify and address safety concerns. This form is used to report any hazards, their locations, and the necessary corrective actions to mitigate risks. The form requires the facility manager to sign off on the assessment, and the safety officer's details are also captured for accountability.
-</thinking>
-
 # Corridor Safety Assessment Form - Help Guide
 ## Purpose
 The Corridor Safety Assessment Form is used to identify and document hazards in the facility's corridors, ensuring a safe working environment for all employees and visitors.

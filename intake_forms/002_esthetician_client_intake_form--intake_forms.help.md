@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for esthetician-client intake, used for scheduling and organizing appointments and client information. The form is intended for estheticians and spas to gather information from clients before an appointment, including medical history, skincare concerns, and contact information. The fields are primarily text-based, with some date and time fields for scheduling purposes.
-
-This form is a collection of fields that can be filled out by clients to provide their information, medical history, and consent. The form is meant to be used for intake purposes and is not intended for other uses.
-
-Please note that the form is designed to be completed by clients, not estheticians. However, some fields are required for esthetician information, such as esthetician name, contact, and email.
-
-This form is a simple and straightforward tool for gathering information from clients, and it is not a substitute for medical advice or professional consultation.
-
-</thinking>
-
 # esthetician_client_intake_form - Help Guide
 ## Purpose
 This form is designed for esthetician-client intake, used for scheduling and organizing appointments and client information.

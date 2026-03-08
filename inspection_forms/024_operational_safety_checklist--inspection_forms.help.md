@@ -1,5 +1,3 @@
-<thinking>Operational Safety Checklist forms are used by facility maintenance teams to ensure that equipment is in good condition and safe for use. This form is typically used during routine inspections to identify potential hazards and take corrective actions to mitigate risks. Before proceeding, make sure this form has not been previously completed for the current date. If you are unsure, please verify the form's completion status with your supervisor or maintenance coordinator.</thinking>
-
 # Operational Safety Checklist - Help Guide
 ## Purpose
 

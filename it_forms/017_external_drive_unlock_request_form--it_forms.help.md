@@ -1,7 +1,3 @@
-<thinking>
-We have a form designed to request external drives to be unlocked. This form is meant to be used by users to request the unlock of an external drive. The external drive could be any type, such as Windows, Mac, or Linux. Each request is assigned to a team member or other team member, which is determined by the "Assigned To" field. The form is meant to be completed with information about the external drive, including its ID, type, status, and any comments or location.
-</thinking>
-
 # External Drive Unlock Request Form - Help Guide
 ## Purpose
 This form is used to request the unlock of an external drive. It is intended for team members to submit requests to unlock external drives.

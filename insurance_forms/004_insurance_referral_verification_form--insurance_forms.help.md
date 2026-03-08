@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify the details of a patient's insurance referral. The purpose of the form is to ensure that all necessary information is accurately recorded and up-to-date. Completing this form will help healthcare providers confirm the referral details and update the patient's insurance information accordingly. This form should only be completed for active referrals, and it is not necessary to complete it for inactive referrals. The form should not be used for duplicate referrals or referrals that have already been confirmed.
-</thinking>
-
 # Insurance Referral Verification Form - Help Guide
 ## Purpose
 The Insurance Referral Verification Form is used to verify the details of a patient's insurance referral. This form is meant for active referrals only.

@@ -1,31 +1,3 @@
-<thinking>
-This form is used to manage fulfillment automation integration applications. The user can input details about the integration request, including the vendor information, logistics details, and API credentials. The form also includes fields for the integration status, notes, and comments. The user can also select a priority and assigned user for the integration. The form is meant to be used by administrators or users with relevant permissions to manage and track integration requests.
-
-To complete this form, follow these steps:
-
-1. Select the integration request type from the drop-down menu in the "Type" field.
-2. Enter the vendor information in the "Vendor Info" field.
-3. Enter the ecommerce brand in the "Ecommerce Brand" field.
-4. Enter the logistics details in the "Logistics Details" field.
-5. Enter the integration URL in the "URL" field.
-6. Enter the username and password for the integration in the "Username" and "Password" fields, respectively.
-7. Enter the API keys in the "API Keys" field.
-8. Select the API credentials type from the drop-down menu in the "API Credentials" field.
-9. Select the API credentials type 2 from the drop-down menu in the "API Credentials 2" field.
-10. Select the API credentials type 3 from the drop-down menu in the "API Credentials 3" field.
-11. Select the integration status from the drop-down menu in the "Status" field.
-12. Enter any additional comments or notes in the "Notes" field.
-13. Enter a description of the integration request in the "Description" field.
-14. Enter any comments about the integration request in the "Comments" field.
-15. Enter the request ID in the "Request ID" field.
-16. Enter the request date and time in the "Request Date" and "Request Time" fields, respectively.
-17. Select the assigned user from the drop-down menu in the "Assigned To" field.
-18. Select the priority of the integration request from the drop-down menu in the "Priority" field.
-19. Enter the due date for the integration request in the "Due Date" field.
-20. Enter any additional comments about the integration request in the "Comments" field.
-21. Select the status of the integration request from the drop-down menu in the "Status" field.
-</thinking>
-
 # Fulfillment Automation Integration Application - Help Guide
 ## Purpose
 

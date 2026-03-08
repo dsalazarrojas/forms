@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to disable device enrollment notifications. It is intended for administrators to request disabling device enrollment notifications for a specific device. The form should only be used by authorized personnel and not for bulk disabling of devices. Each submission should include a clear reason for disabling the enrollment notification and will be reviewed and approved by an authorized person. Before submitting, ensure you have the correct device ID and have selected the correct device type. 
-
-</thinking>
-
 # device_enrollment_notification_disable_request_form - Help Guide
 ## Purpose
 The **device_enrollment_notification_disable_request_form** is used to request disabling device enrollment notifications for a specific device. This form is intended for authorized personnel to request disabling device enrollment notifications for a device that should not receive them.
