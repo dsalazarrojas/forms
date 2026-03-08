@@ -1,0 +1,43 @@
+<thinking>
+To determine the purpose of this form, I've analyzed the YAML fields. Based on the structure and options provided, it appears this form is for requesting an upgrade to a piece of equipment, likely for business or organizational use. The form likely serves as a way to gather information from end-users to assess the necessity of an equipment upgrade, identify the type and specifics of the equipment needed, and track the request's status.
+The fields provided seem to cover the basics:
+
+*   Form title and description
+*   Details about the equipment (type, reason for upgrade)
+*   Expected delivery date
+*   Assignee's contact information (phone number, email)
+*   Notes (for additional comments or details)
+To determine how to complete this form, it's essential to understand that it's a simple form with clear and self-explanatory fields. However, some fields have weak or missing labels. For example, the 'equipment_type' field has a label 'equipment_type' and options 'Equipment Type 1', 'Equipment Type 2', and 'Equipment Type 3'. Without additional context, it's difficult to determine the specific meaning of these options without making assumptions. The 'assigned_tool' field also has options 'chatjimmy' and 'Other', which could be a typo or an internal reference.
+</thinking>
+
+# IT Equipment Upgrade Request Form - Help Guide
+## Purpose
+This form is used to request an upgrade to a piece of equipment for business or organizational use. Fill out this form to provide information about the type of equipment needed and the reason for the upgrade, as well as your contact details and expected delivery date.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+
+1.  Fill out the form title and description in the text area provided.
+2.  Select the type of equipment needed from the options provided (Equipment Type 1, Equipment Type 2, or Equipment Type 3).
+3.  Enter a brief description of why you're requesting the equipment upgrade.
+4.  Specify your expected delivery date.
+5.  Select the person or team you'd like to be assigned the new equipment from the options provided (chatjimmy or Other).
+6.  Enter your work email and phone number so we can get in touch with you.
+7.  If necessary, add any additional comments or details in the notes section.
+8.  Click the 'Submit' button to send in your request.
+
+## Field-by-Field Explanation
+*   **Form data** (`form_data`, text): This is a text area where you can enter a brief description of your request.
+*   **Equipment Type** (`equipment_type`, select_one): Select the type of equipment you're requesting from the options provided.
+*   **Reason for Upgrade** (`reason_for_upgrade`, text): Enter a brief description of why you're requesting the equipment upgrade.
+*   **Expected Delivery Date** (`expected_delivery_date`, date): Specify the date you expect to receive the upgraded equipment.
+*   **Assigned Tool** (`assigned_tool`, select_one): Select the person or team you'd like to be assigned the new equipment from the options provided.
+*   **Email** (`email`, email): Enter your work email address so we can get in touch with you.
+*   **Phone Number** (`phone_number`, text): Enter your work phone number so we can get in touch with you.
+*   **Notes** (`notes`, note): Add any additional comments or details about your request.
+*   **Submit** (`submit`, text): Click this button to send in your request.
+
+## Tips
+*   Make sure to fill out all the required fields.
+*   Be as detailed as possible in your description and reason for upgrade.
+*   Double-check your contact information for accuracy.

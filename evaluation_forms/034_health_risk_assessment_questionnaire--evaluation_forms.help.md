@@ -1,0 +1,140 @@
+<thinking>
+The form is an AI-generated, public domain form designed to assist in assessing risks. The form's purpose is to collect information about a person's risk factors, medical history, allergies, medications, and additional comments. It's likely created for healthcare or risk management purposes. Before completing this form, please ensure you have the necessary information and consent from the individual or their representative. This form is an original adaptation of public survey metadata and does not copy or use proprietary content from other platforms.
+</thinking>
+
+# Risk Assessment Questionnaire - Help Guide
+## Purpose
+The Risk Assessment Questionnaire is designed to collect information about a person's risk factors, medical history, allergies, medications, and additional comments. This form is intended to assist in assessing risks in a healthcare or risk management context.
+
+## How To Complete This Form
+1. Answer each question carefully and honestly.
+2. Enter your information in the text fields provided.
+3. If you have any additional comments or concerns, please use the "Additional Comments" field.
+4. Submit the form once you have completed all the questions.
+
+## Field-by-Field Explanation
+- **Risk Factors** (`risk_factors`): This field is for listing risk factors relevant to your health or risk management.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors.
+- **Risk Factors 2** (`risk_factors_2`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 2.
+- **Medical History** (`medical_history`): A field for listing your medical history, including any relevant health conditions or treatments.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your medical history.
+- **Allergies** (`allergies`): A field for listing any allergies or sensitivities you have.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a list of any allergies or sensitivities you have.
+- **Medications** (`medications`): A field for listing any medications you are currently taking.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a list of medications you are currently taking.
+- **Risk Factors 3** (`risk_factors_3`): Another field for listing more risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 3.
+- **Risk Factors 4** (`risk_factors_4`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 4.
+- **Risk Factors 5** (`risk_factors_5`): Another field for listing risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 5.
+- **Goals** (`goals`): A field for listing your goals or objectives.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your goals or objectives.
+- **Risk Factors 6** (`risk_factors_6`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 6.
+- **Risk Factors 7** (`risk_factors_7`): Another field for listing more risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 7.
+- **Risk Factors 8** (`risk_factors_8`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 8.
+- **Risk Factors 9** (`risk_factors_9`): Another field for listing more risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 9.
+- **Risk Factors 10** (`risk_factors_10`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 10.
+- **Risk Factors 11** (`risk_factors_11`): Another field for listing more risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 11.
+- **Risk Factors 12** (`risk_factors_12`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 12.
+- **Risk Factors 13** (`risk_factors_13`): Another field for listing more risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 13.
+- **Risk Factors 14** (`risk_factors_14`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 14.
+- **Risk Factors 15** (`risk_factors_15`): Another field for listing more risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 15.
+- **Risk Factors 16** (`risk_factors_16`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 16.
+- **Risk Factors 17** (`risk_factors_17`): Another field for listing more risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 17.
+- **Risk Factors 18** (`risk_factors_18`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 18.
+- **Risk Factors 19** (`risk_factors_19`): Another field for listing more risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 19.
+- **Risk Factors 20** (`risk_factors_20`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 20.
+- **Additional Comments** (`additional_comments`): A field for any additional comments or concerns.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide any additional comments or concerns.
+- **Risk Factors 21** (`risk_factors_21`): Another field for listing more risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 21.
+- **Risk Factors 22** (`risk_factors_22`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 22.
+- **Risk Factors 23** (`risk_factors_23`): Another field for listing more risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 23.
+- **Risk Factors 24** (`risk_factors_24`): Another field for listing additional risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 24.
+- **Risk Factors 25** (`risk_factors_25`): Another field for listing more risk factors.
+  - Type: Text
+  - Required: False
+  - Hint: Please provide a brief description of your risk factors 25.
+
+## Tips
+- Please answer each question to the best of your ability.
+- If you have any doubts or concerns, please contact the form administrators.
+- This form is for your safety and well-being, and your information will be treated with confidentiality and respect.

@@ -1,0 +1,117 @@
+<thinking>...</thinking>
+
+# Best Friend Application Form - Help Guide
+## Purpose
+The Best Friend Application Form is designed to help us get to know you better and understand what makes you tick. This form will help us determine whether we can be a good match for each other and if you're ready to take on the responsibilities of being a true friend. Please answer the questions honestly, and don't worry, we won't judge you!
+
+## How To Complete This Form
+To complete the form, simply fill out each section as directed, and make sure to answer all required fields. If you need help or clarification on any of the fields, don't hesitate to reach out.
+
+## Field-by-Field Explanation
+- **Your Name**: This is where you'll tell us what your name is. Please use your real name, but we promise not to use it for any nefarious purposes.
+  - **Type**: text
+  - **Required**: required
+  - **Label**: Your Name
+  - **Hint**: What should I call you
+- **Your Age**: This is where you'll tell us how old you are. Please use a whole number, no funny business.
+  - **Type**: number
+  - **Required**: required
+  - **Label**: Your Age
+  - **Hint**: null
+- **Favorite Hobby**: This is where you'll tell us what you like to do for fun. Be as creative as you like!
+  - **Type**: text
+  - **Required**: required
+  - **Label**: Favorite Hobby
+  - **Hint**: What do you do for fun
+- **Favorite Movie Genre**: Pick one of the genres that you enjoy the most.
+  - **Type**: select_one
+  - **Required**: required
+  - **Label**: Favorite Movie Genre
+  - **Hint**: null
+  - **Options**: Comedy, Horror, Action and Adventure, Drama, Sci-Fi and Fantasy, Documentary, Other
+- **Friendship Compatibility**: This is where you'll get to know us better. Don't worry, we won't judge you!
+  - **Type**: note
+  - **Required**: required
+  - **Label**: Friendship Compatibility
+  - **Hint**: null
+- **Biorhythm Preference**: Are you a morning person or a night owl? We want to know when you're most productive.
+  - **Type**: select_one
+  - **Required**: required
+  - **Label**: Are you a morning person or a night owl
+  - **Hint**: null
+  - **Options**: Morning Person, Night Owl, Both - I never sleep, Neither - I am always tired
+- **Social Preference**: Do you like staying in or going out? Be honest, we won't judge.
+  - **Type**: select_one
+  - **Required**: required
+  - **Label**: Do you prefer staying in or going out
+  - **Hint**: null
+  - **Options**: Staying In - Netflix and snacks, Going Out - Exploring and adventures, A healthy mix of both
+- **Ideal Weekend Activity**: Tell us what you like to do on a Saturday.
+  - **Type**: text
+  - **Required**: required
+  - **Label**: What is your ideal weekend activity
+  - **Hint**: Describe your perfect Saturday
+- **Favorite Snack**: This is very important, we won't tell anyone else.
+  - **Type**: text
+  - **Required**: required
+  - **Label**: Favorite Snack
+  - **Hint**: This is very important
+- **The Big Questions**: This is the fun part! Think of your answers as a conversation starter.
+  - **Type**: note
+  - **Required**: required
+  - **Label**: The Big Questions
+  - **Hint**: null
+- **Zombie Apocalypse Role**: In a zombie apocalypse, what would you be?
+  - **Type**: select_one
+  - **Required**: required
+  - **Label**: In a zombie apocalypse, what would your role be
+  - **Hint**: null
+  - **Options**: The Leader, The Fighter, The Healer, The First to Go, The One with the Snacks
+- **Secret Keeping Ability**: Can you keep a secret?
+  - **Type**: select_one
+  - **Required**: required
+  - **Label**: Can you keep a secret
+  - **Hint**: null
+  - **Options**: Yes - My lips are sealed, Usually - Unless it is really juicy, Sometimes - I try my best, No - I am a chronic oversharer
+- **Bad Day Handling**: How do you deal with a bad day? Do you need some time to yourself or a distraction?
+  - **Type**: text
+  - **Required**: required
+  - **Label**: How do you handle a bad day
+  - **Hint**: Do you need space or a distraction
+- **Fun Facts**: This is the fun part! Share something interesting about yourself.
+  - **Type**: note
+  - **Required**: required
+  - **Label**: Fun Facts
+  - **Hint**: null
+- **One Thing You Can't Live Without**: Besides air and water, what's one thing you can't live without?
+  - **Type**: text
+  - **Required**: required
+  - **Label**: One thing you can't live without
+  - **Hint**: Besides air and water
+- **Spirit Animal**: This is your spirit animal, the animal that represents you the best.
+  - **Type**: text
+  - **Required**: optional
+  - **Label**: Your Spirit Animal
+  - **Hint**: null
+- **Red Flags**: If there's anything you should know about that might be a red flag, now's the time to tell us.
+  - **Type**: text
+  - **Required**: optional
+  - **Label**: Any red flags I should know about
+  - **Hint**: Be honest!
+- **Final Agreement**: This is where you'll agree to be a true friend.
+  - **Type**: note
+  - **Required**: required
+  - **Label**: Final Agreement
+  - **Hint**: null
+- **Loyalty Promise**: Will you promise to be a loyal best friend?
+  - **Type**: select_one
+  - **Required**: required
+  - **Label**: Do you promise to be a loyal best friend
+  - **Hint**: null
+  - **Options**: Yes - I pinky swear!
+  - **Other**
+- **Application Date**: This is where you'll stamp your application.
+  - **Type**: date
+  - **Required**: required
+  - **Label**: Application Date
+  - **Hint**: null

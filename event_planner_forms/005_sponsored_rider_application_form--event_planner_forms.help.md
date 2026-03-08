@@ -1,0 +1,26 @@
+<thinking>
+This form will help event planners collect information from potential sponsored riders in a structured and organized way. It's designed for both the rider and the sponsor to provide accurate data in a concise format. Please ensure you're familiar with the event and its requirements before filling out this form. This form will be used to collect information for the sponsored riders, so please fill it out carefully and completely. You can save your progress at any time and return to it later. This guide will walk you through the form's sections and fields, helping you to understand what's required and what's optional.
+</thinking>
+
+# Sponsored Rider Application Form - Help Guide
+## Purpose
+The Sponsored Rider Application Form is designed to collect information from potential sponsored riders for an event. This form will help both the rider and the sponsor to provide accurate data in a concise format.
+
+## How To Complete This Form
+- Start by filling out the first page of the form, which is a text-based input section.
+- Move on to the second page, where you'll provide your rider details.
+- On the third page, enter your sponsor details.
+- On the fourth page, select the event details from the given options.
+- Move on to the fifth page, where you'll enter your contact details.
+- On the sixth page, read and agree to the rider agreement.
+- On the seventh and final page, read and agree to the sponsor agreement.
+
+## Field-by-Field Explanation
+- **Event Planner Forms - Sponsored Rider Application Form Page 1**: This is the first page of the form where you can enter any additional information or comments.
+  - **Event Planner Forms - Sponsored Rider Application Form Page 1**: This is the first page of the form where you can enter any additional information or comments.
+  - **Rider Details**: Enter your personal details as a rider, including your name and age.
+  - **Sponsor Details**: Enter your sponsor's details, including their name and contact information.
+  - **Event Details**: Select the event(s) that you're applying for from the given options.
+  - **Contact Details**: Enter your contact information so that we can reach out to you.
+  - **Rider Agreement**: Read and agree to our terms and conditions as a rider.
+  - **Sponsor Agreement**: Read and agree to our terms and conditions as a sponsor.

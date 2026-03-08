@@ -1,0 +1,36 @@
+<thinking>
+
+We're creating a help guide for the Event Stage Design Feedback Questionnaire. This form aims to collect feedback from users on various aspects of an event's stage design. Before creating this guide, let's ensure we understand the form's purpose and relevance. The form's title, "Event Stage Design Feedback Questionnaire," suggests it's used for gathering feedback on the event stage design. This form likely serves as a tool for event organizers, designers, or attendees to evaluate the stage's layout, features, and overall design.
+
+To confirm, let's check the form fields. The form has eight fields, each with a label, type, and sometimes options. The fields are: Stage Design Feedback, Stage Layout, Stage Features, Overall Experience, Suggestions, Stage Design Feedback, Overall Satisfaction, Event Stage Designer, and Event Stager. These fields suggest the form will ask users about the stage's design, layout, features, overall experience, and satisfaction with the event stage design team.
+
+Upon reviewing the fields, there are some fields that seem to have similar labels or purposes (e.g., Stage Design Feedback and Stage Design Feedback). In this case, we might consider merging or rephrasing these fields to avoid confusion. 
+
+The form's fields seem to be focused on evaluating the event stage design from different angles, including layout, features, and overall satisfaction. This form is likely used for post-event evaluation or to gather feedback from users.
+
+</thinking>
+
+# Event Stage Design Feedback Questionnaire - Help Guide
+## Purpose
+The Event Stage Design Feedback Questionnaire is a form designed to gather feedback on the event stage design from attendees, organizers, or event stage designers. It evaluates the stage's layout, features, and overall experience, helping event organizers and designers improve future events.
+
+## How To Complete This Form
+To complete the form, follow these steps:
+
+1. Answer the questions honestly, providing as much detail as possible about your experience with the event stage design.
+2. Fill in the required information in the Stage Layout, Stage Features, Overall Experience, and Event Stage Designer fields.
+3. Choose your level of satisfaction with the Event Stage Designer in the Event Stage Designer field.
+4. Select the Event Stager's presence or absence from the options in the Event Stager field.
+5. Provide any additional feedback or suggestions in the Suggestions field.
+
+## Field-by-Field Explanation
+
+* **Stage Design Feedback**: This field is where you provide feedback on the overall stage design. Be as descriptive as possible about what you liked or disliked about the stage design.
+* **Stage Layout**: This field asks you to describe the stage's layout. Think about how the layout affected your experience as an attendee or participant.
+* **Stage Features**: This field is where you provide feedback on the stage's features, such as lighting, sound, or video equipment.
+* **Overall Experience**: Rate your overall experience with the event stage design, considering the layout, features, and overall impression.
+* **Suggestions**: If you have any suggestions or ideas for improving future events, type them in this field.
+* **Stage Design Feedback (again)**: This field is very similar to the Stage Design Feedback field. You can merge your thoughts from both fields to provide a comprehensive feedback.
+* **Overall Satisfaction**: Rate your satisfaction with the event stage design on a scale of 1-5, where 1 is Not Satisfied and 5 is Very Satisfied.
+* **Event Stage Designer**: Rate your satisfaction with the event stage designer's work on a scale of 1-5, where 1 is Not Satisfied and 5 is Very Satisfied.
+* **Event Stager**: Check if the event stager was present or not. Choose the correct option from the list.
