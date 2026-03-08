@@ -1,10 +1,3 @@
-<thinking>...
-This form is designed to facilitate the creation of marital settlement agreements between two spouses. It gathers information necessary for the agreement's terms, including details about assets, support arrangements, and any other terms agreed upon. 
-
-Before proceeding, ensure that you have the necessary authority and legal expertise to complete this form. If you're not sure, consider consulting a legal professional or mediator for guidance. This form is not a substitute for professional legal advice.
-
-</thinking>
-
 # Marital Settlement Agreement Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Stationery Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for the corporate stationery order. Please ensure you have the authority to order stationery on behalf of your department before filling out this form. This form should only be used once per order, so please do not submit multiple forms for a single order.

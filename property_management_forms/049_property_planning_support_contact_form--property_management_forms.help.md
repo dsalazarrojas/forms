@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide for the "Property Planning Support Contact Form". The purpose of this form is to collect information from users who are seeking support or inquiry related to their properties. This form is not intended to be used for any other purpose, and users should not submit the form if they are unsure of the correct use case.
-</thinking>
-
 # Property Planning Support Contact Form - Help Guide
 ## Purpose
 The Property Planning Support Contact Form is designed to collect information from users who are seeking support or inquiry related to their properties.

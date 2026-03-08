@@ -1,6 +1,4 @@
-> <thinking> This form is generated from the provided YAML schema and is an original adaptation. It is not affiliated with, endorsed by, or derived from any form platform. Please ensure that the form fields accurately reflect your specific business needs and purposes. Before filling out this form, verify that it is relevant to your specific use case and that you have the necessary permissions to use it. If you are unsure about any aspect of this form, please contact form@gic.mx for more information. </thinking>
-
-# General Matters Pre Action Survey - Help Guide
+> # General Matters Pre Action Survey - Help Guide
 ## Purpose
 
 This form is designed to gather information from users on general matters that need to be addressed before taking action. It is intended to be a comprehensive guide for users to reflect on their current situation and provide insight into potential areas of concern.

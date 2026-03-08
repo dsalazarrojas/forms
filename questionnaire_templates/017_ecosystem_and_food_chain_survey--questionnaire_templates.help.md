@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information on the Ecosystem and Food Chain Survey. It's likely a research or educational instrument used to understand the relationships between various ecosystems and the food chain within them. The form's purpose might be to gather data on categories, education levels, ecosystems, and food chains. Before filling out the form, ensure you have a clear understanding of each field's purpose and its relevance to the overall theme. Please review the form carefully to avoid duplicating information or providing unnecessary details.</thinking>
-
 # Ecosystem And Food Chain Survey - Help Guide
 ## Purpose
 The Ecosystem And Food Chain Survey is a tool used to gather information on the relationships between ecosystems and food chains. It's essential to complete this form accurately to provide valuable insights for research or educational purposes.

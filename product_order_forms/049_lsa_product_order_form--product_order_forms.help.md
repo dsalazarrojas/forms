@@ -1,14 +1,3 @@
-<thinking>... internal reasoning and checks for relevance and non-duplication ...
-
-The form is designed to collect information for a product order, likely for an e-commerce or retail context. The fields are divided into several categories, including:
-
-* Product information (product name, unit price, quantity)
-* Customer information (customer name, email, phone, address, city, state, zip, country, region)
-* Order details (order date, delivery method, order status, order total, payment method, delivery date, delivery time, order note)
-* Additional comments and notes
-
-Each field should be filled in as per the instructions below:</thinking>
-
 # LSA Product Order Form - Help Guide
 ## Purpose
 The LSA Product Order Form is designed to collect information for product orders. It is used to gather data for product sales, purchases, or inventory management.

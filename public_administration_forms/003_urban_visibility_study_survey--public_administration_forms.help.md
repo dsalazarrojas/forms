@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about urban visibility, which likely refers to the perceived level of public awareness and understanding of a particular issue or topic in an urban setting. The form is designed to gather data through a series of questions, likely aimed at understanding the perspectives and experiences of individuals in relation to urban visibility. This form appears to be a simplified adaptation of a survey, using AI-generated content without any affiliation with or affiliation from any form platform. This form is intended for public use and modification under the Creative Commons BY 4.0 license.
-
-Before proceeding, ensure that this form is not a duplicate or redundant effort, and that the information gathered is not already publicly available. It is recommended to review the existing literature and research on urban visibility to ensure that the data collected will add valuable contributions to the field.
-
-This form is designed to be completed by individual respondents, and the instructions are provided for clarity and ease of use. Each field has been labeled and described to ensure that the respondent understands the purpose and requirement of each question.
-
-Before beginning, please note that this form is not intended for commercial purposes, and the data collected will be used for public good. If you're unsure about any aspect of this form, please contact form@gic.mx for further clarification or support.
-
-</thinking>
-
 # Urban Visibility Study Survey - Help Guide
 ## Purpose
 The Urban Visibility Study Survey is designed to collect information about urban visibility, gathering data on the perspectives and experiences of individuals in an urban setting.

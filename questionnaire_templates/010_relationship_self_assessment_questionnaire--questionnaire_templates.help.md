@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the respondent's current relationship status, goals, conflicts, and feelings of support and dynamics within their relationship. This form is designed to be completed by individuals in a romantic, platonic, or family relationship. The form is meant to help individuals assess their relationship and identify areas for improvement. Please complete this form only if you are in a relationship that you would like to evaluate and improve. If you have already completed this form in the past, please refrain from completing it again to avoid duplication of effort.</thinking>
-
 # Relationship Self Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to help you evaluate your current relationship and identify areas for improvement. It will ask you about your relationship status, goals, conflicts, and feelings of support and dynamics.

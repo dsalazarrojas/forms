@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the market structure of a company or industry, which is a crucial concept in economics. The purpose of this form is to help you understand the characteristics of the market structure and its impact on business decisions. Before proceeding, please ensure that you are familiar with the concept of market structure, specifically oligopolies, and have a clear understanding of the terms and questions being asked.
-
-Also, this form is not intended to be a comprehensive market analysis, but rather a brief assessment tool for internal use. If you're unsure about any of the questions or options, please refer to your industry knowledge or seek guidance from a relevant expert.
-
-To complete this form, please answer the questions truthfully, and use the options provided to select your responses. If you're unsure or need clarification, use the "Tips" section below for additional guidance.</thinking>
-
 # oligopoly_market_structure_quiz - Help Guide
 ## Purpose
 The oligopoly_market_structure_quiz form is designed to help you understand the market structure of a company or industry, specifically assessing the characteristics of an oligopoly market structure.

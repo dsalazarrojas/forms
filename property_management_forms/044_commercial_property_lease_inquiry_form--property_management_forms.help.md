@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from prospective tenants about their commercial property lease inquiry. It is designed to be completed by a representative of the tenant or a representative of the business that is inquiring about a potential lease. The form fields are meant to capture details about the prospective tenant, their business, and their lease requirements to ensure accurate information is provided to the landlord or property manager for a smooth and efficient leasing process. 
-
-Form duplication should be avoided by not submitting multiple inquiries with the same contact information. It is recommended to have the form submitted by a single representative per business.
-
-</thinking>
-
 # Commercial Property Lease Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from prospective tenants about their commercial property lease requirements. It will help our team to provide you with the most suitable options for your business needs.

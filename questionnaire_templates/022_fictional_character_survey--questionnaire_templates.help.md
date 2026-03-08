@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a survey designed to collect information about the favorite fictional characters of users. The form asks for the name of the character, why they love this character, the type of character they believe the character to be (e.g. hero, villain, etc.), how they relate to the character (e.g. as a fan, as a similar personality, etc.), why they enjoy this character, how they were introduced to the character, and who introduced them to the character. The form is intended to gather insights into users' preferences and interests related to fictional characters.
-
-</thinking>
-
 # Fictional Character Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your favorite fictional characters. Please answer the questions honestly, and feel free to provide as much detail as you like.

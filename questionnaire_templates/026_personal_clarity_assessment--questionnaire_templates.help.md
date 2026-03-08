@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to assess an individual's personal clarity on various aspects of their life, including their current values, life direction, obstacles, and goals. It's intended to help individuals gain a better understanding of their priorities and values. The form is designed to be self-explanatory, and the goal is to provide a clear and concise way to complete it without requiring extensive guidance.
-
-</thinking>
-
 # Personal Clarity Assessment - Help Guide
 ## Purpose
 

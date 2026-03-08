@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers for custom basket creation. It is intended for businesses that require detailed information from customers for order fulfillment, payment, and other related purposes. 
-
-This form can be used by businesses to create a custom basket for each customer based on their preferences and needs. It can help in creating a more personalized experience for customers and provide a detailed understanding of their orders.
-
-This form should not be used for other purposes that are not related to custom basket creation.
-
-</thinking>
-
 # Custom Basket Creation Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect detailed information from customers for custom basket creation. This form is designed to help businesses create a custom basket for each customer based on their preferences and needs.

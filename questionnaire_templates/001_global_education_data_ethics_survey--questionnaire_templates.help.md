@@ -1,7 +1,3 @@
-<thinking>
-**Please note that this form is designed to collect opinions and perspectives on education data ethics in a region. The purpose of this form is to gather insights and feedback from individuals on how to address challenges, main principles, and best practices in education data ethics. It's essential to fill out this form accurately and thoughtfully, as your input will contribute to the development of more effective education data ethics policies and guidelines. This form should only be filled out once, and responses will be kept anonymous to ensure the integrity of the data collection.**
-
-</thinking>
 # global_education_data_ethics_survey - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather consent from property owners and residents for security system upgrades. This form helps administrators ensure that all relevant parties have been informed and agreed to the upgrade before proceeding. The form is designed to be completed by property management staff, who will use the responses to verify that all necessary approvals have been received.
-This form is part of the property management module, and its completion is required for the upgrade to be implemented. 
-Please review the form carefully and ensure that all fields are filled out accurately to avoid any misunderstandings or delays in the upgrade process.
-</thinking>
-
 # property_access_control_upgrade_consent_form - Help Guide
 ## Purpose
 The property_access_control_upgrade_consent_form is used to gather consent from property owners and residents for security system upgrades.

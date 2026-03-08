@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # women_s_health_questionnaire - Help Guide
 
 ## Purpose

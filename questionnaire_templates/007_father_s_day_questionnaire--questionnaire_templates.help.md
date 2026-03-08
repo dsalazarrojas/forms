@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Father's Day Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about a person's favorite Father's Day memories and experiences. It is intended to be a fun and engaging way to collect feedback and reflections from individuals about their dads.

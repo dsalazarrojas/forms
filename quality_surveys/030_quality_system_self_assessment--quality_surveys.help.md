@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and not duplicated or filled out by unauthorized users. This form is intended to collect feedback from quality system personnel on the effectiveness of the quality system, including its performance, processes, and areas of improvement. To prevent duplication, we should ensure that users are not able to save or submit incomplete forms. To prevent unauthorized access, we should implement authentication and authorization controls.
-</thinking>
-
 # Quality System Self Assessment - Help Guide
 ## Purpose
 The Quality System Self Assessment form is designed to collect feedback from quality system personnel on the effectiveness of the quality system. This feedback is essential for identifying areas of improvement and implementing necessary changes to enhance the quality system's performance.

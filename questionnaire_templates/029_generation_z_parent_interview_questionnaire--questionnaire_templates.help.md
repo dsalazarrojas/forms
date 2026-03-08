@@ -1,5 +1,3 @@
-<thinking>... internal note ... This form is intended to gather information about Generation Z parents' habits, preferences, and behaviors, particularly regarding their digital habits and screen time. The form is designed to be completed by parents, and it's meant to help us understand their perspectives and experiences. This form should only be completed by Generation Z parents, as the questions are tailored to their specific needs and circumstances. If you're not a parent of a child from Generation Z, please do not complete this form. If you've already completed this form, you can ignore this guide as it's meant for new users. If you're unsure about any of the questions or fields, please refer to this guide for clarification. ...</thinking>
-
 # Generation Z Parent Interview Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about Generation Z parents' habits, preferences, and behaviors, particularly regarding their digital habits and screen time. It's intended to help us understand their perspectives and experiences.

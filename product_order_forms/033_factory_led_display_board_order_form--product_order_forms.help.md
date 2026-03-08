@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to create and manage factory LED display board orders. The form is designed to gather information about the order, including the category, description, assigned tool, and form ID. The output file field is used to attach a file that will be used to generate the order board.
-
-The purpose of this form is to ensure that all necessary information is collected for the production of the factory LED display board. The form is not intended to be used for other purposes.
-
-Before filling out this form, please ensure that you have all the required information ready and that you have checked for any existing orders that may be similar or identical.
-
-</thinking>
-
 # Factory LED Display Board Order Form - Help Guide
 ## Purpose
 The Factory LED Display Board Order Form is used to create and manage factory LED display board orders.

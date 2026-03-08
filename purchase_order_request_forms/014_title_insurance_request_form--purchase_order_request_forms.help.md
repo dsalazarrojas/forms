@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from customers who are requesting title insurance. It is meant to gather necessary details such as the customer's first name, last name, email, company information, property type, order date, shipment method, document type, order comments, client name, client phone, agent name, agent phone, company address, client address, and shipment instructions. This form should not be submitted if the customer is not requesting title insurance, or if the customer has already submitted a request in the past 24 hours. Please fill out this form carefully and accurately to ensure that your request is processed smoothly.</thinking>
-
 # Title Insurance Request Form - Help Guide
 ## Purpose
 This form is used to collect information from customers who are requesting title insurance. It is essential to fill it out accurately to ensure that your request is processed efficiently and effectively.

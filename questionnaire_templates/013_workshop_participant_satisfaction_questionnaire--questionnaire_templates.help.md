@@ -1,10 +1,3 @@
-<thinking>
-To provide a clear and concise help guide for the workshop participant satisfaction questionnaire form, I need to first understand the purpose of this form and the context in which it will be used. The form is intended to gauge the satisfaction levels of workshop participants, likely to measure the effectiveness and quality of the workshop experience. The questions cover a range of aspects, including overall satisfaction, content of the workshop, facilitation, time management, provision of materials, food and beverages, environment, workshop length, and any additional comments. The form may be used by organizers to evaluate the workshop's impact and identify areas for improvement. This guide will aim to walk users through the form's purpose and usage.
-
-The form is likely to be used by participants to express their opinions and feedback about their experience in the workshop. The guide will focus on ensuring that users understand the purpose and relevance of each question to provide valuable and actionable feedback.
-
-</thinking>
-
 # Workshop Participant Satisfaction Questionnaire - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the readiness of an organization to adopt cloud computing, assessing its current state and identifying areas for improvement. This questionnaire will help executives, IT teams, and other stakeholders evaluate their organization's cloud adoption level, from initial assessment to long-term goals. The goal is not to create a one-size-fits-all solution but rather to understand the unique needs and constraints of each organization.
-</thinking>
-
 # Cloud Adoption Readiness Questionnaire - Help Guide
 ## Purpose
 The Cloud Adoption Readiness Questionnaire is designed to provide a comprehensive assessment of an organization's cloud adoption level. This questionnaire is intended to be a guiding tool for executives, IT teams, and other stakeholders to evaluate their organization's current state and identify areas that require improvement or attention.

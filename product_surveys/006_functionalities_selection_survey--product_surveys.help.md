@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users regarding their preferred functionalities for a specific project. It appears to be related to reporting and data export options, with fields asking about saving, email notifications, and export formats. The form might be used by project administrators or stakeholders to collect input from team members or users regarding their desired functionalities. This form is likely used in a business or organizational setting.
-</thinking>
-
 # Functionalities Selection Survey - Help Guide
 ## Purpose
 This form is designed to collect information on functionalities that users want to select or have selected. It's used to gather preferences or input from users on various options related to reports and exports.

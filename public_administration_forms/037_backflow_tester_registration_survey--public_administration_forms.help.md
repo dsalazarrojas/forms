@@ -1,5 +1,3 @@
-<thinking>Form purpose is to collect information from registered backflow testers for administrative and regulatory purposes. The data collected will be used to track and verify backflow tester credentials and to ensure compliance with relevant regulations. This form helps to maintain a centralized database of registered backflow testers. This form should only be filled out by registered backflow testers. If you have already registered, please do not fill out this form again. If you are unsure whether you are a registered backflow tester, please contact the relevant authorities for verification.</thinking>
-
 # Backflow Tester Registration Survey - Help Guide
 ## Purpose
 This form is used to collect information from registered backflow testers for administrative and regulatory purposes.

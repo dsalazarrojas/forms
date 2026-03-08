@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended for end users who are completing the "personality_assessment_form". This form is likely used for assessing an individual's personality traits or attributes, and its primary purpose is to collect data to better understand or analyze human behavior. It is crucial to complete this form carefully and accurately to provide useful insights.
 
 Please note that this form is not intended for general public use, and its completion should be restricted to authorized personnel only. 

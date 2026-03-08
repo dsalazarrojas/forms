@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block ...
-
-The purpose of this form is to create a quiz for users to test their knowledge of poker hand rankings. The form is designed to gather information about the user's understanding of the different types of poker hands, such as pairs, three of a kind, four of a kind, full house, and more. The form is likely used in a gaming or card game context, such as a poker tournament or online game.
-
-The form has 25 fields, but only some of them are actually being used. The fields are mostly multiple-choice questions, and the user is asked to select one or more options from a list.
-
-</thinking>
-
 # Poker Hand Rankings Quiz - Help Guide
 ## Purpose
 The Poker Hand Rankings Quiz is designed to test your knowledge of poker hand rankings. This quiz will ask you a series of multiple-choice questions about different types of poker hands.

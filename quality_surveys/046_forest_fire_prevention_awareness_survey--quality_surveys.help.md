@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Forest Fire Prevention Awareness Survey - Help Guide
 
 ### Purpose

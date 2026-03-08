@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect feedback on the effectiveness and overall experience of a workshop session, including the learning outcomes, participants' feedback, and overall rating. The purpose is to gather data for future improvements and to help assess the quality of the workshop sessions.
-
-Before proceeding, please ensure that you are not duplicating this form for the same workshop session, as this could lead to inconsistent data and make it challenging to analyze and compare results.
-
-Please fill out this form accurately and thoroughly, as the information will be used to improve future workshops.
-
-</thinking>
-
 # Workshop Learning Outcome Feedback Questionnaire - Help Guide
 ## Purpose
 The Workshop Learning Outcome Feedback Questionnaire is a form designed to gather feedback on the effectiveness of workshop sessions. It helps us to understand what we did well and what we can improve on for future sessions.

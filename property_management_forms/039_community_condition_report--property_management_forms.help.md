@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, I analyzed the YAML provided. The form is for the "Community Condition Report" and is intended for reporting issues or maintenance needs in the community. The form is structured around collecting information from a reporting resident, including their contact information, the issue they want to report, and additional details about the problem. The form has a section for the resident to sign and date it, as well as an optional section for them to opt-in for the community center's newsletter.
-
-This form seems to be intended for community residents to report issues or concerns they have with their community, and for the property manager to follow up on these reports and address the problems. Given this context, the form should be user-friendly and easy to navigate, with clear explanations of each field to ensure that the resident provides the necessary information accurately.
-
-Before generating the help guide, I want to confirm that there's no duplication of information and that the form's sections and fields are logically consistent. The fields are structured into several sections, starting with resident information (full name, email, and phone number), followed by reporting details (issue, location, and description), and finally, contact and submission information (signature, date, and newsletter opt-in). There's no duplication of fields or sections that would cause confusion.
-
-Given this analysis, I will now output the final help guide in Markdown format.
-
-</thinking>
-
 # Community Condition Report - Help Guide
 ## Purpose
 The "Community Condition Report" form is designed for community residents to report issues or maintenance needs they have with their community. This form helps the property manager to address these problems efficiently and effectively.

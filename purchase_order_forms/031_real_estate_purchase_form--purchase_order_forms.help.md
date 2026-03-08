@@ -1,7 +1,3 @@
-<thinking>
-This form is for real estate purchases, collecting personal and purchase information from users. It is a general form and does not cover specific business logic or proprietary content.
-</thinking>
-
 # Real Estate Purchase Form - Help Guide
 ## Purpose
 The Real Estate Purchase Form is designed to collect personal and purchase information from users. It is intended to be a general form and not specific to any particular business logic or proprietary content.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PSS Questionnaire - Help Guide
 ## Purpose
 The PSS Questionnaire is designed to collect numerical data from users for further analysis and research. It is meant to be completed by individuals to provide their opinions or preferences on a specific set of questions.

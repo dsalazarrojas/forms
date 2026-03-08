@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a personalized egg basket order. The purpose of this form is to allow customers to specify their preferences for their order, including the type of egg, quantity, color, egg size, basket type, and shipping details. This form is intended for both the customer-facing side and internal use by the business. The business will use the information collected on this form to fulfill the order and keep track of the order status.
-</thinking>
-
 # Personalized Egg Basket Order Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # honey_price_and_image_submission - Help Guide
 
 ## Purpose

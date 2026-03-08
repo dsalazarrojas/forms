@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Childhood Celebration Survey - Help Guide
 
 ## Purpose

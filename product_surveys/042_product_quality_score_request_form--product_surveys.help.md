@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect product quality scores from customers to provide valuable feedback for product improvement and development. This form will be used to assess how well a product meets the customer's expectations and gather information about their experience with the product. It is essential to provide accurate and honest feedback to ensure that our products continue to meet the highest standards of quality and customer satisfaction.
-
-Before filling out this form, please ensure that you have not already provided a quality score for this product. This form is intended for new feedback and should not be submitted if you have already done so.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Product Quality Score Request Form - Help Guide
 ## Purpose
 The Product Quality Score Request Form is designed to collect product quality scores from customers to provide valuable feedback for product improvement and development.

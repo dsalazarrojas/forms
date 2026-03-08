@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information about writers' habits, experiences, and preferences related to writing crime novels. It will help us understand their writing styles, goals, and challenges, which will inform the development of resources and guidance for crime novel writers. Please note that this form is for general audience and will not store any personally identifiable information. Also, please do not duplicate the form responses, as it may cause confusion and affect the accuracy of the data collected...</thinking>
-
 # crime novel writing survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about writers' habits, experiences, and preferences related to writing crime novels.

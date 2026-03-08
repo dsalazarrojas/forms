@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect evaluations and feedback from users who have assessed the contact data lookup tool. This form is essential for vendors and internal teams to understand the tool's effectiveness, usability, and areas for improvement. It aims to gather specific metrics such as data accuracy, match rate, geographic coverage, and turnaround time to provide a comprehensive evaluation. Additionally, it seeks to gather subjective feedback on ease of integration, API documentation, privacy and compliance, and overall recommendation.
-
-This form is designed to collect detailed feedback from evaluators, reducing the risk of duplicated efforts and ensuring that the evaluations are consistent and reliable. By using this form, internal teams can identify trends and patterns in the feedback, allowing them to make data-driven decisions when selecting or improving contact data lookup tools.
-
-</thinking>
-
 # Contact Data Lookup Tool Evaluation Form - Help Guide
 ## Purpose
 The Contact Data Lookup Tool Evaluation Form is a tool designed to gather feedback and evaluations from users on the effectiveness of contact data lookup tools. This form helps vendors and internal teams to understand the tool's performance, usability, and areas for improvement.

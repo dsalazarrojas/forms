@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended for customers to place orders for promotional counter stands. It is designed to gather necessary information for the order, including customer details, artwork and delivery details, and payment method. Please check that you are using the correct fields and not duplicating any information. Ensure you enter accurate and complete information to avoid any issues with order processing.</thinking>
-
 # Promotional Counter Stand Order Form - Help Guide
 ## Purpose
 The Promotional Counter Stand Order Form is designed to gather information from customers for orders of promotional counter stands. This form helps the business understand the customer's needs and preferences, ensuring accurate and efficient order fulfillment.

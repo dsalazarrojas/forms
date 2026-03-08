@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information for souvenir booklets advertising. It is intended for business customers who want to advertise their products or services through our souvenir booklets. The form is likely to be used by sales representatives to gather information from customers before sending the booklets to them. This information will help us to track and manage the advertising campaigns.
-
-To ensure that the form is completed correctly, the sales representative should verify that the customer is a valid business entity before proceeding. This includes ensuring that the customer has provided all necessary contact information and payment details.
-
-It's also essential to check the payment information carefully and update the payment status accordingly. The customer should be informed about the total cost including any applicable sales tax and shipping costs.
-
-Please note that the form is not designed to handle complex or custom advertising campaigns. Any unusual requests should be discussed with a sales representative before using this form.
-</thinking>
-
 # Souvenir Booklet Advertising Form - Help Guide
 ## Purpose
 This form is used to collect information for souvenir booklet advertising campaigns from business customers.

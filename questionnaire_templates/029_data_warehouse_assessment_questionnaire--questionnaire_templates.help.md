@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the data warehouse's performance and identify areas for improvement. 
-It is meant to be completed by individuals with knowledge of the data warehouse's operations and maintenance. 
-Please ensure that you complete this form once per assessment cycle, and avoid duplication of efforts by checking that someone else hasn't already completed this form with similar answers. 
-This form is meant to be a comprehensive evaluation of the data warehouse, and your input is crucial in providing accurate and reliable feedback.
-</thinking>
-
 # data_warehouse_assessment_questionnaire - Help Guide
 ## Purpose
 The Data Warehouse Assessment Questionnaire is a tool designed to help assess the performance and operations of your data warehouse. This form aims to collect feedback and information from those who have hands-on experience with the warehouse, and it will help us identify areas of improvement and potential risks.

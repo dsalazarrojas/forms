@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to log information about focused work sessions. This form is typically used for tracking progress and recording details about work sessions. To ensure that the form is used effectively, please make sure that you are not duplicating information already recorded in other sessions or reports. If you are unsure about the form's purpose or have already submitted similar information, please review the relevant documentation or reach out to the form's maintainers for clarification.</thinking>
-
 # Focus Session Log Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about a property supplement. A property supplement is a financial benefit provided to property owners for their property. The form is used to verify the income and benefits of the property owners. The form will help to determine if the property owners are eligible for the benefit. This form is not a part of any other form or process, so the data will only be used to determine the eligibility of the property owners for the property supplement benefit.
-
-</thinking>
-
 # property_supplement_form - Help Guide
 ## Purpose
 The property supplement form is used to gather information about a property supplement, a financial benefit provided to property owners.

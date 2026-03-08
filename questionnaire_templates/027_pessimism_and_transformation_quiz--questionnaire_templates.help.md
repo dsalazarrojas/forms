@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users understand and reflect on their levels of pessimism and transformation. It is a self-assessment tool that allows users to evaluate their current state and identify areas for improvement. The form is not intended to be a comprehensive assessment, but rather a starting point for individual reflection and growth. Please complete this form only if you are willing to engage with the content and reflect on your answers honestly. If you need help or support, please don't hesitate to reach out to a coach or a trusted individual for guidance.
-</thinking>
-
 # Pessimism And Transformation Quiz - Help Guide
 ## Purpose
 

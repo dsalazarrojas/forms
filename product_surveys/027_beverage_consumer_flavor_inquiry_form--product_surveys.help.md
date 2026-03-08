@@ -1,8 +1,3 @@
-<thinking>
-To prevent data duplication, this form should be filled out by individuals who have not already participated in a similar survey within the last 30 days. This form collects data from consumers regarding their flavor preferences and purchasing behavior for various types of beverages. The goal is to gain insights into the diverse tastes and preferences of a wide range of consumers to help beverage manufacturers and businesses develop new products that cater to their target audience.
-
-</thinking>
-
 # Beverage Consumer Flavor Inquiry Form - Help Guide
 ## Purpose
 This form aims to gather information about your preferences and behavior as a consumer of different types of beverages. Your input will help us better understand your tastes and preferences to develop more appealing products.

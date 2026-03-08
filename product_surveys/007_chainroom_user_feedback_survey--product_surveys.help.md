@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on their experience with Chainroom. It is essential to understand that the purpose of this form is to gather insights from users to improve the product. This guide is intended to ensure that users understand what the form is for and how to complete it effectively.
-</thinking>
-
 # Chainroom User Feedback Survey - Help Guide
 ## Purpose
 The Chainroom User Feedback Survey is designed to collect your thoughts, opinions, and experiences with the Chainroom product. Your feedback is crucial in helping us understand your needs and improve the product to better serve you.

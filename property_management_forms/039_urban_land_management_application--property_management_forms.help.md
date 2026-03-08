@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for property management applications, particularly for urban land management proposals. It captures relevant information from the applicant, such as general information, land owner details, land use, and proposal details. It also includes fields for uploading files and comments for review. The form should be used by land owners, administrators, or other relevant stakeholders to facilitate the urban land management application process. Before proceeding, please review the form's purpose to ensure it aligns with your needs. If you've already created a similar form, ensure that this one serves a distinct purpose or has additional features that set it apart. Please note that the provided fields and form structure might be subject to changes or updates. 
-</thinking>
-
 # urban_land_management_application - Help Guide
 ## Purpose
 

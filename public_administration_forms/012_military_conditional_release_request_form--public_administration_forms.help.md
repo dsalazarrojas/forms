@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by military personnel to request a conditional release from active duty, typically for personal or administrative reasons. This form should only be used for authorized purposes and not for recreational or non-essential use. Please ensure the form is filled out accurately and with attention to detail to facilitate a smooth review process. The purpose of the form is to provide a clear and concise request for release, ensuring that all relevant information is included to support the decision-making process.
-</thinking>
-
 # Military Conditional Release Request Form - Help Guide
 
 ## Purpose

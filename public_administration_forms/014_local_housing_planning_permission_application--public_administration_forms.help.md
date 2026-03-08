@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Local Housing Planning Permission Application" form, I'll follow the provided YAML structure and offer explanations for each field in a concrete, concise, and practical manner. This form appears to be related to housing planning and development, focusing on land use, property details, contact information, and submission details.
-
-The purpose of this form is to collect information from individuals or organizations seeking planning permission for local housing projects. The form likely gathers data for administrative or regulatory purposes, such as tracking and evaluating applications, ensuring compliance with local regulations, and providing a record of submitted plans.
-
-To complete this form, users should ensure that all relevant fields are filled out accurately and thoroughly. This guide will walk through each field, explaining its purpose and requirements.
-
-</thinking>
-
 # Local Housing Planning Permission Application - Help Guide
 ## Purpose
 The "Local Housing Planning Permission Application" form is designed to collect necessary information from applicants seeking planning permission for local housing projects. It is used to gather data for administrative and regulatory purposes.

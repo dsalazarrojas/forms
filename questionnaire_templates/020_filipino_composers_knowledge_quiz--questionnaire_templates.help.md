@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about Filipino composers, specifically their name, birth date, musical works, and other related details. 
-The form is used to gather knowledge about Filipino composers for a specific purpose, such as research or educational purposes. It is essential to fill out the form accurately and completely to ensure that the collected data is reliable and useful. Please do not fill out this form if you are not familiar with the subject matter or if you are not certain about the accuracy of the information you are providing.
-
-Before proceeding, check if you have already filled out this form. If you have, please do not repeat the information.
-
-</thinking>
-
 # filipino_composers_knowledge_quiz - Help Guide
 ## Purpose
 The Filipino Composers Knowledge Quiz is a form designed to collect information about Filipino composers. The form is used to gather knowledge about Filipino composers for research or educational purposes.

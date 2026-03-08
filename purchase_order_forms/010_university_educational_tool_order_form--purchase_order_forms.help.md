@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information for ordering educational tools for university students. The form asks for the student's information, university, department, type of tool, quantity, date, time, and contact information. This form is likely used by university administrators to process tool orders from students. This guide is intended to help users understand the purpose and usage of this form.
-
-The form is not intended for internal use only, as it is designed to be used by external customers (university students). This guide will not cover any internal business logic or specific university policies. The purpose of this guide is to provide a concrete, step-by-step explanation of how to complete the form.
-
-Please note that this guide assumes that the form fields are self-explanatory. If a field label is weak or unclear, this guide will explain it in a best-effort way without inventing unsupported business logic.
-</thinking>
 # University Educational Tool Order Form - Help Guide
 
 ## Purpose

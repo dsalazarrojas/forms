@@ -1,9 +1,3 @@
-<thinking>
-
-To create a useful and non-duplicative feedback mechanism, this form is designed to gather information from clients about their experiences and perceptions of our services. The goal is to understand areas of improvement and identify what we do well. We will not contact you again unless you specifically request it. Please answer the questions honestly, and do not worry about providing sensitive information.
-
-</thinking>
-
 # Post Case Resolution Client Feedback Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from clients about their experiences with our services. This feedback will help us understand what we do well and what we can improve.

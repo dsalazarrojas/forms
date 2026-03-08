@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Word Problem Solution Guide - Help Guide
 ## Purpose
 The Word Problem Solution Guide is a form designed to help students solve math word problems by breaking down solutions into steps and providing a space for reflection and teacher feedback. It's intended for use in educational settings to facilitate student learning and teacher assessment.

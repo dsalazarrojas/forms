@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help identify researchers based on their characteristics and preferences. It's essential that you only fill out this form if you are a researcher, as it will help us understand your type and provide targeted support. Please do not complete this form if you are not a researcher.
-
-</thinking>
-
 # Researcher Type Identification Survey - Help Guide
 ## Purpose
 This form is intended to be completed by researchers to help us identify their characteristics and preferences. It will take approximately 2-3 minutes to complete and is crucial for our team to provide you with relevant support and resources.

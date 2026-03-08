@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Care Product Order Form - Help Guide
 
 ## Purpose

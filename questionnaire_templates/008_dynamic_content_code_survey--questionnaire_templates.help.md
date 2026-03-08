@@ -1,7 +1,3 @@
-<thinking>
-This form is a Dynamic Content Code Survey, designed to collect information about users' experiences with our product. The purpose of this survey is to gather data on various aspects of our product's performance, including satisfaction level, improvement priorities, feedback, and contact details in case users have questions or concerns. It's essential to fill out this form accurately and thoroughly to help us better understand your interactions with our product.
-</thinking>
-
 # Dynamic Content Code Survey - Help Guide
 ## Purpose
 The Dynamic Content Code Survey is a tool for gathering feedback and data about users' experiences with our product. This survey is used to identify areas of improvement and to make informed decisions about product development and feature enhancements.

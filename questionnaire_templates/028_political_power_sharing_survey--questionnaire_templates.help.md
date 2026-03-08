@@ -1,11 +1,3 @@
-<thinking>
-This form is a 25-question survey designed to gauge the effectiveness and impact of political power sharing practices within an organization or community. It's essential for respondents to provide honest answers to each question, and their input is crucial in helping the organization or community improve their political power sharing dynamics.
-
-Before proceeding, please ensure that the form is relevant to your role or position within the organization or community. This guide will walk you through each section to help you complete the form accurately and effectively.
-
-If you've already completed a similar survey, please skip to the "Tips" section for additional guidance on filling in fields that may seem repetitive or confusing. 
-</thinking>
-
 # Political Power Sharing Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your experiences and perceptions regarding political power sharing practices within your organization or community. Your honest input will help our team better understand the current state of our power sharing and inform improvements for a more harmonious and effective decision-making process.

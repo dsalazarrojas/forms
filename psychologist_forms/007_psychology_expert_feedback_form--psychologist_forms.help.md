@@ -1,7 +1,3 @@
-<thinking>
-This form is a simple, user-facing feedback form intended to solicit psychology expert feedback. The form's purpose is to gauge the satisfaction and experience of clients after a consultation session. It likely aims to collect quantitative and qualitative data on the client's perception of the services provided.
-</thinking>
-
 # Psychology Expert Feedback Form - Help Guide
 ## Purpose
 This form is a simple, user-facing feedback form intended to solicit psychology expert feedback. It helps to gauge the satisfaction and experience of clients after a consultation session with a psychology expert.

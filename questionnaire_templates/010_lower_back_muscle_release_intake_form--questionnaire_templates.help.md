@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients for a lower back muscle release session. It is used to gather session details, symptoms, medical conditions, client consent, and contact information. This form is designed to be completed by clients before their session to ensure they provide all necessary information for the practitioner to tailor the session to their needs. Please note that the form is not affiliated with any specific form platform and is an original adaptation of public survey topic metadata.
-
-</thinking>
-
 # lower_back_muscle_release_intake_form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for a lower back muscle release session. It is used to gather session details, symptoms, medical conditions, client consent, and contact information to ensure the practitioner can tailor the session to the client's needs.

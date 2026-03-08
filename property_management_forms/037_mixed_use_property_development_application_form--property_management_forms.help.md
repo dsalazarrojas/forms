@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for mixed-use property development applications. A mixed-use property development is a project that combines multiple uses, such as residential, commercial, and industrial uses, on a single property. This form is meant to gather essential details about the property, its development type, size, and address, as well as the contact person or organization responsible for the application. It is crucial to ensure that the provided information is accurate and complete to avoid duplication of effort and miscommunication within the development process.
-
-Before proceeding, please review the provided fields to ensure that you understand what each field entails.
-
-</thinking>
 # Mixed Use Property Development Application Form - Help Guide
 ## Purpose
 This form is designed to collect information for mixed-use property development applications.

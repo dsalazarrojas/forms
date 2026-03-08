@@ -1,9 +1,3 @@
-<thinking> This form is intended to help identify and assess the psychological effects of the "Titanic Syndrome" in employees. It is designed to gather information about an employee's thoughts, feelings, and behaviors related to this phenomenon. Please note that the form is divided into several sections, each focusing on different aspects of the Titanic Syndrome. Ensure you answer the questions and fields truthfully, as this information will help in providing accurate insights into your mental state.
-
-The form is structured into two main sections: 'Questions' and 'Employee/Manager Info'. The 'Questions' section contains multiple-choice questions that aim to assess your thoughts and feelings about the Titanic Syndrome. The 'Employee/Manager Info' section asks for more detailed information about your thoughts, feelings, and experiences related to the syndrome. This information will help in identifying any potential signs or symptoms of the syndrome.
-
-</thinking>
-
 # Titanic Syndrome Survey - Help Guide
 ## Purpose
 The Titanic Syndrome Survey is a form designed to help identify and assess the psychological effects of the Titanic Syndrome in employees. It is a tool to gather information and provide insights into the thoughts, feelings, and behaviors related to this phenomenon.

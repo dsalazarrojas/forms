@@ -1,12 +1,3 @@
-<thinking>
-We will create a help guide for a user-facing form called "lifestyle survey". To begin, let's review the form's purpose and ensure it's being used correctly. The purpose of this form is to collect background information about the user. This form is likely being used for research or data collection purposes. Please ensure you only submit this form if you have the authority to do so and are not duplicating effort.
-
-This form is composed of 7 fields. Review each field carefully and provide accurate information. If you're unsure about any field, please contact the relevant authority for clarification.
-
-This form is not intended to be completed by minors or individuals without the necessary authority. Please ensure you are eligible to complete this form before proceeding.
-
-</thinking>
-
 # lifestyle_survey - Help Guide
 ## Purpose
 The lifestyle survey is a form used to collect background information about the user. This information is likely being used for research or data collection purposes.

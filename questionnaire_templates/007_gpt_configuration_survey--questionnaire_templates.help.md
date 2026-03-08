@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # gpt_configuration_survey - Help Guide
 ## Purpose
 The gpt_configuration_survey is a form designed to gather information from users about their experience with a GPT (Generative Pre-trained Transformer) model. This form aims to collect feedback on the usability and configuration of the GPT model, providing valuable insights for improvement and optimization.

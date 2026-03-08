@@ -1,6 +1,3 @@
-<thinking>
-To confirm, this is a form for event organizers to order souvenirs for their event, correct? This form is used to gather information to place orders for various souvenir items, such as T-shirts, mugs, hats, tote bags, keychains, badges, water bottles, and other custom items. The form is designed to collect essential details like the event name, contact information, order type, design description, color, size range, total quantity, unit price, and production details like printing method and personalization requirements. It also has sections for production timeline and delivery schedule. This form seems to be a general-purpose souvenir order form without any specific event or organization in mind. I'll keep this in mind when creating the help guide.</thinking>
-
 # Club Event Souvenir Production Order Form - Help Guide
 ## Purpose
 This form is designed to help event organizers place orders for souvenirs for their events. It collects essential information to ensure accurate production and delivery of the ordered items.

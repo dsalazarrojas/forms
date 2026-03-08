@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their preferences and pain points related to pet product packaging. It's meant to understand their satisfaction with the current packaging, material preferences, and other related aspects. To avoid duplicating efforts, this form should only be filled out by customers who are actively considering purchasing a pet product or are already purchasing pet products.
-</thinking>
-
 # Pet Product Packaging Preference Survey - Help Guide
 
 ## Purpose

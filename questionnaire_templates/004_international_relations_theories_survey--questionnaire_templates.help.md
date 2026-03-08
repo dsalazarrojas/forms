@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # International Relations Theories Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your understanding of various international relations theories, specifically Neorealism, Neoclassical Realism, Liberalism, Constructivism, and Neoliberalism. The survey aims to gauge your knowledge and perception of these theories, which are fundamental concepts in the field of international relations. Your responses will help us better understand your views on these critical theories.

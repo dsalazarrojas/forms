@@ -1,8 +1,3 @@
-<thinking>
-To ensure that the form meets the requirements of real estate listing image upload, let's first verify that it's a property management form and that we are not duplicating efforts.
-
-</thinking>
-
 # real_estate_listing_image_upload_form - Help Guide
 ## Purpose
 The Real Estate Listing Image Upload Form is a tool used to collect and organize information about properties for real estate listings, including property details and additional information.

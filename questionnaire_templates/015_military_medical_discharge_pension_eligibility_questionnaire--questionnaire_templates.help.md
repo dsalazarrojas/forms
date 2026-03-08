@@ -1,8 +1,3 @@
-<thinking>
-**This form is intended to help determine the eligibility for military medical discharge pension. The form is designed to be completed by a service member or their representative. Please ensure that all answers are accurate and complete. If you are unsure about any question, please reach out to the relevant department or authority for guidance.**
-
-</thinking>
-
 # military_medical_discharge_pension_eligibility_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to determine the eligibility for military medical discharge pension. It is designed to assist service members or their representatives in understanding their eligibility for pension benefits.

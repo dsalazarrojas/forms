@@ -1,7 +1,5 @@
 > 
-### <thinking>
-The Phenotypic Plasticity Survey is a tool designed to collect information about the variation of traits among different individuals or groups. This form is intended to gather data on the phenotypic plasticity of traits, which is a crucial aspect of understanding the adaptability and diversity of living organisms. The purpose of this survey is to collect general information, participant details, and specific data about the traits and their characteristics. This form is not affiliated with any specific form platform and is created using AI-generated metadata. The form can be modified and used for personal or commercial purposes without restrictions. Please ensure that the collected data is used ethically and responsibly.</thinking>
-### <br>
+### ### <br>
 # Phenotypic Plasticity Survey - Help Guide
 ## Purpose
 This form is designed to collect data on the phenotypic plasticity of traits, including general information, participant details, and specific data on traits and their characteristics.

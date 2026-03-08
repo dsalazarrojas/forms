@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather user feedback and preferences for the list widget, a product feature used to display and manage lists of items. The purpose of this form is to understand how users interact with the list widget across different platforms, their level of satisfaction with the widget, and their opinions on its features. This information will help us improve the list widget to better meet user needs.
-</thinking>
-
 # list_widget_preferences_survey - Help Guide
 
 ## Purpose

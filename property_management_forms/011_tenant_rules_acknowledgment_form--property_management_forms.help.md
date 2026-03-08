@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tenant Rules Acknowledgment Form - Help Guide
 ## Purpose
 The Tenant Rules Acknowledgment Form is used to acknowledge and document the rules and regulations of a property, including landlord name, property name, and tenant name. It is essential for maintaining accurate records and ensuring compliance with property rules.

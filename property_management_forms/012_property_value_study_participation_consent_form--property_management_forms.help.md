@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect participant information for a property value study. It appears to be a general-purpose form for gathering contact and consent information from individuals participating in such studies. The form likely has several fields for collecting contact details, participant consent, and other relevant information. To confirm, I will create a comprehensive help guide.
-</thinking>
-
 # Property Value Study Participation Consent Form - Help Guide
 
 ## Purpose

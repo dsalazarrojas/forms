@@ -1,12 +1,3 @@
-<thinking>
-The "Ancient Human Sites Survey" form is a data collection tool designed for researchers and professionals in archaeology and related fields. This form is intended to gather information about ancient human sites, including their location, type, age, and condition. The form is used to document and track the status of archaeological sites, which is crucial for their preservation and further research.
-
-Please note that this form is a public survey, and the collected data will be used for public good. If you are an authorized representative of a research institution or organization, you may submit this form to gather data about ancient human sites for your own research or projects. However, if you are not authorized, please do not submit this form.
-
-This form is not meant to be used for commercial purposes or to extract proprietary data from other sources. The form's content and structure are based on public metadata and guidelines from various archaeological and cultural institutions.
-
-</thinking>
-
 # Ancient Human Sites Survey - Help Guide
 ## Purpose
 The "Ancient Human Sites Survey" form is designed to collect information about ancient human sites, including their location, type, age, and condition. This data will help researchers, institutions, and organizations track and preserve these sites.

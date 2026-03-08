@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # suicide_risk_assessment_form - Help Guide
 
 ## Purpose

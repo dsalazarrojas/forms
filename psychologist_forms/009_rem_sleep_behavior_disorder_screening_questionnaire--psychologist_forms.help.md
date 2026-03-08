@@ -1,10 +1,3 @@
-<thinking> 
-This guide is intended for end-users who will be completing the Rem Sleep Behavior Disorder Screening Questionnaire. 
-The purpose of this form is to assess an individual's risk for sleep behavior disorder, a condition characterized by abnormal sleep behaviors such as excessive daytime sleepiness or sleep attacks, or other sleep-related symptoms. 
-The form will collect information about various aspects of the individual's sleep behavior and history, including questions about sleep duration, sleep quality, sleep disorders, and other sleep-related habits. 
-This guide will walk you through each section and field of the form, explaining what information should be provided and why it is relevant to the assessment.
-</thinking>
-
 # Rem Sleep Behavior Disorder Screening Questionnaire - Help Guide
 
 ## Purpose

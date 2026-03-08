@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for wholesale inquiries, allowing businesses to provide information about themselves and their interests in purchasing products. It is meant to be a comprehensive guide for end-users to understand what the form is for and how to fill it out correctly. Please ensure that the form is filled out with the correct information to avoid any potential issues or miscommunications with the sales team.
-</thinking>
-
 # Wholesale Inquiry Form - Help Guide
 ## Purpose
 The Wholesale Inquiry Form is a tool for businesses to provide information about themselves and their interests in purchasing products from our company. It helps us understand your business needs and requirements.

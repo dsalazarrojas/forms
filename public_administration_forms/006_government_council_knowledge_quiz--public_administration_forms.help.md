@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the knowledge of individuals participating in a government council, specifically testing their understanding of various concepts, facts, and rules relevant to the council's activities. The form aims to gauge the level of awareness and comprehension of council members, officials, or other stakeholders. The purpose of this form is to identify areas where further education or clarification is needed, and to track progress over time.
-
-</thinking>
-
 # government council knowledge quiz - Help Guide
 ## Purpose
 

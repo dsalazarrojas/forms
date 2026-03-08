@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from users to better understand their experiences and preferences. The purpose of this form is to collect data for a pre-test phase of a project, likely to gather feedback or survey information from users. It's possible that this form is being used to ensure that users meet certain criteria or have specific experiences before proceeding to a subsequent phase or phase 2. This form might be part of a larger process or workflow. 
-
-However, further context or information on the project's goals or the exact purpose of this form would help clarify its intention and relevance.
-</thinking>
-
 # Pre-Test Phase Questionnaire - Help Guide
 
 ## Purpose

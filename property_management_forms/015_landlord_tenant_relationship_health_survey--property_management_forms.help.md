@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to help landlords and property managers collect valuable insights from tenants on their relationship health. By filling out this form, landlords can gauge their tenant's satisfaction, communication frequency, and any issues that have arisen during the landlord-tenant relationship. This will help landlords make informed decisions to improve their property management practices.
-
-The form has several sections, including landlord-tenant relationship health metrics, communication channels, and property-specific details. This form is designed to be user-friendly and straightforward, allowing landlords to quickly gather the information they need to assess their relationships with tenants.
-
-This form is not intended to be a replacement for other forms or surveys, but rather a complementary tool to help landlords refine their property management skills.</thinking>
-
 # Landlord Tenant Relationship Health Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from tenants on their relationship health with their landlord or property manager. This will help landlords make informed decisions to improve their property management practices.

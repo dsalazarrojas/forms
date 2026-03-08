@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Liquid Acceptance Survey - Help Guide
 ## Purpose
 The Liquid Acceptance Survey is a form designed to gather information about products, specifically their acceptance levels, factors that influence customer preferences, and contact details. The survey is meant to be completed by customers or users to provide insight into their acceptance and preferences for different products.

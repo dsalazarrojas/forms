@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used for researchers to request the purchase of research instruments, providing essential details such as the instrument requested, quantity, departmental details, contact information, and vendor details. This form helps streamline the requisitioning process, ensuring that the necessary information is collected in a consistent and thorough manner. Before starting, review the following guide to understand each section's purpose and how it contributes to the overall request process.
 
 # Research Instruments Requisition Form - Help Guide

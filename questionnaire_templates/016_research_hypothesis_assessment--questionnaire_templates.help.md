@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the research hypothesis submitted by the user. The purpose of this form is to ensure that the research hypothesis is clear, concise, and well-defined, and to provide a structured way to evaluate its validity and relevance. Before proceeding, please ensure that you have a clear understanding of the research question, hypothesis, and objectives. Also, make sure you have not already submitted a similar hypothesis for assessment. If you have any doubts or concerns, please feel free to ask your supervisor or colleague for clarification.
-
-</thinking>
-
 # Research Hypothesis Assessment - Help Guide
 ## Purpose
 This form is used to assess the research hypothesis submitted by the user.

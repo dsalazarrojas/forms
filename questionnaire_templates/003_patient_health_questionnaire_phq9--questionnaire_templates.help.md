@@ -1,7 +1,3 @@
-<thinking>
-The Patient Health Questionnaire PHQ9 is a standardized tool used to assess the physical, social, and emotional health of patients. This form is designed to be used by healthcare professionals to quickly and effectively gather information about a patient's overall health and well-being. Before starting, please ensure you've reviewed the patient's medical history and are familiar with the form's purpose. If you've already assessed a patient's health using this form, please note that it's not necessary to fill it out again.
-</thinking>
-
 # Patient Health Questionnaire PHQ9 - Help Guide
 ## Purpose
 The Patient Health Questionnaire PHQ9 is a comprehensive tool used to evaluate a patient's physical, emotional, and social health. It helps healthcare professionals assess the patient's overall well-being and identify potential issues that may require further attention.

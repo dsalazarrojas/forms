@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help patients report their symptoms of neuropathy, a condition characterized by damage to the nervous system. The form is called "Neuropathy Symptom Score Questionnaire" and is used to collect information about the patient's symptoms and their severity. This form is typically used in a clinical setting to help healthcare professionals assess the patient's condition and develop a treatment plan.
-</thinking>
-
 # Neuropathy Symptom Score Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about neuropathy symptoms from patients, helping healthcare professionals to assess the condition and develop a treatment plan.

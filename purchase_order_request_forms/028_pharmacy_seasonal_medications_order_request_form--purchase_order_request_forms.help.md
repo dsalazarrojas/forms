@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the "pharmacy_seasonal_medications_order_request_form" which is used by pharmacists to order seasonal medications for their customers. This form is used for internal purposes and should not be used for external communication with customers. The purpose of this form is to ensure that the customer's seasonal medication needs are accurately documented and communicated to the relevant teams within the pharmacy. 
-
-</thinking>
-
 # pharmacy_seasonal_medications_order_request_form - Help Guide
 ## Purpose
 The pharmacy_seasonal_medications_order_request_form is used to order seasonal medications for customers. This form ensures that the customer's needs are accurately documented and communicated to relevant teams within the pharmacy.

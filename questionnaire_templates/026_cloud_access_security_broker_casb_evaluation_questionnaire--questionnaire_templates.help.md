@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help organizations evaluate the suitability of a Cloud Access Security Broker (CASB) solution for their needs. The form will gather information on the organization's current cloud environment, security concerns, objectives, deployment goals, and requirements for implementing a CASB solution. This will help the organization identify whether a CASB solution is right for them, and if so, what specific features and resources will be needed for a successful implementation.
-</thinking>
- 
 # Cloud Access Security Broker (CASB) Evaluation Questionnaire - Help Guide
 ## Purpose
 The purpose of this questionnaire is to help your organization evaluate the suitability of a Cloud Access Security Broker (CASB) solution for your specific needs.

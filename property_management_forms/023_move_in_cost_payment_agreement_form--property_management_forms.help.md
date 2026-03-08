@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to document the costs associated with a tenant's move-in to a property. It captures information such as the dates related to the move-in, lease terms, payment methods, and other costs involved in the process. This form ensures that all parties involved are aware of their responsibilities and obligations regarding the move-in costs. 
-Please note that this form is likely used in a property management context, such as a rental property or a residential complex. The form should be completed by the tenant or property manager to accurately reflect the costs and terms associated with the move-in.
-
-To avoid duplication of effort, please ensure that this form is not used as a substitute for other relevant forms that capture similar information, such as lease agreements or property management records.</thinking>
-
 # Move In Cost Payment Agreement Form - Help Guide
 ## Purpose
 

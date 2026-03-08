@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about properties managed by a property manager. It appears to be a general information-gathering form, with fields for various details such as contact numbers, property details, and visit frequency. The form may be used for administrative or maintenance purposes, such as keeping track of properties and their associated contacts and visit schedules.
-
-The form has multiple pages, but the primary page appears to be the "First Page" (page 1), which likely contains the most critical information. The form includes fields for selecting multiple contact numbers, property type, and visit frequency, which suggests that the form is designed to be flexible and adaptable to different property management scenarios.
-
-The form does not appear to be redundant or duplicative, as each field seems to have a distinct purpose or function.</thinking>
-
 # Property Manager Information Form - Help Guide
 ## Purpose
 The Property Manager Information Form is a tool for property managers to gather and store information about the properties they manage.

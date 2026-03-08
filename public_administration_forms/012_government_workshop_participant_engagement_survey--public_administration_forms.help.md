@@ -1,10 +1,3 @@
-<thinking>
-This guide helps ensure that the form's purpose and functionality are clear for users, avoiding duplication of efforts and unnecessary submissions.
-
-The Government Workshop Participant Engagement Survey is a tool to gather feedback from workshop participants to improve the event's quality and attendee experience. The form collects data on participants' engagement, satisfaction, and suggestions for improvement. This guide will walk you through each section of the form, explaining the intended use and how to complete each field.
-
-</thinking>
-
 # Government Workshop Participant Engagement Survey - Help Guide
 ## Purpose
 The Government Workshop Participant Engagement Survey is designed to gather feedback from participants on their experience and suggestions for improvement. It helps organizers assess the overall engagement and satisfaction of the workshop, identifying areas of improvement and ensuring future events meet participant expectations.

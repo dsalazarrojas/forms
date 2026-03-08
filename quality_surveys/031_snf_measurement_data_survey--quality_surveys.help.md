@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their experiences with a specific product or service, specifically regarding their visits or interactions with it. This form is likely used for quality control and improvement purposes, helping the organization understand user behavior and preferences.
-
-The form is designed to collect various types of data, including personal details such as name, age, and contact information, as well as specific information about their visits, such as frequency and dates. Some fields are required to be filled out, while others are optional.
-
-The form's purpose is likely to help the organization understand user demographics, their interactions with the product or service, and their preferences. The data collected will likely be used to improve the product or service, making it more user-friendly and effective.
-
-Before filling out this form, ensure that you have the necessary information and that the answers are accurate. If you have any concerns or questions, feel free to reach out to the organization for assistance.
-</thinking>
-
 # SNF Measurement Data Survey - Help Guide
 ## Purpose
 The SNF Measurement Data Survey is designed to collect information about your experiences and interactions with the product or service. This information will help the organization understand user behavior and preferences, enabling improvements to be made to enhance your experience.

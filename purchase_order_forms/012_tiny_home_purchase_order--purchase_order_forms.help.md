@@ -1,6 +1,3 @@
-<thinking>
-This form is a comprehensive form for creating and managing tiny home purchase orders. It is used to gather information about the buyer, pricing, and other essential details related to the purchase order. This form should not be used for any other purpose than creating a purchase order for tiny homes. If you need to create a purchase order for a different type of product or service, please use the corresponding form.</thinking>
-
 # Tiny Home Purchase Order - Help Guide
 ## Purpose
 This form is designed to collect information for a tiny home purchase order. It is used by buyers and sellers to create, manage, and track purchase orders for tiny homes.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide will be used to inform end-users about the purpose and functionality of the Product Survey Form, which is used to gather feedback and opinions from customers about our products and services. This form is designed to collect information about their experiences, satisfaction, and preferences.
-
-</thinking>
-
 # Product Survey Form - Help Guide
 ## Purpose
 The Product Survey Form is a tool used to gather insights and feedback from customers on our products and services. This form is used to understand customer experiences, satisfaction levels, and preferences to improve our products and services.

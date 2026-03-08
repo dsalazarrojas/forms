@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # platform_user_experience_survey - Help Guide
 ## Purpose
 This form is designed to gather user feedback and experience with our platform. It aims to understand how users interact with the platform, identify areas for improvement, and gather suggestions for future development.

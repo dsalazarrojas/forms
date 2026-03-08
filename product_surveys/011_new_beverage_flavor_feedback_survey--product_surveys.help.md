@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experience with a new beverage flavor. The form is designed to gather information about the drink's taste, purchase habits, and overall satisfaction. It is intended for customers who have purchased or tried the new flavor. The form is not meant for internal employees or non-customers.
-
-Before starting the survey, please ensure that you are a customer who has purchased or tried the new flavor. If you are not a customer, you will not be able to complete the survey.
-
-Please note that some fields are optional, but the required fields are marked with an asterisk (*). Completing the form requires submitting all required fields.
-
-This form is for anonymous feedback, and the data will be used to improve the product and service.
-
-</thinking>
-
 # New Beverage Flavor Feedback Survey - Help Guide
 ## Purpose
 The New Beverage Flavor Feedback Survey is a survey designed to collect feedback from customers about their experience with a new beverage flavor. It is intended for customers who have purchased or tried the new flavor.

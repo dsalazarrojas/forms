@@ -1,5 +1,3 @@
-<thinking>...this form is used to collect information for an online assessment, likely for research or survey purposes. It is designed to gather demographic data (first name, last name, email) and consent from participants. Please ensure this form is not used for other purposes that might lead to duplication of effort or incorrect data collection. To ensure accurate and efficient completion, please follow the below guide...</thinking>
-
 # Online Assessment Consent Form - Help Guide
 ## Purpose
 This online assessment consent form is used to collect demographic information and consent from participants for research or survey purposes. Please use this form only for its intended purpose.

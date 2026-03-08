@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Director Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information from film directors, including their bio, contact details, filmography, and other relevant information. The form is intended to be used for research or other purposes where accurate and detailed information about film directors is needed.

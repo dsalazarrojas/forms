@@ -1,8 +1,3 @@
-<thinking>
-The form "Triangle Measurement Survey" is designed to collect user feedback and insights on a specific aspect of triangles. This form is likely used to gauge user perceptions and opinions on different types of triangles, their characteristics, and the user's personal preferences. It's likely that the form will help in identifying patterns in user responses, such as which type of triangle users prefer, how they rate their perceived quality, or any notable characteristics of the triangles they've come across.
-It's essential to complete this form with care to ensure that the collected data is accurate and representative. Please review each page and answer the questions accordingly. If you have any doubts, please refer to the Field-by-Field explanation below.
-</thinking>
-
 # Triangle Measurement Survey - Help Guide
 
 ## Purpose

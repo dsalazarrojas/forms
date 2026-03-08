@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to gauge a user's awareness and understanding of scientific concepts, with a focus on multiple-choice and open-ended questions. The form is divided into multiple pages, each with a different type of question. Some questions are multiple-choice, while others are open-ended or require numerical input. The form is intended to be completed by a user who has a basic understanding of scientific concepts.
-
-Before starting, please note that this form is designed to be completed in a sequential manner, with each page building upon the previous one. Make sure to read each question carefully and answer accordingly.
-
-Please check the following:
-- Are you familiar with scientific methods and principles?
-- Have you completed a scientific survey before?
-- Are you aware of any medical or health conditions that may impact your ability to participate?
-If you answer "Yes" to any of these questions, please do not complete this form.
-
-If you answer "No" to all of the above questions, proceed to complete the form.
-
-Please note that this form is intended for educational purposes only.
-</thinking>
-
 # Learning Science Awareness Survey - Help Guide
 ## Purpose
 The purpose of this form is to assess your awareness and understanding of scientific concepts in various fields.

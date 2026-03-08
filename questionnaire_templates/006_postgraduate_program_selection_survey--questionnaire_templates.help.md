@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Postgraduate Program Selection Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential postgraduate students about their interests, fields of study, and preferred contact method. This information will be used to determine the best fit for each student and to facilitate communication during the application process.

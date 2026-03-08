@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback from customers about a product. This feedback will help our team understand customer opinions on product quality, design, and overall experience. It is optional to provide contact information and a rating. The form will not be duplicated in the system if the user has already provided feedback for the same product in the past.
-</thinking>
-
 # Product Feedback Form - Help Guide
 ## Purpose
 The product feedback form is designed to gather customer opinions on the quality, design, and overall experience of our product. Your feedback is valuable to us, and we appreciate your time in providing it.

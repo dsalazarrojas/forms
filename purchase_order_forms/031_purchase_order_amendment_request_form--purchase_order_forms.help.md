@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for amending a purchase order. It is a multi-page form that covers various aspects of the amendment request.
-To prevent duplicate submissions, please do not submit a new request while the previous one is still pending or in progress.
-Please note that this form is for amending a purchase order, not creating a new purchase order.
-</thinking>
-
 # Purchase Order Amendment Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for amendments to an existing purchase order. The form collects information related to the original purchase order, the desired changes, and other relevant details.

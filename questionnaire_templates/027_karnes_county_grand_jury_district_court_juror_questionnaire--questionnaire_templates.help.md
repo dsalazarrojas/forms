@@ -1,8 +1,4 @@
-# <thinking>
-The purpose of this form is to collect information from potential jurors in the Karnes County Grand Jury District Court. This form will gather demographic and availability information to help the court select appropriate jurors for trials. To ensure accurate and efficient selection, it is essential to fill out the form completely and accurately.
-</thinking>
-
-# Karnes-County Grand Jury District Court Juror Questionnaire - Help Guide
+# # Karnes-County Grand Jury District Court Juror Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect demographic and availability information from potential jurors in the Karnes County Grand Jury District Court. The information gathered will help the court select suitable jurors for trials.
 

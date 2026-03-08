@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll assume that the form "Theology And History Survey" is intended to gather information about individuals' background, interests, and views on faith-related topics. This form likely aims to collect responses from individuals with diverse backgrounds and expertise in the field of theology and history, to gain insights into their perspectives on faith and its significance. Before creating the user-facing help guide, I'll review the form's structure and content to ensure I'm on the right track. Based on the provided YAML schema, I'll create a help guide that explains each field's purpose, requirements, and any additional context that might be needed for the users to complete the form accurately and meaningfully.</thinking>
-
 # Theology And History Survey - Help Guide
 ## Purpose
 The Theology And History Survey is a tool designed to gather diverse perspectives on faith-related topics from individuals with various backgrounds and expertise in theology and history. Your responses will contribute to a better understanding of these subjects and help identify gaps in current curricula.

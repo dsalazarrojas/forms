@@ -1,9 +1,3 @@
-<thinking>
-This form is used for inspecting properties that are part of a rental agreement. The form will gather data on the property's condition, status, type, and other relevant details. To complete this form, you should have knowledge about the property's current status, its address, the type of property (e.g. studio, one-bedroom, two-bedroom), and other necessary details. Please ensure that the data you enter is accurate, as this form will be used for property management decisions.
-
-Please note that the form has multiple pages, but only the first page is displayed here.
-</thinking>
-
 # rental_property_inspection_form - Help Guide
 ## Purpose
 This form is used to collect data on a rental property's condition and other essential details for property management decisions.

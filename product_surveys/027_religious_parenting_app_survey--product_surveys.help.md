@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about parents' interests, app usage, and demographic details to help us better understand our target audience and provide more relevant content in the future. This form should only be filled out once per person, and it's essential to answer all required fields to ensure accurate data collection. Please note that some fields are marked as required, and those fields must be filled out to complete the form successfully.
-</thinking>
-
 # Religious Parenting App Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your interests, app usage, and demographic details to help us better understand our target audience and provide more relevant content in the future.

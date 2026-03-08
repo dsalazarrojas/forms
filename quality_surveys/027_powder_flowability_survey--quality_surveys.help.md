@@ -1,12 +1,3 @@
-<thinking>
-We need to create a help guide for the "Powder Flowability Survey" form. This form is used to assess the flowability of a powder, which is a measure of how well a powder flows and settles. The form is designed to collect data on various aspects of powder flowability, including a flowability test, a flowability scale, and handling properties.
-This form should be used by personnel who work with powders, such as quality control specialists or production managers, to gather information about the flowability of a powder. It is not intended for public use and is specific to the internal use of the company.
-
-Before proceeding, please ensure that you are authorized to access this form and that you have read and understood the instructions. If you are unsure, please reach out to your supervisor or quality control team for guidance.
-
-The form is divided into several sections, each of which collects specific information about the powder. Please read through each section carefully and answer the questions accordingly.
-</thinking>
-
 # Powder Flowability Survey - Help Guide
 ## Purpose
 The Powder Flowability Survey is used to collect data on the flowability of a powder, including its flowability test, flowability scale, and handling properties.

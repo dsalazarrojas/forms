@@ -1,7 +1,3 @@
-<thinking> 
-Sozo Ministry Application is a form used to gather information from individuals seeking ministry services from Sozo Ministries. This form helps us understand a person's background, relationships, and experiences to provide personalized support and guidance. The goal is to gather accurate and comprehensive data, avoiding any duplication of efforts. 
-</thinking>
-
 # Sozo Ministry Application - Help Guide
 
 ## Purpose

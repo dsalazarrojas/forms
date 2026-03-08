@@ -1,9 +1,3 @@
-<thinking>
-Internal purpose of this form: 
-The purpose of the "IT License Purchase Request Form" is to gather and store information about IT license purchases, including details on the type of license, purchase date, user type, and approval process. This information is collected to ensure that all IT licenses are properly recorded and approved.
-To prevent duplication, only one form should be filled out per license purchase.
-</thinking>
-
 # IT License Purchase Request Form - Help Guide
 ## Purpose
 The IT License Purchase Request Form is used to collect information about IT licenses, ensuring they are properly recorded and approved.

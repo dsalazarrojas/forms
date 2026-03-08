@@ -1,5 +1,3 @@
-<thinking>... Internal reasoning: This form is designed to collect data on the user's experience and satisfaction with the vehicle lighting control system. It's meant to gather feedback on various features of the system, such as adaptive cruise control, adaptive speed limiting, and safety assistance. The form is likely used to improve the system based on user input...</thinking>
-
 # Vehicle Lighting Control Survey - Help Guide
 ## Purpose
 The Vehicle Lighting Control Survey is designed to collect your feedback and satisfaction level with the vehicle's lighting control system. Your input will help us improve the system and provide better driving experiences for all users.

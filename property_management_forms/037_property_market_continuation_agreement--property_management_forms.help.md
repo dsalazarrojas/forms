@@ -1,14 +1,3 @@
-<thinking>
-This form is used to document the continuation of a property market, which is an essential process for property transactions. Its purpose is to ensure that both the buyer and seller are on the same page and have agreed on the terms of the transaction.
-
-The form collects information about the buyer and seller, including their names, addresses, and contact information. It also captures the financial details of the transaction, such as the purchase price and down payment. Additionally, it includes fields for the property's address and type, as well as fields for the agents representing the buyer and seller.
-
-The form is designed to be completed in collaboration with both parties, with the buyer and seller signing the form to confirm their understanding of the terms and conditions. This ensures that both parties are aware of their responsibilities and obligations.
-
-This form is part of a larger process of property management, which includes other forms and documents that are used to facilitate the sale and purchase of properties. By using this form, you can ensure that all parties involved are informed and in agreement on the details of the transaction.
-
-</thinking>
-
 # Property Market Continuation Agreement - Help Guide
 ## Purpose
 This form is used to document the continuation of a property market, ensuring that both the buyer and seller are on the same page and have agreed on the terms of the transaction.

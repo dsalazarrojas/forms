@@ -1,8 +1,3 @@
-<thinking>
-This form aims to collect information about organizations offering housing services, which is crucial for maintaining an up-to-date organization chart. The purpose of this form is to provide a standardized and efficient way for organizations to submit their information, ensuring that their details are accurately represented on the organization chart.
-Before proceeding, please note that if you have submitted the same information before, there's no need to resubmit. This form is designed to be concise, and your input will directly contribute to the chart's accuracy.
-</thinking>
-
 # Housing Services Organization Chart Submission - Help Guide
 
 ## Purpose

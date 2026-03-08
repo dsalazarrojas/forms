@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect consumer opinions and feedback on a new product launch. It is intended to gather information on the product's launch details, demographic information, and follow-up preferences. This form will help us understand how likely consumers are to purchase the product, how often they would use it, and what methods they would prefer for follow-up communications.
-
-To ensure that this form is being filled out by the right people, it's essential that users understand how to fill it out correctly. Please make sure that you are filling out this form with genuine opinions and feedback, and that you're not repeating any previously submitted responses.
-
-</thinking>
-
 # new_product_launch_consumer_opinion_poll - Help Guide
 ## How To Complete This Form
 

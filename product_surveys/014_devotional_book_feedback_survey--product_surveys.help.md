@@ -1,7 +1,3 @@
-<thinking>
-This form is a Devotional Book Feedback Survey, designed to collect feedback from readers on a devotional book. The primary purpose of this form is to gather information on how readers experienced the book, what they liked or disliked, and whether they would recommend it to others. This survey aims to improve the quality and effectiveness of future devotional book content. 
-</thinking>
-
 # Devotional Book Feedback Survey - Help Guide
 ## Purpose
 The Devotional Book Feedback Survey is a tool for readers to provide their honest feedback on a devotional book. Your input will help us create more valuable content for our readers in the future.

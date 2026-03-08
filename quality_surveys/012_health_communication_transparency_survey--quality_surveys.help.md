@@ -1,11 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-To avoid duplication of efforts and ensure accurate data collection, it's essential to clarify the purpose and usage of this form for both administrators and end-users. This form, "Health Communication Transparency Survey," aims to gather user feedback on the clarity, trustworthiness, and frequency of health messaging. It's designed to be completed by individuals who have been exposed to health communication efforts, either through social media, news outlets, or other online platforms. The form's questions are carefully crafted to gather data on the perceived level of transparency in health messaging, the type of health team associated with the messaging, the preferred format of health messaging, and the frequency of exposure to similar messaging. 
-
-Upon completion, the form will help administrators identify areas for improvement, ensuring that future health communication efforts are effective, trustworthy, and tailored to the needs and preferences of the target audience.
-
-</thinking>
-
 # Health Communication Transparency Survey - Help Guide
 ## Purpose
 This survey is designed to collect user feedback on the clarity, trustworthiness, and frequency of health messaging. Your input will help us improve our communication efforts and ensure that our messages are effectively conveyed to you and the public.

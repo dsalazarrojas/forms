@@ -1,7 +1,3 @@
-<thinking>
-To determine if this form is relevant to the current user, we need to check if the user has any existing sustainability initiatives in place. If they do, we should check if there are any existing implementation statuses to avoid duplication. This will ensure that users are not asked to re-evaluate initiatives they have already assessed.
-</thinking>
-
 # sustainability_initiatives_implementation_assessment - Help Guide
 ## Purpose
 This form is for evaluating the implementation status of sustainability initiatives within an organization. It helps assess the progress and commitment towards sustainability.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather feedback from community residents on their opinions and preferences regarding safety initiatives. The goal is to understand their level of concern, trust, and willingness to support and participate in community safety programs. By providing their input, residents will help shape the direction of future safety initiatives that meet their needs and priorities.
-
-This form is not intended to be a comprehensive survey, but rather a tool for gathering qualitative information that will help local authorities make data-driven decisions.
-
-Before completing this form, please note that all responses are anonymous and will be used solely for the purpose of improving community safety. No personally identifiable information will be collected except for the email address, which will only be used to share poll results with the community.
-
-If you have already provided feedback on similar topics, please consider providing additional insights, as your previous responses will not be considered in the evaluation of your current answers.
-</thinking>
-
 # Community Safety Initiative Poll Form - Help Guide
 ## Purpose
 

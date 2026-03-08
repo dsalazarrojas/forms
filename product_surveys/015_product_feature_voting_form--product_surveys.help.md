@@ -1,16 +1,3 @@
-<thinking> 
-
-This form is a Product Feature Voting Form, designed to collect user feedback and opinions on various product features. Its purpose is to gather user input on whether certain features are desirable or not. This form should only be used to collect data from users who have a genuine interest in participating in the voting process. Please note that this form is not intended for general feedback or support inquiries, which should be directed to a separate support channel.
-
-To determine the relevance of this form, consider the following:
-
-* Do you have a genuine interest in the product and its features?
-* Are you familiar with the product's offerings and functionality?
-* Are you willing to provide honest and constructive feedback on the product's features?
-
-If you answered 'yes' to these questions, then you are likely a good fit for this form. If not, please contact our support team for assistance.
-
-</thinking>
 # Product Feature Voting Form - Help Guide
 ## Purpose
 The Product Feature Voting Form is designed to collect user feedback and opinions on various product features. It helps us understand what features you like or dislike, and what you would like to see added or removed from the product.

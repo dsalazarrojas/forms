@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the "Community Development Opinion Assessment Form", let's quickly review its purpose and relevance. This form is designed to collect feedback and opinions from residents on the development of their community. It's essential to ensure that the form is filled out by the intended audience, residents with a genuine interest in providing their opinions. This form should not be completed by non-residents or individuals without a vested interest in the community's development. With that in mind, let's move on to the help guide.</thinking>
-
 # Community Development Opinion Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to gather opinions and feedback from residents about the development of their community. Your input will help us understand your needs, concerns, and suggestions for improvement. Please take a few minutes to complete this form and provide us with your honest opinions.

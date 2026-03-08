@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about public project expenditure audits. The purpose of the form is to gather data on project details, spending reviews, review dates, and other relevant information to ensure accurate and transparent public administration. This form is intended to be used by authorized personnel to record and verify project expenditures.
-</thinking>
-
 # Public Project Expenditure Audit Form - Help Guide
 ## Purpose
 The Public Project Expenditure Audit Form is used to record and verify public project expenditures, ensuring transparency and accuracy in public administration.

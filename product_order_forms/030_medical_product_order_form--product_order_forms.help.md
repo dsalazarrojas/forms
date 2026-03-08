@@ -1,7 +1,3 @@
-<thinking>
-This form is a Medical Product Order Form that allows users to input their order details for medical products. The form is designed to collect information from customers who wish to purchase medical products from our organization. The form should only be used for customers who have not previously submitted an order form, and it's best to check if a customer has an existing order form before proceeding. The form should only be filled out with one product per form submission, as multiple products can be included in the same order.
-</thinking>
-
 # Medical Product Order Form - Help Guide
 ## Purpose
 The Medical Product Order Form is used to collect information from customers for ordering medical products.

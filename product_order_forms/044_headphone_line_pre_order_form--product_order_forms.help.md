@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers for pre-orders of headphones and accessories. The form is intended to be used for customers to provide their order details, shipping information, payment information, and any additional comments or notes they may have. The form is used by business stakeholders to process and track customer orders. 
-
-To ensure accurate and efficient processing, please carefully review each field and provide accurate information to avoid errors and misunderstandings.
-
-</thinking>
-
 # Headphone Line Pre Order Form - Help Guide
 
 ## Purpose

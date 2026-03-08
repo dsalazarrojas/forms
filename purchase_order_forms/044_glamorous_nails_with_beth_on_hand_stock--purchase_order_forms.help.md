@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture order and customer information for the "Glamorous Nails With Beth On Hand Stock" product. It appears to be a simple form for customers to provide their order details and contact information. This form seems to be relevant to the beauty and retail industry. To confirm, I will not output any duplicated or non-relevant information.
-</thinking>
-
 # Glamorous Nails With Beth On Hand Stock - Help Guide
 ## Purpose
 This form is intended for customers to submit their orders and provide necessary contact and shipping details for the "Glamorous Nails With Beth On Hand Stock" product.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from commercial property owners or businesses to assess their creditworthiness and determine the feasibility of a commercial loan. The form will help us understand the borrower's business type, revenue, credit score, property value, and loan requirements. This information will be reviewed to determine the likelihood of loan approval and to tailor a loan proposal that meets the borrower's needs. Please ensure that the information provided is accurate and complete, and that you are authorized to submit this information on behalf of the business.
-</thinking>
-
 # Commercial Mortgage Qualification Survey - Help Guide
 ## Purpose
 This form is designed to collect information from commercial property owners or businesses to assess their creditworthiness and determine the feasibility of a commercial loan.

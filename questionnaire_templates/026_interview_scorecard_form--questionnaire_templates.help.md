@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive guide for end users to understand the purpose and process of completing the form. Upon reviewing the provided YAML, it is apparent that the form is an "Interview Scorecard Form" aimed at collecting information from interviewers to score and evaluate interviews. This form likely serves as a tool for feedback, assessment, or evaluation of candidate, employee, or customer interviews. The form appears to be non-duplicative, as the name suggests, but it would be ideal to clarify its purpose with the development team to ensure it serves its intended purpose.
-
-The form consists of 25 pages labeled as "first_page" through "twentyfifth_page", indicating it might be a multi-page form for collecting extensive data. However, it's worth noting that all pages are of type "text", suggesting they might be used for free-form responses or comments rather than multiple-choice questions. Given the large number of pages and the absence of any conditional logic or branching based on answers, it's reasonable to infer that the form might be designed for qualitative data collection rather than quantifiable scoring.
-
-The form's structure and the presence of multiple text fields suggest it might be a general-purpose scorecard for collecting feedback on interviews. Each page can likely be used to capture specific points or topics to be evaluated during the interview. Since all pages are "text" type and not multiple-choice or checkbox, it implies that the scorecard form is more about capturing detailed feedback or descriptions.
-
-It's possible that the form could be used for training, performance evaluation, or customer satisfaction feedback. Without more information about the context and the purpose of the form, it's reasonable to assume it's designed for a general evaluation scorecard.
-
-The form's design seems to be intended for a single user's response, with no apparent branching or conditional logic. It might be used for individual feedback rather than group feedback. The absence of any specific instructions for completion suggests that users might be expected to provide free-form responses without specific guidance.
-</thinking>
-
 # Interview Scorecard Form - Help Guide
 ## Purpose
 The Interview Scorecard Form is designed to collect comprehensive feedback from interviewers on the effectiveness and quality of interviews.

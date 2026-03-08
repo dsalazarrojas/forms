@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a person's moral values and feelings related to specific situations. It's essential to be honest and accurate in your responses, as this form will help researchers understand people's perceptions on various aspects of morality. Please note that this is a voluntary and anonymous survey, and your responses will be used to improve research and understanding, not to judge you personally.
-
-</thinking>
-
 # Morality Survey - Help Guide
 ## Purpose
 This form is intended to collect your thoughts and feelings on different moral situations. Your responses will help us better understand how people think and feel about these situations, which will aid in improving research and decision-making.

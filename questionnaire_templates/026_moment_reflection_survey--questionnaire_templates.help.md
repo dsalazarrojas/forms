@@ -1,5 +1,3 @@
-<thinking>This form was created using AI to help users reflect on their experiences. The form is called "moment_reflection_survey" and is designed for users to reflect on their thoughts, feelings, and actions from specific moments in time. Before you start, take a moment to review the following pages to ensure you're not duplicating your response. Please answer the questions honestly, and be as detailed as possible.</thinking>
-
 # moment_reflection_survey - Help Guide
 ## Purpose
 The moment_reflection_survey is a tool to help you reflect on your experiences. It consists of 12 questions that ask you to describe a moment in time that stands out to you. 

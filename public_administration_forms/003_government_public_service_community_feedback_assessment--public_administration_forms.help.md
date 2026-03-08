@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for collecting feedback from citizens who interact with government public services. It's meant to gather information about their experiences, satisfaction, and concerns related to these services. This form will help government public servants identify areas for improvement and make informed decisions about service delivery. The feedback collected will be reviewed and analyzed to ensure that public services are provided efficiently and effectively.
-
-</thinking>
-
 # Government Public Service Community Feedback Assessment Form - Help Guide
 
 ## Purpose

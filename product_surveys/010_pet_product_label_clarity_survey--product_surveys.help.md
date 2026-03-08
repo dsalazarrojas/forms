@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of this form is to collect feedback on pet product labels, specifically regarding their clarity, readability, and other relevant aspects. This form helps us assess and improve the labels for better user experience. This form likely aims to gather input from pet owners, animal lovers, or pet industry experts. Please ensure you're filling this out for the correct purpose to provide accurate and relevant feedback. Also, be aware that the form is not designed for general feedback, it seems to be focused on pet product labels, so only answer questions related to pet products and labels. If you're unsure about any part of the form, you can always reach out to the form administrators or your colleagues for clarification. 
-</thinking>
-
 # Pet Product Label Clarity Survey - Help Guide
 ## Purpose
 The Pet Product Label Clarity Survey is designed to collect feedback and input on pet product labels to help us improve their clarity and overall user experience.

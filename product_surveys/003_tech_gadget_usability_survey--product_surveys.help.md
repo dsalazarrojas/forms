@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather feedback and usability insights from product team members regarding the usability of our tech gadgets. The form is designed to be completed by product team members to provide their input on the usability of our gadgets. 
-
-The purpose of this form is to understand how well our tech gadgets meet the needs and expectations of our team members. This will help us identify areas of improvement and make informed decisions for future product development. 
-
-The form is not intended to be filled out by end-users, but rather by internal team members who have hands-on experience with our gadgets.
-
-</thinking>
-
 # techGadgetUsabilitySurvey - Help Guide
 ## Purpose
 The **techGadgetUsabilitySurvey** form is used to gather feedback and usability insights from product team members on the usability of our tech gadgets.

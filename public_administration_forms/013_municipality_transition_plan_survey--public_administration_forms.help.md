@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the Municipality Transition Plan Survey form. The purpose of this form is to gather information from the users on their readiness to transition to a new system, identify any concerns they may have, and collect improvement ideas and contact information. This guide will walk you through each section of the form and what information is being collected.
-</thinking>
-
 # Municipality Transition Plan Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from municipalities on their transition plan, readiness, and any concerns they may have. The goal is to understand the current state of the municipalities' systems and processes and identify areas that need improvement or support.

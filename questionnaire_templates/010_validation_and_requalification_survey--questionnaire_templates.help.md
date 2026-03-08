@@ -1,10 +1,3 @@
-<thinking>
-The "Validation And Requalification Survey" form is designed to assess an individual's current status, qualification, and processes in relation to changes and feedback. It's likely intended for professionals in a specific field (e.g., quality control, project management, etc.) who need to validate and requalify their processes to maintain or improve standards. This form is not a one-time activity, and its purpose is to provide a snapshot of the current state of affairs, allowing users to track changes and progress over time.
-
-To avoid duplication of effort and unnecessary work, ensure that you are not currently conducting a similar survey or evaluation in your area of responsibility.
-
-</thinking>
-
 # Validation And Requalification Survey - Help Guide
 ## Purpose
 The "Validation And Requalification Survey" is designed to collect information about your current status, qualification, and processes related to changes and feedback.

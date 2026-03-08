@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from the public on areas of urban planning and community development that need improvement. It is intended for users to express their opinions and ideas on how to make their community a better place. Please note that this form is not for general complaints or comments, but rather for constructive feedback and suggestions. It is also essential to ensure that the form is being filled out for its intended purpose and not being duplicate or repetitive. 
-</thinking>
-
 # urban_planning_community_development_needs_assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from the public on areas of urban planning and community development that need improvement.

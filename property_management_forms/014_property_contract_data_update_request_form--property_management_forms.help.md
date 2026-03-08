@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to allow property management users to update property contract data, specifically requesting a change to the current status, number, or other relevant information. The form helps ensure that the updated information is accurate and recorded appropriately, preventing potential errors or inconsistencies in the property's records.
-  
-  To prevent duplication of effort or unnecessary updates, it's crucial to review the updated information before submitting the form.
-  
-  This guide is provided to assist users in understanding the form's purpose, how to complete it, and what information is required for each field.
-</thinking>
-
 # Property Contract Data Update Request Form - Help Guide
 ## Purpose
 This form is used to update property contract data, such as changing the status or number of a property contract.

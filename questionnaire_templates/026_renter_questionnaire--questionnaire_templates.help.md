@@ -1,5 +1,3 @@
-<thinking>...checking the form for relevance and non-duplication...</thinking>
-
 # Renter Questionnaire - Help Guide
 ## Purpose
 The Renter Questionnaire is a form used to collect information from renters for property management purposes. It gathers essential data to help landlords or property managers understand the renter's details, lease terms, and property requirements.
@@ -175,4 +173,3 @@ To complete the Renter Questionnaire, follow these steps:
 * Required: No
 * Explanation: Add any additional comments or notes about your stay in the property.
 
-<thinking>...done...</thinking>

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from the development team about a digital product. It is intended to help the team assess and discuss the product's feasibility, development stage, target audience, and other relevant details. 
-To ensure that the form is filled out correctly and accurately, please make sure to review the fields carefully before providing any information. This form should not be used for duplicate or redundant entries; each entry should represent a unique digital product. 
-Please fill out the form according to the instructions below.
-</thinking>
-
 # Digital Product Development Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a comprehensive checklist for property management tasks. It allows users to track and manage various aspects of a property, including its type, address, maintenance status, inspection schedule, and contact information. This form aims to streamline property management processes, ensuring that important tasks and deadlines are not missed.
-</thinking>
-
 # Property Management Checklist Form - Help Guide
 ## Purpose
 This form is designed to help users track and manage properties, ensuring that all necessary tasks and maintenance are up-to-date and completed on time.

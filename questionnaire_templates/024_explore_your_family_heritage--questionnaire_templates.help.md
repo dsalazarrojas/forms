@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about a person's family history and cultural background. It's intended for individuals to share their personal experiences, memories, and values related to their family. The form will help users provide a detailed account of their family's past, present, and future, allowing for a more comprehensive understanding of their heritage.
-This form is not affiliated with any proprietary survey platform and is a freely available, AI-generated tool released under the Creative Commons BY 4.0 license.
-</thinking>
-
 # explore_your_family_heritage - Help Guide
 ## Purpose
 The "explore_your_family_heritage" form is designed to gather information about a person's family history, cultural background, and personal experiences. It's meant to be a comprehensive survey that helps users share their family's past, present, and future.

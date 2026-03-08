@@ -1,7 +1,3 @@
-<thinking>
-This form is used by the property management team to collect information about residential properties being converted or re-purposed for new uses. This form helps to streamline the process of tracking and managing property conversions, ensuring accurate and timely updates to property status and use. It is essential to complete this form accurately to ensure that the property management team can efficiently process the application and make informed decisions. Please ensure that you have the necessary permissions and approvals before submitting this form. 
-</thinking>
-
 # Residential Property Conversion Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about residential properties being converted or re-purposed for new uses. This includes details about the property's status, type, and use, as well as contact information for the person submitting the application.

@@ -1,9 +1,3 @@
-<thinking>...internal reasoning block...
-
-This form is designed to collect information from users about their fitness goals, preferences, and availability. The form is likely used in a fitness or wellness context to gather data for coaching or advising purposes. To ensure relevance, the form should only be used in such contexts. The form's fields cover a range of topics, including personal details (name, email, phone number), physical attributes (height), and preferences (workout frequency, goals, and availability). The form is likely used to assess users' fitness goals and preferences to provide tailored advice or recommendations.
-
-</thinking>
-
 # Fitness Goals Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your fitness goals, preferences, and availability. It will help us understand your goals and provide you with personalized advice or recommendations.

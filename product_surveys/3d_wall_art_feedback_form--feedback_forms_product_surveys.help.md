@@ -1,8 +1,3 @@
-<thinking>
-To confirm, the 3D Wall Art Feedback Form is designed to gather customer feedback on their experience with the 3D wall art products, aiming to improve product quality, user experience, and product development. This form will not be used for commercial solicitation or to create a sales pitch. The information gathered will be used to make data-driven decisions for future product development and quality improvements.
-Please do not submit duplicate feedback forms if you've already submitted one. Your feedback is invaluable to us, and we want to make sure we understand your genuine concerns and experiences with our 3D wall art.
-</thinking>
-
 # 3D Wall Art Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experience with 3D wall art products, with the goal of improving product quality and user experience.

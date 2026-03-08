@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information on the barriers to education experienced by young individuals. The form is designed to gather data on the age, country of residence, gender, education status, spoken languages, main barriers to education, other barriers, types of support needed, and sources of support. This information will help in identifying areas where support and resources can be directed to address these barriers, ultimately improving access to education for young individuals. Please fill out the form accurately and honestly, and if you have any questions or concerns, feel free to contact the relevant authorities. Note that this form does not collect personal identifiable information that can be used to identify individuals.</thinking>
-
 # Global Youth Education Barriers Survey - Help Guide
 ## Purpose
 The Global Youth Education Barriers Survey is a tool designed to collect information on the barriers to education experienced by young individuals. This information will help in identifying areas where support and resources can be directed to address these barriers, ultimately improving access to education for young individuals.

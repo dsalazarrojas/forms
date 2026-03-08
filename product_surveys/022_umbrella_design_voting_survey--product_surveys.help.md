@@ -1,7 +1,3 @@
-<thinking>
-  This guide will provide a clear and concise explanation of the Umbrella Design Voting Survey form, ensuring that users understand its purpose, how to complete it, and what each field means. To create a comprehensive guide, we'll analyze the form's YAML structure and extract the necessary information for each field. We'll also check for any potential duplication or irrelevance of fields.
-</thinking>
-
 # umbrella_design_voting_survey - Help Guide
 ## Purpose
 The Umbrella Design Voting Survey is a form used to collect feedback and ratings on various aspects of a product's design. This guide will walk you through each field to help you complete the form accurately and effectively.

@@ -1,10 +1,3 @@
-<thinking>
-This guide is to provide clear instructions and explanations for the "Storage Tank Permit Application" form. This form is intended to collect information from applicants for storage tank permits. 
-
-Before filling out this form, please make sure that you are not duplicating a previously submitted application. If you are unsure, contact our office for assistance. 
-
-The following guide will walk you through each field of the form to ensure that you provide accurate and complete information.</thinking>
-
 # Storage Tank Permit Application - Help Guide
 ## Purpose
 This form is intended for applicants to provide required information for a storage tank permit. 

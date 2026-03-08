@@ -1,5 +1,3 @@
-<thinking>This form is designed to help assess the skills and knowledge of client management professionals in the field of client management. It is not affiliated with, endorsed by, or derived from any form platform. The form was created using public survey topic metadata as inspiration, making it an original adaptation. It is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it. The form is a quiz that covers various aspects of client management, including communication, conflict handling, onboarding, and reflection. It is recommended that users complete the form in a quiet, focused environment to ensure accurate and honest responses.</thinking>
-
 # Client Management Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and skills in client management, covering various aspects of communication, conflict handling, onboarding, and reflection.

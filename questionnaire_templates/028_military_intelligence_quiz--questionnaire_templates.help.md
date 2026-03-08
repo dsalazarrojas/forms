@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a "Military Intelligence Quiz" designed to gather information from military personnel. The purpose of this form is to collect demographic and experiential data from military personnel to better understand their training needs and preferences. This information will be used to provide targeted training programs and resources to support military personnel in their career development.
-
-This form is intended to be filled out by active or retired military personnel. If you are not a military personnel, please do not fill out this form. If you have already filled out this form previously, please do not repeat your submission.
-
-</thinking>
-
 # Military Intelligence Quiz - Help Guide
 ## Purpose
 This form is designed to gather information from military personnel to better understand their training needs and preferences. Please fill out this form to help us improve our training programs and resources.

@@ -1,31 +1,3 @@
-<thinking>
-The "Household And Territory Registration" form is designed to collect information from households about their residential properties, including details about the householders, property type, location, and other relevant data. This form is meant to be filled out by the residents of a property, and the data collected will be used for administrative purposes, such as maintaining property records and monitoring territorial data. To ensure accuracy, please note that this form should not be filled out by property managers or administrators.
-
-The following fields are required, so please fill them out accordingly:
-
-* `household_type`
-* `property_type`
-* `number_of_units`
-* `resident_name`
-* `resident_email`
-* `phone_number`
-* `resident_address`
-* `property_address`
-* `territory_area`
-* `territory_details`
-* `property_status`
-* `property_notes`
-* `household_members`
-* `resident_type`
-* `date`
-* `time`
-* `notes`
-* `signature`
-* `file`
-
-Please fill out the form carefully, and ensure that all required fields are completed before submitting.
-</thinking>
-
 # Household And Territory Registration - Help Guide
 ## Purpose
 The "Household And Territory Registration" form is a data collection tool used for administrative purposes to record information about householders and their properties.

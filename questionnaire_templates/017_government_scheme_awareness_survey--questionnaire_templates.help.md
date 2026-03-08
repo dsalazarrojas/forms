@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Government Scheme Awareness Survey - Help Guide
 ## Purpose
 This guide will walk you through the Government Scheme Awareness Survey form, explaining its purpose and how to complete it.

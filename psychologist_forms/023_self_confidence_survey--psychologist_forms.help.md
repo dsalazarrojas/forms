@@ -1,5 +1,3 @@
-<thinking>This form is designed to measure a person's confidence level in various aspects of their life, specifically self-confidence, self-perception, and self-rating. To ensure you receive accurate results, please answer the questions honestly and thoroughly.</thinking>
-
 # Self Confidence Survey - Help Guide
 ## Purpose
 This guide will walk you through the Self Confidence Survey, which is designed to assess your self-confidence and self-perception.

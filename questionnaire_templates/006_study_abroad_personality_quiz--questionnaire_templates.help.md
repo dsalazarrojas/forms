@@ -1,5 +1,3 @@
-<thinking>...The Study Abroad Personality Quiz form is designed to gather information from users about their preferences and interests in studying abroad. This form will help users to identify which study abroad programs are best suited for them based on their needs and goals. To use this form, users are expected to answer a series of questions that will help to understand their personality and preferences. Users are not expected to answer the form if they are not interested in studying abroad programs or if they are not authorized to do so. Please note that this form should be used to identify the best study abroad programs for the user and not to create a legal or official document...)</thinking>
-
 # Study Abroad Personality Quiz - Help Guide
 ## Purpose
 The Study Abroad Personality Quiz form is designed to gather information from users about their preferences and interests in studying abroad. This form will help users to identify which study abroad programs are best suited for them based on their needs and goals.

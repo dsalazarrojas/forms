@@ -1,9 +1,3 @@
-<thinking>
-This form is a checklist used to track the progress and completion of various interventions, which are actions taken to address a problem or situation. Its primary goal is to ensure that all necessary steps have been taken to resolve or mitigate the issue.
-The form is designed to collect information about the type of intervention, its review schedule, and any additional notes that may be relevant. It is intended for internal use within an organization or team.
-Please fill out this form only if you are authorized to do so, and make sure to follow the guidelines and instructions below.
-</thinking>
-
 # Intervention Protocol Checklist - Help Guide
 ## Purpose
 The Intervention Protocol Checklist is a tool used to track and document the progress of interventions. It helps ensure that all necessary steps are taken to address a problem or situation.

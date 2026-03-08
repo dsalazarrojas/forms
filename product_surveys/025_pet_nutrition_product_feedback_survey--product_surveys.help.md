@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a product feedback survey for pet nutrition products. The goal is to gather information about how users perceive and interact with the product. It's essential to complete this form accurately to provide helpful feedback. Please ensure you're not completing this form if you're not genuinely interested in providing feedback.
-</thinking>
-
 # Pet Nutrition Product Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback about our pet nutrition products from users who have interacted with them. Your input helps us understand how to improve and provide better products for pets.

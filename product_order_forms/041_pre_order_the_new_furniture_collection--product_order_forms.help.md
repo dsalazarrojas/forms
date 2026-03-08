@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to pre-order the new furniture collection. This form is likely intended for customers who are interested in purchasing items from the collection before they are publicly available, potentially offering exclusive early access or limited-time discounts.
-</thinking>
-
 # Pre Order The New Furniture Collection - Help Guide
 ## Purpose
 The Pre Order The New Furniture Collection form is designed to collect customer information and order details for the new furniture collection. This form will help customers express their interest in purchasing items from the collection before they are released to the public.

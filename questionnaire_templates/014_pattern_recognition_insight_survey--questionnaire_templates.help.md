@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to collect feedback from educators on their pattern recognition habits and confidence level in recognizing patterns. This is useful for researchers and analysts to understand the habits and patterns of educators in recognizing and applying patterns.
 
 This form is likely used to collect data for research or analysis purposes, and it is not a form for collecting personal identifiable information.

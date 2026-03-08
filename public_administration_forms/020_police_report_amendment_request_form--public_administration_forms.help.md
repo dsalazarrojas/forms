@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting amendments to police reports. The purpose of this form is to enable police officers to correct or modify existing police reports in a systematic and controlled manner. This form should only be used for legitimate reasons, and the submitted information will be reviewed and verified before any changes are made to the original report. Please make sure to fill in the form accurately and thoroughly, as any errors or discrepancies may cause delays in the amendment process.
-</thinking>
-
 # Police Report Amendment Request Form - Help Guide
 ## Purpose
 The Police Report Amendment Request Form is used for requesting changes or modifications to previously submitted police reports.

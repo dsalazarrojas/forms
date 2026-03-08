@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form was created to facilitate ordering for Fall/Winter 2020 Color Street merchandise. The form is designed for end-users to place orders for the specified Fall/Winter 2020 Color Street products. 
 
 </thinking>

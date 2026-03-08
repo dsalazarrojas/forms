@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # open_ended_student_response_form - Help Guide
 ## Purpose
 The Open-Ended Student Response Form is a tool for students to provide a comprehensive response to a question, which can be a part of a more complex assessment or evaluation. This form aims to collect detailed information about a student's thoughts, understanding, and reflection on the question. The form is used to gather data for educational purposes and to facilitate student feedback and evaluation.

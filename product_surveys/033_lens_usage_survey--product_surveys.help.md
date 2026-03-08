@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about how users interact with a product called Lens, likely a software or tool. The form aims to collect demographic information, such as name and organization, as well as behavioral information about how often and for how long users interact with Lens. The form may help product developers understand user habits and preferences, allowing them to create a more user-friendly and effective experience. This information can also help identify areas where users are struggling or have suggestions for improvement. To avoid redundant or irrelevant data collection, this form should only be filled out once by each user.
-</thinking>
-
 # Lens Usage Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information about your interactions with Lens.

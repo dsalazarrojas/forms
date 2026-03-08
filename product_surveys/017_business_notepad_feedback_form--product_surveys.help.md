@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, I'd like to clarify that this form is designed to collect feedback from business users on their experience with a product. The feedback will help us understand their satisfaction, pain points, and suggestions for improvement. Please fill out this form honestly, and we'll use your input to enhance our product.</thinking>
-
 # Business Notepad Feedback Form - Help Guide
 ## Purpose
 

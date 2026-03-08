@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, I'll analyze the provided YAML file.
-
-The form is a "Fishing License Replacement Application" form, which suggests it is used to replace or renew an existing fishing license. This is a relatively straightforward and specific purpose, indicating that the form is primarily used for administrative or official purposes within the fishing department or authority.
-
-Upon examining the YAML file, I didn't find any fields that are inherently redundant or unrelated to the form's purpose.
-
-After analyzing the form fields, it appears that the form collects various information from the user, including personal details (name, email, phone), address, and select fields for additional information (select_one, select_multiple, select_date, select_time). It also includes fields for uploading a document and submitting the application.
-
-</thinking>
-
 # Fishing License Replacement Application - Help Guide
 ## Purpose
 The Fishing License Replacement Application form is used to replace or renew an existing fishing license. This form is intended for administrative or official purposes within the fishing department or authority.

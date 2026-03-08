@@ -1,7 +1,3 @@
-<thinking>
-The form is used for the motion for return of property. This is a legal document that is used when a person or entity is requesting to return property to its rightful owner or to the state. The form is often used in cases where the property has been wrongly seized or seized and the owner is seeking its return. This form is typically used by the court or legal authorities to document the property's return. The form is often completed by the individual or entity that has possession of the property and is requesting its return. This form is used to track and document the progress of the property's return.
-</thinking>
-
 # Motion For Return Of Property - Help Guide
 ## Purpose
 The Motion For Return Of Property form is used to request the return of property that has been wrongly seized or seized.

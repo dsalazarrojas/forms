@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a general-purpose Exercise Metabolism Quiz, used for assessing participants' knowledge on exercise and metabolism-related topics. The form collects information on the quiz title, category, description, assessment type, participants involved, associated programs, review type, comments, file upload (if any), contact email and phone number, note, date and time of the quiz, and answers to multiple-choice questions.
-To ensure a smooth experience, please ensure that you only fill out the form once per quiz.
-Please review the form fields and their respective instructions below.
-</thinking>
-
 # Exercise Metabolism Quiz - Help Guide
 ## Purpose
 The Exercise Metabolism Quiz form is designed to collect information on various aspects of exercise and metabolism-related topics. This form will help you create a comprehensive quiz for assessing participants' knowledge.

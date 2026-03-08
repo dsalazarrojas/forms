@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the quality of a recording, allowing users to evaluate the audio or video content on a scale of excellent, good, fair, or poor. This form is not required, and users are free to provide feedback on all or some of the fields. The purpose of this form is to gather subjective feedback on the recording quality.
-Before filling out this form, please ensure that the recording you're assessing is not a duplicate, and that your feedback is not already included in previous assessments.
-</thinking>
-
 # Recording Quality Assessment - Help Guide
 ## Purpose
 This form is used to assess the quality of a recording, allowing users to evaluate the audio or video content on a scale of excellent, good, fair, or poor.

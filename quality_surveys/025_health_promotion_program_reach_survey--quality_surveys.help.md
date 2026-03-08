@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for collecting information about health promotion programs that have reached out to various populations. It helps track and record data about program areas, types, locations, and other relevant details. This form is used by health promotion program administrators or coordinators to report their program's reach and impact. 
-
-This information will help us analyze and identify trends and patterns of health promotion programs across different areas, types, and demographics. 
-
-Please note that this form is a general survey and not a comprehensive program evaluation tool.
-
-</thinking>
-
 # Health Promotion Program Reach Survey - Help Guide
 ## Purpose
 This form is designed to collect information about health promotion programs that have reached various populations. It helps health promotion program administrators or coordinators track and record data about their programs, including areas of focus, types, locations, and other relevant details.

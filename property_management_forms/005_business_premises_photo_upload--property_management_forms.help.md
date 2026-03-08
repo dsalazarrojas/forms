@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to capture information and photos related to business premises inspections, including the property address, inspector's name and role, and details about the inspection, such as the date, purpose, and photos of the building exterior, main entrance, and interior spaces. This form aims to ensure accurate and comprehensive documentation of the premises condition, maintenance needs, and any safety concerns or regulatory compliance issues. This guide will walk you through the completion of this form, explaining each field's purpose and required information.
-
-</thinking>
-
 # Business Premises Photo Upload - Help Guide
 ## Purpose
 The Business Premises Photo Upload form is designed to collect information and photos for business premises inspections. This data will be used to document and evaluate the condition, maintenance needs, and safety concerns of the premises.

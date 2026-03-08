@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's analyze the form purpose and ensure it's relevant and not duplicated. This form is a Skincare Routine Finder Quiz, which suggests that it's used to determine a user's skincare routine based on their characteristics. This seems to be a unique and relevant topic. I'll proceed with creating the guide.</thinking>
-
 # Skincare Routine Finder Quiz - Help Guide
 ## Purpose
 This form is designed to find a personalized skincare routine for a user based on their characteristics, such as skin type, skin tone, and concerns. The goal is to provide tailored recommendations for products and routines that suit the user's needs.

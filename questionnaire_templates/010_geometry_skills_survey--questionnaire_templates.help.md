@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a Geometry Skills Survey to gather information about the respondent's proficiency level in various aspects of geometry, such as topic challenges and training needs. This form is likely used in educational or training settings to assess an individual's understanding of geometric concepts and identify areas that require improvement. Before proceeding, please ensure that you have not already completed this survey, as the information will be duplicated in the database.
-
-This form contains 7 fields, each designed to elicit specific information from the respondent. Please note that some fields may be optional or have specific constraints (e.g., selecting multiple or single options, providing a specific type of input).
-
-To complete this form, simply follow the instructions for each field below.
-</thinking>
-
 # Geometry Skills Survey - Help Guide
 ## Purpose
 The Geometry Skills Survey is designed to assess an individual's proficiency level in various aspects of geometry. It is used to gather information about the respondent's understanding of geometric concepts and identify areas that require improvement in education or training settings.

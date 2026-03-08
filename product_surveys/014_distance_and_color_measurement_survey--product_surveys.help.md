@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is a "Distance And Color Measurement Survey" which is designed to collect data on the frequency and methods used for measuring distance and color. This form will help users provide feedback on their measurement habits, specifically whether they measure distance and color, and how often and with which methods they do so. This form is likely used for research or analysis purposes in a field such as measurement science, physics, or design. Please review and confirm that this is the correct understanding.
-</thinking>
-
 # Distance And Color Measurement Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your habits of measuring distance and color.

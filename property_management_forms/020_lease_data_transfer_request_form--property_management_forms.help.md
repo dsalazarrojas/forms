@@ -1,16 +1,3 @@
-<thinking>
-
-This form seems to be a template for collecting lease-related data, likely used for property management purposes. The form likely aims to gather various information regarding lease data transfer requests, including property details, tenant information, lease terms, and contact details. The fields suggest that this form may be used for internal purposes within a company that manages properties, such as real estate agencies or property management companies.
-
-To ensure the form is filled out correctly, we should consider the following steps and explanations for each field:
-
-1.  **Purpose**: Fill out this form to request a lease data transfer. This form is used to gather essential information for lease data transfer requests.
-2.  **How to Complete This Form**: 
-   - Fill in all the required fields to ensure accurate lease data transfer request submission.
-   - Ensure that each field is accurately filled out with the correct information for the lease data transfer request.
-
-</thinking>
-
 # Lease Data Transfer Request Form - Help Guide
 
 ## Purpose

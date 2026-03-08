@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from users who have participated in various bio-activation programs or events. The form asks for general information about the participant, including their name and affiliation, followed by specific questions about their participation and experiences with the programs. These questions cover details such as the methods they used, their perceived benefits, and any challenges encountered. Additionally, the form includes an option for the participant to provide interest in future programs and any additional feedback they may have. The purpose of this form is to improve future program development and implementation. Please ensure you have reviewed the consent and data use note prior to providing your feedback. 
-</thinking>
-
 # Bio Activation Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your experiences with our bio-activation programs. Your responses will help us improve future programs and provide valuable feedback for better service quality.

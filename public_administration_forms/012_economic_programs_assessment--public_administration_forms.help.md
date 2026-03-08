@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and assessment on economic programs. To ensure this form is relevant and not duplicative, we need to consider the context in which it is being used. The form is likely part of a larger process for assessing the effectiveness and areas for improvement of economic programs within an organization. It may be used by program participants or administrators to provide an honest evaluation of the programs, their outcomes, and the tools used to achieve those outcomes. Before we dive into the details, let's ensure the form is tailored to meet the actual needs of its users. We will need to understand who the participants are, what they are assessing, and what information is required from them to provide a thorough evaluation.
-</thinking>
-
 # Economic Programs Assessment - Help Guide
 ## Purpose
 

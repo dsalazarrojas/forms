@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about the country entry health and travel history of individuals, which is crucial for ensuring public health and safety. The purpose of this form is to gather accurate and comprehensive data on a person's travel habits, health conditions, and any potential risks associated with travel. To avoid duplication of effort, please ensure that you only submit the form for individuals who are new to the country or have had a change in their travel status.
-</thinking>
-
 # Country Entry Health and Travel Questionnaire - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure this form is serving its purpose and not being filled out unnecessarily. Let's see if there's any overlap with other forms or surveys in this category. This form seems to be focused on collecting maintenance concerns, satisfaction, communication preferences, and other details relevant to property management. It might be similar to the "Property Maintenance Issue Report" form, but this one is more focused on insights and less on reporting issues. It's possible this form is intended to be filled out by property owners or managers on a regular basis to track their satisfaction and concerns. Let's proceed with creating the help guide.
-</thinking>
-
 # Smart Property Maintenance Insight Survey - Help Guide
 ## Purpose
 This form, "Smart Property Maintenance Insight Survey," is designed to collect valuable information from property owners or managers to gain insights into their maintenance concerns and satisfaction levels. This data will help us understand how we can improve property maintenance and communication.

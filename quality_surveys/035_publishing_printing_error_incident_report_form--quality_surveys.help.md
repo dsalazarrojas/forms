@@ -1,7 +1,3 @@
-<thinking>
-  To minimize duplicate reports, please ensure that you're not submitting the same incident multiple times. Review the incident before submitting the form to verify that it's accurate. If you have any doubts, consult with a manager or supervisor before proceeding.
-</thinking>
-
 # Publishing Printing Error Incident Report Form - Help Guide
 ## Purpose
 This form is designed to document and track printing errors that occur within the publishing process. Please fill out this form to provide detailed information about each incident, including the date, description, cause, and resolution.

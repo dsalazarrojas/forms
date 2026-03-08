@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals related to acrylic signage, such as business owners, marketing managers, facilities managers, sign designers, and procurement specialists. The form aims to understand their role, the type of organization they represent, their frequency of purchasing acrylic signage, their primary application for it, and their overall satisfaction with the quality, durability, and pricing of acrylic signage products. It also seeks to identify areas for improvement and their likelihood to recommend acrylic signage to others.
-
-The form is designed to be completed by individuals who have experience with acrylic signage and can provide valuable insights and feedback. It is not intended for general public completion.
-
-The form is part of a larger effort to improve the acrylic signage product line, and the information gathered will be used to inform product development and customer service improvements.
-
-Before completing this form, please ensure that you have relevant experience with acrylic signage and are willing to provide honest and constructive feedback.
-
-</thinking>
-
 # Acrylic Signage Solutions Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and insights from individuals related to acrylic signage to improve our product line and customer service.

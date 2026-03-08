@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the process control audit process. The purpose of this form is to assess the current state of process controls and identify areas for improvement. This form will be used by quality teams to gather data and make recommendations for process improvements. Please ensure that this form is not used for duplicate or redundant submissions, as it may cause unnecessary data duplication.
-</thinking>
-
 # Process Control Audit Survey - Help Guide
 ## Purpose
 The Process Control Audit Survey is a tool used by quality teams to assess the current state of process controls and identify areas for improvement.

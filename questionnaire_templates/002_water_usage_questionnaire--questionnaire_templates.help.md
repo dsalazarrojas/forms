@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Water Usage Questionnaire - Help Guide
 
 ## Purpose

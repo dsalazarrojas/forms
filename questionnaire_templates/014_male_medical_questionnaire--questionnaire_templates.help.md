@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a male individual's medical history. The purpose of this form is to gather information from the user about their past medical conditions, allergies, surgeries, medications, and injuries. This form should only be completed by male individuals.
-</thinking>
-
 # male_medical_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a male individual's medical history to provide a comprehensive understanding of their past health conditions.

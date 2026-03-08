@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect detailed specifications for shower doors, which is crucial for ensuring accurate and efficient production and installation of shower doors. The form is intended to be filled out by users who require custom-made shower doors for residential or commercial projects. The form will help to determine the type of glass, frame, and other specifications required for the project. To avoid redundancy and ensure accuracy, please fill out the form carefully and thoroughly.</thinking>
-
 # Shower Doors Specifications Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect detailed specifications for custom-made shower doors. This information will be used to guide the production and installation of the shower doors.

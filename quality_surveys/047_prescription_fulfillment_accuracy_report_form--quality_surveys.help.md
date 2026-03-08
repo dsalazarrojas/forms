@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prescription Fulfillment Accuracy Report Form - Help Guide
 
 ## Purpose

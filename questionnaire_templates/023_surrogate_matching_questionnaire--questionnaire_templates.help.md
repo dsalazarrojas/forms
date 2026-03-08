@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from surrogates to help match them with potential recipients for adoption or other surrogacy purposes. It appears to be a questionnaire designed to gather background information, personal details, and preferences to facilitate the matching process. The form likely aims to provide a standardized way to assess the qualifications and suitability of surrogates for surrogacy programs or services.
 
 </thinking>

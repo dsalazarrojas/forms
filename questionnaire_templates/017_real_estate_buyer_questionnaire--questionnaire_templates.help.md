@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_buyer_questionnaire - Help Guide
 ## Purpose
 The real_estate_buyer_questionnaire is a form designed to collect information from potential real estate buyers. This form is used to gather data on the buyer's preferences, contact details, and agent information. The collected data helps real estate agents to better understand the buyer's needs and provide personalized services.

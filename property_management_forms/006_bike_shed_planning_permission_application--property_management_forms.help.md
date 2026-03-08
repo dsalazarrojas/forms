@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from applicants seeking permission to build or install a bike shed on their property. The purpose of this form is to gather necessary details about the applicant, the proposed bike shed, and the impact of the project on the surrounding area. This information will be used to assess the feasibility and potential consequences of the project. It is essential to complete this form accurately and thoroughly to ensure a smooth and efficient application process.
-
-Before starting, ensure that this is the correct application form for your specific bike shed project. If you have already submitted a similar application, please do not resubmit. Duplicate applications may cause delays in the review process and may lead to unnecessary back-and-forth communication.
-
-</thinking>
-
 # Bike Shed Planning Permission Application - Help Guide
 ## Purpose
 The Bike Shed Planning Permission Application form collects information from applicants to assess the feasibility and potential impact of their proposed bike shed project. This form gathers details about the applicant, the bike shed, and its planned location on the property.

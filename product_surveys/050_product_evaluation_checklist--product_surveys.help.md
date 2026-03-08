@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation of a product or service from users. It appears to be used for product evaluation checklists, likely in a business setting. The purpose of this form is to gather quantitative and qualitative feedback on various aspects of a product, including overall satisfaction, product quality, ease of use, price, and features. This form may be used by companies to gather insights from customers to improve their products and services.
-To ensure accurate and relevant feedback, please complete the form carefully and honestly. If you have already submitted a form with the same product, please do not submit duplicate feedback.
-</thinking>
-
 # Product Evaluation Checklist - Help Guide
 ## Purpose
 The Product Evaluation Checklist is a form designed to collect feedback and evaluation of a product or service from users. It is used by companies to gather insights from customers to improve their products and services.

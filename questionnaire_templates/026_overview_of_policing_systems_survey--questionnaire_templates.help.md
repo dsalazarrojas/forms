@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information on the current state of policing systems in various regions, including police models, public trust, reform priorities, and community involvement. It will help users identify areas of improvement and provide a comprehensive overview of the current policing systems.
-The form will collect data on police models, public trust, reform priorities, and community involvement, which are all relevant to the topic. It is essential to ensure that the form is not duplicated or outdated, as this can lead to incorrect or incomplete data.
-Before filling out this form, please ensure that you have read and understood the purpose and scope of the survey.
-
-</thinking>
-
 # overview-of-policing-systems-survey - Help Guide
 ## Purpose
 This form is designed to gather information on the current state of policing systems in various regions, including police models, public trust, reform priorities, and community involvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tenant Annual Living Condition Check In - Help Guide
 ## Purpose
 This form is used to track the annual living condition of tenants in a property. It gathers information on the maintenance priority, tenant status, and condition of the property, among other details. The form will help property managers and landlords assess the current living conditions of tenants and make informed decisions for future maintenance and upkeep.

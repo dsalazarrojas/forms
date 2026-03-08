@@ -1,10 +1,3 @@
-<thinking>
-To ensure that this form is relevant and useful for your intended purpose, let's break down its purpose and ensure that it's not a duplication of effort. This form is intended to gather feedback from customers about their experience with your storage solutions, and this form seems to be designed to collect both quantitative (e.g., satisfaction level, rating) and qualitative (e.g., feedback text, additional comments) information.
-
-Before creating this guide, let's assume that the form will be used by customers to provide their honest feedback on their experience with your storage solutions. This will help you understand their pain points, likes, and any suggestions they may have for improvement. If you've already got a similar form or survey in place, make sure to review and compare its questions to ensure that this new one doesn't overlap or ask similar questions in a way that's redundant.
-
-Now, let's create a user-facing help guide for this form!</thinking>
-
 # Storage Solutions Feedback Survey - Help Guide
 
 ## Purpose

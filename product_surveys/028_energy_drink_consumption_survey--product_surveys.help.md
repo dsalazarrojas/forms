@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about energy drink consumption habits, including the frequency of consumption, reasons for consumption, side effects, consumption amount, and duration of consumption. This form is intended to gather data on how individuals typically consume energy drinks and any potential side effects they may experience.
-</thinking>
-
 # Energy Drink Consumption Survey - Help Guide
 ## Purpose
 This survey aims to gather information about energy drink consumption habits.

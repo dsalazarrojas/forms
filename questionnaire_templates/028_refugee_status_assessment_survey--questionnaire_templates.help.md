@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the status of refugees, their safety concerns, living conditions, needs, follow-up, contact method, contact frequency, and any additional contact details and notes. It is an essential tool for understanding the needs and circumstances of refugees, which can help organizations or individuals provide appropriate assistance and support.
-
-Please note that this form is based on a public survey topic and is an original adaptation created using AI. It is not affiliated with, endorsed by, or derived from any form platform.
-
-Before proceeding, ensure that you are filling this form for the correct purpose and not duplicating efforts. This form is intended to be completed by refugees or their representatives to provide accurate and comprehensive information about their status.
-
-</thinking>
-
 # Refugee Status Assessment Survey - Help Guide
 ## Purpose
 This form is designed to assess the status of refugees, their safety concerns, living conditions, needs, follow-up, contact method, contact frequency, and any additional contact details and notes.

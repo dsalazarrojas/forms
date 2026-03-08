@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a user's profile, including their contact details, interests, education, occupation, and project details. This form is designed to be a comprehensive questionnaire that helps us understand users' backgrounds and experiences, which will aid us in providing personalized support and guidance. To ensure that the form is completed correctly, it's essential to review each field carefully and provide accurate information.
-
-Before completing this form, please ensure that you're aware of the following:
-
-* This form is required for all users who wish to participate in the program.
-* Each field is mandatory, and incomplete or incorrect information may lead to delayed or rejected applications.
-* Be honest and provide accurate information to ensure that we can provide the right support for your needs.
-
-</thinking>
-
 # Profile Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about your profile, which will help us better understand your needs and provide personalized support.

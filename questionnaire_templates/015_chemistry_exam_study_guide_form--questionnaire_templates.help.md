@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help students prepare for a chemistry exam by tracking their preparation progress, identifying areas of focus, and providing guidance on how to approach the exam. It is essential to use this form to help students gauge their readiness for the exam and receive feedback on their progress.
-</thinking>
-
 # Chemistry Exam Study Guide Form - Help Guide
 ## Purpose
 This form is intended to guide students in preparing for their chemistry exam by helping them track their progress, identify areas requiring extra attention, and set realistic goals for their preparation.

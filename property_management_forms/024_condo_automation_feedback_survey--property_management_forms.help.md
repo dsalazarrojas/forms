@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from condominium residents on their experience with automation systems in their building. The purpose of this form is to gather information on how well residents are satisfied with the automation systems, how often they use them, and what features they would like to see improved. This form will help the management of the condominium association understand the needs and pain points of their residents, allowing them to make informed decisions on how to improve the automation systems and provide better services.
-
-This form is not intended to be a replacement for any existing survey platforms, but rather a helpful tool to gather feedback from residents in a structured and organized way.
-
-</thinking>
-
 # Condo Automation Feedback Survey - Help Guide
 ## Purpose
 Condo Automation Feedback Survey is designed to collect feedback from condominium residents on their experience with automation systems in their building. The goal is to gather information on satisfaction, usage, and potential improvements to these systems.

@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this DNS Assessment Survey form, we need to consider the context and purpose of the form. The form is likely used to gather feedback or opinions from DNS users or operators on their experiences with DNS practices, infrastructure, and security readiness. This form might be used by the DNS team or organization to evaluate or improve their DNS services.
-
-Before proceeding, we'll review the form's structure and fields to ensure there's no duplication or overlap in the help guide content.
-
-</thinking>
-
 # DNS Assessment Survey - Help Guide
 ## Purpose
 

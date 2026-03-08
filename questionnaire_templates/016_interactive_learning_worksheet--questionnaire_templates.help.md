@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students for an interactive learning worksheet. The form has several fields that ask for general information, lesson details, student responses, and contact information for both the teacher and the student. The fields are divided into multiple pages for better organization and clarity. The form requires certain fields to be filled out, marked as "required", for accurate and complete data collection.
-
-</thinking>
-
 # Interactive Learning Worksheet - Help Guide
 
 ## Purpose

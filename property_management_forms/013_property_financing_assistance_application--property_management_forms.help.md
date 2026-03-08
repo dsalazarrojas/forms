@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture property financing assistance application information for a financial institution. It will be used by loan officers, financial analysts, or other authorized personnel to assess a property's financing feasibility. The form should only be completed by authorized users, and the submitted information will be used to evaluate the loan request.
-
-Please note that this form has multiple fields with select-one and select-multiple types, indicating that the answers will be single values or multiple values selected from lists. There is also a date field, which requires a specific date format. The form's structure suggests that it might be part of a larger loan management system, where each field is related to a specific aspect of property financing.
-
-Before proceeding, ensure that you have all the necessary information and permissions to complete this form accurately. Double-check the form's requirements and your authority to access and submit this form.
-
-</thinking>
-
 # Property Financing Assistance Application - Help Guide
 ## Purpose
 This form is used to capture property financing assistance application information for a financial institution. It will be reviewed by loan officers, financial analysts, or other authorized personnel to assess a property's financing feasibility.

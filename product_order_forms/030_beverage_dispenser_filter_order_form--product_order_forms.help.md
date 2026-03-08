@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Beverage Dispenser Filter Order Form, we need to consider several aspects:
-- **Purpose**: The form is designed to collect customer information and order details for beverage dispenser filters. The form serves as a means to gather essential data for processing orders and providing customer service.
-- **Non-duplication**: To avoid unnecessary steps and potential confusion, we will ensure that each section of the form is clearly defined and labeled to guide the user through the process in a linear and straightforward manner.
-- **Relevance**: The form should only include fields that are relevant to the collection of customer and order information.
-- **How-to guide**: The guide should provide step-by-step instructions on how to complete the form, including a field-by-field explanation for clarity.
-- **Field-by-field explanations**: We will use bullet points to explain each field's purpose, making it easy for users to understand what information is required and why.
-- **Tips**: Additional tips or reminders can be provided to users who might be unsure or need extra guidance.
-</thinking>
-
 # Beverage Dispenser Filter Order Form - Help Guide
 ## Purpose
 The Beverage Dispenser Filter Order Form is used to collect customer information and details for beverage dispenser filters. This form is essential to provide accurate and efficient processing of orders and ensure seamless customer service.

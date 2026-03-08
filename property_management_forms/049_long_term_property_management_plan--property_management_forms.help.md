@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a comprehensive guide for property management and maintenance planning. It's likely used by property owners or managers to outline the long-term schedule for maintaining and managing their properties. This form might be used for regular assessments and planning purposes, ensuring the property's condition and upkeep. I'll base my response on the provided YAML fields to create a user-facing help guide.
-
-</thinking>
-
 # Long Term Property Management Plan - Help Guide
 ## Purpose
 The Long Term Property Management Plan is a document designed for property owners or managers to create a comprehensive schedule for property maintenance and management. This guide will walk you through the form's purpose, completion process, and each field's explanation.

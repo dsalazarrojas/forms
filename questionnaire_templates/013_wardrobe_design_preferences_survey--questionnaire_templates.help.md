@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to collect information about a client's wardrobe design preferences. This form is designed to help designers understand the client's style, budget, and fabric type preferences. By filling out this form, clients can provide detailed information about their needs and desires, which will be used to create a customized and tailored wardrobe design. To ensure that the form is completed accurately and efficiently, please make sure to review the form carefully and answer each question to the best of your ability.
-
-This form should only be used for clients who have already been assigned to a project and are providing their preferences for the design project. If you are not a client, please do not fill out this form.
-
-Before starting, please make sure to review the entire form and understand the different fields and options provided. This will help you provide accurate and complete information, and ensure that the form is completed correctly.
-
-If you have any questions or need clarification on any of the fields, please contact your assigned project manager or designer.
-</thinking>
-
 # Wardrobe Design Preferences Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a client's wardrobe design preferences, including their style, budget, and fabric type preferences.

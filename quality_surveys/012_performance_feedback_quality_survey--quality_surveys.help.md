@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect performance feedback from employees about their colleagues' quality of work, with an emphasis on their overall performance, communication, collaboration, time management, and leadership abilities. This information will help managers and HR teams understand where employees are excelling and where they need improvement, ultimately contributing to the growth and development of the team.
-
-We aim to gather honest and constructive feedback that will guide future performance evaluations and help shape the work environment for better productivity and collaboration. To ensure the quality and relevance of the feedback, we kindly request that employees fill out this form thoughtfully, providing specific examples and concrete observations.
-
-Before submitting, please check if you've already provided feedback on the same colleague in the past. This will help us avoid duplication and ensure that we receive new and valuable insights.
-
-</thinking>
-
 # performance_feedback_quality_survey - Help Guide
 ## Purpose
 The performance Feedback Quality Survey is designed to gather feedback from employees about their colleagues' performance, focusing on overall quality, communication, collaboration, time management, and leadership skills.

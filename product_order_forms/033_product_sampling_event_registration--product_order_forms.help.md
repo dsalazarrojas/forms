@@ -1,7 +1,3 @@
-<thinking>
-The form "Product Sampling Event Registration" is designed to collect information from users who are interested in receiving free samples of products. The form aims to collect event-specific details, product preferences, and any applicable dietary restrictions, ensuring that users receive relevant samples that align with their needs and preferences. This form is meant to prevent duplication of effort and ensure that users are aware of the purpose and scope of the event. It will not be used for commercial or malicious purposes.
-</thinking>
-
 # Product Sampling Event Registration - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users interested in receiving free product samples. It is designed to collect event-specific details and user preferences to provide relevant samples.

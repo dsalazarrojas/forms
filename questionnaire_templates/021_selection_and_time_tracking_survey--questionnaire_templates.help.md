@@ -1,8 +1,3 @@
-<thinking>
-This guide explains the purpose, instructions, and field explanations for the "Selection and Time Tracking Survey" form. This form is designed to collect data on user activities, time allocation, and satisfaction levels. The purpose of this form is to gather information about user experiences and preferences related to selection and time tracking processes. It is essential to complete this form accurately to provide valuable insights for analysis and decision-making.
-
-</thinking>
-
 # Selection And Time Tracking Survey - Help Guide
 ## Purpose
 The "Selection and Time Tracking Survey" form is a tool to gather data on user activities, time allocation, and satisfaction levels. It helps in understanding user preferences and experiences related to selection and time tracking processes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for IT staff and management to collect feedback on their IT services. The goal is to assess the quality, efficiency, and effectiveness of these services. The survey is intended to be completed by staff members, IT department employees, or other authorized personnel. Please do not complete this form if you have already submitted a similar survey or have access to the IT services' performance metrics.
-</thinking>
-
 # IT Satisfaction Survey - Help Guide
 ## Purpose
 The IT Satisfaction Survey is designed to gather information about your experience and perceptions regarding IT services. Your feedback will help us understand how we're doing and identify areas for improvement.

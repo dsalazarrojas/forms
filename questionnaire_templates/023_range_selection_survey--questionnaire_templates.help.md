@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on meeting times, temperature, productivity, range selection, and other related metrics. The form is intended to be used by a specific group of users and is not intended for general public use. This form is used to collect data for internal purposes only. The form is designed to be completed by a single user at a time.
-</thinking>
-
 # Range Selection Survey - Help Guide
 ## Purpose
 The Range Selection Survey is a form designed to collect user feedback on meeting times, temperature, productivity, range selection, and other related metrics. This form is intended to be used by a specific group of users and is not intended for general public use. It is used to collect data for internal purposes only.

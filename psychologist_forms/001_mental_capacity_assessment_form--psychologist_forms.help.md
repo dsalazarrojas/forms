@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the "Mental Capacity Assessment Form" used to assess the mental capacity of a patient. This form is designed to be completed by healthcare providers to evaluate a patient's ability to understand and communicate their needs and wishes.
 
 Before completing this form, please ensure that you have a thorough understanding of the patient's condition and that you have obtained the necessary consent to complete this form.

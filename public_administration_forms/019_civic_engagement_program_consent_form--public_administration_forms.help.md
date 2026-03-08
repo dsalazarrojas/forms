@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from participants in civic engagement activities, ensuring their safety and consent for the program's activities. The form is meant to be completed by program participants, typically minors or their guardians, to provide critical contact and emergency contact information, as well as consent for photo releases and liability waivers. Before filling out this form, it's essential to confirm that you are not already participating in a similar program and that you understand the purpose and implications of the form.
-</thinking>
-
 # Civic Engagement Program Consent Form - Help Guide
 ## Purpose
 The Civic Engagement Program Consent Form is used to gather information and consent from participants in civic engagement activities. This includes personal contact and emergency contact information, photo release, and liability waiver.

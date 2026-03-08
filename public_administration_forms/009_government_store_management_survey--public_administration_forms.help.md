@@ -1,18 +1,3 @@
-<thinking>
-This form is used to gather feedback from store managers on their performance and areas of improvement. The goal is to collect data on store operations, manager performance, and areas that require improvement. This form is intended to be filled out by store managers and submitted by email or other means. 
-
-This form is not meant to be filled out by store employees or others outside of store management. It's a tool for the management team to use to evaluate store performance and improve operations. 
-
-Please ensure that you have permission to fill out this form before doing so. Your feedback is valuable to us and will help us improve our operations. 
-
-Before filling out this form, ensure you have reviewed the store's operations manual and any relevant policies.
-
-Please fill out this form honestly and thoroughly. If you are unsure about any information, you can leave the relevant field blank.
-
-If you need help with this form, contact us at [contact information].
-
-</thinking>
-
 # Government Store Management Survey - Help Guide
 
 ## Purpose

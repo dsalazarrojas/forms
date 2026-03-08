@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and concerns from citizens regarding urban mobility changes in the city. It is intended to gather information on how the city can improve mobility for its citizens. This form should only be used for legitimate concerns and not for duplicate or repetitive issues. If you've already submitted a similar concern, please do not resubmit. This form will be reviewed and analyzed to inform future mobility improvements in the city.
-</thinking>
-
 # Petition For Urban Mobility Changes - Help Guide
 ## Purpose
 This form is designed to gather feedback and concerns from citizens about urban mobility changes in the city. Your input will help city officials better understand what issues need to be addressed and how they can improve mobility for all citizens.

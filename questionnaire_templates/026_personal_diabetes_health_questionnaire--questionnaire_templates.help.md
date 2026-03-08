@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Diabetes Health Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's personal experience with diabetes, including their blood glucose levels, medication usage, medical conditions, and management strategies for hypoglycemia and hyperglycemia. The data collected will be used to help healthcare professionals understand the patient's current status and provide informed care.

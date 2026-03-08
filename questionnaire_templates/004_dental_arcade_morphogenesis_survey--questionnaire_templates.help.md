@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Dental Arcade Morphogenesis Survey" form, ensuring that end-users understand the form's purpose, how to complete it, and each field's meaning. I will review the provided YAML fields and create a concise and practical guide that addresses the form's structure and requirements.</thinking>
-
 # Dental Arcade Morphogenesis Survey - Help Guide
 
 ## Purpose

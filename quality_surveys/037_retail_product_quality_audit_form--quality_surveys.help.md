@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to collect data for retail product quality audits. It is used to assess the quality of retail products and identify areas for improvement. The goal is to provide detailed feedback on product performance, helping retailers to make data-driven decisions. This form will likely be used by quality assurance teams or product managers in retail companies to track product quality over time.
-
-Note: This is not a standard form, and each field is custom-designed to meet the specific needs of the retail industry. It is essential to review each field carefully to ensure you understand its purpose and correctly fill it in.
-
-</thinking>
-
 # Retail Product Quality Audit Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information on hieroglyphs, Egyptian symbols, and demographic data from users. It consists of multiple pages with different types of questions, including multiple select and single select options, text fields, and date fields. The form is intended to be completed by users who have an interest in Egyptian symbols and are willing to share their personal and professional experiences related to these symbols.
-Before proceeding, please ensure that you have read and understood the instructions and guidelines for completing this form. If you have already completed a similar survey, please do not submit this form again.
-</thinking>
-
 # Hieroglyph Selection Survey - Help Guide
 ## Purpose
 The Hieroglyph Selection Survey is designed to collect information on hieroglyphs, Egyptian symbols, and demographic data from users. This form aims to gather your thoughts, experiences, and preferences related to these symbols.

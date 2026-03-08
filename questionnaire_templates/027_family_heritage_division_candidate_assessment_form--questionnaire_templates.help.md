@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess a candidate's suitability for a position within the Family Heritage Division. It's meant to be filled out by an assessor, who will evaluate the candidate based on their experience, job qualifications, and other relevant factors. This form should not be filled out by the candidate themselves, as it's intended for the assessor's evaluation and recommendations. Please note that this form is used to gather information for assessment purposes only, and the data collected will be used to inform decision-making within the division. Ensure you're using the correct format for assessment, and do not duplicate efforts by filling out the form for other purposes.</thinking>
-
 # Family Heritage Division Candidate Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information for evaluating a candidate's suitability for a position within the Family Heritage Division.

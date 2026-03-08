@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to be a self-assessment tool for database professionals to evaluate their understanding of various database concepts. The purpose of this form is to help database administrators, designers, and users to identify areas where they need improvement, and to provide a foundation for further education and learning. It is essential to understand that this form is not a definitive evaluation, but rather a starting point for identifying knowledge gaps and areas for growth. By filling out this form, users will be able to gauge their understanding of database concepts, from database management systems to data modeling, and will be able to identify areas where they may need further training or education.
-</thinking>
-
 # Database Concepts Checklist - Help Guide
 ## Purpose
 The Database Concepts Checklist is a self-assessment tool designed to evaluate your understanding of various database concepts. This form will help you identify areas where you may need further education or training.

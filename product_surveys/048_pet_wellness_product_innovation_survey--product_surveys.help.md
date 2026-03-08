@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ideas from pet owners on potential product innovations for pet wellness products. The goal of this form is to gather insights on what features pet owners desire in pet wellness products and their current experiences with similar products. By collecting this information, we can better understand the needs and preferences of our customers and develop products that meet their expectations.
-
-To prevent duplication of responses, we will use cookies to track user sessions and ensure that each user can only submit the survey once. This will help us to maintain the integrity of our data and prevent multiple submissions from the same user.
-
-Please note that this form is intended for pet owners to provide their honest feedback and opinions. All information collected will be kept confidential and will not be used for any marketing or promotional purposes.
-
-</thinking>
-
 # Pet Wellness Product Innovation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ideas from pet owners on potential product innovations for pet wellness products.

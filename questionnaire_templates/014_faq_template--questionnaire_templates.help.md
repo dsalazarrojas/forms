@@ -1,7 +1,3 @@
-<thinking>
-This form is a Frequently Asked Questions (FAQ) template used to collect information about frequently asked questions and their corresponding answers, relevance, and contact information. The form is not a required form, which means users do not need to complete it. The purpose of this form is to collect data that can be used to improve customer service and provide better support to users. The form consists of 8 fields, each asking different types of information. To avoid duplication, please only complete the form if you have a new question that is not already addressed in our knowledge base.
-</thinking>
-
 # FAQ Template - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking> 
-The form purpose is to gather information about a property's condition, allowing users to evaluate its overall state and identify areas that need attention. This information can be used for various purposes such as maintenance planning, insurance claims, or sales/rental purposes. The form does not duplicate any other forms in the property management system.</thinking>
-
 # Property Appraisal Checklist Form - Help Guide
 ## Purpose
 The Property Appraisal Checklist Form is designed to collect detailed information about a property's condition, allowing users to assess its state and identify areas that require attention.

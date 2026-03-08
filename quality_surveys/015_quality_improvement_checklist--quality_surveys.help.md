@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quality Improvement Checklist - Help Guide
 
 ## Purpose

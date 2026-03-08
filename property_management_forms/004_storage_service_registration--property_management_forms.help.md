@@ -1,7 +1,3 @@
-<thinking>
-The "Storage Service Registration" form is designed to capture essential information about a storage facility or service provider. This form is likely used for administrative purposes within an organization, such as for internal property management or record-keeping. It's assumed that the organization is a facility manager or property management company that needs to keep track of various storage-related details. Before proceeding, please ensure you have the authority to access and submit this form, and that the information you provide is accurate and up-to-date. If you've already registered a storage service with us, you may not need to complete this form again.
-</thinking>
-
 # Storage Service Registration - Help Guide
 ## Purpose
 The Storage Service Registration form is used to register a storage facility or service provider for internal property management and record-keeping purposes.

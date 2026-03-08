@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request access privileges for a tenant. The purpose of this form is to ensure that the tenant's access privileges are up-to-date and accurate. This form should only be used by authorized personnel to request access changes for tenants. If you are not authorized, please do not fill out this form.
-</thinking>
-
 # Tenant Access Privilege Request Form - Help Guide
 ## Purpose
 The Tenant Access Privilege Request Form is used to request access privileges for a tenant. This form is used to ensure that the tenant's access privileges are up-to-date and accurate.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect data for wood destroying insect (WDI) inspections on properties. It is intended for use by pest inspectors to record observations and results of an inspection. It should not be used for other purposes or duplicated.
-
-</thinking>
-
 # Wood Destroying Insect Inspection Form - Help Guide
 ## Purpose
 The Wood Destroying Insect Inspection Form is a tool used by pest inspectors to gather information about a property's condition and presence of wood destroying insects. It helps in identifying and recording the presence or absence of such insects, and is used for inspection reports and other documentation.

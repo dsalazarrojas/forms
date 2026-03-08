@@ -1,10 +1,3 @@
-<thinking>
-This guide is for the "property_stay_extension_agreement_form" form. The form is used for the property manager and property owner to agree on the terms of a stay extension, including check-out date, additional charges, and other relevant details. The form is designed to be filled out by both parties involved in the stay extension agreement. It's essential that both the property manager and property owner review and agree on the terms before signing the form.
-
-Please ensure that you have reviewed the form carefully and understand the implications of each field before proceeding. This form should only be used for stay extension agreements and not for any other purpose.
-
-</thinking>
-
 # property_stay_extension_agreement_form - Help Guide
 ## Purpose
 The property_stay_extension_agreement_form is used for the property manager and property owner to agree on the terms of a stay extension, including check-out date, additional charges, and other relevant details.

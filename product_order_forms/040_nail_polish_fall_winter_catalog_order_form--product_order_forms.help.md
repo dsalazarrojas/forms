@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for customers to order a nail polish product from the Fall Winter catalog. It captures the customer's name, contact information, and details about the order, including the product ID, name, and price. This form aims to ensure accurate and efficient processing of orders.
 
 # Nail Polish Fall Winter Catalog Order Form - Help Guide

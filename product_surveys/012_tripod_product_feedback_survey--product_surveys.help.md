@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from customers or users about their experience with a Tripod product. The form is designed to be user-friendly and easy to navigate, ensuring that customers can provide their valuable insights and suggestions. The form is likely to be used by customers who have had a positive or negative experience with a Tripod product, and it will help the company improve its product offerings based on this feedback.
-
-This form should not be used for other purposes, such as marketing or sales purposes, but only for the specific purpose of collecting product feedback.
-
-</thinking>
-
 # Tripod Product Feedback Survey - Help Guide
 ## Purpose
 The Tripod Product Feedback Survey form is designed to collect customer feedback about their experience with a Tripod product.

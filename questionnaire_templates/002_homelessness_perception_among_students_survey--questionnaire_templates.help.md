@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used as a survey to gather data on students' perceptions of homelessness. It is likely to be used in academic research or as a tool for educators to gauge students' understanding and experiences related to homelessness.
-The form is divided into several sections, each asking questions about different aspects of homelessness. This form does not require any personal details, and all responses will be kept confidential.
-To confirm, this form is intended for academic or educational use only, and the responses will not be shared or used for any other purpose. If you are not a student or staff member, you may not need to complete this form.
-</thinking>
-
 # Homelessness Perception Among Students Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather students' perceptions and experiences related to homelessness. It is intended to help educators and researchers understand the impact of homelessness on students.

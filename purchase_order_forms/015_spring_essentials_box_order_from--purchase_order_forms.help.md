@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spring Essentials Box Order From - Help Guide
 ## Purpose
 This form is designed to help customers purchase Spring Essentials Box, a curated selection of essential items for Spring cleaning and organization. The form gathers information on the customer's purchase amount, name, email, shipping address, shipping method, and any comments they may have. This data is used to process the order and ensure accurate delivery.

@@ -1,5 +1,3 @@
-<thinking>As an expert in form design and technical writing, my goal is to craft a user-friendly help guide that clearly communicates the purpose and usage of the Defect Type Selection Survey form. I'll carefully examine the provided YAML structure to understand the form's purpose and each field's intent. I'll then create a concise and practical help guide that covers the form's purpose, completion process, and field-by-field explanations.</thinking>
-
 # Defect Type Selection Survey - Help Guide
 ## Purpose
 The Defect Type Selection Survey form is designed to collect information about defects, such as whether they exist, their type, date, time, description, location, and any patterns or characteristics. This form helps to identify and categorize defects for further analysis and resolution.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture information from junior on-site property managers who are applying for various roles. It is essential to ensure that applicants are thoroughly evaluated for their suitability for the positions. Before proceeding, confirm that you are eligible for this application process by checking with the internal team or your supervisor. 
-
-Please note that this form is for internal use within the company, and the information provided will be used to assess the candidate's qualifications and fit for the role. 
-
-Also, be aware that the form has multiple pages, each with different fields that might require attention. Please take your time to review each page carefully.
-
-Before submitting the form, make sure to review your answers carefully and ensure they accurately reflect your qualifications and availability.
-</thinking>
-
 # Junior On Site Property Manager Application Form - Help Guide
 ## Purpose
 This form is used for junior on-site property managers to apply for various roles within the company. The form will help the internal team assess the applicant's qualifications and fit for the position.

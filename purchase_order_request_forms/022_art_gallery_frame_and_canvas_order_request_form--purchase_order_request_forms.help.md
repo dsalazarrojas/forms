@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Art Gallery Frame And Canvas Order Request Form - Help Guide
 
 ## Purpose

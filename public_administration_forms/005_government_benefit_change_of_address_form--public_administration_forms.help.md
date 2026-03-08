@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for an update to government benefits. It is meant to help users provide accurate and up-to-date information about themselves. The form should only be used for legitimate purpose and not for commercial use. 
-</thinking>
-
 # Government Benefit Change Of Address Form - Help Guide
 ## Purpose
 This form is used to collect information for an update to government benefits. It is meant to help users provide accurate and up-to-date information about themselves.

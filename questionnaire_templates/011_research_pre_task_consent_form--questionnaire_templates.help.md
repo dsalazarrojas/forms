@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to collect participant information and consent for research tasks. The form is structured in a way that ensures the participant's personal data is collected in a standardized and organized manner. The field names, "Participant Informed Consent 1-23", may seem repetitive, but they are all part of the same section, "Participant Informed Consent", which is a crucial aspect of research tasks. Each field is a continuation of the previous one, providing more detailed information. It is essential to fill out all the fields accurately to ensure the participant's understanding and consent are documented correctly.</thinking>
-
 # Research Pre-Task Consent Form - Help Guide
 ## Purpose
 The Research Pre-Task Consent Form is designed to collect participant information and consent for research tasks. This form is a crucial step in the research process, ensuring that participants understand their role and responsibilities in the study.

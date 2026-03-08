@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the Pedestrian_Safety_Survey form. This form is designed to collect information about users' perceptions of pedestrian safety in their community. The form asks about their feelings of safety, reasons why they feel safe, and any additional comments they may have. The form is meant to be completed by users who are familiar with the area and have an opinion about pedestrian safety.</thinking>
-
 # Pedestrian_Safety_Survey - Help Guide
 
 ## Purpose

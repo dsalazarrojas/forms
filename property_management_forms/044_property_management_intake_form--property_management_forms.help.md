@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect property management information from property owners and managers. It is likely used by property management staff to gather data on properties under their care, including contact information and lease details. The form is probably used as part of a larger property management system to streamline processes and improve communication with property owners and tenants. It's possible that this form is part of a workflow that requires property owners and managers to provide their contact information, lease details, and any additional notes or comments.
-
-Before filling out this form, please ensure you have all the necessary information ready to avoid having to complete it multiple times.
-
-</thinking>
-
 # Property Management Intake Form - Help Guide
 ## Purpose
 The Property Management Intake Form is designed to collect information about properties under your care, including contact information and lease details. This information will be used by property management staff to update their records and improve communication with you and other stakeholders.

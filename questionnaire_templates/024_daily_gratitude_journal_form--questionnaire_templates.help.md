@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Gratitude Journal Form - Help Guide
 ## Purpose
 The Daily Gratitude Journal Form is a tool designed to help individuals cultivate a habit of reflecting on the things they are grateful for each day. By using this form, you can identify and acknowledge the positive aspects of your life, promoting a more optimistic outlook and improved mental well-being.

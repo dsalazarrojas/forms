@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bear Trap Usage Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information about the use of bear traps by individuals involved in wildlife management. The survey aims to collect data on various aspects of bear trap usage, including the frequency of use, purpose, and effectiveness of traps. This information will help improve the understanding of bear trap usage and contribute to more effective and humane wildlife management practices.

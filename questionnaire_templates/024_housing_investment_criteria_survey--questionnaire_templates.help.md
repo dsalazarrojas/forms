@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure this form is used correctly and accurately, please note that this form is designed to collect information about the housing investment preferences of an individual. It is meant to be filled out by a person who is interested in investing in real estate, whether as a seasoned investor or a beginner. Before filling out this form, please make sure you understand what each question is asking and how your answers may impact the outcome of your investment.
-
-</thinking>
-
 # Housing Investment Criteria Survey - Help Guide
 ## Purpose
 The Housing Investment Criteria Survey is a form designed to collect information about your housing investment preferences. This form helps us understand your investment goals, risk tolerance, and other relevant criteria to provide personalized investment advice.

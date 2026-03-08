@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect purchase order requests from users, ensuring that the form fields are filled in correctly and accurately. 
-The purpose of the form is to gather information about the user's sample request, which will be used to process their order.
-To avoid duplicating efforts and ensure accurate data collection, please note that:
-* This form should only be filled out once for each purchase order request.
-* Make sure to fill out all required fields accurately.
-</thinking>
-
 # sample_request_form - Help Guide
 ## Purpose
 The "sample_request_form" is a form designed to collect information about a purchase order request, enabling the efficient processing of orders. Fill out this form to submit a new sample request.

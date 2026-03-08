@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow customers to place orders and schedule pick-up for products. The form is intended for internal use within the organization and is not intended for public access. To avoid duplication, this form should only be used for new orders, not for editing or updating existing orders. Customers can select from a list of available time slots when they want to pick up their order, choose the products they want to order, enter their name and contact information, and confirm their order details. This form is a crucial part of the customer service process, allowing customers to conveniently schedule pick-up and receive their ordered products at the designated time. 
-</thinking>
-
 # Order And Pickup Form - Help Guide
 ## Purpose
 The Order and Pick-up Form is used to place new orders and schedule pick-up for customers. It is intended for internal use and should only be used for new orders, not for editing or updating existing orders.

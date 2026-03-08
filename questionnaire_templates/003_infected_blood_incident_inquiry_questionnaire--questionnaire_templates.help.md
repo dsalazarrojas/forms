@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information about incidents involving blood infection, allowing teams to quickly and accurately report and track these incidents. This form is used to ensure that all relevant details are collected in a structured manner, facilitating efficient investigation and response. This form should only be used for new incidents, and please do not use it if the incident has already been reported. Please make sure to report each incident only once to avoid duplication of effort...</thinking>
-
 # Infected Blood Incident Inquiry Questionnaire - Help Guide
 ## Purpose
 The Infected Blood Incident Inquiry Questionnaire is designed to gather information about incidents involving blood infection, ensuring that all relevant details are collected in a structured manner.

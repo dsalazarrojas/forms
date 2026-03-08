@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about customers' behavior and preferences when it comes to nail polish purchases. The purpose of this survey is to gather data on how often customers buy nail polish, their preferred shopping channels, and what influences their purchasing decisions. This information will help businesses in the nail industry understand their customers' needs and preferences.
-This form is a series of questions that ask customers about their behavior and preferences when it comes to nail polish purchases. Please answer the questions honestly, and select all that apply.
-</thinking>
 # nail_polish_purchase_behavior_survey - Help Guide
 ## Purpose
 This form is designed to gather information about customers' behavior and preferences when it comes to nail polish purchases.

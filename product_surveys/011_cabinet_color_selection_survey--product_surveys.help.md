@@ -1,10 +1,3 @@
-<thinking>
-To create an effective help guide for the Cabinet Color Selection Survey form, we need to understand that the form is designed to collect information about a person's preferences for cabinet color selection. It's likely intended for use by homeowners, interior designers, contractors, or cabinet retailers to gather feedback on color schemes for cabinet projects. This form is likely used to gather data for market research, customer feedback, or product development purposes. It's not clear if the form is for a specific company or industry, so we'll assume it's a general-purpose form for any cabinet-related business.
-
-To ensure the form is not duplicated or irrelevant, we should verify that the form's purpose and scope align with the target audience's needs. If you're unsure, you can add a question to the beginning of the form asking the respondent to confirm their interest in participating in the survey.
-
-</thinking>
-
 # Cabinet Color Selection Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your cabinet color preferences. It will help us understand what types of colors you like and dislike, and what factors influence your decisions when selecting cabinet colors.

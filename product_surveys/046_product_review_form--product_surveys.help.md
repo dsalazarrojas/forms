@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect product reviews from customers, allowing them to provide feedback on products they've purchased or used. The form should be filled out for every product to ensure that the company can gauge customer satisfaction and improve products accordingly. This form does not need to be filled out for every new review, but rather for every product that the reviewer has already provided a review for. This is to prevent duplicate entries and to keep track of changes over time.
-</thinking>
-
 # Product Review Form - Help Guide
 ## Purpose
 The Product Review Form is designed to collect reviews from customers about the products they have used or purchased.

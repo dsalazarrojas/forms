@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for the purpose of filing an LLC (Limited Liability Company) in a state or local government. This form is meant to be completed by the individual or entity seeking to file an LLC, and it asks for general contact information and details about the business, including its purpose and the entity type. It's crucial to fill out this form accurately and thoroughly to ensure that the necessary information is gathered correctly. Please note that this form should not be used for other purposes, such as filing a sole proprietorship or partnership, as it is specifically designed for LLCs.
-</thinking>
-
 # LLC Filing Intake Survey - Help Guide
 ## Purpose
 This form gathers information for the purpose of filing an LLC in a state or local government.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for clients of a hypnotherapy practice to provide basic information that will be used to assess their suitability for hypnotherapy sessions. The purpose of this form is not only to collect personal data but also to create an initial assessment of the client's medical condition and potential needs. Please ensure that you have the necessary permissions or consents to collect and process this information.
 
 </thinking>

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ixodes Ricinus Knowledge Quiz - Help Guide
 ## Purpose
 The Ixodes Ricinus Knowledge Quiz is a comprehensive assessment tool designed to evaluate your knowledge on the Ixodes Ricinus species. This form will guide you through a series of questions to test your understanding of the biology, ecology, and other relevant aspects of this species.

@@ -1,11 +1,3 @@
-<thinking>
-
-The "left_handed_golf_grip_training_aid_order_form" is a form designed for users to order a training aid for left-handed golfers. The form collects information about the product selection, shipping preferences, customer details, shipping address, and any additional notes. The form is used by customers to place orders for this specific product, and it is not intended for general inquiries or other purposes.
-
-This form is used in the context of an e-commerce platform, where customers can select and purchase products online. To complete this form, customers will be presented with a series of fields to fill out, each with its own specific purpose.
-
-</thinking>
-
 # left_handed_golf_grip_training_aid_order_form - Help Guide
 ## Purpose
 The "left_handed_golf_grip_training_aid_order_form" is a form designed for customers to order a training aid for left-handed golfers. Customers can use this form to select a product and provide their shipping information.

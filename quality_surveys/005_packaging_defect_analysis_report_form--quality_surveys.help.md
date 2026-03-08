@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will first consider the purpose and context of the "Packaging Defect Analysis Report Form" before creating a user-facing help guide. The form is likely used in a professional or industrial setting, such as in the packaging industry, where defects need to be analyzed and reported. The purpose of this form is to collect information about packaging defects, including their type, location, and date/time of discovery. The guide will be designed to be clear and concise, explaining each field's purpose and how to complete the form accurately.</thinking>
-
 # Packaging Defect Analysis Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about packaging defects, which is used to analyze and address the issues to ensure high-quality packaging. Please provide detailed information as much as possible.

@@ -1,13 +1,3 @@
-<thinking>
-To design an effective help guide for a form like "homemade_mask_order_form", you need to consider the following factors:
-
-* The form's purpose is to allow users to order custom-made masks, which implies that users will be providing personal details like phone numbers, emails, and special instructions.
-* There are a total of 25 fields in the form, which may seem overwhelming for the user. To address this, the guide should break down each step and focus on one field at a time to prevent information overwhelm.
-* The form requires users to input information for various purposes such as contact, size, and shipping details. Each field has a clear label and hint, which is a good practice in form design.
-* There are no fields that directly ask for "what" to do, "why" to do it, or "where" to do it, which is unusual for a form and might imply that the field "form_submission_url" might not be as important or relevant as it seems.
-* Given the form's complexity, it would be beneficial to include some general tips for the user on how to complete the form efficiently and accurately.
-</thinking>
-
 # homemade_mask_order_form - Help Guide
 ## Purpose
 This form is designed to allow you to order custom-made masks. Please complete the following fields to ensure accurate and efficient processing of your order.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stylist Match Quiz - Help Guide
 
 ## Purpose

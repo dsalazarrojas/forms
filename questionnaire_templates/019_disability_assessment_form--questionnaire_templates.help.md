@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disability Assessment Form - Help Guide
 
 ## Purpose

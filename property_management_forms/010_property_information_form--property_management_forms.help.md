@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a property. The form is likely used in a real estate or property management context, and the fields suggest that it is used to track and store property details such as address, location, and owner information. The form does not seem to have any fields that are specific to a "property management" context, so it may be used for general property information collection.
-To confirm, I will assume this form is used for general property information collection and will focus on explaining each field in that context.
-</thinking>
-
 # Property Information Form - Help Guide
 ## Purpose
 This form is used to collect information about a property, including its address, location, and owner details. The form is designed to be completed by property owners or managers to provide accurate and up-to-date information about their property.

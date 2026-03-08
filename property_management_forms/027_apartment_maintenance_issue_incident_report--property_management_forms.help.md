@@ -1,10 +1,3 @@
-<thinking>
-The "Apartment Maintenance Issue Incident Report" form is designed to help maintenance staff quickly report and manage incidents of apartment maintenance issues. The purpose of this form is to gather all relevant information necessary to address and resolve the issue, including details about the issue's nature, location, and urgency. By completing this form, maintenance staff can effectively prioritize and address maintenance requests, ensuring that they are resolved in a timely and efficient manner.
-
-This form is intended to be completed for each maintenance issue that arises within an apartment, and it is essential that all fields are filled out accurately and completely. Please note that some fields may be optional, but they are included to provide additional context and information that can aid in the resolution of the issue.
-
-Before completing the form, review the following sections to ensure that you understand what information is required and how it will be used.</thinking>
-
 # Apartment Maintenance Issue Incident Report - Help Guide
 ## Purpose
 The Apartment Maintenance Issue Incident Report is a crucial tool used by maintenance staff to report and manage incidents of apartment maintenance issues. This form provides a structured way to gather essential information about the issue, including its nature, location, and urgency, allowing for efficient prioritization and resolution.

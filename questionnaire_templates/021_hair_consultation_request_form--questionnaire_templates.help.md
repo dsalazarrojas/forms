@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request a consultation for a hairstyle or hair treatment.
-The form is designed to collect information about the client's hair characteristics and preferences.
-This form is intended for internal use and should only be used by clients who have a genuine need for a consultation.
-To avoid duplication, clients can only submit one consultation request per visit.
-</thinking>
-
 # hair Consultation Request Form - Help Guide
 ## Purpose
 The hair Consultation Request Form is a tool to collect information about a client's hair needs for a consultation.

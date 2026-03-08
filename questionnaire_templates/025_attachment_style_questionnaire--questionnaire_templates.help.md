@@ -1,5 +1,3 @@
-<thinking>Attachment style questionnaires are a type of psychological assessment tool used to measure an individual's attachment style, which is a fundamental concept in understanding human relationships. This form is designed to help identify patterns and behaviors in close relationships, providing insights for personal growth and development. Please ensure that you're completing this form for yourself, as it's a personal and sensitive assessment. If you've already taken this form recently, you may want to review your previous responses to identify any changes or growth in your attachment style.</thinking>
-
 # Attachment Style Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to assess your attachment style, which is a crucial aspect of building and maintaining healthy relationships. It will ask you to rate your agreement or disagreement with various statements related to emotional closeness, intimacy, and dependence. The goal is to identify areas where you may need to grow and improve in your relationships.

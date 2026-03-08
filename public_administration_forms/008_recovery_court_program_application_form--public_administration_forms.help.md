@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Recovery Court Program Application Form is to collect demographic information from individuals who wish to be considered for the Recovery Court Program. This form will help the Recovery Court Program team assess the applicant's eligibility and suitability for the program. Before filling out this form, please note that you may have already submitted similar information in another application or form. If you are unsure if your information is already on file, please contact the program team to confirm. Please fill out this form accurately and thoroughly to the best of your ability.
-</thinking>
-
 # Recovery Court Program Application Form - Help Guide
 
 ## Purpose

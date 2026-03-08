@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form is used to collect information for healthcare psychologists employment. It's intended to gather relevant details about the candidate's qualifications, work experience, availability, and other necessary information to process their job application.
-To fill this form, ensure that it's being filled by a healthcare psychologist with the correct qualifications and that the form is not being duplicated for other candidates. Please ensure that you're filling this form correctly and truthfully to avoid any potential issues during the application process.
-</thinking>
-
 # Healthcare Psychologist Employment Form - Help Guide
 ## Purpose
 The Healthcare Psychologist Employment Form is a tool used to collect vital information about healthcare psychologists applying for a position. The purpose of this form is to ensure that you have a better understanding of your qualifications, work experience, and other relevant details that may impact your employment opportunity.

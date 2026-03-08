@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand its purpose. Based on the YAML input schema, this form is a "Voice Of The Customer Survey" designed to gather feedback and opinions from customers about their experience with the product. It seems to cover a wide range of topics, including their experience, how they heard about the product, what they liked or disliked, and demographic information such as age and purchase history. The survey likely aims to improve customer satisfaction and inform product development decisions. This form likely shouldn't be completed by customers who have already submitted feedback or have similar answers, so a "Don't submit duplicate responses" note would be helpful.
-
-To complete this form, the user will need to go through each page, filling out the corresponding questions. Each page will have its own set of questions, which can be of different types (e.g., text, select, number, date, time, etc.). Some fields are required, while others are optional. The user will need to select or enter their answers for each question, and they can move on to the next page or submit their responses when finished.
-
-In the Field-by-Field Explanation section, we will break down each field into a simple and clear explanation of what it means and how to complete it.
-
-</thinking>
-
 # Voice Of The Customer Survey - Help Guide
 
 ## Purpose

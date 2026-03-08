@@ -1,16 +1,3 @@
-<thinking>
-
-This form is designed to collect demographic and opinion-related information from users on their political and constitutional evolution, aiming to gather data on their civic engagement, political awareness, and attitudes towards constitutional change. This form is likely to be used by researchers or policymakers to better understand the public's perspective on these topics. Please note that the form is not meant to be taken by the general public, but rather by specific target groups or individuals with relevant expertise.
-
-Before proceeding, please review the following guidelines to ensure you understand the form's purpose and the questions asked:
-
-*   This form is not intended for personal or entertainment purposes.
-*   Please answer honestly and accurately, as your responses will contribute to research or policy-making efforts.
-*   Be aware that some questions might be sensitive or personal; however, your anonymity and confidentiality will be respected.
-*   If you're unsure about any question or feel uncomfortable answering, please contact the form administrators.
-
-</thinking>
-
 # Political And Constitutional Evolution Survey - Help Guide
 
 ## Purpose

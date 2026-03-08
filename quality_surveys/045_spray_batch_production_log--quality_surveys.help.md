@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to record the production details of a specific batch of spray production. The purpose of this form is to capture information about the production process, including batch ID, production date and time, batch number, equipment used, and other relevant details. To avoid duplication of records, ensure that each batch is only logged once with unique batch ID.
-</thinking>
-
 # Spray Batch Production Log - Help Guide
 ## Purpose
 The Spray Batch Production Log is a form used to record the production details of a specific batch of spray production. It helps track and document the production process, ensuring accurate and efficient management of production data.

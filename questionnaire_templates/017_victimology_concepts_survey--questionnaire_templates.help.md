@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <Victimology Concepts Survey - Help Guide>
 
 ## Purpose

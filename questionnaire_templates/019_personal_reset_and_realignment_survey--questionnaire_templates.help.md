@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a person's personal and financial well-being, habits, and goals. The goal is to help identify areas of improvement and provide personalized recommendations for realignment and motivation. This form is a self-assessment tool, and the answers will remain confidential. Please answer the questions honestly, and feel free to ask for help if you are unsure about any of the fields.
-</thinking>
-
 # Personal Reset And Realignment Survey - Help Guide
 ## Purpose
 The Personal Reset And Realignment Survey is a self-assessment tool designed to help individuals identify areas of improvement and provide personalized recommendations for realignment and motivation. This form is meant to be completed honestly and with care, as the answers will remain confidential.

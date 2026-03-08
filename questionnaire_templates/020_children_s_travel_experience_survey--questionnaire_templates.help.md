@@ -1,15 +1,3 @@
-<thinking>
-This form is a tool to gather information about children's travel experiences. It is designed to collect data on various aspects of a child's trip, including their name, destination, travel dates, favorite activity, comfort level during travel, experience with food and meals, any behavioral notes, and overall trip rating.
-
-To ensure the form is used correctly, please consider the following:
-
-- This form is not affiliated with, endorsed by, or derived from any form platform.
-- It is an original adaptation created using only public survey topic metadata.
-- This form is released under CC BY 4.0, allowing for free use, modification, and even commercial use with proper credit.
-- For any queries or concerns, please contact form@gic.mx.
-
-</thinking>
-
 # Children Travel Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a child's travel experience. It aims to gather details such as their name, destination, travel dates, and overall satisfaction with their trip.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to allow users to place an order for pet grooming products. The form is intended for pet owners who want to purchase grooming products for their pets. To ensure accuracy, this form must be filled out correctly and completely. Please review each field carefully to ensure that you are providing the correct information.
 
 </thinking>

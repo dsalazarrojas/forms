@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or households affected by the COVID-19 pandemic. The purpose of this form is to assess the needs and circumstances of the household members, ensuring that the provided information will be used for non-profit support purposes only. 
-
-The form has several sections and fields that require different types of information, some of which are required. The fields are designed to gather specific details about the household, including demographics (family name, number of household members, contact phone number, and current address), employment status during the pandemic, immediate needs, internet access, number of elderly household members, specific medical needs, preferred time for assistance delivery or pickup, and certification of the accuracy of the provided information.
-
-The form should only be filled out by those who are affected by the pandemic and seeking non-profit support.
-</thinking>
-
 # COVID 19 Questionnaire - Help Guide
 ## Purpose
 This form is a questionnaire designed to collect information from individuals or households affected by the COVID-19 pandemic. The purpose of this form is to gather information about the household's needs and circumstances for non-profit support purposes.

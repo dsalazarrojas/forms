@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Resource Support Questionnaire - Help Guide
 
 ## Purpose

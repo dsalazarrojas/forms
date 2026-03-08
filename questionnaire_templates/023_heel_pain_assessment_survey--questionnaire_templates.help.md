@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect information about patients' heel pain, which will likely be used for further assessment and treatment. This form will gather data on the patient's name, contact number, email (if provided), history of previous injuries, medical conditions, pain type, pain duration, severity, location, and impact of the pain on daily activities. This form is likely to be used in a medical setting, possibly for physical therapy or orthopedic assessment.
-
-</thinking>
-
 # Heel Pain Assessment Survey - Help Guide
 ## Purpose
 This form is designed to collect information from patients about their heel pain, which will aid in further assessment and treatment.

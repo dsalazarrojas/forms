@@ -1,5 +1,3 @@
-<thinking>This form is intended to assess the effectiveness of editing tools in a team environment. It should be used by team members, managers, or administrators to evaluate their experience and opinions about various editing tools. The purpose of this form is to collect feedback and insights that can help refine and improve the tools and processes for future editing endeavors. It's essential to fill out this form thoroughly and honestly to ensure accurate and actionable data collection. Please make sure to complete this form if you are a team member who has used the editing tools. If you're unsure or have any questions, feel free to reach out for clarification.</thinking>
-
 # Editing Tools Assessment - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's experience and needs as an improviser or performer. The form asks for details about the character and costume they wish to portray, their experience level, goals, and specific needs for rehearsals and shows. The form also includes fields for notes and contact information. It appears to be a survey for an improvisation group or theater company, aiming to gather data to understand the participants' backgrounds and requirements. The form does not ask for sensitive or personal identifiable data, indicating it may be used for general analysis and planning purposes. 
-</thinking>
-
 # Improv Character And Costume Survey - Help Guide
 ## Purpose
 This form helps to collect information about your character and performance needs from participants. Please fill out the form to provide the details we need to ensure you have a great experience at our event.

@@ -1,17 +1,3 @@
-<thinking> This form, called "Empathy And Respect Self Assessment," is designed to help you evaluate your level of emotional intelligence and respect for others. It's a self-administered test that consists of 13 multiple-choice questions, followed by 12 open-ended text fields. Each question is labeled with a Roman numeral (I to XIII) and a brief description. The form is divided into two sections: the first section has 13 multiple-choice questions, and the second section has 12 open-ended text fields.
-
-This form is not meant to be taken lightly. It's essential that you answer these questions honestly, as they are intended to help you gain a better understanding of your personal values and behaviors. Please complete the form carefully, and avoid rushing through it. The more thought you put into your responses, the more valuable the outcome will be.
-
-Before starting, make sure you understand the context of this form. It's not a diagnostic tool, but rather a self-assessment exercise. Please answer based on your personal experiences, feelings, and opinions.
-
-To complete this form, follow these steps:
-
-1.  Read each question carefully and choose the answer that best reflects your thoughts and feelings.
-2.  For the open-ended text fields, provide detailed and thoughtful responses.
-3.  Make sure to answer all questions, even if you feel unsure or uncomfortable about a particular question.
-
-</thinking>
-
 # Empathy And Respect Self Assessment - Help Guide
 ## Purpose
 The purpose of this form is to help you evaluate your level of empathy and respect for others. It's a self-administered test that assesses your emotional intelligence and values.

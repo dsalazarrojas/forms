@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for ordering fuel, possibly for a fleet management system or for an individual's personal vehicle. This form may be used for submitting orders for fuel deliveries or for requesting fuel-related services. It's essential to understand that the form's purpose and fields might be subject to internal business logic and constraints, which I will assume are already known and respected in the guide below.
-</thinking>
-
 # Fuel Order Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is a Safety And Independence Survey designed to assess the safety and independence of an individual. It is intended to be used in a healthcare setting to gauge the individual's ability to perform daily activities and their level of safety awareness. The form should not be used in cases where the individual is in immediate danger or requires emergency assistance.
-
-To ensure accurate and consistent results, please ensure that the form is completed by a qualified healthcare professional or caregiver who has sufficient knowledge of the individual's situation. Additionally, the form should not be used for individuals who are unable to communicate effectively or require assistance with daily activities.
-
-Before completing the form, please review the following fields and their respective explanations to ensure you understand the purpose and requirements of each section.</thinking>
-
 # Safety And Independence Survey - Help Guide
 ## Purpose
 The Safety And Independence Survey is a questionnaire designed to assess an individual's safety and independence in a healthcare setting. It helps healthcare professionals and caregivers to evaluate the individual's ability to perform daily activities and their level of safety awareness.

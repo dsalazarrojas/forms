@@ -1,12 +1,3 @@
-<thinking>
-This form is part of the "product_surveys" category and is called "mvp_review_checklist". The form is meant to gather feedback and reviews from users about various aspects of a product or service. The goal is to get a comprehensive understanding of how well the product meets the user's needs and expectations. 
-
-The form will help the product team make data-driven decisions by collecting feedback on different features and aspects of the product. The form is likely to be used by product managers or other team members to gather user feedback.
-
-The form has several sections and questions that aim to cover different aspects of the user experience, such as usability, feature fit, go-forward decisions, and overall satisfaction. Some questions are multiple-choice options, while others require written feedback or ratings.
-
-Each section of the form will have a brief explanation and examples to help the user complete it correctly.</thinking>
-
 # mvp_review_checklist - Help Guide
 ## Purpose
 The MVP Review Checklist is a form designed to gather user feedback and reviews on the product or service. The purpose of this form is to help the product team make data-driven decisions and improve the product's usability, feature fit, and overall user experience.

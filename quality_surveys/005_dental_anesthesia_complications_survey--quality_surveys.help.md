@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect data on dental anesthesia complications, which is a critical aspect of patient safety and care in dental practices. 
-The form is meant to gather information on patient demographics, medical history, procedure details, and post-anesthesia outcomes. 
-This form will help identify potential complications and inform future treatment decisions. 
-Ensure that the form is being used for its intended purpose and not for duplicate reporting. 
-Please note that the form fields are designed to be filled out by dental professionals, and the information collected will be used for clinical analysis and quality improvement. 
-</thinking>
-
 # Dental Anesthesia Complications Survey - Help Guide
 ## Purpose
 The Dental Anesthesia Complications Survey is designed to collect data on complications that may occur during dental anesthesia procedures. This data will help improve the quality of care and inform future treatment decisions.

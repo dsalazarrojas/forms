@@ -1,10 +1,3 @@
-<thinking>
-This form, "Community Identity Assessment," is designed to gauge residents' perceptions and feelings about their community's identity, strengths, and challenges. This assessment aims to collect valuable insights to help community leaders and stakeholders better understand the community's needs and make informed decisions. 
-
-To avoid duplication, please ensure that no one has filled out this form recently. If in doubt, please reach out to your supervisor or administrator for further guidance.
-
-</thinking>
-
 # Community Identity Assessment - Help Guide
 
 ## Purpose

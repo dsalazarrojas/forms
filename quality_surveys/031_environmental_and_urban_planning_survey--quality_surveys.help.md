@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML fields, I notice that this form is designed to collect information on various aspects of environmental and urban planning, including urban areas, environmental issues, transportation, housing, waste management, open space, water management, public services, parks and recreation, education, safety, and comments. The form appears to be a comprehensive survey to gather insights on different aspects of urban planning and development. I will ensure that the help guide is clear and concise, explaining each field in a way that is easy to understand for end-users. I will also verify that the help guide does not duplicate any information already present in the form.</thinking>
-
 # Environmental And Urban Planning Survey - Help Guide
 ## Purpose
 This form is designed to collect information on various aspects of environmental and urban planning to help identify areas of improvement and development.

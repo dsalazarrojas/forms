@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Study Data Quality Assessment Form - Help Guide
 ## Purpose
 The Study Data Quality Assessment Form is a tool used to evaluate the quality of study data. It helps assessors evaluate and provide feedback on the quality of data collected during studies. The form is divided into sections that cover various aspects of data quality, including overall data quality, data errors, data formatting, and more. The form is designed to provide a comprehensive assessment of study data, helping to identify areas that require improvement.

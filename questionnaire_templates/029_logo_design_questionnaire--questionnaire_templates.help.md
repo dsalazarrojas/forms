@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a customer's logo design preferences and details. It is meant to be completed by a customer or a person responsible for making decisions about a company's branding. The form is intended to gather specific details about the customer and their company's branding style, preferences, and requirements. Before starting, please review the following guide to ensure you understand the form's purpose and how to complete it correctly.
-</thinking>
-
 # Logo Design Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about a customer's logo design preferences and details from the customer or a person responsible for making decisions about a company's branding.

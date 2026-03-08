@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will provide a clear and concise help guide for the Lens Usage Survey form.</thinking>
-
 # Lens Usage Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with our lens. It will help us understand how you use our lens, what features you like and dislike, and what improvements we can make to better serve you.

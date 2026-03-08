@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from users about their experience with the Smart Fragrance Diffuser product. The form is designed to gather information about the product type, usage frequency, satisfaction level, and any other comments or suggestions the user may have. The goal of this form is to help the company improve the product and provide better service to its customers.
-</thinking>
-
 # Smart Fragrance Diffuser Feedback Survey - Help Guide
 ## Purpose
 The Smart Fragrance Diffuser Feedback Survey is a tool designed to collect feedback from users about their experience with the Smart Fragrance Diffuser product. This form will help us understand your opinions and suggestions, enabling us to improve the product and provide better service.

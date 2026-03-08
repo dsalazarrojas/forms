@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect preferences from airline travelers during check-in. The purpose of this form is to gather information about the traveler's identity, flight details, and personal preferences such as check-in method, seat preferences, meal requests, and special assistance requirements. This form will likely be used by airline staff to provide personalized services and ensure a smooth check-in experience for the traveler.
-
-Before filling out this form, please ensure that you are providing accurate information and that it is related to your current travel plans. If you have already submitted a preference form for this trip, please do not submit this form again as duplicate submissions may cause confusion or delay your travel process.
-
-</thinking>
-
 # Airline Traveler Preference Check In Form - Help Guide
 ## Purpose
 The Airline Traveler Preference Check In Form is designed to collect your preferences and requirements for a seamless check-in experience. This form will be used by airline staff to tailor their services to meet your needs.

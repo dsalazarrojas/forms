@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Evening Availability Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about an individual's evening availability. The purpose of this form is to gather details about a person's evening routine, such as their start and end times, availability in the evening, and whether they prefer to schedule meetings or activities during this time.

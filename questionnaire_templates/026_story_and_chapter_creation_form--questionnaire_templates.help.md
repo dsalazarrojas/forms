@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Story And Chapter Creation Form - Help Guide
 
 ## Purpose

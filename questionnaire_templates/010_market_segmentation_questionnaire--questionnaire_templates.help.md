@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help business users segment the market for their product or service. The goal of market segmentation is to identify and target specific groups of customers who have similar characteristics and needs, increasing the effectiveness of marketing efforts. This form will guide you through the process of selecting the most relevant market segment for your business. Before starting, please ensure you are not duplicating work and that this form aligns with your company's marketing strategy. If you have already created a similar form, please refer to it instead.
-</thinking>
-
 # Market Segmentation Questionnaire - Help Guide
 ## Purpose
 The Market Segmentation Questionnaire is a tool to help you identify and select specific market segments for your business. It consists of a series of questions that will guide you through the process of segmenting the market.

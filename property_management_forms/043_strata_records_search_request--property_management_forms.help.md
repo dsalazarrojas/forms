@@ -1,7 +1,3 @@
-<thinking>
-The form "Strata Records Search Request" is likely a form used by property managers or administrators to search for specific records related to strata properties. The form is designed to collect information about a property, its strata scheme, and the manager's details. This form is likely used in a real estate or property management context. The form appears to be a comprehensive form, but some fields seem to be duplicates or have the same type (e.g., multiple date fields). A careful review of the form's purpose and functionality would be necessary to confirm its intended use.
-</thinking>
-
 # Strata Records Search Request - Help Guide
 ## Purpose
 The "Strata Records Search Request" form is used to search for specific records related to strata properties. This form is designed to collect information about a property, its strata scheme, and the manager's details.

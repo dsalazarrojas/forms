@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a purchase order request for programming equipment. The purpose of this form is to gather information from users to facilitate the ordering process. This form should only be used for requesting programming equipment and should not be used for other types of orders. Before proceeding, please ensure that you have not already submitted a request for the same equipment.
-</thinking>
-
 # programming_equipment_order_form - Help Guide
 
 ## Purpose

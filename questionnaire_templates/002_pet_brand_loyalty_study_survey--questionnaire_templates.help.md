@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Brand Loyalty Study Survey - Help Guide
 ## Purpose
 

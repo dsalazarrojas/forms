@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive guide for renters to understand their code of conduct while renting a property. The form is designed to collect information from the renter, including their contact details, property details, and acceptance of rental rules. The purpose of this form is to ensure that the renter understands their responsibilities and obligations as a renter.
-This form is not a duplicate of any other form, but rather a unique guide for renters to provide their information and acceptance of rental rules.
-</thinking>
-
 # Renter Code Of Conduct Agreement - Help Guide
 ## Purpose
 This form is a guide for renters to understand their code of conduct while renting a property.

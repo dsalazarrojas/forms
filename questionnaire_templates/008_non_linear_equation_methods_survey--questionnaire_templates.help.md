@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect feedback and insights from users on their experience with non-linear equation methods. It is meant to gather information on the types of numerical methods used, how often they are used, and the level of difficulty and satisfaction associated with them. This form is part of a larger survey to help us understand user habits and preferences when it comes to non-linear equation methods. Before proceeding, please ensure that you have not already completed this form to avoid duplicate submissions. If you have any questions or concerns, feel free to contact our support team...</thinking>
-
 # Non Linear Equation Methods Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights from users on their experience with non-linear equation methods. It aims to gather information on the types of numerical methods used, how often they are used, and the level of difficulty and satisfaction associated with them.

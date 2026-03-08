@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a household, including its head of household, number of members, and demographic details such as gender, income, language, ethnicity, and race. The form also collects contact information (email and phone number) and allows for additional comments or notes. The purpose of this form is to gather essential data for public administration purposes, ensuring that the information is accurate and up-to-date. To avoid duplication, please ensure that you are filling out this form for the first time and not revisiting previous submissions.
-
-</thinking>
-
 # Household Census Intake Form - Help Guide
 ## Purpose
 This form is used to collect information about a household for public administration purposes.

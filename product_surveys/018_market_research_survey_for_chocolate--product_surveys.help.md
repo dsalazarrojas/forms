@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will create a user-facing help guide for the "Market Research Survey For Chocolate" form, following the provided YAML structure and fields. The form appears to be designed to gather market research data related to consumer behavior and preferences regarding chocolate. 
 
 The form contains various fields for customer demographics, purchase history, purchase frequency, preferred product characteristics, and purchase location. It seems to be used for gathering information on how customers purchase and interact with chocolate products. 

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive assessment tool designed to evaluate the operations of a contact center. It likely aims to gauge the overall performance and efficiency of the center, gathering insights from assessors on various aspects of the center's operations. The form's structure suggests it is intended for use within an organizational setting, possibly by management or quality control teams. I will now create a user-facing help guide for this form.
-</thinking>
-
 # Contact Center Operations Assessment Survey - Help Guide
 ## Purpose
 This form is designed to assess your experience and opinions on the performance of the contact center's operations. It will help us identify areas of strength and areas that require improvement.

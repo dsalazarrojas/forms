@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to guide users through a brief overview of marketing principles, covering key aspects related to marketing activities, strategies, and goals. It's designed to be completed by team members or marketers to help them align their efforts with the company's marketing principles.
-To ensure the form is completed effectively, users should review the provided information and answer accurately, keeping in mind that the form is not mandatory, allowing them to skip it if they feel that their existing knowledge aligns with the principles already covered.
-The form consists of three sections, each addressing different areas of marketing principles.
-</thinking>
-
 # Marketing Principles Overview - Help Guide
 ## Purpose
 This form is meant to be a starting point for users to reflect on their understanding of marketing principles. By completing this form, you'll be able to provide a clear and concise overview of the marketing aspects relevant to your work.

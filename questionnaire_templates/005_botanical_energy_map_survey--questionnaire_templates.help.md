@@ -1,7 +1,3 @@
-<thinking>
-The "Botanical Energy Map Survey" form is designed to gather data about respondents' experiences and perceptions of public spaces. Its purpose is to collect information about the vibrancy and safety of these areas, which can inform urban planning and design decisions. This form is intended to be completed by respondents who have interacted with public spaces, such as parks or green spaces, and will help understand how to create more enjoyable and safe environments for all users.
-</thinking>
-
 # Botanical Energy Map Survey - Help Guide
 ## Purpose
 The Botanical Energy Map Survey is a tool used to collect feedback from individuals about public spaces. This feedback can help urban planners and designers create more vibrant and safe environments.

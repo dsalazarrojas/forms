@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # City Information Collection Form - Help Guide
 
 ## Purpose

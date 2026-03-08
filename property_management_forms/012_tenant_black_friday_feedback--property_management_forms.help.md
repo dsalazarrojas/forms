@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from tenants on their experience on Black Friday, providing insights into performance and areas for improvement. It is essential that the feedback is accurate and relevant to the business.
-</thinking>
-
 # Tenant Black Friday Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from tenants about their Black Friday experience, providing valuable insights into the performance and identifying areas for improvement.

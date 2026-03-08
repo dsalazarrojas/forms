@@ -1,5 +1,3 @@
-<thinking>...This form is designed to be used for customers to place an order at a deli. This form captures essential information about the order, including the order details, customer information, contact details, and payment method... The form is likely used by deli staff to process orders efficiently. It's essential to review the form carefully to ensure that all relevant details are captured correctly...</thinking>
-
 # pick_ka_deli_order_form - Help Guide
 ## Purpose
 The pick_ka_deli_order_form is used to place an order at a deli.

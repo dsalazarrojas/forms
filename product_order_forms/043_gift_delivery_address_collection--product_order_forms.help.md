@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect address and contact information for gift delivery purposes. It may be used by customers or gift-givers to provide details about the recipient and the gift, including delivery date, address, and any additional notes or messages. It's possible that this form will be used in conjunction with other forms or processes to facilitate gift delivery, such as creating a gift order or sending a notification to the recipient.
-</thinking>
-
 # Gift Delivery Address Collection - Help Guide
 ## Purpose
 The Gift Delivery Address Collection form is used to gather information about the recipient and the gift, including delivery address, contact details, and any special messages or notes. This form can be used by customers or gift-givers to ensure that gifts are delivered successfully and the recipient has all the information they need to receive their gift.

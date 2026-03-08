@@ -1,8 +1,3 @@
-<thinking>
-We will assume that the form "Roommate Agreement Form Template" is designed to collect information for a roommate agreement between tenants who share a living space. This form should cover the essential details and rules governing the household and its occupants. 
-Before creating a roommate agreement template, ensure that you don’t create a similar one elsewhere in your organization. Review the form's purpose, target audience, and scope to confirm its relevance. This template aims to standardize the information collected and ensure a smooth living experience among roommates.
-</thinking>
-
 # Roommate Agreement Form Template - Help Guide
 ## Purpose
 The purpose of this Roommate Agreement Form Template is to gather and document essential information for a harmonious living experience among roommates in a shared household. This template ensures that all roommates are aware of their responsibilities, expectations, and rules governing the shared space and utilities.

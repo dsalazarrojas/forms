@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Video Interview Appearance Survey - Help Guide
 
 ## Purpose

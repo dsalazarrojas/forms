@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the "Quantitative Research Checklist" form is to assist individuals in ensuring that a research project is properly prepared and executed. This form is designed to be a comprehensive tool to help researchers assess and address various aspects of a research project, including project readiness, team roles, data collection, and review processes. This form can be used to identify potential issues and areas that require attention before starting a project, thereby reducing the risk of project failure. 
-
-The form is not a substitute for professional judgment or expert advice. It is essential to review and validate the answers with a project manager, researcher, or other relevant stakeholders to ensure that the assessment is accurate and reliable. 
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It was created using public survey topic metadata as inspiration and released under the Creative Commons Attribution 4.0 (CC BY 4.0) license, allowing users to use, modify, and distribute the form.
-</thinking>
-
 # Quantitative Research Checklist - Help Guide
 ## Purpose
 The "Quantitative Research Checklist" form is a comprehensive tool designed to help researchers prepare and execute research projects efficiently and effectively. It covers various aspects of the project, including project readiness, team roles, data collection, and review processes.

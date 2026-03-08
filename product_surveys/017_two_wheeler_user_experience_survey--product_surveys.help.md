@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Two Wheeler User Experience Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback and information about your experiences with two-wheeled vehicles. It will help us understand your perceptions, satisfaction, and areas of improvement for our products and services. Please take a few minutes to complete this form and let us know about your thoughts and opinions.

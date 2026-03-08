@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Sustainability Program Opinion Questionnaire - Help Guide
 
 ## Purpose

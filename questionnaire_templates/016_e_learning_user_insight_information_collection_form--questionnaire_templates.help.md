@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect user insight information on eLearning user experience, preferences, and behaviors. This form is intended to be filled out by users of eLearning platforms. Before filling out this form, please note that it is designed to gather insights on user experiences, behaviors, and preferences. It's essential to provide accurate and honest answers to help us better understand our users' needs and improve our services.
-
-Please ensure that you're not duplicating your responses, as this form is meant to collect new and unique information about each user. If you have already filled out this form in the past, please don't submit duplicate responses. Your cooperation in providing accurate and unique information is crucial for us to improve our services.
-
-Before you start filling out the form, please note that all questions are optional unless marked as required. If a field is marked as required, it's essential to fill it out to help us understand your user experience effectively.
-</thinking>
-
 # e_learning_user_insight_information_collection_form - Help Guide
 ## Purpose
 The eLearning User Insight Information Collection Form is designed to gather information about your eLearning experience, preferences, and behaviors. This form helps us understand how to improve our services to better meet your needs.

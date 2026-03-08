@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shed Design Questionnaire - Help Guide
 ## Purpose
 This shed design questionnaire is a tool to help gather information about a client's requirements and needs for a shed design project. It collects details on client preferences, site specifics, and other relevant information to inform the design process.

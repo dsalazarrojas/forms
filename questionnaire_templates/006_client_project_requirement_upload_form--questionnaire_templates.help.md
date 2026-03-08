@@ -1,9 +1,3 @@
-<thinking>
-This form is part of a project management process that captures and organizes client project requirements and expectations. It ensures that essential information is gathered to create a clear understanding of each project, which is crucial for successful project planning, execution, and delivery. 
-The form is divided into several sections, each addressing a key aspect of project requirements. By filling out this form, clients can provide a comprehensive overview of their project needs, timelines, and expectations, making it easier for project managers to understand and plan accordingly. 
-This form helps to prevent duplication of effort and ensures that all essential information is captured correctly.
-</thinking>
-
 # Client Project Requirement Upload Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information about client projects, including project details, timelines, and requirements.

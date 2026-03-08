@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## transpiration_process_quiz - Help Guide
 
 ## Purpose

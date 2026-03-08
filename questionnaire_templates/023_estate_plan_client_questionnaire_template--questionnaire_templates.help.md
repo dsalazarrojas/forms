@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Estate Plan Client Questionnaire Template - Help Guide
 
 ## Purpose

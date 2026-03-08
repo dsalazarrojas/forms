@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended to guide users through the completion of the Academic Research Study Information Collection Form. The primary purpose of this form is to collect information from prospective study participants to facilitate a match with relevant research studies that align with their interests and availability. The form will be reviewed internally to prevent duplication and ensure that participants are matched with studies that best suit their profile. Users are expected to fill out this form accurately and in its entirety to ensure a good matching process.</thinking>
-
 # Academic Research Study Information Collection Form - Help Guide
 ## Purpose
 This guide is designed to walk you through the steps to fill out the Academic Research Study Information Collection Form. Please read each section carefully and fill out the form accurately to ensure a successful match with relevant research studies.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about digital products, allowing them to report bugs, suggest new features, or provide general feedback. To ensure data quality, please only submit feedback that relates to this specific digital product. If you're reporting a bug, please make sure it's a specific issue you're experiencing, not a general complaint about the product category. If you're requesting a feature, please provide clear and concise suggestions. If your comment does not pertain to the product, please do not fill out this form. Duplicate submissions will be deleted.</thinking>
-
 # Digital Product Feedback Contact Form - Help Guide
 ## Purpose
 This form is designed for users to provide feedback about digital products, which includes reporting bugs, suggesting new features, or sharing their general thoughts and comments.

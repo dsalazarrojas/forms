@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback about a service from users. It should only be filled out by individuals who have interacted with the service. This guide is meant to help users complete the form correctly and provide relevant feedback. Please make sure to only fill out this form once per interaction with the service, as duplicate feedback might not be taken into consideration.
-</thinking>
-
 # Service Quality Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience with our service. Your input will help us improve and provide better services in the future.

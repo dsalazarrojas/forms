@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about hampers, a type of container used to carry or store items. The form is meant to be used by customers or clients who want to purchase or inquire about hampers. The purpose of this form is to gather details about the type of hamper the user is interested in, including its size, weight, color, and price. The form is divided into two parts: the main survey and the additional comments section. The main survey collects information about the hamper's attributes, while the additional comments section provides an opportunity for users to provide any further details or comments about the hamper. The form is designed to be user-friendly and easy to complete, with clear labels and instructions to guide the user through the process.
-</thinking>
-
 # Hampers Collection Survey - Help Guide
 ## Purpose
 The Hampers Collection Survey form is designed to collect information about hampers, a type of container used to carry or store items, from customers or clients.

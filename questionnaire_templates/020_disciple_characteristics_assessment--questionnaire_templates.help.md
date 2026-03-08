@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's characteristics and their relationship with a church. It is intended for use by church leaders and staff to assess the characteristics of those who have joined their church. The form should be completed by the individual who has joined the church.
-
-This form is not a duplicate of any other form in our system, and it is intended for use by church leaders and staff to gather information for church operations and decision-making.
-
-This form is meant to be completed by the individual who has joined the church, or by a church leader or staff member on their behalf. It is not intended for use by the general public.
-
-</thinking>
-
 # Disciple Characteristics Assessment - Help Guide
 ## Purpose
 This form is used to gather information about an individual's characteristics and their relationship with a church. It is intended for use by church leaders and staff to assess the characteristics of those who have joined their church.

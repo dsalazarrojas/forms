@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Damage Declaration Form - Help Guide
 ## Purpose
 This form is used to declare property damage, allowing users to report incidents of property damage, including the details of the damage, location, and contact information of the declarant and potentially the insurance provider.

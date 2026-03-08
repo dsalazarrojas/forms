@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request the purchase of new software for the company. The purpose of this form is to ensure that all necessary information is gathered when requesting a new software purchase. This will help the procurement team to efficiently process and verify the purchase request.
-Before submitting this form, please check that a similar request is not already pending or in progress to avoid duplication. 
-</thinking>
-
 # Software Order Request Form - Help Guide
 ## Purpose
 The software order request form is a tool for requesting the purchase of new software for the company. It ensures that all necessary information is gathered for the procurement team to process and verify the purchase request.

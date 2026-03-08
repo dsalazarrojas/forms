@@ -1,17 +1,3 @@
-<thinking>
-This form is designed for tenants to register their interest in innovation related to security within their properties. The form is typically completed by the tenant's representative, and it serves as the initial point of contact for the tenant to express their interest in exploring security innovations. Before submitting this form, tenants should ensure that they have their contact details and a clear idea of what type of security program they are interested in.
-
-To complete this form, follow these steps:
-
-1.  Enter your company's name in the "Company Name" field.
-2.  Provide your company's email address in the "Email" field.
-3.  Enter your contact phone number in the "Phone" field.
-4.  Specify your contact title in the "Contact Title" field.
-5.  Select the relevant security program you are interested in from the "Security Program" dropdown menu.
-6.  Provide the date you would like to submit your security program on (optional, but recommended for prioritization).
-7.  Describe the method through which you would like to submit your security program (optional, but recommended for prioritization).
-
-</thinking>
 # Tenant Security Innovation Registration Form - Help Guide
 ## Purpose
 This form is designed for tenants to register their interest in innovation related to security within their properties. It serves as the initial point of contact for the tenant to express their interest in exploring security innovations.

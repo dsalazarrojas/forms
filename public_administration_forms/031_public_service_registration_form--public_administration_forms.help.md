@@ -1,7 +1,3 @@
-<thinking>
-This form is used for public service registration, where users can provide their registration information. To ensure accuracy and efficiency, we need to verify that this form is filled out correctly and consistently. This form should only be used for new registrations and not for editing existing information. If you're unsure about the purpose or requirements of this form, please review our internal documentation.
-</thinking>
-
 # public_service_registration_form - Help Guide
 ## Purpose
 The public service registration form is a tool for users to submit their registration information to our organization. This form captures essential details required for our records and communication.

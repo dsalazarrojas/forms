@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Browsing History Survey - Help Guide
 ## Purpose
 This form is designed to collect data on respondents' internet browsing habits, including demographics, online behavior, and privacy concerns. The survey aims to gather insights on how individuals use the internet, their preferred devices, browsers, and websites, as well as their attitudes towards online advertising and data protection.

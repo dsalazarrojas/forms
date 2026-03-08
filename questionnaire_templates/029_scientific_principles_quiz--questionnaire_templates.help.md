@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scientific Principles Quiz - Help Guide
 
 ## Purpose

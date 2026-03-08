@@ -1,6 +1,3 @@
-<thinking>  
-The form "RPA Questionnaire" is designed to collect user opinions, feedback, or other types of responses related to Robotic Process Automation (RPA). It is intended to be a flexible and adaptable form that can be used for various purposes, such as surveys, research, or data collection. The form has 26 fields, all of which are text input fields. This form is not affiliated with or endorsed by any form platform and is an original creation. Please use this form responsibly and give credit accordingly.</thinking>
-
 # RPA Questionnaire - Help Guide
 ## Purpose
 The "RPA Questionnaire" form is designed to collect user opinions, feedback, or other types of responses related to Robotic Process Automation (RPA). It can be used for various purposes, such as surveys, research, or data collection.

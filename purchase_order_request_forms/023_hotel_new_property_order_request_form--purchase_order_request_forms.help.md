@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be related to requesting information about a new property order, which could be part of a larger project or process within an organization. The form collects various pieces of information related to the property, including vendor, project, and contact details. It's possible that this form is used for project management or property acquisition purposes.
-
-Before filling out this form, please ensure you are only submitting one request at a time, and avoid duplicating requests for the same property. If you have already submitted a request for this property, please do not resubmit. 
-
-</thinking>
-
 # hotel_new_property_order_request_form - Help Guide
 ## Purpose
 This form is used to request information about a new property order. It gathers details about the property, vendor, project, and contact information.

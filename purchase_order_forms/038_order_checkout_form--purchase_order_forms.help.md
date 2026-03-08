@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect user and order information for the purposes of processing and shipping orders. It is likely part of an e-commerce platform or online store, and is intended to gather necessary details to facilitate order completion and customer communication. The fields provided suggest that the form is used for both billing and shipping address details, payment method, and order notes. However, there may be some overlap between fields, such as "shipping city" and "shipping country" which could potentially be combined into a single field for shipping address. The form also includes various fields for customer comments, customer and order comments, and other relevant details. 
-
-</thinking>
-
 # Order Checkout Form - Help Guide
 
 ## Purpose

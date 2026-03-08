@@ -1,11 +1,3 @@
-<thinking>
-This help guide is designed to provide users with a clear understanding of the purpose and usage of the "Student Stress Questionnaire" form. The form is intended to gather information about students' stress levels and experiences in various areas. Before using this form, please ensure that you have a good understanding of your current stress levels and that you have not previously completed this form, as it may not be necessary to repeat the same survey.
-
-This form is designed to be completed by students who are experiencing stress or have concerns about their mental health. Completing this form will help us better understand your needs and provide targeted support.
-
-Please note that this form is not designed to diagnose any medical conditions, but rather to identify areas where students may need support.
-</thinking>
-
 # Student Stress Questionnaire - Help Guide
 
 ## Purpose

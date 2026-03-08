@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request theme park souvenirs for events, promotions, or guest services. Before filling out this form, please ensure that your request is not a duplicate. The form has 25 fields, which are organized into a multi-page structure for easier completion. Each page has its own purpose and fields that are relevant to the current stage of the request process.
-</thinking>
-
 # Theme Park Souvenirs Requisition Form - Help Guide
 ## Purpose
 This form is used to request theme park souvenirs for events, promotions, or guest services. It is designed to gather information about the request, including event type, souvenir items, quantity, cost, and other relevant details.

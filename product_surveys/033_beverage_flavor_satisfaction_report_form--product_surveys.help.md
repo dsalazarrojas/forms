@@ -1,6 +1,3 @@
-<thinking>
-The "Beverage Flavor Satisfaction Report Form" is designed to collect feedback from respondents about a specific flavor of a beverage product. This form aims to gather information about the respondent's experience with the flavor, including their overall satisfaction, flavor intensity, sweetness, and aftertaste. The form is part of a research effort to improve the taste and quality of the product. Please ensure that you complete the form accurately and honestly to help us better understand your feedback.</thinking>
-
 # Beverage Flavor Satisfaction Report Form - Help Guide
 ## Purpose
 This form is used to gather feedback on a specific flavor of a beverage product. We aim to understand your experience, likes, and dislikes to improve the taste and quality of our products.

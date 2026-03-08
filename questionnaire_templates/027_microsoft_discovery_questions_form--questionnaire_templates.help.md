@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a business. The purpose of this form is to collect data that can be used to analyze the business landscape. The form asks for information on the business description, location, size, industry, customer relationship, customer interaction, products/services, target audience, competition, and customer feedback. This data will help in understanding the business's market position, customer base, and competitors. Please ensure that you are filling out this form for the correct business and not duplicating the form for the same business multiple times. If you are unsure about any field or have any questions, please contact the form author at form@gic.mx.
-</thinking>
-
 # Microsoft Discovery Questions Form - Help Guide
 ## Purpose
 The Microsoft Discovery Questions Form is designed to gather essential information about a business, enabling you to analyze its market position, customer base, and competitors.

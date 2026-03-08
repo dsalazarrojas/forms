@@ -1,10 +1,3 @@
-<thinking>
-## Internal Explanation
-This form is designed to gather information from users about their family photograph session preferences. The form collects data on family demographics, session type, session details, contact information, payment options, and other relevant details. This data will be used to provide personalized service to the users and ensure that their needs are met during the session.
-
-To prevent data duplication, please fill out the form only once. This will help us to process your request more efficiently.
-</thinking>
-
 # Family Photograph Session Questionnaire - Help Guide
 ## Purpose
 This form is meant to be filled out by the person responsible for making the booking or scheduling the family photograph session. The information gathered from this form will be used to tailor the session to the family's specific needs and preferences.

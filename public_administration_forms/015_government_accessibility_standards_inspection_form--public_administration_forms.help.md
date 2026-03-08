@@ -1,9 +1,3 @@
-<thinking>
-The Government Accessibility Standards Inspection Form is a crucial tool for ensuring that facilities and public spaces meet the necessary accessibility standards. This form helps inspectors identify and report areas that need improvement, enabling facilities to rectify these issues and provide better access to people with disabilities.
-The form serves as a comprehensive record of inspection findings, providing detailed information about the facilities inspected, the date of inspection, and the deficiencies discovered. This data is essential for tracking progress and making informed decisions about future inspections.
-Before filling out this form, please ensure that you have all the necessary information and permissions to complete it accurately and within the specified guidelines. The form should not be filled out for the purpose of soliciting or providing information for commercial or business use.
-</thinking>
-
 # Government Accessibility Standards Inspection Form - Help Guide
 
 ## Purpose

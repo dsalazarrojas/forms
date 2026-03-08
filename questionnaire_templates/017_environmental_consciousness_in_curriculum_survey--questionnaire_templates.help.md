@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gauge the environmental consciousness of students in an educational institution. It's likely used to assess the students' awareness and understanding of environmental topics, such as climate change, biodiversity, and ecosystems. The form might be used by educators or administrators to monitor changes in environmental awareness over time or to identify areas where students need more education on these topics. The results of this form could inform curricula adjustments or resource allocation to support environmental education.
-</thinking>
-
 # Environmental Consciousness In Curriculum Survey - Help Guide
 ## Purpose
 This form is designed to collect information on students' environmental awareness, curriculum coverage, and demographic information. It's meant to be completed by students and is an anonymous form.

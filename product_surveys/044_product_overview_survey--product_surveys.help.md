@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and information about products or services. To fill out this form, users must first select whether it is for a product or a service. This will determine the type of feedback and information required to be collected. Each section will then ask for specific feedback and information related to the product or service, such as its name, description, and features. Additionally, users will be asked about their overall feeling about the product or service and if they have any contact information to be reached out to.
-</thinking>
-
 # Product Overview Survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback and information about products or services to help improve them.

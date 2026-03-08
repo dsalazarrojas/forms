@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # lyon_questionnaire - Help Guide
 
 ## Purpose

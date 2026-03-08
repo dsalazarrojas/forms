@@ -1,9 +1,3 @@
-<thinking>
-This form is a Government Engagement Audit Form, which is used for tracking and recording government engagement activities. The purpose of this form is to collect information about the number of government team members participating in these activities and to identify the members of each team involved. This form is typically used by government officials to monitor and evaluate their engagement with various groups, organizations, and individuals. 
-
-This form may need to be filled out by multiple teams or individuals within the government and the data collected here will help in making better engagement strategies for the government.
-</thinking>
-
 # Government Engagement Audit Form - Help Guide
 ## Purpose
 This form is used to track and record government engagement activities, including the number of team members participating in these activities and the members of each team involved.

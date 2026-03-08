@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user preferences and information to help us better understand the needs and requirements of our users for a productivity app. This will help us ensure that the app meets the needs of its users and provides a positive experience. Please only complete this form if you are a potential or current user of the app. If you've already completed a similar form, please do not repeat the effort.
-</thinking>
-
 # Productivity App Recommendation Survey - Help Guide
 ## Purpose
 This form is a survey designed to collect information about your preferences and requirements for a productivity app. Your responses will help us understand your needs and improve the app to provide a better experience for you and other users.

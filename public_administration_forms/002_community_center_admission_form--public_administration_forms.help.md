@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed for individuals applying for membership at a community center, likely for access to various programs and services offered by the center. The form collects personal and contact information, medical conditions, accessibility needs, and other relevant details to ensure a smooth membership process. It seems to be a comprehensive form that covers all necessary aspects for membership application, including emergency contact information and how the individual heard about the community center. 
-
-</thinking>
-
 # Community Center Admission Form - Help Guide
 ## Purpose
 The Community Center Admission Form is designed to collect information from individuals interested in becoming members at the center. This form helps us understand your personal details, contact information, and preferences to provide you with a smooth membership experience.

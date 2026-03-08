@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the risk of ovarian cancer, which is a type of cancer that affects the ovaries. The form collects personal and medical history information to evaluate the risk factors associated with ovarian cancer. Each field is designed to collect specific information that helps the healthcare provider understand the patient's medical history and provide guidance on follow-up care. The form should not be used for diagnosis or treatment purposes, but rather as a tool for healthcare providers to gather information and make informed decisions.
-
-</thinking>
-
 # Ovarian Cancer Risk Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's personal and medical history to evaluate their risk factors for ovarian cancer.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect information about life insurance policies for policy holders. This form is intended to be used by insurance professionals to gather data for policy analysis and administration. It is not a form for policy holders to apply for or manage their policies.
-
-To ensure that this form is used correctly and consistently, please note that:
-
-* Each field must be filled out in accordance with the instructions below.
-* The form has multiple pages, each focusing on a different aspect of the policy.
-* Please make sure that you fill out all required fields.
-* If a field is marked as optional, it's up to your discretion whether to fill it out or not.
-</thinking>
-
 # Life Insurance Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about life insurance policies for policy holders. It's intended to be used by insurance professionals to gather data for policy analysis and administration.

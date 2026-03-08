@@ -1,7 +1,3 @@
-<thinking>
-As I analyze the provided YAML, I realize that this form is a comprehensive, multi-page survey designed to gauge respondents' awareness and attitudes towards sustainable fashion. The survey appears to be a comprehensive evaluation of consumers' perceptions and behaviors related to sustainable fashion practices, likely aimed at researchers, fashion brands, or organizations looking to assess public perception on sustainable fashion. Given the numerous pages, I assume this form is designed to gather detailed information from respondents across various aspects of sustainable fashion awareness.
-</thinking>
-
 # Sustainable Fashion Awareness Survey - Help Guide
 ## Purpose
 This survey aims to gauge respondents' awareness and attitudes towards sustainable fashion practices. Your feedback will help us understand the public's perceptions and behaviors related to sustainable fashion.

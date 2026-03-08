@@ -1,18 +1,3 @@
-<thinking>
-This form is used to collect information about the respondent's role, familiarity with existing animal health policies, formal training received, and other relevant aspects related to animal health policy awareness. It's crucial to ensure that respondents are correctly classified based on their role and that they have sufficient understanding and training to effectively engage with the policies.
-To complete this form accurately, users must carefully review each question and choose the appropriate answer based on their actual situation.
-This form will collect information on the following topics:
-- Respondent's role
-- Familiarity with existing policies
-- Formal training received
-- Policy clarity rating
-- Policy applicability examples
-- Suggested improvements
-- Contact information for follow-up
-- Consent to share responses
-
-Before starting, make sure to review this form carefully and answer each question according to your true situation.</thinking>
-
 # Animal Health Policy Awareness Survey - Help Guide
 
 ## Purpose

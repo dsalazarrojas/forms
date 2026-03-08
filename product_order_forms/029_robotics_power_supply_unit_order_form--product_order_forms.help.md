@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Robotics Power Supply Unit Order Form - Help Guide
 ## Purpose
 The Robotics Power Supply Unit Order Form is a form designed to collect information from customers about their order for robotics power supply units. This form will help us to gather essential details about the customer, their shipping information, delivery preferences, payment information, order details, product selection, and any additional notes or instructions.

@@ -1,7 +1,3 @@
-<thinking>
-This form purpose appears to be a purchase order form for equipment mounting brackets, likely for a business-to-business or commercial context. The form seems to be designed to collect information from customers, including their contact and delivery details, payment information, and order notes. The required fields are "Delivery Address" and "Delivery Preferences", indicating that these two fields are essential for processing the order. The form also allows customers to provide additional information such as equipment details, which may be optional but useful for the business.
-</thinking>
-
 # Equipment Mounting Bracket Order Form - Help Guide
 
 ## Purpose

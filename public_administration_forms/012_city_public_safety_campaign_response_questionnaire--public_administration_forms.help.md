@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering feedback and responses from the public on the City Public Safety Campaign. It's essential to ensure that the responses are genuine and not duplicated by any internal stakeholders or previous survey respondents. This form is not intended for internal use by city employees, and all responses will be kept anonymous. The form's purpose is to understand how well the campaign's messages are received by the public, their level of engagement with the campaign, and suggestions for improvement. 
-</thinking>
-
 # City Public Safety Campaign Response Questionnaire - Help Guide
 ## Purpose
 

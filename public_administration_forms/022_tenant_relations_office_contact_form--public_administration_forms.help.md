@@ -1,7 +1,3 @@
-<thinking>
-This form is a public-facing contact form for the Tenant Relations Office, allowing users to reach out for assistance, provide issue details, and attach relevant documents. It's likely that users will be employees or representatives of the tenant(s) who are seeking help or guidance from the Tenant Relations Office. 
-</thinking>
-
 # Tenant Relations Office Contact Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: 
-This form is designed for customers or sales representatives to place orders for single products. It appears to be a simple form that captures basic information about the order, including the product choice, quantity, customer's name, email, phone number, and any additional notes. The form has multiple pages, but it seems to be focused on a single product choice. This form likely serves as a template or a prototype, and its purpose is to streamline the order-taking process. The form fields seem to be straightforward and self-explanatory, but further clarification on the purpose and potential usage of this form would be necessary to ensure it meets the intended business needs.
-</thinking>
-
 # Single Product Multiple Choice Orders - Help Guide
 ## Purpose
 The Single Product Multiple Choice Orders form is designed to help customers or sales representatives quickly place orders for a single product. This form is intended to capture the essential information required for the order, making it a convenient and efficient way to initiate a purchase.

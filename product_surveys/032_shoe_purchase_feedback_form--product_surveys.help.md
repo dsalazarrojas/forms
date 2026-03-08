@@ -1,8 +1,3 @@
-<thinking>
-We should create a user-facing help guide for the "Shoe Purchase Feedback Form" that is clear, concise, and practical. The form is designed to collect feedback from customers about their experience with purchasing shoes, which will help us better understand their satisfaction and pain points. This guide will walk users through the purpose of the form, how to complete it, and explain each field in detail. By providing clear instructions and explanations, we can ensure that users understand what is expected of them and can provide valuable feedback.
-
-</thinking>
-
 # Shoe Purchase Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with purchasing shoes. Your input will help us understand your satisfaction and pain points, allowing us to improve our products and services.

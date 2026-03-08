@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for users who will be filling out the "Anxiety Self Reflection Form" in a self-reporting context, such as individuals tracking their mental health and wellness. The form is designed to gather information about the user's anxiety levels, symptoms, and coping strategies over a specific time period. This guide assumes the user has some basic understanding of the form's purpose and is ready to start filling it out. Before starting, review each field carefully to ensure understanding of each section's relevance and ensure you're answering honestly.
-
-This form will be used to gather information for research or personal reflection purposes only. If you're experiencing severe or debilitating anxiety, please seek help from a mental health professional.
-
-Please note that this form may require answers that are personal and potentially sensitive. Be assured that your answers will be kept confidential and used for aggregate purposes only.
-
-If you have any questions or need further clarification, don't hesitate to ask for guidance.
-
-</thinking>
-
 # Anxiety Self Reflection Form - Help Guide
 ## Purpose
 The "Anxiety Self Reflection Form" is designed to help you track your anxiety levels, symptoms, and coping strategies over a specific time period. It's meant to be a personal and private assessment tool to aid in your mental health and wellness journey.

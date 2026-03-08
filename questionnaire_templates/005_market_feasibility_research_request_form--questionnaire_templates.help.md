@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Market Feasibility Research Request Form - Help Guide
 
 ## Purpose

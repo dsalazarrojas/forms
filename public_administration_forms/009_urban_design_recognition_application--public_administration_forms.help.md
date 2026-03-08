@@ -1,16 +1,3 @@
-<thinking>
-To ensure that the Urban Design Recognition Application form is completed accurately and effectively, it's essential that users understand its purpose, structure, and each field's specific requirements. This form is designed to gather project details, locations, descriptions, and other relevant information for urban design recognition purposes. 
-
-This guide will walk users through the form's purpose, how to complete it, and provide explanations for each field. It's crucial to note that the form is not affiliated with any specific form platform, and its creation is based on public survey topic metadata.
-
-The Urban Design Recognition Application form is intended for users to submit projects for recognition, providing essential details about the project, its locations, and the people involved. It's a critical tool for urban design professionals, jurors, and stakeholders to evaluate and recognize outstanding projects.
-
-The form consists of several sections, each designed to capture specific information. Users must complete the form by providing accurate and relevant details for each field.
-
-Below is the detailed guide to help users understand the Urban Design Recognition Application form.
-
-</thinking>
-
 # Urban Design Recognition Application - Help Guide
 ## Purpose
 The Urban Design Recognition Application form is designed to gather project details, locations, and other relevant information for urban design recognition purposes. It's a critical tool for users to submit projects for evaluation and recognition.

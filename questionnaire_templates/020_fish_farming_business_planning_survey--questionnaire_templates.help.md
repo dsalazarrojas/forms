@@ -1,14 +1,3 @@
-<thinking>
-This form is a survey designed to gather information from fish farming businesses about their operational and business goals, objectives, and planning strategies. It appears to be a comprehensive form intended to collect detailed data from fish farming businesses, likely for research or analysis purposes.
-
-To ensure the form is being used correctly, let's review the inputSchema to confirm its purpose and avoid duplication with any existing forms. The form has 10 pages, each with a text field, suggesting it's a survey that requires respondents to provide detailed responses.
-
-The form's structure and content seem to be focused on fish farming businesses, specifically their operational and business goals, objectives, and planning strategies. This form does not seem to be a duplicate of any existing form, and its purpose is likely to provide a thorough understanding of the fish farming industry's goals and objectives.
-
-The following guide will help users understand the form's purpose, complete it correctly, and clarify any doubts they may have about the form's fields.
-
-</thinking>
-
 # Fish Farming Business Planning Survey - Help Guide
 ## Purpose
 This form is designed to collect detailed information from fish farming businesses about their operational and business goals, objectives, and planning strategies. It is intended to help researchers, analysts, or decision-makers understand the current state and future plans of fish farming businesses.

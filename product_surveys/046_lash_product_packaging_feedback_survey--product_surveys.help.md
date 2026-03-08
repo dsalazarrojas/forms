@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about the packaging of a Lash product. It is used to collect information about the user's experience with the product's packaging, including their rating and any suggestions or comments they may have. This feedback will help the product development team to improve the packaging design and user experience.
-</thinking>
-
 # Lash Product Packaging Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from users about the Lash product packaging. Your input will help us to improve the packaging design and user experience.

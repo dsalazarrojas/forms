@@ -1,13 +1,3 @@
-<thinking>
-
-To be honest, this form seems to be a generic mask request form for various categories and purposes. It's likely used to collect information from different groups of users, such as physicians, nurses, first responders, and healthcare organizations, among others. This form might be used to request assistance or support from a certain category of users. However, the exact purpose and usage can be context-dependent, so I'll assume a general use case.
-
-The form collects user information such as contact details, category of the user, request type, and request priority, among others. It seems to be an internal form for some sort of organizational or administrative purposes within a company or institution.
-
-Before we dive into the details, make sure to have the necessary permissions to access the form and understand its purpose within your organization.
-
-</thinking>
-
 # mask_request_form - Help Guide
 ## Purpose
 The mask_request_form is a generic form used to collect information from various user groups for different purposes. It's likely used for internal organizational or administrative tasks.

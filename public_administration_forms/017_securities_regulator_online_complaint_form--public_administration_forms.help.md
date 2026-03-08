@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit online complaints related to investments, allowing them to report any concerns or issues they have encountered. This form should be used for legitimate purposes only, and users are encouraged to ensure that their complaints are accurate and true.
-
-Before submitting a complaint, please ensure that you have not already filed a complaint on this matter with the securities regulator. Filing duplicate complaints can be time-consuming and may delay the processing of your issue.
-
-To complete this form, please ensure that you have the necessary information and documentation ready to support your complaint.
-
-</thinking>
-
 # Securities Regulator Online Complaint Form - Help Guide
 ## Purpose
 The Securities Regulator Online Complaint Form is designed to enable users to submit online complaints related to investments, allowing them to report any concerns or issues they have encountered. This form should only be used for legitimate purposes and to report original complaints, not duplicates.

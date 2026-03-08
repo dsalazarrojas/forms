@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the quality inspection of a municipal water facility. The form is intended to be completed by facility inspectors to document the results of their inspections, including the facility's condition, score, and rating. The form may also be used to collect information about the facility's status, last inspection, and next inspection dates. The purpose of this form is to provide a systematic and structured approach to conducting quality inspections of municipal water facilities.
-</thinking>
-
 # Municipal Water Facility Quality Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about the quality inspection of a municipal water facility. It is intended to be completed by facility inspectors to document the results of their inspections, including the facility's condition, score, and rating.

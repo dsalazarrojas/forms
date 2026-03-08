@@ -1,7 +1,3 @@
-<thinking>
-This is a form for screening patients for sarcopenia, a condition characterized by muscle weakness and wasting. It is used to identify individuals at risk of sarcopenia and guide healthcare providers to conduct further evaluation. This form is intended for healthcare professionals to use as part of the screening process. Please note that this form is not a diagnostic tool and should only be used as a guidance for healthcare providers.
-</thinking>
-
 # SARC F Sarcopenia Screening Questionnaire - Help Guide
 ## Purpose
 The SARC F Sarcopenia Screening Questionnaire is designed to help healthcare professionals identify individuals who may be at risk for sarcopenia, a condition characterized by muscle weakness and wasting. This form is a set of questions that aim to assess various aspects of an individual's health and mobility.

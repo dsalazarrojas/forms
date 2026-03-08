@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about incidents during quality inspections. The goal is to gather detailed reports of incidents in a clear and concise manner, helping to improve processes and identify areas for improvement. The form does not duplicate any existing forms or processes, and all fields are necessary to collect relevant information.
-</thinking>
-
 # Quality Inspection Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents occurring during quality inspections. It will help identify root causes and guide corrective actions to improve quality processes.

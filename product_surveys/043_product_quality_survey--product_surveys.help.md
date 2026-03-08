@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Quality Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and opinions from users about the quality of our products. This survey aims to understand how well our products meet your expectations and how we can improve them in the future.

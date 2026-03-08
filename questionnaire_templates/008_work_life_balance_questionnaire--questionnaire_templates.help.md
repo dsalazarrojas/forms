@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive tool designed to help individuals assess their work-life balance, a crucial aspect of overall well-being. Completing this form will help users gain insights into their current work-life balance and identify areas for improvement. It's intended for personal or professional use, such as in HR departments or wellness programs. Please ensure you complete this form only once to provide a accurate representation of your work-life balance.
-</thinking>
-
 # work_life_balance_questionnaire - Help Guide
 ## Purpose
 This form is designed to help you evaluate your current work-life balance and identify areas for improvement. It consists of ten sections, each addressing a different aspect of your work-life balance. Answer these questions honestly to get a comprehensive understanding of your priorities, time management, and overall well-being.

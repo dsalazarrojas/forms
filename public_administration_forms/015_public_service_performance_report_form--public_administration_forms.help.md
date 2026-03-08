@@ -1,9 +1,3 @@
-<thinking> 
-  This form is designed to gather information from users about the performance of a specific public service. The purpose of this form is to collect data on how well a service meets user expectations and identify areas for improvement.
-  
-  Before filling out this form, please ensure you have all the necessary information and data to complete it accurately. It is recommended to review the form carefully before submission to avoid duplication of effort. If you're unsure about any information, it is advised to gather it from relevant sources before proceeding.
-</thinking>
-
 # Public Service Performance Report Form - Help Guide
 ## Purpose
 The Public Service Performance Report Form is designed to collect data on the performance of a public service. This form helps users evaluate their experience and provide feedback to improve the service.

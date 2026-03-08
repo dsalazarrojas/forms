@@ -1,14 +1,3 @@
-<thinking> 
-This form is a preference selection survey, designed to collect information from users on their preferences regarding product categories, communication channels, and other personal details. The form is designed to be user-friendly and efficient, with a focus on selecting preferences rather than requiring extensive writing or input. The form is not meant to be a survey of opinions, but rather a way to gather concrete preferences for future interactions. This form is likely used for internal purposes, such as market research or user profiling, and its data is not intended for public consumption.
-
-It is recommended that users complete the form carefully, taking into account their personal preferences and selecting the options that best fit their needs.
-
-After completing the form, users should review their selections carefully to ensure accuracy.
-
-Form validation and duplication checks should be performed before proceeding. Please ensure that your selections are accurate and consistent throughout the form.
-
-</thinking>
-
 # Preference Selection Survey - Help Guide
 ## Purpose
 The Preference Selection Survey is a form designed to collect information about your personal preferences, allowing us to better understand your needs and tailor our interactions to your liking.

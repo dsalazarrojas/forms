@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to support public administration in the context of reporting incidents or issues that require attention from authorities or administrators. It is likely used to report maladministration, such as corruption, mismanagement, or other problems that affect the public or students in an educational institution. Before filling out this form, please ensure that you are not duplicating an existing report, and that you have a genuine reason to file a report. This form is for reporting serious incidents or issues that impact the public or students, and it is not meant for trivial or non-serious matters. The form is designed to be completed by those who have witnessed or experienced these issues firsthand, and it is not for general suggestions or complaints.
-</thinking>
-
 # Maladministration Reporting Form - Help Guide
 ## Purpose
 The Maladministration Reporting Form is a tool used to report incidents or issues that affect the public or students in an educational institution. It is designed to support public administration and help identify areas that require attention from authorities or administrators.

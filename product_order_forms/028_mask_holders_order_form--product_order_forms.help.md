@@ -1,21 +1,3 @@
-<thinking>
-
-This form is used to capture order details for mask holders from customers. Mask holders are used to protect sensitive information such as credit card numbers and expiration dates. The form is designed to be simple and user-friendly, allowing customers to easily place orders for mask holders in a few steps. 
-
-To complete this form, the customer will need to provide the following information:
-
-*   Order details (a brief description of the order)
-*   Select the product they want to order
-*   Quantity of the product they want to order
-*   Price of the order
-*   Total amount of the order
-*   Contact details (name, email, etc.)
-*   Shipping address (where the order will be delivered)
-
-This form is only for customers who have already been approved to order mask holders. 
-
-</thinking>
-
 # mask_holders_order_form - Help Guide
 ## Purpose
 This form is used to capture order details for mask holders from customers.

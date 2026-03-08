@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about an individual's language skills, thought processes, and preferences. The purpose of this form is to gather insights into the respondent's cognitive abilities, language proficiency, and behavioral patterns. To ensure accurate and relevant data, please answer the questions truthfully and thoroughly. If you have already completed this survey, please do not submit another response. This will help us maintain the integrity of the data and prevent duplicate submissions.</thinking>
-
 # Language And Thought Survey - Help Guide
 ## Purpose
 The Language And Thought Survey is designed to collect information about an individual's language skills, thought processes, and preferences. The purpose of this form is to gather insights into the respondent's cognitive abilities, language proficiency, and behavioral patterns.

@@ -1,10 +1,3 @@
-<thinking>
-This guide will provide a clear understanding of the "Planter Collection Naming Survey" form, ensuring users complete it accurately and efficiently.
-The form is designed to gather feedback and suggestions for the product collection, focusing on naming preferences and store hours. The goal is to collect data that will inform future product development and improve customer experience.
-This guide will walk users through each page and field, providing explanations and examples to ensure they understand the purpose and requirements of each question.
-By following this guide, users will be able to complete the form with confidence and accuracy.
-</thinking>
-
 # Planter Collection Naming Survey - Help Guide
 ## Purpose
 The "Planter Collection Naming Survey" is designed to gather feedback and suggestions for our product collection. This form is intended to help us understand your preferences and opinions on naming our planters.

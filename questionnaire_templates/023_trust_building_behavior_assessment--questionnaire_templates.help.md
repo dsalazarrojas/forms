@@ -1,7 +1,3 @@
-<thinking>This form is intended to assess an individual's trust-building behavior. It is designed to help organizations evaluate and improve their employees' ability to build trust with their colleagues, customers, and stakeholders. To ensure you are completing the form correctly, please review this help guide to understand each field's purpose and requirements.
-
-Before starting, ensure that your answers are honest and accurate, as this form will help the organization to identify areas of improvement.</thinking>
-
 # Trust-Building Behavior Assessment - Help Guide
 ## Purpose
 The Trust-Building Behavior Assessment is a tool used by organizations to evaluate and improve their employees' ability to build trust with their colleagues, customers, and stakeholders. This assessment helps to identify individual's strengths and weaknesses in trust-building behaviors, enabling the organization to provide guidance and support for personal and professional growth.

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from early adopters of a beta product to gauge their satisfaction and opinions on the product. The form is intended to gather information on personal details, product performance, and any additional comments or concerns the user may have. This form will help the development team to refine and improve the product based on user feedback.
-
-The form is not intended for general public access, but rather for internal use by the development team to gather feedback from early adopters. Users who are not part of the early adopter group will not be able to access the form.
-
-To avoid duplication of feedback, users who have already submitted feedback through this form will be prevented from resubmitting it.
-
-</thinking>
-
 # Beta Product Early Adopter Feedback Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from early adopters of a beta product to gather information on their experience, satisfaction, and opinions.

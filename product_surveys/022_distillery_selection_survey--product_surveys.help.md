@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their preferences and experiences related to distilleries. The goal is to collect data on what users enjoy most at a distillery, their typical activities during a visit, how often they visit distilleries, and any additional comments or ratings they might have. The form is also meant to capture their email address if they would like to be contacted by the distillery.
-
-The form consists of eight fields:
-
-1. Introduction: A welcoming message to users.
-2. Distillery Preferences: A multiple-select field asking users to choose what they enjoy most at a distillery (e.g., Atmosphere, Ambience, Food and Drink).
-3. Distillery Experience: A multiple-select field asking users to choose what they usually do at a distillery (e.g., Tour, Event, Meet and Greet).
-4. Distillery Visits: A single-select field asking users how often they visit distilleries (e.g., Daily, Weekly, Monthly, Never).
-5. Distillery Preferences: A text field where users can provide additional details about their preferences.
-6. Distillery Rating: A numerical field where users can rate the distillery (optional).
-7. Distillery Comments: A text field for users to provide any additional comments.
-8. Distillery Email: A field to collect users' email addresses if they want to be contacted by the distillery (optional).
-
-The form is divided into several sections, each with its own explanation and purpose. Users are required to answer some fields, marked as "required" in the schema.
-
-This guide will help users understand each field's purpose and how to complete the form correctly.</thinking>
-
 # Distillery Selection Survey - Help Guide
 ## Purpose
 The Distillery Selection Survey is a tool to gather information about your preferences and experiences related to distilleries. Please take a few minutes to answer the questions below to help us understand what you enjoy most at a distillery and what you usually do during a visit.

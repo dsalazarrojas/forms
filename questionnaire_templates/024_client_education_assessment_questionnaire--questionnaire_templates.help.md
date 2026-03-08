@@ -1,5 +1,3 @@
-<thinking> ... </thinking>
-
 # Client Education Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a client's educational background, learning style, and preferences to help our team assess their needs and provide effective support. Please fill out this questionnaire to the best of your abilities.

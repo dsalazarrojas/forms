@@ -1,17 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Trade Show Product Evaluation Form", we need to understand the form's purpose and its fields. 
-
-The form's purpose seems to be to collect information about products displayed at a trade show, likely for evaluation or review purposes. However, it lacks a clear indication of what specific data is needed for this evaluation or how the data will be used. 
-
-Let's assume it's a general form to gather basic product information and potential contact details.
-
-Given the fields provided, we can infer that users may be asked to enter a product name, upload an image (though it seems to be a text field for "Product Image", which might not be the ideal implementation), rate the product, provide a product URL (which could be the website or landing page for the product), company name, contact person's details, and comments about the product. The form seems to be designed for a basic, one-time evaluation. 
-
-To avoid duplication, it's possible that users might be asked to fill this form once for each product they want to evaluate. 
-
-</thinking>
-
 # Trade Show Product Evaluation Form - Help Guide
 ## Purpose
 The Trade Show Product Evaluation Form is a basic form to collect information about products displayed at a trade show. You can use this form to evaluate and provide feedback on products you've seen at the show.

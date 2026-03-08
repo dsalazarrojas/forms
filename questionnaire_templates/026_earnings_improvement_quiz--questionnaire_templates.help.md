@@ -1,7 +1,3 @@
-<thinking>... This form is designed to be a helpful tool for users to evaluate their current financial situation and identify potential areas for improvement in their earnings. By answering a series of questions, users can gain a better understanding of their income, goals, and challenges. This form is meant to be a starting point for self-reflection and may help users create a plan for increasing their earnings. Please ensure you are taking the quiz in the context of your current financial situation. Note that this form is not a substitute for professional financial advice. 
-
-</thinking>
-
 # Earnings Improvement Quiz - Help Guide
 ## Purpose
 This form is a tool for users to evaluate their current financial situation and identify potential areas for improvement in their earnings. By answering a series of questions, users can gain a better understanding of their income, goals, and challenges.

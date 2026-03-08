@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Planning Self Assessment - Help Guide
 ## Purpose
 The Business Planning Self-Assessment is a tool designed to help business owners and leaders evaluate their company's progress in planning and preparation. This assessment is meant to be a self-reflection exercise to identify areas of strength and weakness, and to help businesses identify potential opportunities and threats. The assessment is used to determine the overall readiness of a business to execute its plan.

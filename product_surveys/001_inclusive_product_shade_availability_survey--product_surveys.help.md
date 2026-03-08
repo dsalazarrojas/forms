@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to analyze the provided YAML fields. The form "inclusive_product_shade_availability_survey" likely deals with assessing the availability of shades for various products. The "product_info" and "shade" fields suggest that it's focused on product-specific shade information. The "shade_availability" fields imply that the form is asking about the availability of shades for different products. This form seems to be designed for product managers or teams to collect data on product shade availability for planning and inventory management purposes.
-</thinking>
-
 # inclusive_product_shade_availability_survey - Help Guide
 ## Purpose
 This form is designed to collect data on the availability of shades for different products. It will help product managers and teams to plan and manage product inventory more effectively.

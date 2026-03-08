@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to document the inspection results of an aerospace component, gathering crucial information to ensure its fitness for service. The form's purpose is to collect detailed descriptions of the component's condition, including visual, dimensional, and material checks. This data will help maintenance personnel make informed decisions regarding the component's acceptance, rejection, or repair. To avoid duplication of efforts, please ensure that each form submission is accurate and up-to-date.
-
-Before starting the inspection, it is essential to review the component's specifications and previous inspection records to avoid unnecessary duplication of work. Additionally, please ensure that the inspector is familiar with the component's manufacturer and model to provide accurate information.
-
-This form is designed to guide the inspector through a thorough inspection process, ensuring that all relevant details are captured accurately and consistently. The form will ask you to provide essential information about the component's condition, including its visual appearance, measurements, and any defects found. Please answer each question carefully, as your input will directly impact the component's final disposition.
-</thinking>
-
 # Aerospace Component Inspection Form - Help Guide
 ## Purpose
 

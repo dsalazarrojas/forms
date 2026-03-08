@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for landlords to obtain authorization from tenants to perform a rental property inspection. The form's purpose is to standardize the process of obtaining tenant consent for inspections, making it easier for landlords to ensure that tenants are informed and agree to the inspections. This form is essential in maintaining a fair and respectful relationship between landlords and tenants. 
-
-To avoid duplication, we should not create a form that is unnecessary or redundant. This form should only be used when a rental property inspection is required. 
-</thinking>
-
 # rental_property_inspection_authorization_form - Help Guide
 ## Purpose
 The rental property inspection authorization form is used to obtain authorization from tenants for a rental property inspection. This form helps landlords to ensure that tenants are informed and agree to the inspections, which is essential for maintaining a fair and respectful relationship between landlords and tenants.

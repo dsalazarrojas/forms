@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a purchase agreement between the seller and buyer, which includes details such as agreement date, item description, quantity, unit price, total price, payment terms, delivery date, delivery method, and signatures from both parties. This form is used to formalize the terms of the agreement, ensuring clarity and accuracy in the transaction. 
-This form is part of a larger purchase order system, and the data collected here will be used to generate purchase orders and manage the purchase process.
-
-Before filling out this form, ensure you have all the necessary information and approvals from both parties involved in the purchase. Please note that some fields may have specific formatting or character limits, so ensure you follow the required formats to avoid errors.
-
-Please ensure that you have the authority to sign on behalf of the buyer or seller, as this form requires signatures from both parties.
-
-When filling out this form, refer to the field explanations below for guidance.
-</thinking>
-
 # Bison Premier Purchase Agreement - Help Guide
 ## Purpose
 This form is used to collect and document the details of a purchase agreement between the seller and buyer.

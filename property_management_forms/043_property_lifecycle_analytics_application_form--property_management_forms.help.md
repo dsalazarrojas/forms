@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed for capturing information related to property lifecycle analytics, which involves tracking and analyzing data throughout the life cycle of a property. The form includes a variety of fields to collect information about the property, such as its type, address, location, and manager's contact details. It also asks about the property analytics platform, goals, and access to the platform.
-Given the form's structure, it is likely used to capture data for a specific property or real estate project. The form's fields suggest that it is designed to gather information from multiple stakeholders, including asset managers and investors.
-The form's options for "Property Type" and "Property Location" might be used to filter or categorize properties based on their type and location. The "Property Analytics Platform" fields might be used to track access and goals related to the platform.
-To confirm, the fields related to asset and investor contacts might be used to capture information about key contacts for the property, whereas the "Property Address" fields are likely used for geographical location information.
-</thinking>
-
 # Property Lifecycle Analytics Application Form - Help Guide
 ## Purpose
 This form is designed to collect information related to property lifecycle analytics, including property type, location, and manager's contact details. The form helps track access and goals related to the property analytics platform.

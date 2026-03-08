@@ -1,7 +1,3 @@
-<thinking>
-This form is used to order a team recognition plaque, a physical award that is meant to be a token of appreciation for a team or group. It is typically ordered for a team of employees, but can also be used to recognize other types of groups. The form requires some basic information such as the team name, the team leader's name, and the team size and type. It also asks for a contact email to be used for payment and communication. The user can choose the payment method and the size and material of the plaque. The form is meant to be completed by the team leader or the person ordering on behalf of the team. It is not necessary to fill out the team size "other" field if the team size is one of the options provided. The form is meant to be used for teams of all sizes, from small to large. This form is meant to be filled out one time, and the team leader or the person filling out the form will receive the plaque. There might be some overlap with other forms, but this one is specifically designed for team recognition.
-</thinking>
-
 # Team Recognition Plaque Order Form - Help Guide
 ## Purpose
 This form is used to order a team recognition plaque, a physical award that is meant to be a token of appreciation for a team or group.

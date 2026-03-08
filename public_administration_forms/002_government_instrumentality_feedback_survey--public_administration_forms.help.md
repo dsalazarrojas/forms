@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended for users who need to fill out the Government Instrumentality Feedback Survey form. This form is designed to collect feedback from the public about their experience with government services. The purpose of this guide is to walk the user through the form's layout, explain each field's meaning and requirements, and provide tips on how to fill out the form correctly.
-
-</thinking>
-
 # Government Instrumentality Feedback Survey - Help Guide
 ## Purpose
 The Government Instrumentality Feedback Survey is a form designed to collect feedback from the public about their experience with government services. This feedback helps the government agencies to identify areas of improvement and provide better services to the public.

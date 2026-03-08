@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for nursing school applicants to gather information that will be used in their interview preparation process. It is not designed for external sharing or external use. Please ensure this form is only completed by internal users for internal purposes.
-</thinking>
-
 # Nursing School Interview Preparation Form - Help Guide
 
 ## Purpose

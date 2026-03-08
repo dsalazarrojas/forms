@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Session Preference Information Form - Help Guide
 
 ## Purpose

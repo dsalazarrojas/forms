@@ -1,10 +1,3 @@
-<thinking>Public Works Service Request Form - Help Guide
-
-**Purpose**
-The Public Works Service Request Form is designed to collect information from users for public works service requests. This form helps to streamline the process of submitting service requests, ensuring that all relevant details are captured accurately and efficiently.
-
-</thinking>
-
 # Public Works Service Request Form - Help Guide
 ## Purpose
 

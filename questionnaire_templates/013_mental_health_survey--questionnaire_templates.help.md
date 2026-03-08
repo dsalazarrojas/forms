@@ -1,14 +1,3 @@
-<thinking>
-This form is a mental health survey designed to assess an individual's mental well-being and identify potential areas of concern. It is intended to be a comprehensive and standardized tool to gather information about the individual's mental health status and provide insights for healthcare professionals or mental health experts.
-
-Before proceeding, please note that this form is a self-reporting tool and should not be considered a substitute for professional diagnosis or treatment. If you are experiencing mental health concerns, it is essential to consult a qualified mental health professional.
-
-This form is designed to be completed by the individual themselves, and the information collected will help healthcare professionals understand their mental health status, provide tailored support, and guide treatment decisions.
-
-To complete the form, please answer the questions honestly and to the best of your ability. If you have any questions or concerns about the form, feel free to ask for clarification or assistance.
-
-</thinking>
-
 # mental_health_survey - Help Guide
 ## Purpose
 This mental health survey is designed to gather information about your mental well-being and help healthcare professionals understand your mental health status.

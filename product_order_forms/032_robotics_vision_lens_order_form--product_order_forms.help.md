@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a custom robotic vision lens order. It appears to be a standard customer contact and order form with various fields for personal and shipping details. The form requires selection of a lens type, which suggests it's an order form for custom robotic vision lenses. To ensure relevance and non-duplication, it's assumed that this form is for a specific product or service offered by the company, and the fields are designed to gather necessary information for order fulfillment and communication.
-
-To verify, we'll review the fields and create a helpful guide for the end users. The form has multiple pages with various fields for customer details, shipping details, lens selection, and order comments. The fields seem to be mostly self-explanatory, but we'll break down each field for clarity.
-
-</thinking>
-
 # Robotics Vision Lens Order Form - Help Guide
 ## Purpose
 This form is used to collect customer information and lens selection for a custom robotic vision lens order.

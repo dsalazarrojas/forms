@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information from building owners and managers who are interested in participating in the Building Electrification Program, which offers incentives and support for electrification upgrades. The form is intended to help the program administrators understand the building's characteristics, the owner's interest in electrification, and their needs for support and resources... This form should only be filled out once for each building, and users should not submit duplicate registrations...</thinking>
-
 # Building Electrification Program Registration - Help Guide
 ## Purpose
 This form helps the Building Electrification Program understand your building's needs and your interest in participating in the program. The information you provide will help us tailor our support and resources to your specific situation.

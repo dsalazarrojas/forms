@@ -1,9 +1,3 @@
-<thinking>
-This form was created by AI using public survey topic metadata as inspiration.
-It aims to identify which parables a user is familiar with, allowing them to select the ones they know or have heard of.
-This form has 4 questions with 6 fields in total.
-</thinking>
-
 # Parable Identification Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about the parables you are familiar with.

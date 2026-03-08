@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to filter participants based on certain criteria. The purpose of this form is to collect information about participants, specifically their status and information about their participation. This form is intended to be used in conjunction with other forms to filter participants based on their status and information.
-
-This form is not intended to be used as a standalone tool, but rather as a part of a larger process. To ensure that the form is used correctly, please review the information below carefully.
-
-Before filling out this form, please ensure that you have reviewed the participant's information and that you have the necessary permissions to access and filter participant data.
-
-Please note that this form is designed to be used by authorized personnel only.
-
-</thinking>
-
 # entry_filter_survey - Help Guide
 ## Purpose
 The entry_filter_survey form is designed to collect information about participants and filter them based on certain criteria. This form is intended to be used in conjunction with other forms to filter participants based on their status and information.

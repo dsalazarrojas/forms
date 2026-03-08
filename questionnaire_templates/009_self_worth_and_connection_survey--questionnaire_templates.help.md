@@ -1,7 +1,3 @@
-<thinking>
-To determine whether the form is relevant and not duplicated, I will review the form structure and content. This "self_worth_and_connection_survey" form appears to be a comprehensive questionnaire focused on assessing an individual's self-worth, social connection, and feelings of loneliness. 
-</thinking>
-
 # self_worth_and_connection_survey - Help Guide
 ## Purpose
 

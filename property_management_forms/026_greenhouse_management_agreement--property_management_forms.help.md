@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Greenhouse Management Agreement - Help Guide
 ## Purpose
 The "Greenhouse Management Agreement" form is used to collect information about the management of greenhouses, including ownership, details, and financial agreements. This form is essential for establishing a clear understanding between the parties involved in the management of the greenhouse.

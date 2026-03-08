@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and suggestions for improving the level creation process. The goal is to gather information on what users liked best and least about the level creation process and to identify areas for improvement. This form is intended for users who have recently gone through the level creation process and are able to provide feedback on their experience.
-</thinking>
-
 # level_creation_survey - Help Guide
 ## Purpose
 This form is used to collect feedback and suggestions from users who have recently created a level. The purpose is to identify areas of improvement for the level creation process.

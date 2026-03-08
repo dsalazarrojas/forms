@@ -1,7 +1,3 @@
-<thinking>
-The Property Sustainability Grant Registration form is designed to help property owners and project managers register their property sustainability projects. This form is meant to gather information about a property's sustainability efforts, including its category, type, and status, as well as its owner's contact information. Before filling out this form, please ensure that you have reviewed the project's category, type, and status accurately. Also, make sure to register only one property per form submission, as duplicate registrations may lead to processing delays or errors.
-</thinking>
-
 # Property Sustainability Grant Registration - Help Guide
 
 ## Purpose

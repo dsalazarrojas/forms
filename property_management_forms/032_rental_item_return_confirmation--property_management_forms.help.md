@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information related to the return of rental items, including general information, return date, item condition, and other relevant details. It is intended to be used by staff or customers to confirm the return of rental items. The form should only be completed if the item is being returned. If the item is being picked up or otherwise retrieved, a different form should be used.
-</thinking>
-
 # Rental Item Return Confirmation - Help Guide
 ## Purpose
 The Rental Item Return Confirmation form is used to verify the return of rental items, ensure their condition, and update their status.

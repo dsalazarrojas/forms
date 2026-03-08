@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide for the "Educational Workshop Partner Interview Form", let's ensure we are clear about the form's purpose and context. This form is designed to gather information from educational workshop partners, aiming to understand their details, experience, and availability for potential collaborations. We should only consider filling it out if we're interested in partnering with them for a workshop.</thinking>
-
 # Educational Workshop Partner Interview Form - Help Guide
 ## Purpose
 

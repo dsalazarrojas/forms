@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from community members about their education and learning preferences. The purpose of this form is to understand the availability and needs of community members for educational programs and resources. This information will help us tailor our programs to better serve the community's needs, ensuring that our educational offerings are accessible and relevant to their interests and circumstances. Please note that this information will not be shared or used for any other purpose other than to improve our educational programs.
-
-</thinking>
-
 # Community Education Availability Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your education and learning preferences to help us better serve the community with tailored programs and resources.

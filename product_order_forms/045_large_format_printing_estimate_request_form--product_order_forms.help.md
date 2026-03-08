@@ -1,8 +1,3 @@
-<thinking>
-This form is used for clients to request an estimate for large format printing services. It captures essential details about the client's project, including contact information, printing specifics, and deadlines. This form is crucial for the production team to create an accurate estimate and for the communication with clients. The information gathered will be used to create a detailed estimate for the client and to communicate with them about the project status. Please make sure to fill it in carefully and accurately to ensure a smooth workflow for both parties.
-
-</thinking>
-
 # Large Format Printing Estimate Request Form - Help Guide
 ## Purpose
 This form is designed to provide the necessary information for large format printing services. Please fill it out carefully and accurately to ensure a smooth workflow for both parties.

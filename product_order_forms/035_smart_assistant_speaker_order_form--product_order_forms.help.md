@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from customers for ordering a smart assistant speaker. The purpose of this form is to gather the necessary details for processing and delivering the order. To complete this form, the customer must provide their personal and shipping information, payment details, order specifics, and delivery preferences. The form has multiple sections to collect various types of information, including customer contact details, shipping information, payment method, product details, and delivery status.
-
-</thinking>
-
 # smart_assistant_speaker_order_form - Help Guide
 ## Purpose
 The Smart Assistant Speaker Order Form is used to collect information from customers for ordering a smart assistant speaker.

@@ -1,17 +1,3 @@
-<thinking>
-
-To determine the purpose and best practices for this form, I will review the provided YAML fields. The form is called "Validation And Requalification Survey" and falls under the category "quality_surveys". This suggests that the form is used to gather feedback or data related to quality control or assurance processes.
-
-Upon reviewing the fields, I see a mix of text, select, date, and time fields. The form seems to be collecting data on various aspects of a product or service, including qualification and requalification periods, changes made, and status. The fields are not all required, suggesting that the form is meant to be completed in a flexible manner.
-
-The "intro" field is a text field, which might be used for a brief introduction or instructions. The "organization" field is a select_multiple field, which could be used to select multiple organizations or departments involved. The "qualification" and "requalification" fields seem to be related to specific periods or times, while the "changes" fields might be used to record changes made during these periods. The "status" field is another select field, which could be used to indicate the current status of a product or service.
-
-To confirm, I will review the required and optional fields. All fields except the "intro" field are optional. This suggests that the form can be completed with a varying degree of detail, depending on the specific needs of the user.
-
-Based on this analysis, the purpose of the form is likely to collect data on the quality control and assurance process, including qualification and requalification periods, changes made, and status updates.
-
-</thinking>
-
 # Validation And Requalification Survey - Help Guide
 ## Purpose
 The Validation and Requalification Survey is used to collect data on the quality control and assurance process, including qualification and requalification periods, changes made, and status updates.

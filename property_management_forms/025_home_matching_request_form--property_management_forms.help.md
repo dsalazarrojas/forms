@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from users regarding their home matching preferences. The form asks for various details such as user input, owner preferences, contact method, date of birth, time of day, note, email, phone number, user comments, user agent, property manager, and relocation team. The purpose of this form is to gather specific information from users for the property management team. 
-
-The form is likely used for internal purposes within a company or organization that deals with properties. This form is not intended for general public use. The information collected through this form will be used to match homes according to the provided criteria. The form is designed to be completed by authorized users who need to request home matching services.
-
-It is crucial to review this form carefully and ensure that all required fields are completed accurately. The form should not be duplicated or submitted multiple times by the same user. This will cause inefficiencies and may result in incorrect home matching. The form should be filled out with the user's actual preferences and needs.
-
-</thinking>
-
 # Home Matching Request Form - Help Guide
 ## Purpose
 This form is designed to collect specific information from users regarding their home matching preferences. The collected information will be used to match homes according to the provided criteria.

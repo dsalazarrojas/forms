@@ -1,8 +1,3 @@
-<thinking>
-This guide is used to ensure that the form's purpose and the process of filling it out is understood by users, preventing confusion and potential misuse.
-The form should only be used for its intended purpose and not duplicated or used inappropriately.
-</thinking>
-
 # Kissing Experience Survey - Help Guide
 ## Purpose
 

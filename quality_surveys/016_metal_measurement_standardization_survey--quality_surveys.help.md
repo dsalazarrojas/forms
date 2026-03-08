@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about metal measurement standardization. This form is likely used in a scientific or industrial context to gather data on the standardization needs and processes related to metal measurement. Before starting, check that you have not completed this form previously, as the purpose and content may be similar to other standardization surveys.
-
-To complete this form accurately and efficiently, please make sure you have all necessary information and data ready before proceeding.
-
-This help guide will explain each field in detail to ensure you understand the questions and what information is being collected.</thinking>
 # Metal Measurement Standardization Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information about metal measurement standardization practices, needs, and processes.

@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's confirm that you've arrived here intentionally. This form is the result of an AI-generated adaptation of a public survey topic metadata, not derived from any proprietary content. Its purpose is to gauge your knowledge and practices in the realm of color theory and colorways. By answering this form, you'll be contributing to a dataset that can help improve the understanding of color theory applications. Please take the time to carefully answer the following questions, and if you're unsure about any term or concept, feel free to ask. If this form has been previously completed by you, please know that your responses will be treated as new and valuable contributions to the dataset.</thinking>
-
 # Colorways Knowledge Survey - Help Guide
 ## Purpose
 The purpose of this Colorways Knowledge Survey is to evaluate your understanding and application of color theory concepts. This survey aims to collect data on your experience with color theory, your preferred learning resources, and how you apply color theory in your work.

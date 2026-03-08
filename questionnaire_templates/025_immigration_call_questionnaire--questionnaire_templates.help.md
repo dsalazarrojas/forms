@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information from individuals or entities that are involved in immigration-related activities, such as traveling to or from a country with specific visa requirements. The form aims to gather general information, travel history, contact details, and other relevant background about the individual or entity. This form may be used by immigration officials or other authorized individuals to assess the eligibility of the individual or entity for immigration purposes.
-</thinking>
-
 # Immigration Call Questionnaire - Help Guide
 ## Purpose
 This guide provides an overview of the Immigration Call Questionnaire, a form used to collect information for immigration-related activities.

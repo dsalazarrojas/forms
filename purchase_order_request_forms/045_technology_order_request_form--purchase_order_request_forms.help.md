@@ -1,7 +1,3 @@
-<thinking>
-This form was created by an AI using metadata from the "Purchase Order Request Forms" category in the technology industry. It is an original adaptation and not affiliated with any form platform. It is released under CC BY 4.0, allowing free use, modification, and distribution.
-</thinking>
-
 # Technology Order Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from users to facilitate the process of requesting a technology order. It will collect user information, purchase order details, technology details, and contact information.

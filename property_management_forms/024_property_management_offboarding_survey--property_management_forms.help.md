@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the offboarding process is thorough and complete, the "property-management-offboarding-survey" form is used to collect information from the property owner or representative regarding the property's status and transition details. This form should not be completed if the property has already been offboarded or is still in the process of being offboarded. Please verify that the property is not already offboarded before proceeding.
-</thinking>
-
 # property-management-offboarding-survey - Help Guide
 ## Purpose
 This form is used to collect information from the property owner or representative regarding the property's status and transition details during the offboarding process.

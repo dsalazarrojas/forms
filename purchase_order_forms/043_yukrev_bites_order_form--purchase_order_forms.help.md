@@ -1,10 +1,3 @@
-<thinking>
-This form is used to capture information for a purchase order from a customer. It includes fields for customer contact information, order details, and payment method selection. This form is likely used for internal tracking and processing of orders.
-
-Before proceeding, ensure that you are not duplicating a form submission. This form should only be submitted for new orders or updates to existing orders. If you are unsure, please contact your supervisor or administrator for guidance.
-
-</thinking>
-
 # Yukrev Bites Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for purchase orders from customers.

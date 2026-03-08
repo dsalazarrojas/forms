@@ -1,6 +1,3 @@
-<thinking>Internal reasoning:
-This form, "Respondent Identification Questionnaire", appears to be designed for collecting demographic information from respondents, potentially for research or study purposes. The form includes a range of fields that seem to cover personal details, such as date of birth, contact methods, and program information. There are multiple "Study ID" fields, which may indicate a requirement to identify specific studies or programs. Given the variety of fields, it's essential to ensure users understand the purpose and usage of each field to avoid confusion and ensure accurate completion. This form likely has a specific purpose in a research or academic setting, and its completion may be mandatory for respondents. Before proceeding, let's review the form's purpose and usage.</thinking>
-
 # Respondent Identification Questionnaire - Help Guide
 
 ## Purpose

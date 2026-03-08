@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about potential candidates for recruitment purposes. It is used to gather detailed information about the applicant's background, work experience, and preferences to help match them with suitable job openings. This form should only be completed by applicants who are interested in exploring new job opportunities. If you have already filled out this form, you should not need to fill it out again, so please do not submit it unless you have a new interest in exploring job opportunities.
-
-</thinking>
-
 # Recruitment Interest Survey - Help Guide
 ## Purpose
 

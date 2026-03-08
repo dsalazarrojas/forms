@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Audit Documentation Quality Survey - Help Guide
 ## Purpose
 The Audit Documentation Quality Survey is a tool used to assess the quality of audit documentation in various departments and roles. This form helps to identify areas of improvement and provide recommendations for better documentation practices. The survey is designed to be completed by individuals involved in the audit process to provide their honest feedback on the documentation's completeness, accuracy, clarity, organization, and overall quality.

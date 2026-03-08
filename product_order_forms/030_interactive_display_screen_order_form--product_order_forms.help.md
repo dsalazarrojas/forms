@@ -1,5 +1,3 @@
-<thinking>This form appears to be an order form designed for interactive displays or screens. It is likely intended for customers to order products or services that involve displays or screens in some way. The form's fields suggest it is gathering information for customer orders, specifically for products or services that have a specific quantity and cost. The form requires the customer's name and email address, suggesting it may be used for communication or follow-up purposes. The fields also indicate that the customer has the option to specify order items, quantity, and total cost, which implies that the form is meant to gather detailed order information.</thinking>
-
 # Interactive Display Screen Order Form - Help Guide
 ## Purpose
 The Interactive Display Screen Order Form is designed to gather information for customer orders related to interactive displays or screens.

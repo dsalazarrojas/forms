@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a property return. It is likely used by property management staff to document the return of a property, including details such as the property name, its value, the reason for return, and any additional contact information for the party returning the property. The form is not intended to collect sensitive or financial information, so there is no need for encryption or special handling of data. 
-
-To ensure this form is used correctly, it is essential that staff using it understand its purpose and each field's relevance.
-
-</thinking>
-
 # return_of_property_form - Help Guide
 ## Purpose
 This form is used to document the return of a property, ensuring accurate and up-to-date records for property management. 

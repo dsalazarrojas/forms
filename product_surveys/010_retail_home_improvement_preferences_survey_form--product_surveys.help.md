@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect data about customers' shopping habits, satisfaction levels, and preferences regarding home improvement products. This information will help the business understand its customers' needs and preferences, enabling it to provide better services and products. 
-
-Before proceeding, check if you have already completed this form. If you have, please do not submit this form again to avoid duplicate data.
-
-This form is divided into several sections, each focusing on different aspects of customers' experiences. Please answer the questions accurately and honestly, as this data will help us improve our services.
-
-The form includes fields for demographic information, shopping habits, satisfaction levels, product interest, contact information, home improvement needs, and frequency of satisfaction and purchase. 
-
-Each field is designed to collect specific data, and the instructions below will guide you through each section.
-
-</thinking>
-
 # retail_home_improvement_preferences_survey_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their shopping habits, satisfaction levels, and preferences regarding home improvement products. This data will help us understand our customers' needs and preferences, enabling us to provide better services and products.

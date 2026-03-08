@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Workforce Wellbeing Evaluation Form - Help Guide
 
 ## Purpose

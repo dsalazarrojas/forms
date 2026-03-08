@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about handmade products, specifically their style and characteristics. The purpose of this form is to ensure that all handmade products are consistently labeled and marketed according to their specific style and attributes. This information is essential for product categorization, inventory management, and customer communication. To ensure accurate and comprehensive data, please fill out the form completely and accurately.
-</thinking>
-
 # Handmade Product Style Survey - Help Guide
 ## Purpose
 This form is used to collect information about the style and characteristics of handmade products to ensure accurate labeling, categorization, and customer communication.

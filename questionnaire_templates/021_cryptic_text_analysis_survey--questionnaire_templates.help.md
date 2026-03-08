@@ -1,5 +1,3 @@
-<thinking>... This form is used to collect information from users about their experience and expertise in creating and analyzing puzzles and cryptic texts. It is meant to be filled out by researchers, educators, and puzzle creators who have experience in the field. The form will help us understand their thoughts, experiences, and preferences when it comes to puzzles and cryptic texts. Please only fill out this form if you have experience in creating or analyzing puzzles or cryptic texts... </thinking>
-
 # Cryptic Text Analysis Survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their experience and expertise in creating and analyzing puzzles and cryptic texts.

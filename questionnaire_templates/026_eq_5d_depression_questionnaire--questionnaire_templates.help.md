@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to measure the level of depression in individuals, specifically designed to be completed by respondents who are being asked about their mental health. This form is not meant to be used as a substitute for a professional diagnosis, but rather as a tool to gather information about one's mental well-being. Please note that the answers to this form should be provided honestly and accurately, as they will be used for research or statistical purposes. If you have concerns or questions about your mental health, please seek help from a qualified professional.
-Before completing this form, please ensure that you have not filled it out in the past. Duplicate submissions may cause inaccuracies in the data collected.
-</thinking>
-
 # EQ 5D Depression Questionnaire - Help Guide
 ## Purpose
 The EQ 5D Depression Questionnaire is a self-reporting tool designed to measure the level of depression in individuals. It is composed of eight questions, each addressing different aspects of mental health. Please take your time and answer the questions as honestly as possible.

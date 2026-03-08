@@ -1,5 +1,3 @@
-<thinking>Internal Note: This form is intended for pre-ordering of merchandise from a nostalgic product line. It collects customer information, order details, and payment information for the pre-order process. Please review this help guide to ensure you understand the purpose and requirements for completing the form accurately.</thinking>
-
 # Nostalgia Merchandise Pre Order Form - Help Guide
 ## Purpose
 This form is designed for pre-ordering merchandise from a nostalgic product line. Please fill out the form to provide your contact and order details.

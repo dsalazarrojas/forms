@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for the purpose of collecting information for a property purchase order, which is a critical document required for the buying and selling process. The form captures details about the property, buyer, and seller, as well as price and property status information. The form is essential for ensuring a smooth transaction process and providing all necessary information to relevant parties. To avoid duplication and ensure consistency, this form should only be used for its intended purpose and not for other uses such as general property inquiries or sales promotion.
-
-</thinking>
-
 # Property Purchase Order Form - Help Guide
 ## Purpose
 This form is used to collect essential information for a property purchase order, including property details, buyer and seller information, price information, and more. Please complete this form accurately and thoroughly to ensure a smooth transaction process.

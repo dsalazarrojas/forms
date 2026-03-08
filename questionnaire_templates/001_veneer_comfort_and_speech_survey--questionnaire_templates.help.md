@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gauge the comfort level, sensitivity, and overall satisfaction of individuals after undergoing a treatment. The form's purpose is to collect data on how well the treatment was received, which can be used to improve future treatments or services.
-The form has four fields that each aim to collect specific information:
-1.  "comfort_level": This field asks respondents to rate their overall comfort level after the treatment.
-2.  "sensitivity_level": This field inquires about the level of sensitivity noticed after the treatment.
-3.  "speech_level": This field asks whether the treatment has altered the respondent's speech.
-4.  "overall_satisfaction": This field seeks to understand the respondents' overall satisfaction with the treatment.
-To avoid duplication of effort, please ensure that the form is not used for multiple purposes. This form should only be used for collecting feedback on treatments or services.
-</thinking>
-
 # veneer_comfort_and_speech_survey - Help Guide
 ## Purpose
 The veneer_comfort_and_speech_survey is a form designed to collect feedback from individuals who have undergone a treatment. It helps to gauge their comfort level, sensitivity, and overall satisfaction with the treatment.

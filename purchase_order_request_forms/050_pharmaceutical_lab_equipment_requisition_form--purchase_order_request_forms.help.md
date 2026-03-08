@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the purpose of requesting pharmaceutical lab equipment. The form is intended to be completed by individuals who need to acquire new lab equipment for their daily work or projects. The form is organized into multiple pages, each with different fields that need to be filled out. The form is not a required document, but rather a request for equipment. Therefore, users can choose whether or not to submit the form.
-</thinking>
-
 # Pharmaceutical Lab Equipment Requisition Form - Help Guide
 ## Purpose
 This form is used to request new pharmaceutical lab equipment for lab operations and maintenance.

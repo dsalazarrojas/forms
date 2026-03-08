@@ -1,18 +1,3 @@
-<thinking>
-The purpose of the "marathon_bib_number_printing_order_form" is to provide a template for generating marathon race bib numbers with a custom design and style. This form is designed for users to specify their preferences for the bib number, including the title, event information, bib number type, design, color, size, and other details. The form is intended for users who want to order custom-made bib numbers for their marathon events. To ensure that the form is completed correctly, we will check for duplication and non-relevant requests before processing the order.
-
-This form contains multiple pages, but all the fields are on one page. Each field has a specific purpose and should be filled in accordingly. Please ensure you fill in all the required fields to complete the form correctly.
-
-Before proceeding, please take note of the following:
-* The "Bib Number Type" field is required to be filled in as it will determine the style of the bib number.
-* The "Bib Number Design" field allows you to choose from two design options.
-* The "Bib Number Color" field allows you to choose from three color options.
-* The "Bib Number Size" field is required to be filled in as it will determine the size of the bib number.
-* The "Payment Method" field is required to be filled in as it will determine the payment method for the order.
-* The "Upload Type" field is required to be filled in as it will determine the type of file to be uploaded.
-* The "Upload Size" field is required to be filled in as it will determine the size limit of the uploaded file.
-</thinking>
-
 # marathon_bib_number_printing_order_form - Help Guide
 ## Purpose
 The purpose of this form is to provide a template for generating custom-made marathon race bib numbers with a specific design, style, and other details.

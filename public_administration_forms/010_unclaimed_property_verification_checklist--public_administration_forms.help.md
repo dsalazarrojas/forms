@@ -1,12 +1,3 @@
-<thinking>
-This form is used to verify unclaimed properties. The purpose of this form is to gather information about an unclaimed property and verify its status. This form is intended for use by public administration teams to track and manage unclaimed properties. Please note that this form is not intended for general public use.
-
-Before proceeding, ensure that you have reviewed the property's details and that you have the necessary permissions to access and update the property's information.
-
-When filling out this form, please note that each field is optional, unless specified as required. This form is designed to be flexible and accommodate various types of properties and situations.
-
-</thinking>
-
 # Unclaimed Property Verification Checklist - Help Guide
 ## Purpose
 The purpose of this form is to gather information and verify the status of unclaimed properties. Use this form to track and manage unclaimed properties in an organized and efficient manner.

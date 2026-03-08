@@ -1,12 +1,3 @@
-<thinking>
-To create an effective user-facing help guide, let's consider the purpose and structure of the "Public Relations Request Form". This form appears to be designed for public relations purposes, potentially for events, meetings, or other public engagements. The form likely collects information about the individual making the request, including personal details and preferences.
-
-The form structure suggests it's meant to be completed by a single individual, with fields for first name, last name, email, phone number, department, description, date, time, and note. The department field has multiple options, indicating that the user should select one of the listed departments. The date and time fields are likely for scheduling purposes.
-
-Before filling out the form, ensure you're not duplicating a request. If you're unsure or have questions, contact the relevant department or team.
-
-</thinking>
-
 # Public Relations Request Form - Help Guide
 ## Purpose
 The Public Relations Request Form is designed to collect information for public relations purposes, such as events, meetings, or other public engagements.

@@ -1,11 +1,3 @@
-<thinking>Form purpose: This form is designed to collect information from users about gas mixtures and chemical equilibrium. It appears to be a comprehensive survey covering various aspects of gas mixtures, including their composition, behavior, and equilibrium states. The form likely aims to gather data from users who work with or are involved in gas mixtures and their chemical reactions.
-
-Form purpose may overlap with other forms, such as those focused on chemical reactions or gas properties. Users should not fill out this form if they have already completed a similar form on the same topic.
-
-Non-duplication: This form seems to have a large number of fields, but most of them have a "Yes" or "No" option, which might lead to some redundancy. However, some fields, like "gas_mixture_equilibrium_survey_5", "gas_mixture_equilibrium_survey_12", and "gas_mixture_equilibrium_survey_20", might have different purposes or requirements, and users should consider these specific fields carefully before filling out the form.
-
-Please fill out this form carefully, paying attention to each question and its purpose.</thinking>
-
 # Gas Mixtures And Chemical Equilibrium Survey - Help Guide
 ## Purpose
 The Gas Mixtures And Chemical Equilibrium Survey is designed to collect information from users about gas mixtures and their chemical equilibrium states. This form helps the user to provide detailed answers about the gas mixtures and their behavior.

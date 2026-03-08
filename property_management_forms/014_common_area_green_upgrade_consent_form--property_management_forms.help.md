@@ -1,20 +1,3 @@
-<thinking>
-This is a form for obtaining consent from property owners or managers for green upgrades in common areas of their properties. The purpose of this form is to gather information about the upgrades, including what type of upgrades are proposed, where they will be installed, and how they will be funded. This form will likely be used by property management companies, property owners, or local government agencies responsible for green upgrades. It is likely that this form will be used to gather consent from residents of the property before proceeding with the upgrades.
-
-To ensure accuracy, please note that the form requires the following:
-
-* The property name and address
-* The name and email of the resident consenting to the upgrade
-* The type and location of the upgrade
-* The expected start date of the project
-* The total cost of the project
-* The resident's share of the cost
-* The method of payment
-* The estimated annual savings
-* A declaration of consent
-
-Before proceeding, please review this form carefully and ensure that all required fields are filled out accurately.</thinking>
-
 # Common Area Green Upgrade Consent Form - Help Guide
 ## Purpose
 This form is used to gather consent from property owners or managers for green upgrades in common areas of their properties.

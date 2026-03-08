@@ -1,25 +1,3 @@
-<thinking>
-
-This form is designed to gather data from end-users about their purchasing habits and preferences for eco-conscious makeup brands. The primary goal is to understand the demographic characteristics of individuals who are interested in or have already purchased eco-friendly makeup products. The form is not intended to collect sensitive or personal identifiable information, and all responses will be kept anonymous.
-
-The form will help us better understand:
-
-* What type of eco-conscious products customers have purchased
-* Their favorite eco-conscious brands
-* Their age range
-* Geographic location
-* Makeup usage frequency
-* Social media preferences
-* Average expenditure on makeup
-* Level of knowledge about eco-friendly products
-* Email and phone contact information (optional)
-* Agreement with being more eco-friendly
-* Willingness to recommend the brand
-
-We will use this information to improve our brand offerings, product selection, and customer experience.
-
-</thinking>
-
 # Eco Conscious Makeup Brand Survey - Help Guide
 ## Purpose
 The Eco Conscious Makeup Brand Survey aims to gather information about your purchasing habits and preferences for eco-conscious makeup brands. Your responses will help us better understand our customers' needs and improve our brand offerings.

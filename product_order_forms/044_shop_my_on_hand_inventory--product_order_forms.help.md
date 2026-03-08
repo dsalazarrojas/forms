@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "shop_my_on_hand_inventory" form is to collect information from customers about their on-hand inventory needs. This form likely serves as a means to capture customers' preferences and specifications for products they are interested in purchasing or inquiring about. It may also be used for other purposes such as tracking customer interactions or inventory management within an internal system.
-The form appears to be designed to gather basic customer information as well as preferences and specifications for products. However, without additional context or information about the internal usage or requirements of this form, it's possible that the form could be used for other purposes. To create a comprehensive and accurate help guide, it's ideal to have more information about the form's purpose, target audience, and any specific requirements for filling it out.
-</thinking>
-
 # shop_my_on_hand_inventory - Help Guide
 ## Purpose
 The purpose of this form is to provide a way for customers to inform the shop about their on-hand inventory needs. The form captures information about customers, their products of interest, and any additional preferences they may have.

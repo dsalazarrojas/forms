@@ -1,5 +1,3 @@
-<thinking>...The Implicit Association Test Survey is a questionnaire designed to investigate implicit attitudes and biases. This form is typically used in research settings to study unconscious associations between concepts. Participants' responses are used to infer their implicit attitudes. The survey consists of multiple questions asking about various topics, such as participant information, consent, and demographic details. It's essential to complete this survey thoughtfully, as the responses can reveal interesting insights. Before starting, ensure you have completed this survey before, as repeating the survey may result in similar responses. Ensure also that you have provided consent and completed the demographic information accurately...</thinking>
-
 # Implicit Association Test Survey - Help Guide
 ## Purpose
 

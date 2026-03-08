@@ -1,13 +1,3 @@
-<thinking>
-
-The form "Deadlock Understanding Survey" is a tool used to gather information about a specific situation where a deadlock occurs. A deadlock is a state of a system where two or more processes are blocked indefinitely, each waiting for the other to release a resource. This form is used to collect data about the deadlocks that have occurred, including the date, time, and circumstances surrounding the event.
-
-This form is likely used in the context of database management or system administration, and may help identify common patterns or trends in deadlocks.
-
-The following guide is intended to help users complete this form accurately and effectively.
-
-</thinking>
-
 # Deadlock Understanding Survey - Help Guide
 ## Purpose
 This form collects information about deadlocks that have occurred, including date, time, and circumstances.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to capture information for placing a spa order. The form's purpose is to gather essential details from the customer, including their selection of spa products, their order preferences, and any special requests. 
-
-The form's structure consists of multiple pages, each designed to collect specific information. Page 1 collects general information about the customer, page 2 gathers delivery information, and there might be additional pages but they are not present in this schema. 
-
-This help guide will cover the form's purpose, how to complete it, and provide field-by-field explanations for each section.
-
-</thinking>
-
 # spa_products_order_form - Help Guide
 ## Purpose
 The "spa_products_order_form" is a form designed to capture essential details from customers when placing a spa order. This includes selecting preferred spa products and providing delivery information.

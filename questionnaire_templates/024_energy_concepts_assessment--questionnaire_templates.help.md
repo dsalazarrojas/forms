@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Energy Concepts Assessment - Help Guide
 
 ## Purpose

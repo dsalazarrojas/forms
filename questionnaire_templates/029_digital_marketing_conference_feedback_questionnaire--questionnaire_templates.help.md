@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Marketing Conference Feedback Questionnaire - Help Guide
 ## Purpose
 The Digital Marketing Conference Feedback Questionnaire is designed to gather feedback from attendees on their experience at the conference. This form will help us understand what worked well and what didn't, and use that information to improve future events.

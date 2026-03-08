@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Investor Profile Questionnaire" form, we must first understand its purpose and ensure it's relevant and not duplicated. This form is designed to gather information from investors about their contact details, investment preferences, risk tolerance, financial goals, investment profile, financial status, tax status, investment experience, portfolio, and investment horizon. Its purpose is to provide a comprehensive understanding of the investor's profile, which can be used for marketing and sales efforts or for internal analysis and reporting. 
-
-We should review our internal processes and ensure that this form is not duplicating any existing data collection efforts.
-</thinking>
-
 # Investor Profile Questionnaire - Help Guide
 ## Purpose
 The Investor Profile Questionnaire is designed to collect information from investors about their characteristics, preferences, and circumstances to help us better understand their needs and tailor our services accordingly. This helps us provide more relevant content, offers, and experiences to our investors.

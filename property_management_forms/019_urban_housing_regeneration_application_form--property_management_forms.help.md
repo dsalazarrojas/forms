@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a template designed to collect general user information, contact details, property specifics, application details, submission information, and the ability to upload supporting documents. It's intended to be a basic form for gathering data on housing regeneration applications. However, it's essential to review the form's completeness and relevance for your organization's specific use case. If you're unsure about any part of this form, please double-check with your internal team or form owner.
-
-Please note that some fields are not set to "required", implying that you may be able to customize it as needed.
-
-</thinking>
-
 # urban-housing-regeneration-application-form - Help Guide
 ## Purpose
 The urban-housing-regeneration-application-form is designed to gather information from applicants about their housing regeneration needs, contact details, property specifics, and submission information.

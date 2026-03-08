@@ -1,8 +1,3 @@
-<thinking>
-The form "Personal Space Boundary Assessment" is designed to collect information about an individual's boundaries, comfort levels, and preferences. This form can be used in various contexts, such as in personal growth, relationships, or professional settings, to gain insight into an individual's boundaries and comfort zone. Before filling out this form, ensure that the information is relevant to your specific context and purpose. If you're unsure, consider consulting with a professional or expert in your field to confirm the form's applicability.
-
-</thinking>
-
 # Personal Space Boundary Assessment - Help Guide
 ## Purpose
 The Personal Space Boundary Assessment form is designed to help individuals assess their personal boundaries, comfort levels, and preferences. It's a self-administered assessment that can be used in various contexts, such as personal growth, relationships, or professional settings, to gain insight into an individual's boundaries and comfort zone.

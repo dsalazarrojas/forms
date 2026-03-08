@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to capture detailed information about a respondent's cheesecake preferences. It appears to be a comprehensive questionnaire designed to gather opinions about a variety of aspects related to cheesecake consumption and preferences. The form is likely used for marketing research, surveys, or product development purposes. I will provide a detailed help guide for this form to assist users in understanding its purpose and how to complete it accurately.
-
-</thinking>
-
 # Cheesecake Preferences Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to gather information about your personal preferences when it comes to cheesecake. It includes questions about your demographic information, eating habits, flavor preferences, and purchasing behavior.

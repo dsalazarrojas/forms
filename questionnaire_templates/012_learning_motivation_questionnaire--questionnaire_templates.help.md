@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from end-users on their learning motivation and time management practices. The form's purpose is to understand the relationship between these two important factors. It is recommended that the form is filled out only once by each end-user to avoid duplication. Please fill out the form accurately and honestly to ensure the best possible insights.</thinking>
-
 # learning_motivation_questionnaire - Help Guide
 ## Purpose
 The learning motivation questionnaire is a survey designed to gauge your learning motivation and time management practices. It collects information on several factors, including your demographic information, learning motivation level, motivation level over time, time management practices, and submission date.

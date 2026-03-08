@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to collect feedback from patients about their satisfaction with medical procedures. This form is designed to gather information on various aspects of the patient's experience, including pain control, anxiety level, pain management, medical expertise, communication, emotional satisfaction, care provider, and recommendation. This form is not intended for patients who have not undergone a medical procedure recently. Please ensure that you have completed a medical procedure before filling out this form.</thinking>
-
 # Medical Procedure Satisfaction Questionnaire - Help Guide
 ## Purpose
 This form is used to collect feedback from patients about their satisfaction with medical procedures.

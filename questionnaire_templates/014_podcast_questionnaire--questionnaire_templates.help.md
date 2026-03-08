@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and data for podcast content creation. It's intended for use by podcasters or content creators to help them better understand their audience's preferences and interests.
-</thinking>
 # Podcast Questionnaire - Help Guide
 ## Purpose
 This form is designed to help podcasters and content creators gather information about their audience's preferences and interests related to podcast content. It's meant to be used during or after a podcast session, and the data collected will help create more engaging and relevant content.

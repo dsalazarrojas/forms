@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from property owners or applicants who wish to convert a commercial property for a new or different use. The form is used by <your_department_name> to review and process requests for property conversions. Please note that this form is intended to be used for properties located within <city/region>, and applicants should ensure that they understand the relevant zoning regulations and local ordinances before submitting the form. Additionally, applicants are required to provide accurate and up-to-date information to ensure that their application is processed efficiently.
-</thinking>
-
 # Commercial Property Conversion Application Form - Help Guide
 ## Purpose
 This form is used to submit a request to convert a commercial property for a new or different use. Please fill out this form with accurate and up-to-date information about the property and the proposed conversion.

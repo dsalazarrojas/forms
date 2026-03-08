@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect release feedback from end users. It appears to be designed to gather information about the quality of a specific release or product launch. The form asks users to provide feedback about different aspects of the release, such as the type of feedback, what could be improved, and suggestions for improvement. 
-
-Please ensure this form is only completed by users who have actually experienced the release and are providing genuine feedback. 
-
-Also, make sure to review and update the form's content to prevent duplication of information and ensure it stays relevant to the release's goals.
-</thinking>
-
 # Release Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from end users about a specific release or product launch. It helps us understand what you think about the release and identify areas for improvement.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation data about the Voltage Amplifier, which is likely a component used in electronic circuits. The purpose of this form is to gather information on its performance, usability, and overall satisfaction. This form will be used by experts in the field of electronics or engineering to evaluate and provide feedback on the amplifier's characteristics. To ensure the accuracy and quality of the feedback, we should verify that the form is completed by those who have hands-on experience with the amplifier. 
-
-We should also take into consideration that this form could be used in various contexts, including research and development, product testing, or education.
-
-</thinking>
 # Feedback Voltage Amplifier Evaluation Form - Help Guide
 ## Purpose
 The Feedback Voltage Amplifier Evaluation Form is designed to collect feedback and evaluation data about the Voltage Amplifier, a crucial component in electronic circuits.

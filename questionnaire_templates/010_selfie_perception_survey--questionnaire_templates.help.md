@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form was created to gather information from users about <string> topics. It is designed to be used for <string> purposes and is not affiliated with, endorsed by, or derived from any form platform.

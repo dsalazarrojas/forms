@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to place an order online, allowing them to input their product selection, desired quantity, and payment method, among other details.
-</thinking>
-
 # online_shopping_form - Help Guide
 ## Purpose
 This form is designed to facilitate online shopping by allowing customers to input their order details, including product selection, quantity, price, shipping date, customer information, and payment method. It helps customers place orders efficiently and accurately.

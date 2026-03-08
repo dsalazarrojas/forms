@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to serve as a reminder system for property managers to keep track of special levies for various properties. This form will help identify which properties have special levies, who the manager is, and the current payment status of the levy. The fields within this form will help property managers and residents stay on top of these levies, ensuring timely payments and reducing potential issues.
-
-Before filling out this form, please ensure that you are using it correctly by following the instructions below and only filling out the relevant fields. Duplicating or misusing this form can lead to unnecessary work and potential data inconsistencies.
-
-Please note that some fields may be optional, depending on the specific situation. Be sure to use your best judgment when determining which fields are required for your use case.
-
-</thinking>
-
 # Special Levy Reminder Form - Help Guide
 ## Purpose
 

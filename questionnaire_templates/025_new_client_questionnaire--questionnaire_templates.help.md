@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about new clients, including their company name, contact name, email address, and phone number. This form is used by business development teams to gather essential details about new clients, which can be later used for follow-up communication and collaboration. Before proceeding, please ensure that you have not already completed this form for the same client or that the client has not been previously onboarded. If you're unsure, please reach out to your team lead for verification.
-</thinking>
-
 # New Client Questionnaire - Help Guide
 
 ## Purpose

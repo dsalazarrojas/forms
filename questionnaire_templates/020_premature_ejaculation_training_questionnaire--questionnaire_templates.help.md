@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients on their training plan and progress, including intake details, contact information, and preferences for support and follow-up. The form will help identify areas of focus for coaching and support, and ensure that clients receive the necessary guidance and resources. Please ensure that the client has provided all necessary information before submitting the form. Also, please review the provided information carefully and provide clear and accurate answers.
-</thinking>
-
 # Premature Ejaculation Training Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from clients on their training plan and progress, to help identify areas of focus for coaching and support.

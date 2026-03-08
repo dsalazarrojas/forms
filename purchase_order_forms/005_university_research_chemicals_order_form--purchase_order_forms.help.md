@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to provide a structured template for ordering research chemicals from the university's chemical suppliers. It appears that the form is designed for lab staff or researchers to submit requests for chemicals used in their research, including details such as the type of chemicals ordered, the quantity needed, and the contact information for the lab. The form is likely used within the university's internal processes for managing and tracking research chemical orders.
-
-The form is likely not intended to be completed by external users, and the options and fields seem to be primarily aimed at internal users such as lab staff or researchers. There doesn't appear to be any indication of external users, and most fields are optional or have limited options. I won't output YAML as the task requires a human-facing guide.
-
-</thinking>
-
 # university-research-chemicals-order-form-template - Help Guide
 ## Purpose
 The university-research-chemicals-order-form-template is used for ordering research chemicals within the university. Lab staff and researchers can use this form to submit requests for chemicals used in their research.

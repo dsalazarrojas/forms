@@ -1,5 +1,3 @@
-<thinking>...This guide will explain the Urban Air Quality Awareness Survey form's purpose, how to complete it, and provide detailed explanations for each field. The form is designed to collect information from users about their perception and behavior related to air quality awareness. It is not intended for high-stakes or sensitive topics, and users who complete this survey are not expected to be experts or professionals in this area. If you are an administrator or developer, you may want to check if the user's submission is not a duplicate before proceeding. Duplicate submissions from the same user will be rejected.</thinking>
-
 # urban-air-quality-awareness-survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their perception and behavior related to air quality awareness. The survey aims to gather insights on how users perceive and act upon air quality issues in their location.

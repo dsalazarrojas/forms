@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from citizens about bylaw complaints, allowing them to report issues related to bylaw violations on their neighborhood or community. The form is used to gather relevant details about the complaint, including the date of the complaint, the complainant's contact information, and the details of the violation. The form is intended to be completed by citizens who have witnessed or been affected by a bylaw violation and wish to report it to the authorities.
-
-</thinking>
-
 # Bylaw Complaint Form - Help Guide
 ## Purpose
 This form is used to report bylaw complaints in your neighborhood or community.

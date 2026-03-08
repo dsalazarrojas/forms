@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about music artists for a music label or record label. The purpose of this form is to gather essential details about the artist, including their name, contact information, and a brief description of their work. The form will be used to create an artist profile that can be used for internal communication and decision-making.
-
-Before proceeding, please ensure that you are filling out this form for the correct artist and that you have their permission to collect this information. Additionally, please do not duplicate or reuse existing forms for the same artist, as this can cause confusion and lead to outdated or incorrect information.
-
-</thinking>
-
 # music_label_artist_interview_form - Help Guide
 ## Purpose
 This form is used to collect information about music artists for internal use by music labels or record labels.

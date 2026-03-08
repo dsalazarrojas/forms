@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Reliability Customer Feedback Form - Help Guide
 ## Purpose
 This form is used to collect customer feedback on the reliability of our services. It will help us identify areas where our services are not meeting customer expectations, allowing us to make improvements and provide better service.

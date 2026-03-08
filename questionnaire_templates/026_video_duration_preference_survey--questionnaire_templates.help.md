@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Video Duration Preference Survey - Help Guide
 
 ## Purpose

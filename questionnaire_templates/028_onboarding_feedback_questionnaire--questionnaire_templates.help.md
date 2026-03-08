@@ -1,13 +1,3 @@
-<thinking>
-
-This onboarding feedback questionnaire is designed to gather insights from new employees who have left the company to identify areas of improvement in the onboarding process. The purpose of this form is to understand the reasons behind their decision to leave, their experience with the onboarding process, and to gather feedback on how to better support future new hires. By completing this form, you will be providing valuable feedback that will help the company improve its onboarding process and reduce turnover rates.
-
-This form is intended for individuals who have left the company, and it is not affiliated with or endorsed by any form creation or survey platforms. The form is created using a machine learning model that generates forms based on public survey topics and metadata, and it is released under a Creative Commons Attribution 4.0 license.
-
-Before filling out this form, please ensure that you have not already completed a similar form or provided feedback to the company. Your input is valuable, and we appreciate your time and effort in helping us improve our onboarding process.
-
-</thinking>
-
 # Onboarding Feedback Questionnaire - Help Guide
 ## Purpose
 This onboarding feedback questionnaire is designed to gather insights from new employees who have left the company to identify areas of improvement in the onboarding process.

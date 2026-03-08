@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to assess the risk of heat exposure for various factors, which is crucial in determining the risk level of workers or individuals exposed to heat-related hazards while working outdoors. This form aims to identify the likelihood and duration of exposure to high temperatures, humidity, and other weather conditions that may pose a risk to their health and safety. It is essential to complete this form accurately to ensure a thorough heat exposure risk assessment.
-
-The form has two parts: the first part collects information about the job site, job type, weather station ID, wind speed, maximum heat index, and exposure hours. The second part asks questions about the temperature range, wind direction, humidity range, and note.
-
-This form is designed to be completed by workers or individuals who have worked outdoors and are exposed to heat-related hazards. It is intended to be a self-assessment tool to help individuals understand their level of risk exposure and take necessary precautions to mitigate it.
-
-This form is not intended to be a substitute for medical professionals' evaluations. If you have concerns about your heat exposure risk, please consult a medical professional.
-
-</thinking>
-
 # heat_exposure_risk_assessment_questionnaire - Help Guide
 ## Purpose
 ## How To Complete This Form

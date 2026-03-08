@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with telepsychology, including their background, reasons for using it, and thoughts about its pros and cons. This form is meant to be completed by users who have had some interaction with telepsychology, whether as a patient or a practitioner. The form is intended to gather data that can inform the development and improvement of telepsychology services.
-
-Before completing this form, please ensure that you have some experience with telepsychology, and that you are providing honest and thoughtful responses.
-
-This form is not intended to collect personal medical information or diagnose any conditions. It is for research and improvement purposes only.
-
-Please answer the questions to the best of your ability, and take the time needed to provide thoughtful and detailed responses.
-</thinking>
-
 # telepsychology survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with telepsychology. The form is intended to gather data to inform the development and improvement of telepsychology services.

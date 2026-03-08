@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the resident's amenity access consent form, which is a document that records the resident's agreement or consent to access certain amenities or facilities within their property management system. The form captures key information about the resident's consent, including category, description, title, date, and other relevant details. This information can be used by property management teams to maintain accurate records and ensure compliance with regulatory requirements. This form is not intended for use with other forms or purposes, so it is not required to be completed unless specifically requested by the property management team.
-</thinking>
-
 # Resident Amenity Access Tracking Consent Form - Help Guide
 ## Purpose
 The Resident Amenity Access Tracking Consent Form is a document that records a resident's agreement or consent to access certain amenities or facilities within their property management system.

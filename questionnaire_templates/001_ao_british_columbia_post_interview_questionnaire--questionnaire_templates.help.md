@@ -1,5 +1,3 @@
-<thinking>As this form was generated based on public survey topic metadata, it's essential to review its purpose and relevance. This form is a post-interview questionnaire for evaluating a candidate's suitability for a position, particularly for a job in British Columbia. Its fields cover various aspects of the candidate's performance, such as their communication skills, technical knowledge, cultural fit, and overall impression. To ensure that the form is used correctly and to prevent duplication, we'll go over each field in detail.</thinking>
-
 # AO - British Columbia Post Interview Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from interviewers about a candidate's performance after an interview. It helps assess their suitability for a position in British Columbia and provides valuable insights for future interviews.

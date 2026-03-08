@@ -1,7 +1,3 @@
-<thinking>
-This form is used by estate managers to request maintenance or repairs for a property. This form is intended to be completed by anyone with access to the property, such as property owners or their representatives. The goal is to provide a clear and concise way to communicate maintenance needs to the relevant teams. This form will help to ensure that all necessary information is captured and that the maintenance request is properly assigned and tracked.
-</thinking>
-
 # Estate Maintenance Request Form - Help Guide
 ## Purpose
 The Estate Maintenance Request Form is a tool for property owners or their representatives to request maintenance, repairs, or upgrades for a property. This form helps to communicate specific needs and ensure that all required information is captured for processing.

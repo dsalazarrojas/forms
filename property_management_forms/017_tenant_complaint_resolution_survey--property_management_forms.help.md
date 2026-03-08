@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from tenants about their experiences with the resolution process of their complaints. This form is designed to be completed by tenants who have already gone through the resolution process, and their responses will help the property management team to identify areas for improvement and make necessary adjustments to the process.
-Before filling out this form, please ensure that you are responding to a survey about your specific experience with the resolution process. This form is not meant to be completed by anyone who has not participated in the resolution process. If you have already completed this survey, please do not fill it out again.
-</thinking>
-
 # Tenant Complaint Resolution Survey - Help Guide
 ## Purpose
 The Tenant Complaint Resolution Survey is a form designed to gather feedback from tenants about their experiences with the resolution process of their complaints. This survey helps the property management team to understand how the process is functioning and identify areas that need improvement.

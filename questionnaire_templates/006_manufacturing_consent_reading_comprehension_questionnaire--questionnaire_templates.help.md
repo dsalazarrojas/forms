@@ -1,5 +1,3 @@
-<thinking>Manufacturing consent reading comprehension questionnaire. This form is designed to gather information about the participant's understanding and experience with a manufacturing consent reading session. It's meant to be completed by a participant after attending a training session. The form is part of a larger study or evaluation process, likely to assess the effectiveness of the session. The form's questions cover various aspects of the participant's experience, including their name, the reading group they were in, the length of the training session, and their level of understanding and engagement. This form is likely used by training organizers to evaluate the session's impact and improve it for future participants.</thinking>
-
 # manufacturing_consent_reading_comprehension_questionnaire - Help Guide
 
 ## Purpose

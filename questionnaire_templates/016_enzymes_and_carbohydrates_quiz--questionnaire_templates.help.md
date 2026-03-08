@@ -1,5 +1,3 @@
-<thinking> This form is intended to collect information about a user's understanding and experience with enzymes and carbohydrates. The form will present a series of questions, some of which are multiple-choice select options, others are single choice select options, and a few are text fields or date fields. The purpose of this form is to gauge the user's knowledge and perception of enzymes and carbohydrates, likely for educational or informational purposes. To complete this form, the user should read each question carefully and select the most appropriate answer from the options provided. For each field, I'll break down the purpose and explanation. </thinking>
-
 # Enzymes And Carbohydrates Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about your understanding and experience with enzymes and carbohydrates.

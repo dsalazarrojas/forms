@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants in a vape support network, likely for a support or community organization. The purpose of this form is to gather contact and submission information, as well as understand the support needs of participants. This form should not be used for commercial purposes or to collect sensitive financial information.
-</thinking>
-
 # Vape Support Network Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants in a vape support network. The goal is to gather contact and submission information, as well as understand the support needs of participants.

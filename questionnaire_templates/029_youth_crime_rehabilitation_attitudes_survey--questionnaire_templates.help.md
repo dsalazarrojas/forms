@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect opinions and attitudes from youth about crime rehabilitation. It aims to gather information on their views on the effectiveness of different approaches to crime rehabilitation. The form is divided into sections with multiple questions, and each question type corresponds to different response formats. Some questions require numerical answers, while others are open-ended or require multiple choice options. The form also includes fields for additional comments and contact information...</thinking>
-
 # Youth Crime Rehabilitation Attitudes Survey - Help Guide
 ## Purpose
 The Youth Crime Rehabilitation Attitudes Survey is designed to collect opinions and attitudes from youth about crime rehabilitation. It aims to gather information on their views on the effectiveness of different approaches to crime rehabilitation.

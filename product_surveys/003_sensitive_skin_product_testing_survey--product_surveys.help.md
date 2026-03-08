@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about sensitive skin products. It is intended to gather information about various aspects of the product, including its effectiveness, ingredients, and potential side effects.
-
-This form is part of a larger product testing process and is meant to help the company understand how its products perform in real-world usage. The data collected from this form will be used to improve the product and make it more effective and safer for users.
-
-Before filling out this form, please make sure that you have used the sensitive skin product and have some experience with it. Please answer the questions as accurately as possible, and do not provide any information that you are not sure about or that you think might be confidential.
-
-Also, please note that some of the fields are optional, but the required ones are necessary to complete the form. If you are unsure about any of the fields, please ask for clarification or contact the product team for assistance.
-
-</thinking>
-
 # Sensitive Skin Product Testing Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about sensitive skin products. It helps the company understand how its products perform in real-world usage and to identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Group Therapy Confidentiality Form - Help Guide
 
 ## Purpose

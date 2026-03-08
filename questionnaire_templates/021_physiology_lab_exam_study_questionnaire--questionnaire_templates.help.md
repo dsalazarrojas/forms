@@ -1,7 +1,3 @@
-<thinking>
-The "physiology_lab_exam_study_questionnaire" form is designed to gather feedback and information from students about their experiences and challenges in preparing for a lab exam in a physiology course. This form is likely part of an effort to improve lab exam preparation resources and processes. To ensure the form is relevant and effective, it's essential to check that it's not a duplicate effort and that the target audience is clear. Please review the form's purpose and context to confirm its relevance and uniqueness.
-</thinking>
-
 # physiology_lab_exam_study_questionnaire - Help Guide
 ## Purpose
 The "physiology_lab_exam_study_questionnaire" form is designed to collect information and feedback from students about their experiences and challenges while preparing for a lab exam in a physiology course.

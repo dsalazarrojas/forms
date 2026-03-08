@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "patient_health_questionnaire", is designed to collect comprehensive information from patients about their health and medical history. It's a crucial tool for healthcare professionals to understand the patient's health status, gather essential details about their medical history, and identify potential risks or factors that may impact their care. This form is part of a series of questionnaires used for various medical purposes, and its structure and fields are optimized to provide a thorough and accurate picture of the patient's health profile.
-
-Before filling out this form, please ensure that you have not completed a similar questionnaire recently, as it's designed to collect unique and specific information each time.
-
-</thinking>
-
 # patient_health_questionnaire - Help Guide
 
 ## Purpose

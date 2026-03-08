@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about shelf accessory hardware orders from customers. The form is intended to be used by customer service representatives to gather necessary details for fulfilling orders in a timely and accurate manner. The form should not be used for other purposes, such as creating new orders or editing existing ones. Please ensure that you have the necessary permissions and clearance to access and edit customer orders before using this form.
-</thinking>
 # Shelf Accessory Hardware Order Form - Help Guide
 ## Purpose
 The Shelf Accessory Hardware Order Form is a crucial tool for customer service representatives to collect and process customer orders for shelf accessory hardware with accuracy and efficiency.

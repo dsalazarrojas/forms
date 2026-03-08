@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information from tenants about their experience with a property, including the quality of their experience, the type of property they are visiting, and other relevant details. This form is intended to help gather feedback and insights that can be used to improve the management and maintenance of the properties.
-
-The form is designed to be completed by tenants who have visited a property and want to provide their input on their experience. It is not a required form, and tenants can choose to complete it if they wish.
-
-To avoid duplication of effort and data, this form should only be completed by tenants who have not already provided feedback on the same property.
-
-</thinking>
-
 # Tenant Experience Research Application Form - Help Guide
 ## Purpose
 This form is used to collect information from tenants about their experience with a property, including feedback and insights that can be used to improve management and maintenance.

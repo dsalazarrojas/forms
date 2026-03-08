@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Campus Vehicle Policy Petition" form, we first need to understand the internal reasoning behind it. This form is likely used by students, faculty, and staff to propose changes to the campus vehicle policy, such as changes to parking allocation, electric vehicle charging, or other aspects of vehicle-related policies. It is designed to gather information from the petitioner about the purpose of their proposal, the affected groups, and potential solutions to the problem they aim to address. To avoid duplicate submissions, the form might include fields to ensure that the same petition is not submitted multiple times for the same purpose.
-
-The guide is intended to help users understand how to fill out the form correctly, ensuring that they provide enough information to facilitate the review and approval process.
-
-</thinking>
-
 # Campus Vehicle Policy Petition - Help Guide
 ## Purpose
 The Campus Vehicle Policy Petition form is used to propose changes to the campus vehicle policy, allowing students, faculty, and staff to suggest improvements or modifications to various aspects of vehicle-related policies on campus.

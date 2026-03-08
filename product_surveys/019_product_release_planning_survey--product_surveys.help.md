@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a product release planning survey, designed to gather information and feedback from various stakeholders involved in product releases. To complete this form, stakeholders will be asked to respond to a series of questions and input fields, providing valuable insights and opinions to inform product release decisions. This form is likely used by the product development team to ensure that all stakeholders are aligned and that releases are properly planned and executed.
-
-Before diving into the detailed explanations, it's essential to ensure that the form is being completed by the correct stakeholders and that responses are not duplicates. This form should be completed by individuals directly related to the product, including development teams, quality teams, support teams, and release managers.
-
-</thinking>
-
 # product_release_planning_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information and feedback from various stakeholders involved in product releases, ensuring that all stakeholders are aligned and that releases are properly planned and executed.

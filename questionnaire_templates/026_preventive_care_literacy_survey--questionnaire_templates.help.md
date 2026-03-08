@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the current level of knowledge and understanding of patients about preventive care, particularly in relation to heart disease, stroke, and healthy weight. This form is designed to be completed by patients to gauge their awareness and perceptions about preventive care, which can help healthcare providers tailor their educational efforts to address knowledge gaps and provide more effective care.
-</thinking>
-
 # Preventive Care Literacy Survey - Help Guide
 ## Purpose
 The Preventive Care Literacy Survey is a tool designed to measure the level of understanding patients have about preventive care, specifically regarding heart disease, stroke, and healthy weight. The survey aims to identify knowledge gaps and provide a basis for patient education.

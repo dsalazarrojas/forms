@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-
-This form is intended to capture general information about the e-commerce quality control application process. It appears to be a comprehensive form that gathers details about a product or item being inspected, including its condition, shipping status, and packaging details. The form seems to be designed for internal use within the organization, possibly for quality assurance or control purposes. To confirm, I will proceed with creating the help guide based on the provided YAML fields.
-
-</thinking>
-
 # e_commerce_quality_control_application_form - Help Guide
 ## Purpose
 The e_commerce_quality_control_application_form is designed to collect information about products or items being inspected for quality control purposes. This form helps ensure that all relevant details are recorded and assessed accurately.

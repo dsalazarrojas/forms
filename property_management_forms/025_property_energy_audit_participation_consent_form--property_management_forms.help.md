@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property_energy_audit_participation_consent_form - Help Guide
 
 ## Purpose

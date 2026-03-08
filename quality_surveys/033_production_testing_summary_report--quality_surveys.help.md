@@ -1,9 +1,5 @@
 # Production Testing Summary Report - Help Guide
 ## Purpose
-<thinking>
-The purpose of this form is to gather information about production testing, specifically the results of a test run, including the test outcome, test duration, and other relevant details. This form is meant to provide a quick and concise way for production team members to report on the status of their testing activities. It is used to track and analyze test results, identify areas for improvement, and ensure that the production process is running smoothly.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect patient information and psychological assessment data from a psychologist or mental health professional. The purpose of this form is to provide a comprehensive overview of the patient's mental health status, diagnosis, and treatment plan. It is intended for use by licensed psychologists or mental health professionals to gather essential information for assessment and treatment of patients. 
-
-Before completing this form, please ensure that you have the necessary training and qualifications to administer it, and that it is not being used in place of an actual assessment or diagnosis by a qualified professional. If you are not a licensed psychologist or mental health professional, please do not attempt to complete this form.
-
-Please note that this form is a template and may need to be adapted or modified to suit the specific needs of your practice.
-
-</thinking>
-
 # Psychology Questionnaire - Help Guide
 ## Purpose
 The Psychology Questionnaire is designed to collect patient information and psychological assessment data from a psychologist or mental health professional.

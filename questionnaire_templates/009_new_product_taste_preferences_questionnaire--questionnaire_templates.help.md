@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about a customer's taste preferences and product ratings for multiple products. It is likely used for market research or customer feedback purposes. To complete this form, please note that it is not required to fill out every field, as some fields are optional. However, providing as much information as possible will help the form's purpose more effectively. Please ensure that you are providing accurate and honest answers to the questions asked.
-
-</thinking>
-
 # New Product Taste Preferences Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a customer's taste preferences and product ratings for multiple products. It is likely used for market research or customer feedback purposes.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a gap analysis survey to identify areas where an organization can improve to meet the requirements of ISO 9001, a quality management standard. This form will help you evaluate your current processes, systems, and practices against the standard's expectations and provide recommendations for improvement.
-This form should only be used for gap analysis purposes, and not for any other type of assessment or audit.
-Please make sure to fill out this form carefully and accurately to ensure that your responses are helpful in identifying genuine areas of improvement.
-</thinking>
-
 # iso_9001_gap_analysis_survey - Help Guide
 ## Purpose
 

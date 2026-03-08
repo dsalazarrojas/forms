@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from customers for retail sampling purposes, specifically for a retail counter that is part of a larger retail business. This form is likely used to record customer details and order information for the purpose of sampling products or services offered by the retail business. It is essential to ensure that the customer provides accurate and complete information, as it will be used to facilitate the retail sampling process.
 
 Before filling out this form, please ensure that you have all the necessary information required to complete it accurately. If you are unsure about any field, it is recommended that you contact the relevant department or the person handling the retail sampling process for clarification.

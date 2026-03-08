@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with a specific cold medicine product. It collects information on the product's effectiveness, side effects, ease of use, and overall satisfaction. The form is intended to help the manufacturer understand user experiences and preferences, which can be used to improve the product and its marketing strategies.
-
-Before filling out this form, please ensure that you have not already provided feedback on this product. Your feedback is valuable to us, and we want to make sure that we hear from as many users as possible.
-
-To complete this form, simply select or type in the relevant fields based on your experience with the cold medicine product. Please be as specific as possible when answering the questions. If you have any additional comments or feedback, please feel free to share them in the "Additional Comments or Feedback" section at the end of the form.
-
-</thinking>
-
 # Cold Medicine Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with a specific cold medicine product.

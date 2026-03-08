@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a comprehensive order form for a grocery store, with a mix of personal and order information fields. 
-The form likely serves as a data collection mechanism, used to record orders and customer information. 
-This form may be used by store staff to process customer orders or for internal management purposes.
-Before filling the form, ensure that the required fields are filled and all relevant options are selected correctly. 
-This guide aims to break down each field's purpose and help in completing it accurately.
-</thinking>
-
 # visalia_grocery_outlet_order_form - Help Guide
 ## Purpose
 This form is used to collect and process orders for the Visalia Grocery Outlet store. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Information Advisor Survey - Help Guide
 
 ## Purpose

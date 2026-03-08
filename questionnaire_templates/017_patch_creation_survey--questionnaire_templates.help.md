@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patch creation process. It is intended for teams to report on their experience, tools, and workflow ratings. To ensure you get the most out of this form, please take a few minutes to review the following help guide.
-</thinking>
-
 # Patch Creation Survey - Help Guide
 
 ## Purpose

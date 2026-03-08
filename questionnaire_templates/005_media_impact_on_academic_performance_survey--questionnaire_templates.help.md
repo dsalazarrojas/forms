@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the impact of media on academic performance. It asks respondents to report their media consumption habits and how they affect their grades. This form is likely used for research purposes, such as studying the correlation between media consumption and academic performance. The form is divided into several sections, but most fields are optional. 
-
-This form may be used by students, researchers, or educators to gather information about media consumption and its effects on academic performance.
-
-</thinking>
-
 # Media Impact On Academic Performance Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the impact of media on academic performance. It asks respondents to report their media consumption habits and how they affect their grades.

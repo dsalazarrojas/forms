@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help individuals set and plan their personal goals in a life coaching context. It gathers information on the client's goals, areas where they need coaching, their motivation levels, challenges they face, current and desired progress, goal setting dates, and follow-up planning requirements. 
-The form is meant to be completed by clients who are seeking life coaching services. 
-Please ensure that you only complete this form if you are a client or have been assigned to complete it as part of the life coaching process. 
-Please ensure that you have read and understood the purpose of this form before proceeding. 
-Please note that this form is a one-time submission and will be reviewed and used to guide the coaching process. 
-Please answer all the fields as accurately and truthfully as possible. 
-Please do not submit duplicate or incomplete information. 
-Please do not use this form for any other purpose other than the life coaching process. 
-</thinking>
-
 # life_coaching_goal_planning_survey - Help Guide
 ## Purpose
 This form is designed to help you set and plan your personal goals in a life coaching context. It will gather information on your goals, areas where you need coaching, motivation levels, challenges, current and desired progress, goal setting dates, and follow-up planning requirements.

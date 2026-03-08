@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for custom crochet items. It's used to collect information about the customer's details, the order specifics (type, item name, description, price, quantity), and payment method. The form should only be filled out by customers who wish to place a custom order, as there are specific fields for custom requests and customer notes.
-</thinking>
-
 # Crochet Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers who wish to place custom orders for crochet items.

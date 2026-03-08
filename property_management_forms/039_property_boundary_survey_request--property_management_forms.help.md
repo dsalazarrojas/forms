@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed for requesting property boundary surveys for a specific piece of real estate. The surveyor name, address, and contact information should be entered by the person requesting the survey. The date of visit, site visit type, and property address will help identify the scope of the request. The property boundary survey request description should be a clear summary of the work required. A follow-up request can be added if needed. 
-</thinking>
-
 # Property Boundary Survey Request - Help Guide
 ## Purpose
 The Property Boundary Survey Request form is used to request a property boundary survey. This form gathers necessary information for the surveyor to perform the survey.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about their experiences with jewelry boxes. This form will help our team understand if customers take protective measures when storing their jewelry and how they rate the protection features of our product. The purpose of this form is to collect feedback that will aid our team in improving our product and services.
-</thinking>
-
 # Jewelry Box Protection Survey - Help Guide
 ## Purpose
 The Jewelry Box Protection Survey is a tool to gather your feedback on how you store and protect your jewelry. Your input will help us create a better experience for you and our customers.

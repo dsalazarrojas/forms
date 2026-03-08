@@ -1,9 +1,3 @@
-<thinking> 
-This form is designed to be a contact form for the Property Compliance Office, allowing users to submit information and documents related to properties. It is likely used for administrative and regulatory purposes, such as reporting issues or providing additional information about properties. This form is probably not suitable for creating new property listings or other forms of submission.
-Please review the form carefully to ensure it is not already in use or that you are using the correct format.
-
-</thinking>
-
 # Property Compliance Office Contact Form - Help Guide
 
 ## Purpose

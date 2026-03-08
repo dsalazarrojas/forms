@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fashion_new_collection_popularity_assessment - Help Guide
 
 ## Purpose

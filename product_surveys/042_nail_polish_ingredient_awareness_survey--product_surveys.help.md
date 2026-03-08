@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users about their awareness and concerns regarding nail polish ingredients. It is intended to be a survey, and the responses will help the product development team better understand the users' needs and preferences. This form is likely to be used by the marketing or product development team within the company. The fields in this form are likely to be used to analyze user feedback and inform product development decisions.
-
-</thinking>
-
 # Nail Polish Ingredient Awareness Survey - Help Guide
 ## Purpose
 The Nail Polish Ingredient Awareness Survey is designed to gather information from users about their awareness and concerns regarding nail polish ingredients. This survey aims to better understand users' needs and preferences, which will be used to inform product development decisions.

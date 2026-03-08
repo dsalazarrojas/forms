@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather public opinion on municipal policies, allowing residents to provide feedback, prioritize services, and share demographic information. It is intended to be a public-facing form, accessible to all residents, and is not restricted to specific user groups. This form is not designed to be a replacement for existing public services or contact information.
-</thinking>
-
 # municipal_policy_public_opinion_survey_form - Help Guide
 ## Purpose
 The municipal policy public opinion survey form is designed to gather public opinion on municipal policies and services. It aims to gather feedback from residents to help the municipality understand their needs and priorities.

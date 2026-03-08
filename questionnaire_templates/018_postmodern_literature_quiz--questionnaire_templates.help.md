@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We can create a user-facing help guide for the "Postmodern Literature Quiz" form.
 
 **Postmodern Literature Quiz - Help Guide**

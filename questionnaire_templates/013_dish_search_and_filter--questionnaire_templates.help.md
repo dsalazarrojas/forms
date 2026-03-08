@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the Dish Search And Filter form, which is designed to gather information about a user's preferences and dietary needs to facilitate searching and filtering of dishes. The form is composed of multiple pages, each with its own set of fields that cater to different aspects of the search and filter process.
-
-To ensure that the form is used correctly and consistently, please note that it is essential to complete the form in the following order: Page 1 (Dish Search And Filter Page), Page 2 (Meal Preferences), Page 3 (Search Filters), Page 4 (Dietary Restrictions), Page 5 (What type of food), Page 6 (Cooking skills), and finally, Page 7 (Ingredients) and Page 8 (Search results). Completing the form in this order will help in accurately capturing the user's preferences and requirements.
-</thinking>
-
 # Dish Search And Filter - Help Guide
 ## Purpose
 This form is designed to gather information about a user's preferences and dietary needs to facilitate searching and filtering of dishes.

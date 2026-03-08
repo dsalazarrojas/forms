@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to measure the level of agility within an organization, team, or department, as perceived by employees or customers. The form is part of a benchmarking survey, which aims to assess the current state of agility and provide insights for improvement. The survey questions cover various aspects, including adaptability, challenges, feedback, and level of satisfaction, to help identify areas of strength and weakness. This form is intended to be completed by employees or customers, and their responses will help organizations better understand their agility and make data-driven decisions.
-</thinking>
-
 # workforce_agility_benchmark_survey - Help Guide
 ## Purpose
 The purpose of this form is to measure the level of agility within our organization, team, or department as perceived by employees or customers. This survey will help us assess our current state of agility and provide insights for improvement.

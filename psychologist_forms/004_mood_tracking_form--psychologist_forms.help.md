@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to help users track their current mood and energy levels, as well as log their progress over time. The form is divided into several sections, each with a specific purpose:
-
-*   The "Introduction" section is a text field where users can briefly describe their current situation or context.
-*   The "How would you rate your current mood?" section is a dropdown menu that asks users to select their current emotional state (Happy, Sad, Angry, or Anxious).
-*   The "How would you rate your current energy levels?" section is a dropdown menu that asks users to report their current energy levels (High, Low, or Medium).
-*   The "What is your current pain level?" section is a dropdown menu that asks users to report their current level of pain or distress (High, Low, or None).
-*   The "Notes" section is a text field where users can provide additional comments or insights about their current mood or energy levels.
-*   The "Mood Log" section is a date field where users can track their progress over time by recording the date of each submission.
-*   The "Submission Confirmation" section is a text field where users can receive a confirmation of their submission.
-
-This form is designed to be a simple and efficient way to track a user's mood and energy levels over time. By providing a brief description of their current situation, users can gain a better understanding of their emotional state and identify patterns or trends in their mood and energy levels. This information can be useful for individuals seeking to manage their mental health or for researchers studying mood and energy levels in a population.
-
-</thinking>
-
 # Mood Tracking Form - Help Guide
 ## Purpose
 

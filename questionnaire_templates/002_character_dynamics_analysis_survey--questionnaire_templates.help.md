@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to analyze the dynamics between two characters in a story or project. It is meant to help you understand the relationships, conflicts, and interactions between these characters and how they influence each other. This form is relevant to anyone who wants to gain insight into character development, plot progression, and the emotional arc of their story.
-
-Before filling out this form, please ensure that you have not already analyzed the same characters or project in the past. This will help maintain consistency and prevent duplicate work.
-
-The form will guide you through a series of questions about the characters, their relationships, and their interactions. Please answer each question to the best of your ability, and provide as much detail as possible.
-
-</thinking>
-
 # Character Dynamics Analysis Survey - Help Guide
 ## Purpose
 This form is designed to analyze the dynamics between two characters in a story or project.

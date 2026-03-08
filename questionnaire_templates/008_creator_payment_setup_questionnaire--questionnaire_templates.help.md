@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from creators to set up their payment preferences. The form collects details about the creator, payment options, payout preferences, onboarding details, and form submissions. The purpose of this form is to onboard creators and set up their payment settings with the organization or platform they are working with. Before filling out this form, please ensure that you have a basic understanding of the organization's payment structure and the creator's role within it. If you're not sure about any of the questions or options, please reach out to the organization for clarification. 
-</thinking>
-
 # Creator Payment Setup Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect necessary information from creators to set up their payment preferences for working with our organization. The form is divided into sections that cover creator details, payment options, payout preferences, onboarding details, and form submissions.

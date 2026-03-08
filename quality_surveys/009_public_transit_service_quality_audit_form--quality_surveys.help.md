@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from passengers on the quality of the public transit service they use. The purpose of the form is to gather information on the frequency of bus services, the quality of service, and any notes or feedback that passengers want to share. The form should only be filled out by passengers who have used the public transit service in question. To ensure that each passenger only fills out this form once, we recommend checking the "Route Id" field to see if you have already filled out this form for this route. If you have already filled out this form, please do not fill it out again.
-</thinking>
-
 # Public Transit Service Quality Audit Form - Help Guide
 ## Purpose
 The Public Transit Service Quality Audit Form is designed to collect feedback from passengers on the frequency and quality of public transit services. This form is meant to be filled out by passengers who have used the public transit service in question.

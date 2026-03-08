@@ -1,10 +1,3 @@
-<thinking>
-This help guide will be used to assist athletes in completing their profile information in a structured and organized manner. The purpose of this questionnaire is to collect relevant details about the athlete's personal background, academic and sports-related information, physical profile, contact and social media information, and additional insights that can help identify their unique characteristics and interests. By following this guide, athletes can ensure they provide accurate and comprehensive information that will help them get the most out of the profile completion process.
-
-This form is designed to be completed by athletes, and the questions are meant to be answered with as much detail and specificity as possible. This guide will walk you through each field and provide clear explanations of what each question is asking and why it's important.
-
-</thinking>
-
 # Athlete Profile Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to gather information about the athlete's personal background, academic and sports-related information, physical profile, and other relevant details that can help identify their unique characteristics and interests.

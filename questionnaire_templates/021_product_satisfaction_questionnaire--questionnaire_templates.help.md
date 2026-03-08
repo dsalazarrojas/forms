@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that we are creating a form that accurately captures the product satisfaction questionnaire data. This form is intended to gather information about the customer's experience with a product. We should avoid duplicating this form for every single product, as it's meant to be a general template. This form should be completed by customers after they have purchased a product, ideally within a few days of the purchase. The purpose of this form is to collect feedback on the product's quality, usability, and overall satisfaction. It will be used to identify areas for improvement and to make data-driven decisions for product development and customer support. We should keep the form concise and easy to understand, ensuring that customers can provide valuable feedback without feeling overwhelmed. The form should be completed by the customer, and the data collected should be used to improve the product and customer experience.
-
-</thinking>
-
 # Product Satisfaction Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on products, gathering information about customer satisfaction, product experience, and potential issues.

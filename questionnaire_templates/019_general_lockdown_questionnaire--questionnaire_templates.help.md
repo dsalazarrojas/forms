@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from students about their experiences and perceptions during a lockdown. The purpose of this form is to assess students' reactions, feelings, and responses to the lockdown, as well as their experiences with support systems, communication, and safety measures during that time. This form will help educators and administrators understand how students perceived the lockdown and its impact on them, which can inform future responses to similar situations.
-</thinking>
-
 # General Lockdown Questionnaire - Help Guide
 ## Purpose
 This form aims to collect data on students' experiences during a lockdown. It is intended to be completed by students, who will report on their feelings, reactions, and experiences with support systems, communication, and safety measures during the lockdown.

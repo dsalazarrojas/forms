@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather feedback on gadget prototypes, allowing users to provide their opinions and ratings on various aspects of the gadget. This form is designed to be completed by users who have had an opportunity to interact with a gadget prototype. The goal is to gather data to inform the development and improvement of the gadget.
 
 Before proceeding, please ensure that you have completed the form for the intended gadget prototype and that your feedback is based on your genuine experience with the prototype.

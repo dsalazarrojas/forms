@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended for end-users who need to fill out the "Individual Impact On Marine Environment" form. Before starting, please note that this form is designed to collect information on the impact of individual actions on marine environments. Ensure that you have a clear understanding of the topic and that the information you provide is accurate and relevant. This form should not be completed if you have already done so in the past, as it may duplicate efforts and cause data redundancy.
 
 </thinking>

@@ -1,7 +1,3 @@
-<thinking>
-The form is meant to gather public input and feedback on the city's budget allocation priorities and overall spending levels. The purpose of this form is to gather data on citizens' opinions on how the city's budget should be allocated across various priority areas, such as education, infrastructure, public safety, and more. This form is part of a public consultation process to ensure that the city's budget reflects the needs and concerns of its residents. The information gathered through this form will help city officials make informed decisions about budget allocation and resource distribution.
-</thinking>
-
 # City Budget Allocation Voting Form - Help Guide
 ## Purpose
 

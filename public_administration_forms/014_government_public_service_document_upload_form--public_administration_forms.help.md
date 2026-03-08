@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to enable users to upload public service documents and provide relevant details about them. The form should be used by public service employees or officials to collect and record document upload requests. When filling out this form, ensure you're uploading documents relevant to public services, and do not duplicate or misrepresent existing documents. The form is designed for official and internal use only, so please do not share sensitive information through this form unless strictly necessary and only with authorized personnel. Ensure all mandatory fields have correct input to facilitate proper document processing...</thinking>
-
 # Government Public Service Document Upload Form - Help Guide
 ## Purpose
 The Government Public Service Document Upload Form is used by public service employees or officials to upload public service documents and provide relevant details about them.

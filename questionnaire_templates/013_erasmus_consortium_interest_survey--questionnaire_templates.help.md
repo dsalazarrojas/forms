@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Erasmus+ Consortium Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect information from partner organizations about their interest in participating in the Erasmus+ Consortium. The purpose of this form is to gauge the level of interest and readiness of partner organizations to join the consortium. It will help us understand how many partner organizations are interested in joining the consortium and what their specific interests and requirements are.

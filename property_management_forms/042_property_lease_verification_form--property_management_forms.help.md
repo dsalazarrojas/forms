@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect and verify various information related to a property, including tenant details, lease terms, and identification documents. The purpose of this form is to ensure accurate and up-to-date information is collected and recorded for property management purposes.
-
-The form is likely to be used by property management staff or administrators to verify the details of a tenant or occupant of a property. The information collected will help to identify the tenant, confirm their lease terms, and provide a record of their identification documents.
-
-The form consists of several fields that require various types of information, including text, date, and select options. Each field has a specific purpose and is designed to collect specific data points.
-
-To avoid confusion, it is essential to understand the purpose and relevance of each field.
-
-</thinking>
-
 # Property Leverage Verification Form - Help Guide
 ## Purpose
 This form is used to collect and verify information about a property tenant or occupant. The form collects data on tenant identification, lease terms, and other relevant details.

@@ -1,17 +1,3 @@
-<thinking>What is the purpose of the "Standard Test Log Sheet" form? It appears to be a form used for recording the results of a test, gathering information about the test process, and possibly tracking test-related metrics. This form seems to be part of a larger process, possibly in a scientific or educational context, and is likely used to collect data from users about the outcome of a test. To validate this, let's review the form's fields:
-
-* A select multiple field with options "Yes" and "No" suggests that the test results could be a binary outcome.
-* A date field is often used to track when a test took place or was completed.
-* A time field implies that the test had a duration or was timed.
-* A description field allows for a brief summary or explanation of the test.
-* A select one field with options "Yes" and "No" could be used to categorize the test as either successful or unsuccessful.
-* A text field for "notes" suggests that additional comments or observations about the test could be recorded.
-* An email field could be used to contact the test administrators or for further communication.
-* A text field for "phone_number" could be used to record a phone number for follow-up or additional information.
-* A select one field with options "Yes" and "No" for "category" suggests that the test could be categorized in some way.
-
-This form seems to be used for recording test results, collecting additional information, and possibly tracking test metrics. To ensure that users understand the form's purpose and complete it correctly, let's create a help guide that explains each field clearly and concisely.</thinking>
-
 # Standard Test Log Sheet - Help Guide
 ## Purpose
 This form is used to record the results of a test, gather information about the test process, and track test-related metrics. It is likely used in a scientific or educational context.

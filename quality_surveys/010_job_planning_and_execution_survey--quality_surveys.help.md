@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information and data related to job planning and execution. It's essential to fill out this form accurately and thoroughly to help us better understand project performance, team dynamics, and customer interactions. Please note that this form is for informational purposes only and does not affect your job performance evaluation or promotion. Make sure to provide the same information for each question and avoid duplicating or omitting any data that may impact the accuracy of the survey results. </thinking>
-
 # Job Planning And Execution Survey - Help Guide
 ## Purpose
 The Job Planning And Execution Survey is designed to collect data on project details, team performance, and customer interactions. This information helps us improve our services and enhance overall project management.

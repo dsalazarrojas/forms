@@ -1,7 +1,3 @@
-<thinking>
-We're designing a form to help customers reorder their cosmetic products. To avoid duplication, this form should be used only by customers who have previously ordered from us and want to place another order. The form is used to gather information about the customer's product reordering needs. We'll use the following fields to get the required data: product name, customer name, reorder request date, product category, reorder request frequency, reorder quantity, reorder request reason, reorder frequency type, reorder status, additional notes, customer's email, and customer's phone number.
-</thinking>
-
 # Cosmetic Product Reorder Form - Help Guide
 ## Purpose
 This form is for customers who have previously ordered from us and want to reorder their cosmetic products. It's used to collect information for a new order.

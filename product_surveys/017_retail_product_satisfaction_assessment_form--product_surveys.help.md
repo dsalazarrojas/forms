@@ -1,5 +1,3 @@
-<thinking>Before we create the user-facing help guide, let's review the form purpose and ensure it's not a duplicate of any existing form. This Retail Product Satisfaction Assessment Form appears to be a customer feedback form, designed to collect various aspects of their experience with a retail product. The form is intended to gather information about the product's quality, customer service, and overall satisfaction. It's likely a one-time or occasional use form, not a recurring form like a survey or a subscription form. Given the fields provided, the form is fairly comprehensive, covering product information, purchase details, and customer feedback. It doesn't appear to be a duplicate of any other form in the "product_surveys" category.</thinking>
-
 # Retail Product Satisfaction Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather customer feedback about a retail product, focusing on aspects such as product quality, customer service, and overall satisfaction. The information collected will help us understand customer experience and improve our products and services.

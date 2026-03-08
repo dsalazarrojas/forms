@@ -1,28 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their golf trip preferences. This form is likely intended for planning and organizing golf trips, and the fields collected will help tailor the trip to the user's specifications. To ensure the form is being used correctly and effectively, please consider the following: 
-
-* Make sure you have permission to collect personal identifiable information. 
-* Double-check that you are using the correct fields and labels as specified in the form. 
-
-Please be specific and clear about what you are trying to convey, and do your best not to overburden the user with extraneous details. This will ensure a smooth user experience and reduce confusion. 
-
-This form is intended for users who want to plan and coordinate a golf trip. They will select preferences for their trip, provide travel details, and specify their personal contact information. 
-
-The following fields will be collected: 
-
-* Trip preferences 
-* Travel dates 
-* Travel time 
-* Preferred location 
-* Budget 
-* Number of players 
-* Golf club preferences 
-* Special requests 
-* Contact information 
-
-Please ensure that all required fields are filled in and that the user has the opportunity to provide any additional comments or information. 
-</thinking>
-
 # Golf Trip Preferences Survey - Help Guide
 ## Purpose
 This form is designed to collect your preferences for a golf trip, allowing us to tailor the trip to your specifications.

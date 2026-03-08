@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a security service request from the apartment complex residents. It is designed to be used by residents to submit a request for assistance or intervention related to a security issue they are experiencing or have witnessed. This form will guide the resident through the process of submitting a report, providing necessary details to help the security team respond and resolve the issue promptly and effectively. Before filling out the form, please review the following fields carefully and ensure that you are providing accurate and relevant information. If you have any questions or concerns, don't hesitate to contact the security team for assistance.
-</thinking>
-
 # Apartment Complex Security Service Request - Help Guide
 ## Purpose
 This form is used to submit a security service request to the apartment complex security team. Please fill out this form to provide information about the incident or issue you are reporting.

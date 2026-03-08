@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for educators and assessment teams to provide input on their design preferences and priorities for OMR (Optical Mark Recognition) sheet design. It is intended to help administrators understand the needs and requirements of these groups, ensuring that the designed OMR sheets meet their expectations. Before proceeding, ensure that you have the necessary permissions and clearance to complete this form on behalf of your organization. Please note that this form is a survey, and your responses will be used to inform design decisions. If you have already completed this form, there is no need to do so again.
-
-</thinking>
-
 # omr_sheet_design_survey - Help Guide
 ## Purpose
 The omr_sheet_design_survey form is a questionnaire designed to gather information from educators and assessment teams on their design preferences and priorities for OMR sheets.

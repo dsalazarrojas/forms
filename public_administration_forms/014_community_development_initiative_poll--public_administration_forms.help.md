@@ -1,7 +1,3 @@
-<thinking>Before creating the user-facing help guide, I must analyze the form's purpose and ensure that it serves this purpose correctly. Upon reviewing the YAML, I understand that this form is designed to gather information from community members about their preferences, needs, and behaviors in relation to community development initiatives. The form appears to be a comprehensive assessment tool to gauge the community's priorities, interests, and engagement levels. I also notice that some fields are required, indicating that they are essential for the form's purpose. To confirm, I will proceed with the help guide creation.
-
-</thinking>
-
 # Community Development Initiative Poll - Help Guide
 ## Purpose
 This form is designed to gather information from community members about their preferences, needs, and behaviors in relation to community development initiatives. The data collected will help the community administration understand what matters most to you and tailor their efforts to address the community's needs.

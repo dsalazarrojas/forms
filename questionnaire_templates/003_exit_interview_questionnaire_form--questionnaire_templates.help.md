@@ -1,10 +1,3 @@
-<thinking>
-This help guide will be a useful resource for end-users to understand the Exit Interview Questionnaire Form and its intended use.
-The form's purpose is to gather essential information from departing employees, helping the organization understand reasons for leaving and provide insights for improvements.
-This information will help prevent talent attrition, improve retention, and aid in organizational restructuring.
-By completing this form, participants will be able to provide their honest thoughts about the company and their role, ensuring that their departure will be beneficial for both themselves and the organization.
-</thinking>
-
 # Exit Interview Questionnaire Form - Help Guide
 ## Purpose
 

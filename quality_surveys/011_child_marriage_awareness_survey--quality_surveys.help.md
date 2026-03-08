@@ -1,10 +1,3 @@
-<thinking>Internal reasoning:
-This form is designed to collect data on awareness and attitudes towards child marriage, as well as opinions on its causes, consequences, and potential solutions. The form is intended to be completed by individuals who are familiar with the issue of child marriage, and it covers topics such as the perceived prevalence of child marriage, awareness of legal age for marriage, perceived causes and consequences, support for efforts to end child marriage, and potential interventions to address the issue. This data will be used to inform policy and programming efforts to combat child marriage.
-
-To ensure the accuracy and quality of the data collected, the form includes fields that ask about the respondent's personal experiences and opinions, as well as their knowledge of the issue. Questions are designed to be clear and concise, and are intended to elicit specific and actionable responses.
-
-By completing this form, respondents will contribute to a better understanding of the complex issue of child marriage and will help to inform efforts to prevent it.</thinking>
-
 # Child Marriage Awareness Survey - Help Guide
 ## Purpose
 

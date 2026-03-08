@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the impact of jet lag on travelers. It asks users to provide information about their travel dates, symptoms experienced during and after travel, and other factors that might influence jet lag. The form will likely be used in a clinical setting to collect data for research or to inform treatment decisions. It's essential that the user understands the purpose and relevance of the form. Please ensure you only complete this form if you have experienced jet lag within the last few weeks. If you have any previous data, do not fill out this form multiple times. Please provide accurate information to help with this assessment.
-</thinking>
-
 # Jet Lag Sleep Assessment - Help Guide
 ## Purpose
 The Jet Lag Sleep Assessment form is designed to help collect information about your experience with jet lag. This form will ask you questions about your travel dates, symptoms, and other factors related to jet lag. Providing accurate answers will help with understanding and addressing jet lag issues.

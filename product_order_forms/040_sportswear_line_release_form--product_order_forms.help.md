@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for the product "sportswear_line_release_form" which falls under the category of product order forms. This form likely aims to gather details about the product and its launch, marketing, and sales-related assets, as well as order information. The form's design is likely to be used by businesses or individuals involved in the sportswear industry to streamline their operations and collect necessary data in a structured manner. Please note that the form's layout and fields may not be a direct representation of a real-world form, but rather an AI-generated adaptation based on public survey topic metadata.
-
-To verify the relevance and non-duplication of this form, I'll assume that the form is not a direct copy or extract from any other form platform, and that it's an original adaptation.
-</thinking>
-
 # sportswear_line_release_form - Help Guide
 ## Purpose
 The sportswear_line_release_form is designed to collect product and order information for the sportswear industry. The form is intended to gather details about the product's launch, marketing, and sales assets, as well as order information.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for capturing information about a Tuxedo fitting. It is used to collect details about the client and the event where the Tuxedo will be worn. The form is likely used by tailors or dressmakers to take note of the client's preferences and requirements for a specific event.
-Before proceeding, please note that:
-- This form has 14 fields in total.
-- The form does not have a save or submit button. This guide will walk you through how to complete each field.
-- Please ensure all required fields are filled in before proceeding.
-</thinking>
-
 # Tuxedo Fitting Information Form - Help Guide
 ## Purpose
 This form collects information about a Tuxedo fitting, including client details and event details.

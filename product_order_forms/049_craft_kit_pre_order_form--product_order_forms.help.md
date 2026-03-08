@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information from customers for a craft kit pre-order, likely for a craft store or online marketplace. The purpose of this form is to gather essential details from customers, including their first and last names, email address, phone number, shipping address, city, state, country, and zip code. This data will be used to communicate with the customer and fulfill their order. It is recommended to ensure the customer provides accurate information to avoid any issues with order processing.
-</thinking>
-
 # Craft Kit Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer information for craft kit pre-orders, including personal and shipping details. It is essential to fill out this form accurately to ensure smooth order processing and communication with the customer.

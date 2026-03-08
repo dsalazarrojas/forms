@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Career Interest Survey - Help Guide
 ## Purpose
 The purpose of this form is to help you explore your career interests and preferences. It will guide you through a series of questions to help you identify your strengths, interests, and goals, and provide insights into your potential career paths.

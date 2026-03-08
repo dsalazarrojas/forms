@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a PayPal purchase order, allowing users to provide details about the transaction, such as the buyer's name, item name, and shipping address. The form is likely used by businesses or individuals to process payments through PayPal. 
-
-The form does not appear to be a typical purchase order form used for internal purposes within an organization, as the "payment_method" field suggests it is intended for external payments. However, the "order_note" and "paypal_note" fields may indicate that the form is also used for internal reference or documentation.
-
-To ensure consistency and avoid duplication, it's essential to review the form carefully before using it, especially with the "confirm" field. 
-
-</thinking>
-
 # PayPal Purchase Order Form - Help Guide
 ## Purpose
 

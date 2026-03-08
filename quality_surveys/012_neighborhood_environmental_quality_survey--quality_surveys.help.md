@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Neighborhood Environmental Quality Survey form, we need to consider the form's purpose and the fields it contains. This form is designed to collect information from residents about their neighborhood's environmental quality. The form likely aims to gather data on various aspects of the neighborhood, including the residents' zip code, name, contact information, and their experiences and concerns about the neighborhood. It may also collect demographic information such as the number of children under 12 living in the house and details about the house itself, like the total square footage and number of stories. This information can be used to assess the neighborhood's environmental quality and potentially identify areas for improvement.
-We should check if this form is not a duplicate of another form, and ensure that it is not being used for the same purpose as another form. If it is a duplicate, we should consider consolidating the two forms or removing one of them to avoid redundancy.
-</thinking>
-
 # Neighborhood Environmental Quality Survey - Help Guide
 ## Purpose
 This form is designed to collect information from residents about their neighborhood's environmental quality. It aims to gather data on various aspects of the neighborhood, including demographics and resident experiences.

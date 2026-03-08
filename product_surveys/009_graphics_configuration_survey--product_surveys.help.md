@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about users' graphics configuration, specifically GPU-related settings and hardware specifications. This form is intended to gather feedback about the users' current settings and preferences for graphics usage. 
-
-The form will be used to help designers and developers understand the needs and habits of users in relation to graphics rendering and to identify areas where improvements can be made. 
-
-This form does not need to be filled if users have already responded to this survey in the past.
-</thinking>
-
 # Graphics Configuration Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your graphics settings and preferences. Your responses will help us improve our graphics rendering capabilities.

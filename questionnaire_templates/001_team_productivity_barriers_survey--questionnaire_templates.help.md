@@ -1,7 +1,3 @@
-<thinking>
-This is an internal tool, and we're using it to gauge the productivity barriers of teams. If you've used this form before, it's likely because your team has been working with our team, and you're being asked to fill it out for the benefit of the team.
-</thinking>
-
 # Team Productivity Barriers Survey - Help Guide
 
 ## Purpose

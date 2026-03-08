@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the "store_level_competition_survey" form, which is used to collect information about store level competition. This form is part of the "product_surveys" category and is designed to gather data about stores and their competitors.
-</thinking>
-
 # store_level_competition_survey - Help Guide
 ## Purpose
 The store_level_competition_survey form is used to collect data about store level competition, allowing you to compare and analyze different stores and their competitors.

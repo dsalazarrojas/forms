@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to collect strategic information about an organization's current state, goals, and challenges. It is meant to be used by internal or external stakeholders who want to assess the organization's strengths, weaknesses, and areas for improvement. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation using public survey topic metadata as inspiration. It is released under the CC BY 4.0 license, allowing users to freely use, modify, and even sell forms derived from it, as long as credit is given.
-</thinking>
-
 # Strategic Capabilities Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect strategic information about an organization's current state, goals, and challenges.

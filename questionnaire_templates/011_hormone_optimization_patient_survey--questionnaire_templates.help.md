@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hormone Optimization Patient Survey - Help Guide
 
 ## Purpose

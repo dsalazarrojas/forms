@@ -1,7 +1,3 @@
-<thinking>
-This form is used to notify guests of their departure from the facility. The purpose of this form is to gather information about the guest's check-out date, time, and contact details. This form is intended for internal use only and is not meant to be shared with external parties. To ensure accurate and efficient processing of the form, please ensure that all required fields are filled in correctly. Please note that some fields may be optional, but it is still important to fill them in if you have the relevant information available.
-</thinking>
-
 # Guest Departure Notification - Help Guide
 ## Purpose
 The Guest Departure Notification form is used to gather information about a guest's departure from the facility, including check-out date and time, contact details, and any additional comments.

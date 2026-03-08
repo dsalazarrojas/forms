@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Market Fit Confirmation - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for a Lockbox Rental Request. A lockbox is a secure, on-site storage unit used for storing valuable items such as jewelry, cash, or other sensitive materials. The purpose of this form is to request access to a lockbox for an individual or organization. The form is used in real estate or security settings where sensitive items need to be securely stored.
-This form is not intended to be a comprehensive rental agreement or contract. It is solely a request for access to a lockbox. Before submitting the form, please ensure you have the necessary permission and authorization to request access to a lockbox.
-Please note that this form does not collect or store sensitive information. It is for informational purposes only.
-</thinking>
-
 # Lockbox Rental Request Form - Help Guide
 ## Purpose
 The Lockbox Rental Request Form is designed to collect information for a lockbox rental request. This form is used to provide access to a secure, on-site storage unit for valuable items such as jewelry, cash, or other sensitive materials.

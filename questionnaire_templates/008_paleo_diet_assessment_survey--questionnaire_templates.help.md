@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals about their adherence to a paleo diet, which is a diet that focuses on whole, unprocessed foods, and avoiding modern, processed foods and foods high in sugar. The form is designed to gauge the user's current dietary habits, their restrictions, and any dietary advice they have received. The goal is to understand the user's current relationship with the paleo diet.
-
-Before starting, please note that this form will take you through a series of questions that will ask about your dietary habits and preferences. The form is not intended to be exhaustive, and you are encouraged to provide any additional information you feel is relevant. Your responses will help us better understand the paleo community and their dietary practices.
-
-</thinking>
-
 # paleo_diet_assessment_survey - Help Guide
 ## Purpose
 The paleo diet assessment survey is designed to gauge your current relationship with the paleo diet. The form will ask about your dietary habits, restrictions, and any dietary advice you have received.

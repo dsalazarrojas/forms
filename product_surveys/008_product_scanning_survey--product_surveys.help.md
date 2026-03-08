@@ -1,13 +1,3 @@
-<thinking>
-We have created a form to collect information about users' experiences with our product scanning services. This form is designed to gather feedback and insights to improve our services and better understand our customers' needs.
-
-Before you begin, please note that this is a non-mandatory survey, and your participation is completely voluntary. We are committed to ensuring that your input is anonymous and confidential.
-
-To ensure we collect accurate and useful data, please answer the questions based on your actual experiences with our product scanning services.
-
-Please be as detailed as possible, and don't hesitate to provide any additional comments or suggestions you may have.
-</thinking>
-
 # Product Scanning Survey - Help Guide
 ## Purpose
 This form is designed to gather your feedback and insights on our product scanning services. Your input will help us improve our services to better meet your needs.

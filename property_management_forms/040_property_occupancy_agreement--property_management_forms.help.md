@@ -1,11 +1,3 @@
-<thinking>
-The Property Occupancy Agreement form is used to document the terms and conditions of a property rental agreement between a landlord and a tenant. The form captures essential details such as landlord and tenant contact information, rental dates, rent frequency, and lease terms.
-
-This form is relevant to all property rental agreements where a landlord and a tenant need to establish a mutually agreeable contract. However, it may not be necessary for informal or very short-term rentals (e.g., Airbnb-type arrangements) where the rental period is very short (less than a month).
-
-To avoid duplication of effort, this form should not be used for existing rental agreements where all the necessary information is already captured in other records.
-</thinking>
-
 # Property Occupancy Agreement - Help Guide
 ## Purpose
 This form is designed to document the terms and conditions of a property rental agreement between a landlord and a tenant.

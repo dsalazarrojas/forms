@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to submit a counteroffer to a landlord in response to a previously submitted offer. The form is used to update the counteroffer status and note any changes made to the counteroffer. The form is typically filled out by the tenant and requires input from the landlord to be completed. This form is used to avoid duplication of work and ensure that all relevant information is captured in one place.
 
 </thinking>

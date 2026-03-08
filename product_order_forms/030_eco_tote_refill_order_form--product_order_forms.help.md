@@ -1,8 +1,3 @@
-<thinking>
-To create the user-facing help guide, I will analyze the form's purpose, fields, and requirements. This form is intended to facilitate the creation of an eco-friendly tote order form, which allows customers to refill their reusable eco totes. The form is not a duplicate, and its main purpose is to provide a simple and efficient way for customers to place orders for their refills.
-
-</thinking>
-
 # Eco Tote Refill Order Form - Help Guide
 ## Purpose
 This form is designed to enable customers to place orders for refills on their reusable eco totes. By completing this form, customers can specify their contact information, product selections, and delivery details to initiate the refill process.

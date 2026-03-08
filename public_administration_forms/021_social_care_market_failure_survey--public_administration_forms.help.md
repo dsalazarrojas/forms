@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback from users about their experience with a social care market. It is essential to understand that the form is designed to be completed by users, and it's not intended for internal use by non-users. This form is a critical component of our quality assurance process, and its completion is mandatory for users who have experienced a failure in the social care market. Please ensure that you are completing this form only after you have experienced a failure in the social care market.
-
-Before starting, ensure that you have a clear understanding of the questions and fields within this form. If you're unsure about any aspect of the form, please don't hesitate to contact us for assistance.
-</thinking>
-
 # social_care_market_failure_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback about your experience with the social care market, specifically when a failure occurred. Your input is valuable in helping us understand what went wrong and how we can improve our services.

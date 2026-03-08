@@ -1,7 +1,3 @@
-<thinking>...The Tenant Experience Program Consent Form is a form used to collect consent from tenants to participate in the Tenant Experience Program. This form helps us understand and document the terms and conditions under which tenants are willing or not willing to participate in the program. To complete this form, tenants will provide their contact information, program details, and consent to terms and conditions. This information will be used to ensure accurate and fair participation in the program.
-
-</thinking>
-
 # Tenant Experience Program Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect consent from tenants to participate in the Tenant Experience Program.

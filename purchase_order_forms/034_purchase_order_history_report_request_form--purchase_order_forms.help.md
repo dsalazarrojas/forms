@@ -1,6 +1,3 @@
-<thinking>
-This form is used to request historical data from the Purchase Order History Report. It is designed to collect information from customers, including their contact details, purchase order ID, and report dates. The form should not be filled out for every single purchase order, but rather for a specific subset of orders that the customer would like to see a report for. This form is not meant for mass production, and filling it out for every single order can be seen as an abuse of the system.</thinking>
-
 # Purchase Order History Report Request Form - Help Guide
 ## Purpose
 This form is used to request historical data from the Purchase Order History Report for a specific subset of customers. Fill out this form to collect information from customers and receive a report on their purchase orders.

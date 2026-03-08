@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Renewable Energy Policy Survey - Help Guide
 ## Purpose
 The Renewable Energy Policy Survey is designed to gather information on the current status, challenges, and implementation of renewable energy policies in different countries or regions. The survey aims to provide insights on how governments support or hinder the development of renewable energy technologies, and the public's perception of renewable energy policies. This data will help identify areas for improvement and inform decision-making on renewable energy policy development and implementation.

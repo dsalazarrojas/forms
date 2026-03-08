@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tickets Purchase Form - Help Guide
 ## Purpose
 The Tickets Purchase Form is designed to collect information for ticket purchases, including event details, ticket quantities, prices, payment methods, and donor contact information. This form helps us process ticket sales efficiently and ensures accurate record-keeping.

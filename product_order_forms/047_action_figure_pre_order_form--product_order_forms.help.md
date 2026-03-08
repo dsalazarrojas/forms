@@ -1,15 +1,3 @@
-<thinking>
-**Checking for non-duplication:**
-This form is for pre-ordering action figures. A non-duplicate form will allow end-users to pre-order action figures with their preferred variant, quantity, and payment method.
-
-**Form Design Considerations:**
-
-* This form should not be used for orders that are currently available on shelves or have already been fulfilled.
-* End-users need to be aware that the pre-order form is subject to availability and release dates.
-* Form should be kept up-to-date with the current release and availability information.
-
-</thinking>
-
 # Action Figure Pre Order Form - Help Guide
 ## Purpose
 This form is for customers to pre-order action figures, ensuring they receive their preferred variant and quantity before they are released or become available in stores.

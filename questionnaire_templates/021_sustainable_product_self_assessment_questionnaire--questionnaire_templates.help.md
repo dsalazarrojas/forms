@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess the sustainability of a product. It appears to be a self-assessment questionnaire for products related to the "questionnaire_templates" category, which likely deals with evaluating or reviewing products in terms of their environmental impact and sustainability. The form has eight fields, each of which is a text field that requires a response from the user. This form is likely used by business or industry professionals to evaluate a product's sustainability from different aspects such as materials, manufacturing, packaging, end-of-life, sustainability review, and reporting.
-</thinking>
-
 # Sustainable Product Self Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to help you assess the sustainability of a product. It is intended for evaluating and reviewing products in terms of their environmental impact and sustainability.

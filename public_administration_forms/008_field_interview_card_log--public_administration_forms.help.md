@@ -1,12 +1,3 @@
-<thinking> 
-The form "Field Interview Card Log" seems to be used to record and document information related to field interviews, which are meetings or discussions conducted in the field, possibly during a site visit or on-site assessment. The form is designed to capture specific details such as the card number, team leader, date and time of completion, location, team member, card status, comments, email contact information, and attachments.
-
-To the best of my understanding, this form is likely used in a field administration or field service context, perhaps in industries like construction, maintenance, or surveying, where team members interact with clients or customers in various locations. However, this is just a guess, and I may be mistaken.
-
-Assuming I'm correct, the form's primary purpose is to gather relevant information in a structured and organized manner, making it easier to keep track of completed interviews, communicate with team members, and possibly for reporting and analysis purposes.
-
-Please let me know if this is accurate or not, or if you'd like me to make any adjustments.</thinking>
-
 # Field Interview Card Log - Help Guide
 ## Purpose
 The Field Interview Card Log form is used to record and document information related to field interviews, including details such as card number, team leader, date and time of completion, location, team member, card status, comments, contact information, and attachments.

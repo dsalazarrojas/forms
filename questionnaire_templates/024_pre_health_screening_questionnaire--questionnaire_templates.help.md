@@ -1,15 +1,3 @@
-<thinking>
-This form is a Pre Health Screening Questionnaire, a tool designed to collect essential health information from patients for pre-screening purposes. The form is meant to be completed by patients or their representatives, and its goal is to gather relevant health data in a structured and standardized format.
-
-Before proceeding, please ensure you understand the form's purpose and that it's not a medical evaluation or diagnosis tool. This form will be used for initial health screening, which may not be a substitute for professional medical advice or diagnosis. Consult a healthcare professional for any medical concerns or issues.
-
-Please review each section carefully and fill out the form accurately to ensure your health information is collected correctly. If you're unsure about any information or have questions, don't hesitate to reach out to your healthcare provider or relevant authorities.
-
-This form's structure and content are based on common health screening practices and public health guidelines. Please note that some questions may overlap or seem repetitive; this is intentional, as it's essential to ensure that all necessary health information is collected.
-
-Before filling out this form, ensure you have the necessary permissions and clearances for data collection and use, as applicable under local, regional, or national regulations.
-</thinking>
-
 # Pre Health Screening Questionnaire - Help Guide
 ## Purpose
 The Pre Health Screening Questionnaire is designed to collect essential health information from patients for pre-screening purposes. It's a comprehensive tool to gather data on patients' medical history, health status, and other critical health parameters.

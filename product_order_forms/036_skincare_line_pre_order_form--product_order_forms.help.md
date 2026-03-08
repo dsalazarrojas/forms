@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # skincare_line_pre_order_form - Help Guide
 ## Purpose
 

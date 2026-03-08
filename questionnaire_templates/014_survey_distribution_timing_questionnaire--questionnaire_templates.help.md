@@ -1,5 +1,3 @@
-<thinking>Survey Distribution Timing Questionnaire is a tool used to help administrators and researchers plan and schedule surveys for distribution and analysis. This form is typically used for internal surveys within an organization or for external surveys for specific groups, like customers or employees. This form ensures consistency in the timing and distribution of surveys to maintain reliability and validity in data collection. Please ensure that you are not already using this form for other purposes or surveys to prevent data duplication.</thinking>
-
 # Survey Distribution Timing Questionnaire - Help Guide
 ## Purpose
 The Survey Distribution Timing Questionnaire is a tool used to plan and schedule surveys for internal or external distribution. It ensures consistency in the timing and distribution of surveys, which is crucial for reliable and valid data collection.

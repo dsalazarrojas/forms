@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their shampoo size preferences and experiences. The form is likely used by product managers or customer service teams to collect data about customer needs and preferences, helping to inform product decisions and improve customer satisfaction. Before proceeding, please ensure you've used the product and are providing honest feedback about your experience. If you've already provided feedback on this form, your submission will not be counted as a new entry.
-</thinking>
-
 # Shampoo Size Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from customers about their shampoo size preferences and experiences.

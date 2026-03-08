@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be used for customers to place orders for Fall and Winter 2020 Color Street products. However, I'm not certain about the relevance and completeness of this form without more context. Is this a custom form for a specific product line or a generic order form? Are there any other fields or sections that should be included?
-
-Assuming this is a standard product order form, the purpose of this form is to collect customer information for the order of Color Street products.
-
-This form should be reviewed for completeness and accuracy in the future to ensure it captures all necessary information for the intended use case.
-</thinking>
-
 # Fall/Winter 2020 Color Street Order Form - Help Guide
 ## Purpose
 This form is used to place orders for Fall and Winter 2020 Color Street products.

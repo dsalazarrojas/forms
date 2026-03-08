@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a student's skills and goals. This form is designed to be a comprehensive survey that covers various aspects of a student's learning preferences, skills, and goals. It is likely used by educators, administrators, or researchers to assess a student's skills and goals in an educational setting.
-
-Before proceeding with this help guide, let's check if this form is relevant to your specific needs. Please consider the following:
-
-- Are you an educator or administrator seeking to assess students' skills and goals?
-- Do you need to gather information about students' learning preferences, skills, and goals in an educational setting?
-- Are you looking for a form that covers various aspects of student skills and goals?
-
-If you answered "yes" to these questions, then this form is likely relevant to your needs. Please proceed with the help guide below.
-
-</thinking>
-
 # Student Skills And Goals Survey - Help Guide
 
 ## Purpose

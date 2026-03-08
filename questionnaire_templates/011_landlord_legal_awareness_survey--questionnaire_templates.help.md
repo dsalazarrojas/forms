@@ -1,7 +1,3 @@
-<thinking>
-This form is a questionnaire template for Landlords to gauge their legal awareness. The purpose of this survey is to collect information on landlords' knowledge and understanding of landlord-tenant law, leasing agreements, rent control, security deposits, and evictions. This data will help inform educational initiatives and resources for landlords.
-</thinking>
-
 # Landlord Legal Awareness Survey - Help Guide
 ## Purpose
 The Landlord Legal Awareness Survey is designed to assess your knowledge and understanding of key legal concepts related to being a landlord. This survey will help us understand where you may need additional training or support, allowing us to provide more effective educational resources for you.

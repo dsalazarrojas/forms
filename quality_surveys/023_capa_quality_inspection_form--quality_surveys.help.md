@@ -1,5 +1,3 @@
-<thinking>...I need to create a help guide for a form that is used for conducting quality inspections and non-conformance reports. The form is used to report any issues or findings during an inspection, and it seems to be used by production teams or inspectors to document their findings. I should ensure that the form is clear and concise, and that the language is accessible to a non-technical audience. I'll start by reviewing the YAML fields to understand the purpose and structure of the form... (checking for duplicate fields and unclear labels)...</thinking>
-
 # CAPA Quality Inspection Form - Help Guide
 ## Purpose
 The CAPA (Corrective Action Preventative) Quality Inspection Form is used to document and report any findings or issues encountered during a quality inspection. It is essential to fill out this form accurately to help identify and address potential problems and ensure compliance with quality standards.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about experiences and perceptions of gender-based violence in the community. To ensure that your input is relevant and useful, please note that this form is only for individuals who have personally experienced or witnessed gender-based violence. If you are not sure if you should fill out this form, please consider the following questions: Have you or someone you know been affected by gender-based violence? Do you have concerns or experiences that you think are related to gender-based violence? If you're still unsure, you can always contact the support team for clarification.
-</thinking>
-
 # gender_violence_prevention_awareness_survey - Help Guide
 ## Purpose
 This form is designed to gather information about experiences and perceptions of gender-based violence in the community. It is intended for individuals who have personally experienced or witnessed gender-based violence.

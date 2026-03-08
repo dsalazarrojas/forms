@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product_defectiveness_assessment_questionnaire - Help Guide
 ## Purpose
 The product_defectiveness_assessment_questionnaire is designed to collect information about a product defect, including the customer's details, defect description, and priority level. This form helps in assessing the defectiveness of a product and provides essential data for follow-up actions.

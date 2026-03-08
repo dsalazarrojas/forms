@@ -1,12 +1,3 @@
-<thinking>
-This form is for collecting feedback from the public about their experiences with law enforcement in the community. It aims to gauge the performance of law enforcement officers in the community. The purpose of this form is to gather information that can help identify areas of improvement and provide data-driven insights for community policing initiatives. It's essential to ensure that the feedback collected is relevant, accurate, and consistent to provide meaningful insights.
-
-Before filling out this form, please ensure that you're providing feedback about a specific incident and that it's not a duplicate of a previous submission. Your feedback is crucial in helping us understand how we can better serve the community.
-
-If you're unsure about any of the fields or need clarification, please don't hesitate to reach out to us for assistance.
-
-</thinking>
-
 # Law Enforcement Performance Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from the public about their experiences with law enforcement in the community. It helps us understand how we can improve our services and provide better support to the community.

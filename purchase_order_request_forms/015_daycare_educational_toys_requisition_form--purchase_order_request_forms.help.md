@@ -1,8 +1,3 @@
-<thinking>
-This form is used to manage requests for educational toys for daycare centers. It's essential to ensure that the form is completed accurately and thoroughly to guarantee that the requested toys are delivered on time and meet the needs of the classrooms. Before filling out this form, please review the instructions carefully to avoid any confusion or duplication of requests.
-
-</thinking>
-
 # daycare_educational_toys_requisition_form - Help Guide
 ## Purpose
 This form is designed to collect information from daycare center staff for educational toys requests. It helps in coordinating the delivery of toys to the requested locations on time.

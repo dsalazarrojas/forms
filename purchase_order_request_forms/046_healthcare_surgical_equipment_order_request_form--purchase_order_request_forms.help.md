@@ -1,10 +1,3 @@
-<thinking>...
-This help guide is intended to assist users in understanding the purpose and functionality of the "health_care_surgical_equipment_order_request_form". It is meant to guide users in completing the form efficiently, reducing errors and ensuring that the necessary information is accurately captured.
-
-Before proceeding, please note that the form is used for requesting health care surgical equipment and the form fields should be filled in accordance with your hospital's policies and procedures.
-
-</thinking>
-
 # health_care_surgical_equipment_order_request_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who want to add new questions to the system. This form is used to create and manage questions across different categories. To complete this form, users should select the correct category (e.g., Quiz, Assessment, or Survey) that the question belongs to. The form also asks for the description of the question, which should be a clear and concise explanation of what the question is asking. Additionally, users can choose the tool that the question will be assigned to, which can be either ChatJot or FormJot. The guide aims to walk users through the process of filling out this form accurately and efficiently.
-</thinking>
-
 # Question Addition Guide - Help Guide
 ## Purpose
 This guide is a step-by-step manual for users to add new questions to the system.

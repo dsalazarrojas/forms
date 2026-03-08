@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from hosts who have registered to participate in the host program. The purpose of this form is to ensure that hosts have the necessary information to host riders safely and efficiently. This form will be used to create a database of hosts with their respective information, availability, and preferences. Before proceeding, please ensure you have read and understood the form content carefully to avoid any misinterpretation or errors. If you have any doubts or concerns, please contact the form administrators at form@gic.mx.
-</thinking>
-
 # Rider Host Home Application - Help Guide
 ## Purpose
 The purpose of this form is to collect information from hosts who have registered to participate in the host program. This information will be used to create a database of hosts with their respective details, availability, and preferences.

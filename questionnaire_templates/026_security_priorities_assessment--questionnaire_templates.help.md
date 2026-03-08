@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Security Priorities Assessment - Help Guide
 ## Purpose
 This form is designed to assess an individual's or team's security priorities, helping to identify areas of focus and risk levels. It is intended to be completed by someone familiar with the security landscape of the organization, such as a security specialist or risk manager. The form is meant to be used for internal purposes only.

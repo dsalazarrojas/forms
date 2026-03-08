@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information about a person's preferences and opinions on different types of beverages, specifically grapes and grains. The purpose of this form is to gather feedback and data that can be used to improve the understanding and catering to customer preferences.
-
-This form is intended to be completed by customers or potential customers who would like to share their opinions on grapes and grains.
-
-Before starting, please note that this form is anonymous and all responses will be kept confidential.
-
-To fill out this form, simply select or enter your choices for each field. All fields are optional, and you can skip any fields that you do not feel comfortable answering.
-
-Please select the options that best fit your preferences.
-</thinking>
-
 # Grapes And Grains Survey - Help Guide
 ## Purpose
 The Grapes And Grains Survey is a collection of questions designed to help us understand your opinions and preferences on different types of beverages, specifically grapes and grains. Your input will help us better serve you and improve our services.

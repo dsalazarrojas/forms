@@ -1,21 +1,3 @@
-<thinking>
-The form purpose is to collect information about property owner account preferences for a specific entity or organization, likely related to real estate or property management. This form seems to be designed for collecting contact details, communication channels, language preferences, and other related information from property owners or stakeholders. 
-
-This form is likely used to gather preferences for regular contact, communication, and language needs. The form's structure suggests that it may be used in a real estate or property management context where understanding the property owner's preferences helps in providing personalized services or communication. The form asks for contact details, preferred language, and frequency of contact and email communication. It also includes fields for notes and communication preferences. The form seems to be a straightforward way to gather necessary information for providing efficient and effective services to property owners.
-
-Before creating a help guide, let's review the form fields to understand their purpose and provide a clear explanation for each field:
-* **Contact Details (text)**: Enter your first name, last name, etc.
-* **Communication Channels (select_one)**: Choose one or more channels for communication, such as email, phone, or text.
-* **Notes (note)**: Additional information or comments about communication preferences or needs.
-* **Preferred Language (select_one)**: Choose the preferred language to communicate with you.
-* **Contact Frequency (select_multiple)**: Choose one or more frequencies for contact, such as daily, weekly, or monthly.
-* **Email Frequency (select_one)**: Choose the frequency for email communication, such as daily, weekly, or monthly.
-* **Communication Preferences (select_one)**: Whether you prefer to be contacted or not.
-* **Notes 1, 2, 3 (note)**: More additional information or comments about communication preferences or needs.
-
-The purpose of this form seems to be straightforward, and the fields' labels and hints provide clear guidance. However, the form's purpose and the explanation for each field may vary based on the context in which it's being used.
-</thinking>
-
 # Property Owner Account Preferences - Help Guide
 
 ## Purpose

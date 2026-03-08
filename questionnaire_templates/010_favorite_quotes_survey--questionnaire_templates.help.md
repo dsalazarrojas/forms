@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Favorite Quotes Survey - Help Guide
 
 ## Purpose

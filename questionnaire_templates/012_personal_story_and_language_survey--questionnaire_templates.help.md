@@ -1,19 +1,3 @@
-<thinking>
-We will create a help guide for the "Personal Story And Language Survey" form.
-This form is designed to collect information about individuals' personal stories and language use.
-The purpose of this form is to gather data on language use and personal experiences.
-The form is not affiliated with any form platform, and its content is generated using public metadata.
-The form has several fields that require user input:
-  - A background info field for users to provide general background information.
-  - A background narrative field for users to share their personal story.
-  - A language use info field for users to select the languages they use daily.
-  - Four personal narrative fields for users to share their personal experiences.
-  - A language use frequency field for users to select how often they use a language.
-  - An email field for users to input their email address.
-  - A language use language field for users to select the language they use.
-  - A personal language experience field for users to share their personal language experience.
-</thinking>
-
 # Personal Story And Language Survey - Help Guide
 ## Purpose
 This form is designed to collect personal stories and language use information from individuals.

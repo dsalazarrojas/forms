@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the form is to collect feedback from users about their experiences with the FeedBlend product, specifically regarding issues they encounter and their satisfaction with the product's support channels. This form is designed to help identify common issues and areas for improvement in the product's support processes. It is not required, but it will help us better understand your concerns and provide more effective support in the future. Please complete this form only if you have had issues with the product or have used our support channels recently.
-</thinking>
-
 # feedblend_support_survey - Help Guide
 ## Purpose
 The feedblend_support_survey form is designed to collect feedback from users about their experiences with the FeedBlend product, particularly regarding issues they encounter and their satisfaction with the product's support channels. This form will help us improve our support processes and provide better assistance in the future.

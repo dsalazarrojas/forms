@@ -1,13 +1,3 @@
-<thinking>Form Purpose: This form is designed for requesting software and promotional items for events, meetings, or other activities. It is intended to gather information about the items needed, their shipping details, and the event or meeting information. The form helps to streamline the process of requesting items, ensuring that all necessary details are collected in one place.
-
-Internal Reasoning: Before filling out this form, please ensure that you have checked the following:
-
-* You have the necessary approval or authority to request promotional items.
-* The items you are requesting are not already available or have been previously ordered.
-* You have all the required information about the event, meeting, or activity (e.g., date, time, location).
-
-</thinking>
-
 # software_promo_items_order_request_form - Help Guide
 ## Purpose
 The software_promo_items_order_request_form is a form used to request software and promotional items for events, meetings, or other activities. It helps collect necessary information in one place to streamline the request process.

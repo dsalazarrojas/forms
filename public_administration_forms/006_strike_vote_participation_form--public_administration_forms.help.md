@@ -1,10 +1,3 @@
-<thinking>
-The Strike Vote Participation Form is intended to collect information about union members who have participated in a strike. This form helps in understanding the level of participation of union members in a strike and their opinions about the proposed strike action. It is crucial to ensure that the data collected is accurate and complete, so please fill out this form carefully.
-
-Before filling out the form, please ensure that you have not already filled it out. If you have already filled out this form, please do not fill it out again. This form is meant to be completed by union members who have participated in a strike, and your input is valuable in helping us understand the strike's impact and effectiveness.
-
-</thinking>
-
 # Strike Vote Participation Form - Help Guide
 
 ## Purpose

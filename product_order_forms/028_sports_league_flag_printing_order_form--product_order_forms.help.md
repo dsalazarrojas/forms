@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the "sports_league_flag_printing_order_form" is to collect information from customers regarding their order for a sports league flag printing service. The form likely aims to gather details such as customer contact information, flag printing specifications, artwork requirements, and order details to fulfill the customer's request accurately and efficiently.
-
-To avoid duplication, this form is designed to be a one-stop-shop for customers to submit their requests, ensuring that all necessary information is gathered in one place, reducing the likelihood of missed or incorrect details.
-
-The form is likely intended for use by a business or organization offering sports league flag printing services, and its purpose is to streamline the ordering process, making it more convenient for both the customer and the business.
-
-Before using this form, please ensure that the fields are not already included in your existing order process or customer relationship management systems.
-
-</thinking>
-
 # sports_league_flag_printing_order_form - Help Guide
 ## Purpose
 The "sports_league_flag_printing_order_form" is designed to gather information from customers for their flag printing order. It is intended to be a comprehensive form that includes all necessary details to fulfill the customer's request efficiently.

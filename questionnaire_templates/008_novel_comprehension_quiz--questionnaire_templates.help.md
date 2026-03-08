@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect user feedback on a novel comprehension quiz. Its purpose is to assess how well users understand the plot, characters, setting, and overall experience of reading a novel. The form has 10 questions that ask users about their favorite part of the book, the main character's name, how they would rate their experience, etc. It's essential to provide clear and concise answers for all questions, as this will help in getting accurate feedback. This form is meant for internal use within an organization, and the collected data will be used to improve the novel comprehension quiz and provide better services to users. It's crucial to fill out this form only once for each novel you've read, ensuring that your feedback is not duplicated. </thinking>
-
 # Novel Comprehension Quiz - Help Guide
 
 ## Purpose

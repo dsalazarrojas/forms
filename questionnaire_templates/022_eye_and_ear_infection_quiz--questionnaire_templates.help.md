@@ -1,7 +1,3 @@
-<thinking>
-We need to determine if the form purpose is to gather information about a user's health and medical history, specifically regarding eye and ear infections. We will check if this form is not a duplicate by checking the "category" field, which is "questionnaire_templates". This form is likely a quiz designed to identify potential risks or conditions related to eye and ear infections.
-</thinking>
-
 # Eye And Ear Infection Quiz - Help Guide
 ## Purpose
 This form is designed to gather information about your health and medical history related to eye and ear infections.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the quality control process from employees. It aims to help the Quality Assurance team identify areas of improvement and make data-driven decisions to enhance the quality control process. It is essential to fill out this form accurately to help the team make the most of this feedback. Before completing this form, please ensure that you have not filled it out previously, as it is a required field for reporting quality control process feedback.
-
-</thinking>
-
 # Quality Control Process Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on the quality control process to help the Quality Assurance team identify areas of improvement and make data-driven decisions.

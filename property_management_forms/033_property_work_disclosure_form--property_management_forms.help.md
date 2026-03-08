@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to gather information about a property work disclosure. The purpose of this form is to document any work being done on a property, including maintenance, updates, and other relevant details. This form will help gather necessary information from stakeholders and record updates with JotForm. Please ensure that the information provided is accurate and up-to-date to maintain a clear record of work done on the property. 
-
-To avoid duplication, please fill out this form once per property work item.</thinking>
-
 # property_work_disclosure_form - Help Guide
 ## Purpose
 The property work disclosure form is used to gather information about a property work disclosure. 

@@ -1,5 +1,3 @@
-<thinking>Before generating this help guide, I will review the provided YAML structure to ensure I understand the purpose and requirements of the form. The form is titled "New Product Evaluation" and appears to be a comprehensive form with various fields to gather information about a product, its launching context, target audience, and other relevant details. I will focus on providing clear explanations for each field, ensuring that the user understands the purpose and expected input for each section.</thinking>
-
 # New Product Evaluation - Help Guide
 ## Purpose
 This form is designed to collect information about a new product, including its launching context, target audience, and other relevant details. The purpose of this form is to gather feedback and evaluation data from users, which can be used to improve the product and better serve the target audience.

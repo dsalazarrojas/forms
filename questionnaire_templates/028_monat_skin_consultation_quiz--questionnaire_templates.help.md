@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Monat Skin Consultation Quiz" form. The purpose of this form is to collect information about a user's skin type and preferences to provide personalized recommendations for Monat skin care products. The form is designed to be completed by users who are interested in learning about and possibly using Monat products.
-To complete this form, users will need to select options for various questions, including their birth date, skin condition, skin type, and favorite ingredients. They will also have the opportunity to indicate their interest in and dislike of specific Monat products.
-After the user has completed the form, they will receive personalized recommendations based on their input. However, it is likely that users will not be required to complete every question, and some fields may be optional.
-To create this help guide, we will need to explain each question and field in detail, using the provided YAML structure.
-</thinking>
-
 # Monat Skin Consultation Quiz - Help Guide
 ## Purpose
 The "Monat Skin Consultation Quiz" is a questionnaire designed to help users learn about and find the right Monat skin care products for their individual skin type and needs. This quiz asks users about their skin condition, type, and preferences to provide personalized recommendations.

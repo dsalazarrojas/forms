@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect property information from users, typically for property listings or management purposes. 
-This form aims to gather essential details such as address, contact information, and property specifics to accurately represent the property in a database or system. 
-Please ensure all fields are filled out accurately and truthfully to ensure accurate representation of the property. 
-If you are unsure about any information, please contact the relevant parties or authorities for verification. 
-Please note that the form has multiple pages, each focusing on a specific aspect of the property information.
-</thinking>
-
 # Property Information Collection Form - Help Guide
 ## Purpose
 The Property Information Collection Form is designed to collect and store property information for various purposes such as property listings, management, or other related activities. This form ensures that all relevant details about a property are captured accurately and efficiently.

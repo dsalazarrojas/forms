@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to capture information from employees applying for work permits, which are likely required for certain types of work or projects that need to be permitted or approved by the relevant authorities. The form should be completed by the employee seeking to obtain a work permit, providing details about their contact information, business details, work permit type and start date, end date, duration, status, and other relevant details such as job title and work type. The form is likely used in an administrative context, possibly within a government agency or a similar institution.
-
-The following fields should be completed to provide necessary information:
-* Contact details (contact information for the employee and their business)
-* Business details (name, address, phone number, and email)
-* Work permit information (type, start date, end date, duration, status)
-* Employee information (name, phone number, email, position, job title)
-* Other relevant details (work type, work hours, notes)
-
-Please note that this form does not seem to be using any conditional logic or branching, so it is expected to be a simple form that captures all the relevant information in a linear sequence.
-
-Also, some fields such as business license, submitted by, and signature date might seem out of place and could be removed or modified according to the actual use case of the form.
-</thinking>
-
 # Work Permit Application Form - Help Guide
 ## Purpose
 

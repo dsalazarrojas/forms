@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Classifieds Order Form Example - Help Guide
 ## Purpose
 The Classifieds Order Form is designed to facilitate the creation and publication of classified advertisements in various newspapers and publications. This form collects necessary information for the advertisement, including advertiser details, advertisement content, and publication preferences.

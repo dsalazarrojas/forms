@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be a basic quiz that tests the user's understanding of open-source basics, likely used for educational or assessment purposes. It's essential to understand this form's intent to provide accurate guidance and avoid confusion. To ensure the form is being used correctly, it's crucial to verify that each field is being used for its intended purpose. Before providing the final help guide, let's review the fields to guarantee they align with the form's purpose and avoid duplication or unnecessary complexity.
-</thinking>
-
 # open_source_basics_quiz - Help Guide
 ## Purpose
 The open_source_basics_quiz form is designed to test users' knowledge about open-source basics.

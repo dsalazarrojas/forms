@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect detailed information about a patient's mental health and treatment preferences. It is intended for use by healthcare professionals or researchers in clinical settings, such as hospitals, clinics, or research institutions. Please ensure that you are familiar with this form and its purpose before completing it, as it may ask sensitive questions about a patient's mental health and history. If you have completed this form before, you may want to review the previous responses to avoid duplication.
-</thinking>
-
 # psychology_questionnaire_template - Help Guide
 ## Purpose
 The psychology_questionnaire_template is a comprehensive form for gathering information about a patient's mental health and treatment preferences. It is designed to collect details about their identification, demographics, symptoms, mental and medical history, social environment, family history, treatment options, and follow-up requirements.

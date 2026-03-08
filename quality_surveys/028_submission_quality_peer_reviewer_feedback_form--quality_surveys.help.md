@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # submission_quality_peer_reviewer_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from peer reviewers on the quality of a submission, allowing them to express their overall impression, provide specific comments, and offer suggestions for improvement. It is intended to help the submitter and the community evaluate and refine their contributions.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Bank Purchase Authorization Form is to ensure that all purchases are properly approved and justified before being made. This form is used by bank employees to request authorization for purchases, providing essential information about the requestor, the purchase details, vendor, budget, and approval routing. This helps ensure that all purchases are within the bank's procurement policies and that the required approvals are in place. To complete this form correctly, follow the steps below.
-
-Please note that this form is intended for internal use and should not be completed by external vendors or individuals who are not authorized to make purchases on behalf of the bank.
-</thinking>
-
 # Bank Purchase Authorization Form - Help Guide
 ## Purpose
 The Bank Purchase Authorization Form is used to request approval for purchases, ensuring that all necessary information is provided and that the required approvals are in place.

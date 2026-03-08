@@ -1,8 +1,3 @@
-<thinking>
-This form is a Math And AI Experience Survey. It aims to collect information about respondents' experience with math-related tasks, AI integration, and data management. This form will help us understand how often respondents use AI tools, their education background, and their experience with data management. We'll use this form to identify trends and patterns in the responses and provide insights to improve our services. Please note that this form is for internal use only and the responses will be kept confidential. If you have already completed this form, you can disregard this survey.
-
-</thinking>
-
 # Math And AI Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experience with math-related tasks, AI integration, and data management. Your responses will help us understand how often you use AI tools, your education background, and your experience with data management. This form is for internal use only and the responses will be kept confidential.

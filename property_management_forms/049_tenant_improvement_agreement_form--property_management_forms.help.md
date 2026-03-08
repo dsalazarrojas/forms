@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to document and agree on the terms of a tenant improvement project, ensuring that all parties involved are aware of their responsibilities and obligations. This form captures key details of the project, including the tenant's and landlord's responsibilities, dates, and approvals. It helps to clarify expectations and avoid potential issues arising from miscommunication or misunderstandings. The form will help ensure that all parties are on the same page and that the project is completed in a way that benefits both the tenant and the landlord.
-
-Before we proceed with filling this form, let's make sure we have all the necessary information and that this form is not a duplicate of any existing agreement or project.
-
-</thinking>
-
 # Tenant Improvement Agreement Form - Help Guide
 
 ## Purpose

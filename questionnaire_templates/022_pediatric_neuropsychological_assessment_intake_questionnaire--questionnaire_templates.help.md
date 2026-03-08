@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a comprehensive intake questionnaire designed for pediatric neuropsychological assessment, intended to gather essential information about a child's behavioral and medical history, medical conditions, allergies, medications, and other relevant details. It's crucial to ensure that the information is accurate and up-to-date, as it will be used to inform diagnosis and treatment plans. Please review the form carefully and ensure that you have permission to complete it before proceeding.
-
-</thinking>
-
 # Pediatric Neuropsychological Assessment Intake Questionnaire - Help Guide
 ## Purpose
 The Pediatric Neuropsychological Assessment Intake Questionnaire is a comprehensive form designed to gather essential information about a child's behavioral and medical history, medical conditions, allergies, and other relevant details. This information will be used to inform diagnosis and treatment plans.

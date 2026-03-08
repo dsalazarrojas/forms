@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool to measure the impact of various factors on student concentration. Its purpose is to understand how different elements affect students' ability to focus in a learning environment. This form is relevant for educational institutions and researchers aiming to identify areas of improvement for student concentration. Please note that this form was not developed in collaboration with any form platform, and the original inspiration came from publicly available metadata related to the topic "student concentration impact survey".
-</thinking>
-
 # Student Concentration Impact Survey - Help Guide
 ## Purpose
 This form is designed to measure the impact of various factors on student concentration. It helps educational institutions and researchers identify areas of improvement for student focus in a learning environment.

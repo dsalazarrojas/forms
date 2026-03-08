@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the purpose and usage of the "Nutrition Consultation Form". The form is designed to collect information related to patient consultations and nutritional assessments. It is likely used in a healthcare setting to track and document consultations with patients. The purpose of the form is to gather essential details about the consultation process, patient status, and follow-up plans. Before proceeding, please note that this form is intended for healthcare professionals and patients. It is recommended to review the form carefully to ensure that all necessary information is provided accurately and comprehensively. If you have any questions or concerns, please refer to your healthcare provider.
-</thinking>
-
 # Nutrition Consultation Form - Help Guide
 ## Purpose
 The "Nutrition Consultation Form" is used to document and track patient consultations and nutritional assessments. It helps healthcare professionals gather essential information about patient consultations, including patient details, medical conditions, and follow-up plans.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the impact of family size on various aspects of one's life, including financial stability, environmental footprint, and overall quality of life. The form is likely part of a larger survey or questionnaire used to gather information on family demographics and lifestyle choices. Before proceeding, please ensure that this form is not a duplicate of any previously completed survey or form. This form contains multiple fields with various data types, including select-one and select-multiple options, number inputs, and a select-one question.
-</thinking>
-
 # Family Size Impact Quiz - Help Guide
 
 ## Purpose

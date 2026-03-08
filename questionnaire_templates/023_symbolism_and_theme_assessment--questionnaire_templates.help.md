@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Symbolism And Theme Assessment form is to evaluate the symbolism and themes present in a given work of art, literature, or other creative expression. This form is designed to guide users in analyzing and identifying the underlying symbols, themes, and their relationships. The form's purpose is relevant to students, scholars, and anyone interested in literary analysis, art criticism, or cultural studies.
-
-However, before proceeding, please ensure that this form has not been used or modified in any way that may be considered a duplication or derivative work. The AI-generated form is an original adaptation of public survey topic metadata and does not use proprietary content from any form creation or survey platform.
-
-Before filling out the form, please review each field carefully to understand its purpose and required input. If you have any questions or concerns, feel free to contact form@gic.mx for assistance.
-
-</thinking>
-
 # Symbolism And Theme Assessment - Help Guide
 ## Purpose
 The Symbolism And Theme Assessment form is designed to help users identify and analyze the underlying symbolism and themes present in a given creative work. This assessment is meant to promote critical thinking and deepen understanding of the artwork, literature, or other creative expression.

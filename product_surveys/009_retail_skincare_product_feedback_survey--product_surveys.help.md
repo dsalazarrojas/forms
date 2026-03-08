@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Skincare Product Feedback Survey - Help Guide
 
 ## Purpose

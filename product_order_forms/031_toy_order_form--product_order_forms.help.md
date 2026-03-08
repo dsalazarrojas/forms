@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers when placing an order for toys. This form is likely used by the sales or customer service team to gather details about the customer, such as their name, contact information, and order specifics. This form should be used when a customer is placing an order for a toy, as indicated by the 'Order Type' field.
-</thinking>
-
 # Toy Order Form - Help Guide
 
 ## Purpose

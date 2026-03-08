@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about product dimensions, which is a critical aspect of product design, manufacturing, and inventory management. The form is intended to be used by product designers, manufacturers, or suppliers to record and document product dimensions. The form is not a survey, and the purpose is to collect factual data about products. The form does not duplicate any existing form templates or platforms. It is a unique form created using AI-generated metadata from public survey topics related to product design and manufacturing.
-</thinking>
-
 # Product Dimensions Information Form - Help Guide
 ## Purpose
 The Product Dimensions Information Form is designed to collect factual data about product dimensions, which is essential for product design, manufacturing, and inventory management.

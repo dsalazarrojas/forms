@@ -1,8 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for an online form designed to collect feedback on animal products from customers, vendors, or other relevant personnel. This form aims to gather data on the overall quality and safety of animal products, which will be reviewed for compliance and consistency. To ensure accurate and complete input, it is crucial to follow the provided instructions carefully.
-
-</thinking>
-
 # Animal Product Quality Assurance Survey - Help Guide
 ## Purpose
 The Animal Product Quality Assurance Survey is a form used to collect feedback on animal products, focusing on their packaging, appearance, consistency, and overall quality. This data will aid in identifying potential issues and ensure that the products meet safety and quality standards.

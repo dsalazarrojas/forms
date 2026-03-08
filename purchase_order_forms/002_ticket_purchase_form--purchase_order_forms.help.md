@@ -1,8 +1,3 @@
-<thinking>
-To prevent duplication of efforts and provide an accurate and helpful guide, let's first ensure that the form is being used for its intended purpose: to collect information from customers for ticket purchases. This form is meant to gather data from customers for a smooth and efficient ticket purchasing process. The form includes fields for customer contact information, payment terms, ticket details, and notes for additional comments or notes. Please ensure you are using this form for its intended purpose and follow these instructions to complete it correctly.
-
-</thinking>
-
 # Ticket Purchase Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for ticket purchases. It includes fields for customer contact information, payment terms, ticket details, and notes for additional comments or notes.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information and supporting documents for nominations for judicial positions. This form is likely used in a public administration context, such as nominations for judgeships or appointments to government boards. The form is designed to be completed by individuals or organizations submitting nominations, and it guides them through the necessary information and documentation required for a successful nomination... </thinking>
-
 # Nomination For Judicial Positions - Help Guide
 ## Purpose
 This form is designed to collect nominations for judicial positions, including necessary information and supporting documents required for a successful nomination.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a company's materiality assessment. The form has multiple sections, each covering different aspects of a company's materiality assessment, such as company type, reporting currency, reporting frequency, and other relevant details. The form is meant to be completed by a company representative, and it includes fields for contact information and notes.
-
-To confirm that this form is being used for the correct purpose, please ensure that you are completing it for a company's materiality assessment. If you are not sure what materiality assessment is or why this form is being used, please consult with a supervisor or a subject matter expert to understand the form's purpose and relevance to your role.
-
-To prevent data duplication, please ensure that this form is not completed by multiple users for the same company without proper coordination and verification.
-</thinking>
-
 # Materiality Assessment Questionnaire - Help Guide
 ## Purpose
 

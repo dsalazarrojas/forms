@@ -1,5 +1,3 @@
-<thinking>...The "Hypnotherapy Session Feedback" form is designed to gather feedback from clients on the effectiveness of a hypnotherapy session. It is meant to be completed by clients after a session with a licensed therapist to assess the quality of service provided. The form will only be completed by individuals who have actually had a hypnotherapy session and is not intended for general feedback or comments. If you have already provided feedback, please do not submit duplicate feedback. If you have not had a hypnotherapy session, you do not need to complete this form. Please only answer questions that are relevant to your experience. Thank you for your time and input...</thinking>
-
 # Hypnotherapy Session Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients about their experience with a hypnotherapy session. It helps us understand how we can improve our services and better serve our clients in the future.

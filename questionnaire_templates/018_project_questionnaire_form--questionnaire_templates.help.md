@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Questionnaire Form - Help Guide
 ## Purpose
 The Project Questionnaire Form is designed to collect project-related information from users.

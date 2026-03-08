@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect contact information and inquire about property technology services from partners. The form is designed to be used by partners to reach out to our team with their inquiries and requests for services. The form will help us to better understand their needs and provide the necessary support and guidance. This form should only be used by partners who are interested in our property technology services, and not by other types of users. The fields in this form are designed to be self-explanatory, but if a user is unsure about a field, they can refer to this guide for clarification.
-</thinking>
-
 # property_technology_partner_contact_form - Help Guide
 ## Purpose
 This form is designed for property technology partners to contact our team and inquire about our services. 

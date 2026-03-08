@@ -1,9 +1,3 @@
-<thinking>
-Please note that this form appears to be a general questionnaire for gathering feedback on lighting design, but without further information on the specific context and purpose of this form, it's challenging to provide a comprehensive explanation of its purpose. However, based on the available data, it seems to be designed to collect information on user preferences, feedback, and ratings related to lighting design.
-This form includes various fields for collecting user information (user info, project info, lighting design), feedback (feedback, note), ratings (select_one, select_multiple), and contact information (email, phone). The form seems to be designed to gather input from users on their preferences, experiences, and ratings related to lighting design, which could be used to improve services or products related to lighting.
-Please review and validate the purpose and requirements of this form to ensure it aligns with the actual goals and expectations.
-</thinking>
-
 # Lighting Design Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from users on their experiences and preferences related to lighting design.

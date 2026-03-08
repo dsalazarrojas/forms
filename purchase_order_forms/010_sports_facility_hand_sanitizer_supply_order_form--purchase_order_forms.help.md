@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information for the ordering of hand sanitizers for sports facilities. The form should only be filled out by authorized personnel. This form does not need to be filled out if the facility already has a pre-existing agreement with the company providing hand sanitizers. Please ensure that all fields are completed accurately and that the quantity of hand sanitizers required is sufficient for the facility's needs...</thinking>
-
 # Sports Facility Hand Sanitizer Supply Order Form - Help Guide
 ## Purpose
 The Sports Facility Hand Sanitizer Supply Order Form is a document designed to gather essential information for the ordering of hand sanitizers for sports facilities. This form is intended for authorized personnel to provide details about the required hand sanitizers. If your facility already has an agreement with the company providing hand sanitizers, this form does not need to be completed.

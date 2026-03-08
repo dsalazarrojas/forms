@@ -1,6 +1,3 @@
-<thinking>
-This form is meant to capture information related to a law enforcement officer's leave of absence due to stress. It's essential to ensure that the officer's mental health is considered before submitting this form. Please verify that this form doesn't exist for the same officer already and update existing forms accordingly to avoid duplication. 
-</thinking>
 # Law Enforcement Stress Leave Of Absence Form - Help Guide
 
 ## Purpose

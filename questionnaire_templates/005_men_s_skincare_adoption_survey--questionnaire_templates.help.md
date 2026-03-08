@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Mens Skincare Adoption Survey" form. The form is designed to collect demographic information, habits, and preferences related to men's skincare. Before proceeding, I'll review the form's purpose to ensure it's clear and relevant to its intended users.</thinking>
-
 # Mens Skincare Adoption Survey - Help Guide
 
 ## Purpose

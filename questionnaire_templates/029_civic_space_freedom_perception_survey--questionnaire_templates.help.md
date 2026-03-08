@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on the perception of civic space freedom, which is crucial for understanding the current state of civic rights and freedoms in a particular location. It is intended to be filled out by individuals who have knowledge about the area and can provide valuable insights. It's essential to ensure that this form is not completed by individuals who do not have a genuine understanding of the subject matter, as their responses might not be reliable. To avoid duplication of effort, please do not fill out this form unless you have not done so previously.
-</thinking>
-
 # Civic Space Freedom Perception Survey - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Civic Space Freedom Perception Survey form. The form is designed to gather information on the perception of civic space freedom, which is essential for understanding the current state of civic rights and freedoms in a particular location.

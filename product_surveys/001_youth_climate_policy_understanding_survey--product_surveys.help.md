@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, we aim to provide clear and concise information about the "Youth Climate Policy Understanding Survey" form. This form is designed to gather insights from participants on their awareness, knowledge, attitudes, and behaviors related to climate policy. The purpose of this guide is to ensure that users understand the form's purpose, how to complete it, and what each field represents.</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 ## Purpose
 The "Youth Climate Policy Understanding Survey" is a form designed to gather insights from participants on their awareness, knowledge, attitudes, and behaviors related to climate policy. The survey aims to understand the level of understanding and awareness among young people about climate policy, climate change impacts, and their participation in climate policy decision-making.

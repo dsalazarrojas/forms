@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information about a person's medical history, including any allergies, medications, medical procedures, medical conditions, medical tests, health insurance, emergency contacts, and any other relevant health-related information. 
-This form is used to create a comprehensive health profile for an individual, and the information collected will be used for administrative purposes only. Please ensure that you complete all required fields. 
-Please note that you do not need to answer all questions if the field is marked as "optional". 
-</thinking>
-
 # Health Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect medical information from patients or individuals for administrative purposes.

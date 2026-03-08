@@ -1,9 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and usage of the "Political Survey" form. The form is used to collect demographic and political survey information from individuals, including their name, party affiliation, age, address, contact number, email, date of birth, time of contact, and political survey issues.
-
-To confirm, the form is for public administration and will collect personal data. Please fill it in accurately and truthfully. Duplicate entries will not be accepted. 
-</thinking>
-
 # political_survey - Help Guide
 ## Purpose
 The "Political Survey" form is designed to collect information from individuals in order to gather demographic and political survey data. This information will be used to understand public opinions and preferences.

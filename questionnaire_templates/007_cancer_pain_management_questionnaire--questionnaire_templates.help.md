@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cancer Pain Management Questionnaire - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals assess and manage cancer pain effectively. It is a comprehensive questionnaire that covers various aspects of cancer pain, including location, intensity, characteristics, frequency, triggers, and impact on daily activities and relationships. The form is used to collect detailed information about the patient's pain experience, which can inform treatment decisions and improve pain management.

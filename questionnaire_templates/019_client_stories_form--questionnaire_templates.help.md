@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect client testimonials, success stories, and feedback from clients who have used the services or products provided by the company. The goal is to showcase the benefits and value of working with the company, which can be used in marketing materials, case studies, and other promotional efforts. This form is not intended for clients who are currently using the services or products, but rather for those who have completed their engagement and are willing to share their experiences. Please ensure that you have not already submitted a testimonial or success story before filling out this form.
-</thinking>
-
 # Client Stories Form - Help Guide
 
 ## Purpose

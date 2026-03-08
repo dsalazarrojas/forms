@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a comprehensive questionnaire aimed at assessing an individual's bowel habits, symptoms, and intake and follow-up frequencies and durations. The form has multiple pages with various types of questions such as select_multiple, select_one, number, and note fields. This suggests that the form is designed to collect both quantitative and qualitative data. However, the form does not appear to be redundant as it includes multiple fields that ask similar but distinct questions, such as "Bowel Habits" and "Follow-up Frequency". This form is likely intended for use in research or clinical settings, where understanding bowel habits and symptoms is crucial for diagnosing and treating gastrointestinal disorders.</thinking>
-
 # Stool Consistency Assessment Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to assess an individual's bowel habits, symptoms, and intake and follow-up frequencies and durations. The goal is to collect comprehensive data on bowel movements, symptoms, and research-related aspects of bowel health.

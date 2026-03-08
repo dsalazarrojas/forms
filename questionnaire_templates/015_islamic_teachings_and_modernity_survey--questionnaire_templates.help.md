@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather feedback from users about the relevance and duplication of specific Islamic teachings and modernity-related topics. The goal is to understand how well these teachings align with modern values and societal needs. By filling out this form, users will help shape the content and direction of future Islamic studies and research. 
-
-This form is not intended for urgent or critical submissions, so please answer thoughtfully and to the best of your ability. 
-
-Please fill out this form carefully and honestly, and feel free to elaborate on your answers if you have more to say.
-
-</thinking>
-
 # Islamic Teachings And Modernity Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the relevance and duplication of specific Islamic teachings and modernity-related topics.

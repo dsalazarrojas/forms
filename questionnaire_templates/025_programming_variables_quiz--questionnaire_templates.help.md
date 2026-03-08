@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users understand the fundamental concepts of programming variables. The goal is to assess knowledge on the different types of variables in programming, their characteristics, and how they are used. This form is not affiliated with or endorsed by any specific form platform, but rather an original adaptation created using AI-generated code based on public metadata. By completing this form, users will be able to demonstrate their understanding of programming variables.
-</thinking>
-
 # Programming Variables Quiz - Help Guide
 ## Purpose
 This form is designed to assess knowledge on the fundamental concepts of programming variables, including their types, characteristics, and usage.

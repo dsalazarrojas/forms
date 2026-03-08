@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers who have purchased a salad kit. The purpose of the form is to gauge their satisfaction with the product and identify areas for improvement. This form will help us understand how well we're meeting our customers' expectations and provide valuable insights to refine our product offerings.
-
-Before proceeding, let's confirm that this form is meant for customers who have actually purchased a salad kit. If you're not a customer or have not purchased a salad kit, please do not fill out this form.
-
-To ensure we don't receive duplicate feedback, we'll be removing responses that are deemed incomplete or not relevant to our feedback collection process.
-
-</thinking>
-
 # Salad Kit Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers who have purchased a salad kit.

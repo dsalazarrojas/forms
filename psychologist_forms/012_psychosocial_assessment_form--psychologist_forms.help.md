@@ -1,7 +1,3 @@
-<thinking>...the form "Psychosocial Assessment Form" is used to gather information about a patient's mental health history, current emotional state, and support systems. This form helps mental health professionals assess a patient's overall well-being, including their mental health history, coping mechanisms, family and social support networks, and treatment plans. Please ensure that you have the necessary permissions and authorities before using this form to collect information from patients.
-
-This guide will walk you through how to complete the form and what each field represents.</thinking>
-
 # Psychosocial Assessment Form - Help Guide
 ## Purpose
 The Psychosocial Assessment Form is used to gather comprehensive information about a patient's mental health history, emotional state, and support systems to provide a holistic understanding of their overall well-being.

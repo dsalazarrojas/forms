@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to register property performance analytics data for a given property. It is a crucial step in the property management process to track and analyze the performance of properties. This form is a critical input for the property performance analytics system, and its accuracy is essential for making informed decisions.
-
-The form is designed to collect relevant data from the user, including property performance analytics data, start and end dates, and other relevant information. It is recommended that users fill out the form completely and accurately to ensure that the data is reliable and consistent.
-
-Before proceeding, please ensure that you have the necessary permissions and authority to access and manage property data. If you are unsure, please contact the relevant authorities or the system administrators for clarification.
-
-Please note that the form has been designed to minimize errors and maximize data accuracy. Each field has a specific purpose, and users must fill out the fields accordingly to avoid confusion and potential errors.
-
-</thinking>
-
 # Property Performance Analytics Registration Form - Help Guide
 ## Purpose
 

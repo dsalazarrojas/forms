@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide their demographic information and career guidance needs. It is designed to help the Takaful organization understand user interests and preferences, which will aid in providing personalized guidance. The form will ask for information about the user's sector of interest, educational background, contact details, and preferences for Takaful programs. The form will not ask for any sensitive or personally identifiable information, and all fields are optional. Please answer all fields truthfully to help us provide you with better guidance.
-</thinking>
-
 # Takaful Career Guidance Survey - Help Guide
 ## Purpose
 This form is designed to provide demographic information and career guidance needs to the Takaful organization, helping them to offer personalized guidance.

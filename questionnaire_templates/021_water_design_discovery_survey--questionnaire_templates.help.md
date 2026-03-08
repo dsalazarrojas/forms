@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a residential water design project. The purpose of this form is to help the designer understand the project's requirements, preferences, and constraints. This form will help the designer create a design that meets the client's needs and expectations. It is intended to be used for internal use only, and the information gathered will be used to inform the design process.
-
-This form is divided into several sections, each addressing a different aspect of the project.
-
-</thinking>
-
 # Water Design Discovery Survey - Help Guide
 ## Purpose
 The Water Design Discovery Survey is a form designed to gather information about a residential water design project. This form is intended to help the designer understand the project's requirements, preferences, and constraints.

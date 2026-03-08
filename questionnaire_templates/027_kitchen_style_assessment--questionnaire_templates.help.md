@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kitchen Style Assessment - Help Guide
 ## Purpose
 The Kitchen Style Assessment form is designed to help you determine the ideal kitchen style for your needs. This form will ask you a series of questions to understand your current kitchen style, preferences, and needs. The goal is to create a comprehensive kitchen design that suits your taste, budget, and lifestyle.

@@ -1,5 +1,3 @@
-<thinking>As a form design expert, I will create a clear and concise help guide for the Form Field Structure Survey. This form is designed to collect information about an individual's personal and professional details, such as their name, job title, company type, department, role in the company, job level, and experience with forms. The form is organized into various sections with fields that require text, email, select_one, select_multiple, time, date, and note inputs. The purpose of this form is to gather data for internal use within the organization. Before filling out the form, ensure that you have all the necessary information and that it is accurate and up-to-date. This form is intended for general use and does not require any specific technical expertise. If you have any questions or concerns about the form, please don't hesitate to reach out to the support team.</thinking>
-
 # Form Field Structure Survey - Help Guide
 
 ## Purpose

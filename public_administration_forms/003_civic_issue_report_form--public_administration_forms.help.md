@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about civic issues reported by citizens. This form is designed to gather data about various issues such as potholes, streetlight outages, graffiti, trash or debris, drainage problems, sidewalk damage, park maintenance, noise complaints, and public safety concerns. The form is intended to be used by citizens to report issues they encounter in their community, and the information collected will be used by city officials to address these issues.
-
-To ensure that the form is being used correctly, we will check for duplication of issues reported by the same location. If an issue is already reported, the citizen will be notified that their report has already been received and will not be duplicated.
-
-Before proceeding, please ensure that you have filled out the form completely and accurately. If you are unsure about any of the fields, please refer to this guide for clarification.
-
-Please note that some fields are optional, but they are required for the purpose of this form.
-
-</thinking>
-
 # Civic Issue Report Form - Help Guide
 ## Purpose
 The Civic Issue Report Form is designed to collect information about various civic issues reported by citizens. This form is intended to be used by citizens to report issues they encounter in their community, and the information collected will be used by city officials to address these issues.

@@ -1,11 +1,3 @@
-<thinking>Before creating the help guide for the "housing_cart_reservation_form" form, let's quickly analyze the form's purpose and ensure there's no duplication or relevance issues.
-
-The form is designed to capture information for a housing cart reservation, which involves booking a cart for a specific date, time, and equipment type. The form includes fields for reservation details, cart information, and user contact details. Upon reviewing the form's structure, it seems to be comprehensive, covering all essential fields for a housing cart reservation.
-
-However, I'd like to note that some fields have similar labels (e.g., "Start Date" and "Reservation Start Date"), which might lead to user confusion. To avoid duplication, I recommend merging or rephrasing these fields for clarity. Additionally, some fields seem to have no specific purpose or functionality, such as "cart_location_note" and "cart_capacity_note." These could be removed or repurposed for more meaningful features.
-
-Assuming the form is well-structured, here's the help guide for the "housing_cart_reservation_form":</thinking>
-
 # housing_cart_reservation_form - Help Guide
 ## Purpose
 This form is designed to create a housing cart reservation by capturing essential details such as reservation date, time, and equipment type. The form ensures accurate and comprehensive information for smooth cart management.

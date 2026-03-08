@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to assess the quality of metals samples. The purpose of this form is to collect information about the physical properties of metals samples, such as their weight, color, shape, and hardness. The form is intended for internal use by experts in the field of metallurgy to quickly evaluate and categorize metals samples.
-
-To confirm that this form meets your needs, please consider the following:
-
-* The form is focused on collecting data about metals samples, which suggests that it is intended for use by experts in the field.
-* The form includes fields for collecting information about various physical properties of metals, which is consistent with the purpose of assessing metal quality.
-* There is no indication that the form is intended for general public use or for collecting sensitive information.
-
-If you are confident that this form meets your needs, please proceed to the help guide below. Otherwise, you may want to revisit the form design to ensure that it accurately reflects your intended use case.
-</thinking>
-
 # Metals Quality Assessment Survey - Help Guide
 ## Purpose
 The Metals Quality Assessment Survey is a form designed to collect information about the physical properties of metals samples. The form is intended to be completed by experts in the field of metallurgy to quickly evaluate and categorize metals samples.

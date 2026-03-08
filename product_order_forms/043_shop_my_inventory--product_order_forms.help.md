@@ -1,7 +1,3 @@
-<thinking>
-This form is for ordering products from the shop-my-inventory. As you fill out this form, please ensure you are providing accurate and relevant information for the customer and the order. This form has been designed to collect all necessary details for a successful order, including customer contact information, product details, and payment information. Please check that all required fields are filled in before submitting the form. Note that some fields may be optional, but they can provide additional context or details that may be helpful for the order processing. This form should not be used for duplicate or multiple orders. Please use it only for new orders.
-</thinking>
-
 # shop-my-inventory - Help Guide
 ## Purpose
 This form is designed to collect customer information and order details for products from the shop-my-inventory.

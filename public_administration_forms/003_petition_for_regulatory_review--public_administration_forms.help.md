@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block ...</thinking>
-
 # Petition For Regulatory Review - Help Guide
 
 ## Purpose

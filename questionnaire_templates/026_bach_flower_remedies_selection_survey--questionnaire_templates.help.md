@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess an individual's mental health and wellness status using the principles of Bach Flower Remedies, a set of natural remedies developed by Dr. Edward Bach in the 1920s. The form collects information on various aspects of an individual's emotional, mental, and physical state, allowing the practitioner to create a customized remedy plan tailored to their specific needs. The purpose of this form is to provide a comprehensive understanding of the individual's condition, enabling the practitioner to offer accurate and effective recommendations.
-
-This guide is intended for end-users who are completing the "Bach Flower Remedies Selection Survey" form. Please follow the instructions carefully to ensure accurate completion of the form.
-
-</thinking>
-
 # Bach Flower Remedies Selection Survey - Help Guide
 ## Purpose
 The form is designed to collect information on your mental health and wellness status, enabling the practitioner to create a tailored remedy plan.

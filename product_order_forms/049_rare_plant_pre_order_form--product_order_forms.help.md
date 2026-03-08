@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rare_plant_pre_order_form - Help Guide
 ## Purpose
 The rare plant pre-order form is designed for customers to pre-order rare plants from a supplier or online store. This form collects contact information, pre-order details, and payment information to process orders efficiently and effectively.

@@ -1,16 +1,3 @@
-<thinking>
-This form is a quiz designed to test the user's knowledge about the Cuban Missile Crisis, a pivotal event in international relations. The goal is to gather information about the user's understanding of the crisis, its causes, and its effects. This form is intended for educational purposes, so users are encouraged to answer honestly to help improve their knowledge.
-
-Before filling out this form, please ensure you have not already completed it, as duplicate submissions will not be accepted.
-
-Please answer the questions accurately and honestly to the best of your abilities.
-
-Note that some questions may have multiple correct answers.
-
-This form is designed to be completed by individuals and should not be used for commercial purposes.
-
-</thinking>
-
 # Cuban Missile Crisis Quiz - Help Guide
 ## Purpose
 The Cuban Missile Crisis Quiz is designed to test your knowledge about the Cuban Missile Crisis, a pivotal event in international relations.

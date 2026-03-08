@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "real_estate_lease_questionnaire" form, we need to understand the purpose of the form and the requirements of the fields. 
-
-The form appears to be designed to collect information related to a real estate lease, including details about the property, lease terms, and renter information. This form likely serves as a template for real estate professionals to create and manage leases for their clients.
-
-The form is composed of multiple pages with various input fields, including text, select_one, select_multiple, date, number, and email fields. The form is not required in most fields, indicating that some information might be optional.
-
-</thinking>
-
 # real_estate_lease_questionnaire - Help Guide
 
 ## Purpose

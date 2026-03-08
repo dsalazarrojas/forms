@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow tenants to update their digital profile information in the property management system. This form will be used by tenants to submit updates to their existing information, ensuring that our records are up-to-date and accurate. This form should only be used for updating existing profiles, and not for creating new ones. If a tenant needs to create a new profile, they should use a separate form.
-</thinking>
-
 # Digital Tenant Profile Update Request - Help Guide
 ## Purpose
 The Digital Tenant Profile Update Request form is used to update a tenant's profile information in the property management system.

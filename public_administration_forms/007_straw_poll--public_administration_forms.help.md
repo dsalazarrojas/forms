@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to conduct a straw poll, gathering opinions on various aspects of their lives, such as education, occupation, age, and level of interest. This form is intended to be completed by the user to share their thoughts and opinions, and is not designed for official administrative purposes.
-
-Before proceeding, please ensure that you have not already completed this form, as duplicate submissions may not be accepted.
-
-</thinking>
-
 # Straw Poll - Help Guide
 ## Purpose
 The Straw Poll form is a tool for users to express their opinions and preferences on various topics.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to screen patients for eligibility for ABA (Applied Behavior Analysis) Therapy. The purpose of this form is to gather essential information about the child and their family, including the child's personal details, clinical history, and insurance information. This data is used to determine whether the child is a suitable candidate for ABA therapy.
-
-This form is designed to be completed by a parent or guardian of the child. It is crucial to answer all the questions truthfully to ensure accurate assessment. Please note that some questions are marked as required, indicating that they must be answered to proceed with the ABA therapy process.
-
-Please ensure that you fill in all required fields accurately and completely. If you are unsure about any question, refer to the corresponding help text for clarification. If you need assistance, please contact our support team for guidance.
-</thinking>
-
 # ABA Therapy Eligibility Screening - Help Guide
 ## Purpose
 The ABA Therapy Eligibility Screening form is designed to gather essential information about a child and their family to determine eligibility for ABA therapy.

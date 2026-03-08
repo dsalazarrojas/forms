@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to process orders for race day medals. It is designed to collect information about the event, including the event name, date, and location, as well as details about the medals being ordered. The form also asks for shipping and payment information. It's essential to provide accurate and complete information to ensure correct processing and shipping of the medals.
-</thinking>
-
 # Race Day Medal Printing Order Form - Help Guide
 ## Purpose
 The purpose of this form is to process orders for race day medals. It's designed to collect information about the event, details about the medals, shipping, and payment information.

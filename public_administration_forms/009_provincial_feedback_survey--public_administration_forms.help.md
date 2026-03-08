@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from provincial administrators on their experience with public services. The purpose of this form is to gather information on what services have been most helpful or unhelpful, the type of feedback, the region the individual works or resides in, and additional contact details if provided by the respondent. This form does not duplicate any existing forms in the system and will be used to improve provincial services in the future. It is not intended to collect personal identifiable information.
-</thinking>
-
 # Provincial Feedback Survey - Help Guide
 ## Purpose
 The Provincial Feedback Survey is designed to gather feedback from provincial administrators on their experience with public services. This form helps the government to identify areas of improvement and provide better services to the public.

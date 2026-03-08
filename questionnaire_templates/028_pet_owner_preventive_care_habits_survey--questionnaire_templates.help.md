@@ -1,8 +1,3 @@
-<thinking>
-This survey is intended to be completed by a pet owner. The form is to collect information about the pet owner's habits and the pet's health history, including vaccination schedules, parasite prevention, and medical history. This form should not be duplicated or modified in any way, as the information collected will be used to provide personalized recommendations for the pet's care and treatment.
-
-</thinking>
-
 # Pet Owner Preventive Care Habits Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information about your pet's health habits and history. This information will help us provide you with personalized recommendations to ensure your pet stays healthy and happy.

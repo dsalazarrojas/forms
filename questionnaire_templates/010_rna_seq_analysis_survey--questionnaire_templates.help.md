@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## RNA Seq Analysis Survey - Help Guide
 
 ## Purpose

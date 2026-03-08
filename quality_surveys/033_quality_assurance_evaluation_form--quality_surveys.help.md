@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Quality Assurance Evaluation Form is to collect feedback and assessments on the quality of a specific process, product, or service. This form helps in identifying areas of improvement and tracking the progression of quality over time. By filling out this form, users can provide valuable insights that contribute to the overall quality assurance process.
-
-Before proceeding to fill out the form, please ensure that you are not duplicating an existing evaluation or assessment that has already been conducted. This form is designed to provide a structured and standardized approach to evaluating quality, allowing for consistent and comparable data collection.
-
-The form consists of multiple questions, each with its own specific purpose and requirement status. Some questions are mandatory, while others are optional but highly recommended. Please make sure to answer all questions thoroughly and accurately to ensure the quality of the assessment.
-
-This guide will walk you through each section of the form, explaining what to expect and how to complete each question effectively.</thinking>
-
 # Quality Assurance Evaluation Form - Help Guide
 ## Purpose
 The Quality Assurance Evaluation Form is designed to collect feedback and assessments on the quality of a specific process, product, or service. This form helps identify areas of improvement and tracks the progression of quality over time.

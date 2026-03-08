@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a water bottle preorder for their club. It's intended to capture details about the customer, their preferences for the bottle, and payment and delivery information. The form is divided into several sections, each focusing on a different aspect of the preorder.
-
-To confirm that the form is relevant to your use case, please check if your club is indeed planning to preorder water bottles for its members. If you're not a club officer or member, please don't proceed with filling out the form.
-
-Before starting, make sure to review the form carefully to ensure you're aware of all the required fields and options. Some fields are mandatory, while others offer optional personalization options or additional details.
-
-If you're not sure about any aspect of the form, feel free to ask your club's officer or the form's creators for clarification.
-</thinking>
-
 # Club Branded Water Bottle Preorder Form - Help Guide
 
 ## Purpose

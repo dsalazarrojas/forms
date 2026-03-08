@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their background, language proficiency, and language assessment preferences. It's meant for individuals who want to assess their English language skills and prepare for a potential language assessment. This form is not affiliated with or derived from any form platform. It's created using AI and released under CC BY 4.0, allowing users to modify and distribute it as needed.
-</thinking>
-
 # pre-assessment-questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from individuals about their background, English language proficiency, and preferences for language assessment. It will help assess their current language skills and prepare them for potential language assessments.

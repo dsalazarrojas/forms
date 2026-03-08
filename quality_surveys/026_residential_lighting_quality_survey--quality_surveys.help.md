@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from homeowners about their residential lighting quality experiences. The goal is to understand how homeowners perceive and rate the quality of lighting in their homes, including factors such as the type of lighting used, its brightness, and energy usage. This data will help inform decisions about lighting standards and energy-efficient initiatives.
-
-The form is not intended to collect sensitive or personal identifiable information, so you can feel comfortable filling it out without sharing any details that might make you uncomfortable.
-
-Please review the form carefully to ensure that you provide accurate and helpful information.
-
-</thinking>
-
 # Residential Lighting Quality Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from homeowners about their experiences with residential lighting. Your responses will help us understand what types of lighting are being used, how bright they are, and how they affect energy usage.

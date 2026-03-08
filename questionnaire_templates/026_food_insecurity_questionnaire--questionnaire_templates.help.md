@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the Food Insecurity Questionnaire form. To ensure relevance and non-duplication, I will first review the form's purpose and fields. The form appears to be designed to collect information about household food security, which is a crucial aspect of assessing an individual's or household's ability to access sufficient, safe, and nutritious food. This form likely aims to identify households that are food insecure, which can inform resource allocation, policy decisions, or social support programs. I will create a clear and concise help guide that explains the form's purpose, completion process, and each field's meaning.</thinking>
-
 # Food Insecurity Questionnaire - Help Guide
 ## Purpose
 The Food Insecurity Questionnaire is designed to help assess a household's ability to access sufficient, safe, and nutritious food. This form collects information about various aspects of household food security, including income, size, and access to food.

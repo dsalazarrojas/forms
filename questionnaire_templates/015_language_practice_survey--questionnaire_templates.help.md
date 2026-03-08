@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Language Practice Survey - Help Guide
 ## Purpose
 The Language Practice Survey is a form designed to collect information about learners and teachers' habits, challenges, and progress in practicing and teaching a language. The survey aims to gather data to help improve the effectiveness of language education programs.

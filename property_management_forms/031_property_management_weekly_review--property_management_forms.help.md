@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to collect information on the status and progress of property management tasks, including inspections, issues, and follow-up actions. The form likely serves as a weekly review for property management staff to track and monitor the state of properties under their care. This form may help to identify potential issues, assign tasks, and keep track of progress towards completion. It appears that the form is not designed to be a comprehensive, one-time assessment, but rather a recurring review to facilitate ongoing monitoring and evaluation.
-</thinking>
-
 # Property Management Weekly Review - Help Guide
 ## Purpose
 

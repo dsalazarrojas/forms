@@ -1,14 +1,3 @@
-<thinking>
-This help guide will cover the Faculty Satisfaction Institutional Support Questionnaire, a form designed to collect feedback and satisfaction from faculty members regarding the institutional support they receive. This form is intended to help gather insights on how the institution is supporting faculty members in their work, and will be used to identify areas of improvement.
-
-Before starting, please make sure that you are completing this form for the right purpose and that you have read and understood the provided hints for each page. If you have already completed a similar form, please do not repeat your answers. Completing this form multiple times may skew the results and render them inaccurate.
-
-Please note that some fields are optional, and you can skip them if they do not apply to your situation. However, your feedback is highly valuable and will be greatly appreciated.
-
-This guide will walk you through each page of the form, explaining what each field means and how to complete it.
-
-</thinking>
-
 # Faculty Satisfaction Institutional Support Questionnaire - Help Guide
 ## Purpose
 

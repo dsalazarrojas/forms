@@ -1,8 +1,3 @@
-<thinking>
-This form is for municipal businesses to file their taxes. This form will help the business to provide the necessary information for the tax authorities to calculate their tax dues. The form is divided into 8 fields that need to be filled up by the business. Each field has its own specific use. The form will not be completed if any of these fields are left blank. It is recommended that the business fills the form with accurate and complete information to avoid any discrepancies in the tax calculation. The form should not be filled by individuals or non-businesses. The purpose of this form is to ensure the accuracy and completeness of the tax filing process for businesses. 
-
-</thinking>
-
 # municipal_business_tax_filing_form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from municipal businesses for tax filing purposes.

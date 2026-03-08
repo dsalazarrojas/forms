@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Finder Qualification Survey - Help Guide
 ## Purpose
 The Finder Qualification Survey is a form designed to collect information from applicants to assess their eligibility and suitability for a particular position or opportunity. The survey aims to gather essential details about the applicant's skills, availability, and other qualifications to determine their fit for the role.

@@ -1,15 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in completing the "Earpiece Usage Feedback Form" accurately and effectively. 
-
-The form is designed to collect feedback from users on their experiences with earpieces. The purpose of this form is to gather information on how well the user found the earpiece to be in terms of sound quality, comfort, and overall satisfaction. 
-
-To minimize duplication of feedback, users are asked about specific details such as date and time of use, team/company name, and department. This information will aid in the analysis of the gathered data. 
-
-This guide will walk users through each field and its significance.
-
-</thinking>
-
 # Earpiece Usage Feedback Form - Help Guide
 ## Purpose
 The "Earpiece Usage Feedback Form" is a tool designed to gather feedback from users on their earpiece usage and overall experience. This form will help the earpiece manufacturers to understand user satisfaction and identify potential areas of improvement.

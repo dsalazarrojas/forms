@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect order information from customers. The form is used to capture relevant details such as email, phone number, product name, order date and time, payment method, total amount, and any additional customer message. The form is designed to be completed by customers to place an order with PayU.
-
-To ensure that this form is used correctly, please note that some fields are optional and can be left blank if not applicable. The form is intended for customers who want to place an order with PayU, and it's essential to fill out the form accurately to avoid any issues with their order.
-
-The form is a multi-page form, and each page is dedicated to a specific aspect of the order. The form is designed to be user-friendly and easy to navigate. However, if you are still unsure about any part of the form, please do not hesitate to reach out to the support team for assistance.
-
-</thinking>
-
 # PayU Product Order Form - Help Guide
 ## Purpose
 The PayU Product Order Form is a form designed to collect order information from customers to enable them to place an order with PayU.

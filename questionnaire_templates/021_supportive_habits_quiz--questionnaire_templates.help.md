@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from individuals about their daily habits, sleep patterns, and habits that support their physical and mental well-being. This form will help identify patterns and areas for improvement in one's daily habits, which can be useful for individuals looking to make positive changes in their lives.
-
-The form is composed of multiple pages, each containing a different set of questions or prompts. Users are asked to complete each page in sequence, with the option to review their answers or proceed to the next page. The form does not have any time limits or deadlines, allowing users to complete it at their own pace.
-
-Before proceeding, we will check if the form has been previously filled out by the same user, in order to avoid duplicates.
-
-</thinking>
-
 # Supportive Habits Quiz - Help Guide
 ## Purpose
 The Supportive Habits Quiz is designed to gather information about your daily habits, sleep patterns, and habits that support your physical and mental well-being. This form will help you identify areas for improvement and provide insights into your habits and behaviors.

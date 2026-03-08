@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a user's communication preferences, including their preferred contact method, best contact time, contact email address, contact phone number, alternate contact phone number, communication frequency, and preferred language. This form is designed to be completed by users to provide the most up-to-date and accurate information about their communication preferences, ensuring efficient and effective communication between the user and relevant parties.
-</thinking>
-
 # Low Text Communication Preference Form - Help Guide
 ## Purpose
 The Low Text Communication Preference Form is a tool used to collect and document your communication preferences. This form will help us tailor our communication to best meet your needs.

@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's break down the form purpose and fields. The form is called "property_management_workshop_attendance_form" and it's likely used to collect information from attendees or participants of a workshop or event. The form has 8 fields: workshop_name, location, date, time, name, email, phone, and submit_form (which is not a typical field name, suggesting it might be a submit button or a confirmation prompt). Given the fields, the form seems to be collecting basic information about the workshop or event, such as its name, location, and schedule, along with attendee contact details. We'll make sure to cover all these aspects in the help guide.</thinking>
-
 # property_management_workshop_attendance_form - Help Guide
 ## Purpose
 The property_management_workshop_attendance_form is used to collect information about workshops or events and their attendees. This form helps staff or organizers gather basic details about the workshop, including its name, location, and schedule, as well as contact information for the attendees.

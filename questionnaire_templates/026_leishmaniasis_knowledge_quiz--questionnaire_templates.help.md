@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is for users to take a quiz on leishmaniasis, a disease caused by a parasite spread by sandflies, with the goal of assessing their knowledge on the subject. This form is likely intended for educational or research purposes, where users can provide answers to multiple-choice questions and submit their responses.
 
 Before starting, please note that you will need to provide information on the quiz location, date, and time of completion. While most fields are optional, please ensure you provide as much information as possible for a complete response.

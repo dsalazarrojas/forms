@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the status and readiness of public service employees for retirement. This form is used to gather information about an employee's current retirement status, concerns, benefits package, follow-ups, retirement readiness, date of birth, years of service, retirement plan, employee concerns, and retirement readiness level.
-</thinking>
-
 # public_service_retirement_assessment - Help Guide
 ## Purpose
 The Public Service Retirement Assessment form is used to evaluate an employee's eligibility and preparation for retirement. This form helps gather crucial information to determine the status and readiness of public service employees for retirement.

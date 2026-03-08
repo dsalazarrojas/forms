@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is relevant and not duplicated, it's essential to understand its purpose and context. The "Forestry Survey Tools Requisition Form" is designed to collect information from users who need to request forestry survey tools. This form will help the requesting team leaders, team members, or tool owners in forestry departments identify their tool needs, making it easier to assign the right tools to the right people.
-</thinking>
-
 # Forestry Survey Tools Requisition Form - Help Guide
 ## Purpose
 The purpose of this form is to help teams in forestry departments request and identify their needed tools and equipment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to assist in reporting police scams, which are incidents where fraudsters attempt to trick or deceive individuals, often using various tactics such as phishing, identity theft, or false promises. The form is meant to collect relevant information from victims to aid in investigations and potentially prevent future scams. This form is a public tool, created to help facilitate reporting and education, and is not affiliated with or endorsed by any specific law enforcement agency or authority. The form is a helpful resource for individuals who have fallen victim to police scams and want to report the incident in a structured and efficient manner.
 
 # Police Scam Report Form - Help Guide

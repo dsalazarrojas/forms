@@ -1,9 +1,3 @@
-<thinking>
-This form is a tool for assessing the development of a resource within an organization. It allows team members, managers, and HR representatives to provide feedback and insights on different aspects of resource development, such as feedback from team members, resource adequacy, challenges, priority areas, internal communication, manager responses, HR responses, and external feedback. By using this form, stakeholders can get a comprehensive overview of the resource's strengths and weaknesses, identifying areas that need improvement and making informed decisions for future resource development.
-
-This form should not be duplicated for different resources or projects. Each instance of this form should be filled out for a specific resource.
-</thinking>
-
 # Resource Development Assessment - Help Guide
 ## Purpose
 The Resource Development Assessment form is a tool used to evaluate the development of a resource within an organization, gathering feedback and insights from various stakeholders.

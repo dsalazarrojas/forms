@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be used by property owners or their representatives to formally release a property from their ownership. This form is usually used in situations where a property is being transferred, sold, or otherwise disposed of. The form is meant to be completed by the property owner and submitted to the relevant authorities or parties involved in the property transaction.
-
-To use this form correctly, please ensure that all required fields are filled out accurately and completely. The form is not intended to be used for any other purpose.
-
-Please note that the form does not currently have any validation rules to check for duplication or invalid data entry. However, the form's purpose and content are designed to ensure that it is used correctly and accurately.
-
-It's recommended that the form is reviewed and understood thoroughly before completing it.
-</thinking>
-
 # Property Release Form - Help Guide
 ## Purpose
 The Property Release Form is a document used to formally release a property from the ownership of the property owner or their representative. This form is essential in ensuring a smooth and legally binding property transfer process.

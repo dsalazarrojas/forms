@@ -1,10 +1,3 @@
-<thinking>
-This form is used for individuals to apply for government initiative employment opportunities. The purpose of this form is to collect contact and application information from applicants, including their job title, experience, education, email, phone number, and resume. This form is intended for internal use within the government initiative. Please ensure that the information provided is accurate and relevant to the position applied for.
-
-Before proceeding, please review the guidelines below to ensure that your application meets the requirements.
-
-</thinking>
-
 # Government Initiative Employment Application - Help Guide
 ## Purpose
 The "Government Initiative Employment Application" form is designed to collect contact and application information from individuals interested in employment opportunities within the government initiative.

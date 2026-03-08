@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and survey data from customers on products in the testing phase. The purpose of this form is to collect customer opinions and suggestions on product testing to help the development team improve the product. This form is designed for customers who have tested products and want to share their experiences. To ensure data quality, please note that the form will be reviewed before being submitted to the development team.
-</thinking>
-
 # product_testing_survey - Help Guide
 ## Purpose
 The product_testing_survey form is designed to collect feedback and survey data from customers on products in the testing phase. This form is intended for customers who have tested products and want to share their experiences with the development team to help improve the product.

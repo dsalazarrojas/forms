@@ -1,9 +1,3 @@
-<thinking>
-
-The "Shop My Color Street Stock!" form is a customer-facing form used to collect information about a customer's product order. The form is part of the product order forms category, which suggests it is related to managing and processing customer orders for products. The form is not required to be filled out, implying it's an optional form for customers to submit their orders.
-
-</thinking>
-
 # Shop My Color Street Stock! - Help Guide
 ## Purpose
 This form is designed to collect customer information and product details for orders. Fill out this form to submit your order for the "My Color Street Stock!" product.

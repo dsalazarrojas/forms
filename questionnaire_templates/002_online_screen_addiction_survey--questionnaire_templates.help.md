@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Online Screen Addiction Survey - Help Guide
 ## Purpose
 The purpose of this survey is to help researchers and experts understand individual perceptions and behaviors related to screen addiction. By filling out this form, you will be contributing to ongoing research on this topic.

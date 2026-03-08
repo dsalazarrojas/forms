@@ -1,5 +1,3 @@
-<thinking>Before designing the help guide, I'll analyze the form purpose and relevance. The form appears to be a basic survey form with various questions, including demographic information (age, employment status, occupation, education level), business-related questions (when to start a business), communication preferences (how to communicate), language proficiency (what is your language), contact information (email and phone number), and a miscellaneous section (location). The form seems to be used for some sort of user profiling or market research. I'll design the help guide based on this assumption. Please let me know if this understanding is correct or if I've missed any important information.</thinking>
-
 # Fill In The Blank Survey - Help Guide
 ## Purpose
 This is a survey form used to collect user information for market research or user profiling purposes. Please answer the questions to the best of your ability to provide accurate and honest responses.

@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning block:
-This form is used for senior citizens to request assistance with housing needs. It's essential to ensure that the user understands the form's purpose and can provide accurate information.
-The user should be able to provide their first and last names, contact number, and email address. They may also choose their preferred language and contact method. Additionally, they will need to specify their housing needs (e.g., emergency, permanent, or transitional) and the location where they would like to be housed.
-To avoid duplication of effort, the system should prevent users from submitting the form multiple times.
-</thinking>
-
 # senior_housing_request_form - Help Guide
 ## Purpose
 This form is designed to help senior citizens request assistance with their housing needs. It will collect information about their personal details, language preference, and housing requirements to ensure that they receive the appropriate support.

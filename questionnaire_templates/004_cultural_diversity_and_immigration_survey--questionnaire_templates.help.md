@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect demographic information from users to better understand their cultural diversity and immigration status.
-The form will help the organization to gather data about the cultural background, immigration status, and demographic characteristics of the users.
-Please ensure you are completing this form for the intended purpose and do not duplicate your responses.
-</thinking>
-
 # Cultural Diversity And Immigration Survey - Help Guide
 ## Purpose
 This form is designed to collect demographic information about the user's cultural background, immigration status, and personal characteristics. This data will help us understand the diversity of our community and better serve your needs.

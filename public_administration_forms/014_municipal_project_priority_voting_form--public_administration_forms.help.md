@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help project managers and team members prioritize municipal projects. By completing this form, users can submit their project ideas, provide necessary details, and vote on the priority level of each project. The form is used to collect information about projects in various categories and determine which projects should be taken on first. This information will help the project management team make informed decisions about resource allocation and project selection.
-</thinking>
-
 # Municipal Project Priority Voting Form - Help Guide
 ## Purpose
 The Municipal Project Priority Voting Form is designed to collect project information and prioritize projects based on the needs of the municipality. This form is used to submit project ideas, provide details, and vote on the priority level of each project.

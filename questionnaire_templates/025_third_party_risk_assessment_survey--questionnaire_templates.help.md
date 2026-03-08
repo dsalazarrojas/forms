@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about third-party vendors that your organization interacts with, specifically for risk assessment purposes. This form should be used to gather data on each vendor's risk level, control measures, and other relevant details. Before proceeding, ensure you are familiar with your organization's risk assessment policies and procedures to ensure accurate completion and consistency of data.
-
-</thinking>
-
 # Third Party Risk Assessment Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a digital greeting card purchase, allowing users to customize the card with their own message, image, and gift options. The form includes fields for the recipient's information, the message, and the payment details. It also includes a section for choosing the gift option and payment method. The form is intended to be user-friendly and straightforward, making it easy for users to complete it without any hassle.
-</thinking>
-
 # Purchase A Digital Greeting Card - Help Guide
 ## Purpose
 This form is used to purchase a digital greeting card for a recipient. You can customize the card with your message, choose a gift option, and select a payment method.

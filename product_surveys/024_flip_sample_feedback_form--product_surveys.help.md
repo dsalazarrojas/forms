@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from users about their experience with a product. It is intended for customers to share their thoughts, opinions, and ratings on the product. To ensure that the form is used correctly, please make sure that you have a legitimate reason for filling out this form and that your feedback is honest and constructive.
-
-</thinking>
-
 # Flip Sample Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with a product. It includes questions about their name, email, product experience, and category preferences, as well as space for free-text feedback.

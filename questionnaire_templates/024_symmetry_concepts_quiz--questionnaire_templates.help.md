@@ -1,5 +1,3 @@
-<thinking>...this form is a Symmetry Concepts Quiz, used to assess an individual's understanding of symmetry concepts. The form is used to gather input from users, and it consists of four sections: Line Symmetry Questions, Rotational Symmetry, Answer Line Symmetry, and Answer Rotational Symmetry. Each section is designed to collect information about the user's thoughts on symmetry, with Line Symmetry Questions and Rotational Symmetry being multiple-choice and single-choice questions respectively. The Answer Line Symmetry and Answer Rotational Symmetry sections are text input fields where users are asked to provide their answers to specific symmetry questions... </thinking>
-
 # Symmetry Concepts Quiz - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users create a personal oasis, a unique and tailored space that addresses their specific needs and preferences. However, we want to ensure that users understand the purpose of this form and that it is not a duplicate effort. This form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using AI. It is free to use, modify, and even sell, as long as credit is given. If you're unsure about using this form, please contact us at form@gic.mx.
-</thinking>
-
 # create_your_personal_oasis - Help Guide
 ## Purpose
 The "create_your_personal_oasis" form is designed to help users create a tailored space that addresses their specific needs and preferences.

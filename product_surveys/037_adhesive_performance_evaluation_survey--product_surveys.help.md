@@ -1,12 +1,3 @@
-<thinking>
-Adhesive Performance Evaluation Survey: A tool for collecting feedback on adhesives' performance. This form is designed for users to provide their expertise and experiences on adhesives. To ensure the form is relevant and useful, please consider the following:
-
-* This form is intended for experts and technicians with a good understanding of adhesives and their properties.
-* This form is not meant to be a comprehensive review of all adhesives, but rather a focused assessment of specific samples and their performance.
-* Please do not submit duplicate surveys for the same adhesive sample. If you have previously submitted a survey for the same sample, please do not resubmit.
-* Your input is valuable in helping us understand and improve the performance of our adhesives.
-</thinking>
-
 # Adhesive Performance Evaluation Survey - Help Guide
 ## Purpose
 The Adhesive Performance Evaluation Survey is a tool for experts and technicians to provide feedback on adhesives' performance. It helps us understand and improve the properties and behavior of our adhesives.

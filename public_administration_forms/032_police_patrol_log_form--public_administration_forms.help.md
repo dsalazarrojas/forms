@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block is used to check that the form purpose and fields are relevant and not duplicated. The Police Patrol Log Form is used to document and record information about police officer shifts, incidents, and other relevant details. This form should not be used for other purposes such as reporting crime statistics.
-</thinking>
-
 # Police Patrol Log Form - Help Guide
 ## Purpose
 This form is used to record and document information about police officer shifts, including shift start and end times, officer's involvement in incidents, and any relevant notes. The goal is to provide a clear and concise record of officer activities and incidents during a given shift.

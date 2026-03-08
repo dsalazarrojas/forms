@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to help users quickly and accurately purchase office furniture from our catalog. It's designed to guide them through the process of selecting the desired items and submitting their order. Before proceeding, please note that this form should only be used for purchasing office furniture and not for any other purpose. Also, make sure to fill in all required fields to ensure your order is processed correctly.
-</thinking>
-
 # Office Furniture Purchase Form - Help Guide
 ## Purpose
 This form is for purchasing office furniture from our catalog. It's a quick and easy way to select the desired items and submit your order.

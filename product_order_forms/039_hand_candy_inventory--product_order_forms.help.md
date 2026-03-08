@@ -1,21 +1,3 @@
-<thinking>
-The form is intended to collect information from customers for ordering hand candy products. The form should be used by customers to provide their details and preferences for a smooth order process. The form is likely used in a retail setting, such as a candy shop or online store. 
-
-The form has several pages with the following fields:
-
-* Page 1: Product Order Form
-* Page 2: Customer Info
-* Page 3: Order Details
-* Page 4: Delivery Address
-* Page 5: Payment Info
-* Page 6: Shipping Info
-* Page 7: Order Summary
-* Page 8: Customer Notes
-
-This guide will walk you through each page and field, explaining what each field means and how to complete it.
-
-</thinking>
-
 # Hand Candy Inventory - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about various stages of a life cycle, which is a crucial process for understanding the evolution of a project, product, or process over time. The Life Cycle Assessment Survey aims to collect data that can help identify key milestones, challenges, and areas for improvement. 
-Before filling out this form, please make sure to have all the necessary information at hand and avoid duplicating responses. Each field is designed to capture specific aspects of the life cycle, so make sure to fill them out accordingly. 
-This guide will help you understand each field's purpose and requirements.
-</thinking>
-
 # Life Cycle Assessment Survey - Help Guide
 ## Purpose
 The Life Cycle Assessment Survey is a structured form designed to gather detailed information about a project, product, or process's life cycle. This survey is intended to help teams and stakeholders track and analyze the evolution of the life cycle, identify key events, and make informed decisions.

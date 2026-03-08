@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers or users for spa skincare product orders. The form likely serves as a means to capture necessary details for order processing, such as order specifics, shipping information, customer details, and payment preferences. It is possible that this form is used for internal purposes within the spa or skincare business to streamline order management and improve customer service. However, I will need to analyze the form's fields and options to confirm its exact purpose and usage.
-
-Based on the provided YAML, the form appears to cater to the needs of the spa business, specifically in terms of customer orders and payments. The form might be part of a larger e-commerce system or manual order tracking process.
-
-The form does not appear to be used for duplicate or redundant purposes, as most fields are optional or specific enough that they likely serve a distinct purpose in the overall order process. I will make sure to cover every field in detail below to confirm.
-
-</thinking>
-
 # Spa Skincare Product Order Request Form - Help Guide
 
 ## Purpose

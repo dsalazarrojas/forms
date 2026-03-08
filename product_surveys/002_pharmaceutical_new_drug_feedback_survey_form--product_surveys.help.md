@@ -1,5 +1,3 @@
-<thinking>Before creating this form help guide, let's first confirm the purpose of this form. Based on the form design, it appears to be a feedback survey for new pharmaceutical drugs. The purpose of this form is to collect feedback from healthcare professionals and patients about their experiences with new drugs. This includes information about dosages, medical conditions, side effects, and overall satisfaction.</thinking>
-
 # Pharmaceutical New Drug Feedback Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from healthcare professionals and patients about their experiences with new pharmaceutical drugs. The purpose of this form is to gather information on dosages, side effects, and overall satisfaction.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about laptops, including their purchase details, user preferences, and technical specifications. It is intended to be used by employees within the company to gather data on laptop purchases, ensuring consistency and accuracy in the process.
-
-The form is part of the "product_surveys" category, which might suggest that it is used for product-related surveys. However, the provided YAML structure indicates that the form is primarily focused on collecting data about laptops.
-
-It is crucial to confirm the form's purpose and relevance with the stakeholders before proceeding with its implementation. This will help prevent duplication of effort and ensure that the form serves its intended purpose.
-
-Additionally, it would be wise to review the form's structure and ensure that it aligns with the company's existing data collection processes and standards.
-</thinking>
-
 # Laptop Purchase Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about laptops, including their purchase details, user preferences, and technical specifications.

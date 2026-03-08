@@ -1,7 +1,3 @@
-<thinking>
-This form is for assessing healthcare consumer trust levels. The goal of this form is to collect information from healthcare consumers about their trust levels in various aspects of their healthcare experience. This form is intended for providers to understand their consumers' perceptions and identify areas of improvement. Please ensure that this form is filled out for the intended purpose only.
-</thinking>
-
 # Healthcare Consumer Trust Index Survey - Help Guide
 ## Purpose
 This survey is designed to measure healthcare consumers' trust levels in their healthcare experience. Please complete this survey to help us understand your perceptions and concerns.

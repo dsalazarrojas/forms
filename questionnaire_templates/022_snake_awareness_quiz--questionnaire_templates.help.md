@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess users' awareness of snakes and their risks. It is intended for individuals who interact with snakes in their daily lives, such as snake handlers, wildlife handlers, or people living in areas with high snake populations. The form has multiple sections, each focusing on different aspects of snake awareness, including safety risks, snake habitats, and treatment procedures. The form is not mandatory, but it is recommended that users complete it to demonstrate their understanding of snake-related knowledge and identify areas where they may need further education or training.
-
-Before proceeding, please ensure that you have not completed this form in the past. If you are unsure whether you can complete the form, you may want to ask an administrator for guidance.
-
-</thinking>
-
 # Snake Awareness Quiz - Help Guide
 ## Purpose
 The Snake Awareness Quiz is designed to evaluate your understanding of snake safety, habitats, and treatment procedures. Please answer the questions honestly, and do not worry if you are unsure about any of the answers.

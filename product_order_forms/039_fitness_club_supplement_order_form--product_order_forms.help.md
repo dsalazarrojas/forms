@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide information for a fitness club supplement order. The user will be asked to submit their first name, last name, email, preferred order date, preferred pickup or delivery method, preferred payment method, payment date, and any additional notes about their order. This form is likely used for internal administrative purposes, such as managing supplement orders and tracking customer information. There is no duplication or copying from other form platforms, as this form was created using AI-generated form metadata.
-</thinking>
-
 # Fitness Club Supplement Order Form - Help Guide
 ## Purpose
 This form is designed to help you order supplements from our fitness club. It's a simple form that collects your personal details and preferences for your order.

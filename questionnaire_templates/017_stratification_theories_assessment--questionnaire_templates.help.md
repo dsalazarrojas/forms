@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about the stratification theories that are relevant to the context in which they are being applied. The purpose of this form is to gather insights and understanding of the different stratification theories that can be applied in various scenarios. This form is intended to be completed by users who have experience or knowledge about stratification theories.</thinking>
-
 # Stratification Theories Assessment - Help Guide
 ## Purpose
 

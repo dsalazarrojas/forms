@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Postages Order Form - Help Guide
 ## Purpose
 

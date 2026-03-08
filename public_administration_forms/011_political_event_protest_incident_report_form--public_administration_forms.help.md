@@ -1,12 +1,3 @@
-<thinking>
-This form is for reporting incidents related to political events, such as protests, demonstrations, or rallies. It aims to collect data on the nature of the event, its location, and any evidence that may be relevant to the incident. The purpose of this form is to help gather information for research, analysis, and potentially for official documentation.
-
-To ensure the accuracy and completeness of the data collected, please make sure to fill out the form carefully and thoroughly.
-
-**Field-by-field explanations are provided below, to help users understand the purpose and correct usage of each field.**
-
-</thinking>
-
 # politicalEventProtestIncidentReportForm - Help Guide
 ## Purpose
 The "Political Event Protest Incident Report Form" is a document designed to collect information about incidents related to political protests, demonstrations, or rallies. This form is useful for gathering data on event details, location, and any supporting evidence.

@@ -1,7 +1,3 @@
-<thinking>
-The Exempt Organization Purchase Certificate form is used by exempt organizations to claim a purchase made from a vendor. This form is required to be completed by the exempt organization for purchases made from a vendor that is not a qualified charity or a government agency. The form is used to claim a purchase as a tax-deductible expense and to document the exempt organization's relationship with the vendor. It is crucial to complete this form accurately and truthfully to avoid any potential issues with the Internal Revenue Service (IRS).
-</thinking>
-
 # Exempt Organization Purchase Certificate - Help Guide
 ## Purpose
 The Exempt Organization Purchase Certificate form is used by exempt organizations to claim a purchase made from a vendor and to document the exempt organization's relationship with the vendor.

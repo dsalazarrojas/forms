@@ -1,10 +1,3 @@
-<thinking>
-**Form Purpose and Relevance Check**
-Is this form used for assessing individual personality traits in a multicultural context? 
-Is this form a required component in our organization's HR process? 
-Is the form being filled out by individuals who are not familiar with personality questionnaires or psychological assessments?
-</thinking>
-
 # Multicultural Personality Questionnaire - Help Guide
 ## Purpose
 The Multicultural Personality Questionnaire (MPQ) is a tool designed to assess an individual's personality traits in a multicultural context. This form aims to evaluate your cultural adaptability, interpersonal relationships, and individualism, among other attributes. It is a required component in our organization's HR process for certain roles.

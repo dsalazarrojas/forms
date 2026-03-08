@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended to assess the level of menstrual distress experienced by an individual, which is a subjective measure of the discomfort or pain associated with menstruation. Menstrual distress can range from mild to severe and may be affected by various factors such as hormonal imbalances, emotional state, and lifestyle factors. This questionnaire is meant to be a self-reporting tool to help identify and quantify menstrual distress. It is essential to ensure that the individual completes the form honestly and accurately.
-</thinking>
-
 # Menstrual Distress Questionnaire - Help Guide
 ## Purpose
 The Menstrual Distress Questionnaire is a tool used to assess the level of menstrual distress experienced by an individual. It consists of multiple sections and questions, each designed to gauge specific aspects of menstrual distress.

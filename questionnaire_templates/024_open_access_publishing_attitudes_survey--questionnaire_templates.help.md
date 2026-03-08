@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect attitudes and opinions from users about open access publishing. It is intended for research purposes and should not be completed by anyone who has not been invited to participate in the study. Please ensure that you have been given explicit permission to complete this survey and that you are aware of the purpose and scope of the survey.
-</thinking>
-
 # Open Access Publishing Attitudes Survey - Help Guide
 ## Purpose
 The Open Access Publishing Attitudes Survey is designed to gather opinions and attitudes about open access publishing. This survey is intended to collect data for research purposes and is not a formal assessment or certification.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from family members about their participation in a family cruise. This form is meant to be filled out by family members to provide the family cruise organizer with relevant details about their travel plans and preferences.
-
-To prevent duplication and ensure accuracy, this form should only be filled out by family members who are participating in the cruise.
-
-</thinking>
-
 # Family Cruise Participation Survey - Help Guide
 ## Purpose
 This form is designed to collect information from family members about their participation in a family cruise. Please answer all questions carefully and accurately to ensure that the family cruise organizer has the correct information to plan a successful and enjoyable trip for everyone.

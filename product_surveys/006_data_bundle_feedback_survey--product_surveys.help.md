@@ -1,11 +1,3 @@
-<thinking>
-We will create a help guide for the "data_bundle_feedback_survey" form. This form is intended to collect feedback from customers about data bundles. It is crucial to understand the purpose of this form and how it should be completed accurately to gather valuable insights. The form is divided into several sections, each with specific fields that require different types of information. Before we begin, let's clarify that this form is designed for customers to provide feedback on their experience with data bundles. They should only fill out this form if they have had a recent experience with data bundles and want to share their thoughts on its quality, usefulness, and areas for improvement. 
-
-Please ensure that each field is filled in accurately and completely. Incomplete or misleading information can lead to poor data quality.
-
-We will break down the form into sections below:
-</thinking>
-
 # data_bundle_feedback_survey - Help Guide
 ## Purpose
 The "data_bundle_feedback_survey" form is designed to collect feedback from customers about their experiences with data bundles. This form is meant to help us understand what customers think of our data bundles, what they like or dislike, and how we can improve them.

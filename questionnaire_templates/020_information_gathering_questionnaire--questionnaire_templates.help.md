@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their audience insights, satisfaction feedback, contact details, email, and phone number. This form helps to collect data on the audience's level of satisfaction, their contact information, and other relevant details. The form is designed to be completed by users who want to provide feedback or details about themselves. To ensure that the form is completed correctly and efficiently, it is essential to understand each field's purpose and requirements.
-
-Before starting, please make sure you have not already completed this form. If you have, your data will not be collected again.
-</thinking>
-
 # Information Gathering Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from users about their audience insights, satisfaction feedback, contact details, email, and phone number.

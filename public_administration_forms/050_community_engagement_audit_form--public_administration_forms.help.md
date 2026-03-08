@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool to help organizations assess their community engagement activities. It is meant to be completed by a designated auditor to evaluate the effectiveness of community engagement efforts. To avoid duplication of effort, please ensure that each audit date is unique and not repeated. This form can be used by various departments or programs to track progress and identify areas for improvement.
-</thinking>
-
 # Community Engagement Audit - Help Guide
 ## Purpose
 The Community Engagement Audit form is designed to collect information on community engagement activities and assess their effectiveness. It helps departments and programs track progress and identify areas for improvement.

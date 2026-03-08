@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Stocking Retailer Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from retailers about their experiences with our product stocking and delivery processes. The goal is to identify areas of improvement and provide a platform for retailers to share their thoughts on how we can better meet their needs.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Buyer Wishlist Survey form is used correctly and that the respondent's answers are relevant to the business needs. To achieve this, the form should only be used by respondents who are genuine customers or potential customers with a genuine interest in the products or services offered by the company. Respondents should not be asked to complete the form if they have already completed it in the past. This helps prevent duplication of responses and ensures that we get a fresh perspective from new customers. Additionally, the survey should only be used for customers or potential customers who are interested in the products or services offered by the company, and not for general market research or academic purposes. This helps us focus on our target market and tailor our products or services accordingly.
-</thinking>
-
 # Buyer Wishlist Survey - Help Guide
 ## Purpose
 The Buyer Wishlist Survey is a tool that helps us understand what you, as a customer or potential customer, are looking for in our products or services. Your responses will help us better understand your needs and preferences, allowing us to improve and offer more relevant products that meet your expectations.

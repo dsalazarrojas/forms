@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Movements And Their Impact Survey - Help Guide
 ## Purpose
 The Social Movements And Their Impact Survey is designed to collect information about social movements and their effects on society and participants. This form helps gather insights on the awareness, impact, and characteristics of social movements. Please fill out this form if you are interested in participating in or have experience with social movements.

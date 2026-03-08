@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from customers who have purchased headphones from our company. This form helps us understand their satisfaction level, product usage, and any issues they may have encountered during the purchase process or with the product itself. By analyzing this feedback, we can identify areas of improvement and make informed decisions to enhance our products and services.
-
-Before proceeding, please note that some fields are required and must be filled in for the form to be submitted successfully. This includes fields like "purchase_date", "satisfaction", "suggestions", "headphones_warranty", "purchase_price", "purchase_channel", "product_type", "pros", "cons", "improvement_suggestions", "contact_info", "email", "product_image", "purchase_proof", "pros2", and "cons2".
-
-This form is designed to be completed by the customer after they have purchased our headphones. It is essential to provide honest and detailed feedback to help us improve our products and services.
-
-</thinking>
-
 # Headphone Purchase Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers who have purchased our headphones.

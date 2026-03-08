@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Natural Overlay Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from users about the natural overlay feature. The natural overlay feature is used to display information and provide functionality on top of other apps. This form is intended to help us understand your experience and improve the natural overlay for a better user experience.

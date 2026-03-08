@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure this form is used correctly, as it's related to sensitive financial information and potential disputes between landlords and tenants. It's essential to explain the purpose of this form and how to complete it accurately. This form is designed to document the process of discharging a tenant from a rental property, which is a crucial step in property management. This form will be used to track the status of agreements between landlords and tenants, including reasons for discharging a tenant and the amount of discharge funds. It's crucial to ensure that all fields are filled out correctly and that the form is signed and dated appropriately.
-</thinking>
-
 # Tenant Agreement Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharging of a tenant from a rental property. It is a critical step in the property management process, and it helps to track the status of agreements between landlords and tenants.

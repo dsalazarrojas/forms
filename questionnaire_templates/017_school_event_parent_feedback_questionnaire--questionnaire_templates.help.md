@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from parents after a school event. This feedback will help the event organizers understand the parents' satisfaction with the event, identify areas of improvement, and make informed decisions for future events. It's essential to complete this form accurately to provide valuable insights. Please ensure that you're not providing duplicate or irrelevant feedback, as it may lead to confusion in analyzing the results.
-</thinking>
-
 # School Event Parent Feedback Questionnaire - Help Guide
 ## Purpose
 The School Event Parent Feedback Questionnaire is a tool for collecting information from parents about their experiences and opinions after a school event. This form will help event organizers understand what worked well and what didn't, enabling them to improve future events.

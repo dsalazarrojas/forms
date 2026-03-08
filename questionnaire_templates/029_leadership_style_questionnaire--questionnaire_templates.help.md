@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to assess a leader's personal leadership style, preferences, and approaches. The purpose is to understand their behavior, values, and decision-making processes. The form is not intended to be a definitive diagnostic tool, but rather a self-assessment exercise to help leaders become more aware of their strengths and areas for growth.
-To complete this form, follow these steps:
-1. Answer each question on a separate page, and be as thorough as possible in your responses.
-2. There is no time limit, and you can complete the form at your own pace.
-3. Review your answers and make any necessary revisions before submitting.
-</thinking>
-
 # leadership_style_questionnaire - Help Guide
 
 ## Purpose

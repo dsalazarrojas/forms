@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that the purpose and usage of this form are clear to all end users. This form is intended for users to request library bookcases for their departments or teams. Before proceeding, we must check if a request for this kind of form has already been made recently to avoid duplicating efforts and ensure that all necessary information is collected. This form will be used to gather the required details for fulfilling the bookcase requisition request.
-</thinking>
-
 # Library Bookcases Requisition Form - Help Guide
 ## Purpose
 The Library Bookcases Requisition Form is used to request library bookcases for departments or teams. This form helps us understand your specific needs and ensure efficient delivery of bookcases.

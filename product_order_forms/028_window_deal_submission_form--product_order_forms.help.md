@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form, <code> "window_deal_submission_form "</code>, is to collect and process submissions related to window deals, which can include new installations, repairs, or replacements. To ensure the form is filled out correctly, please review the provided information and ensure that you are submitting a valid submission. This form is not affiliated with, endorsed by, or derived from any form platform. It was created by AI using only public survey topic metadata as inspiration, and its content is an original adaptation. 
-
-</thinking>
-
 # window_deal_submission_form - Help Guide
 ## Purpose
 The "window_deal_submission_form" is a form used to collect information and data related to window deals, including property details, deal types, and supporting documents.

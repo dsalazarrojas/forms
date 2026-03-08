@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from bloggers about their blogging journey, including their background, blogging practices, and future plans. It is intended to help bloggers provide insightful and accurate data for research and analysis purposes. To ensure the accuracy and usefulness of the collected data, please do not fill out this form if you have already done so in the past. If you have any concerns or questions, please feel free to reach out to us.
-</thinking>
-
 # Blogger Lifestyle Survey - Help Guide
 ## Purpose
 The Blogger Lifestyle Survey is a tool designed to gather information from bloggers about their blogging journey, including their background, blogging practices, and future plans. This survey aims to help us understand the blogging landscape and provide valuable insights for research and analysis purposes.

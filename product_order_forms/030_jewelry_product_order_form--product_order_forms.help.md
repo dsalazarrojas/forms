@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a new product order, typically for a jewelry product. The form is designed to collect relevant information from the customer, including their name, email, order date and time, product details, and any additional notes. This form helps to ensure that all necessary information is collected accurately and efficiently, reducing the chance of errors and miscommunication. The form is not intended to be used for duplicate orders or for orders that have already been fulfilled.
-</thinking>
-
 # Jewelry Product Order Form - Help Guide
 ## Purpose
 This form is used to create a new product order for a jewelry product. It helps to collect relevant information from the customer, ensuring accurate and efficient order processing.

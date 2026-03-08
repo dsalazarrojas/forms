@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's health history and medical preferences. It is intended for patients to provide their personal details and medical history to healthcare providers. The form is divided into several sections, each focusing on a different aspect of health information. The form's purpose is to facilitate communication between patients and healthcare providers, ensuring accurate and informed care. Ensure this form is used for its intended purpose and not for any other use that may be considered misrepresentation or duplication of work.
-
-</thinking>
-
 # health_survey - Help Guide
 ## Purpose
 The health_survey form is designed to collect health-related information from patients to facilitate accurate and informed care.

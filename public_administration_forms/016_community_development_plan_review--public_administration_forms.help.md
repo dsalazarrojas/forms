@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Community Development Plan Review" form, we need to understand its purpose and functionality. The form is designed for reviewers to evaluate a community development plan, providing various aspects of feedback on its components such as zoning, environmental impact, traffic, community benefit, and more. Reviewers are asked to provide their opinions, concerns, and suggestions on different aspects of the plan.
-
-The form consists of several fields, each designed to collect specific information. Reviewers are asked for their name, email address, their relationship to the community, the plan's reference number or name, the date of review, and their overall support for the plan. They are also asked to assess the plan's compatibility with current zoning, its environmental impact, expected traffic impact, and its potential benefit to the community. Additionally, they are asked to evaluate the plan's infrastructure adequacy and provide specific aspects they support or oppose. Finally, they can provide any additional comments or suggestions.
-
-</thinking>
-
 # Community Development Plan Review - Help Guide
 ## Purpose
 The "Community Development Plan Review" form is designed to collect feedback from reviewers on a community development plan. Reviewers provide their opinions on various aspects of the plan, including its zoning compatibility, environmental impact, traffic effects, community benefit, and infrastructure adequacy.

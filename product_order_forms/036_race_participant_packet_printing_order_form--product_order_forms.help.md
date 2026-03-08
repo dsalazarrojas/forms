@@ -1,7 +1,3 @@
-<thinking>
-This form is used by race organizers to create and manage orders for participant packets. A participant packet is a package of materials given to each participant at the start of a race. The form helps organizers to specify the type of packet, quantity, delivery address, and payment method for the order. The form is designed to be used by people who are familiar with the race events and the participant packet ordering process. Please ensure that you have all the required information before filling out this form to avoid any potential errors or rejections. Also, be aware that some fields are optional, so only fill them out if the information is necessary for your order.
-</thinking>
-
 # race_participant_packet_printing_order_form - Help Guide
 ## Purpose
 This form is used to create and manage orders for participant packets.

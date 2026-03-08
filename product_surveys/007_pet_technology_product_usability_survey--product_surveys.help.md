@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect user feedback on the usability of Pet Technology products. It's intended to be completed by pet owners who have used or are using our products. The form is divided into multiple pages, each with its own set of questions or fields to fill out. This form is not meant to be completed in one sitting, but rather as a way for users to provide feedback on specific aspects of our product. This helps us understand what works well and what can be improved.</thinking>
-
 # Pet Technology Product Usability Survey - Help Guide
 ## Purpose
 

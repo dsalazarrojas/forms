@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a lighthearted personality quiz that gauges the personality of users by asking them to choose their favorite food and activity, as well as some personality traits and a few personal details (email, phone, and date/time). This guide is for end-users, so no internal logic is considered. The form does not require any specific knowledge of the business logic or internal structure of the data.
-</thinking>
-
 # Monster Personality Quiz - Help Guide
 ## Purpose
 The Monster Personality Quiz is a fun and interactive tool that helps users discover what kind of monster they would be. By answering a series of questions, users can learn which personality traits and preferences they align with.

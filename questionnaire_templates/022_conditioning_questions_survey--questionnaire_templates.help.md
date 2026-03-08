@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Conditioning Questions Survey - Help Guide
 ## Purpose
 The Conditioning Questions Survey is a questionnaire designed to assess your understanding and familiarity with conditioning concepts, including classical and operant conditioning. It aims to gauge your knowledge and experience in applying conditioning principles in real-life situations, as well as your willingness to learn more about the topic.

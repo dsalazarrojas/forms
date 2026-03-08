@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the purpose of recommending batteries for their RVs. The form asks users to select their preferred camping style, power goals, battery warranty, preferred location of installation, preferred installation method, battery size, battery type, battery brand, special features, and whether they would like to be contacted for follow-up. This information is used to provide users with tailored battery recommendations that meet their specific needs. The form also asks for optional contact information, including phone number and email address, in case users wish to be contacted for further communication. This form is likely used by sales or customer service teams to gather information and make informed recommendations to customers.
-</thinking>
-
 # RV Battery Recommendation Request Form - Help Guide
 ## Purpose
 The RV Battery Recommendation Request Form is designed to help users find the right battery for their RV based on their specific needs and preferences.

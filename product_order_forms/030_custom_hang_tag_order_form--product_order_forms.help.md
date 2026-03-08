@@ -1,23 +1,3 @@
-<thinking> 
-We need to create a user-facing help guide for this form, which is called "custom_hang_tag_order_form". The form seems to be related to managing orders for custom hang tags, likely for art or design projects. It has multiple fields for artwork, shipping details, payments, and customer information.
-
-Let's break down the form into its components:
-
-- **Artwork**: This field is likely where users would provide the name or description of the artwork they want to order a custom hang tag for.
-- **Shipping Details**: This field is probably where users would enter the shipping details, such as shipping address, delivery date, or any other relevant information.
-- **Payment**: This field is likely where users would select their payment options, such as payment methods or currencies.
-- **Notes**: This field is probably where users would add any additional notes or comments about their order.
-- **Email**: This field is likely where users would enter their email address, which might be used for communication or confirmation purposes.
-- **Phone Number**: This field is probably where users would enter their phone number, which might be used for communication or confirmation purposes.
-- **Total**: This field is likely where users would see the total cost of their order.
-- **Shipping Details 2-6**: These fields are probably similar to the first Shipping Details field, but with a different focus or format.
-- **Customer Details**: This field is likely where users would enter any additional information about themselves, such as name, address, or contact information.
-- **Customer Info**: This field is probably where users would enter their customer information, such as order details or preferences.
-
-Considering the form has a mix of fields for different aspects of the ordering process, it's essential to ensure that each field is clearly labeled and explained to avoid confusion.
-
-</thinking>
-
 # custom_hang_tag_order_form - Help Guide
 ## Purpose
 This form is designed to help users place orders for custom hang tags related to art or design projects. Users can enter their artwork details, shipping information, payment options, and customer information to complete their order successfully.

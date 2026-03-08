@@ -1,19 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Flawless Nails Order Form", I will first analyze the form's purpose and requirements. This form appears to be for taking nail service orders from customers, collecting information about the services, prices, taxes, customer details, artist information, and payment methods. It seems to be designed for an e-commerce or salon environment where customers can place orders for various nail services with different prices, taxes, and payment options. 
-
-The form requires the following information:
-
-* Customer details (name, email, phone number, and address)
-* Artist details (name, email, phone number, and address)
-* Nail service information (services provided, price, tax)
-* Order date and time
-* Payment method and details
-
-The form also includes two sets of fields for additional notes and total price, which may not be required.
-
-To prevent duplication and ensure accurate and efficient order processing, I will ensure that the guide is clear and concise, explaining each field's purpose and requirements.
-</thinking>
-
 # Flawless Nails Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place orders for various nail services with our salon. Please fill out the form with accurate information to ensure a smooth and efficient order process.

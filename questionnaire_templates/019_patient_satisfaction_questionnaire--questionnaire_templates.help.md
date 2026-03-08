@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their overall satisfaction with their healthcare experience. It is intended to gauge the patient's perception of the care they received and suggest areas for improvement. This form should not be used to collect sensitive or confidential information. The purpose of this form is to gather feedback from patients, and it should be used to improve the quality of care and services provided.
-</thinking>
-
 # Patient Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Patient Satisfaction Questionnaire is a tool used to collect feedback from patients about their overall satisfaction with their healthcare experience. It helps us to understand their perception of the care they received and identify areas for improvement.

@@ -1,13 +1,3 @@
-<thinking>...
-
-Before diving into the painting project scope survey form, it's essential to ensure you understand its purpose and relevance. This form is designed to gather information about painting projects, specifically for internal use within your organization. Please fill out this form carefully, and don't hesitate to reach out if you have any questions or concerns.
-
-This form is meant to collect project-specific details for internal planning and resource allocation. It's crucial that you provide accurate and complete information to help us better understand your project's scope, timeline, and requirements.
-
-Before starting the survey, please make sure you have all necessary permissions and approvals in place. This form is not for external sharing or public consumption.
-
-</thinking>
-
 # Painting Project Scope Survey - Help Guide
 ## Purpose
 This form is designed to gather information about painting projects, including project details, scope, and timeline.

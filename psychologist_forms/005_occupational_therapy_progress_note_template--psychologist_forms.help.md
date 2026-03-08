@@ -1,5 +1,3 @@
-<thinking>As a psychologist, you have likely come across many forms that require detailed information about clients' progress and treatment plans. The occupationalTherapyProgressNoteTemplate form is designed to help occupational therapists capture essential data on client progress, treatment plans, and other relevant information. This form is often used to track client progress, set treatment goals, and evaluate the effectiveness of therapy sessions. It is a crucial tool for psychologists to monitor client progress and adjust their treatment plans accordingly.</thinking>
-
 # occupationalTherapyProgressNoteTemplate - Help Guide
 ## Purpose
 The occupationalTherapyProgressNoteTemplate form is designed to provide a structured format for occupational therapists to document client progress, treatment plans, and other essential information. This form helps therapists track client progress, set and evaluate treatment goals, and maintain accurate records.

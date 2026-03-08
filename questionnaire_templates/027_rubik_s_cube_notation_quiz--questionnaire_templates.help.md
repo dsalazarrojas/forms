@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a user's knowledge of the Rubik's Cube notation system, a method used to describe the algorithms for solving the cube. The form is meant to be completed by users who have a basic understanding of the cube's movement and the notation system. The form will ask the user to provide a correct notation for a given Rubik's Cube problem and submit their answer. The user's response will be checked against the correct solution, and their performance will be evaluated. This form does not store any personal data and is intended for internal use only. Please ensure that all fields are filled out correctly to get an accurate assessment.
-</thinking>
-
 # Rubiks Cube Notation Quiz - Help Guide
 ## Purpose
 This form is designed to test your understanding of the Rubik's Cube notation system. It will ask you to enter a correct notation for a given problem, and your response will be evaluated against the correct solution.

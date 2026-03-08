@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from donors on their experiences with an event or campaign, in order to improve future events or campaigns.
-This feedback is meant to be specific, detailed, and actionable, and will be used by event organizers to make informed decisions about future events.
-Please note that this form is not meant to be a survey, but rather a detailed feedback form for specific and constructive comments.
-</thinking>
-
 # Donor Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from donors on their experiences with events or campaigns.

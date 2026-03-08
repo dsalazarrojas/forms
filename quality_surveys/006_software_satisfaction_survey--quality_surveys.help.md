@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect software satisfaction feedback from users, likely from customers or internal teams within an organization. This form is designed to gather information on various aspects of the software's functionality, performance, and overall satisfaction. 
-
-The form is likely used to measure customer satisfaction or internal team satisfaction, possibly for product development, improvement, or quality assurance.
-
-Before proceeding, ensure that the form is not a duplicate of any other survey or feedback mechanism already in place. Ensure that the form is relevant to the specific department or team being surveyed.
-
-</thinking>
-
 # software_satisfaction_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect software satisfaction feedback from users.

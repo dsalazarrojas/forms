@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help guide writers create high-quality paragraphs. It collects feedback on the writing style, self-reflection, and feedback requests of the writer, which can be useful for writers to improve their writing skills. This form can be filled out by writers to gain insights into their writing style and identify areas of improvement. It is not meant to be a rigorous assessment tool, but rather a tool for writers to learn and grow.
-
-</thinking>
-
 # Paragraph Writing Guide - Help Guide
 ## Purpose
 This form is designed to help guide writers create high-quality paragraphs. It collects feedback on the writing style, self-reflection, and feedback requests of the writer, which can be useful for writers to improve their writing skills.

@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a structured survey or feedback form used to collect public opinions on law enforcement from individuals. The purpose of this form is likely to gather information on how the public perceives law enforcement, their trust levels, safety concerns, and any suggestions for improvement. It also collects contact information and submission details for follow-up or verification purposes. The form's design suggests it's intended for a specific audience, possibly law enforcement agencies or government bodies.
-
-To avoid duplication or redundancy, it's essential to review the form's requirements and ensure the user understands each field's significance.
-
-</thinking>
-
 # Public Opinion On Law Enforcement - Help Guide
 ## Purpose
 This form is designed to collect public opinions on law enforcement, gathering information on trust levels, safety concerns, and suggestions for improvement. Submitters are also required to provide contact information for follow-up or verification purposes.

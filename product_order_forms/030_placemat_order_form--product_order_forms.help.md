@@ -1,9 +1,3 @@
-<thinking>
-The form "placemat_order_form" is intended to collect information from customers for the purpose of placing an order. This form is likely used in a business-to-business (B2B) or business-to-consumer (B2C) setting, where customers provide their details and preferences for the products or services being ordered. The form is designed to be completed by the customers themselves, either through a web application or a printed document. Each field in the form is designed to elicit specific information from the customer, which will then be used to process their order.
-The form has multiple pages, but only the first page, "customer_form", is the main section where customers provide their essential information. The other pages are either additional customer information ("customer_form_section_1" and "customer_form_section_2"), delivery details, product selection, customer notes, order summary, and order notes.
-To ensure the form is being used as intended, it's essential to understand each field's purpose.
-</thinking>
-
 # placemat_order_form - Help Guide
 ## Purpose
 The placemat_order_form is a form used to collect customer information and order details for processing orders.

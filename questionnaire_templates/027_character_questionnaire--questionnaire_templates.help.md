@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a comprehensive character questionnaire designed to gather detailed information about a character's background, personality, habits, and relationships. It's essential to complete this form thoroughly and accurately to help users understand the character's personality, strengths, and weaknesses.
-
-Before starting, ensure you've read through the form carefully to avoid duplicating answers or skipping important details. This questionnaire is divided into several sections, each focusing on a different aspect of the character's life. You'll need to fill out every page completely, and some fields might require more information than others.
-
-</thinking>
-
 # Character Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect in-depth information about a character's personality, habits, relationships, and background. It's a comprehensive tool to help users understand the character's core traits and behaviors.

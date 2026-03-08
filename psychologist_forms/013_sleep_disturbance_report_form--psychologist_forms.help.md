@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on a participant's sleep patterns and experiences. This information is used to identify potential issues and inform interventions that may help improve sleep quality. The form should not be completed by participants who are not authorized to do so.
-
-To avoid duplication, ensure that each participant fills out the form only once, as repeated submissions will be discarded. If you're not sure about any information, please consult with the researcher or supervisor before filling out the form.
-</thinking>
-
 # Sleep Disturbance Report Form - Help Guide
 ## Purpose
 The Sleep Disturbance Report Form is used to collect data on a participant's sleep patterns, experiences, and quality.

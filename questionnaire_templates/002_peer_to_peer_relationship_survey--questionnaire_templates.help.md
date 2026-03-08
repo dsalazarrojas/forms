@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information about peer-to-peer relationships between two individuals. It is intended for use by researchers or administrators who want to gather data on the characteristics of these relationships. Please note that this form is not intended to be used for personal or confidential matters, and all responses will be treated as anonymous. To ensure the quality of the data, it is essential to complete this form accurately and truthfully. Please do not duplicate responses or answer based on assumptions. If you are unsure about any question, please feel free to contact the administrators for clarification. </thinking>
-
 # Peer To Peer Relationship Survey - Help Guide
 ## Purpose
 The Peer To Peer Relationship Survey is designed to collect information about relationships between two individuals. This form is used to gather data on characteristics such as demographics, relationship dynamics, and financial status.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gauge the perception of the local community towards the law enforcement in their area. The form is meant to collect feedback and opinions on various aspects of the community's experience with the law enforcement, such as safety, trust, service quality, officer interactions, and communication. This form will help the law enforcement agency to identify areas of improvement and better serve the community.
-
-The form is not intended to be a formal survey, but rather a tool to gather feedback from the community. It is not affiliated with, endorsed by, or derived from any form platform, and its creation is based on public survey topic metadata.
-
-Before filling out this form, make sure to answer the questions truthfully and to the best of your ability.
-
-</thinking>
-
 # Local Law Enforcement Community Perception Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and opinions from the community on their experience with the local law enforcement.

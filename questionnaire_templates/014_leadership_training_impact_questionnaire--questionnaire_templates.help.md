@@ -1,5 +1,3 @@
-<thinking>This form is intended for assessing the impact of leadership training sessions. It collects information about attendees, the training session itself, and the measurable outcomes of the training. To ensure consistency and data accuracy, please complete this form for all leadership training sessions. Do not reuse or duplicate forms for the same session or attendee.</thinking>
-
 # Leadership Training Impact Questionnaire - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness of leadership training sessions by collecting relevant information about the attendees, training details, and measured outcomes.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather opinions and feedback on floor films, which are likely digital displays or projections used to showcase information. The form is intended to be used by end users to provide their thoughts on the usage patterns, key preferences, and overall satisfaction with the floor film. It also captures their contact information for follow-up or additional context. The form's questions cover various aspects, including usage patterns, key preferences, satisfaction, and demographic information such as email and phone number. 
-
-This form is likely to be used in various settings where feedback on floor films is necessary, such as in museums, exhibitions, or corporate environments. The form's questions and fields should be completed by those who have used or interacted with the floor film.
-
-The following guide will walk you through the process and meaning behind each field.
-</thinking>
-
 # Floor Film Opinion Survey - Help Guide
 ## Purpose
 

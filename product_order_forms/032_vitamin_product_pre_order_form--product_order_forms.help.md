@@ -1,8 +1,3 @@
-<thinking>
-We should first confirm the purpose of this form is to allow customers to express interest in pre-ordering products, which is a unique and time-sensitive process. This form should not be used for general product inquiries or orders.
-This form's purpose is to collect early orders and preferences for delivery and product details.
-</thinking>
-
 # Vitamin Product Pre Order Form - Help Guide
 ## Purpose
 The Vitamin Product Pre Order Form is designed to allow customers to express interest in pre-ordering products. This form is for customers who want to be among the first to receive products once they are available.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather feedback from customers about their home delivery experience. 
-The purpose of this form is to understand the level of satisfaction of the customer with the delivery service they received. 
-The form will not ask for the name of the customer, but rather their contact info if they want to be contacted for more information.
-
-</thinking>
-
 # home_delivery_service_feedback_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from customers about their home delivery experience. This will help the delivery service provider to understand the level of satisfaction and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # photo_shoot_questionnaire_template - Help Guide
 ## Purpose
 This form is a questionnaire template for collecting client information, shoot details, and contact information for photo shoots. It is designed to be flexible and adaptable to various photo shoot scenarios, making it an ideal tool for photographers, event planners, and other professionals in the industry.

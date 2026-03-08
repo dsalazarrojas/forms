@@ -1,7 +1,3 @@
-<thinking>
-This form is an AI-generated, original adaptation of a survey focused on calminess coaching. It was created using only public metadata from the provided category and title. The purpose of this form is to collect information from clients to help coaches understand their current stress levels, areas for improvement, and goals for the coaching sessions.
-</thinking>
-
 # Calmness Coaching Survey - Help Guide
 ## Purpose
 This form is designed to gather information from clients to help coaches understand their current stress levels, identify areas that require attention, and set goals for coaching sessions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Wallpaper Change Interval Survey form is designed to gather information from users about their habits and preferences related to changing their wallpaper. This form aims to understand how often users change their wallpaper, what influences their decisions, and their preferred interval for changing it. The form is used by the product team to inform future development decisions and product enhancements.
 
 # Wallpaper Change Interval Survey - Help Guide

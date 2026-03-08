@@ -1,7 +1,3 @@
-<thinking>
-This help guide will help you complete the Art Gallery Exhibition Supplies Order Form accurately and efficiently. Please read through the form carefully and review each section to ensure you understand the required information before filling out the form. This form is used for exhibition supply orders for art galleries, and all required fields must be completed for the order to be processed. If you have any questions or concerns, please contact the relevant department.
-</thinking>
-
 # Art Gallery Exhibition Supplies Order Form - Help Guide
 
 ## Purpose

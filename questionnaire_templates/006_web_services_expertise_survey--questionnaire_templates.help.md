@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information from individuals about their expertise in providing web services, specifically in the context of IT services. The purpose of the form is to collect data that will help in understanding the expertise and proficiency of individuals in providing web services.
-
-Before filling out this form, please ensure that you are not duplicating your submission. If you have already submitted this form, please do not resubmit. This form is a survey for gathering expert information and your input will be highly valued.
-
-</thinking>
-
 # AI-Generated Form - Help Guide
 ## Purpose
 This form is designed to gather information about your expertise in providing web services, specifically in the context of IT services.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer data for the placement of a hair product order. It is crucial to ensure that the form is filled out completely and accurately to facilitate a smooth and timely order process. Before proceeding, please verify that the form is not a duplicate and that you have all the necessary information to complete it. This form will only be used for hair product orders, so please ensure you are only completing this form for this specific use case.
-</thinking>
-
 # Hair Product Order Form - Help Guide
 ## Purpose
 This form is for placing a hair product order. It is essential to fill out all required fields accurately to avoid delays in processing your order.

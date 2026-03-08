@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Academic Expert Interview Form - Help Guide**
 
 ## Purpose

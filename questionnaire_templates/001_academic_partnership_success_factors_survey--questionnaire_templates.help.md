@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on the success factors and experiences of academic partnerships between institutions. It appears that this form is intended to gather information on various aspects of partnerships, such as partner information, partnership type, communication efficiency, resource sharing, goal alignment, and overall satisfaction. The form asks for concrete feedback on the effectiveness of communication, resource sharing, and goal alignment, as well as suggestions for areas of improvement. Additionally, it seeks to understand the likelihood of continuing the partnership and any additional comments or insights. To ensure that users understand the purpose and requirements of this form, it is essential to provide a clear and concise help guide.
-</thinking>
-
 # Academic Partnership Success Factors Survey - Help Guide
 ## Purpose
 This form is designed to collect data on the success factors and experiences of academic partnerships between institutions. It aims to gather information on various aspects of partnerships, including partner information, partnership type, communication efficiency, resource sharing, goal alignment, and overall satisfaction.

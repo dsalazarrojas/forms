@@ -1,7 +1,3 @@
-<thinking>
-This guide is to ensure that the Wedding Hair And Makeup Questionnaire form is completed accurately and efficiently by end-users. The form is designed to collect information about a wedding event, specifically about the hair and makeup preferences of the bride and groom. The form should not be completed if the end-user is not involved in a wedding event or if the same event has already been processed.
-</thinking>
-
 # Wedding Hair And Makeup Questionnaire - Help Guide
 ## Purpose
 The Wedding Hair And Makeup Questionnaire is a form designed to collect information about the hair and makeup preferences of the bride and groom in a wedding event.

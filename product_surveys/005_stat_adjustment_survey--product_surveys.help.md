@@ -1,17 +1,3 @@
-<thinking>
-
-The Stat Adjustment Survey is used to collect feedback from users on the effectiveness and usefulness of adjustments made to their player data. This form helps us identify areas where we can improve our services and make adjustments that better meet the needs of our users. This form should only be filled out by users who have previously submitted feedback and are providing additional insights on their player data adjustments. 
-
-This form is meant to be filled out by users who have a strong opinion on the adjustments made to their data, and are able to provide specific examples or suggestions for improvement. 
-
-The purpose of this form is to provide a structured way for users to share their thoughts on our stat adjustments, and to help us refine and improve our processes. 
-
-Note: This form should not be filled out by new users, and it's recommended that only users who have previously provided feedback are allowed to fill out this form. 
-
-We recommend filling out this form if you have thoughts or suggestions on how we can improve our stat adjustments, or if you have an opinion on how well your data was adjusted.
-
-</thinking>
-
 # Stat Adjustment Survey - Help Guide
 ## Purpose
 The Stat Adjustment Survey is used to collect feedback from users on the effectiveness and usefulness of adjustments made to their player data. This form helps us identify areas where we can improve our services and make adjustments that better meet the needs of our users.

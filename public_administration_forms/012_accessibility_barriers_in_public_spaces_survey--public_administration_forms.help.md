@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about individuals' experiences and perceptions related to accessibility barriers in public spaces. The purpose of this form is to collect data on the types and frequencies of accessibility issues encountered by individuals with disabilities, as well as their opinions on the current state of accessibility in public spaces. This information will be used to inform policy decisions and improvements to accessibility features in public spaces. The form is intended to be completed by individuals with disabilities, caregivers, or advocates, and their responses will help to better understand the needs and concerns of individuals with disabilities in public spaces. Please ensure that the form is completed by the intended audience to ensure accurate and relevant data collection.
-</thinking>
-
 # Accessibility Barriers In Public Spaces Survey - Help Guide
 
 ## Purpose

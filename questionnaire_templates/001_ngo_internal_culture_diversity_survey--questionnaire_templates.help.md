@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gauge the internal culture diversity of an NGO, measuring perceptions and experiences of employees on diversity and inclusion in the workplace. This form will guide employees in providing an honest and open account of their feelings towards diversity in their workplace. Please fill out this form if it was distributed to you.
-
-</thinking>
-
 # NGO Internal Culture Diversity Survey - Help Guide
 ## Purpose
 This form is a self-assessment tool aimed at evaluating the internal culture diversity of your NGO, specifically in the areas of inclusion and workplace experience. Your answers will help us better understand the state of diversity in our organization and identify areas for improvement.

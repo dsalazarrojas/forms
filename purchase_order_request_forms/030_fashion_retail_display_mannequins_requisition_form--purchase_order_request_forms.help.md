@@ -1,6 +1,3 @@
-<thinking>
-A help guide for the Fashion Retail Display Mannequins Requisition Form should aim to clearly explain the purpose of the form, the steps to complete it, and what each field means to help users fill it out correctly and efficiently. The form is intended to request new mannequins for display purposes in the retail setting. Below is a detailed guide to help users complete the form accurately and effectively.</thinking>
-
 # Fashion Retail Display Mannequins Requisition Form - Help Guide
 ## Purpose
 The Fashion Retail Display Mannequins Requisition Form is used to request new mannequins for display purposes in the retail setting. This form helps in tracking and managing mannequin requests, ensuring that the right person receives the request and the necessary information is provided.

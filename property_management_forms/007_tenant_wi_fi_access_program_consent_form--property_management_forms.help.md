@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form is designed to capture information for the Tenant Wi-Fi Access Program Consent, allowing tenants to provide their consent for Wi-Fi access in a building or facility.
-Form fields need to be filled out by the tenant to provide consent. Please note that this form was generated using machine learning and might not cover every specific case or exception.
-</thinking>
-
 # Tenant Wi Fi Access Program Consent Form - Help Guide
 ## Purpose
 This form is for tenants to provide their consent for participating in the Tenant Wi-Fi Access Program. It collects information about the tenant, including their name and contact email.

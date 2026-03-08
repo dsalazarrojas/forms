@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to guide customers through the process of creating a purchase order for products. Its purpose is to collect necessary information for the purchase order process, including product details, customer information, shipping address, and payment method. 
-
-This form will be used by customers to submit their purchase orders for review and processing. 
-
-Before proceeding, please ensure that you have read and understood the following:
-
-* This form is for internal use only, and the data collected will not be shared with any third-party.
-* The form is designed to be used by customers to submit their purchase orders.
-* This form is an internal tool and not intended for public use.
-* The form data will be reviewed and processed internally.
-
-</thinking>
-
 # Product Purchase Order Form - Help Guide
 ## Purpose
 This form is designed to guide customers through the process of creating a purchase order for products. The form collects necessary information for the purchase order process.

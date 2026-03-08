@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about hormonal and neural control in various aspects of human life, including emotional regulation, cognitive processing, and physiological responses. 
-It is intended for individuals who wish to explore their own hormonal and neural systems, or for researchers and healthcare professionals who want to collect data on these topics. The form's purpose is to provide a structured and organized framework for collecting information on hormonal and neural control, which can be used to inform personal growth, research, or clinical applications.
-
-Before proceeding, please ensure that you have not already completed this form as this may be a duplicate effort. If you have any concerns or questions about the form's purpose or content, please contact [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # Hormonal And Neural Control Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about hormonal and neural control in various aspects of human life. It is intended for individuals who wish to explore their own hormonal and neural systems, or for researchers and healthcare professionals who want to collect data on these topics.

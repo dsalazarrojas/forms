@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kitchen Cabinet Prep Quiz - Help Guide
 ## Purpose
 The purpose of this form is to collect information and assess a client's readiness and safety procedures for a kitchen cabinet installation project. It includes questions and fields to gather data on safety awareness, client confidence, project requirements, and other relevant details.

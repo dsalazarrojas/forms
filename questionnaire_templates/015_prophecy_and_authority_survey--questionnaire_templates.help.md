@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their experiences and beliefs related to prophecies and spiritual authority. This form is likely used in a context where understanding and analyzing these concepts is important, such as in a religious or spiritual setting. The form is designed to gather data on various aspects of prophecies, including the frequency, duration, and impact of experiences, as well as the sources of influence and personal beliefs about spiritual authority.
-
-To ensure that the form is completed accurately and without duplication, it would be helpful to implement checks that verify the consistency of responses, particularly for those that report experiencing prophecies in the past. For example, a user who reports experiencing prophecies may be directed to a follow-up survey that delves deeper into specific details of their experiences.
-
-Before proceeding, users should be informed that the form is intended to be a personal and confidential survey, and that their responses will be treated as such. Additionally, they should be assured that their data will be used for research purposes only, and that their identities will not be disclosed.
-</thinking>
-
 # Prophecy And Authority Survey - Help Guide
 ## Purpose
 This guide will assist you in completing the Prophecy and Authority Survey. The survey is designed to gather information about your experiences and beliefs related to prophecies and spiritual authority.

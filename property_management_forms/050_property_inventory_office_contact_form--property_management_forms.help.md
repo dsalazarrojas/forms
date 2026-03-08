@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be designed for property management office use, gathering information about property inventory submissions. The form likely aims to collect data about properties that require attention, updates, or other management actions. This form will help office staff efficiently manage and track property-related submissions, ensuring accurate and timely responses. 
-
-Before filling out this form, make sure to review the submission information and provide clear details for each field to avoid any confusion or errors. This form will help streamline the workflow for property management office staff and improve response times for tenants and property owners.
-
-Please note that some fields are required, while others are optional. Ensure you provide accurate and complete information to facilitate efficient processing. Also, be aware that some fields have specific data types (e.g., email, date, time), so enter data in the correct format.
-
-</thinking>
-
 # Property Inventory Office Contact Form - Help Guide
 ## Purpose
 This form is designed to collect and manage property-related submissions, allowing the property management office to efficiently handle and track these submissions.

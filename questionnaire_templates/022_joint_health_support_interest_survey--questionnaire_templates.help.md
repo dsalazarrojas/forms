@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their interests and preferences regarding joint health support. The form's primary goal is to collect data for improving joint health support services. This form should be used to capture user preferences for various aspects of joint health support, including type of support, duration, time of day, preferred contact method, and any additional questions or requests.
-</thinking>
-
 # Joint Health Support Interest Survey - Help Guide
 ## Purpose
 This survey is designed to collect information from users about their interests and preferences regarding joint health support. The data collected will be used to improve joint health support services.

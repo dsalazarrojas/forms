@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for patients who have undergone surgery and are being asked to provide feedback on their experience. The form is designed to collect information on their perception of their care, including pain levels, satisfaction, communication with their doctor, and other aspects of their hospital stay. **Please note that this form is not intended for patients who have not undergone surgery. If you are unsure about your role in filling out this form, please reach out to your healthcare provider.**
-
-</thinking>
-
 # Post Surgery Patient Feedback Questionnaire - Help Guide
 
 ## Purpose

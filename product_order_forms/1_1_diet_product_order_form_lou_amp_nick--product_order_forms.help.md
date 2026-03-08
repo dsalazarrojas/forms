@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # 1:1 Diet Product Order Form Lou & Nick - Help Guide
 ## Purpose
 This form is designed for customers to place orders for the 1:1 Diet products. Please fill out the form completely and accurately to ensure efficient processing and delivery of your order.

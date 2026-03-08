@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to help users find the best beginner program for their needs. This form is likely used to guide users in selecting a program that matches their goals, level of experience, and learning style. The form collects information about the user's goals, experience, learning style, and other relevant factors to provide a personalized recommendation. This is a form for users seeking advice on which beginner program to start with, possibly based on their personal preferences and constraints. The form should be completed by users who want to find a program that suits their goals and learning pace. This form does not appear to be redundant or unnecessary based on its purpose.
-</thinking>
 # Find The Best Beginner Program For You - Help Guide
 ## Purpose
 This form is designed to guide users in finding the best beginner program that suits their needs. The form collects information about the user's goals, experience, and learning style to provide a personalized recommendation.

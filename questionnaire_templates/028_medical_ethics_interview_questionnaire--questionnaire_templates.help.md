@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about medical ethics and related topics. Its purpose is to gather opinions, attitudes, and beliefs from healthcare professionals regarding medical ethics. The form consists of multiple sections, each focused on different aspects of medical ethics. The fields are mostly open-ended text fields, allowing respondents to provide detailed responses. However, some sections may have specific instructions or prompts.
-
-The form's layout is not intended to be confusing, but rather to make it easier to understand by breaking it down into multiple sections. Each section covers a specific topic, making it easier for the respondent to focus on one area at a time.
-
-This form is not designed to be a comprehensive medical ethics questionnaire. It is an open-ended survey intended to gather insights and opinions. Please answer the questions to the best of your ability.
-
-</thinking>
-
 # Medical Ethics Interview Questionnaire - Help Guide
 ## Purpose
 

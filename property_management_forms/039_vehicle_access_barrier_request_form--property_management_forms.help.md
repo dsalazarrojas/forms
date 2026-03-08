@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from property owners or managers about vehicle access barriers to their properties. The purpose of this form is to gather essential details to facilitate the process of requesting vehicle access for emergency services or other approved vehicles. The form should only be completed by property owners or managers who are directly involved in the vehicle access process or have authorized staff members to fill it out on their behalf.
-
-**Please note that this form may be used internally or externally, depending on the property's specific needs and regulations.**
-
-This form is used to provide a clear and structured way to request vehicle access. To ensure accurate and efficient processing, please fill out the form as thoroughly and accurately as possible.
-
-</thinking>
-
 # Vehicle Access Barrier Request Form - Help Guide
 
 ## Purpose

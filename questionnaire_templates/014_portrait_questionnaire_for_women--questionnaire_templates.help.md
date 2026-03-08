@@ -1,18 +1,3 @@
-<thinking>
-We need to ensure that the "Portrait Questionnaire For Women" is not duplicated for the same client. To avoid any confusion, please note that this form is for clients who are new or have not been previously photographed by our team. If you are a returning client, please contact your photographer for guidance on resubmitting the form.
-
-To complete this form, simply follow the steps below:
-
-1. Start by providing your client's contact information, including their name, address, and phone number. This will help us get in touch with you and coordinate the shoot.
-2. Fill out the shoot details, such as the type of shoot you are looking for (e.g. glamour, fashion, commercial, etc.).
-3. Provide your contact method (e.g. phone, email, or mail).
-4. Let us know the location of the shoot and the date and time you are available.
-5. If you have any special requests or notes for the shoot, such as any specific poses or clothing, please let us know.
-6. Finally, provide any additional contact information, such as your email address or phone number.
-
-Please note that this form is not meant to be a comprehensive guide to photography. Our photographers will work with you to discuss and plan the shoot in more detail.
-</thinking>
-
 # Portrait Questionnaire For Women - Help Guide
 ## Purpose
 The "Portrait Questionnaire For Women" is a form designed to gather information about your needs and preferences for a photo shoot. It helps our photographers understand your expectations and provide the best experience for you.

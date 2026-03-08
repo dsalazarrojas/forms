@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Cafe Coffee Blend Quality Survey" form, I will focus on explaining the form's purpose, how to complete it, and what each field means, based on the provided YAML fields.
-
-The form is designed to collect feedback from customers about their experience with a specific coffee blend at a cafe. The form is used to gather information about their visit, the coffee blend they tried, and their overall satisfaction with the coffee.
-
-This form is not affiliated with or endorsed by any form platform, and it is a free-to-use adaptation of a public survey topic.
-</thinking>
-
 # Cafe Coffee Blend Quality Survey - Help Guide
 ## Purpose
 The Cafe Coffee Blend Quality Survey is designed to help us understand your experience with our coffee blend. Your feedback will help us improve the quality and taste of our coffee.

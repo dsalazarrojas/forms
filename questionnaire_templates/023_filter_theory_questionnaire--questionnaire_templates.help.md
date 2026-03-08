@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block that explains the form purpose and checks for relevance and non-duplication:</thinking>
-
 # Filter Theory Questionnaire - Help Guide
 ## Purpose
 The Filter Theory Questionnaire is a comprehensive instrument designed to assess various aspects of filter theory, which is the psychological theory that describes how people perceive and process visual information. This questionnaire is used to evaluate an individual's ability to recognize, understand, and apply filters in different contexts, including familiarity, real-world application, and consistency in form submission results. The questions are designed to be answered on a scale from 0 to 10, with higher scores indicating greater familiarity, understanding, and application of filters.

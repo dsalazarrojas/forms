@@ -1,11 +1,3 @@
-<thinking>
-The Patient Health Questionnaire PHQ9 is a comprehensive tool used to assess the mental health and well-being of patients. This questionnaire is designed to evaluate various aspects of a patient's health, including physical activity, social contact, feelings, sleep, appetite, fatigue, pain, enjoyment, work, worry, anxiety, anger, sadness, fears, guilt, worth, irritability, concentration, loss, health care, medical conditions, medication, alcohol use, legal issues, and legal court.
-
-The PHQ9 is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using public survey topic metadata. It is released under CC BY 4.0 and can be used, modified, and even sold with proper credit.
-
-Before proceeding, please ensure that this questionnaire is relevant to your specific context and does not duplicate any existing surveys or forms. If you're unsure, please review the form's fields and their corresponding questions to determine its applicability.
-</thinking>
-
 # Patient Health Questionnaire PHQ9 - Help Guide
 
 ## Purpose

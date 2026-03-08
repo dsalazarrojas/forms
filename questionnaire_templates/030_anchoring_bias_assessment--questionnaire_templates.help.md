@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a user's ability to recognize and manage anchoring bias in decision-making. Anchoring bias occurs when people make judgments based on the first piece of information they encounter, rather than on a more objective evaluation of the situation. This form will ask you to participate in two scenarios where you will be presented with an "anchor" value, and then estimate a value based on that anchor. You will also be asked about your background and familiarity with cognitive biases.
-</thinking>
-
 # Anchoring Bias Assessment - Help Guide
 
 ## Purpose

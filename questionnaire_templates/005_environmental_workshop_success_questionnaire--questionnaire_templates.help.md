@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Environmental Workshop Success Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess the quality and effectiveness of environmental workshops. It helps organizers evaluate their sessions, gather feedback, and identify areas for improvement.

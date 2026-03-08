@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from residents on the condition and quality of municipal infrastructure in their neighborhood, including services provided, accessibility, and overall satisfaction. The purpose of this form is to help city planners and decision-makers understand resident perceptions and opinions on the state of their community. This form is meant to be a recurring survey to track changes and progress over time. Ensure that you are not duplicating this form, and that all responses are from genuine residents.
-
-</thinking>
-
 # municipal_infrastructure_resident_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from residents on the condition and quality of municipal infrastructure in their neighborhood, including services provided, accessibility, and overall satisfaction. It is meant to help city planners and decision-makers understand resident perceptions and opinions on the state of their community.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information about a High-Performance Computing (HPC) cluster setup. It is intended for IT and research leads, research leads, and engineering leads to provide information about their cluster setup. This form will help identify the cluster's characteristics, resources, and support requirements. Please fill out this form carefully to provide accurate information. If you have filled out this form before, please be aware that you will be creating a new submission. If you are unsure about any field, please reach out to your IT department or research lead for clarification.
-</thinking>
-
 # HPC Cluster Setup Survey - Help Guide
 
 ## Purpose

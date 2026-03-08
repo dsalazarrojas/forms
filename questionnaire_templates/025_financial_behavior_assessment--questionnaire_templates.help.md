@@ -1,17 +1,3 @@
-<thinking>
-To determine whether this form is relevant and necessary, we first need to understand its purpose and how it relates to your financial behavior. This form is designed to help gather information about your financial habits, attitudes, and confidence levels related to spending, budgeting, saving, and risk tolerance.
-
-Upon reviewing the provided YAML configuration, it appears to be a comprehensive questionnaire covering various aspects of financial behavior, including:
-
-- Financial habits and attitudes (e.g., saving frequency, budgeting confidence, financial education)
-- Spending and saving strategies (e.g., savings strategies, financial goal)
-- Risk tolerance (e.g., risk tolerance, risk tolerance 2, risk tolerance 3)
-- Financial goals and confidence levels (e.g., financial goal, financial goal 2, spending confidence, budgeting confidence)
-
-Given the breadth of topics covered, it's likely that this form is intended for individuals or organizations interested in assessing and improving their financial literacy, management, and decision-making abilities.
-
-Before proceeding, make sure you have not completed a similar form recently, as some questions might be redundant or overlap with previous assessments.</thinking>
-
 # Financial Behavior Assessment - Help Guide
 ## Purpose
 The Financial Behavior Assessment is a questionnaire designed to evaluate your financial habits, attitudes, and confidence levels related to spending, budgeting, saving, and risk tolerance.

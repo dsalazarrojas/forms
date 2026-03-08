@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Handbag Exclusive Release Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect pre-order information for a limited-release handbag product. It gathers essential details from customers, including their name, email, phone number, address, and payment method. The form helps to facilitate a smooth pre-order process and ensures that customers are aware of the shipping costs associated with their order.

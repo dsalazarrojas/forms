@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather essential information from clients about their animation project, ensuring that we understand their needs and preferences accurately. This form helps us determine the scope of the project, including the client's target audience, desired animation style, and project timeline. Please fill out this form carefully, and make sure to provide as much detail as possible. If you have any questions or concerns, please do not hesitate to contact us...</thinking>
-
 # Animation Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients about their animation project. It helps us understand their needs, preferences, and goals, ensuring that we can provide an accurate quote and deliver a high-quality animation that meets their expectations.

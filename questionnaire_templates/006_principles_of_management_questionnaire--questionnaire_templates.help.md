@@ -1,5 +1,3 @@
-<thinking>Is this form intended for managers to assess their leadership style and skills? Is it a self-assessment tool for them to evaluate their strengths and weaknesses? Are the questions aiming to provide insights into their management approach, decision-making processes, and conflict resolution strategies? Are there any specific requirements or restrictions for this form, e.g., only for internal use or specific job role?</thinking>
-
 # Principles Of Management Questionnaire - Help Guide
 ## Purpose
 This form aims to help managers evaluate their leadership style, skills, and approach to different management aspects. It is a tool for self-assessment and personal development.

@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and straightforward for end-users to provide accurate and relevant information for their order. The purpose of this form is to collect customer information, delivery address, and order details for pre-ordered camping tents. It's crucial to confirm that the form is being filled out for the intended purpose and that no unnecessary fields are being filled out. This will help us ensure that the data collected is accurate and useful for the customer service and fulfillment process.
-
-The fields are categorized into several sections: Customer Information, Delivery Address, Tent Selection, Optional Add-ons, and Delivery Information. Each section is designed to collect relevant information for the customer's order.
-
-This form is intended for customers to provide information about themselves and their order preferences. It's essential to fill out the form accurately to ensure that the order is processed correctly and that the customer receives their order on time.
-</thinking>
-
 # Camping Tent Pre Order Form - Help Guide
 ## Purpose
 The Camping Tent Pre Order Form is designed to collect customer information and order details for camping tents. It's essential to fill out the form accurately to ensure that your order is processed correctly and that you receive your order on time.

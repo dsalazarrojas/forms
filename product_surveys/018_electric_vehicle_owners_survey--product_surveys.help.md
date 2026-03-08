@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information from electric vehicle owners about their experiences and preferences. The purpose of this form is to collect data that can be used to improve the design and functionality of electric vehicles. However, to ensure the accuracy and relevance of the collected data, we must verify that the responses are from actual electric vehicle owners. Therefore, it is crucial to confirm the owner's experience and ensure that the form is not duplicated.
-
-To confirm that the form is completed by the correct audience, we will ask for a combination of demographic information and experience-based questions. This will help us ensure that the data collected is genuine and relevant to the electric vehicle industry.
-
-Please note that the form will only ask questions that are necessary to gather the required information and will not ask for any sensitive or personally identifiable information. The responses will be used to improve the design and functionality of electric vehicles, and will be kept anonymous to maintain the owner's privacy. 
-
-</thinking>
-
 # Electric Vehicle Owners Survey - Help Guide
 ## Purpose
 This survey is designed to collect information from electric vehicle owners about their experiences and preferences. The data collected will be used to improve the design and functionality of electric vehicles.

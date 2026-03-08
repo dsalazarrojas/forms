@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for users to verify their contact information and preferences for service selection. The form will collect information from the user on their contact details such as name, email, and phone number. It will also collect their preferences for contact methods and services they are interested in.
-
-This form will help users provide accurate contact information to ensure proper communication and service selection. Users will be able to select their preferred contact methods and services, which will be used to tailor the services provided to their needs.
-
-The form is designed to be easy to use, with clear labels and fields for each section. The purpose of this form is to collect relevant information from users in a way that is efficient and non-intrusive.
-
-To avoid duplication of effort, it's essential to review and update the form schema before using it.
-
-</thinking>
-
 # Preference Verification Form - Help Guide
 ## Purpose
 The Preference Verification Form is a simple, multi-page form used to collect contact information and preferences for service selection. The form is designed for users to provide accurate and up-to-date contact details and service preferences.

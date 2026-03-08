@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is well-understood by respondents before it's deployed. Upon review, the form is designed to gauge the efficiency of compliance processes within a building or organization. It assesses various aspects, including workflow, communication, tools, and systems, to identify bottlenecks, challenges, and areas for improvement.
-This form does not appear to be a duplication or copy of any existing form. The questions seem to be a mix of qualitative and quantitative assessments. We will focus on providing clear and concise explanations for each field to facilitate completion.
-</thinking>
-
 # Building Compliance Efficiency Survey - Help Guide
 ## Purpose
 The Building Compliance Efficiency Survey is designed to assess the efficiency of compliance processes within a building or organization. This survey helps identify areas of improvement, bottlenecks, and challenges in the compliance workflow, communication, and tools and systems used.

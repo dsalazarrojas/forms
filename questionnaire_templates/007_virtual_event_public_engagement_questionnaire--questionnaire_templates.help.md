@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Event Public Engagement Questionnaire - Help Guide
 ## Purpose
 This form is intended to gather feedback from attendees of virtual events, focusing on their experience, satisfaction, and engagement with the event and its speakers. It helps event organizers and speakers to understand their audience's needs and preferences, enabling them to improve future events and provide better services. Please fill out this form only if you have attended a virtual event that we have organized.

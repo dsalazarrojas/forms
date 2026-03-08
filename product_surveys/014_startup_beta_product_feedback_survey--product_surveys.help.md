@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from the users who participated in a beta product test, providing an opportunity for them to share their thoughts, concerns, and opinions about the product. This feedback will help the development team refine the product and make it more user-friendly and reliable. 
-Please ensure that you're not duplicating your feedback by checking the provided help guide. Your input is invaluable to us, and we appreciate your time and effort in helping us improve our product.
-</thinking>
-
 # Startup Beta Product Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather your feedback about the startup beta product you've tested. Your input will help us make the product more user-friendly, efficient, and reliable. Please take a few minutes to answer these questions to help us understand your experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Product Purchase Form - Help Guide
 ## Purpose
 The Online Product Purchase Form is designed to collect necessary information for making online purchases from our platform. Please use this form to accurately provide your details for a smooth and hassle-free transaction experience.

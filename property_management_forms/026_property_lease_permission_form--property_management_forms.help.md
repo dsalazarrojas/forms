@@ -1,8 +1,3 @@
-<thinking>
-This form is for property management, likely used by landlords or property managers to collect information and permissions from tenants. The purpose of this form is to gather data on guest visits, subleasing, other activities, date, time, and tenant information. This form might be used for tracking and recording property usage and tenant interactions. It's crucial to fill out this form accurately to ensure correct data and avoid any potential issues.
-
-</thinking>
-
 # Property Leverage Form - Help Guide
 ## Purpose
 The Property Leverage Form is a tool for property managers to collect necessary information from tenants. The form is designed to gather data on tenant interactions, property usage, and other relevant details.

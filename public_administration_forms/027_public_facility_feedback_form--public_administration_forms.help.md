@@ -1,9 +1,3 @@
-<thinking>
-We have a public administration form called "public_facility_feedback_form". This form is for users to provide feedback about the public facility they have visited, including its condition, services, and overall experience. 
-The form will collect user input across several fields, with some required and optional sections.
-We need to verify that users are indeed providing feedback about a public facility, not just spamming the form for other purposes.
-</thinking>
-
 # public_facility_feedback_form - Help Guide
 ## Purpose
 The public_facility_feedback_form is designed to collect feedback from users about their experiences at public facilities. This form will help us understand how our facilities are performing and identify areas for improvement.

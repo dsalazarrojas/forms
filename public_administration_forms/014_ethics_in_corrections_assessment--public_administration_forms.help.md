@@ -1,5 +1,3 @@
-<thinking>As a seasoned expert in form design and technical writing, I'm going to assume that this form is part of a larger system for assessing the ethical practices within corrections facilities. This form, titled "Ethics In Corrections Assessment", aims to gather information on various aspects of ethics within the correctional environment, such as decision-making, training, evaluations, and feedback mechanisms. I will now provide a clear and concise help guide for end-users to understand the form's purpose and each field's meaning.</thinking>
-
 # Ethics In Corrections Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect information on the state of ethics within corrections facilities, including decision-making processes, training, evaluations, and feedback mechanisms. This assessment will help identify areas of improvement and provide valuable insights for enhancing the overall ethical climate within the facilities.

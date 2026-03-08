@@ -1,9 +1,3 @@
-<thinking>
-Please check that the form is being used for its intended purpose and that the user is not trying to check in multiple times in one visit. The form is not meant to be used for multiple check-ins.
-The purpose of this form is to record and manage visitor information for child support office check-ins.
-Please ensure that all required fields are filled in accurately and completely.
-</thinking>
-
 # Child Support Office Check In Form - Help Guide
 ## Purpose
 This form is used to record and manage visitor information for child support office check-ins. Please complete the form accurately and thoroughly.

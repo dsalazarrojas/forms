@@ -1,18 +1,3 @@
-<thinking>
-The form purpose is to gather information related to a purchase order authorization request, which is an internal process to verify and approve purchase requests. This form helps ensure that all necessary information is captured before proceeding with the purchase. The form is not meant to be a comprehensive purchase order form, but rather a secondary form used to authorize the order after it has been initiated.
-
-The form is typically used when a purchase has already been created in the system, and the approver needs to verify and approve the details before allowing the order to proceed. This form is not intended for users who are creating new purchase orders.
-
-The fields included in this form are meant to provide quick and efficient authorization without requiring users to navigate through complex purchase order creation processes.
-
-Before proceeding, ensure this form is being used correctly by checking the following:
-
-* Only use this form when you have already created a purchase order in the system.
-* Ensure you have the necessary permissions to access and edit purchase orders.
-* Verify that the purchase order you are trying to authorize is not already in progress or approved.
-
-</thinking>
-
 # purchase_order_authorization_form - Help Guide
 
 ## Purpose

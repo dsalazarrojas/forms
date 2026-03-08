@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents or issues related to court order services. It's meant to be filled out by users who have encountered problems while attempting to access or utilize these services.
-
-The form has several sections and fields that aim to gather detailed information about the issue at hand. This includes multiple-choice fields to capture the nature of the issue, text fields to collect more in-depth details, and date/time fields to record the timing of the incident.
-
-Before filling out this form, ensure that you're not duplicating a previously reported issue. This form should only be used to report new or ongoing issues.
-</thinking>
-
 # Court Order Service Issue Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents or issues related to court order services. Please use it to report new or ongoing problems you've experienced.

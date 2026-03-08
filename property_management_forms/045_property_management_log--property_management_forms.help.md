@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record and track property management activities. It should be used by property management teams to maintain a log of entries related to property management activities. Please ensure that the form is only used for the intended purpose and not for any other activity.
-</thinking>
-
 # Property Management Log - Help Guide
 ## Purpose
 The Property Management Log is a form used to record and track property management activities. It is meant to be used by property management teams to maintain a log of entries related to property management activities.

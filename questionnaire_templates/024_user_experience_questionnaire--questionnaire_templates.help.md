@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # user_experience_questionnaire - Help Guide
 ## Purpose
 The **user_experience_questionnaire** form is designed to gather information about the user's experience with a product or service. This form is used to collect feedback and ratings from users to help us improve our services.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed for survey respondents to provide their perceptions of the relationship between two variables, A and B. This form gathers demographic information, such as age group, employment status, and location type, to help contextualize the respondent's answers. It also inquires about their familiarity with the topic, their confidence level in their assessment, and what factors influence their view. The respondent will have the opportunity to provide an explanation for their answer to variable A and variable B, and suggest additional factors that may be relevant to the relationship between the variables. This form is meant to be a tool for researchers and analysts to gather insights on public opinion and attitudes.
-
-</thinking>
-
 # Categorical Variable Relationship Survey - Help Guide
 ## Purpose
 This form is designed to gather data on the relationship between two variables, A and B. It is intended for survey respondents to provide their perceptions and opinions on this relationship.

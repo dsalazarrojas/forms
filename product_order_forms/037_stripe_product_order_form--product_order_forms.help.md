@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about products ordered through the Stripe payment platform. It will likely be used by businesses or individuals who want to collect product-related data for their customers. The form may be part of an e-commerce website, a product catalog, or a sales process. The form's purpose is to gather essential details about the product being ordered, including its characteristics, shipping information, customer contact data, and any reviews or comments. Before starting the form, ensure that you have the necessary permissions or approvals to collect and use this data, and that it aligns with your organization's data protection policies.
-
-Please note that this form is an original creation, not affiliated with any form platform. It is designed to be a general-purpose form, and you can modify it to fit your specific needs.
-
-</thinking>
-
 # Stripe Product Order Form - Help Guide
 
 ## Purpose

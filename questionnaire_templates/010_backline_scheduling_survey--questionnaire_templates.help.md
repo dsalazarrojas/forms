@@ -1,7 +1,3 @@
-<thinking>
-Backline Scheduling Survey: This form is designed to gather information from performers and crew members to schedule events efficiently. The form aims to collect essential details about the performer's availability, technical requirements, and preferences to ensure a smooth execution of the event. Please fill out the form carefully, ensuring that all required fields are completed accurately.
-</thinking>
-
 # Backline Scheduling Survey - Help Guide
 ## Purpose
 The Backline Scheduling Survey is a questionnaire designed to collect information from performers and crew members to facilitate event scheduling.

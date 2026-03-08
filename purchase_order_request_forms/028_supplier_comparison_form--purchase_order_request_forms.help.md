@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to compare suppliers based on various criteria. The form is meant to gather information about a supplier, including their name, quote date, notes, quote price, contact name, email, phone number, quote status, and any additional note. This form is likely used in a purchasing or procurement context to evaluate and compare different suppliers.
-
-To complete this form, simply fill in the relevant fields with the requested information. You can choose from multiple quote statuses for the supplier, and any notes can be added for further context. The form fields are designed to be self-explanatory, so you should be able to understand what each field is intended for by reading the label. If you have any questions or need clarification, please refer to this help guide for further assistance.
-
-</thinking>
-
 # supplier_comparison_form - Help Guide
 ## Purpose
 This form is used to gather and compare information about different suppliers, including their name, quote date, notes, price, contact name, email, phone number, quote status, and any additional note.

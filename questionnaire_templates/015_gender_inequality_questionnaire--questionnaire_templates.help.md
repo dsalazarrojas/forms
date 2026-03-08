@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on gender inequality, likely for research, analysis, or policy-making purposes. It appears to be designed to gather responses to various questions related to gender inequality, possibly in a workplace, educational, or social context. Before filling out this form, please ensure you are aware of its purpose and relevance to your specific needs.
-To avoid duplication of efforts, please do not fill out this form if you have already responded to a similar questionnaire.
-</thinking>
-
 # Gender Inequality Questionnaire - Help Guide
 ## Purpose
 The Gender Inequality Questionnaire is a set of questions designed to gather information on gender-related topics. This form aims to collect data to support research, analysis, or policy-making initiatives.

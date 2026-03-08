@@ -1,13 +1,3 @@
-<thinking>Internal reasoning for the form purpose:
-
-This form is designed to gather employee feedback and involvement on various aspects of their work. It appears to be a comprehensive survey that covers different departments, roles, and feedback frequencies. The form's purpose is likely to measure employee satisfaction, involvement, and feedback mechanisms within an organization. This will help management assess and improve the work environment, departmental engagement, and overall employee satisfaction. The form's scope and structure indicate that it's meant for internal use within a company, possibly for employee feedback, engagement, and evaluation purposes.
-
-The form seems to be a general purpose questionnaire and not specific to any particular company or product. It could be used by HR or management to gauge employee feedback and suggestions for improvement.
-
-The form does not ask for personal or sensitive information, which makes it unlikely to be a data collection form. Instead, it appears to be a feedback and evaluation tool.
-
-It's worth noting that this form is a generic template and might not be tailored to a specific company or industry. It might need adjustments or customizations for specific business needs.</thinking>
-
 # Employee Involvement Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather employee feedback and involvement on various aspects of their work. It helps management assess and improve the work environment, departmental engagement, and overall employee satisfaction.

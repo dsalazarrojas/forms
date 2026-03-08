@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from a requisitioner regarding their kitchen equipment or supplies needs. This form is used to capture details about the items requested, their quantities, and any additional information that may be useful for the kitchen team to process the request. Please ensure that only a single request from each user is submitted at a time to avoid duplicates. If you need to submit multiple requests, please create a new form for each one.
-</thinking>
-
 # Kitchen Requisition Form - Help Guide
 ## Purpose
 The kitchen requisition form is a tool used to document kitchen equipment or supplies requests from users. It provides the necessary information for the kitchen team to process and fulfill the requests efficiently.

@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a tool for assessing attitudes and opinions regarding youth crime rehabilitation, likely for public administration or policy-making purposes. The form's title and field labels suggest that it is focused on gathering information about community perceptions and beliefs related to youth crime and rehabilitation strategies. Given the text-based nature of the fields, it seems that this form is meant to collect qualitative data rather than quantitative or numerical data. To ensure that the form's purpose and context are clear, it may be beneficial to include a brief introduction or instruction at the beginning of the form.
-
-Before filling out this form, make sure you have reviewed the provided instructions and guidance on each field. Each field is a text box where you can provide detailed responses. Ensure that you answer each question thoroughly and accurately, and that you can clearly articulate your thoughts and opinions.
-
-</thinking>
-
 # Youth Crime Rehabilitation Attitudes Survey - Help Guide
 ## Purpose
 This form aims to gather information about community attitudes and opinions on youth crime rehabilitation strategies, policies, and programs. Your responses will contribute to a better understanding of how to effectively support rehabilitation efforts in your community.

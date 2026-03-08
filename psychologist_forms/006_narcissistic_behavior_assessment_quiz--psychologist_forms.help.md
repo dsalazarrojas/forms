@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess an individual's narcissistic tendencies. Narcissistic personality disorder is a mental health condition characterized by a pervasive need for admiration, a lack of empathy, and a tendency to exploit others for personal gain. This form is intended to be a non-diagnostic tool to help individuals identify potential narcissistic tendencies in themselves or others. It is not a professional evaluation or diagnosis.
-
-Before proceeding, please ensure that you have read and understand the purpose and limitations of this form. This form is designed to provide a general assessment, not a definitive evaluation or diagnosis.
-
-If you are concerned about your mental health or the mental health of someone else, please consult a qualified mental health professional for assistance.</thinking>
-
 # Narcissistic Behavior Assessment Quiz - Help Guide
 
 ## Purpose

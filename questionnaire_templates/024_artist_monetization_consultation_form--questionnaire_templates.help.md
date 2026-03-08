@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from artists who are looking to monetize their art and receive consultation services. The primary purpose of this form is to gather data on an artist's current income, income sources, and areas for growth, in order to provide personalized consultation services. This form is intended for artists who are looking to improve their financial situation and achieve their goals through consultation and guidance. Before filling out this form, please make sure that the information you provide is accurate and up-to-date, and that you are not duplicating your submission if you have already filled out this form in the past.
-</thinking>
-
 # Artist Monetization Consultation Form - Help Guide
 ## Purpose
 The Artist Monetization Consultation Form is designed to provide a clear and comprehensive guide for artists to share their information and goals with the consultation services team. By filling out this form, you will be able to provide detailed information about your art career, current income, and areas for growth, allowing the consultation team to provide personalized guidance and support.

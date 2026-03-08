@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-This form, "values_alignment_reflection", is designed to help users align their personal values and goals with their actions and reflections. It is likely used in a personal or professional development context to help individuals assess their current state, set goals, and plan for future improvements. It may be used by individuals seeking to improve their mental health, career, or personal relationships. The form should not be used to collect sensitive or personal data that may be subject to privacy concerns. 
-
-</thinking>
-
 # values_alignment_reflection - Help Guide
 ## Purpose
 The values_alignment_reflection form is a tool to help users align their personal values with their actions and reflections. It's a series of questions and fields that guide the user through a self-assessment process.

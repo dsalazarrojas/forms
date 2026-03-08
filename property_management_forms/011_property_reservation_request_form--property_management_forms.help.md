@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Property management systems often rely on clear communication to ensure efficient and effective property management. To minimize misunderstandings and errors, we need to ensure all parties understand the reservation request form's purpose and requirements. This form will prevent duplication by checking if there's a similar reservation request already submitted within the system. The form's purpose is to request a specific property to be reserved within a given time frame by a contact person. If a similar request is submitted, the system will alert the user, and in such cases, the user should re-check the existing request to ensure accuracy before resubmitting.
 
 <dl class="row">

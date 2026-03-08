@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Legislative Perception Assessment Questionnaire - Help Guide
 
 ## Purpose

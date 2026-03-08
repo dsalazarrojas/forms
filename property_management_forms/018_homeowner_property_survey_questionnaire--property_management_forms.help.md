@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data from homeowners about their properties. It seems that the form is designed to capture a range of information about a property, including its status, type, address, and details. However, I don't see any obvious fields for collecting data that would make this form unique or particularly relevant to a specific business use case. The form has a lot of "notes" fields, which could be useful for free-form text collection, but it's not immediately clear what specific information these fields are intended to capture. I'd love more context about the intended use of these notes fields or how the data collected in this form will be used in the organization.
-</thinking>
-
 # Homeowner Property Survey Questionnaire - Help Guide
 ## Purpose
 

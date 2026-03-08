@@ -1,11 +1,3 @@
-<thinking>
-This form is used to upload and store property documents such as building plans, floor plans, photos, and videos. 
-This form will help users to provide information about the uploaded document, including its type, size, and upload date. 
-It is intended to be used by property management teams to track and manage documents related to properties in their care. 
-Please note that this form is optional and not all fields are required.
-
-</thinking>
-
 # Property Document Upload Form - Help Guide
 ## Purpose
 This form allows users to upload and store property documents in a standardized way.

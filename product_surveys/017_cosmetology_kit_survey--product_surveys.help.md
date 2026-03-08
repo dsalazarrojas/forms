@@ -1,9 +1,3 @@
-<thinking>
-This form is a cosmetology kit survey designed to gather information about products used by cosmetologists in their daily practice. The purpose of this form is to collect feedback and data about the products used, which will be used to improve product development and provide better support to cosmetologists.
-The survey includes questions about the product used, its price, condition, and recommended usage, as well as contact information and demographic questions to help tailor support and services to the individual cosmetologist's needs. By answering this survey, cosmetologists will be contributing to the improvement and refinement of the products they use, helping to ensure that their needs are met and that they can continue to provide high-quality services to their clients.
-This form is designed to be filled out by a single individual, and is not meant to be used for multiple users or businesses. The survey questions are meant to be answered in a way that provides as much detail as possible, without overloading the respondent with unnecessary questions.
-</thinking>
-
 # cosmetology_kit_survey - Help Guide
 ## Purpose
 The cosmetology_kit_survey is designed to collect feedback and data about products used by cosmetologists in their daily practice.

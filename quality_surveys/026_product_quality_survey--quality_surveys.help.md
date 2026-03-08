@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Quality Survey - Help Guide
 
 ## Purpose

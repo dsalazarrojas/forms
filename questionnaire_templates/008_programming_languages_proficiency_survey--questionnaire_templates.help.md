@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will analyze the provided YAML form definition and create a user-facing help guide that is concrete, concise, and practical.</thinking>
-
 # programming_languages_proficiency_survey_form - Help Guide
 ## Purpose
 This form is designed to assess an individual's proficiency level in various programming languages. It will help to determine which programming languages an individual is familiar with, their level of experience, and their proficiency in different areas of programming.

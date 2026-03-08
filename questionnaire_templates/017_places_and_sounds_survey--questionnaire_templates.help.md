@@ -1,7 +1,3 @@
-<thinking>
-The "Places And Sounds Survey" form is intended to collect basic information from users, focusing on demographic details such as name, contact information, and personal preferences. This form likely serves as a starting point for market research, user profiling, or similar studies. Before proceeding, it's essential to ensure this form is being used correctly and not used in duplicate. If you're not sure about this form's purpose, please double-check with your project team or supervisor for clarification.
-</thinking>
-
 # Places And Sounds Survey - Help Guide
 ## Purpose
 The "Places And Sounds Survey" form is a simple questionnaire designed to collect demographic information from users, which can be used for market research or user profiling purposes.

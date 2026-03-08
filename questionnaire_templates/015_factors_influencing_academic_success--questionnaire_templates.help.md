@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information on various factors that influence academic success in students. It is intended to be used by educators, researchers, or administrators to gather data on the impact of different factors on student outcomes. The form is not meant to be used for diagnostic purposes, but rather to gather aggregate data for research or program evaluation.
-
-Before proceeding, please note that this form is part of a larger research project, and the data collected will be used to identify patterns and trends. Please answer the questions truthfully, and do not duplicate any information that you have already provided in other forms or surveys.
-
-</thinking>
-
 # Factors Influencing Academic Success - Help Guide
 ## Purpose
 This form is designed to gather information on various factors that influence academic success in students. It is intended to be used by educators, researchers, or administrators to gather data for research or program evaluation.

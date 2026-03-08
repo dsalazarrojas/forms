@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to be used by applicants who wish to rent a historic property. Please ensure that the form is filled out accurately and thoroughly. 
-The form is used to gather necessary information about the property and the applicant. It should not be used for duplicate applications or for non-historic properties. 
-
-</thinking>
-
 # Historic Property Rental Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a historic property and its applicant. This information will be used to facilitate the rental process and ensure that the property is properly maintained.

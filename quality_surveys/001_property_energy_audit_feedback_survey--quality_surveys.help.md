@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with the energy audit of a property. It's an important tool for understanding user satisfaction and identifying areas for improvement. 
-The purpose of this form is to gather feedback on specific aspects of the energy audit process, such as ease of use, clarity of information, and overall experience. This information will help our team refine our services to better meet your needs. We will not share your feedback publicly or use it for any purpose other than improving our services.
-</thinking>
-
 # property_energy_audit_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with the energy audit of a property. It will help us identify areas for improvement and ensure our services meet your needs.

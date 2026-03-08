@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for restaurant compliance software orders. The purpose of this form is to gather essential details about a restaurant's software needs, including contact information, software packages, and other relevant details. This form should only be used for restaurants that are already existing customers or have been referred to by a partner. If a restaurant is new to the system, they will need to be created in the system before attempting to order software.
-</thinking>
-
 # restaurant_compliance_software_order_form - Help Guide
 ## Purpose
 This form is used to collect information for restaurant compliance software orders. It should only be used for existing customers or those referred by a partner.

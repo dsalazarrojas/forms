@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive Ischemic Heart Disease Quiz designed to assess an individual's understanding and risk factors related to ischemic heart disease. The form is divided into several sections, each focusing on a specific aspect of the disease. This guide will walk you through the form's structure and functionality to ensure you complete it accurately and effectively.
-</thinking>
-
 # Ischemic Heart Disease Quiz - Help Guide
 ## Purpose
 The Ischemic Heart Disease Quiz is a tool designed to educate and assess individuals about ischemic heart disease. It helps identify potential risk factors, symptoms, and treatment options related to the condition.

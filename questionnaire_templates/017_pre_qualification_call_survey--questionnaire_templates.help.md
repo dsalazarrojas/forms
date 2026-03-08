@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a lead or prospect for a pre-qualification call or meeting. This form is used to assess the suitability of the prospect for a meeting or call and to identify any necessary next steps. The form will be used by sales teams to qualify potential leads and to ensure that the right information is collected from the lead or prospect before proceeding with the meeting or call.
-
-This form should only be used for new prospects, not existing ones. The form's fields should not be duplicated, and the user should be able to fill it out in a straightforward and intuitive way. Each field should be clearly labeled and described to avoid confusion.
-
-</thinking>
-
 # pre-qualification-call-survey - Help Guide
 ## Purpose
 The pre-qualification call survey is used to gather information about a lead or prospect for a pre-qualification call or meeting.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for planning and managing purchase orders. It captures essential details about the order, including order details, delivery information, contact information, and approval status. To use this form effectively, make sure you're familiar with the purpose and required fields. This form is not intended for submitting or processing purchase orders; it's a tool for internal planning and coordination. Ensure that you complete all required fields to ensure accurate order planning.
-</thinking>
-
 # Order Planning Form - Help Guide
 ## Purpose
 The Order Planning Form is a tool for planning and coordinating purchase orders within the organization. It helps you gather necessary information to ensure smooth and efficient order execution.

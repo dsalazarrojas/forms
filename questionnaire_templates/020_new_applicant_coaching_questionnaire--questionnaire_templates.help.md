@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the "New Applicant Coaching Questionnaire" is filled out correctly and effectively, we should verify that the form is being used in a context where a new coaching applicant's information needs to be recorded. This form shouldn't be duplicated or filled out unnecessarily. This guide will walk users through each field and provide explanations to help them make the most out of the form.
-</thinking>
-
 # New Applicant Coaching Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about new coaching applicants, such as their name, contact details, sports coaching experience, and availability. This information will be used to help us understand their suitability for our coaching programs.

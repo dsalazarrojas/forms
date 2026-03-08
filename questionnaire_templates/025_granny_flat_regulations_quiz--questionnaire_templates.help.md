@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to help users navigate the complex set of regulations and laws associated with granny flats. The form is structured into multiple sections, guiding the user through the process of understanding the key laws and regulations surrounding granny flats, from obtaining an occupancy certificate to handling compliance and non-compliance. It is crucial that users take the time to carefully review each question, as they will be required to answer all questions truthfully to receive accurate information. Please ensure you understand the purpose and scope of this form before proceeding, as it is not a substitute for professional advice or legal counsel. If you are unsure about any aspect of this form, please consult a relevant expert or authority before completing it. 
-
-</thinking>
- 
 # granny_flat_regulations_quiz - Help Guide
 ## Purpose
 This form will guide you through the various aspects of granny flat regulations, covering key laws, requirements, and processes.

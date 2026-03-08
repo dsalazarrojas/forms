@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Introduction To Trademark Basics - Help Guide
 ## Purpose
 This form is designed to provide a brief introduction to the basics of trademarks, helping learners to understand the essential concepts and principles related to trademarks.

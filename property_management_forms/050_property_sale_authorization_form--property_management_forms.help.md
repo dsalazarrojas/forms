@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information related to the sale of a property. The form is designed to collect various details such as the owner's name, contact email, agent's name, agent's contact number, property address, sale date, sale price, sale status, notes, sale date time, sale confirmation date, sale confirmation time, property sale confirmation, sale confirmation method, and sales contact person. This form is likely used for internal purposes within a business or organization that deals with property sales. It is not specified if this form is a one-time use form or if it is part of a larger workflow that involves multiple steps or approvals.
-
-It is essential to ensure that the information is accurate and complete as it may be used for various decisions or actions. The fields are generally self-explanatory, but the purpose of each field should be double-checked to avoid misunderstandings. The form appears to be quite detailed, but it does not necessarily imply a strict requirement for all fields to be completed. It is crucial to fill in the necessary fields to ensure the proper handling and processing of the property sale authorization.
-</thinking>
 # Property Sale Authorization Form - Help Guide
 ## Purpose
 

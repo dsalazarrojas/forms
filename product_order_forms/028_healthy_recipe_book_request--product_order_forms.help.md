@@ -1,5 +1,3 @@
-<thinking>... A form to collect information for a healthy recipe book, likely used for users to provide input for a cookbook or other related project. The form has multiple pages with various fields for personal and recipe information. Ensure that the form is not duplicated in your system to prevent errors. Before filling out this form, review the fields below for clarity.</thinking>
-
 # Healthy Recipe Book Request - Help Guide
 ## Purpose
 This form collects personal and recipe information for a healthy recipe book project.

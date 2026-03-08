@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for collecting information related to municipal referendums, allowing users to cast their votes on various options. It is likely used for official purposes within a local government or administrative context. I will assume that this form is intended to be filled out by citizens or representatives of a municipality. I will focus on creating a user-facing help guide that explains each field and its purpose.
-</thinking>
-
 # Municipal Referendum Voting Form - Help Guide
 ## Purpose
 This form is used to collect votes on municipal referendums, allowing citizens to express their opinions on various options related to local governance.

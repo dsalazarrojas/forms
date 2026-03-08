@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from customers for custom beanie orders. The form is used to collect details such as the color, size, and payment method of the custom beanie, as well as the customer's contact information and shipping address. The form is not strictly mandatory, allowing customers to provide information on a voluntary basis.
-
-To ensure that customers provide accurate and complete information, the form includes fields such as email and phone number to help us get in touch with them for further questions or to confirm the order details.
-
-Before you start filling out the form, please make sure you have all the necessary information at hand. If you're unsure about any of the fields, you can always ask for clarification or contact us separately.
-
-</thinking>
-
 # Custom Beanie Order Form - Help Guide
 ## Purpose
 This form is used to gather information from customers for custom beanie orders.

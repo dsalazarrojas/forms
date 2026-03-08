@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wholesale Purchase Order Form - Help Guide
 
 ## Purpose

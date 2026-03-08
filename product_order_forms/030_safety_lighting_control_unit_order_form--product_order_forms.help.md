@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this "Safety Lighting Control Unit Order Form", I will follow these steps:
-
-* Identify the purpose of the form: The form is likely used to order safety lighting control units for a business or individual. However, the provided YAML doesn't explicitly state the form's purpose, so I will make an educated guess based on the field labels.
-* Analyze the fields and their labels to understand their intent and relevance.
-* Create the Markdown guide with the required sections and explanations.
-
-</thinking>
-
 # Safety Lighting Control Unit Order Form - Help Guide
 ## Purpose
 The Safety Lighting Control Unit Order Form is a document used to gather information necessary to process an order for safety lighting control units.

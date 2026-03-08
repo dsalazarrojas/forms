@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect public health information credibility data from various sources. The purpose of this form is to assess the credibility of public health information sources. This form will help users evaluate the trustworthiness and confidence level of different sources and provide demographic characteristics and contact information for further follow-up.
-</thinking>
-
 # Public Health Information Credibility Survey - Help Guide
 ## Purpose
 This form is used to collect public health information credibility data from various sources.

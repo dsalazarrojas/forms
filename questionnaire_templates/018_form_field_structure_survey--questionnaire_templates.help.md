@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete the "Form Field Structure Survey", a comprehensive questionnaire designed to assess the structure and content of a form. The purpose of this form is to gather information about the usability and completion of form fields, allowing form designers and developers to better understand user interactions and improve form design.
-
-To be eligible for the survey, forms must have at least three fields. Each field should be filled out as if it were a real form, and the user will be guided through the process of completing each field in turn, using the options provided in the select options.
-
-Please ensure that the form you are surveying is a real, live form with real field data. Please do not submit the form for surveying if it has less than three fields.
-
-If you are unsure about any aspect of the form or have any questions, please contact the form design team for further clarification.
-</thinking>
-
 # Form Field Structure Survey - Help Guide
 ## Purpose
 The Form Field Structure Survey is designed to assess the usability and completion of form fields. This survey aims to gather information about the structure and content of a form, providing insights for form designers and developers to improve form design.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Car Dealer Purchase Agreement Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quality Survey - Help Guide
 ## Purpose
 This form is used to measure the satisfaction of customers after a purchase or during a service or delivery.

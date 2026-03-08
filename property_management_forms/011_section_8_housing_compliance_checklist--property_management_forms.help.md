@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect and document the results of a rental unit inspection, which is a crucial task in Section 8 housing compliance. The form gathers information on the rental unit's conditions, the inspector's and landlord's signatures, and other relevant details. This guide will walk you through the form's purpose, how to complete it, and what each field means to help users understand its relevance and ensure accuracy in their input.
-</thinking>
-
 # Section 8 Housing Compliance Checklist - Help Guide
 ## Purpose
 This form is used to record the results of a rental unit inspection, ensuring compliance with Section 8 housing regulations.

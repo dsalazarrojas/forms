@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from property owners or managers who want to apply for eco-friendly building materials for their properties. This form will help the application process by collecting necessary details such as contact information, property details, and materials applied. Please make sure that all required fields are filled in correctly to avoid any delays in processing your application.
-</thinking>
-
 # Eco Friendly Property Material Application Form - Help Guide
 ## Purpose
 The Eco Friendly Property Material Application Form is a tool designed to help property owners or managers apply for eco-friendly building materials for their properties.

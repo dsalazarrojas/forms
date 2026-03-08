@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dramatic Structure Survey - Help Guide
 ## Purpose
 This survey is designed to gauge your understanding and application of dramatic structure in storytelling. It aims to gather insights on how you perceive the importance and influence of dramatic structure on storytelling, as well as your personal experiences with it.

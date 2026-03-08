@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning check: Form purpose and relevance)
-
-The Beck Depression Inventory Questionnaire is a widely used assessment tool designed to evaluate symptoms of depression. This form is an original adaptation created using AI and does not copy or use content from any existing form platforms. It is released under CC BY 4.0 license, allowing free use, modification, and distribution.
-
-</thinking>
-
 # Beck Depression Inventory Questionnaire - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect feedback and opinions from the public on the effectiveness and relevance of environmental policies. The form consists of various sections and questions that aim to gauge the respondents' sentiment and perceptions about these policies.
-
-The form is designed to be completed by individuals, organizations, or communities that are interested in providing input on environmental policies. The responses will help policymakers and stakeholders understand the public's views and opinions, which can inform decision-making and policy development.
-
-To ensure the form is completed correctly and accurately, please take a moment to review the instructions below.
-
-</thinking>
-
 # public-environmental-policy-sentiment-poll - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from the public on the effectiveness and relevance of environmental policies.

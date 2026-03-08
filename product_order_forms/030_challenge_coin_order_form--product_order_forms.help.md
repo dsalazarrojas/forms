@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Challenge Coin Order Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers to facilitate the creation of a door order. This form is likely used for customers who are placing orders for a product or service related to doors, and the form will help the customer provide their details, such as their contact information, delivery preferences, and order specifics. 
-
-Before proceeding, ensure that you haven't already completed a door order form, as duplicate orders can cause confusion and delays. Make sure to fill out the form accurately and thoroughly, and if you have any questions or concerns, don't hesitate to reach out to the relevant personnel.
-
-</thinking>
-
 # Door Order Form - Help Guide
 
 ## Purpose

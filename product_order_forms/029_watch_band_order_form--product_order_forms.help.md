@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-The purpose of this form is to gather information from customers to place an order for a specific watch band product. The form has multiple pages (customer info, order info, order product, etc.) and each page collects specific information from the customer. The form checks for non-duplication and ensures that customers select a valid payment method. Customers can select between 'Yes' and 'No' to confirm their order. The fields in this form are designed to be self-explanatory and easy to understand, but this guide will provide additional clarity for end-users. 
-</thinking>
-
 # Watch Band Order Form - Help Guide
 
 ## Purpose

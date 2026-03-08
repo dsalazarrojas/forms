@@ -1,9 +1,3 @@
-<thinking>
-
-The form is intended to guide the user through a series of questions to help them model a database table structure. The form is likely used in a database design or modeling context, such as data warehousing or database schema design. The user will be presented with a series of questions, each with a label, type, and options to select from. Some fields are required, while others are optional. This form is designed to be completed by someone with some basic knowledge of database design principles.
-
-</thinking>
-
 # er_modeling_quiz - Help Guide
 ## Purpose
 This form is designed to help you model a database table structure by guiding you through a series of questions about the attributes of your entities, attributes, and relationships.

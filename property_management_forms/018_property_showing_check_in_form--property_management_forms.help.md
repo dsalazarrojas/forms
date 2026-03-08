@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I'm not entirely sure what this form is for without more information, but let's assume it's for property managers to record showing appointments or events at a property. The fields appear to be for collecting information about the showing, the people involved, and the property. This form might be used by property managers to keep track of showings, follow up with contacts, and record notes. It might also be used to verify property information, but this is just a guess.
-</thinking>
-
 # Property Showing Check In Form - Help Guide
 ## Purpose
 The Property Showing Check In Form is used to record and document property showings. This form helps property managers to keep track of appointments, verify contact information, and store notes about each showing.

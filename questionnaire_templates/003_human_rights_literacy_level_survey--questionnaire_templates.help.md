@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the level of literacy of human rights among individuals. The form should only be used to gather information on people who are familiar with human rights concepts and are likely to be knowledgeable about this topic.
-
-To avoid any duplication of work or unnecessary collection of data, please do not fill out this form if you are not familiar with human rights concepts.
-
-Please fill out this form carefully, selecting the correct answers for each question, and follow the guidelines below to ensure accurate and helpful completion.</thinking>
-
 # Human Rights Literacy Level Survey - Help Guide
 ## Purpose
 

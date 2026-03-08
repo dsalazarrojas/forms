@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Handbag Product Registration Form - Help Guide
 
 ## Purpose

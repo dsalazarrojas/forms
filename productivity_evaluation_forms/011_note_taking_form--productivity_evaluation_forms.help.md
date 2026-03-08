@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture meeting-related data for productivity evaluation purposes. It's essential to fill out this form correctly to ensure accurate and efficient tracking of meeting outcomes, follow-up actions, and other relevant details. Before proceeding, please check that you haven't already filled out this form for the same meeting. If you're unsure about the form's purpose or have any questions, refer to this guide for clarification.
-</thinking>
-
 # Note Taking Form - Help Guide
 ## Purpose
 This form is designed to record important details about meetings, allowing for accurate tracking and evaluation of productivity. It captures meeting outcomes, follow-up actions, and other relevant information to help assess the effectiveness and impact of meetings.

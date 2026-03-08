@@ -1,15 +1,3 @@
-<thinking>
-The Employee Happiness Survey form is designed to gather information about employee satisfaction and sentiment towards their work experience. This form helps the organization understand the overall happiness and well-being of its employees, which can inform decisions about workplace improvement and retention. The survey includes multiple-choice questions about various aspects of work life, such as job satisfaction, role clarity, work-life balance, and company culture.
-
-Before filling out this form, consider the following:
-- Make sure you are providing your genuine thoughts and feelings about your work experience.
-- Be honest and clear in your answers.
-- Take care when providing sensitive information, and only share what you feel comfortable sharing.
-
-This form will guide you through a series of questions about your happiness and well-being as an employee. Please answer the questions truthfully and thoroughly, and provide any additional comments or feedback in the text fields.
-
-</thinking>
-
 # Employee Happiness Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your overall happiness and well-being as an employee. Your feedback will help the organization understand what's working well and where there's room for improvement.

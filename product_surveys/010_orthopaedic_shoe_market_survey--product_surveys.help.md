@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # orthopaedic_shoe_market_survey - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their demographic information, purchase behavior, purchasing history, product preferences, purchase decision, other relevant information, and their reasons for purchase and satisfaction with the product. This data will help us better understand our customers' needs and preferences, and improve our orthopaedic shoe offerings.

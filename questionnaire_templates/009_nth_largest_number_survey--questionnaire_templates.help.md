@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect feedback and survey results from users about their experience with finding the nth largest number in a list. The purpose of this form is to gather information about how users approach this type of mathematical problem, how they use tools or methods to find the solution, and to gauge their confidence in their answer. This form is intended for internal use within the organization, and the data collected will be used to improve mathematical education and training materials. Please ensure you only fill out this form if you have actually participated in this type of problem and can provide accurate and thoughtful responses. If you're not sure what the nth largest number is, or if you're just filling out the form for the sake of it, please do not complete this form.</thinking>
-
 # nth_largest_number_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and survey results from users about their experience with finding the nth largest number in a list. The data collected will help improve mathematical education and training materials within the organization.

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form titled "Frequently Asked Questions (FAQ)" that includes 12 fields with various types. This form is likely used for collecting user inquiries, submitting questions, and providing answers. The form's fields are mostly text input fields, with a few select options and tags. The form has multiple pages, but only one page is defined (id: 1). We should ensure that the field labels are clear and concise. We should also verify that no field label is weak or unclear, but based on the provided YAML fields, all labels seem to accurately represent the field's purpose. We should double-check that the form's purpose and each field's intent align with the provided YAML fields.
-</thinking>
-
 # Frequently Asked Questions (FAQ) - Help Guide
 ## Purpose
 The Frequently Asked Questions (FAQ) form is designed to collect user inquiries, submit questions, and provide answers. This form allows users to input their questions, select relevant tags, and submit their queries for resolution.

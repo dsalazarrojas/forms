@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about the seasonal inspection and winterization of properties. It is intended to be used by property management teams to gather data on the seasonal inspection status of properties. This form is likely used during the winter season when properties are being winterized. It is possible that this form is used in conjunction with other forms to gather more comprehensive data on property maintenance. It is not clear if this form is used for all properties or only specific types of properties.
-
-The fields on this form are likely used to collect specific information on the seasonal inspection status of each property, including the season, status, and date and time of the inspection. The "contact person" field is likely used to collect the email address of the person responsible for the property's maintenance, and the "phone number" field is likely used for emergency contact purposes. The "additional notes" fields are likely used for users to collect any additional information or comments about the property's winterization process.
-
-It would be beneficial to review the existing data on this form to see if there is any redundancy or duplication, and to see if this form is being used consistently across the properties.
-</thinking>
-
 # Property Winterization Checklist - Help Guide
 
 ## Purpose

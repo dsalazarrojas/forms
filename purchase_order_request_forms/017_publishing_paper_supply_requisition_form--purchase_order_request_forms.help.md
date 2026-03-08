@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used internally within an organization to collect information about publishing paper supply requisition requests. The form is intended to gather details about the publishing process, including the type of paper and quantity needed, and any specific publishing information. Before filling out this form, please ensure you have the necessary approval and permission to request publishing supplies. Additionally, double-check that this form is the correct one for your request as there might be different forms for other types of requisitions. 
-</thinking>
-
 # Publishing Paper Supply Requisition Form - Help Guide
 ## Purpose
 This form is used to collect information about publishing paper supply requisition requests. It is intended to be filled out by staff members or publishing departments to request supplies for publishing purposes.

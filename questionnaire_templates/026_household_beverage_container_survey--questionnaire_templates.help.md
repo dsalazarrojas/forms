@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Household Beverage Container Survey, which aims to collect information about users' habits and preferences regarding drinking water, coffee, tea, and other beverages from containers. The survey is designed to be completed by household members, likely as part of a study or research project. Before starting, please check if you have already completed this survey or if you are part of a household that has already done so, as duplicate submissions may affect the survey's validity and usefulness.
-
-</thinking>
-
 # Household Beverage Container Survey - Help Guide
 ## Purpose
 The Household Beverage Container Survey is designed to gather information about your drinking habits and preferences regarding various beverages and their containers. Your responses will help us understand your behavior and contribute to improving our products and services.

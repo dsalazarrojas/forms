@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is for gathering feedback from faculty members on their experiences with remote work, and it appears to be focused on various aspects of remote work including work status, productivity, challenges faced, and satisfaction with remote work. I will review the provided YAML fields and create a clear and concise user-facing help guide.
-</thinking>
-
 # Faculty Remote Work Productivity Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from faculty members on their experiences with remote work, focusing on work status, productivity, challenges faced, and satisfaction with remote work. Your input will help us better understand the remote work experience and make informed decisions to improve it.

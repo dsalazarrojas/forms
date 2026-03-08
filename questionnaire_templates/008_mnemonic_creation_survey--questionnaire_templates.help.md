@@ -1,9 +1,3 @@
-<thinking>
-The Mnemonic Creation Survey is a form designed to gather information from users about their mnemonic creation processes and practices. 
-This form is intended to be completed by individuals who have created mnemonics, a memory aid used to improve recall of specific information. The survey aims to collect data on the types of mnemonics used, the processes involved in their creation, and other relevant details. 
-Before filling out this form, please ensure you have not already completed it, as duplicate submissions would be unnecessary and unhelpful. 
-</thinking>
-
 # Mnemonic Creation Survey - Help Guide
 ## Purpose
 The Mnemonic Creation Survey is a form designed to gather information from users about their mnemonic creation processes and practices.

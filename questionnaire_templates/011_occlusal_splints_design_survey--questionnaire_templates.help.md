@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about the occlusal splints design preferences, challenges, and outcomes from users. The purpose of this form is to gather data that can be used to improve the design of occlusal splints, which are custom-made devices used in dentistry to help guide the occlusal relationship between the upper and lower teeth.
-
-Before completing this form, please note that it is a survey and the data collected will be used to inform the design of occlusal splints. The information you provide will be kept confidential and anonymous. If you are unsure about any of the questions, please feel free to ask for clarification.
-
-Also, please ensure that you are filling out the form for the purpose of providing feedback and improving occlusal splints design, and not for marketing or commercial purposes. This form is not intended for any other use case.
-
-Please be aware that some fields may have specific instructions or limitations. We appreciate your cooperation and understanding in completing this form accurately and thoroughly.
-</thinking>
-
 # Occlusal Splints Design Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback on the design of occlusal splints, which are custom-made devices used in dentistry to guide the occlusal relationship between the upper and lower teeth. The data collected will be used to improve the design and functionality of occlusal splints.

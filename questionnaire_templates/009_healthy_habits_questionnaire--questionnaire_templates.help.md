@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's healthy habits, including their self-care practices, exercise routines, and dietary habits. The form is intended to help individuals assess their current habits and identify areas for improvement. It is not a diagnostic tool, but rather a tool for personal reflection and growth.
-
-Before completing this form, please ensure that you are answering honestly and accurately. If you are unsure about any of the questions, please ask for clarification or consult with a healthcare professional.
-
-This form will ask you about your habits related to:
-
-* Self-care (e.g., meditation, exercise, sleep)
-* Diet (e.g., fruits and veggies, water intake)
-* Lifestyle habits (e.g., smoking, alcohol consumption, outdoor activities)
-
-Please answer each question truthfully, and take your time to complete the form.
-
-</thinking>
-
 # Healthy Habits Questionnaire - Help Guide
 
 ## Purpose

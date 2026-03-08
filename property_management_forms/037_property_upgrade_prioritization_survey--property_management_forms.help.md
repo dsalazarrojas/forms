@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is called the "Property Upgrade Prioritization Survey". This form is used for the property owners to provide their input on the properties' upgrades that are needed. The purpose of this form is to help the management team to prioritize these upgrades based on the collected data.
 
 ## Property Upgrade Prioritization Survey - Help Guide

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for holiday patrol registration, likely for a security or maintenance team to record their travel dates and details for a holiday period. The fields in this form should be straightforward and easy to fill out by end-users. However, it's essential to verify that the form is correctly filled out, and not duplicate or incorrect entries are made.
-
-</thinking>
-
 # Holiday Patrol Registration - Help Guide
 ## Purpose
 The Holiday Patrol Registration form is a tool used to record travel dates and details for holiday periods.

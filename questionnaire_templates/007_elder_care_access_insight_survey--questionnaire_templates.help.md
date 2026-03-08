@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect insights and experiences of users regarding elder care services, which is essential for understanding their needs, preferences, and satisfaction levels. The survey aims to cover various aspects of elder care services, including experiences, barriers to access, benefits, and satisfaction levels. This form will help us to identify areas of improvement and create more effective services for the elderly community.
-
-</thinking>
-
 # Elder Care Access Insight Survey - Help Guide
 ## Purpose
 The Elder Care Access Insight Survey is designed to gather information about your experiences with care services, any barriers you face in accessing these services, and your satisfaction levels with these services. This survey is essential in helping us understand your needs and preferences, which will enable us to create more effective care services for the elderly community.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users understand their risk tolerance and financial situation for investment purposes. The form asks about the user's investment preferences, risk capacity, time horizon, risk tolerance, investment experience, financial goal, investment assets, financial net worth, annual income, and investment expenses. This form is likely used to assess the user's suitability for investment products or services. It is essential to complete this form accurately to ensure that the user's investment needs are met appropriately.
-</thinking>
-
 # Risk Tolerance Questionnaire Form - Help Guide
 ## Purpose
 The Risk Tolerance Questionnaire Form is designed to help you understand your risk tolerance and financial situation for investment purposes. It will ask you questions about your investment preferences, risk capacity, time horizon, risk tolerance, investment experience, financial goal, investment assets, financial net worth, annual income, and investment expenses.

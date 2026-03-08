@@ -1,7 +1,3 @@
-<thinking>
-The Memory Assessment Questionnaire form is used to evaluate a user's memory and attention abilities. It is designed to gather information about a user's recent visit or interaction with a system, and is typically filled out by a clinician or researcher who is administering the assessment. The form is meant to be completed by a single user, but it is possible for the same user to be assessed multiple times, and in that case, this form can be used to track changes over time. It is essential that only one form is filled out per user per assessment, as the answers and scores provided are used to compare progress and development across different assessment periods.
-</thinking>
-
 # Memory Assessment Questionnaire - Help Guide
 ## Purpose
 This form is used to gather information about a user's memory and attention abilities. It helps to track changes over time and is typically completed by a clinician or researcher who is administering the assessment.

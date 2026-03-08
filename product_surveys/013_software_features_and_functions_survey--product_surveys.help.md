@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about the software's features and functions. The form is divided into multiple pages, each with a specific set of questions or options. The purpose of this form is to collect data on user satisfaction with the software, preferences for new features, and demographic information. Please answer the questions on each page to the best of your ability and choose the options that apply to your experience with the software. 
-</thinking>
-
 # Software Features And Functions Survey - Help Guide
 ## Purpose
 The Software Features And Functions Survey is designed to gather feedback from users about their experiences with our software. Your input will help us understand what features and functions are important to you and how we can improve the software to meet your needs.

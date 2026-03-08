@@ -1,23 +1,3 @@
-<thinking>
-
-This form is intended to collect information from users on personal training preferences and goals, likely for a fitness or wellness program. The purpose is to gather relevant data to create a tailored workout plan for each individual. 
-
-The form is divided into several sections, but it's not clear if the sections are actually part of a multi-page form or not. However, we can assume that the 'pages' field in the YAML is used to denote sections or groups of fields.
-
-To complete this form, follow these steps:
-
-1. Enter your first name, last name, and email address in the respective text fields.
-2. Provide your phone number and a date of birth (in the format of mm/dd/yyyy).
-3. Describe your training experience in the text field.
-4. List your goals for this training program in the text field.
-5. Select one or more options for training goals from the provided list.
-6. Choose your preferred workout time.
-7. Select the days you are available to work out.
-8. Enter the time you are available to work out.
-9. Provide the name and contact information of an emergency contact person.
-
-</thinking>
-
 # Personal Training Questionnaire STC - Help Guide
 ## Purpose
 This form is used to create a tailored workout plan for each individual.

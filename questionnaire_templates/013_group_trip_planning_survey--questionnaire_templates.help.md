@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Group Trip Planning Survey - Help Guide**
 
 ### Purpose

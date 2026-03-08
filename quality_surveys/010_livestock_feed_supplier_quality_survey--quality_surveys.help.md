@@ -1,15 +1,3 @@
-<thinking>Internal reasoning block to check for relevance and non-duplication.
-
-To start with, the "Livestock Feed Supplier Quality Survey" form seems to be used to gather information about the quality of feed supplied by a particular feed supplier. The form likely aims to assess the supplier's performance in terms of feed quality, delivery timeliness, communication effectiveness, and other factors.
-
-Upon reviewing the form's fields, it appears that there is some redundancy in the questions, such as multiple fields with similar labels (e.g., "timeliness", "quality_punctuality", and "delivery_punctuality"). These fields might be consolidated into a single field to avoid confusion and reduce the respondent's effort.
-
-Additionally, some fields might be better labeled to make their purpose more explicit, such as "communication_frequency" and "communication_efficacy" which could be combined into a single field "communication_effectiveness".
-
-Considering these observations, the form might need some adjustments to be more cohesive and user-friendly.
-
-</thinking>
-
 # Livestock Feed Supplier Quality Survey - Help Guide
 ## Purpose
 This form is designed to help you provide feedback on the quality of feed supplied by your livestock feed supplier. Your input will help us evaluate their performance and improve their services.

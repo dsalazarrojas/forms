@@ -1,11 +1,3 @@
-<thinking>
-
-The Executor Estate Administration Checklist is a form used to gather information about the estate's assets, debts, and other relevant details. This form is designed to help administrators or professionals responsible for estate administration to gather all necessary information regarding the estate's status. It is intended to be used in conjunction with other relevant documents and forms to ensure accurate and thorough estate administration.
-
-This form should only be completed if the user has the necessary permissions and access to the estate's information.
-
-</thinking>
-
 # Executor Estate Administration Checklist - Help Guide
 ## Purpose
 The Executor Estate Administration Checklist is a form used to gather information about the estate's assets, debts, and other relevant details. This form is designed to help administrators or professionals responsible for estate administration to gather all necessary information regarding the estate's status.

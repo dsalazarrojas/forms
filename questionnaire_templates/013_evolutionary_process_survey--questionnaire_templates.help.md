@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a "Evolutionary Process Survey" aimed at gathering information about users' understanding of evolutionary biology, specifically their views on the process of evolution itself. The purpose of this form is to gauge users' familiarity with the fundamental principles of evolution and their understanding of how species change over time. It will help us to better understand users' perspectives on this topic and identify areas where educational resources may be needed.
 
 ## Evolutionary Process Survey - Help Guide

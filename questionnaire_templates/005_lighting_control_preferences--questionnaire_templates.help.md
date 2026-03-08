@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the lighting control preferences of individuals or organizations. This form is meant to help gather data on the level of lighting control needed or desired, the type of facility, the level of automation required, the types of lighting control methods needed, and the control system to be used. To ensure accuracy, it is recommended that the form not be filled out more than once, and that responses be carefully considered to ensure they reflect the true needs and desires of the individual or organization.
-
-This form is intended to gather information on lighting control preferences and does not collect personal or sensitive data. The information collected will be used for the purpose of providing better services, products, or experiences related to lighting control.
-
-To complete this form, please follow the steps below.</thinking>
-
 # Lighting Control Preferences - Help Guide
 ## Purpose
 This form is designed to collect information about lighting control preferences.

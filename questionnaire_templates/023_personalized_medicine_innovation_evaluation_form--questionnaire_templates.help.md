@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely to be used for evaluating personalized medicine innovations, assessing how well they meet the criteria for innovation, evaluation, and submission. To ensure that the form is filled out correctly, it's essential to understand the context and purpose of the form. This guide will walk you through each page and field of the Personalized Medicine Innovation Evaluation Form to help you complete it accurately and efficiently.
-
-</thinking>
-
 # Personalized Medicine Innovation Evaluation Form - Help Guide
 ## Purpose
 The Personalized Medicine Innovation Evaluation Form is designed to assess the innovation, evaluation, and submission of personalized medicine projects. This form serves as a comprehensive tool to evaluate the projects and help innovators understand what they need to improve to make their projects more competitive.

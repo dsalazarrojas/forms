@@ -1,7 +1,3 @@
-<thinking>
-This is a form for managing rental units. The form purpose is to collect information about rental units in a building. It is likely used by property managers or administrators to keep track of rental unit details, tenant information, and additional information. This form is likely used for record-keeping and data collection. It may not be a form for public-facing applications, but more for internal use within a property management company or building management team.
-</thinking>
-
 # Rental Unit Management Form - Help Guide
 ## Purpose
 This form is designed to collect and manage information about rental units in a building. It is intended for internal use by property managers or building administrators to keep track of rental unit details and other relevant information.

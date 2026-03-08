@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to help users input information about a project, including its title, description, lead, team members, budget, timeline, requirements, expectations, and risks. This form should only be used for projects that fit the provided description and do not duplicate existing projects.

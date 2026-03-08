@@ -1,12 +1,6 @@
 # Quality Calibration Review Request Form - Help Guide
 
 ## Purpose
-<thinking>
-This form is used to request quality calibration reviews from authorized reviewers. 
-It is intended to capture the required information for calibration purposes. 
-Please ensure that you are only requesting reviews from relevant calibration categories and that you are not requesting reviews for duplicate or closed calibration requests. 
-</thinking>
-
 ## How To Complete This Form
 
 *   To start the request, fill out the "Calibration Request" text field with a brief description of the calibration request.

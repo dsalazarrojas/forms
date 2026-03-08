@@ -1,8 +1,3 @@
-<thinking>
-Are you considering sharing your personal data with us? This form is a Human Behavior Survey designed to collect information about your daily routines, stress levels, and other personal details. Please be assured that your responses are anonymous and will be used only for research purposes.
-Before starting the survey, check if you have already filled it out. If you have, you can stop here. The survey consists of several questions that help us understand your habits, stressors, and other aspects of your life.
-</thinking>
-
 # Human Behavior Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your daily routines, stress levels, and other personal details to better understand human behavior.

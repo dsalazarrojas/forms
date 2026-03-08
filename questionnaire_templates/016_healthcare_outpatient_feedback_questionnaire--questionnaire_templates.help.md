@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Outpatient Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients on the quality of care provided by our outpatient services. It helps us understand your experience and identify areas for improvement. Please take a few minutes to complete this form and let us know about your experience.

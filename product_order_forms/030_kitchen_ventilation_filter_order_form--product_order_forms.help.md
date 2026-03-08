@@ -1,15 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in understanding the purpose and usage of the "kitchen ventilation filter order form". It's essential to clarify the form's purpose and guide users on how to fill it out properly.
-
-Upon reviewing the provided YAML schema, the form is designed to collect information about kitchen ventilation filters, including type, size, shape, location, number, type of filter, other filters, special instructions, phone number, email, and date. However, some fields like "Filter Size" and "Filter Type" do not have options, which might be an error or omission in the design. To maintain consistency and clarity, these fields will be addressed accordingly in the help guide.
-
-The form seems to be designed for users to provide their preferences for kitchen ventilation filters, possibly for ordering or customization purposes. Given the available options, users can select from standard, premium, or ultra filters, choose the shape and location of the filter, and input the number and type of filters needed.
-
-To avoid duplication and clarify the form's purpose, the help guide will be designed to walk users through each field and provide clear explanations for each option.
-
-</thinking>
-
 # kitchen ventilation filter order form - Help Guide
 ## Purpose
 The "kitchen ventilation filter order form" is designed to collect information for ordering or customizing kitchen ventilation filters. This form guides you through selecting the type, size, shape, location, number, type, and other specific details to ensure you receive the right filters for your kitchen.

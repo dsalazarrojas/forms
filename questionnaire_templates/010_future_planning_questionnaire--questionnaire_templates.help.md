@@ -1,5 +1,3 @@
-<thinking>...The "Future Planning Questionnaire" is designed to help individuals create a clear and actionable plan for their future goals and aspirations. This form is typically used by individuals looking to set and achieve long-term goals, whether personal or professional. To ensure that you complete the form accurately, please review the questions carefully and answer them as honestly as possible. Ensure that you do not duplicate any answers as you progress through the form. This form will guide you through a series of questions that will help you identify your goals, overcome obstacles, and create an effective action plan...</thinking>
-
 # Future Planning Questionnaire - Help Guide
 ## Purpose
 The "Future Planning Questionnaire" is a tool for creating a clear and actionable plan for long-term goals and aspirations.

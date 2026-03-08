@@ -1,12 +1,3 @@
-<thinking>
-**Why was this form created?**
-This form was created using AI to provide a standardized and easy-to-use template for collecting information from clients or customers during the planning process. It serves as a tool to gather essential details for creating personalized plans tailored to each user's needs.
-
-**Is this form already used in your organization?**
-Before proceeding, please confirm that this form has not already been created or implemented within your organization. This form is a publically available template and not affiliated with any specific platform. By using this form, you are free to adapt it as needed without restrictions.
-
-</thinking>
-
 # Personalized Plan Intake Survey - Help Guide
 
 ## Purpose

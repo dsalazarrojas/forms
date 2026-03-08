@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about municipal sludge disposal practices. A municipal sludge disposal survey is a tool used to gather data on the types of sludge disposal methods used by municipalities. Sludge disposal refers to the process of managing and disposing of the waste materials that are left over from sewage and waste water treatment processes. This form is designed to be completed by municipal officials, such as public works administrators, to provide insights on the types of sludge disposal methods being used, their capacities, frequencies, and costs associated with them. This data will help inform decisions on optimizing sludge disposal practices and improving environmental outcomes.
-
-</thinking>
-
 # municipal_sludge_disposal_survey - Help Guide
 ## Purpose
 The municipal_sludge_disposal_survey form is used to collect data on municipal sludge disposal practices, including types of methods, capacities, frequencies, and costs.

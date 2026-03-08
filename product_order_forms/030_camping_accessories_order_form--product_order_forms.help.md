@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to gather customer information and order details for camping accessories. It is intended for customers to provide their personal and shipping information, select the items they would like to order, and choose their preferred shipping method and payment option. The form is divided into sections for customer information, shipping address, order items, and additional options. 
-</thinking>
-
-# Camping Accessories Order Form - Help Guide
+> # Camping Accessories Order Form - Help Guide
 ## Purpose
 This form is for ordering camping accessories such as sleeping bags, tents, camping stoves, water filters, and grills. It is intended for customers to provide their information and select the items they would like to order.
 

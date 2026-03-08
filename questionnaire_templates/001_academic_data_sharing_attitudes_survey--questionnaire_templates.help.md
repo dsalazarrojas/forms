@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is correctly used by end users to provide accurate and meaningful responses. This form is intended to gauge attitudes towards academic data sharing, and the purpose of the survey is to collect data on researchers' experiences and opinions on data sharing practices. To avoid duplication of effort, we should confirm that this form is not intended for duplicate submissions or test runs, and that all responses will be treated with confidentiality and respect. We should also note that users may have varying levels of experience and knowledge on academic data sharing practices, and the form should be accessible and clear to accommodate diverse needs. By following this guide, users will be able to complete the form accurately and provide valuable insights for the intended purpose.
-</thinking>
-
 # Academic Data Sharing Attitudes Survey - Help Guide
 ## Purpose
 This survey is designed to collect information on researchers' attitudes towards academic data sharing. Your responses will help us understand the current state of data sharing practices in the academic community.

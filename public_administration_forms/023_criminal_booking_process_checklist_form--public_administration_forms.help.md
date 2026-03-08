@@ -1,10 +1,3 @@
-<thinking>
-The Criminal Booking Process Checklist Form is used to collect and document information related to a criminal case, including details about the suspect, crime scene, and witnesses involved. This form is intended to provide a clear and concise way to gather essential information for the investigation process.
-
-Before starting, ensure that the information collected is accurate and relevant to the case. Review and update the form regularly to ensure that it reflects the current status of the case.
-
-</thinking>
-
 # Criminal Booking Process Checklist Form - Help Guide
 ## Purpose
 The Criminal Booking Process Checklist Form is designed to aid in the collection and documentation of essential information related to a criminal case. This form provides a structured and organized way to gather data, making it easier to analyze and manage the case.

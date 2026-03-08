@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about the preferences and needs of users related to LED mode selection. It is designed to be completed by home owners and others who interact with the lighting system. The form will help us understand whether they need smart lighting, facilities, and other relevant factors. Please ensure you only complete this form once and not multiple times as it might be considered redundant.
-</thinking>
-
 # LED Mode Selection Survey - Help Guide
 ## Purpose
 This form is used to collect your input and preferences for the LED mode selection. Please answer the questions honestly to help us understand your needs better.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect opinions from customers on their scent preferences and usage habits related to scented sachets. This form is used to gather feedback on how customers feel about scented sachets, their preferences for different scents, and their general satisfaction with the product. The form also collects contact information to follow up with customers and gather additional feedback.
-</thinking>
-
 # Scented Sachet Opinion Survey - Help Guide
 ## Purpose
 This form is designed to collect opinions from customers on their experiences with scented sachets. It will help us understand what customers like and dislike about the product, and what we can do to improve it.

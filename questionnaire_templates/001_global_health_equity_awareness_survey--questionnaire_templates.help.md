@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about your experiences with discrimination in the healthcare system. The survey includes questions about your current role, whether you have experienced discrimination, what kind of discrimination you've faced, how long it lasted, and how you've dealt with it. This information will help us understand the prevalence and impact of discrimination in healthcare.
-
-Please note that the form is not meant to be a formal complaint or legal process, but rather a confidential and voluntary survey. Your responses will be kept anonymous and used for research purposes only.
-
-This guide will walk you through each section of the form to help you complete it accurately and confidently.
-</thinking>
-
 # Global Health Equity Awareness Survey - Help Guide
 
 ## Purpose

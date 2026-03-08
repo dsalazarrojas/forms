@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the areas of a home that are organized, which is relevant to the project's focus on home organization. To avoid duplication, please ensure that you only complete this form if you are a homeowner or someone authorized to represent a homeowner. This form is meant to be a quick and easy way to provide feedback about your home's organization status. Please note that this form will only take a few minutes to complete, and your input will help us better understand the current state of home organization in your area.
-</thinking>
-
 # Home Organization Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the areas of a home that are organized.

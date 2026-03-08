@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be a survey focused on nail polish finish trends. It seems to be collecting information on various aspects of nail polish finishes, including preferences and habits related to them. There is a mix of multiple choice and open-ended questions to gather more detailed information. Given the numerous "finish-usage-habits" fields, it's possible that these are intended to gather specific data on how users use different nail polish finishes in their daily lives or habits. However, the exact purpose and context might require further review of the internal documentation or clarification with the form developers. The survey appears to be comprehensive in its scope, covering preferences, habits, and potentially other aspects, but without more information, the specific goals and usage of this form remain uncertain.
-</thinking>
-
 # Nail Polish Finish Trend Survey - Help Guide
 
 ## Purpose

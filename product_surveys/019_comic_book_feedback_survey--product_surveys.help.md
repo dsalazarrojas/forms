@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from comic book readers about their experience with a particular comic book issue. The goal is to collect data that can help creators and publishers understand how well their stories and art are received by readers. The form should only take a few minutes to complete and is completely anonymous. 
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI and public metadata as inspiration, and is released under a Creative Commons license.
-
-Before starting, please ensure that you have read and understand the terms of use for this form. If you have any questions or concerns, please contact us at <form@gic.mx>.
-
-</thinking>
-
 # Comic Book Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from readers about their experience with a comic book issue. Please take a few minutes to answer the questions to help us better understand your thoughts and opinions.

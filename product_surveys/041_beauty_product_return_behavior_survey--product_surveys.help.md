@@ -1,9 +1,5 @@
 # Beauty Product Return Behavior Survey - Help Guide
 
-<thinking> This form is used to collect information from customers about their return experiences with our beauty products. The goal is to gather data on the primary reason for return, product category, and overall satisfaction, as well as other relevant details about their experience. This information will help us improve our product offerings and customer service. Please ensure that you have read this guide carefully before completing the form.
-
-</thinking>
-
 ## Purpose
 
 This form is designed to collect feedback from customers about their return experiences with our beauty products. By providing accurate and detailed information, you will help us understand your concerns and improve our products and services.

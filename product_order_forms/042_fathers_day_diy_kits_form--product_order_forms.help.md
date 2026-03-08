@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fathers_day_diy_kits_form - Help Guide
 ## Purpose
 The **Fathers Day DIY Kits Form** is used to collect information from customers who are interested in purchasing a customized gift for their fathers on Father's Day. This form helps the customer provide their personal details so that we can create a unique and thoughtful gift.

@@ -1,5 +1,3 @@
-<thinking>...to create a user-facing help guide for the "Pet Retail Expansion Interest Survey" form, I need to understand its purpose and structure. The form is used to gauge the interest of retailers in expanding their pet retail offerings, and I should explain each field in a clear and concise manner...</thinking>
-
 # Pet Retail Expansion Interest Survey - Help Guide
 ## Purpose
 The Pet Retail Expansion Interest Survey is a form designed to gather information from retailers about their interest in expanding their pet retail offerings.

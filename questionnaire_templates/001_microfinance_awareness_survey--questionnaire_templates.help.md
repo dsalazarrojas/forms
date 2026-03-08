@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Microfinance Awareness Survey - Help Guide
 ## Purpose
 

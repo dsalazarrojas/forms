@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a standardized checklist for property managers to conduct regular inspections of rental properties. It's designed to help them identify any issues, note their status, and keep a record of repairs and maintenance. This form will likely be used for both active and inactive properties, and possibly for sold properties as well.
-</thinking>
-
 # Property Management Inspection Checklist - Help Guide
 ## Purpose
 The Property Management Inspection Checklist is a form used by property managers to conduct regular inspections of rental properties. It's a standardized way to identify any issues, note the property's status, and keep a record of repairs and maintenance.

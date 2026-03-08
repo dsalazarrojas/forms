@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the state of global health data governance practices and policies within an organization. It is intended to be completed by stakeholders involved in the governance process. Before proceeding, please ensure that you are a relevant stakeholder and that you have not completed this form previously. This form is not affiliated with any form platform and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # global_health_data_governance_evaluation_form - Help Guide
 ## Purpose
 The global health data governance evaluation form is designed to assess the current state of data governance practices and policies within an organization. This form will help identify gaps and areas for improvement.

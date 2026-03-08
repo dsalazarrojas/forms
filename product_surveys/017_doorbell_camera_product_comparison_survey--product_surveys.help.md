@@ -1,8 +1,3 @@
-<thinking>
-The form is used to collect feedback and data from customers about their experience with the Doorbell Camera product. This will help us understand how well the product meets their needs and identify areas for improvement. This form is a one-time survey and is not intended for repeated submissions. Please ensure that each field is filled out completely and accurately to provide us with the best possible feedback.
-
-</thinking>
-
 # Doorbell Camera Product Comparison Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from customers about their experience with the Doorbell Camera product. Your input will help us understand how well the product meets your needs and identify areas for improvement.

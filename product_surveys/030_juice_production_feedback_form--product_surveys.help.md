@@ -1,11 +1,3 @@
-<thinking>
-**Internal Reasoning Note:**
-
-Before proceeding, I'll analyze the YAML form structure to understand its purpose and fields. The form appears to be designed for collecting feedback from end users on juice production, specifically on the product, production quality, and contact information. I'll make sure to create a user-friendly help guide that covers the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-
-</thinking>
-
 # Juice Production Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from end users on the juice production process. Your input will help us improve the quality and production of our juice products.

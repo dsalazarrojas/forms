@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-The "Nail Template 2020" form is designed to gather information from customers for a product order. The form is intended to be used by customers to provide details about the product they wish to order, including the product name, price, quantity, and customer name. This form is likely to be used in an e-commerce or retail setting where customers can select a product and provide order details. To ensure accuracy and relevance, please review the form carefully and complete it with the correct information.
-
-</thinking>
-
 # Nail Template 2020 - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a product order. Please complete the form with the required details to ensure accurate order processing.

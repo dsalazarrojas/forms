@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about a household's expenses and financial situation. It is intended to be completed by the household members or administrators to provide a snapshot of the household's economic circumstances. This form is likely used to inform decisions about housing, community resources, and other services that are relevant to the household's needs. Please review the form carefully and ensure that it is filled out in a way that accurately represents the household's financial situation.
-
-</thinking>
-
 # Neighborhood Price Survey - Help Guide
 ## Purpose
 This form is a tool to gather information about a household's expenses, financial situation, and other relevant factors that impact their well-being.

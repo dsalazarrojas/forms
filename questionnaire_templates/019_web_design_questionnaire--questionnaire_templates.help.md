@@ -1,11 +1,3 @@
-<thinking>
-This form is a Web Design Questionnaire, a tool used to gather information about an individual's contact details, background, design preferences, content management habits, and other relevant characteristics. 
-
-This form serves as an example and does not actually have a concrete purpose that I am aware of. 
-
-Please note that this form is not meant to be used as-is for any real-world application. It's an internal form used for testing and demonstration purposes. 
-</thinking>
-
 # Web Design Questionnaire - Help Guide
 ## Purpose
 The purpose of this questionnaire is to collect information about individuals' preferences and habits related to web design.

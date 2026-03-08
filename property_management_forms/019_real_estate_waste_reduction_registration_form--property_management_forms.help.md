@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information and documentation from property owners who want to reduce waste and improve their environmental impact. This form is likely used by real estate companies or property managers to track and verify the certification of their clients or tenants in reducing waste. To ensure the form is filled out correctly, please confirm that you're the correct person filling out this form and that it's not a duplicate submission. Please fill out the form carefully and accurately, as the information collected will be used to track progress and ensure compliance.
-</thinking>
-
 # Real Estate Waste Reduction Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from property owners who are interested in reducing waste on their properties.

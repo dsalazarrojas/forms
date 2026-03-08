@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians of students in public schools. The purpose of this form is to gather data on the student's details, contact information, and educational level. This form is intended to be used for informational purposes only and should not be used for any other reason.
-To ensure that you are providing the correct information and that this form is used for its intended purpose, please make sure that you are using this form as a parent or guardian of a public school student.
-</thinking>
-
 # Public School Parent/Student Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians of students in public schools. The form is intended to gather data on the student's details, contact information, and educational level for informational purposes only.

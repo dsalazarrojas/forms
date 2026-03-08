@@ -1,5 +1,3 @@
-<thinking>Before creating a comprehensive help guide for the Renewable Energy Project Standards Audit Form, let's clarify a few things. This form, as per the provided YAML, seems to be designed for auditing and reviewing renewable energy projects, capturing various details about the project, the reviewer's information, and other related aspects. It's essential to ensure that the form is used correctly to obtain accurate and comprehensive data. The form's structure appears to cover the necessary fields for an in-depth assessment. However, it's crucial to verify that each field is correctly filled out and that the form is being used for its intended purpose.</thinking>
-
 # Renewable Energy Project Standards Audit Form - Help Guide
 ## Purpose
 The Renewable Energy Project Standards Audit Form is designed to collect detailed information about renewable energy projects, allowing for a comprehensive audit and review. This form helps ensure that all necessary data is captured, enabling a thorough assessment and evaluation of project standards.

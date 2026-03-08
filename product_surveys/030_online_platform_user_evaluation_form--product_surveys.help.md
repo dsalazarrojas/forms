@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather user feedback on their evaluation of the online platform, which will help us improve the platform's usability, user experience, and overall quality.
-The main goal of this form is to collect both quantitative and qualitative data on users' satisfaction, experience, and method of evaluation (e.g., platform, mobile, desktop, web). This form will help us identify areas of improvement and provide a better understanding of our user base.
-Before filling out this form, make sure to only include fields that are applicable to you. For instance, if you're only using the platform, you don't need to fill out the phone field.
-To prevent duplication, users with the same User ID and Platform ID will be automatically removed from this form.
-</thinking>
-
 # Online Platform User Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather user feedback on their evaluation of the online platform, which will help us improve the platform's usability, user experience, and overall quality.

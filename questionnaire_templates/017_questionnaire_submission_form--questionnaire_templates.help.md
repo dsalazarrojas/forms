@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Questionnaire Submission Form - Help Guide
 
 ## Purpose

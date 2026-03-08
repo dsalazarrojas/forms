@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and suggestions from customers on product features and requirements. It will help us understand what customers are looking for in a product and improve our product development process. Please fill out this form only if you have not previously submitted a feature request. If you are unsure whether this form is for you, please ask your sales or support team for guidance.
-</thinking>
-
 # Feature Request Form - Help Guide
 ## Purpose
 The Feature Request Form is a tool used to gather feedback and suggestions from customers on product features and requirements. It helps us understand what customers are looking for in a product and improve our product development process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from pet owners about their experiences with a pet care service. The purpose of this form is to gather information about the pet's care quality and owner satisfaction. This feedback will help the service providers to understand what they are doing well and where they need to improve.
-Before filling this form, please make sure you have not already submitted feedback on the same visit. Your feedback is valuable to us, and we want to make sure that every pet owner has a chance to share their thoughts.
-To fill this form, please follow the instructions below.</thinking>
-
 # Pet Care Quality Owner Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from pet owners about their experiences with a pet care service. The purpose of this form is to gather information about the pet's care quality and owner satisfaction. This feedback will help the service providers to understand what they are doing well and where they need to improve.

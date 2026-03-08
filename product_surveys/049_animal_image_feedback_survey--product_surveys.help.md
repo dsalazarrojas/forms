@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form purpose is clear and the form is being used correctly, it's essential to provide users with a well-crafted help guide. This guide should cover the form's intent, step-by-step instructions, and detailed explanations of each field. This will help users understand the relevance of the survey and prevent duplication of effort.
-</thinking>
-
 # Animal Image Feedback Survey - Help Guide
 ## Purpose
 The Animal Image Feedback Survey is designed to collect feedback from users on a set of images. This feedback will help us understand how the images are perceived and will inform the development of future image sets. 

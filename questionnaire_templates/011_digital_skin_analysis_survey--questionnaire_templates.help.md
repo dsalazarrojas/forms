@@ -1,10 +1,3 @@
-<thinking>
-The form's purpose is to collect information from individuals about their digital skin analysis, including personal details such as first name, last name, email, phone number, date of birth, skin type, medical conditions, skin analysis method, preferred language, skin color, hair color, and other relevant details. This information will be used to tailor services and recommendations for the individual's skin health.
-The form's purpose is not clear, so please ensure you understand the context before proceeding. The form is not a medical diagnostic tool, but rather a means to gather information for personalized services.
-Please fill in your details accurately to ensure the best possible outcome.
-The following fields will be required for the form to be completed correctly.
-</thinking>
-
 # Digital Skin Analysis Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to place an order for spring nail polish. To ensure accuracy and avoid duplicate orders, please review the form carefully before submitting. The form collects information about the customer, their preferred nail polish characteristics, and the order details. This form will help us understand your preferences and provide a more personalized experience. 
-</thinking>
-
 # Spring Nail Polish Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place an order for spring nail polish. It collects information about the customer's preferences for the polish, including color, size, and quantity. Please review the form carefully to ensure accuracy and avoid duplicate orders.

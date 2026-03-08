@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback on the quality of a school, which will help in evaluating its overall quality and identify areas for improvement. This form is designed to be completed by users who have experienced the school's services or programs. Please ensure that you have not already provided feedback on this form before. If you have, your response will be treated as a duplicate.
-</thinking>
-
 # School Quality Survey - Help Guide
 ## Purpose
 The School Quality Survey is a form designed to collect feedback on the quality of a school. Your responses will help us understand your experience and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and opinions from users about the Fuel Pump Control Module, a component that is crucial for the performance and efficiency of a vehicle. The purpose of the survey is to gather information on the user's frequency of use, reasons for selecting or not selecting, performance, and any suggestions or issues they may have encountered with the Fuel Pump Control Module. This will help to identify areas of improvement, understand user expectations and behavior, and inform future product development and refinement.
-</thinking>
-
 # Fuel Pump Control Module Survey - Help Guide
 ## Purpose
 This form is designed to collect your feedback and opinions about the Fuel Pump Control Module.

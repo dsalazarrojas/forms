@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on the Christian dating perspectives of individuals. The purpose of this survey is to understand the views and preferences of people in the Christian community regarding dating, relationships, and faith. This information will be used to create resources and guidance for community leaders to support and counsel individuals in their dating lives.
-</thinking>
-
 # Christian Dating Perspectives Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on your views and experiences related to dating, relationships, and faith. Your responses will help us create resources and guidance for community leaders to support and counsel individuals in the Christian community.

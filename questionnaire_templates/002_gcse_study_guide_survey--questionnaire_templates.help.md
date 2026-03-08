@@ -1,10 +1,3 @@
-<thinking>
-To create an effective help guide for the GCSE Study Guide Survey form, we need to first understand its purpose. The form is designed to gather information about users' experiences, knowledge, and preferences related to GCSE (General Certificate of Secondary Education) studies. This form will be used to identify areas where users need improvement or guidance, helping users create more effective study plans and ultimately, achieving better academic success. 
-
-Before filling out this form, please confirm that you have not filled it out before and that you are not using it for commercial purposes. 
-
-</thinking>
-
 # GCSE Study Guide Survey - Help Guide
 ## Purpose
 The GCSE Study Guide Survey is a tool designed to help users identify areas where they need improvement or guidance in their GCSE studies. This form collects information about your experiences, knowledge, and preferences, and will be used to create more effective study plans and improve your academic success.

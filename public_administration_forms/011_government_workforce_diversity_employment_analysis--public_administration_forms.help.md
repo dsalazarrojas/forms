@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the diversity and employment aspects of government employees. It's essential to ensure that all the fields are accurately and truthfully filled out, as they will be used to analyze and improve the overall diversity and inclusivity within the organization.
-
-Before proceeding, please make sure you have all the necessary information and permissions to fill out this form. If you're unsure about any field or option, please reach out to your supervisor or HR department for clarification.
-
-To avoid duplicating efforts, please note that this form is designed to collect data on individual employees. If you're filling out the form for multiple employees, please create a separate form for each employee.
-
-Please review the form carefully and ensure that you're filling out the correct information for each field.
-</thinking>
-
 # Government Workforce Diversity Employment Analysis - Help Guide
 ## Purpose
 This form is designed to collect data on the diversity and employment aspects of government employees. It will help to analyze and improve the overall diversity and inclusivity within the organization.

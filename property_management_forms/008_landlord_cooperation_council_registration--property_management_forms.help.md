@@ -1,7 +1,3 @@
-<thinking>
-This form is for the landlord to register with the Landlord Cooperation Council, which aims to facilitate cooperation and communication among landlords in the community. The registration process is an optional step for landlords, and the information gathered will be used to maintain a database of registered landlords. By registering, landlords can benefit from being part of a network that promotes cooperation and shared resources. However, if a landlord is already registered, they should not complete this form again.
-</thinking>
-
 # Landlord Cooperation Council Registration - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Landlord Cooperation Council Registration form. The purpose of this form is to gather information about you as a landlord and your property to be included in our database of registered landlords. This will help you connect with other landlords in the community and access shared resources.

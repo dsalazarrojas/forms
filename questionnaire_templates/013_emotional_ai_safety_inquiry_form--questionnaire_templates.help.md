@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about potential risks and benefits associated with using AI in an organizational setting. The form is intended to help identify and assess potential risks and benefits of AI implementation. It is recommended to only complete this form once per stakeholder or project. If you have already completed this form for the same stakeholder or project, please do not duplicate your efforts.
-</thinking>
-
 # Emotional AI Safety Inquiry Form - Help Guide
 ## Purpose
 This form is used to help organizations identify and assess potential risks and benefits associated with the implementation of AI in the workplace. It helps gather information from stakeholders about the type and level of risk, and potential benefits of using AI.

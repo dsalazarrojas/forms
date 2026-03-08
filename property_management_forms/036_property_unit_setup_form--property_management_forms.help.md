@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about property units in an organization's property management system. 
-The form is used to gather details about a specific property unit, including its address, location, and property manager information. 
-This form is a crucial tool for property managers and administrators to ensure that all property unit data is up-to-date and accurate.
-To prevent duplication of effort, please ensure that the Property Unit Setup Form is used for new or updated property unit information only.
-</thinking>
-
 # Property Unit Setup Form - Help Guide
 ## Purpose
 The Property Unit Setup Form is used to collect and manage property unit information in the property management system.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product_availability_inquiry_contact_form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather feedback from employees on their satisfaction with a project. The form is not mandatory, and its purpose is to provide a space for employees to express their thoughts and opinions on various aspects of the project. Before completing this form, please ensure that:
-- You have been involved in the project
-- You have not previously completed this form for the same project
-</thinking>
-
 # Project Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on your project experience. Your responses will help us understand your perspective and identify areas for improvement.

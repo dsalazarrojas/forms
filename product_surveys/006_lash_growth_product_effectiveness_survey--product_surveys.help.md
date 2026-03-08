@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about the effectiveness of the Lash Growth product line. Specifically, it's intended to understand how users are perceiving the product's performance, its side effects, and their overall satisfaction and recommendation. This form is likely to be used for market research purposes.
-</thinking>
-
 # lash_growth_product_effectiveness_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the effectiveness of the Lash Growth product line.

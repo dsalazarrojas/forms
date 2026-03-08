@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a prospect (a potential client or customer) for the purpose of identifying their needs, preferences, and interests. It will help us to better understand who they are, what they do, and how we can serve them more effectively. 
-
-When filling out this form, please ensure that all required fields are completed. If a field is marked as optional, you can skip it if you don't have the necessary information. If you're unsure about any of the fields, feel free to ask your contact person for clarification.
-
-The form is divided into several sections, each with a specific focus. 
-
-</thinking>
-
 # Prospect Questionnaire Form - Help Guide
 ## Purpose
 This form collects information about a prospect to help us better understand their needs and preferences.

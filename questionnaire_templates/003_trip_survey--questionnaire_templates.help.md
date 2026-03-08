@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal reasoning block: This form is designed to capture information about a user's trips, including travel dates, locations, modes of transportation, reasons for travel, travel destinations, costs, and employee information. The purpose of this form is to collect data for business use, such as reporting, analysis, and decision-making. 
 
 </thinking>

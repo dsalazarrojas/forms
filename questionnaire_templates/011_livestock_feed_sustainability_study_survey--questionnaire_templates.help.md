@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from farmers or farm owners about their current practices and challenges related to feed sustainability. The goal is to gather data that can be used to improve feed sustainability in the livestock industry. This form should not be filled out by individuals who are not farmers or farm owners, as the data collected will be specific to their business operations. Please ensure you are filling out this form as a representative of your farm.
-</thinking>
-
 # Livestock Feed Sustainability Study Survey - Help Guide
 ## Purpose
 The Livestock Feed Sustainability Study Survey is a form designed to collect information from farmers or farm owners about their current practices and challenges related to feed sustainability. This data will be used to improve feed sustainability in the livestock industry.

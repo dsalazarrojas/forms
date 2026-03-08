@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Purchase Request Form - Help Guide
 ## Purpose
 This form is used to submit a purchase request for the company, providing essential details about the customer, manager, and items required.

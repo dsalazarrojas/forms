@@ -1,16 +1,3 @@
-<thinking>
-This form is a Live Plant Delivery Order Form used for customers to place orders for live plants. It's designed to gather information about the customer, their order, and payment details. 
-
-Before proceeding, ensure that this form is the correct one to use for your specific use case. If you're looking for a different form, please check the available forms in the system or contact the administrator.
-
-This form is intended to be used by customers, not administrators. If you're an administrator, please use the corresponding form designed for your role.
-
-This form should not be used for orders that require immediate attention. If you need to place an urgent order, please contact the customer support team for assistance.
-
-This form is part of the "product_order_forms" category, so you might find additional forms within this category that serve similar purposes or complement this one.
-
-Before filling out this form, make sure you have the necessary information and permissions required to place an order. If you have any doubts or questions, please consult the relevant guidelines or contact the customer support team.</thinking>
-
 # Live Plant Delivery Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place orders for live plants. It gathers information about the customer, their order, and payment details.

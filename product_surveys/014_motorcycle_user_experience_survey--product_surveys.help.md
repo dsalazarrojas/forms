@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from motorcycle users, aiming to understand their experience and satisfaction with their motorcycle. This form is intended for internal use, and the data collected will help the motorcycle manufacturer to improve their products and services. The form is divided into several sections, each focusing on a different aspect of the user's experience. To ensure accurate and comprehensive data collection, please answer all the questions honestly and thoroughly.
-</thinking>
-
 # Motorcycle User Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from motorcycle users, aiming to understand their experience and satisfaction with their motorcycle. The data collected will help the motorcycle manufacturer to improve their products and services.

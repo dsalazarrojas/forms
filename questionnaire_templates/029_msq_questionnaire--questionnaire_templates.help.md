@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 To ensure the form is completed correctly and efficiently, please consider the following:
 
 *   The form is designed to collect data about a person's experiences with migraines, specifically their frequency, severity, and impact on their daily life.

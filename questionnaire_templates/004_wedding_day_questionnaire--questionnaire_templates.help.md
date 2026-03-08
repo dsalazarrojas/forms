@@ -1,7 +1,3 @@
-<thinking>
-A wedding day questionnaire is a collection of questions that are designed to gather information from couples getting married about their wedding day details. This form is used to help planners and organizers ensure that all important aspects of the wedding are covered.
-</thinking>
-
 # Wedding Day Questionnaire - Help Guide
 
 ## Purpose

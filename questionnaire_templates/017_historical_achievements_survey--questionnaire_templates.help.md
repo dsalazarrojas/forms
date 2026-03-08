@@ -1,11 +1,3 @@
-<thinking>Historical Achievements Survey: A Help Guide
-
-This form aims to understand the respondents' experiences, preferences, and familiarity with history, both as a subject and as a discipline. The survey gathers information on the respondents' occupations, their involvement with history, and their perceptions of its importance. The goal is to collect data on how history is taught, learned, and appreciated, which can be used to improve the way history is communicated and taught.
-
-Please note that this survey is for educational purposes only and all responses will be kept confidential. The survey does not collect any sensitive or personal information and is designed to be anonymous.
-
-</thinking>
-
 # Historical Achievements Survey - Help Guide
 
 ## Purpose

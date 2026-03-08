@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect program qualification survey information from applicants. The purpose of this form is to gather relevant details about the applicant, such as program name, name, contact information, and program readiness. This information will help us to assess the applicant's eligibility and suitability for the program. Please ensure that you are filling this form for the correct program and that the information is accurate and complete...</thinking>
-
 # Program Qualification Survey - Help Guide
 ## Purpose
 The Program Qualification Survey is designed to collect information from applicants to assess their eligibility and suitability for a specific program. This form helps us to understand the applicant's background, qualifications, and readiness for the program.

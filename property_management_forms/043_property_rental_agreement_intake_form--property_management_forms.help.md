@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from property owners/agents for rental agreement purposes. The form aims to capture detailed information about the tenant, rental terms, and property details. 
-
-Before starting this guide, please ensure that you have reviewed the form's internal logic and that the form is not already completed.
-
-</thinking>
-
 # property_rental_agreement_intake_form - Help Guide
 ## Purpose
 This form is used to collect rental agreement information from property owners/agents for rental purposes.

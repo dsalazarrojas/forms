@@ -1,13 +1,3 @@
-<thinking>
-This form is meant to collect information about insurance policies, including the type of policy, type of insurance, coverage amount, start and end dates, annual premium, contact details, and location. The form will be used to collect data that will be used for administrative purposes, such as tracking and managing policies. 
-
-Before proceeding, please ensure that you are filling out the form for the correct purpose and that the information you are providing is accurate and up-to-date.
-
-To avoid errors and ensure that your information is accurately recorded, please review the form carefully before submitting it.
-
-Please note that this form is for internal use only and will not be shared or distributed publicly.
-</thinking>
-
 # Personal Lines Insurance Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about insurance policies. The data collected will be used for administrative purposes.

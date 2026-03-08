@@ -1,11 +1,3 @@
-<thinking>
-The form "mathematics_education_philosophy_survey" is designed to collect data on the philosophy and principles of mathematics education. It appears to be a comprehensive form with multiple questions and fields to gather information on various aspects of mathematical education. 
-
-This form seems to be a questionnaire designed to understand the perspectives and beliefs of individuals on mathematics education. It includes questions on topics such as the importance of mathematics, the role of technology in mathematics education, and the challenges faced by students and teachers in mathematics education. The form also includes fields for demographic information such as email and phone number. 
-
-Before starting this form, please ensure that you have not filled it out before. This will help us to get a more accurate and diverse set of responses.
-
-</thinking>
 # mathematics_education_philosophy_survey - Help Guide
 ## Purpose
 This form is designed to collect data on the philosophy and principles of mathematics education.

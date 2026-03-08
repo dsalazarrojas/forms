@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Personality Research Form - Help Guide
 ## Purpose
 This form is designed to gather demographic and research information from participants to help researchers better understand personality-related behaviors and trends. By completing this form, participants will be contributing to the development of more effective psychological theories and interventions.

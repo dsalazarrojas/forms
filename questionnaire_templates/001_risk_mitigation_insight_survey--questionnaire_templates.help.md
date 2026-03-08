@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users complete the "Risk Mitigation Insight Survey" form. The form is used to collect information on risk awareness, mitigation strategies, and assessment frequencies. It is designed to provide a structured approach to identifying and prioritizing risks.
-
-Before proceeding, please ensure that the form is not already completed. If it is, please refer to the existing responses and do not duplicate the effort.
-
-This guide will walk you through each section of the form, explaining the purpose and requirements of each field.
-
-</thinking>
-
 # Risk Mitigation Insight Survey - Help Guide
 ## Purpose
 The Risk Mitigation Insight Survey is used to gather information on risk awareness, mitigation strategies, and assessment frequencies. This form is a tool for risk assessment and mitigation planning.

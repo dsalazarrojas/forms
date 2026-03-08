@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and ratings on quality surveys. It's essential to ensure that each page and field are filled out correctly to provide accurate and meaningful feedback. Please review the fields below to understand the purpose and expectations for each section.
-</thinking>
-
 # ประกพมลนปนพประกประกนปนพยปม - Help Guide
 ## Purpose
 This form is designed to collect ratings and feedback on quality surveys. It's crucial to fill it out accurately to provide valuable insights and improvements.

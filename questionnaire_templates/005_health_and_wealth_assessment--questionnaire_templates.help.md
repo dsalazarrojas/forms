@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to assess a person's overall health and wealth status. It is intended to be a comprehensive evaluation of various aspects of an individual's life, including their wellbeing, finances, goals, and time management. This form is likely to be used by healthcare professionals, financial advisors, or others who need to understand an individual's current situation and provide guidance or support accordingly. 
 
 # Health And Wealth Assessment - Help Guide

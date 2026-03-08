@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a questionnaire template for collecting information from end-users, possibly for a customer support or inquiry purpose. The form has multiple sections, each with its own label, hint, and type of input field. Some fields are optional, while others are required or have specific options. The purpose of this form could be to gather contact information, inquiry details, and status updates from users. Before creating the guide, I will check for any duplicates and make sure it fits the desired structure.
-</thinking>
-
 # Contact and Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from end-users for contact and inquiry purposes.

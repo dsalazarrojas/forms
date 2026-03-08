@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on trust and usage of smart home features among users. It's crucial to have a thorough understanding of this form's purpose and potential users' concerns to ensure accurate data collection. Before proceeding, review the form's fields to confirm that they cover relevant topics and do not duplicate any other existing forms.
-</thinking>
-
 # smart_home_feature_trust_survey - Help Guide
 ## Purpose
 This form collects user feedback on their trust and usage of smart home features, aiming to understand user concerns and preferences in relation to smart home devices.

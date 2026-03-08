@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tool Order Form - Help Guide
 
 ## Purpose

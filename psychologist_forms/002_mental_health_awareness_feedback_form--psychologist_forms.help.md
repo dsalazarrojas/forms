@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from patients about their mental health experiences. It is intended for patients to rate their satisfaction with the mental health awareness provided by medical professionals. The form is meant to be completed by patients who have received mental health services from a medical professional.
-Before completing this form, please ensure that the form is relevant to your experience and not a repeat submission. If you've already completed this form, your feedback is already taken into account and does not need to be resubmitted.
-</thinking>
-
 # mental_health_awareness_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients about their mental health experiences. It is intended for patients to rate their satisfaction with the mental health awareness provided by medical professionals.

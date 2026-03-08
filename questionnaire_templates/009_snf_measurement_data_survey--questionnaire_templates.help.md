@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect measurement data from stakeholders in the SNF (Software-Defined Network Function) industry. The purpose of this survey is to gather information on the measurement data collected during the deployment and operation of SNF systems. This data will help identify trends, patterns, and challenges faced by the SNF community, and inform research and development decisions. 
-
-To ensure that the form is relevant and useful, we will review the responses carefully. If you have already completed a similar survey or have suggestions, please let us know so we can avoid duplication of effort and resources.
-
-Please note that the form is designed to be completed by stakeholders in the SNF industry, including but not limited to:
-
-* Software vendors
-* Network architects
-* Network engineers
-* Researchers
-* Other industry experts
-
-</thinking>
-
 # SNF Measurement Data Survey - Help Guide
 
 ## Purpose

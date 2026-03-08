@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for information retrieval assessment purposes. The main goal is to gather data on how users perform search tasks, including their search skills, confidence in their answers, search engines used, and other relevant details. This data will help in understanding user behavior and improve search engine functionality.
-</thinking>
-
 # information_retrieval_assessment - Help Guide
 ## Purpose
 This form is designed to collect information on user's search performance, search engine usage, and other relevant details.

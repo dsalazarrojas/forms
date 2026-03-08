@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # personal-training-consultation-questionnaire - Help Guide
 ## Purpose
 This form is a consultation questionnaire for personal training purposes. It helps our trainers better understand your preferences, goals, and medical history to provide you with the best possible services. Please ensure you answer all questions truthfully, and we will use this information to create a customized plan tailored to your needs.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the user's interests and preferences related to fetishes, which can be used to cater to their specific interests in the context of fetish-related activities or services.
-To ensure that the form is filled out accurately, please note that this form is for informational purposes only and should not be filled out for any other reason.
-</thinking>
-
 # Fetish Interest Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your interests and preferences related to fetishes. Your responses will be kept confidential and used to tailor our services to your specific needs.

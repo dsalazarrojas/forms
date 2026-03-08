@@ -1,16 +1,3 @@
-<thinking> 
-  This form is designed to collect information about a child's behavior and performance from a teacher, coach, or caregiver who knows the child well. 
-  This form is used to help identify potential signs of attention deficit hyperactivity disorder (ADHD) in a child. 
-  The form is not intended for diagnosis, but rather as a tool to gather observations and insights from those who know the child best. 
-  Please ensure that the person completing this form is someone who has a good understanding of the child's behavior and performance. 
-  Please note that the form is not intended to be a substitute for a professional evaluation or diagnosis by a qualified healthcare professional. 
-  This form is designed to be completed by a teacher, coach, or caregiver who knows the child well. 
-  The form is divided into several sections, each focusing on a different aspect of the child's behavior and performance. 
-  The sections include Attention and Focus, Hyperactivity and Impulsivity, and Other Concerns. 
-  Please answer the questions based on your observations and experiences with the child. 
-  If you have any concerns or questions, please do not hesitate to contact us. 
-  </thinking>
-
 # Childhood ADHD Collateral Questionnaire - Help Guide
 ## Purpose
 The Childhood ADHD Collateral Questionnaire is a tool to gather information about a child's behavior and performance from a teacher, coach, or caregiver who knows the child well. This form is used to help identify potential signs of attention deficit hyperactivity disorder (ADHD) in a child. It is not intended for diagnosis, but rather as a tool to collect observations and insights from those who know the child best.

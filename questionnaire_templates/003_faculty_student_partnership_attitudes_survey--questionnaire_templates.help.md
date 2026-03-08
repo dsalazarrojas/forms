@@ -1,7 +1,3 @@
-<thinking>
-To be eligible for this form, users should be familiar with the concept of faculty-student partnerships and their importance in academic settings. This form is intended to gauge the attitudes and perceptions of faculty members and students towards these partnerships. It's essential that users understand the purpose and goals of this survey to provide accurate and meaningful responses.
-</thinking>
-
 # Faculty Student Partnership Attitudes Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback on the effectiveness and importance of faculty-student partnerships in our institution. Your responses will help us better understand the perceptions and attitudes of faculty and students towards these partnerships, which will inform our efforts to improve their quality and impact.

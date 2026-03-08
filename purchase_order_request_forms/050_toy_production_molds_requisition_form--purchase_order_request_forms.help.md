@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for requesting toy production molds from customers. It's essential to fill out this form accurately to ensure that the production process goes smoothly and that the requested molds meet the customer's needs. Before filling out this form, please ensure that you have not already submitted a similar request for the same customer. If you're unsure, double-check the customer's existing requests. If you need to make changes to an existing request, please contact the relevant team for assistance.
-</thinking>
-
 # Toy Production Molds Requisition Form - Help Guide
 ## Purpose
 This form is used for customers to request toy production molds from the production team. It's essential to provide accurate information to ensure that the production process runs smoothly and that the requested molds meet the customer's needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for logging permit related information for public administration. It should be used by authorized personnel to record and track permit details, status, and other relevant information. To ensure accurate and complete data entry, please review each field carefully and ensure that you are entering the correct information.
-</thinking>
-
 # Permit Summary Log Form - Help Guide
 ## Purpose
 The Permit Summary Log Form is a tool for logging permit related information for public administration. It allows authorized personnel to record and track permit details, status, and other relevant information.

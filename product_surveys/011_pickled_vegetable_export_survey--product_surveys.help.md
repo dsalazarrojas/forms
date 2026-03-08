@@ -1,7 +1,3 @@
-<thinking>
-The "pickled_vegetable_export_survey" form is intended to collect information from users about their pickled vegetable export practices. This form is likely used by researchers or analysts to gather data on how and where users export their pickled vegetables. To verify, this form does not appear to be duplicated across other forms, and its purpose and structure are specific to a particular use case. Please proceed with the help guide.
-</thinking>
-
 # pickled_vegetable_export_survey - Help Guide
 ## Purpose
 The "pickled_vegetable_export_survey" form is designed to collect user information about their pickled vegetable export practices.

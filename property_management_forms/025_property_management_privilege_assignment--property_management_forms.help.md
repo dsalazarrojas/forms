@@ -1,9 +1,3 @@
-<thinking>
-This form is used to assign privileges to a property, allowing users to grant access to specific individuals or groups. The form is intended to collect information about the property owner, the start and end dates of the privilege, and the type of access being granted. The form will be used by property management teams to track and manage privileges for properties under their care.
-
-The form is divided into several sections, each with a specific field that requires or optionally collects information. The form does not require any field to be filled out, but it is recommended that all necessary information be provided to accurately track and manage privileges.
-</thinking>
-
 # property_management_privilege_assignment - Help Guide
 ## Purpose
 ## How To Complete This Form

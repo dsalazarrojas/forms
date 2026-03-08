@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather product order information from customers. The form is intended for internal use within the organization. Please ensure that this form is being filled out correctly to avoid duplication of effort and ensure accurate information is being captured.
-</thinking>
-
 # Precision Mold Production Order Form - Help Guide
 
 ## Purpose

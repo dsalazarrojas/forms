@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form meets the requirements and is not redundant, let's first analyze the purpose and context of the "Homeowners Association Estoppel Request" form. This form appears to be used for requesting an estoppel certificate, which is an official document that proves the existence or non-existence of certain restrictions or conditions on a property. The form is likely to be used by homeowners or their representatives to request this certificate from their Homeowners Association (HOA). The context of the form is likely to be a residential property management setting. Given this context, the form is designed to collect relevant information about the property and the request being made. The fields provided cover the necessary details for the estoppel request, including the home address, HOA name and contact information, property type, and delivery options.
-</thinking>
-
 # Homeowners Association Estoppel Request - Help Guide
 ## Purpose
 The Homeowners Association Estoppel Request form is used to request an estoppel certificate from a Homeowners Association (HOA). This certificate is an official document that proves the existence or non-existence of certain restrictions or conditions on a property.

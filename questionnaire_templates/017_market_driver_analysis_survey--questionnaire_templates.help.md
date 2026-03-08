@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to analyze the market driver, a key element in market research, by gathering information on its goals, characteristics, impact, and other relevant details. This form is intended for use by market researchers and analysts to collect data from customers or stakeholders. Please ensure that this form is not duplicated or used for purposes other than its intended use.
-</thinking>
-
 # market_driver_analysis_survey - Help Guide
 ## Purpose
 The market_driver_analysis_survey form is used to gather information about the market driver, its goals, characteristics, and impact on the customer's purchasing decision. It is designed to be completed by market researchers and analysts to collect data from customers or stakeholders.

@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's briefly discuss the form's purpose. This form is designed for users to request mining excavation tools. It's intended for site managers or other personnel responsible for managing site resources to submit requests for tools needed for mining excavation activities. The form should only be used for legitimate requests and not for testing or duplicate purposes. This guide will walk users through the steps to complete the form correctly and provide explanations for each field to ensure accurate and efficient submission.</thinking>
-
 # Mining Excavation Tools Requisition Form - Help Guide
 ## Purpose
 The Mining Excavation Tools Requisition Form is a tool request submission form for site managers or other personnel responsible for managing site resources. Use this form to request excavation tools for mining activities. Ensure that each request is legitimate and not for testing or duplicate purposes.

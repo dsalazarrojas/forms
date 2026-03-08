@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from teachers to populate a database for easier data management and analysis. The purpose of this form is to gather basic contact information (name, email, phone number), teaching experience, and certifications. This information will be used to create teacher profiles that can be used for various purposes, such as staff directory, research, or future reference. Please make sure to fill out this form accurately and completely to ensure that your information is up to date and correct.
-</thinking>
-
 # Teacher Interview Questionnaire Form - Help Guide
 ## Purpose
 The Teacher Interview Questionnaire Form is designed to collect information from teachers to create accurate and up-to-date profiles.

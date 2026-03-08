@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to help users assess the impact of a new policy on different stakeholders and determine the category and type of the policy. The purpose of this form is to gather essential information to aid in informed decision-making. 
-- **Title:** "Policy Impact Assessment Application Form"
-
-This form is part of the "public_administration_forms" category, which suggests it is used internally within a public administration setting.
-</thinking>
-
 # Policy Impact Assessment Application Form - Help Guide
 ## Purpose
 The Policy Impact Assessment Application Form is a tool used to evaluate the potential effects of a policy on various stakeholders. It helps to identify the positive and negative impacts, which can inform decision-making processes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback on the effectiveness of the fitness app's workout program. It is designed to help us understand how well the program has met the users' goals, motivation, and overall satisfaction. The form will ask you to complete a series of questions and provide some personal information about your experience with the program.
-</thinking>
-
 # Fitness App Workout Program Effectiveness Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the effectiveness of the fitness app's workout program. It will help us understand how well the program has met your goals, motivation, and overall satisfaction.

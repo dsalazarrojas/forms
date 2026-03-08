@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Menu Item Preference Survey - Help Guide
 
 ## Purpose

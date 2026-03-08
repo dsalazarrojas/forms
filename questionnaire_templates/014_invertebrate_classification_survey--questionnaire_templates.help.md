@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect information about the classification of invertebrates, a group of animals that do not have a backbone. The form is designed to gather data on various aspects of invertebrates, including their type, habitat, size, and other relevant details. This form is not affiliated with or endorsed by any form platform, and it is an original adaptation of public survey topic metadata. It is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell derived forms, as long as they give credit.
-
-Please note that this form is AI-generated and does not copy, extract, or use proprietary content from any form creation, data collection, or survey platform. The form is designed to be a helpful tool for users to gather information about invertebrates, but it is not a replacement for expert knowledge or professional taxonomic classification.
-
-Before filling out this form, make sure you have a clear understanding of the invertebrate in question and the classification criteria you are using. If you are unsure about any aspect of the form, you can always seek additional guidance from experts in the field or consult relevant literature on invertebrate taxonomy.
-
-The form is meant to be a starting point for further research or classification, not a definitive classification tool. Please be aware that the classification of invertebrates can be complex and nuanced, and expert knowledge or further research may be needed to achieve accuracy.
-
-This form is a public adaptation of a generic form created using only public survey topic metadata. As such, it may not cover all possible scenarios or invertebrate types. You can always modify the form to suit your specific needs or add new questions as needed.
-
-Please fill out this form carefully and accurately, and be aware that the information provided will be used for general information purposes only. If you have any questions or concerns, please contact form@gic.mx.
-
-</thinking>
-
 # Invertebrate Classification Survey - Help Guide
 ## Purpose
 The Invertebrate Classification Survey is a tool designed to gather information about the classification of invertebrates. The form is intended to collect data on various aspects of invertebrates, including their type, habitat, size, and other relevant details.

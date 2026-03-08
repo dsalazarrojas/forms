@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clean Water Project Impact Study - Help Guide
 
 ## Purpose

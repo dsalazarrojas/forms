@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Leader Questionnaire - Help Guide
 
 ## Purpose

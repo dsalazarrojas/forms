@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product_feedback_survey - Help Guide
 
 ## Purpose

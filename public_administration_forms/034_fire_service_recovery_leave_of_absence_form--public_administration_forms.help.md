@@ -1,9 +1,3 @@
-<thinking> 
-
-The "Fire Service Recovery Leave Of Absence Form" is a critical document used by fire departments to track and manage employee leave of absence (LOA) requests. This form is essential for fire departments to ensure they are following proper procedures and policies for handling employee absences. When filling out this form, please ensure that you have the authority to do so and that the information is accurate and up-to-date. If you've already submitted a form for the same employee, please do not submit another, as this may cause unnecessary duplication of effort. 
-
-</thinking>
-
 # Fire Service Recovery Leave Of Absence Form - Help Guide
 ## Purpose
 The Fire Service Recovery Leave Of Absence Form is a crucial document used to manage employee leave of absence (LOA) requests in fire departments. This form is used to track and record essential information about an employee's leave, ensuring that the department follows the required procedures and policies.

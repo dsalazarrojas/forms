@@ -1,5 +1,3 @@
-<thinking>This form is used to gather background information and credential verification details from individuals. It is used to ensure that all required fields are filled out before proceeding with the verification process. Please ensure that all fields are accurate and complete before submitting the form. This form is not intended to be a comprehensive medical history, but rather a brief overview of the individual's background and credentials.</thinking>
-
 # Credentialing Questionnaire Template - Help Guide
 ## Purpose
 This form is used to collect background information and credential verification details from individuals.

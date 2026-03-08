@@ -1,12 +1,3 @@
-<thinking>
-In the context of prison management, the "inmate-release-log-form" plays a crucial role in documenting the release of inmates. The form is used to record the date and reasons behind an inmate's release, as well as obtain information about the prisoner's return to the institution, confirmation of property return, and any relevant comments or explanations. To confirm the accuracy of this guide, let's review the form's fields:
-- A date field for recording the release date.
-- Fields for specifying the reason for release and the date of return.
-- Options for confirming or denying the return of property.
-- A field for notes or comments.
-- A field for confirming or denying that the form is complete.
-</thinking>
-
 # inmate-release-log-form - Help Guide
 ## Purpose
 The "inmate-release-log-form" is used to document the release of inmates, including the date, reason for release, return date, and any other relevant details.

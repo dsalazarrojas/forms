@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a property inspection assessment form used to gather information about a property, including its address, condition, and inspection details. The form is likely intended for use by property maintenance or inspection teams to gather data about properties under their care. The form's purpose is to collect and document inspection findings, which can help inform maintenance and repair decisions.
-</thinking>
-
 # Property Inspection Assessment Form - Help Guide
 ## Purpose
 This form is used to collect and document inspection findings about a property. The information collected will help inform maintenance and repair decisions, ensuring that properties under care are well-maintained and safe for occupants.

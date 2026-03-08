@@ -1,5 +1,3 @@
-<thinking>Before creating this form, please ensure that you have completed the training session and are now ready to provide feedback. This form is intended for trainers and participants to collect feedback on the session they have just completed. You should only complete this form once per session, so please take a moment to review your answers before submitting.</thinking>
-
 # post_training_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from trainers and participants on their recent training session. Your input will help us understand your experience and improve future training sessions.

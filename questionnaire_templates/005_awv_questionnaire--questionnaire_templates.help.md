@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a comprehensive patient survey designed to gather information about a patient's demographics, health history, medical screenings, and lifestyle habits. The goal of this form is to help healthcare providers understand the patient's overall health status, medical history, and potential risks and concerns. This information will be used to inform patient care and treatment plans.
-
-Before you begin, please note that this form is not affiliated with any form platform and is an original adaptation created using AI. The form is released under a Creative Commons license, allowing you to use, modify, and share it freely. If you have any questions or concerns, please contact [form@gic.mx](mailto:form@gic.mx).
-
-</thinking>
-
 # AWV Questionnaire - Help Guide
 ## Purpose
 The AWV Questionnaire is a comprehensive patient survey designed to gather information about a patient's demographics, health history, medical screenings, and lifestyle habits. The goal of this form is to help healthcare providers understand the patient's overall health status, medical history, and potential risks and concerns.

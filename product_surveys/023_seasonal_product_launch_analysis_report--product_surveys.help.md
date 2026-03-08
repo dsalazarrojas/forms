@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about seasonal product launches, allowing users to provide details about the product's name, description, launch date, price, sales channels, region, and other relevant metrics. This form is part of the "product_surveys" category and will be used to analyze seasonal product launches. Before filling out this form, please ensure you have the necessary data and permissions to complete it accurately. Additionally, if you have already completed a similar form for the same product, please do not fill out this form again, as it will be considered a duplicate entry.</thinking>
-
 # Seasonal Product Launch Analysis Report - Help Guide
 ## Purpose
 The seasonal product launch analysis report is designed to collect data about the launch of new products, providing insights into sales channels, regions, and other relevant metrics.

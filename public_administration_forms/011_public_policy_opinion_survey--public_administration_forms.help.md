@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather public opinion on various aspects of public policy, gathering information on employment status, income, education level, occupation, internet usage, household dynamics, and more. The form is not mandatory and is meant to be a voluntary survey to collect feedback from the public. This form is part of a larger data collection effort to understand public attitudes and demographics. 
-</thinking>
-
 # public-policy-opinion-survey - Help Guide
 ## Purpose
 The public-policy-opinion-survey form aims to gather information on various aspects of public policy. It is not mandatory and is designed to collect feedback from the public in a voluntary manner.

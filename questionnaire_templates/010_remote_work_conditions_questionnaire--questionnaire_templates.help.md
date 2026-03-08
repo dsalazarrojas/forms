@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Work Conditions Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about the work conditions and conditions of employees who are working remotely. It is meant to be completed by employees who are working outside of the office environment and helps to identify the strengths and areas for improvement of the remote work set-up. This form is typically used to ensure that remote work arrangements are conducive to productivity, collaboration, and overall well-being of employees.

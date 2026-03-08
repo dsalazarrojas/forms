@@ -1,15 +1,3 @@
-<thinking>
-This help guide is intended for use by end-users who are required to fill out the "Ranger Management Agreement Form". The purpose of this form is to capture information related to an individual's work assignment, including their personal details, contact information, and assignment schedule.
-
-Before proceeding, verify that this form is the correct one to use by ensuring the following criteria are met:
-
-* The form is labeled as "Ranger Management Agreement Form".
-* The form is located within the "property management forms" category.
-* The form has not been previously filled out for this individual.
-
-If any of these criteria are not met, please contact the relevant authorities to ensure the correct form is being used.
-</thinking>
-
 # Ranger Management Agreement Form - Help Guide
 
 ## Purpose

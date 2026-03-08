@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees about their pre-return work health status, which will help management to identify potential risks and ensure a smooth transition when the employee returns to work after a period of absence. This form will help in assessing the employee's health status, work-related risk factors, and procedures in place to maintain or improve their health. This will help in preventing any health-related issues when the employee returns to their work role. 
-Please ensure that the form is completed accurately and honestly, as the information gathered will be used for the employee's benefit and to ensure a safe working environment. 
-</thinking>
-
 # Employee Pre Return Work Health Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from employees about their health status and work-related risk factors before they return to work after a period of absence. This information will help management identify potential risks and take necessary steps to ensure a smooth transition and a safe working environment.

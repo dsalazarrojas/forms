@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? It is used to quiz users about the main functions of different types of human cells. The form is a series of select-one or text fields that ask users to identify the primary function of various cellular components. This form is not affiliated with, endorsed by, or derived from any form platform, and is a original adaptation created using public survey topic metadata. It is released under CC BY 4.0 and can be used, modified, and sold freely, with proper credit given.</thinking>
-
 # Human Cell Types Quiz - Help Guide
 ## Purpose
 The Human Cell Types Quiz is a form designed to test your knowledge of the main functions of various human cell types. It consists of 9 fields that ask you to identify the primary function of different cellular components.

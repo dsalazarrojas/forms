@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sea Level Changes Quiz - Help Guide
 ## Purpose
 The Sea Level Changes Quiz is a form designed to assess your understanding and knowledge about sea level changes. It is intended to be a self-contained assessment that gauges your comprehension of sea level rise, its measurement, impacts, and potential mitigation strategies.

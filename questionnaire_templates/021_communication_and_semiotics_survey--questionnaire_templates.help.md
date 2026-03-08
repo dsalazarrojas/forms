@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Communication And Semiotics Survey - Help Guide
 
 ## Purpose

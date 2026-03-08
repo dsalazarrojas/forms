@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # neuroscience_and_consciousness_quiz - Help Guide
 ## Purpose
 

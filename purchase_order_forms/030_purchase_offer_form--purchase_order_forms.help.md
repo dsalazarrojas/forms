@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a template for a purchase offer form, likely used for buying and selling goods or services. The form includes several fields for capturing information about the buyer, offer details, seller info, product info, and other relevant details. The purpose of this form is to streamline the purchasing process by collecting all necessary information in a structured and organized way. The form can be filled out by either the buyer or seller to ensure a smooth transaction. Before proceeding, please check that you don't already have a similar form on your system and that your purchase offer matches the intended use case.</thinking>
-
 # Purchase Offer Form - Help Guide
 ## Purpose
 The Purchase Offer Form is designed to help buyers and sellers efficiently exchange goods or services by collecting all relevant information in one place.

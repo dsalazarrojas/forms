@@ -1,17 +1,3 @@
-<thinking>
-The form purpose is to collect feedback on the performance of Local Area Networks (LANs) or wireless networks from users. The goal is to evaluate the overall performance of the network, including devices, locations, and potential issues.
-The form will ask users to select multiple options, input text, or choose a rating, depending on the type of question.
-The following sections should be reviewed to ensure that the form is completed accurately and effectively:
-
-* **LTE Survey**: This section asks if the network performed well.
-* **Device**: Please input the device model or name you used to access the network.
-* **Location**: If applicable, provide the location where you used the network.
-* **Network Performance Rating**: Rate the network performance, with higher scores indicating better performance.
-* **Network Issues**: Select any issues you experienced with the network.
-* **Service Issues**: If there were any issues with services offered through the network (e.g., internet, phone, etc.), select them.
-* **Network Performance Comments**: If you have any additional comments about the network performance, enter them here.
-</thinking>
-
 # LTE Network Performance Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the performance of Local Area Networks (LANs) or wireless networks. It helps us understand how well the network performed, and what issues users experienced.

@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Hepatobiliary Tumor Evaluation Survey form, I will consider the provided YAML fields and aim to create a clear and concise guide that explains the form's purpose, how to complete it, and each field's meaning. This guide will be written in Markdown format.
-
-</thinking>
-
 # Hepatobiliary Tumor Evaluation Survey - Help Guide
 ## Purpose
 The Hepatobiliary Tumor Evaluation Survey is a form designed to collect information about a patient's medical history and characteristics related to hepatobiliary tumors. This form helps healthcare professionals assess the patient's condition and provide accurate diagnoses and treatments.

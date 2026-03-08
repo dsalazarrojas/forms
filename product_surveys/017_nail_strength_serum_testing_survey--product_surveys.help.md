@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive survey designed to gather user experience, preferences, and feedback related to nail strength serums. The purpose of this form is likely to collect data to understand user perceptions and experiences with these products. This guide will help ensure that the form is completed accurately and correctly.
-
-</thinking>
-
 # Nail Strength Serum Testing Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect user feedback and experiences with nail strength serums. Please answer the questions honestly and to the best of your ability to provide valuable insights for our team.

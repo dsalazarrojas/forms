@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from the client about their estate planning goals and preferences. This is a critical component in the estate planning process, and the information collected here will help guide the creation of a comprehensive estate plan that meets the client's needs. 
-
-To ensure the accuracy and effectiveness of the estate plan, it's essential to fill out the form carefully and thoroughly. Please note that some of the fields are required, while others are optional. It's not recommended to leave any of the required fields blank.
-</thinking>
-
 # Estate Planning Client Questionnaire - Help Guide
 ## Purpose
 The Estate Planning Client Questionnaire is designed to gather essential information about you and your estate planning goals. This information will be used to create a personalized estate plan that meets your unique needs and objectives.

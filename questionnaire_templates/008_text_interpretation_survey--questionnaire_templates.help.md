@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Text Interpretation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights on text interpretation from users. The purpose of this form is to gather information on how individuals understand and comprehend written text, including their own thoughts and opinions on specific topics.

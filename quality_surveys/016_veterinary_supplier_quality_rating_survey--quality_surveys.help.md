@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and ratings from users about their experience with a veterinary supplier. It's intended to be used by quality assurance team members or veterinarians to evaluate and improve the quality of service provided by veterinary suppliers. The data collected will be used to identify areas of improvement and provide a summary of overall supplier performance.
-
-To prevent duplicate or irrelevant submissions, please ensure that you are filling out this form for a specific veterinary supplier and that you have not already submitted a rating for the same supplier.
-
-</thinking>
-
 # Veterinary Supplier Quality Rating Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from users about their experience with a veterinary supplier. It helps the quality assurance team to evaluate and improve the quality of service provided by veterinary suppliers.

@@ -1,7 +1,3 @@
-<thinking>
-This form, non_toxic_product_swap_survey, is designed to collect user feedback and data about non-toxic products. The purpose of this form is to help us understand your preferences and needs related to non-toxic products and to identify potential areas for improvement in our product offerings. Please take a few minutes to complete this form and let us know about your experience with our products. This information will help us tailor our products and services to meet your needs more effectively. Before filling out this form, please note that it is not a duplicate for any existing product. If you've already filled out this form, please do not fill it out again.
-</thinking>
-
 # non_toxic_product_swap_survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback and data about non-toxic products to help us tailor our products and services to your needs.

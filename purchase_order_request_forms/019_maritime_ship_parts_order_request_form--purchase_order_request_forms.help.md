@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a template for creating a request for a maritime ship parts order. It's intended for suppliers to submit their order requests, including details about the order, such as the vessel details, contact information, delivery timeline, and order request date. The form also includes fields for payment terms, shipping preferences, and order status.
-
-Before starting, ensure you understand the form's purpose and the required fields. Please note that some fields may be optional, but it's essential to fill in the required fields to ensure accurate and complete order requests.
-
-This form consists of multiple pages with various fields. Please review each page carefully and fill in the required information accurately.
-
-</thinking>
-
 # Maritime Ship Parts Order Request Form - Help Guide
 ## Purpose
 This form is designed for suppliers to submit their order requests for maritime ship parts. It collects essential information about the order, supplier, and delivery details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Tree Preference Survey - Help Guide
 ## Purpose
 The Community Tree Preference Survey is designed to gather information about your preferences regarding tree planting in your area. It will help us understand your priorities and concerns about tree planting, which will aid us in making informed decisions about community tree planting initiatives.

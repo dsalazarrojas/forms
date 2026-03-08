@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to help users create a comprehensive profile of a fictional elf character. The purpose of the form is to gather information about the elf's physical appearance, personality traits, involvement in a story, motivations, skills, relationships, and other characteristics. To ensure the form is completed accurately, please review each section carefully and choose the options that best fit your character.
-
-This is the first time you'll be asked to fill out this form, so please note that some of the questions may seem redundant or unnecessary. However, this is a comprehensive assessment, and each question is crucial in creating a well-rounded elf character.
-</thinking>
-
 # Elf Character Assessment Survey - Help Guide
 ## Purpose
 This form is designed to help you create a comprehensive profile of a fictional elf character. It includes questions about the elf's physical appearance, personality traits, involvement in a story, motivations, skills, relationships, and other characteristics.

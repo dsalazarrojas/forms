@@ -1,8 +1,3 @@
-<thinking>
-This form is used for property owners to report any issues or concerns they are experiencing with their property. It's intended to be completed by the property owner, and the submitted information will be reviewed and addressed by the maintenance team. Before filling out this form, please ensure that you have not submitted a similar issue already. If you're unsure about the issue or need assistance, contact the property management team for guidance.
-
-</thinking>
-
 # Home Maintenance Intake Form - Help Guide
 ## Purpose
 The Home Maintenance Intake Form is designed to collect information about property issues or concerns from property owners. This form helps the maintenance team prioritize and address these issues efficiently.

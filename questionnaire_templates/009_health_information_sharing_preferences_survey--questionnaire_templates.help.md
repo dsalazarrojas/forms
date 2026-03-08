@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the user's preferences regarding sharing their health-related data. This form is likely to be used in a healthcare context, where patients or their authorized representatives are asked to provide their consent and specify which organizations or entities they want to share their data with, and for what purposes. This form is likely to be used for administrative or compliance purposes, such as patient data management or research project setup.
-
-Please note that this form is not a medical questionnaire, but a survey to collect consent and preferences for data sharing, hence the name "health_information_sharing_preferences_survey". 
-
-It is likely that this form will be used in conjunction with existing patient data management systems.
-
-It is also possible that some of the questions asked are similar to others used in other contexts, so some form questions might already have answers or information available from other sources.
-</thinking>
-
 # health_information_sharing_preferences_survey - Help Guide
 ## Purpose
 This form is used to collect information about your health data sharing preferences. Please fill it out carefully to specify which organizations or entities you want to share your data with, and for what purposes.

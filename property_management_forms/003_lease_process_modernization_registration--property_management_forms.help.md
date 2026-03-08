@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from team members, team leads, and participants involved in the lease process modernization. This includes gathering details about team members, team leads, and participants, such as their titles, interests, and contact information. The form is crucial for maintaining accurate records and streamlining communication within the team.
-
-The form will help in the following ways:
-*   Ensuring accurate and up-to-date information about team members and their roles.
-*   Facilitating communication between team members and management.
-*   Monitoring interest in lease process modernization initiatives.
-
-This form will not be duplicative or redundant as it serves a specific purpose.
-
-</thinking>
-
 # lease_process_modernization_registration - Help Guide
 ## Purpose
 This form collects information from team members, team leads, and participants involved in lease process modernization. It helps maintain accurate records and facilitates communication.

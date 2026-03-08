@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to be used for customers to pre-order Blu-ray releases before they are available on the market. The form collects information necessary for shipping and payment, as well as some optional features that can be included in the pre-order. It is designed to be filled out by customers who want to reserve a copy of a specific Blu-ray title before its release date. 
-
-The form should be filled out by customers carefully, ensuring that all required fields are filled in accurately. 
-
-This form will be used by customers who are interested in pre-ordering a Blu-ray release, and the information collected will be used for shipping and payment purposes. 
-
-To prevent data duplication, this form should not be filled out by customers who have already pre-ordered the same title. 
-</thinking>
-
 # Blu Ray Release Pre Order Form - Help Guide
 ## Purpose
 This form is used for customers to pre-order Blu-ray releases before they are available on the market.

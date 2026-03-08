@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a voucher check request, allowing users to input details about the voucher, such as its category, description, date, time, amount, and currency. The form is designed to be completed by users to request a voucher check for a specific reason. Before filling out the form, please ensure that the voucher you are requesting is not already being processed and that you have all the necessary information required to complete the form accurately. If you are unsure about any field or need further clarification, please consult with the relevant personnel before proceeding.
-</thinking>
-
 # Voucher Check Request Form - Help Guide
 ## Purpose
 The Voucher Check Request Form is used to create a voucher check request, which is used to request a voucher for a specific reason.

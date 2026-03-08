@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to be a basic questionnaire that helps users provide information about their preferences and interests. It is not intended for any specific business use case, and the purpose of this form is to gather some basic information from users about what they want to do today, their favorite color, favorite animal, date, time, additional notes, email, and phone number.
 
 This form will likely be used in an educational or personal setting, and it's not designed to be used in a production environment.

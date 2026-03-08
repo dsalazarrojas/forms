@@ -1,5 +1,3 @@
-<thinking>This guide is intended to be used by individuals who need to assess their support network. The purpose of this form is to help you identify the people and resources available to you in case of a crisis or emergency. Please answer these questions carefully and honestly, as they will help us better understand your support network and provide you with the best possible support.</thinking>
-
 # Support Network Assessment - Help Guide
 
 ## Purpose

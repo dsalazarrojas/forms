@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from tenants about their experiences and issues with their rental property. The form is used by the Tenant Relations Office to track and address tenant concerns and complaints. The form is divided into multiple pages, each with specific fields to gather relevant information. The fields are designed to be completed by tenants themselves, with the option to submit or skip questions.
-</thinking>
-
 # Tenant Relations Office Contact Form - Help Guide
 ## Purpose
 The Tenant Relations Office Contact Form is a tool used to collect information from tenants about their experiences and issues with their rental property. This form is designed to help the Tenant Relations Office track and address tenant concerns and complaints.

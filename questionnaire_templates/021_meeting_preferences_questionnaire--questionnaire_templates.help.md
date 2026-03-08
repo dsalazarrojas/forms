@@ -1,5 +1,3 @@
-<thinking>Meeting Preferences Questionnaire is used to capture preferences for meetings. Meeting participants can use this form to indicate their availability, meeting preferences, and other relevant details. Please note that this form is for general meeting preferences and is not a specific meeting schedule or agenda. If you've already completed a similar form recently, you might be able to skip this one.</thinking>
-
 # Meeting Preferences Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect meeting preferences from participants, including their availability, meeting preferences, and other relevant details.

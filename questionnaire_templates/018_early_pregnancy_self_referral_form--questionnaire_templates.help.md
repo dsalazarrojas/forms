@@ -1,7 +1,3 @@
-<thinking>
-...The purpose of this form is to gather information from patients to assess their early pregnancy health and well-being. To ensure that each patient receives the most appropriate care, it is essential to collect accurate and complete information. This form is not intended for patients who have been referred from another healthcare facility, as their records would already be available. Ensure you have not filled out this form previously before submitting it. Please review the form carefully before completing it.
-</thinking>
-
 # early_pregnancy_self_referral_form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Group And Role Information Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a group and its roles. The goal is to gather data on the group's composition, including its members, roles, and responsibilities.

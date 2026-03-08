@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Real Estate Incident Report Form is to collect information about incidents that have occurred in the real estate industry. This form is designed to be used by real estate professionals to report and document incidents such as property damage, theft, or other events that may impact the safety or security of a property or its occupants. The form is intended to gather details about the incident, including its date, type, location, and resolution, as well as information about the affected party and the person reporting the incident.
-
-This form is not intended to be used for any other purpose, and it is not affiliated with or endorsed by any specific form platform or software. It was created using public survey topic metadata as inspiration and is an original adaptation of a form created by AI.
-
-To ensure that this form is not duplicated or used for the same purpose in multiple instances, please note that the form's title and purpose should remain the same as specified here.
-
-</thinking>
-
 # Real Estate Incident Report Form - Help Guide
 ## Purpose
 The Real Estate Incident Report Form is a tool used by real estate professionals to report and document incidents that occur in the industry.

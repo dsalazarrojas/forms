@@ -1,7 +1,3 @@
-<thinking>
-This guide provides instructions for filling out the Local Ordinance Opinion Questionnaire form. Before starting, please make sure you have a clear understanding of the form's purpose and that you are not duplicating efforts or filling out the form for the wrong reason. The form is designed to gather feedback from users on various aspects of local ordinances. It is essential to provide accurate and helpful information to facilitate better decision-making and policy development.
-</thinking>
-
 # Local Ordinance Opinion Questionnaire - Help Guide
 ## Purpose
 The Local Ordinance Opinion Questionnaire form is used to gather user feedback and opinions on local ordinances. This form helps identify areas of improvement, clarify ambiguities, and facilitate more informed decision-making within the local administration.

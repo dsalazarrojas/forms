@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facility Cleaning Quality Survey - Help Guide
 ## Purpose
 The Facility Cleaning Quality Survey is designed to assess the cleanliness standards and maintenance of a facility. This survey helps identify areas for improvement and ensures that the facility meets the required cleanliness standards. The survey is used to collect feedback from users about the cleanliness of the facility, including the frequency and quality of cleaning, and the overall rating of the facility's cleanliness.

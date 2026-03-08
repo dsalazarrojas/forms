@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Machine Temperature Monitoring Unit Order Form - Help Guide
 
 ## Purpose

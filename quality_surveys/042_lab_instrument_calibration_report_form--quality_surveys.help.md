@@ -1,5 +1,3 @@
-<thinking>...The form's purpose is likely to collect information about lab instruments, specifically their calibration status and frequency, to ensure they are properly maintained and calibrated to achieve accurate and reliable results. This form may be used for internal quality control or regulatory compliance purposes. It may also help in identifying instruments that are due for calibration, reducing the risk of errors and downtime. Before proceeding, please review the form carefully and ensure you are not duplicating efforts. Check if you have already submitted this form for the same instrument or a similar one. If so, this form may not be necessary. If not, proceed with filling in the necessary information...</thinking>
-
 # Lab Instrument Calibration Report Form - Help Guide
 ## Purpose
 The Lab Instrument Calibration Report Form is used to collect information about lab instruments, including their calibration status and frequency. This form helps maintain accurate and reliable results in laboratory settings.

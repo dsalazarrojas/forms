@@ -1,24 +1,3 @@
-<thinking>
-The provided YAML describes a form designed to collect data on customers' apparel shopping preferences. This form is likely used to gauge customer opinions on various aspects of the apparel shopping process, such as age group, shopping channel, frequency of purchase, and factors influencing purchase decisions. The form includes questions on style, color preferences, budget, sales importance, fashion discovery sources, and sustainability priorities.
-
-To confirm, the form is designed to:
-
-- Determine age group demographics (Under 18, 18-24, ..., 55+)
-- Assess shopping preferences (online, in-store, equal mix of both)
-- Evaluate the frequency of purchases (monthly, once every 3 months, twice a year, rarely)
-- Identify the importance of various factors in purchase decisions (price/value, quality, brand reputation, sustainability, style/trendiness, fit/comfort)
-- Explore style preferences (casual/athleisure, professional/business, minimalist, bohemian, streetwear, classic/formal)
-- Gather color preferences (open-ended text field)
-- Estimate annual budget (under $500, $500-$1,500, $1,500-$3,000, over $3,000)
-- Assess the importance of sales and discounts (1-5 scale)
-- Discover new fashion trends (Instagram/TikTok, fashion magazines, friends and family, store displays, influencers)
-- Evaluate the importance of sustainable manufacturing (very important, somewhat important, not important)
-- Gather feedback on how brands can improve the shopping experience (open-ended text field)
-
-The form appears to be comprehensive, covering various aspects of the apparel shopping process, and is likely used for market research purposes.
-
-</thinking>
-
 # Apparel Shopping Preferences Survey - Help Guide
 ## Purpose
 This form is designed to collect information on your preferences and habits when shopping for apparel. Your responses will help us better understand your needs and improve our services.

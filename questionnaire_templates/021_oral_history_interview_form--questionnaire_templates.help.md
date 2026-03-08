@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to capture the details of an oral history interview, which is a method of collecting personal histories and experiences from individuals or groups. This form serves as a guide to standardize the process and ensure consistency in collecting such data. The form should not be used for formal or official government records, but rather for internal documentation and research purposes. Please ensure that the information collected through this form is accurate and respectful of the individual's privacy. 
-
-</thinking>
-
 # Oral History Interview Form - Help Guide
 ## Purpose
 The Oral History Interview Form is a standardized guide to collect personal histories and experiences from individuals or groups through a series of questions. This form is intended for internal documentation and research purposes, not for formal or official records.

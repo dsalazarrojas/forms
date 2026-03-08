@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback on photos and evaluate personality traits based on the reactions to these photos. This form is used to collect information about the participant's perception of photos and their personality characteristics. This form is not meant to be used for any other purpose, and it is assumed that the participant is aware of the context and is responding honestly.
-
-Please ensure that the participant has understood the purpose and scope of this form before proceeding. It is also recommended to review the form carefully to avoid duplication of questions.
-
-</thinking>
-
 # Photo Feedback And Personality Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on photos and evaluate personality traits based on the reactions to these photos.

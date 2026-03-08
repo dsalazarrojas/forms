@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is only used for its intended purpose and avoid duplication of effort. The form is designed to capture customer menu preferences for events. This guide will walk users through the form's purpose, how to complete it, and an explanation of each field.
-</thinking>
-
 # Customer Menu Preference Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about a customer's menu preferences for an event. Please fill it out to inform us of your dietary restrictions, preferred menu options, and any other special requests you may have. This will help us provide a personalized experience for you and your guests.

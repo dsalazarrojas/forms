@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for item purchasing requests, used by internal teams for acquiring items. It is recommended to fill it out only once for each item. Please check if a similar request for the same item is already in the system before submitting another one to avoid duplication.
-
-</thinking>
-
 # Item Purchasing Request Form - Help Guide
 ## Purpose
 The Item Purchasing Request Form is used for internal teams to request items. Fill it out completely and accurately to ensure a smooth purchasing process.

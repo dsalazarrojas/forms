@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's knowledge about endometriosis, its symptoms, and related topics such as contraception. This is a self-assessment quiz aimed at gauging the participant's understanding of endometriosis and its management. By taking this quiz, participants can evaluate their knowledge level and identify areas where they need further learning. The form does not collect any sensitive or personal data and is meant for educational purposes only.
-</thinking>
-
 # Contraception And Endometriosis Quiz - Help Guide
 
 ## Purpose

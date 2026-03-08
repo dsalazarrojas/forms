@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from customers about their hose specifications, with the goal of understanding their preferences and needs related to hoses. It is crucial to gather accurate and thorough data to improve hose quality and user experience.
-Before filling out this form, please ensure that the information is relevant to your hose and that you have not already completed this form in the past. This is to prevent duplicate submissions and ensure the data is accurate and up-to-date.
-</thinking>
-
 # Hose Specification Survey - Help Guide
 ## Purpose
 The Hose Specification Survey is designed to collect essential information about your hose, including customer contact details, preferences, and specifications. This data will help us better understand your needs and improve our products and services.

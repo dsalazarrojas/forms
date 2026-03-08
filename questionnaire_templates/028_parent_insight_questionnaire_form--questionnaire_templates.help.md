@@ -1,8 +1,3 @@
-<thinking>
-This form is a questionnaire designed to gather information from parents about their children's learning progress, needs, parental support, and challenges. The form is meant to be completed by parents and caregivers to provide insight into their child's development and well-being. To ensure accuracy, please note that this form is a generated template and may not cover all possible scenarios or nuances within the topic. 
-Please ensure that the form is not used in a way that may cause harm or discomfort to anyone involved. If you are unsure about the purpose or content of this form, please reach out to the form author at [form@gic.mx](mailto:form@gic.mx) for clarification or concerns.
-</thinking>
-
 # Parent Insight Questionnaire Form - Help Guide
 ## Purpose
 The Parent Insight Questionnaire Form is a tool designed to help parents and caregivers provide valuable information about their child's learning progress, needs, and challenges. This form aims to gather essential details that can be used to support the child's development and well-being.

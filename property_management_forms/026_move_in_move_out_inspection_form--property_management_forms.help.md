@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used during the move-in and move-out process for properties, typically during the transition of tenancy. Its purpose is to collect information about the current state of the property and the condition of any damages or defects found upon inspection. This form may be used by property managers, maintenance teams, or landlords to document the condition of properties before and after a tenant's occupation.
-</thinking>
-
 # move_in_move_out_inspection_form - Help Guide
 ## Purpose
 This form is used during the move-in and move-out process to collect information about the current state of the property and the condition of any damages or defects found upon inspection.

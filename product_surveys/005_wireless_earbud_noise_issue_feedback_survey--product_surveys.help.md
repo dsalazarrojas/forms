@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about their experience with the wireless earbuds. It aims to collect information on the type of earbuds they are using, any noise issues they are experiencing, and how these issues affect their daily use of the product. This form will help us understand our customers' pain points and identify areas for improvement.
-
-Before starting the form, please ensure you have not already provided feedback on this issue, and that you are willing to provide honest and accurate information about your experience with our product. Your input is valuable to us, and we appreciate your time and effort in helping us understand your needs.
-
-Please proceed with the form if you have not previously provided feedback or if you are willing to do so again. 
-
-</thinking>
-
 # Wireless Earbud Noise Issue Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience with our wireless earbuds, specifically regarding noise issues you may be experiencing. Your input will help us identify areas for improvement and provide better services to you and our other customers.

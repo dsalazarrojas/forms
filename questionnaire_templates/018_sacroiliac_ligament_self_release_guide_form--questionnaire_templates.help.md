@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to guide participants in self-releasing the sacroiliac ligament, which is a procedure that may be necessary for various medical reasons. This form is intended to be completed by a participant, and the practitioner who will be performing the release. The form will be used to collect information that will help the practitioner to perform the release correctly and safely.
-
-To ensure that the form is used correctly, we will need to check that it is not being duplicated or used for the same purpose for multiple participants. This form will be used for one-time use only.
-
-</thinking>
-
 # Sacroiliac Ligament Self Release Guide Form - Help Guide
 ## Purpose
 The Sacroiliac Ligament Self Release Guide Form is a document that guides participants in self-releasing the sacroiliac ligament. It is a form that collects information from both the participant and the practitioner who will be performing the release.

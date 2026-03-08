@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for tenants to register for a Tenant Inclusion Forum, which aims to create a safe and inclusive environment for tenants with various needs and requirements. The form is intended for tenants who need accommodations or assistance during events, such as accessible parking, wheelchair accessibility, or special dietary needs. By filling out this form, tenants can express their needs and provide information that will help organizers and staff prepare for their event.
-
-Before filling out this form, please ensure that:
-
-* You are a valid tenant with a legitimate reason for needing accommodations.
-* You have not already registered for this event through the standard registration process.
-* You have not already provided the same information through other means.
-
-</thinking>
-
 # Tenant Inclusion Forum Registration - Help Guide
 ## Purpose
 This form is used to register for a Tenant Inclusion Forum, a platform to provide accommodations and assistance to tenants with specific needs during events.

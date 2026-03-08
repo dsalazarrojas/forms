@@ -1,12 +1,3 @@
-<thinking>
-  This form is designed to help users order a smart L collider device, a cutting-edge technology product. The form is intended for customers who want to purchase the device for personal or business use. It is likely that this form will be used by sales teams, customer support, or marketing departments to streamline the ordering process.
-
-The form's purpose is to collect essential information from customers, including order details, delivery preferences, and payment method. The form should not be used for internal business operations that do not involve customer interaction. 
-
-To ensure the form is used correctly, we should avoid duplication and verify the form is used for its intended purpose. We should also keep in mind that this form was generated through AI, and while it may not have all the features or nuances of a human-designed form, it is a good starting point for our use cases.
-
-</thinking>
-
 # smart_lollider_device_order_form - Help Guide
 ## Purpose
 The smart_lollider_device_order_form is a form designed to collect information from customers who want to order a smart L collider device. This form helps customers provide the necessary details for a smooth ordering process.

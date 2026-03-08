@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about a specific product. The purpose of this form is to collect opinions and ratings from users to help the company understand how their product is received in the market. The form is divided into several sections that cover different aspects of the product, such as its quality, usability, and recommendation to friends. The form is not affiliated with any specific form platform and is an original adaptation created by AI.
-
-The form will be used to collect data that will help the company improve their product and services.
-
-Before completing the form, please ensure that you have not already provided feedback on this product. This will help the company understand your unique perspective and avoid duplicate feedback.
-
-Please note that this form is for general feedback purposes and is not a formal support request. If you need help with a specific issue, please contact us directly through the email field at the end of the form.
-</thinking>
-
 # embossed_product_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about a specific product.

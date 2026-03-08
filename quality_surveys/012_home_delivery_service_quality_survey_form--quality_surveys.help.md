@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended to assist end users in understanding the purpose and process of completing the Home Delivery Service Quality Survey Form. The form is designed to collect feedback from customers about their home delivery experiences. The feedback collected will help us identify areas of improvement and optimize our delivery service to meet customer needs better.
-
-When filling out this form, please ensure that you're providing accurate and honest feedback. Your input is valuable to us and helps us serve you better.
-
-This help guide will walk you through the form's structure, each field's meaning, and provide tips for users to complete the form smoothly.
-
-</thinking>
-
 # Home Delivery Service Quality Survey Form - Help Guide
 ## Purpose
 The Home Delivery Service Quality Survey Form is designed to collect your feedback on our home delivery service. Your input will help us understand your experience and identify areas for improvement.

@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Scoliosis Quality Of Life Questionnaire" form, we should first consider the form's purpose and the information it aims to collect. 
-
-This form is designed to gather data about a person's quality of life regarding scoliosis. It includes various questions about their medical history, treatment, and lifestyle. The form is likely used by medical professionals to assess the condition of their patients and provide guidance on treatment options. 
-
-We should check if the form is not a duplicate or if it has any redundancy in questions. In this case, we can identify that some questions might be related to each other but are still necessary to get a full picture of the patient's condition. 
-
-Now, we can start creating the help guide.
-
-</thinking>
-
 # Scoliosis Quality Of Life Questionnaire - Help Guide
 ## Purpose
 The Scoliosis Quality Of Life Questionnaire is a form used to collect data about a person's quality of life regarding scoliosis. This form is used to assess the condition of patients with scoliosis and provide guidance on treatment options.

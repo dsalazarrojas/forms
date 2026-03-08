@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information from audio professionals, such as voiceover artists, to register their talent, experience, and technical setup for potential collaborations. By completing this form, you will be able to provide detailed information about your voice classification, primary languages, experience in the audio/voice industry, technical setup, project preferences, and other relevant details. This information will be used to match you with suitable projects that fit your skills and preferences. Please ensure that you answer accurately and thoroughly to increase the chances of being matched with projects that suit your expertise... </thinking>
-
 # Audio Initial Project Questionnaire - Help Guide
 ## Purpose
 The Audio Initial Project Questionnaire is designed to gather information from audio professionals to register their talent, experience, and technical setup for potential collaborations. By completing this form, you will be able to provide detailed information about your voice classification, primary languages, experience in the audio/voice industry, technical setup, project preferences, and other relevant details.

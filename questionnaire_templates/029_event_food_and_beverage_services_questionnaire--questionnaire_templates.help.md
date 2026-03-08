@@ -1,14 +1,3 @@
-<thinking>
-This help guide is for the "Event Food And Beverage Services Questionnaire" form, which is used to gather feedback from event attendees on the quality of food and beverage services provided at an event. This form should be completed by all attendees to ensure that their opinions and experiences are captured accurately. 
-
-Please note that this form is designed to be completed by a single attendee at a time, so please make sure to only submit your response once. 
-
-This form is intended to be a quick and easy way to collect feedback, so please answer the questions as honestly and thoroughly as possible. 
-
-This form will be used to improve future event planning and food and beverage services, so your input is greatly appreciated!
-
-</thinking>
-
 # Event Food And Beverage Services Questionnaire - Help Guide
 ## Purpose
 The Event Food And Beverage Services Questionnaire is designed to gather feedback from event attendees on the quality and experience of food and beverage services at an event.

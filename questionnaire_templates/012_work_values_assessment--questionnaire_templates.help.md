@@ -1,5 +1,3 @@
-<thinking>...This form is a general-purpose form designed to capture information from individuals, possibly for research, surveys, or other applications that require gathering basic contact and work values details. It appears to be created using public metadata and is not affiliated with any specific survey platform. Its design is original and released under the Creative Commons BY 4.0 license, allowing for modifications, sharing, and use in various contexts... </thinking>
-
 # work_values_assessment - Help Guide
 
 ## Purpose

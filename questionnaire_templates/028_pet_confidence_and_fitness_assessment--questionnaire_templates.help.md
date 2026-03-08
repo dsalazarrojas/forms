@@ -1,7 +1,3 @@
-<thinking>
-This is a form for evaluating the confidence and fitness level of a pet, including their health status and training experience. The form aims to collect data from pet owners or trainers to assess the pet's current state and provide insights for further guidance. 
-</thinking>
-
 # Pet Confidence And Fitness Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about your pet's confidence and fitness level. It will help us understand their current status and provide you with tailored advice to improve their well-being.

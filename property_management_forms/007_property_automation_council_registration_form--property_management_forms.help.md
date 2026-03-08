@@ -1,9 +1,3 @@
-<thinking>
-## Internal reasoning block: 
-This form is designed to collect information from users registering with the Property Automation Council. The form is not required for any specific business process, but rather for general information collection and tracking purposes. This form does not duplicate any other form in the system, as it is a one-time registration process.
-
-</thinking>
-
 # Property Automation Council Registration Form - Help Guide
 ## Purpose
 The Property Automation Council Registration Form is a form used to collect information from users registering with the Property Automation Council. This information is used to track and verify registrations.

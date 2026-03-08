@@ -1,7 +1,3 @@
-<thinking>
-The form "rental_property_checklist_form" appears to be designed for property management or inspection purposes. The form likely serves to collect information about a rental property, its condition, and various other relevant details. Upon reviewing the form structure, it seems to be divided into sections for property details, photos, financial information, lease terms, property condition, tenant information, payment details, inspection results, and notes. The form's purpose might be to facilitate a comprehensive assessment or report on a rental property.
-</thinking>
-
 # rental_property_checklist_form - Help Guide
 ## Purpose
 The "rental_property_checklist_form" is designed to collect and record information about a rental property, its condition, and other relevant details.

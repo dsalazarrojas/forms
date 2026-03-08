@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is an Essay Evaluation Rubric Questionnaire, designed to gather feedback and scores from teachers on student essays. To ensure relevance and non-duplication, let's break down the form's purpose and fields.
 
 The form is used to evaluate student essays based on specific rubric criteria, providing feedback and scores for each criterion. The form consists of 12 fields: 5 rubric criteria fields, a Rubric Score field, and 6 other fields for identifying the teacher, student, and essay title, as well as providing feedback.

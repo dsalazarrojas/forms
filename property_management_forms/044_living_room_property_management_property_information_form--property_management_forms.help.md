@@ -1,15 +1,3 @@
-<thinking>
-This form is a template for property management, specifically designed for collecting information related to living rooms. The purpose of this form is to gather essential details about a property, including its address, type, value, and rental status. This form consists of 12 fields across three pages, each serving a specific purpose.
-
-**Form fields are categorized into three main sections:**
-1. **Property Information**: This section includes fields for collecting property-specific details such as address, type, value, and rental status.
-2. **Owner and Property Management**: This section includes fields for collecting information about the property's owner and any additional details.
-3. **Consent and Additional Info**: This section is primarily for collecting the participant's consent and additional property information.
-
-Please note that while this form has a clear structure and purpose, it's essential to review the individual field explanations provided below for further clarification.
-
-</thinking>
-
 # living_room_property_management_property_information_form - Help Guide
 ## Purpose
 The living_room_property_management_property_information_form is designed to collect property management details for living rooms, covering essential information such as address, property type, value, and rental status.

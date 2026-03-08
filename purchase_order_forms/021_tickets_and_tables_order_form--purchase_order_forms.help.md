@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help users create a simple order form for customers to provide their details for a ticket and table order. It's meant to be used by customers, event planners, or ticket vendors to collect information about ticket sales and table reservations from customers. This form will be used for both internal purposes and as a public-facing tool. It's recommended to review the form's purpose and intended use cases before proceeding to fill it out.
-
-</thinking>
-
 # tickets_and_tables_order_form - Help Guide
 ## Purpose
 This form is designed to collect essential information from customers for ticket and table order purposes, such as customer contact details and shipping requirements.

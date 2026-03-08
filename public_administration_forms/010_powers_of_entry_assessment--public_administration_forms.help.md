@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is not duplicated for the same entry in the past 90 days. This form is intended to collect information from site inspectors about the power of entry of a site. Each field is designed to capture specific details about the site, inspector, and entry time. If the form is submitted with invalid data, it will not be accepted.
-</thinking>
-
 # Powers Of Entry Assessment - Help Guide
 ## Purpose
 This form is designed to collect information from site inspectors about the power of entry of a site. This information is used to assess the level of access and control that an individual or group has over a particular site.

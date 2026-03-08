@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # UML And Use Case Quiz - Help Guide
 ## Purpose
 The UML And Use Case Quiz is a tool for understanding and assessing knowledge about the Unified Modeling Language (UML) and Use Case diagrams. It consists of a series of questions that test your understanding of the concepts, purposes, and types of UML and Use Case diagrams.

@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to assess and evaluate the overall quality and production process of a furniture production project. It aims to gather information about the project's details, production process, quality standards, and other relevant aspects.
-
-Before filling out this form, please ensure you have all the necessary information and data required for completion. This form is meant to be a comprehensive evaluation tool, so please fill it out thoroughly and accurately.
-
-To prevent duplication, please check if a similar assessment has been done for the same project before. If you have already assessed this project, please do not resubmit your answers.
-
-</thinking>
-
 # Furniture Production Assessment - Help Guide
 
 ## Purpose

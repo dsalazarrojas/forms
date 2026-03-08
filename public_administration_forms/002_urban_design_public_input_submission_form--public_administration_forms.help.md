@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from the public for urban design input submissions. This form is likely used to collect feedback or suggestions from individuals on how to improve the urban design of a particular area or project. The form is intended to be public-facing, meaning it's accessible to anyone who wants to submit their thoughts and opinions. This form is not intended for internal use within the organization and is meant to be a public engagement tool.
-</thinking>
-
 # urban_design_public_input_submission_form - Help Guide
 ## Purpose
 This form is designed to collect information from the public for urban design input submissions. It is intended to be a public-facing form, accessible to anyone who wants to submit their thoughts and opinions.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback on mobile network connectivity. The goal is to assess the quality of mobile network coverage, reliability, and satisfaction across various locations. This survey is intended for individuals who use mobile networks for personal or professional purposes. The form should only be filled out once for each individual, as it is not intended to measure the overall network performance in general but rather the specific user's experience.
-
-This form is not meant to measure the overall network performance in general but rather gather individual experiences. Users are encouraged to fill out this form based on their actual usage and experiences.
-</thinking>
-
 # Mobile Network Connectivity Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback on mobile network connectivity to better understand individual experiences. Please answer the questions honestly to help us improve the service.

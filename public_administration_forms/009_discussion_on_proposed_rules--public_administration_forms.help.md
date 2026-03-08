@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discussion On Proposed Rules - Help Guide
 ## Purpose
 This form is designed to collect information on proposed rules and regulations. It is intended to gather stakeholder feedback on draft policies, allowing for a structured and informed discussion.

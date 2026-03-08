@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trends & Colours (For Resellers) - Help Guide
 ## Purpose
 The Trends & Colours (For Resellers) form is designed to collect information from resellers for a purchase order. This form is intended to be completed by resellers to provide details about their purchase order, including their name, email, phone number, order date, and order amount.

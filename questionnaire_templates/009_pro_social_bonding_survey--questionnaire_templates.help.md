@@ -1,5 +1,3 @@
-<thinking>Pro Social Bonding Survey: This form is designed to measure an individual's level of social bonding within a group or community. It assesses various aspects of social bonding, including participation, feelings of belonging, trust, and social connections. This form is intended for use in research or academic settings and is not a diagnostic tool for clinical or therapeutic purposes. Please note that this form is for general understanding purposes only, and responses should not be taken as a definitive measurement of an individual's actual social bonding or well-being.</thinking>
-
 # Pro Social Bonding Survey - Help Guide
 
 ## Purpose

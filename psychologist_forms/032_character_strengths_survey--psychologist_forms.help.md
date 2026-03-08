@@ -1,5 +1,3 @@
-<thinking>As a designer, I need to ensure that the "Character Strengths Survey" form serves its intended purpose while being user-friendly. To do this, I will follow the provided form YAML structure and use the fields as a guide to create a clear and concise help guide for end-users. This guide will walk through the form's purpose, instructions on how to complete it, and a field-by-field explanation of each element to ensure users understand the form's intent and what's expected of them. I will also follow the Markdown structure as specified and keep the guide brief and practical.</thinking>
-
 # Character Strengths Survey - Help Guide
 ## Purpose
 The "Character Strengths Survey" is designed to help individuals identify and evaluate their character strengths, exploring how often they are applied and their impact on daily functioning. This survey aims to understand the respondent's strengths, their frequency of use, and how they support daily tasks and development goals.

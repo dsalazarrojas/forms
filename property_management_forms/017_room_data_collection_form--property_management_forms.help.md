@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect data about a room within a building, including its details, occupancy status, and various attributes such as room size, type, and condition. It's intended for property management purposes, allowing users to track and update information about each room. It's likely that this form will be filled out by facilities managers, administrators, or others with access to the room's details.
-
-Before proceeding, ensure that you're filling out this form for a valid room and that you're not duplicating work by checking if the room's data is already up-to-date. If you're unsure, please consult with the relevant personnel or the room's owner.
-</thinking>
-
 # Room Data Collection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and update information about a room within a building, enabling property management teams to track and manage room details.

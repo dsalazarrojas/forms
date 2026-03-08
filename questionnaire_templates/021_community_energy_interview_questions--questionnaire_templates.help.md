@@ -1,12 +1,3 @@
-<thinking>
-This guide is for users who want to fill out the Community Energy Interview Questions form. This form is designed to gather information about the energy preferences, habits, and interests of community members. The form is intended to be completed by individuals who are interested in learning about their energy options and potential opportunities for community-based clean energy initiatives.
-
-To ensure that users understand the context and purpose of the form, it is essential to review the questions carefully and provide honest answers. This form will not collect any personally identifiable information and will not influence your energy bill or service plans.
-
-To avoid duplication, please make sure to complete the form only once for each household or individual.
-
-</thinking>
-
 # Community Energy Interview Questions - Help Guide
 ## Purpose
 The form is designed to gather information about your energy preferences and habits to help us better understand your needs and offer more effective community-based clean energy solutions.

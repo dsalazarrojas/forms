@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for collecting information about an employer's costs and expenses. The goal is to gather data on the different categories of labor costs, benefits, and expenses that an employer incurs. This information will help in understanding the overall cost structure of the employer and aid in making informed decisions for budgeting and financial planning. To ensure that each employer's data is collected accurately and consistently, this form should only be used for a specific employer and not for any other entity. It is essential to complete the form correctly to provide the required information for the analysis.
-
-</thinking>
-
 # Employer Cost Analysis Survey - Help Guide
 ## Purpose
 The Employer Cost Analysis Survey form is designed to collect information about an employer's labor costs, benefits, and expenses. This data will be used to help understand the overall cost structure of the employer and aid in making informed decisions for budgeting and financial planning.

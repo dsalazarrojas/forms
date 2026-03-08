@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for customers or patrons to provide feedback on their dining experience at a restaurant chain. It's meant to be filled out once per visit, and the goal is to help restaurants gauge their customer satisfaction and identify areas for improvement.
-To ensure that the form is filled out for the correct purpose, please note that it's meant to be completed by individual customers, not for group or business purposes. If you're filling out this form for a group or business, please do not use this guide.
-</thinking>
-
 # Restaurant Chain Dining Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on the quality of service, food, and overall experience at a restaurant chain. It's meant to be filled out by customers after each visit, allowing the restaurant to gauge their satisfaction and make necessary improvements.

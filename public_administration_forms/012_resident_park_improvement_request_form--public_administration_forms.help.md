@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to submit requests for improvements to a resident park. This includes providing information about the park's name, a description of the requested improvement, and the contact details of the person submitting the request. The form also asks for the type of park and the priority level of the request. The status of the request will be tracked automatically, but the user is asked to select the status upon submission. This form is intended for internal use within the organization, and it is not intended to be publicly accessible. Before submitting a request, please check that it is not a duplicate and ensure that your submission is accurate and complete. If you are unsure or have any questions, please contact your supervisor or the form administrator.
-</thinking>
-
 # Resident Park Improvement Request Form - Help Guide
 
 ## Purpose

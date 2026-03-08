@@ -1,13 +1,3 @@
-<thinking>
-This form is for requesting a property tour, which is a meeting between the property owner/agent and a potential buyer or client. This form is meant to gather information about the property and the client's preferences and interests in order to schedule a suitable tour.
-
-The purpose of this form is to ensure that the property owner/agent has all the necessary information to provide an efficient and effective tour experience for the client. It's used to determine the type of property and type of tour the client is interested in, how they want to be contacted, and what details are important for the tour.
-
-The form is used by both the property owner/agent and the client to communicate their needs and preferences for the tour. It's also used to follow up with the client after the tour to confirm details and schedule further activities.
-
-To avoid duplication of effort, it's recommended to fill out this form for every new client request.
-</thinking>
-
 # property_tour_request_form - Help Guide
 ## Purpose
 This form is used to request a property tour with a property owner/agent. It helps gather information about the property and the client's preferences and interests in order to schedule a suitable tour experience.

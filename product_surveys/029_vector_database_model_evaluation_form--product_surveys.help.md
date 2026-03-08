@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Vector Database Model Evaluation Form is used to evaluate the effectiveness of a vector database model. This form is designed for users to provide input on the model's performance in various aspects. To ensure accurate and meaningful evaluation, please complete the form carefully and honestly. Before starting, review the form's purpose and ensure you're not duplicating an existing evaluation.
 
 # Vector Database Model Evaluation Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and insights from participants in a self-help group program. It's intended to understand the impact and effectiveness of the program from the participant's perspective. This form is meant to be completed by both the facilitators and participants to gather comprehensive feedback and suggestions for improvement.
-</thinking>
-
 # Self-Help Group Impact Interview - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from participants in a self-help group program. It's meant to be completed by both facilitators and participants to understand the impact and effectiveness of the program.

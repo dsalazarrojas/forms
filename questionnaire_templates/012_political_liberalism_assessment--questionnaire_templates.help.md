@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a person's level of political liberalism, which is a political philosophy that emphasizes the principles of liberty, democracy, and social justice. The form is meant to be a survey-like instrument to gauge an individual's opinions and attitudes towards various aspects of political ideology.
-</thinking>
-
 # political_liberalism_assessment - Help Guide
 ## Purpose
 This form is a 25-question survey designed to gauge an individual's level of political liberalism, covering a range of topics related to liberty, democracy, and social justice. The form is intended to be completed by users to assess their own political views and opinions.

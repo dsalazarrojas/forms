@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for capturing information from departing employees, typically during an exit interview process. The purpose of this form is to gather data that can help the organization understand the reasons behind an employee's departure, and identify areas for improvement to prevent future departures. 
-
-When using this form, please ensure that it is not used for internal conflicts or disputes, as the information collected is for the benefit of the organization as a whole.
-
-Before completing this form, take a moment to ensure that you are not providing redundant information as the questions might overlap with other exit interviews or employee data.
-
-</thinking>
-
 # employee_exit_interview_form - Help Guide
 ## Purpose
 This form is used to gather information from departing employees, helping the organization understand the reasons behind their departure and identify areas for improvement to prevent future departures.

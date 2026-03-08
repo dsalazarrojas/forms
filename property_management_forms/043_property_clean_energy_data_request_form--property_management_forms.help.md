@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from property owners about their energy usage and clean energy goals. It is intended for internal use within the organization and will not be visible to the general public. The purpose of this form is to gather data on the energy sources used by properties, including electricity, gas, oil, coal, biomass, and other sources. The form also asks for details on energy usage and clean energy goals, as well as contact information for follow-up communication. Please note that this form is not a survey or a public-facing form, and the data collected will be used internally for decision-making purposes.
-</thinking>
-
 # Property Clean Energy Data Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from property owners about their energy usage and clean energy goals. It is intended for internal use within the organization and will not be visible to the general public.

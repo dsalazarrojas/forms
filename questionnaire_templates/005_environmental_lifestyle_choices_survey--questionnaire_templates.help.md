@@ -1,11 +1,3 @@
-<thinking>
-This help guide is for the "Environmental Lifestyle Choices Survey" form, which is designed to collect information from users about their environmental lifestyle choices. The purpose of this form is to gather data on users' habits and behaviors related to the environment, such as their energy usage, transportation methods, and waste management practices.
-
-Before proceeding, please ensure that you are completing this form for the correct purpose and do not duplicate your survey responses. Your responses will be used to help us better understand and improve our environmental initiatives.
-
-If you have any doubts or uncertainties about the form, please refer to this guide for clarification.
-</thinking>
-
 # Environmental Lifestyle Choices Survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their environmental lifestyle choices, including their energy usage, transportation methods, and waste management practices.

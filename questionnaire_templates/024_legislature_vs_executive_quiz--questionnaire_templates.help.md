@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to provide a clear understanding of the "Legislature Vs Executive Quiz" form, ensuring that end users can efficiently complete it and gain accurate results. 
-This form is designed to assess user knowledge on legislative and executive branches of government, focusing on key terms and concepts. Before starting, please review the following guide to ensure you're familiar with the form's purpose and content.
-
-</thinking>
-
 # Legislature Vs Executive Quiz - Help Guide
 ## Purpose
 The "Legislature Vs Executive Quiz" form is designed to test user knowledge on the role of the legislature and the executive branch of the government. It covers essential aspects of these branches, ensuring users can distinguish between their functions and responsibilities.

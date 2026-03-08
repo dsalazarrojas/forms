@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for customers to place an order for factory ventilation grilles. The purpose of this form is to gather details about the product being ordered, the specifications of the grille, the delivery schedule, and payment method. This form is likely to be used by sales representatives or customer support teams to process customer orders. The form fields should only be completed once for each order. 
-</thinking>
-
 # Factory Ventilation Grille Order Form - Help Guide
 ## Purpose
 The Factory Ventilation Grille Order Form is a document used to collect information for customer orders of factory ventilation grilles. It is intended to gather all necessary details to process the order efficiently.

@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect information from tenants about their experiences with the property management team. The purpose of this form is to gather feedback and ratings on the property management team's performance, allowing them to improve their services and better serve the tenants. This form is intended for tenants to provide their input on various aspects of the property management, including the quality of service, communication channels, and staff response. The form is a critical component of the property management team's quality control process, helping them to identify areas for improvement and make informed decisions about their services.
-
-After verifying that the information on this form is not duplicated and is relevant to the required data, the form can be considered complete and ready for submission.
-
-</thinking>
-
 # Property Management Agreement Survey - Help Guide
 ## Purpose
 The Property Management Agreement Survey is designed to collect information from tenants about their experiences with the property management team. This form helps the team to improve their services and better serve the tenants.

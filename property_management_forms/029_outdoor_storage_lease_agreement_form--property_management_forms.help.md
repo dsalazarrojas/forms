@@ -1,29 +1,3 @@
-<thinking>
-This form is designed to be used by property managers to collect information from renters about their outdoor storage lease agreements. The form is intended to gather essential details such as renter information, storage unit details, lease terms, payment terms, and renter signatures. The purpose of this form is to streamline the rental process and ensure that both the property manager and the renter are on the same page about the lease agreement. This form should not be used for any other purpose or context.
-
-This form has 13 fields and the following fields are required:
-
-* renter_info (Renter information)
-* storage_unit (Storage unit info)
-* lease_terms (Lease Terms)
-* property_manager (Property Manager)
-* renter_terms (Renter Terms)
-* storage_facilities (Storage Facilities)
-* renter_address (Renter Address)
-
-The other fields are not required but can be filled in for additional information:
-
-* rental_agreement (Rental Agreement)
-* payment_terms (Payment Terms)
-* renter_signatures (Renter signatures)
-* additional_terms (Additional Terms)
-* renter_notes (Notes)
-* property_info (Property Info)
-
-Please note that the form is intended for use in an outdoor storage lease agreement context and is not meant to be used for any other purpose.
-
-</thinking>
-
 # Outdoor Storage Lease Agreement Form - Help Guide
 ## Purpose
 This form is designed to be used by property managers to collect information from renters about their outdoor storage lease agreements.

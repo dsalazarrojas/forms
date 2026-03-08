@@ -1,11 +1,3 @@
-<thinking>
-This form is a tool for collecting information from passengers about their preferences for their flight. The purpose of this form is to gather data that can help airlines provide a more personalized experience for their passengers. The form is designed to be completed by passengers before their flight, and its questions cover a range of topics including seating, meal preferences, and general information about their travel.
-
-When filling out this form, passengers will be asked to provide their full name, frequent flyer number (if applicable), preferred seat type, preferred cabin area, special dietary requirements, preferred welcome beverage, and other amenity preferences. They will also be asked to select the primary purpose of their travel, whether they require priority baggage handling, and if they have any other specific requests or preferences.
-
-Each field in the form has been carefully designed to provide passengers with the opportunity to share their preferences and needs with the airline. By understanding these preferences, the airline can provide a more comfortable and enjoyable flight experience for each passenger.
-</thinking>
-
 # Airline Passenger Preference Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from passengers about their preferences for their flight, enabling the airline to provide a more personalized experience.

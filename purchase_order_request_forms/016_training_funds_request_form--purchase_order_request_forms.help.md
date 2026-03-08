@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Funds Request Form - Help Guide
 ## Purpose
 The **Training Funds Request Form** is a form used to request training funds for employees. This form helps employees submit their training needs and expenses to the management for approval. It is used to track and manage employee training requests within the organization.

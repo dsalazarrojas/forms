@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # lip_product_subscription_form - Help Guide
 ## Purpose
 The lip_product_subscription_form is used to capture information about a product subscription. This form is essential for understanding customer preferences and requirements for a subscription plan. It is usually filled out by customers during the onboarding process.

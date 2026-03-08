@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning block to clarify the form purpose and potential pitfalls:
-
-This form is designed to collect feedback on a group of images. The goal is to have users confirm or deny the presence of images in the selected categories. Each image field is a separate question where users can provide more details about the image they've seen. This form is likely used for internal quality assurance and content moderation purposes. To avoid duplicates, users should only fill out this form once per session or group of images. If users have already filled out this form for the same group of images, their responses may not be recorded.
-</thinking>
-
 # Group Image Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback on a group of images. You will be asked to confirm or deny the presence of each image in the selected categories. Your responses will help us improve the content and quality of our images.

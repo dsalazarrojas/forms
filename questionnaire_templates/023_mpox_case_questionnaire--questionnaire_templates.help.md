@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The Mpox Case Questionnaire is a form designed to collect information about monkeypox cases. It is intended to be completed by individuals who are reporting or managing monkeypox cases. The purpose of this form is to gather crucial data for the diagnosis, treatment, and prevention of monkeypox. This form should not be completed if you are a healthcare professional seeking to report a case. In that case, please refer to the standard reporting procedures for healthcare professionals.
 </thinking>
 

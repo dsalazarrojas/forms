@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Product Comparison Behavior Survey - Help Guide
 ## Purpose
 

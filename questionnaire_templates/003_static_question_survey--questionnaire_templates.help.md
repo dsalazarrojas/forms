@@ -1,9 +1,3 @@
-<thinking>
-
-To create a help guide for the "Static Question Survey" form, the following is the explanation behind its purpose and logic. This form is designed to collect feedback and gather information from users about their experience with a specific feature. The form aims to gather data on their current role or position within an organization, their frequency of using the feature, when they last used it, and their level of satisfaction with it. Additionally, it seeks to collect contact information and any suggestions or feedback they may have. The form is likely used to help developers and stakeholders understand how users interact with the feature and what areas may need improvement. It might also be used for quality assurance or to gather testimonials for marketing purposes.
-
-</thinking>
-
 # Static Question Survey - Help Guide
 ## Purpose
 The "Static Question Survey" form is designed to collect user feedback and information on their experience with a feature. This helps developers and stakeholders understand how users interact with the feature and identify areas for improvement.

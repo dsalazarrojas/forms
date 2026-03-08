@@ -1,13 +1,3 @@
-<thinking>
-
-To create this form, we'll start by identifying the form's purpose, which is to gather information from customers for a new release of fitness equipment. The form will be used to collect product details, delivery information, and payment details. We'll ensure that the form is easy to understand and use for the end-user.
-
-The form will be divided into sections for product details, delivery address, order date and time, payment information, and any additional order notes. Each section will have a brief description and instructions on how to fill in the corresponding fields.
-
-Before starting, it's essential to check that the form is not duplicated and that the information is accurate and up-to-date.
-
-</thinking>
-
 # fitness_equipment_new_release_pre_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for a new release of fitness equipment from customers. It will help us understand their needs and preferences for the product.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Space Naming Proposal Form - Help Guide
 ## Purpose
 The Public Space Naming Proposal Form is used to propose a new public space in our community. A public space is a designated area within our community that is open to the public. This form is designed to gather essential information from you, the proposer, to facilitate the evaluation and approval of your proposal.

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather data about the cultural responsiveness in teaching practices, teacher background, student background, school climate, and other related factors that can influence the effectiveness of teaching and learning. 
-
-The form is meant to be completed by educators, researchers, or other stakeholders who are familiar with the cultural responsiveness in teaching concept.
-
-Before completing this form, please ensure that you are familiar with the concept of cultural responsiveness and its relevance to your role or institution.
-
-This form will ask you to provide information about your practices, background, and beliefs as a teacher, as well as about your school climate, student engagement, and other relevant factors.
-
-Please answer the questions honestly and to the best of your ability.
-
-If you are unsure about any question or have concerns about your responses, please reach out to your supervisor or a trusted colleague for guidance.
-
-</thinking>
-
 # Cultural Responsiveness In Teaching Survey - Help Guide
 ## Purpose
 The Cultural Responsiveness In Teaching Survey is designed to gather data about the cultural responsiveness in teaching practices, teacher background, student background, school climate, and other related factors that can influence the effectiveness of teaching and learning.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my primary goal is to create a user-friendly and informative help guide for the Multicultural Haircare Product Survey form. I will analyze the form's purpose and fields to provide a clear and concise explanation that addresses the user's needs and expectations. I will make sure to cover all the necessary aspects of the form, including its purpose, how to complete it, and a field-by-field explanation of each section and field.</thinking>
-
 # Multicultural Haircare Product Survey - Help Guide
 ## Purpose
 The Multicultural Haircare Product Survey is designed to gather information about your haircare habits, preferences, and experiences. This survey aims to understand your needs and preferences related to haircare products, including your hair type, texture, length, and condition, as well as your usage and purchase behavior of haircare products. The survey will help us to create better haircare products that cater to your specific needs and preferences.

@@ -1,10 +1,3 @@
-<thinking>
-The Learning Chapter Worksheet is a tool designed to help students and educators assess student learning after completing a chapter of study material. This form is intended for educational purposes, such as gathering feedback and understanding of students' comprehension and reflection on the material.
-
-When creating this form, ensure that the questions and sections are relevant to the specific chapter being assessed, and avoid duplicating questions or sections that have already been completed.
-
-</thinking>
-
 # Learning Chapter Worksheet - Help Guide
 ## Purpose
 The Learning Chapter Worksheet is a tool used to collect feedback and reflection from students after they complete a chapter of study material. This form is designed to help students and educators assess their understanding of the material and identify areas where students may need additional support.

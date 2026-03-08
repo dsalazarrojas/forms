@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about participant relationships and interactions in a Secret Valentine's Day-themed context. It appears to be a survey or questionnaire meant to collect data on participants' connections, messages, and gifts exchanged. The form's purpose is likely to understand social dynamics and behaviors related to relationships between individuals. Before proceeding, please ensure that you understand the form's purpose and that the questions are relevant to your research or survey goals.
-</thinking>
-
 # Secret Valentine Questionnaire - Help Guide
 ## Purpose
 The Secret Valentine Questionnaire is a series of questions designed to gather information about participant relationships, interactions, and behaviors related to Valentine's Day. The form is meant to be completed by participants who are familiar with the concept of Secret Valentine's Day, where individuals exchange anonymous gifts and messages with their crushes or loved ones.

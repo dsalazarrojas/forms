@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's confirm that the form is used for declaring pecuniary interests. This form is likely used for individuals in positions of power or responsibility to disclose their financial interests and relationships with the organization or entities related to the organization. It's essential to ensure that the form is completed accurately and thoroughly to maintain transparency and avoid any potential conflicts of interest. To avoid duplication, this form should only be completed once per reporting period. Please ensure that you have not already completed this form for the selected reporting period before proceeding.</thinking>
-
 # Pecuniary Interests Declaration Form - Help Guide
 
 ## Purpose

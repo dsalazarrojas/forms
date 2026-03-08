@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about symbiotic relationships between entities. Symbiotic relationships are mutualistic relationships where two or more entities interact in a way that benefits all parties involved. This form will help users identify and categorize these relationships. It's essential to fill out this form carefully and accurately to ensure that the relationships are correctly identified and categorized.
-</thinking>
-
 # Symbiotic Relationships Quiz - Help Guide
 ## Purpose
 This form is used to collect information about symbiotic relationships between entities. Symbiotic relationships are mutualistic relationships where two or more entities interact in a way that benefits all parties involved.

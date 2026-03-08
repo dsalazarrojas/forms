@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and that users understand its purpose. This form is designed to collect data on wine consumption habits and preferences, specifically regarding the quality of wine. The form includes questions on whether the user has purchased wine, the frequency of wine consumption, and the quality of wine. This information will help us understand the current trends and preferences of wine consumers. We need to be careful not to duplicate any existing data and to make sure the form is completed accurately.
-</thinking>
-
 # Wine Survey - Help Guide
 ## Purpose
 This form is designed to collect data on wine consumption habits and preferences. It helps us understand whether individuals purchase wine, the frequency of wine consumption, and the quality of wine.

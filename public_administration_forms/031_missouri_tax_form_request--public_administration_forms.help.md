@@ -1,11 +1,3 @@
-<thinking>
-The Missouri Tax Form Request form is used by public administration staff to collect information from citizens who are requesting tax forms or other documents from the state of Missouri. This form is typically used to gather details such as name, address, phone number, and email of the individual or business requesting the document, as well as specific information about the document type and fiscal year it pertains to. By completing this form, users can help the public administration staff in processing and sending the requested documents in a timely manner.
-
-The form will not be used to collect sensitive or financial information, and is intended for general document requests. If the purpose of the form is not immediately apparent, please contact the public administration staff for clarification.
-
-This guide will walk you through the process of completing the Missouri Tax Form Request form. Please ensure you have all necessary information before proceeding.
-</thinking>
-
 # Missouri Tax Form Request - Help Guide
 ## Purpose
 The Missouri Tax Form Request form is used by public administration staff to collect information from citizens who are requesting tax forms or other documents from the state of Missouri.

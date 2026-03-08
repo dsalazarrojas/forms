@@ -1,13 +1,3 @@
-<thinking>
-The purpose of the "Online Account Recharge Form" is to gather information from customers to facilitate the recharge process for their online accounts. This form is designed to collect basic customer information and payment method details, enabling businesses to efficiently process payments and maintain accurate records. Before using this form, please ensure that you have the necessary permissions and consent from your customers to collect and process their data.
-
-To confirm that you have the correct form, please verify the following:
-
-* You are authorized to collect and process customer data within your organization.
-* The form's purpose aligns with your business operations and data protection policies.
-* You have the necessary resources to maintain accurate records and follow data privacy guidelines.
-</thinking>
-
 # Online Account Recharge Form - Help Guide
 ## Purpose
 The "Online Account Recharge Form" is a customer-facing form designed to collect information and payment method details from customers to facilitate the recharge process for their online accounts.

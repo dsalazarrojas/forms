@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about social media usage and its potential impact on a person's mental health, specifically looking for signs of social media activism fatigue. The form aims to collect data on the frequency of social media usage, emotional exhaustion, sleep quality, time spent on social media, social media overload, supportive networks, self-care practices, social media fatigue, anxiety and depression, coping mechanisms, digital detox, and help-seeking behavior. 
-
-Before filling this form, ensure that you have not already completed a similar study or survey on social media activism fatigue. This will help us ensure data quality and avoid duplicate responses.
-
-Please note that all answers will be kept confidential and anonymous. If you have any concerns or questions, feel free to contact us.
-
-</thinking>
-
 # Social Media Activism Fatigue Study - Help Guide
 ## Purpose
 This form is designed to gather information about social media usage and its potential impact on a person's mental health, specifically looking for signs of social media activism fatigue.

@@ -1,12 +1,3 @@
-<thinking>
-We're creating a help guide for the "fitness_app_workout_program_effectiveness_questionnaire" form, which is used to gather feedback from users on the effectiveness of a fitness app's workout programs. This form will help us understand how well the programs are meeting their goals and identify areas for improvement. 
-
-This guide will cover the purpose of the form, how to complete it, and a detailed explanation of each field. By following this guide, users will be able to provide valuable feedback and help us enhance the fitness app's workout programs.
-
-Please note that some fields in this form are optional, and users can skip them if they don't feel they are relevant to their experience.
-
-</thinking>
-
 # fitness_app_workout_program_effectiveness_questionnaire - Help Guide
 ## Purpose
 The "fitness_app_workout_program_effectiveness_questionnaire" form is used to gather feedback on the effectiveness of the fitness app's workout programs. This form will help us identify areas of improvement and ensure the programs are meeting your fitness goals.

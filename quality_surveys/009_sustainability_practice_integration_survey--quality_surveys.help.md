@@ -1,5 +1,3 @@
-<thinking>Is this form for assessing the level of integration of sustainability practices within an organization? It seems to be asking about awareness and influence of different aspects of sustainability (environmental, social, economic) and practices (operations, environmental, social, economic) within an organization. This form is likely used to gather information on the current state of sustainability practices within the organization, perhaps to inform future improvements or initiatives. I'll need to review the form fields to ensure I understand the purpose and context correctly.</thinking>
-
 # Sustainability Practice Integration Survey - Help Guide
 ## Purpose
 This survey is designed to assess the current state of sustainability practices within your organization, specifically in regards to environmental, social, and economic aspects. It will help us understand the level of awareness and influence of these practices within your operations, which can inform future improvements and initiatives.

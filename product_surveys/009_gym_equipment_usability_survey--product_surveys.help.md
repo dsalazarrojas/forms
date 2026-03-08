@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and opinions from users on the usability of gym equipment, allowing the administration to identify areas of improvement and make data-driven decisions to enhance the overall user experience. This form will gather information on the availability, ease of use, and potential areas for improvement on the equipment, as well as contact information for further follow-up or clarification. It's essential to complete this form thoroughly and accurately to provide valuable insights to the gym administration. Before starting, ensure you have the necessary permissions or approvals to access and submit this form.
-
-</thinking>
-
 # Gym Equipment Usability Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback and opinions from users on the usability of gym equipment. The collected data will help the gym administration to make informed decisions to improve the overall user experience.

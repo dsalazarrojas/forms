@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the "Flashcard Creation Survey" form, which appears to be a data collection tool used for gathering information on users' experiences with creating and using flashcards. The form likely aims to gauge users' preferences, behaviors, and needs in relation to flashcards, helping to inform the development of related features and services. This form is not intended for internal use within the organization; it's for external users, who may have a varying level of familiarity with the topic. To avoid duplication of effort, users should not submit this form if they have already responded to a similar survey or questionnaire on the topic of flashcards.
-
-Before filling out this form, ensure you are not repeating a survey or questionnaire you've already completed on the same topic. This survey is designed to gather information from a diverse range of users, so your participation will help make the results more representative and valuable.
-</thinking>
-
 # Flashcard Creation Survey - Help Guide
 ## Purpose
 

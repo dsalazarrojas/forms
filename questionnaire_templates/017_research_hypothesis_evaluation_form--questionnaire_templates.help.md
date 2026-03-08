@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will create a user-facing help guide for the "Research Hypothesis Evaluation Form" form.
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the financial future of a user. It is intended to be filled out by users to help them gain insight into their financial situation and goals. This form will not ask for any sensitive or personal information, making it a safe and non-intrusive way for users to reflect on their financial future.
-
-Before filling out this form, please make sure you have answered all previous forms, as some questions may be redundant or build upon previous answers. If you are not sure about any of the questions, try to answer them to the best of your ability, and you can always come back to review and correct your answers later.
-
-Please note that this form is for your personal and internal use only. The answers will not be shared with anyone, and the information will not be used for any commercial or marketing purposes.
-
-</thinking>
-
 # Financial Future Assessment - Help Guide
 ## Purpose
 This form is designed to help you assess your financial future, providing you with a better understanding of your current financial situation and goals.

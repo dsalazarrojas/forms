@@ -1,7 +1,3 @@
-<thinking>...</thinking>
-
-<thinking>Before diving into the help guide, let's acknowledge that the provided YAML is an AI-generated form with a large number of pages and fields. This form appears to be a generic online interview questionnaire form, possibly used for general surveys or assessments. The structure and field names do not reveal a specific industry or purpose, making it difficult to infer a concrete business logic for the form. It is possible that this form was created as a template or a starting point for users to tailor to their specific needs. Given the abundance of pages and fields, users may need guidance on how to effectively use this form, especially when determining which fields are relevant to their use case.</thinking>
-
 # Online Interview Questionnaire Form - Help Guide
 ## Purpose
 This form is a generic online interview questionnaire designed to collect information from respondents. It is intended to be used as a starting point, and users can add, remove, or modify pages and fields to suit their specific needs.

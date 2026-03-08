@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the purpose and scope of a research project. It's intended to be used by researchers to document their study's objectives, goals, and other relevant details. The form should only be completed by researchers who are authorized to access sensitive information and ensure that all necessary approvals and consents are obtained from participants. Before proceeding, make sure that you have checked with your institution's administrative team to ensure that the form is not a duplicate and that you are allowed to complete it.
-</thinking>
-
 # Research Purpose Questionnaire - Help Guide
 ## Purpose
 This form is a tool for researchers to document the purpose and scope of their research projects, ensuring accurate and complete information is collected.

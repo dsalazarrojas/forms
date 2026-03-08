@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals find their ideal skin tone based on a series of questions. The skin tone finder quiz will ask the user a set of questions to determine their skin tone, which is a measure of the level of melanin in the skin. The purpose of this form is to provide a fun and interactive way to find out one's skin tone. This form will ask the user to select from various options, and will not store or collect any sensitive or personal data.
-</thinking>
-
 # skin_tone_finder_quiz - Help Guide
 ## Purpose
 The skin tone finder quiz is a tool designed to help users determine their skin tone based on a series of questions.

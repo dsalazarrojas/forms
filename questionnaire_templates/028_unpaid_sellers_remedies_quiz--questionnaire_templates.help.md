@@ -1,9 +1,3 @@
-<thinking>This form is designed to gather information from unpaid sellers for the purpose of providing them with remedies or solutions to their issues. The form is divided into several sections, each with its own set of questions or fields. The purpose of this form is to gather data that can help us understand the problems faced by unpaid sellers and provide them with relevant information to address those issues.
-
-This form is intended to be filled out by unpaid sellers, and it is not necessary to complete all the fields if you are not able to do so. However, providing as much information as possible will help us better understand your situation and provide more effective solutions.
-
-Please note that this form is not a duplicate of any other form, and it is designed to collect unique information from each individual who fills it out.</thinking>
-
 # Unpaid Sellers Remedies Quiz - Help Guide
 ## Purpose
 The purpose of this form is to gather information from unpaid sellers for the purpose of providing them with remedies or solutions to their issues.

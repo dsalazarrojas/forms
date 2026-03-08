@@ -1,7 +1,3 @@
-<thinking>
-This form is a feedback form designed to collect information from electric motorcycle users about their experience with their vehicle. The form asks for personal details like first and last name, email, and feedback about their electric motorcycle. It also gathers information about the motorcycle model, how often they ride, their favorite and least favorite features, overall experience, and the date of submission. This form is intended to be completed by electric motorcycle users to provide valuable insights to the form creators.
-</thinking>
-
 # Electric Motorcycle Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from electric motorcycle users about their experience, favorite and least favorite features, and overall satisfaction with their vehicle.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess a company's market positioning readiness. The purpose of this form is to gather information about the target segments that a company is trying to reach, their brand positioning, and the strategy maturity of the company in this regard. This form is intended for internal use within the company to help inform decision-making about market positioning. It should only be completed by authorized personnel with a clear understanding of the company's market positioning.
-</thinking>
-
 # market_positioning_readiness_survey - Help Guide
 ## Purpose
 This form is used to assess a company's market positioning readiness.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Pricing Overview - Help Guide
 ## Purpose
 This form is designed to provide an overview of product pricing information, allowing you to easily view and manage product prices, discounts, and promotional status. The form is meant to be a quick reference guide for sales teams, product managers, and other stakeholders to quickly access and understand product pricing details.

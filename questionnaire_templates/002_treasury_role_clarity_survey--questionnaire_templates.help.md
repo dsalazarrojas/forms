@@ -1,5 +1,3 @@
-<thinking>This form is used to gather information about the treasury department roles and responsibilities, including reporting lines, email addresses, and departmental affiliations. The purpose of this form is to create a clear understanding of each employee's role within the treasury department and their reporting lines. This information will be used to improve internal communication and facilitate decision-making. Please make sure to fill out this form carefully and accurately to ensure the correct data is collected.</thinking>
-
 # Treasury Role Clarity Survey - Help Guide
 ## Purpose
 The Treasury Role Clarity Survey is designed to gather information about your role within the treasury department, including your responsibilities, reporting lines, and contact details. This information will help to improve internal communication and facilitate decision-making within the department.

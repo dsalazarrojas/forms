@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from pet owners regarding pet care products. The purpose of this form is to gather information about the products they use for their pets, such as the product name, type, and their overall rating of the product. The feedback message field allows pet owners to provide their personal thoughts and experiences with the product. This form is intended for internal use and will help our team understand pet owner's opinions and needs to improve our pet care products and services.
-
-</thinking>
-
 # pet_care_product_feedback_request_form - Help Guide
 ## Purpose
 The pet_care_product_feedback_request_form is designed to collect feedback from pet owners regarding pet care products.

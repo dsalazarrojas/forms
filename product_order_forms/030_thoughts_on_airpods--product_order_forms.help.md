@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect opinions and feedback about Airpods from end users. The purpose of this form is to understand how customers perceive and experience Airpods, their satisfaction level, and their thoughts on various aspects of the product. This form is used to gather qualitative data which will be analyzed to improve future product development and customer service.
-</thinking>
-
 # Thoughts On Airpods - Help Guide
 ## Purpose
 

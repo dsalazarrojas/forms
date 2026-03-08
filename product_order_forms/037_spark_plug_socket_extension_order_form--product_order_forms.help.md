@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Spark Plug Socket Extension Order Form" that explains its purpose, completion instructions, and field-by-field explanations. The form is designed to gather information from customers about their spark plug socket extension orders. I'll assume that the form is used in a business-to-business (B2B) context where customers are likely professionals or businesses ordering spark plug socket extensions for their own use. I'll make sure to keep the explanations concise and practical, using the provided YAML fields as the basis for the help guide.</thinking>
-
 # Spark Plug Socket Extension Order Form - Help Guide
 ## Purpose
 The Spark Plug Socket Extension Order Form is used to gather information about the customer's requirements for a spark plug socket extension. This form is intended for customers who need to order spark plug socket extensions for their own use, such as for maintenance, repair, or replacement purposes.

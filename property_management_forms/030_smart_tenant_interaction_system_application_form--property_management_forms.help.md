@@ -1,36 +1,3 @@
-<thinking>
-
-This form is designed to collect information from tenants who are interacting with the Smart Tenant Interaction System. The purpose of this form is to gather essential details from the tenant, including their contact preferences, communication preferences, and verification information. This form is likely to be used in a property management context, such as collecting information from tenants for rental properties or apartments.
-
-The form consists of 25 fields, divided into several sections. The form fields are:
-
-- **Application Form**: A text field where the tenant can enter their application details.
-- **Tenant Details**: A text field for the tenant to provide additional details about themselves.
-- **Contact Preferences**: A text field for the tenant to specify their contact preferences.
-- **Communication Preferences**: A select multiple field allowing tenants to choose their preferred communication methods.
-- **Consent**: A select one field for the tenant to confirm their consent to interact with the system.
-- **Notes**: A note field for any additional comments or notes from the tenant.
-- **Email**: A text field for the tenant to provide their email address.
-- **Email Verification**: A select one field to confirm the tenant's email address.
-- **Phone**: A text field for the tenant to provide their phone number.
-- **Date**: A date field for the tenant to select a specific date.
-- **Time**: A time field for the tenant to select a specific time.
-- **Address**: A select multiple field for the tenant to specify their address.
-- **Zip**: A text field for the tenant to provide their zip code.
-- **Phone Verification**: A select one field to confirm the tenant's phone number.
-- **Date Verification**: A text field for the tenant to confirm their date of birth.
-- **Time Verification**: A text field for the tenant to confirm their time of verification.
-- **Address Verification**: A text field for the tenant to confirm their address.
-- **Zip Verification**: A text field for the tenant to confirm their zip code.
-- **Phone Verification**: A text field for the tenant to confirm their phone number.
-- **Tenant Verification**: A text field for the tenant to confirm their identity.
-- **Notes Verification**: A text field for the tenant to provide additional verification comments.
-- **Consent Verification**: A text field for the tenant to confirm their consent.
-- **Communication Verification**: A text field for the tenant to confirm their communication preferences.
-- **Contact Preferences Verification**: A text field for the tenant to confirm their contact preferences.
-
-</thinking>
-
 # Smart Tenant Interaction System Application Form - Help Guide
 ## Purpose
 The Smart Tenant Interaction System Application Form is designed to collect essential information from tenants who are interacting with the Smart Tenant Interaction System. This form helps the system understand the tenant's contact preferences, communication preferences, and verification information.

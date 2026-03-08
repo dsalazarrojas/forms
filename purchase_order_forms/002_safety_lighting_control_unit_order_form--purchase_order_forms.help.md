@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help users place orders for safety lighting control units. The form has multiple sections, each with a specific set of fields that need to be completed. 
-
-Each field has been carefully crafted to gather the necessary information from the user to process their order accurately and efficiently. Before starting, please ensure that the form is complete and accurate, as any missing or incorrect information may affect the processing of your order.
-
-Please note that the fields marked as "required" are mandatory and need to be filled out to proceed with the order. 
-
-The form is divided into several sections, each with its own purpose and fields. Please take your time to review each section carefully to ensure you understand what information is being requested.
-
-</thinking>
-
 # Safety Lighting Control Unit Order Form - Help Guide
 ## Purpose
 The Safety Lighting Control Unit Order Form is designed to collect information from users who want to place an order for safety lighting control units. This form is used to gather all the necessary details required to process the order accurately and efficiently.

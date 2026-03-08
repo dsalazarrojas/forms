@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's break down the form's purpose and requirements. The Vineyard Barrels Requisition Form is designed to collect information for a purchase order request. Its purpose is to gather specific details from the user to facilitate the delivery of barrels to the vineyard. The form should be completed by a user who wants to place an order for barrels. The form collects information about the user's input, delivery timing preferences, inventory needs, internal approvals, delivery frequency, delivery method, date and time needed for delivery.</thinking>
-
 # Vineyard Barrels Requisition Form - Help Guide
 ## Purpose
 The Vineyard Barrels Requisition Form is a purchase order request form designed to collect necessary information for the delivery of barrels to the vineyard. This form is intended for users who want to place an order for barrels and need to provide specific details for the delivery process.

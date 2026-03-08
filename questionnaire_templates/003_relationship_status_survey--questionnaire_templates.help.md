@@ -1,7 +1,3 @@
-<thinking>
-The "Relationship Status Survey" form is designed to collect information about an individual's current relationship status, including their relationship type, duration, and satisfaction levels. This form should be filled out by individuals in a romantic relationship, whether married or not. 
-</thinking>
-
 # Relationship Status Survey - Help Guide
 ## Purpose
 The Relationship Status Survey is designed to gather information about your relationship status, including your relationship type, duration, and satisfaction levels. This form will help us understand your current relationship dynamics and identify areas for improvement.

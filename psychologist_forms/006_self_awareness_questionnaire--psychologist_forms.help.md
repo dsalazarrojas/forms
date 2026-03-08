@@ -1,16 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Self Awareness Questionnaire form. The form is intended to help individuals gain insight into their self-awareness level, feelings, emotions, thoughts, behaviors, values, goals, and overall self-awareness development.
-
-To ensure that you get the most out of this form, please note that:
-
-* This form is not intended for individuals under 18 years old.
-* Please answer each question honestly and thoroughly.
-* You may choose more than one option in select_multiple fields.
-* You may only select one option in select_one fields.
-* If you need help or have questions, refer to this guide for clarification.
-
-</thinking>
-
 # Self Awareness Questionnaire - Help Guide
 ## Purpose
 The Self Awareness Questionnaire is designed to help you develop a better understanding of yourself. By answering these questions, you will gain insight into your self-awareness level, emotions, values, goals, and overall self-awareness development.

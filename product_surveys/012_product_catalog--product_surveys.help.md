@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Product Catalog" is intended to collect information about a product in a product catalog. This form is used to add or update products in the catalog, and it is a crucial part of the product management process. 
-
-Before proceeding, check that you are not duplicating an existing product. If you need to update a product, use the correct form for editing, not this form for creating a new product.
-
-</thinking>
-
 # Product Catalog - Help Guide
 ## Purpose
 The "Product Catalog" form is used to collect and manage product information in the catalog.

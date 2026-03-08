@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be a Property Utility Referral Form, intended to collect information from property owners or managers who are referring utility services for their properties. It should only be filled out once for each property.
-
-Before proceeding, check if you have filled out this form for this property in the past. If you have already submitted a referral for this property, please do not fill out this form again.
-
-</thinking>
-
 # Property Utility Referral Form - Help Guide
 ## Purpose
 This form is used to refer a property's utility services, such as electricity, gas, water, internet, and cable, for the purpose of setting up or managing services.

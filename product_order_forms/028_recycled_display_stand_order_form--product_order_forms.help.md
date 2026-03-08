@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for a recycled display stand order. The form is used to gather contact details (name, phone number, and email) and order specifics (order items, quantity, and price). This form helps the customer service team to efficiently process and fulfill orders.
-</thinking>
-
 # Recycled Display Stand Order Form - Help Guide
 ## Purpose
 The Recycled Display Stand Order Form is used to collect order details from customers for a recycled display stand. This form helps our customer service team to process and fulfill orders efficiently.

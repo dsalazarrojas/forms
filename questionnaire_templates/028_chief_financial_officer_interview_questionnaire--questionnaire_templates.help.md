@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help assess the fit and potential of a candidate for a Chief Financial Officer (CFO) position. It's intended to be used by an interviewer to evaluate the candidate's responses to a series of questions, providing a structured and systematic way to gather and document feedback. This form should be completed for each candidate, and its purpose is to provide a consistent and comparable assessment of their qualifications and fit for the role. Please ensure that each candidate's responses are evaluated fairly and consistently, and that the form is not used as a replacement for a thorough discussion or conversation with the candidate.
-</thinking>
-
 # Chief Financial Officer Interview Questionnaire - Help Guide
 ## Purpose
 The Chief Financial Officer Interview Questionnaire is a tool designed to help assess the fit and potential of a candidate for a Chief Financial Officer (CFO) position. It provides a structured and systematic way to gather and document feedback from the interviewer.

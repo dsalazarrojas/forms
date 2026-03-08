@@ -1,10 +1,3 @@
-<thinking>
-Internal notes:
-This form is used for requesting materials for campaigns, and it's meant to be completed by employees or external users who are part of a campaign team.
-This form is designed to be a single-page document that gathers all the necessary information for material procurement.
-To avoid duplication of effort, we should ensure that only one form is completed per campaign.
-</thinking>
-
 # Campaign Material Request Form - Help Guide
 ## Purpose
 The Campaign Material Request Form is used to request materials for a specific campaign. It is a crucial document for the procurement process, and it helps the team to gather all the necessary information for material ordering and delivery.

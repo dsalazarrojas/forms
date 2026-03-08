@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from new graduate nurses during an interview process. The purpose of this form is to assess a candidate's background, experience, and skills to determine their eligibility for a specific job posting. The form should be filled out by the candidate themselves, and the results should be reviewed by the hiring team to ensure a good fit for the position.
-
-To prevent duplication of efforts, please ensure that the form is filled out only once per candidate, and the results are stored and updated accordingly.
-
-</thinking>
-
 # New Graduate Nurse Interview Questionnaire - Help Guide
 ## Purpose
 The New Graduate Nurse Interview Questionnaire is a form designed to gather information about a candidate's background, experience, and skills to determine their eligibility for a specific job posting.

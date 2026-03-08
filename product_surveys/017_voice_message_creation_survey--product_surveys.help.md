@@ -1,7 +1,3 @@
-<thinking>... I need to ensure I understand the form's purpose and the fields provided in the YAML. The form appears to be designed to collect user feedback and opinions on voice messages, specifically their habits, satisfaction, frequency of use, purpose, and other related aspects. The form will help the product team gather valuable insights to improve the product. I will use this understanding to create a clear and concise help guide for end-users.
-
-</thinking>
-
 # Voice Message Creation Survey - Help Guide
 ## Purpose
 This survey aims to gather your opinions and experiences regarding voice messages. Your participation will help us understand your voice habits, satisfaction, and other aspects related to voice messages.

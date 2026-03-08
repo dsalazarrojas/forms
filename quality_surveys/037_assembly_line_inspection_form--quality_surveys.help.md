@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to aid in quality control inspections of assembly lines. It helps inspectors verify the accuracy and functionality of components or finished products, and document any issues or defects found during the inspection process.
-
-To avoid duplicating effort, ensure you are familiar with the inspection procedures and relevant specifications for the line being inspected. This form is meant to be used as a supplement to your current inspection processes, not a replacement.
-
-Before starting the inspection, make sure you have all necessary information and materials ready, including the line's assembly manual, specifications, and any relevant documentation.
-
-</thinking>
-
 # Assembly Line Inspection Form - Help Guide
 ## Purpose
 The Assembly Line Inspection Form is a tool to aid inspectors in conducting thorough and accurate inspections of assembly lines. It guides you through the inspection process and helps you document your findings.

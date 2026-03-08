@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to register a property asset with the organization. It is crucial to ensure that all property assets are accurately recorded and updated in the system. Please be aware that duplicate entries will not be accepted, as it is essential to maintain a single, accurate record for each asset.
-
-</thinking>
-
 # Property Asset Monitoring Registration Form - Help Guide
 ## Purpose
 

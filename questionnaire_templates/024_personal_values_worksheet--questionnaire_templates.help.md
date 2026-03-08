@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, I will help you create a user-facing help guide for the "Personal Values Worksheet" form. To ensure the guide is relevant and doesn't duplicate any existing information, let's consider the form's purpose and the provided YAML fields. The form is designed to help users reflect on their personal values and prioritize them.
-
-The form has five values with corresponding priority and description fields. Each value can be assigned a priority level from 1 to 5. The user will select the options for each value and provide a description for each selected value.
-
-</thinking>
-
 # Personal Values Worksheet - Help Guide
 ## Purpose
 The Personal Values Worksheet is a tool to help you reflect on your personal values and prioritize them. This form will guide you through a series of questions to identify your top values and their corresponding priorities.

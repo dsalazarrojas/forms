@@ -1,5 +1,3 @@
-<thinking>As a senior photographer, the Senior Photography Questionnaire is designed to collect information about the client's preferences, needs, and expectations for a photoshoot. This form helps to understand the client's style, color palette, and location preferences, as well as their previous experience with photographers and how they found us. The form also asks about the type of photoshoot, date, and time of the photoshoot, and allows the client to provide feedback on our service. Completing this form will help us to better understand your needs and preferences and provide the best possible experience for your photoshoot. Please note that this form is not intended to be exhaustive, and we encourage you to provide any additional information that you feel is relevant to your photoshoot.</thinking>
-
 # Senior Photography Questionnaire - Help Guide
 ## Purpose
 The Senior Photography Questionnaire is designed to collect information about your preferences, needs, and expectations for your photoshoot. This form will help us to better understand your requirements and provide the best possible experience for your photoshoot.

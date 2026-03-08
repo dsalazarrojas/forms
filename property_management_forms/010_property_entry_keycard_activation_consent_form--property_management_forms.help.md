@@ -1,7 +1,3 @@
-<thinking>
-Internal purpose of this form is to collect information and consent from the keycard holder for property entry keycard activation. This form ensures that the keycard is being activated for the correct property and the correct purpose by the correct person. The form is designed to be filled out by the keycard holder, but it should be reviewed by a supervisor or property manager before activation. It is essential to fill out the form accurately and completely to avoid errors in property entry keycard activation. Please ensure that you have all the necessary information and approvals before starting the form.
-</thinking>
-
 # Property Entry Keycard Activation Consent Form - Help Guide
 ## Purpose
 This form is used to collect information and obtain consent from the keycard holder for property entry keycard activation. It is essential to fill out the form accurately and completely to avoid errors in property entry keycard activation.

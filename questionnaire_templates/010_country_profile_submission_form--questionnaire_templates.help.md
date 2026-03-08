@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to collect detailed information about a country's profile. It is essential to fill out this form carefully to ensure that the data submitted is accurate. Please note that this form will not be used for commercial purposes and is meant for internal use only. If you have already submitted this form for the same country, please do not resubmit. 
-</thinking>
-
 # Country Profile Submission Form - Help Guide
 ## Purpose
 The Country Profile Submission Form is designed to collect comprehensive information about a country, which will be used for internal purposes. This guide will help you understand what each field is for and how to fill it out correctly.

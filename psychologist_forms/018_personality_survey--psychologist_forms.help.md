@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a person's personality traits, specifically their levels of agreeableness, conscientiousness, extraversion, openness to experience, and other similar traits. The form is intended to be a general survey for research purposes, and it does not aim to diagnose or provide personal advice. Please note that this form is not a substitute for professional help or guidance. If you are experiencing any issues or concerns, please seek advice from a qualified professional.
-</thinking>
-
 # Personality Survey - Help Guide
 ## Purpose
 This survey is designed to assess various personality traits, such as agreeableness, conscientiousness, extraversion, and others. It's meant to be a general tool for research purposes.

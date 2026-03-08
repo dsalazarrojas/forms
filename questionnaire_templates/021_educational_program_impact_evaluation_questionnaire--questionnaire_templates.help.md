@@ -1,7 +1,3 @@
-<thinking>...thinking>
-This help guide is intended for users who will be completing the "Educational Program Impact Evaluation Questionnaire". This form is designed to evaluate the impact of educational programs, such as workshops, training sessions, or educational sessions, on participants. The form is used to gather information about the program's effectiveness, participant demographics, and program specifics.
-</thinking>
-
 # Educational Program Impact Evaluation Questionnaire - Help Guide
 ## Purpose
 The Educational Program Impact Evaluation Questionnaire is a tool used to assess the effectiveness of educational programs, such as workshops, training sessions, or educational sessions, to better understand their impact on participants. This form will help us evaluate the program's outcomes, identify areas for improvement, and inform future program development.

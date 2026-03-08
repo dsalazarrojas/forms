@@ -1,7 +1,3 @@
-<thinking>Before creating the help guide, let's review the form's purpose and relevance. Based on the provided YAML, it appears that the "Municipality Transition Plan Survey" is a form designed to gather information about a municipality's transition status and readiness for change. The form aims to collect data on the transition's status, readiness index, concerns, improvement ideas, and other related factors. This form is likely used in an administrative or governmental context to assess the municipality's preparedness for transition.
-
-To ensure that the form is being completed correctly, I will provide a clear and concise explanation of each field's purpose. Please review each field to ensure relevance and non-duplication.</thinking>
-
 # Municipality Transition Plan Survey - Help Guide
 ## Purpose
 The Municipality Transition Plan Survey is a questionnaire designed to gather information about a municipality's transition status and readiness for change. This form will help assess the municipality's preparedness for transition and provide valuable insights for decision-making.

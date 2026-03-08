@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Confidential Questionnaire - Help Guide
 ## Purpose
 This Confidential Questionnaire is designed to gather sensitive information for professional assessment. Please ensure that you have the necessary permissions and understand the purpose of this questionnaire before completing it. If you have already completed this questionnaire, there is no need to repeat the process.

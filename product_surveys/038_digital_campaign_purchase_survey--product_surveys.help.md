@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on customer purchases, including the channel through which the purchase was made (online, in-store, or other), the level of satisfaction with the purchase, and additional details such as purchase date, time, purchase amount, and feedback. This form aims to gather insights on customer behavior and preferences. Ensure that you complete this form only once for each purchase, and do not duplicate your answers across multiple forms.
-</thinking>
-
 # Digital Campaign Purchase Survey - Help Guide
 ## Purpose
 This form is intended to collect information about customer purchases for the purpose of improving our digital marketing campaigns. Your responses will help us understand how our customers are making purchases and what we can do to better serve them.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and inquiries on product quality and design from customers. This form helps the product development team to gather insights into product performance, quality, and design, ensuring that the product meets customer needs and expectations. This form is not intended to be used by employees or partners, so please do not submit feedback if you are not a customer.
-</thinking>
-
 # Product Quality And Design Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and inquiries on product quality and design from customers. It helps the product development team to understand customer needs and expectations, ensuring that the product meets quality and design standards.

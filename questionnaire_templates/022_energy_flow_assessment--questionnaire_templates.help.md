@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Energy Flow Assessment - Help Guide
 ## Purpose
 The Energy Flow Assessment form is used to collect site-specific information for energy flow analysis. This form is used to gather data on site inflow and outflow, loss areas, and other relevant site information.

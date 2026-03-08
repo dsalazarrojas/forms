@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about a property damage incident. A property damage incident is an event where a building's structure, systems, or amenities are affected by an unexpected event, such as a water leak, burst pipe, or natural disaster. This form is completed by the property management team or facility manager to quickly and efficiently collect and document the necessary information about an incident in order to initiate an assessment and repair process.
-The form is not intended for completion by end-users, such as tenants or occupants. The information collected will be used internally to ensure that the issue is addressed, and the property is restored to a safe and functional state.
-</thinking>
-
 # Water Damage Assessment Form - Help Guide
 ## Purpose
 The Water Damage Assessment Form is a tool used to gather information about a property damage incident, including the initial contact information, incident details, and assessment results. This form is designed to be completed by the property management team or facility manager in the event of a water damage incident.

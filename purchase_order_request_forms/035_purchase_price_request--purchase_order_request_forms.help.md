@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers or clients who need to request a purchase price for a specific item(s) or service. The purpose of this form is to gather essential details to facilitate communication and ensure a smooth transaction process. 
-
-To avoid duplication, only one form should be submitted for each unique purchase price request. If a customer already has a purchase price request pending, please guide them to contact the relevant department or person to discuss and resolve the issue before submitting a new request.
-
-</thinking>
-
 # Purchase Price Request - Help Guide
 ## Purpose
 This form is used to gather information from customers or clients who need to request a purchase price for a specific item(s) or service. It helps the purchasing team to quickly and efficiently respond to their inquiry.

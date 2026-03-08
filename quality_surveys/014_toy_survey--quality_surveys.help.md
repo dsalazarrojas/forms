@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to gather feedback and ratings on toys from end-users. The purpose of this form is to collect data on the quality and usability of toys, providing insights that can be used to improve the design and functionality of toys. This form is intended to be completed by parents, caregivers, or individuals who have interacted with the toy. It is not a duplicate for the same user, and users should only submit a single response per toy.
-
-</thinking>
-
 # Toy Survey - Help Guide
 ## Purpose
 The Toy Survey is a form designed to gather feedback and ratings on toys from end-users. This data will help us improve the design and functionality of toys.

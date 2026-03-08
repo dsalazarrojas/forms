@@ -1,16 +1,3 @@
-<thinking>
-This form is used to assess the efficiency of public service programs. The purpose of this form is to gather feedback from program stakeholders about their experiences and satisfaction with the program. This form aims to help administrators identify areas of improvement to enhance the overall efficiency of the public service program.
-
-The form is designed to collect feedback on various aspects of the program, including program effectiveness, feedback frequency, response time, response quality, feedback type, feedback suggestions, program improvement, feedback submission, program efficiency, and overall satisfaction. The form is meant to be completed by program stakeholders, including customers, staff, or other relevant parties.
-
-This form does not have any specific requirements for completion, as most fields are optional. Therefore, users can fill out the form at their discretion.
-
-The form is divided into two sections: program effectiveness and feedback. The program effectiveness section assesses the program's performance, while the feedback section gathers comments and suggestions.
-
-Please note that the form is for internal use only and the data collected will be used to improve the program.
-
-</thinking>
-
 # Public Service Program Efficiency Assessment - Help Guide
 ## Purpose
 The Public Service Program Efficiency Assessment form is a tool used to gather feedback from program stakeholders on their experiences and satisfaction with the public service program. This form helps administrators identify areas of improvement to enhance the program's overall efficiency.

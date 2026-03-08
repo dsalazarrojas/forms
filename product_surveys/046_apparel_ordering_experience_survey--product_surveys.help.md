@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to be a comprehensive resource for customers who will be filling out the Apparel Ordering Experience Survey. The purpose of this form is to gather valuable feedback about the customer's ordering and delivery experience with our company. By providing accurate and honest answers, customers can help us identify areas for improvement and make necessary adjustments to our processes to better serve them in the future.
-
-To ensure that the feedback collected is relevant and not duplicated, we will be using this form to collect data on a one-time basis, per customer. This means that customers who have already completed this survey in the past will not be asked to do so again. If a customer has previously provided feedback, their submission will be acknowledged, but they will not be required to complete the survey again.
-
-The feedback collected through this form will be analyzed to identify trends and patterns, and used to make data-driven decisions to enhance our customer experience.
-
-</thinking>
-
 # Apparel Ordering Experience Survey - Help Guide
 ## Purpose
 The Apparel Ordering Experience Survey is a tool designed to gather feedback from customers on their experience with our ordering and delivery process. Your input will help us improve our services to better serve you.

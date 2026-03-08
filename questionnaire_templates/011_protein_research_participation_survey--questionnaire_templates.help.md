@@ -1,7 +1,3 @@
-<thinking>
-We are designing a help guide for a form called "Protein Research Participation Survey". This form is intended to collect information from users about their research interests and backgrounds. Before we begin, let's ensure that the form is relevant to the user's needs and not a duplication of existing efforts. Please confirm that this form is relevant to your research goals and not already covered by another survey.
-</thinking>
-
 # Protein Research Participation Survey - Help Guide
 ## Purpose
 

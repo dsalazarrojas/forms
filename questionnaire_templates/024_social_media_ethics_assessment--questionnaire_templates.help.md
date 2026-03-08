@@ -1,13 +1,3 @@
-<thinking>
-The Social Media Ethics Assessment form is designed to evaluate an individual's or organization's social media ethics by asking them to rate their awareness and understanding of social media's impact on their personal and professional life. This form is meant to be completed by an individual or organization that wants to evaluate their own social media ethics practices or is required to do so by their organization's policies.
-To complete this form, please follow these steps:
-
-1.  Please ensure you have read and understand the instructions and purpose of the form. 
-2.  Complete each page according to your self-evaluation.
-3.  For multiple-choice questions, select the option that best describes your answer.
-4.  Be honest and accurate in your responses as they will be used to guide you or your organization in improving social media practices.
-</thinking>
-
 # Social Media Ethics Assessment - Help Guide
 ## Purpose
 

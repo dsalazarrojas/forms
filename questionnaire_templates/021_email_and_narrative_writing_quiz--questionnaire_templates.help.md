@@ -1,14 +1,3 @@
-<thinking>
-The "email_and_narrative_writing_quiz" form is a series of questions designed to test the knowledge and skills of users in email and narrative writing. It is intended to be a self-assessment tool for individuals to gauge their proficiency in these areas. To confirm that this form is being used for the intended purpose, please note that all answers should be sincere and reflect the user's actual abilities and experiences in email and narrative writing.
-
-To avoid duplication of efforts, this form is meant to be a single quiz, and users should not take it multiple times for the same purpose.
-
-This form should only be filled out by users who are interested in assessing their skills and knowledge in email and narrative writing.
-
-The form will ask users a series of questions, including selecting the correct options for formal email etiquette, selecting techniques for narrative writing, and providing a date and time for a hypothetical scenario.
-
-</thinking>
-
 # email_and_narrative_writing_quiz - Help Guide
 ## Purpose
 The email_and_narrative_writing_quiz form is a self-assessment tool designed to test your skills and knowledge in email and narrative writing.

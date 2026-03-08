@@ -1,17 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Appliance And Furniture Feedback" form. This form is designed to collect feedback from customers on their experience with various appliances and furniture. The form asks for general contact information, specific details about the product, and ratings on various aspects of the product such as quality, functionality, and customer service experience. This form will help the company to identify areas for improvement and to provide better products and services to its customers. 
-
-This form is a one-time submission form, and it is not a subscription-based form. Customers can submit their feedback once, and it will be recorded and reviewed by the company. Customers can also attach photos of the product if they want to provide more information.
-
-To ensure that the form is completed correctly, we will make sure to provide clear instructions and explanations for each field. This way, customers can understand what is expected from them and can provide accurate and helpful feedback.
-
-The form includes several fields that ask for ratings and reviews, which will help us to understand the customers' satisfaction and experience with the product. The ratings will be used to improve our products and services, and to identify areas where we need to focus our efforts.
-
-We will make sure that the form is easy to fill out and submit, and that customers can access it from their device of choice.
-
-The data collected from this form will be reviewed and used to improve our products and services. We may contact customers who provided feedback for further discussion or to follow up on their experience.
-</thinking>
-
 # Appliance And Furniture Feedback - Help Guide
 ## Purpose
 This guide will walk you through the Appliance And Furniture Feedback form, which is designed to collect feedback from customers on their experience with our products.

@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect information from tenants who have reported a broken tile in their unit. The purpose of this form is to provide the maintenance team with the necessary details to efficiently process the repair request. The form will be reviewed by a supervisor before being assigned to a maintenance technician. Please ensure that all fields are filled in correctly to avoid delays in processing your request.
-
-This form will help the maintenance team to:
-
-* Identify the location and extent of the damage
-* Determine the urgency of the repair
-* Assess the costs involved in the repair
-* Schedule a suitable time for the repair
-* Ensure that the tenant is aware of the costs involved
-
-Before submitting the form, please ensure that you have all the necessary information and that you have authorized the repair.
-
-Please note that this form is for the tenant's use only. If you are submitting on behalf of the tenant, please ensure that you are authorized to do so.
-
-Also, please note that some fields in this form are mandatory, and failure to fill them in correctly may delay the processing of your request.
-
-</thinking>
-
 # Broken Tile Replacement Request Form - Help Guide
 ## Purpose
 The Broken Tile Replacement Request Form is designed to collect information from tenants who have reported a broken tile in their unit. This form will help the maintenance team to process your request efficiently and ensure that the repair is done in a timely manner.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # one_on_one_meeting_focus_sheet_form - Help Guide
 
 ## Purpose

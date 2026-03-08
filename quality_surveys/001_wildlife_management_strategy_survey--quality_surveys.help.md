@@ -1,13 +1,3 @@
-<thinking> 
-This form is designed to collect input from users on a series of policies related to wildlife management, which seems to be a broad category that encompasses various strategies and approaches for managing wildlife populations and habitats. To ensure the accuracy and relevance of the collected data, please review the following guide to understand the purpose and requirements of this form.
-
-The Wildlife Management Strategy Survey form appears to be a comprehensive instrument designed to capture users' opinions on multiple policies, which might be useful for decision-making or research purposes. Each policy seems to be related to a different aspect of wildlife management, such as conservation, management, habitat preservation, population control, or sustainability. 
-
-The form contains 20 questions, each with a set of predefined options. Some questions are single-select questions, while others allow multiple selections. Each question seems to be designed to elicit specific information from the user, and the options provided are likely tailored to capture relevant and actionable data.
-
-To avoid any duplication or misinterpretation of the form's purpose, please review the following guide carefully.
-
-</thinking>
 # Wildlife Management Strategy Survey - Help Guide
 ## Purpose
 The Wildlife Management Strategy Survey form is designed to collect opinions on various policies related to wildlife management from users. The data collected will be used for decision-making or research purposes.

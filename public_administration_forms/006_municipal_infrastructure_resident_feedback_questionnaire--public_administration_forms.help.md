@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather resident feedback about their experience with local services in their neighborhood. It should be used to assess the quality and availability of services, as well as the overall satisfaction with the community. Before completing this form, please review the following to ensure you are not duplicating efforts.
-
-To determine the relevance of your response, please consider whether you have used local services in the past month.
-
-To avoid duplication, please do not submit this form if you have already provided feedback within the past 6 weeks.
-
-</thinking>
-
 # municipal_infrastructure_resident_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from residents about the quality and availability of local services in their neighborhood.

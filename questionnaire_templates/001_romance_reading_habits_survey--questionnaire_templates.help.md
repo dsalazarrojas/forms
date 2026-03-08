@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Romance Reading Habits Survey form.</thinking>
-
 # Romance Reading Habits Survey - Help Guide
 
 ## Purpose

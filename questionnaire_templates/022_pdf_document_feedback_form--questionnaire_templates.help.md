@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about a PDF document they have accessed. The form will be completed by a user after they have reviewed the document and will likely be used by the document's author to make improvements and updates to the document template. 
-
-The form will likely be used to collect information such as user name, email, document title, rating, and comments. It will also provide a space for users to suggest improvements and changes to the document template. 
-
-Please ensure that the form is only used for its intended purpose and not for other types of feedback or surveys.
-</thinking>
-
 # pdf_document_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about a PDF document. The form will help the document author to understand user perceptions and make improvements and updates to the document template.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Full Color Order Form - Help Guide
 
 ## Purpose

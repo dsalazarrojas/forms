@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graph Analysis Survey - Help Guide
 
 ## Purpose

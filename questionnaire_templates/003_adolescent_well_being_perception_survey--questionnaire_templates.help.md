@@ -1,5 +1,3 @@
-<thinking>... This guide will help users understand the purpose and process of the Adolescent Well Being Perception Survey, ensuring they complete it accurately and effectively. This guide will also verify that the form purpose and requirements are clear, preventing confusion and duplication of effort... </thinking>
-
 # Adolescent Well Being Perception Survey - Help Guide
 ## Purpose
 The Adolescent Well Being Perception Survey is a tool designed to assess the emotional and psychological well-being of adolescents. It aims to understand their self-reported experiences, attitudes, and perceptions regarding their well-being over the last two weeks.

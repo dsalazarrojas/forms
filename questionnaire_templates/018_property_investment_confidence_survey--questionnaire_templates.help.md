@@ -1,7 +1,3 @@
-<thinking>
-We will be evaluating the relevance and non-duplication of the provided YAML fields to ensure that the form is well-structured and easy to understand for the end user. We will also create a clear and concise help guide for the "Property Investment Confidence Survey" form.
-</thinking>
-
 # Property Investment Confidence Survey - Help Guide
 ## Purpose
 The "Property Investment Confidence Survey" form is designed to assess an individual's confidence level in investing in properties. It consists of multiple sections, each covering different aspects of property investment, such as confidence, goals, concerns, and intention. By completing this form, users will be able to get an overview of their investment readiness and potential goals.

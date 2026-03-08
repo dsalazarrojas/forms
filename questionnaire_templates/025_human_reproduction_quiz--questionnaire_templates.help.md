@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to collect information from users about human reproduction processes in a general and non-invasive way. 
-It should not be used for medical diagnosis or professional purposes. 
-It's designed to be filled out by non-experts in the field of human reproduction. 
-
-</thinking>
-
 # Human Reproduction Quiz - Help Guide
 ## Purpose
 This form is designed to collect information from users about their understanding of human reproduction processes. The purpose of this form is to help us understand what you think you know about human biology and development.

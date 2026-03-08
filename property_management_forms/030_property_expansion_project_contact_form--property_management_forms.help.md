@@ -1,27 +1,3 @@
-<thinking>
-The Property Expansion Project Contact Form is a crucial tool for stakeholders to communicate their interest in participating in a property expansion project. This form helps project leads and project managers understand the project's status and goals, making it easier to identify potential expansion opportunities. By filling out this form, you'll help the project team understand your needs and provide more accurate information about the project's progress. Please make sure to complete the form accurately and thoroughly, as it will be used to inform project decisions.
-
-The form is designed to be completed by those interested in participating in or learning more about the property expansion project. It is not intended for internal use within the project team.
-
-To confirm, this form is meant for external parties to inquire about project participation and expansion goals. It is meant to be filled out by someone who is not part of the project team but is interested in learning more about the project or participating in it.
-
-This guide will walk you through the form fields, which are:
-
-1. Contact Form
-2. Expansion Inquiry
-3. Project Goal
-4. Location
-5. Timing
-6. Project Status
-7. Expansion Inquiry Goals
-8. Expansion Inquiry Location
-9. Expansion Inquiry Timing
-10. Expansion Inquiry Project Status
-11. Lead Type
-12. Lead Source
-
-Please ensure that you understand the context and purpose of this form before proceeding.</thinking>
-
 # Property Expansion Project Contact Form - Help Guide
 
 ## Purpose

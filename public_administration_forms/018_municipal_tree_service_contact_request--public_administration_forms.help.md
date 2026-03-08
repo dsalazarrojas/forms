@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect contact requests from the public for municipal tree service, which includes tree trimming, removal, and maintenance. The form is likely used by park rangers or forestry department staff to manage and respond to these requests.
-
-This form should be used by the public to submit their tree service requests. Please review the form carefully to ensure that you are providing the necessary information to facilitate a prompt and effective response from the municipal tree service team.
-</thinking>
-
 # Municipal Tree Service Contact Request - Help Guide
 ## Purpose
 The purpose of this form is to collect contact requests from the public for municipal tree service, including tree trimming, removal, and maintenance.

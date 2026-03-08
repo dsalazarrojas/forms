@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide employees in their acceptance and acknowledgment of measurement procedures and criteria in their daily work. The purpose of this form is to ensure that employees have a clear understanding of the acceptance guidelines and criteria applicable to their roles, and to promote consistency and quality in their measurements. This form should only be completed by employees who are responsible for taking measurements, and it should be submitted after they have received training or review on the relevant measurement procedures. It is recommended to review the form carefully and submit it only if the employee has thoroughly understood the procedures and criteria.
-</thinking>
-
 # Acceptance Guidelines For Measurements - Help Guide
 ## Purpose
 The purpose of this form is to guide employees in their acceptance and acknowledgment of measurement procedures and criteria in their daily work.

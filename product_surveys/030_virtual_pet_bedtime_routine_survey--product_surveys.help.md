@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Pet Bedtime Routine Survey - Help Guide
 
 ## Purpose

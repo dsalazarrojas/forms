@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Productivity Evaluation Form - Help Guide
 ## Purpose
 The Employee Productivity Evaluation Form is used to assess an employee's performance, quality of work, collaboration skills, and other relevant aspects. It helps to evaluate the employee's productivity and provide feedback for improvement. This form is meant to be filled out by a manager or supervisor, and is usually completed on a regular basis, such as on a quarterly or semi-annual basis.

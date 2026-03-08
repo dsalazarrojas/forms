@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about users' fashion design preferences. It appears to be a survey-style form with a mix of numerical, select, and text fields. Given the presence of fields like "When do you plan to buy the item?" and "Time", it's likely that this form is intended to gather data on user purchasing behavior and preferences. However, the lack of clear labels and the abundance of text fields without any context suggest that this form might not be well-designed or thoroughly tested. To ensure this form is completed accurately and effectively, it's essential to review each field and provide clear explanations for users.
-
-To avoid duplication of effort, it's possible that this form is part of a larger process, such as a product development or marketing initiative. Reviewing this form as part of a larger project scope could reveal more about its purpose and intended use.
-
-Considering the form's structure and field types, it appears that some fields might be redundant or have overlapping questions. For instance, the "Time" field seems out of place among the other fields, and some of the text fields might be too vague or open-ended.
-
-To provide a comprehensive help guide, we should consider these potential issues and design limitations while still focusing on explaining each field's purpose and expected input.
-
-</thinking>
-
 # Fashion Design Preference Poll Form - Help Guide
 
 ## Purpose

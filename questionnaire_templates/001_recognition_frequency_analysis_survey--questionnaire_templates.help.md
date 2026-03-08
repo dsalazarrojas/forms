@@ -1,13 +1,3 @@
-<thinking>
-Please confirm that the provided YAML file is a correct representation of the form's structure and fields. If it is, proceed with creating a user-facing help guide for the "recognition_frequency_analysis_survey" form.
-
-Form purpose:
-The purpose of this form is to analyze the frequency and characteristics of recognition received or given within a team or organization. It is used to gather data on how frequently employees receive recognition, whether they give recognition, barriers to recognition, suggestions, and manager, peer, and department support for recognition.
-
-The form is intended to be completed by individual employees to provide insights into their experiences with recognition.
-
-</thinking>
-
 # Recognition Frequency Analysis Survey - Help Guide
 ## Purpose
 The Recognition Frequency Analysis Survey is used to collect data on the frequency and characteristics of recognition received or given within a team or organization. This form helps to understand individual experiences and provide insights into recognition patterns.

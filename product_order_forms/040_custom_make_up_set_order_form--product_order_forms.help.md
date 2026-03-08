@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place orders for custom make-up sets. The form is designed to collect the customer's name, order preferences, quantity, shipping address, city, state, and country. The order preferences field is a select multiple field that allows the customer to choose one or more options from a list of foundations, tinted moisturizers, and concealers. The form is meant to be a flexible and user-friendly way for customers to provide their information, but it's essential to ensure that all required fields are completed to ensure accurate order processing. To prevent errors, please review each field carefully and ensure that you're filling out the correct information.
-</thinking>
-
 # Custom Make Up Set Order Form - Help Guide
 ## Purpose
 The Custom Make Up Set Order Form is designed for customers to place orders for custom make-up sets. This form collects the customer's name, order preferences, quantity, shipping address, city, state, and country.

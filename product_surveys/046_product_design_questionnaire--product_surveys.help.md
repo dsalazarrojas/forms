@@ -1,5 +1,3 @@
-<thinking>Product Design Questionnaire is a form used for collecting user information, product details, and contact data for products being designed or developed. This form is typically used by teams or individuals responsible for product design, development, or support to gather essential details about a product before or after its release. It helps ensure that all necessary information is collected and documented in one place, facilitating communication and decision-making among team members or stakeholders. Before filling out this form, please make sure you have relevant information and that you're not duplicating efforts. If you're unsure about the purpose or any part of this form, please reach out to the designated team contact or supervisor for clarification.</thinking>
-
 # product_design_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a product, including user details, product characteristics, and contact data. It helps in gathering all necessary information in one place, facilitating communication and decision-making among team members or stakeholders.

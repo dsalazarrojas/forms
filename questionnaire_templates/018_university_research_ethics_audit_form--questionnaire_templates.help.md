@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Research Ethics Audit Form - Help Guide
 ## Purpose
 This form is designed to audit research studies and ensure compliance with university research ethics guidelines. It helps researchers demonstrate their adherence to ethical standards and best practices in their studies.

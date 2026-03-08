@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? This form, "retirement_contribution_gap_questionnaire," is designed to collect information about an individual's or organization's contributions to retirement plans. It likely aims to assess the frequency, amount, and timing of contributions, helping users identify gaps in their retirement contribution strategies. Is this relevant to the user's goals or needs?</thinking>
-
 # retirement_contribution_gap_questionnaire - Help Guide
 ## Purpose
 This form helps users evaluate and potentially close the gap in their retirement plan contributions.

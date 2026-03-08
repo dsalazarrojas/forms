@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from end-users about their product usage. It is designed to understand how often they use the product, what features they use, and their thoughts on the product's value and any issues they've encountered. This form is likely used for research and analysis purposes within the company. Please ensure you've completed this form only if you're an actual end-user of the product.
-</thinking>
-
 # Product Usage Survey Template - Help Guide
 ## Purpose
 This form is designed to collect information from end-users about their product usage and experiences. It helps us understand how you use our product, what features you enjoy, and any issues you've encountered.

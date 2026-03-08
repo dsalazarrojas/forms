@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture the interest of a tech startup in various features that can aid in the development and growth of their app. The form consists of multiple pages, each focusing on specific aspects of the app development process. 
-
-The form's purpose is to gather information about the startup's preferences and priorities for different features that can be included in their app. 
-
-To ensure that the information collected through this form is accurate and consistent, the form should not be filled out by anyone who is not closely involved in the development and decision-making process of the startup.
-
-</thinking>
-
 # tech_startup_app_feature_interest_poll - Help Guide
 ## Purpose
 This form is designed to capture the interest of a tech startup in various features that can aid in the development and growth of their app.

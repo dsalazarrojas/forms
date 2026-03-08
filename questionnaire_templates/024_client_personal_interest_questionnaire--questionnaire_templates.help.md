@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a client onboarding process, designed to collect information about a client's personal interests, goals, and preferences. The purpose of this form is to help the client get started with a personalized experience and for the company to gain insights into their client's needs and interests.
-</thinking>
-
 # Client Personal Interest Questionnaire - Help Guide
 ## Purpose
 This form is a questionnaire designed to collect information about a client's personal interests, goals, and preferences. It is an essential part of the onboarding process, helping both the client and the company get a better understanding of each other's needs and expectations.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide will provide a clear understanding of the purpose and process of completing the COVID 19 Vaccination Screening Questionnaire. Before proceeding, please ensure that this is the correct form for your specific needs and that you are not duplicating efforts. This guide will walk you through each section and field to ensure a smooth and accurate completion process.
-
-</thinking>
-
 # COVID 19 Vaccination Screening Questionnaire - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the effectiveness of a volunteer program. It is meant to be completed by individuals who have participated in or have knowledge about the program, such as volunteers, program staff, or community members. The purpose of this form is to gather information on various aspects of the program, including its general information, volunteer demographics, program quality, and community impact. Please note that the form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation using public survey topic metadata. This form is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, as long as you give credit.
-</thinking>
-
 # Volunteer Program Effectiveness Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess the effectiveness of a volunteer program. It is meant to be completed by individuals who have participated in or have knowledge about the program, such as volunteers, program staff, or community members.

@@ -1,39 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "simmer_pot_purchase_order_form" form. The form is for placing a product order, and it captures essential information such as product details, shipping and payment information, and order status. This form will help customers provide their order requests and preferences in a structured and clear way.
-
-To ensure we provide the most helpful guidance, we need to review the form fields and make sure that each field is clearly explained and that the instructions are concise and practical.
-
-Form fields include:
-
-* Product Title
-* Product Description
-* Product Images
-* Product Price
-* Delivery Date
-* Shipping Address
-* Phone Number
-* Email (optional)
-* Payment Method (with options for Bank Transfer, PayPal, and Cash)
-* Payment Details
-* Delivery Instructions (optional)
-* Delivery Preferences (with options for In Person, Email, and Phone)
-* Notes (optional)
-* Customer Name
-* Order Quantity (optional)
-* Order Type (with options for Single and Multiple)
-* Order Frequency (optional)
-* Order Frequency Options (optional)
-* Order Frequency Details (optional)
-* Order Frequency Notes (optional)
-* Order Status (with options for Pending, Confirmed, and Cancelled)
-* Order Status Notes (optional)
-* Order Comments (optional)
-* Form Submission Comments (optional)
-
-We need to make sure that each field is clearly explained and that the instructions are concise and practical.
-
-</thinking>
-
 # simmer_pot_purchase_order_form - Help Guide
 ## Purpose
 The "simmer_pot_purchase_order_form" form is used to place a product order. It captures essential information such as product details, shipping and payment information, and order status.

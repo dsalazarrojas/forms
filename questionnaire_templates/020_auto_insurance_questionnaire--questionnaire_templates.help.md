@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for auto insurance purposes, specifically to assess the applicant's background, vehicle usage, and current insurance status. It is crucial to ensure that the information is accurately and thoroughly filled out to provide relevant details for the insurance quote or application process. This form is not intended for use in other contexts or applications. Please do not use this form for any other purpose.
-</thinking>
-
 # Auto Insurance Questionnaire - Help Guide
 ## Purpose
 The auto insurance questionnaire is designed to collect relevant information from users for the purpose of providing accurate and personalized insurance quotes or applications.

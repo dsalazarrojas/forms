@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to help users assess their creative direction and provide a framework for them to reflect on their approach, goals, and skills in a creative field. This form is intended to be used by individuals who are looking to evaluate their own creative direction and identify areas for personal growth and development. Please note that this form should not be filled out if you are simply looking for a general assessment, as it is designed to be a self-assessment tool for individuals who are serious about refining their creative direction.
-
-</thinking>
-
 # Creative Direction Self Assessment - Help Guide
 ## Purpose
 The Creative Direction Self Assessment is a tool designed to help you evaluate your approach, goals, and skills as a creative professional. This form will guide you through a series of questions and prompts to help you identify areas where you excel and areas where you may need to improve.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information from customers who are interested in custom jewelry design. It is intended to be used by customers who want to inquire about custom jewelry design services. This form should not be used for other purposes such as general feedback or support questions. Please fill out this form completely and accurately to help us better understand your design preferences. If you have any existing design inquires that you have previously submitted, please do not resubmit it as a new one.
-</thinking>
-
 # Jewelry Customer Design Inquiry Form - Help Guide
 
 ## Purpose

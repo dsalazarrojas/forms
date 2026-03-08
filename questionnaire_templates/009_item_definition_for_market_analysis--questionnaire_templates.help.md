@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather detailed information about a product and its competitor in the market analysis process. This form will help you define and analyze the market position of a product by collecting data on its name, description, price, and other relevant details. The data collected through this form will aid in making informed decisions about market strategy and product development. Please ensure that you only fill out this form for products that have not been previously analyzed. Filling out this form for a previously analyzed product will result in duplication of effort and incorrect data...</thinking>
-
 # Item Definition For Market Analysis - Help Guide
 ## Purpose
 The purpose of this form is to gather detailed information about a product and its competitor in the market analysis process.

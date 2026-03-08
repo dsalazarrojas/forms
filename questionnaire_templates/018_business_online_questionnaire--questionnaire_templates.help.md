@@ -1,4 +1,3 @@
-<thinking>Business Online Questionnaire - This form is designed to gather information about your business for the purpose of providing tailored support and guidance. This questionnaire will help us understand your company's current state and identify areas where you may need assistance. Please fill out the form accurately and thoroughly to help us provide the best possible support. This form will only take a few minutes to complete and will not ask you to provide any sensitive or confidential information.</thinking>
 # Business Online Questionnaire - Help Guide
 ## Purpose
 The Business Online Questionnaire is designed to gather information about your business to provide tailored support and guidance. It will help us understand your company's current state and identify areas where you may need assistance.

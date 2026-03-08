@@ -1,11 +1,3 @@
-<thinking> 
-This guide is intended to help users understand the purpose and process of completing the Hiking Boot Pre Order Form. 
-This form is designed to collect information from customers interested in pre-ordering hiking boots, including their personal details, order preferences, and payment information. 
-To ensure accurate and efficient completion, it is crucial to follow each step carefully. 
-Please note that the form fields are not necessarily tied to specific business logic or proprietary systems, but rather a general structure for collecting relevant information. 
-Before proceeding, verify that you have not already completed this form or a similar one to avoid duplicate entries. 
-</thinking>
-
 # Hiking Boot Pre Order Form - Help Guide
 ## Purpose
 The Hiking Boot Pre Order Form is designed to collect information from customers who wish to pre-order hiking boots. This form helps us understand your preferences and requirements for your hiking boots, ensuring that we can better serve you in the future.

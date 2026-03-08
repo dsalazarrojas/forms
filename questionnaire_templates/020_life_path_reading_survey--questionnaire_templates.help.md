@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: this form was created using AI to generate a survey related to spiritual practices, specifically "life path readings" which seems to be a type of spiritual practice or reading. This guide will explain the purpose and usage of the form, and provide clear guidance on completing it correctly. The form's metadata does not reveal any proprietary or sensitive information, making it safe to use and modify as needed. The purpose of this form is to collect information about the user's life path reading experience and preferences...</thinking>
-
 # Life Path Reading Survey - Help Guide
 
 ## Purpose

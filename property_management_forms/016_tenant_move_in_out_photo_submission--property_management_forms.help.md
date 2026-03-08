@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a tenant's move-in or move-out from a property. This form is likely used by property management or maintenance staff to document and record the condition of the property at the start and end of a tenant's tenancy. The form collects details such as the property address, property ID number, tenant name, start and end dates, a description of the condition of the property, and photos of the property to support the condition description.
-The form is designed to be filled out by the tenant or someone on their behalf during the move-in or move-out process. The required fields ensure that the essential information is captured accurately and consistently.
-</thinking>
 # Tenant Move In/Out Photo Submission - Help Guide
 ## Purpose
 This form is designed to collect data for property management and maintenance purposes. It is used to document the condition of a property at the start and end of a tenant's tenancy.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to write a personal narrative, which is a written account of their experiences, thoughts, and feelings related to a particular event or topic. The form is likely used in a professional setting, such as a research study or a therapy session, where users need to provide a detailed and structured account of their experiences. The purpose of the form is to gather comprehensive and accurate information from the user, which can then be used for analysis and understanding of their experiences.
-</thinking>
-
 # Personal Narrative Writing Guide - Help Guide
 ## Purpose
 This form is designed to guide users through the process of writing a personal narrative. It helps users to provide a detailed and structured account of their experiences, thoughts, and feelings related to a particular event or topic.

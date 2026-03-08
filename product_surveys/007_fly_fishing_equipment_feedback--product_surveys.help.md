@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to collect feedback from customers about their fly fishing equipment experiences. It is not affiliated with, endorsed by, or derived from any form platform. The form was created using public survey topic metadata and is an original adaptation. It is released under CC BY 4.0, allowing users to freely use, modify, and even sell forms derived from it, just giving credit to the original author.
-</thinking>
-
 # Fly Fishing Equipment Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their fly fishing equipment experiences. The goal is to gather information about their satisfaction, the condition and type of gear used, and any issues they encountered.

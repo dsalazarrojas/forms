@@ -1,11 +1,3 @@
-<thinking>
-We should have a clear and concise help guide for the "Dental Graduates Interest Survey" form to ensure that dental graduates understand their purpose and how to complete it correctly. This guide should explain each field in a way that is easy to understand, avoiding any assumptions or internal business logic.
-
-Upon reviewing the form fields, it appears that this form is designed to gather information from dental graduates about their current position, career preferences, job characteristics, and job satisfaction. It is crucial that we provide clear explanations for each field to avoid any confusion among the users.
-
-Before creating the help guide, I will review the form fields again and provide a brief internal reasoning block that explains the purpose of the form and checks for any duplicates or relevance issues.
-</thinking>
-
 # Dental Graduates Interest Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for government agency staff members to apply for employment as auditors or analysts. The form will ask for general contact information, job preferences, and work details to help the HR department assess each applicant's qualifications. The form does not require any sensitive or personal information.
-</thinking>
-
 # Government Auditor Employment Application - Help Guide
 ## Purpose
 This form is designed to collect employment applications from interested government agency staff members for auditor or analyst positions. Please fill out the form to provide your contact information, job preferences, and work details.

@@ -1,5 +1,3 @@
-<thinking>...This form is designed for collecting feedback on academic programs, focusing on student enrollment experience and overall satisfaction. It should be used to gather information about students' current academic status, such as their level, enrollment status, and academic standing. This information will help in evaluating the effectiveness of the academic programs and making informed decisions. It is expected that students will be able to complete this form accurately and provide honest feedback. Please ensure that you are providing accurate information as your feedback will be used for evaluation and improvement purposes. This form should not be completed by staff or faculty members as their feedback might not accurately represent student experiences. Ensure that you have completed the form before submission to ensure accurate data collection...</thinking>
-
 # Academic Status Survey - Help Guide
 ## Purpose
 

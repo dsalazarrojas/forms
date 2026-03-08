@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to gather information from potential suppliers or partners about their company's characteristics and capabilities. It's intended for internal use within the organization, and the collected data will be used to prequalify potential collaborators based on specific criteria. This form is not meant to be a comprehensive assessment, but rather a starting point for further evaluation. It's essential to ensure that the information provided is accurate and up-to-date to avoid any potential issues or misrepresentation.
-</thinking>
-
 # Prequalification Questionnaire Form Template - Help Guide
 ## Purpose
 The Prequalification Questionnaire Form Template is designed to collect essential information about a company's characteristics and capabilities to help evaluate potential collaborations.

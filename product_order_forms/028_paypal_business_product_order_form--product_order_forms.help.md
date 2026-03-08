@@ -1,12 +1,3 @@
-<thinking>
-  Before creating a help guide for the PayPal Business Product Order Form, let's clarify its purpose and internal requirements. This form is designed for customers to place orders for a product through a business context, using a payment method provided by PayPal or other accepted options. It aims to gather contact information for the customer, details about the shipping, and specific product information such as name, price, and quantity. The form's primary goal is to streamline the ordering process for businesses, ensuring accurate and efficient order processing.
-
-To complete this form effectively, businesses will want to understand its internal workings and how to input accurate information, ensuring a smooth ordering experience for the customer. Each field's purpose should be well understood to prevent errors or miscommunication. This form will be a crucial component in the customer journey for businesses using PayPal for product orders.
-
-Given the form's requirements and customer needs, it's essential to provide clear explanations for each field to guide users and improve the overall user experience.
-
-</thinking>
-
 # paypal_business_product_order_form - Help Guide
 ## Purpose
 The PayPal Business Product Order Form is designed for businesses to gather customer contact information, shipping details, and product specifics to facilitate seamless product ordering through PayPal or other accepted payment methods.

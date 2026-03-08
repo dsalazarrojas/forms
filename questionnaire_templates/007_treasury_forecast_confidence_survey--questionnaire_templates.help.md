@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gauge the user's confidence level and identify potential risks and improvement areas in the treasury department's forecasting process. It should only be filled out once per user. If a user has already completed this form, they will be notified that they cannot fill it out again.
-
-The form is divided into several sections, each designed to elicit specific information. Please answer all fields accurately and completely. If a field is marked as required, it must be filled out to proceed.
-</thinking>
-
 # Treasury Forecast Confidence Survey - Help Guide
 ## Purpose
 This survey is designed to evaluate the confidence level of your current forecasting process and identify potential areas for improvement. Please complete this survey to help us better understand your needs and improve our services.

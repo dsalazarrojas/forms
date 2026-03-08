@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Prototype Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about a product prototype. It asks for information about the product's category, description, name, and image, as well as any feedback or comments users may have.

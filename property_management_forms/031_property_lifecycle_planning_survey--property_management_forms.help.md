@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the lifecycle of a property, specifically regarding its type, location, purchase price, seller, contract, size, and type. This form is intended for properties that have a specific type of lifecycle or are relevant to the property management team for planning or reporting purposes. Before proceeding, it's essential to verify that the collected data is accurate and relevant, and that there's no duplicate submission of similar properties. Please ensure that all fields are correctly filled out and that the property type and property size are accurately measured.
-</thinking>
-
 # Property Lifecycle Planning Survey - Help Guide
 
 ## Purpose

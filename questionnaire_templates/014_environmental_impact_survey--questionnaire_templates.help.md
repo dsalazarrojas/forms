@@ -1,15 +1,3 @@
-<thinking> 
-
-As a form designer and technical writer, I will guide you through the creation of a user-facing help guide for the Environmental Impact Survey form. 
-
-This survey is designed to gather information about the respondent's perspective on the environmental impact of a specific action or organization. The purpose of this form is to collect data on how the respondent perceives the environmental impact, their level of engagement with the organization, and their opinions on various aspects of the organization's environmental performance. 
-
-The form is divided into several sections, each focusing on different aspects of the survey. To ensure accurate and complete responses, please answer all questions thoroughly and honestly. 
-
-Before completing the form, please ensure that you have not previously submitted this survey. If you have any questions or concerns, feel free to reach out to us.
-
-</thinking>
-
 # Environmental Impact Survey - Help Guide
 ## Purpose
 The Environmental Impact Survey is designed to gather information about your perspective on the environmental impact of a specific action or organization. Your feedback will help us understand your views and opinions on various aspects of environmental performance.

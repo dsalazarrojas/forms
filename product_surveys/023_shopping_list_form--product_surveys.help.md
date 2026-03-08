@@ -1,5 +1,3 @@
-<thinking>This form is a Shopping List Form intended to collect information from users about their shopping preferences or needs. The purpose of this form is to provide a convenient way to gather relevant data from users on their shopping preferences and habits, which can be useful for businesses, researchers, or organizations to better understand consumer behavior and preferences. This form is designed to be simple and user-friendly, with a straightforward set of questions and fields to gather information.</thinking>
-
 # Shopping List Form - Help Guide
 ## Purpose
 The Shopping List Form is designed to collect information from users about their shopping preferences and habits.

@@ -1,10 +1,3 @@
-<thinking>
-The form is used to register a property on the Smart Property Network. This guide will cover the following:
-	* Form Purpose: The purpose of the form is to gather information from property owners and users to create a profile on the Smart Property Network. This form collects personal and property-related data for registration and management.
-	* Non-Duplication: To prevent duplicate registrations, this form includes a unique identifier for each property owner, and only one profile can be registered per unique identifier.
-	* Relevance: This form is intended for property owners who want to register their properties on the network.
-</thinking>
-
 # Smart Property Network Registration Form - Help Guide
 ## Purpose
 The Smart Property Network Registration Form is used to gather information from property owners and users to create a profile on the Smart Property Network. This form collects personal and property-related data for registration and management.

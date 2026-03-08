@@ -1,11 +1,3 @@
-<thinking>
-To create an effective help guide for the "Network Device Order Form", we need to understand the purpose and requirements of the form. The form is likely used for ordering network devices such as routers, switches, and other equipment. The form will likely be filled out by a person who is requesting or ordering network devices, and the information gathered will be used for internal tracking and management purposes.
-
-The form seems to be designed for basic information gathering, allowing the user to input details such as the type of device they are ordering, the quantity, unit price, and other relevant information. There appears to be no duplicate fields, but some fields might be optional, which could be a concern for internal tracking.
-
-We should ensure that the form is easy to follow and understand, with clear explanations for each field to avoid confusion. We should also consider creating a "Tips" section to provide additional guidance to the user.
-</thinking>
-
 # Network Device Order Form - Help Guide
 ## Purpose
 This form is used to gather information for ordering network devices such as routers, switches, and other equipment. Please fill out the form with the required and optional information to ensure accurate tracking and management of your order.

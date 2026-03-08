@@ -1,5 +1,3 @@
-<thinking>Before we create the user-facing help guide, we will ensure that the form's purpose and requirements are understood internally and that there will be no duplication of effort. This form, "standing_desk_market_research_survey", is intended to gather market research data on standing desks. It appears to be a comprehensive survey covering various aspects of standing desk adoption, market trends, and user demographics. We will create a clear and concise guide for users to complete this form effectively.</thinking>
-
 # standing_desk_market_research_survey - Help Guide
 ## Purpose
 This form is designed to gather market research data on standing desks, including adoption rates, market trends, and user demographics. Your input will help us better understand the market and inform our product development and marketing strategies.

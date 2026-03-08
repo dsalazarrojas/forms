@@ -1,5 +1,3 @@
-<thinking>CRG Realty Buyers Information Form is intended to gather essential information from potential real estate buyers. The form is designed to be a single-page form, divided into multiple sections with clear labels and concise descriptions for each field. To ensure accurate and complete data, it is crucial to review this help guide carefully before completing the form. By understanding each field's purpose, you will be able to provide the most valuable information to assist the agent in serving your needs more effectively. Please note that the form fields are divided into two main sections: buyer details and property preferences. This guide will walk you through each field to help you complete the form accurately and with confidence.</thinking>
-
 # CRG Realty Buyers Information Form - Help Guide
 ## Purpose
 The CRG Realty Buyers Information Form is designed to gather essential information from potential real estate buyers, enabling the agent to better understand their needs and provide personalized service. This form will help the agent tailor their approach to meet your specific requirements, making the buying process more efficient and effective.

@@ -1,5 +1,3 @@
-<thinking>...This form is a survey designed to gather information about product reusability. The primary purpose of this survey is to gather feedback from end-users on their product usage and concerns. This form will help gather data on how frequently users use products, reasons they keep or don't keep products, safety concerns, sustainability concerns, reusability rating, product reusability, concerns about the product, related products, and any other comments they may have...</thinking>
-
 # Makeup Product Reusability Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from end-users on their product usage and concerns. The data collected will help us better understand how our products are used and identify areas for improvement.

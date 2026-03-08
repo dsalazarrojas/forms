@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the residential landlord to collect information from the guarantor (e.g., co-signer or co-signer with a lease) of a tenant. The form gathers personal details about the guarantor, including their name, address, phone number, and email. It also collects information about the guarantor's relationship to the tenant and the date they have been a guarantor. This form is likely used to ensure that the guarantor's identity and contact information are accurately recorded in the rental property management system. This form might not be relevant if you are a private citizen not associated with a property management company or a landlord. It's a good practice to ensure this form is only used when necessary for property management purposes.
-</thinking>
-
 # Residential Lease Surety Agreement Form - Help Guide
 ## Purpose
 This form is for collecting guarantor details from a residential property lease.

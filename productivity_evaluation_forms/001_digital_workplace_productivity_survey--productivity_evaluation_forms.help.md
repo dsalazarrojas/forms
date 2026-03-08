@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to evaluate the digital workplace productivity of employees. The purpose of this form is to gather information about how employees spend their time and use tools to work. The information collected will help the organization understand how employees use digital tools, their work habits, and their overall work satisfaction. This form should only be filled out by employees who have a good understanding of their own digital workplace productivity. Please ensure that you are answering questions honestly and to the best of your ability. If you are unsure about any question, please reach out to your supervisor or HR representative for guidance. 
-</thinking>
-
 # digital_workplace_productivity_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about digital workplace productivity of employees. It helps the organization understand how employees spend their time and use tools to work.

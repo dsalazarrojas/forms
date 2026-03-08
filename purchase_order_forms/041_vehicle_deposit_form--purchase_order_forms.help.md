@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for vehicle deposits. Vehicle deposits are payments made by customers to hold a place in line for a vehicle purchase. The form is designed to be simple and easy to use, with clear fields for collecting relevant information. Before proceeding, ensure that you have all the necessary information to complete the form accurately. If you're unsure about any field or have previously submitted a deposit, please review and update your submission accordingly to avoid duplication of information.</thinking>
-
 # vehicle_deposit_form - Help Guide
 ## Purpose
 The vehicle_deposit_form is used to collect information from customers for vehicle deposits. This form is meant to be used when a customer wants to place an order and make a deposit.

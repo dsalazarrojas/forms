@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their skin care product experience. It is intended to be completed by customers who have used the product and are willing to share their opinions. We aim to gather information on how often the customer uses the product, their overall satisfaction rating, and any suggestions for improvement. By analyzing this data, we can better understand customer needs and preferences, which can help us make informed decisions to enhance the product's quality and user experience. Before proceeding, please ensure that you have not completed a similar form in the past as this form is meant to be unique to each user's experience.
-</thinking>
-
 # Skin Care Product Feedback Form - Help Guide
 
 ## Purpose

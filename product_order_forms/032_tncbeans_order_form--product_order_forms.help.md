@@ -1,19 +1,3 @@
-<thinking>
-This form is a general-purpose order form for collecting information about a Tncbeans product order. The form is likely to be used in a business or sales context where the user needs to provide details about their order. There is no indication that the form is intended for any specific type of order or product. The form does not appear to be redundant or duplicative, as it contains a mix of general fields for customer information and order details.
-
-The form has 8 fields in total, with the following characteristics:
-- 2 text fields for first and last name
-- 1 email field
-- 1 phone field
-- 1 date field
-- 1 time field
-- 1 text field for product order ID
-- 1 number field for quantity
-
-The fields appear to be designed to be filled out by a customer or sales representative, but it is not clear if the form is meant to be completed by one person or if it is intended for use in a multi-step process.
-
-</thinking>
-
 # Tncbeans Order Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive assessment tool for analyzing an individual's personality, behavior, and preferences. The form is intended to gather information on various aspects of an adult's personal characteristics, such as their social engagement level, stress management style, decision-making preference, openness to new experiences, and perception of work ethic. This information can be used for personal growth, team building, or employee development purposes. 
-The form is divided into three main sections: "Self-Assessment", "Contrast with Others", and "Behavioral Patterns". The "Self-Assessment" section asks about the individual's social engagement level, stress management style, decision-making preference, and openness to new experiences. The "Contrast with Others" section asks how the individual perceives themselves in relation to their peers, in terms of ambition and emotional levels. The "Behavioral Patterns" section is an open-ended section where the individual can describe their ideal work environment and areas where they would like to improve themselves.
-This form is designed to be user-friendly, and each field is labeled clearly. However, the form is intended for adults, and the questions may not be suitable for all age groups.
-Please note that the form does not collect any sensitive or sensitive information, and the responses will not be used for any commercial or malicious purposes.
-</thinking>
-
 # Adult Personal Analysis Questionnaire - Help Guide
 ## Purpose
 This form is designed to be a comprehensive assessment tool for analyzing an individual's personality, behavior, and preferences.

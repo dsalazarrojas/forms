@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a user's investment strategy, risk tolerance, and market preferences. This form is designed to help us understand the user's current investment strategy, how they stay up-to-date with market trends, and what factors influence their investment decisions. We will use this data to improve our services and provide more relevant information to our users.
-</thinking>
-
 # Stock Market Analysis Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your investment strategy, market preferences, and risk tolerance. Your responses will help us better understand your needs and provide more relevant information to help you make informed investment decisions.

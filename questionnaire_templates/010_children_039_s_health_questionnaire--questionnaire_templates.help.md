@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a child's health, including demographics, medical history, lifestyle habits, and mental and emotional well-being. It is essential to fill out this form accurately and thoroughly to provide a comprehensive picture of the child's health status. Please ensure that the answers are true and up-to-date, and if unsure, provide an answer based on the best available information.
-
-This form is part of the "questionnaire_templates" category.
-
-</thinking>
-
 # Children's Health Questionnaire - Help Guide
 ## Purpose
 This form is used to gather information about a child's health, including demographic and medical history, lifestyle habits, and mental and emotional well-being.

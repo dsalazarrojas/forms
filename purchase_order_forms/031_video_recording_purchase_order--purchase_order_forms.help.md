@@ -1,7 +1,3 @@
-<thinking>
-This form is for generating a purchase order for a video recording. The purpose of this form is to collect information about the customer, the recording session, and the service provider. The form is designed to be completed by the customer or their representative. To ensure that the form is not duplicated or unnecessary, please check if a purchase order with the same customer and service provider already exists in the system. If it does, you will be notified and asked to confirm if you want to duplicate the existing order.
-</thinking>
-
 # Video Recording Purchase Order - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a video recording purchase order.

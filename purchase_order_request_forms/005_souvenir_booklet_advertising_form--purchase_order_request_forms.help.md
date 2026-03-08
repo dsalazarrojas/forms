@@ -1,7 +1,3 @@
-<thinking>
-This form is a custom-built form for requesting souvenir booklets. It is likely used by customers or clients who want to purchase souvenir booklets from the company. This form is not a standard form and may require additional validation or processing on the backend. Please make sure you are not already in the system before filling this form.
-</thinking>
-
 # Souvenir Booklet Advertising Form - Help Guide
 ## Purpose
 The purpose of this form is to request a souvenir booklet from the company. The form asks for various details to process the request.

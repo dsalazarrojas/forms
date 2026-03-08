@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is designed to collect information about a person's health symptoms. It is intended for individuals who are experiencing health issues and need to report their symptoms to a healthcare professional. The form is not affiliated with any form platform and is created using AI-generated metadata as inspiration. It is released under a Creative Commons Attribution 4.0 license.
-
-</thinking>
-
 # Health Symptoms Questionnaire - Help Guide
 ## Purpose
 The Health Symptoms Questionnaire is a form designed to collect information about a person's health symptoms. This questionnaire is intended for individuals who are experiencing health issues and need to report their symptoms to a healthcare professional. 

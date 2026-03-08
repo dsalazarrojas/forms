@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being created to provide users with a clear understanding of the Film Special Edition Pre Order Form. The form is designed to collect user information and order details for special edition film orders. It's assumed that users are familiar with pre-ordering and understand the general purpose of such a form. This guide will not delve into the intricacies of the business logic behind the form but will focus on how to fill it out correctly. It's also assumed that users have the necessary information (e.g., email, phone) readily available to fill out the form.
-</thinking>
-
 # Film Special Edition Pre Order Form - Help Guide
 ## Purpose
 The Film Special Edition Pre Order Form is designed to collect user information and order details for special edition film orders. This form gathers essential data to process orders accurately and efficiently.

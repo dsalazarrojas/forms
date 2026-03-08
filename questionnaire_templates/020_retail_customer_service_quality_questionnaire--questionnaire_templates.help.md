@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback from customers about their experience with retail employees and stores. The goal is to assess the quality of service provided by store staff, which can help improve customer satisfaction and overall retail experience. This form is intended for customers who have interacted with a retail store, and the feedback collected will help identify areas of improvement for customer service. It's essential to complete this form as truthfully as possible to provide valuable insights.
 
 # Retail Customer Service Quality Questionnaire - Help Guide

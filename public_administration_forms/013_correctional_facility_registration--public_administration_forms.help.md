@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals or organizations about their corrections facilities or institutions. This form likely belongs to the "public_administration" category as it deals with administrative aspects of correctional facilities. I'll assume it's for registration or reporting purposes.
-
-This form is designed to gather details about the facilities, such as the registrant's name, contact number, facility name, phone number, and other relevant information. The form may be used for various purposes, such as updating facility records, verifying contact information, or facilitating communication between authorities.
-
-</thinking>
-
 # correctional_facility_registration - Help Guide
 ## Purpose
 The correctional_facility_registration form is used to collect information from individuals or organizations about their corrections facilities or institutions.

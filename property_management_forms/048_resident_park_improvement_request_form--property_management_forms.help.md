@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended for residents to request improvements or maintenance to their local park. It is meant to be a simple, straightforward way for residents to report issues or suggest changes to park amenities. Please ensure that you have not already reported this issue or submitted a similar improvement request. Your submission will be reviewed and addressed in a timely manner. </thinking>
-
 # Resident Park Improvement Request Form - Help Guide
 ## Purpose
 

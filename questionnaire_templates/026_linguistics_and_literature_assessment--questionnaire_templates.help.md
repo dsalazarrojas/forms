@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the background and preferences of users in the fields of linguistics and literature. It's likely used to gather information about the user's language proficiency, academic programs, data collection methods, and educational background. To avoid duplication, users should not be asked to complete this form if they have already filled it out previously.
-</thinking>
-
 # Linguistics And Literature Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about your background and preferences in the fields of linguistics and literature. Please answer these questions to help us better understand your qualifications and needs.

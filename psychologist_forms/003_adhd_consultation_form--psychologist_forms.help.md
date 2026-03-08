@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting information from patients to help psychologists or therapists better understand their ADHD symptoms, concerns, and background. The purpose of this form is to gather essential data to guide the consultation process and provide a comprehensive understanding of the patient's situation. This form is meant to be filled out by the patient or their guardian/parent, and it's essential to complete it carefully to ensure accurate and helpful information is collected.
-</thinking>
-
 # ADHD Consultation Form - Help Guide
 ## Purpose
 The ADHD Consultation Form is a tool for patients to provide information about their ADHD symptoms, concerns, and background. This form helps the consultant (psychologist or therapist) to get a clear understanding of the patient's situation and prepare for the consultation.

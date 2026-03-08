@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # General Incident Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about an incident that has occurred on campus, including the date and time of the incident, witness details, and witness statements. The form is used to document incidents and facilitate reporting to relevant authorities.

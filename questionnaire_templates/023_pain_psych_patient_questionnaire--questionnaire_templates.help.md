@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about a patient's pain experience. It is intended for use in a clinical setting, such as a hospital or medical office, to collect data on the patient's pain location, medical history, psychological history, medication, pain characteristics, frequency, duration, intensity, treatment goals, current treatments, other treatments, mental status, and pain scale. It is crucial that the form is filled out accurately and completely for the patient's condition to be assessed correctly.
-Please ensure that you are filling out this form for the intended purpose and in a clinical setting. If the patient has already completed this form, it is essential to review and update their previous responses as necessary.
-</thinking>
-
 # Pain Psych Patient Questionnaire - Help Guide
 ## Purpose
 The Pain Psych Patient Questionnaire is a form used to collect information about a patient's pain experience, including its location, medical history, psychological history, medication, pain characteristics, frequency, duration, intensity, treatment goals, current treatments, other treatments, mental status, and pain scale.

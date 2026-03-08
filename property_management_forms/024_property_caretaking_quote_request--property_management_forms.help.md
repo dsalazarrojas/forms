@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to request a quote for property caretaking services. This form is intended for property owners, caretakers, or property managers to provide information about their property and request a quote from a caretaker. The form will likely be filled out by the person responsible for the property's maintenance and upkeep, such as a property manager or caretaker. It's essential to ensure that only one quote request is submitted for each property to avoid duplication of efforts and unnecessary quotes.
-
-This form is not intended for other purposes, such as reporting maintenance issues or requesting repairs. If you need to report a maintenance issue, please use the <Maintenance Issue Report Form> instead.
-
-To avoid duplicate quotes, we recommend checking the property's history before submitting a new quote request. If a quote request has already been submitted for the same property, please do not resubmit a new one.
-
-To complete this form, please follow the instructions below:
-</thinking>
-
 # Property Caretaking Quote Request - Help Guide
 ## Purpose
 The Property Caretaking Quote Request form is used to request a quote for property caretaking services. It collects information about the property and the caretaker's contact details to provide a quote for maintenance and upkeep services.

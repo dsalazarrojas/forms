@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form, "Disguise Skills Assessment", is to help assess the skills of individuals or teams that have undergone a training session. It is designed to collect information about the training session, the skills assessed, self-evaluation, date, time, location, comments, email, phone, assigned to, reviewer comments, submitter, submitted date, submitted time, submitted location, submitted phone, submitter email, submitter comments, session type, session name, session description, participants, submitted, and submitters. This form is likely used in an internal context within an organization to evaluate and record the progress of training sessions.
-
-To ensure the information in this form is accurate and complete, please verify that the form is not being reused or duplicated for any other purpose. If you have any concerns, please reach out to the relevant personnel for further clarification.
-
-</thinking>
-
 # Disguise Skills Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect and document the details of a training session, including the skills assessed, self-evaluation, date, time, location, comments, and other relevant information.

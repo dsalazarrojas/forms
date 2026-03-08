@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Civic Project Idea Upload Form - Help Guide
 ## Purpose
 

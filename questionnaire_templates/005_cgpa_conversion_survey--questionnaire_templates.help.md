@@ -1,6 +1,3 @@
-<thinking> 
-This form appears to be a CGPA Conversion Survey, designed to help users provide information for converting their grades from one institution to another. It's likely used for academic or job application purposes. Before filling out this form, ensure you have all necessary documents and information ready. It's essential to understand that this form is not a one-time use form; it's a survey meant to be completed for multiple purposes. Please be sure not to duplicate your responses unless your circumstances have changed since the previous submission. </thinking>
-
 # CGPA Conversion Survey - Help Guide
 ## Purpose
 The CGPA Conversion Survey is a form used to collect information about your academic history and requirements for converting your grades from one institution to another. This form will help you provide accurate and up-to-date information for academic or job applications.

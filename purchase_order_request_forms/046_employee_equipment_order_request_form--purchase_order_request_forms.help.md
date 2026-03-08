@@ -1,12 +1,3 @@
-<thinking>
-This form is a tool for employees to submit their equipment order requests. The purpose of this form is to gather information from employees about the equipment they need, the project they are working on, and their specific order details. This form is designed to guide employees through the process of requesting equipment in a way that ensures their needs are met while also keeping the procurement process organized and efficient.
-
-To ensure that the form is used correctly, please note that it is a one-time submission form. If an employee needs to update their order or make a new request, they must create a new form.
-
-Before filling out this form, please make sure to have the necessary information ready. This form should only be used for equipment that the employee needs for work-related purposes.
-
-</thinking>
-
 # Employee Equipment Order Request Form - Help Guide
 ## Purpose
 The Employee Equipment Order Request Form is a tool for employees to submit their equipment requests for work-related purposes.

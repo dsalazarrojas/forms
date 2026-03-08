@@ -1,29 +1,3 @@
-<thinking>
-To determine whether a product has market fit, we're checking that the key aspects of the product or service match customer needs and preferences.
-
-Product Market Fit Confirmation form serves as a quick validation tool to ensure that our products or services meet the market requirements and are positioned correctly. The goal is to gather information about the product or service, its target market, and the competitive landscape.
-
-The form asks questions about the product or service name, target customer segment, value proposition, main competitors, unique value proposition, product life cycle stage, market fit confirmation pages, product category, target geography, and pricing. This helps us understand how well our product or service aligns with market needs and whether we're on the right track to reach and satisfy our customers.
-
-We're looking for the following in this form:
-
-- The product or service name and description
-- The target customer segment and their needs
-- The value proposition and competitive differentiators
-- The main competitors and their strategies
-- The unique value proposition
-- The product life cycle stage (launch, growth, maturity, or decline)
-- The market fit confirmation pages (select one or multiple)
-- The product category (product, software, service, or other)
-- The target geography (US, Canada, Mexico, or other)
-- The target revenue stage
-- The product pricing (free, subscription, one time, or recurring)
-
-This form is meant to be a quick and easy way to validate market fit without having to dive into complex analysis or research. By filling out this form, you'll get a clear understanding of where your product or service stands in terms of market fit and what areas need to be addressed for further refinement.
-
-Please note that the form fields are self-explanatory and designed to guide you through the necessary steps to validate your product or service's market fit.
-</thinking>
-
 # Product Market Fit Confirmation - Help Guide
 ## Purpose
 The Product Market Fit Confirmation form is a validation tool to ensure that our products or services meet the market requirements and are positioned correctly.

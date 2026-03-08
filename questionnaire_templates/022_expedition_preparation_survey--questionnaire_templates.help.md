@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from adventurers going on expeditions or trips, ensuring they have provided necessary details for safety and emergency purposes. This form will be completed by individuals who are planning to embark on expeditions, and it will be used by the expedition team to prepare for their journey and ensure everyone's safety. This form should not be completed by individuals who have already gone on a similar expedition with the team, as their experience will already be known.
-</thinking>
-
 # Expedition Preparation Survey - Help Guide
 ## Purpose
 The Expedition Preparation Survey is a crucial form designed to collect essential information from individuals going on expeditions or trips with our team. This information helps us ensure everyone's safety and well-being during the journey. Please take a few minutes to fill out this form accurately and thoroughly.

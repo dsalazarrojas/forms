@@ -1,5 +1,3 @@
-<thinking>As a form designer, my goal is to create a user-facing help guide that is clear, concise, and easy to follow. This form, "Puppy Buyer Questionnaire," is designed to collect information about a puppy's details, seller, and buyer. The form has 25 fields, each with a specific label and type. Some fields are required, while others are optional. The fields can be grouped into several categories: puppy details, seller information, and buyer information. The form is likely used in a veterinary clinic or a pet store to gather data about a puppy's characteristics and medical conditions.</thinking>
-
 # Puppy Buyer Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about a puppy's details, seller, and buyer. It is used to gather data about the puppy's characteristics and medical conditions.

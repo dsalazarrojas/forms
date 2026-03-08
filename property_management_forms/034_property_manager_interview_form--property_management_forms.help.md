@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Manager Interview Form - Help Guide
 
 ## Purpose

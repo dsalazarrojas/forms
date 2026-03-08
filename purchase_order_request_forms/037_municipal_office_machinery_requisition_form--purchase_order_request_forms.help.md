@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form purpose is for employees in the municipal office to request equipment, machinery, or vehicles for their departments. 
-</thinking>
-
 # Municipal Office Machinery Requisition Form - Help Guide
 ## Purpose
 The Municipal Office Machinery Requisition Form is a tool for municipal office employees to submit requests for equipment, machinery, or vehicles for their departments. This form helps ensure that requests are properly documented and reviewed by the relevant authorities.

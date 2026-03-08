@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Government Agency Strategic Planning Audit Form - Help Guide
 
 ## Purpose

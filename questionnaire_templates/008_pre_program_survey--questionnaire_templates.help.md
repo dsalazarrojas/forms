@@ -1,7 +1,3 @@
-<thinking>
-Is the form intended to create a questionnaire template for post-secondary education programs? Are there any specific requirements or dependencies between fields that need to be considered for the user to fill out the form correctly? 
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The "<string>" form is a template for creating questionnaires for post-secondary education programs.

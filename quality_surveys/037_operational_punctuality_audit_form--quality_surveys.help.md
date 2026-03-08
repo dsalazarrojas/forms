@@ -1,7 +1,3 @@
-<thinking>
-The Operational Punctuality Audit Form is used to record and analyze delays in operational activities. To fill out this form, you must be aware that it's not a duplicate of other forms or records, and ensure that you're providing accurate and detailed information to support the operational punctuality audit process. This form is a tool for assessing and addressing any discrepancies in operational performance.
-</thinking>
-
 # Operational Punctuality Audit Form - Help Guide
 ## Purpose
 This form is used to gather data on operational punctuality audits, which helps in tracking and evaluating the performance of operational activities. It ensures accurate and thorough investigation of delays and their effects on the process.

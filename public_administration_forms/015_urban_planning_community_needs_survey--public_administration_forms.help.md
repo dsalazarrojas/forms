@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to gather information from the public to better understand their needs and concerns in urban planning, particularly in regards to neighborhood satisfaction, community engagement, and public services. This form does not aim to collect personal data but rather gather aggregate responses to inform urban planning decisions.
-
-The form consists of 9 fields across 9 pages. To ensure clarity, each field will be explained in detail below.
-
-</thinking>
-
 # Urban Planning Community Needs Survey - Help Guide
 
 ## Purpose

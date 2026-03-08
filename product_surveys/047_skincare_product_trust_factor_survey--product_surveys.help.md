@@ -1,8 +1,3 @@
-<thinking>
-The Skincare Product Trust Factor Survey is a tool used to gauge the level of trust customers have in skincare products. This form is designed to gather information on various aspects of skincare products, including loyalty level, specific trust factors, and overall product trust levels. 
-This form is intended for customers to provide feedback on their experiences with skincare products. It is likely to be used in conjunction with other data collection methods to get a comprehensive understanding of customer perceptions. It should be used only once per product, to avoid duplicating responses and ensure accurate data collection.
-</thinking>
-
 # Skincare Product Trust Factor Survey - Help Guide
 ## Purpose
 The Skincare Product Trust Factor Survey is a tool used to gauge the level of trust customers have in skincare products. This form is designed to gather information on various aspects of skincare products, including loyalty level, specific trust factors, and overall product trust levels.

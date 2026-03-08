@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Story Ranking Survey" form. This form is used to gather feedback and ratings on stories from users. To ensure the form is completed correctly, the user will be required to provide their Author ID, rank the story, rate the story, provide feedback, and submit their response. The story ID will be optional, but it's best to provide the actual story ID if you're familiar with it, as it will help in referencing the story. The user will also be asked to provide their rating in seconds. The form has a submit button that allows users to submit their response.</thinking>
-
 # Story Ranking Survey - Help Guide
 ## Purpose
 The Story Ranking Survey form is designed to gather feedback and ratings on stories from users. This form helps us understand how users perceive a story and its elements, providing valuable insights for improvement and evaluation.

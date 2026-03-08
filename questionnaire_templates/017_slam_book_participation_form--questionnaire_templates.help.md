@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect basic information from users. It is likely used for events, surveys, or other types of data collection activities. The form asks for the user's name, grade (if applicable), school (if applicable), a personal message, favorite foods, favorite color, birthday, time available, email, phone number, and two additional notes.
-It is recommended to review this form carefully to ensure that all required fields are filled out correctly. If you are unsure about any field, please ask for clarification before proceeding.
-</thinking>
-
 # Slam Book Participation Form - Help Guide
 ## Purpose
 This form is used to collect information about the user's participation in an event or activity.

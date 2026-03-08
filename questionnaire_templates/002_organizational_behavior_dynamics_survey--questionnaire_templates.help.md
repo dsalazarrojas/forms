@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information on an individual's perceptions of their organizational behavior and dynamics. This form is intended to help assess the current state of an organization's culture, leadership, communication, and team performance. It is not meant to be a comprehensive or scientifically validated assessment tool but rather a quick and informal way to gather feedback from team members. Please note that the results of this survey may not be statistically significant or representative of the entire organization.
-
-To complete this form, please select one or more responses for each question, depending on the type of question (multiple-choice or single-choice questions will have different response requirements).
-
-</thinking>
-
 # Organizational Behavior Dynamics Survey - Help Guide
 ## Purpose
 This form is designed to gather information on an individual's perceptions of their organizational behavior and dynamics.

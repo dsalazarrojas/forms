@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information on coal blending operations. It is intended for use by operators or quality control personnel to record details about a specific coal blend, including batch information, target and measured parameters, and any quality issues or concerns. The form is used to ensure consistency and accuracy in coal blending operations.
 
 ## Coal Blending Input Form - Help Guide

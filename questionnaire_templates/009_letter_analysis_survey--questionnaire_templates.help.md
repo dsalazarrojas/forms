@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Letter Analysis Survey - Help Guide
 ## Purpose
 The Letter Analysis Survey is a form designed to assess the quality and clarity of a letter's content, tone, and overall effectiveness. It aims to gather feedback from reviewers on the letter's strength and weaknesses, providing insights for improvement.

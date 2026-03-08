@@ -1,9 +1,3 @@
-<thinking>
-
-The form is for product research, specifically designed to gather information about a product's target market and product launch details. The form will be used to collect relevant data about products that will help in making informed decisions for product launch and research. To ensure that the form is being used correctly, please only fill out the form once for each product, as duplicate entries may cause confusion and affect the accuracy of the data collection. 
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the product you are researching, including its target market, launch details, and research findings. This form is meant to assist you in making informed decisions for product launch and research.

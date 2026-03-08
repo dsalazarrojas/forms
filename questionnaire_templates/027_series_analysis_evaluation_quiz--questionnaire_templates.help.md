@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to gather feedback on a series from a teacher or critic who has watched or read it. The purpose of the form is to assess the series' analysis, focusing on various aspects such as its development, plot structure, and overall quality. The form is designed to be completed by one individual, and the information gathered will be used to provide feedback and improve the series.
-
-The fields in this form should not be filled out by someone who has not watched or read the series, as their responses may be based on incomplete or inaccurate information.
-
-It is assumed that the person filling out the form has a strong understanding of the series and can provide in-depth analysis of its various aspects.
-
-Before filling out this form, the individual is encouraged to have read or watched the entire series in order to provide honest and informed feedback.
-
-It is also worth noting that this form is not a substitute for a comprehensive evaluation or review process, and any feedback gathered from this form should be considered as supplementary information.
-
-</thinking>
-
 # Series Analysis Evaluation Quiz - Help Guide
 
 ## Purpose

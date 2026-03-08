@@ -1,5 +1,3 @@
-<thinking>This form, "Cult Warning Signs Checklist," aims to help identify potential signs of cults or manipulative groups. It's designed to guide individuals in assessing situations where they may be dealing with a cult or a manipulative group. The form does not collect any sensitive or personal information, and it is not affiliated with or endorsed by any form platform. It is an original adaptation created using public survey topic metadata. The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.</thinking>
-
 # Cult Warning Signs Checklist - Help Guide
 ## Purpose
 The "Cult Warning Signs Checklist" is a tool designed to help individuals identify potential warning signs of cults or manipulative groups. This form is meant to be used by anyone who suspects they or someone else may be in a manipulative group or a cult.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather data on the contexts in which elections are held. Specifically, it is intended to capture information on various aspects of elections, including participation, information sources, perceived fairness, barriers to participation, benefits of participation, administration, civic engagement, barriers to civic engagement, outcomes of elections, and benefits of civic engagement. Before proceeding, ensure that you have a clear understanding of these concepts and the context in which you are answering this form. Please note that some of these questions are optional and may not be applicable to your specific situation.
-
-</thinking>
-
 # Election Contexts Survey - Help Guide
 ## Purpose
 The Election Contexts Survey is designed to collect data on the contexts in which elections are held, covering various aspects of participation, information sources, fairness, and outcomes.

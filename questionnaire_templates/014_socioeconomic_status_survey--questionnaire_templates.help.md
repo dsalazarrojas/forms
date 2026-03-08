@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Socioeconomic Status Survey form, we need to determine the form's purpose and ensure it is relevant to the end users' needs. 
-
-The form's purpose is to collect data on a household's socioeconomic status, which includes various factors such as income, household size, education level, employment status, assets, debts, savings, years in residence, type of dwelling, and various other household characteristics. This information is likely used for research, policy-making, or other organizational purposes.
-
-Let's review the provided YAML fields to identify any potential issues such as duplicates or irrelevant fields.
-- The form appears to be well-structured, with each field having a corresponding label and hint.
-- However, some fields such as "household_income_1" and "household_income_6" seem to be duplicates. We'll need to decide which one to keep.
-- Some fields like "household_utilities_16" and "household_waste_disposal_17" have similar labels but different meanings. This might be a good opportunity to clarify their labels to avoid confusion.
-- There are multiple fields related to household characteristics, such as "household_type_14" and "household_tenure_15". These fields are likely meant to capture different aspects of a household's status. We'll need to ensure they're distinct.
-- The form has many fields with similar labels and types, such as "household_assets_9" and "household_utilities_16", "household_waste_disposal_17" and "household_water_source_18". We'll need to differentiate their purposes and descriptions.
-- There's a "household_other_25" field with a label "Other" that seems out of place. Considering its type is "note", it might be more suitable to place it at the end of the form.
-</thinking>
-
 # Socioeconomic Status Survey - Help Guide
 ## Purpose
 The Socioeconomic Status Survey is a form designed to collect data on a household's socioeconomic status. This information is used for research, policy-making, or other organizational purposes.

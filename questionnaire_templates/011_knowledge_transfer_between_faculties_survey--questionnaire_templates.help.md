@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and insights on the process of knowledge transfer between faculties within an organization. It is used to gauge the effectiveness of current methods and identify areas for improvement. This form is not meant to be filled out by multiple individuals simultaneously, so please only submit one response per person. This form is used for internal purposes only and the information gathered will not be shared publicly.
-</thinking>
-
 # knowledge_transfer_between_faculties_survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback and insights on the process of knowledge transfer between faculties within an organization. It aims to gauge the effectiveness of current methods and identify areas for improvement.

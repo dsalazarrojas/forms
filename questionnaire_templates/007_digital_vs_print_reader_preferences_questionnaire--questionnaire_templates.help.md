@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_vs_print_reader_preferences_questionnaire - Help Guide
 ## Purpose
 This form, "digital_vs_print_reader_preferences_questionnaire," is designed to gather information about an individual's reading habits and preferences. The goal is to collect data on how often, where, and in what format individuals read, and the reasons behind their preferred reading methods.

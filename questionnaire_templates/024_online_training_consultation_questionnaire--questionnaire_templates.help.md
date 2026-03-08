@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Training Consultation Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about you and your training goals, progress, and preferences in order to provide a personalized online training consultation. The consultation will help you create a tailored training plan that meets your specific needs and goals.

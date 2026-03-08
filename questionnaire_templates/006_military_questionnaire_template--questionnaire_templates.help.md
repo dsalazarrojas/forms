@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from service members, including their personal, employment, medical, and contact details. It is used to gather relevant data for administrative purposes. Please ensure that you have the necessary permissions and authorization to collect and process this information. This form is not intended for use with sensitive or protected information, and you must verify that it is compliant with local regulations and standards. Before using this form, please review and understand the data collection and usage policies of your organization.
-</thinking>
-
 # military_questionnaire_template - Help Guide
 ## Purpose
 This form is designed to collect personal, employment, medical, and contact information from service members for administrative purposes.

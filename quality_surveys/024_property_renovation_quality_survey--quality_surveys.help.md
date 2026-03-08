@@ -1,17 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Property Renovation Quality Survey form. This form is designed to gather user feedback on the quality of a property renovation project. The purpose of this form is to collect information on the performance of the contractors, communication, and overall quality rating of the renovation. The form will be completed in multiple pages, each with its own section of questions. We will need to review the form fields carefully to ensure that each one is clear and easy to understand.
-
-The form will be completed in a linear fashion, with each page building upon the previous one. Users will need to answer each question carefully, as their responses will be used to provide feedback on the property renovation project. The form will be available to all users, and there is no requirement that they complete all pages or answer all questions.
-
-The form fields will be as follows:
-- Property Renovation Quality Survey Page 1: This page is an introduction to the form and will likely be a note field.
-- Contractor Performance: This page will be a select-one question with options for "Yes" and "No", which will ask whether the user was satisfied with the performance of the contractor.
-- Quality Rating: This page will be a select-multiple question with options for "Good" and "Poor", which will ask the user to rate the quality of the renovation.
-- Communication: This page will be a select-one question with options for "Yes" and "No", which will ask whether the user was satisfied with the communication from the contractor.
-- Property Renovation Quality Survey Page 5: This page will be another note field, likely used for additional comments or feedback.
-
-</thinking>
-
 # Property Renovation Quality Survey - Help Guide
 ## Purpose
 The Property Renovation Quality Survey is designed to gather user feedback on the quality of a property renovation project. This form will help us understand what aspects of the project were done well and where we can improve.

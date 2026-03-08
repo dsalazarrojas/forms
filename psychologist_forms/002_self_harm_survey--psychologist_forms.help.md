@@ -1,5 +1,3 @@
-<thinking>This self-harm survey form is designed to assess the frequency and severity of self-harm behaviors and the effectiveness of prevention strategies. It will help us gather valuable insights into how individuals who self-harm navigate the risks, emotions, and experiences related to their condition. Please note that this form is a confidential and non-judgmental assessment tool. All responses will be kept anonymous to protect your identity and promote open and honest communication about a sensitive topic.</thinking>
-
 # Self Harm Survey - Help Guide
 ## Purpose
 The Self Harm Survey is a confidential and non-judgmental assessment tool designed to gather insights into how individuals who self-harm navigate the risks, emotions, and experiences related to their condition.

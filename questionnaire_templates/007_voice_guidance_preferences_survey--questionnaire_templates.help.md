@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about the user's preferences and experiences with voice guidance. The purpose of this survey is to understand how often users interact with voice guidance, their satisfaction level with it, and their accessibility and feature priorities. This information will be used to improve the design and functionality of voice guidance in our product. Please note that this survey is intended for end-users who have interacted with voice guidance in our product, and the information collected will be used to inform product development decisions.
-
-Before proceeding, ensure that you have not completed this survey previously. If you have, your responses will not be recorded and the survey will not be resubmitted.
-</thinking>
-
 # Voice Guidance Preferences Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences and preferences with voice guidance. The data collected will help us improve the design and functionality of voice guidance in our product.

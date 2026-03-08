@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect property management information from end users. The form is used to capture details about properties, including contact information, property type, status, address, and any additional information. It is not intended for use as a formal application or submission of property listings. This information will be used internally within the organization for property management purposes. 
-</thinking>
-
 # Property Request Form Template - Help Guide
 ## Purpose
 The Property Request Form Template is designed to gather property management information from end users. Please use this form to provide details about your properties, ensuring that we can efficiently manage them within our organization.

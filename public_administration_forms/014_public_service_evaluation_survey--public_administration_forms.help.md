@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-The `public_service_evaluation_survey` form is designed to help administrators evaluate the public services provided by the organization. It is used to gather feedback and ratings on the quality of service from the public. This form is typically used to identify areas of improvement and make necessary adjustments to the service delivery process. It is an essential tool for the administration to gauge the effectiveness and satisfaction of public services.
+# The `public_service_evaluation_survey` form is designed to help administrators evaluate the public services provided by the organization. It is used to gather feedback and ratings on the quality of service from the public. This form is typically used to identify areas of improvement and make necessary adjustments to the service delivery process. It is an essential tool for the administration to gauge the effectiveness and satisfaction of public services.
 
 </thinking>
 

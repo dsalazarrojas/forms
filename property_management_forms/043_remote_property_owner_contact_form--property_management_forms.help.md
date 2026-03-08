@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate remote property owners to provide contact information and details about their property. The form is intended to collect data from property owners who are not physically present at the property location. The purpose of this form is to enable the property management team to reach out to the owner for any necessary information or updates. The form should only be used for legitimate reasons, such as providing property maintenance or repair updates, or to clarify any property-related issues.
-</thinking>
-
 # Remote Property Owner Contact Form - Help Guide
 ## Purpose
 The Remote Property Owner Contact Form is designed to allow property owners to provide contact information and details about their property, enabling the property management team to reach out to them for any necessary updates or information.

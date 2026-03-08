@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to gather feedback on the technical documentation of a product or service. It is meant to be completed by end users who have experience with the product, and is used to identify areas of improvement and gather insights on how to better serve the user base. 
-The form is not meant to be a comprehensive survey, but rather a quick and easy way to gather general feedback on the technical documentation.
-
-It is recommended to only complete this form if you have had some experience with the product, and if you are familiar with the technical documentation.
-
-Please note that this form will be treated as an anonymous form, and your responses will not be used to contact you directly. 
-
-Please ensure that the fields are accurately filled with the correct information. 
-
-The responses to this form are meant to be used for the betterment of the product and its users.
-
-</thinking>
-
 # technical_product_documentation_feedback_questionnaire - Help Guide
 ## Purpose
 

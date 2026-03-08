@@ -1,13 +1,3 @@
-<thinking>
-This help guide will provide a clear and concise explanation of the "Strategy Workshop Questionnaire" form, which is designed to gather information from users for a strategic workshop. 
-
-The purpose of this form is to collect relevant details from users to help them prepare for the workshop, ensuring that they are adequately prepared and have a clear understanding of the workshop's objectives. 
-
-The form is structured into sections, each with its own unique fields and requirements. 
-
-Before completing the form, please make sure that you have reviewed the entire form and that you have not completed it previously, as some sections may have been updated or changed. 
-</thinking>
-
 # Strategy Workshop Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from users for the purpose of preparing for the strategic workshop. It will help you and the workshop organizers understand your needs and expectations, ensuring that you are well-prepared and have a clear understanding of the workshop's objectives.

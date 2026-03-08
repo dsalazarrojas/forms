@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to assess the productivity and effectiveness of systems used in a team or organization. It is designed to gather information on various aspects of these systems, including tool usage, team communication, availability, engagement, impact, process clarity, satisfaction, data collection, form submission data, and next steps. This form should be used by team members or stakeholders to provide their input and feedback on the systems in place. It is recommended to review this form carefully before submission to ensure all necessary information is provided. Please note that this form is not meant to be a comprehensive assessment, but rather a snapshot of current status. 
-</thinking>
-
 # Productive Systems Assessment - Help Guide
 
 ## Purpose

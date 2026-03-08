@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from residents about their experiences with housing accessibility. It's likely intended for use in a housing or real estate context, possibly for property managers or owners to gather insights into how well their properties meet accessibility standards. The form should help identify areas for improvement and provide valuable data for future planning and decision-making.
-</thinking>
-
 # Housing Accessibility Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from residents about their experiences with housing accessibility. It will help property managers or owners identify areas for improvement and inform future planning decisions.

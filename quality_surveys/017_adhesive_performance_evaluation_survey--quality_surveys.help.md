@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from evaluators about the performance of a specific adhesive product. The goal is to assess how well the adhesive adheres, its ease of application, durability, and overall satisfaction. This form will help identify areas for improvement in the product's performance. Please ensure that the information provided is accurate and relevant to the evaluation being conducted. Before submitting, ensure that your survey responses are not duplicates or outdated data.
-
-This survey is not intended for general feedback or comments about unrelated products. Only responses about the specific adhesive being evaluated should be submitted.
-
-This form collects data that will be used to improve and refine the adhesive product, so be as specific as possible with your answers.
-</thinking>
-
 # Adhesive Performance Evaluation Survey - Help Guide
 
 ## Purpose

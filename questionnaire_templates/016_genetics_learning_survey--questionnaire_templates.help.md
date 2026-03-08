@@ -1,15 +1,3 @@
-<thinking> 
-
-The purpose of this form is to collect feedback and demographic information from users who have participated in a genetics course. The form is designed to be completed by students or course leaders. The goal is to gather valuable insights on the effectiveness of the course and identify areas for improvement.
-
-This form will likely be used in an academic or educational setting, perhaps as part of a program evaluation or course evaluation process. It may be used by instructors, course administrators, or program leaders to gather feedback from students, which can be used to inform decisions on course improvements, resource allocation, or program development.
-
-This guide is intended for students or course leaders who are completing the form. Please ensure that all fields are filled in accurately and thoroughly, as your feedback is valuable to the instructors and program leaders who will be using this information.
-
-Please note that some fields may not be applicable to everyone, but all fields are optional. If you're unsure about a particular field, try to provide the best answer you can, and we'll do our best to help clarify any doubts.
-
-</thinking>
-
 # Genetics Learning Survey - Help Guide
 ## Purpose
 ## How To Complete This Form

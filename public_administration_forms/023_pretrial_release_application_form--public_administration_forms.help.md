@@ -1,8 +1,3 @@
-<thinking>
-This form is used to apply for pretrial release, a legal process that allows an individual to be released from pretrial detention before their trial. This form is used by the public administration to assess the eligibility of the individual for pretrial release. It is essential to ensure that the information provided is accurate and complete to avoid duplication of effort and ensure that the application is processed correctly. The form should not be filled out by individuals who are not eligible for pretrial release.
-
-</thinking>
-
 # Pretrial Release Application Form - Help Guide
 ## Purpose
 The Pretrial Release Application Form is used to apply for pretrial release, a legal process that allows an individual to be released from pretrial detention before their trial.

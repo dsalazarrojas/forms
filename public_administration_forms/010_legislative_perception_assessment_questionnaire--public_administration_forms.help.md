@@ -1,19 +1,3 @@
-<thinking>
-This form was created to assess the overall perception of local government services. It's intended for citizens to provide feedback on their experiences with their local government, helping identify areas for improvement and gauge the effectiveness of public administration.
-
-To avoid duplication and ensure relevance, this form focuses on the following aspects:
-
-* Quality of services provided
-* Transparency and accountability
-* Performance in addressing social and economic issues
-* Citizen engagement and interaction with the government
-* Online services and their effectiveness
-* Customer support
-
-Please ensure that all questions and answers are relevant to your local government. This form is not affiliated with any form platform, and its content is based solely on public survey topic metadata.
-
-</thinking>
-
 # Legislative Perception Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from citizens on their perceptions of local government services. Your responses will help identify areas for improvement and enhance the overall quality of services provided.

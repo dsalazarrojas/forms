@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rental_property_management_permission_form - Help Guide
 ## Purpose
 The rental property management permission form is used to grant permissions to individuals or companies to access and perform specific activities on rental properties. This form is essential for managing access to rental properties, ensuring that only authorized personnel can perform certain tasks or access specific information.

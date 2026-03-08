@@ -1,7 +1,3 @@
-<thinking>
-To ensure the quality and relevance of the data collected with this form, we should confirm that it is only used for scenario-based technical interviews, and that each submission is a unique and original response. Please note that the following explanation might not cover all possible scenarios or edge cases that could arise in real-world application of this form.
-</thinking>
-
 # Scenario Based Technical Interview Question Form - Help Guide
 ## Purpose
 The **Scenario Based Technical Interview Question Form** is designed to collect data on scenario-based technical interview questions. This form is meant to be filled out by a candidate after being presented with a technical problem, allowing the interviewer to assess the candidate's problem-solving skills and technical abilities.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help the user identify their tech personality type by asking a set of questions that cover their relationship with technology, level of experience, areas of interest, technical skills, motivations, work style, preferred role in a team, and personality traits. By completing this form, the user will receive a tech personality type classification and gain insights into their strengths and weaknesses in the tech industry.
-</thinking>
-
 # Tech Personality Quiz - Help Guide
 ## Purpose
 The Tech Personality Quiz is a tool designed to help users understand their unique tech personality type. It's not a formal psychological assessment, but rather a fun and interactive way to gain insight into what drives you, what motivates you, and what makes you tick in the tech industry.

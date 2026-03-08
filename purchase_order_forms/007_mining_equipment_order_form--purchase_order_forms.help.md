@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to facilitate the ordering and management of mining equipment, capturing essential details such as order form information, equipment specifics, supplier data, delivery coordination, and logistical delivery details. This form will help ensure accurate and timely delivery of mining equipment to clients.
 
 # Mining Equipment Order Form - Help Guide

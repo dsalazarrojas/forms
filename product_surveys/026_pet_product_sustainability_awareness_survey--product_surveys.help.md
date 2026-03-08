@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to collect data on pet owners' perceptions and behaviors related to pet sustainability. The purpose of this form is to gauge the awareness and importance of sustainability in the pet industry, and to gather insights on how often pet owners purchase eco-friendly pet products. 
-
-The form will ask questions about pet ownership, product purchasing habits, and sustainability concerns, as well as demographic information. The data collected will help the pet industry understand its current state of sustainability and identify areas for improvement.
-
-To ensure the integrity of the data, we will be checking for duplicates and non-submissions. 
-
-</thinking>
-
 # Pet Product Sustainability Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect data on pet owners' perceptions and behaviors related to pet sustainability, with the goal of understanding the current state of sustainability in the pet industry and identifying areas for improvement.

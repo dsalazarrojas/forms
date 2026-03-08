@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Career Services Impact Questionnaire - Help Guide
 ## Purpose
 This form is designed to gauge the impact of university career services on students and recent graduates. It is used to gather feedback and assess the effectiveness of these services in achieving their intended goals.

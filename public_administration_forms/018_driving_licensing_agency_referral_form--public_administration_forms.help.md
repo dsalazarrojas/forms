@@ -1,15 +1,3 @@
-<thinking>
-
-To ensure this form is filled out correctly and relevant data is captured, let's first clarify its purpose and usage guidelines.
-
-This form is designed to capture information about a driving licensing agency's referral to another organization. The agency's contact information and data on its employees is crucial in this context. It's best to use this form when you're in charge of a referral process, and you need to gather details from the agency to proceed with the referral.
-
-Before using this form, double-check that you're not already in possession of the necessary information. If so, there's no need to fill it out.
-
-Now, let's break down the form into its sections and fields:
-
-</thinking>
-
 # driving_licensing_agency_referral_form - Help Guide
 ## Purpose
 The driving licensing agency referral form is used to capture information about a driving licensing agency's referral to another organization. This includes details about the agency's contact information, number of employees, and other relevant data.

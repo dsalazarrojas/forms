@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey designed to gather information about participants' interest and preferences. It is used to understand how individuals are likely to engage with the Evolve Challenge project. This form should only be filled out by the participant who is being surveyed, and not by other team members or project administrators. Please fill out the form honestly and thoroughly, and do not skip any fields.
-</thinking>
-
 # Evolve Challenge Interest Survey - Help Guide
 ## Purpose
 The Evolve Challenge Interest Survey is a questionnaire designed to help us better understand your interest and preferences regarding the Evolve Challenge project. Your input will help us tailor the project to your needs and interests.

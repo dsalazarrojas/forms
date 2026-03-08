@@ -1,6 +1,4 @@
-> <thinking>This guide assumes the form is meant to gather user feedback on Public Service Announcements (PSAs) and assess user engagement and response to these announcements. The form likely aims to collect data on the frequency, effectiveness, and reach of PSAs over different time scales. This information will be used by administrators to optimize and improve their PSA strategy. This guide will cover the form's purpose, how to fill it out, and a detailed explanation of each field. Please ensure that each field's label is clear and concise, and the form is easy to understand for users.</thinking>
-
-# Public Service Announcement Survey - Help Guide
+> # Public Service Announcement Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on Public Service Announcements (PSAs) and assess user engagement and response to these announcements. It will help administrators better understand the effectiveness of PSAs over different time scales.
 

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a "home language survey for parents" which aims to assess the language skills of a child at home. This form is used to gather information about the child's language skills in various aspects, such as listening, speaking, reading, writing, communication, math, and problem-solving skills. The purpose of this form is to help parents understand their child's strengths and weaknesses in different areas, which can inform educational and support planning for the child.
-
-This form is designed to collect data that is not necessarily meant to be scored, but rather, it is meant to provide a general understanding of a child's language skills at home. It is not a diagnostic or assessment tool that should be used to make decisions about a child's education or treatment. The data collected from this form can be used to inform educational and support planning, and can help parents identify areas where their child may need extra support.
-
-Please note that this form is not a substitute for professional assessment or evaluation of a child's language skills, and if you are concerned about a child's language skills, you should consult with a qualified professional.
-
-</thinking>
-
 # home_language_survey_for_parents - Help Guide
 ## Purpose
 The "Home Language Survey for Parents" is a tool designed to help parents assess their child's language skills in various aspects, including listening, speaking, reading, writing, communication, math, and problem-solving.

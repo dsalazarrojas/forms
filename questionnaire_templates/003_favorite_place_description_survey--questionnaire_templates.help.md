@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Favorite Place Description Survey - Help Guide
 ## Purpose
 The Favorite Place Description Survey is a questionnaire used to collect information about your favorite place. This form is designed to gather details about the place you love, including its category, name, description, location, rating, and memories associated with it.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect reimbursement claims from municipalities for camera equipment used in their administration. It is intended for public use, allowing municipalities to submit claims for reimbursement. The form should not be used for commercial purposes or to collect sensitive information. The form's design and content are based on public metadata and should only be used for municipal camera reimbursement claims.
-</thinking>
-
 # Municipal Camera Reimbursement Claim Form - Help Guide
 ## Purpose
 The Municipal Camera Reimbursement Claim Form is a tool for municipalities to submit claims for reimbursement of camera equipment used in their administration. This form collects essential information about the claimant, their contact details, camera equipment, and submission documents.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about the global citizenship education from various stakeholders, including educators, NGOs, researchers, and others. The form is intended to collect data on their familiarity with, opinions on, and feedback about global citizenship education. The form is not intended to collect personal data but rather to gather general information about the perceptions and opinions of these stakeholders. Please answer the questions honestly and provide as much detail as possible. This form has multiple sections for each stakeholder group, so please answer all questions within each section before proceeding to the next.</thinking>
-
 # Global Citizenship Education Survey - Help Guide
 
 ## Purpose

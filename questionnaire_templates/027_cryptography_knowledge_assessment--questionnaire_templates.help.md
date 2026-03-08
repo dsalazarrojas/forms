@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to evaluate the user's knowledge and understanding of various cryptography concepts. The form will guide the user through a series of questions, asking for their knowledge on different aspects of cryptography, such as types of cryptography, key exchange methods, key management methods, and encryption algorithms. It's essential to have a basic understanding of cryptography to fill this form accurately and effectively. Please fill this form only if you're familiar with the concepts being asked, and do not duplicate any answers as each question is designed to build upon previous knowledge.
-</thinking>
-
 # cryptography_knowledge_assessment - Help Guide
 ## Purpose
 

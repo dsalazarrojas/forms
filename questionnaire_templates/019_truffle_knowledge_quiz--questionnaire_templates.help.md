@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Truffle Knowledge Quiz - Help Guide
 ## Purpose
 The Truffle Knowledge Quiz is designed to gather opinions and preferences related to truffles, a type of fungi. It is intended to understand users' familiarity with truffles, their favorite flavors, shapes, and usage patterns. The quiz is meant to be a fun and engaging way to collect data and gather insights about truffles.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and consistently by all employees. To avoid duplication of effort, we should check if a similar form already exists or if the purpose of this form is already covered by another tool. This form is intended to gather feedback from employees on the tools used for communication, and it's essential that the form is used to gather accurate and honest feedback. This form is not meant to be a one-size-fits-all solution, so please review and adjust the form fields as needed to suit your organization's specific needs.
-</thinking>
-
 # Employee Communication Tools Satisfaction Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on the communication tools used in the organization. It helps identify areas of satisfaction and areas for improvement for employee communication tools.

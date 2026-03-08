@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect data from users about a TV show design survey. The purpose of this form is to gather information from users about their proposed TV show ideas, including demographics, target audience, proposed series name, series type, and other relevant details. This form is intended for internal use only and is not meant to be filled out by external users.
-
-Before filling out this form, please make sure that the information you are providing is accurate and relevant to your proposed TV show idea. If you have already submitted a similar form, please do not resubmit the same information, as it will not be recorded in the system.
-
-Please fill out this form carefully, making sure to provide as much detail as possible about your proposed TV show. If you have any questions or concerns about the form, please do not hesitate to contact us.
-</thinking>
-
 # TV Show Design Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your proposed TV show ideas. Please fill out this form to provide as much detail as possible about your idea.

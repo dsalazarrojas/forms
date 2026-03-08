@@ -2,8 +2,6 @@
 ## Purpose
 This form is designed to collect information about a person's nutrition and general health habits, medical history, and contact details. It is meant to gather data for a specific purpose, such as health assessment or research. Please note that this form is not intended for emergency medical situations, and it is recommended to seek medical attention if you have an urgent health concern.
 
-<thinking>Before filling out this form, please ensure that you are not duplicating the information and that it is relevant to your situation. If you are unsure about any of the questions or fields, please contact the administrator for further guidance.</thinking>
-
 ## How To Complete This Form
 To complete this form, simply follow these steps:
 

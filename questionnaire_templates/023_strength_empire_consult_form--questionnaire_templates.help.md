@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to capture general information from users about their strengths and goals. This form will be used to help the Strength Empire team better understand user needs and create personalized guidance for their users. 
-This form will not serve any practical use outside of this purpose, meaning the fields within this form will only be used internally within the Strength Empire system.
-</thinking>
-
 # Strength Empire Consult Form - Help Guide
 ## Purpose
 The Strength Empire Consult Form is designed to collect user information for the Strength Empire team to create tailored guidance for each user. Please take a few minutes to fill out this form to help us better understand your strengths and goals.

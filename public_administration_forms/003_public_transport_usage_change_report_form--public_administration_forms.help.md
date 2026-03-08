@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for reporting changes to public transport usage. The purpose of this form is to gather information about changes to public transport usage from users. This form should only be filled out by users who have made changes to public transport usage and want to report them. Please fill out this form completely and accurately, and do not duplicate reports.
-
-</thinking>
-
 # Public Transport Usage Change Report Form - Help Guide
 ## Purpose
 This form is used to report changes to public transport usage.

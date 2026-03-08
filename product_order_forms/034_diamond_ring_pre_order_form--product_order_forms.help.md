@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assist users in pre-ordering diamond rings. It's likely that the form will be used by customers interested in purchasing a custom-made diamond ring. To confirm, the form's purpose is to collect customer information, ring details, and other relevant data related to the pre-ordering process. This form will not be duplicating any existing forms, as the metadata suggests it's a custom creation. The form's design and structure seem to align with a user-friendly experience, making it suitable for end-users.
-</thinking>
-
 # Diamond Ring Pre Order Form - Help Guide
 ## Purpose
 

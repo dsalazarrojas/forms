@@ -1,7 +1,3 @@
-<thinking>
-We are checking if the form "Weekly Progress Check In" has a clear purpose and if it's not a duplicate form in our system. The purpose of this form is to collect information about learner's progress, participation, and goals, and it's used to track the progress of learners in our platform. We have checked the form and it's unique, so we can proceed with creating the help guide.
-</thinking>
-
 # Weekly Progress Check In - Help Guide
 ## Purpose
 The "Weekly Progress Check In" form is designed to collect information about learner's progress, participation, and goals. This form is used to track the progress of learners in our platform.

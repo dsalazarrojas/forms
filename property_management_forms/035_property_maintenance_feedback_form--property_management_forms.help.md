@@ -1,10 +1,3 @@
-<thinking>
-Please consider the following:
-* This form is designed for property maintenance feedback. 
-* It is likely to be used by property owners or managers to provide input on the condition and maintenance needs of a property.
-* Each field is designed to collect specific information about the property.
-</thinking>
-
 # Property Maintenance Feedback Form - Help Guide
 ## Purpose
 

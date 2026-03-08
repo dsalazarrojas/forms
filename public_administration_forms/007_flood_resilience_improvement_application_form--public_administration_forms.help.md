@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Flood Resilience Improvement Application Form", we should first understand the purpose and requirements of the form. The form seems to be designed to gather information related to flood resilience improvements, likely for a project or initiative aimed at enhancing the ability of properties or communities to withstand and recover from flood events. 
-
-We will need to ensure that the form is completed by users who are familiar with the context and purpose of the form, and that the questions asked are relevant and practical for the intended use case.
-
-We will also need to check that the form is not being completed by users who are not authorized or do not have the necessary information to provide accurate and meaningful answers. This might involve implementing additional checks, such as authentication or validation of the user's role or permissions.
-
-Once we have a clear understanding of the form's purpose and requirements, we can proceed to create a user-facing help guide that is concrete, concise, and practical.
-</thinking>
-
 # Flood Resilience Improvement Application Form - Help Guide
 ## Purpose
 This form is used to gather information from authorized users to support flood resilience improvements. If you are not authorized to complete this form, please contact your administrator for assistance.

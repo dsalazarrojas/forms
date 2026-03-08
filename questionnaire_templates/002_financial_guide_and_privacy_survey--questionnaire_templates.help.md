@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect financial guidance preferences and privacy comfort levels from users. It is intended to be completed by end-users who need to express their opinions on financial guidance and privacy settings for an organization or service. The form should not be used as a template for other forms or projects, as it is specific to the purpose of financial guidance and privacy settings.
-
-This guide is intended to assist users in completing the form successfully and effectively. If you have previously completed this form, you may not need to review the guide in its entirety. Please review the sections below for specific guidance on each section.
-</thinking>
-
 # Financial Guide And Privacy Survey - Help Guide
 ## Purpose
 This form is designed to collect financial guidance preferences and privacy comfort levels from users to better understand their needs and provide tailored guidance.

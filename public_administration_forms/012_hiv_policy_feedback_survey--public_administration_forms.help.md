@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to solicit feedback on the HIV policy from users in a public administration context. The purpose of the form is to gather information about the effectiveness and implementation of the policy, as well as identify areas for improvement. This form is intended for public administration officials to gather insight into the policy's effectiveness and challenges faced by users in different regions. It is a feedback mechanism to inform policy decisions and improvements.
-</thinking>
-
 # HIV Policy Feedback Survey - Help Guide
 ## Purpose
 The HIV Policy Feedback Survey is a tool to gather information about the HIV policy's effectiveness and challenges faced by users in different regions. It is a feedback mechanism for public administration officials to inform policy decisions and improvements.

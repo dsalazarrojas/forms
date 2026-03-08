@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gauge the impact of household size on various aspects of family life. It is designed to collect information about the number of people in a household, their income, and how they live and care for their children. The form also inquires about the type of family structure, living arrangements, and location of the household. Additionally, it asks about the household's history, including its size at different points in the past. This form is likely used to inform decisions about family policy or resource allocation. Before filling out this form, please ensure you have all the necessary information and are answering based on your own household. You may be asked for information about households with different numbers of members, so please be as accurate as possible in your responses.
-</thinking>
-
 # Family Size Impact Quiz - Help Guide
 ## Purpose
 The Family Size Impact Quiz is designed to collect information about the number of people in a household and their impact on various aspects of family life, such as finances and the environment.

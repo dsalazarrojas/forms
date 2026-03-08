@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to pre-order a drone model. The form is intended for individuals who are interested in purchasing a drone and need to provide their personal details, drone preferences, and order specifics. This form is not intended for general inquiries or comments. Please fill out the form accurately and thoroughly to ensure that your order is processed correctly. Before submitting the form, make sure you have filled out all required fields. If you have any doubts or uncertainties about a specific field, please reach out to our support team.
-</thinking>
-
 # Drone Model Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to pre-order a drone model. It is intended for customers who are interested in purchasing a drone and need to provide their personal details, drone preferences, and order specifics.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect feedback from customers on the pricing of a product or service. The purpose of this form is to gather information on how well the customer understands the pricing of the product or service, whether it is clear and fair, and what suggestions they may have for improvement. This form is likely to be used in a business-to-consumer or business-to-business setting, where the company wants to understand customer perception of their pricing strategy. It is possible that this form is part of a larger survey or feedback mechanism.
-
-To avoid duplication of effort and ensure that the correct information is collected, it would be essential to verify that this form is not part of another survey or feedback mechanism.
-
-</thinking>
-
 # Customer Feedback On Pricing - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on the pricing of a product or service, aiming to gather information on customer understanding, pricing clarity, and suggestions for improvement.

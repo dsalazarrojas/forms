@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # demographic_information_consent_form - Help Guide
 
 ## Purpose

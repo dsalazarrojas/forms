@@ -1,9 +1,3 @@
-<thinking>
-The Student Reflection Form is a tool designed to gather information about students' thoughts, feelings, and experiences in a specific class. This form is likely used by teachers to collect feedback from students about their classes, allowing them to reflect on their progress, challenges, and successes. The data collected through this form can help teachers tailor their instruction and create a more personalized learning environment. Before proceeding with this guide, ensure that you are using the correct version of the form as it may have variations depending on the context.
-
-This guide is intended for end-users who will be filling out the form. Please read through it carefully to understand the purpose and how to properly complete the form.
-</thinking>
-
 # Student Reflection Form - Help Guide
 ## Purpose
 The Student Reflection Form is a tool designed to gather information about students' thoughts, feelings, and experiences in a specific class. This form helps teachers collect feedback from students about their classes, allowing them to reflect on their progress, challenges, and successes.

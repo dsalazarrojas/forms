@@ -1,7 +1,3 @@
-<thinking>
-Please review the provided YAML to understand the form's purpose and fields. The form is called "COVID 19 Recovery Assessment Form" and is intended to assess patients' recovery status after COVID-19. The fields are categorized into various sections, including patient information (patient_full_name), recovery dates (recovery_start_date), physical symptoms (energy_level_scale, persistent_symptoms_list, respiratory_status_cat, exercise_tolerance_level), mental health (mental_health_summary), medication information (medication_changes_text), follow-up appointments (follow_up_appt_date), and healthcare team communication (healthcare_team_concerns, monitoring_acknowledgment). This form aims to collect detailed information about the patient's recovery process, including their energy levels, symptoms, and interactions with their healthcare team. To avoid duplication, this form might be used as a follow-up assessment after an initial patient consultation. Please ensure that the patient's data will be treated with confidentiality and care.
-</thinking>
-
 # COVID 19 Recovery Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your recovery status after COVID-19. Please fill out the form thoroughly and accurately to help your healthcare team monitor your progress and provide better care.

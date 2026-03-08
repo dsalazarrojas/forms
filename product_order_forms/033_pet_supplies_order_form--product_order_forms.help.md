@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to gather information from users about their pets and the supplies they need to order. The form is likely used in a pet store or veterinary clinic setting.
-The form should not be filled out by users with no pets or who do not have a clear understanding of the supplies they are ordering for.
-The form is likely used in conjunction with other forms or tools that manage pet and supply data.
-</thinking>
-
 # pet_supplies_order_form - Help Guide
 ## Purpose
 This form is used to gather information about a user's pet and the supplies they need to order. It is designed to be completed by pet owners to provide accurate and efficient ordering information.

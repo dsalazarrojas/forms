@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback on the quality of a digital assessment, soliciting opinions from users on its overall impression, difficulty level, relevance, clarity, and overall quality. The feedback collected will help identify areas of improvement for future assessments.
-
-</thinking>
-
 # Digital Assessment Feedback Quality Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the quality of a digital assessment, aiming to identify areas of improvement for future assessments.

@@ -1,15 +1,3 @@
-<thinking>
-To create an effective help guide for the "Legislative Meeting Feedback Survey", we need to consider several things: 
-1. The form's purpose and relevance.
-2. The user's goals and expectations.
-3. The form's complexity and scope.
-4. The user's familiarity with the form fields.
-5. The user's level of technical expertise.
-6. The user's language and cultural background.
-
-This guide should be clear, concise, and easy to read. It should also be reviewed for accuracy and consistency.
-</thinking>
-
 # Legislative Meeting Feedback Survey - Help Guide
 ## Purpose
 The Legislative Meeting Feedback Survey is designed to gather information from participants on their experiences, feedback, and expectations for future meetings.

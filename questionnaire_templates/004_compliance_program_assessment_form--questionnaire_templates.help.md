@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the compliance program of an organization, evaluating its effectiveness in risk assessment, monitoring, reporting, training, and overall performance. The form is intended to provide a structured evaluation framework for program assessors to provide a comprehensive view of the program's strengths and weaknesses. This form is not affiliated with any form platform, but rather an original adaptation based on public survey topic metadata. Please use this form to assess your compliance program and provide feedback for improvement.
-</thinking>
-
 # Compliance Program Assessment Form - Help Guide
 ## Purpose
 The Compliance Program Assessment Form is designed to evaluate the compliance program of an organization, focusing on its key aspects such as risk assessment, monitoring, reporting, staff training, and overall performance. This form helps program assessors provide a comprehensive and structured evaluation of the program's strengths and weaknesses.

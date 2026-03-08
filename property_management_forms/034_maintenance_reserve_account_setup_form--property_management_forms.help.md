@@ -1,9 +1,3 @@
-<thinking>
-The Maintenance Reserve Account Setup Form is used to create a new maintenance reserve account for the property. This form is used by property administrators to set up and manage maintenance reserve accounts. 
-The form will be used to input details such as the title, category, description, and file output for the new account. The purpose of this form is to provide a structured and organized way to manage maintenance reserve accounts for the property.
-To avoid duplication, this form should only be used to set up new maintenance reserve accounts, not to edit or update existing ones. 
-</thinking>
-
 # Maintenance Reserve Account Setup Form - Help Guide
 ## Purpose
 The Maintenance Reserve Account Setup Form is used to create a new maintenance reserve account for the property.

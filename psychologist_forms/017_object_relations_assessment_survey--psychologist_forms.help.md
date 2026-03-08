@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess an individual's object relations, which is a concept in psychology that refers to the internal working models or representations of the self and others. This concept is used to understand how individuals perceive and interact with others, and how their relationships influence their thoughts, feelings, and behaviors.
-
-The form is designed to gather information on the individual's current relationships, patterns of relating to others, emotions and thoughts, and how these aspects impact their daily lives. The data collected through this form will help psychologists and therapists to better understand the individual's object relations and provide more effective guidance and support.
-
-To confirm, this form will not collect any sensitive or confidential information that may compromise the individual's identity or relationships. The form is designed to be a general assessment tool for educational and research purposes.
-
-</thinking>
-
 # object-relations-assessment-survey - Help Guide
 ## Purpose
 The object-relations-assessment-survey is a tool designed to assess an individual's object relations, gathering information on their current relationships, patterns of relating to others, emotions, and thoughts.

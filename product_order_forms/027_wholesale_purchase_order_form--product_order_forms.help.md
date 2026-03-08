@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for wholesale purchase orders from customers. It's intended to be completed by customers or internal users when placing orders for large quantities of products. The purpose of this form is to capture relevant details about the customer and the order, including contact information, order specifics, and product information. This form should only be used for wholesale purchases, and not for general customer inquiries or other types of orders.
-
-Before creating a purchase order, ensure that the necessary internal processes and approvals are in place. This form should not be used to place individual customer orders or retail purchases.
-</thinking>
-
 # wholesale_purchase_order_form - Help Guide
 ## Purpose
 The wholesale purchase order form is used to collect information for large quantity purchases from customers. This form is intended for wholesale orders and should not be used for individual customer orders or retail purchases.

@@ -1,5 +1,3 @@
-<thinking>...The Foundation Assessment Survey is a tool designed to help assess the condition of a building's foundation. This form is likely to be used by builders, inspectors, or maintenance personnel to gather information about a building's foundation to determine its condition, type, and other relevant details. This survey is not a substitute for a professional inspection, and its results should not be used for official purposes without verification by a qualified expert. Ensure that you complete this form accurately and thoroughly to ensure that the assessment is as reliable as possible. Ensure that you understand the purpose and scope of this form before proceeding. If you are unsure about any of the questions or answers, please seek clarification before continuing.</thinking>
-
 # Foundation Assessment Survey - Help Guide
 ## Purpose
 The Foundation Assessment Survey is a tool designed to gather information about a building's foundation. This form helps assess the condition, type, and other relevant details of a building's foundation.

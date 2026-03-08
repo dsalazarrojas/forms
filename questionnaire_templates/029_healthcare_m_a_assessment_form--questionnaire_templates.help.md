@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Healthcare M&A Assessment Form" is to collect and assess information about a target company in the healthcare industry for mergers and acquisitions (M&A) purposes. This form is designed to help the user identify and assess key characteristics of the target company, including its size, location, M&A status, and risk factors. The form is intended to be completed by an authorized user to ensure accuracy and consistency in the assessment. Please ensure that this form is only completed for its intended purpose and does not duplicate or override existing assessments.
-</thinking>
-
 # Healthcare M&A Assessment Form - Help Guide
 ## Purpose
 The Healthcare M&A Assessment Form is a comprehensive guide to assess a target company in the healthcare industry for M&A purposes.

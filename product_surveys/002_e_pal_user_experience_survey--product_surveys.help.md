@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of the E Pal User Experience Survey is to gather feedback from users about their experience with E Pal, a platform that likely offers various features and services across different categories (Finance, Health, Technology, etc.). This feedback will help the developers to identify areas of improvement, understand user behavior, and make data-driven decisions to enhance the overall user experience.
-
-To ensure that the data collected is accurate and relevant, we should consider the following:
-
-* Users are only surveyed once to avoid duplication of feedback.
-* The survey should not be filled out by people who are not familiar with E Pal, as they might not be able to provide meaningful feedback.
-* The survey is anonymous, but the information collected should be kept confidential to maintain user trust.
-
-</thinking>
-
 # e_pal_user_experience_survey - Help Guide
 ## Purpose
 The e Pal User Experience Survey is designed to collect feedback from users about their experience with E Pal, a platform that offers various features and services across different categories.

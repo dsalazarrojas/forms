@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this Risk Appetite Assessment Questionnaire is to assess an individual's risk tolerance and financial goals, in order to understand their investment preferences and risk management approach. This form is designed to help individuals identify their comfort level with risk and investment horizon, as well as gather their financial goals and contact information.
 
 Before starting, ensure this form is relevant to your needs and not a duplicate of any previous assessment.

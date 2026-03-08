@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the purpose of setting up a study app. It is intended to be a general-purpose form that can be used by anyone interested in setting up a study app, whether they are a student, teacher, or administrator. The form is not specific to a particular study or project, and its purpose is to gather basic contact information and preferences for the study app. This form should only be used once per user.
-</thinking>
-
 # Study App Setup Survey - Help Guide
 ## Purpose
 This form is designed to collect basic contact information and preferences for setting up a study app.

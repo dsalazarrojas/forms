@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Innovative Product Design Voting Form - Help Guide
 
 ## Purpose

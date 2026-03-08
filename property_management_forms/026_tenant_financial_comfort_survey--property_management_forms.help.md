@@ -1,5 +1,3 @@
-<thinking>...This form is designed to assess the financial comfort and stability of tenants in a rental property. It inquires about their current rent, perceptions of rent levels, payment habits, financial concerns, and safety nets. The form aims to gauge tenants' financial resilience and identify potential issues or needs for support. By understanding these factors, property managers or landlords can tailor their services to better accommodate individual tenants' situations and foster a more supportive and responsive community... </thinking>
-
 # Tenant Financial Comfort Survey - Help Guide
 ## Purpose
 The Tenant Financial Comfort Survey is a tool used to assess the financial comfort and stability of tenants in a rental property.

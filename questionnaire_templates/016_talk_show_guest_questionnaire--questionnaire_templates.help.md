@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is to collect information about a potential guest's availability, topic preferences, and other details to facilitate booking and participation in a talk show or similar event. This form should be used by talk show organizers to streamline the guest selection process.
-</thinking>
-
 # Talk Show Guest Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather essential information from potential talk show guests, making it easier for event organizers to find the best fit for their show.

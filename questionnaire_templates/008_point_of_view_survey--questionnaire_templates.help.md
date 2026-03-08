@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide clarity and precision, I'll assume some fields like "hint" and "type" refer to general form design principles and don't have explicit internal meaning in this context.
 
 # Point Of View Survey - Help Guide

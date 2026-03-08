@@ -1,5 +1,3 @@
-<thinking>Damage Report For Common Areas form is meant to help staff and management report damage to common areas in the building. This form ensures that all incidents are documented properly, allowing for efficient tracking and assessment of damages. It also helps ensure that the same damage report is not duplicated or ignored. This form should be used when a common area has sustained some kind of damage. The report should be completed as soon as possible after the damage is discovered. When filling out this form, please note that some fields are not required.</thinking>
-
 # Damage Report For Common Areas - Help Guide
 
 ## Purpose

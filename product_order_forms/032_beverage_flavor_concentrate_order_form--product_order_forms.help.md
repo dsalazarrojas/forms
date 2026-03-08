@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beverage Flavor Concentrate Order Form - Help Guide
 
 ## Purpose

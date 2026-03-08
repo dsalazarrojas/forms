@@ -1,6 +1,3 @@
-<thinking>
-This form is for gauging the level of foreign conflict awareness among employees. The purpose of this form is to collect information on individual's awareness and perceptions of potential or ongoing conflicts that may have an impact on their work or organization. This form is not a requirement for all users, but rather an optional tool for employees to express their opinions and concerns. Please ensure that you are completing this form for your own personal reflection and that your responses will be treated as confidential. If you are unsure about any aspect of this form, please contact your supervisor or HR representative for guidance. Also, make sure to review the form carefully before proceeding to avoid duplication of answers.</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 ## Purpose
 The Foreign Conflict Awareness Survey is a self-assessment tool for employees to express their opinions and concerns about potential or ongoing foreign conflicts that may impact their work or organization. This form is meant to be completed by employees who are interested in exploring their awareness and perceptions of these conflicts.

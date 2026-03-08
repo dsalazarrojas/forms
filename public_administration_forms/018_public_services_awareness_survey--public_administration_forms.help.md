@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used by public administrators or government agencies to assess the awareness and satisfaction of public services among the population. The form's purpose is to collect data on how people are aware of and utilize public services, and what challenges they face in accessing them.
-</thinking>
-
 # Public Services Awareness Survey - Help Guide
 ## Purpose
 The Public Services Awareness Survey is a tool used by public administrators to gauge the awareness and satisfaction of public services among the population.

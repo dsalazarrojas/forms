@@ -1,10 +1,3 @@
-<thinking>
-This help guide aims to provide a clear understanding of the Early Childhood Behavior Questionnaire form. The form is designed to assess the behavior and development of children in early childhood, focusing on adaptive and self-help development, self-maintenance, and adaptive development. The purpose of the form is to collect data on the frequency of various behaviors in children, which can be used to identify potential areas of concern or strengths. This form is intended for use in educational or clinical settings where assessing child development is crucial.
-
-To ensure the form is used correctly, it's essential to understand the context and intent behind each question. This guide will walk you through each field, explaining its purpose and what the answers mean.
-
-</thinking>
-
 # Early Childhood Behavior Questionnaire - Help Guide
 ## Purpose
 The Early Childhood Behavior Questionnaire is a tool designed to assess the behavior and development of children in early childhood. It focuses on the frequency of various behaviors, including adaptive and self-help development, self-maintenance, and adaptive development.

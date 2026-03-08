@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for project teams to assess their readiness for project execution. It's meant to be filled out by project managers or team members to gauge the project's progress, confidence, and overall execution readiness. The form has two parts: project-related questions and status-related questions. Please fill out the form carefully, ensuring that you're answering all required fields. If you're unsure about any of the questions or fields, please contact the project lead or project manager for clarification.
-
-</thinking>
-
 # Project Execution Readiness Survey - Help Guide
 
 ## Purpose

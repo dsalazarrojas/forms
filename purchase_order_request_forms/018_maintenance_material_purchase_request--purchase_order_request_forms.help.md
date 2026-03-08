@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to request maintenance materials for maintenance purposes. The form is used by maintenance personnel to submit requests for purchase of materials needed for maintenance tasks. This form ensures that the maintenance team can accurately track and record the materials requested, their quantities, and purchase dates. This form should only be used for legitimate maintenance requests and not for other purposes such as purchasing office supplies or other non-maintenance materials.
-
-To prevent duplication of forms, please check if a similar request has been submitted in the past before filling out this form. If you are unsure, contact the maintenance team for verification.
-</thinking>
-
 # Maintenance Material Purchase Request - Help Guide
 ## Purpose
 The Maintenance Material Purchase Request form is used to submit requests for maintenance materials needed for various maintenance tasks.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Rights Assessment Form - Help Guide
 ## Purpose
 The Personal Rights Assessment Form is used to evaluate a person's awareness, confidence, and environment regarding their personal rights. The form helps to identify gaps in knowledge, areas of improvement, and provides a platform for educators, counselors, and community team members to provide feedback and guidance.

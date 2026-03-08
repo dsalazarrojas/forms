@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's geography app idea submission. This includes details such as the type of user, the description of the app, the category it falls under, the features it has, the target audience, the platform it's available on, the follow-up method, the status of the review, the date of submission, and contact information.
-To ensure the quality of submissions, we check for relevance and non-duplication to avoid receiving duplicate or irrelevant ideas.
-</thinking>
-
 # Geography App Idea Submission - Help Guide
 ## Purpose
 This form is designed to collect information about your geography app idea submission. Please fill out the form completely and accurately to help us review and understand your idea.

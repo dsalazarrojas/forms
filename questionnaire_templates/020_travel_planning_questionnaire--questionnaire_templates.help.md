@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## travel_planning_questionnaire - Help Guide
 ## Purpose
 The travel planning questionnaire is designed to collect information about travel plans, such as destination, travel dates, duration of stay, budget, and travel frequency. This form helps to understand user preferences and requirements for planning purposes.

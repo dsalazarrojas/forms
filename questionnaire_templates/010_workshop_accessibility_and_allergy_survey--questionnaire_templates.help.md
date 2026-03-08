@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workshop Accessibility And Allergy Survey - Help Guide
 
 ## Purpose

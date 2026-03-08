@@ -1,7 +1,3 @@
-<thinking>
-This form is a feedback tool for supervisors to provide feedback on visits, which are typically conducted by supervisors who have oversight or guidance roles. The form is intended for recording and tracking the outcomes of visits, including any issues discussed or actions taken. To complete this form, a supervisor should only submit feedback for visits that actually occurred. If a visit has not yet taken place or if the supervisor is providing feedback on a past visit, they should not fill out this form.
-</thinking>
-
 # Supervised Visit Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from supervisors about the outcomes of visits. The goal is to collect information about the purpose of the visit, the main issue discussed, and any other relevant details. The supervisor's name, email, phone number, visit date, and visit time can also be entered.

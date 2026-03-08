@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Progressive Counting Survey - Help Guide
 ## Purpose
 The Progressive Counting Survey is designed to gather information about individuals' counting abilities and strategies. This form is intended to collect data on how people count by tens, fives, or a combination of both, and their confidence and ability in counting.

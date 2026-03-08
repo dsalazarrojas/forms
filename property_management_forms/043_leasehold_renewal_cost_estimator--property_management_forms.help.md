@@ -1,11 +1,3 @@
-<thinking>
-This form is used to estimate the cost of leasehold renewal, which is the process of renewing a property lease. The purpose of this form is to gather information about a property and its lease details to provide a rough estimate of the costs involved in renewing the lease. This form is designed to be user-friendly and help users quickly and easily provide the necessary information to get an estimate.
-
-Before filling out this form, ensure that you have all the necessary information about the property and its lease. The form is not intended to be a comprehensive and definitive cost estimate, but rather a starting point for further investigation and discussion with the property professional handling the leasehold renewal process.
-
-Please note that some fields are not required, and the form is not intended to be a rigid and inflexible process. The goal is to provide a general idea of the costs involved, and the more information you provide, the more accurate the estimate will be.
-
-</thinking>
 # Leasehold Renewal Cost Estimator - Help Guide
 ## Purpose
 This form is used to estimate the cost of leasehold renewal, which is the process of renewing a property lease.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect data on best practices and their effectiveness in an organization. The purpose of this form is to gather feedback from employees on their experiences and perceptions of best practices, which will help management identify areas of improvement and implement changes to increase efficiency and productivity. The form is designed to be user-friendly, with clear and concise questions that make it easy for respondents to provide their thoughts and opinions. 
-This form will not collect any personal identifiable information and will be treated as anonymous. 
-Please note that some fields are required and should be filled out accordingly. 
-</thinking>
-
 # Best Practices Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information on best practices and their effectiveness in your organization, helping management to identify areas for improvement and implement changes to increase efficiency and productivity.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emotional And Behavioral Self-Assessment Form - Help Guide
 
 ## Purpose

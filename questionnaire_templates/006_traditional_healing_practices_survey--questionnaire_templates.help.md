@@ -1,7 +1,3 @@
-<thinking>
-Traditional Healing Practices Survey form is used to collect information on individuals' awareness and perception of traditional healing methods. This form is essential in understanding the general public's views on traditional healing methods, their efficacy, and safety. The survey helps identify areas where there may be a need for further education, research, or policy development related to traditional healing practices.
-</thinking>
-
 # traditional_healing_practices_survey - Help Guide
 ## Purpose
 

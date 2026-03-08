@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I'll first need to understand the purpose of the form and the fields it contains. From the provided YAML inputSchema, it appears that this form is designed to collect information for electronic product orders via PayPal. The form has five fields: "product_order_form", "shipping_details", "order_details", "product_info", and "customer_info". However, based on their names, it seems that "product_order_form" and "order_details" might be redundant or at least similar in purpose.
-
-The form's purpose seems to be to gather relevant information for a customer's order, including shipping and customer details. This guide will aim to clarify these purposes and provide clear instructions on how to complete each field.
-
-</thinking>
-
 # Paypal Electronic Product Order Form - Help Guide
 
 ## Purpose

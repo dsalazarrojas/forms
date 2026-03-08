@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to guide the user through the process of creating a custom order for a race medal. It captures relevant details such as medal specifications, artwork requirements, and order information to ensure accurate and timely production. 
-  To avoid duplication, please note that the form is designed to be used once per order.
-  Please review the form carefully and ensure you have all the necessary information before submitting.
-  Please be aware that some fields are required, while others are optional.
-</thinking>
-
 # race_medal_custom_design_order_form - Help Guide
 ## Purpose
 The "race_medal_custom_design_order_form" is a form designed to collect information for creating a custom order for a race medal. This form guides the user through the process of specifying medal specifications, artwork requirements, and order information to ensure accurate and timely production.

@@ -1,14 +1,3 @@
-<thinking>
-
-The purpose of this form is to document the details of a move-in event for a property, including key dates, statuses, and comments from the tenant and property manager. This form is used to maintain accurate and up-to-date records of move-in activities. 
-
-When to use this form: 
-- Tenant move-in or move-out event
-- Property inspection and status updates
-- Communication between property manager and tenant
-
-</thinking>
-
 # Move In Checklist Form - Help Guide
 ## Purpose
 The Move In Checklist Form is a tool used to document the details of a move-in event for a property, including key dates, statuses, and comments from the tenant and property manager. This form is used to maintain accurate and up-to-date records of move-in activities.

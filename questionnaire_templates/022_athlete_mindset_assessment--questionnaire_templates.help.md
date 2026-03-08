@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Athlete Mindset Assessment - Help Guide
 
 ## Purpose

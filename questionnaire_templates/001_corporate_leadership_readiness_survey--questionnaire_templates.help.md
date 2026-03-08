@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to assess the readiness of corporate leaders to take on new challenges, identify areas for personal growth, and provide feedback and suggestions for improvement. The form will be completed by leaders within the organization, and its results will be used to inform leadership development programs and initiatives.
-
-</thinking>
-
 # Corporate Leadership Readiness Survey - Help Guide
 ## Purpose
 The Corporate Leadership Readiness Survey is a tool to help corporate leaders assess their own readiness to take on new challenges, identify areas for personal growth, and provide feedback and suggestions for improvement.

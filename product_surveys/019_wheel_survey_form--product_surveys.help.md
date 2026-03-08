@@ -1,8 +1,3 @@
-<thinking>
-This form will be used for gathering feedback and opinions from users, specifically about a product, its quality, price, and overall impression. The form is designed to be completed by users who have interacted with the product and will ask them to provide their opinions, experiences, and suggestions about the product.
-To prevent data duplication, users can only complete the form once per session. This is to ensure that each user's feedback is unique and helpful for future improvements.
-</thinking>
-
 # Wheel Survey Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from users about a product. It's meant to collect information on the product's overall impression, quality, price, and features, as well as any suggestions or additional feedback the user may have.

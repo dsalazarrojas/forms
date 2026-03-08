@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Interdisciplinary Learning Barriers Survey - Help Guide
 
 ## Purpose

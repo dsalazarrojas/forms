@@ -1,8 +1,3 @@
-<thinking>
-This form was designed using AI to help collect user feedback on design experiences. The goal is to understand how users interact with products or services, what they like or dislike, and what they would like to see improved. By filling out this form, you will be providing valuable insights that can help shape the design of future experiences. Please take a few minutes to answer the questions honestly, and we appreciate your input!
-
-</thinking>
-
 # Experience Based Design Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect your thoughts and experiences about a product or service. Please share your feelings, opinions, and suggestions to help us create a better user experience.

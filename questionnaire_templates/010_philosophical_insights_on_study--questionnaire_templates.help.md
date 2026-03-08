@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture insights on philosophical studies, aiming to understand the underlying motivations and purposes of researchers and individuals conducting such studies. The form is an original creation, not affiliated with any form platform, and is released under a Creative Commons license, allowing for free use, modification, and commercialization. It is intended for users to provide input on the purpose, motivation, personal growth, researcher's purpose, study methodology, and other aspects of philosophical studies.
-
-</thinking>
-
 # Philosophical Insights on Study - Help Guide
 ## Purpose
 The "Philosophical Insights on Study" form is designed to gather information on the underlying motivations and purposes of philosophical studies, aiming to provide a better understanding of this complex subject. This form is not a traditional survey or questionnaire but rather a tool to elicit meaningful insights from users.

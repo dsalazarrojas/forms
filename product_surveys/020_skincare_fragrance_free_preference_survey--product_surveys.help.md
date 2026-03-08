@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to gather user preferences and information related to skincare and fragrances. The form is designed to collect data on users' preferences, habits, and concerns regarding skincare and fragrances. It is likely used for market research or to better understand customer needs in the skincare industry. The form does not appear to be used for any specific product or service promotion, but rather as a general survey to gather user insights.
-
-The form is composed of various fields that ask users to select or input information related to their skin type, fragrance preferences, skincare habits, and concerns. Some fields are required, while others are optional. It is possible that the form is used to identify potential customers or users who have specific preferences or concerns that could be targeted with tailored products or services.
-
-Before completing the form, it is essential to understand the purpose and context in which it is being used. If you are unsure about the form's intent or purpose, please contact the form's administrator or the organization responsible for its creation.
-
-After understanding the form's purpose, users can proceed to complete it accurately and honestly. Each field is explained below for clarity and guidance.
-
-</thinking>
-
 # Skincare Fragrance Free Preference Survey - Help Guide
 ## Purpose
 The Skincare Fragrance Free Preference Survey is a tool designed to gather information about your preferences and habits related to skincare and fragrances. This survey will help us understand your needs and concerns, allowing us to provide more tailored advice and recommendations.

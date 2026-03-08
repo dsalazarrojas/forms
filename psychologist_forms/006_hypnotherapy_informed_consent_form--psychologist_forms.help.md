@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, our goal is to clearly explain each field on the hypnotherapy_informed_consent_form in a way that is easy to understand and follow. This form is used for patients to provide informed consent for hypnotherapy treatment, including sharing medical records and personal details. It is crucial to understand the purpose and requirements of this form to ensure accurate and complete information. Before proceeding, please confirm that this form is relevant to your needs and that you have not filled out a similar form previously.</thinking>
-
 # hypnotherapy_informed_consent_form - Help Guide
 ## Purpose
 The hypnotherapy_informed_consent_form is a form designed for patients to provide informed consent for hypnotherapy treatment. It includes sections for patient information, treatment details, and emergency contact information. This form helps ensure that the patient is aware of and agrees to the terms of their treatment.

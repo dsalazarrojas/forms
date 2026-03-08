@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to create a self-report personality test questionnaire. As a self-report personality test, it aims to collect information from the user about their personality traits, preferences, or attitudes. This type of test is commonly used in psychology and social sciences to study human behavior and identify patterns. Please ensure that the form is being completed honestly and accurately, as the results may be used to inform research, personal development, or other applications.
-
-Before starting to complete this form, please note that it is divided into multiple pages, each with its own set of questions. The form does not require any special skills or knowledge to complete, and you can stop at any page if you need to. However, please make sure to answer all questions to the best of your ability and without any biases.
-
-This form is generated based on public survey topic metadata, and it does not rely on any proprietary content or data. It is intended to be a free resource for educational or research purposes, and it is released under a CC BY 4.0 license. If you need help or have questions about the form, please contact: form@gic.mx
-</thinking>
-
 # Self Report Personality Test Questionnaire - Help Guide
 ## Purpose
 

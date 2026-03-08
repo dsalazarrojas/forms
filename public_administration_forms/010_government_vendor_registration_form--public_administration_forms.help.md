@@ -1,5 +1,3 @@
-<thinking>Government Vendor Registration Form is used to register vendors who want to provide services or goods to the government. Vendors are expected to fill out the form accurately and truthfully. Please review the fields carefully to ensure you have filled out the form completely and correctly. Ensure you do not register the same vendor multiple times.</thinking>
-
 # Government Vendor Registration Form - Help Guide
 ## Purpose
 This form is used to register vendors who want to provide services or goods to the government.

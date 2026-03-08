@@ -1,5 +1,4 @@
-> <thinking>...</thinking>
-This is the "Local Government Services Feedback Questionnaire" form. The purpose of this form is to gather feedback from citizens about their experiences with local government services. This form is intended to help the administration understand what services need improvement and what areas of improvement are most important to citizens. It is used by public administrators to gather data that will inform future service development and delivery.
+> This is the "Local Government Services Feedback Questionnaire" form. The purpose of this form is to gather feedback from citizens about their experiences with local government services. This form is intended to help the administration understand what services need improvement and what areas of improvement are most important to citizens. It is used by public administrators to gather data that will inform future service development and delivery.
 
 # Local Government Services Feedback Questionnaire - Help Guide
 ## Purpose

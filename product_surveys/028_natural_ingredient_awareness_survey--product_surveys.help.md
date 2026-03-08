@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a survey instrument designed to gauge consumers' perceptions of natural ingredients used in products. The form likely aims to collect data on how well consumers are aware of natural ingredients and their perceived attributes, such as health benefits, sustainability, and quality. The survey is composed of multiple fields that ask about various aspects of natural ingredients, including their awareness, importance, and impact on consumers. To ensure that the form is completed accurately, the following instructions should be followed:
-
-</thinking>
-
 # naturalIngredientAwarenessSurvey - Help Guide
 ## Purpose
 This form is a survey designed to measure consumer awareness and perceptions of natural ingredients used in products.

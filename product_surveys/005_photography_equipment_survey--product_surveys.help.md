@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide a clear and concrete explanation of the form's purpose, how to complete it, and each field's meaning to ensure users understand how to utilize the Photography Equipment Survey form effectively.
-</thinking>
-
 # Photography Equipment Survey - Help Guide
 ## Purpose
 The Photography Equipment Survey is designed to gather feedback from customers and users about their experiences and opinions on our photography equipment. The form aims to understand users' satisfaction levels, purchasing intentions, and preferences regarding our products, ultimately helping us to improve our offerings and services.

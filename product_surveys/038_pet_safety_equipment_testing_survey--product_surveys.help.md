@@ -1,22 +1,3 @@
-<thinking>
-The form purpose is to gather information on pet safety equipment testing from end users. This form is part of a product survey, which suggests that the data collected will be used to improve the design and functionality of pet safety equipment. The form is likely to be used by pet owners or professionals in the pet industry to provide feedback on their experiences with testing pet safety equipment. 
-
-This form seems to be a basic survey form with a mix of text and select input types. The form does not have any specific validation or error handling mechanisms, which suggests that the form is designed for simple data collection purposes only.
-
-The form fields are: 
-1. Product name 
-2. Product type 
-3. Testing location 
-4. Testing method 
-5. Testing frequency 
-6. Testing duration 
-7. Results 
-8. Comments 
-
-The form fields do not seem to be highly complex or sensitive, so the help guide should be straightforward and easy to follow. 
-
-</thinking>
-
 # Pet Safety Equipment Testing Survey - Help Guide
 ## Purpose
 The Pet Safety Equipment Testing Survey is designed to gather information on pet safety equipment testing from end users. This survey aims to improve the design and functionality of pet safety equipment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for uploading purchase order data for processing and tracking. The form's fields are designed to collect relevant information, including purchase order data, vendor information, delivery details, and supporting documents. This form is created to facilitate efficient and accurate data collection for the specified industry or category. Before proceeding, ensure that all required information is complete and accurate to avoid duplication and ensure a smooth processing experience. Please note that this form is not associated with any proprietary form platforms and is released under CC BY 4.0 license for use and modification.
-</thinking>
-
 # Purchase Order Data Upload Form - Help Guide
 ## Purpose
 This form is designed to collect and process purchase order data for your organization. It is intended to be used for uploading purchase orders, providing essential information for efficient processing and tracking.

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Fashion Store Chatbot Survey form. The purpose of this form is to collect data on customers' preferences, demographics, and shopping habits to improve the fashion store's customer experience and tailor its services accordingly. This guide is provided to ensure that users understand the form's purpose, how to complete it, and what each field means.
-
-Please note that this help guide is specific to the Fashion Store Chatbot Survey form and is not a general guide for all forms.
-
-</thinking>
-
 # Fashion Store Chatbot Survey - Help Guide
 ## Purpose
 The Fashion Store Chatbot Survey is designed to collect information about customers' preferences, demographics, and shopping habits to improve the fashion store's customer experience.

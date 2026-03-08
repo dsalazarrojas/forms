@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are looking to find a movie using the Movie Search Form. The purpose of this form is to gather information about the user's search preferences, which will be used to display relevant movie recommendations. This form is meant to be a simple and user-friendly way to search for movies based on various criteria such as genre, rating, and director. The form will not store any personal data and will only be used to provide recommendations, so users can rest assured that their information is safe.
-</thinking>
-
 # Movie Search Form - Help Guide
 ## Purpose
 This form is designed to help you find movies based on your search preferences.

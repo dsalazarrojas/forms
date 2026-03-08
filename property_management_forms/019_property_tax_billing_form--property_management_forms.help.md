@@ -1,10 +1,3 @@
-<thinking>
-This help guide is meant to provide a clear and concise explanation of the Property Tax Billing Form. Before diving into the guide, let's quickly review the form's purpose and ensure it's not a duplicate of another form. The Property Tax Billing Form is used to collect information related to property tax billing, including the property owner, type, and tax amount. The form also captures details about the submitter, such as their name, email, and phone number. Each field in this form has been carefully designed to provide necessary information for property tax billing purposes.
-
-The form consists of several sections, each containing multiple fields. The main objective of this guide is to walk you through each field, explaining its purpose and how to fill it out correctly.
-
-</thinking>
-
 # Property Tax Billing Form - Help Guide
 ## Purpose
 The Property Tax Billing Form is designed to collect information required for property tax billing purposes. It's essential to fill out this form accurately and completely to ensure that your property tax billing is processed correctly.

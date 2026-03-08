@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a questionnaire template for collecting information about countries, languages, and currencies. To confirm, we will assume that the form is intended to capture preferences or characteristics of countries, languages, and currencies.
-The form has multiple pages, but we will focus on the main fields that require user input: "Search Form", "Filter Form", "Result View", "Select Country", "Select Language", "Select Currency", "Country-Lanuage", "Currency Lanuage", "Select Currency-Country". The form also seems to have some duplicate fields, which might be a result of errors in the YAML file. We will try to make sense of them and group them accordingly.
-This form will likely be used to collect information about countries, languages, and currencies that match specific criteria, such as searching for countries with specific languages or currencies.
-</thinking>
-
 # Country Search And Filter - Help Guide
 ## Purpose
 

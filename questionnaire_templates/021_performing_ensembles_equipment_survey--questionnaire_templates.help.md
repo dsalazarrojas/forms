@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to help administrators and maintenance staff gather information about the equipment used in performing ensembles. This form is used to collect data on the condition, maintenance, and purchase plans for instruments. It will help staff make informed decisions about the upkeep and replacement of these instruments.
-</thinking>
-
 # Performing Ensembles Equipment Survey - Help Guide
 ## Purpose
 This form is used to collect information about the equipment used in performing ensembles, including instrument type, condition, maintenance history, and purchase plans.

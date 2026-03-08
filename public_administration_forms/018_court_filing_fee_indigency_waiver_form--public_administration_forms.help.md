@@ -1,15 +1,3 @@
-<thinking>
-This form is likely to be used in a legal context to determine the eligibility of a defendant or litigant for a court filing fee waiver. The form is intended to gather information about the financial situation of the individual, including their income, expenses, and financial aid status, in order to assess their ability to pay court fees. The form may be used by courts or legal aid organizations to assess fee waiver requests. 
-
-The form appears to be part of a larger workflow and is likely to be integrated with other forms and systems to manage court cases and legal aid programs. 
-
-The form has multiple sections and fields, which may include income and expenses calculations, financial aid status, and waiver requests. Some fields may be required, while others may be optional. 
-
-The form's fields are likely to be populated by an individual or their representative, and the information gathered may be used to support or deny fee waiver requests. 
-
-This guide will provide a step-by-step explanation of the form and its fields.
-</thinking>
-
 # Court Filing Fee Indigency Waiver Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This is a form for creating a return order label for customers. The form is used to gather information about a customer's order and return details, such as order details, return details, customer details, return address, return photo, notes, email, and phone number. This form is likely used by an E-commerce platform or a retail business to streamline the return process for customers.
-
-To ensure the form is relevant and not duplicated, it's essential to check with the product team or business stakeholders if there are similar forms or requirements that might overlap with this form. If there are similar forms, this form might be used for specific cases or edge cases where the other forms are not sufficient.
-
-Before using this form, make sure to check the requirements and ensure that all fields are correctly configured to meet the business needs. 
-</thinking>
-
 # e_commerce_return_label_order_form - Help Guide
 ## Purpose
 This form is designed for customers to provide information about their return order label, which will be used for return logistics and customer communication.

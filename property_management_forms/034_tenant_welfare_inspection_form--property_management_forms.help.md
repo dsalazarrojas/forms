@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about the condition of a tenant's property after an inspection. The purpose of this form is to help property managers or inspectors record and report on the condition of the property at the time of visit. This form is typically used by property management teams to ensure that tenants are aware of any maintenance or repair issues that need to be addressed.
-To complete this form, you will need to:
-1. Enter the date and time of your visit to the property.
-2. Enter the name of the tenant or residents in the property.
-3. Identify the unit number of the property being inspected.
-4. Provide a brief description of the condition of the property, either as "Tenant is in good condition" or "Tenant is in poor condition".
-5. Add any additional notes about the property or the visit.
-</thinking>
-
 # Tenant Welfare Inspection Form - Help Guide
 ## Purpose
 The Tenant Welfare Inspection Form is used by property management teams to record and report on the condition of properties after an inspection.

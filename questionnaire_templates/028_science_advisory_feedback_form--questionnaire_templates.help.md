@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for participants who have attended a science advisory session and are being asked to provide feedback on their experience. This feedback will be used to improve future sessions. Please ensure that you answer all questions to provide comprehensive feedback. 
-
-To complete this form, simply fill out the sections below. If you are unsure about any of the questions, feel free to ask for clarification. 
-
-Please be as detailed as possible, especially in the open-ended questions.
-</thinking>
-
 # Science Advisory Feedback Form - Help Guide
 ## Purpose
 The Science Advisory Feedback Form is designed to collect feedback from participants who have attended a science advisory session. This form will help us understand how you experienced the session and what we can do to improve future sessions. 

@@ -1,8 +1,4 @@
-# <thinking>
-This form is a knowledge quiz designed for students and educators to assess their understanding of algae and bryophytes. The form consists of 20 questions that cover various topics related to these biological organisms, including their characteristics, habitats, and contributions to ecosystems. The quiz is intended to be completed by students who have a basic understanding of biology and botany. It is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata.
-</thinking>
-
-# Algae And Bryophytes Knowledge Quiz - Help Guide
+# # Algae And Bryophytes Knowledge Quiz - Help Guide
 ## Purpose
 This form is a comprehensive quiz that evaluates your knowledge on algae and bryophytes, covering their characteristics, habitats, and contributions to ecosystems. It is intended to assess your understanding of these biological organisms and their importance in various environments.
 

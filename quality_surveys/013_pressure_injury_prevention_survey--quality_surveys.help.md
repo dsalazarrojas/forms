@@ -1,7 +1,3 @@
-<thinking>
-This form is a pressure injury prevention survey designed to assess the prevention practices and training needs of healthcare professionals in preventing pressure ulcers. The purpose of this survey is to understand the current state of pressure ulcer prevention in healthcare settings and identify areas for improvement. This survey will help healthcare organizations gather valuable insights into the effectiveness of their prevention practices and training programs, enabling them to make data-driven decisions to optimize their pressure ulcer prevention efforts.
-</thinking>
-
 # Pressure Injury Prevention Survey - Help Guide
 ## Purpose
 This form is designed to collect information on the prevention practices and training needs related to pressure ulcers in healthcare settings. It helps healthcare organizations assess the effectiveness of their prevention practices and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-The Art Gallery Frame And Canvas Order Request Form is designed to collect information from end-users to fulfill their order requests for custom art framing and canvas products. Before proceeding, please ensure you have all the necessary information required to complete the form accurately. This form is meant for one-time use, so please do not submit multiple instances of this form for the same order.
-</thinking>
-
 # Art Gallery Frame And Canvas Order Request Form - Help Guide
 ## Purpose
 The Art Gallery Frame And Canvas Order Request Form is a tool for customers to place orders for custom art framing and canvas products. The form collects essential information required to process and deliver the order correctly.

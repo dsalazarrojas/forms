@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from property owners or managers about the quality of work performed by contractors during property renovations. The form is intended to assess various aspects of the renovation, including the contractor's performance, the quality of work, communication, timeliness, and overall satisfaction. The goal is to gather information that can be used to improve the renovation process and provide feedback to contractors. The form should only be completed by property owners or managers who have recently undergone or are currently undergoing a property renovation.
-</thinking>
-
 # Property Renovation Quality Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from property owners or managers about the quality of work performed by contractors during property renovations.

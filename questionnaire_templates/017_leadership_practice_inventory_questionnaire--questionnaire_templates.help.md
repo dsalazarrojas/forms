@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a person's leadership practice and habits. The purpose of this form is to gather information about the individual's self-evaluation of their leadership skills, practices, and areas for improvement. This form is not intended for use in high-pressure situations or as a formal evaluation tool. Please answer the questions honestly, and provide as much detail as possible in your answers. This form should only be completed by one person at a time. 
-</thinking>
-
 # leadership_practice_inventory_questionnaire - Help Guide
 ## Purpose
 The leadership practice inventory questionnaire is a self-evaluation tool used to assess an individual's leadership skills and practices. It is intended to help individuals identify their strengths and areas for improvement.

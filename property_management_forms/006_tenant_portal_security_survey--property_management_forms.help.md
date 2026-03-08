@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from tenants about their experiences and perceptions of the building's security features and incident response time. It will help identify areas of improvement and ensure that the building management has a better understanding of the tenants' needs and concerns.
-
-The form is divided into several sections that cover various aspects of the building's security, facilities, and services.
-
-Before filling out this form, please note that you will be asked to answer each question according to your personal experience and knowledge about the building and its management.
-
-It is not necessary to answer every question, but it is recommended to provide as much information as possible to help us better serve you and the community.
-
-Please make sure to provide accurate and honest answers, and avoid leaving any blank fields if possible.
-</thinking>
-
 # Tenant Portal Security Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information from tenants about their experiences and perceptions of the building's security features and incident response time. This will help us identify areas of improvement and ensure that the building management has a better understanding of the tenants' needs and concerns.

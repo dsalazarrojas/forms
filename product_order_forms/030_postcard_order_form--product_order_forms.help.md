@@ -1,9 +1,3 @@
-<thinking>
-This is a form to be used for ordering postcards, a common item sold in various retail settings. Before creating a new form, ensure that you are aware of the product category and quantity you're ordering.
-It's crucial to fill out this form carefully as each field is essential in processing your order.
-This form is designed to be simple and easy to use, but please read the explanations below for further guidance.
-</thinking>
-
 # Postcard Order Form - Help Guide
 ## Purpose
 This form is used to order postcards for your use. Please select the desired options for your order from the fields below.

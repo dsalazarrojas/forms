@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about laptop purchases. It is intended for employees to use to gather essential details about laptop purchases, ensuring accuracy and consistency in our inventory management and procurement processes.
-
-Before filling out this form, please ensure you're not duplicating a previous purchase request or updating an existing record. If you're unsure about a particular purchase, check with the relevant department or team lead for guidance.
-
-</thinking>
-
 # Laptop Purchase Questionnaire - Help Guide
 ## Purpose
 This form is used to collect essential information about laptop purchases, enabling efficient and accurate inventory management and procurement processes.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers on their satisfaction and experience with a product. It is designed to gather information about their level of satisfaction, how they use specific features, and their ideas for improvements. The form is not intended to be filled out by everyone, but rather by customers who have had a significant interaction with the product, such as purchasing it, using it extensively, or experiencing issues with it.
-
-The form is not a survey that is required to be filled out by all customers, but rather an optional way for customers to provide feedback on their experiences. However, the feedback collected through this form is valuable to the product development team and will be used to improve the product and its features.
-
-Before creating a guide for this form, I'll assume it was reviewed internally and that the form's structure and purpose are well-defined.
-</thinking>
-
 # product_metrics_feedback_survey - Help Guide
 ## Purpose
 The product metrics feedback survey is an optional form designed to collect feedback from customers on their satisfaction and experience with a product. This feedback helps the product development team understand customer needs and improve the product and its features.

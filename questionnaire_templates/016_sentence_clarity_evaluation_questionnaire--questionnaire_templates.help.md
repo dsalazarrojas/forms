@@ -1,15 +1,3 @@
-<thinking>
-This form appears to be a questionnaire designed to evaluate the clarity of sentences, specifically assessing various aspects of sentence structure and meaning. The form likely aims to provide a comprehensive analysis of sentence clarity, including factors such as sentence length, meaning, implication, connotation, tone, affect, and emotional impact. The form's structure suggests it is divided into sections for the overall sentence group and specific sentences, allowing users to assess multiple sentences simultaneously. Each section may have multiple questions or options, indicating a detailed evaluation process.
-
-The form's fields and options seem to be designed for users to provide their subjective opinions and ratings on various aspects of sentence clarity. Users may be required to select from multiple-choice options for each field, indicating a need to evaluate and compare different aspects of sentence clarity.
-
-Upon reviewing the form's structure and content, it appears to be designed for a specific task, such as sentence clarity evaluation in a writing context. The form's fields and options suggest a focus on evaluating sentences from different angles, including their meaning, implication, connotation, tone, and emotional impact.
-
-The form's required fields, such as those in sections "form_group_meaning", "form_group_implication", "form_group_connotation", "form_group_tone", and "form_group_emotional_impact", indicate a need for users to provide specific information about the sentence group being evaluated.
-
-Overall, this form appears to be a comprehensive tool for sentence clarity evaluation, designed to help users assess various aspects of sentence structure and meaning.
-</thinking>
-
 # sentence_clarity_evaluation_questionnaire - Help Guide
 ## Purpose
 This form is designed to evaluate the clarity of sentences, assessing their structure and meaning in a comprehensive manner.

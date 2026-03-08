@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-The web_development_client_intake_form is a questionnaire template used to collect information from clients regarding their web development projects. Its primary purpose is to gather essential details about the projects, such as development stack, project status, and contact information. This form is meant to standardize the intake process and ensure that all necessary data is collected consistently. Please ensure that you fill out this form carefully and accurately to avoid duplication of effort and to provide the best possible experience for our clients.
-
-</thinking>
-
 # web_development_client_intake_form - Help Guide
 ## Purpose
 The web_development_client_intake_form is a questionnaire template designed to collect information from clients about their web development projects. It helps our team to understand project specifics, which enables us to provide better services and support.

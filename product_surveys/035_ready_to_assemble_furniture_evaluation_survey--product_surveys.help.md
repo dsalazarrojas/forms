@@ -1,9 +1,3 @@
-<thinking>
-We need to create a help guide for the "ready_to_assemble_furniture_evaluation_survey" form, which appears to be a comprehensive survey aimed at gathering feedback from users who have assembled a product. The form likely collects information on various aspects of the assembling process, including the type of product being assembled, issues encountered, and overall satisfaction with the process. This form is part of a larger feedback mechanism to help product developers and manufacturers identify areas of improvement.
-
-Before creating the guide, I need to ensure that it is not a duplication or unnecessary work. If there are any questions or concerns, please let me know and I will adjust the guide accordingly.
-</thinking>
-
 # ready_to_assemble_furniture_evaluation_survey - Help Guide
 ## Purpose
 

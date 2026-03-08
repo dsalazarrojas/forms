@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about whether a housing services organization chart is being submitted. The purpose of this form is to gather data from the user to determine if they are submitting an organization chart for a housing services department. This is a crucial step in the process, as the submission of an organization chart is a critical component of the housing services department's operations. This form is only necessary for users who have a valid reason to submit an organization chart, and the user must ensure that they have filled out all required fields before proceeding. Please note that some fields are optional, and users are not required to fill out these fields if they do not apply.
-</thinking>
-
 # Housing Services Organization Chart Submission - Help Guide
 ## Purpose
 The purpose of this form is to determine if you are submitting an organization chart for the Housing Services department. This form will help us gather necessary information from you to process your submission.

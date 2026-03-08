@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Instrument Content Validation Form is used to validate and document the content of instruments in our system. This form is used to ensure consistency and accuracy in the rating and validation processes. By filling out this form, you will be able to review and validate instruments, which is crucial for maintaining the quality of our database.
 
 ## Purpose

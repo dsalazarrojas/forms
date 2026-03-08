@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Single Product Order Form - Help Guide
 ## Purpose
 This form is designed to guide users through the process of placing an order for a single product. The form is part of a larger system that facilitates order management and processing.

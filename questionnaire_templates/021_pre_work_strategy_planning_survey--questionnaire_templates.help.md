@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Work Strategy Planning Survey - Help Guide
 
 ## Purpose

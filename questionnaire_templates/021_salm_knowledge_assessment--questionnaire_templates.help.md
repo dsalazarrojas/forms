@@ -1,8 +1,3 @@
-<thinking>
-We're about to create a user-facing help guide for a questionnaire template, "Salm Knowledge Assessment." The template is designed to gather information from users about their knowledge and understanding of Salm, a specific concept or subject matter. The form is likely used for research, surveys, or assessments purposes.
-To confirm, the form consists of 10 questions that cover various aspects of Salm, including its definition, principles, and support methods. There are also sections for contact information and submission confirmation. This guide will explain each step of the form and provide clarity on what to expect.
-</thinking>
-
 # Salm Knowledge Assessment - Help Guide
 
 ## Purpose

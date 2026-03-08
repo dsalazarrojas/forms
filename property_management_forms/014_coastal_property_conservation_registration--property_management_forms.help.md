@@ -1,9 +1,3 @@
-<thinking>
-The form is used for coastal property owners to register their properties for conservation efforts. It's designed to gather information about the property, its owner, and the conservation goals and management practices in place. This form will help coastal conservation organizations and agencies track and support conservation efforts along the coast.
-
-The form should not be filled out by non-coastal property owners.
-</thinking>
-
 # Coastal Property Conservation Registration - Help Guide
 ## Purpose
 The Coastal Property Conservation Registration form is a tool for coastal property owners to provide information about their property and conservation efforts. By filling out this form, you'll help coastal conservation organizations and agencies understand your conservation goals and management practices.

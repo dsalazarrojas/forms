@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from contact lens wearers about their color preferences for contact lenses. The form is part of a customer feedback and survey mechanism to understand customer preferences, behaviors, and interests related to colored contact lenses. The form is meant to be completed by customers who are interested in colored contact lenses and want to provide feedback on their preferences.
-</thinking>
-
 # Contact Lens Color Selection Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a questionnaire template for collecting user input on tea making knowledge. It's intended for users to share their preferences, habits, and experiences with tea making. The form will be used to gather data on various aspects of tea making, including preferred tea type, brewing method, temperature, steep time, sweeteners, additives, serving size, frequency of tea consumption, and tea shop preferences. This template will help in understanding user behavior and preferences related to tea making.
-
-</thinking>
-
 # Tea Making Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to collect information on your tea making habits, preferences, and experiences. Please answer the questions honestly to help us better understand your behavior and provide a more personalized experience for you.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to recommend a property manager to a property owner. The form will ask for the type of property manager (e.g. Property Manager, Facility Manager, Maintenance Worker), the property name, address, and other relevant details. The form will also allow the user to provide additional notes and submit the form for review.
-
-Before filling out this form, please ensure that you have a valid reason for recommending the property manager and that you are authorized to make this recommendation. This form should not be used to duplicate or override existing property manager assignments.
-
-The recommended property manager will be notified and reviewed by the property owner or their representative. They will review and consider the recommendation before making any changes to the property manager assignment.
-
-</thinking>
-
 # Property Manager Recommendation Form - Help Guide
 ## Purpose
 The Property Manager Recommendation Form is used to recommend a property manager to a property owner, allowing them to select the desired type of property manager and provide relevant details for the recommendation.

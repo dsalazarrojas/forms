@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Merchandise Purchase Order" form, ensuring that end-users understand the form's purpose and know how to complete it correctly. To start, let's review the provided YAML fields and ensure the form serves its intended purpose without redundancy or duplication.</thinking>
-
 # Merchandise Purchase Order - Help Guide
 ## Purpose
 This form is used to collect information about merchandise purchases from vendors. It includes fields for vendor details, order details, and merchandise-specific information. The form is designed to facilitate communication and record-keeping between buyers and vendors.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Video Recommendation Form - Help Guide
 ## Purpose
 The Video Recommendation Form is used to collect information about a video, including its category, rating, and video type. This form helps users provide detailed descriptions and recommendations for videos.

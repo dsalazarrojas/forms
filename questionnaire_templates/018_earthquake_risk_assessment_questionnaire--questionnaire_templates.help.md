@@ -1,11 +1,3 @@
-<thinking>
-This form is used to assess the risk of a building or property in the context of earthquake resilience. It appears to be part of a risk assessment process that could be used for insurance or regulatory purposes. It gathers information on the characteristics of the property, its construction, and its usage. The field labels seem to suggest that the form is designed for non-resilient or partially resilient structures. 
-
-This form might be part of a risk assessment process for buildings or properties that could be subject to earthquake-related risks or hazards. It may be used by authorities, insurance companies, or facility managers to gauge the risk exposure of a property and identify potential vulnerabilities.
-
-This form does not seem to assess earthquake risk for properties with a high degree of earthquake resistance or properties that are not subject to earthquake-related risks.
-</thinking>
-
 # Earthquake Risk Assessment Questionnaire - Help Guide
 ## Purpose
 This form is used to assess the risk of a building or property in the context of earthquake resilience.

@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Infection Control And Isolation Assessment Questionnaire form, let's first break down its purpose and ensure that it's not being duplicated.
-
-The purpose of this form is to assess a patient's risk of infection and isolation. It collects information on the patient's name, symptoms, exposure risk, contact trace, and isolation status. This form helps healthcare providers identify potential risks and take necessary measures to prevent the spread of infection.
-
-We want to ensure that this form is not being used for other purposes, such as patient registration or appointment scheduling. To achieve this, we'll focus on explaining each field's purpose and requirements in a way that's easy to understand for end-users.
-
-</thinking>
-
 # Infection Control And Isolation Assessment Questionnaire - Help Guide
 ## Purpose
 The Infection Control And Isolation Assessment Questionnaire is a form used to assess a patient's risk of infection and isolation. It helps healthcare providers identify potential risks and take necessary measures to prevent the spread of infection.

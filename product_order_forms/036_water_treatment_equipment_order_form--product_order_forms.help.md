@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical component of the business process, and its completion is required for the fulfillment of water treatment equipment orders. It's essential to understand that this form serves as the primary means of capturing customer information and order details. Before completing this form, please ensure that you have reviewed the following guidelines to guarantee accurate and complete data entry. Please note that this form is a crucial part of the ordering process and should be completed carefully to avoid any potential issues. If you are unsure about any field, please seek assistance from the relevant personnel.
-</thinking>
-
 # water_treatment_equipment_order_form - Help Guide
 ## Purpose
 The water treatment equipment order form is a necessary step in the ordering process for water treatment equipment. It captures essential customer information and order details to ensure accurate and efficient processing of the order.

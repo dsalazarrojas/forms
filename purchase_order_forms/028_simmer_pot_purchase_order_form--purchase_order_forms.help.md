@@ -1,7 +1,3 @@
-<thinking>
-The Simmer Pot Purchase Order Form is used for customers to place orders for their desired simmer pots. This form allows customers to select their preferred delivery options and payment methods. The form should only be used for orders that are not already in progress or have not yet been placed.
-</thinking>
-
 # Simmer Pot Purchase Order Form - Help Guide
 ## Purpose
 The Simmer Pot Purchase Order Form is a tool for customers to place new orders with Simmer Pot. This form is used to capture essential information needed to complete the order accurately and efficiently.

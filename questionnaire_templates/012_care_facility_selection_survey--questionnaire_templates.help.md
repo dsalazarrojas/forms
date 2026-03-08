@@ -1,9 +1,3 @@
-<thinking>
-**Internal Note:** This form is designed to gather information from potential caregivers or families about their needs and preferences for a care facility. The purpose of this form is to help care facility staff understand the needs and expectations of potential residents and their families, ultimately aiding in the selection process of a suitable facility.
-**Form Duplication Prevention:** Please note that this form should not be completed by the same person more than once. If a repeat submission is made, it is likely an error and should be corrected.
-
-</thinking>
-
 # Care Facility Selection Survey - Help Guide
 ## Purpose
 This survey is designed to help us better understand your needs and preferences for a care facility. Please answer the questions honestly, and we will use this information to find the best suitable facility for you or your loved ones.

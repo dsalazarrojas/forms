@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather information about a tenant's move-out situation. The purpose of this form is to collect details such as the tenant's current property status, the condition of the property during move-out, and other relevant information. This form is likely to be used by property management personnel to track and manage tenant moves.
-
-Before proceeding with this guide, please note that the form has some required fields that must be filled out, while others are optional. Make sure to fill out all required fields accurately and thoroughly.
-
-To avoid duplication, this form is likely to be used for a single property. If you are filling this form for multiple properties, please use separate instances of this form for each property.
-</thinking>
-
 # Tenant Move Out Checklist - Help Guide
 ## Purpose
 This form is designed to gather information about a tenant's move-out situation.

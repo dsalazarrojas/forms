@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online-training-questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from users about their online training preferences, health status, and goals.

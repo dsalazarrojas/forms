@@ -1,7 +1,3 @@
-<thinking>
-This form is an AI-generated questionnaire template, not affiliated with any form platform, and is released under CC BY 4.0. The form's title is "everyday_objects_knowledge_quiz" and it consists of 11 pages with no required fields, each with a label and a type of "text". The purpose of this form is to collect information from users, possibly for research or other purposes. Since there's no information available on the form's specific purpose or the expected answers, it's assumed that users will be answering general knowledge questions related to everyday objects.
-</thinking>
-
 # everyday_objects_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to collect information from users through a series of text-based questions, with a focus on everyday objects.

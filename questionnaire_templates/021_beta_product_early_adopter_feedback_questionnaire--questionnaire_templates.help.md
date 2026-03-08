@@ -1,12 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Beta Product Early Adopter Feedback Questionnaire" form. To confirm, this form is designed to collect feedback from early adopters of a beta product, and the goal is to help us understand their experiences, likes, and dislikes about the product. We'll use this form to gain valuable insights and make improvements. Please fill out the form carefully, and don't hesitate to provide any additional comments or suggestions.
-
-We'll review and verify that this feedback form is not affiliated with, endorsed by, or derived from any form platform, and it's released under CC BY 4.0. This means you're free to use, modify, and share the form.
-
-Now, let's dive into the form's purpose and instructions!
-
-</thinking>
-
 # Beta Product Early Adopter Feedback Questionnaire - Help Guide
 ## Purpose
 

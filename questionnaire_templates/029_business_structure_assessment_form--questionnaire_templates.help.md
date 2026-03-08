@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be an assessment tool designed to evaluate the structure and effectiveness of an organization. The form asks about various aspects of the organization's structure, including clarity, role definition, reporting, communication flow, decision-making process, organizational agility, cross-functional collaboration, accountability, management effectiveness, employee engagement, structure alignment with strategy, and areas for improvement. The form is likely used to help organizations identify areas of strength and weakness in their structure and make informed decisions about necessary changes.
-</thinking>
-
 # Business Structure Assessment Form - Help Guide
 
 ## Purpose

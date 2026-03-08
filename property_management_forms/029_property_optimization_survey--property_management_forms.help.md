@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect data from property owners or managers to help identify areas for property optimization. The purpose of this form is to gather information about the property, its location, type, and other relevant details. The data collected will be used to provide insights and recommendations for property improvement.
 
 The form consists of 8 questions, each with a specific field type. Please note that some questions are optional, and you are not required to answer them if you are not comfortable providing the information.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with a service. The form is intended to gather information about the user's overall experience, the service representative's helpfulness, the quality of the service, the likelihood of recommending the service, and areas for improvement. 
-
-The main goal of this form is to gather feedback that can be used to make improvements to the service. The form asks questions that cover all aspects of the service, ensuring that the user has a chance to provide in-depth feedback. 
-
-The questions are designed to be clear and concise, making it easy for the user to provide their feedback. The form's structure and layout are meant to guide the user through the feedback process, making it easy to complete and submit. 
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI, using only publicly available information about survey topics in the "questionnaires_templates" category. It is an original adaptation and does not use proprietary content from any other form creation or survey platform. The form is released under CC BY 4.0, allowing users to freely use, modify, and distribute it, provided credit is given.
-
-</thinking>
-
 # Service Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with a service. The collected feedback will help the service provider identify areas for improvement.

@@ -1,19 +1,3 @@
-<thinking>
-To determine the purpose of this form, I analyzed the input schema provided. The form is likely used for customers or users to place orders for products that require powder release, which might be related to industrial or commercial powder handling processes.
-
-This form seems to be designed to collect various pieces of information related to the order, such as customer information, contact details, product order, shipping address, order notes, and payment information. The presence of fields like "customer_signature" and "customer_info" suggests that the form may also be used for digital or electronic signatures and additional customer information.
-
-The form has a total of 25 fields, with 16 of them being identical or very similar in name and structure. This could imply that the form is designed to be used for multiple orders or transactions, and the identical fields might be used to store information for each order separately.
-
-Upon closer inspection, the fields are all of type "text", which means they are likely single-line input fields for customers to enter their information. There doesn't appear to be any dropdowns, check-boxes, or other types of fields that would require specific formatting or categorization.
-
-The form does not have any obvious validation or submission logic built-in. This might suggest that the form is meant to be used as a template or a starting point for further processing or validation, possibly through backend integrations or APIs.
-
-Given the structure and content of the form, it seems that this form is a basic data collection tool for orders, possibly for e-commerce or business-to-business (B2B) transactions.
-
-The form's purpose and usage should be further clarified by referencing the original source or context of this form, such as a sales or customer service department within an industrial or commercial powder handling company.
-</thinking>
-
 # Powder Release Product Order Form - Help Guide
 ## Purpose
 The Powder Release Product Order Form is designed to collect information from customers or users for orders related to industrial or commercial powder handling processes.

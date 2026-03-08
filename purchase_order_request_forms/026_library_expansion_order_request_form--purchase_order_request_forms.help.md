@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request library expansions, which are used to expand the library's collection by purchasing new materials or adding new items to the existing collection. 
-This form is for requesting new materials, not for returning or renewing existing library materials. 
-The form is divided into two sections: the branch details and the expansion request details. 
-The branch details section asks for the branch name, address, city, state, and country where the library expansion will be delivered. 
-The expansion request details section includes the type of material needed, the quantity required, the desired delivery date, the desired delivery time, and the contact information for the branch (email and phone number). 
-</thinking>
-
 # Library Expansion Order Request Form - Help Guide
 ## Purpose
 

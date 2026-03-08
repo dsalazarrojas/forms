@@ -1,8 +1,3 @@
-<thinking>
-To create the help guide for the "product_quality_score_request_form" form, we will base our explanation on the fields provided in the YAML schema. The form appears to be designed to collect feedback or ratings from users on the quality of a specific product. The purpose of this form is likely to gather data to improve products or services offered by the company.
-
-</thinking>
-
 # product_quality_score_request_form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the quality of a product. Your input will help us improve our products and services.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users about their preclinical data management practices, tools, and priorities. It will help us understand how users currently manage their data, what tools they use, and what their top priorities are for improvement. This form is not intended to be filled out by users who have not used preclinical data management tools or have limited experience with data management.
-
-</thinking>
-
 # Preclinical Data Management Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information about your preclinical data management practices, tools, and priorities for improvement.

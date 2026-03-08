@@ -1,7 +1,3 @@
-<thinking>
-This form is a Property Appraisal Update Request Form used to update information related to properties. It seems that the form is intended for updating appraisal data for properties that have undergone changes, such as changes in market conditions or property values. To ensure that the form is filled out correctly, please note that the fields are not necessarily mandatory, but providing the most accurate information will help in the update process. It's assumed that the form will be used by authorized users who have the necessary permissions to access the property information. This form will be used to update the property details, including address, type, appraiser information, and other relevant data. Please review the form carefully before filling it out to ensure you have all the necessary information.
-</thinking>
-
 # Property Appraisal Update Request Form - Help Guide
 
 ## Purpose

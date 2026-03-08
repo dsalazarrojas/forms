@@ -1,7 +1,3 @@
-<thinking>
-The Charger Market Research Survey form is designed to gather information about consumers' preferences and experiences with chargers. This data will be used to inform product development and improvement decisions for chargers. Before filling out this survey, please ensure that you have not already completed it or that the information you provide is up-to-date. This survey is intended to capture your current charger usage habits, preferences, and pain points, as well as your likelihood to purchase new chargers in the next 6 months.
-</thinking>
-
 # Charger Market Research Survey - Help Guide
 ## Purpose
 The Charger Market Research Survey is a short survey designed to capture consumer preferences for chargers. It aims to gather information about your charger usage habits, preferred features, and pain points, as well as your likelihood to purchase new chargers in the next 6 months.

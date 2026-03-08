@@ -1,7 +1,3 @@
-<thinking>
-The Property Ownership Declaration Form is a document that serves as proof of property ownership. It's essential for various purposes such as tax returns, legal proceedings, and insurance claims. To ensure accuracy, please make sure you fill out this form carefully and correctly. This form should only be completed by the actual property owner or someone authorized by them to do so.
-</thinking>
-
 # Property Ownership Declaration Form - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a product's magnet, including its name, type, usage habits, satisfaction level, and purchase behavior. The purpose of this form is to gather data about the product's attributes and behavior, which can be used for analysis and improvement purposes. The form is divided into multiple pages, each with a specific set of questions. 
-
-The form does not have any mandatory pages, and the questions are optional, allowing users to fill in as much or as little information as they need. Each question is accompanied by a label and a hint, which are intended to guide the user in filling out the form correctly. 
-
-The form is designed to be user-friendly and easy to understand, with clear labels and options that correspond to the actual question being asked. The only required field is the email field, which is necessary for contact purposes. 
-
-The form also includes questions about the product's name, type, usage habits, satisfaction level, and purchase behavior, which will help in understanding the product's performance and behavior.</thinking>
-
 # Magnet Information Survey - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking> 
-The Craft Yarn Pre Order Form is a form designed to gather information from customers for their pre-orders of craft yarn. The form is intended to collect details about the customer, their order, and payment information. This form is likely used by a business that sells yarn products online or in-person, and is intended to streamline the pre-order process for customers. This form may be used by a business that wants to collect customer information, payment details, and order information all in one place.</thinking>
-
 # Craft Yarn Pre Order Form - Help Guide
 ## Purpose
 The Craft Yarn Pre Order Form is used to gather information from customers for their pre-orders of craft yarn. This includes their contact and delivery details and payment information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product_durability_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the durability of a product. It's meant to help our team understand how well the product can withstand normal usage and potential external factors. Please provide your honest assessment to help us improve our products.

@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended to be a concise and user-friendly resource for completing the Tree Audit Form. Before diving into the form, let's take a moment to understand its purpose and ensure it's relevant to our context.
-
-The Tree Audit Form is designed to gather information about tree properties in a systematic and standardized way. Its main goal is to facilitate quick and efficient audits of tree health, condition, and other important metrics. To use this form effectively, please consider the following questions:
-* Are you currently managing a large number of trees with varying characteristics?
-* Do you need to track and analyze data on tree properties for decision-making or reporting purposes?
-* Are you looking for a structured method to record tree data for future reference or comparison?
-If your answer to any of these questions is yes, this form is likely relevant to your work.
-
-Before we dive into the form fields, take a moment to verify that you're not duplicating efforts. The fields within this form have been carefully designed to cover the essential aspects of tree properties. Double-check that you're not already collecting similar data through other means, such as other forms or reports.
-
-</thinking>
-
 # Tree Audit Form - Help Guide
 ## Purpose
 The Tree Audit Form is a systematic tool designed to gather information about tree properties, facilitating quick and efficient audits of tree health, condition, and other important metrics.

@@ -1,5 +1,3 @@
-<thinking>...I'm thinking about the purpose of this form and checking for any potential conflicts with other forms to ensure we don't have duplicate content. After some thought, I've come up with a good internal reasoning for why we should have this form, and I'm confident it won't overlap with other forms. I'm ready to create the user-facing documentation...</thinking>
-
 # Writing Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to collect information about the writing habits and experiences of users. It's a questionnaire that helps us understand the frequency, enjoyment, and challenges users face when writing. The answers will help us to refine our writing resources and tools to better support our community.

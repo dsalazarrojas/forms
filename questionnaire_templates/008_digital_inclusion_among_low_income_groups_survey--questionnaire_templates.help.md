@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I reviewed the provided form YAML to understand its purpose and structure. The form is designed to collect data on digital inclusion among low-income groups, specifically regarding household income, access to various devices, internet reliability, and the barriers that prevent digital inclusion. To create a user-friendly guide, I'll focus on explaining each field in a clear and concise manner, without assuming additional business logic or context.</thinking>
-
 # Digital Inclusion Among Low Income Groups Survey - Help Guide
 ## Purpose
 This survey aims to gather information about digital inclusion among low-income groups. Your responses will help us understand the current state of digital access and the challenges faced by low-income households in accessing and utilizing digital technologies.

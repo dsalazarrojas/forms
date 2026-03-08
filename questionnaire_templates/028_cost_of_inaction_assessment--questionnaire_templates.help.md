@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication ...
-
-The "Cost Of Inaction Assessment" form is designed to help users evaluate the potential consequences of delaying a project. This form guides users through a series of questions to assess the expected cost of delaying the project, the risk factors involved, and the impact on project outcomes, team morale, and project status.
-
-Before proceeding, ensure that you have a clear understanding of the project's current status and the potential risks associated with delaying it. This form is meant to be used for projects that are already in progress or have been delayed.
-
-... </thinking>
-
 # Cost Of Inaction Assessment - Help Guide
 ## Purpose
 The "Cost Of Inaction Assessment" form is designed to help users evaluate the potential consequences of delaying a project. This form guides users through a series of questions to assess the expected cost of delaying the project, the risk factors involved, and the impact on project outcomes, team morale, and project status.

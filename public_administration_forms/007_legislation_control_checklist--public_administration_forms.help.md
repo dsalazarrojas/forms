@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help organizations and individuals track and manage the control and compliance of legislation within their company. The form is intended to be used by those responsible for reviewing and maintaining up-to-date records of regulatory compliance. By using this form, users can efficiently identify areas of non-compliance and track progress towards achieving active status. This form should not be used for any other purpose or to create multiple forms for the same purpose, as it may lead to redundant and inconsistent data collection.
-</thinking>
-
 # Legislation Control Checklist - Help Guide
 ## Purpose
 The Legislation Control Checklist is a form designed to help organizations and individuals track and manage the control and compliance of legislation within their company. It is used to review and maintain up-to-date records of regulatory compliance.

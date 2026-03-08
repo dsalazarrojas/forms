@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer information and tile order details for the purpose of processing a Fireproof Flooring Tile order. The goal is to ensure accurate and efficient communication between the customer and the company. Please review this form to ensure you understand the required fields and any specific instructions or guidelines.
-</thinking>
-
 # Fireproof Flooring Tile Order Form - Help Guide
 ## Purpose
 The Fireproof Flooring Tile Order Form is a tool for customers to submit their orders and provide necessary information for the order processing process. This form is used to collect contact details, delivery information, and order specifics in order to process the order accurately and efficiently.

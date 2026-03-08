@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Canine Anxiety Assessment Survey - Help Guide
 ## Purpose
 This survey is designed to assess the behavioral, emotional, and situational factors that contribute to canine anxiety. It will gather information about the owner's relationship with their dog, the dog's behavior and characteristics, and the impact of anxiety on the household. This data will help veterinarians and animal behaviorists understand the root causes of canine anxiety and develop effective treatment plans.

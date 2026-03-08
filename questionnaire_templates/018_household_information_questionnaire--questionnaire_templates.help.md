@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Household Information Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about the household, including the head of the household and the number of people living there. The goal is to gather essential data for further analysis and processing.

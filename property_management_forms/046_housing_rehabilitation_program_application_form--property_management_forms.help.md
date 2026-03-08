@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals or families who are applying for the Housing Rehabilitation Program, a program aimed at providing support for housing-related issues. This form will help us understand the applicant's background, housing situation, and preferred method of contact.
-
-Before proceeding, please ensure that you are a genuine applicant for the Housing Rehabilitation Program and have not already submitted an application. Duplicate applications will not be processed.
-
-</thinking>
-
 # Housing Rehabilitation Program Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or families applying for the Housing Rehabilitation Program. Please fill out the form accurately and completely to ensure that your application is processed efficiently.

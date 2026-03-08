@@ -1,10 +1,3 @@
-<thinking>
-Please note that this help guide will cover the purpose of the form, how to complete it, and field-by-field explanations for the "Mobile App Usage Survey" form. This guide assumes that the form has been reviewed for relevance and is not duplicated elsewhere in the system.
-
-The purpose of this form is to collect information about users' mobile app usage habits and preferences. This form is likely used for market research or user experience analysis in the development and improvement of mobile apps. It will help the developers to gain insights into how users interact with their app, what features they like or dislike, and how they use the app in their daily lives.
-
-</thinking>
-
 # Mobile App Usage Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your mobile app usage habits and preferences. Your responses will help us understand how you use our app and identify areas for improvement.

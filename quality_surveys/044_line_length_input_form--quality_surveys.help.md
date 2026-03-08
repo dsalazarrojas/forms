@@ -1,7 +1,3 @@
-<thinking>
-...To ensure the form is being used correctly, please note that the purpose of this form is to collect information related to the length measurements of lines, which can be crucial for various business processes. To avoid duplication, please check if a similar form already exists before submitting the current one. This form is not intended for duplicate or redundant submissions. Please ensure that the information provided is accurate and up-to-date...
-</thinking>
-
 # Line Length Input Form - Help Guide
 ## Purpose
 The Line Length Input Form is designed to collect information related to line length measurements. This form serves as a crucial tool for business processes that require precise measurements.

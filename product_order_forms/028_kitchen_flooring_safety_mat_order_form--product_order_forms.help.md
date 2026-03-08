@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact information and delivery details for a safety mat order. It seems to be a form for a specific industry or product category. Please ensure this form is relevant to your use case and not a duplicate of existing forms.
-</thinking>
-
 # kitchen_flooring_safety_mat_order_form - Help Guide
 ## Purpose
 This form is designed to collect necessary details for placing an order for kitchen flooring safety mats. It includes fields for contact information and delivery details.

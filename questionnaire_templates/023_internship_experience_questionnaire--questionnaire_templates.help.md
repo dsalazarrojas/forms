@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # internship_experience_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your internship experience. It will help us understand your work experience, skills, and achievements during your internship. Please answer the questions honestly and thoroughly.

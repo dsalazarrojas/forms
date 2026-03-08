@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to fill out the "parking_space_reallocation_consent_form" form. This form is used to record the consent and details of parking space reallocation, which is essential for managing parking spaces within an organization.
-
-Before filling out this form, please ensure that you have all the necessary information and approvals required for the reallocation process. It is also recommended that you review the form carefully to avoid any duplication of efforts or incorrect submissions.
-
-This form should not be used for general-purpose parking reservations or requests. If you need to request a parking space, please refer to the standard parking request process.
-</thinking>
-
 # parking_space_reallocation_consent_form - Help Guide
 ## Purpose
 The parking_space_reallocation_consent_form is used to obtain consent and collect details for parking space reallocation within an organization. This form helps in ensuring that all necessary approvals and information are collected before making any changes to parking space allocations.

@@ -1,12 +1,3 @@
-<thinking>
-The form titled "Government Financial Records Audit Form" is designed for auditing purposes to collect information about financial records. It is intended for use in public administration to ensure the accuracy and legitimacy of financial transactions. The form is composed of multiple pages, each containing various fields to collect data such as financial record type, auditing agency, dates of audits, audit findings, financial amount, supporting documents, comments, review date, reviewer information, and signature page. The form's fields can be completed by authorized personnel who will be reviewing and analyzing the provided information to ensure financial accuracy and legitimacy.
-
-This form is likely to be used in public administration contexts where financial records need to be audited and reviewed for accuracy and legitimacy. It is essential to ensure that the information collected is accurate and complete. The form's pages are designed to be completed by authorized personnel, and the fields require relevant information to be filled in to facilitate the auditing process.
-
-To ensure accurate completion and to prevent duplication of effort, it is crucial to review this document carefully and only complete it if you are authorized to do so. If you are unsure about any information or have questions, please contact the relevant authority or consult the relevant policies and procedures. 
-
-</thinking>
-
 # government-financial-records-audit-form - Help Guide
 ## Purpose
 This form is designed for auditing financial records in public administration.

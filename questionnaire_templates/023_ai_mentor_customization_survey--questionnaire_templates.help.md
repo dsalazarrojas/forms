@@ -1,8 +1,3 @@
-<thinking>
-This form is created to help mentors understand their students' preferences and tailor their support to their needs. The form asks for a profile, experience level, primary learning goals, desired tone, feedback frequency, personalization preferences, communication channels, accessibility requirements, and additional notes.
-This guide is designed to help users complete the form accurately.
-</thinking>
-
 # AI Mentor Customization Survey - Help Guide
 ## Purpose
 This form is used to help mentors understand their students' preferences and tailor their support to their needs.

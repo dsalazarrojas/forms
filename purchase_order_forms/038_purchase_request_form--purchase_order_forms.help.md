@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for purchase requests. The form is used to submit a request for a purchase, providing details such as the purchase date, description, and amount. It also captures information about the requester, request type, and submitter. This form is intended for internal use and is not for public access. To avoid duplication, please do not submit multiple requests for the same purchase.
-
-This form is meant to be filled out by individuals within the organization who are requesting purchases. Submitters are expected to provide accurate and up-to-date information about themselves and the purchase request they are submitting. This form will help streamline the process of submitting and processing purchase requests within the organization.
-
-To prevent errors, please ensure that all required fields are completed before submitting the form.
-
-</thinking>
-
 # Purchase Request Form - Help Guide
 ## Purpose
 The Purchase Request Form is used to collect information for internal purchase requests within the organization.

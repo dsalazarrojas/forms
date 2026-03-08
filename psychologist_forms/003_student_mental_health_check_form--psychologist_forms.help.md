@@ -1,9 +1,3 @@
-<thinking> 
-This form is intended to help students assess their mental health and well-being. It is meant to be a quick and easy way to identify potential concerns that may require support or follow-up. By using this form, students can provide information about their mental health status, support systems, and any symptoms they are experiencing. This information can be used by school administrators or counselors to provide targeted support and resources.
-
-Before filling out the form, please note that this is a general guide and not a comprehensive mental health assessment. If you are experiencing severe mental health concerns, please reach out to a mental health professional directly.
-
-</thinking>
 # Student Mental Health Check Form - Help Guide
 
 ## Purpose

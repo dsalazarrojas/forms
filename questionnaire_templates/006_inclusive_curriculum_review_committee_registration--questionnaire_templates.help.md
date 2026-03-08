@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from members of the inclusive curricular review committee. This form is used to register members who will participate in the review process. The form should only be completed by committee members who are interested in participating in the review process. The fields in this form are designed to collect relevant information from committee members, including their details, areas of expertise, and submission notes. This form is not meant to be completed by non-committee members, and any attempts to do so may result in duplicate or irrelevant information being collected.
-</thinking>
-
 # inclusive_curriculum_review_committee_registration - Help Guide
 ## Purpose
 This form is used to register members of the inclusive curricular review committee.

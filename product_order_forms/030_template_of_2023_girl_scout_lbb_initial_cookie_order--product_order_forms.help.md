@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who want to understand the purpose and usage of the "Template Of 2023 Girl Scout LBB Initial Cookie Order" form. This form was designed based on public survey topic metadata, with no direct affiliation or endorsement from any specific platform, and is released under a permissive license for free use, modification, and redistribution.
-</thinking>
-
 # Template Of 2023 Girl Scout LBB Initial Cookie Order - Help Guide
 ## Purpose
 The purpose of this form is to collect information related to Girl Scout cookies, such as orders, rewards, contact details, and other relevant data. It is primarily meant for the Girl Scouts to gather information and feedback from their customers, likely for internal use.

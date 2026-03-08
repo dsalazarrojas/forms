@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-friendly help guide for the "Monitoring And Evaluation Officer Skills Assessment Quiz" form. I will provide a concise and concrete explanation of the form's purpose, the steps to complete it, and a field-by-field explanation of each section. This will ensure that end-users understand the form's intent and can complete it efficiently and accurately.</thinking>
-
 # Monitoring And Evaluation Officer Skills Assessment Quiz - Help Guide
 ## Purpose
 The Monitoring And Evaluation Officer Skills Assessment Quiz is designed to assess the skills and competencies of Monitoring and Evaluation Officers. It aims to evaluate their expertise in monitoring, evaluation, and reporting, as well as their skills in data collection, analysis, and visualization.

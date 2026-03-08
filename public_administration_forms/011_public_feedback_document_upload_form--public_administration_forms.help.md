@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for the public administration team to collect feedback from members of the public. It is intended to be a straightforward and efficient way to gather information from users about their experiences, suggestions, and concerns. To ensure data quality and consistency, the form will be reviewed for completeness and relevance before being submitted for further action. Please note that this form should not be used to collect duplicate or redundant information, and users should only submit their feedback once.
-
-Before filling out this form, please make sure you are aware of the following:
-
-*   The form is not a complaint or issue reporting mechanism, but rather a feedback channel for suggestions and public comments.
-*   All fields marked as "required" are essential to complete the form, and you will not be able to submit without filling them out.
-*   You can only upload up to 8 files at once, and each file should not exceed 5 MB in size.
-*   Supporting Files are optional, but they will be reviewed as evidence or attachments to your feedback.
-
-</thinking>
-
 # Public Feedback Document Upload Form - Help Guide
 ## Purpose
 This form is designed to collect public feedback and comments from users. It will help us gather information about their experiences and suggestions for improvement.

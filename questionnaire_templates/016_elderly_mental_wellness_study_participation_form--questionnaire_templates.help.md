@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Elderly Mental Wellness Study Participation Form - Help Guide
 
 ## Purpose

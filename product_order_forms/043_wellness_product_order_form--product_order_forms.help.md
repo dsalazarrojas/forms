@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from customers to process their orders for wellness products. The form is intended to be completed by customers who wish to purchase products related to their health and wellness, such as supplements, fitness equipment, or healthy food items. The form will be used to collect the customer's name, contact information, and other relevant details to facilitate the order processing and delivery of the ordered products.
-
-The form is not intended for internal use within the company and is meant to be used solely for customer-facing purposes.
-
-The form is a simple, one-page form with four fields that require minimal information from the customer.
-
-</thinking>
-
 # wellness product order form - Help Guide
 ## Purpose
 This form is used to collect information from customers to process their orders for wellness products.

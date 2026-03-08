@@ -1,4 +1,4 @@
-> **<thinking>...</thinking>**
+> ****
 
 This form is used to collect user feedback and information about their experience with a video series. The form has multiple pages of questions with different types of fields, including select_one, number, select_multiple, text, and email fields. The purpose of this form is to gather data for internal use, such as understanding user preferences and ratings of characters and scenes in the video series.
 

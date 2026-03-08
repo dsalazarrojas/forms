@@ -1,7 +1,3 @@
-<thinking>
-The "my_favorite_things_questionnaire--questionnaire_templates" form is used to gather information about a user's favorite things. This form is likely used in a research or survey context to collect data on the user's preferences and interests. Before proceeding, ensure that this form is relevant to your specific use case and does not overlap with existing forms or surveys.
-</thinking>
-
 # my_favorite_things_questionnaire--questionnaire_templates - Help Guide
 ## Purpose
 This form is designed to collect information about a user's favorite things, including colors, foods, books, movies, music, places, animals, times, and other items.

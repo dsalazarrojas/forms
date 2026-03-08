@@ -1,8 +1,3 @@
-<thinking>
-Is the purpose of this form to assess the social influence on student independence? The purpose of this form appears to be a survey to measure various factors that may affect a student's independence, such as social, peer group, family, and teacher support. This survey might be used to inform decisions related to student well-being and educational outcomes. I will create a help guide for this form.
-
-</thinking>
-
 # Survey: Social Influence On Student Independence - Help Guide
 ## Purpose
 This guide is designed to help users complete the "Survey: Social Influence On Student Independence" form. The form aims to collect information about the factors that may influence a student's independence, including social, peer group, family, and teacher support. The survey can be completed by a student, teacher, or parent/guardian.

@@ -1,7 +1,3 @@
-<thinking>
-This form was created to assess the personality of users in a fun and engaging way, using an avian theme to make the experience more approachable and entertaining. The questions are designed to tap into various aspects of a person's personality, behavior, and preferences, and to provide insights into their strengths, weaknesses, and areas for growth. This form is not affiliated with any form platform, and the results are not officially endorsed by any organization. The form is released under CC BY 4.0, allowing users to use, modify, and share it freely. Please note that this form is not a professional assessment tool and should not be used for any official or serious psychological evaluation. If you're interested in adapting or using this form for commercial purposes, please contact me at form@gic.mx.
-</thinking>
-
 # Bird Personality Assessment - Help Guide
 ## Purpose
 This form is designed to provide a fun and interactive way to assess your personality and behavior. You'll be presented with a series of questions that cover different aspects of your personality, preferences, and values. By answering these questions, you'll get insights into your strengths, weaknesses, and areas for growth, and you'll be able to discover which bird type you are most like.

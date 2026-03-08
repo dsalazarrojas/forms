@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for pre orders of phone cases. The form will be used by customers to provide their details such as name, address, product preferences, and payment information. This form will help our team to process the orders efficiently and ensure accurate and timely delivery of phone cases to customers. Before starting, please ensure you have all necessary information ready and that the form is filled out accurately. Please fill out this form only once for each order.
-</thinking>
-
 # Phone Case Pre Order Form - Help Guide
 ## Purpose
 The Phone Case Pre Order Form is designed to collect pre order information from customers. This form is used to gather necessary details for processing and delivering phone cases efficiently.

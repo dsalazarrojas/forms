@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for evaluating the precision of surgical procedures. It aims to gather information on the quality of surgical precision, feedback availability, and resource utilization. This form is meant to be completed by surgeons, medical professionals, or anyone related to surgical procedures. Before filling out this form, please consider the following:
-
-* You are about to evaluate your own surgical precision and quality control measures.
-* Ensure that you have a good understanding of your current surgical procedures and quality control methods.
-* Be honest and accurate when providing information about your surgical procedures.
-
-</thinking>
-
 # Surgical Precision Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the precision of surgical procedures and gather information on quality control measures, feedback availability, and resource utilization.

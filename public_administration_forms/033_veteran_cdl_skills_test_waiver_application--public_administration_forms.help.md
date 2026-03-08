@@ -1,8 +1,3 @@
-<thinking>
-This form is used for veterans to request a waiver of the commercial driver's license (CDL) skills test, typically in situations where they have been away from driving for a certain period of time or have certain medical conditions that prevent them from taking the test. The form is completed by the veteran and requires information such as their name, date of birth, military service information, and waiver request details. The administrator reviewing the form will use the information provided to assess the veteran's eligibility for the waiver.
-The purpose of this form is to ensure that the veteran's CDL skills test waiver request is processed efficiently and accurately.
-</thinking>
-
 # Veteran CDL Skills Test Waiver Application - Help Guide
 ## Purpose
 This guide provides instructions on how to complete the Veteran CDL Skills Test Waiver Application form.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for end users who will be completing a form called "Game Feature Specification Survey." The form is used to gather feedback and information about game features from users, which will help improve the game development process. This form will allow users to provide input on various aspects of game development, including game teams, game features, player experience, feature priority, update planning, product decisions, player satisfaction, feature description, contact information, and comments. This form is intended to be completed by users who have experience with the game, and their input will be used to make informed decisions about future game development.
-</thinking>
-
 # Game Feature Specification Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and information about game features from users, which will help improve the game development process.

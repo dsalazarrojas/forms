@@ -1,7 +1,3 @@
-<thinking>As a creative writing feedback form, this form is designed to collect feedback from users on their experiences with a particular creative writing prompt or exercise. The form is used to gather information about the user's thoughts, feelings, and opinions on the prompt, and to help the form owner understand how to improve the prompt to better serve their audience. This form is typically used in an educational setting, such as a writing workshop or course, to gather feedback from students on the effectiveness of the prompt.
-
-Before filling out this form, please make sure that you haven't already provided feedback on this same prompt in the past, as duplicate feedback may not be helpful to the form owner.</thinking>
-
 # Creative Writing Feedback Form - Help Guide
 ## Purpose
 The Creative Writing Feedback Form is designed to collect feedback from users on their experiences with a particular creative writing prompt or exercise.

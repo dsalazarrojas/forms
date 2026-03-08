@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the leadership skills of a supervisor or manager. It's essential for supervisors to evaluate their own leadership abilities, identify areas of strength and weakness, and develop strategies for improvement. By completing this form, supervisors can gain a deeper understanding of their leadership skills and create a plan to enhance their performance. This form is likely to be used in an organizational setting, such as a company or school, where supervisors are responsible for leading a team or department. Please ensure that the form is filled out accurately and completely to ensure a thorough assessment.
-
-</thinking>
-
 # Supervisor Leadership Skills Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess the leadership skills of a supervisor or manager.

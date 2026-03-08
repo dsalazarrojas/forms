@@ -1,9 +1,3 @@
-<thinking>
-This is a form to collect data on consumer behavior regarding new product launches. The form will help us understand how customers feel about new product launches. This form is designed for end-users, so its purpose is to get their opinions and experiences. Please note that this form is not a transactional form, so it's not meant to be completed in one go. It might be a lengthy process.
-
-To avoid duplication of efforts, please ensure that you have not completed this form before. You can complete this form at any time, but please be honest and accurate in your responses.
-</thinking>
-
 # New Product Launch Consumer Behavior Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your thoughts, feelings, and experiences regarding new product launches. Your input will help us understand what matters most to you when it comes to new product launches.

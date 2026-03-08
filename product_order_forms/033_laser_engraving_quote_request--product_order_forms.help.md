@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Laser Engraving Quote Request - Help Guide
 ## Purpose
 This form is designed to gather information for a laser engraving quote request from customers. It will collect details about the project, artwork files, quantities, deadlines, quote requests, contact person, email, and phone number. The information collected will be used to generate a quote for the customer.

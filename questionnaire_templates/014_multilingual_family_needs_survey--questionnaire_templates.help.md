@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure the form is relevant to the end user, let's clarify the purpose and relevance of the Multilingual Family Needs Survey. This form is designed to collect information about the languages spoken at home and the needs of multilingual families. It is intended to be used in educational or social settings where language barriers can be a challenge. The form is not meant for any other purpose, such as data collection for a different context.
-</thinking>
-
 # Multilingual Family Needs Survey - Help Guide
 ## Purpose
 The Multilingual Family Needs Survey is a tool to understand the languages spoken at home and the needs of multilingual families. It is designed to help identify the languages spoken at home and to collect information on the needs of these families.

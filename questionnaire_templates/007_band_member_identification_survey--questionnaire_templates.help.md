@@ -1,16 +1,3 @@
-<thinking>
-
-This form is intended to collect information about individual band members, specifically their personal and musical details, to facilitate the creation of a new band. The purpose of this survey is to identify potential band members based on their availability, commitment, and musical experience. The form is divided into two main sections: Member Personal Details and Musical Role and Experience.
-
-To ensure that this guide is helpful, let's consider a few potential scenarios where this form may be used:
-
-* A band leader is recruiting new members and wants to know more about potential candidates before scheduling auditions.
-* A music school or organization is collecting data on musicians and wants to know their availability and commitment.
-
-By filling out this form, users will be providing accurate and relevant information to help the band leader make informed decisions.
-
-</thinking>
-
 # Band Member Identification Survey - Help Guide
 ## Purpose
 The Band Member Identification Survey is a form designed to collect personal and musical details from potential band members. This information will help the band leader identify suitable candidates and make informed decisions about auditions and band composition.

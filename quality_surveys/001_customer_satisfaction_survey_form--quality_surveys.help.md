@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data from customers on their overall satisfaction and experience with your product or service. This data will help us understand how customers perceive your offering and identify areas of improvement.
-Please fill out this form to provide us with your honest feedback.
-</thinking>
-
 # Customer Satisfaction Survey Form - Help Guide
 ## Purpose
 This form is designed to collect data from customers on their overall satisfaction and experience with your product or service.

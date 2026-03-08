@@ -1,7 +1,3 @@
-<thinking>
-The Sustainability Certification Value Survey is a tool used to collect information about the sustainability certification process for organizations. This form is designed to guide users in providing accurate and detailed information about their certification, including the type of certification, date and certification body. The survey is meant to ensure consistency in reporting data and help identify areas for improvement. Before completing this form, please ensure you are not duplicating data and are providing accurate information. The form fields are designed to be straightforward and easy to understand, with clear labels and instructions to guide the user in providing the necessary information.
-</thinking>
-
 # Sustainability Certification Value Survey - Help Guide
 ## Purpose
 The Sustainability Certification Value Survey is a tool used to collect information about the sustainability certification process for organizations. This form is designed to guide users in providing accurate and detailed information about their certification, including the type of certification, date and certification body.

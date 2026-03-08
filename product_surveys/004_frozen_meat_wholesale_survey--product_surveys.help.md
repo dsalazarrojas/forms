@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Frozen Meat Wholesale Survey - Help Guide
 ## Purpose
 This form is designed to collect information from frozen meat buyers and sellers about their role in the meat industry, their buying or selling preferences, and their satisfaction with current suppliers. This data will help us better understand the market needs and preferences of frozen meat professionals.

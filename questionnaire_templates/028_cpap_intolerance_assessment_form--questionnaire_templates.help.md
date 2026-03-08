@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients regarding their CPAP (Continuous Positive Airway Pressure) therapy experience. The CPAP Intolerance Assessment Form is intended to identify areas where patients may be experiencing difficulties or discomfort with their CPAP therapy. The form asks questions about the patient's overall tolerance of the therapy, potential issues with mask fit or comfort, and other concerns they may have. By gathering this information, healthcare providers can better understand the needs of their patients and tailor their treatment plans accordingly.
-</thinking>
-
 # CPAP Intolerance Assessment Form - Help Guide
 ## Purpose
 The CPAP Intolerance Assessment Form is a tool used to identify areas where patients may be experiencing difficulties or discomfort with their CPAP therapy. This information helps healthcare providers understand the needs of their patients and tailor their treatment plans accordingly.

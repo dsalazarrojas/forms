@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to provide users with a clear understanding of the "Understanding Delivered Duty Paid (DDP)" form. It's crucial to ensure that users comprehend the form's purpose and how to complete it accurately. Before proceeding, please note that this form is used to gather information about a company's understanding of Delivered Duty Paid (DDP), a process used in international trade. DDP is a method of shipping where the seller bears the cost of delivering goods to the buyer, and the buyer is responsible for paying the duties and taxes upon arrival. This form is designed to assess a company's familiarity with DDP, its usage, and any challenges or areas for improvement.
-
-The form will not be duplicated, and all responses will be treated as individual assessments. Please answer each question honestly and thoroughly, providing as much detail as possible.
-
-</thinking>
-
 # Understanding Delivered Duty Paid (DDP) - Help Guide
 ## Purpose
 This form is designed to help us understand your company's familiarity with Delivered Duty Paid (DDP), a crucial aspect of international trade. Your responses will aid us in identifying potential areas of improvement and provide a comprehensive overview of your company's DDP knowledge.

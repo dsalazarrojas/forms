@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed for customers who are interested in pre-ordering the latest app update, providing essential information about themselves and their usage patterns to help the development team better plan and prepare the release. The form aims to collect data on customers who wish to be among the first to experience the update and receive exclusive benefits. By filling out this form, customers will be able to express their interest in the upcoming update and provide valuable feedback on the current version of the app. This form is not designed to capture general feedback, but rather to gather information from users who are eager to get early access to the update. The fields in this form are designed to be clear and concise, and the instructions are intended to guide the users through the process in a smooth and efficient manner.
-</thinking>
-
 # App Update Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who are interested in pre-ordering the latest app update, allowing them to get early access to the update and provide valuable feedback.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and purchase data for sunflower oil products. It should be used by customers who have purchased sunflower oil to share their experiences and opinions about the product. To ensure that the data collected is relevant and accurate, please do not complete this form multiple times or share it with people who have not purchased sunflower oil. The form is not affiliated with or endorsed by any form platform.
-</thinking>
-
 # Sunflower Oil Purchase Survey - Help Guide
 ## Purpose
 

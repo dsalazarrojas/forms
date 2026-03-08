@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from program participants about their experiences in recreational programs. It will help us understand what they like or dislike about the program and identify areas for improvement.
-Please note that this form should only be filled out by individuals who have participated in a recreational program. If you have already filled out this form for a different program, please do not fill it out again.
-</thinking>
-
 # Recreational Program Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Recreational Program Satisfaction Questionnaire is a form designed to gather feedback from program participants on their experiences in recreational programs. This form is meant to help us understand what they like or dislike about the program and identify areas for improvement.

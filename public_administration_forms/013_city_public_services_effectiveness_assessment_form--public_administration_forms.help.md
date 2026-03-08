@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the effectiveness of public services provided by the city. It is crucial to gauge the quality, timeliness, and overall satisfaction of these services to identify areas of improvement and make data-driven decisions. This form should not be completed by anyone other than the actual user who experienced the service.
-</thinking>
-
 # City Public Services Effectiveness Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from the public on the effectiveness of city services such as sanitation, parks, and transportation. It helps the city administration to gauge the quality, timeliness, and overall satisfaction of these services, making informed decisions to improve them.

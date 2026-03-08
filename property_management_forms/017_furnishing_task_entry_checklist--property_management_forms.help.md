@@ -1,6 +1,3 @@
-<thinking>
-This form is for creating and managing tasks related to furnishing tasks for properties. It is intended for property managers and project team members to input task details and progress updates. This form is likely used in conjunction with other property management tools and systems. Before filling out this form, ensure that you have the necessary permissions and access to view and update properties. This form should not be filled out for general tasks or non-furnishing tasks. If you are unsure or need help with completing this form, please reach out to your supervisor or support team.</thinking>
-
 # furnishing_task_entry_checklist - Help Guide
 ## Purpose
 The furnishing_task_entry_checklist form is a comprehensive tool for property management teams to create, manage, and track furnishing tasks for properties. This form helps ensure that tasks are properly assigned, prioritized, and completed.

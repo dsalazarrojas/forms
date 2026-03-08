@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to collect and process business license information for government registration purposes. It seems to be used for various types of business licenses, with multiple fields for business and user information, including contact details, license type, and fees. There are also fields for review dates, times, and status. The form appears to be designed for internal use within a government agency or department. I will make sure to keep the explanation concise and practical.
-
-</thinking>
-
 # government_business_license_submission_form - Help Guide
 ## Purpose
 The government business license submission form is used to collect and process business license information for government registration purposes. It is designed to gather details about a business, including its license type, contact information, and fees, as well as user information such as name, address, and email.

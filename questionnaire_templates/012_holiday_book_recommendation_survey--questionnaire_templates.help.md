@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a simple survey designed to gather information on users' preferences for holidays. The form's main purpose is to collect data on the holiday that the user prefers, which is likely used for market research, customer insights, or other analytical purposes. It might be used by authors or publishers to get insights on what type of holiday-themed books to write or promote next. The form's design is minimal, with only three fields: the form title, the preferred holiday, and a free-text field for users to share their thoughts on prophets and heroes related to their preferred holiday. The fields are all required, suggesting that the form is collecting essential information. There is no indication that the form is part of a larger complex form or system, but rather a standalone survey tool.
-</thinking>
-
 # Holiday Book Recommendation Survey - Help Guide
 
 ## Purpose

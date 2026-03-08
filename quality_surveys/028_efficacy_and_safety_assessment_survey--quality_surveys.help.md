@@ -1,8 +1,3 @@
-<thinking>
-The form is used to assess the efficacy and safety of the product in various aspects, including overall experience, recommendations, desired feature improvements, safety ratings, and customer feedback. To ensure accurate and comprehensive feedback, the form is designed to collect both numerical and qualitative data from customers. Before proceeding, please review the following help guide to understand each field's purpose and how to complete it correctly.
-
-</thinking>
-
 # Efficacy And Safety Assessment Survey - Help Guide
 ## Purpose
 The Efficacy And Safety Assessment Survey is designed to collect feedback from customers about their experience with our product, including their overall satisfaction, recommendations, and areas for improvement. This survey helps us to identify potential product issues, understand customer needs, and make data-driven decisions to enhance our product's efficacy and safety.

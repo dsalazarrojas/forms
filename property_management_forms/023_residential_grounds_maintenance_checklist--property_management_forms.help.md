@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Residential Grounds Maintenance Checklist" form. This form is likely used by grounds maintenance staff or property managers to track and report the maintenance activities performed on residential properties. The purpose of this form is to ensure that all necessary maintenance tasks are completed and documented for future reference.
-</thinking>
-
 # Residential Grounds Maintenance Checklist - Help Guide
 ## Purpose
 The "Residential Grounds Maintenance Checklist" is a form used to track and document the maintenance activities performed on residential properties. It helps grounds maintenance staff or property managers to ensure that all necessary maintenance tasks are completed and documented for future reference.

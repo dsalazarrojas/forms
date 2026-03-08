@@ -1,12 +1,3 @@
-<thinking>
-The goal of this psychology questionnaire template is to collect information about a patient's mental health and well-being. This form is designed to be used by mental health professionals to assess the patient's current state and develop an appropriate treatment plan.
-
-To use this form, you should first consider whether the patient's information is relevant to the current assessment. If you're unsure, please review the patient's file to ensure that the information you're about to collect is up-to-date and accurate.
-
-Please note that this form is intended to be used for internal purposes only and should not be shared with third parties without proper authorization.
-
-</thinking>
-
 # Psychology Questionnaire Template - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's mental health and well-being, which will help mental health professionals develop an appropriate treatment plan.

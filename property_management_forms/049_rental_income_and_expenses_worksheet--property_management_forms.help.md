@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rental Income And Expenses Worksheet - Help Guide
 
 ## Purpose

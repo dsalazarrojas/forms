@@ -1,9 +1,3 @@
-<thinking>
-This form is a "Eco Friendly Product Preference Survey" aimed at collecting data from end-users on their attitudes towards sustainable and eco-friendly products. The purpose of this form is to gather information on their preferences and habits related to environmentally friendly products. The survey consists of 11 questions that cater to a variety of topics, including shopping habits, decision drivers, product preferences, demographic information, and contact details. Before creating this guide, it is essential to ensure that the survey is well-understood by its end-users. It is also crucial to review this guide against the form's internal documentation to verify its accuracy and ensure that it aligns with the form's original intent.
-
-This guide is created to aid end-users in completing the form accurately and efficiently, providing a clear explanation of each field and its purpose. This will help users understand what is required of them and ensure they do not miss any essential questions.
-</thinking>
-
 # Eco Friendly Product Preference Survey - Help Guide
 
 ## Purpose

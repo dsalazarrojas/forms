@@ -1,12 +1,3 @@
-<thinking>
-To create a helpful guide for the "Government And Business Relations Quiz" form, I'll first review the form's purpose and ensure it's not a duplicate task.
-
-The form's purpose appears to be a comprehensive assessment tool for evaluating the relations between government and businesses, covering various aspects such as relation characteristics, importance, frequency, effectiveness, and other related factors. Given the form's structure and options, it seems to be designed for businesses, organizations, or individuals seeking to understand their current state of government relations, identify areas for improvement, or monitor progress over time.
-
-Before proceeding, I'll confirm that there's no existing guide that covers this specific form, so I'll move on to creating the guide as per your request!
-
-</thinking>
-
 # Government And Business Relations Quiz - Help Guide
 
 ## Purpose

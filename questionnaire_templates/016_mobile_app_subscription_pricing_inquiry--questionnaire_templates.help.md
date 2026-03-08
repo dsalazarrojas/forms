@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their mobile app subscription pricing preferences. The purpose of this form is to gather details such as billing preferences, value perceptions, and payment gateway settings to ensure accurate and efficient billing processes. This form will be used internally to configure and optimize the billing system for the mobile app.
-</thinking>
-
 # Mobile App Subscription Pricing Inquiry - Help Guide
 ## Purpose
 

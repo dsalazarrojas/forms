@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users interested in enrolling in a language school. The form is used to collect data about the user's language school preferences, such as the language they are interested in learning, their current level of proficiency, and their preferred method of contact. This form is not intended to be used for duplicate inquiries or requests that are not relevant to the language school.
-</thinking>
-
 # Language School Curriculum Inquiry Form - Help Guide
 ## Purpose
 This form is used to gather information from users interested in enrolling in a language school. The goal is to collect relevant data to provide users with the best possible language school experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess and understand the marketing personality of customers. Marketing personality can influence how customers interact with your marketing campaigns, making it a crucial aspect of your overall marketing strategy. This form is meant for customers and non-technical users. Please ensure you have a basic understanding of marketing concepts before using this form.
-</thinking>
-
 # Marketing Personality Quiz - Help Guide
 ## Purpose
 The Marketing Personality Quiz is designed to help us understand your marketing personality to better tailor our marketing strategies to your needs and preferences.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect user feedback and information on water quality surveys. The form will likely be used by water management authorities to gather insights from users regarding their experiences and concerns with water quality. It's crucial that the end-user understands that the purpose of this form is not to collect sensitive or personal identifiable information but rather to gather aggregate data. The form should only be filled out by users who have already been informed about the project's goals and are willing to participate voluntarily. To avoid duplication of effort, users should only fill out this form once.
-
-</thinking>
-
 # Water Quality Survey Data Consent Form - Help Guide
 ## Purpose
 The Water Quality Survey Data Consent Form is designed to collect aggregate data from users on their experiences and concerns with water quality. The data collected will help authorities make informed decisions on water management.

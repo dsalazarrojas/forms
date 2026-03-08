@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's social connections, relationships, and emotional support systems. It is designed to help users understand their own relationships and identify areas for improvement. The form collects data on various aspects of social connection, including relationship status, communication frequency, emotional support, and social support.
-</thinking>
-
 # Social Connection Survey - Help Guide
 ## Purpose
 This form aims to provide insights into your social connections and relationships. Please answer the questions honestly to get the most accurate results.

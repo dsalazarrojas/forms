@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Question Bank Filter Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-We are creating a help guide for the "Self Management Skills Assessment" form, which aims to evaluate an individual's self-management skills, including time management, self-awareness, goal setting, stress management, problem-solving, emotional management, and other related skills. This form is used to collect information about a person's strengths and weaknesses in these areas, which can help in making informed decisions about their development needs and providing targeted support.
-
-The self-management skills assessment form is designed to be completed by the individual being assessed, and it is expected to be filled out in a straightforward and honest manner. It is crucial to complete the form carefully, as the information collected will be used to support the individual's growth and development.
-
-Before starting the form, make sure to read it carefully and answer each question as accurately and honestly as possible.
-
-</thinking>
-
 # Self Management Skills Assessment - Help Guide
 ## Purpose
 The Self Management Skills Assessment form is designed to evaluate your self-management skills, which are essential for achieving goals, maintaining a healthy work-life balance, and overall well-being.

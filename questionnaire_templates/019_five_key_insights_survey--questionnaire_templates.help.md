@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a participant's experience and perceptions of a project or event, with questions covering key takeaways, comments, project status, outcome, type, and participant details. This form is intended to be used for general purposes and can be adapted for various use cases, such as surveys, feedback forms, or participant evaluations. Before filling out this form, ensure that you are familiar with the project or event in question and have necessary permissions to provide honest and accurate information.
-</thinking>
-
 # Five Key Insights Survey - Help Guide
 
 ## Purpose

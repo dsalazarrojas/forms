@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to help instructors and support teams assess the needs of their students in an educational setting. The form is intended to gather information about the goals, support needs, and resource requirements of trainees, allowing instructors to tailor their support to each individual's needs. To ensure accurate and comprehensive data collection, please ensure that you complete the form only once per trainee.
-
-This form will be used to collect data for a variety of purposes, including but not limited to:
-
-* Identifying areas of support needed by trainees
-* Allocating resources and tools effectively
-* Informing decisions on tutoring hours and support plans
-
-If you have already completed this form for a specific trainee, please do not submit additional forms as it may lead to duplicated data collection and processing.
-
-</thinking>
-
 # Educational Support Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about trainees' goals, support needs, and resource requirements. The data collected will be used to identify areas of support needed by trainees and to allocate resources effectively.

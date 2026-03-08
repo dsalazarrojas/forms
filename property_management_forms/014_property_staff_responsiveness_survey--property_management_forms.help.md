@@ -1,8 +1,3 @@
-<thinking>
-The form is used to gather feedback from property residents about the responsiveness and quality of service provided by property staff. This form is intended for residents to provide their opinions on various aspects of service, including response time, communication quality, availability of property staff, and overall service quality. The goal is to gather data that can be used to improve the services provided by the property management team. 
-
-</thinking>
-
 # Property Staff Responsiveness Survey - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-We have a Property Appliance Order Form. The form's primary purpose is to collect information about a property and the appliances ordered for it. The form will gather data on the order details, appliance specifications, property information, contact details, and order status. This is an ideal form for property management companies, real estate agents, or property owners who need to keep track of appliance orders for their properties. 
-
-The form's design follows best practices for form design, with clear and concise labels, minimal required fields, and a structured layout. Each field has been carefully crafted to ensure that the user can easily provide the necessary information and understand its purpose.
-
-</thinking>
-
 # Property Appliance Order Form - Help Guide
 
 ## Purpose

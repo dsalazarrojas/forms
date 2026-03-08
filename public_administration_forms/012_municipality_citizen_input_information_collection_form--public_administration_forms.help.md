@@ -1,7 +1,3 @@
-<thinking>
-To be used to collect information from citizens on their concerns and issues, ensuring that their input is accurate and complete for efficient handling by the municipal authorities. This form is used to prevent duplication of information and to track all citizen inputs in a structured manner. It is essential to provide accurate and clear information in each field to ensure the best possible outcome.
-</thinking>
-
 # Municipality Citizen Input Information Collection Form - Help Guide
 ## Purpose
 The Municipality Citizen Input Information Collection Form is designed to gather accurate and complete information from citizens on their concerns and issues, preventing duplication and ensuring efficient handling by the municipal authorities.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Product Quality And Design Inquiry Form" is designed to collect feedback and inquiries related to product quality and design from customers. This form is intended to gather information about a specific product, including its quality, design, and overall experience. The form will help us understand customer satisfaction and identify areas for improvement.
-</thinking>
-
 # Product Quality And Design Inquiry Form - Help Guide
 
 ## Purpose

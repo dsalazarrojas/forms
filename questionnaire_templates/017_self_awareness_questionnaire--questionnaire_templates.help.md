@@ -1,5 +1,3 @@
-<thinking>As a form expert, I will create a user-facing help guide for the "Self Awareness Questionnaire" form, ensuring that end users understand its purpose, how to complete it, and what each field means. This form is designed to collect self-awareness information from users, and the fields are labeled with descriptive titles to help users navigate through the form. The purpose of this guide is to provide clear instructions and explanations for each field, making it easy for users to complete the form accurately and effectively.</thinking>
-
 # Self Awareness Questionnaire - Help Guide
 ## Purpose
 The Self Awareness Questionnaire is a form designed to collect information about your thoughts, feelings, and experiences. It is intended to help you better understand yourself and gain insights into your mental well-being. Please take a few minutes to complete this form, and provide honest and accurate answers to each question.

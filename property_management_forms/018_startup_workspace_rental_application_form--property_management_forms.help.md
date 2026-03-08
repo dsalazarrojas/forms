@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help startups and entrepreneurs apply for workspace rental. It is intended for businesses looking to rent out a workspace or office space. This form should be used by individuals or companies that wish to rent out a property for business use. This form is not intended for other purposes. Please use this form to provide accurate and complete information to improve the rental application process. 
-</thinking>
-
 # Startup Workspace Rental Application Form - Help Guide
 ## Purpose
 This form is designed to help startups and entrepreneurs apply for workspace rental. It is intended for businesses looking to rent out a property for business use.

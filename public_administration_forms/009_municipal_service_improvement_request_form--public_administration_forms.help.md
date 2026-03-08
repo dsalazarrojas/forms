@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers to help municipal services improve and provide better services to the community. It is likely used by municipal administrators to track and manage requests from residents, businesses, or other stakeholders. This form helps to identify areas that require improvement and provides a channel for customers to provide feedback and suggestions. Before filling out this form, it's essential to review the existing status of any previous requests related to the same topic to avoid duplication of efforts.
-</thinking>
-
 # Municipal Service Improvement Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to help improve municipal services. It allows customers to submit requests, provide feedback, and track the progress of their service requests.

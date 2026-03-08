@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect quality control complaints from customers or users regarding products or services. This form is likely to be used by companies or organizations to gather information about product defects, errors, or issues that need to be addressed. Before filling out this form, please note that it's essential to ensure that you're submitting a unique complaint, as duplicate submissions may not be considered. Please make sure you're using the form for its intended purpose and not for any other reason. If you have already submitted a similar complaint, it's best to wait until you have new or updated information to submit.
-</thinking>
-
 # Quality Control Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers or users about any quality control complaints they may have regarding products or services. The goal is to gather details about the issue, including the type of complaint, product information, and any relevant dates or images.

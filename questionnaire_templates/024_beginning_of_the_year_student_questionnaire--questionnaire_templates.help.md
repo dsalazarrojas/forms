@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is filled out correctly, please take a moment to carefully review each section. This form is meant to gather information about your thoughts, feelings, and experiences as a student. Please answer honestly and to the best of your ability. If you are unsure about any of the questions, please ask your teacher for clarification. This form should not be filled out multiple times. If you have previously filled out this form, please do not fill it out again.
-</thinking>
-
 # Beginning Of The Year Student Questionnaire - Help Guide
 ## Purpose
 This form is designed to help you, the student, share your thoughts, feelings, and experiences with your teacher at the beginning of the year. It's a chance to express yourself and help your teacher get to know you better.

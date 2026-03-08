@@ -1,7 +1,3 @@
-<thinking>
-This help guide assumes that the form was created using AI to generate a survey on loop selection. The form aims to gather information about users' preferences and experiences related to loops, specifically in a "Loop Selection Survey" context. This guide is intended to provide clarity on how to complete the form accurately and efficiently. Please note that the form is a public adaptation created using only metadata from public survey topics and does not copy or use proprietary content from any form platform.
-</thinking>
-
 # Loop Selection Survey - Help Guide
 ## Purpose
 The Loop Selection Survey is a questionnaire designed to gather information about your preferences and experiences related to loops. It is a tool to help you share your opinions and insights on the topic of loop selection. Your responses will help to identify patterns and trends in how loops are perceived and utilized.

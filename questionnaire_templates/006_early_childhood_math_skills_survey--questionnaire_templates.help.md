@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a child's math skills in early childhood, likely for educational or research purposes. The form is divided into multiple sections, covering various aspects of math skills such as counting, basic numbers, place value, money, time telling, math language, problem-solving, emotional intelligence, attention span, and conceptualization. The form asks for demographic information like the child's name, age, gender, and native language, and also inquires about the number of questions asked during math sessions, time spent on math activities, and math scores.
-
-Please note that some fields might be redundant or not applicable for a particular context. It's essential to review the form carefully to understand which fields are relevant and necessary for your specific use case.
-
-</thinking>
-
 # Early Childhood Math Skills Survey - Help Guide
 ## Purpose
 This form is designed to gather information about a child's math skills in early childhood, covering various aspects such as counting, basic numbers, place value, money, time telling, math language, problem-solving, emotional intelligence, attention span, and conceptualization.

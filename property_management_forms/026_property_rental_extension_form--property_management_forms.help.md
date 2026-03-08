@@ -1,8 +1,3 @@
-<thinking>
-This form is used to manage property rental extensions. It is intended for tenants to request an extension to their current lease agreement, which can be approved or denied by the landlord or manager. This form ensures that all relevant information is gathered for a proper review and decision-making process. It prevents duplication of effort by allowing administrators to track and manage all property rental extension requests in one place.
-
-</thinking>
-
 # Property Rental Extension Form - Help Guide
 ## Purpose
 This form is used to gather information for a property rental extension request. The tenant submits a request, which is then reviewed and approved or denied by the landlord or manager.

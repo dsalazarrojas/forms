@@ -1,16 +1,3 @@
-<thinking>
-Please note that the form is designed to collect feedback about an in-flight experience. The fields are meant to gather information about the flight, crew, and overall experience. The form should be filled out by passengers who have recently flown on an in-flight service.
-
-To determine if this form is relevant to the user, you should ask yourself: Have I recently flown on an in-flight service? Have I had a positive or negative experience? Do I have any suggestions or comments about the flight?
-
-If the form is not relevant to you, it's okay! This form is not meant to be completed by anyone who has not flown on an in-flight service.
-
-Please note that the form is not meant to be completed multiple times. Each user should only fill out the form once, for their personal experience.
-
-This help guide is designed to assist you in understanding what each field in the form is asking for and how to fill it out correctly.
-
-</thinking>
-
 # In Flight Service Feedback Questionnaire - Help Guide
 ## Purpose
 The In Flight Service Feedback Questionnaire is designed to collect feedback from passengers about their in-flight experience. This form will help us improve our services and ensure that you, our valued customer, have a positive experience on our flights.

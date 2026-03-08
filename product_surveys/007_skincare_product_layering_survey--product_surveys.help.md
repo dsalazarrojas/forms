@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data about skincare routines, layering frequencies, and product amounts used. The purpose of this survey is to gather information about the layering habits of individuals regarding skincare products. This form will help us understand the different combinations of products used, their frequencies, and quantities.
-</thinking>
-
 # Skincare Product Layering Survey - Help Guide
 ## Purpose
 This form is designed to collect data about skincare routines, layering frequencies, and product amounts used.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to input data for a Country Culture Quiz, which is used to gauge cultural proficiency in different countries and languages. 
-The form includes fields for demographic information such as first name, last name, and email, as well as fields for cultural preferences, time zone, and language proficiency. 
-It is used to track and analyze user data for cultural trends and preferences. 
-Note: This form does not collect any sensitive or sensitive information and is intended for anonymous data collection. 
-</thinking>
-
 # Country Culture Quiz - Help Guide
 ## Purpose
 The Country Culture Quiz is used to collect data on users' cultural proficiency, preferences, and demographics to analyze cultural trends and preferences.

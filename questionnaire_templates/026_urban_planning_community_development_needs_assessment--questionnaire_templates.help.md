@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive assessment tool for urban planning community development. It is likely to be used by stakeholders, community members, or other interested parties to collect valuable insights and feedback. Before proceeding, please ensure that you are familiar with the form's purpose and are not duplicating efforts. If you are unsure, please reach out to the project lead or manager for clarification.
-</thinking>
-
 # Urban Planning Community Development Needs Assessment - Help Guide
 ## Purpose
 This form is designed to gather information on the needs and priorities of urban communities for development planning. It is a crucial tool to help stakeholders understand the community's requirements and make informed decisions.

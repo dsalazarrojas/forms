@@ -1,12 +1,3 @@
-<thinking>
-# Electric Vehicle Readiness Survey - Help Guide
-
-This form is intended to gather information from users about their readiness to adopt electric vehicles (EV). The form collects demographic information such as contact details, survey goals, outreach needs, and vehicle characteristics. 
-
-This form will not be completed if you are already an electric vehicle owner or a professional working with electric vehicles. Please do not attempt to complete the form if you are not a suitable participant.
-
-</thinking>
-
 # Electric Vehicle Readiness Survey - Help Guide
 ## Purpose
 The Electric Vehicle Readiness Survey is designed to assess your readiness to adopt an electric vehicle. The survey will gather information about your contact details, vehicle preferences, and needs for outreach and support.

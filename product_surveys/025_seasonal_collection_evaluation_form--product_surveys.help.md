@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the success of seasonal product collections. This form will help product managers and team members to rate the performance of each product in the collection, assess their ratings and comments, and track the collection's status. It's essential to complete this form accurately to get a clear picture of the collection's performance. Please ensure you've read the form carefully and filled it out according to your knowledge and experience.
-</thinking>
-
 # Seasonal Collection Evaluation Form - Help Guide
 ## Purpose
 The Seasonal Collection Evaluation Form is a tool used by product managers and team members to assess the performance of seasonal product collections. It helps track the collection's status, product ratings, and any relevant feedback or comments.

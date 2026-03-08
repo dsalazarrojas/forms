@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "daily_qa_task_checklist" form, a crucial tool for quality assurance teams to track daily tasks and their progress. The form is intended to ensure that QA teams are on the same page and can accurately report their daily tasks, issues, and follow-ups. By following this guide, users will be able to complete the form accurately and efficiently. This guide will cover the form's purpose, how to complete it, and explain each field in detail.
-</thinking>
-
 # daily_qa_task_checklist - Help Guide
 ## Purpose
 The daily QA task checklist is a critical tool for quality assurance teams to document and track daily tasks, issues, and follow-ups. This form helps teams stay organized and ensures that all tasks are accurately reported and tracked.

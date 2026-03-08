@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information from users about their personal preferences and characteristics that may match with a specific Raptor. The form consists of multiple questions that ask about the user's preferences, characteristics, and demographic information. It is intended to be completed by one or two people. The form has a mix of single and multiple choice questions, as well as input fields for contact information. The form does not have any required fields, so users can choose to complete as much or as little information as they like. </thinking>
-
 # which_raptor_suits_you - Help Guide
 
 ## Purpose

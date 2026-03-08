@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about relationships, focusing on accountability, communication, and growth. It is intended to be completed by individuals with existing relationships, such as romantic partners, friends, or colleagues. The form's purpose is to assess the current state of these relationships and identify areas for improvement. Please ensure that you have a valid relationship to answer this survey honestly and accurately.
-</thinking>
-
 # Relationship Accountability Survey - Help Guide
 ## Purpose
 The Relationship Accountability Survey is a form designed to help individuals evaluate the health and growth of their relationships. It covers various aspects, including communication, responsibility, and growth, allowing you to reflect on your relationships and identify areas that need attention.

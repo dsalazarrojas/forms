@@ -1,5 +1,3 @@
-<thinking>Internal use case: This form is designed to collect feedback from users about their experience with the cart modification feature on our platform. The goal is to gather insights on how users interact with the cart, identify areas for improvement, and understand their preferences and expectations. By collecting this feedback, we can refine the user interface and experience to better meet the needs of our users.</thinking>
-
 # Cart Modification Feedback - Help Guide
 
 ## Purpose

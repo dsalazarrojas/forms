@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "Gym Poster And Banner Printing Order Form", let's break down the form purpose, how to complete it, and each field's explanation.
-
-The form purpose is to collect information from users who want to order gym posters and banners. The form is designed to gather details about the order, contact information, shipping details, and any additional notes or comments.
-
-</thinking>
-
 # Gym Poster And Banner Printing Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for gym poster and banner printing orders. Please fill out the form to provide us with the required details.

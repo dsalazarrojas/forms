@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about language structures and their properties. The form is designed to gather data on language roots, structure, language families, and other relevant details. This form is intended for users to provide their responses and insights on these topics.
-
-Before proceeding, please note that this form does not collect any personal identifiable information and is meant for general survey purposes only. It is essential to ensure that the responses are accurate and relevant to the context in which they are being submitted.
-
-To avoid any potential duplication of effort, we recommend that users check our documentation and previous responses before submitting their own.
-
-</thinking>
-
 # Language Roots And Structures Survey - Help Guide
 ## Purpose
 This form is designed to collect information about language structures and their properties.

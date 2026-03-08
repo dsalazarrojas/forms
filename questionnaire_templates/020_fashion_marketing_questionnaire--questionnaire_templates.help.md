@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a fashion brand's marketing questionnaire. It is used to help fashion marketers and agencies understand the brand's background and target audience. This form should only be used once per brand, and it's essential to complete all the fields to get a comprehensive overview.
-</thinking>
-
 # Fashion Marketing Questionnaire - Help Guide
 
 ## Purpose

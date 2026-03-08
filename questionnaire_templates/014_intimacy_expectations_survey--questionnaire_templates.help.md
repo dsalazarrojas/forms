@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information on a person's intimacy expectations in a relationship. It is not meant to be filled out for every interaction or casual conversation, but rather for more in-depth explorations of relationships, such as therapy or counseling sessions. Please ensure that you are filling out this form for a relevant purpose and not duplicating efforts.
-</thinking>
-
 # Intimacy Expectations Survey - Help Guide
 ## Purpose
 The Intimacy Expectations Survey is designed to help individuals understand their own and their partner's intimacy expectations in a relationship. It's a tool to facilitate open and honest communication about what each person wants and needs in their relationship, and to help identify areas of potential conflict.

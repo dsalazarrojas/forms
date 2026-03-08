@@ -1,7 +1,3 @@
-<thinking>
-This form is a standard purchase order form for perfumes, which means it's meant to collect information from customers to complete a purchase. This form likely exists within an e-commerce platform or a sales website. The form's purpose is to collect order details such as product name, quantity, price, customer name, email, phone number, and selected products. This form might be used for internal sales teams or external customers.
-</thinking>
-
 # Perfume Purchase Order Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to pre-order a custom guitar model. The form will guide them through selecting the guitar's model number, builder, finish, neck width, string length, and pickup selection. This form should not be filled out by customers who have already placed an order for a custom guitar model, as it is intended for new pre-orders.
-</thinking>
-
 # guitar_model_pre_order_form - Help Guide
 ## Purpose
 This form is for customers who want to pre-order a custom guitar model. Select the options that best fit your needs and we will create your custom guitar.

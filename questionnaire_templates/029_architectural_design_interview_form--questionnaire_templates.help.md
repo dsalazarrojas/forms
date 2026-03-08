@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for candidates to provide their information for an architectural design interview. It collects personal and professional details, such as contact information, work experience, technical skills, and design philosophy. The form is divided into several sections, each focusing on a specific aspect of the candidate's background and skills. 
-
-To ensure accuracy, please review each field carefully and ensure that the information provided is up-to-date and relevant.
-
-</thinking>
-
 # Architectural Design Interview Form - Help Guide
 ## Purpose
 The Architectural Design Interview Form is designed to collect detailed information from candidates for an architectural design interview. This form helps us assess your qualifications, experience, and fit for the position.

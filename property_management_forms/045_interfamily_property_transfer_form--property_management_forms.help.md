@@ -1,11 +1,5 @@
 # Interfamily Property Transfer Form - Help Guide
 
-<thinking>
-
-This form is used for interfamily property transfer, which is the process of transferring ownership or rights of a property between family members. The form is intended to collect necessary information to facilitate this process. This form is not a substitute for professional advice, and users should consult with experts if they are unsure about any aspect of the property transfer.
-
-</thinking>
-
 # Purpose
 The Interfamily Property Transfer Form is a tool to assist in the process of transferring ownership or rights of a property between family members.
 

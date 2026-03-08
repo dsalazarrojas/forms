@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the condition and maintenance needs of a room, likely for maintenance, inspection, or evaluation purposes within a residential or commercial property. It's a comprehensive checklist that gathers essential information about a room, including its ID, name, condition, and maintenance items needed. The form may be used by property managers, maintenance staff, or inspectors to assess the state of a room and prioritize maintenance tasks. It's a standard form that doesn't duplicate similar forms within this category, and its purpose is clear and well-defined.
-</thinking>
-
 # Room Evaluation Checklist - Help Guide
 ## Purpose
 The Room Evaluation Checklist form is used to assess the condition of a room within a property and identify necessary maintenance or evaluation tasks.

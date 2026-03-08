@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a psychological assessment tool designed to gauge an individual's life satisfaction levels across various dimensions. It is not a medical diagnostic tool, and the results should not be used for clinical diagnosis or treatment. This form will help you understand your overall satisfaction with life, relationships, and daily experiences. Please complete the form carefully to provide an accurate assessment of your current mental state.
 
 # Life Satisfaction Survey - Help Guide

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by business owners or administrators to assess the overall health of their business. It is designed to be a quick and straightforward evaluation tool to gauge key areas of the business that require improvement. By answering the questions in this form, users can get a snapshot of their business's current status and identify areas that need attention. To prevent duplication of effort, it is recommended to use this form periodically to track changes and progress over time.
-
-</thinking>
-
 # Business Health Check Up Questionnaire - Help Guide
 ## Purpose
 The Business Health Check Up Questionnaire is a form designed to assess the overall health of your business, helping you identify areas that require improvement and track your progress over time.

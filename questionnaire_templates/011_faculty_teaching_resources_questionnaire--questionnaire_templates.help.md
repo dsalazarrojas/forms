@@ -1,7 +1,3 @@
-<thinking>
-This form is a questionnaire designed to collect feedback from faculty members about their teaching resources. The purpose of this form is to gather information on how often faculty members use teaching resources, what they use, and how they find our resources helpful or not. This will help us identify areas of improvement and provide better support to our faculty members. Please ensure that you are only answering this questionnaire if it is relevant to your teaching practices. If you have already completed this questionnaire, please do not answer it again.
-</thinking>
-
 # Faculty Teaching Resources Questionnaire - Help Guide
 
 ## Purpose

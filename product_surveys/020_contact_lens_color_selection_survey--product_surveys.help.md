@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect user feedback on contact lens color selection. The goal is to gather information on user preferences and demographics to help inform the development of colored lens products. This form is likely used by companies that manufacture or sell contact lenses to gather data on their target audience. 
-
-The following guide will walk you through the form's purpose, how to complete it, and what each field represents. 
-
-</thinking>
-
 # Contact Lens Color Selection Survey - Help Guide
 ## Purpose
 This survey aims to gather information on your preferences and demographics to help us better understand your needs and interests in contact lens colors.

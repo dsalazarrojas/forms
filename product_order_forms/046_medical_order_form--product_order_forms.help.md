@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to create medical orders, and it is used by healthcare professionals to manage patient information, medical products, and order details. The form should only be completed for legitimate medical orders, and it is crucial that the information provided is accurate and up-to-date.
-</thinking>
-
 # medical_order_form - Help Guide
 ## Purpose
 The medical order form is a critical tool for healthcare professionals to create, manage, and track medical orders. This form helps healthcare providers to gather and document patient information, medical products, and order details accurately and efficiently.

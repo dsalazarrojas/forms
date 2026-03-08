@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help individuals reflect on their mental clarity and focus in a specific period. The Clarity Reflection Worksheet aims to assist participants in identifying their strengths, weaknesses, and areas for improvement. It's an assessment tool for personal growth and self-awareness.
-Please use this form responsibly and ensure that participants understand the importance of honesty and self-reflection.
-Ensure that users do not repeat the form if they've already filled it out, as the purpose of this form is to track progress and changes over time.
-</thinking>
-
 # Clarity Reflection Worksheet - Help Guide
 ## Purpose
 The Clarity Reflection Worksheet is a self-assessment tool designed to help individuals gain insight into their mental clarity and focus. It's a 23-question form that guides users through a series of questions to identify their strengths, weaknesses, and areas for improvement.

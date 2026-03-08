@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from guests interested in renting a mountain lodge. The form captures essential details about the guest's personal and travel preferences, including contact information, dates of stay, and special requirements. To ensure the form is used correctly, please make sure to provide accurate and truthful answers, as this information will be used for lodge management and communication with the guest. Additionally, please note that some fields are optional, but providing accurate and complete information will help us better serve your needs during your stay...</thinking>
-
 # Mountain Lodge Rental Application Form - Help Guide
 ## Purpose
 The Mountain Lodge Rental Application Form is designed to collect information from guests interested in renting a mountain lodge. This form helps us understand their needs and preferences for a comfortable stay.

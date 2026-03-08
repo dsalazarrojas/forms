@@ -1,11 +1,3 @@
-<thinking>
-The Hybrid Work Productivity Monitoring Form is designed to track employee productivity and work patterns during the COVID-19 pandemic. This form aims to gather data on employees' work habits, locations, and schedules to help management and HR teams understand how remote work is affecting productivity and employee well-being.
-
-The form is used to collect information on employee's name, role, work location, hours worked, work schedule, and other relevant details. By filling out this form, employees can provide valuable insights into their work habits, allowing for data-driven decisions to be made.
-
-Before filling out this form, please ensure that you have not already completed this form. If you have, your data will be updated accordingly.
-</thinking>
-
 # Hybrid Work Productivity Monitoring Form - Help Guide
 ## Purpose
 The Hybrid Work Productivity Monitoring Form is designed to track employee productivity and work patterns during the COVID-19 pandemic.

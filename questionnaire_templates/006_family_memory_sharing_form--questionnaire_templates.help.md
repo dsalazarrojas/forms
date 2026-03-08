@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Memory Sharing Form - Help Guide
 
 ## Purpose

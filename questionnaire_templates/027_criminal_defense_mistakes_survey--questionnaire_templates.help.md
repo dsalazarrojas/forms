@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about potential mistakes that can occur during a criminal defense process. It is intended to be used by defense attorneys, law firms, or other stakeholders in the criminal justice system to identify areas where improvements can be made to better serve their clients or cases. This form should only be filled out by authorized personnel. 
-</thinking>
-
 # Criminal Defense Mistakes Survey - Help Guide
 
 ## Purpose

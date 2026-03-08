@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information on the experiences and opinions of individuals on the impact of urban housing policies. It should only be used to collect data on a specific group of people, and not for general public opinion collection. Please ensure that this form is not duplicated or used for any other purpose that may compromise the intended use.
-</thinking>
-
 # Urban Housing Policy Impact Survey - Help Guide
 ## Purpose
 This survey aims to gather your thoughts and experiences on the current urban housing policy and its effects on your living situation. The information collected will be used to inform and improve policies for a specific community.

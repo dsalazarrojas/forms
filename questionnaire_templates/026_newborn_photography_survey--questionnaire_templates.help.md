@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Newborn Photography Survey - Help Guide
 ## Purpose
 The Newborn Photography Survey is designed to gather information from parents who have recently had their newborns photographed. The form aims to collect details about the photographer, parent, session preferences, and other relevant information to help us improve our photography services.

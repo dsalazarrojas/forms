@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for collecting feedback and ratings from users, which will be used to improve the service. The purpose of this form is to gather contact information, impressions, and feedback from users. It is designed to be completed by users who have had a personal interaction with the service, such as a customer service representative or a sales representative. To ensure that this form is completed by the intended audience, please verify that you have had a recent interaction with the service before filling it out.
-To avoid duplication, please do not fill out this form if you have already submitted feedback or ratings for the same service in the past.
-</thinking>
-
 # Lyon Questionnaire - Help Guide
 ## Purpose
 The Lyon Questionnaire is a form designed to collect feedback and ratings from users who have had a personal interaction with the service. This form is intended to gather contact information, impressions, and feedback from users to help improve the service.

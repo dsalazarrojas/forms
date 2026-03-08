@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # work_from_home_business_questionnaire - Help Guide
 
 ## Purpose

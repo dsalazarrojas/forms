@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # International Trade Survey - Help Guide
 ## Purpose
 This form is designed to collect information about international trade activities. The purpose of this form is to gather data on the markets served, trade volumes, challenges faced, and other relevant details from international trade participants.

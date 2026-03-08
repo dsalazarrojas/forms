@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication of efforts, this form is designed to collect data from individuals who have not taken the certification exam yet, or who are preparing for it. The purpose of this form is to understand their needs and preferences for the certification exam preparation program. It gathers information on their study habits, challenges, and experiences, which will help in providing better support and resources for the exam preparation process.
-</thinking>
-
 # Certification Exam Preparation Survey - Help Guide
 ## Purpose
 This form is a survey for individuals preparing for a certification exam. It aims to collect information on their study habits, challenges, and experiences to improve the certification exam preparation program.

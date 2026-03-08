@@ -1,7 +1,3 @@
-<thinking>
-This form is used to acknowledge and record the status of an estate review, including the user's details, review details, and confirmed status. The form should only be completed once the review has been conducted and the reviewer has confirmed the review's status. This form should not be used for duplicate reviews of the same estate.
-</thinking>
-
 # Estate Review Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to acknowledge and record the status of an estate review, including the user's details, review details, and confirmed status.

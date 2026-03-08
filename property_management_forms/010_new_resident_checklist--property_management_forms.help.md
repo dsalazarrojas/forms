@@ -1,9 +1,3 @@
-<thinking>
-The form is intended for new residents to provide their information and preferences for property management purposes.
-The form likely serves as a template for property management teams to collect and organize data for new residents.
-The form likely needs to be filled out only once per new resident.
-</thinking>
-
 # New Resident Checklist - Help Guide
 ## Purpose
 The New Resident Checklist is a form used to collect information from new residents, enabling the property management team to effectively manage their data and preferences.

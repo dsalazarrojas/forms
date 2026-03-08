@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive questionnaire designed to gather information about a person's family, preferences, and interests. The questions cover a wide range of topics, from demographic information about family members to personal preferences regarding hobbies, travel, and favorite foods. The form is intended for use in various settings, such as family planning or research purposes. Please ensure that you understand the form's purpose and the type of information being collected before filling it out.
-</thinking>
-
 # Family Questionnaire - Help Guide
 ## Purpose
 The Family Questionnaire is a comprehensive form designed to collect information about a person's family, preferences, and interests. The form is intended for use in various settings, such as family planning or research purposes.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that users understand what they're getting into. This form is for gathering feedback from tourists about their experiences with our tourism services. It will help us identify areas of improvement and provide valuable insights to enhance our services. Please make sure you're completing this form for the right purpose and not duplicating effort - we're looking for specific, unique feedback from each individual.
-</thinking>
-
 # Tourism Services Feedback Questionnaire - Help Guide
 
 ## Purpose

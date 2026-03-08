@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to determine relevance and non-duplication...
-
-The form's primary purpose is to assess the client's reliability based on various factors, gathering information such as demographic data, occupation, language proficiency, financial stability, emotional stability, coping mechanisms, emergency contact information, and informed consents. This form is likely designed for therapeutic or counseling settings.
-
-To avoid duplication and ensure accurate assessment, it is essential to fill out the form carefully and thoroughly. Please review each section to understand its relevance and importance in the assessment.
-
-</thinking>
-
 # Psychological Reliability Assessment - Help Guide
 ## Purpose
 The form is designed to gather essential information about the client to assess their reliability. It includes questions on demographics, occupation, language proficiency, financial stability, emotional stability, coping mechanisms, emergency contact information, and informed consents.

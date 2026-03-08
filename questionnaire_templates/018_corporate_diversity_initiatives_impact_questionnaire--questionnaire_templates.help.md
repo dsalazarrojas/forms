@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and assess the impact of diversity and inclusion initiatives in various departments within a corporation. To complete this form, please follow the instructions below.
-</thinking>
-
 # corporate_diversity_initiatives_impact_questionnaire - Help Guide
 ## Purpose
 This form helps departments report on the impact and progress of their diversity and inclusion initiatives.

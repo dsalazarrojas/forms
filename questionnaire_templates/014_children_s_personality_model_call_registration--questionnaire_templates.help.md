@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed for registering a call with a child, typically in a family or social services setting. The form is meant to be completed by a family member or caregiver, and it is used to gather necessary information for a scheduled call with a professional or counselor. This information will be used to prepare for the call and ensure that the conversation is productive and effective. 
-
-Before proceeding, please verify that you are the correct person to complete this form and that you have not already completed this form. If you are not the correct person or have already completed this form, please do not proceed.
-
-</thinking>
-
 # Children Personality Model Call Registration - Help Guide
 ## Purpose
 The Children Personality Model Call Registration form is designed to gather information about a child's personality and needs, which will be used to schedule a call with a professional or counselor. This call will help you better understand your child's personality and provide you with guidance and support.

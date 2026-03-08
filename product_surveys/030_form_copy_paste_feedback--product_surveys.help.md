@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to collect feedback from users on the copy-paste functionality of a product or application. The purpose of this form is to gather information on whether the copy-paste functionality works as expected, what issues users have encountered, and any screenshots or attachments that can help troubleshoot the problem.
-
-To ensure that the feedback is relevant and not a duplicate, we ask users to provide information about their operating system, browser type, and browser version, as well as a screenshot or attachment of the issue they are experiencing.
-
-The form collects information on various aspects of the copy-paste functionality, including whether it works as expected, what issues users have encountered, and how they would rate their satisfaction with the functionality. Users are also asked to provide a description of the issue they are experiencing and any relevant attachments or screenshots.
-
-Please note that the form is designed to collect both quantitative and qualitative feedback, allowing us to gain a better understanding of the user's experience and any problems they may be facing.
-
-</thinking>
-
 # Form Copy Paste Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users on the copy-paste functionality of a product or application.

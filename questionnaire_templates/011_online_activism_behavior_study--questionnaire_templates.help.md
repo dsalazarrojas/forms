@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Activism Behavior Study - Help Guide
 ## Purpose
 This form is designed to collect information about online activism behavior, including how people use the internet, what motivates them to take action online, their demographics, motivations for taking online actions, and their perceptions of the online world. The form aims to gather insights into online behaviors and attitudes.

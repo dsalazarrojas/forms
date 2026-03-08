@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Pre Sales Questionnaire Form - Help Guide
 ## Purpose
 The Pre Sales Questionnaire Form is a tool to gather essential information about potential sales opportunities. It helps identify key aspects of sales leads and provides a structured approach to assess their potential. By filling out this form, you will be able to provide valuable insights to your sales team, helping them to prioritize and pursue leads more effectively.

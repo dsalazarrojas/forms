@@ -1,11 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to verify the rental history of a property. This form is likely used by property managers to confirm or update information about a rental property. The form's purpose is to gather specific details about the rental, such as the tenant's name, property address, rental start and end dates, and whether or not the rental history is verified. 
-
-When a user completes this form, we want to ensure they understand what each field represents. 
-
-</thinking>
-
 # rental_history_verification_form - Help Guide
 ## Purpose
 This form is used to verify the rental history of a property. It is used by property managers to gather information about a rental property's past and current status.

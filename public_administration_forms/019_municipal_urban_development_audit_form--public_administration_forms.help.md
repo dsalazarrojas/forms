@@ -1,7 +1,3 @@
-<thinking>
-The goal of the Municipal Urban Development Audit Form is to document and track the progress of site inspections, findings, follow-ups, and other relevant information related to municipal urban development projects. This form is used by municipal administrators to collect data and insights that can inform decision-making and resource allocation. It's essential to ensure that each form is filled out accurately and thoroughly to maintain consistency and prevent duplication of effort. This guide is intended to help users complete the form effectively and efficiently.
-</thinking>
-
 # Municipal Urban Development Audit Form - Help Guide
 ## Purpose
 The Municipal Urban Development Audit Form is used to collect data on site inspections, findings, follow-ups, and other relevant information related to municipal urban development projects. This form helps administrators track progress and make informed decisions.

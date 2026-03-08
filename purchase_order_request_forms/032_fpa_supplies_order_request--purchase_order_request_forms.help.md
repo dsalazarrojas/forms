@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture information for the request of purchase orders for FPA supplies. It's crucial to ensure that the form is filled out correctly to avoid errors and ensure that the order is processed efficiently. Before proceeding, please review the following guide to understand how to complete the form accurately.
-
-</thinking>
-
 # Fpa supplies order request - Help Guide
 ## Purpose
 This form is used to request FPA supplies. It's designed to gather essential information about the order, ensuring that the request is processed correctly and efficiently.

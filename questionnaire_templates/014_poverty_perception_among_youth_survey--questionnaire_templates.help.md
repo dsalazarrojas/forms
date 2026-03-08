@@ -1,14 +1,6 @@
 # Poverty Perception Among Youth Survey - Help Guide
 ## Purpose
 
-<thinking>
-**Purpose:** This form aims to gauge the community's perception of poverty among youth by gathering information on individual experiences, feelings, and views on the causes, impacts, and potential solutions to this social issue.
-
-Please ensure that you answer the required questions and select all relevant options that apply to you. This will help us better understand the complex issue of poverty among youth.
-
-**Non-duplication warning:** Do not answer the same question multiple times, as this may skew the results.
-</thinking>
-
 ## How To Complete This Form
 
 1. Please answer the questions honestly and provide as much detail as needed for each field.

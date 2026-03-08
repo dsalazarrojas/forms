@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CT Imaging Knowledge Assessment - Help Guide
 ## Purpose
 

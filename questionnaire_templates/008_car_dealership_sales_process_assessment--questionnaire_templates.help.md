@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to assess the sales process of a car dealership, evaluating key aspects such as greeting and initial contact, needs discovery and qualification, vehicle presentation and features, test drive experience, objection handling and negotiation, closing and agreement, follow-up and relationship management, and more. This form is designed to provide a comprehensive evaluation of a salesperson's performance, identifying strengths and areas for improvement. The form is typically used by sales managers or trainers to evaluate and improve the sales process of their team members.
-
-The questions are based on a series of assessments for each step of the sales process, with the following sections: 
-- Greeting and Initial Contact 
-- Needs Discovery and Qualification 
-- Vehicle Presentation and Features 
-- Test Drive Experience 
-- Objection Handling and Negotiation 
-- Closing and Agreement 
-- Follow-Up and Relationship Management 
-
-The fields on the form are designed to be specific and relevant to these steps, providing clear and concrete information that can help identify areas for improvement and provide constructive feedback.
-</thinking>
-
 # Car Dealership Sales Process Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate the sales process of a car dealership, providing a comprehensive assessment of a salesperson's performance.

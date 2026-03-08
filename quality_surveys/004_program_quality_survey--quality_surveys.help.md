@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to gather feedback from program administrators, managers, or other stakeholders about the program's quality. It is meant to be completed by individuals who have experience with the program and can provide an informed assessment. Please ensure that you are completing this form only once for each program. If you have already completed this form for the same program, please do not repeat the effort. Your feedback will help us improve the program's quality and better serve its stakeholders.</thinking>
-
 # Program Quality Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from program stakeholders about the program's quality. Your input will help us improve the program's performance and better serve its clients.

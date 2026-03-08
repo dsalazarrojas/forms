@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's neurodivergent identity, experience, and support systems. The form includes questions about age, email, and specific neurodivergent conditions such as ADHD, Asperger, and self-harm. The form is intended to be completed by individuals who are neurodivergent or have a strong connection to neurodivergence. 
-Please ensure that this form is being completed by the individual who is being assessed, as some questions may be sensitive or personal in nature. This form is not intended for diagnostic purposes, but rather to gather information for support and understanding.
-
-Before starting, please note that some questions are optional, and you can choose to skip them if you feel uncomfortable or unsure. Also, please be aware that this form is not a substitute for professional medical or psychological evaluation. If you are experiencing any difficulties or concerns, please seek help from a qualified professional.
-</thinking>
-
 # Neurodivergent Identification Survey - Help Guide
 ## Purpose
 The Neurodivergent Identification Survey is designed to collect information about an individual's neurodivergent identity, experiences, and support systems. This information will help identify areas of potential support and accommodations that may be needed.

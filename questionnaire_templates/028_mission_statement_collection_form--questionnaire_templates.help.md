@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect mission statements from users. Mission statements are short, concise statements that describe the purpose and goals of an organization, project, or individual. This form is an AI-generated adaptation of a public survey template and is not affiliated with any specific form platform. It can be used to collect mission statements from users in various contexts, such as company, project, or personal mission statements.
-</thinking>
-
 # Mission Statement Collection Form - Help Guide
 ## Purpose
 The Mission Statement Collection Form is designed to collect mission statements from users. Mission statements are short, concise statements that describe the purpose and goals of an organization, project, or individual.

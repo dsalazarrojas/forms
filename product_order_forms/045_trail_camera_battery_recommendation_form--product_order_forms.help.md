@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information to recommend a suitable battery for a trail camera. A trail camera is a type of camera used for outdoor surveillance, wildlife observation, or other purposes. The form aims to help users find the best battery for their specific needs, taking into account their usage pattern, environment, battery type, battery size, budget, expected use, camera brand, and camera model.
-</thinking>
-
 # Trail Camera Battery Recommendation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information to recommend a suitable battery for a trail camera based on your specific needs.

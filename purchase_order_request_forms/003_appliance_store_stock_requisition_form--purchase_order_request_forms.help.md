@@ -1,11 +1,3 @@
-<thinking>
-Appliance Store Stock Requisition Form is used to submit internal requisitions for inventory stock replenishment. The form helps employees in Sales, Service, Warehouse, and Retail departments to request items for their respective needs. It captures essential information such as item description, quantity required, and needed-by date to facilitate the stock replenishment process efficiently.
-
-This form is meant to be used by employees who have been authorized to submit requisitions. Before submitting, please ensure that you have the necessary authorization to request stock for your department.
-
-To prevent duplicate requests, please check with your department manager or the previous requests made by your team before submitting a new requisition.
-</thinking>
-
 # Appliance Store Stock Requisition Form - Help Guide
 ## Purpose
 This guide will walk you through the Appliance Store Stock Requisition Form, which is used to submit requests for stock replenishment to facilitate internal inventory management.

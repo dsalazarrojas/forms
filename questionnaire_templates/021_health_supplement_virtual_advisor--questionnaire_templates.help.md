@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to guide users through a series of questions to gather information about a person's health supplements needs. This form is designed to be completed by users to assess their health goals, medical history, and supplement preferences. The form is likely used by a healthcare professional or a supplement advisor to provide personalized recommendations for health supplements.
-</thinking>
-
 # Health Supplement Virtual Advisor - Help Guide
 ## Purpose
 The Health Supplement Virtual Advisor is a form designed to collect information about a person's health goals, medical history, and supplement preferences. This guide will walk you through each field of the form to help you complete it accurately and effectively.

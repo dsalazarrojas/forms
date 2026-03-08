@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block)
-
-This form is designed to collect general information about geopolitical and economic trends. It is used to gauge the respondent's opinions on various aspects of geopolitics and economics. This form is not specific to a particular project or initiative, and it is intended to be a general survey to gather insights on the current state of geopolitics and economics. Please ensure that you have the necessary permissions and approvals before completing this form, as the information collected may be sensitive or confidential.
-
-</thinking>
-
 # Geopolitical And Economic Survey - Help Guide
 ## Purpose
 This form is designed to collect general information about geopolitical and economic trends.

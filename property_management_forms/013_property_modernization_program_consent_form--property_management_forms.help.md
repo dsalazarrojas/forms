@@ -1,12 +1,3 @@
-<thinking>
-This form is part of the Property Modernization Program, and its purpose is to collect information from property owners about their property's condition, improvement needs, and contact information. The form is designed to be completed by property owners who have expressed interest in participating in the program. The information collected will help the program team understand the property's condition and tailor their support and resources accordingly.
-
-When completing this form, please ensure that you have permission from the property owner or authorized representative to do so. 
-
-The form consists of 8 fields, each with a specific purpose. Please review the explanation below to ensure you understand what information is being collected and why.
-
-</thinking>
-
 # Property Modernization Program Consent Form - Help Guide
 ## Purpose
 The Property Modernization Program is a program aimed at providing support and resources to property owners to improve their properties. This form is used to collect information about the property's condition and the owner's needs.

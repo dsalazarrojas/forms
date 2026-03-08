@@ -1,10 +1,3 @@
-<thinking>
-The Mortality Themes Assessment form is designed to evaluate an individual's perspectives, fears, and beliefs related to mortality. This form will help users assess their own mortality themes, which may influence their attitudes and behaviors towards death and dying.
-The form is not intended to be a medical diagnosis tool, but rather a self-assessment instrument. 
-Please ensure you complete the form accurately and truthfully to ensure the most valid results. 
-If you have completed this form previously, please refrain from doing so again, as this may affect your results.
-</thinking>
-
 # Mortality Themes Assessment - Help Guide
 ## Purpose
 The Mortality Themes Assessment is a self-assessment tool designed to evaluate your perspectives, fears, and beliefs related to mortality. This form will help you understand your own mortality themes, which may influence your attitudes and behaviors towards death and dying.

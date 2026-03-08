@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and comments from veterans or their representatives regarding improved veteran services. It is designed to be completed by individuals who wish to provide their thoughts and suggestions on how to better serve veterans. The form should not be used to report an emergency or urgent matter. Please make sure to complete the form only once for each individual's feedback.
-</thinking>
-
 # Petition For Improved Veteran Services - Help Guide
 ## Purpose
 The Petition For Improved Veteran Services form is used to collect feedback and comments from veterans or their representatives on how to improve veteran services. This form is an opportunity for individuals to provide their thoughts and suggestions on how to better serve veterans.

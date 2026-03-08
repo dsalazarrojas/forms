@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Solo Availability Survey - Help Guide
 ## Purpose
 This form is used to determine a person's availability for solo activities or projects. It is designed to gather information on the number of days they are available and the specific time slots they can commit to.

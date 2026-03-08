@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form seems to be designed for customers to place orders for digital files, which implies the purpose of the form is to collect information for order fulfillment and payment processing.
 
 To ensure relevance, I will focus on explaining the form fields that are directly related to the order and payment process.

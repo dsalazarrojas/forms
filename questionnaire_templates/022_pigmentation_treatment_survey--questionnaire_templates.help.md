@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a client's pigmentation concerns, prior treatments, expected outcomes, goals, and client's expectations. It's intended for an aesthetician or healthcare professional to collect data about the client's skin conditions, medical history, and desired results. The form is likely to be used in a dermatology or skincare setting. Please fill out this form carefully and accurately to ensure the collected data is reliable and useful for the aesthetician's or healthcare professional's analysis and treatment planning.
-</thinking>
-
 # Pigmentation Treatment Survey - Help Guide
 ## Purpose
 This form is designed to gather information about a client's pigmentation concerns, prior treatments, expected outcomes, goals, and client's expectations.

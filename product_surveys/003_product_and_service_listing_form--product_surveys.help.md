@@ -1,15 +1,3 @@
-<thinking>
-
-To create a helpful user-facing guide for the "Product And Service Listing Form", we first need to understand its purpose and the fields it contains. The form is used to collect data for product and service listings, and it appears to be a simple text-based form. However, to be confident in our explanation, let's break down each field to ensure we're covering all the necessary points.
-
-The purpose of this form is likely to provide an easy-to-use interface for users to input their product and service information. The form seems to be designed for text-based input, which suggests it may be used in a web or mobile application.
-
-Now, let's assume that the form is used to collect data for a product listing, such as a product description, and that the "Collect Inquiries" field is used to determine if the user wants to collect inquiries related to the product. This is a reasonable assumption, but we should keep in mind that the actual purpose and functionality might differ.
-
-With this understanding, let's move on to creating the user-facing help guide.
-
-</thinking>
-
 # Product And Service Listing Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Property Management Transparency Survey is designed to gather feedback from property managers, residents, and stakeholders on the level of communication, transparency, and issue resolution in the property management process. This survey aims to identify areas of improvement and provide insights for property managers to enhance their services.
 
 </thinking>

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for customers to pre-order a product from the Home Accent product line. It is intended to gather essential information from customers, including their name, contact details, and order preferences. 
-
-The form will be used to capture order details to ensure accurate processing and shipping of the ordered items. 
-
-The form's data will be reviewed internally to prevent any duplicate orders or incorrect information. 
-
-</thinking>
-
 # home-accent-pre-order-form - Help Guide
 ## Purpose
 The "home-accent-pre-order-form" is a form used to pre-order a product from the Home Accent product line. It is designed to collect customer information and order details to ensure accurate processing and shipping of the ordered items.

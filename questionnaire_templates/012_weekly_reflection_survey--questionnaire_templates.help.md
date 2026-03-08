@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I understand that the Weekly Reflection Survey form is designed to gather feedback and insights from users on their weekly progress and experiences. This form is likely used to track individual or team performance, identify areas of improvement, and inform decisions for the next week. Before I start explaining the form purpose and how to complete it, I will confirm that this form is not intended for any specific business logic or process that I am not aware of. If there are any specific business logic or processes that this form is part of, please let me know so I can provide a more accurate explanation.</thinking>
-
 # Weekly Reflection Survey - Help Guide
 ## Purpose
 The Weekly Reflection Survey is a form designed to help you reflect on your progress, goals, and experiences from the past week. This form is meant to be a personal or team-wide activity to help you identify areas of improvement, celebrate successes, and plan for the next week.

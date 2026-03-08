@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request access to the property management portal. The purpose of this form is to collect relevant information about the requested access, including the tenant's ID, the date and time of the request, the reason for the access, and the duration of the access. This form is likely used by property managers or administrators to manage access requests from tenants, ensuring that access is granted or denied based on the provided information.
-The form has multiple pages, but for the sake of this help guide, we will focus on one page at a time.
-</thinking>
-
 # property_management_portal_access_form - Help Guide
 
 ## Purpose

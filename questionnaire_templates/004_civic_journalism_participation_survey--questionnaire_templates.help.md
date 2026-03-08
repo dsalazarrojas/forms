@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about your background and experiences as a civic journalist or media professional. This survey aims to understand your role, areas of focus, and the challenges you face in the field of civic journalism. The goal is to better serve the needs of the civic journalism community and improve the overall quality of journalism in your community. This form should only be filled out once per person, to avoid duplication of responses. If you have already filled out this form, do not fill it out again.
-</thinking>
-
 # Civic Journalism Participation Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your background and experiences as a civic journalist or media professional. The goal is to better serve the needs of the civic journalism community and improve the overall quality of journalism in your community.

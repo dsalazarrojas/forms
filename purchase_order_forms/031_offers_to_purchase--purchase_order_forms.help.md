@@ -1,7 +1,3 @@
-<thinking>
-The "offers_to_purchase" form is designed to collect information from potential buyers about their offers on a property. This includes details such as buyer info, property type, address, offer date and time, price, terms, and other specific terms. The form is intended for internal use by real estate agents or brokers to assess offers and facilitate the buying and selling process. To prevent duplication, this form should only be used for single property offers and not for multiple properties or offers from different individuals.
-</thinking>
-
 # offers_to_purchase - Help Guide
 ## Purpose
 The "offers_to_purchase" form is a tool for real estate agents or brokers to collect information from potential buyers about their offers on a property. It helps to gather details such as buyer info, property type, address, offer date and time, price, and terms to facilitate the buying and selling process.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to capture accurate and consistent information from users. The "Soda Flavor Release Form" is designed to collect user feedback on new flavor submissions for the product development team. It's essential to fill out the form accurately and completely to help the team understand the user's preferences and needs. Before proceeding, please review the form carefully and only enter the required information. If you're unsure about any section, refer to this help guide for clarification.
-</thinking>
-
 # Soda Flavor Release Form - Help Guide
 ## Purpose
 This form is used to collect user feedback on new flavor submissions for the product development team. Please fill it out carefully to provide accurate and helpful information to the team.

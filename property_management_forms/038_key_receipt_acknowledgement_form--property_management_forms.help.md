@@ -1,7 +1,3 @@
-<thinking>
-This form is used to acknowledge and document the receipt of a physical key. The user is expected to provide details such as the type and description of the key, the serial number of the key, the date it was issued, who received it, where it was received, and any conditions it may be subject to. This form is meant to be completed by the person receiving the key, and it serves as a record of the transaction. Please make sure that you are filling out this form for the correct key and purpose, and that the information provided is accurate and complete. Before proceeding, ensure that this form is not being used for a duplicate transaction.
-</thinking>
-
 # Key Receipt Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to document the receipt of a physical key, ensuring accurate and complete information is recorded for future reference.

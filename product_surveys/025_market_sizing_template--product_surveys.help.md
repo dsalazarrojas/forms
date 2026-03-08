@@ -1,14 +1,3 @@
-<thinking>
-The form "Market Sizing Template" is designed to help users estimate the potential revenue for a product or service in a specific market. This template is intended to be a general-purpose tool, but it might not be applicable to every type of business or product. Please use this guide to ensure you understand the form's purpose and can accurately fill it out.
-
-To complete this form, follow these steps:
-
-1.  Navigate through the pages of the form, starting with the "Intro Page" (page 1).
-2.  On each subsequent page, fill out the fields according to the instructions below.
-3.  The form is divided into multiple pages with distinct fields for each. 
-
-</thinking>
-
 # Market Sizing Template - Help Guide
 ## Purpose
 The Market Sizing Template is a tool to help estimate the potential revenue for a product or service in a specific market. This template guides you through a series of questions to gather essential information about your market, competition, and revenue projections.

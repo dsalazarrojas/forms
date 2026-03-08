@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from patients about their experience at a rural clinic. The purpose of this form is to assess the quality of service provided by the clinic. It is intended to be completed by patients who have visited the clinic and is meant to help the clinic understand areas of improvement.
-
-To avoid duplication of effort, this form should only be completed by patients who have not already provided feedback on the same clinic.
-
-</thinking>
-
 # rural_clinic_healthcare_service_quality_survey - Help Guide
 ## Purpose
 This form is used to gather feedback from patients about their experience at a rural clinic, to help the clinic understand areas of improvement.

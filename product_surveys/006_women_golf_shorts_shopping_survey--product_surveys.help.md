@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect data on women's golf shorts shopping habits and preferences. The form will be used to analyze user opinions on various aspects of golf shorts, including category, shopping channel, price range, length, waist size, material type, sleeve length, pocket type, color, size, satisfaction, whether they would buy again, and whether they would recommend the product to others. The purpose of this form is to gather information on user preferences and opinions to inform product development and marketing strategies. This form is intended for general public use, and the collected data will not be used to identify individual users.
-</thinking>
-
 # Women Golf Shorts Shopping Survey - Help Guide
 ## Purpose
 This form is designed to collect information on your opinions and preferences regarding women's golf shorts. The data collected will help us understand what you like and dislike about golf shorts, and will be used to inform product development and marketing strategies.

@@ -1,7 +1,3 @@
-<thinking>
-We should first confirm that the purpose of the form is to gather information about the user's preferences and concerns regarding digital tracking features. The form is designed to collect input from users on various aspects of digital tracking, such as their likes, privacy preferences, acceptable use cases, and concerns. This form should only be used for users who are interested in providing feedback on digital tracking features and are not redundant or duplicate responses should be filtered out.
-</thinking>
-
 # Digital Tracking Features Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their preferences and concerns regarding digital tracking features. The goal is to gather information that will help improve the development and design of digital tracking features.

@@ -1,7 +1,3 @@
-<thinking>
-This form was designed using AI, taking into account public metadata from "Subclavian Anatomy Quiz" in the "Anatomy" category. The form's purpose is to help users complete a quiz on subclavian anatomy, but without more context, it's hard to determine what specific anatomy it covers. The form does not have any fields with specific options or validation rules, so users are free to answer in any way they want. There might be some overlap or redundancy in the questions asked. This form does not appear to have any specific industry or business logic backing its design, so it's likely a simple quiz.
-</thinking>
-
 # Subclavian Anatomy Quiz - Help Guide
 ## Purpose
 This form is designed to be a simple quiz on subclavian anatomy. It appears to cover different aspects of subclavian anatomy, but the specific topics covered are not specified.

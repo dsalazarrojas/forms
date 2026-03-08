@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual after an interview, typically used in employment or job placement contexts to assess the suitability of candidates for a given position. The form is likely used to gather personal and professional details of the candidate, including contact information, educational background, and work experience. This form helps the hiring team to better understand the candidate's qualifications and make informed decisions for further steps in the hiring process.
-</thinking>
 # Post Interview Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about you after an interview, to help us better understand your qualifications and suitability for the position.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to gather information from sports club members to better understand their preferences and habits. This form is part of the sports club's efforts to improve its services and offerings to cater to its members' needs. It is recommended that users only complete this form if they have a legitimate interest in the sports club.
 
 # Sports Club Survey Form - Help Guide

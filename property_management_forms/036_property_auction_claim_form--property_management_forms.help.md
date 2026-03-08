@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property-auction-claim-form - Help Guide
 ## Purpose
 This form is used to claim property auctions. The purpose of this form is to gather information about a property auction, including its type, bid date, and status. This form is used by property auctions managers to verify and manage property auction claims.

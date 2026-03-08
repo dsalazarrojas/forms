@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess a user's smartphone addiction. It is designed to evaluate the impact of smartphone usage on various aspects of a person's life, such as social relationships, mental and physical health, financial situation, and more. This form is intended for individuals who are concerned about their smartphone usage and want to gain insights into their behavior.
-
-Before starting, please note that this form should not be completed if you have already taken the Smartphone Addiction Assessment in the past. If you have taken the assessment previously, please do not repeat it. This form is intended to be a one-time evaluation.
-
-Please complete the form by answering the questions according to your true experiences and feelings. Be honest and accurate in your responses, as your answers will help in providing insights into your smartphone usage patterns and potential areas for improvement.
-</thinking>
-
 # Smartphone Addiction Assessment - Help Guide
 ## Purpose
 The Smartphone Addiction Assessment is a tool to evaluate the impact of smartphone usage on various aspects of your life.

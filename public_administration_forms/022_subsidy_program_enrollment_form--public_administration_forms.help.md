@@ -1,9 +1,3 @@
-<thinking>
-This form is for enrolling in a subsidy program. It is intended to be used by program participants to apply for and provide necessary information for their subsidy. Please ensure you only submit this form if you are eligible for the subsidy program.
-Before completing this form, ensure you have all necessary documents and information ready. This form is meant to be a one-time submission, and submissions may be reviewed for completeness and accuracy.
-When filling out the form, please be accurate and provide clear information.
-</thinking>
-
 # Subsidy Program Enrollment Form - Help Guide
 ## Purpose
 This form is for enrolling in a subsidy program. It is intended to be used by program participants to apply for and provide necessary information for their subsidy.

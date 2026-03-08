@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request equipment for golf courses. It's essential to understand that a golf course equipment request form is used for internal order management and communication within the golf course staff. To ensure accurate processing, please make sure to fill out this form with accurate information and follow the instructions carefully.
-
-Before filling out this form, please check if a similar request is already submitted or if the required equipment is already ordered.
-
-It is also crucial to note that the form will automatically be assigned to the course manager based on the course manager's selection. The form will be used to track the status of the equipment order, including the assigned staff member, the delivery date, and the delivery time.
-</thinking>
-
 # Golf Course Equipment Order Request - Help Guide
 ## Purpose
 This form is used to request equipment for a golf course. It is a crucial tool for internal communication and order management between the staff members.

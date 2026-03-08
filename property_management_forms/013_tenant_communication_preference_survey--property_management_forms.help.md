@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for tenant communication preferences. It allows users to provide details about their preferred contact methods, language, and timing. The form is likely used by property management teams to gather information about tenants' communication preferences for effective communication.
-
-To ensure that this form is not a duplicate, let's review the existing forms and check if this form is not already available or if it's a variation of an existing form.
-
-Before proceeding, please note that the form has two fields with the same name: "preferred_language". While it's not uncommon for a form to have duplicate fields, it's essential to review the business logic and determine if this is intentional or a mistake. For the purpose of this guide, we'll assume it's a mistake and use the first "preferred_language" field for the explanation.
-
-The following guide is based on the provided YAML fields and will focus on the form's purpose and fields that are likely intended to be used.
-</thinking>
-
 # tenant_communication_preference_survey - Help Guide
 ## Purpose
 The tenant communication preference survey is a form used to gather information from tenants about their preferred contact methods, language, and timing.

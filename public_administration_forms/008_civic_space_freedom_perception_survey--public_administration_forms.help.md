@@ -1,8 +1,3 @@
-<thinking>
-Before creating this form, we considered various sources on civic freedom and human rights. Civic space is a term referring to the freedom and rights that individuals have to participate in civil society, including the right to peaceful assembly, free expression, and association. This survey aims to gather information about the perceived state of civic space in different regions. We've taken into account international and national sources such as Freedom House, Freedom in the World, and the World Justice Project. 
-Please be aware that this form was created to gather information on perceptions of civic space in different regions, not to gather data on specific incidents or events. If you're not familiar with the concept of civic space, you might find this form helpful as a starting point to understand it better.
-</thinking>
-
 # Civic Space Freedom Perception Survey - Help Guide
 ## Purpose
 This survey aims to gather information about the perceived state of civic space in different regions. Civic space is the freedom and rights that individuals have to participate in civil society, including the right to peaceful assembly, free expression, and association.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participants in a public policy discussion. To ensure that only eligible participants are registered, please ensure that the information provided is accurate and up-to-date. Also, to avoid duplication, kindly check if someone with the same name and email address has already been registered before submitting this form.
-</thinking>
-
 # public_policy_discussion_registration_form - Help Guide
 ## Purpose
 The public policy discussion registration form is used to register participants for a public policy discussion event. This form captures necessary information for identification and categorization of participants.

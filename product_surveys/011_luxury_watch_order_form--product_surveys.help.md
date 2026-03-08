@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We've included a comprehensive help guide for the Luxury Watch Order Form to ensure a smooth and efficient experience for end users. Below is the user-facing help guide in Markdown format.
 
 # Luxury Watch Order Form - Help Guide

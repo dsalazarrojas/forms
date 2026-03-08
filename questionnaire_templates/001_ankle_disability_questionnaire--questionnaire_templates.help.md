@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's ankle disability, including their personal details, pain levels, mobility limitations, and current treatments or concerns. The purpose of this form is to provide a comprehensive understanding of the patient's current condition, which can help healthcare professionals make informed decisions about their care.
-
-The form is composed of various sections that gather different types of information from the patient. Section 1 is a note indicating that this is the personal information section. Section 2 collects the patient's name as it appears in medical records. Section 3 asks for the patient's date of birth in YYYY-MM-DD format. Section 4 and 5 are optional fields for contact information, including email and phone number. Section 6 and 7 gauge the patient's pain levels at rest and during activity, respectively, on a scale of 0 to 10. Section 8 is a multiple selection field where the patient can choose all that apply regarding mobility limitations. Section 9 asks about observed swelling or inflammation, with options ranging from none to severe. Section 10 allows the patient to provide details about current treatments or therapies they are undergoing. Finally, section 11 is a free-text field for any additional notes or concerns the patient may have.
-
-Please ensure you are completing this form for a valid reason and not for other purposes. Additionally, ensure that you are not duplicating an existing form submission. If you are unsure about any of the fields or sections, please reach out to the relevant healthcare professionals for guidance.</thinking>
-
 # Ankle Disability Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's ankle disability to aid in clinical assessment and decision-making.

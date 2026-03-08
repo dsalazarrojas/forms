@@ -1,6 +1,3 @@
-<thinking>
-We are creating a help guide for a user-facing form designed to collect information on powdered juice consumption. The form is intended to gather insights into the preferences, purchasing habits, and satisfaction levels of users. We aim to use this data to improve our product offerings and better serve our customers. To ensure that we don't duplicate any existing knowledge and to make this guide relevant and useful, we'll be focusing on the specific questions and fields presented in the form YAML. This guide will cover the form's purpose, how to complete it, and a detailed breakdown of each field for end-users' understanding.</thinking>
-
 # Powdered Juice Consumption Survey - Help Guide
 
 ## Purpose

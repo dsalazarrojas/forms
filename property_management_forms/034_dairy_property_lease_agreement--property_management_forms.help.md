@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to create a comprehensive Dairy Property Lease Agreement. This form is designed to collect essential information regarding the property lease, including start and end dates, term length, base rent, rent increase frequency, lease type, property address, and owner and tenant details. It is crucial to accurately fill out this form to ensure a smooth and secure leasing process. 
-
-Ensure that you have all the necessary information before completing this form, and take the time to review each field carefully to avoid any potential issues.
-</thinking>
-
 # Dairy Property Lease Agreement - Help Guide
 ## Purpose
 The Dairy Property Lease Agreement is a document used to outline the terms and conditions of a property lease between a landlord and a tenant. This form provides a comprehensive overview of the rental period, rental fees, and other essential details to ensure a clear understanding between the parties involved.

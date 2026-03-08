@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information about the respondent's experiences with health communication and equity issues. It's designed to measure various aspects of health communication, including access to health information, preferred communication channels, education level, healthcare access, and more. This form is meant to be used for research or analysis purposes, such as to identify areas where health communication can be improved or to develop targeted interventions to address health inequities. The form is not intended for clinical use or diagnosis.
-
-Before filling out this form, respondents should consider that some questions may ask for multiple choice answers, while others will ask for single choice. Additionally, be aware that some questions may ask for optional or multiple answers. Ensure that you answer each question truthfully and accurately, and that you complete all required sections before submitting the form.
-
-</thinking>
-
 # Health Communication Equity Survey - Help Guide
 
 ## Purpose

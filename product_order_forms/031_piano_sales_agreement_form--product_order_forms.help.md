@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Piano Sales Agreement Form - Help Guide
 ## Purpose
 

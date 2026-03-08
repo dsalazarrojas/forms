@@ -1,5 +1,3 @@
-<thinking>Form design is a crucial aspect of creating a good user experience, and it's essential to ensure that the form meets the needs of the users and the business. A well-designed form should be intuitive, easy to use, and provide clear instructions to minimize errors and support. In this case, the form is for the Psychopath Survey, which appears to be a diagnostic or assessment tool for personality disorders. The form has 24 questions with various types, including select_multiple, select_one, text, number, date, time, and email. The form's purpose is likely to gather information about the respondent's personality traits and characteristics.</thinking>
-
 # Psychopath Survey - Help Guide
 ## Purpose
 The Psychopath Survey is a diagnostic or assessment tool designed to gather information about your personality traits and characteristics.

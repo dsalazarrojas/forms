@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to obtain the necessary information from the tenant to publish their contact details in the Tenant Directory. This form is used to collect the tenant's consent to be listed in the Tenant Directory. The form will help to ensure that only tenants who have given their consent will be included in the directory, which is a valuable resource for potential customers or visitors to find contact information.
-
-Before filling out this form, please ensure that you have the necessary permissions to access and update this information.
-
-</thinking>
-
 # Tenant Directory Publication Consent Form - Help Guide
 ## Purpose
 This form is used to collect the tenant's consent to be listed in the Tenant Directory. It is a crucial step to ensure that only tenants who have given their consent will be included in the directory.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the Kandi Product, aiming to gather valuable insights on its functionality, usability, and user experience. The goal of this survey is to improve the product's effectiveness in meeting customers' needs and expectations. Before proceeding, ensure you're not already taking this survey, as duplicate entries might not contribute to the intended data collection and analysis.
-</thinking>
-
 # Kandi Product Feedback Survey - Help Guide
 ## Purpose
 The Kandi Product Feedback Survey is designed to gather your thoughts, experiences, and insights about the Kandi Product. Your feedback will help us understand how to improve the product's functionality, usability, and overall user experience.

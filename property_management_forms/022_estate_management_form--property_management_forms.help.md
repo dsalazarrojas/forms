@@ -1,7 +1,3 @@
-<thinking>
-This form is used for estate management, likely for tracking and managing maintenance requests and tasks related to properties. The form may be used by property owners, managers, or administrators to report issues, request maintenance, and track progress. It's possible that this form is part of a larger system for property management, including tracking tasks, maintenance schedules, and communication with tenants or staff. This form should be used to gather relevant information about a property, including its details, maintenance requests, and contact information for the individual submitting the request. This form likely helps to ensure that maintenance requests are properly documented and tracked, and that the right personnel are assigned to address them.
-</thinking>
-
 # Estate Management Form - Help Guide
 
 ## Purpose

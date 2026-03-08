@@ -1,5 +1,3 @@
-<thinking>...This form is used to evaluate various aspects of a user's cognitive abilities, personality traits, and demographic information. It is designed to be a comprehensive psychometric test that measures a range of psychological and behavioral characteristics. This form should only be completed by individuals who have been instructed to do so by a relevant authority, such as a psychologist or HR representative.</thinking>
-
 # Psychometric Test - Help Guide
 ## Purpose
 The Psychometric Test is a series of questions designed to assess various psychological and behavioral characteristics. It is intended to provide insights into a user's cognitive abilities, personality traits, and demographic information.

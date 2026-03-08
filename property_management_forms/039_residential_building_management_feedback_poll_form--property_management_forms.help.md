@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for property management teams to gather feedback from residents and visitors on the management of residential buildings. The form is meant to be completed by individuals who have recently visited or reside in the building. It's a one-time feedback collection process to ensure that the management team is aware of areas that need improvement. This form is not intended for daily or regular reporting, and responses are not expected to be updated in real-time. Before completing this form, please ensure that you have not already provided feedback, as duplicate entries may be removed from the dataset to maintain data quality. If you have previously filled out this form, your current submission will not be processed.
-</thinking>
-
 # Residential Building Management Feedback Poll Form - Help Guide
 ## Purpose
 The form is a tool for the property management team to gather feedback from residents and visitors on the overall management of the building. Your input will help us identify areas of improvement and make informed decisions to enhance the living experience.

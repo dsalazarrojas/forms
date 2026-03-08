@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a comprehensive survey designed to gather detailed information about a horse's hoof boot fit. It seems to be a crucial tool for equine-related businesses or professionals, such as farriers or horse shoeing specialists. The survey aims to collect data on various aspects of a horse's hoof, boot size, shape, and other relevant measurements. Given this context, I'll assume that the form's primary purpose is to help professionals understand the horse's individual characteristics for better hoof care, boot fitting, and overall hoof health.
-
-</thinking>
-
 # Hoof Boot Fit Survey - Help Guide
 ## Purpose
 The Hoof Boot Fit Survey is a comprehensive form designed to collect detailed information about a horse's hoof boot fit. This form is intended for equine professionals, such as farriers or horse shoeing specialists, to gather data on various aspects of a horse's hoof, boot size, shape, and other relevant measurements.

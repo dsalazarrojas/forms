@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather information for office supply purchases. The fields are designed to ensure that the purchase requests are relevant, non-duplicative, and correctly attributed to the correct department. The form is used by employees to submit their office supply needs, and it is expected that the form will be reviewed and approved by the relevant department head or manager before being processed.
-
-</thinking>
-
 # Office Supplies Purchase Request Form - Help Guide
 ## Purpose
 The Office Supplies Purchase Request Form is used to submit a request for office supply purchases. This form helps gather relevant information to ensure that the purchases are correctly attributed and reviewed by the relevant department head or manager.

@@ -1,9 +1,3 @@
-<thinking>
-This form is for individuals or organizations to submit petitions to the Agricultural Advisory Council. The form collects contact information and relevant details about the petition, including the petition title, summary, and supporting documents. The form aims to gather feedback, concerns, and requests from the public, allowing the council to engage with the community and inform their decision-making process.
-The form is meant to be completed by a single individual or representative of an organization, and the information provided will be reviewed and used by the council as part of their evaluation process. Please ensure that you have the necessary permissions and approvals before submitting, as the information collected will be publicly visible.
-When completing the form, ensure that you provide accurate and relevant information, and be prepared to follow up on submitted petitions.
-</thinking>
-
 # Agricultural Advisory Council Petition Form - Help Guide
 ## Purpose
 The Agricultural Advisory Council Petition Form is a tool for individuals and organizations to submit petitions and feedback to the council. This form is designed to collect relevant information to help the council understand the concerns and requests of the public.

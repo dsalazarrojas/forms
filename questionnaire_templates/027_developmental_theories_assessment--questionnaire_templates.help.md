@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form, "Developmental Theories Assessment", is to gauge the understanding, application, and confidence of educators and training professionals in using Developmental Theories in their teaching and training practices. This form is intended for self-assessment and reflection, allowing respondents to evaluate their current state of knowledge and skills in Developmental Theories. The results can be used to identify areas of strength and weakness, providing a starting point for further education and professional development.
-
-Before continuing, please ensure that you are familiar with the Developmental Theories being assessed. If you are not familiar with these theories, please refrain from completing this form.
-
-Also, note that this form is designed for individual assessment and should not be completed in a group setting, as it may not accurately capture each person's personal experiences and opinions.
-
-</thinking>
-
 # Developmental Theories Assessment - Help Guide
 ## Purpose
 This form is designed to gauge your understanding, application, and confidence in using Developmental Theories in your teaching and training practices.

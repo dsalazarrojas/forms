@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by property owners or managers to submit a maintenance request for a particular property. The form's purpose is to gather necessary information to facilitate the efficient handling of maintenance requests, ensuring that the issue is addressed in a timely manner. This form is not designed to be used by non-property owners or managers, and it's crucial to avoid submitting duplicate maintenance requests for the same property. Please review the fields below to understand how to complete the form correctly.
-</thinking>
-
 # Property Maintenance Request - Help Guide
 ## Purpose
 The Property Maintenance Request form is a tool used to gather information for property owners or managers to submit maintenance requests for a specific property. This form ensures that maintenance requests are handled efficiently and in a timely manner.

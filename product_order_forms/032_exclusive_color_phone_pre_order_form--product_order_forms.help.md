@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to pre-order a product in a specific color. The form is used to gather details such as customer contact information, order details, and payment information. The form is intended to be used by store owners and sales representatives to manage pre-orders and ensure accurate and efficient processing of customer orders.
-</thinking>
-
 # Exclusive Color Phone Pre Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers who want to pre-order a product in a specific color. The form is used to gather details such as customer contact information, order details, and payment information.

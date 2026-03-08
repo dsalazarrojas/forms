@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect quality assessment data for fruit juice products. This form is intended for producers or quality control teams to evaluate the sensory and physical attributes of fruit juice products. 
-
-Before proceeding, ensure that the form is being used for its intended purpose and that the questions are relevant to the product being assessed. To avoid duplication of data, please check if a similar assessment has been done recently. 
-
-Please ensure that you are filling out the form for the correct product and that the data provided is accurate and complete. 
-
-</thinking>
-
 # Fruit Juice Quality Assessment - Help Guide
 ## Purpose
 The Fruit Juice Quality Assessment form is designed to collect data on the quality attributes of fruit juice products. This form helps producers and quality control teams to evaluate the sensory and physical characteristics of the product.

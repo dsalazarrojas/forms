@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Geography And Environment Quiz - Help Guide
 ## Purpose
 This guide explains how to complete the Geography And Environment Quiz form, a tool used to assess your knowledge on geography and environmental topics.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about the condition of a residence hall's various areas. The purpose of this form is to ensure that the residence hall is safe and well-maintained for its occupants. The form is used to identify any issues or concerns that need to be addressed in the hall's hallways and stairs, common areas and lounges, kitchen and dining areas, bath and laundry facilities, fire extinguishers and fire alarms, trash and recycling, smoke and CO detectors, elevators and ramps, and electrical panels. This form will help facilities management teams to quickly and efficiently identify areas that require attention. This form is part of a larger process to ensure the upkeep and maintenance of the residence hall. It is not intended to be used as a comprehensive inspection report, but rather as a starting point for further investigation and action. It is recommended that this form be completed in accordance with any existing protocols and procedures for residence hall maintenance and upkeep.
-
-The purpose of this form is not to be confused with other forms for different types of inspections, such as safety inspections, fire inspections, or maintenance inspections. This form is specifically designed for residence halls and should not be used for other types of facilities or inspections.
-
-Please ensure that this form is filled out accurately and thoroughly, and that any issues or concerns are clearly documented. This will help to identify potential problems and ensure that the residence hall is kept safe and well-maintained.
-
-Please note that this form is not intended to be a substitute for actual physical inspections or assessments. It is a tool to aid in the process of identifying potential issues and areas for improvement.
-
-</thinking>
-
 # Residence Hall Inspection Form - Help Guide
 
 ## Purpose

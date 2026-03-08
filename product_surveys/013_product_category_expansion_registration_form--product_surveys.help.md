@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for product category expansion. The purpose of this form is to gather essential data from end-users to register and review products. This form should only be used for products that are not already registered or reviewed in the system. If you are attempting to register a product that already exists in the system, please contact the product administrator to request the product's ID.
-</thinking>
-
 # Product Category Expansion Registration Form - Help Guide
 
 ## Purpose

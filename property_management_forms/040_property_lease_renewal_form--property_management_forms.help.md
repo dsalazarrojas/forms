@@ -1,9 +1,3 @@
-<thinking>...checking if the form is relevant and not duplicated...
-
-The Property Lease Renewal Form is used to renew a property lease for a tenant. This form helps property managers to collect necessary information from tenants to update their lease records. The form should only be used for existing leases and not for new lease requests. If you are unsure about a specific form, please contact the property management team.
-
-</thinking>
-
 # Property Lease Renewal Form - Help Guide
 ## Purpose
 The Property Lease Renewal Form is a form used to collect and update information for existing property leases. This form helps property managers to keep accurate and up-to-date records of lease details.

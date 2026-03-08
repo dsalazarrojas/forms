@@ -1,15 +1,3 @@
-<thinking>
-This help guide is intended for employees and managers who need to complete or review the "Public Sector Parental Leave Of Absence Form". To ensure that you are in the right place, let's quickly review the form's purpose: the form is used to process parental leave requests from employees in the public sector. 
-
-Please ensure that the form is being used for its intended purpose and that you have the necessary permissions to access and modify it. 
-
-Before starting, make sure you have the necessary employee and manager IDs, which will be used to track the leave request and the manager's action on it. 
-
-If you are a manager, make sure you have the required permissions to view and approve leave requests. 
-
-Please review this guide and ensure you understand the form's purpose and your specific role in it.
-</thinking>
-
 # Public Sector Parental Leave Of Absence Form - Help Guide
 ## Purpose
 The Public Sector Parental Leave Of Absence Form is used to process parental leave requests from employees in the public sector. This form allows employees to submit their leave request and provides managers with the necessary information to review and approve or deny the request.

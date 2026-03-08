@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for customers to place orders for candles with Payjunction. The form will ask for general contact information such as first and last name, email, phone number, and address. It will also ask for specific details about the order, including order date, time, and quantity. Customers will have to select one or multiple options from various dropdowns, and finally, they will be able to leave notes for the vendor or customer service team. The form is required fields are "Select one", "Select multiple", and "Payment method", "Payment status". It should be used to process a single order at a time.
-</thinking>
-
 # Payjunction Candles Order Form - Help Guide
 ## Purpose
 This form is intended to be used for customers to place orders for candles with Payjunction.

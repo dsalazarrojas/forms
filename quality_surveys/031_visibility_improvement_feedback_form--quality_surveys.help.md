@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about the visibility improvement of a facility. The purpose of this form is to collect information on how users experience the facility's visibility, specifically how they perceive the completion status of the facility after receiving a follow-up from the operations team. This form is intended to be filled out by users who have received a follow-up from the operations team, and it's meant to be a tool for the operations team to gauge the effectiveness of their follow-up process. Before filling out this form, please make sure you have not already submitted a feedback form for the same facility and follow-up.
-
-</thinking>
-
 # Visibility Improvement Feedback Form - Help Guide
 ## Purpose
 The Visibility Improvement Feedback Form is designed to help the operations team understand how users perceive the completion status of a facility after receiving a follow-up from the operations team. This form is meant to collect feedback from users about the improvement in visibility of a facility.

@@ -1,5 +1,3 @@
-<thinking>Before writing this guide, I'll make sure to double-check the form's purpose and ensure we're not duplicating any existing content. This "expense_workflow_efficiency_survey" form appears to be a comprehensive questionnaire designed to gather information on various aspects of the company's expense workflow. I'll review the provided YAML fields and create a concise guide that covers the form's purpose, completion steps, and field-by-field explanations.</thinking>
-
 # expense_workflow_efficiency_survey - Help Guide
 ## Purpose
 The expense_workflow_efficiency_survey form is a questionnaire designed to gather information about your experience and current practices related to expense tracking and budgeting within your organization. This form will help identify areas for improvement and provide valuable insights for enhancing business processes.

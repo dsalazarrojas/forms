@@ -1,18 +1,3 @@
-<thinking>
-**Internal Note:**
-
-This form is intended to be used by government agencies to document the discharge of a government contract. The purpose of this form is to provide a structured and standardized way to report the status of a contract that has been discharged. 
-
-When completing this form, please ensure that you are providing accurate information, as it will be used to track and analyze the performance of government contracts.
-
-Before filling out this form, please review the provided instructions and ensure that you understand the meaning and intent behind each field.
-
-The form is designed to be completed by authorized agency personnel, and it is recommended that you review the form with your supervisor or colleagues before submitting it.
-
-If you are unsure about any field or have questions, please do not hesitate to reach out to your agency's contract administration team for assistance.
-
-</thinking>
-
 # Government Contract Discharge Form - Help Guide
 
 ## Purpose

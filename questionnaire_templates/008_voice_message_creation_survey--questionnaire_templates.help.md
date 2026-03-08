@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # voice-message-creation-survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback on your experience with our voice messages. It helps us understand how satisfied you are with our voice messages, what type of voice messages you prefer, and what improvements we can make to better serve you.

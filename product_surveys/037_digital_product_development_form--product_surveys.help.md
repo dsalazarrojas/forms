@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Digital Product Development Form, I will first clarify the purpose of the form and ensure it is not duplicated or irrelevant. This form is intended to gather information about a digital product, focusing on its concept, features, target audience, development process, launch plan, and other relevant details. The form is not affiliated with any proprietary platforms and is released under CC BY 4.0. It's an original adaptation created using public survey topic metadata. The form's purpose is to collect data from users, allowing them to provide insights on their digital product development needs.
-</thinking>
-
 # Digital Product Development Form - Help Guide
 ## Purpose
 This form is designed to gather information about your digital product, including its concept, target audience, key features, benefits, development process, launch plan, and other relevant details. This will help us better understand your digital product development needs.

@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect user input on immunodeficiency disorders, likely to assess or inform about a patient's health status or medical condition. This form is not meant to diagnose or replace professional medical expertise. The purpose of this form is to gather information about the user's immunodeficiency disorders in a concise and efficient manner. It is not intended to be a medical evaluation or a substitute for medical advice.
-
-This form is divided into four sections: introduction, quiz, results, and notes. Each section is designed to guide the user through the questions and information gathering process.
-
-The form is part of the "questionnaire_templates" category and is titled "Immunodeficiency Disorders Quiz". 
-
-</thinking>
-
 # Immunodeficiency Disorders Quiz - Help Guide
 ## Purpose
 The Immunodeficiency Disorders Quiz is designed to collect information about immunodeficiency disorders in a simple and structured way.

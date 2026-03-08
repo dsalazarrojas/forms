@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to collect information for sublease applications and requests. 
-  The form has multiple pages with various fields to capture different aspects of a sublease agreement.
-  It includes fields for term length, start and end dates, frequency, notice period, rent frequency, and sublease application status.
-  Please ensure that each field is filled out accurately and completely to help us process your sublease request effectively.
-</thinking>
-
 # Office And Hangar Sublease Form - Help Guide
 ## Purpose
 The Office And Hangar Sublease Form is designed to collect information for sublease applications and requests. This form is used to process sublease agreements between you and the landlord/owner of the office or hangar.

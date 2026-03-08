@@ -1,11 +1,3 @@
-<thinking>
-The "Royalty Accounting Pre Engagement Survey" form is designed to collect information from accounting firms about their engagement with clients. This form is intended to help accounting firms prepare for and track their engagements, ensuring a smooth and efficient process. It's meant to be used by accounting professionals to provide accurate and up-to-date information about their current and upcoming engagements. This form should not be used for any other purpose.
-
-Before using this form, please note that it is an AI-generated form and may not cover all possible scenarios or requirements. It is recommended to review and adjust the form according to your specific needs and industry standards.
-
-To confirm, this form is not affiliated with or endorsed by any form platform, and it's released under the Creative Commons Attribution 4.0 license. If you have any questions or need further assistance, please contact form@gic.mx.
-</thinking>
-
 # Royalty Accounting Pre Engagement Survey - Help Guide
 ## Purpose
 The Royalty Accounting Pre Engagement Survey is designed to help accounting firms collect and manage information about their engagements with clients. It's an essential tool for ensuring accurate and up-to-date data about current and upcoming engagements.

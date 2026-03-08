@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Character Profile Form, I'll first need to understand the context and purpose of the form. 
-
-The form "Character Profile Form" appears to be a tool used in the fields of psychology, writing, or storytelling to gather and categorize information about a fictional character. The fields included in the form cover a range of aspects such as character's personal details (creator name, character name, age, gender, occupation), physical appearance, personality traits, strengths and weaknesses, backstory, motivations, goals, fears, relationships, and character's expected arc.
-
-This form seems to be designed for users who are creating or developing characters for stories, games, or other narrative purposes. The form's purpose is to provide a structured way to collect and organize character-related information, making it easier to create and manage character profiles.
-
-To ensure that this form is used correctly and consistently, it's essential to clearly define what each field means and how to complete it accurately.
-
-</thinking>
-
 # Character Profile Form - Help Guide
 ## Purpose
 The Character Profile Form is a tool for gathering and organizing information about fictional characters. It helps users create well-rounded and believable characters by collecting details about their personal, physical, and psychological aspects.

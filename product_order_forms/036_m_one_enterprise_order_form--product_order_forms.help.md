@@ -1,10 +1,3 @@
-<thinking>
-This form seems to be a general-purpose order form for businesses or customers to place orders for a product or service. It appears to be used for tracking and managing orders, customer information, and order status. The form includes fields for selecting product types, quantities, and customer details such as name, email, and contact number. It also includes fields for order date and time, assigned tools, and customer notes. The form seems to be used by customers or business representatives to submit and manage orders. Upon reviewing the form fields, it seems that most of them are optional, suggesting that the form is flexible and can be tailored to accommodate various order types and customer needs.
-
-The fields in this form appear to be mostly self-explanatory, but a few need further clarification to be easily understood by users. 
-
-</thinking>
-
 # M One Enterprise Order Form - Help Guide
 ## Purpose
 The M One Enterprise Order Form is designed for customers or business representatives to submit and manage orders for products or services. This form captures necessary information to track and fulfill order requests.

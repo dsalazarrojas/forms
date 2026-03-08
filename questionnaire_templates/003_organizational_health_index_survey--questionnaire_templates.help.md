@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assess various aspects of an organization's health, including leadership, team performance, culture, engagement, development, change management, collaboration, adaptability, innovation, trust, accountability, feedback, results, learning, employee satisfaction, organizational satisfaction, and scores for engagement, development, collaboration, adaptability, innovation, and trust. The survey aims to provide a comprehensive index of the organization's health, which can help in identifying areas of improvement and making informed decisions. To avoid duplication of answers, please ensure that each page's answers are complete before proceeding to the next page. This will allow for an accurate calculation of the overall score and accurate assessment of the organization's health.
-</thinking>
 # Organizational Health Index Survey - Help Guide
 ## Purpose
 The Organizational Health Index Survey is a comprehensive assessment tool that evaluates various aspects of an organization's health, providing a comprehensive index to identify areas of improvement and inform strategic decisions.

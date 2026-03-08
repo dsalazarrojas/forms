@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help second-hand sellers create a proposal for an item's price. The form is likely used when a seller wants to get multiple bids from potential buyers, and the form's goal is to collect information about the item, the buyer, and their interest in purchasing the item. The form should only be used for items that are available for purchase, not for items that are already sold or no longer available. Sellers should only submit one proposal for each item at a time to avoid confusion and ensure accurate pricing.
-
-</thinking>
-
 # Second Hand Item Price Proposal Form - Help Guide
 ## Purpose
 The Second Hand Item Price Proposal Form is used to create a proposal for a second-hand item's price. This form is intended for sellers to gather information from potential buyers about their interest in purchasing a specific item.

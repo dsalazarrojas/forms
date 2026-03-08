@@ -1,15 +1,3 @@
-<thinking>
-The form is used for requesting raw materials for pharmaceutical purposes. This form helps the customer to provide the required information about the materials they need, which is then used by the organization to process the order. This form is designed to be simple and user-friendly, with each field clearly labeled and explained. 
-
-The form consists of multiple fields that are divided into different sections. The sections are: Customer Information, Material Details, and Status Updates. The customer is required to fill in their name, address, phone number, email, and department. They also need to specify the material they are requesting, the quantity needed, and the date they need it by. Additionally, they can provide any remarks or comments regarding their request. 
-
-The form also allows the customer to select the status of the material and the route it should be sent to. The shipper and any additional remarks can also be specified in separate fields. 
-
-The purpose of this form is to gather accurate and relevant information from the customer to ensure that the ordered materials are delivered correctly and efficiently. 
-
-The form is designed to be filled out by the customer and submitted to the organization for processing. Once submitted, the form will be reviewed and processed accordingly.
-</thinking>
-
 # Pharmaceutical Raw Material Requisition Form - Help Guide
 
 ## Purpose

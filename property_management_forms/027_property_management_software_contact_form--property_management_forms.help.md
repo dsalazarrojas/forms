@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to collect contact information and data related to properties managed by the property management software. This includes contact details such as first and last name, email, phone number, and additional notes. It also collects information about the property, including address, city, state, zip, price, size, beds, baths, lot size, year built, and renovation year. This form is likely used to track and manage property leads and contacts. It's assumed that the form will be used by property managers, agents, or administrators to collect and store contact and property data.
-
-Before filling out this form, please ensure you only complete it once per contact. Duplicate submissions may cause confusion and skew data analysis. Please note that some fields are optional and only required if relevant to your specific situation.
-
-</thinking>
-
 # Property Management Software Contact Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that we're not overwhelming the user with too much information, so let's break down this guide into a few key points:
-- The form's purpose is to collect information from customers about their experiences with their leather sofa, including how often they clean it, what method they use, and any maintenance services they've used.
-- We're looking for feedback on how the form's questions align with or deviate from the customer's actual practices.
-- The form is intended to be completed by customers who have purchased a leather sofa from our business.
-</thinking>
-
 # Leather Sofa Care Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information from customers about their experiences with their leather sofa. We're interested in understanding your cleaning habits, maintenance practices, and overall satisfaction with your sofa's performance.

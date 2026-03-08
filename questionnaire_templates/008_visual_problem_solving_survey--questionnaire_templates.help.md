@@ -1,5 +1,3 @@
-<thinking>Is this form part of a larger assessment or evaluation framework for problem solving skills? Is there a specific audience or context for this form, such as students or professionals? Are there any specific requirements or constraints for the form fields, such as maximum character limits or specific formatting? Is this form meant to be completed by one person or multiple people? Are there any specific goals or objectives for this form, such as collecting demographic information or assessing problem-solving abilities?</thinking>
-
 # Visual Problem Solving Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about a user's visual problem-solving skills and experiences. The survey is meant to be completed by one person and is used to assess their individual problem-solving abilities.

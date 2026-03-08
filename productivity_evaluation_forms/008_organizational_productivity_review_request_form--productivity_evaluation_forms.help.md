@@ -1,7 +1,3 @@
-<thinking>
-This form is for organizational productivity review requests. It's used to assess the productivity of an organization or team and is usually filled out by a manager or team lead. Please make sure you only fill out this form once every quarter or as per your manager's request. If you've already completed this form, please do not submit it again unless instructed otherwise by your manager.
-</thinking>
-
 # Organizational Productivity Review Request Form - Help Guide
 ## Purpose
 This form is used to provide information on the organizational productivity review. It's used to gather data on productivity metrics such as goals, focus areas, timeline, and manager's feedback. Please fill out this form completely and accurately to help your team or organization improve its productivity.

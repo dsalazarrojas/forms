@@ -1,9 +1,3 @@
-<thinking>
-The "healthy_life_program_application_form" form is used to collect information from customers about their contact details, previous experience, main motivation, product details, and other relevant information. This form is designed to gather data that will help us better understand customer needs and preferences. Before proceeding, please ensure that you have read and understood the form's purpose and that you are not duplicating your application as we value uniqueness in our program.
-
-Please note that this form is intended for individual application and not for commercial use. We appreciate your honesty in providing accurate and detailed information about yourself.
-</thinking>
-
 # healthy_life_program_application_form - Help Guide
 ## Purpose
 The healthy_life_program_application_form is designed to collect information about customers' contact details, previous experience, main motivation, product details, and other relevant information. This form helps us understand customer preferences and needs.

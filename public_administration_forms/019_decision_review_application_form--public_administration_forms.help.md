@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Decision Review Application Form - Help Guide
 ## Purpose
 This form is used to submit a decision review request to the review committee. The form helps to track and manage the review process, ensuring that all necessary information is collected and reviewed before making a decision.

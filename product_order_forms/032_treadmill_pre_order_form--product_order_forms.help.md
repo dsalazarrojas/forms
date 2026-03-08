@@ -1,11 +1,3 @@
-<thinking> 
-
-To check for relevance and non-duplication:
-
-This form is for customers to pre-order a treadmill. The form is used to collect information from the customer, such as their name, email, and order date. It also collects information from the supplier, such as their name, phone number, and email. The form includes fields for both the supplier and customer to confirm that they have received the order and that it meets their requirements. The form is a critical part of the pre-order process for ensuring that both parties are on the same page and that the order is fulfilled correctly. The fields are all self-explanatory, and the form is well-structured to facilitate clear communication between the supplier and the customer.
-
-</thinking>
-
 # Treadmill Pre Order Form - Help Guide
 
 ## Purpose

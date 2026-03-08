@@ -1,10 +1,3 @@
-<thinking>
-The form "material_cutting_control_form" is part of the quality_surveys category. Its purpose is to collect information related to material cutting control, which is crucial for ensuring the quality of materials being used in production. Before completing this form, please note that it is intended for [specific personnel or teams] who are responsible for controlling material cutting. To avoid duplication of effort, please ensure that you have the necessary permissions and approvals before filling out this form.
-
-To ensure accuracy and completeness, please carefully review each field below and provide clear and concise information as requested. If you are unsure about any field, please ask your supervisor or colleague for guidance.
-
-</thinking>
-
 # material_cutting_control_form - Help Guide
 ## Purpose
 The material cutting control form is used to collect information related to material cutting operations. It is designed to ensure the quality of materials being cut, and the correct completion of this form is essential for maintaining control and consistency in production processes.

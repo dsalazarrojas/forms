@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's social communication skills, behaviors, and relationships. The goal is to assess their ability to communicate effectively, manage conflicts, and maintain healthy relationships. This form will help to identify areas of strength and weakness in social communication, which can inform interventions or support services.
-</thinking>
-
 # social_communication_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information about an individual's social communication skills, behaviors, and relationships.

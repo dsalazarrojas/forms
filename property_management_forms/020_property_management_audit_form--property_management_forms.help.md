@@ -1,10 +1,3 @@
-<thinking>
-We need to create a clear and concise help guide for the Property Management Audit Form. The purpose of this form is to gather information about a property inspection, including the date, type, location, and results of the inspection. This form will help property managers and auditors to collect data in a standard and structured way, ensuring consistency and accuracy in the inspection process.
-
-Before proceeding, let's check if this form is already being used for another purpose or has any similar forms that serve the same goal. If we confirm that there aren't any similar forms or purposes, we can move forward with creating the help guide.
-
-</thinking>
-
 # Property Management Audit Form - Help Guide
 ## Purpose
 

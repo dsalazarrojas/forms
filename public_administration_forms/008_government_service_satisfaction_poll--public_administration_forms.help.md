@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is designed to gather feedback on the quality of service provided by the office. It is likely used for internal assessment and improvement purposes. It may not be used for any other specific reason, such as for public reporting or external evaluation. The form is not intended to be used for any other reason, as it is not publicly accessible and its content might be subject to change. Please make sure to check if this form is up-to-date before using it.</thinking>
-
 # government_service_satisfaction_poll - Help Guide
 ## Purpose
 This form is used to collect feedback on the quality of service provided by the office. It helps us understand how we can improve and better serve our customers.

@@ -1,7 +1,3 @@
-<thinking>
-The form is a product order form, used to capture information for merchandising mannequins. The form is used to collect order details such as form information, customer information, shipping details, and product order information. This form is likely used for a retail or e-commerce business that sells mannequins. The purpose of this form is to ensure accurate and complete order information is captured for processing and fulfillment. This form is not a duplicate or redundant form, and its purpose is well-defined in the provided YAML.
-</thinking>
-
 # merchandising_mannequin_order_form - Help Guide
 ## Purpose
 This form is used to capture order details for merchandising mannequins, ensuring accurate and complete information is collected for processing and fulfillment.

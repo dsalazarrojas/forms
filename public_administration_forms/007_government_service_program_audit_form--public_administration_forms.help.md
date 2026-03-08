@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about government services programs, including program details, review progress, and follow-up dates. The form is likely used to track and monitor government services programs, ensuring that programs are being evaluated and reviewed regularly. It's likely used by program officers or administrators to report on the status of various programs within the government agency. 
-
-Before starting, please ensure that you are submitting this form for the correct purpose and that you have all the necessary information available. 
-
-</thinking>
-
 # Government Service Program Audit Form - Help Guide
 ## Purpose
 The Government Service Program Audit Form is used to collect and track information about government services programs, including program details, review progress, and follow-up dates.

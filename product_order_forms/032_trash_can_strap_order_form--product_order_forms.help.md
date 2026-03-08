@@ -1,7 +1,3 @@
-<thinking>
-Before we proceed, let's quickly review the purpose and fields of this form. This form is for ordering straps, and it seems to be a simple order form with various details such as customer information, strap specifications, and payment details. It has multiple fields for the customer's contact person, strap length, strap color, strap material, strap size, strap type, and strap color note, strap material note, strap size note, and strap type note. There are also fields for payment method and confirmation. It appears that the form is primarily designed for online ordering, but it's not entirely clear what kind of strap is being ordered or what it's for. If you could provide more context, I'd be happy to refine this understanding.
-</thinking>
-
 # Trash Can Strap Order Form - Help Guide
 
 ## Purpose

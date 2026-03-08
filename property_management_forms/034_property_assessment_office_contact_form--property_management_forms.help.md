@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to allow property owners to contact the Property Assessment Office with their inquiries or concerns, potentially related to property assessment-related issues. This form will likely be used for property owners to provide their contact information and a brief description of their reason for contacting the office.
-
-When completing this form, please ensure that the contact reason is accurate and relevant to your inquiry or concern. This form is not intended to be a substitute for other means of communication, such as phone or in-person visits.
-
-Before proceeding, please verify that you are not contacting the office for the same reason as someone else who has already submitted a similar inquiry. This helps the office efficiently manage their workload and provide timely assistance.
-</thinking>
-
 # Property Assessment Office Contact Form - Help Guide
 ## Purpose
 The Property Assessment Office Contact Form is a tool for property owners to contact the office with their inquiries or concerns.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for submission of interoperable communications plans. The form purpose is to gather information related to submission details, contact details, document uploader, submission date, and submission time. 
-
-The purpose of this form is likely to collect data from applicants or users who have developed an interoperable communications plan and are submitting it for review or publication. Interoperable communications plans are plans that enable seamless data sharing and integration between different systems or organizations, so this form is used to collect metadata related to these plans.
-
-To confirm, the form is for public administration purposes and is not affiliated with or endorsed by any proprietary form platforms. It is an original form created by AI and is released under CC BY 4.0. 
-
-Please confirm that this form meets your needs, and there is no similar form that already exists.
-
-</thinking>
-
 # interoperable_communications_plan_submission - Help Guide
 ## Purpose
 The interoperable_communications_plan_submission form is a submission form designed to gather information related to interoperable communications plans.

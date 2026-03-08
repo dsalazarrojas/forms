@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the Wildlife Art Coaching Questionnaire. The form is designed to collect information about students' experiences and goals in the context of wildlife art coaching. The guide will explain each section and field to ensure users complete the form accurately and efficiently.
-
-Please note that this form is an original adaptation created using AI, not affiliated with or derived from any form platform. It is released under the Creative Commons Attribution 4.0 (CC BY 4.0) license, allowing users to modify and use it as needed.
-
-The form consists of multiple pages with various fields, including text, date, time, and select multiple options. The purpose of this guide is to break down each field and provide clear instructions on how to complete it correctly.
-
-</thinking>
-
 # Wildlife Art Coaching Questionnaire - Help Guide
 ## Purpose
 The Wildlife Art Coaching Questionnaire is designed to collect information about students' experiences and goals in the context of wildlife art coaching. It is intended to gather details about the student, their contact information, coaching sessions, art experience, art goals, art practices, art media, session notes, submission notes, and submission details.

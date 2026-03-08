@@ -1,7 +1,3 @@
-<thinking>
-# This form is designed to gather information about an individual's social support system, which includes relationships with family, friends, colleagues, online communities, and other people in their neighborhood and school. It is meant to help gather data on how well-supported individuals feel in their social environments. This data can be used to identify areas where people are feeling supported or unsupported, and inform interventions to improve social support systems. This form will not ask for any sensitive or personal identifiable information, and all answers are anonymous. Please answer these questions honestly, and answer "No" or "None" when you have no relationships in a particular area.
-</thinking>
-
 # social_support_survey - Help Guide
 ## Purpose
 The social_support_survey form is designed to assess how well-supported an individual feels in their social environments. It helps to identify areas where people may be feeling unsupported and inform interventions to improve social support systems.

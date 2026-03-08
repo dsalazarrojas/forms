@@ -1,7 +1,3 @@
-<thinking>
-The "Parks Investment Assessment" form is designed to gather information for the investment assessment of parks in a public administration context. This form will likely be used by park administrators or consultants to collect data on parks' characteristics, conditions, and potential improvement priorities. The form's fields cover various aspects of a park, including its name, location, size, condition rating, and other relevant details. The purpose of this form is to provide a comprehensive assessment of a park's investment needs and potential for improvement. To ensure accurate and complete data entry, please review the following guidance.
-</thinking>
-
 # Parks Investment Assessment - Help Guide
 ## Purpose
 

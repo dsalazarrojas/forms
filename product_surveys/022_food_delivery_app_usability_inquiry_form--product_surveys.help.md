@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather user feedback and usability insights on the food delivery app. The purpose of this form is to allow users to provide their general information, rate the app's usability, and share any specific issues or suggestions they may have. This form will help us identify areas of improvement and ensure that our app meets the needs and expectations of our users.
-</thinking>
-
 # food_delivery_app_usability_inquiry_form - Help Guide
 
 ## Purpose

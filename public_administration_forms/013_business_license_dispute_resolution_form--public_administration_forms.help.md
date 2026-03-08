@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to resolve disputes related to business licenses. The purpose of this form is to provide a structured process for businesses to submit their disputes and supporting documentation to the relevant authorities. This form ensures that all required information is collected and that the submission process is efficient and effective. It's designed to handle various types of disputes, such as license denial, suspension, revocation, and more.
-
-</thinking>
-
 # Business License Dispute Resolution Form - Help Guide
 ## Purpose
 The Business License Dispute Resolution Form is used to submit disputes related to business licenses. It guides you through the necessary steps to present your case and provides a structured process for the relevant authorities to assess and resolve the dispute.

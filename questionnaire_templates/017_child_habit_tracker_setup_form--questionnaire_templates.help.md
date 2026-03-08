@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Habit Tracker Setup Form - Help Guide
 ## Purpose
 This form is designed to help you set up a child's habit tracker. You will be asked for information about the child's family details, habits to track, tracking frequency, reward system, specific goals, and start details.

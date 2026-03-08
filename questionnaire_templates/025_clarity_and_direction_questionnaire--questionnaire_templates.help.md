@@ -1,5 +1,3 @@
-<thinking>This form is designed to help individuals assess their clarity and direction in various life areas. It is meant to be completed by yourself, and the results will provide a comprehensive understanding of your current situation and goals. This form is not meant to be completed by multiple users at the same time, as it's a personal reflection exercise. Please ensure that you have not already filled out this form before, as it may affect the accuracy of your results.</thinking>
-
 # Clarity And Direction Questionnaire - Help Guide
 
 ## Purpose

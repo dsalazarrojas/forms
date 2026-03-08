@@ -1,8 +1,3 @@
-<thinking>
-**Internal Note:**
-This form is designed to collect user feedback and information about their robot vacuum purchasing experience. The form has 25 questions, which include demographics, purchasing experience, and product satisfaction. The form is intended to gather data on user behavior, preferences, and opinions to help improve robot vacuum products and services. To ensure data quality, the form includes a mix of required and optional questions, as well as multiple-choice and open-ended fields. Before filling out this form, please ensure that the questions are relevant to your robot vacuum experience.
-</thinking>
-
 # Robot Vacuum Product Comparison Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information about your robot vacuum purchasing experience. Your responses will help improve robot vacuum products and services.

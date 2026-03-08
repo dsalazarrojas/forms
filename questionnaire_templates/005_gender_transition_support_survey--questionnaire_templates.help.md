@@ -1,9 +1,3 @@
-<thinking>
-This help guide will explain the purpose and functionality of the Gender Transition Support Survey form.
-The form is designed to collect information from individuals about their experiences and feelings regarding their gender transition, including their age, gender identity, transition process, support services, and satisfaction with those services. This form will help the organization providing these services to better understand the needs and concerns of its clients.
-Please note that the form is a non-mandatory form and the answers given are anonymous.
-</thinking>
-
 # Gender Transition Support Survey - Help Guide
 
 ## Purpose

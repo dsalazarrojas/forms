@@ -1,12 +1,3 @@
-<thinking>
-This form is used for terminating or offboarding a property lease. This form is typically used when a tenant is vacating a property and the landlord needs to document the reasons for the termination. The form is designed to gather information about the property, the tenant, and the lease terms and conditions. This form is usually completed by the landlord and tenant together, with both parties signing and dating the form to confirm the agreement. This form is not intended for other purposes such as lease renewal or lease amendment.
-
-The form has several fields that require completion, some of which are optional. To ensure accuracy and consistency, it's essential to understand the purpose and requirements of each field.
-
-The form has a total of 12 fields, which are explained in detail below.
-
-</thinking>
-
 # property_leash_termination_offboarding_form - Help Guide
 ## Purpose
 The property_leash_termination_offboarding_form is used for terminating or offboarding a property lease. This form is used to document the reasons for the termination and gather information about the property, tenant, and lease terms and conditions.

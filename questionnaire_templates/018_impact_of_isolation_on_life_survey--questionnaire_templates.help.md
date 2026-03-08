@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's experience with isolation. The form is likely used in a mental health or social services context, where understanding how individuals cope with isolation can help identify support needs. The form should not be used for general or casual purposes, such as entertainment or marketing research. Please confirm that you are using this form for its intended purpose and that you have the necessary authority to collect and store sensitive personal information.
-</thinking>
-
 # Impact Of Isolation On Life Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experience with isolation. This includes how you feel, how you cope with it, and how it affects your life. Please answer questions to the best of your ability and be honest with your responses.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # paypal_book_order_form - Help Guide
 
 ## Purpose

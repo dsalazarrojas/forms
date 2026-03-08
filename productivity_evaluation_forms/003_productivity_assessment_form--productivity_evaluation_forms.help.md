@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Productivity Assessment Form - Help Guide
 ## Purpose
 The Productivity Assessment Form is a tool used to evaluate the productivity level of employees across different departments. It helps management to track and compare the performance of employees in various areas of the organization.

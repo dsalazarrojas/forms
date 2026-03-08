@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal reasoning behind this form is to collect information about the health of women with Polycystic Ovary Syndrome (PCOS), which is a common endocrine disorder affecting women of reproductive age. This form will help healthcare providers to assess the symptoms and experiences of women with PCOS, enabling them to make informed decisions about treatment and care. This form will only be filled out by users who have been diagnosed with PCOS or are suspected to have PCOS.
 
 # PCOS Health Assessment Questionnaire - Help Guide

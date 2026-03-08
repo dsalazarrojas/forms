@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to capture essential information for ordering soap products. The form will guide you through a series of questions to collect details about the customer, including their contact information, soap product details, and additional order notes. This guide will walk you through each section, making sure you complete the form correctly and efficiently.</thinking>
 
 # Soap Order Form - Help Guide

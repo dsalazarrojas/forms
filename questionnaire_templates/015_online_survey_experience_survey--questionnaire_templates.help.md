@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information about your experience in a survey. It is intended to gather your responses to a series of questions to help improve the overall user experience. Please complete this form to provide your valuable feedback.

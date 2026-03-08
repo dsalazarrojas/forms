@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess rejection sensitivity, which is a psychological phenomenon where individuals overreact or respond negatively to rejection, disappointment, or failure. The assessment aims to help individuals identify their emotional and behavioral responses to rejection and understand the factors that contribute to their sensitivity. The form is intended to be a tool for personal growth, self-awareness, and potentially therapeutic use.
-
-Before completing this form, consider that it is not a diagnostic tool and not intended to be used for professional evaluation or treatment purposes. The results are for personal insight and self-awareness only.
-
-This form is not a substitute for professional help or therapy. If you are experiencing severe emotional distress or suicidal thoughts, please seek help from a mental health professional.
-
-</thinking>
-
 # Rejection Sensitivity Assessment - Help Guide
 ## Purpose
 The Rejection Sensitivity Assessment is a tool designed to help individuals understand their emotional and behavioral responses to rejection and disappointment. It aims to identify patterns and areas of potential improvement for personal growth and self-awareness.

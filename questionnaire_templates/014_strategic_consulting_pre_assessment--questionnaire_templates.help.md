@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Purpose**
 The Strategic Consulting Pre-Assessment form is a tool used to gather essential information from both consultants and clients about their readiness, goals, and expectations for the consulting engagement. This form helps consultants and clients establish a clear understanding of each other's expectations, ensuring a successful and effective partnership.
 

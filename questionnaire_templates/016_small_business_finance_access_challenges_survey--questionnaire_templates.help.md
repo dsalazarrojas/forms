@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about small business finance access challenges. The purpose of this form is to gather insights on the challenges faced by small businesses when accessing financing. The data collected will help identify areas where improvements are needed to support small businesses in accessing financial resources.
-</thinking>
-
 # Small Business Finance Access Challenges Survey - Help Guide
 ## Purpose
 This form is designed to collect information about small business finance access challenges. The purpose of this form is to gather insights on the challenges faced by small businesses when accessing financing.

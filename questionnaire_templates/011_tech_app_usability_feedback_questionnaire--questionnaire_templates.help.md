@@ -1,10 +1,3 @@
-<thinking>**Purpose**
-This form is designed to collect feedback from end-users on the usability of a technical application. It will help us identify areas of improvement and ensure that our application is user-friendly and effective.
-
-This form will help us understand how you use our app, what features you like/dislike, and how you rate its usability. It will also allow us to gather feedback on specific functionalities and provide suggestions for improvement.
-
-To avoid duplication of effort, please do not fill this form if you have already provided feedback on the same application.</thinking>
-
 # Tech App Usability Feedback Questionnaire - Help Guide
 
 ## Purpose

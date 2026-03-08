@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for providing feedback on the state seal design. It's crucial to ensure that the seal meets the expectations and requirements of all stakeholders involved in the state's administration. The feedback collected through this form will help the designers and decision-makers refine the seal design to better represent the state's values and identity. This form should be filled out only once per seal design iteration. Please note that feedback is not limited to the fields provided; additional comments or suggestions can be included in the "comments" fields.
-</thinking>
-
 # State Seal Design Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback on the proposed state seal design. It will help the designers and decision-makers understand the opinions and expectations of various stakeholders, including the reviewer, review committee, resident, and stakeholder.

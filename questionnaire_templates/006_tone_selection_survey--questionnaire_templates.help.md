@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to determine the tone of a text, whether it should be formal, informal, friendly, or neutral, depending on the contexts in which the text will be used. This information will help writers adjust the tone of their writing to fit the specific use cases. 
-The form is not designed for real-time feedback, so the user should be aware of the potential consequences of their selection on the final written output. 
-</thinking>
-
 # Tone Selection Survey - Help Guide
 ## Purpose
 The Tone Selection Survey is a questionnaire designed to help writers select the suitable tone for their text based on various contexts. The form will help writers adjust the tone of their writing to fit the specific use cases.

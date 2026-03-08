@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather property owner information for various purposes, such as tracking properties, creating reports, and generating notifications. 
-It is intended to collect data from property owners, and the information gathered here will help us better serve them. 
-Please note that some fields are optional, and the required fields are marked as such.
-</thinking>
-
 # Property Owner Information Form - Help Guide
 ## Purpose
 The Property Owner Information Form is used to collect relevant details about a property's owner, including contact information, property type, and management preferences. This information helps us understand the owner's needs and preferences, enabling us to provide better services.

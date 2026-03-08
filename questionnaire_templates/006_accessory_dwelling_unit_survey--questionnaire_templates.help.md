@@ -1,19 +1,3 @@
-<thinking>
-This form is intended to collect data about Accessory Dwelling Units (ADUs), which are additional housing units created on a property. The goal is to gather information about the characteristics of ADUs, including their location, type, size, and usage. This data will help identify trends and patterns in ADU development. 
-
-Please note that this form is part of a larger effort to collect data on ADUs, and your input will help us better understand the ADU landscape in your area. 
-
-Before starting, ensure you have all necessary information and permissions to complete this form accurately. If you're unsure about any of the fields, refer back to this guide for clarification. 
-
-If you're already completed an ADU in your area and would like to provide more general feedback or insights about the process, feel free to share additional comments and insights in the final section.
-
-This guide is meant to be a resource, not a regulatory requirement. Your participation is entirely voluntary and anonymous.
-
-Please complete the form in its entirety, and ensure you have all necessary permissions to provide this information.
-
-Now, let's get started! 
-</thinking>
-
 # Accessory Dwelling Unit Survey - Help Guide
 ## Purpose
 

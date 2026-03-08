@@ -1,11 +1,3 @@
-<thinking>
-
-This form seems to be designed for collecting information about skincare habits and preferences from users. The purpose of this form is likely to gather data on how users use skincare products, what types of products they use, how they discover new products, and what recommendations they may have for others.
-
-Before starting this form, please review the following fields and ensure you haven't completed the form before.
-
-</thinking>
-
 # Skincare Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your skincare habits and preferences. Please answer the questions honestly and to the best of your ability.

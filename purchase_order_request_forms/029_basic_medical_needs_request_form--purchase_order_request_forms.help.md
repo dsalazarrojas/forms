@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for basic medical needs requests from requesting organizations. The form has been designed to ensure that the requesting organization's medical needs are met in a timely and efficient manner. It is intended for use by authorized personnel only, and all fields marked as "required" must be completed to ensure that the form is properly submitted.
-</thinking>
-
 # Basic Medical Needs Request Form - Help Guide
 ## Purpose
 The Basic Medical Needs Request Form is used to collect information for basic medical needs requests from requesting organizations. This form helps to streamline the request process and ensure that medical needs are met in a timely and efficient manner.

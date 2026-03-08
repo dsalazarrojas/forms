@@ -1,18 +1,3 @@
-<thinking>
-
-This form is used to document the forfeiture of a security deposit for a rental property. The purpose of this form is to provide a formal notice to the tenant that their security deposit has been forfeited due to non-payment of rent or other lease violations. This form is typically used by landlords to notify the tenant of the amount of the forfeited deposit and the reason for its forfeiture. The form is usually used in conjunction with other relevant documents, such as the lease agreement and any previous notices or communications.
-
-Before creating this form, ensure that the following conditions have been met:
-
-*   The tenant has breached the terms of the lease agreement.
-*   The lease agreement has a clear clause regarding security deposit forfeiture.
-*   The landlord has given the tenant proper notice before issuing this form.
-*   The amount of the forfeited deposit has not been previously disputed.
-
-If any of these conditions have not been met, do not use this form, as it may not be accurate or relevant in the given situation.
-
-</thinking>
-
 # Security Deposit Forfeiture Notice - Help Guide
 ## Purpose
 This form is used to document the forfeiture of a security deposit for a rental property. It provides a formal notification to the tenant of the amount of the forfeited deposit and the reason for its forfeiture.

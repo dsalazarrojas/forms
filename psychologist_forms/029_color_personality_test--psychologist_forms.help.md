@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Color Personality Test - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey designed to gather information on learning motivation during hybrid classes. It is meant for students to express their feelings and opinions about the hybrid learning environment. This survey should only be filled out by students who have attended a hybrid class. Please ensure that you have the necessary permissions and consents before proceeding.
-</thinking>
-
 # Learning Motivation During Hybrid Classes Survey - Help Guide
 
 ## Purpose

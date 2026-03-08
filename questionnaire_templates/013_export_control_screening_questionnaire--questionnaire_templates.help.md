@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-To determine the purpose of the form, we can look at the provided YAML. The form is called "Export Control Screening Questionnaire" and it appears to be related to export control regulations. It seems that the form is designed to collect information related to export control, but I'll need to dig deeper into the fields to better understand its purpose.
+> To determine the purpose of the form, we can look at the provided YAML. The form is called "Export Control Screening Questionnaire" and it appears to be related to export control regulations. It seems that the form is designed to collect information related to export control, but I'll need to dig deeper into the fields to better understand its purpose.
 
 Upon examining the fields, I see that the form has multiple fields with different types: text, note, select_multiple, and number. The "screening_exporter_details" field has a required option, which suggests that it's a critical part of the form. The "screening_contact" field has a note type, which indicates that it's a free-form text field for entering contact information.
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users identify their core emotional pain by guiding them through a series of questions that cover various aspects of emotional pain. It's essential to understand that this form is not a diagnosis or a substitute for professional help, but rather a tool to help individuals gain a deeper understanding of their emotional pain. Please ensure that you are in a suitable state of mind to complete this form, and if you're feeling overwhelmed or in need of immediate support, please reach out to a trusted professional or support system. If you've completed this form before, please be aware that your responses will be saved, and you can pick up where you left off.
-</thinking>
-
 # Identify Your Core Emotional Pain - Help Guide
 ## Purpose
 This form is designed to help you better understand your emotional pain and its impact on your life. It will guide you through a series of questions to identify the frequency, intensity, and areas affected by your emotional pain. The goal is to help you develop a plan to address it and improve your overall well-being.

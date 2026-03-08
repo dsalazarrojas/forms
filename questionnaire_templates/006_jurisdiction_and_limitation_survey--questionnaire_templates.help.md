@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Jurisdiction And Limitation Survey - Help Guide
 
 ## Purpose

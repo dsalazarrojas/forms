@@ -1,8 +1,3 @@
-<thinking>
-This form is for scheduling a committee meeting, which is likely an internal meeting within an organization where committee members come together to discuss and decide on specific items. The purpose of this form is to gather necessary information to organize and facilitate a productive meeting. This form likely exists in an internal context where committees are common and meeting scheduling is a recurring activity.
-The form is likely being used by a group of people within an organization who are responsible for planning and coordinating meetings. To ensure a productive and efficient meeting, it is essential to complete this form correctly. 
-</thinking>
-
 # Committee Meeting Scheduling - Help Guide
 
 ## Purpose

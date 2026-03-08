@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Doctor Feedback New Medication Questionnaire - Help Guide
 
 ## Purpose

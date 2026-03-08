@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used in an e-commerce or retail context, possibly for a small business or startup. The form's purpose could be to gather information from customers about their product purchases, including user contact details, product selections, payment methods, and order summaries. It seems to be a simple, text-based form, possibly for a web or mobile application. Before proceeding, let's make sure the form is being used for its intended purpose and doesn't duplicate or overlap with existing forms.
-</thinking>
-
 # Simple Product Purchase Form - Help Guide
 ## Purpose
 The Simple Product Purchase Form is a basic form designed to collect information from customers about their product purchases. It is intended for use in an e-commerce or retail context, such as a small business or startup.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather user feedback on milkshake flavors, specifically in terms of preferences, satisfaction, and interest in new flavors. The form is composed of multiple pages with questions that aim to collect data on user preferences, likes, and dislikes. The form does not collect personally identifiable information and is intended to be a one-time survey. There is no indication of any duplicate or redundant questions. The form appears to be a simple survey with a clear structure, making it easy to follow and complete. The survey questions seem to cover a range of topics, from preferences to satisfaction and interest in new flavors. This form does not have any obvious issues or concerns that would require further review or revision.
-</thinking>
-
 # Milkshake Flavor Preference Survey - Help Guide
 ## Purpose
 The Milkshake Flavor Preference Survey is designed to collect feedback on milkshake flavors, helping us understand your preferences, satisfaction, and interest in new flavors.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my task is to create a user-facing help guide for the Sneaker Limited Edition Pre Order Form. To begin, I will review the provided YAML fields and analyze the form's purpose. Upon examining the form, I notice that it is designed to collect various pieces of information from customers for a limited edition sneaker pre-order, including customer details, delivery preferences, payment details, and shipping information. The form appears to be structured to accommodate a one-time pre-order for a specific product release. To confirm, I will provide a brief internal reasoning block to ensure I understand the form's intention and purpose correctly.</thinking>
-
 # Sneaker Limited Edition Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in pre-ordering a limited edition sneaker. The form gathers customer details, delivery preferences, payment information, and shipping data to process the pre-order request.

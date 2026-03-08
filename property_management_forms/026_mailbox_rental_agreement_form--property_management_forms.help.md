@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from customers about their mailbox rental agreement, which includes customer details, mailbox specifics, and any rental agreement terms. This form is likely used in a business setting where customers rent mailboxes for a service or product. The form fields should be self-explanatory, but to confirm, let's break down each field to ensure the user understands the form's intent and requirements.
-
-</thinking>
-
 # Mailbox Rental Agreement Form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their mailbox rental agreement, which includes details about the customer, mailbox specifics, and rental terms.

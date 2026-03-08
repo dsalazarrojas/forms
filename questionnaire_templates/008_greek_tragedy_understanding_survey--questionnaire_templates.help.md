@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about participants' characteristics, interests, familiarity, perceptions, and past experiences related to the Greek Tragedy theme. The goal is to gather a comprehensive understanding of the audience's background and perspectives on the topic. Please ensure that you have reviewed the provided information carefully to avoid duplication and provide accurate responses.
-</thinking>
-
 # Greek Tragedy Understanding Survey - Help Guide
 ## Purpose
 This survey aims to gather data about participants' characteristics, interests, familiarity, perceptions, and past experiences related to the Greek Tragedy theme.

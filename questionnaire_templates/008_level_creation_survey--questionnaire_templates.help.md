@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? This form is intended to collect feedback and information from level creators in the game development process. It is used to gather insights on the level creation process, including the level creation time, satisfaction, and improvement opportunities. This form helps identify areas for improvement and provide valuable feedback for future level designs.</thinking>
-
 # Level Creation Survey - Help Guide
 
 ## Purpose

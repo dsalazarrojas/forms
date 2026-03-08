@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on quality control processes and procedures, including business processes, customer relationships, and employee safety. This form is likely used in an organizational setting to assess the effectiveness and efficiency of various quality control processes. By providing a comprehensive overview of these processes, the form can help identify areas for improvement and optimize them for better outcomes. It is essential to fill out this form accurately and thoroughly to ensure that the data collected is reliable and informative.</thinking>
-
 # Quality Control Checklist Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beverage Flavor Selection Voting Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about invasive plant removal efforts, including site details, species list, removal effort, post-removal outcomes, photos, and contact information. The purpose of this form is to collect data on invasive plant removal efforts and their associated outcomes.
-
-</thinking>
-
 # invasive_plant_removal_survey - Help Guide
 ## Purpose
 

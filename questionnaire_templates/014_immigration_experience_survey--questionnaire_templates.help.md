@@ -1,5 +1,3 @@
-<thinking>...I am designing a help guide for the Immigration Experience Survey form. This form is used to collect feedback and insights from individuals about their experiences with immigration-related processes. The form is likely used to gather quantitative and qualitative data for research or quality improvement purposes. I'll ensure that the help guide is clear, concise, and practical for end-users. I will only include fields from the provided YAML schema in the final output...</thinking>
-
 # Immigration Experience Survey - Help Guide
 ## Purpose
 The Immigration Experience Survey is designed to collect feedback and insights from individuals about their experiences with immigration-related processes. This form helps us better understand your experiences, which can inform improvements to these processes.

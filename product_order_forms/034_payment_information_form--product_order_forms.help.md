@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect payment information from customers. It appears to be used for a product order process, likely to capture details necessary for payment processing and customer communication. The form is split into various fields, each with its own label, type, and options. To confirm, there are no fields marked as required, which means they are optional. This form seems to cater to a specific business process, and its structure is designed to support that process... </thinking>
-
 # Payment Information Form - Help Guide
 ## Purpose
 This form is designed to collect payment information from customers during the product order process. It is essential to complete this form accurately to ensure smooth payment processing and effective customer communication.

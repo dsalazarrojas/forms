@@ -1,7 +1,3 @@
-<thinking>
-This form is for evaluating public health data trust perception. The purpose is to gather information on respondents' awareness of data handling practices, their perception of data trust, and their concerns regarding data handling. This form helps in understanding the public's perception of data handling, which is essential for public health data management and trust. Please ensure that this form is being filled out only once per individual and that responses are not duplicated.
-</thinking>
-
 # Public Health Data Trust Perception Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your perception of public health data. It's crucial that you answer honestly, as the data collected will help us better understand and improve data handling practices.

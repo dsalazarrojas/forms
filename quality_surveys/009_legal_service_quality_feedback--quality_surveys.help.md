@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and opinions from users about the quality of legal services offered by your organization. The goal is to understand areas of strength and weakness, and to identify opportunities for improvement. This form will help you gauge user satisfaction and experiences, allowing you to refine your services to better meet their needs.
-</thinking>
-
 # Legal Service Quality Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about the quality of our legal services. Your input will help us understand how we can improve and better serve you and others in the future.

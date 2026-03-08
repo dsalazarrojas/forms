@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Self Esteem Questionnaire - Help Guide
 ## Purpose
 The Self Esteem Questionnaire is a tool designed to help individuals assess their self-esteem levels and identify areas for personal growth and development. It is a series of questions that aim to measure one's self-perception, self-confidence, and overall self-worth.

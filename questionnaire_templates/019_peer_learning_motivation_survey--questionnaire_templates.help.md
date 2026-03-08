@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Peer Learning Motivation Survey - Help Guide
 ## Purpose
 This survey aims to understand the motivations and preferences of students who engage in peer learning activities. By providing honest and accurate responses, you will help us better understand what drives students to learn from their peers and how to improve our peer learning initiatives.

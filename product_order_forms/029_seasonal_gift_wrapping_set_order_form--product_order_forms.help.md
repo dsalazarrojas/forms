@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seasonal Gift Wrapping Set Order Form - Help Guide
 ## Purpose
 The Seasonal Gift Wrapping Set Order Form is designed to collect information for orders of gift wrapping sets. This form is used to process customer orders, including details about the order, customer, and shipping information. It is essential to fill out the form accurately and completely to ensure that the order is processed correctly and delivered on time.

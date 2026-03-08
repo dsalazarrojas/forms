@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Car Rental System Questionnaire form. The purpose of this form is to gather feedback and insights from customers to help improve the car rental system. This questionnaire aims to understand the customer's rental frequency, their primary purpose for renting, important factors when making a decision, satisfaction level with the current system, preferred booking method, desired new system features, and any additional comments or feedback. 
-</thinking>
-
 # Car Rental System Questionnaire - Help Guide
 ## Purpose
 The Car Rental System Questionnaire is designed to collect feedback and information from customers to help improve the car rental system.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's smartphone usage and its impact on their productivity. It is meant to be filled out by employees, students, or other individuals who use smartphones for personal and professional purposes. Please note that this form is not meant to be filled out multiple times by the same individual. If you are being asked to fill out this form again, it is likely because there has been a change in your circumstances or the form is being used to collect additional data for a different purpose.
-</thinking>
-
 # Smartphone Use And Productivity Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your smartphone usage habits and their impact on your productivity. Your responses will help us better understand how to create more effective work environments and support systems for your work or school.

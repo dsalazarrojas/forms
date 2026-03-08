@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Member Questionnaire - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Understanding the purpose of this form requires considering the context and potential use cases. This form appears to be a Visual Cognitive Ability Assessment, which suggests it is designed to evaluate an individual's cognitive abilities related to visual perception, attention, and other visual-related skills. The form's purpose might be to assess cognitive functions such as visual attention, visual perception, memory, or other related abilities in various fields like psychology, education, or healthcare. It could also be used to identify cognitive strengths and weaknesses in individuals with visual impairments. To ensure the form is used correctly, it is essential to verify that the user understands its purpose and is not duplicating effort or wasting time on unnecessary questions.</thinking>
-
 # Visual Cognitive Ability Assessment - Help Guide
 ## Purpose
 The Visual Cognitive Ability Assessment is a tool designed to evaluate an individual's visual cognitive abilities. This form is intended to assess visual perception, attention, memory, and other visual-related skills.

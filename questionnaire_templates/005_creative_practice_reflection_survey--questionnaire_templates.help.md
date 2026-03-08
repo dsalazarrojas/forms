@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to create a survey for creative practice reflection, which is typically used to gather information about projects, their status, duration, location, collaborators, and other relevant details. This form aims to standardize the collection of data to help artists, project managers, and other stakeholders to track and analyze projects more efficiently. However, to ensure this form is used effectively, it's essential to understand its fields clearly. 
-
-</thinking>
-
 # Creative Practice Reflection Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about projects, their status, duration, location, collaborators, and other relevant details for reflection and analysis.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information on hospital waste reduction practices, aiming to collect data on different types of waste streams, reduction targets, strategies, and potential barriers. The form is designed to be completed by healthcare professionals or relevant staff members.
-</thinking>
-
 # Hospital Waste Reduction Practices Survey - Help Guide
 ## Purpose
 This form is designed to gather information on hospital waste reduction practices, including the types of waste streams, reduction targets, and strategies implemented.

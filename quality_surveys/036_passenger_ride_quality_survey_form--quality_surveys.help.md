@@ -1,7 +1,3 @@
-<thinking>
-The "Passenger Ride Quality Survey Form" aims to gather feedback from passengers about their overall experience during their trip. This form will help us understand how our service meets or falls short of their expectations, providing us with valuable insights to improve our service quality. This form will be used for all passengers, regardless of their trip type or category. Please ensure that the form is filled out by all passengers, without duplication or unnecessary repetition, as it will help us to gather a comprehensive understanding of our service quality.
-</thinking>
-
 # Passenger Ride Quality Survey Form - Help Guide
 
 ## Purpose

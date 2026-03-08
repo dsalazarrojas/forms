@@ -1,12 +1,3 @@
-<thinking>
-The "Face Wash Product Submission" form is designed to collect information about face wash products from brands. The purpose of this form is to gather data about products, including their brand, name, type, ingredients, image, and other relevant details. This form is intended for brands to submit their products for listing on a product catalog or database. 
-
-To ensure data quality and prevent duplication, the form will be reviewed and validated by the product listing team before publication. 
-
-Please note that the submission of fake or inaccurate data will be rejected. 
-
-</thinking>
-
 # Face Wash Product Submission - Help Guide
 ## Purpose
 The Face Wash Product Submission form is a tool for brands to submit their face wash products for listing on a product catalog or database. This form gathers essential information about products, including their brand, name, type, ingredients, image, and other details.

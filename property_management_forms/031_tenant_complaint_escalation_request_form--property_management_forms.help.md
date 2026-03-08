@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I will create a comprehensive help guide for the Tenant Complaint Escalation Request Form that explains its purpose, how to complete it, and each field's meaning. I will base my explanation on the provided YAML fields and aim for conciseness and clarity. The form appears to be used for tracking tenant complaints and escalations within a property management system. The form's purpose is likely to document and manage complaints from tenants, which could be used for issue tracking, reporting, and resolution. The guide will help end-users understand each field's relevance and how to fill out the form correctly.</thinking>
-
 # Tenant Complaint Escalation Request Form - Help Guide
 ## Purpose
 The Tenant Complaint Escalation Request Form is used to document and manage complaints from tenants. It helps track and resolve issues raised by tenants, ensuring efficient and timely resolution.

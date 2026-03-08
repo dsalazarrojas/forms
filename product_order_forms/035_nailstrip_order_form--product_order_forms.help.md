@@ -1,7 +1,3 @@
-<thinking>
-The Nailstrip Order Form is designed to capture customer information and order details for nail products ordered through our service. This form is used for customers who are interested in purchasing nail-related products, such as nail polish, nail care products, or nail enhancements. To ensure accurate and efficient processing, please ensure that you are using the correct product ID and have the necessary information readily available.
-</thinking>
-
 # Nailstrip Order Form - Help Guide
 ## Purpose
 The Nailstrip Order Form is used to process orders for nail products. Please use this form to provide accurate and complete information to ensure timely and correct order fulfillment.

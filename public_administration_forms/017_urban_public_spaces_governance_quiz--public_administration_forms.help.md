@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gauge the effectiveness of public space governance in urban areas. It will help users understand the key components and processes involved in the management and evaluation of public spaces. By completing this form, users can assess their knowledge of public space governance and identify areas for improvement.
-
-This form is not intended to be used for any commercial purposes. It is a free-to-use adaptation created by an AI using public survey data. Users are free to modify and distribute it under CC BY 4.0 license.
-
-Please be aware that the questions in this form are based on the survey metadata and might not reflect your actual practices or experiences. This form is meant to be a starting point for discussions and reflections rather than a comprehensive assessment.
-
-It is recommended to complete the form carefully and accurately to ensure the results are reliable and meaningful. If you have any questions or concerns, please contact form@gic.mx.
-</thinking>
-
 # Urban Public Spaces Governance Quiz - Help Guide
 ## Purpose
 This form is designed to help users understand the key components and processes involved in the management and evaluation of public spaces. It will help users assess their knowledge and identify areas for improvement.

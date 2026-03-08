@@ -1,7 +1,3 @@
-<thinking>
-This form is used for research intake purposes, specifically for drug delivery research. It's designed to collect information about the researcher's identity, research question, and other relevant details. This form is intended for internal use within a research institution and should not be used for external sharing or submission. Before filling out this form, please ensure you are completing it for a legitimate research purpose and not duplicating existing research. If you're unsure, please reach out to your local research coordinator for guidance.
-</thinking>
-
 # drug_delivery_research_intake_form - Help Guide
 ## Purpose
 The **drug delivery research intake form** is a collection of questions aimed at gathering information from researchers about their drug delivery research projects. It's essential to fill this form accurately and completely to ensure that your research can be properly processed and followed up on.

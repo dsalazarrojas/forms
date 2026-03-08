@@ -1,8 +1,3 @@
-<thinking> 
-The form purpose is to request a helmet decal for a team. The form fields are designed to collect information about the team's artwork, colors, sizing, and other specific details. The team artwork, colors, and decal type fields are used to determine the design of the decal, while the team sizing and quantity fields are used to determine the production and distribution of the decal. The assigned_to field allows administrators to decide on the person or group assigned to produce the decal, while the assigned_tool field is used to determine which production tool is used for the decal. The team_type and decal_type fields are used to narrow down the type of team and decal requested. The team_color_scheme field is used to determine the specific color scheme used for the decal. The quantity and size fields are used to determine how many decals to produce in what size. The form also includes fields for the team's email and phone number in case there are further questions or issues with the order. The form is designed to be flexible and accommodate different types of teams and decals. It is essential to fill out the form as accurately as possible to ensure the correct design and production of the decal.
-
-</thinking>
-
 # Helmet Decal Request Form - Help Guide
 ## Purpose
 This form is used to request a helmet decal for a team. It gathers information about the team's artwork, colors, sizing, and other specific details to ensure the correct design and production of the decal.
