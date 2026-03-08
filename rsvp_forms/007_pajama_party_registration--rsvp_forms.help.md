@@ -1,7 +1,3 @@
-<thinking>
-The Pajama Party Registration form is designed to collect information from participants and attendees of a Pajama Party event. This form will help you gather details such as event name, participant contact information, dietary preferences, and other relevant details. Please ensure that you fill out this form accurately and completely to ensure that the event organizers have all the necessary information to manage the event smoothly.
-</thinking>
-
 # Pajama Party Registration - Help Guide
 ## Purpose
 This form is intended to collect information from participants and attendees of a Pajama Party event.

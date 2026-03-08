@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a comprehensive help guide for the School Field Trip Reservation Form. This guide will cover the purpose of the form, how to complete it, and provide field-by-field explanations for each section.</thinking>
-
 # School Field Trip Reservation Form - Help Guide
 
 ## Purpose

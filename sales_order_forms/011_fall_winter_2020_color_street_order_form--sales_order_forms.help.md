@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture customer information for a sale order related to the Fall/Winter 2020 line. To ensure accuracy, please confirm that this form is relevant to your needs and not a duplicate of an existing form.
-</thinking>
-
 # Fall/Winter 2020 Color Street Order Form - Help Guide
 ## Purpose
 This form is used to collect customer information for a sale order related to the Fall/Winter 2020 line. Please fill out this form to provide the necessary details for your order.

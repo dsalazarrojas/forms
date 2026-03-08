@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to be a simple waiting list form for products. It's meant to be used by sales teams or customer service representatives to track products that are waiting on a list. The form is not meant to be used for any other purpose, and it's a one-time use form. There are no plans for a similar form to be used in the near future. The form is not meant to be used by customers directly. It's only for internal use within the company. The form fields should be filled by sales or customer service teams to provide accurate and relevant information. This form will be used by the company's internal system to keep track of product status and customer information.
-</thinking>
-
 # Product Waiting List Form - Help Guide
 ## Purpose
 The Product Waiting List Form is designed to be used by sales and customer service teams to track products that are waiting on a list. It helps the team to keep accurate and up-to-date information about product status and customer details.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users regarding their internet service requests. This includes contact information, preferred contact method, and details about the service requested. This form will help us understand the needs of our users and provide them with the necessary assistance. Please be aware that if you have previously submitted a request, it will be marked as duplicated and not processed.
-</thinking>
-
 # Internet Service Request Form - Help Guide
 ## Purpose
 

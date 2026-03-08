@@ -1,7 +1,3 @@
-<thinking>
-This form is used to generate an estimate for a sales consultant's services. The form's purpose is to collect information from the customer about their needs and requirements. This information will be used to provide a detailed estimate for the sales consultant's services. This form should only be used for sales consultants to estimate their services for customers.
-</thinking>
-
 # Sales Consultant Estimate Form - Help Guide
 ## Purpose
 The Sales Consultant Estimate Form is used to generate an estimate for a sales consultant's services. This form collects information from the customer about their needs and requirements, which is then used to provide a detailed estimate for the sales consultant's services.

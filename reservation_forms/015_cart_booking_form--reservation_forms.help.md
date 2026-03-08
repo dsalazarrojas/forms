@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Cart Booking Form, we need to consider the following:
-
-* The form is designed for customers to book carts for various purposes, such as golf outings, events, or facility maintenance. It collects information about the customer's needs, cart details, and rental terms.
-* The form has 33 fields, which might be overwhelming for users. To ensure they complete the form accurately, we need to clearly explain each field's purpose and requirements.
-* The form is likely to be used by customers with varying levels of technical expertise, so the explanations should be clear and concise.
-* The form is a part of a larger system, and some fields might be related to specific business processes or policies (e.g., insurance coverage, payment methods). We should explain these concepts in a way that's easy to understand.
-
-</thinking>
-
 # Cart Booking Form - Help Guide
 ## Purpose
 The Cart Booking Form is designed for customers to reserve carts for their needs. This form helps us understand their requirements and provide the best possible service.

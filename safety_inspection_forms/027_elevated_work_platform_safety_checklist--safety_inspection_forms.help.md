@@ -1,5 +1,3 @@
-<thinking>... This form is designed to help ensure the safe operation of elevated work platforms (EWP) by conducting regular inspections and recording important safety information. It helps to identify potential hazards, document corrective actions, and track signatures and timestamps for accountability. Before proceeding, please ensure that you are completing this form for the intended purpose and not duplicating efforts... </thinking>
-
 # Elevated Work Platform Safety Checklist - Help Guide
 ## Purpose
 The Elevated Work Platform Safety Checklist is a crucial document that helps ensure the safe operation of elevated work platforms. It is designed to guide inspectors in conducting regular inspections, identifying potential hazards, and documenting corrective actions.

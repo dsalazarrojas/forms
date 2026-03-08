@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for an order of robotics tooling tools, such as end arms, suction cups, or other related products. The purpose of this form is to facilitate the submission of a sales order. The form is not a traditional survey, but rather a sales-specific form used for business-to-business (B2B) purposes. I will assume that the form is being used within the robotics industry, where technical details are crucial.
-</thinking>
-
 # Robotics End Arm Tooling Order Form - Help Guide
 ## Purpose
 The Robotics End Arm Tooling Order Form is a sales order form designed to gather necessary information for ordering robotics tooling tools.

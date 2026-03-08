@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, the purpose of this form is to gather information from individuals about their attendance and preferences for the Exhibition Opening Soirée. This form will help us track who is coming and provide an opportunity for attendees to share their guest information and any notes they'd like to pass along. Please ensure that only one instance of this form is created to avoid duplication of effort and ensure accurate tracking. Before proceeding, review the fields and their descriptions to guarantee a smooth and accurate completion process.
 
 # Exhibition Opening Soirée RSVP Form - Help Guide

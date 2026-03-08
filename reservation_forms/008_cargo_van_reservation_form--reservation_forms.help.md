@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers or renters who want to reserve a cargo van for a specific period of time. The form is used to collect necessary information to ensure a smooth reservation process. Each field in this form should be filled out carefully, as it will help our team prepare for the reservation. Please note that fields marked as "required" should be filled out to ensure accurate processing of your reservation. This guide will help you understand each field's purpose and how to fill it out correctly.
-</thinking>
-
 # Cargo Van Reservation Form - Help Guide
 ## Purpose
 This form is used to create a reservation for a cargo van. It gathers information about the reservation date, customer details, vehicle type, and other necessary information to ensure a smooth and efficient reservation process.

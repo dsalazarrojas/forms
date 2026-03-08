@@ -1,7 +1,3 @@
-<thinking>
-The "Mother's Day Brunch Reservation Form" is used to collect information from guests who plan to attend a Mother's Day Brunch event. This form is required for the event organizers to ensure an accurate headcount and provide the necessary arrangements for a successful and enjoyable experience for all guests. To complete this form, you will need to provide your first name, last name, email, phone number, and other required details. Please make sure to fill out the form accurately and completely.
-</thinking>
-
 # Mother's Day Brunch Reservation Form - Help Guide
 ## Purpose
 The Mother's Day Brunch Reservation Form is used to collect information from guests to ensure a smooth and enjoyable experience at the event.

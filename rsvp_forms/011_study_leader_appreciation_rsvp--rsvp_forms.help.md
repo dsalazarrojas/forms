@@ -1,9 +1,3 @@
-<thinking>... internal reasoning to ensure the form purpose and instructions are clear and accurate ...
-
-The form "Study Leader Appreciation RSVP" is designed for individuals to express their appreciation and send a message of thanks to their study leaders. It is a simple form that helps to gather information about the guests attending an event. The form is not meant for public use, and the data collected will be used internally.
-
-</thinking>
-
 # Study Leader Appreciation RSVP - Help Guide
 ## Purpose
 This form is used to express appreciation to study leaders for their hard work and dedication. It allows guests to send a message of thanks to the study leaders and helps to gather information about the number of guests attending.

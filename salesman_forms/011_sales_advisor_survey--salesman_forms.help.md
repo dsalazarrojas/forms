@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used by sales teams to gather information from sales advisors about their sales strategies, performance, and feedback. This form might be used to identify areas for improvement, track sales trends, or measure the effectiveness of sales training programs. Before completing this form, ensure that you have all the necessary information and permissions to share it. Please review each field carefully to ensure you're providing accurate and relevant answers. This form is intended to be completed once or multiple times, depending on the context and goals of the sales team.
-</thinking>
-
 # Sales Advisor Survey - Help Guide
 ## Purpose
 The Sales Advisor Survey is a tool used to gather information from sales advisors about their sales strategies, performance, and feedback.

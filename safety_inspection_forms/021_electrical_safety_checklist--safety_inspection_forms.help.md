@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a thorough inspection of electrical systems to identify any potential safety concerns or hazards. This form is designed to ensure that all electrical systems are properly functioning and safe for use. To complete this form, you will be asked about various electrical systems and their associated safety features.
-
-The form is structured to collect information on multiple electrical systems, including panelboards, which are critical components in a building's electrical infrastructure. The form is organized into sections, each covering a different aspect of electrical safety. By completing this form, you will help identify any areas that need attention or improvement to ensure the overall safety of the electrical systems.
-
-When completing this form, please answer all the questions honestly and thoroughly. If you are unsure about any of the questions or answers, please do not hesitate to ask for clarification or assistance.
-
-To prevent duplication of effort, please ensure that you are using the most up-to-date information available. If there have been any recent updates or changes to the electrical systems, please provide that information here.
-
-Please complete all the sections and answer all the questions to help us identify any potential electrical safety concerns.</thinking>
 # Electrical Safety Checklist - Help Guide
 ## Purpose
 This form is a comprehensive inspection of electrical systems in your building. The goal is to identify any potential safety concerns or hazards and ensure that all electrical systems are properly functioning.

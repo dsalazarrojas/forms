@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their RSVP (Response to the invitation) for a corporate event. The form will be used by event organizers to track the attendance and notes of the attendees. 
-The form is divided into sections, each with a specific purpose:
-1. "Event Details" is where the employee provides a brief description of the event they are attending (optional).
-2. "RSVP" is where the employee selects whether they will be attending (RSVP'd) or not attending (Not RSVP'd) the event (optional).
-3. "Notes" is the field where the employee can provide additional information or details about their attendance or any special requests (optional).
-4. "Contact Information" includes "Email", "Phone", fields to collect the employee's contact information (optional).
-5. "Event Schedule" includes "Date", "Time" fields where the employee selects the date and time of the event (optional).
-
-The form's purpose is to gather information from employees about their intentions to attend the corporate event, allowing event organizers to track the attendance and plan accordingly.
-</thinking>
-
 # corporate_event_rsvp_form - Help Guide
 
 ## Purpose

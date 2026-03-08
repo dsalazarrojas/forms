@@ -1,19 +1,3 @@
-<thinking>
-  The Birthday Reservation Form is designed for customers to book and customize their birthday celebrations at a venue. This form collects essential information about the celebration, including contact details, party preferences, and payment details. It helps us better understand the customer's needs and ensure a smooth booking process. 
-  This form is intended for one-time use; if you need to make multiple reservations, please repeat the form. 
-  Please ensure that all relevant details are filled accurately to avoid miscommunication and potential cancellations. 
-  If any field is unclear or not applicable, please reach out to us for clarification or assistance. 
-  We aim to tailor every celebration according to the customer's preferences and provide exceptional service. 
-  We appreciate your attention to the provided fields and any additional comments or requests you may have. 
-  We'll follow up with the customer with a confirmation of their reservation once this form is submitted. 
-  Please review our cancellation policy and refund policy before proceeding. 
-  We are committed to making every event enjoyable and memorable for our customers. 
-  Thank you for your understanding and cooperation. 
-  If you have any questions or concerns, please don't hesitate to reach out. 
-  We'll do our best to accommodate your needs and provide an exceptional service. 
-  We value your time and look forward to celebrating with you! 
-</thinking>
-
 # Birthday Reservation Form - Help Guide
 ## Purpose
 The Birthday Reservation Form is a tool to help us better understand your birthday celebration needs and preferences. It's a one-time form to book and customize your special day with us.

@@ -1,5 +1,3 @@
-<thinking>...this form is designed to allow users to submit contact information and a message to the site administrators. It is meant to be a simple and straightforward way for users to get in touch with the company for support, sales, or other general inquiries. It's best to fill this form out in a new tab or window to ensure that your information is not lost in case of any navigation issues. Please make sure to not duplicate this form submission as you will be able to submit it multiple times. This form will allow you to get in touch with our team with ease and efficiency.</thinking>
-
 # Simple Contact Us Form - Help Guide
 ## Purpose
 The Simple Contact Us Form is designed to provide users with a quick and easy way to get in touch with the site administrators.

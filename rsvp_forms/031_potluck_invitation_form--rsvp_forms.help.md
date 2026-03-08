@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Potluck Invitation Form - Help Guide
 ## Purpose
 The purpose of this form is to invite individuals to a potluck event. Fill in your personal details and specify what you are bringing to the event.

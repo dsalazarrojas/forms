@@ -1,5 +1,3 @@
-<thinking>... This form is a template for reviewing insurance policies, specifically designed to gather information about customer appointments. The form's primary purpose is to collect relevant details about the appointment, including customer information, contact details, appointment overview, review information, payment details, and any additional comments. This form is intended for internal use and may be used by insurance professionals to standardize the review process. Before proceeding, please note that this form does not collect sensitive information and is not intended for use in any form of public disclosure. The information provided will only be used internally for the purpose of facilitating the review process.</thinking>
-
 # insurance_policy_review_appointment_form_template - Help Guide
 ## Purpose
 This form is designed to collect relevant information about customer appointments for review purposes.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for the rental of an ATV Jeep. The form aims to gather essential details such as customer information, vehicle preferences, and rental requirements. This form is likely used by a business that offers ATV Jeep rentals and needs to collect data for booking and management purposes.
-</thinking>
-
 # ATV Jeep Rental Reservation Form - Help Guide
 ## Purpose
 This form is for customers to reserve an ATV Jeep rental. It's essential to fill out the form accurately to ensure that your reservation is processed correctly and that you have a smooth rental experience.

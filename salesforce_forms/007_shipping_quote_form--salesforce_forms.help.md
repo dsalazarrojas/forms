@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to generate a shipping quote for a customer. It's a crucial document that outlines the details of the shipping process, including the estimated cost, delivery date and time, shipping service, and other relevant information. This form aims to provide a clear and concise overview of the shipment process to the customer, ensuring they are aware of what to expect.
-
-The form is intended to be filled out by the customer, salesperson, or other authorized personnel. It's a crucial step in the sales process, as it helps to establish a clear understanding of the shipping process and reduces potential miscommunications or misunderstandings.
-
-Before filling out this form, please ensure that you have all the necessary information and that it's accurate. This form should not be used to create duplicate quotes. If you need to make changes to a quote, please refer to the original quote number.</thinking>
-
 # Shipping Quote Form - Help Guide
 ## Purpose
 This guide provides a detailed explanation of how to complete the Shipping Quote Form.

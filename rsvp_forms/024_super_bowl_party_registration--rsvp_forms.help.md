@@ -1,12 +1,3 @@
-<thinking>
-We're checking the form purpose and requirements to provide a clear and concise help guide for end users.
-
-The purpose of this form is to collect information from individuals RSVPing to a Super Bowl party. The form is designed to gather details about the number of guests attending, food and drink preferences, special requests, contact information, and other relevant details.
-
-Before we begin, it's essential to note that the form is not a mandatory or mandatory form, and completion is not required. It's a way for party hosts to gather information and preferences from guests to better plan and prepare for the event.
-
-</thinking>
-
 # super_bowl_party_registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals RSVPing to a Super Bowl party, allowing the host to plan and prepare for the event.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from guests who are RSVPing (Responding to the invitation) for the annual fund drive kickoff event. This form asks for guest contact information, RSVP preferences, dietary restrictions, and interest in involvement. The form will help event organizers plan and prepare for the event, while also allowing guests to communicate their preferences and needs. This form does not duplicate any other form used in our organization. However, it is essential to ensure that the information gathered is accurate and up-to-date to avoid any confusion or miscommunication during the event.
-
-</thinking>
-
 # Annual Fund Drive Kickoff RSVP - Help Guide
 ## Purpose
 The purpose of this form is to gather information from guests who are RSVPing for the annual fund drive kickoff event.

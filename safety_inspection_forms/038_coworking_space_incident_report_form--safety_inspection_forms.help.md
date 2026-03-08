@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coworking Space Incident Report Form - Help Guide
 
 ## Purpose

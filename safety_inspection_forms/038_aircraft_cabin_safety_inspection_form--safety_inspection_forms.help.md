@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect data on the safety inspection of an aircraft cabin. The form is divided into several sections, each addressing a specific aspect of cabin safety. The sections include:
-- Inspector information: This section captures the name and ID of the inspector conducting the inspection.
-- Inspection Date: This field is for recording the date of the inspection.
-- Aircraft information: This section gathers details on the aircraft's registration number, type, and flight number.
-- Safety equipment: This section evaluates the condition and functionality of various safety-related items such as seatbelts, seat condition, life vests, oxygen masks, fire extinguishers, first aid kits, and megaphones.
-- Emergency equipment: This section assesses the functionality of emergency equipment like emergency axe crowbar, slide rafts, and emergency lighting.
-- Cabin conditions: This section evaluates the overall cleanliness and condition of the cabin, including cleanliness, lavatory condition, galley condition, carpet condition, interior panels, window condition, shade condition, tray tables, and entertainment system condition.
-- Discrepancies and corrective actions: This section allows inspectors to document any issues or discrepancies found during the inspection and suggests corrective actions to be taken.
-- Conclusion: This final section records the overall priority level of the repairs needed and whether the aircraft is cleared for service after the inspection.
-The form aims to ensure a thorough assessment of the aircraft's safety and condition, providing a comprehensive picture of the aircraft's readiness for flight. It is essential to review the form carefully and provide accurate information to maintain the highest level of safety and compliance.
-</thinking>
-
 # Aircraft Cabin Safety Inspection Form - Help Guide
 
 ## Purpose

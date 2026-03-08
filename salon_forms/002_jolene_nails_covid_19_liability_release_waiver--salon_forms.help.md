@@ -1,7 +1,3 @@
-<thinking>
-This form is a Liability Release and Waiver for Jolene Nails, related to COVID-19. It appears to be used for customers or clients who have received treatments or medical services from the salon. I will assume that it is intended to collect information for liability purposes, in case the client has any pre-existing medical conditions, allergies, or has received any vaccines or medical treatments. To avoid duplication, I will not include instructions on how to fill out the form, as this information seems to be self-explanatory. However, I will create a comprehensive help guide that explains each field's purpose.
-</thinking>
-
 # jolene_nails_covid_19_liability_release_waiver - Help Guide
 ## Purpose
 This form is a Liability Release and Waiver for Jolene Nails, a business that provides medical or beauty services. It is designed to collect information from clients to ensure they understand their rights and responsibilities before undergoing any treatment or service. This form may be required for clients who have received or are about to receive treatments related to COVID-19.

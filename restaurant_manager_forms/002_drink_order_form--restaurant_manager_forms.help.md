@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for collecting information from restaurant customers to place orders for drinks. The form will likely be used by restaurant staff to gather details from customers in a quick and efficient manner. I will make sure to cover all the fields that will be required to be filled by the customer. I will also ensure that the explanations are clear and concise, and easy to understand for the end-users.
-</thinking>
-
 # Drink Order Form - Help Guide
 ## Purpose
 The Drink Order Form is designed to collect information from customers to place orders for drinks. This form helps restaurant staff gather the necessary details in a quick and efficient manner.

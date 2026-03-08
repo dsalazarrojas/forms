@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about a promotion, likely for marketing or sales purposes. The fields are intended to capture essential details about the customer, such as their name, contact information, and preferences. The form may also include fields related to service value and agreement, which could be used to measure customer satisfaction or gauge agreement on specific terms. Before filling out this form, ensure that you are not duplicating information or creating multiple entries for the same promotion.
-
-The form is likely used in a sales or marketing context, where the goal is to collect data for analysis or follow-up actions. Ensure that you are not filling out this form for promotional purposes that may be misinterpreted or lead to duplicate efforts.
-
-It is also assumed that the promotion is a specific event or campaign, and the form is designed to capture information relevant to that event.
-
-This form is not designed for general customer inquiries or support requests.
-</thinking>
-
 # Promotion Entry Form - Help Guide
 ## Purpose
 The Promotion Entry Form is used to collect information about a promotion from customers, including their contact details, preferences, and agreement on specific terms.

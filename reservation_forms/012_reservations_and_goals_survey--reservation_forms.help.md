@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning:**
-
-This form is designed for users to provide information about their reservations and goals, which will help us to better understand their needs and preferences. To prevent users from filling out the form multiple times, we have implemented a mechanism to check for duplication. This ensures that users can only submit one form per session.
-
-</thinking>
-
 # reservations_and_goals_survey - Help Guide
 ## Purpose
 The "reservations_and_goals_survey" form is designed to collect information about your reservations and goals. This data will help us understand your needs and preferences, allowing us to provide you with more accurate and efficient services.

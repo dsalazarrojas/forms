@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is designed to collect information from trade fair exhibitors about their attendance and preferences for a mixer event.
-The form should only be used by authorized personnel to collect relevant and accurate information, avoiding duplication and miscommunication.
-The form fields should be filled out accurately and completely to ensure that the event organizers can plan and prepare adequately.
-</thinking>
-
 # Trade Fair Exhibitor Mixer RSVP Form - Help Guide
 ## Purpose
 This form is designed to collect information from trade fair exhibitors about their attendance and preferences for a mixer event. It helps the event organizers to plan and prepare for the event.

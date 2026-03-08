@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to document the results of a safety inspection and ensure that necessary measures are taken to mitigate hazards and prevent injuries. This form is typically completed by employees after a safety inspection, where they report on any hazards or risks identified, assess the level of risk, and document any necessary actions to address these hazards. It is essential to complete this form accurately and thoroughly to ensure that the workplace remains safe for all employees.
-Before starting, ensure that you are authorized to complete this form and that it is relevant to the current inspection. If you have already completed this form for the same inspection, you may not need to re-complete it.
-</thinking>
-
 # OHS (Occupational Health And Safety) Work Permit Form - Help Guide
 
 ## Purpose

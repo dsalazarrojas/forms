@@ -1,27 +1,3 @@
-<thinking>
-
-The "Crash Cart Checklist" form is a critical tool for ensuring that the safety features of the crash cart are properly inspected and maintained. The form is used to gather information about the crash cart's status, including its location, contents, battery condition, and other equipment. The checklist helps to identify potential risks and ensure that the crash cart is safe for use in emergency situations.
-
-To complete this form, follow these steps:
-
-1.  Select the unit number of the crash cart.
-2.  Specify the location of the crash cart.
-3.  Identify the contents of the crash cart.
-4.  Check the condition of the batteries on the crash cart.
-5.  Assess the level of oxygen (O2) on the crash cart.
-6.  Check the age of the batteries on the crash cart.
-7.  Check the age of other equipment on the crash cart.
-8.  Assess whether the location of the crash cart is adequate.
-9.  Assess whether the contents of the crash cart are adequate.
-10.  Assess whether the batteries on the crash cart are adequate.
-11.  Assess whether the O2 on the crash cart is adequate.
-12.  Assess whether the belts on the crash cart are adequate.
-13.  Assess whether other equipment on the crash cart is adequate.
-14.  If applicable, select the date of expiration for the batteries, O2, belts, and other equipment.
-15.  If applicable, select the time when the batteries and other equipment were last replaced.
-
-</thinking>
-
 # Crash Cart Checklist - Help Guide
 ## Purpose
 

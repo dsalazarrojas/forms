@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose and the information it collects are relevant and not duplicated. The Menu Feedback Form is intended to gather feedback from customers about the menu of a restaurant. This form will help restaurant managers to understand customer's thoughts on the menu, which will enable them to make informed decisions to improve their menu offerings.
-
-This form collects information such as customer name, contact information, and feedback on the menu, which will help the restaurant management to identify areas for improvement and make data-driven decisions.
-
-To prevent duplication, the form will not collect duplicate information that already exists in the restaurant's database, such as the restaurant name. The focus will be on collecting feedback from customers, which will help the restaurant to create a better menu that meets customer needs and preferences.
-
-</thinking>
-
 # Menu Feedback Form - Help Guide
 ## Purpose
 The Menu Feedback Form is designed to gather feedback from customers about the menu of a restaurant. It helps restaurant managers to understand customer thoughts and make data-driven decisions to improve their menu offerings.

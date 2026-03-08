@@ -1,8 +1,3 @@
-<thinking> 
-  As a salesman, you will be interacting with customers and prospects who are interested in our products or services. The purpose of this form is to collect information from them, so that we can understand their needs and preferences better. This form will be used by the sales team to gather details such as names, contact information, and messages from customers. By filling out this form, customers can provide us with their first name, last name, email address, company name, and phone number, as well as any additional message they might have for us. This information will help us to follow up with them and provide them with the right product or service information that suits their needs.
-  Please ensure that you fill out this form with accurate information, especially if you are a customer interested in our products or services. If you have filled out this form previously, please refrain from submitting multiple forms to avoid duplication of records. If you have any questions or need further assistance, please don't hesitate to contact us.
-</thinking>
-
 # product_enquiry_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to collect information about private equity events, ensuring that all required fields are completed to accurately reflect event details and avoid duplication of events. This form helps to standardize the process and reduce the risk of data inconsistencies. It is designed to gather specific data points related to private equity events, such as investor names, event types, dates, times, and venues, to provide a comprehensive overview of the events.
-</thinking>
-
 # Private Equity Event Registration - Help Guide
 ## Purpose
 This form is designed to collect information about private equity events. It helps to gather accurate and standardized data points about each event, ensuring consistency and reducing the risk of duplication.

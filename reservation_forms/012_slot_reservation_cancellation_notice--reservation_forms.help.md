@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is only used for legitimate slot reservation cancellation notices. The user should not be able to access this form without proper authentication and authorization. The form should only be accessible to authorized personnel within the organization. The cancellation reasons should be valid and reasonable, and the user should be able to provide a clear and concise explanation for the cancellation. Additionally, we should verify that the provided appointment ID is valid and corresponds to an existing slot reservation. Finally, the form should be reviewed and approved by a designated person before being submitted.
-</thinking>
-
 # Slot Reservation Cancellation Notice - Help Guide
 ## Purpose
 

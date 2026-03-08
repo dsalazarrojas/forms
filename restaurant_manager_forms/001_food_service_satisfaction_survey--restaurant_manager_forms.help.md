@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to gather feedback from customers about their experience at a restaurant. The purpose is to collect data on the quality of the food service, customer service, cleanliness, and overall satisfaction. This form should only be filled out by customers who have dined in the restaurant. The data collected will help the restaurant management team to identify areas of improvement and make necessary adjustments to provide better service to their customers.</thinking>
-
 # food_service_satisfaction_survey - Help Guide
 ## Purpose
 The food service satisfaction survey is designed to gather feedback from customers on their experience at a restaurant.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to request laundry service from a service provider, and users will need to fill in the details of the request such as the type of service, pick up date and time, contact information, and other relevant details. This form is likely used by individuals or organizations that offer laundry services, such as dry cleaners or laundry delivery services, to collect information about customer requests for pickup and delivery of laundry.
-
-Before filling out this form, please ensure that you have the necessary information and permission to make a request. Also, make sure to review the form carefully to avoid duplication of requests or mistakes that might delay the processing of your request.
-
-Please note that this form is designed to be a general-purpose laundry service request form and might not cover all specific scenarios or requirements that might apply to your situation. If you have any questions or concerns about the form or its requirements, please contact your dedicated support team for assistance.
-
-</thinking>
-
 # Laundry Pickup Request Form - Help Guide
 ## Purpose
 The Laundry Pickup Request Form is a tool used to request laundry service from our laundry service providers. The form is designed to gather all the necessary information required to process your request efficiently and effectively.

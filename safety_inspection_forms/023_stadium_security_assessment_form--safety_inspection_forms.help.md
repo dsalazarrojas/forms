@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess the security readiness of a stadium. The form is meant to collect information about the venue's security plan, risk assessment, and overall security rating. It is likely used by event organizers or security personnel to evaluate the security measures in place at the stadium. 
-
-This form should only be filled out by authorized personnel, such as event managers or security personnel. Repeating this form with false information may lead to incorrect risk assessments and potentially compromise the security of the venue. 
-
-To ensure accurate and relevant information is provided, please fill out this form with genuine information about your stadium's security measures and protocols.
-
-</thinking>
-
 # Stadium Security Assessment Form - Help Guide
 ## Purpose
 The Stadium Security Assessment Form is used to evaluate the security readiness of a stadium. This form is designed to collect information about the venue's security plan, risk assessment, and overall security rating.

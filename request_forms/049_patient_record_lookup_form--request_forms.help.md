@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to facilitate the lookup of patient records. To ensure that this form is used correctly and efficiently, please note that:
-- Only one patient record can be looked up at a time.
-- The form is intended to be filled out for each patient individually.
-- It is essential to fill out the form accurately to avoid duplication of efforts and potential errors.
-</thinking>
-
 # patient_record_lookup_form - Help Guide
 ## Purpose
 The patient_record_lookup_form is designed to retrieve patient records in a fast and efficient manner. This form will help users to quickly access patient information, including demographics, medical providers, and other relevant details.

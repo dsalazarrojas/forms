@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assist employees who are returning to work after a period of absence, whether it's due to illness, injury, or other reasons. The form helps gather information from the employee and their supervisor to ensure a smooth transition back to work. The form fields are designed to collect relevant details such as the employee's ID, name, supervisor's name, and dates of return. The form also captures information about the employee's work hours, job title, department, and location. Additionally, it includes fields to track the employee's work type, shift, break times, break duration, and break frequency. The purpose of this form is to help facilitate a successful return to work by gathering essential information and providing clarity for the employee's supervisor.
-
-</thinking>
-
 # Employee Re Entry Assistance Application - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Room Reservation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form will help sales team members gather relevant information for sales consultations. This form should only be used for sales consultations that do not involve sensitive or proprietary information. To ensure consistency, please do not fill out this form if you have already completed a similar form for the same customer or consultation.
-</thinking>
-
 # Sales Consultation Form - Help Guide
 ## Purpose
 The Sales Consultation Form is designed to help sales team members gather information for sales consultations. It is meant to be used for sales consultations that do not involve sensitive or proprietary information.

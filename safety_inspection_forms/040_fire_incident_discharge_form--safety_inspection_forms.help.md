@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to report incidents that have occurred in a facility. The purpose of this form is to collect information about the incident in a standardized format, which can be used for review and follow-up actions. 
-
-Before filling out the form, it's essential to ensure that you have the correct information and that the incident is not already documented. Review the facility's incident logs and check if a similar incident has been reported recently. If you are unsure, you can always consult with a supervisor or the facility's safety manager.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Fire Incident Discharge Form - Help Guide
 ## Purpose
 This form is used to report incidents that have occurred in a facility, including fires, electrical issues, or other incidents that pose a risk to the facility and its occupants.

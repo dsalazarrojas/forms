@@ -1,12 +1,3 @@
-<thinking>
-The form's purpose is to collect sales data for a specific day, including sales representative information, sales date, total sales amount, product sold, any additional notes, and contact information for the sales representative.
-The fields are designed to be filled out in a way that allows for easy and efficient reporting. To ensure that the form is filled out correctly and accurately, it's essential to understand each field's purpose and requirements.
-The form will be used to analyze sales performance and generate reports, so it's crucial to provide accurate and complete information in each field.
-The form has a mix of required and optional fields, which should not be completed unless necessary.
-The fields are designed to be completed by sales representatives, so it's essential to fill out the form in a way that is easy to understand and complete.
-The form is designed for internal use, so it's not necessary to worry about external data security or confidentiality.
-</thinking>
-
 # Daily Sales Report - Help Guide
 ## Purpose
 The Daily Sales Report is a form used to collect sales data for a specific day. It helps us analyze sales performance and generate reports for sales representatives and management.

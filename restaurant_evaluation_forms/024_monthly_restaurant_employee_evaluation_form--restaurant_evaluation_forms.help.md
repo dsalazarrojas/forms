@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for restaurant staff members to evaluate their colleagues' performance on a monthly basis. The evaluation is an essential process for restaurants to monitor and improve employee performance, address any issues, and provide feedback for growth. This form will be used to collect information from restaurant managers, supervisors, or other staff members. Please note that this form is a standard template and might need adjustments according to your restaurant's specific policies and procedures.
 
 # monthly_restaurant_employee_evaluation_form - Help Guide

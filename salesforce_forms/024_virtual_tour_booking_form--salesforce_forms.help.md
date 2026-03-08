@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for guests to book a virtual tour. The purpose of this form is to collect relevant information from guests to facilitate a successful virtual tour experience. It is recommended that guests fill out this form only once per tour.
-
-This form is not intended for repeat submissions from the same guest. If a guest has already submitted this form for a virtual tour, they will be prevented from submitting it again. This is to prevent multiple submissions from the same guest and ensure accurate tour information.
-
-Please note that this form is a virtual tour booking form and not a general contact form. The fields are designed to collect specific information necessary for the virtual tour experience.
-</thinking>
-
 # Virtual Tour Booking Form - Help Guide
 ## Purpose
 The Virtual Tour Booking Form is designed for guests to book a virtual tour. It is not intended for repeat submissions from the same guest.

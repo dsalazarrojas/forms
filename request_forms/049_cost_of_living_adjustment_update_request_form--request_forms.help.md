@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Cost Of Living Adjustment Update Request Form", let's first understand the form's purpose and the fields involved.
-
-The form is designed to allow employees to request cost of living adjustments. This adjustment is likely a type of benefit or compensation adjustment that helps employees cope with the high cost of living in their location. The form will be used to gather information from employees about their current location, the start and end dates of their request, a brief reason for the request, and their manager's approval status. Additionally, the form will capture some metadata about the form submission, such as who submitted and approved the request, and when it was created and updated.
-
-With this understanding, we can now create a user-friendly help guide that explains each field and its purpose.
-
-</thinking>
-
 # Cost Of Living Adjustment Update Request Form - Help Guide
 ## Purpose
 The "Cost Of Living Adjustment Update Request Form" is designed to help employees request adjustments to their compensation to account for the high cost of living in their location. This form is used by employees to provide information about their request and for managers to approve or deny the request.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used by machine owners and operators to declare the safety features and standards of their machines, which helps maintain a record of compliance with regulatory requirements and ensures that machines are properly inspected and maintained to prevent accidents. The purpose of the Machine Safety Declaration Form is to gather information about each machine in use, including its details, type, manufacturer, model, safety standards, and features. This form helps in ensuring that all machines are properly registered, inspected, and maintained, which in turn helps prevent accidents and ensures the safety of users.
-
-Before filling this form, please ensure that you are filling it for the correct machine and that you have the necessary information about the machine readily available.
-
-Please note that this form is for general safety information and should not be used for any other purpose.
-
-Before proceeding, review the form carefully and ensure that all fields are correctly filled.
-
-</thinking>
-
 # Machine Safety Declaration Form - Help Guide
 ## Purpose
 The Machine Safety Declaration Form is used to collect information about each machine in use, ensuring that it complies with safety standards and regulations. This form helps in maintaining accurate records and preventing accidents.

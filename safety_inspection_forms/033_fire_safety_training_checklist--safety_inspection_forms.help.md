@@ -1,7 +1,3 @@
-<thinking>
-This form is used by fire safety officers to record and track the status of fire safety training sessions. The main purpose of this form is to ensure that all required safety training is completed and reported accurately. This form should only be used for new sessions that have not been previously documented. Please note that fields marked as required are mandatory and must be filled in for the form to be considered complete.
-</thinking>
-
 # Fire Safety Training Checklist - Help Guide
 ## Purpose
 The Fire Safety Training Checklist is used to record and track the status of fire safety training sessions. This form is essential for ensuring that all required safety training is completed and reported accurately.

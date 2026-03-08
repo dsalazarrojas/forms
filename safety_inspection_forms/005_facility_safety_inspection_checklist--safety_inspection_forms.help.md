@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for conducting regular safety inspections of facilities. It should only be used for facilities that are part of your organization or under your control. This form can help you identify potential safety hazards and take corrective action before an incident occurs. The form should not be used for other purposes, such as creating a general safety survey or collecting data for research purposes.
-</thinking>
-
 # Facility Safety Inspection Checklist - Help Guide
 ## Purpose
 

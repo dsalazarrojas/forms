@@ -1,11 +1,3 @@
-<thinking>
-This form is used to inspect and document the safety features of emergency exits in a building or facility. The purpose of this form is to gather information about the emergency exits, such as their location, signs, and dimensions. This form is typically used by safety inspectors or compliance officers to ensure that emergency exits meet the required standards and regulations. The form should only be completed by authorized personnel.
-
-Before filling out this form, please ensure that you have access to the emergency exits in the building or facility. This form is not for general information gathering; it is a formal inspection tool.
-
-Please do not fill out this form if the emergency exits in question are not within your jurisdiction or authority.
-</thinking>
-
 # Emergency Exit Inspection Form - Help Guide
 ## Purpose
 The Emergency Exit Inspection Form is a tool used to document and ensure the safety features of emergency exits in a building or facility.

@@ -1,10 +1,3 @@
-<thinking>
-This guide explains the purpose and usage of the Beauty Salon Consent Form, ensuring end-users understand its significance and how to complete it accurately.
-
-The form is designed to obtain consent from clients before undergoing beauty services, ensuring a safe and informed experience for all parties involved. 
-
-</thinking>
-
 # Beauty Salon Consent Form - Help Guide
 ## Purpose
 This form is a crucial part of the beauty salon's process, serving as a legal and ethical foundation for providing services. It helps ensure that clients understand their rights, responsibilities, and the potential risks involved with certain treatments.

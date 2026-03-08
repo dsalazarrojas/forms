@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for helicopter tour reservations. The Helicopter Tour Reservation Form will likely be used by tourists or visitors who want to book a helicopter tour. The form will collect contact details and tour specifics to facilitate the reservation process. It is likely that the form will be used by the tour operator to track and manage reservations. 
-</thinking>
-
 # Helicopter Tour Reservation Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for product authentication label orders. It appears to be designed for businesses that sell products requiring authentication or verification, such as art, collectibles, or rare items. The form likely requires customers to provide their contact and shipping details, as well as product-specific information and order-specific details.
-This form may be used to ensure authenticity and prevent counterfeiting or duplication of products.
-
-To determine the relevance of this form, we must consider that the form requires customer and shipping information. If this is a duplicate form, it may not be necessary to create a new form. This form is a generic form and may not be tailored to a specific business or use case.
-
-To confirm, we will need to see if there are any other forms in the same category that have similar fields or form structure. If there are, it may indicate that this form is a duplication. However, based on the fields provided, it appears to be a unique form.
-</thinking>
-
 # Product Authentication Label Order Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for product authentication labels. Please fill out the form to provide accurate details for your order.

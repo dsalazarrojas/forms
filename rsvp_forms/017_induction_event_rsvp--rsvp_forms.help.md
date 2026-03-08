@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block)
-
-This form is designed to collect information for an induction event, likely a corporate or academic setting. The primary purpose of this form is to gather details about the event and the attendees. To maintain consistency and prevent duplication, it's essential to understand each field's purpose and requirements clearly.
-
-</thinking>
-
 # Induction Event RSVP - Help Guide
 ## Purpose
 This form is designed to gather information about an induction event. Please fill out this form accurately and thoroughly to ensure that we have all the necessary details for event organization and management.

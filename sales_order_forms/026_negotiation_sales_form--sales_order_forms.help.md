@@ -1,7 +1,3 @@
-<thinking>
-This form is used for sales negotiations, where users select a product, finalize terms, set the transaction date and time, and optionally enter notes, email, phone number, terms, sale amount, customer type, deals, and customer information. The form's purpose is to collect relevant details about the sales transaction, ensuring that all necessary information is captured for accurate recording and follow-up actions.
-</thinking>
-
 # Negotiation Sales Form - Help Guide
 ## Purpose
 This form is designed to aid sales professionals in documenting and finalizing sales negotiations, ensuring accurate and comprehensive data collection for future reference and follow-up actions.

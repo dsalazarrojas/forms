@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to gather information from attendees about their interest in attending a special exhibition. The form is not limited to any specific event or exhibition, allowing attendees to provide details about the event they are interested in or have attended. This is a general-purpose form to collect RSVPs and feedback from exhibition attendees.
-
-To ensure that the form is filled out correctly, we should consider the following:
-
-*   Make sure you are filling out the correct form for the exhibition you are interested in.
-*   Provide accurate and complete information about your attendance and event details.
-*   If you are not attending the exhibition, please provide a clear and respectful reason for not attending.
-
-</thinking>
-
 # Special Exhibition Attendance Form - Help Guide
 ## Purpose
 The Special Exhibition Attendance Form is designed to collect information from attendees about their interest in or attendance to a special exhibition. This form is used to gather details about the event and the attendee's experience.

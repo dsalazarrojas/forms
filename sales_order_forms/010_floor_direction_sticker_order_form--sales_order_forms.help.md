@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide aims to explain the Floor Direction Sticker Order Form, which is designed to collect essential information for placing floor direction stickers. The form is likely used in a warehouse or store context to track the order of products on the floor. The purpose of the form is to gather details about the business, delivery information, product selection, delivery date, delivery time, notes, email, and phone number. This form will be used internally, so only relevant fields are required and optional fields are included for additional context.
 
 # Floor Direction Sticker Order Form - Help Guide

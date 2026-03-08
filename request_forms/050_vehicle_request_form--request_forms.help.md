@@ -1,7 +1,3 @@
-<thinking>
-Is the form used for requesting a vehicle for an event or activity? If so, the form will be used to gather information about the type of vehicle, date, time, number of vehicles, and any special equipment needed. The form will also ask for event details such as name, location, and description. The form does not need to be filled out if the user has already requested a vehicle in the past 30 days.
-</thinking>
-
 # Vehicle Request Form - Help Guide
 ## Purpose
 This form is used to request a vehicle for an event or activity. You will be asked to provide information about the type of vehicle, date, time, number of vehicles, and any special equipment needed for the event. This form is to be filled out only if you have not requested a vehicle in the past 30 days.

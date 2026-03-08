@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is used to configure the messaging bot, which is a system that sends automatic messages to customers. The form is used to determine which teams should receive the messages, and what the message content should be. To prevent over-configuration, this form should only be filled out by authorized personnel. Please ensure that you have the necessary permissions to fill out this form before proceeding.</thinking>
-
 # Messaging Bot Configuration Form - Help Guide
 ## Purpose
 The Messaging Bot Configuration Form is used to configure the messaging bot to send automatic messages to customers.

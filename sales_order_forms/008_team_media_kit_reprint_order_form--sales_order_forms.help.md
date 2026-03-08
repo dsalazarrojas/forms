@@ -1,18 +1,3 @@
-<thinking>
-This form is used for requesting a reprint of a Team Media Kit. The purpose of the form is to gather information from users about their requirements for the reprint, such as their name, email, phone number, and department. The form fields are designed to be filled out by the user themselves, with some fields being optional. 
-
-The user must fill out fields for their first name and last name, which are required. They can also choose to provide their department, email, phone number, and date and time of the reprint, which are all optional. 
-
-For the department field, there are two options: 'Yes' and 'No'. This field is optional, but if the user selects 'Yes', they will be prompted for additional department-specific information. 
-
-The user can select multiple team members from a list of 'Yes' and 'No' options. This field is also optional. 
-
-The user can choose the quantity of reprints they need and provide any additional message they have regarding their order. 
-
-The form will only ask the user for the required fields first, then prompt for optional fields based on their previous responses. This will ensure that the user only fills out the necessary information for their order.
-
-</thinking>
-
 # Team Media Kit Reprint Order Form - Help Guide
 ## Purpose
 The Team Media Kit Reprint Order Form is used to request a reprint of a Team Media Kit. This form will ask for your information and specific details about your order, and will guide you through the process of submitting your request.

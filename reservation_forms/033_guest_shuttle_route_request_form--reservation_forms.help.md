@@ -1,19 +1,3 @@
-<thinking>
-The AI-generated form is intended to be a Guest Shuttle Request Form designed for collecting information from guests regarding their route preferences for a shuttle service. This form is a text-based, multi-page form with fields for gathering passenger details, additional information, route preferences, and transportation options. The form's structure allows for a straightforward and organized way to collect the necessary information to accommodate guest requests. 
-
-Before proceeding, please note that the form has a total of 6 pages, each with a specific focus:
-
-*   Page 1: Guest Shuttle Request (required)
-*   Page 2: Passenger Details (required)
-*   Page 3: Additional Details (required)
-*   Page 4: Route Details (required)
-*   Page 5: Transportation (optional)
-*   Page 6: Review & Confirm (required)
-
-The form is designed for a Guest Shuttle service, suggesting it might be used for hotels, resorts, or other travel-related establishments. The purpose of this form is to gather information about the guests' preferences for transportation, allowing the service to tailor its services according to their needs. To avoid duplication, it is recommended to fill out the form only once.
-
-</thinking>
-
 # Guest Shuttle Route Request Form - Help Guide
 ## Purpose
 The Guest Shuttle Route Request Form is designed to collect information from guests about their preferences for a shuttle service, allowing the service to provide tailored and convenient transportation options.

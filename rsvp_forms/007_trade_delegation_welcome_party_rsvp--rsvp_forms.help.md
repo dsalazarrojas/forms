@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # trade_delegation_welcome_party_rsvp - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate submissions and ensure the form is used correctly, please make sure you are only submitting this form when you actually need to request access to a specific system or system feature. This form is for requesting access to a Security PIN, which is used for authentication and security purposes. Before submitting this form, please review and acknowledge the relevant policies, as they will be used to determine your access level.
-</thinking>
-
 # Security PIN Registration Request - Help Guide
 ## Purpose
 The Security PIN Registration Request form is used to request access to a specific system or feature that requires authentication with a Security PIN. This form is typically filled out by users who need to access restricted areas or perform tasks that require a high level of security clearance.

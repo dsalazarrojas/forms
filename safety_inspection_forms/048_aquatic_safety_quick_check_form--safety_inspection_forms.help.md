@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a quick and straightforward assessment of aquatic facilities to ensure their safety. The form's purpose is to evaluate the conditions of a facility during a safety inspection. It is used to collect information about the inspection details, the date and time of the inspection, and the results of the safety checks performed. This form aims to reduce the complexity of the inspection process and ensure that safety standards are met.
-
-This help guide is to support end users in completing the form correctly and efficiently.
-
-</thinking>
-
 # Aquatic Safety Quick Check Form - Help Guide
 ## Purpose
 This form helps facility management and safety personnel quickly assess the safety of an aquatic facility. It ensures that all necessary checks are performed, and any issues are addressed promptly.

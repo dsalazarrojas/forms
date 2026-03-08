@@ -1,5 +1,3 @@
-<thinking>...This form is meant to be used by Meier Hall staff to submit maintenance requests for various types of work, such as repairs, replacements, and upgrades, to be reviewed and addressed by the Facilities Management team. Please complete this form only once for each maintenance request, as duplicate submissions may lead to delays or confusion. Ensure that the room number is accurate to ensure the work is done correctly. Please fill out the form carefully and submit it once complete...</thinking>
-
 # Meier Hall Maintenance Request Form - Help Guide
 ## Purpose
 This form is used by Meier Hall staff to submit maintenance requests for various types of work, such as repairs, replacements, and upgrades, to be reviewed and addressed by the Facilities Management team.

@@ -1,14 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Ladder Safety Quiz form. The form is intended to ensure that users have a good understanding of ladder safety principles and best practices.
-
-Before proceeding, please ensure that you have read and understood the general guidelines and rules of ladder safety as outlined by OSHA and your company's safety policies.
-
-The form is divided into several sections, each addressing a specific aspect of ladder safety. Please answer each question carefully, as it will help to assess your understanding of ladder safety protocols.
-
-To complete the form, simply select the correct answer for each question. For multiple-choice questions, select only the options that apply.
-
-</thinking>
-
 # Ladder Safety Quiz - Help Guide
 ## Purpose
 The Ladder Safety Quiz is designed to evaluate your knowledge of ladder safety principles and best practices. It is intended to help ensure that you are aware of the safety protocols and guidelines to be followed when using ladders.

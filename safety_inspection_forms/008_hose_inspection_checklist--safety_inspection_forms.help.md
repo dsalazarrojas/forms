@@ -1,10 +1,3 @@
-<thinking>
-Checking for relevance and non-duplication before creating a help guide for this form...
-
-This form appears to be a safety inspection checklist for hoses, likely used in industries where hoses are used for various purposes such as in manufacturing, chemical processing, or water treatment. The form has 10 fields with various types (text, select_one, note, date, time, text) and is likely used to record information about the condition, location, and maintenance of hoses. The form is designed to be completed by someone who is responsible for inspecting and maintaining the hoses.
-
-</thinking>
-
 # Hose Inspection Checklist - Help Guide
 ## Purpose
 This form is used to record the results of a hose inspection, including the condition of the hose, location, and results of any tests or repairs. It is used by personnel responsible for maintaining and inspecting hoses in industries such as manufacturing, chemical processing, or water treatment.

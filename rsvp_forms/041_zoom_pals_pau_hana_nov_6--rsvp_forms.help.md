@@ -1,7 +1,3 @@
-<thinking>
-This form is a RSVP form for a social event called "zoom_pals_pau_hana_nov_6". It is used to gather information about attendees' availability and preferences for the event. The form is not required, so users can choose to provide any or all of the information requested. There might be some overlap between questions, but it is designed to be completed once per attendee. It does not contain any sensitive or sensitive information.
-</thinking>
-
 # zoom_pals_pau_hana_nov_6 - Help Guide
 ## Purpose
 The "zoom_pals_pau_hana_nov_6" form is used to gather information from attendees about their availability and preferences for a social event.

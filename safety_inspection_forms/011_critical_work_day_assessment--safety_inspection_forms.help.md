@@ -1,12 +1,3 @@
-<thinking>
-The form "Critical Work Day Assessment" is designed to evaluate the risk level and critical factors associated with a workday. This form is intended to be used by individuals responsible for assessing and mitigating risks in the workplace. It is crucial that the user is aware of the risks and critical factors associated with a workday to ensure a safe and efficient work environment. 
-
-To avoid duplication of assessments, please ensure that you are not submitting this form for the same workday. 
-
-This form should be completed by individuals who are familiar with the workday schedule and the associated risks and critical factors. If you are not sure about any of the questions, please refer to your supervisor or relevant documentation for guidance.
-
-</thinking>
-
 # Critical Work Day Assessment - Help Guide
 ## Purpose
 

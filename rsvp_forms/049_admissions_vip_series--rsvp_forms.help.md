@@ -1,12 +1,3 @@
-<thinking>
-This guide assumes you are using the Admissions VIP SERIES form. 
-
-The purpose of this form is to collect information from attendees to the Admissions VIP SERIES events. The form captures details such as attendee's personal information, attendance preferences, and other relevant information to tailor the event to their needs.
-
-This guide will help you fill out the form accurately and provide a clear understanding of the fields and their requirements.
-
-</thinking>
-
 # Admissions VIP SERIES - Help Guide
 
 ## Purpose

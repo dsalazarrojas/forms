@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a dormitory safety inspection. The purpose of this form is to identify potential hazards and take corrective action to ensure the safety and well-being of residents. The form is completed by a safety officer and provides a checklist of items to inspect for safety hazards. It is used to document the results of the inspection, including any hazards found, and provide a space for comments and notes. This form is intended to be used for internal purposes only and is not meant for public disclosure.
-</thinking>
-
 # Dormitory Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to conduct a safety inspection of the dormitory and identify potential hazards. The inspection includes checking for safety equipment, electrical, fire, medical, structural, environmental, and other hazards. The form is completed by a safety officer and is used to document the results of the inspection.

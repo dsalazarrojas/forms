@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for documenting the safety inspection of temporary structures. The form helps ensure that the inspection process is conducted thoroughly and systematically. Before proceeding, ensure that the structure has not been inspected recently and that the data is up-to-date. This form should only be filled out after the inspection is complete.
-</thinking>
-
 # Temporary Structure Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to document the safety inspection of temporary structures. It captures information about the structure, the results of the inspection, and the next steps for completion.

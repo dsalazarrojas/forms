@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be used in a salon setting to obtain client acknowledgement and consent for various skin care treatments. The form is intended to ensure that clients understand the procedures and processes involved in the treatments they receive, and to obtain their consent for the procedures. The form may be used for a variety of skin care services, such as facials, manicures, or other beauty treatments.
-
-The form should only be completed by clients who are seeking to provide their acknowledgement and consent for a specific treatment. This form is not intended for general information gathering or demographic purposes.
-
-Please note that the form fields are designed to be used in conjunction with other relevant forms and documentation that are specific to the salon's policies and procedures. If you are unsure about any aspect of this form, please consult with a salon representative or supervisor.
-</thinking>
-
 # Skin Care Acknowledgement And Consent Form - Help Guide
 ## Purpose
 This form is used to obtain client acknowledgement and consent for skin care treatments provided at the salon.

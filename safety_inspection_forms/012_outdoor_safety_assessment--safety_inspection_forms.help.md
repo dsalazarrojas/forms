@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block**
-
-This form is for outdoor safety assessments, where users can provide general information, details about a hazard location, hazard description, risk level, and other relevant safety data. The form aims to gather information for safety purposes, potentially for reporting or tracking hazards. It's essential to note that some fields are optional, allowing users to complete the form as much as needed. This form will be used by authorized personnel to gather data for safety assessments and risk management.
-
-</thinking>
-
 # Outdoor Safety Assessment - Help Guide
 ## Purpose
 

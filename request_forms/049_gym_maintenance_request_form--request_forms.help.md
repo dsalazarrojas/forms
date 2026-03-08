@@ -1,8 +1,3 @@
-<thinking>
-This is a form designed to gather information for maintenance requests at a gym or fitness center. The form should help the maintenance team to quickly and efficiently identify the type of issue, its priority, and other relevant details to address the problem. Before submitting, please ensure you have not already filled out this form for the same issue. This form is used to track and manage maintenance requests, so please provide as much detail as possible to ensure the issue is resolved correctly and quickly. 
-
-</thinking>
-
 # Gym Maintenance Request Form - Help Guide
 ## Purpose
 The Gym Maintenance Request Form is used to gather information for maintenance requests at the gym. This helps the maintenance team to prioritize and address the issues promptly.

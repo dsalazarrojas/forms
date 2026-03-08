@@ -1,7 +1,3 @@
-<thinking>
-A T Shirt Order Form is used in sales scenarios to collect information for t-shirt orders, including details like price, quantity, color, and size. We check for non-duplication of orders to avoid errors. The form is designed to be completed by sales staff and customers. The form collects necessary data for both retail and wholesale orders, including custom orders. This guide will walk you through the form fields and their purposes.
-</thinking>
-
 # T Shirt Order Form - Help Guide
 ## Purpose
 The T Shirt Order Form is used to collect information for t-shirt orders, including retail, wholesale, and custom orders.

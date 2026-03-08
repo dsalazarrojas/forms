@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate a phased return to work for employees who have been away from work due to extended leave. The form is designed to collect relevant information from employees, allowing for a structured and gradual return process. The goal is to ensure a smooth transition back to work by considering various factors such as return dates, work hours, and schedule flexibility.
-</thinking>
-
 # phased_return_to_work_form - Help Guide
 ## Purpose
 This form is designed to help employees return to work in a phased manner after an extended leave, facilitating a smooth transition back to work.

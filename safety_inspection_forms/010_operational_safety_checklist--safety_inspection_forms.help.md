@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about the operational safety status of equipment, areas, and personnel in a specific environment. The purpose of this form is to gather essential data on the safety checks performed, any hazards identified, measures taken, and comments or next actions required. 
-
-When filling out this form, please note that each field is crucial in providing a comprehensive safety assessment. This form may be filled out multiple times, and the submitted information will be reviewed and updated accordingly.
-</thinking>
-
 # Operational Safety Checklist - Help Guide
 ## Purpose
 The Operational Safety Checklist form is used to gather information about the operational safety status of equipment, areas, and personnel in a specific environment.

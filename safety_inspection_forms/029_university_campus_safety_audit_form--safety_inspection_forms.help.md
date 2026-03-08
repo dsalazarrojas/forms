@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is used correctly and consistently, we should check for duplication and non-relevance before proceeding with the audit. Please confirm that this is a new audit and not a follow-up, and that you have not completed this audit in the past. If you are unsure, please contact the auditor or your supervisor for guidance.
-</thinking>
-
 # University Campus Safety Audit Form - Help Guide
 ## Purpose
 The University Campus Safety Audit Form is used to gather information about potential hazards and improvements on campus. The audit form is used to help identify areas of concern and guide further actions to improve campus safety.

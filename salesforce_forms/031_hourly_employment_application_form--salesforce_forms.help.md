@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for hourly employment opportunities, such as freelancing or part-time work. This form is likely used by businesses or organizations seeking to hire temporary or part-time workers on an as-needed basis. The form may be used to gather relevant details about the applicant, including their education, experience, skills, and availability for work. This form is not designed for full-time employment applications, but rather for casual or occasional work arrangements.
-
-The form is structured in a way that allows applicants to provide a brief overview of their job application, education, experience, and skills. It also inquires about their availability and work frequency, which could help employers determine the best match for their specific needs.
-
-To determine the relevance and non-duplication of this form, it is essential to assess if the business or organization has similar forms with the same purpose, and if there are any overlaps between this form and other forms used within the organization. The form should be reviewed to ensure it is not creating redundant fields or forms that could lead to inconsistent or incomplete data.
-
-</thinking>
-
 # Hourly Employment Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for hourly employment opportunities, such as freelancing or part-time work. It helps employers to quickly and efficiently gather necessary details to determine the best match for their specific needs.

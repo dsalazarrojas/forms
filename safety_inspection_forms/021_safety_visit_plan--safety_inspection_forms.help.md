@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to create a Safety Visit Plan for a company, which is essential for ensuring workplace safety and identifying potential hazards. The form aims to capture information about the company, visit details, safety measures taken, and other relevant data. To complete this form, ensure that the fields are filled out accurately and consistently with the company's information.
-
-Before proceeding, verify that the form is not a duplicate of any existing plan, and that the provided information is up-to-date and relevant to the company's current situation.
-
-This guide will walk you through the process of filling out the Safety Visit Plan form, field by field.
-
-</thinking>
-
 # Safety Visit Plan - Help Guide
 ## Purpose
 The Safety Visit Plan is a form used to document and record visit details, risk levels, and safety measures taken to ensure a safe working environment.

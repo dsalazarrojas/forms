@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for restaurant managers to collect donut order information from customers. The form is used to gather the customer's details, order preferences, and any relevant comments or notes. The form is designed to be completed by customers in person or digitally, and it should only be used for donut orders. 
-</thinking>
-
 # Donut Order Form - Help Guide
 ## Purpose
 The Donut Order Form is a tool used to collect donut order information from customers. This information will help the restaurant to fulfill the customer's order accurately and efficiently.

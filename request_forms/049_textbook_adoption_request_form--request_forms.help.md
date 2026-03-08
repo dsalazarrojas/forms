@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Textbook Adoption Request Form - Help Guide
 
 ## Purpose

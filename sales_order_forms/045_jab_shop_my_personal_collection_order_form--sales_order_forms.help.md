@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # JAB Shop My Personal Collection Order Form - Help Guide
 
 ## Purpose

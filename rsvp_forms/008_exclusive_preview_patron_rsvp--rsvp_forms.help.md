@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect RSVPs (Respondents) for a preview event. The form will help users confirm their attendance and provide optional details such as event date, time, number of guests, special needs, and contact information. The user will be able to select one of the provided location options and optionally enter a message for the event host. This form is intended for exclusive preview events, implying that the event is not publicly accessible. It's essential to ensure that each user fills out the form correctly, as it helps the event host prepare for the event and make necessary arrangements. To avoid duplication, users can only RSVP once for each event.
-</thinking>
-
 # Exclusive Preview Patron RSVP - Help Guide
 ## Purpose
 This form is used to collect RSVPs (Respondents) for a preview event. To ensure accurate planning, it's crucial that users submit their attendance and any relevant information.

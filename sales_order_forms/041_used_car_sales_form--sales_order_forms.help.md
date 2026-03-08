@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to collect information for used car sales transactions. This form is used by sales representatives to record sales data for each vehicle sold. The fields in this form cover essential details such as vehicle make, model, year, mileage, price, and customer information. This form also includes fields for sale date and time, sale type, payment method, and other relevant details that help track the sale process effectively.
-</thinking>
 # Used Car Sales Form - Help Guide
 ## Purpose
 This form is designed to collect information for used car sales transactions.

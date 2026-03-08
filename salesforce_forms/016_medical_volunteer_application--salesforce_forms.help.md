@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medical_volunteer_application - Help Guide
 ## Purpose
 The Medical Volunteer Application form is designed to collect information about medical volunteers. It is used to gather contact and demographic information, medical license status, training, availability, and other relevant details from interested volunteers.

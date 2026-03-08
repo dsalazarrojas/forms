@@ -1,8 +1,3 @@
-<thinking>
-The main purpose of the "Piercing Request Form" is to gather information from customers about their piercing requests. This form is designed to be completed by customers to provide the necessary details about their desired piercing, including the type of piercing, location, and other relevant information.
-To ensure that the form is used correctly, please check that you are not duplicating an existing request and that this form is relevant to your current needs.
-</thinking>
-
 # Piercing Request Form - Help Guide
 ## Purpose
 The Piercing Request Form is a form designed to gather information from customers about their piercing requests.

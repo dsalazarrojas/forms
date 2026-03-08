@@ -1,12 +1,3 @@
-<thinking>
-This help guide will walk through the "Daily Pre Operation Checklist" form, ensuring users understand its purpose, how to complete it, and what each field means.
-
-The form's purpose is to conduct a daily safety inspection before operation begins. It's crucial to review and document critical areas of concern, equipment inspections, and pre-operation checks to guarantee a safe working environment. This form helps ensure that all necessary safety measures are taken before initiating operations.
-
-Before starting, ensure you're not duplicating your efforts or skipping any essential steps. Review the form carefully to ensure all sections are completed accurately and thoroughly.
-
-</thinking>
-
 # Daily Pre Operation Checklist - Help Guide
 
 ## Purpose

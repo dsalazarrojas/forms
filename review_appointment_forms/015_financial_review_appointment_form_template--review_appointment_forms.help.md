@@ -1,8 +1,3 @@
-<thinking>
-This form is a template for financial review appointment forms. It is likely to be used for clients or customers to schedule and prepare for financial reviews with a professional or organization. The form is designed to be flexible and can be filled out by the individual who is scheduling the appointment. The purpose of the form is to provide information about the appointment, such as the category and description of the review, and the output file generated after the review. The form does not require any specific fields to be filled out, making it a flexible and adaptable template.
-
-</thinking>
-
 # Financial Review Appointment Form Template - Help Guide
 ## Purpose
 The Financial Review Appointment Form Template is a flexible and adaptable template for scheduling and preparing for financial reviews. It is designed to be filled out by the individual who is scheduling the appointment, providing information about the category and description of the review, and the output file generated after the review.

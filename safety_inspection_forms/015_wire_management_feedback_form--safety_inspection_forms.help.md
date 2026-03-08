@@ -1,7 +1,3 @@
-<thinking>
-We can infer that this form is related to wire management, possibly for a data center, electrical or cable infrastructure. The form is designed to collect feedback on the organization, clutter, labeling, and condition of cables. The form likely aims to gather data from personnel or maintenance staff who interact with these cables.
-</thinking>
-
 # Wire Management Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the organization, condition, and management of cables in the data center or electrical infrastructure. This information will help identify areas for improvement and provide a clear overview of the cable's status.

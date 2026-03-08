@@ -1,7 +1,3 @@
-<thinking>
-The form "Loyalty Rewards Form" is likely used to collect information about customers who participate in a loyalty rewards program. Its purpose is to track customer data and reward them accordingly. The form might be used to collect first name, last name, email, phone number, loyalty points, reward type (e.g., Loyalty Voucher, Free Product, or Discount), reward amount, and store visit count. This form is probably part of a larger loyalty program, and the customer's data will be used to determine the reward type and amount. The fields are likely used to identify customers and track their loyalty points and visits to determine reward eligibility. The form might be used in conjunction with other systems or databases to store and process customer data.
-</thinking>
-
 # Loyalty Rewards Form - Help Guide
 
 ## Purpose

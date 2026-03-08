@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for booking a photography session with us. To book a session, please make sure you have all the necessary information to complete the form correctly. Before proceeding, ensure that you have not already booked a session with us, as this form is designed for new bookings only.
-
-This guide will walk you through each field of the form to ensure you understand what information is required for a successful booking.
-
-</thinking>
-
 # Photography Session Booking Form - Help Guide
 ## Purpose
 This form is for booking a photography session with us. Please complete it to provide all necessary information for your session.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to verify the workplace safety compliance of an organization. The form is designed to ensure that the workplace safety practices, training, and procedures are in line with regulatory requirements and industry standards. It is used to collect information about the employee training, safety practices, and other relevant aspects of the workplace safety management system. The form is not intended to be a comprehensive safety audit, but rather a verification of the organization's safety compliance status. It is assumed that the organization has a functioning safety management system in place, and this form is used to confirm that it is being followed correctly.
-
-To prevent duplication, this form should only be filled out once per quarter or as required by the regulatory body. If the form is filled out multiple times in a short period, it may indicate that there are issues with the safety management system that need to be addressed.
-
-</thinking>
-
 # Workplace Safety Compliance Verification Form - Help Guide
 ## Purpose
 This form is used to verify that your workplace safety management system is in compliance with regulatory requirements and industry standards. Please answer the questions honestly, and if you are unsure about any of the questions, please contact your safety officer or supervisor for clarification.

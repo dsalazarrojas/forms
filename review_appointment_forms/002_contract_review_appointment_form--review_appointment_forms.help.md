@@ -1,5 +1,3 @@
-<thinking>...Internal Reasoning Block: This form is designed to collect information about client appointments for review. It's essential to ensure the collected data doesn't duplicate existing entries to prevent miscommunication and maintain data accuracy. Before proceeding, check the client's existing record to avoid redundant entries. If a client has a previous appointment, update or append new information instead of creating a new entry... </thinking>
-
 # Contract Review Appointment Form - Help Guide
 ## Purpose
 The Contract Review Appointment Form is used to schedule and collect information about client appointments for review. This form helps ensure accurate and relevant data collection for efficient review processes.

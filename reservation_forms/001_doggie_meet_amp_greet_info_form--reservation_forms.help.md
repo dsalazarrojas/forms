@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for pet owners to provide information for a meet-and-greet session with their pet. The form gathers essential details such as the pet's name, owner's name, contact information, and appointment schedule. This form helps ensure that all necessary information is collected efficiently and accurately, reducing the risk of errors or missed appointments. Please review and complete this form carefully to ensure that your pet has a smooth and enjoyable experience during the meet-and-greet session.
-</thinking>
-
 # Doggie Meet & Greet Info Form - Help Guide
 ## Purpose
 This form is used to collect essential information from pet owners for a meet-and-greet session with their dog. It helps us prepare for the meeting and ensure a smooth and enjoyable experience for both the pet and our team.

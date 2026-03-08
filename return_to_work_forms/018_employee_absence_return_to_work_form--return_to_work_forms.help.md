@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to document an employee's return to work process after an absence. It captures the physician's confirmation of the employee's absence and their recommendation for their return to work. This information is collected to ensure that the employee's absence is properly documented and that their return is facilitated. The form is typically filled out by the physician after visiting the employee. The form will be used for tracking and monitoring purposes.
 
 # Employee Absence Return To Work Form - Help Guide

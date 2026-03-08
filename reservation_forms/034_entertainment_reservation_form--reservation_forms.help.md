@@ -1,7 +1,3 @@
-<thinking>
-The Entertainment Reservation Form is used for users to submit information about events they would like to host or participate in. This form is used for event planning and management purposes. Before proceeding, it's essential to check if you're already registered to avoid duplication of effort and unnecessary work. If you're looking to create a new event, please make sure to provide accurate and detailed information to ensure a smooth planning process. This form is designed to collect various details about the event, including event details, participant information, and payment status. Please follow the instructions to fill out the form correctly.
-</thinking>
-
 # Entertainment Reservation Form - Help Guide
 ## Purpose
 The Entertainment Reservation Form is used for users to submit information about events they would like to host or participate in.

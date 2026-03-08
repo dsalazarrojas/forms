@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger system used by restaurant managers to facilitate efficient customer ordering in a taproom setting. Its primary purpose is to streamline the ordering process, ensuring that customer orders are accurately recorded and payment is processed quickly and securely. This form should only be used for ordering purposes, and not for any other type of transaction or communication. 
-</thinking>
-
 # Taproom Order Form - Help Guide
 ## Purpose
 The Taproom Order Form is designed to collect order details and payment information from customers. It helps restaurant managers to process orders efficiently and accurately.

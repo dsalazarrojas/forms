@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to support the addition, modification, or removal of items on the menu in a restaurant setting. The form is designed to gather information from staff members about new or updated menu items, including details about the item, its status, category, and price. It also allows staff to specify the urgency level of the request and to attach relevant images or files.
-The form is meant to be completed by staff members when they need to add or modify items on the menu, and it is intended to be used in conjunction with other internal processes for managing menu additions and updates.
-</thinking>
-
 # Menu Addition Support Request - Help Guide
 ## Purpose
 The Menu Addition Support Request form is used by staff to submit requests for adding, modifying, or removing menu items in the restaurant.

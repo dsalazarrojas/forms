@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Fire Escape Inspection Form - Help Guide
 
 ## Purpose

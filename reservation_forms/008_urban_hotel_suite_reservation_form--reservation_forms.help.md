@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Urban Hotel Suite Reservation Form - Help Guide
 
 ## Purpose

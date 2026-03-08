@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect restaurant information for the purpose of creating a comprehensive restaurant profile. The form gathers data on various aspects of the restaurant, including customer service, restaurant image, customer experience, rating, and more. It's essential to ensure that the information provided is accurate and up-to-date to reflect the true status of the restaurant. This form should only be filled out once per restaurant to avoid duplication of data. It's recommended to fill out the form carefully and attentively to provide a complete and accurate representation of the restaurant.
-</thinking>
-
 # Restaurant Profile Survey - Help Guide
 ## Purpose
 This form is designed to collect restaurant information for the purpose of creating a comprehensive restaurant profile.

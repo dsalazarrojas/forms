@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used to collect information from salesmen or salespeople, perhaps for sales-related purposes. The form may be used by sales managers or supervisors to gather data on sales activities, performance, or other related metrics. The form's fields seem to cover a range of information, including personal details (name, email, phone), preferences (sweatshirt color, t-shirt size), quantity, custom text, date, time, and other fields. I will assume this form is for sales-related purposes and will use this context for the help guide.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The <string> form is designed to collect sales-related information from salesmen or salespeople. This form helps sales managers or supervisors gather data on sales activities, performance, or other relevant metrics.

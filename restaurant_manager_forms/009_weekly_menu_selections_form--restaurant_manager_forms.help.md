@@ -1,5 +1,3 @@
-<thinking>... This form is designed for restaurant managers to collect feedback and data on the menu selections, customer feedback, and ratings for the restaurant. This form is likely used in conjunction with other forms or systems to gather insights on customer preferences and satisfaction, as well as identify potential areas for improvement for the menu and services offered. The form should not be filled out by the customer directly, but rather by the restaurant staff who have access to this information... </thinking>
-
 # Weekly Menu Selections Form - Help Guide
 ## Purpose
 The Weekly Menu Selections Form is used to collect feedback and data on the menu selections, customer ratings, and restaurant feedback. This form helps restaurant managers to gather insights on customer preferences and satisfaction, and identify potential areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive help guide for the "Factory Emergency Exit Signage Order Form" that explains the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Factory Emergency Exit Signage Order Form - Help Guide
 ## Purpose
 The "Factory Emergency Exit Signage Order Form" is a crucial document used to record emergency exit signage orders for a factory. This form helps ensure that all necessary information is collected and communicated effectively to facilitate efficient and accurate processing of emergency exit signage orders.

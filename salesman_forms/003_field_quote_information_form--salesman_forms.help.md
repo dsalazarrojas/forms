@@ -1,5 +1,3 @@
-<thinking>This help guide is for the sales team to use when assisting customers with the Field Quote Information Form. The form is used to collect information about a customer's quote, including their name, email, phone number, and other relevant details. The form is essential for creating a quote, and it's crucial to complete it accurately to ensure that the sales team can provide the best possible service to the customer. Please review this guide carefully to ensure that you understand how to complete the form correctly. If you're unsure about any field, please ask for clarification or guidance from the sales team.</thinking>
-
 # Field Quote Information Form - Help Guide
 ## Purpose
 The Field Quote Information Form is used to collect information about a customer's quote, including their name, email, phone number, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sponsorship Alignment Reception RSVP - Help Guide
 
 ## Purpose

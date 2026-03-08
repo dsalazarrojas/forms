@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for recording security surveillance log information for a job site. It captures details about the job, security officer, and incident reports. The form is designed to be completed by security officers who conduct regular patrols of the job site. The form is used to document incidents reported during the patrol, including the location, description, and actions taken. The form also captures information about the weather conditions and any vehicles present on site. This form is likely used by facilities or construction managers to track and review security log information for incidents reported on site.
-</thinking>
-
 # jobsite_security_surveillance_log_form - Help Guide
 ## Purpose
 This form is used to record security surveillance log information for a job site, including incidents reported during patrols and other relevant details.

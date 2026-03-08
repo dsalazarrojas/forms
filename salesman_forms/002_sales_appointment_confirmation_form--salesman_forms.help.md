@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Appointment Confirmation Form - Help Guide
 ## Purpose
 The Sales Appointment Confirmation Form is designed to collect information and confirm sales appointments between a salesperson and a lead. This form helps to ensure that all necessary details are documented and synced with the sales system and calendar. The form must be completed for each sales appointment to ensure accurate record-keeping and communication with the lead.

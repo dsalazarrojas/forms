@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block explains the form purpose and checks for relevance and non-duplication.
-This form is used for restaurant reservation purposes and is used to collect information about the reservation date, time, party size, contact details, and other relevant information. The form is designed to be simple and easy to use, with each field clearly labeled and described. This guide will walk the user through the form's purpose, how to complete it, and provide explanations for each field.
-</thinking>
-
 # Restaurant Reservation Form - Help Guide
 ## Purpose
 The Restaurant Reservation Form is used to collect information for a restaurant reservation. Fill out this form to make a reservation at the restaurant with the details of your visit.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to support the animation process by allowing users to request revisions on specific scenes. The purpose of this form is to provide a structured way for the requester to describe the required changes and their context. This ensures that the request is accurate, efficient, and well-understood for the relevant parties involved.
-</thinking>
-
 # Animation Scene Revision Request Form - Help Guide
 ## Purpose
 The Animation Scene Revision Request Form is used to request changes to a specific scene in an animation project. It is a crucial tool for ensuring that revisions are accurately and efficiently processed.

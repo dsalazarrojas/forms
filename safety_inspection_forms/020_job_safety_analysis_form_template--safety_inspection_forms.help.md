@@ -1,8 +1,3 @@
-<thinking>
-...thinking
-The form is designed to collect information about safety analysis tasks. It is meant for individuals who work in industries where safety is a crucial concern, such as construction, manufacturing, or healthcare. The form should be used to assess and document the safety risks associated with a particular job or task. This information will help organizations identify potential hazards and develop measures to mitigate them. Before starting, please ensure that you're not duplicating this form in your organization's documentation or using it for any purpose other than its intended safety analysis use. If you have any questions or need to create a customized form for a specific use case, contact form@gic.mx.
-</thinking>
-
 # Job Safety Analysis Form Template - Help Guide
 ## Purpose
 The Job Safety Analysis Form Template is a tool used to collect and document safety-related information about a job or task. It is designed to help organizations identify and assess potential safety hazards and develop measures to mitigate them.

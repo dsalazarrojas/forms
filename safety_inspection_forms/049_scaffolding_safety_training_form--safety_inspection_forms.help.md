@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect safety information for scaffolding training programs. It is meant for participants to report their safety experience and training needs. The form should be completed only once per participant per training program, and it's recommended to fill it out carefully as the information will be used to assess the participant's safety knowledge and provide relevant training recommendations. Please make sure to answer every question accurately and thoroughly. Note that some fields are optional, and it's essential to provide clear and concise answers to ensure the best possible understanding of your safety status.
-</thinking>
-
 # Scaffolding Safety Training Form - Help Guide
 ## Purpose
 The purpose of this form is to collect safety information from scaffolding training participants. It helps to assess their safety experience and identify areas where they need further training or support. This form will be used to provide participants with relevant safety recommendations and training programs.

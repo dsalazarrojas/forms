@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to allow users to reserve an office space for a specific period of time. Users will be able to select a space type, such as a meeting room or office, and input relevant details about their reservation, including start and end dates, times, and a brief description of their reservation. The form will also capture information about the submitter, including their email, phone number, and ID.
-This form will help the office space administrators to track and manage space reservations efficiently, and ensure that the spaces are allocated correctly.
-It's essential to ensure that the form is completed accurately and thoroughly to avoid any issues with the reservation.
-</thinking>
-
 # office_space_reservation_form - Help Guide
 ## Purpose
 The purpose of this form is to reserve an office space for a specific period of time.

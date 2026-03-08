@@ -1,19 +1,3 @@
-<thinking>
-  This form is designed to collect information from customers for frozen meal orders. 
-  The form is composed of several fields to gather essential details such as contact information, 
-  event details, dietary restrictions, meal selection, and delivery information. 
-  It is intended to be filled out by customers to facilitate the ordering process and ensure 
-  that their requests are handled efficiently.
-  The fields on the form should be filled out in the following order:
-  1. Contact Information: This field is used to collect the customer's name, email, or phone number.
-  2. Event Details: This field is used to collect any additional information related to the event or occasion.
-  3. Dietary Restrictions: This field is used to collect any dietary restrictions or preferences.
-  4. Meal Selection: This field is used to select multiple meals for the order.
-  5. Delivery Information: This field is used to collect any additional information related to delivery.
-  6. Comments: This field is used to collect any further comments or special requests.
-  Please make sure to fill out all relevant fields accurately and completely.
-</thinking>
-
 # Frozen Meal Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for frozen meal orders.

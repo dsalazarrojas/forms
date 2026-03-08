@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by individuals or groups wishing to RSVP (Respond to an invitation to RSVP, in this case, likely for a school event) for a school fundraising auction. It is used to collect RSVPs for the auction, gathering details about the attendees, their intentions, and any other relevant information that may be necessary for event organization purposes. The form includes a range of fields that ask for general details (name, email, phone), specific event details (date, time), number of attendees, and comments or special requests. Some fields are also used for selecting among options for specific activities or services offered at the auction. It is crucial to ensure that this form does not get duplicated or irrelevant to avoid unnecessary complexity and confusion. 
-</thinking>
-
 # School Fundraising Auction RSVP Form - Help Guide
 
 ## Purpose

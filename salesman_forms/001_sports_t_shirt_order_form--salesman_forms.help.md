@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for salesmen to take orders for sports T shirts. It captures information about the team name, the quantity of T shirts to be ordered, the size of the T shirts, the order date, the delivery date, the total order value, the order status, and the customer name. It is possible that the form may be used for other purposes as well, but its primary function is for sales T shirt orders. It is likely that the form will be used for internal purposes within the sales department and not for external customers. Therefore, this form will not be used for public-facing purposes like a website order form. It is also likely that some fields will be redundant or unnecessary, and some fields will be used for tracking purposes. However, it is essential to understand the form's purpose and how it is used in the sales department. I have taken the liberty to infer the intent based on the given fields and their labels.
-</thinking>
 # Sports T Shirt Order Form - Help Guide
 ## Purpose
 The Sports T Shirt Order Form is designed to capture information for internal sales purposes, specifically for salesmen to take orders for T shirts from teams. The form is used to gather data about the team name, quantity, size, order date, delivery date, order total, order status, and customer name.

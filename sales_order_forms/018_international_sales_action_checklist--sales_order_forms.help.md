@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide international sales teams through a checklist of key actions and considerations for successful sales operations. The form is intended to ensure that all necessary steps are taken and all relevant documentation is reviewed before proceeding with international sales activities. By completing this form, sales teams can ensure that their actions align with company policies and procedures, reduce the risk of errors or oversights, and improve the overall effectiveness of their sales efforts. It is not intended for general use or for sales teams to use in routine sales activities. Instead, it is a critical tool for international sales teams to follow when engaging in activities that involve exporting goods or services across borders.
-</thinking>
-
 # International Sales Action Checklist - Help Guide
 ## Purpose
 This form is designed to guide international sales teams through a checklist of key actions and considerations for successful sales operations. The form ensures that all necessary steps are taken and all relevant documentation is reviewed before proceeding with international sales activities.

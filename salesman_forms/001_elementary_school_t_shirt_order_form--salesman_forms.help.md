@@ -1,8 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Elementary School T Shirt Order Form. Before proceeding, please ensure that you have a clear understanding of the form's purpose and requirements. This form is intended for ordering t-shirts for an elementary school event or promotion. Review each field carefully to ensure accuracy and completeness.
-
-</thinking>
-
 # Elementary School T Shirt Order Form - Help Guide
 ## Purpose
 The Elementary School T Shirt Order Form is designed for students and parents to purchase t-shirts with their school's logo or mascot on it. This form helps to track orders and ensure accurate payment and shipping information.

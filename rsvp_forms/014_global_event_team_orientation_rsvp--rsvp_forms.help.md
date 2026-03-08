@@ -1,9 +1,3 @@
-<thinking>
-This form is used to manage RSVPs for global event team orientations. It allows users to indicate their interest in attending, their preferred session, and any special requirements they may have. The form is used to collect information from attendees and staff members who will be attending or participating in the global event team orientation. It is essential to ensure that the correct information is collected to facilitate a smooth and organized event. This form should be used by attendees and staff members who are attending the global event team orientation.
-
-Please note that the form is designed to be simple and easy to use, and the fields are self-explanatory. If you have any questions or concerns, please don't hesitate to reach out to the event organizers.
-</thinking>
-
 # Global Event Team Orientation RSVP - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Global Event Team Orientation RSVP form.

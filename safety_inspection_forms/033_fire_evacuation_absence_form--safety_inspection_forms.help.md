@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to record incidents of employees being absent from their workstations due to fire evacuations. This form is intended to ensure that all instances of fire evacuations are properly documented and reported to the relevant authorities. Before filling out this form, please ensure that the incident has already been properly assessed and documented by the relevant authorities. If you're unsure if the form is applicable in your situation, please consult with your supervisor or the relevant authority.
-
-</thinking>
-
 # Fire Evacuation Absence Form - Help Guide
 ## Purpose
 The purpose of this form is to record incidents of employees being absent from their workstations due to fire evacuations.

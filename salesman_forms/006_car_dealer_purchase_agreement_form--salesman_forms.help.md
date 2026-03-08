@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to gather information from the buyer and dealer in a vehicle purchase transaction. The purpose of this form is to capture essential details, including the buyer's contact information, vehicle specifics, financing details, and agreements between both parties. This form will help ensure clarity and fairness in the sales process. The following guidelines will be followed to avoid duplication of effort and to ensure that the form is comprehensive.
-
-</thinking>
-
 # Car Dealer Purchase Agreement Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thanksgiving Dinner RSVP - Help Guide
 
 ## Purpose

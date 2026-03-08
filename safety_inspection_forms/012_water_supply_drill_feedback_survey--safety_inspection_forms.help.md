@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from users about water supply drills, which are critical systems that ensure the availability of clean water for drinking, cooking, and other essential uses. This form is part of a larger system for tracking and evaluating the effectiveness of water supply drills across various locations.
-
-The purpose of this form is to collect information about a specific water supply drill, including details about the location, time, and outcome of the drill. This information will be used to evaluate the success of the drill and make data-driven decisions to improve future drills.
-
-To avoid duplicating efforts, please make sure to fill out this form for each unique water supply drill.
-
-</thinking>
-
 # Water Supply Drill Feedback Survey - Help Guide
 ## Purpose
 The Water Supply Drill Feedback Survey is a tool for evaluating the effectiveness of water supply drills. This form helps us understand how well a drill was conducted, what worked and what didn't, and how we can improve future drills.

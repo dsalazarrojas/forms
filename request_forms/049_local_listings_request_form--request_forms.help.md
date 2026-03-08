@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for local listings requests. This form is designed to gather essential details from users about themselves and their listings, including contact information and additional details. The form is divided into several sections, each focusing on a specific aspect of the listing request.
-The form is likely used in a context where local listings are managed, such as real estate, job postings, or community events. The form is intended to streamline the process of requesting listings, making it easier for users to provide the necessary information and for administrators to review and process the requests.
-To avoid duplication, we should ensure that users do not submit multiple requests with the same information.
-</thinking>
-
 # local_listings_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from users for local listings requests, including user details, listing information, contact details, location, and additional information.

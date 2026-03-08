@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be filling out the Business Partners Appreciation Day RSVP form. Before proceeding, please ensure you have all necessary details at hand and are familiar with the form's sections and fields. This guide will walk you through filling out the form step by step.
-
-To confirm, you are not required to fill out the entire form unless explicitly stated as required. Some fields are only meant to gather additional context or information. Be truthful when selecting your attending status and provide accurate details about your attendance.
-
-</thinking>
-
 # Business Partners Appreciation Day RSVP - Help Guide
 
 ## Purpose

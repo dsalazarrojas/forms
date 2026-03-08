@@ -1,9 +1,3 @@
-<thinking>
-The "Compliance Review Appointment Form Template" is used by requesters to schedule compliance reviews with the organization's compliance office. This form ensures that the requester provides all necessary information for the review process, including details about the entity being reviewed, the type of review required, preferred dates and times, and the availability of key personnel.
-
-To ensure that this form serves its purpose effectively, it's crucial to avoid unnecessary requests and ensure that the information provided is accurate. The form should only be used for compliance reviews, and not for other purposes. Additionally, please do not duplicate existing reviews or requests.
-
-</thinking>
 # Compliance Review Appointment Form Template - Help Guide
 
 ## Purpose

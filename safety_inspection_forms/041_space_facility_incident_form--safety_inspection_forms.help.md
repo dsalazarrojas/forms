@@ -1,12 +1,3 @@
-<thinking>
-We need to consider the purpose and context of the form. The space_facility_incident_form is likely used for reporting incidents or near-miss incidents within a space facility. The form's purpose is to gather relevant information about the incident, including details about the incident itself, the location, and the person who reported it. This form is not likely to be used for critical, high-priority incidents, as none of the fields are marked as required. However, it's still important that the form is filled out accurately and completely to ensure that incident reports are thorough and helpful for facility management.
-
-To complete this form, the user should start by providing the basic details of the incident, including the location and the incident date and time. They should then provide a detailed description of what happened, including any images or relevant information that may help with the investigation. The user should also identify themselves and provide their contact information in case they need to be reached for further questions or follow-up.
-
-Each field in this form has a specific purpose and is designed to help the user provide the necessary information to create a comprehensive incident report. For example, the Location field helps the facility management team understand where the incident occurred, while the Incident Description field provides a detailed account of what happened. The Incident Reported By fields allow the user to identify themselves and provide contact information, in case they need to be reached for further questions or follow-up.
-
-</thinking>
-
 # space_facility_incident_form - Help Guide
 ## Purpose
 The space_facility_incident_form is used to report incidents or near-miss incidents within a space facility. This form helps gather relevant information about the incident, including details about the incident itself, the location, and the person who reported it.

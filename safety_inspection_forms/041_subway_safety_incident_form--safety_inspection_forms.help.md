@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect incident information and safety data from subways, allowing users to report and track incidents that occurred within the subway system. 
-This form will be useful for identifying potential safety issues and improving overall safety measures. 
-Before completing this form, please ensure that you have all the necessary information and have not previously submitted this incident.
-</thinking>
-
 # subwaysafetyincidentform - Help Guide
 ## Purpose
 The subwaysafetyincidentform is a tool used to collect incident information and safety data from subways. This form helps to track and analyze incidents, identify potential safety issues, and improve overall safety measures.

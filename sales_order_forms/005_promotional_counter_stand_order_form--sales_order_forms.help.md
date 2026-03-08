@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information for promotional counter stand orders. The purpose of this form is to collect data from customers for orders that require a specific date, time, and quantity of items. The form will likely be used by sales teams to track and fulfill orders for promotional counter stands. It's crucial to ensure that the form is filled out correctly to avoid any potential issues during the order process.
-
-Before filling out this form, please ensure you are not duplicating an order that has already been placed. If you are unsure, please check with your sales team for confirmation.
-</thinking>
-
 # promotional_counter_stand_order_form - Help Guide
 ## Purpose
 The Promotional Counter Stand Order Form is used to collect information for promotional counter stand orders from customers. This form helps sales teams track and fulfill orders efficiently.

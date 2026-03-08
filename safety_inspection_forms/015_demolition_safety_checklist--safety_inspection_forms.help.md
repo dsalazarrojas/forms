@@ -1,7 +1,3 @@
-<thinking>
-This is a form for users to input information related to demolition safety, and it seems to be used for assessing the safety of a demolition site. It is not clear what specific context or industry this form is intended for, but it appears to be used in construction or demolition settings. There is no indication that the form is meant to be duplicated or used in a specific location. The form is asking for general information, site details, and specific safety plans, among other things.
-</thinking>
-
 # Demolition Safety Checklist - Help Guide
 ## Purpose
 This form is designed to gather information about the safety measures and protocols in place for a demolition site. It helps in assessing the risks and hazards associated with the site and ensuring a safe demolition process.

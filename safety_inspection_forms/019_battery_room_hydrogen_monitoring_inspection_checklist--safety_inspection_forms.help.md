@@ -1,11 +1,3 @@
-<thinking>Before I start writing the help guide, I need to ensure that I understand the purpose of this form and its relevance to the target audience. The form is for a "Battery Room Hydrogen Monitoring Inspection Checklist" which seems to be related to safety inspections for battery rooms. The form is used to collect data on the status of various safety-critical elements in the battery room, such as ventilation systems, hydrogen detectors, temperature, and overall safety ratings. It's essential to ensure that the form is clear, concise, and easy to understand for the end-users.
-
-I will also need to review the form structure and fields to ensure that I can provide accurate explanations for each field. The form has several sections and fields, including input fields for inspection ID, date, time, inspector name, facility name, and other relevant information about the inspection. 
-
-I will review the fields to provide explanations that match the intended purpose and functionality of each field. For example, the "Facility Name" field seems to be related to the location where the inspection was performed, so I will explain that in the "Field-by-Field Explanation" section. I will make sure to provide clear and concise explanations for each field, avoiding any technical jargon or complex business logic that may confuse the end-user.
-
-Before writing the final guide, I would like to confirm that I understand the requirements and can provide accurate explanations for each field.</thinking>
-
 # Battery Room Hydrogen Monitoring Inspection Checklist - Help Guide
 ## Purpose
 This form is used to collect data on the status of safety-critical elements in the battery room during regular safety inspections. The information collected will help ensure that the battery room is safe and in compliance with regulatory requirements.

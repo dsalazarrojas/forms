@@ -1,14 +1,3 @@
-<thinking>
-This help guide will be focused on assisting end-users in completing the "Production Line Efficiency Inspection Form" with accuracy and clarity. Before we proceed, let's review the form's purpose and fields to ensure we cover all essential information.
-
-The "Production Line Efficiency Inspection Form" is a critical document used to assess the current state of a production line's performance, efficiency, and overall condition. This form gathers data on various aspects of the production line, from equipment status and maintenance needs to production output and machine condition. The goal is to gather detailed information for informed decision-making and improvement planning.
-
-To ensure the form is completed correctly, we need to break down each field's purpose and expected input. Let's examine the form fields and provide a clear explanation for each, making sure to cover all the essential details.
-
-Please note that some fields have specific formats or requirements. Ensure you understand each field's specifications before proceeding.
-
-</thinking>
-
 # Production Line Efficiency Inspection Form - Help Guide
 ## Purpose
 The Production Line Efficiency Inspection Form is a critical document used to assess the performance and condition of a production line. This form helps gather data on various aspects, including equipment status, maintenance needs, production output, and machine condition.

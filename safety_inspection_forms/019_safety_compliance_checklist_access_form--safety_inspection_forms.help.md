@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Compliance Checklist Access Form - Help Guide
 
 ## Purpose

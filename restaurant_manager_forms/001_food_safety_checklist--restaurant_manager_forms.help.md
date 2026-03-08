@@ -1,5 +1,3 @@
-<thinking>This guide is intended to help users understand the purpose and process of the Food Safety Checklist form. This form is designed to assess the current state of a food establishment's food safety practices and procedures. It is meant for restaurant managers and other food industry professionals who need to ensure that their facilities and staff are adhering to food safety guidelines and protocols.</thinking>
-
 # Food Safety Checklist - Help Guide
 ## Purpose
 The Food Safety Checklist is a tool used to evaluate and improve the food safety practices within a restaurant or food establishment. It helps to identify areas that require attention and ensures that all necessary protocols are in place to prevent foodborne illnesses.

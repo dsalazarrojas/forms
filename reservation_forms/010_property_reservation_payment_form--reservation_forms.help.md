@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended for non-technical users who need to fill out the Property Reservation Payment Form. The form is meant for customers who wish to make payments related to a property reservation. Before proceeding, make sure you have a clear understanding of the reservation details and payment information required. Ensure you have the correct property ID and customer details before filling out the form.
-</thinking>
 # Property Reservation Payment Form - Help Guide
 ## Purpose
 The Property Reservation Payment Form is designed to facilitate payments for properties. Users will need to enter relevant details such as property information and payment methods.

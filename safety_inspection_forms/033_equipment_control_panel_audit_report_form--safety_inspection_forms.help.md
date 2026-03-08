@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create an audit report for an equipment control panel. The purpose of this form is to gather information about the equipment, its condition, and the results of an inspection or audit. The form will help users identify any issues or concerns with the equipment and provide recommendations for improvement or repair. Before filling out this form, make sure you have reviewed the equipment's manual and relevant documentation to ensure you're providing accurate and detailed information. This form is for internal use only and is not intended for public consumption.
-</thinking>
-
 # Equipment Control Panel Audit Report Form - Help Guide
 ## Purpose
 The Equipment Control Panel Audit Report Form is used to document the results of an inspection or audit of an equipment control panel. The form is used to identify any issues or concerns with the equipment, its condition, and provide recommendations for improvement or repair.

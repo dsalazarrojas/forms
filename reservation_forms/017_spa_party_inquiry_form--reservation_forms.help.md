@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # spa_party_inquiry_form - Help Guide
 ## Purpose
 

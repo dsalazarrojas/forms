@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remark Request Form - Help Guide
 ## Purpose
 The Remark Request Form is used to submit a request for feedback or clarification on a remark made by an instructor on a student's work. This form is intended to ensure that students have a clear understanding of the feedback and can effectively address any issues raised by the instructor.

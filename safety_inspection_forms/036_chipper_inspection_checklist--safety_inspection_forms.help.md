@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about a safety inspection of a chipper, which is a heavy machinery used for logging and construction. This inspection helps to identify potential safety hazards and ensure the machine is in a safe condition for operation. The form is designed to be completed by a person performing the inspection, and it's essential to fill it out carefully and accurately to provide a clear picture of the machine's safety status.
-</thinking>
-
 # Chipper Inspection Checklist - Help Guide
 ## Purpose
 The Chipper Inspection Checklist is a form used to collect information about a safety inspection of a chipper, which is a heavy machinery used for logging and construction. This form helps to identify potential safety hazards and ensure the machine is in a safe condition for operation.

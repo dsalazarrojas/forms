@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to RSVP (Respond to a Social Prompting to Visit) to a plant swap event, where users can indicate their attendance, bring plants to share, and other details related to the event. To avoid duplication, this form should only be filled out once for each individual user.
-</thinking>
-
 # Plant Swap RSVP Form - Help Guide
 
 ## Purpose

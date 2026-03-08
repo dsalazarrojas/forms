@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trade Fair Media Breakfast RSVP - Help Guide
 
 ## Purpose

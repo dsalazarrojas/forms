@@ -1,7 +1,3 @@
-<thinking>
-This guide will walk you through the process of filling out the "Dog Daycare Reservation Form" to ensure you get the best experience for your furry friend.
-</thinking>
-
 # Dog Daycare Reservation Form - Help Guide
 ## Purpose
 The "Dog Daycare Reservation Form" is designed to help us prepare for your pet's visit to our dog daycare. This form gathers essential information about your pet and your reservation, ensuring our staff is well-prepared to provide a safe and enjoyable experience for your pet.

@@ -1,7 +1,3 @@
-<thinking>... internal validation checks to ensure the form is being used for its intended purpose and not duplicated...
-
-</thinking>
-
 # Product Quote Form - Help Guide
 ## Purpose
 The Product Quote Form is a tool used to collect information about a product and its associated sales quote. This form helps sales representatives to gather essential details from clients and prospects, facilitating smooth and efficient sales processes.

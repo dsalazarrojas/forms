@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the ESD (Electrostatic Discharge) Safety Equipment Survey is to collect information about the safety equipment used to mitigate static electricity in a facility. This survey helps ensure that the equipment is properly maintained and up-to-date, reducing the risk of electrostatic discharge-related accidents.
-Before starting the survey, please verify that it has not been completed for this facility before. If you're unsure, contact the relevant authority to confirm.
-</thinking>
-
 # ESD Safety Equipment Survey - Help Guide
 ## Purpose
 The ESD Safety Equipment Survey is used to collect information about the safety equipment used to mitigate electrostatic discharge in a facility. This survey helps ensure that the equipment is properly maintained and up-to-date, reducing the risk of electrostatic discharge-related accidents.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for family-friendly dinner reservations, allowing them to provide their preferences for dinner time, guest count, and other relevant details. The form is intended for users who are interested in hosting or attending a family-friendly dinner reservation.
-</thinking>
-
 # Family Friendly Dinner Reservation - Help Guide
 ## Purpose
 The Family Friendly Dinner Reservation form is designed to collect information from users for a family-friendly dinner reservation. This form allows users to provide their preferences for dinner time, guest count, and other relevant details.

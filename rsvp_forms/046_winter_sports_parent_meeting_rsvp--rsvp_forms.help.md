@@ -1,7 +1,3 @@
-<thinking>
-We should create a user-facing help guide for the "winter_sports_parent_meeting_rsvp" form. The form seems to be designed to gather responses from parents regarding their attendance and questions for a parent-teacher meeting related to winter sports. The form contains a mix of text input fields for meeting details and notes, as well as multiple select_one and select_multiple fields to gather information on various questions related to winter sports. The purpose of this form is to gather information from parents about their attendance and questions or concerns they have for the meeting, which will likely be used to inform the meeting planning and organization. The form should be completed by parents to provide their response to the meeting invitation.
-</thinking>
-
 # winter_sports_parent_meeting_rsvp - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vessel Weather Capability Assessment - Help Guide
 ## Purpose
 This form is designed to assess the weather capability of a vessel. It collects information about the user's vessel, its safety equipment, and the weather conditions it operates in. The form is used to evaluate the vessel's preparedness and ability to handle adverse weather conditions.

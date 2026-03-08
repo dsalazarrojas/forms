@@ -1,11 +1,3 @@
-<thinking>
-To create a help guide for the "sales_person_job_application_form" form, I'll start by providing a brief internal reasoning block to understand the form's purpose and ensure it's not duplicating any other form.
-
-The purpose of this form is to collect information from individuals who are interested in being hired as sales persons within our company. It's designed to gather their contact information, work history, language skills, sales experience, and other relevant details. This form ensures that we have a comprehensive view of potential candidates before considering them for a sales position.
-
-Before proceeding, I will ensure that this form is not duplicating any other form within our company by checking our existing documentation and forms.
-
-</thinking>
 # sales_person_job_application_form - Help Guide
 
 ## Purpose

@@ -1,20 +1,3 @@
-<thinking>
-
-This help guide will provide detailed instructions on how to complete the "Bartender Opening Checklist" form. Before we proceed, let's first confirm the form's purpose and ensure it's being used correctly.
-
-The "Bartender Opening Checklist" is a crucial form used to document the daily opening and setup of a bar. It ensures that all essential items are present, accounted for, and functioning correctly before service begins. This checklist streamlines the process, reduces errors, and improves the overall service experience for customers.
-
-By completing this form, bartenders can:
-
-*   Verify the accuracy of opening information
-*   Ensure equipment and tools are in working order
-*   Confirm inventory levels and supplies
-*   Check for any discrepancies or issues
-
-To complete this form accurately, please follow the instructions below.
-
-</thinking>
-
 # Bartender Opening Checklist - Help Guide
 ## Purpose
 

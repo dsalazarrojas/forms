@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for an interview schedule, and it is intended to be used by hiring managers or human resources personnel to streamline the interview process. The form is divided into two main sections: "Applicant details" and "Interview details". The purpose of this form is to gather essential information about the applicant and the interview specifics, which will help the hiring team make informed decisions. Before filling out this form, please make sure to review the form and ensure that you are not duplicating effort and have all the necessary information readily available.
-</thinking>
-
 # interview_schedule_form - Help Guide
 ## Purpose
 The interview schedule form is a tool used to collect information from applicants for an interview.

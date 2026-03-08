@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used by sales teams to collect information from customers about the installation of new machines, which is a critical part of the sales process. The form is designed to gather necessary details about the customer, the machine, and the installation requirements. By filling out this form, customers will be able to provide all the necessary information in a single interface, reducing the likelihood of errors and ensuring that all required details are captured correctly.
-
-Before filling out this form, it's essential to review the form carefully and ensure that all required fields are filled out correctly to avoid duplication of work and to ensure that the installation process is completed efficiently.
-
-</thinking>
-
 # Machine Installation And Order Request Form - Help Guide
 
 ## Purpose

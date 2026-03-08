@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be a Lead Air Monitoring Log, which is likely used to track and record data related to lead monitoring at various job sites. This form is designed to collect data on job sites, dates, air quality monitoring, sampling locations, and sampling methods. The form seems to be designed for multiple locations, with some fields repeating for each location. The purpose of this form is to gather relevant data for analysis and reporting. It is possible that this form is used in an industrial or manufacturing setting where lead monitoring is crucial for environmental and health reasons. 
-
-Before filling out this form, please ensure that you have the necessary permissions and access to the job sites and data collection methods. 
-
-This form has multiple pages, and each page is dedicated to a specific location. Please ensure that you are filling out the correct page for the correct location.
-
-The form fields are self-explanatory, but a brief explanation of each field will be provided below for your reference.
-</thinking>
-
 # Lead Air Monitoring Log - Help Guide
 ## Purpose
 The Lead Air Monitoring Log is designed to collect data on lead monitoring at various job sites. This form is used to track and record important data for analysis and reporting.

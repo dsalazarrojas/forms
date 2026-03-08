@@ -1,5 +1,3 @@
-<thinking>This form is used to collect information from users to help them plan and book their travel vacations. It is designed to be completed by customers and travel agents. The form is not intended to be used for internal purposes or as a replacement for other forms. It is a public-facing form that should only be completed by customers or travel agents who are looking to book travel vacations. The purpose of this form is to gather information about the user's travel preferences, including travel dates, travel type, and contact information. This information will be used to provide users with tailored recommendations and to book their travel reservations. To ensure that the form is completed correctly, please review the following instructions and field-by-field explanations.</thinking>
-
 # travel_vacation_form - Help Guide
 ## Purpose
 The travel_vacation_form is used to collect information from customers and travel agents to help plan and book travel vacations.

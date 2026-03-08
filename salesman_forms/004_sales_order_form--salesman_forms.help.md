@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect customer information and order details for sales orders. This form will be used to gather essential data about the customer and the sales order, which will aid in processing the order correctly and providing excellent customer service. To avoid duplication of effort and ensure accurate completion, users should review the form carefully before proceeding. The form is designed to be completed in the following steps.
-</thinking>
-
 # Sales Order Form - Help Guide
 ## Purpose
 The Sales Order Form is a tool used to collect customer information and order details for sales orders, ensuring accurate processing and excellent customer service.

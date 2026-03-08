@@ -1,25 +1,3 @@
-<thinking>
-This form is intended to gather information from panelists regarding their dinner RSVP status, including their attendance and meal preferences. This information will be used to finalize the dinner arrangements and ensure that the necessary resources are available for all attendees. Please note that this form should only be used for panelists who have received an invitation to the dinner event.
-
-This form appears to be a duplicate of the standard RSVP form, so it's likely that it's being used for a specific event or group of people. The fields on this form include:
-
-* A select_one field for attendance status
-* A select_multiple field for dietary needs
-* A select_one field for meal choice
-* Text fields for guest count, guest name, and guest email
-* A select_one field for guest attendee
-* A note field for optional notes
-* A select_one field for RSVP status
-* A date field for RSVP date
-* A time field for RSVP time
-* A select_one field for guest attendee
-
-It's possible that some of the fields may not be relevant to the specific event or group of people, but based on the provided YAML, it seems that all the fields are intended to be completed by the panelist.
-
-To ensure that the form is filled out correctly, please follow the instructions below:
-
-</thinking>
-
 # Panelist Dinner RSVP Form - Help Guide
 ## Purpose
 This form is used to gather information from panelists regarding their attendance and preferences for the dinner event.

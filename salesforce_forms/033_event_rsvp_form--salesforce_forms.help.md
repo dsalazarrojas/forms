@@ -1,9 +1,3 @@
-<thinking> 
-This form is intended to capture event RSVP information from users, including their contact details, event details, and RSVP status. The form is likely used for events, meetings, or gatherings where attendees need to confirm their presence or absence.
-The form consists of multiple pages with various fields to collect different types of information.
-Please note that the form does not have any fields that are strictly mandatory, but some fields may have default options that make it easier for users to understand what information is expected.
-</thinking>
-
 # Event RSVP Form - Help Guide
 ## Purpose
 The Event RSVP Form is designed to gather information from event attendees, allowing them to confirm their participation, provide their contact details, and optionally add a message or notes.

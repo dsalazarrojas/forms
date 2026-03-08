@@ -1,6 +1,3 @@
-<thinking>
-This form is used to document and report incidents involving hazardous materials. It's crucial to fill out this form accurately and completely to ensure that necessary safety protocols are followed and that employees involved are aware of their roles and responsibilities. Before proceeding, ensure you have a valid reason for submitting this form and have not reported this incident previously. The form can only be completed once per incident.
-</thinking>
 # Hazardous Material Incident Form - Help Guide
 
 ## Purpose

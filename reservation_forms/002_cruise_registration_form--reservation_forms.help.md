@@ -1,14 +1,3 @@
-<thinking>
-We are designing a form for customers to register for a cruise. The purpose of this form is to collect information from customers about their cruise travel plans. This includes contact information, travel documents, itinerary, and payment details. The form is not meant to be used for official or legal purposes, but rather as a tool for us to understand our customers' needs and preferences.
-
-Before you start, please make sure you understand the purpose of this form and that you have reviewed the relevant documentation and instructions. This form is a critical part of our customer registration process, and we need to ensure that we are collecting the right information to provide the best experience for our customers.
-
-To avoid duplicates, please check if you have already completed this form before. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-After ensuring you have reviewed the necessary documentation and instructions, let's move on to the explanation of the form.
-
-</thinking>
-
 # cruise_registration_form - Help Guide
 ## Purpose
 The cruise registration form is designed to collect information from customers about their cruise travel plans. This form helps us understand your needs and preferences, ensuring we can provide the best experience for you.

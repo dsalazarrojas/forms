@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from guests about their attendance status and details at a graduation ceremony. The form will likely be used by graduates and their families to RSVP to the ceremony, providing crucial information for the organizers to plan and prepare for the event. It's essential to fill out this form accurately to ensure that the graduate's family is accounted for and can be included in the event's arrangements. This form should not be filled out by non-guests or individuals who are not attending the ceremony.
-</thinking>
-
 # Graduation Ceremony RSVP Form - Help Guide
 ## Purpose
 The Graduation Ceremony RSVP Form is used to gather information from guests about their attendance status and details at a graduation ceremony.

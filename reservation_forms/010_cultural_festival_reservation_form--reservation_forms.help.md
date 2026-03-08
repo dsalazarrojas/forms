@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to reserve a spot at a cultural festival event. It captures information about the participant, their preferences, and event details. The form is used to gather necessary information for event organization and communication.
-</thinking>
-
 # cultural festival reservation form - Help Guide
 ## Purpose
 This form is used to reserve a spot at the cultural festival. It helps us gather information about each participant and their preferences, ensuring a smooth and enjoyable experience for everyone.

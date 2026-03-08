@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from guests for a baby shower event. The purpose of this form is to gather necessary details such as the host's name, event date, time, and location, as well as the guest's RSVP status, dietary needs, and any additional message they may have for the host. The form is designed to be filled out by the guest, and the collected information will be used by the host to plan and organize the event.
-</thinking>
-
 # Baby Shower Invitation Form - Help Guide
 ## Purpose
 This form is designed to collect information from guests for a baby shower event. It will help the host plan and organize the event.

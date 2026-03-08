@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document information about emergency drills conducted at a location. The purpose of the form is to gather data on drill locations, frequency, duration, number of participants, supervisors, and observers. The form is designed to be completed by personnel who conduct or observe emergency drills. To complete the form, the user will select the appropriate response for each field. Note that some fields are not required, meaning the user can leave them blank if the information is not applicable. The form does not contain any sensitive or confidential information, and the answers should be factual and accurate. This form will help the organization to better understand the emergency drills conducted at different locations and identify trends and areas for improvement.
-</thinking>
-
 # emergency_drill_report_form - Help Guide
 ## Purpose
 This form is used to document information about emergency drills conducted at a location.

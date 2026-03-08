@@ -1,9 +1,3 @@
-<thinking>
-The form "event_feedback_form" is designed to collect feedback from users regarding a specific event. It is essential to provide honest and constructive feedback to the event organizers to help them improve future events.
-To ensure the form is completed correctly, please note that the form is divided into different sections, each addressing a unique aspect of the event.
-Please ensure that you have reviewed the form carefully to avoid duplication and provide the most accurate information.
-</thinking>
-
 # event_feedback_form - Help Guide
 ## Purpose
 The "event_feedback_form" is a tool designed to gather feedback from attendees about a specific event. This feedback will help event organizers to understand the attendees' experiences and improve future events.

@@ -1,5 +1,3 @@
-<thinking>Medical Device Safety Test Checklist is used to verify that medical devices are functioning within safety parameters. This form is designed for use in clinical settings such as hospitals, clinics, or laboratories where safety and efficacy of medical devices are critical. The form ensures that medical devices are inspected regularly to prevent malfunctions that can lead to patient harm.</thinking>
-
 # Medical Device Safety Test Checklist - Help Guide
 ## Purpose
 The Medical Device Safety Test Checklist is used to verify that medical devices are functioning within safety parameters in clinical settings such as hospitals, clinics, or laboratories.

@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "New Construction Property Reservation Contract" form, I will review the provided YAML fields and provide a concise explanation of each field's purpose and requirements.
-
-The form appears to be designed for a construction property reservation contract, where the user needs to provide various details about the reservation, including unit selection, buyer details, payment method, and unit price. The form likely serves as a template for documenting and managing reservations.
-
-The form has multiple pages with various fields, including text, select multiple, date, number, select one, and email. Each field has a unique label, hint, and type.
-
-Upon reviewing the fields, I will create a help guide that covers the purpose of the form, how to complete it, and a field-by-field explanation of each element.
-
-</thinking>
-
 # New Construction Property Reservation Contract - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a new construction property reservation contract, ensuring accurate and efficient documentation and management of reservations.

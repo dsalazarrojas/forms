@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess and document the healthcare patient safety protocol, which is a critical process for identifying and addressing potential safety risks and near misses in healthcare settings. This form is used to gather information on patient safety practices, incident reporting, near miss happenings, root cause analysis, action plans, follow-up actions, follow-up frequency, follow-up status, and follow-up comments. The form is designed to be completed by healthcare professionals who are responsible for ensuring patient safety and identifying areas for improvement.
-To avoid duplication of effort, please ensure that this form is not completed for the same patient concurrently. If you are unsure about the purpose or any field in this form, please consult with your supervisor or the healthcare facility's patient safety officer.
-</thinking>
-
 # healthcare_patient_safety_protocol_assessment - Help Guide
 ## Purpose
 The healthcare patient safety protocol assessment form is used to evaluate and document the safety protocols in place for patients in healthcare settings.

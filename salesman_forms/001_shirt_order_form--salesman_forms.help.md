@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for sales representatives to capture information from customers when placing orders for shirts. The form is used to gather essential details such as customer contact information, order type, date, and time, as well as any specific notes for the order. By completing this form, sales reps can ensure accurate and complete order information, reducing potential errors and improving the customer experience.
-</thinking>
-
 # Shirt Order Form - Help Guide
 ## Purpose
 The Shirt Order Form is a tool used by sales representatives to gather essential information from customers when placing orders for shirts. This form ensures that all necessary details are captured accurately, improving the efficiency and quality of the sales process.

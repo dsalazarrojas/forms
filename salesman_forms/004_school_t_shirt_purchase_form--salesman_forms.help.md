@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for salesmen to collect information from customers about their school t-shirt purchase preferences. The form is designed to be flexible, allowing users to input information about whether they would like to purchase a school t-shirt, their class preferences, the fee associated with the purchase, the students' names, their sizes, and the color of the t-shirt. To ensure that the form is being used correctly, the following guidelines have been established: 
-- The form must be completed by a sales representative, who will review and submit the form to the relevant department.
-- The form should not be used for any other purpose than the intended one.
-- Each field should be filled in as per the guidelines below.
-</thinking>
-
 # School T Shirt Purchase Form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their school t-shirt purchase preferences.

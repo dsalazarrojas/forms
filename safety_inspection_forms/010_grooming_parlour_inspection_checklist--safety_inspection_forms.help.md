@@ -1,12 +1,3 @@
-<thinking>
-This is a safety inspection form for a grooming parlour. The form is used to inspect and evaluate the safety and hygiene standards of an animal grooming facility. The purpose of this form is to ensure that the facility meets the required standards for animal safety and well-being. This form is likely used by regulatory agencies or veterinarians to conduct regular inspections and provide feedback to the facility.
-
-Before proceeding with this form, ensure that:
-- The facility has been properly selected and scheduled for inspection.
-- The inspector has the necessary authority to conduct the inspection.
-- The inspection has been coordinated with the facility management.
-</thinking>
-
 # Grooming Parlour Inspection Checklist - Help Guide
 
 ## Purpose

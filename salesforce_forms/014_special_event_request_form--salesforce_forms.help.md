@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for users to request a special event, such as a film shoot, photo shoot, or location scout, and to provide detailed information about the event. The form will help the event organizer to efficiently process the request and ensure that all necessary information is collected. The form will not be used for duplicate events, and users are asked to fill it out for each unique event.
-
-When filling out this form, please note that the event type field is a select one field, meaning you can only choose one option from the list. 
-
-Also, the event space field should only be used to specify the number of spaces or resources needed for the event.
-
-The payment method field is a select multiple field, allowing you to choose one or multiple options from the list. 
-
-Please ensure to fill out all the required fields before submitting the form.
-</thinking>
-
 # Special Event Request Form - Help Guide
 ## Purpose
 This form is for requesting a special event, such as a film shoot, photo shoot, or location scout, with event details and requirements.

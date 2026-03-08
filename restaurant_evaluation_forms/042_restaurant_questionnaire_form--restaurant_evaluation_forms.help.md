@@ -40,6 +40,3 @@ To complete this form, simply click on each page to access the corresponding sec
 - **Time 2** (`time`, required: false): Enter the time you visited the restaurant.
 - **Description 3** (`text`, required: false): Describe your experience at the restaurant.
 
-<thinking>
-This form is designed to gather information about your visit to a restaurant. To ensure that the information collected is useful and relevant, please fill in the form accurately and completely. If you have any questions or concerns, please don't hesitate to contact us. Before filling out the form, please make sure that you have visited the restaurant and have a genuine experience to share. Also, please note that some fields are optional, and you can skip them if you don't have the information or prefer not to provide it. 
-</thinking>

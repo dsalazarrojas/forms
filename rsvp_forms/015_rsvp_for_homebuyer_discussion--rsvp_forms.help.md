@@ -1,11 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "rsvp_for_homebuyer_discussion" form. This form is likely used for collecting responses from potential homebuyers regarding their interest in participating in a homebuyer discussion or meeting. The purpose of this form is to gather information on individual responses, allowing the organizers to gauge interest and prepare for the discussion or meeting accordingly.
-
-We'll assume the form fields are self-explanatory or require minimal explanation. However, we'll provide clear and concise explanations to ensure end-users understand the purpose and usage of each field.
-
-After the internal reasoning block, we'll output the final help guide in Markdown format as instructed.
-</thinking>
-
 # rsvp_for_homebuyer_discussion - Help Guide
 ## Purpose
 

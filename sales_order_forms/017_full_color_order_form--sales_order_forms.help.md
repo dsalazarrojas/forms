@@ -1,8 +1,3 @@
-<thinking> 
-This form appears to be a sales order form designed for customers to submit their orders for full color products or services.
-To confirm, I will review the form's metadata and provide a clear and concise help guide.
-</thinking>
-
 # Full Color Order Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wholesale Minimum Quantity Waiver Request Form - Help Guide
 
 ## Purpose

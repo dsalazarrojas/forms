@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place orders for waste compactors. It's designed to collect information about the customer's needs, delivery preferences, and payment methods. The form is divided into several sections, each with its own set of fields. 
-</thinking>
-
 # Waste Compactor Supply Order Form - Help Guide
 
 ## Purpose

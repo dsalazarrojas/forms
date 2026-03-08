@@ -1,8 +1,3 @@
-<thinking> 
-This form is for requesting public awareness materials in a specific format and quantity. To ensure that your request is processed correctly and efficiently, please review this guide carefully before submitting your form. If you have already submitted a similar request in the past, please do not resubmit. Duplicate requests will not be processed. Please fill out the form with accurate and complete information to help us fulfill your request as quickly as possible. 
-
-</thinking>
-
 # public_awareness_material_request_form - Help Guide
 
 ## Purpose

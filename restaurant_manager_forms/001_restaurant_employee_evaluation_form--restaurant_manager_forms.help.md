@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and consistently. This form appears to be a Restaurant Employee Evaluation Form, designed for supervisors to evaluate and document the performance of restaurant employees. It's essential that the form is used for its intended purpose and that users understand its sections clearly. This guide will walk you through each section of the form and explain what's required for completion.
-
-</thinking>
-
 # Restaurant Employee Evaluation Form - Help Guide
 ## Purpose
 The Restaurant Employee Evaluation Form is used by supervisors to assess and document the performance of restaurant employees. This form helps supervisors provide constructive feedback and evaluate employee performance on a regular basis.

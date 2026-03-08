@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Scorecard Template - Help Guide
 ## Purpose
 The Sales Scorecard Template is a form designed to help sales teams track and measure progress, providing a comprehensive view of sales performance. It collects essential information for sales scorecards, enabling sales representatives to monitor their progress and identify areas for improvement.

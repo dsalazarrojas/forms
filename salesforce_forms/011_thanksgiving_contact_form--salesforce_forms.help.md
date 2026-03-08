@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather contact information and messages from customers on Thanksgiving, likely for marketing, outreach, or customer service purposes. This form should help the organization's internal teams respond to customer inquiries efficiently. Please ensure this form isn't filled out by duplicate entries or irrelevant messages as it may lead to unnecessary internal duplication of effort, and verify that the form meets the required fields (First Name, Email, Phone) as these are critical for proper follow-up and response.
-</thinking>
-
 # Thanksgiving Contact Form - Help Guide
 
 ## Purpose

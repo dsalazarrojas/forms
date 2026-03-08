@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Aviation Safety Incident Form", I need to consider the following:
-
-* The form is used to collect information about safety incidents that have occurred in the aviation industry.
-* The form is used to gather data that can help identify trends and patterns in safety incidents.
-* The form is likely used by pilots, dispatchers, and other aviation personnel to report incidents.
-
-This guide will be used by end-users who are not necessarily experts in aviation safety, so I will need to explain the purpose and fields in a clear and concise manner.
-
-</thinking>
-
 # Aviation Safety Incident Form - Help Guide
 ## Purpose
 The Aviation Safety Incident Form is used to report and document safety incidents that occur in the aviation industry. This form helps gather information that can be used to identify trends and patterns in safety incidents, which can inform training, procedures, and policies to prevent similar incidents in the future.

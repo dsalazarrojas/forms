@@ -1,7 +1,3 @@
-<thinking>
-**Internal Note: This form is designed to allow end-users to request personalized gifts for various occasions. Please ensure that the form is filled out with accurate and relevant information to ensure the gift-giver can fulfill the request effectively. Also, note that some fields are optional, so please only fill out fields that are relevant to your request. This form will not be filled out multiple times by the same user to avoid duplication.**
-</thinking>
-
 # Personalized Gift Request Form - Help Guide
 ## Purpose
 This form is designed to help you request personalized gifts for various occasions. Please fill out this form to provide accurate information about yourself and the gift recipient.

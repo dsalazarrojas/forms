@@ -1,8 +1,3 @@
-<thinking>
-This is a form to gather information from attendees about their participation in a Business Leadership Breakfast event. This event is intended for business leaders to connect and discuss industry topics. This form will help us understand who will be attending, their preferences, and any special requirements they may have. Please fill out this form carefully to ensure accurate representation of your intentions to attend.
-
-</thinking>
-
 # Business Leadership Breakfast RSVP - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Business Leadership Breakfast RSVP form. The form is designed to collect essential information about attendees, including their contact details, attendance preferences, and any special requirements. Your input will help us better organize the event.

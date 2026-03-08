@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll first need to understand the form's purpose and the fields it contains. Based on the provided YAML, the form appears to be a template for ordering equipment vibration detectors. The form likely aims to collect general information, address, payment details, and shipping details from users.
-
-The form's purpose is to gather essential data from users to facilitate the ordering process. The general information field might be used to capture the user's name, contact number, or other identifying details. The address field is probably for the delivery address, while the payment details field might be for credit card information or other payment methods. The shipping details field could be for additional shipping information, such as package tracking numbers or delivery instructions.
-
-Before I create the actual help guide, I'll make sure to review the form's fields and provide explanations that are clear, concise, and practical.
-
-</thinking>
-
 # Equipment Vibration Detector Order Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from users to facilitate the ordering process of equipment vibration detectors. It will help us understand your needs and ensure accurate delivery and payment processing.

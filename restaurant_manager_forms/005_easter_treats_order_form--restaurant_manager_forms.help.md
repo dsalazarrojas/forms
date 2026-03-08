@@ -1,8 +1,3 @@
-<thinking>
-This form will be used by restaurant managers to order Easter treats for their establishment. This form is designed to collect information about the order details, including the type of Easter treat, quantity, price, and description. The form should not be completed for test purposes and should only be used to place real orders. If you have already completed a similar form for the same purpose, please do not duplicate the effort and review the guide for the most recent version.
-
-</thinking>
-
 # easter_treats_order_form - Help Guide
 ## Purpose
 The Easter Treats Order Form is used by restaurant managers to order Easter treats for their establishment. It is intended to collect information about the order details, such as the type of Easter treat, quantity, price, and description.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to allow crew members to RSVP for a Film Crew Appreciation party. The purpose of this form is to collect necessary information from crew members to ensure they can be accommodated properly for the event. It is essential to complete this form accurately to help the event organizers plan and prepare for the party. Please note that this form is a one-time submission for each crew member, and any updates or changes will require a new submission.
-
-Before starting to fill out the form, please make sure you have the necessary information and answers ready. This form will ask for some personal details, so please ensure that you are comfortable sharing this information.
-
-Please note that some fields are marked as "Required" (or "true"), which means that these fields need to be filled out for the submission to be considered valid. Make sure to fill out all required fields before submitting the form.
-
-Also, be aware that some fields might have specific options or constraints that need to be followed. For example, for "Dietary Restrictions", you can only select one or multiple options from the list provided.
-
-If you have any questions or concerns, please reach out to the event organizers.
-</thinking>
-
 # Film Crew Appreciation Party RSVP Form - Help Guide
 ## Purpose
 The Film Crew Appreciation Party RSVP Form is designed to collect essential information from crew members to ensure they can be accommodated properly for the event.

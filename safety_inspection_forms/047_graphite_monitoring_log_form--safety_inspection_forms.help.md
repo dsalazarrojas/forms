@@ -1,5 +1,3 @@
-<thinking>...This form is used to record and track monitoring data for graphite, including the date and location of monitoring, type of monitoring, and output file details. To ensure data accuracy, please complete each field as precisely as possible. This form is primarily used for internal purposes, so please refrain from using it for external sharing without approval...</thinking>
-
 # Graphite Monitoring Log Form - Help Guide
 ## Purpose
 This form is used to record and track monitoring data for graphite, including the date and location of monitoring, type of monitoring, and output file details.

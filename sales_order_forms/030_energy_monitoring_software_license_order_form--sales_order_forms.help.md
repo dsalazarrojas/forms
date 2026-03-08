@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from customers interested in purchasing energy monitoring software, including their customer and contact information, software details, payment details, and delivery details. The form aims to gather all the essential data necessary for processing and fulfilling the order.
-Please ensure that the form fields are clear and concise to avoid confusion. If any field is ambiguous or unclear, please provide an explanation to help users understand its purpose.
-</thinking>
-
 # Energy Monitoring Software License Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers interested in purchasing energy monitoring software. This form will gather all the necessary details for processing and fulfilling the order.

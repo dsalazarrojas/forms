@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to gather information about events of interest. The purpose of this form is to capture details about events, including the event type, date, time, location, and ideas associated with it. This form is likely used in a sales context to help sales representatives identify potential leads and follow up with relevant information.
-
-Please note that the form is not intended to be mandatory, and filling it out is optional. It also seems that the form does not have any conditional logic or rules that would prevent users from filling it out multiple times. This could potentially lead to duplicate information being collected.
-
-</thinking>
-
 # event_interest_form - Help Guide
 
 ## Purpose

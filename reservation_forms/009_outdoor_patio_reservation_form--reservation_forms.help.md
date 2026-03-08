@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # outdoor_patio_reservation_form - Help Guide
 ## Purpose
 This form is used to reserve an outdoor patio at our establishment. Please complete this form to request a spot for your desired date and time.

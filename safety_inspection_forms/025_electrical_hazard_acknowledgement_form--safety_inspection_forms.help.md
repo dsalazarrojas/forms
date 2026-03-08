@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be related to electrical safety inspections, perhaps for industrial or construction settings. The form likely aims to acknowledge and document electrical hazards present on a job site, and gather information on the control measures taken to mitigate these hazards. 
-
-The form's structure suggests that it's a template for a supervisor to fill out after an inspection, and for an employee to provide information and sign-off on the electrical hazards present and control measures taken. It may be used for compliance with regulatory requirements or internal safety protocols. 
-
-This guide will help ensure that users understand the purpose of the form and how to complete it correctly.
-
-</thinking>
-
 # Electrical Hazard Acknowledgement Form - Help Guide
 
 ## Purpose

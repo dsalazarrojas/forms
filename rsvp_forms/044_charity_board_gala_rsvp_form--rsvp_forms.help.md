@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Charity Board Gala RSVP Form - Help Guide
 ## Purpose
 This form is used to manage guest attendance and meal preferences for the Charity Board Gala. It helps us ensure that we have an accurate headcount and can make necessary arrangements for seating and meal preparation.

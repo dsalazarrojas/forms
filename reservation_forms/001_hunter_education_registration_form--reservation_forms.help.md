@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are registering for hunter education programs, which are typically required for hunters to obtain certification. The form is used to collect personal details such as name, contact information, and education status. It also collects information related to the hunter education certification itself, including the provider, issue and expiration dates, and other relevant details. This form is likely used by organizations or institutions that offer hunter education programs, and the data collected will be used to manage the registration process and track hunter education information.
-
-This is a one-time registration form, and users will be entering information for themselves or others. There is no duplication of fields for the same type of information, so users can focus on providing accurate and complete data without worrying about redundancy.
-
-</thinking>
-
 # Hunter Education Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information for hunter education registration. Please fill out the form accurately and completely to ensure a smooth registration process.

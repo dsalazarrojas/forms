@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to facilitate referrals to dietitians for clients who need nutrition-related services. The form captures basic client information, contact details, referral sources, recommended dietitians, and additional notes. This form aims to improve referral efficiency and accuracy by ensuring that all necessary information is gathered in a single, easy-to-use interface.
-</thinking>
-
 # Dietitian Referral Form - Help Guide
 ## Purpose
 The Dietitian Referral Form is designed to provide a structured approach to making referrals to dietitians. This form will guide you through a series of questions to help ensure that you provide the necessary information for a referral.

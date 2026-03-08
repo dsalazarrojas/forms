@@ -1,8 +1,3 @@
-<thinking>
-This form is used for inviting and managing RSVPs (responses) for a maritime exhibition. The form should only be used for events that are related to maritime exhibitions. Please ensure that the event you are inviting people to is actually a maritime exhibition before using this form.
-Please check that there are no other forms used for maritime exhibitions, as this form is designed specifically for this type of event.
-</thinking>
-
 # Maritime Exhibition Invitation & RSVP - Help Guide
 ## Purpose
 This form is designed to facilitate the invitation and RSVP process for a maritime exhibition. It provides a structured way to collect information from attendees, such as exhibition name, date, venue, and RSVP status.

@@ -1,12 +1,3 @@
-<thinking>
-The internal reasoning block is as follows:
-
-The Virtual Webinar Registration Form is designed to collect information from attendees who want to register for a virtual webinar. This form helps us understand who will be attending, their preferred email and phone numbers for communication, and their agreements to the terms and conditions. The form will help in sending out reminders and updates via email and phone. It is essential to ensure that the attendees have the correct information and agree to the terms and conditions before proceeding.
-
-Please note that this form is not a mandatory requirement, but it's recommended for attendees to fill it out to get the most out of the webinar experience.
-
-</thinking>
-
 # Virtual Webinar Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees who want to register for a virtual webinar.

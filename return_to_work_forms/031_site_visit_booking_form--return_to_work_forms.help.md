@@ -1,25 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form appears to be a "Site Visit Booking Form" for users to book a site visit. This form likely serves as a tool for users to input details about their site visit, including the date, time, location, and other relevant information. The form seems to be designed for users to provide personal details such as name, phone number, and email. The purpose of this form could be to allow users to schedule a site visit, and the form's content is likely to be used for administrative purposes, such as keeping track of scheduled visits.
-
-The form has the following fields:
-
-* A text field for the site visit title (Site Visit Booking)
-* A date field for the site visit date
-* A time field for the site visit time
-* A text field for the site visit location
-* A text field for the user's name
-* A text field for the user's phone number
-* A field for the user's email
-* A note field for additional notes
-
-Upon analyzing the fields, it appears that the form is designed to be filled out by the user, and the fields are mostly optional. The form's purpose is likely to be used for site visits, and the fields are intended to collect relevant information for administrative purposes.
-
-This analysis suggests that the form is likely used for scheduling site visits, and the fields are intended to be filled out by the user to provide details about their visit. The form may be used by administrators or site managers to keep track of scheduled visits and communicate with users about their site visit.
-
-To avoid duplication of work, it's essential to make sure that this form is not being used for any other purpose that is not related to site visits. This form is intended to be used for booking site visits, so it's crucial to keep the information collected within that scope.
-
-</thinking>
-
 # Site Visit Booking Form - Help Guide
 ## Purpose
 The Site Visit Booking Form is designed to help users schedule a site visit. This form collects relevant information about the user's site visit, including date, time, location, and other personal details.

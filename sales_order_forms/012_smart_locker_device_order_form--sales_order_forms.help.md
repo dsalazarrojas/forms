@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from customers for ordering a smart locker device. This form should only be filled out by customers who need to place an order for a new device. Before filling out this form, make sure you're not already in the process of ordering or have previously submitted an order. This form is designed to be a simple and straightforward way to gather necessary details for device ordering. Please follow these instructions carefully to fill it out correctly.
-</thinking>
-
 # Smart Locker Device Order Form - Help Guide
 ## Purpose
 The Smart Locker Device Order Form is used to collect information from customers for ordering a new smart locker device. It is essential to fill out this form accurately to ensure that your order is processed correctly and efficiently.

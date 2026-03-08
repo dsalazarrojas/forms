@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to volunteer for a non-profit organization. The form is used to determine the suitability of applicants for volunteer positions within the organization. Non-profit organizations often rely on volunteers to help with various tasks and projects, and this form helps them to assess the skills and availability of potential volunteers. By filling out this form, applicants can increase their chances of being selected for volunteer opportunities.
-
-To ensure that the form is filled out correctly, please follow the instructions below.
-
-This form is designed to be completed in several sections. Please make sure to fill out each section thoroughly and accurately.
-
-</thinking>
-
 # Volunteer Application Form For Non Profit - Help Guide
 ## Purpose
 The purpose of this form is to gather information from potential volunteers to help the non-profit organization determine their suitability for volunteer positions.

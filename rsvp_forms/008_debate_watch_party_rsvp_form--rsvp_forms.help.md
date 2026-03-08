@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Debate Watch Party RSVP Form - Help Guide
 ## Purpose
 This form is designed to help us track who will be attending a Debate Watch Party. Please fill out this form to let us know if you plan to join us and if you've invited others. Your input will help us get a headcount for snacks and other party planning.

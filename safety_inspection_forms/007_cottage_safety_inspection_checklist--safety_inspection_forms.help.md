@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to conduct a safety inspection of a cottage, ensuring all necessary safety measures are in place to prevent accidents and ensure a safe environment for occupants. This form is a checklist-style inspection that covers various aspects of safety, including electrical, fire safety, emergency exits, and emergency equipment. The form is designed to be used by authorized personnel to quickly and efficiently assess the safety status of a cottage.
-
-Before starting this form, ensure you have a clear understanding of the cottage's safety requirements and regulations. This form should only be used for cottages that are subject to such inspection, and the results will be used to identify areas of concern that need to be addressed.
-
-To ensure accuracy and consistency, it is recommended to use the same criteria to evaluate each cottage, using this form as a standardized guide. This form is not a substitute for a comprehensive risk assessment or a detailed safety inspection, but rather a quick and efficient tool to identify areas that require further evaluation.
-
-This form should only be completed by authorized personnel, and the results should be kept confidential. The information collected will be used to improve safety within the cottage and to identify areas that require additional support or training.
-
-Please review the form carefully and ensure all sections are completed accurately before submitting. If you have any questions or concerns, please contact the relevant authorities or safety officers.
-
-</thinking>
-
 # Cottage Safety Inspection Checklist - Help Guide
 ## Purpose
 This guide will walk you through the Cottage Safety Inspection Checklist form, helping you understand its purpose, how to complete it, and what each field means.

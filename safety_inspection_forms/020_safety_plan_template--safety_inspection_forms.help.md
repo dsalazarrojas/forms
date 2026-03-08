@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be a template for creating and tracking safety plans and procedures. It's intended to be used by safety managers or administrators to ensure that all necessary safety equipment, procedures, and checks are in place and up-to-date. This form helps to streamline the process of creating and maintaining safety plans, making it easier to identify and address potential safety risks.
-
-Before starting, please review the following fields and ensure that you're not duplicating existing data. This form should only be used for new safety plans or updates to existing ones.
-
-The following fields are required for the form to be considered complete:
-- Category (Category)
-- Safety Procedures (safety_procedures)
-- Safety Plan Status (safety_plan_status)
-
-</thinking>
-
 # Safety Plan Template - Help Guide
 ## Purpose
 The Safety Plan Template is designed to help create and maintain safety plans and procedures for your workplace. This guide will walk you through each field of the form to help you complete it correctly.

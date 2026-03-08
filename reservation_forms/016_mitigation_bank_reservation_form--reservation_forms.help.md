@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mitigation Bank Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information for reserving a spot in a mitigation bank, which is a protected area or land used to offset environmental impact from a specific development or activity. The form will help you reserve a spot in the mitigation bank and provide essential details about your reservation.

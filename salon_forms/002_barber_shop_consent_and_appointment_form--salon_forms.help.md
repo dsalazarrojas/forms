@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is properly filled out and that users understand the implications of each field to provide an informed consent. This form is for new and existing clients to book an appointment with a barber and provide consent for services. The form should include fields for client's personal and contact information, preferred appointment date and time, service requested, barber preference, and consent for services and photos. We also need to include fields for special requests, reminders, and marketing communications. This form should help us to provide better services to our clients and to ensure that we have all necessary information for their appointments.
-</thinking>
-
 # Barber Shop Consent And Appointment Form - Help Guide
 ## Purpose
 This form is for new and existing clients to book an appointment with a barber and provide consent for services. It collects personal and contact information, appointment preferences, and consent for services and photos.

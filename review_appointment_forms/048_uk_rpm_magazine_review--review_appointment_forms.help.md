@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # uk-rpm-magazine-review - Help Guide
 ## Purpose
 The purpose of this form is to gather reviews from users about their appointment experiences with the RPM (Rapid Prototyping Method) team. This includes feedback about the appointment type, date, time, and overall review of the experience.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect safety inspection data for vehicles during the reversing process. To ensure the form's purpose and scope are understood by the user, the following questions will be asked: 
-Is this form intended to be used for a specific vehicle or a generic vehicle category?
-Are the reversing checklists and driver information required for every single vehicle inspection, or only for specific vehicles?
-Is the driver information required for every single vehicle inspection?
-Are the vehicle type and reversing checklists required fields?
-</thinking>
-
 # vehicle_reversing_safety_checklist - Help Guide
 ## Purpose
 This form is designed to collect safety inspection data for vehicles during the reversing process. It's intended for specific vehicles, and the driver information is required for every single vehicle inspection.

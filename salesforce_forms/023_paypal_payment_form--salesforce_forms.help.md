@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect payment information from customers. This form is intended to gather details about the customer's payment method and confirm their payment information. It is used to ensure that the customer's payment is processed accurately and securely. Before filling out this form, please ensure that you have reviewed and agree to the payment terms. This form will be used to process payments for our services or products.
-</thinking>
-
 # paypal_payment_form - Help Guide
 ## Purpose
 The paypal_payment_form is used to collect payment information from customers, ensuring accurate and secure payment processing.

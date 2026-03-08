@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from Fashion Buyers who want to preview a specific event or meeting. The purpose of this form is to collect relevant contact details and RSVP information from interested Fashion Buyers. 
-This guide will walk you through the process of completing this form.
-
-</thinking>
 # Fashion Buyer Preview RSVP Form - Help Guide
 ## Purpose
 The Fashion Buyer Preview RSVP Form is used to collect information from Fashion Buyers who want to attend a specific event or meeting. This form will help us understand who will be attending, their contact details, and their availability.

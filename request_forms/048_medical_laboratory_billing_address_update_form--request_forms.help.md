@@ -1,9 +1,3 @@
-<thinking>
-This form is used to update the medical laboratory billing address. The purpose of this form is to allow laboratory staff to update the billing address associated with a medical laboratory. This form is only required for laboratories that have changed their billing address and need to update their information in the system. 
-To ensure accuracy and prevent duplicate submissions, please only submit this form once your changes are complete. Any duplicate submissions will be rejected.
-Please ensure that you have the necessary permissions and authority to make changes to the laboratory's billing address.
-</thinking>
-
 # Medical Laboratory Billing Address Update Form - Help Guide
 ## Purpose
 The Medical Laboratory Billing Address Update Form is used to update the billing address associated with a medical laboratory.

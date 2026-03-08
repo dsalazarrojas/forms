@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is filled out correctly to maintain high-quality standards and ensure customer satisfaction. This is a crucial form for tracking and reporting on the installation of air conditioners (HVAC) and other related equipment. It's essential to fill out this form accurately and thoroughly to avoid any potential issues or miscommunication with the customer. We should double-check each section and field to ensure that we're capturing all necessary information and that the customer understands their responsibility in maintaining and operating the installed equipment. This form should not be filled out if the installation is not yet complete or if there are any outstanding issues that need to be addressed.
-</thinking>
-
 # Air Conditioner (HVAC) Installation Checklist - Help Guide
 ## Purpose
 The purpose of this form is to ensure that all necessary steps are taken during the installation of air conditioners (HVAC) and other related equipment. This form guides the technician through the process of documenting and verifying the installation, including pre-installation inspections, electrical and refrigerant checks, and post-installation testing.

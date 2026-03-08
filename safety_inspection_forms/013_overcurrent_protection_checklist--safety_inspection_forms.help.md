@@ -1,5 +1,3 @@
-<thinking>As we design this form for end-users, let's ensure it's easy to understand and follow. Our primary goal is to create a clear and concise user-facing help guide that communicates the purpose and functionality of the "Overcurrent Protection Checklist" form. The form is intended to collect data on the status of overcurrent protection systems in facilities, ensuring their functionality and reliability. To start, we'll begin by explaining the form's purpose and how to complete it, followed by a detailed field-by-field explanation to clarify any confusion. We'll focus on providing actionable information that will enable users to efficiently fill out the form without unnecessary stress or uncertainty.</thinking>
-
 # Overcurrent protection checklist - Help Guide
 ## Purpose
 The "Overcurrent Protection Checklist" form is designed to help you verify the status of overcurrent protection systems in facilities. This form ensures that critical systems are functioning properly, and provides a quick and easy way to assess their condition.

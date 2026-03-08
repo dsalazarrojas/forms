@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used for guests to RSVP to an art gallery opening event. The form is designed to collect essential information from guests to ensure a smooth and enjoyable experience for all attendees. The form fields are a mix of required and optional fields, which are necessary to collect specific data for event planning and management.
-
-The form will likely be used by art gallery staff to check for duplicate registrations, and will help in organizing events more efficiently. However, this form should not be used for any other purpose. 
-</thinking>
-
 # Art Gallery Opening Guest Registration - Help Guide
 
 ## Purpose

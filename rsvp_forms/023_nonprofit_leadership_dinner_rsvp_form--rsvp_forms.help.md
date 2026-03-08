@@ -1,7 +1,3 @@
-<thinking>
-This form is for RSVPs (Response, Seating, Payment, and other relevant details) for the Nonprofit Leadership Dinner event. The primary purpose is to collect information about guests' attendance, dietary preferences, and any special requests or comments.
-</thinking>
-
 # Nonprofit Leadership Dinner RSVP Form - Help Guide
 ## Purpose
 This form is designed to help us gather important details about your attendance and preferences for the Nonprofit Leadership Dinner event.

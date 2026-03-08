@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect public safety program waiver information from participants. This form is likely used for events or programs that require participants to acknowledge and agree to certain rules or guidelines to ensure their safety. The form likely serves as a waiver, allowing participants to confirm they have read and understood the guidelines and rules set forth. To avoid duplication, users should only fill out the form once, and the "Participant Signature" and "Emergency Contact Signature" fields should only be completed if the respective participant or emergency contact is providing their signature.
-</thinking>
-
 # Public Safety Program Waiver - Help Guide
 ## Purpose
 The Public Safety Program Waiver form is used to collect information from participants about their safety and emergency contact information. This form ensures that participants are aware of and agree to the safety guidelines and rules for the program or event.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about on-site risk reviews, hazard identifications, risk levels, risk assessments, risk control measures, and recommendations related to fire safety hazards. This form is designed to be completed by individuals responsible for maintaining fire safety in a specific location, such as facilities managers or safety officers. The form is not intended to be a comprehensive assessment of all fire safety risks, but rather a quick and targeted evaluation of identified hazards. It's essential to ensure that the completed form is relevant to the specific location and situation, and that the responses are not duplicative. Review the form carefully before starting to ensure that you're completing it for the correct purpose and not duplicating efforts already done. If you've completed this form before for the same location or situation, do not complete it again.
-
-</thinking>
-
 # Fire Safety Hazard Assessment - Help Guide
 ## Purpose
 

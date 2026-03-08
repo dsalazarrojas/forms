@@ -1,11 +1,3 @@
-<thinking>... internal reasoning to ensure form purpose and non-duplication...
-
-The form purpose is to gather essential information for a party invitation, including party details, attendee name, date, time, location, description, expected number of guests, and contact phone number. This form is likely used for events or get-togethers where hosts want to share basic information with invitees.
-
-To avoid duplication, it's essential to review the form's fields and ensure they cover all necessary aspects of party planning. The form appears to be a straightforward and minimalistic collection of party details...
-
-</thinking>
-
 # party_invitation_form - Help Guide
 ## Purpose
 This form is designed to collect essential information for a party invitation. It helps hosts share details with invitees, making it easier for them to prepare and attend the event.

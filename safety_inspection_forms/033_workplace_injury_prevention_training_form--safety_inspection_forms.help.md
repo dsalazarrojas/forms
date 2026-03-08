@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Injury Prevention Training Form - Help Guide
 
 ## Purpose

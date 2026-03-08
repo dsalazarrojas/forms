@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal note:** This form is designed for reserving a spot at the infamous Haunted Mansion, a popular tourist destination known for its spooky atmosphere and haunted history. The form's purpose is to collect visitor information to ensure a seamless and enjoyable experience. Ensure you fill in the correct information to avoid any inconveniences or misunderstandings. This form is used by the Haunted Mansion's staff to process reservations. Please fill in all required fields accurately to avoid delays in your visit.
-
-</thinking>
-
 # haunted_mansion_reservation_form - Help Guide
 ## Purpose
 The Haunted Mansion Reservation Form is a web-based form used to book a spot at the Haunted Mansion, a popular tourist destination. This form collects visitor information to ensure a smooth experience for all guests.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Door Collection Request Form - Help Guide
 ## Purpose
 This form is used to request the collection of a door from a customer. The form is designed to gather information about the customer, including their name, email, phone number, address, and pickup details. This information will be used to process the door collection request efficiently and accurately.

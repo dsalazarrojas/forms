@@ -1,7 +1,3 @@
-<thinking>
-This form is used for a business-to-business (B2B) return and replacement policy to handle returns from a vendor or supplier. It ensures that the customer provides the necessary details about the return, including customer and product information, to facilitate a smooth return process. This form is a multi-page form that guides the customer through providing all the relevant information for the return process. It is crucial that this form is filled out completely and accurately to avoid any delays or issues during the return process. Please ensure that you have all the necessary information before filling out this form, and that you have not previously submitted a return request for this order.
-</thinking>
-
 # Return To Vendor Form - Help Guide
 ## Purpose
 The Return To Vendor Form is used to provide a structured way for customers to initiate a return for a product purchased from a vendor or supplier. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is a Custom T Shirt Order Form Template designed to collect relevant information from customers for a t-shirt order. Its purpose is to gather specific details about the customer, their order, and order details. Before proceeding, ensure that you are not duplicating this form. If you are unsure, please check with your internal team or refer to the original template creation date and author.
-</thinking>
-
 # Custom T Shirt Order Form Template - Help Guide
 ## Purpose
 The Custom T Shirt Order Form Template is designed to gather essential information from customers for a t-shirt order.

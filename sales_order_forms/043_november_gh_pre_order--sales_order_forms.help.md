@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide pre-order information for a November sale. The form is designed to collect relevant details that will be used to process the order. It's crucial that customers fill out the form accurately to ensure their order is processed correctly.
-</thinking>
-
 # november_gh_pre_order - Help Guide
 ## Purpose
 The November GH Pre-Order form is designed for customers to provide pre-order information for a sale that will take place in November. This form collects essential details that will be used to process the order correctly.

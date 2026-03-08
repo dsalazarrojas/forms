@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information related to sales orders for heat recovery equipment, likely for commercial or industrial settings. The form likely serves as a template for sales teams to collect essential details from customers, such as delivery information, contact details, and project-specific data. This form may be part of a larger sales process, and the goal is to ensure accurate and complete information is collected to facilitate successful order fulfillment.
-</thinking>
-
 # Heat Recovery Equipment Order Form - Help Guide
 ## Purpose
 This form is used to collect information for sales orders of heat recovery equipment. It's essential to complete this form accurately to ensure the correct equipment is ordered and delivered to the customer's site.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for virtual table reservations, allowing users to provide details such as reservation dates, table numbers, guest counts, reservation times, reservation notes, guest email, guest phone numbers, assignment status, and tool assignment status. The form should be filled out for each virtual table reservation, ensuring that all relevant information is provided to the relevant staff member. The form will not be duplicated or repeated, and each field should only be filled out once for each reservation.
-
-</thinking>
-
 # virtual_table_reservation_form - Help Guide
 ## Purpose
 This form is used to collect information for virtual table reservations.

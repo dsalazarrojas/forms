@@ -41,19 +41,6 @@ To complete this form, follow these steps:
 * **RSVP Status 6**: Confirm the RSVP status (Confirmed or Not Attending) for guest 6.
 * **RSVP Status 7**: Confirm the RSVP status (Confirmed or Not Attending) for guest 7.
 
-<thinking>
-The purpose of this form is to collect RSVP information for multiple guests, including their menu preferences, contact details, and attendance status. It is assumed that each guest has a unique set of preferences and contact information.
-
-This form is designed to be completed by the main guest of honor, who will be responsible for collecting and entering the information for all their guests.
-
-The form is divided into multiple sections, each representing a different guest. The main course and dessert menu selection options are provided for each guest, and the guest count and contact information for each guest must be entered.
-
-The RSVP status for each guest must be confirmed by selecting either "Confirmed" or "Not Attending" from the provided options.
-
-The form also includes additional comments fields for each guest, where any additional information can be entered.
-
-</thinking>
-
 ## Tips
 * Please enter accurate and complete information for each guest to ensure that we can plan for their menu and attendance.
 * If you are unsure about any information, please contact the wedding party to clarify.

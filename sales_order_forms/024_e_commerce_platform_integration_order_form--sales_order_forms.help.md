@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for integration with an e-commerce platform, and it collects various information about an order. The form is likely used by sales teams or customer service representatives to record and process orders. The fields in this form seem to cover a wide range of order-related details, from customer and order information to payment and shipping details.
-
-Before creating this guide, I've reviewed the form structure and fields to ensure it is a comprehensive guide. I'll cover each field and provide clear explanations for the end user.
-
-</thinking>
-
 # e_commerce_platform_integration_order_form - Help Guide
 ## Purpose
 This form is used for integration with an e-commerce platform to record and process orders. It collects various information about the order, customer, and payment details.

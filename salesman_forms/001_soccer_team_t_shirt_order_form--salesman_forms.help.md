@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for salesmen to collect information for a soccer team's t-shirt order. The form is intended to capture the contact details and payment information from customers who want to place an order. The purpose of the form is to streamline the process of taking orders for the soccer team's t-shirts. The following guide explains how to complete the form in a step-by-step manner.
-</thinking>
-
 # Soccer Team T Shirt Order Form - Help Guide
 ## Purpose
 The Soccer Team T Shirt Order Form is a sales tool for the soccer team to collect orders and payment details from customers.

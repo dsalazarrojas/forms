@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from attendees and volunteers for a campaign rally. It is designed to collect data about who is attending, their contact information, and their interests in volunteering. The form will help the campaign organizers understand the number of attendees, their preferences, and their volunteer availability. This information will aid in organizing the event and ensuring that everyone has an enjoyable and accessible experience.
-</thinking>
-
 # Campaign Rally RSVP Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees and volunteers for a campaign rally. It is used to gather data on who is attending, their contact information, and their interests in volunteering.

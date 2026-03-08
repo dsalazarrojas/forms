@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help event organizers and staff efficiently manage VIP event reservations by collecting relevant guest information in one centralized location. This form ensures that all required fields are filled out correctly, reducing errors and ensuring that events run smoothly.
-</thinking>
-
 # vip_event_table_reservation - Help Guide
 ## Purpose
 The **VIP Event Table Reservation Form** is a centralized platform for event organizers to collect essential information from guests, allowing them to efficiently manage VIP event reservations.

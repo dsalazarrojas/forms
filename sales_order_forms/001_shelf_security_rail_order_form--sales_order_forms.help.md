@@ -1,11 +1,3 @@
-<thinking>
-**Form Purpose:** This form is designed to capture important details for orders related to shelf security rails, likely for a retail or inventory management context.
-**Internal Reasoning Check:**
-* The form does not seem to be duplicating any existing forms on our platform.
-* The form's purpose aligns with a sales order form, but it's focused on specific "shelf security rail" context.
-* The fields suggest capturing order, shipping, payment, customer, and contact information.
-</thinking>
-
 # Shelf Security Rail Order Form - Help Guide
 ## Purpose
 This form is designed for capturing order details related to shelf security rails, including shipping and payment information for your order.

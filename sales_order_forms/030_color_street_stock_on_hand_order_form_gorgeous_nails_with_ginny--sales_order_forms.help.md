@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a stock on hand order with Ginny, likely for a business or personal order fulfillment service. The form is likely used in a B2B or B2C setting. The form has sections for customer information (name, email, shipping address, and phone number), stock selection, payment and shipping details, and additional comments. This form is likely used by a business owner or sales team to collect and process orders.
-
-</thinking>
-
 # Color Street Stock On Hand Order Form - Gorgeous Nails With Ginny - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a stock on hand order with Ginny, for a business or personal order fulfillment service.

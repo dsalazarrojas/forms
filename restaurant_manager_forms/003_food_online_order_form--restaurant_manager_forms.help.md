@@ -1,7 +1,3 @@
-<thinking>
-This form is for food online order processing. It's meant to gather information from customers about their meal preferences and delivery details. Please make sure to fill out this form correctly to ensure accurate order processing. This form is a part of our restaurant's online ordering system and is only meant for customers placing orders online. Please do not submit this form if you are a restaurant employee or trying to test the system. If you're unsure about any field, please refer to the field explanation below.
-</thinking>
-
 # Food Online Order Form - Help Guide
 ## Purpose
 The Food Online Order Form is a tool for customers to place orders online. It collects information about the customer's meal preferences and delivery details to ensure accurate order processing.

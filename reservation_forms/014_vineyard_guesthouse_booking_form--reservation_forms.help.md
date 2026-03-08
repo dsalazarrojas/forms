@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive help guide for the Vineyard Guesthouse Booking Form. The form's purpose is to gather information from users for booking purposes, including date and time of check-in and check-out, number of guests and rooms, payment method, and any special requests. This form is essential for the administration team to process booking requests efficiently and effectively.</thinking>
-
 # Vineyard Guesthouse Booking Form - Help Guide
 ## Purpose
 The Vineyard Guesthouse Booking Form is designed to collect essential information from guests for their stay at the vineyard guesthouse. This form helps our administration team to process booking requests and tailor their service to meet your specific needs.

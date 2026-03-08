@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "outreach_date_confirmation_form", is used for confirming event dates with attendees. It's designed to be completed by both event organizers and attendees to ensure that everyone is on the same page. The form should only be filled out once for each event, and the data will be stored for future reference. Please ensure that you're filling out the correct event ID and date to avoid duplication of effort.
-
-</thinking>
-
 # outreach_date_confirmation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect and confirm event dates with attendees.

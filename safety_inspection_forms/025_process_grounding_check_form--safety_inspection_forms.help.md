@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to aid safety inspectors in conducting a thorough grounding check on electrical systems and equipment in facilities. The form is meant to ensure that all necessary steps are taken to guarantee the safe grounding of electrical systems and equipment, reducing the risk of electrical shock and other safety hazards. This form should be used by safety inspectors to document their findings and provide a record of the inspection process.
-
-Before starting the inspection, please ensure that you are not duplicating a previous inspection and that you have the necessary permissions and qualifications to conduct the inspection.
-
-</thinking>
-
 # Process Grounding Check Form - Help Guide
 ## Purpose
 The Process Grounding Check Form is a safety inspection tool designed to help safety inspectors ensure that electrical systems and equipment are properly grounded to prevent electrical shock and other safety hazards. This form provides a structured approach to documenting the inspection process and identifying any issues that need to be addressed.

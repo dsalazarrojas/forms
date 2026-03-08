@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from customers or users for the purpose of placing orders for factory energy monitoring gateway systems. The form will be used to gather details such as company name, contact person, email, phone number, address, date, time, product preferences, and other relevant information that will enable the sales team to process the order efficiently. 
-
-The form includes fields for selecting multiple options, which is likely intended to allow the user to choose from a list of available options or products.
-
-Before proceeding, please ensure that you have reviewed and understood the form fields and their requirements. If you have any doubts or concerns, please contact the sales team for assistance.
-</thinking>
-
 # Factory Energy Monitoring Gateway Order Form - Help Guide
 ## Purpose
 The Factory Energy Monitoring Gateway Order Form is a sales order form designed to collect information from customers or users for placing orders for factory energy monitoring gateway systems.

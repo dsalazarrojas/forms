@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for reviewing project progress in a structured manner, typically used during project meetings or check-ins. The form is intended for project managers or reviewers to assess the status of a project, discuss any issues or concerns, and determine the next course of action. It is usually filled out by the project manager or reviewer, but can also be used by other team members or stakeholders.
-
-To ensure accurate and comprehensive information, please review this form carefully before submitting it.
-
-This form is meant to be completed in a specific order, as each section builds upon the previous one. Make sure to provide clear and concise answers to help facilitate the review process.
-
-Before filling out the form, ensure that you have the necessary information and permissions to complete it accurately.
-
-Please note that this form is designed to be used in conjunction with other relevant documentation and records.
-
-</thinking>
-
 # Project Progress Review Appointment Form Template - Help Guide
 ## Purpose
 The purpose of this form is to facilitate a structured project progress review, enabling project managers or reviewers to assess, discuss, and document project status, issues, and next steps.

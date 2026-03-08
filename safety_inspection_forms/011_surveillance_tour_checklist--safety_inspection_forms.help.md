@@ -1,7 +1,3 @@
-<thinking>
-The Surveillance Tour Checklist form is designed to capture information about a patrol or inspection tour. The form is used to record details about the tour, including patrol details, date and time, officer name, officer ID, and checklists of checkpoints and incidents. The form's purpose is to ensure that all necessary information is recorded and reported in a standardized format.
-</thinking>
-
 # Surveillance Tour Checklist - Help Guide
 ## Purpose
 

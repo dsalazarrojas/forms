@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Automated Order Routing Pilot Application Form - Help Guide
 
 ## Purpose

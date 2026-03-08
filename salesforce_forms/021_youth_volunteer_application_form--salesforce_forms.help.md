@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from potential youth volunteers about their application to volunteer for a specific youth organization. This form aims to collect personal details such as name, contact information, and availability. It also asks about their willingness to volunteer, the role they'd like to take on, and other specific details like start and end dates of volunteering. It's essential to fill out this form accurately and completely to ensure that the organization can match the volunteer's skills and availability with the right opportunities.
-
-Before proceeding, ensure that you're not applying for this volunteer position for someone else, and that you've not already applied for this role in the past. This form is designed to collect new, unique applications.
-
-</thinking>
-
 # Youth Volunteer Application Form - Help Guide
 ## Purpose
 

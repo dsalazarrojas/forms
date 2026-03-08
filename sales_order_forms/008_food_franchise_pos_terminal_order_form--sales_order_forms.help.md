@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be a digital representation of a sales order form used in a food franchise point-of-sale (POS) terminal. This form will likely be used by employees of the franchise to take orders from customers in a retail setting. The form is designed to be completed by the terminal operator, and it will collect information about the sale, including terminal details, order information, customer information, shipping details, payment information, and any additional order notes.
-
-This form may be used in conjunction with other systems, such as inventory management or customer relationship management (CRM) systems, to streamline sales processing and customer data collection.
-
-Please note that this form does not seem to have any conditional logic or dependencies between its pages, which means that each field is standalone and will be filled out independently.
-
-</thinking>
-
 # Food Franchise POS Terminal Order Form - Help Guide
 ## Purpose
 This form is a digital sales order form used in a food franchise point-of-sale terminal. It is designed to be completed by the terminal operator to collect information about sales, including terminal details, customer information, and payment information.

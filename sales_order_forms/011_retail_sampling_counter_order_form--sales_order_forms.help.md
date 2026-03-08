@@ -1,8 +1,3 @@
-<thinking>
-This form is a general-purpose form for capturing information related to retail sampling counter orders. It is likely used in a retail setting to collect details about products, customers, and order requests. The fields included in this form seem to be a mix of general contact information, order specifics, and request details. I will create a user-facing help guide that assumes the purpose of this form is for retail sampling orders, and the fields are self-explanatory.
-
-</thinking>
-
 # Retail Sampling Counter Order Form - Help Guide
 ## Purpose
 The Retail Sampling Counter Order Form is used to capture details about retail sampling counter orders, including customer information, product selection, and order requests.

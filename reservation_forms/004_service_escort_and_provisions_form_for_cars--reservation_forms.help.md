@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about cars requiring service and provisions. The purpose of this form is to collect data from users to provide services and provisions for their vehicles. It is crucial to ensure that the information is accurate and up-to-date to avoid any confusion or miscommunication. To prevent duplication, please ensure that you are not submitting this form multiple times for the same purpose.
-</thinking>
-
 # Service Escort And Provisions Form For Cars - Help Guide
 ## Purpose
 This form is designed to collect information from users about their cars that require service and provisions.

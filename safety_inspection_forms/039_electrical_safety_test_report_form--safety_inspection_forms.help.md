@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Electrical Safety Test Report Form", we need to consider the purpose of the form, which appears to be for inspectors to document the results of an electrical safety test on a system. This form is likely used to track and report on the condition of electrical systems, including whether a system is properly rated, whether it passed or failed inspections, and what corrective actions were taken if needed. This form may be used by safety personnel or engineers to ensure that electrical systems are functioning within safety guidelines.
-</thinking>
-
 # Electrical Safety Test Report Form - Help Guide
 ## Purpose
 This form is designed to record the results of an electrical safety test on a system. It's used to document the test date, the inspector's name, and the system's details. The form helps ensure that electrical systems are safe and functioning correctly.

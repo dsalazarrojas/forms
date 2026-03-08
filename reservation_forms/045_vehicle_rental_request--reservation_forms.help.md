@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to create a vehicle rental request. It is used to capture information related to the reservation date, pick up and drop off information, type of vehicle, and other relevant details.
-
-This form is a basic form designed to gather essential information from users, and it is not intended to be a comprehensive vehicle rental agreement or contract.
-
-Before proceeding, ensure that you are familiar with the information required in the form and the type of vehicle being rented. The form's fields should not be duplicated or submitted in error, as it may lead to confusion or incorrect vehicle rental arrangements.
-
-</thinking>
-
 # vehicle_rental_request - Help Guide
 ## Purpose
 This form is used to request a vehicle rental for a specific period.

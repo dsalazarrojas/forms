@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for indoor green space requests. The purpose of this form is to gather details about the purpose of the event, date, time, location, and other relevant information to facilitate the planning and management of indoor green space reservations. This form will help ensure that all necessary information is provided and reduce duplication of effort when making requests.
-</thinking>
-
 # indoor-green-space-request-form - Help Guide
 ## Purpose
 The indoor green space request form is used to collect information for indoor green space requests. This includes details about the purpose of the event, date, time, location, and other relevant information to facilitate planning and management of indoor green space reservations.

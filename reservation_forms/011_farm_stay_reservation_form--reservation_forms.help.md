@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a reservation form for a farm stay, which could be a type of accommodation or lodging on a farm or rural setting. The form might be used by guests or travelers to book a stay on a farm, potentially for leisure or business purposes. To confirm, the form does not seem to be a duplicate of any known forms within the company, and it is likely designed for a specific business or operational use case.
-
-Based on the provided YAML, the form is likely used for booking and reserving accommodations on a farm, allowing users to input their personal and reservation details. To avoid any potential confusion, it's essential to break down the form into smaller, actionable steps, explaining each field's purpose and requirement clearly.
-
-</thinking>
-
 # Farm Stay Reservation Form - Help Guide
 
 ## Purpose

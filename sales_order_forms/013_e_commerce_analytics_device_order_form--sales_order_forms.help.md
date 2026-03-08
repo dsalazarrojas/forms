@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect E-commerce analytics data for tracking sales orders. The purpose of this form is to capture key information about customers, orders, shipping methods, and payment methods. This data will help the company to analyze sales trends, optimize marketing strategies, and improve customer satisfaction.
-The form is designed to be used for data collection and analysis purposes only, and all collected data will be stored and managed internally. The information collected through this form will not be shared with any third-party services.
-Please ensure that you are filling out this form for legitimate business purposes and not for personal use. If you have any questions or concerns, please contact your administrator before proceeding.
-</thinking>
-
 # E Commerce Analytics Device Order Form - Help Guide
 ## Purpose
 This form is designed to collect E-commerce analytics data for tracking sales orders. The collected data includes customer information, order details, shipping methods, and payment methods.

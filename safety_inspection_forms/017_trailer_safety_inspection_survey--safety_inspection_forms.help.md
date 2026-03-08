@@ -1,5 +1,3 @@
-<thinking>...Checking the provided YAML fields for relevance and avoiding duplication of effort. This form, "Trailer Safety Inspection Survey," appears to be designed for inspecting trailers for safety, covering various aspects such as identification, condition, equipment, and maintenance. The form's structure suggests it's a comprehensive inspection tool for trailers. I'll proceed to create a user-facing help guide based on this information...</thinking>
-
 # Trailer Safety Inspection Survey - Help Guide
 ## Purpose
 The Trailer Safety Inspection Survey is a tool used to inspect trailers for their overall safety and condition. This form helps identify potential issues and ensures that trailers are in a safe state for use.

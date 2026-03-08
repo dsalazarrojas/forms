@@ -1,11 +1,3 @@
-<thinking> 
-The purpose of this form is to provide a comprehensive checklist for restaurant managers to evaluate the status of various aspects of kitchen operations, including cleaning, equipment, staff, supplies, waste management, and safety protocols. This form will help them identify areas that need attention and ensure that kitchen operations are running smoothly and efficiently.
-
-The form will be used to assess the availability, non-availability, or partial availability of various kitchen resources and operations, such as cleaning, equipment, staff, and supplies. The form will help restaurant managers to identify potential issues and prioritize tasks accordingly.
-
-This form will be used for internal purposes only, and the information collected will be used for operational planning and management.
-
-</thinking>
 # Kitchen Operations Checklist - Help Guide
 ## Purpose
 This form is designed to provide a comprehensive checklist for restaurant managers to evaluate the status of various aspects of kitchen operations.

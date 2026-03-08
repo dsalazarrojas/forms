@@ -1,7 +1,3 @@
-<thinking>
-This is a form for restaurant managers to configure the display settings for a digital menu screen. It's crucial to understand that this form has three fields to accommodate different types of orders: 'dinein', 'pickup', and 'delivery'. Each field is a dropdown menu with 'Yes' and 'No' options. To determine which settings to display, the manager should answer these three questions with their preferred settings for dine-in, pickup, and delivery orders. This form should not be filled out if the restaurant does not offer any of these services. Please ensure that you have reviewed the restaurant's operational policies and procedures before completing this form.
-</thinking>
-
 # Digital Menu Screen Order Form - Help Guide
 ## Purpose
 

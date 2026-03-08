@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to register a machine's safety evaluation status. It's a crucial process to ensure that machines are regularly assessed for potential hazards and risks, allowing for prompt corrective actions to be taken when necessary. Before completing this form, please check that you have not previously registered this machine's safety evaluation status. This will prevent duplicate entries and maintain a clear and accurate record of safety evaluations.
-
-</thinking>
-
 # Machine Safety Evaluation Registration - Help Guide
 ## Purpose
 This form is used to document a machine's safety evaluation status, enabling ongoing risk assessment and corrective actions to be taken.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Conference Reservation Form - Help Guide
 
 ## Purpose

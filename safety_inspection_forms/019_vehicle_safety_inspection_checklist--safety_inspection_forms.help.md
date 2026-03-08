@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to facilitate a comprehensive vehicle safety inspection. It is likely used by fleet managers, safety officers, or other personnel responsible for ensuring vehicles are in good condition for safe operation. This form should only be filled out for a single vehicle, and its purpose is to gather information about the vehicle's condition, safety status, and other relevant details. 
-Please ensure that each vehicle has its own unique entry in this form to avoid duplication and misattribution of data. If you need to inspect multiple vehicles, please use this form multiple times, once for each vehicle.
-</thinking>
-
 # vehicle_safety_inspection_checklist - Help Guide
 ## Purpose
 The vehicle_safety_inspection_checklist form is used to document the safety inspection of a vehicle. It captures details about the vehicle's condition, safety status, and other relevant information.

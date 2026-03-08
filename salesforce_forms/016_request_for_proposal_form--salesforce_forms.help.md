@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about a project proposal, including project details, manager information, and other relevant data. The form should only be filled out if there is a genuine interest in creating a new proposal or if the project has been already created and the user wants to update or add information. Please do not fill out this form if the project is not relevant or has already been created.
-
-</thinking>
-
 # Request For Proposal Form - Help Guide
 ## Purpose
 This form is designed to collect information about project proposals, including project details, manager information, and other relevant data.

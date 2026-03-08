@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to RSVP to sailing club events and provide additional information about their attendance. The form can be used to track attendance for different types of sailing events, such as regattas, training sessions, or casual meetups. This form is not intended to be used for other purposes.
-</thinking>
-
 # sailing_club_regatta_attendance_form - Help Guide
 ## Purpose
 The sailing_club_regatta_attendance_form is a tool for sailing club members to RSVP to regatta events and provide additional information about their attendance.

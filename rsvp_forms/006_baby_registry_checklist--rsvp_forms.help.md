@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I will follow the provided structure and explain each field in a concise and practical way. I will also provide a brief internal reasoning block to highlight the form's purpose and potential areas to consider during the design process.
-
-**Internal Reasoning Block:**
-
-This form is designed to gather information from guests about their attendance and gift selection for a baby shower. The form is intended to be completed by guests who are attending or not attending the shower, and to allow them to select a gift category and specific item to purchase as a gift for the parents-to-be. The form also includes an optional field for guests to leave a message for the parents-to-be and to specify any dietary requirements they may have.
-
-</thinking>
-
 # Baby Registry Checklist - Help Guide
 ## Purpose
 The Baby Registry Checklist form is designed to help guests RSVP to a baby shower and select a gift for the parents-to-be. It consists of several fields that allow guests to provide their attendance status, select a gift category, and specify the gift they have chosen or want to purchase.

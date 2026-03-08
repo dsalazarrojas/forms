@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from senior citizens to RSVP for a lunch event. The form is not meant to collect sensitive personal data but rather to gather basic contact information and RSVP preferences. The form is not meant to be a comprehensive contact form, but rather a simple RSVP form that helps the organizers of the event know who is coming and when. This form is only meant for senior citizens, so please only fill out this form if you are a senior citizen attending the event. We will not be collecting any sensitive information such as social security numbers or credit card numbers. We will only be using the information collected for this event to ensure that we can accommodate your needs and preferences. We will not be sharing your information with anyone outside of the event organizers. Please review the fields below to ensure you understand what information is being collected.
-</thinking>
-
 # Senior Citizen Appreciation Lunch RSVP Form - Help Guide
 ## Purpose
 The Senior Citizen Appreciation Lunch RSVP Form is a form designed to collect information from senior citizens attending a special lunch event. This form is meant to be filled out by senior citizens who want to attend the lunch event and provide basic contact information and RSVP preferences. The information collected will be used solely for the purpose of accommodating the attendee's needs and preferences at the event.

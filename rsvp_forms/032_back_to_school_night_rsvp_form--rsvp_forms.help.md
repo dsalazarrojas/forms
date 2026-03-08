@@ -1,6 +1,3 @@
-<thinking>Internal reasoning:
-This form is used to collect information from parents or guardians about their attendance and preferences for the Back To School Night event. The form helps the school administration to gauge the number of attendees and to tailor the event to the needs of the students. The form also collects demographic information about the students and their families which helps to provide more effective support services. The school uses this form to reduce duplication of effort and improve the overall efficiency of the event planning process.</thinking>
-
 # Back To School Night RSVP Form - Help Guide
 ## Purpose
 The Back To School Night RSVP Form is used to collect information from parents or guardians about their attendance and preferences for the Back To School Night event. This form helps the school administration to gauge the number of attendees and to tailor the event to the needs of students and their families.

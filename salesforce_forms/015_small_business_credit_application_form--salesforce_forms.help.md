@@ -1,11 +1,3 @@
-<thinking>
-
-The form "small_business_credit_application_form" is designed to collect information from small business owners applying for a loan. The form is used to gather data about the business's details, financials, and owner's contact information. This form is likely used by a financial institution or a lending company to assess the creditworthiness of the business and make decisions about loan approval or denial.
-
-Before filling out this form, ensure you have all the necessary information about your small business, as the fields may require specific details. If you are unsure about any field, it is recommended to consult with a financial advisor or a representative from the institution.
-
-</thinking>
-
 # small_business_credit_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from small business owners applying for a loan.

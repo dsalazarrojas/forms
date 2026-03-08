@@ -1,8 +1,3 @@
-<thinking>
-We will design a user-facing help guide for a form called "Sales Agent Accreditation Application". 
-The form is used to gather information from sales agents to apply for accreditation. The form is divided into several sections that ask for different types of information, including contact details, agency information, and managerial details.
-</thinking>
-
 # Sales Agent Accreditation Application - Help Guide
 ## Purpose
 The Sales Agent Accreditation Application form is used to submit an application for sales agent accreditation. This form helps us to gather essential information from the sales agent and their agency to evaluate their application.

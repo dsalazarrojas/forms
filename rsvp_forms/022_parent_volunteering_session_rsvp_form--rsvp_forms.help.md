@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for parents to RSVP to volunteer their child's session. The primary purpose of the form is to collect information about the parent's availability to volunteer and their preferences for session details. This form is required to be completed by all parents who wish to volunteer and is not intended for non-parents. The submission of this form will help the session organizers to manage volunteer schedules and assignments. 
-</thinking>
-
 # Parent Volunteering Session RSVP Form - Help Guide
 ## Purpose
 The Parent Volunteering Session RSVP Form is a tool used by parents to volunteer their child's session.

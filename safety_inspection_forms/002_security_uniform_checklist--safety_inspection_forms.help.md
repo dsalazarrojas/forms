@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information related to security uniform checklists, which are essential for ensuring the safety and security of facilities, personnel, and equipment. To prevent duplication and ensure relevance, the form should be filled out only when necessary, and the answers should be accurate and up-to-date.
-</thinking>
-
 # Security Uniform Checklist - Help Guide
 ## Purpose
 The purpose of this form is to gather information related to security uniform checklists. It is essential for ensuring the safety and security of facilities, personnel, and equipment.

@@ -1,7 +1,3 @@
-<thinking>
-We're designing a form for customers to book fishing charters. This form will likely be used by the fishing charters service team to gather information from customers about their trip preferences. To ensure the form is completed correctly, it's essential that each field is filled out with accurate and relevant information.
-</thinking>
-
 # Fishing Charters Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their fishing charter preferences, including their contact information, trip details, and other relevant booking details.

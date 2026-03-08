@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from farmers and market-goers about their plans to attend an event at the farmers' market. The purpose of this form is to help event organizers track RSVPs and gather insights on attendance. This form does not have any specific business logic that requires additional validation or calculation, so the field explanations will be kept concise and straightforward.
-</thinking>
-
 # Farmers' Market Event RSVP Form - Help Guide
 ## Purpose
 The Farmers' Market Event RSVP Form is a tool to help event organizers track attendance and gather insights on event attendance.

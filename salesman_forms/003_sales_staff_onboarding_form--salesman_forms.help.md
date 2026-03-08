@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from sales staff members during onboarding process. This form helps to collect necessary details about the staff members, including their personal contact information, sales role, regions they operate in, and their sales manager's details. This information will help us to better understand who our sales staff members are, what they do, and who their manager is. Please make sure you fill in the form accurately and completely. 
-Ensure that you select the correct options for your roles and regions. Also, note that some fields are optional, but providing accurate and complete information will help us to serve you better.
-</thinking>
-
 # Sales Staff Onboarding Form - Help Guide
 ## Purpose
 The Sales Staff Onboarding Form is used to gather essential information about new sales staff members. This information helps us to understand their roles, regions, and manager's details, which is crucial for effective team management and sales performance tracking.

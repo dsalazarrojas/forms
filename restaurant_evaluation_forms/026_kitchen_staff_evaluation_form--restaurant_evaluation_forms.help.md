@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kitchen Staff Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of kitchen staff in a restaurant. It is meant to gather feedback from supervisors on staff members' work habits, skills, and overall performance. The form is designed to be completed by supervisors to provide constructive feedback and help kitchen staff improve their work.

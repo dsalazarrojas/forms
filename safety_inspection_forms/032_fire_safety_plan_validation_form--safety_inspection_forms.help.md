@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help validate fire safety plans for facilities. It's essential to follow this guide to ensure accurate and efficient completion. Make sure to review each field carefully to avoid duplication or missing information. This form is not intended to be a comprehensive fire safety plan, but rather a supplement to existing procedures. If you're unsure about a specific field, please consult your local fire safety authorities or experts.
-</thinking>
-
 # Fire Safety Plan Validation Form - Help Guide
 ## Purpose
 The Fire Safety Plan Validation Form is a tool used to validate fire safety plans for facilities. This form is designed to gather essential information to assess fire safety risks and ensure compliance with local regulations.

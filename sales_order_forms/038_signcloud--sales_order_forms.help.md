@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "SignCloud" form, which is a sales order form. The form is used to gather information about the customer's upload process. We want to ensure that end-users understand the purpose of the form and how to complete it correctly. Let's review the YAML fields to create a comprehensive guide.
-</thinking>
-
 # SignCloud - Help Guide
 ## Purpose
 The SignCloud form is used to collect information about the customer's upload process, including the date of purchase, time of upload, customer contact details, and upload type options. This form helps us to efficiently process and analyze the upload data.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect registration information from returning participants in the musicMates program. It's meant for participants who have already been part of the program in the past. The form will help staff to gather necessary details for returning participants, ensuring their previous experience and any relevant information are taken into account. This form is likely to be used for administrative purposes, and the collected data will be used to update the participant's profile.
-
-This form should not be used for new participant registrations. If you're a new participant, please use the new participant registration form instead. 
-
-</thinking>
-
 # musicMates_Returning_participant_registration_form_september_december_2019 - Help Guide
 ## Purpose
 The musicMates_Returning_participant_registration_form_september_december_2019 is a registration form designed to collect information from returning participants in the musicMates program. It is used to gather necessary details for administrative purposes, ensuring their previous experience and any relevant information are taken into account.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will assist users in understanding the purpose and structure of the "Car Launch Event RSVP" form, ensuring they complete it correctly and effectively. The form is designed to collect information from guests and attendees for a car launch event, allowing them to provide their details, preferences, and requirements. It's essential to note that the form is divided into sections, making it easier to navigate and reducing the risk of duplication or incorrect completion.
-</thinking>
-
 # Car Launch Event RSVP - Help Guide
 ## Purpose
 The Car Launch Event RSVP form is a crucial tool for guests and attendees to provide their details and preferences for the upcoming car launch event. By completing this form, you'll help us better plan and prepare for the event, ensuring that you have an enjoyable and comfortable experience. The form collects various information, including your name, contact details, preferences, and interests, which will help us tailor the event to your needs.

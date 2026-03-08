@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture customer details, order information, and status updates for restaurant preorders. It is meant to be filled out by restaurant staff to efficiently manage preordered meals. The form is composed of multiple fields that include customer contact information, address, order total, and order status among other information.
-</thinking>
-
 # restaurant_preorder_form_template - Help Guide
 ## Purpose
 This form is designed to help restaurant staff capture and manage customer information, order details, and status updates for preordered meals.

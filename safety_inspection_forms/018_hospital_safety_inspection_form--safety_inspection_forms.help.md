@@ -1,32 +1,3 @@
-<thinking>
-This form is meant to be used for hospital safety inspections, but to check for relevance and non-duplication, I'll need to make sure that the form isn't being used for other purposes that are not directly related to safety inspections. Let's assume that the form is being used correctly and focus on creating a user-friendly help guide. 
-
-The form is designed to collect information related to safety inspections, including the patient's ID, safety risks encountered, risk factors, location, description of incidents, and other relevant details. The goal is to provide a clear and concise help guide that will assist users in completing the form accurately and effectively.
-
-The form fields are:
-
-*   patient_id: a unique identifier for the patient
-*   safety_risks: a list of potential safety risks encountered during the inspection
-*   risk_factor: the level of risk (high, medium, low)
-*   location: the location of the safety inspection (hospital, clinics, etc.)
-*   description: a description of the incidents or observations made during the inspection
-*   date_visited: the date of the inspection
-*   time_visited: the time of the inspection
-*   assigned_to: the person or team responsible for completing the inspection
-*   completed_by: the person or team that completed the inspection
-*   completed_date: the date the inspection was completed
-*   safety_inspectors: the individuals who conducted the safety inspection
-*   hospital_address: the address of the hospital
-*   patient_name: the name of the patient
-*   patient_phone: the phone number of the patient
-*   patient_email: the email of the patient
-*   patient_room: the room number of the patient
-*   notes: any additional comments or notes from the inspection
-
-The form is designed to be completed by healthcare professionals or other authorized individuals. The form will help track and report safety incidents, risks, and observations made during inspections, and will aid in identifying areas for improvement to maintain a safe environment for patients and staff.
-
-</thinking>
-
 # Hospital Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information on safety inspections conducted in hospitals and other healthcare settings. It is meant to help identify potential safety risks, document incidents, and track completed inspections.

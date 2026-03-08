@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information for a robot safety inspection survey. The purpose of this form is to gather data on the condition of a robot, its model, number, and other relevant details. This information will be used to ensure the robot is functioning safely and efficiently.
-
-Before proceeding, please ensure that you are filling out this form for the correct robot and that the information you provide is accurate and up-to-date. If you have already filled out this form for the same robot, please do not resubmit. Resubmission of already completed forms can cause confusion and may lead to inaccurate data.
-
-The form will guide you through a series of questions about the robot's condition, including its facility name, date of last inspection, and next inspection due date. You will also be asked to report on any hazards found during the inspection and the corrective actions taken.
-
-Finally, you will be asked to provide some contact information for the person submitting the form and the person or team assigned to address any issues.
-
-Please answer the questions as accurately and thoroughly as possible, and do not hesitate to ask if you need any clarification or have any questions.
-
-</thinking>
-
 # Robot Safety Inspection Survey - Help Guide
 ## Purpose
 This form is designed to collect information for a robot safety inspection survey. The purpose of this form is to gather data on the condition of a robot, its model, number, and other relevant details to ensure the robot is functioning safely and efficiently.

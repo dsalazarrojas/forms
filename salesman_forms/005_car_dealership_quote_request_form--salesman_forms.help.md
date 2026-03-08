@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to gather information from customers to determine their vehicle preferences and requirements for a quote request. It collects contact information (first name, last name, email, phone number), vehicle type and make interests, financing options, and other specifics such as budget range, desired features, and color preference. It also asks about the possibility of trading in a vehicle and other details related to the vehicle acquisition process.
-
-To avoid duplication, this form should be filled out only once per vehicle purchase inquiry, and it should not be submitted multiple times for the same vehicle model or make.
-
-Form submission will trigger a quote request, which will be reviewed by the dealership staff to determine the best possible deal based on the information provided. 
-
-</thinking>
-
 # Car Dealership Quote Request Form - Help Guide
 ## Purpose
 This form is designed to help the dealership's sales team determine the best possible quote for your vehicle needs. It will ask for your contact information, preferences for the type of vehicle you're interested in, and other details to narrow down the best options for you.

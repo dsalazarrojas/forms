@@ -1,23 +1,3 @@
-<thinking>...
-To create a help guide for a user-facing form, I'll need to understand its purpose and how it's used within your organization. This form appears to be a sales order form for a company called PayJunction, and it's likely used by salespeople to gather information from customers. The fields included suggest that the form is used to collect contact information, order details, and any additional notes or comments from the customer. I'll review the form layout to see if there are any potential issues or improvements needed.
-
-Based on the form's structure, it seems like the "Form Data" page is the main entry point for the form, and the subsequent pages appear to be additional sections within the form. The "Form Submit" page has a select_one field with three options: "Submit", "Cancel", and "Back". This suggests that the form is designed to guide the user through a specific workflow.
-
-The form collects the following fields:
-
-* First Name
-* Last Name
-* Address 1 ( likely a physical address)
-* Email
-* Phone
-* Date
-* Time
-* Notes (a text field for additional comments)
-* Form Submit (with three options: "Submit", "Cancel", and "Back")
-
-The form doesn't have any required fields, but it does have a "Form Submit" page with a required "Form Submit" field. This might imply that the form needs to be completed in its entirety before being submitted.
-
-</thinking>
 # PayJunction T Shirt Order Form - Help Guide
 
 ## Purpose

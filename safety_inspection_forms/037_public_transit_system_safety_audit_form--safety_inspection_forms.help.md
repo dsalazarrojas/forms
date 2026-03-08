@@ -1,9 +1,3 @@
-<thinking>
-  This form is intended to aid public transit system administrators in conducting safety audits of stations, stops, and vehicles. The form is designed to gather information on various aspects of safety, including station and stop details, audit types, safety concerns, and corrective actions taken. The form's purpose is to ensure that public transit systems are safe for passengers and staff.
-  To avoid duplication, please ensure that each entry is a new safety audit report and not an edit or update to an existing one.
-  To prevent errors, carefully review each field for relevance and ensure that all required fields are completed.
-</thinking>
-
 # Public Transit System Safety Audit Form - Help Guide
 ## Purpose
 The Public Transit System Safety Audit Form is used to conduct safety audits of stations, stops, and vehicles in public transit systems. This form helps ensure that passengers and staff are safe while using or working on these facilities.

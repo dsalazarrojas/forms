@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about a recognition order, which is likely used to award a prize or recognition to a customer. The purpose of this form is to gather necessary details about the customer and the order. 
-
-Before proceeding, ensure that the form is relevant and not a duplicate of another form. This could potentially be used to identify and prevent duplicate entries. 
-
-The form consists of several fields, which we will cover in the help guide below.
-</thinking>
-
 # Recognition Order Form - Help Guide
 ## Purpose
 The Recognition Order Form is used to collect information about a customer and their recognition order, including order details, customer information, award type, and order status.

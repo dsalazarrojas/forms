@@ -1,5 +1,3 @@
-<thinking>From what I understand, this is a form for processing sales orders related to precision tool grinding wheels. This form should guide users through the steps to complete it accurately and correctly. The form seems to be designed to collect details about customers, their orders, and other relevant information. I'll make sure to cover all the required fields and provide clear explanations for each field to help users complete the form correctly.</thinking>
-
 # Precision Tool Grinding Wheel Order Form - Help Guide
 ## Purpose
 The Precision Tool Grinding Wheel Order Form is designed to collect detailed information about customers and their orders for precision tool grinding wheels. This form is essential for processing sales orders accurately and ensuring that each order is fulfilled correctly.

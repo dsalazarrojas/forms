@@ -1,7 +1,3 @@
-<thinking>
-To create an efficient and user-friendly help guide, I will consider the provided YAML fields and use my expertise in form design and technical writing to craft a clear and concise guide that explains the form's purpose, how to complete it, and each field's meaning.
-</thinking>
-
 # RV Parking Spot Reservation Form - Help Guide
 ## Purpose
 The RV Parking Spot Reservation Form is designed for users to reserve a parking spot for their RVs or other vehicles. The form gathers necessary information for efficient parking spot allocation and communication with the user.

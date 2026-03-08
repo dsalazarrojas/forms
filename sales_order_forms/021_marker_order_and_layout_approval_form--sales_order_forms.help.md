@@ -1,8 +1,3 @@
-<thinking>
-This form is used for sales team members to approve or reject marker orders and layouts. The form is designed to gather information about the marker order details, customer contact, contact person, order status, order date, delivery date, order total, payment method, marker layout, approval status, approval notes, comments, marker notes, and customer notes. Before filling out this form, make sure to review the order details and provide accurate information about the payment method and marker layout. This form is used for internal approval purposes only and is not intended for customer-facing use. The fields and options on this form are designed to be filled out by the sales team members for internal review and approval. To avoid duplicates, ensure that each order is reviewed and approved one time only.
-
-</thinking>
-
 # Marker Order And Layout Approval Form - Help Guide
 ## Purpose
 

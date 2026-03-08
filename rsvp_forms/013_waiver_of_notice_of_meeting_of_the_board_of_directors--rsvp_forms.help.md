@@ -1,18 +1,3 @@
-<thinking>
-The "Waiver Of Notice Of Meeting Of The Board Of Directors" form is used to document a board member's attendance or absence at a meeting, along with the reason for their absence and their expected return date. This form is likely used in an internal or corporate setting, possibly for HR or administrative purposes. 
-The form is probably a simple and straightforward way to record information about a board member's attendance status, which can help with meeting planning, attendance tracking, and other related tasks. 
-It's possible that this form is used as a template for other similar forms, with some customizations made for the specific company or organization. It's also possible that this form is used in conjunction with other forms or systems to collect more detailed information about board members. 
-Before creating this guide, let's review the form structure: 
-- meeting_date: Meeting Date 
-- full_name: Full Name 
-- reason_for_absence: Reason For Absence 
-- expected_return_date: Expected Return Date 
-- will_attend: Will Attend 
-- reason_for_not_attending: Reason For Not Attending 
-- will_missed_meeting: Will Missed Meeting 
-- comments: Comments 
-</thinking>
-
 # Waiver Of Notice Of Meeting Of The Board Of Directors - Help Guide
 ## Purpose
 This form is used to document the attendance status of a board member at a meeting, along with the reason for their absence and their expected return date. It's designed to be a simple and straightforward way to record information about a board member's attendance.

@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is intended to collect RSVP information for a travel partner appreciation event. It's designed to gather essential details from guests, including their name, email, phone number, guest type, travel dates, travel location, and any additional travel details. The form will be used to ensure that guests can provide their preferences and requirements for the event, allowing the event organizers to better plan and prepare for their needs. To avoid duplication, this form should only be filled out by each guest once per event.
-</thinking>
-
 # travel_partner_appreciation_event_rsvp_form - Help Guide
 ## Purpose
 This form is used to collect RSVP information for a travel partner appreciation event. It helps the event organizers plan and prepare for the guests' needs.

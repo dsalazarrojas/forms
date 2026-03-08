@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for a form used to process payments through various methods, including PayPal, Stripe, and Authorize.net. The form is used to collect information from businesses for payment purposes. 
-- The form should be used by businesses to submit payments for services rendered or products sold.
-- It is recommended to review this form for relevance to the business's specific needs before proceeding.
-- To avoid duplication of effort, please ensure that the business has a valid payment method before proceeding.
-</thinking>
-
 # paypal_business_payment_form - Help Guide
 ## Purpose
 The "PayPal Business Payment Form" is a form used to process payments from businesses for various services or products. This form helps businesses submit payment information for their transactions.

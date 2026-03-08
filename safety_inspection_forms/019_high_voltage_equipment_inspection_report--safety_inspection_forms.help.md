@@ -1,15 +1,3 @@
-<thinking>High Voltage Equipment Inspection Report Form
-
-This form is designed to gather information about the condition and maintenance status of high voltage equipment. The form is used to document the results of a safety inspection, which is a critical process to ensure the safe operation of equipment in industries such as power generation, transmission, and distribution.
-
-The form is meant to be completed by authorized inspectors who are trained to evaluate the condition of high voltage equipment. The inspector will select the correct equipment type, enter the location of the equipment, and provide the serial number, if available. They will also report the last and next maintenance dates, if applicable. The inspector will then record their name and the date and time of the inspection.
-
-The form includes sections for recording the condition of the equipment, noting any findings or observations, and creating an action plan for future maintenance. There are also fields for adding comments and recording the current status of the equipment.
-
-The form is designed to be completed in a clear and concise manner, with minimal duplication of information. The purpose of this form is to provide a thorough and accurate record of the safety inspection of high voltage equipment, which is essential for maintaining the reliability and safety of critical systems.
-
-Before starting the form, please make sure you have the necessary authorization to inspect the equipment and that you have access to the required information.</thinking>
-
 # high_voltage_equipment_inspection_report - Help Guide
 ## Purpose
 ## How To Complete This Form

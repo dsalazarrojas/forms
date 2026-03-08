@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for restaurant managers to provide information about their fast food businesses. The purpose of this form is to collect data that will be used to improve operational efficiency and customer experience. It's intended for managers of fast food restaurants who want to share their restaurant's details and characteristics. Please ensure that the information you provide is accurate and reflects your restaurant's true status.
-</thinking>
-
 # Fast Food Survey - Help Guide
 ## Purpose
 The Fast Food Survey is a tool designed to collect information about your fast food restaurant's details and characteristics. This form is intended to be completed by restaurant managers.

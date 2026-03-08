@@ -1,7 +1,3 @@
-<thinking>
-This form is for conducting peer reviews of employees. This template allows employees to provide feedback and ratings on a peer's performance, suggestions for improvement, and action items for the employee and manager. The form is used to facilitate open communication and growth within the team. To ensure accuracy and fairness, please note that this form is designed to be completed by one employee reviewing another, and should only be used for genuine peer-to-peer feedback and evaluations.
-</thinking>
-
 # employee_peer_review_template - Help Guide
 ## Purpose
 The employee peer review template is designed to facilitate open and constructive communication within teams, helping employees grow and improve their performance.

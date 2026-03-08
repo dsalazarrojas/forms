@@ -1,7 +1,3 @@
-<thinking>
-This form is a general-purpose tool to collect information and data about sales processes in the sales_order_forms category. It is designed for collecting relevant details to understand sales processes and improve the sales process management. To avoid duplication, please ensure that you only submit the form once, even if the same data is requested multiple times. The form has three pages and includes text input fields. This guide will walk you through how to complete each field to ensure accurate and complete data submission.
-</thinking>
-
 # Sales Process Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information and data about sales processes in the sales_order_forms category. Please submit only once to avoid duplication.

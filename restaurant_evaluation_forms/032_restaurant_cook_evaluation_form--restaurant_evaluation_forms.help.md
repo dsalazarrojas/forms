@@ -1,9 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Restaurant Cook Evaluation Form, we need to consider the form's purpose and how it will be used. The Restaurant Cook Evaluation Form is used to collect feedback and assessments on the performance of a restaurant cook. This form is essential for restaurants to improve their food quality, service, and overall dining experience. It's used by restaurant staff, customers, or evaluators to provide a rating and comments about a specific cook's performance.
-The form should be completed by anyone who has had an interaction with the cook, including customers, staff members, or peers. The form's purpose is to evaluate the cook's skills, behavior, and overall performance. The evaluator's role is crucial in providing a fair and balanced assessment.
-Before starting the form, it's best to ensure that the evaluator is familiar with the cook's performance during the interaction. This might involve reviewing the evaluation form's instructions and guidelines to understand the evaluation process.
-</thinking>
-
 # Restaurant Cook Evaluation Form - Help Guide
 ## Purpose
 The Restaurant Cook Evaluation Form is a tool used to collect feedback and assessments on the performance of a restaurant cook. It's essential for restaurants to improve their food quality, service, and overall dining experience.

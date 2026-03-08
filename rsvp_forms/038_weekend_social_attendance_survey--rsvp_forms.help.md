@@ -1,10 +1,3 @@
-<thinking>
-You are creating a help guide for a user-facing form called "Weekend Social Attendance Survey". This form is likely used to gather information about attendees' plans for a social event happening on the weekend. The form is not explicitly mentioned as a requirement, so it's likely that the event organizers want to know if guests will be attending and what their plans are. However, without further information, it's possible that this form is a template and may not be used in a real-world scenario. 
-
-The form has multiple fields: contact information, RSVP questions, date, and notes. The RSVP questions cover whether the guest will attend, what time they plan to arrive, if they will bring anything to share, and if they would like to RSVP for a friend. The form also asks for email and phone numbers, which is likely for follow-up communication. The "Note" field is a free-text field for any additional comments.
-
-</thinking>
-
 # Weekend Social Attendance Survey - Help Guide
 ## Purpose
 This form is used to gather information about your plans for the weekend social event. Please fill out this form to let us know if you will be attending and what your plans are.

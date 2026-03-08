@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Thanksgiving Song Request" form is used for users to provide information about their favorite songs related to Thanksgiving. This form helps users submit their song preferences for potential use in our company's Thanksgiving celebrations. The form is not required for all users, and users who don't want to submit any information can simply choose "No" for the song request.
 
 To ensure accurate submission and avoid duplication, please review the form fields carefully and fill out each field as instructed.

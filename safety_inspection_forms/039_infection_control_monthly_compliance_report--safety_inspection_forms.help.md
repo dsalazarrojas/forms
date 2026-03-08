@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on infection control measures and incidents reported in a facility for the month. It's a simple compliance report that can be filled out by a reviewer on a monthly basis. This form is a one-off creation and not part of any larger system or platform, but it's released under a Creative Commons license for others to use, adapt, and even sell.
-</thinking>
-
 # Infection Control Monthly Compliance Report - Help Guide
 ## Purpose
 The Infection Control Monthly Compliance Report is a form used to document infection control measures taken and reported incidents in a facility for the month. This information helps to identify areas of improvement and ensure compliance with infection control standards.

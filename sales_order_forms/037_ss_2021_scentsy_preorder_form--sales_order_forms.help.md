@@ -1,5 +1,3 @@
-<thinking>...The form is used for pre-ordering SS 2021 Scentsy products. It is used for customers to select one or multiple products from a list of available collections. The form includes fields for customer information such as first name, last name, phone number, email, and address. It also includes fields for product selection and order comments. There are multiple fields for confirming customer information and product selections. The form includes a submit and confirm submit button, which are likely used to finalize the order. The form is designed to be completed by customers to place a pre-order for the SS 2021 Scentsy products...</thinking>
-
 # SS 2021 Scentsy Preorder Form - Help Guide
 ## Purpose
 The SS 2021 Scentsy Preorder Form is used to allow customers to select one or multiple products from the SS 2021 Scentsy collections and submit their pre-order.

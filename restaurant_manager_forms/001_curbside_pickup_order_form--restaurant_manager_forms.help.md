@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Curbside Pickup Order Form - Help Guide
 
 ## Purpose

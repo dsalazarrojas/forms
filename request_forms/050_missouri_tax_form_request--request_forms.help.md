@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Missouri Tax Form Request" form, I need to first understand the form's purpose and the requirements of its fields. The form is likely used for requesting tax-related documents or forms, and it captures general information, document type, address, and other relevant details.
-
-To avoid duplication, I will review the form design and identify any fields that are unnecessary or can be combined. The form seems to have a mix of fields that are not explicitly related, such as "Department" and "Department 2" which might be redundant. I will also ensure that each field has a clear label and explanation.
-
-After reviewing the form, I will proceed with creating the help guide.
-
-</thinking>
-
 # Missouri Tax Form Request - Help Guide
 ## Purpose
 This form is used to request tax-related documents or forms from the Missouri tax authority. Fill out this form with your details to submit a request and get the necessary documents or forms.

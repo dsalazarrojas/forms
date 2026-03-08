@@ -1,8 +1,3 @@
-<thinking>... (Internal reasoning block to determine form purpose and ensure non-duplication)
-The form is meant for customers to provide their poolside reservation information. It's a standard reservation form that collects customer details, contact information, and other related data. This form likely exists to facilitate bookings and reservations at a poolside establishment.
-
-</thinking>
-
 # Poolside Reservation Form - Help Guide
 ## Purpose
 The Poolside Reservation Form is designed for customers to provide their poolside reservation information, allowing our team to effectively manage reservations and provide an excellent customer experience.

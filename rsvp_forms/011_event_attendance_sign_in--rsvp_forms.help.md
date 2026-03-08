@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about event attendance from attendees. The form is designed to be completed by attendees who have registered for an event, and it will be used to track their status and follow-up actions.
-The form is divided into different sections to make it easier for attendees to provide the necessary information. It is not intended for internal staff use only, so please make sure to use it in accordance with your organization's privacy policies.
-
-Please note that this form is not meant to be used for any other purpose than tracking event attendance. If you need to use it for another purpose, please contact the relevant authorities to confirm the use cases.
-</thinking>
-
 # Event Attendance Sign In - Help Guide
 ## Purpose
 This form is used to collect information about event attendance from attendees.

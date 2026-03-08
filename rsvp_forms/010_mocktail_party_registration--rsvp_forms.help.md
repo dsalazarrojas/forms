@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from users about their attendance and preferences for a mocktail party. This form is designed to gather user details, event details, headcount, preferences (such as drink options), and confirmation of attendance. It is not a mandatory form, as not all fields are required. This form likely exists in the context of a party planning or event management system.
-</thinking>
-
 # Mocktail Party Registration - Help Guide
 ## Purpose
 This form collects information from users to help plan and prepare for the mocktail party.

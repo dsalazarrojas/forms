@@ -1,12 +1,3 @@
-<thinking>
-The Scaffold Handover Certificate is a form used to document the handover of a scaffold from one site manager to another. This form is used to ensure that all relevant details and information are recorded and transferred between the site manager who built the scaffold and the site manager who will be using it. It is essential to complete this form accurately and thoroughly to prevent any confusion or miscommunication during the handover process.
-
-Before starting, please note that this form is not designed to handle emergency situations or critical safety issues. In such cases, please contact your supervisor or relevant authority immediately.
-
-Please review the form fields below and ensure that you have all necessary information before proceeding.
-
-</thinking>
-
 # Scaffold Handover Certificate - Help Guide
 ## Purpose
 The Scaffold Handover Certificate is used to document the handover of a scaffold from one site manager to another, ensuring that all relevant details and information are recorded and transferred between the site manager who built the scaffold and the site manager who will be using it.

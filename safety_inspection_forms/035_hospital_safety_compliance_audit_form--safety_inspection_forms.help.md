@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the form purpose and how to complete it. To ensure this form is used correctly, please note that it's a one-time audit form used to assess compliance with hospital safety regulations. This form should only be submitted for a specific facility, and its completion should occur at the scheduled audit time. Please review the fields carefully and ensure you're submitting accurate information for your facility's safety compliance.
-</thinking>
-
 # Hospital Safety Compliance Audit Form - Help Guide
 ## Purpose
 The Hospital Safety Compliance Audit Form is a one-time audit form used to assess a facility's compliance with hospital safety regulations. This form should be completed for a specific facility at the scheduled audit time.

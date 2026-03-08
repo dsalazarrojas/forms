@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to RSVP to an event. It is a critical control point for event organizers to track attendance and understand attendees' responses. To ensure accurate and complete RSVPs, users should fill out the form carefully and accurately. If an RSVP is already registered under the same event name, users should not duplicate it. Please fill out the form with the correct event information, and avoid sending any unnecessary comments or messages. Only submit once for each event.
-</thinking>
-
 # Respond To An Event Now Form - Help Guide
 ## Purpose
 The Respond To An Event Now Form is used to collect information from event attendees to help event organizers track and manage event attendance, attendee details, and responses.

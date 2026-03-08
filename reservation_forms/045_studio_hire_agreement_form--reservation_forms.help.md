@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended for studios to create and manage agreements with clients or partners. The form collects information about the studio, contact details of the parties involved, contract terms, and other relevant details. The form is a crucial document that outlines the terms of the agreement, ensuring both parties are on the same page. This form is not affiliated with or endorsed by any form platform, but is an original creation using public metadata as inspiration. The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.</thinking>
-
 # Studio Hire Agreement Form - Help Guide
 ## Purpose
 The purpose of this form is to create and manage agreements between studios and their clients or partners. It collects essential information about the studio, contact details, contract terms, and other relevant details.

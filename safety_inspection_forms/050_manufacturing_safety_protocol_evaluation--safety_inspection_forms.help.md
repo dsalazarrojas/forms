@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Manufacturing Safety Protocol Evaluation - Help Guide
 ## Purpose
 The Manufacturing Safety Protocol Evaluation form is used to assess the safety protocols of a manufacturing facility, ensuring they meet regulatory and company standards.

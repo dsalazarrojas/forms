@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for customers to order safety mats for their kitchen flooring. The purpose of the form is to collect contact information, delivery address, product selections, payment details, and order summary. This form is probably part of a larger e-commerce or online shopping experience.
-</thinking>
-
 # Kitchen Flooring Safety Mat Order Form - Help Guide
 ## Purpose
 The Kitchen Flooring Safety Mat Order Form is a form used to collect information from customers for ordering safety mats for their kitchen flooring.

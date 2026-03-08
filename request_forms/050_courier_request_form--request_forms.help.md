@@ -1,7 +1,3 @@
-<thinking>
-To create the user-facing help guide for the Courier Request Form, I'll analyze the form's properties and provide a clear and concise explanation for the end user.
-</thinking>
-
 # Courier Request Form - Help Guide
 ## Purpose
 This form is used to collect information for a courier request, allowing you to submit a request for courier services.

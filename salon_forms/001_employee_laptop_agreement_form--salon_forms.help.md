@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "employee_laptop_agreement_form", I need to consider the form's purpose and structure. Based on the provided YAML field, the form appears to be a four-page document that likely collects information from employees regarding their laptop agreement. The form's purpose is to gather data and facilitate the process of agreeing on laptop usage and maintenance for employees. This guide will walk the user through the form's purpose, completion steps, and field explanations to ensure they understand the form's intent and requirements.
-
-</thinking>
-
 # employee_laptop_agreement_form - Help Guide
 ## Purpose
 The "employee_laptop_agreement_form" is a four-page document designed to collect information from employees regarding their laptop usage and maintenance. This form helps to gather data and facilitate the process of agreeing on laptop usage and maintenance for employees.

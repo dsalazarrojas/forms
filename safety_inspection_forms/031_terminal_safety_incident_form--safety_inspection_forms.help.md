@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about safety incidents that occur in a terminal setting, such as a power plant or a transportation hub. It is essential to accurately and thoroughly document these incidents to prevent future occurrences and ensure a safe working environment. Before filling out this form, please make sure that you have not already reported the incident and that it is not a duplicate report. If you are unsure, please contact the terminal safety manager.
-</thinking>
-
 # Terminal Safety Incident Form - Help Guide
 ## Purpose
 This form is used to record and report safety incidents that occur in terminal settings, such as power plants, transportation hubs, and other facilities. The form helps to gather accurate and detailed information about the incidents, which can be used to prevent future occurrences, identify root causes, and take corrective actions.

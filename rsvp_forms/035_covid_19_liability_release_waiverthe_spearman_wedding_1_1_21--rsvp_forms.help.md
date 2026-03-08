@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from guests attending a wedding on January 1, 2021, and to obtain a liability release waiver related to COVID-19 risks. The form is used to ensure that guests are aware of the potential risks associated with attending the wedding and to obtain their consent to attend. The form is also used to gather information about the number of guests attending, their health status, and their vaccination status.
-</thinking>
-
 # COVID 19 Liability Release WaiverThe Spearman Wedding 1.1.21 - Help Guide
 ## Purpose
 This form is used to gather information from guests attending the wedding on January 1, 2021, and to obtain a liability release waiver related to COVID-19 risks.

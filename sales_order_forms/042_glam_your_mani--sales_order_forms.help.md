@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers regarding their orders. It is likely intended for a sales or order tracking system. To ensure that the form is being filled out correctly, it is essential to understand its purpose and each field's requirements. I will now create a user-facing help guide for the form, based on the provided YAML fields.
-</thinking>
-
 # Glam Your Mani - Help Guide
 ## Purpose
 This form is designed to collect information from customers regarding their orders.

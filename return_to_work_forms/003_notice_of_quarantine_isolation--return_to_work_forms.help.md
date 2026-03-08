@@ -1,7 +1,3 @@
-<thinking>
-This form is used for reporting quarantine exposure and isolation incidents in the workplace. The form is designed to collect information about the incident, including the employee's name, contact information, and the location where the exposure occurred. It's a required form for employees who have been exposed or are under quarantine/isolation. If you've already completed a form for the same exposure/isolation incident, please do not submit another form.
-</thinking>
-
 # Notice Of Quarantine/Isolation - Help Guide
 ## Purpose
 This form is used to report quarantine exposure and isolation incidents in the workplace. It helps the management team track and respond to these incidents, ensuring a safe and healthy work environment.

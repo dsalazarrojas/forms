@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather information from attendees to determine their ability and willingness to participate in the Virtual Town Hall Meeting. This form should be filled out by those who have been invited to the meeting. The purpose of this form is to ensure that all necessary information is gathered to facilitate the meeting and to provide attendees with important meeting details, such as the meeting schedule, location, and agenda. This form should only be used by attendees who have been invited and not by other users. 
-
-Please note that this form is intended for Virtual Town Hall Meetings and should not be used for other type of meetings. 
-
-</thinking>
-
 # Virtual Town Hall Meeting RSVP Form - Help Guide
 ## Purpose
 This form is used to gather information from attendees to determine their ability and willingness to participate in the Virtual Town Hall Meeting.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about employee reports of tips earned, including details on employee name, shift, hours worked, gross pay, net pay, tax, tax rate, deductions, total tips, cash tips, credit card tips, and other relevant comments. This form is meant to be completed by employees and managers to accurately track and report tips earned during their shifts. The form should not be used to duplicate or create multiple reports for the same employee in the same period.
-</thinking>
-
 # Employee Report Of Tip Form - Help Guide
 ## Purpose
 The Employee Report Of Tip Form is designed to collect accurate information on employee tips earned during shifts. Complete this form to report your tips and ensure that your employer accurately calculates and pays you for your earned tips.

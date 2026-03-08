@@ -1,9 +1,3 @@
-<thinking>... 
-
-The "Safety Commitment Pledge Form" is used to collect information from employees regarding their safety-related commitments. This form ensures that employees understand and acknowledge their responsibilities in maintaining a safe working environment. It's essential to complete this form accurately and honestly to demonstrate the company's commitment to a safe and healthy workplace. Please note that this form is not mandatory, but it's recommended for all employees. 
-
-</thinking>
-
 # Safety Commitment Pledge Form - Help Guide
 ## Purpose
 The Safety Commitment Pledge Form is used to collect information from employees about their safety-related commitments. This form helps to promote a culture of safety in the workplace and ensures that employees understand their responsibilities in maintaining a safe and healthy work environment.

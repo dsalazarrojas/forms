@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's break down the purpose of the form and check for potential duplication. This form is designed to collect information from sales team members about their discovery calls, including contact details, schedule preferences, and other relevant data. Upon reviewing the fields, it seems that the form aims to provide a structured way to document and follow up on discovery calls, ensuring that the sales team can effectively manage and analyze the outcomes of these calls. To avoid duplication, let's ensure that the help guide accurately explains each field's purpose and requirement in a way that's easy to understand for end-users.</thinking>
-
 # Discovery Call Application Form - Help Guide
 ## Purpose
 The Discovery Call Application Form is a tool designed to help sales team members record and track details about discovery calls, including schedules, contacts, and company information. This form aims to improve the efficiency and effectiveness of the sales process by providing a centralized and organized way to gather and store data.

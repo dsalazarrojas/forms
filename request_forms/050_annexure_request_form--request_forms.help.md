@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to submit a request for an annexure, which is a document that provides additional information or clarification to a main document. This form helps the requester to provide detailed information about their request, including their personal and contact details, the type of annexure they are requesting, and any specific requirements or urgency levels associated with the request.
-
-Before completing this form, please ensure that you have not already submitted a request for the same annexure in the past. If you are unsure, please check the 'Have You Requested This Annexure Before' field to see if you have made a previous request.
-
-Please note that this form is designed to guide you through the process of submitting a request for an annexure, and that the fields are mandatory to ensure that your request is properly processed.
-
-</thinking>
-
 # Annexure Request Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a request for an annexure, which is a document that provides additional information or clarification to a main document.

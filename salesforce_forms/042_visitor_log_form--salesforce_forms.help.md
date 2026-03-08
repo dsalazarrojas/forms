@@ -1,7 +1,3 @@
-<thinking>
-This is a crucial form that requires visitors to provide information about themselves, their purpose of visit, and their contact details. The form is designed to be completed by visitors who come to the office for various reasons. It should not be completed by staff members or other internal stakeholders. This form serves as a record of visitors, allowing office staff to track and manage visitors effectively. 
-</thinking>
-
 # Visitor Log Form - Help Guide
 ## Purpose
 The Visitor Log Form is a mandatory form for visitors to provide their personal and contact information, as well as details about their visit, such as purpose, arrival and departure times, and other relevant details.

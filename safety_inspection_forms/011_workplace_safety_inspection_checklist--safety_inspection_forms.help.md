@@ -1,13 +1,3 @@
-<thinking>
-The Workplace Safety Inspection Checklist form is designed to ensure that workplaces are safe and compliant with relevant regulations. 
-This form aims to identify potential hazards and ensure that workplaces have necessary safety equipment and procedures in place. 
-Each section of the form covers specific areas of workplace safety, including general safety, hazardous materials, electrical systems, emergency equipment, fire safety, walkways, floor height, stairs and handrails, and exit paths. 
-This form helps workplaces ensure they are in compliance with regulations and maintain a safe working environment. 
-This form will help the user identify areas that need improvement and prioritize the necessary actions to address these issues. 
-The fields and their corresponding options are designed to help the user systematically identify and address potential safety hazards. 
-The form will help the user track the status of these areas over time, ensuring continuous improvement and maintenance of a safe working environment. 
-</thinking>
-
 # Workplace Safety Inspection Checklist - Help Guide
 ## Purpose
 This form is used to ensure that workplaces are safe and compliant with relevant regulations. It helps workplaces identify potential hazards and take necessary steps to address them.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used for a safety inspection of scaffolding. The primary objective is to verify that the scaffolding is properly installed and maintained, ensuring a safe working environment for employees. This checklist is essential for identifying potential hazards and mitigating risks associated with scaffolding. It serves as a tool for supervisors and site managers to review and confirm the adequacy of scaffolding setup, reducing the risk of accidents and injuries.
-</thinking>
 # Scaffolding Safety Checklist - Help Guide
 ## Purpose
 This form is used to evaluate the safety of scaffolding on site. It is designed to ensure that scaffolding is properly installed, maintained, and monitored to prevent accidents and injuries.

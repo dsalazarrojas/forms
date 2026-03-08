@@ -1,13 +1,3 @@
-<thinking>
-
-This form is meant to gather information for potential volunteers of the Vacation Bible School program. It is used to capture relevant details about the volunteer's personal and professional experience, availability, and agreement to the terms and conditions of volunteering. 
-
-This form is not intended to be used for internal use within the organization, nor is it intended for public consumption. The purpose is solely for the organization's internal use to manage volunteer applications and to ensure a smooth and efficient program operation.
-
-Before proceeding, please note that the form will not be duplicated or sent to anyone outside of the organization.
-
-</thinking>
-
 # Vacation Bible School Volunteer Application Form - Help Guide
 ## Purpose
 

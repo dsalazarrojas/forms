@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Incident Severity Classification Form - Help Guide
 
 ## Purpose

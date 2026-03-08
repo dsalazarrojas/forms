@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect sales-related information from end-users. It is likely used by sales teams to gather data about their customers or potential customers. This form is not intended to be used for general contact forms or other purposes. It is recommended that you only fill out this form if you are a sales representative or have a sales-related purpose.
-</thinking>
-
 # Vertical Selling Survey - Help Guide
 ## Purpose
 This form is designed to collect sales-related information from end-users. It is intended for use by sales teams to gather data about their customers or potential customers.

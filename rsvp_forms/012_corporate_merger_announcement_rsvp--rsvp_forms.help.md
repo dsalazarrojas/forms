@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect RSVPs from guests who have been invited to a corporate merger announcement meeting. The form asks for basic attendee information, including their name, title, and company, as well as their attendance status and meeting details (date, time, and location). Additionally, it includes space for any questions or comments guests may have. This form is meant to facilitate communication and organization for the meeting hosts.
-</thinking>
-
 # Corporate Merger Announcement RSVP - Help Guide
 ## Purpose
 This form is used to track attendee information and responses to the corporate merger announcement. Please fill out the form completely and accurately to ensure that your information is correctly recorded.

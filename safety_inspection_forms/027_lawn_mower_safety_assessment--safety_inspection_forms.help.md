@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the safety of lawn mowers used for various purposes. The form will be completed by operators and supervisors to evaluate the safety status of lawn mowers. It is essential to fill out this form accurately and thoroughly to ensure the safety of operators and the general public. Please ensure that the information provided is correct and up-to-date.
-To prevent duplication of effort and ensure relevance, please check that you are filling out this form for the correct purpose and that the information provided is accurate and current.
-</thinking>
-
 # lawn_mower_safety_assessment - Help Guide
 ## Purpose
 This form is designed to assess the safety of lawn mowers used for various purposes. It helps operators and supervisors evaluate the safety status of lawn mowers and identify any potential hazards that may need attention.

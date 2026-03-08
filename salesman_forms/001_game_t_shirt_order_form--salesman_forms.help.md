@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a game T-shirt order. The purpose of this form is to gather the necessary details from customers to process their order. It appears to be a comprehensive form that covers various aspects of the order, including size, color, quantity, payment method, and game details. Before starting to fill out this form, please make sure to have all the required information readily available. Note that some fields are marked as "required" or "optional", and some fields might seem redundant. Please fill out the form accurately and comprehensively to ensure successful order processing.
-</thinking>
-
 # Game T-Shirt Order Form - Help Guide
 ## Purpose
 The Game T-Shirt Order Form is designed to collect information for a game T-shirt order. It gathers details such as size, color, quantity, payment method, and game details to process the order accurately.

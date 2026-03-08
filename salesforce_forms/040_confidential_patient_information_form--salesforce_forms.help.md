@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect confidential patient information for medical purposes. To ensure accuracy and consistency, please fill out this form carefully and thoroughly. This form is not a duplicate of any other form, and the provided fields are all necessary for the medical staff to understand and provide proper care to the patient. Each field has been carefully designed to ensure that the patient's medical history, allergies, and treatment preferences are well-documented and easily accessible. Before completing this form, please make sure to review each field carefully and ask for clarification if you are unsure about any of the fields.
-
-</thinking>
-
 # Confidential Patient Information Form - Help Guide
 ## Purpose
 The Confidential Patient Information Form is a collection of personal and medical information about the patient. This form is used to gather essential data that helps the medical staff to provide proper care and treatment to the patient.

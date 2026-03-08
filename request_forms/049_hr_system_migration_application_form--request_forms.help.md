@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from end users about their request for HR System migration. Before filling out this form, please ensure that you have a clear understanding of what you are asking to migrate and what are your objectives and timelines. To avoid duplication, please make sure to check with other users if you have already submitted a similar request. If you have already completed a similar form, please do not resubmit it. The form is divided into several sections to help you provide the necessary information in a structured and organized manner.
-</thinking>
-
 # HR System Migration Application Form - Help Guide
 ## Purpose
 This form is used to collect information about HR System migration requests from end users. It is used to ensure that the migration process is properly organized and managed.

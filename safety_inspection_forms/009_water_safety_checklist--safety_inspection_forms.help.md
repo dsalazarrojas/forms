@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to ensure that water safety is maintained in a facility. The form will be used by facility staff to report on the status of water safety in their facility, including any issues that have been identified and the actions taken to address them. This form will help facility managers and safety inspectors to track and follow up on the status of water safety.
-
-</thinking>
-
 # Water Safety Checklist - Help Guide
 ## Purpose
 The Water Safety Checklist is a form used to report on the status of water safety in a facility. It is used to record any issues with water quality or safety equipment, and to schedule follow-up inspections or actions to address these issues.

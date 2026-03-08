@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a fun celebration for a pet's birthday! The form allows pet owners to RSVP to the celebration, specifying their name, their pet's name, the date and time of the celebration, whether they'll be attending, how many guests they'll be bringing, and their favorite food options. The purpose of this form is to get the pet's owner to provide necessary information for the celebration planning. It should be used by pet owners to respond to the invitation.
-
-</thinking>
-
 # Pet Birthday Celebration RSVP - Help Guide
 ## Purpose
 This form is used to RSVP to a fun celebration for a pet's birthday, providing information needed for planning.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for hair consultation purposes. It includes fields for client details, hair type, services, hair color, hair length, hair style, appointment date and time, and additional notes. The form is meant to be filled out by clients before their appointment, but it can also be used by salon staff to quickly reference client information and preferences.
-To avoid duplication and ensure accurate information is collected, it's essential to review the form carefully and make sure all required fields are completed.
-The form can be used in various scenarios, such as:
-* Clients filling out the form before their appointment to save time during the consultation.
-* Salon staff reviewing the form before the consultation to gather necessary information.
-* Salon staff updating the form after the consultation to document the discussion and agreed-upon services.
-</thinking>
-
 # Hair Consultation Form - Help Guide
 ## Purpose
 The Hair Consultation Form is designed to gather essential information from clients before and after their hair consultation appointments.

@@ -1,13 +1,3 @@
-<thinking>
-
-The "Maintenance Spray Lubricant Order Form" is designed to collect information from customers for maintenance-related requests, likely for a business that provides maintenance services or sells maintenance products. This form is used to gather essential details for the fulfillment of these requests. 
-
-The form consists of several fields that cover various aspects of the maintenance request, including customer contact information, details about the spray lubricant required, delivery preferences, and notes or comments. 
-
-To ensure the form is being filled out correctly, we'll walk through each field below.
-
-</thinking>
-
 # Maintenance Spray Lubricant Order Form - Help Guide
 
 ## Purpose

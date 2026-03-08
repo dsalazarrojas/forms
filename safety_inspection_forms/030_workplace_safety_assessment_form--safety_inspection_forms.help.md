@@ -1,9 +1,3 @@
-<thinking>
-This form, "workplace_safety_assessment_form", is designed to collect data on workplace safety assessments. It is intended to gather information on various aspects of workplace safety, including the location, supervisor's name, date, time, safety protocols, hazards, and recommendations for improvement. Before completing this form, please make sure you're doing so as part of your regular workplace safety checks or assessments.
-
-To ensure that your input is valid and relevant, please fill out this form only if you're authorized to do so, and if the assessment is not already documented or in progress. Filling out duplicate or unnecessary assessments can lead to confusion and waste of resources.
-</thinking>
-
 # workplace_safety_assessment_form - Help Guide
 ## Purpose
 This form is designed to gather information on workplace safety assessments, including location, supervisor's name, date, time, safety protocols, hazards, and recommendations for improvement. It's intended to be used by authorized personnel for regular workplace safety checks or assessments.

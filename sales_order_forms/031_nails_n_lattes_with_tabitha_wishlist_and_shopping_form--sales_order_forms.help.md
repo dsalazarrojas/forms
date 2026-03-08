@@ -1,37 +1,3 @@
-<thinking>
-This is a form used to capture information for sales orders, particularly for nails and lattes with Tabitha's wishlist and shopping form. It appears to be a comprehensive form with various fields for collecting client information, order details, and form metadata.
-
-This form has the following pages:
-
-* First name
-* Last name
-* Email
-* Phone
-* Date
-* Time
-* Note
-* Wishlist
-* Items
-* Shopping Form
-* Category
-* Confirm Category
-* Form ID
-* Description
-* Assigned Tool
-* User ID
-* Order ID
-* Form Version
-* User Version
-* Form Status
-* Order Status
-* Form Comments
-* Timestamp
-* Custom Field 1
-
-Before proceeding, let's ensure that this form is not a duplicate or unnecessary.
-
-</thinking>
-
 # nails-n-lattes-with-tabitha-wishlist-and-shopping-form - Help Guide
 ## Purpose
 This form is designed to capture sales order information for nails and lattes with Tabitha's wishlist and shopping form.

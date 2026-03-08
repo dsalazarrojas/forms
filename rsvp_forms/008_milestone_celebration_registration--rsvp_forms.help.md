@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Milestone Celebration Registration - Help Guide
 
 ## Purpose

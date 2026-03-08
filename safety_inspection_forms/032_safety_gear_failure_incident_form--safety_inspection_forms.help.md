@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine the purpose and required fields for the "Safety Gear Failure Incident Form", I will review the provided YAML structure. The form appears to be designed for reporting safety gear failures, likely for the purpose of tracking and investigating incidents, and potentially for taking corrective and preventative actions to improve safety standards.
 
 The form has a mix of fields for collecting information about the incident, including dates, descriptions, causes, and actions taken or planned. The required fields are not explicitly defined, but based on the structure, it seems likely that at least the "incident date" and "incident description" fields are necessary to provide context for the incident.

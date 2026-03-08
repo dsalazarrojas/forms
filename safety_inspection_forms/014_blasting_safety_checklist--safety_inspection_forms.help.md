@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by inspectors to ensure that all necessary safety protocols are in place before conducting a blasting operation. The purpose of this form is to verify that the blast area is secure, communication with all relevant teams is confirmed, equipment is properly checked, and any potential weather conditions or additional actions required to be taken before the blast are documented. This form aims to reduce the risk of accidents and ensure a safe working environment. It's essential that the form is completed accurately and thoroughly to guarantee the safety of everyone involved in the operation.
-</thinking>
-
 # Blasting Safety Checklist - Help Guide
 ## Purpose
 The Blasting Safety Checklist is a crucial document used to ensure that all necessary safety protocols are in place before conducting a blasting operation. This form is designed to verify that the blast area is secure, communication with all relevant teams is confirmed, equipment is properly checked, and any potential weather conditions or additional actions required to be taken before the blast are documented.

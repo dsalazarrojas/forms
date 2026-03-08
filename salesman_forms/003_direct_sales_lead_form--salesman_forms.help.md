@@ -1,8 +1,3 @@
-<thinking>
-This is a form designed for capturing sales leads, and it's essential to ensure that the information is accurate and comprehensive. The form is divided into several sections, each with its own set of fields. To ensure that the form is filled out correctly, please carefully read through each field explanation below.
-
-</thinking>
-
 # direct_sales_lead_form - Help Guide
 ## Purpose
 The direct sales lead form is a tool used to collect information about potential customers and track their sales progress. It's essential to fill out this form accurately and completely to ensure that the sales team can effectively follow up with leads and convert them into sales.

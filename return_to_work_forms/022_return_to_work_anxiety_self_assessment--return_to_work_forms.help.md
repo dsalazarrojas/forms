@@ -1,9 +1,3 @@
-<thinking>
-
-Before diving into the help guide, let's make sure the form is correctly configured and that there aren't any issues with the input schema. Upon review, everything appears to be in order. The form appears to be designed to collect information about an employee's return-to-work anxiety. It includes a mix of single and multiple select questions, text fields, and a time field. The questions cover various aspects of anxiety, such as feelings, concerns, and support mechanisms. It seems the form is aimed at assessing an employee's comfort level with returning to work and identifying potential areas for support.
-
-</thinking>
-
 # Return To Work Anxiety Self Assessment - Help Guide
 ## Purpose
 The Return To Work Anxiety Self Assessment is a form designed to help employees gauge their anxiety levels and concerns about returning to work. This form will aid in identifying potential areas of support and comfort for the employee's return.

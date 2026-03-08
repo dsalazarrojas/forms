@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the construction site's safety conditions. It will help assessors identify areas of concern and make recommendations for improvement. This form should not be used for other purposes. The form is divided into several sections to cover various aspects of construction site safety, including equipment safety, hazard communication, and overall site conditions. Please make sure that each field is properly filled out to get a comprehensive assessment of the site's safety status.
-</thinking>
-
 # Construction Site Safety Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the safety conditions of a construction site. It covers various aspects of site safety, from hazard control to emergency preparedness.

@@ -1,7 +1,3 @@
-<thinking>...internal reasoning to verify purpose and prevent duplication...
-
-</thinking>
-
 # phone_call_request_form - Help Guide
 ## Purpose
 The phone call request form is a tool used to gather information from users to request a phone call for various reasons. This form captures contact details, reasons for the call, and other relevant information to ensure that the caller's needs are understood and met.

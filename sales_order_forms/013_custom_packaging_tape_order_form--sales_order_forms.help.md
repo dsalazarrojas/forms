@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block: This form is used to collect information from customers for custom packaging tape orders. It seems like the form is designed to gather essential details, such as customer information, artwork specifications, shipping, and payment details. The form appears to be divided into sections for customer information, artwork, shipping, payment, and notes. Each field is categorized correctly. This form is likely used in an e-commerce or online store setting. I will now assume that the form is used to process orders for a custom packaging tape product.
-
-</thinking>
-
 # Custom Packaging Tape Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers for custom packaging tape orders. Please fill out this form with your relevant details so we can process your order accurately.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients for photography sessions. It collects client details, contact information, scheduling preferences, session details, photographer information, additional details, payment details, and session preferences. This form will help photographers understand their clients' needs and requirements for a successful photography session.
-</thinking>
-
 # Photography Session Reservation Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients for photography sessions. It ensures that the photographer has all the necessary details to provide an excellent experience for the client.

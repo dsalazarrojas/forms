@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Nursing Home Event Registration form is a data collection form used to track events and visitors within a nursing home setting. Its purpose is to gather information about events, attendees, and those responsible for submitting the registration. This form will help the nursing home staff to monitor and prepare for events, ensuring that everyone's needs are catered to and safety is maintained. 
 
 Please review the following sections carefully to ensure that you complete the form correctly:

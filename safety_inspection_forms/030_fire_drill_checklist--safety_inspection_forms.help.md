@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the safety_inspection_forms "Fire Drill Checklist" form. The purpose of this form is to collect information from employees and emergency contacts in the event of a fire drill or emergency situation. The information collected will be used to quickly disseminate information and facilitate evacuation procedures. This form is not intended for regular usage but rather as a backup in case of an emergency. It is essential to fill this form accurately and thoroughly, as the information provided will be used to ensure the safety and well-being of employees during an emergency.
-
-</thinking>
-
 # Fire Drill Checklist - Help Guide
 
 ## Purpose

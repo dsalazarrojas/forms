@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and requirements of the document verification form. Please review the form's internal purpose and logic to ensure it's relevant to your specific use case. Also, note that some fields are not required, which may cause issues if not filled correctly. Double-check the form's options for consistency and correct usage.
-</thinking>
-
 # Document Verification Form - Help Guide
 ## Purpose
 This form is used to verify documents and their associated details. It collects information about the document type, date, number, and status, as well as metadata about the document's upload and verification.

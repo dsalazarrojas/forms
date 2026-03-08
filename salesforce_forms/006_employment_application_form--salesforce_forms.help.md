@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employment Application Form - Help Guide
 ## Purpose
 The Employment Application Form is designed to collect information from job applicants about their contact details, work experience, education background, job skills, availability, and personal information. This form will help hiring managers and recruiters evaluate potential candidates for a job opening.

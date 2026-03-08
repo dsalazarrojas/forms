@@ -1,18 +1,3 @@
-<thinking>
-
-The form "Delivery Route Label Order Form" likely serves as a template for customers or users to specify their delivery preferences or routes. This form may be used by customers to choose their delivery options, provide additional information, or confirm their delivery details. Before creating this form, review existing forms with similar purposes and ensure that this one does not overlap or duplicate their functionality.
-
-The fields in this form include multiple select, text, date, time, number, and email fields. These types of fields suggest that the form may be used for various purposes such as:
-
-*   Collecting categorical information (select fields)
-*   Gathering descriptive information (text fields)
-*   Specifying time-sensitive information (date and time fields)
-*   Recording numerical values (number fields)
-
-To create an accurate and helpful guide, review each field's purpose based on its label and type and ensure that the explanations are clear and concise.
-
-</thinking>
-
 # Delivery Route Label Order Form - Help Guide
 ## Purpose
 This form is designed for customers or users to specify their delivery preferences or routes. It allows users to choose their delivery options, provide additional information, and confirm their delivery details.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the Meeting Room Reservation Form, a form used to reserve a meeting room for a specific purpose. To ensure you complete the form correctly, please make sure you have all necessary information and authorization to reserve the room. The form should only be filled out for genuine meeting room reservation purposes and not for any other use.
-</thinking>
-
 # Meeting Room Reservation Form - Help Guide
 ## Purpose
 The Meeting Room Reservation Form is used to reserve a meeting room for a specific purpose. Please provide detailed information for the form to ensure accurate room allocation and meeting arrangement.

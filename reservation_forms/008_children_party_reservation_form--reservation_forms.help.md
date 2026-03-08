@@ -1,9 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Children Party Reservation Form" that explains the form's purpose, how to complete it, and what each field means. This will help users understand what information is required and what the form is used for.
-This form is intended for parents or guardians to provide information about their child's party details, including contact information, child's details, and party preferences. The form will be used to book a party reservation for the child.
-To avoid duplication, we should also check if the user has already completed the form.
-</thinking>
-
 # Children Party Reservation Form - Help Guide
 ## Purpose
 The Children Party Reservation Form is designed for parents or guardians to provide information about their child's party details, including contact information, child's details, and party preferences. This form will be used to book a party reservation for the child.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Art Exhibition Attendance Form - Help Guide
 ## Purpose
 

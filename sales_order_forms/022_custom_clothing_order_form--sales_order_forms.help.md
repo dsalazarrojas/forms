@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for a custom clothing order. The purpose of this form is to gather necessary details from customers, including contact information, order specifics, and preferences. This form is intended to be filled out by customers who are placing custom clothing orders. To prevent duplication, please note that only one form should be filled out per order.
-</thinking>
-
 # Custom Clothing Order Form - Help Guide
 ## Purpose
 This form is used to collect information for a custom clothing order.

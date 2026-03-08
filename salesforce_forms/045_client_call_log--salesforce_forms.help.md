@@ -1,5 +1,3 @@
-<thinking>...the form is designed to record and track client interactions, providing a structured format for documenting call details, including staff member and client information, call type, status, and primary topic of discussion. This form will help ensure consistency in recording interactions and facilitate future reference. It is crucial that users fill out this form accurately and consistently to avoid duplicate or incomplete records. Please ensure that the form is completed for every client call... </thinking>
-
 # Client Call Log - Help Guide
 ## Purpose
 The Client Call Log form is designed to track and document client interactions, ensuring consistency and providing future reference.

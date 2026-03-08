@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form, "Group Insurance Quote Form", is to collect information from group members or administrators to provide quotes for insurance coverage. This form is likely used by insurance agents or brokers to gather details about the group's demographics, insurance needs, and other relevant information to provide accurate quotes. 
-
-To ensure the form is used correctly, it's essential to verify that it's not being used for other purposes, such as creating fake or misleading insurance quotes, or for marketing purposes that may mislead or misrepresent insurance coverage. The form's purpose is to provide genuine quotes for group insurance needs.
-
-Before proceeding, ensure that the form is not a duplicate or an exact replica of another form used for the same purpose. A unique set of questions and answers will help in generating accurate insurance quotes.
-
-</thinking>
-
 # Group Insurance Quote Form - Help Guide
 
 ## Purpose

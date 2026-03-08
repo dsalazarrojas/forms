@@ -1,8 +1,3 @@
-<thinking>
-Please note that the purpose of this form is to guide users through the process of reserving a birthday party at a venue. This form is designed to collect essential information about the party, including the party details, guest count, package selection, and payment preferences. The form will help the venue's staff in preparing for the party and ensure that all necessary details are covered.
-
-Before filling out this form, please make sure you have all the necessary information and are authorized to make the reservation on behalf of the birthday child. If you have any doubts or questions, you can contact the venue directly for further clarification.</thinking>
-
 # Birthday Party Reservation Form - Help Guide
 
 ## Purpose

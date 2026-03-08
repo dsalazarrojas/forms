@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used for checking out key items, presumably for maintenance, repair, or other purposes. It is likely used in an industrial or inventory management context where items are assigned to specific categories and need to be accounted for in the checkout process. The form is probably used by a technician, engineer, or other maintenance staff to record the details of a checked-out item.
-
-To prevent duplication, ensure that each field is filled in completely and accurately, and that the item being checked out is not already assigned to another individual. This form is a critical component of the overall checkout process, and accurate completion is essential for maintaining accurate inventory records and ensuring proper accountability.
-</thinking>
-
 # key_checkout_form - Help Guide
 ## Purpose
 The key_checkout_form is used to check out key items, including recording first name, last name, address, email, phone number, date, time, note, assigned tool, form ID, category, and output file.

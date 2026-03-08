@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Before starting, let's ensure that this form is only accessible to invited guests and that it's not a duplicate submission for the same event. This form is designed to collect RSVP information for the Art Gallery Expansion Launch event. The event details will be displayed below the form.
 
 # Art Gallery Expansion Launch RSVP Form - Help Guide

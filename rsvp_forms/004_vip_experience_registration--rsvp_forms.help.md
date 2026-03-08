@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register for a VIP experience, which is a special event or activity that requires exclusive or premium attention. The form is used to gather information about the VIP experience, including details about the experience itself, the date and time of the experience, the duration of the experience, and the contact information for the person or team hosting the experience. The fields in this form are meant to be completed by individuals or teams registering for the VIP experience, and will help the organizers of the experience to get in contact with them to finalize the details.
-
-The form includes fields for the VIP experience name, RSVP status, phone number, email, and other details about the experience. The form also includes fields for the hosting information, such as name, email, phone number, and notes.
-
-Please note that the form is meant to be completed by individuals or teams registering for a VIP experience, not by the experience organizers or staff.
-</thinking>
 # vip_experience_registration - Help Guide
 ## Purpose
 The vip_experience_registration form is used to collect information from individuals or teams registering for a VIP experience.

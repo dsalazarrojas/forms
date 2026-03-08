@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # michelle_mckay_color_street_on_hand_inventory - Help Guide
 
 ## Purpose

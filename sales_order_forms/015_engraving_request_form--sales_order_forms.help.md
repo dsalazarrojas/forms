@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial part of our sales process, and it serves as the primary means of collecting customer information and specific details for custom engraving requests. Its purpose is to provide a clear and structured way for our customers to share their requirements and instructions with our team, ensuring we can deliver the products they want with precision and accuracy. It's essential to use this form to avoid duplication of efforts and miscommunication. Please use it carefully to ensure all relevant information is captured accurately.
-</thinking>
-
 # Engraving Request Form - Help Guide
 ## Purpose
 This form is designed to collect customer information and specific details for custom engraving requests.

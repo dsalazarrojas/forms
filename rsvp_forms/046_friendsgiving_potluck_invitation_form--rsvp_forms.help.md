@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Friendsgiving Potluck Invitation Form", I'll first need to understand its purpose and the internal reasoning behind it. This guide should help users understand how to complete the form efficiently and accurately. 
-
-The form is meant to help plan and organize a Friendsgiving potluck dinner, where guests can input their name, select potential hosts, choose the type of dishes they will bring, and RSVP with their email address. The fields should be self-explanatory and easy to complete.
-
-</thinking>
-
 # Friendsgiving Potluck Invitation Form - Help Guide
 
 ## Purpose

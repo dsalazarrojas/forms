@@ -19,16 +19,3 @@ To complete this form, simply fill out the fields with the required information 
 - **Comments**: If you have any comments or special requests, enter them here.
 - **RSVP by**: Choose a date and time by which you will RSVP.
 
-<thinking>
-
-This form is designed to gather information about employee attendance at the Corporate Leadership Mixer. The purpose of the form is to help the event organizers know who is coming and make necessary arrangements. Please fill out the form accurately and completely. Note that some fields are not required, but it's best to fill them out for a smoother experience.
-
-The "Will Attend" field is a simple yes/no question to help us gauge attendance numbers. The "Number of Guests" field is used to help us plan for catering and seating. The "Food Preference" and "Dietary Restrictions" fields are for you to indicate your dietary needs. The "Comments" field is for any special requests or comments you may have.
-
-The "RSVP by" field is for you to set a date and time by which you will RSVP. Please try to be as specific as possible to help us plan the event.
-
-This form will not be used for any other purpose than for event planning and management. Your information will not be shared with any other parties without your consent.
-
-Please review the form carefully and fill it out according to your needs. If you have any questions or concerns, do not hesitate to reach out to us.
-
-</thinking>

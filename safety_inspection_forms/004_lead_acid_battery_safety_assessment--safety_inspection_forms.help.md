@@ -1,9 +1,3 @@
-<thinking>
-This form is used to assess the safety and handling procedures of lead-acid batteries. It's essential to fill out this form accurately to ensure proper storage and handling practices.
-The form is used for safety inspection and evaluation of lead-acid battery storage facilities, focusing on the location, readiness for training, storage conditions, safety equipment, and other relevant aspects. Ensure the form is completed for each location where batteries are stored.
-This form is a critical assessment tool, and the provided fields are used to gather information on various aspects of lead-acid battery storage safety.
-</thinking>
-
 # lead_acid_battery_safety_assessment - Help Guide
 ## Purpose
 This form is designed to evaluate the safety and handling procedures of lead-acid batteries, ensuring proper storage and handling practices.

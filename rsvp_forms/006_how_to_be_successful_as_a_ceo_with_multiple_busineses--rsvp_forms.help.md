@@ -1,15 +1,3 @@
-<thinking>
-This form is a tool designed to guide CEOs (Chief Executive Officers) on how to be successful in managing multiple businesses. The form is an AI-generated adaptation of a public survey topic and is not affiliated with any specific form platform. Its purpose is to help CEOs identify their strengths and areas for improvement in running multiple businesses. This form will be useful for CEOs who want to optimize their leadership skills and strategies for better performance.
-
-This form appears to be a generic survey or assessment tool, rather than a form for actual RSVP (Response-Back Service Protocol) or event registration purposes. The title "RSVP Form" is misleading in this case. To avoid confusion, the form will be restructured to clarify its intended use.
-
-The form has a mix of text and select fields, which may suggest it's meant to be completed by a single person or a small group of users. However, its actual usage and purpose remain to be clarified.
-
-The form contains fields related to feelings of overwhelm, time management, stress levels, and strategies for success with multiple businesses. These questions suggest it's meant to be a self-assessment or introspection tool for CEOs.
-
-The form is designed to be completed by a single user, likely a CEO or someone in a leadership position.
-</thinking>
-
 # How To Be Successful As A Ceo With Multiple Businesses - Help Guide
 ## Purpose
 The form is designed to help CEOs identify their strengths and areas for improvement in running multiple businesses, guiding them on how to be successful in leadership roles.

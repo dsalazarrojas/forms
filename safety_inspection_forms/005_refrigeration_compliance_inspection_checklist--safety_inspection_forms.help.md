@@ -1,19 +1,3 @@
-<thinking>
-
-This form is intended to be a comprehensive checklist for refrigeration compliance inspection, which is crucial for ensuring the safety of food and products stored in refrigerated units. This form will help inspectors collect data and assess the compliance of refrigeration units with relevant regulations and standards. The form is designed to be completed by inspectors who need to evaluate the condition of refrigeration units, record their findings, and submit their results.
-
-The form is divided into several sections that cover various aspects of refrigeration inspection, including the location, equipment, and inspection status.
-
-To complete this form, inspectors need to follow the next steps:
-
-1. Enter the location and inspection information in the corresponding fields.
-2. Evaluate the refrigeration unit's status, including its temperature, refrigerant level, and maintenance status.
-3. Record the results of leak tests and provide any comments or notes.
-4. Enter the inspection date and time.
-5. Sign and date the form to confirm completion.
-
-</thinking>
-
 # Refrigeration Compliance Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to guide inspectors through the process of evaluating refrigeration units for compliance with relevant regulations and standards.

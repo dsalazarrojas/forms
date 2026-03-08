@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for the purpose of a Halloween sale or order. It appears to be focused on collecting details about the sale, such as the items being sold, their quantity, and price, as well as shipping and customer information. However, there seems to be some redundancy in the customer contact information fields, with multiple fields for phone and email numbers. It's possible that this form was generated to accommodate different scenarios or use cases that I am not aware of. Further investigation into the specific use case of this form may be necessary to ensure that this explanation is accurate.
-
-The form consists of 9 fields, each with a label and hint, and 7 of them are required. Fields are organized into two categories: customer information and sale details. 
-
-To complete this form, follow these steps:
-
-1. Fill in the customer information (name, phone number, and email address).
-2. Specify the items to be sold and their quantities.
-3. Enter the sale price.
-4. Choose the shipping method.
-5. Optionally, add customer messages and notes as needed.
-6. Enter the shipping address.
-7. Enter the billing address.
-8. Optionally, add additional customer contact information (phone number and email address).
-
-Please note that this form seems to be designed for a specific use case or scenario, and it's possible that some fields could be removed or combined without affecting the form's purpose.
-
-</thinking>
-
 # halloween_sale_order_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a Halloween sale or order. It gathers details about the sale, shipping, and customer information.

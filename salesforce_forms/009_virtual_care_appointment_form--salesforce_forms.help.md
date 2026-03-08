@@ -1,5 +1,3 @@
-<thinking>...The Virtual Care Appointment Form is a crucial tool for scheduling and managing virtual care appointments. This form is designed to collect essential information from patients and providers to ensure seamless and secure virtual care sessions. To ensure accurate and complete data entry, please review the form carefully before proceeding.</thinking>
-
 # Virtual Care Appointment Form - Help Guide
 ## Purpose
 The Virtual Care Appointment Form is a critical tool for scheduling and managing virtual care appointments. This form helps patients and providers collect essential information for secure and efficient virtual care sessions.

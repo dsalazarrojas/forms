@@ -1,20 +1,3 @@
-<thinking>
-This form is likely used for customers to book a home exchange program, a service that allows people to live in someone else's home for free, but in return for taking care of it while the homeowner is away.
-To determine this form's purpose and fields, let's analyze the provided YAML fields:
-
-The form has several fields that seem to be related to the program's booking process. The fields are divided into several categories, which might be used to gather specific information from the users. The fields include:
-* `title`: A text field for the form title, which might be used to describe the form's purpose.
-* `form_title`: Another text field with a similar name, which might be used as a placeholder or for internal reference.
-* `category`: A select-one field with options "Reservation Forms" and "Other", which might be used to categorize the form's purpose.
-* `description`: Two text fields, `form_description` and `form_description_2`, which might be used to provide more details about the home exchange program.
-* `review`: A time field, which might be used to schedule a review or assessment of the program.
-* `follow_up`: A select-multiple field with options "Faster" and "Smoother", which might be used to indicate the preferred response time for follow-up activities.
-* `email` and `phone`: Text fields for contact information.
-* `note`: Two note fields, `form_note` and `form_description_3`, which might be used for general notes or comments.
-
-The form is not strictly a traditional booking form, as it has a wide range of fields with varying purposes. It might be used for both the initial booking process and for providing follow-up information.
-</thinking>
-
 # Home Exchange Program Booking Form - Help Guide
 ## Purpose
 This form is for customers to book a home exchange program, a service that allows people to live in someone else's home for free, but in return for taking care of it while the homeowner is away.

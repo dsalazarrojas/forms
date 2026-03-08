@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a Regatta Crew RSVP Form, used for crew members to provide information about themselves and their boat for a regatta event. I'll provide a detailed help guide to ensure end-users understand its purpose and usage.
-
-</thinking>
-
 # Regatta Crew RSVP Form - Help Guide
 
 ## Purpose

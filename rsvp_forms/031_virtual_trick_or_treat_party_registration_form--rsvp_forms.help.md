@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to register attendees for a virtual trick-or-treat party. This form will help gather information from individuals interested in participating in the virtual event. It's a basic registration form, and the fields requested are fairly self-explanatory. However, some fields may require additional clarification for users unfamiliar with their intent. This form is not affiliated with any specific platform or organization and is intended for public use. The fields are not overly complex, and most are straightforward to fill out. Please ensure to only fill out the fields relevant to your participation in the event.</thinking>
-
 # Virtual Trick Or Treat Party Registration Form - Help Guide
 ## Purpose
 This form is for registering attendees for the virtual trick-or-treat party. Please fill out the form completely to ensure your participation in the event.

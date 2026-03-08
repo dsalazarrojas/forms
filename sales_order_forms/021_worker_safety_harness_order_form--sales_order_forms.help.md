@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "Worker Safety Harness Order Form", we need to consider the form's purpose, how to complete it, and what each field means. The form is used to order worker safety harnesses, which are essential equipment for protecting workers from falls and other hazards on the job site. The form is likely to be filled out by supervisors or managers in charge of inventory and logistics. To ensure accurate and efficient processing, it's crucial to understand each field's purpose and requirements.
-
-</thinking>
-
 # Worker Safety Harness Order Form - Help Guide
 ## Purpose
 The Worker Safety Harness Order Form is designed to collect essential information for ordering worker safety harnesses. Please complete this form accurately to ensure timely and correct delivery of the necessary equipment.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used for customers to place orders for T shirts through the ECheck.Net platform. The form allows customers to input their information and confirm their payment details. The form fields are designed to be completed by customers who want to purchase T shirts online. Please ensure that this form is not used for any other purpose other than ordering T shirts through ECheck.Net.
-</thinking>
 # ECheck.Net T Shirt Order Form - Help Guide
 ## Purpose
 The ECheck.Net T Shirt Order Form is a form used for customers to place orders for T shirts through the ECheck.Net platform.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that occur in a restaurant setting, such as accidents, injuries, or other safety incidents. The form should be used to report incidents that have already occurred, and not to predict or anticipate potential incidents. Each field should be filled out as accurately and thoroughly as possible to help the restaurant management team investigate and resolve the incident efficiently. This form should not be used to report non-incident related issues, such as maintenance requests or employee performance issues.
-</thinking>
-
 # Restaurant Incident Report Form - Help Guide
 ## Purpose
 The Restaurant Incident Report Form is a tool for reporting incidents that occur within the restaurant environment. It is essential to report incidents as soon as possible to ensure that the restaurant management team can investigate and address the issue promptly.

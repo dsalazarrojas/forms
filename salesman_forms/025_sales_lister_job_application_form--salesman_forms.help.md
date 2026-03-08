@@ -1,5 +1,3 @@
-<thinking>This form is designed to capture essential information from sales listers, including contact details, employment status, sales experience, sales performance, sales technology skills, and submission status. The form has multiple pages with fields that require text inputs, multiple-select, and single-select options. It's crucial that each field is filled out accurately to ensure that all necessary information is captured. Please take a moment to review the following help guide to get the most out of this form.</thinking>
-
 # Sales Lister Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from sales listers about their contact details, employment status, sales experience, sales performance, sales technology skills, and submission status.

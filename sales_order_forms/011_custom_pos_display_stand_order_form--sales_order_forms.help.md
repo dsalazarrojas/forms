@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to capture information about a custom POS (Point of Sale) display stand order. The form is intended to collect relevant details from the customer, including customer information, display specs, artwork, quantity, payment method, order date, and order time. The purpose of this form is to facilitate accurate and efficient processing of orders. 
-
-The form is divided into multiple pages, each with a specific field set. The customer can navigate through the pages to provide the required information.
-
-Upon reviewing the form structure, it can be noted that some fields are optional. However, it is crucial to understand the relevance and importance of each field to ensure accurate and complete information collection.
-
-</thinking>
-
 # Custom POS Display Stand Order Form - Help Guide
 ## Purpose
 This form is used to collect information about a custom POS display stand order from the customer.

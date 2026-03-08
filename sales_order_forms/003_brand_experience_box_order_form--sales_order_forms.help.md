@@ -1,5 +1,3 @@
-<thinking>As a sales order form, the Brand Experience Box Order Form is designed to collect essential customer information for processing orders and ensuring proper shipping and delivery. To prevent errors, please ensure that all required fields are filled out correctly. If you're unsure about any field, refer to the field's specific explanation below.</thinking>
-
 # Brand Experience Box Order Form - Help Guide
 ## Purpose
 This form is for customers to order brand experience boxes, which are custom packages containing various items for a specific brand experience. By completing this form, you'll be able to provide all necessary details for the order and ensure it's processed accurately.

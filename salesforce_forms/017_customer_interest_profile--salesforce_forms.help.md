@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect customer information for profiling and follow-up purposes. The form is used by the sales team to gather details about the customer's interests, preferences, and experience to better understand their needs and provide personalized service. 
-
-When designing this form, we aimed to keep it simple and straightforward, with clear and concise labels for each field. However, we must consider that the form fields may be unclear or confusing for end-users, which may lead to errors or misinterpretation.
-
-Before filling out the form, please review the fields and ensure that all required information is provided and that the answers are accurate and relevant.
-
-</thinking>
-
 # Customer Interest Profile - Help Guide
 
 ## Purpose

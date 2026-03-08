@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form is to collect information about the current stock of Color Street nail polish shades. This includes dates of inventory counts, the name of the person conducting the count, the storage location, and counts of each collection. Additionally, it allows for the reporting of popular shades and those that need to be re-stocked. This form is designed to be a comprehensive and organized way to track and record inventory levels.
-
-This form will likely be used by salon administrators or managers to ensure that inventory levels are accurate and up-to-date. By using this form, they can identify which shades are running low and need to be re-stocked, and make informed decisions about ordering more product... </thinking>
-
 # Color Street Current Inventory - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the current stock of Color Street nail polish shades. This includes dates of inventory counts, collection counts, and notes about low and out-of-stock items.

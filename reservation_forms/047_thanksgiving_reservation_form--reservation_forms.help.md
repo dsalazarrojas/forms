@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for a Thanksgiving reservation. This form is likely used by a business that provides catering or dining services during the Thanksgiving holiday. The form is designed to gather the customer's name, contact information, and reservation details such as date, time, and party size. This information is likely used to confirm and process the customer's reservation.
-</thinking>
-
 # Thanksgiving Reservation Form - Help Guide
 
 ## Purpose

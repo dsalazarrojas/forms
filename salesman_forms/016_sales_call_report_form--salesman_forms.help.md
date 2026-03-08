@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report on sales calls made by sales managers. The purpose of this form is to track the details of the sales call, including the date and time of the call, contact information, and outcome. This form helps the sales team to keep track of their activities and provide a clear record of their interactions with customers. The information collected in this form will be used to inform future sales strategies and improve the overall sales process.
-
-</thinking>
-
 # Sales Call Report Form - Help Guide
 ## Purpose
 This form is used to report on sales calls made by sales managers. The information collected in this form will be used to inform future sales strategies and improve the overall sales process.

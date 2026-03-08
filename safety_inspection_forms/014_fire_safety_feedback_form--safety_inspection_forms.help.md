@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather feedback from participants on their fire safety training experiences. It is meant to be completed by users who have undergone fire safety training and are providing insight into their understanding of fire safety protocols and equipment used. This form is only for users who have received fire safety training, and it is meant to be a one-time submission, not an ongoing or repeatable process. Please ensure that this form is completed accurately and thoroughly to provide valuable information for fire safety improvement initiatives.</thinking>
-
 # Fire Safety Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants on their fire safety training experiences. It is intended for users who have undergone fire safety training and are providing insight into their understanding of fire safety protocols and equipment used.

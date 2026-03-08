@@ -1,16 +1,3 @@
-<thinking>
-This form is a safety inspection form for oxyfuel cutting. It appears to be a comprehensive assessment of a person's knowledge and experience in oxyfuel cutting, covering various aspects such as risk factors, safety practices, equipment, training programs, and certification. The form seems to be designed for individuals working in industries such as manufacturing, construction, or oil and gas. The purpose of this form is to gather information about the individual's knowledge and experience in oxyfuel cutting and to assess their understanding of best practices and safety procedures.
-
-Before proceeding, please note that this form is a general template and may not be specific to your industry or company. It's essential to review the form carefully and adjust it according to your organization's requirements and policies.
-
-This form is not intended to be used as a substitute for formal training or certification programs. It is a self-assessment tool to help individuals evaluate their knowledge and experience in oxyfuel cutting.
-
-To ensure the accuracy and completeness of the responses, please review the form carefully before submitting it.
-
-Please make sure to answer all questions truthfully and accurately, as this form is designed to assess your knowledge and experience in oxyfuel cutting.
-
-</thinking>
-
 # Oxyfuel Cutting Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to assess an individual's knowledge and experience in oxyfuel cutting, covering various aspects such as risk factors, safety practices, equipment, training programs, and certification.

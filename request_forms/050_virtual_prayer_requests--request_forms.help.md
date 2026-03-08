@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and not duplicated. This form is meant to gather information for virtual prayer requests, which is a specific and unique use case. We want to avoid having multiple forms with similar purposes and names. Before filling out this form, please confirm that you are requesting virtual prayers and that this is the correct form for your needs.
-</thinking>
-
 # Virtual Prayer Requests - Help Guide
 ## Purpose
 This form is designed to gather information for virtual prayer requests. It helps us understand the specific requests and needs of individuals, which allows us to provide more effective and personalized support.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to request custom logo designs for their business or organization. The form gathers information about the logo description, design type, color scheme, font size and type, logo position, file upload, and order details such as email, phone number, name, company name, address, zip, state, city, and order type and quantity. The form requires the user to confirm their submission.
-</thinking>
-
 # Logo Design Order Form - Help Guide
 ## Purpose
 The purpose of this form is to request custom logo designs for your business or organization.

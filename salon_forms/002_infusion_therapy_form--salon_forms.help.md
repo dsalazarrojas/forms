@@ -1,15 +1,3 @@
-<thinking>
-This form is for capturing patient information and infusion therapy details. The purpose of this form is to collect data on patients undergoing infusion therapy, including demographic details, medical history, and specific infusion-related information. This form is likely used by medical professionals or healthcare administrators to manage patient records and monitor treatment progress. To confirm the relevance and non-duplication of this form, it is essential to review the fields and ensure that they align with the specific needs of the infusion therapy process.
-
-The form consists of 12 fields across 1 page. Fields are divided into sections, including Patient Information, Contact Information, Medical Information, Infusion Details, and Additional Data. Each field has a specific label, type, and required status.
-
-Before completing this form, please review the following:
-
-* Ensure you have access to the necessary information for each field.
-* Review each field's label and type to understand its purpose.
-
-</thinking>
-
 # infusion_therapy_form - Help Guide
 ## Purpose
 The infusion_therapy_form is a tool to collect patient information and infusion therapy details.

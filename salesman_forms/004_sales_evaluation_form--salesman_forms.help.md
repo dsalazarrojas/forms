@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to track sales performance and related information for a sales team. This form likely exists within a company to aid in monitoring sales targets and outcomes, enabling efficient analysis and evaluation of team sales activities. However, the precise purpose and use of this form within an organization depend on the company's sales management structure and specific needs.
-To ensure accuracy, please review this guide carefully and refer back to the form if you are unsure. The fields may be subject to change, and new fields might be added or removed as the form evolves.
-</thinking>
-
 # sales_evaluation_form - Help Guide
 ## Purpose
 The sales form is designed to collect information on sales performance and relevant details.

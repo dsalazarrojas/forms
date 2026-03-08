@@ -1,18 +1,3 @@
-<thinking>
-
-To ensure that this guide provides the most accurate and helpful information for end users, let's review the provided form's purpose and fields before finalizing the guide. The form appears to be designed for evaluating the quality of waitstaff assistance, gathering feedback on how issues were resolved, and documenting the follow-up process after an issue has occurred.
-
-**Potential Duplicate Form Instances**: 
-- There might be similar forms or questionnaires used in other contexts, such as "customer service" or "support team" evaluations. To avoid duplication, this guide will focus on explaining the specific fields and their purpose within this form's context.
-
-**Purpose**: 
-This form is designed to collect feedback from staff on the assistance provided by waitstaff, ensuring that the waitstaff are meeting the expectations of resolving issues and providing friendly service during their shifts.
-
-**Assumptions**: 
-- This form will be filled out by waitstaff members or their supervisors after an issue has occurred during a shift.
-
-</thinking>
-
 # Waitstaff Assistance Survey - Help Guide
 
 ## Purpose

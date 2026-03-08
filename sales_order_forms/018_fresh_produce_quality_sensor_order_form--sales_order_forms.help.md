@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to capture essential information for ordering a Fresh Produce Quality Sensor. The fields are meant to collect specific details related to the sensor order, including its description, details, and order-related information. The form's purpose is likely to support the process of purchasing or acquiring a sensor for fresh produce quality monitoring. To confirm, the form's category is "sales_order_forms" and its title is "Fresh Produce Quality Sensor Order Form", suggesting it's intended for sales or purchasing purposes in the agriculture or food industry.
-
-This form has three fields:
-
-- "order_details" (Page 1)
-- "sensor_details" (Page 2)
-- "sensor_order" (Page 3)
-
-Given the fields' names and the context, it seems the form is designed to collect information about the order, the sensor's specifications, and the actual order placed for the sensor. This form might be used by sales teams or procurement teams to document and track orders for quality sensors used in the fresh produce industry.
-
-Before proceeding, ensure you have reviewed your company's policies and procedures for purchasing or managing orders, and that you understand the context in which this form is being used within your organization.
-
-</thinking>
-
 # Fresh Produce Quality Sensor Order Form - Help Guide
 
 ## Purpose

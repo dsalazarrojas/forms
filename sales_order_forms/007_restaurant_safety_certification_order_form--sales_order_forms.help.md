@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # restaurant_safety_certification_order_form - Help Guide
 ## Purpose
 The restaurant safety certification order form is designed to collect contact information and payment details for the purpose of ordering a restaurant safety certification. This form helps restaurant owners or managers to provide their contact details and payment information for the certification process.

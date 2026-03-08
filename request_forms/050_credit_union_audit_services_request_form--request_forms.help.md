@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from credit union members or staff to request audit services. The form will ask for basic contact information and specifics about the audit service requested, including the type of audit, credit union, and dates. This form may be used internally to track and manage credit union audit requests.
-
-</thinking>
-
 # Credit Union Audit Services Request Form - Help Guide
 ## Purpose
 

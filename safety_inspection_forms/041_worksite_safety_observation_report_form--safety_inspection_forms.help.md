@@ -1,14 +1,4 @@
-### <thinking>... thinking>
-
-The purpose of this form is to collect information on the safety and conditions of a worksite, which is crucial for monitoring and mitigating potential hazards. This form aims to gather details on the level of risk and necessary interventions to ensure a safe working environment. 
-
-Please note that this form appears to be a template form with a wide range of fields, some of which may be irrelevant or unnecessary for the intended purpose of safety observation reporting. It is essential to review the form carefully and remove any unnecessary fields to ensure it serves its intended purpose without overwhelming users.
-
-Before starting, it is also worth noting that the form seems to be a combination of single and multiple-choice select fields, date and time fields, and text fields, which may cause some confusion for users. It would be beneficial to consider consolidating similar fields or providing clear instructions on how to complete each field.
-
-</thinking>
-
-# Worksite Safety Observation Report Form - Help Guide
+### # Worksite Safety Observation Report Form - Help Guide
 ## Purpose
 The Worksite Safety Observation Report Form is designed to collect information on the safety and conditions of a worksite to help identify potential hazards and ensure a safe working environment.
 

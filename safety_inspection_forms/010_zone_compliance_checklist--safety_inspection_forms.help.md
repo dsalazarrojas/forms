@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form, titled "Zone Compliance Checklist," appears to be for safety inspections in various zones. This form likely serves as a tool to document and track compliance within these zones, ensuring that each area of the facility meets the required safety standards. 
-
-This form could be used by safety teams or other personnel responsible for maintaining facility safety. It's possible that this form is a part of a broader safety inspection process, where teams conduct regular checks and reports of each zone's compliance. 
-
-It's not immediately clear if this form is used for a specific type of facility or industry, but its purpose seems to be focused on the safety inspection process for various zones.
-
-Given the numerous fields on this form, it's likely that it's a comprehensive form for collecting data on each zone's compliance status. The fields cover a range of information, including date and time stamps, zone selection, team leader and team member involvement, status of the inspection, comments, submitter information, and more.
-
-Before proceeding, let's confirm that this form is indeed intended for tracking the compliance of various zones within a facility or organization and that the purpose and usage of this form are as described. This confirmation will help ensure that the help guide is accurately reflecting the form's intended use case.
-</thinking>
-
 # Zone Compliance Checklist - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>... 
-
-We've created this Fire Safety Inspection Report Form to assist inspectors in documenting the findings of a thorough fire safety inspection. This form is meant to be completed by safety inspectors to report on potential fire hazards, safety equipment, and other relevant information. It's essential to fill out this form accurately and honestly to ensure accurate reporting and prevent potential fire risks.
-
-Before starting the form, ensure that you're not duplicating efforts. If you've already completed a similar form, please refer to it instead of creating a new one.
-
-</thinking>
-
 # Fire Safety Inspection Report Form - Help Guide
 ## Purpose
 This form is designed to guide safety inspectors in documenting their findings on fire safety inspections.

@@ -1,5 +1,3 @@
-<thinking>Since this form is for placing a sales order for Sassy Sparkling Nails With Sabrina, we need to ensure that all required fields are completed accurately and that the form is filled out with the right information. This guide will walk you through each section and field of the form to help you complete it efficiently.</thinking>
-
 # Color Street Inventory Order Form - Sassy Sparkling Nails With Sabrina - Help Guide
 ## Purpose
 This form is for placing a sales order for Sassy Sparkling Nails With Sabrina. Please fill it out carefully to ensure accurate and complete order details.

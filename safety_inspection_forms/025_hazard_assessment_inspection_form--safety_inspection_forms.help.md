@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hazard_assessment_inspection_form - Help Guide
 ## Purpose
 This form is designed to assess and document the hazards found during an inspection. It aims to identify the type of hazard, its risk level, and the necessary measures to mitigate or control it. The form also allows for the observation of specific areas and notes, as well as the creation of an action plan for mitigation.

@@ -1,11 +1,3 @@
-<thinking>
-**Internal Note:**
-This form is designed to track sales events for closing events 7, 12, and 14. It's crucial to ensure that the correct information is captured in this form to facilitate accurate sales tracking and reporting.
-
-Before proceeding, please confirm that this form is relevant to your task and that you're not duplicating efforts. If you're unsure, consult with your supervisor or team lead.
-
-</thinking>
-
 # event_sales_tracker_closing_event_7_12_14 - Help Guide
 ## Purpose
 This form is designed to track sales events for closing events 7, 12, and 14.

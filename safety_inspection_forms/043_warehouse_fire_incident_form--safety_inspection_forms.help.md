@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a warehouse fire incident in a structured and organized manner, ensuring that relevant details are captured accurately and consistently. The purpose of this form is to gather facts about the incident, including the facility where it occurred, the date and time it happened, and a brief description of what took place. This form should be used when reporting a warehouse fire incident, and it is not intended for other purposes. To ensure consistency and accuracy, please complete the form with care and attention to detail. If you are not reporting a warehouse fire incident, this form may not be the most suitable form for your needs. 
-</thinking>
-
 # Warehouse Fire Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about a warehouse fire incident.

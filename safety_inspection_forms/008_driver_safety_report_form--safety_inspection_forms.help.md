@@ -1,11 +1,3 @@
-<thinking>
-
-Before we start creating the help guide, let me confirm that I understand the task.
-
-The form "driver_safety_report_form" is used for reporting incidents or events related to driver safety. It has several fields that require input from the user, and I will explain each field in the help guide.
-
-</thinking>
-
 # driver_safety_report_form - Help Guide
 ## Purpose
 The driver_safety_report_form is used for reporting incidents or events related to driver safety. It helps to document and track safety-related events that may have occurred during a vehicle's operation or maintenance.

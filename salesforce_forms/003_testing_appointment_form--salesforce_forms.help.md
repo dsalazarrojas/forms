@@ -1,8 +1,3 @@
-<thinking> 
-  This form is designed to collect information from patients for testing appointments. The form will guide users through a series of fields to gather the necessary data for scheduling and preparing for these appointments. 
-  Before starting, please ensure that you are completing this form for the intended purpose and not duplicating efforts. 
-</thinking>
-
 # testing_appointment_form - Help Guide
 ## Purpose
 The testing_appointment_form is a form used to collect information from patients for testing appointments. This form is essential for scheduling and preparing for these appointments, ensuring that all necessary details are captured.

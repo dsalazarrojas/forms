@@ -1,21 +1,3 @@
-<thinking>
-Form designers must carefully consider the purpose of the form, the clarity of the instructions, and the completeness of the fields when creating a user-friendly form. The "monthly_order_submission_form" is designed to gather information related to sales order submissions. It appears to be a comprehensive form meant to cover various aspects of the order submission process.
-
-Upon review, the form includes fields for customer information (customer name, email, phone), order details (order items, quantity, price), payment terms, delivery information (date, time), and submission date/time. The form also includes fields for special requests and payment method details.
-
-The following fields seem to be included for redundancy or overlap with other fields: "Submission Date", "Submission Time", and "Submission Date/Time". These fields might be considered for removal to avoid duplication of information.
-
-To ensure the form meets the intended purpose, it would be helpful to confirm that the following aspects are addressed:
-
-*   Is the form accessible and user-friendly?
-*   Are the field labels clear and concise?
-*   Are all fields necessary and relevant?
-*   Are any fields duplicating information?
-
-Upon review, it appears that the form's purpose and field structure align closely with the provided YAML. However, further review and refinement are necessary to finalize the form's design and ensure user understanding and ease of completion.
-
-</thinking>
-
 # monthly_order_submission_form - Help Guide
 
 ## Purpose

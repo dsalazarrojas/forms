@@ -1,10 +1,3 @@
-<thinking> 
-The form is intended to document incidents that occurred during emergency response situations, such as accidents, injuries, or damage to equipment or facilities. It is used to gather information about the incident, including the type of incident, any injuries or damage that occurred, and the response actions taken by the emergency team. The form is designed to be completed by personnel who responded to the incident, such as safety inspectors or incident commanders.
-
-Before starting, please note that this form is for general use and does not require any special expertise or training. However, it is essential to provide accurate and thorough information about the incident to ensure that the correct actions are taken to address the situation.
-
-</thinking>
-
 # emergency_assembly_checklist - Help Guide
 ## Purpose
 The emergency assembly checklist is a form used to document incidents that occurred during emergency response situations. It helps gather information about the incident, including the type of incident, injuries, damage, and response actions taken.

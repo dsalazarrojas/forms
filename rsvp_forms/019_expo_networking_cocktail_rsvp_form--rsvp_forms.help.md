@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to capture the RSVP information for attendees and their guests for a networking cocktail event. This form allows users to input details such as their name, email, phone number, and other relevant information. The purpose is to ensure that the event organizers have accurate RSVP information for catering and logistical purposes. This guide will walk you through the process of completing the Expo Networking Cocktail RSVP Form.
-
-Note: Please ensure you have the necessary permissions to submit the form.
-
-</thinking>
-
 # Expo Networking Cocktail RSVP Form - Help Guide
 ## Purpose
 The Expo Networking Cocktail RSVP Form is a simple form to help event organizers gather RSVP information from attendees and their guests. It's a quick and easy way to provide details about your attendance and any guest information.

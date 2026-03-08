@@ -1,11 +1,3 @@
-<thinking>
-
-To confirm that this form is the correct one, the label and description of each field will be checked against our internal database to ensure that this form has not been duplicated. If it has been, it will be updated accordingly.
-
-This form is designed to collect safety inspection suggestions from employees. It's used to identify potential hazards and suggest ways to address them. The form is divided into several sections for easy navigation and clarity. Each field is required, unless otherwise specified.
-
-</thinking>
-
 # Safety Suggestion Form - Help Guide
 ## Purpose
 This form is used to collect safety inspection suggestions from employees. It helps identify potential hazards and suggest ways to address them.

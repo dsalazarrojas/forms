@@ -1,6 +1,3 @@
-<thinking> 
-This form seems to be a performance evaluation form for restaurant employees. It's likely used for restaurant managers to assess employee performance, identify areas for improvement, and track progress in development. However, I'll need to clarify the purpose and relevance of each field to ensure I provide an accurate and practical guide for the end-user.</thinking>
-
 # **Performance Evaluation Form - Help Guide**
 ## Purpose
 The Performance Evaluation Form is designed to help restaurant managers assess employee performance, identify areas for improvement, and provide guidance for growth and development. It's a comprehensive form that covers various aspects of an employee's work, from their strengths and challenges to their development areas.

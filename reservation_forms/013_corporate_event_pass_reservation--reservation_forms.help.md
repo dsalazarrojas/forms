@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "corporate_event_pass_reservation" form is to allow employees to reserve corporate event passes for themselves or their team members. This form gathers necessary information for the reservation process.
-
-To prevent potential duplication, it's essential to ensure that each user fills out the form accurately and completely. The form's fields are designed to guide the user through the process, but it's crucial to double-check each field's requirements and options to avoid errors.
-
-This form is typically used by employees to reserve passes for corporate events, such as conferences, workshops, or training sessions. The fields in this form will be explained below to ensure users understand their purpose and how to complete them correctly.
-
-</thinking>
-
 # corporate_event_pass_reservation - Help Guide
 ## Purpose
 The "corporate_event_pass_reservation" form is designed to help employees reserve corporate event passes for themselves or their team members. This form gathers essential information for the reservation process, ensuring a smooth and efficient experience.

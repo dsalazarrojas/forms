@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for safety training purposes, specifically for lifting. It's crucial to understand that safety training is a critical aspect of any job that involves lifting, as it ensures the participant's safety and well-being. Before completing this form, please ensure you have not already submitted a similar form for this specific training purpose, as duplicate submissions may cause unnecessary confusion and delay in processing. If you're unsure, you can check with your supervisor or the relevant department to confirm.
-</thinking>
-
 # Safety Training For Lifting - Help Guide
 ## Purpose
 The purpose of this form is to collect information for safety training purposes, specifically for lifting. It's essential to complete this form accurately and thoroughly to ensure that your safety and well-being are protected during lifting operations.

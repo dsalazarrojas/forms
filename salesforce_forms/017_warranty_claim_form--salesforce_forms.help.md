@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of submitting a warranty claim to the salesforce team. The form will help customers provide necessary information to support their claim, including details about the customer and the product, specifics about the claim, any attachments, and a note for additional context. It's essential to fill out this form correctly to ensure the salesforce team can efficiently process and resolve the issue.
-</thinking>
-
 # Warranty Claim Form - Help Guide
 ## Purpose
 This form is used to submit a warranty claim to the salesforce team. To create a successful claim, please ensure you have the necessary information and attachments ready.

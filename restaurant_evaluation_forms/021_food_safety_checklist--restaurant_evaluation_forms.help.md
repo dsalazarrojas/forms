@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to evaluate the food safety protocols of a restaurant, ensuring that the food handling and storage procedures, as well as temperature control measures, are in accordance with industry standards.
-This form should be used for restaurants, cafes, or any other establishments that handle and serve food.
-Please note that this form has two pages.
-To prevent duplication of effort, ensure that you are using this form for the first time you are evaluating this restaurant.
-</thinking>
-
 # Food Safety Checklist - Help Guide
 ## Purpose
 This form is designed to assess a restaurant's food safety protocols and ensure that they are in compliance with industry standards.

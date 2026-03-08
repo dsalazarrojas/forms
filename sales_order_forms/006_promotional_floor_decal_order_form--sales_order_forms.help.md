@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be designed for sales orders, specifically for promotional floor decals. This form likely aims to gather information from customers for custom decal orders, such as artwork type, size, color, and quantity, as well as shipping details. However, there seems to be some redundancy in the field names and labels, which may indicate that some fields are intended to be used as alternatives or for different types of decals. 
-</thinking>
-
 # promotional_floor_decal_order_form - Help Guide
 
 ## Purpose

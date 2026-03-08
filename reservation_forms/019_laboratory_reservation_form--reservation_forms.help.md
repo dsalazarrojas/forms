@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate users in reserving a laboratory session or resource. It is designed to collect relevant information about the user's request, including the department(s) they wish to access, the intended use of the laboratory, and the date of the reservation. 
-This form should only be used for reserving purposes and not for other purposes such as general inquiries or comments. 
-It is recommended that users complete this form for each reservation request separately to avoid duplication or non-relevance of the reservation request.
-</thinking>
-
 # Laboratory Reservation Form - Help Guide
 ## Purpose
 The Laboratory Reservation Form is a tool for reserving laboratory sessions or resources. It is used to gather information about your request and ensure that the laboratory is available for you on the desired date and time.

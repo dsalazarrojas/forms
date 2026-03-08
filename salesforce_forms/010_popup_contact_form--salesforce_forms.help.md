@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information from visitors to the website. It is likely being used for sales or general contact purposes. 
-</thinking>
-
 # Popup Contact Form - Help Guide
 
 ## Purpose

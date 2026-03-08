@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users request photography lighting gear for an event or shoot. It collects essential information about the equipment needed, contact details, and other relevant details. This form is likely to be used by event coordinators, photographers, or other stakeholders who need to requisition lighting gear for an event or shoot.
-</thinking>
-
 # photography_lighting_gear_requisition_form_request_forms - Help Guide
 ## Purpose
 This form is designed to gather information for requisitioning photography lighting gear for an event or shoot.

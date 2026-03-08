@@ -1,13 +1,3 @@
-<thinking>Before generating the help guide, I will analyze the form fields and identify any patterns or inconsistencies in the form design. Based on the provided YAML, it appears that the form has the following properties:
-
-* There are 25 fields in total.
-* Most of the fields are text fields, with a few date, time, select multiple, and select one fields.
-* Many fields are not required, which may indicate that they are optional or dependent on other fields.
-* Some fields have similar labels and options, which may suggest that they are related to each other.
-* There are no hints provided for most of the fields, which may indicate that they are not self-explanatory.
-
-To generate the help guide, I will focus on making the explanations concrete, concise, and practical. I will also try to avoid inventing unsupported business logic.</thinking>
-
 # Healthcare Safety Protocol Audit Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the safety protocols in place in a healthcare setting. It is used to ensure that the necessary safety measures are in place to protect patients, employees, and visitors.

@@ -1,6 +1,3 @@
-<thinking>
-I will be creating a user-facing help guide for the "RSVP Communication Form" form based on the provided YAML. The purpose of this form appears to be a general RSVP (Response to a Social Event) form, likely used to collect attendees' information for an event. The form may be used for various types of events, such as conferences, workshops, meetings, or gatherings. To ensure that users complete the form correctly, I will need to review the form fields and provide clear explanations.
-</thinking>
 # RSVP Communication Form - Help Guide
 ## Purpose
 This form is designed to collect information about your response to an event. Please fill in the required fields to confirm your attendance and provide relevant details.

@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's break down the purpose and requirements of this form. This form is for obtaining consent from participants for a safety equipment demonstration. The form should only be filled out once for each participant, and it's essential to ensure that the participant information is accurate and up-to-date to avoid duplication of consent. This form will help in tracking and verifying the consent of participants for the safety equipment demonstration.</thinking>
-
 # Safety Equipment Demonstration Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from participants for a safety equipment demonstration. It's essential to fill it out accurately and thoroughly to ensure the consent is recorded correctly.

@@ -1,12 +1,3 @@
-<thinking>
-The Faculty Engagement Data Access Request form is designed to facilitate requests for access to certain data about faculty members. This form is intended to gather necessary information for the requesting party to understand the scope of the requested data and ensure that the data subject to the request is adequately protected and managed.
-
-To ensure that the requested data is properly managed, we check for non-duplication and relevance before processing each request.
-
-This guide will help you complete the form accurately and effectively.
-
-</thinking>
-
 # Faculty Engagement Data Access Request - Help Guide
 
 ## Purpose

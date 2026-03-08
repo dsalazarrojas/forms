@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a Pile Driving Compliance Affidavit form, which is likely used to document the details of pile driving work performed on a construction site. The form might be part of a larger safety inspection process to ensure that pile driving activities are conducted in compliance with relevant regulations and standards. Before filling out this form, ensure that the work has been completed and that all necessary information is accurate and up-to-date.
-
-To confirm this form's purpose and relevance to the current task or project, verify that the site ID, inspector's name, and client's contact information are correctly filled out. If the form is for a previous project, ensure that it is no longer needed and that any duplicate submissions are avoided.
-
-If the form is not applicable, consider creating a new version with updated information or removing it altogether.
-</thinking>
-
 # Pile Driving Compliance Affidavit - Help Guide
 ## Purpose
 The Pile Driving Compliance Affidavit form is used to document the details of pile driving work performed on a construction site, ensuring that the work is conducted in compliance with relevant regulations and standards.

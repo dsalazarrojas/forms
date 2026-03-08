@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for customers to place orders for Color Street products with Nails By Navis. The form collects contact information (name, email, address, phone number) and order details (polish selection, set names, total sets, sample request). Additionally, it captures payment and logistics information (payment method, payment username, delivery method) for the order. Customers can choose to have a sample sent to them if they request it. The form is primarily used for pre-orders and stock form purposes but also captures additional information for parties or special requests from customers.
 
 # Color Street Order Form - Nails By Navis - Help Guide

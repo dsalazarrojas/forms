@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be a confirmation of attendance and participation in local business networking events. The form will be used to gather information from event attendees about their business name, job title, industry, location, and other details. It will also collect RSVP status and other event specifics.
-
-The form will help event organizers to have a record of who is attending and their contact information. This will enable them to plan and follow up on events more effectively. 
-
-Please ensure you complete the form accurately and provide all required information to ensure proper processing and follow up. 
-
-Please note that this form is intended for local business networking purposes only and will not be shared or sold for any other purpose than event management. 
-
-</thinking>
-
 # Local Business Networking Confirmation - Help Guide
 ## Purpose
 This form is used to confirm your attendance and participation in local business networking events. Please take a few minutes to fill out the form accurately and completely.

@@ -1,11 +1,3 @@
-<thinking>... internal reasoning and duplication checks ...
-
-The Branding Art Request Form is used to collect information from requestors for branding art requests. This form will help us understand their needs and ensure that we meet their requirements accurately and efficiently.
-
-Before proceeding, please ensure that you are filling this form for a new request and not a repeat or updated request. If you need to update an existing request, please use the [Update Request Form] instead.
-
-</thinking>
-
 # Branding Art Request Form - Help Guide
 ## Purpose
 The Branding Art Request Form is a tool to collect information from requestors for branding art requests. This form helps our team understand the requestor's needs and ensure that we deliver accurate and efficient branding art.

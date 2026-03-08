@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Airport Transfers Turkey Air Ports - Help Guide
 ## Purpose
 

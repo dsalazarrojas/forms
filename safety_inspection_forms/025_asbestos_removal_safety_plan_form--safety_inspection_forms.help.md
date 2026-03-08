@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect safety information for asbestos removal projects. It's designed to ensure that all necessary safety measures are taken to prevent exposure and ensure a safe working environment. The form should be completed by project managers and other relevant personnel to guarantee that the site is prepared and ready for asbestos removal.
-
-This form should not be completed more than once per site. If there are multiple projects on the same site, each project should have its own completed form.
-
-</thinking>
 # Asbestos Removal Safety Plan Form - Help Guide
 ## Purpose
 This form is used to ensure a safe and successful asbestos removal project by gathering necessary safety information and protocols. It is a critical document that helps project managers and site personnel prepare and execute the project according to safety regulations.

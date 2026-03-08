@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Afternoon Tea Luncheon" form, I'll review the form's purpose and structure. The form seems to be designed for individuals to RSVP to an event, providing personal details and preferences for the event. The form includes fields for full name, number of guests, attendance status, dietary restrictions, preferred tea blend, and after-party food selection. The form is likely intended for guests to provide information about their participation and preferences to help the host plan the event.
-
-</thinking>
-
 # Afternoon Tea Luncheon - Help Guide
 
 ## Purpose

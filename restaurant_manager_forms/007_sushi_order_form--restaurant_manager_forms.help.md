@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form serves its purpose without duplication or redundancy. The sushi_order_form is designed to collect information for pickup orders in a restaurant. This form should only be used once for each order, and users should complete all necessary fields to avoid errors.
-</thinking>
-
 # sushi_order_form - Help Guide
 ## Purpose
 The sushi_order_form is a tool used to gather pickup order information for customers. Please use this guide to ensure accurate and efficient completion of the form.

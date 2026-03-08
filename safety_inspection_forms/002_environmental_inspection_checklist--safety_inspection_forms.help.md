@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect safety inspection information about a building's environment and fire extinguishing system. This form is designed to be completed by facility managers, safety officers, or other personnel responsible for ensuring the safety and well-being of building occupants and visitors. The form's goal is to gather accurate and up-to-date information about the building's environmental and fire safety features, which can be used to identify potential risks and implement preventive measures to minimize harm. 
-Before completing this form, please ensure you are authorized to access and update building information and that you have the necessary permissions to submit this form. If you are unsure about any aspect of the form, please contact the relevant authority or your supervisor for guidance.
-</thinking>
-
 # environmental_inspection_checklist - Help Guide
 ## Purpose
 This form is designed to collect safety inspection information about a building's environment and fire extinguishing system. Completing this form will help identify potential risks and guide the implementation of preventive measures to minimize harm.

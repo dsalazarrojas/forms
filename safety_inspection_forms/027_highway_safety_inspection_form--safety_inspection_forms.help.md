@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to help inspectors conduct a highway safety inspection. It's a crucial form for evaluating and reporting the condition of vehicles and roadways. This form can be used by anyone performing a safety inspection, ensuring they have a standard format to gather necessary information.
-
-Before proceeding, ensure you're aware of the following:
-* This form should only be used for inspections related to highway safety.
-* If you're unsure about any field or its purpose, refer to the field explanation below.
-* If a field is not required, it doesn't mean it's not important; it might simply be optional or for additional context.
-* Review each field carefully to ensure accurate and complete data collection.
-
-</thinking>
-
 # Highway Safety Inspection Form - Help Guide
 ## Purpose
 The Highway Safety Inspection Form is designed to document the condition of vehicles and roadways to ensure safety standards are met during inspections.

@@ -1,11 +1,3 @@
-<thinking>
-This form is for registering participants in a social media contest. The form is likely used to collect information about the participants, including their personal details, social media handles, and contest-related information. The purpose of this form is to ensure that participants have the necessary details for the contest. 
-This form is part of a larger sales process in Salesforce, and the data collected here will be used to create a participant record in Salesforce. 
-The form fields are designed to be easy to fill out and should not require extensive technical knowledge. 
-However, some fields may require specific information or have specific formats (e.g. email address, phone number). 
-Participants should be able to fill out the form without any issues, but if they need help, they can refer to this guide.
-</thinking>
-
 # social_media_contest_registration_form - Help Guide
 ## Purpose
 This form is for registering participants in a social media contest.

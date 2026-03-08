@@ -1,5 +1,3 @@
-<thinking>As a sandwich order form template, the purpose of this form is to collect information from customers to fulfill their sandwich orders. This form will help the restaurant management to understand customer preferences, such as the type of sandwich they want to order and any additional details about their order. Each field in this form has been designed to gather specific information about the customer and their order, making it easier for the restaurant staff to process the order and provide the best service.</thinking>
-
 # Sandwich Order Form Template - Help Guide
 
 ## Purpose

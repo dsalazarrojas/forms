@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will create a user-facing help guide for the physiotherapy referral form, designed to assist users in completing the form accurately and efficiently.
 
 ## physiotherapy_referral_form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect RSVP (Response to Social Event Planning Invitation) information from individuals interested in attending a language exchange meetup. The purpose of this form is to gather details about the attendees, such as their name, email, language preferences, and schedule preferences. It aims to facilitate smooth organization and communication before the event. This form is intended to be used by individuals interested in attending a language meetup, specifically for language learners or teachers looking to improve their language skills.
-</thinking>
-
 # Language Exchange Meetup RSVP - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in attending a language exchange meetup.

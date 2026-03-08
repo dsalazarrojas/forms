@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for gas station auditors to collect data on the safety and cleanliness standards of gas stations. It is intended for internal use within organizations and is not affiliated with any specific form platforms. The purpose of this form is to help auditors assess the compliance of gas stations with safety and cleanliness regulations. This form will not collect any sensitive or proprietary information. It is a generic form generated based on public metadata and is released under CC BY 4.0 license.
-</thinking>
-
 # Gas Station Audit Checklist - Help Guide
 ## Purpose
 This form is designed for gas stations to self-audit their safety and cleanliness standards.

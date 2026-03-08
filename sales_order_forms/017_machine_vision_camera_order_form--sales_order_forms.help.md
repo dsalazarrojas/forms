@@ -1,18 +1,3 @@
-<thinking>
-To ensure that the user can easily understand how to use the Machine Vision Camera Order Form, let's review the form's purpose and content. 
-
-The Machine Vision Camera Order Form is intended to collect information related to camera orders, including camera type, product type, application details, and various other sales and order related details. 
-
-It is possible that this form may be part of a larger system or workflow used by sales teams to manage camera orders. 
-
-Before proceeding, let's review the provided fields and their types. We have several fields, each with a unique label, type, and options. For instance, "Camera Type" is a select_one field with options "Yes" and "No", indicating that this field is used to select whether the camera is needed or not. Similarly, "Product Type" is a select_multiple field with the same options, indicating that multiple product types can be selected. 
-
-Each field has a label, which should provide a clear indication of what it is for. For example, "Application Details" is for providing additional details about the application of the camera, while "Shipping Address" is for providing the shipping address of the customer. 
-
-With this form, the user should be able to provide all the necessary information for a camera order, including camera type, product type, application details, and other sales and order related details.
-
-</thinking>
-
 # Machine Vision Camera Order Form - Help Guide
 ## Purpose
 The Machine Vision Camera Order Form is a form used to collect information related to camera orders, including camera type, product type, application details, and various other sales and order related details.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to document and record sales orders, capturing essential details such as client information, order dates and times, sale amounts, payment methods, and status updates. This form likely serves as a centralized tool for sales teams or managers to maintain accurate records, track sales progress, and facilitate post-sale follow-ups or issue resolution.
-
-It is expected that each field is filled in with accuracy to ensure that sales records are up-to-date, complete, and correct, facilitating efficient sales processes and data analysis. To avoid duplication, ensure that only unique records are entered for each sale, avoiding unnecessary clutter and potential for confusion.
-
-This form might be used for sales teams in retail, wholesale, or other sales environments. It's also possible that this form could be part of a broader sales management system used for data analysis and performance evaluation.
-</thinking>
-
 # استمارة تدريبات الميديا - Help Guide
 ## Purpose
 The Sales Order Form is used to document and record sales orders, capturing essential details for accurate and efficient sales management.

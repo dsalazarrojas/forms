@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information from individuals who are RSVPing to a sweet 16 celebration event. The purpose of this form is to collect details such as guest information, attending status, and dietary restrictions to tailor the event according to the guests' needs. Before proceeding, please ensure that this form is not being duplicated or filled out unnecessarily to avoid unnecessary work and confusion.
-
-</thinking>
-
 # sweet_16_celebration_survey - Help Guide
 ## Purpose
 The sweet_16_celebration_survey form is used to collect information from guests attending a sweet 16 celebration event.

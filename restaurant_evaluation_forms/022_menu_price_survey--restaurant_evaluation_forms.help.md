@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help me create a user-facing help guide for this form, I'll need to understand the purpose and context of the form. Based on the provided YAML, the form is a "Menu Price Survey" used to collect information about menu prices, competitor prices, and ratings of a restaurant. This form likely helps restaurants or food establishments to compare their prices with their competitors and gather feedback on their menu items.
 
 To avoid duplication of efforts, I'll make sure the guide is comprehensive and covers all required and optional fields.

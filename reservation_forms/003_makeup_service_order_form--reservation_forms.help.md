@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Makeup Service Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer information, event details, and makeup preferences for a service order. By filling out this form, customers can provide necessary details for a personalized makeup service.

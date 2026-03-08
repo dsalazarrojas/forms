@@ -1,20 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is intended to collect information about holiday gatherings, such as host names, guest lists, dates, times, and contact details. The form is likely used for team-building, social events, or corporate gatherings. 
-
-The form fields are:
-- **Host Name**: a text field for entering the name of the host or organization.
-- **Guest List**: a dropdown menu to indicate if a guest list is present.
-- **Date**: a date field for selecting the date of the event.
-- **Time**: a time field for selecting the time of the event.
-- **Address**: a text field for entering the event address.
-- **Phone Number**: a text field for entering a phone number.
-- **Email**: an email field for entering an email contact.
-
-We should ensure that the form is completed only once a year, and that the event details are accurate to avoid confusion. 
-
-</thinking>
-
 # Holiday Gathering Schedule - Help Guide
 
 ## Purpose

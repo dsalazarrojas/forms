@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to collect data about food processing worker health and safety surveys, which are essential for maintaining a safe working environment. This form is meant to be used by food processing workers, managers, and other relevant personnel to assess the effectiveness of existing health and safety measures in the workplace. This form is not meant to be filled out by workers without proper authorization or knowledge of the process. Please ensure that you have the necessary clearance and understanding before proceeding.
-</thinking>
-
 # Food Processing Worker Health And Safety Survey - Help Guide
 
 ## Purpose

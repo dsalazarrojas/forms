@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Table Reservation Form - Help Guide
 ## Purpose
 This form is used to collect reservation information from customers, including their personal details, preferences, and special requirements. The data collected will be used to facilitate a smooth and enjoyable dining experience for the customer.

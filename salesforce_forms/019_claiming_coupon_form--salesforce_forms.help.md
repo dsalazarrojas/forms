@@ -1,5 +1,3 @@
-<thinking>... This form is for customers to claim a coupon, which is a unique code that can be used to receive a discount on a purchase. The form is designed to gather information about the customer, the coupon, and the purchase details. It is only accessible by authorized personnel to prevent non-duplication and ensure the coupon is used correctly. ...</thinking>
-
 # Claiming Coupon Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the "App Lock Removal Request" form is used correctly to prevent misuse. This form should only be used by authorized individuals to request the removal of an app lock on a device. Before proceeding, please check if you have already submitted a request for this device or if someone else has already submitted a request. If so, please do not submit this form again.
-
-Also, please note that the form fields are designed to gather specific information related to the request. Each field is carefully crafted to help us understand your request accurately.
-
-</thinking>
-
 # App Lock Removal Request - Help Guide
 ## Purpose
 This guide will walk you through the "App Lock Removal Request" form, which is used to request the removal of an app lock on a device. This form is for authorized individuals to submit a formal request to unlock their device.

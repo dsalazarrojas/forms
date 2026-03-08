@@ -1,9 +1,3 @@
-<thinking>
-
-The Botulinum Toxin Aftercare Form is designed to guide clients through the post-treatment care instructions following a botulinum toxin injection. It helps clients understand what to expect during the recovery process and provides essential information on how to maintain optimal results and prevent potential complications. This form is intended for clients who have undergone botulinum toxin treatment and should not be completed by anyone else. 
-
-</thinking>
-
 # Botulinum Toxin Aftercare Form - Help Guide
 ## Purpose
 The purpose of this form is to ensure that clients understand and commit to following post-treatment care instructions to achieve optimal results and minimize complications from botulinum toxin injections.

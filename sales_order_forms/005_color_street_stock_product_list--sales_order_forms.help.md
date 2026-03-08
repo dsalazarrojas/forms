@@ -1,5 +1,3 @@
-<thinking> We need to ensure the form is properly understood by end-users to avoid any misinterpretation. This form is for sales representatives to collect information about color-street stock products. We'll focus on the essential fields that contribute to the sales order process. The form includes sections for selecting stock products, entering order quantities, and specifying fulfillment details. </thinking>
-
 # Color Street Stock Product List - Help Guide
 ## Purpose
 The Color Street Stock Product List form is used by sales representatives to gather information for sales orders. It is a crucial tool for capturing critical details that contribute to the order fulfillment process.

@@ -1,13 +1,3 @@
-<thinking>
-Internal note: This form is used by salon staff to get the client's information for sugaring services. It's essential to understand that this form should only be filled out once by the client upon their first visit, and not on every visit as it contains general consent and contact information. 
-
-This form aims to gather the client's consent for sugaring services, including their preferred contact method and consent type. The "Service Details" field is meant to capture any specific services the client is requesting, such as eyelash sugaring. 
-
-Before filling out this form, ensure that the client's contact information is up-to-date and accurate. The form is required for all clients who receive sugaring services. 
-
-Please do not fill out this form multiple times for the same client. This form is meant to be filled out once upon the client's first visit.
-</thinking>
-
 # sugaring_consent_form - Help Guide
 ## Purpose
 The Sugaring Consent Form is used to gather essential information and consent from clients for sugaring services, including their contact details, preferred contact method, and consent type. This form is required for all clients who receive sugaring services.

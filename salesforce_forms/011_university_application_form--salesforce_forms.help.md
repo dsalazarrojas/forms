@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-This form is for collecting personal and educational information from students applying to university. It is a text-based form that gathers information about the applicant's personal details, education background, SAT information, and activities. The form is a helpful resource for students to provide necessary information for university applications.
+> This form is for collecting personal and educational information from students applying to university. It is a text-based form that gathers information about the applicant's personal details, education background, SAT information, and activities. The form is a helpful resource for students to provide necessary information for university applications.
 
 <# university_application_form - Help Guide
 ## Purpose

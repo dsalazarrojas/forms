@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about manual handling safety assessments. It appears to be part of a broader safety and risk management process, likely used by organizations to identify and mitigate potential risks associated with manual handling tasks. Before proceeding, let's confirm that this form is relevant and not a duplicate by checking with the original stakeholders. If it's not a duplicate, we can move on to creating a user-friendly help guide for end-users.
-</thinking>
-
 # Manual Handling Safety Assessment - Help Guide
 ## Purpose
 The Manual Handling Safety Assessment form is used to gather information about manual handling tasks, their associated risks, and the necessary next steps to ensure a safe working environment.

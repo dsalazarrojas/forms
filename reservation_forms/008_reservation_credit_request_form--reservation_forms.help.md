@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reservation Credit Request Form - Help Guide
 
 ## Purpose

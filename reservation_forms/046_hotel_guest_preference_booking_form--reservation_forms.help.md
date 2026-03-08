@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect preferences and information from guests for their hotel stay, including dietary restrictions, special requests, room requirements, and contact information. This form will help the hotel staff to provide a personalized experience for the guests.
-Before filling out this form, please ensure that:
-- You are the actual guest or authorized person filling out this form on their behalf.
-- You have not filled out this form previously for the same stay.
-</thinking>
-
 # Hotel Guest Preference Booking Form - Help Guide
 
 ## Purpose

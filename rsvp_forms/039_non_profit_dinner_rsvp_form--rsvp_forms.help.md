@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed for non-profit organizations to RSVP to a dinner event. The form is used to collect information about the organization, including their name, contact person, and contact information. The form also asks for event details such as event date, time, and location. Additionally, it collects information about the number of guests, dietary restrictions, and special requests. The form is intended for internal use and is not meant to be publicly accessible. This form is likely used by non-profit organizations to manage their RSVPs and communicate with their guests. The form's fields are a mix of text, date, time, and select fields, which suggests that it is used to collect both quantitative and qualitative data.</thinking>
-
 # Non Profit Dinner RSVP Form - Help Guide
 ## Purpose
 This form is designed to help non-profit organizations RSVP to a dinner event. It collects information about the organization, event details, and guests.

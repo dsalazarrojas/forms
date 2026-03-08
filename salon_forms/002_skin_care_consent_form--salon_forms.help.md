@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information from customers regarding their skin care procedures, ensuring they provide their consent for the treatments they receive. This form is required to be completed for all skin care procedures to obtain a legal and binding agreement from the customer. The form should not be resubmitted for the same procedure, as it will be considered a duplicate. This guide will walk you through each field to complete the form accurately and ensure a smooth experience for your customers.
-</thinking>
-
 # Skin Care Consent Form - Help Guide
 ## Purpose
 The Skin Care Consent Form is a critical document that requires customers to provide their consent for each skin care procedure they wish to undergo. It helps to ensure that customers understand the treatment and its potential risks and side effects, thereby providing informed consent for the procedure.

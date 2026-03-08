@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Reimbursement Form - Help Guide
 
 ## Purpose

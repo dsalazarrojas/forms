@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended to capture information for the industrial air purifier order process. Its purpose is to gather the required details from the customer to process their order efficiently and effectively. It is crucial to understand that the order process involves the following steps: selecting the shipping options, providing customer information, and submitting the order. The order form will not be duplicated, as it is designed to be a one-time entry for each customer.
-</thinking>
-
 # Industrial Air Purifier Order Form - Help Guide
 ## Purpose
 The Industrial Air Purifier Order Form is designed to collect essential details from customers for processing their orders efficiently and effectively.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for customers to place orders for smart facility energy meters. To check if this form is relevant, the customer information (customer name, email, phone number) must be present. This form should not be completed if the customer has previously ordered a smart facility energy meter. To avoid duplication, we should check for existing orders for the same customer and meter type.
-
-</thinking>
-
 # smart_facility_energy_meter_order_form - Help Guide
 ## Purpose
 This form is used for customers to place orders for smart facility energy meters.

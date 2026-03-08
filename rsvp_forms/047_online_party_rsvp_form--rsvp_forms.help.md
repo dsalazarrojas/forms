@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be used for guests to RSVP to a party. It is meant to be completed by individuals who are invited to the party and need to provide their attendance information. The purpose of this form is to collect the necessary details from guests in a straightforward and easy-to-use manner. This form is not intended to be used for internal purposes, such as for tracking or data analysis.</thinking>
-
 # Online Party RSVP Form - Help Guide
 ## Purpose
 The Online Party RSVP Form is designed to be used for guests to RSVP to a party. It is a simple and easy-to-use form that collects the necessary details from guests to ensure the host has an accurate headcount and can plan accordingly.

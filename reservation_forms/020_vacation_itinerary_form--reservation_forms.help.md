@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vacation Itinerary Form - Help Guide
 
 ## Purpose

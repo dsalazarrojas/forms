@@ -1,7 +1,3 @@
-<thinking>
-This form is a digital representation of a traditional paper-based Kitchen Inventory Checklist, often used in restaurants to maintain a record of stock levels, equipment, and supplies. Its purpose is to help restaurant managers keep track of inventory items in different categories, enabling them to manage stock levels effectively and make informed decisions about restocking and maintenance. The form is designed to be simple, yet comprehensive, covering various aspects of kitchen inventory, including general items, fridge and freezer contents, pantry, dry stores, equipment, small wares, chemicals, cleaning supplies, kitchen tools, maintenance, waste management, stock levels, and urgent restocking needs. This form is meant to facilitate the inventory process, making it easier for restaurant managers to maintain accurate records and make timely adjustments as needed.
-</thinking>
-
 # Kitchen Inventory Checklist - Help Guide
 ## Purpose
 The Kitchen Inventory Checklist is a tool for restaurant managers to maintain accurate records of their kitchen inventory. This form helps you track stock levels, equipment, and supplies, ensuring you have a clear picture of what you need to restock and maintain.

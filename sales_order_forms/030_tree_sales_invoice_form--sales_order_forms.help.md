@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used for sales purposes, specifically for tree sales, and its main objective is to collect information about the sale, such as customer contact details, sales terms, payment methods, and product details. The form might be used by sales teams or customer service representatives to create or view invoices for tree sales. The form likely includes fields for collecting contact information, sales data, payment terms, and tree details, which could be used for internal or external purposes. This form's structure suggests it might be used for B2B (business-to-business) sales, where tree sales are a part of a larger business transaction.</thinking>
-
 # Tree Sales Invoice Form - Help Guide
 ## Purpose
 This form is used to create or view sales invoices for tree sales, allowing users to capture important information about the customer, sales data, and payment terms.

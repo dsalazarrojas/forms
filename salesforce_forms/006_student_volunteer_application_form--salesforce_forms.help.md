@@ -1,7 +1,3 @@
-<thinking>
-The Student Volunteer Application Form is designed to collect information from students who want to participate in volunteer activities. This form is used to gather details about the student's availability, volunteer preferences, and other relevant information that will help the volunteer team manage the volunteer program effectively. To ensure that the form is completed correctly, it's essential to review the form carefully and fill it out accurately. Please note that the form is not intended to be a duplicate for any student who has already submitted their application. If you're unsure about any field, please refer to this guide for guidance.
-</thinking>
-
 # Student Volunteer Application Form - Help Guide
 ## Purpose
 The Student Volunteer Application Form is designed to collect information from students who want to participate in volunteer activities. This form helps the volunteer team manage the volunteer program effectively by gathering details about the student's availability, volunteer preferences, and other relevant information.

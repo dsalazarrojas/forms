@@ -1,8 +1,3 @@
-<thinking>
-We need to verify that this form is used for obtaining consent from a client for a gym facility safety inspection. The form is used to document a client's acknowledgment of the facility's safety, understanding of the inspection process, and consent to the inspection. It also collects information about the client's organization and contact details, the frequency of the inspections, and the inspector's role and contact information. To ensure that this form is being used correctly, please review the following guidelines.
-
-</thinking>
-
 # Gym Facility Safety Inspection Consent Form - Help Guide
 ## Purpose
 This form is used to obtain a client's consent for a gym facility safety inspection. The client must review and acknowledge the form to confirm their understanding of the safety inspection process and consent to the inspection.

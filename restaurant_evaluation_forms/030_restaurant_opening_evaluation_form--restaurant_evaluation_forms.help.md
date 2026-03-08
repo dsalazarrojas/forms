@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to collect information about a restaurant at the time of its opening or evaluation. The goal is likely to gather details such as address, services offered, and contact information. This form might be used by restaurant owners, managers, or evaluators to provide a comprehensive view of the restaurant's offerings and services. However, without additional context, it's hard to determine if this form is used for internal evaluation, customer feedback, or regulatory compliance. It's essential to ensure that this form is not a duplicate of an existing form and that the information collected is relevant to the intended purpose.
-</thinking>
-
 # restaurant_opening_evaluation_form - Help Guide
 ## Purpose
 The restaurant_opening_evaluation_form is designed to collect information about a restaurant at the time of its opening or evaluation. This form helps restaurant owners, managers, or evaluators to provide a comprehensive view of the restaurant's offerings and services.

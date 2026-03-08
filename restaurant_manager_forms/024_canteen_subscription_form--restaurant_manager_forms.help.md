@@ -1,21 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students who want to enroll in the canteen's nutritious meal program. The form gathers details such as student's personal information, contact information, meal preferences, dietary restrictions, and payment details. This data is crucial for the canteen to provide tailored meal experiences for enrolled students.
-
-Before filling out this form, please note that it has several sections:
-
-*   Student Information: Gathering details about the student, including name, ID, grade level, and class section (if applicable).
-*   Contact Information: Collecting information about the parent or guardian, including email, phone number, and address (if applicable).
-*   Meal Preferences: Students can select their preferred meal types and spice levels.
-*   Dietary Restrictions: Students can specify any dietary restrictions or allergies they may have.
-*   Payment Information: The student's preferred payment method and subscription details are collected.
-*   Parent Consent: The parent or guardian must provide consent for the student to participate in the canteen's program.
-*   Emergency Contact: The parent or guardian is also asked to authorize the canteen to contact them in case of a food allergic reaction.
-
-Please fill out the form carefully, ensuring all required fields are completed to ensure a smooth subscription process.
-
-</thinking>
-
 # Canteen Subscription Form - Help Guide
 ## Purpose
 The Canteen Subscription Form is designed to collect information from students who want to enroll in the canteen's nutritious meal program. This form helps the canteen provide tailored meal experiences for enrolled students.

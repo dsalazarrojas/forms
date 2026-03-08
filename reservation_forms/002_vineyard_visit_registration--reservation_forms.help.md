@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to register visitors who plan to visit a vineyard. The purpose of this form is to collect information from visitors, including their contact details and preferences, to facilitate a smooth and enjoyable experience during their visit. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI.
-
-</thinking>
-
 # Vineyard Visit Registration - Help Guide
 ## Purpose
 This form is used to register visitors for a vineyard visit. It helps us to collect essential information about you and your group, ensuring a personalized experience during your visit.

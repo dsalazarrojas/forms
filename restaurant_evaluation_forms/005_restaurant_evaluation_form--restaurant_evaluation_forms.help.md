@@ -1,11 +1,3 @@
-<thinking>Before we dive into the form, let's quickly review the purpose and design goals of the Restaurant Evaluation Form. The form is used to collect feedback on various aspects of a restaurant, including food quality, service, cleanliness, and overall experience. The goal is to gather data to improve the restaurant's performance and provide valuable insights to customers. The form is designed to be completed by diners after their meal, making it a crucial part of the feedback loop that helps restaurants refine their service and food offerings.
-
-With this form, restaurants can identify areas of improvement and make data-driven decisions to enhance customer satisfaction and loyalty. By providing clear and concise questions, the form ensures that customers can easily and accurately share their opinions, helping restaurants make necessary changes. The form's design is also kept minimal, allowing customers to focus on the questions at hand and provide honest feedback without being overwhelmed.
-
-To avoid duplication of effort, please note that this form should only be completed after a dining experience at this specific restaurant. If you have already submitted feedback or evaluations for this restaurant, please do not submit duplicate entries. If you're unsure about any question or have additional comments, please use the space provided in the "Additional Comments" section at the end of the form.
-
-Now, let's move on to the form explanation.</thinking>
-
 # Restaurant Evaluation Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers for an industrial air hose order. The form will likely be used by sales representatives to gather details about the customer, their order, and other relevant information. This form should be used for both internal and external customers. To ensure the form is being used correctly, it's essential to review each field and ensure it's not being duplicated or submitted incorrectly. This will help prevent errors and ensure accurate processing of the order. The fields are mostly optional, but it's crucial to fill out all required fields for the form to be complete. The customer's signature is a required field for the customer to acknowledge they have read and agreed to the order terms. The select_one and select_multiple fields will have limited options, making it easier to understand and complete.
-</thinking>
-
 # Industrial Air Hose Order Form - Help Guide
 ## Purpose
 This guide explains how to complete the Industrial Air Hose Order Form for an industrial air hose order.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Operating Expense Control - Help Guide
 ## Purpose
 This form is designed to help restaurants manage their operating expenses effectively. It assesses current practices, identifies areas for improvement, and provides opportunities for growth. The form is intended for restaurant owners, managers, or staff who are interested in controlling expenses, improving efficiency, and enhancing customer satisfaction.

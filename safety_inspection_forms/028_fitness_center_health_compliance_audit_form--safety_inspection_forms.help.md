@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to facilitate the audit of fitness centers to ensure they are complying with relevant health and safety standards. The form's purpose is to collect information about the fitness center's name, location, the date of the audit, a list of the equipment available, and the safety procedures in place. The audit is likely to be conducted by an authorized representative of the fitness center's management or ownership.
-
-To ensure that the audit is comprehensive and accurate, the following points should be considered when filling out the form:
-
-*   The fitness center's name and location should be accurately reported to allow for clear identification and tracking of the facility.
-*   The date of the audit should be recorded to track the time period of assessment.
-*   The equipment list should be exhaustive to ensure that all essential gear is accounted for.
-*   Safety procedures should be described in detail to identify areas of improvement and ensure compliance with relevant health and safety standards.
-
-The following fields should be completed accordingly:
-
-</thinking>
-
 # Fitness Center Health Compliance Audit Form - Help Guide
 ## Purpose
 The Fitness Center Health Compliance Audit Form is designed to collect information about the fitness center's name, location, date of the audit, equipment list, and safety procedures to ensure compliance with relevant health and safety standards.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to order a Smart Safety Helmet product. The form is intended to be used by sales representatives to gather details about the order, including shipping information, delivery preferences, order details, and payment information. Before using this form, ensure that all required fields are filled and that the form is being used for its intended purpose.
-
-</thinking>
-
 # Smart Safety Helmet Order Form - Help Guide
 ## Purpose
 This form is used to collect order details from customers.

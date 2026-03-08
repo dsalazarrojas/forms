@@ -1,6 +1,3 @@
-<thinking>
-The goal of this form is to confirm the details of an order, including customer shipping information, order status, and other relevant details. This form likely serves as a confirmation or review page for the order, ensuring that all necessary information is accurate and up-to-date. The form is not primarily designed for creating new orders or editing existing ones. Its purpose is to review and validate order details in a structured and organized manner. It is possible that this form is part of a larger workflow or system that relies on accurate and timely order confirmation to process payments, shipping, or other critical business processes.</thinking>
-
 # Order Confirmation Form - Help Guide
 
 ## Purpose

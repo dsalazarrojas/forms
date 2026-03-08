@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users inspect fire alarms in a thorough and systematic way. Its purpose is to gather crucial information about the fire alarm system's components, performance, and other relevant details. To ensure accurate and efficient completion of this form, users should review each field carefully and provide clear and concise answers. Before proceeding, verify that this form has not been used previously in a similar context or by the same user, as this could lead to redundant or outdated information.
-
-</thinking>
-
 # Fire Alarm Inspection Checklist Form - Help Guide
 ## Purpose
 This form is used to inspect fire alarms and gather crucial information about their components, performance, and other relevant details.

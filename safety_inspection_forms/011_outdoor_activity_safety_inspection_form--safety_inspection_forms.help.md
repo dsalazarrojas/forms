@@ -1,7 +1,3 @@
-<thinking>
-This form is used to conduct safety inspections for outdoor activities. The form captures essential information about the activity, including location, date, potential hazards, equipment, and safety ratings. It helps in identifying and mitigating potential risks associated with outdoor activities. This form must be completed in a specific format to ensure accuracy and consistency.
-</thinking>
-
 # outdoor_activity_safety_inspection_form - Help Guide
 ## Purpose
 This guide provides a comprehensive walkthrough of the Outdoor Activity Safety Inspection Form. It covers each field's purpose, explaining what information should be provided, and how to fill it out correctly.

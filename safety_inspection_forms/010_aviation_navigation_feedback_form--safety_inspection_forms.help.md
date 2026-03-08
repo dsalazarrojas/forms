@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from aviators regarding their navigation experience. It is essential to fill this form truthfully, and it is recommended to only complete it once per flight. Please provide detailed answers for fields that have "Select multiple" or "text" type. This form will help us evaluate the current state of aviation navigation and identify areas where improvements are needed. Please be as accurate as possible when answering the questions. 
-
-The answers to the following questions are not mutually exclusive, meaning that you can answer multiple options for one question. 
-
-Please fill out this form with accurate and detailed information about your navigation experience. 
-</thinking>
 # Aviation Navigation Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from aviators regarding their navigation experience, allowing us to evaluate the current state of aviation navigation and identify areas where improvements are needed.

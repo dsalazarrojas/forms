@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect reservation information from customers, allowing them to book and confirm their reservations. This form is used for general inquiries and reservations, and its completion is mandatory to ensure that the customer's details are accurately recorded.
-
-</thinking>
-
 # maltese_english_reservation_booking - Help Guide
 ## Purpose
 This form is for customers to book and confirm their reservations with us. It is a general inquiry form for collecting contact details and reservation information.

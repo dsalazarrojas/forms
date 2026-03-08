@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a facility request. The form is designed to be completed by users who are requesting a facility, typically a physical space or equipment, for a specific purpose or project. The form will ask for general information about the request, such as the facility type, location, and expected dates of use. The goal is to ensure that all necessary details are captured for the facility request process, making it easier to manage and fulfill the request. This form is not intended for high-security or sensitive information.
-</thinking>
-
 # Facility Request Form - Help Guide
 ## Purpose
 The Facility Request Form is designed to collect information about a facility request for a specific purpose or project. Fill out this form to provide detailed information about your facility request.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request a service repair or warranty for a customer's product. The form is designed to capture relevant information about the request, including customer details, repair description, and priority level. The form will guide the user through a series of questions to determine the best course of action for the repair or warranty request.
-
-Note to the designer: The form layout and design should be simple and intuitive, with each section clearly labeled and easy to navigate. The user should be able to fill out the form in a logical and efficient order. The fields should be self-explanatory and require minimal guidance. The designer should ensure that all fields are required and that the options are clear and concise. 
-
-</thinking>
-
 # Service Repair Warranty Request Form - Help Guide
 ## Purpose
 This form is used to request a service repair or warranty for a customer's product.

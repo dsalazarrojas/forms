@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's analyze the form and its fields to ensure we understand their purpose and requirements.</thinking>
-
 # Return Request Form - Help Guide
 ## Purpose
 The Return Request Form is used to collect information from customers or users who need to return a product or item. This form helps us understand their reasons for returning the item and gather any additional details that may be relevant for processing the return.

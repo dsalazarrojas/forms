@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from guests about their plans to attend a retirement party. It will ask for the guest's name, contact information, whether they will attend, the type of RSVP (in person or online), the date and time of the RSVP, and details about the guests they will be bringing. This information will help the party organizers to plan and coordinate the event. Before filling out this form, please make sure you are not duplicating your RSVP from another form.
-</thinking>
-
 # retirement_party_rsvp_form - Help Guide
 ## Purpose
 The retirement party RSVP form is used to gather information from guests about their attendance and details about their guests.

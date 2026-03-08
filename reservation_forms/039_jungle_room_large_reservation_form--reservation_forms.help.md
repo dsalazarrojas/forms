@@ -1,8 +1,3 @@
-<thinking>
-This form seems to be designed for users to reserve a large Jungle Room for events or meetings. The form is intended for users to provide event details such as name, date, start and end time, group size, contact information, event description, event type, attendees, and special requests. The form's purpose is to gather necessary information for event planning and management. 
-Please note that the form appears to be designed for a specific group of users, likely internal teams or departments within an organization, as some fields are mandatory (Event Type and Attendees). The form may not be designed for external users or general public access. The event type field has a custom "Other" option, which might be used for specific event types not listed in the predefined options. This form does not appear to be intended for public access or general events.
-</thinking>
-
 # Jungle Room Large Reservation Form - Help Guide
 ## Purpose
 This form is designed for users to reserve a large Jungle Room for events or meetings. It gathers necessary information for event planning and management.

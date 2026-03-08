@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the form is used correctly and not duplicated for the same purpose. This form is for the Sports Stadium Security Inspection Form, which is used to evaluate the overall security and safety of the sports stadium. This includes checking for security measures such as access control, fire suppression, and emergency exit signs. The form should not be used for other purposes, such as general event planning or maintenance requests.
-</thinking>
-
 # Sports Stadium Security Inspection Form - Help Guide
 ## Purpose
 The Sports Stadium Security Inspection Form is designed to assess the security and safety measures in place at the sports stadium. This form is for stadium staff and security personnel to evaluate the stadium's compliance with safety and security standards.

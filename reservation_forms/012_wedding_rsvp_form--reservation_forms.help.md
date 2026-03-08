@@ -1,13 +1,3 @@
-<thinking>
-To determine if a user would benefit from using this help guide, I'll briefly consider the form's purpose and potential areas of confusion.
-
-This form is called "Wedding RSVP form". A common scenario in which a user might seek help for this form could be if they are a wedding guest who needs to indicate their availability to attend a wedding. They may not be familiar with the form's purpose or how to fill it out correctly.
-
-Assuming the user has some basic knowledge of forms, we can deduce that the form is likely being used for guests to provide their RSVP information, such as their name, contact details, and RSVP response, which will be used by the wedding hosts to keep track of guest attendance and facilitate communication.
-
-With this understanding, I can now proceed to create the help guide.
-</thinking>
-
 # Wedding rsvp form - Help Guide
 ## Purpose
 This form is used to indicate your attendance at a wedding. Please fill out the form with your details, including your name, contact information, and RSVP response, to help the wedding hosts keep track of your attendance and facilitate communication.

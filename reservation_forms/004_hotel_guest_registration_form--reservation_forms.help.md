@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from hotel guests, specifically their personal details, stay dates, and check-in/check-out times. This information can be used for various purposes, such as guest services, housekeeping, or billing. To ensure accuracy, double-check that the form is filled out correctly, and make sure the guest understands what information is being collected.
-</thinking>
-
 # Hotel Guest Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from hotel guests, including their names, contact details, stay dates, and check-in/check-out times. The collected data can be used for guest services, such as providing personalized services, sending reminders, or for billing purposes.

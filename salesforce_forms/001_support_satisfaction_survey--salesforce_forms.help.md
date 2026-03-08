@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from customers or users about their experience with the support team. The form is intended to be a simple, easy-to-use tool to gauge customer satisfaction. By analyzing this data, the support team can identify areas of improvement and make informed decisions to enhance the support experience.
-
-To ensure the form's effectiveness, it's essential to avoid duplication of efforts. Before creating a support satisfaction survey, please verify that similar forms are not already in use within the organization.
-
-</thinking>
-
 # Support Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers or users about their experience with the support team.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers about their makeup consultation preferences. This form is used to collect details such as customer input, product selection, service details, expected service start and end times, note, email, phone number, assigned personnel, and assigned personnel's confirmation. This form is designed to be completed by customers to provide the necessary information for the makeup service.
-</thinking>
-
 # Makeup Consultation Form - Help Guide
 ## Purpose
 The Makeup Consultation Form is a form used to collect information from customers for makeup services. It is used to ensure that the necessary details are gathered for the service to be provided effectively.

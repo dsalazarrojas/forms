@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Hotel Reservation Form With Skrill. The purpose of this form is to gather information for a hotel stay, including guest details, dates, and room requirements. To avoid duplication, this guide assumes users will be using the form for a single hotel reservation.
-
-This guide aims to provide clear and concise instructions on how to complete the form, including which fields are required and their intended use. Please ensure that you have all necessary information before proceeding to fill out the form.
-
-Note that some fields may have default options or constraints to guide the user in the correct input.
-</thinking>
-
 # Hotel Reservation Form With Skrill - Help Guide
 ## Purpose
 The Hotel Reservation Form With Skrill is designed to collect guest details, including their name, email, phone number, and date of stay. Additionally, it allows users to select the desired room type(s) and quantity, and specify any additional room type requirements. The form ensures that users can provide all necessary information to complete their hotel reservation.

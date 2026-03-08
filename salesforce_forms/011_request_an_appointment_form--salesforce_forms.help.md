@@ -1,7 +1,3 @@
-<thinking>
-The Request An Appointment Form is designed to collect essential information for scheduling appointments with healthcare providers. The form is typically filled out by individuals or their representatives to request a consultation, check-up, or follow-up appointment with a specific doctor. To avoid duplication and ensure the form is filled out correctly, please verify that a request for the same appointment type and date has not been made within the past week. If you're unsure, please reach out to the scheduling team for clarification.
-</thinking>
-
 # Request An Appointment Form - Help Guide
 ## Purpose
 The Request An Appointment Form is used to collect information for scheduling appointments with healthcare providers.

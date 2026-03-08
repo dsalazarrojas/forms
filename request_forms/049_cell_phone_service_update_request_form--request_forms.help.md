@@ -1,10 +1,3 @@
-<thinking>
-
-Internal reasoning block:
-This form is used for requesting updates to cell phone service plans, including plan changes, device upgrades, and service changes. It is intended to gather information from the account holder about their current and desired plans, as well as any special requirements or conditions. The form is designed to guide the user through a series of questions to ensure all necessary information is captured. Please ensure you have a valid reason for requesting a service update before submitting this form.
-
-</thinking>
-
 # Cell Phone Service Update Request Form - Help Guide
 ## Purpose
 The Cell Phone Service Update Request Form is a tool for account holders to submit requests for updates to their cell phone service plans. This form helps gather necessary information to process and fulfill the request efficiently.

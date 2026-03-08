@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event-attendance-and-menu-selection - Help Guide
 ## Purpose
 The purpose of this form is to collect information from guests about their attendance and menu selection for an event. This includes RSVP status, date and time of arrival, number of guests, dietary restrictions, and menu choices.

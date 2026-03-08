@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect visitor information for registration purposes. The goal is to gather essential details about each visitor, including their name, contact information, and visit schedule. This information will be used by staff members to facilitate interactions with visitors and ensure a smooth experience for them during their visit.
-The form is divided into sections to minimize the effort required to fill it out. Each field is marked as required or optional, with clear labels and explanations to guide the user through the process.
-
-</thinking>
-
 # Visitor Register Form - Help Guide
 ## Purpose
 The Visitor Register Form is designed to gather essential information about each visitor to ensure a smooth experience during their visit. This includes details about their name, contact information, visit schedule, and other relevant details.

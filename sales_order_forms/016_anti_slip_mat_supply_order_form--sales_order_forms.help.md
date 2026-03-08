@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anti Slip Mat Supply Order Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is used by sales teams to plan and record important information related to sales calls with customers. It is meant to be completed by sales persons who need to gather data and insights for sales planning, reporting, and analysis.
-The form is intended to be used for both planning and recording sales calls, and it is not meant to be a general sales report. It is recommended to complete this form for each sales call separately.
-</thinking>
-
 # Sales Call Planning Report Form - Help Guide
 ## Purpose
 The Sales Call Planning Report Form is a tool used to record and plan information related to sales calls with customers. It helps sales teams gather data and insights for sales planning, reporting, and analysis.

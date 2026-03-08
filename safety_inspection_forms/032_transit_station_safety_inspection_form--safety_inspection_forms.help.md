@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transit Station Safety Inspection Form - Help Guide
 
 ## Purpose

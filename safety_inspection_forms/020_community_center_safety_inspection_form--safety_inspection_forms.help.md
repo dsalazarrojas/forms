@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Center Safety Inspection Form - Help Guide
 ## Purpose
 The Community Center Safety Inspection Form is a tool used to conduct regular safety inspections of community centers to identify and assess potential hazards, ensure compliance with safety standards, and take corrective actions as needed. This form helps inspectors to document their findings, prioritize necessary repairs or fixes, and schedule follow-up inspections to confirm compliance.

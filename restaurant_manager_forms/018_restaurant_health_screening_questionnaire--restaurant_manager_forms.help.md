@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to screen the health status of restaurant employees to ensure they are fit for work and to maintain a safe working environment. This form helps in tracking employee health status, their location, and the date of their last screening. By filling out this form, you will be able to assess the health status of your employees, identify any potential health risks, and take necessary precautions to protect the health and well-being of your staff.
-This form is used for internal purposes within the restaurant management system. It is not intended for external use or public access. Please ensure you complete it for the correct employee and use the information in accordance with the restaurant's policies and procedures.
-Ensure you do not duplicate this form for the same employee without a valid reason.
-</thinking>
-
 # Restaurant Health Screening Questionnaire - Help Guide
 ## Purpose
 The Restaurant Health Screening Questionnaire is used to screen the health status of restaurant employees to ensure their well-being and the safety of the work environment.

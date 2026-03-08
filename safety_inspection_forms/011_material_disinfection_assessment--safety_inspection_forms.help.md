@@ -1,7 +1,3 @@
-<thinking>
-We will review the purpose and relevance of this form to ensure it accurately reflects the intended use case and avoid any duplication or redundancy.
-</thinking>
-
 # Material Disinfection Assessment - Help Guide
 ## Purpose
 The Material Disinfection Assessment form is designed to evaluate the effectiveness of disinfection methods used on facilities. It is intended to gather information on facility types, disinfection methods, follow-up actions, and ratings of disinfection quality. This form will help assess the quality of disinfection processes and identify areas for improvement.

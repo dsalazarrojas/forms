@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm assuming that the "thanksgiving_turkey_reservation_form" is a form used to reserve turkeys for a Thanksgiving celebration. This form is likely used to collect information from users who want to reserve a turkey, and the data collected will be used to manage reservations and possibly generate a report or output file. To ensure that the form is used correctly, let's review its purpose and requirements carefully.</thinking>
-
 # thanksgiving_turkey_reservation_form - Help Guide
 ## Purpose
 The thanksgiving_turkey_reservation_form is designed to collect information from users who want to reserve a turkey for a Thanksgiving celebration. This form will help you manage reservations and possibly generate a report or output file.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is for restaurant managers to configure settings for online food orders using Stripe as a payment gateway. This form should collect information about the form title, category, and output file settings, as well as connection settings with Stripe. The form will have two main sections: one for the general settings and another for the payment gateway settings. I will make sure to cover all the fields and options in the help guide without inventing any business logic not explicitly stated in the YAML.
-</thinking>
-
 # Stripe Online Food Order Form - Help Guide
 ## Purpose
 This form is designed to allow restaurant managers to configure settings for online food orders using Stripe as a payment gateway.

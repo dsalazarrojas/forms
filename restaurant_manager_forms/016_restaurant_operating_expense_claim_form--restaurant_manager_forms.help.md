@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # restaurant_operating_expense_claim_form - Help Guide
 ## Purpose
 The restaurant operating expense claim form is used to report operating expenses incurred during the restaurant's daily operations. This form is typically used by restaurant managers to submit expense claims for reimbursement or approval from the restaurant's management or accounting department.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from vendors and attendees to facilitate connections and networking during a vendor mixer event. The form is intended for vendors to RSVP for the event and provide their business contact information, networking goals, and dietary needs. The form also allows attendees to RSVP and indicate their availability. The event organizer will use this information to prepare for the event and ensure a successful vendor mixer. It's essential to fill out this form accurately to help the event organizer tailor the event experience to your needs.
-</thinking>
-
 # Vendor Networking Mixer RSVP Form - Help Guide
 ## Purpose
 The Vendor Networking Mixer RSVP Form is designed to gather information from vendors and attendees to facilitate connections and networking during the event.

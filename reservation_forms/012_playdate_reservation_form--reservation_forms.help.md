@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents to schedule a playdate for their children at a play center. The form is designed to be completed by parents and will be used to book a specific time slot at the play center. This is a standard form for scheduling playdates, and we should ensure that all relevant fields are filled and the form is completed correctly to avoid any issues.</thinking>
-
 # Playdate Reservation Form - Help Guide
 
 ## Purpose

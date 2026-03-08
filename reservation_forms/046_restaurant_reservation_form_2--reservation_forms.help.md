@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to make a reservation at a restaurant. It is likely part of a larger system for managing customer reservations, such as a restaurant's website or an internal system for managing seating and availability. The form should only be used for making reservations for personal purposes, not for large groups or events. To confirm, this form is intended for individual reservations, not for groups or corporate events.
-</thinking>
-
 # Restaurant Reservation Form 2 - Help Guide
 ## Purpose
 This form is used to make a personal reservation at a restaurant. Please fill out the form below to provide the necessary information for your reservation.

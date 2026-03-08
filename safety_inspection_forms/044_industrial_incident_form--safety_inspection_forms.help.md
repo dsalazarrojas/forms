@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report and document industrial incidents that occur within the organization. It is essential to ensure that the form is filled out thoroughly and accurately, as it will help in identifying root causes and taking corrective actions to prevent future incidents. Before completing this form, please ensure that you have all the necessary information and that the incident has been properly documented. If you have already filled out this form for the same incident, please do not fill it out again. Please note that this form is used for reporting and documenting incidents only and is not for reporting near misses or close calls.
-</thinking>
-
 # industrial_incident_form - Help Guide
 ## Purpose
 The industrial_incident_form is used to report and document industrial incidents that occur within the organization. This form is essential for identifying root causes and taking corrective actions to prevent future incidents.

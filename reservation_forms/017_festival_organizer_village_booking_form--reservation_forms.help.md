@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from festival organizers for booking purposes. The form asks for basic contact information, festival details, and logistical requirements such as arrival and departure dates, times, and total visitors. The fields are generally optional, allowing for flexibility in providing information. It's essential to note that the form is not intended for complex or technical bookings, so users should only fill it out for straightforward, non-specialized bookings.
-</thinking>
-
 # Festival Organizer Village Booking Form - Help Guide
 
 ## Purpose

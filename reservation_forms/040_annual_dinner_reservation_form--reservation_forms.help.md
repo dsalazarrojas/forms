@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Annual Dinner Reservation Form - Help Guide
 ## Purpose
 The Annual Dinner Reservation Form is a form designed to collect information from guests attending an annual dinner event. It helps us ensure that we have accurate information about each guest, including their dietary restrictions, beverage preferences, and any special requests or needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting data on various aspects of a video series for designers. It asks for information on the category, description, company, partners, niche, format, episode structure, models, streets, style, target audience, episode length, episode count, show style, main streets, occasional streets, formal streets, other streets, other show style, other format, other niche, other targets, other partners, and other participants, other episodes. The form seems to be intended for collecting data on video series, likely for research, analysis, or marketing purposes. The fields appear to be mostly optional, with no required fields. The form does not appear to be duplicating any existing form, as it is AI-generated and does not copy or extract content from any specific platform.
-</thinking>
-
 # Designer Entry Form Open Runway Video Series - Help Guide
 ## Purpose
 This form is designed to collect data on various aspects of a video series for designers. It is intended to gather information on the category, description, company, partners, niche, format, episode structure, models, streets, style, target audience, episode length, episode count, show style, main streets, occasional streets, formal streets, other streets, other show style, other format, other niche, other targets, other partners, and other participants, other episodes.

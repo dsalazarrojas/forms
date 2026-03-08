@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect and record information related to a restaurant's inventory. It may be used to track stock levels, note any takes or sales, and provide a general information section for the restaurant. It's possible that this form is used for internal purposes, such as reporting or auditing, and is not intended for customer-facing use. The fields on this form seem to be basic text fields, which may be used to collect free-formatted information. Given the presence of fields like "stock_levels", "inventory_takes", and "submission_details", it's possible that this form is used for inventory management purposes. I'm not aware of any specific business logic or rules that govern the usage of this form, and I'm not certain what constitutes "submission_confirmation". I will assume that this form is used for general inventory record-keeping and follow-up on that assumption.
-</thinking>
-
 # restaurant_inventory_information_record_form - Help Guide
 ## Purpose
 This form is used to collect and record information related to a restaurant's inventory, including stock levels, inventory takes, and general information about the restaurant.

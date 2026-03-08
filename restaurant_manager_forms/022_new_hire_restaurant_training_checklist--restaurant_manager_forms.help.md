@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "new_hire_restaurant_training_checklist" form is to gather information from restaurant staff on their training status for key areas such as restaurant operations, emergency procedures, food safety, and safety protocols. This form ensures that new hires are adequately trained and informed on the policies and procedures necessary for a safe and successful working environment.
-</thinking>
-
 # new_hire_restaurant_training_checklist - Help Guide
 ## Purpose
 The new_hire_restaurant_training_checklist form is used to record the training status of new restaurant staff on key areas such as restaurant operations, emergency procedures, food safety, and safety protocols.

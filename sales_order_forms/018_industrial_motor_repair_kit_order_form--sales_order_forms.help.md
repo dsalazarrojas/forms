@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for industrial motor repair kits orders. The form is intended for customers to provide their shipping details, select their preferred shipping method, provide their contact information, and place their order for a motor repair kit. The form collects data on the customer's name, email, phone number, order details, the specific motor repair kit ordered, payment method, and payment details. Note that the form is not intended for customers to leave notes, as these fields are marked as optional.
-
-</thinking>
-
 # industrial_motor_repair_kit_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for industrial motor repair kits orders from customers. It is intended for customers to provide their shipping details, select their preferred shipping method, and place their order for a motor repair kit.

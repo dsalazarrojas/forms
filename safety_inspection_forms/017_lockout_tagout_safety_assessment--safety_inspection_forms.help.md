@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to assess the safety and compliance of lockout/tagout procedures for equipment in the workplace. This form helps in identifying potential hazards and ensuring that all necessary safety measures are in place for equipment shutdowns and startups.
-</thinking>
-
 # Lockout Tagout Safety Assessment - Help Guide
 ## Purpose
 The Lockout Tagout Safety Assessment form is a tool used to evaluate the effectiveness and compliance of lockout/tagout procedures for equipment in your facility. This form is essential in identifying potential hazards and ensuring that all necessary safety measures are in place for equipment shutdowns and startups.

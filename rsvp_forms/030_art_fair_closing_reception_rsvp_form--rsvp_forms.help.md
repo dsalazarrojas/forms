@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand that its purpose is for RSVP (Response and Special Guest Requests) to the Art Fair Closing Reception. This form likely collects information from attendees to ensure they can be seated properly and catered for, especially with dietary restrictions. This form also likely ensures that the event organizers can get a headcount, prepare for photo consent, and have information on accessibility needs.
-</thinking>
-
 # Art Fair Closing Reception RSVP Form - Help Guide
 
 ## Purpose

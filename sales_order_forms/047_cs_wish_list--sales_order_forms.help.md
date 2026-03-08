@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers create and manage their wish lists for special occasions, allowing them to share their preferences and priorities with sales representatives or team members. The form is meant to streamline communication between the customer and sales team, ensuring that their wishes are met and their needs are understood.
-</thinking>
-
 # CS Wish List - Help Guide
 ## Purpose
 The CS Wish List form is a tool to help customers communicate their wishes and preferences with sales representatives or team members. It's a simple and structured form that guides customers through the process of creating a wish list, including details about themselves, the occasion, and their desired items.

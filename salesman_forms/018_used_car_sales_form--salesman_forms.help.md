@@ -1,7 +1,3 @@
-<thinking>
-This form is used in a sales context to gather information from customers about the vehicle they are interested in purchasing. The form is used to collect customer and vehicle details, contact information, and sales specifics such as the salesperson, sale date, and sale time. The form is likely used by sales teams to track customer interactions and vehicle sales. To ensure the form is completed accurately and efficiently, it is essential to understand its purpose and the specific fields it contains.
-</thinking>
-
 # Used Car Sales Form - Help Guide
 ## Purpose
 This form is used to gather information from customers about the vehicle they are interested in purchasing, including customer details, vehicle information, contact details, and sales specifics.

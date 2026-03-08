@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to facilitate the menu compliance audit process for schools. The purpose of this form is to collect information related to school menus, including menu dates, item details, and contact information for menu managers. This form is typically used by school administrators or compliance officers to ensure that school menus are up-to-date and compliant with relevant regulations. The form is likely to be used as part of a regular review or audit process to check for any issues or discrepancies with menu items, prices, and contact information. It is not designed for student or parent use, but rather for authorized school staff members.
-
-This form is likely to be filled out by a single user, as indicated by the "required: true" flag on the "item_status" and "item_status_2" fields, which are select_one fields that require a value to be selected. This suggests that the form is intended to be completed once per menu item or menu manager.
-
-The form has two sections, each corresponding to a different school. This could be because the form is used to collect information for multiple schools or locations. The fields are designed to collect general information such as school name, menu date, item details, and contact information for menu managers. This form does not appear to be designed for complex or detailed menu planning or ordering.
-
-Before starting this form, please ensure that you have reviewed the relevant regulations and guidelines related to school menus and that you are authorized to complete this form on behalf of your school or institution.
-
-</thinking>
-
 # Menu Compliance Audit Form - Help Guide
 ## Purpose
 The Menu Compliance Audit Form is used to collect information related to school menus for compliance purposes.

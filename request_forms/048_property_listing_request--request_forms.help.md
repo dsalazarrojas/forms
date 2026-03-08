@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a Property Listing Request form, likely used by real estate agents or brokers to collect information about properties. The purpose of this form is to gather details about a property for listing purposes. 
-
-Before starting the form, please ensure that you have a legitimate reason to submit a new property listing and that you're not duplicating an existing listing. 
-
-The form consists of several pages, and you will need to complete each page to provide accurate and detailed information about the property. The form will guide you through the required and optional fields to help you provide comprehensive data.
-</thinking>
-
 # Property Listing Request - Help Guide
 ## Purpose
 This form is designed to gather information for property listing requests. It's intended to be used by real estate agents or brokers to collect details about properties for listing purposes.

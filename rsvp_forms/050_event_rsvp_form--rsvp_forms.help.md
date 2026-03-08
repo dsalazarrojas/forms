@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather essential details for RSVP (response to an invitation) purposes, primarily used for events or meetings. This form will help users provide their attendance status, contact information, and any additional notes they might have. Ensure that users understand that this form is intended for personal use only, and the information collected will not be shared publicly. Please review the form fields carefully and ensure they are filled in correctly before submitting the response. The fields are designed to be self-explanatory, but if you have any confusion, this guide will help clarify the purpose and use of each field. Ensure that users understand that this form is not designed to collect redundant or duplicate information, so please only fill in the required fields.</thinking>
-
 # Event RSVP Form - Help Guide
 
 ## Purpose

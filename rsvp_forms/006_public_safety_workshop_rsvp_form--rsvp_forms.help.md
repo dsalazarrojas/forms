@@ -1,13 +1,3 @@
-<thinking>
-To be clear, the purpose of this form is to collect information from individuals about their attendance at a public safety workshop. This form is meant to help organizers and administrators track RSVPs and gather relevant details about attendees, such as their name, email, phone number, and date of birth. The form also includes options for workshop type, status, and comments. By using this form, organizers can efficiently manage attendance and prepare for the workshop accordingly.
-
-Please note that this form has a large number of fields, and users may find it time-consuming to fill out. To ensure accurate and efficient completion, it's essential to review each field's requirements and instructions carefully.
-
-Also, consider that some fields might have been added for internal tracking or logging purposes, such as 'created_by', 'updated_by', and 'updated_at'. These fields should only be populated if they're relevant to the form's actual completion.
-
-Please make sure to fill out only the relevant fields as per your workshop needs.
-
-</thinking>
 # Public Safety Workshop RSVP Form - Help Guide
 
 ## Purpose

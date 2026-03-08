@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tip Payment Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This is a safety inspection form designed to evaluate the safety conditions and standards of a freight terminal. This form should only be completed by authorized personnel, and the data entered in the form should not duplicate any existing records or entries. The form is part of a larger process to ensure that freight terminals maintain high standards of safety and compliance with regulations.
-</thinking>
-
 # Freight Terminal Safety Inspection Form - Help Guide
 ## Purpose
 

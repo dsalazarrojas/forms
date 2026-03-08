@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Plan Funeral Form - Help Guide
 
 ## Purpose

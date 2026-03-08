@@ -1,7 +1,3 @@
-<thinking>
-We will need to create a user-facing help guide for the "Factory Signal Light Tower Order Form". This form is used to capture essential information from customers for ordering signal light towers. It seems the form is designed to collect details like customer information, tower type, location, and delivery details. However, the form is not strictly tied to a specific business process or workflow, so let's assume it's a general-purpose order form for a sales or production process. We will need to ensure the form is completed accurately to avoid any potential issues or miscommunications during the sales process. Let's focus on breaking down the form into an easy-to-understand user guide.
-</thinking>
-
 # Factory Signal Light Tower Order Form - Help Guide
 ## Purpose
 This form is designed to collect essential details from customers for ordering signal light towers. Please provide accurate information to ensure a smooth sales process.

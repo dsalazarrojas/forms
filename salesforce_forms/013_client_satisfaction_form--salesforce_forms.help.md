@@ -1,14 +1,3 @@
-<thinking>**Internal Reasoning and Non-Duplication Check**
-
-This form is designed to collect client feedback and satisfaction data. Before proceeding, please ensure that:
-
-*   You have the necessary permissions to complete this form on behalf of your client.
-*   You have not completed this form for the same client in the past 30 days. If this is a follow-up survey, use the "Feedback" section to provide additional comments instead of filling in the entire form.
-
-If you are unsure about your permissions or have already completed this form for the client, please reach out to your supervisor or the project lead for guidance.
-
-</thinking>
-
 # Client Satisfaction Form - Help Guide
 ## Purpose
 

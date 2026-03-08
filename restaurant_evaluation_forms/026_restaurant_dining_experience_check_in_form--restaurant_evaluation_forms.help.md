@@ -1,8 +1,3 @@
-<thinking>
-This is a form to be used for restaurant customers to input their dining experience preferences and contact information before checking-in to the restaurant. This form is used to streamline the check-in process and allow the restaurant to better cater to the guests' needs.
-To ensure accurate completion of this form, please do not duplicate a check-in if you have already checked-in previously or if you are a repeat guest. Duplicate submissions can cause confusion and inaccuracies in the guest records.
-</thinking>
-
 # Restaurant Dining Experience Check In Form - Help Guide
 ## Purpose
 The Restaurant Dining Experience Check In Form is designed to help the restaurant provide an exceptional experience tailored to your preferences and needs. Please take a few minutes to complete this form to ensure a smooth and enjoyable dining experience.

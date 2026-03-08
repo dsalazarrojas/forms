@@ -1,16 +1,3 @@
-<thinking>
-A sales order form is used to capture information about a customer's order, including their identification, order details, and customer preferences. This form will help you process automation tasks for the sales order.
- 
-We will check that this form is not used for non-sales orders and not used in non-sales automation tasks.
- 
-We will also ensure that all required fields are filled out before proceeding to the next step.
- 
-Please note that this form is used to generate sales orders and automate sales processes, it is not for non-sales related tasks.
- 
-Also, we will make sure that the customer email and phone number are accurate and up-to-date to ensure that the customer can be reached for communication.
- 
-</thinking>
-
 # process_automation_relay_board_order_form - Help Guide
 ## Purpose
 The purpose of this form is to capture information for sales orders and automate sales processes.

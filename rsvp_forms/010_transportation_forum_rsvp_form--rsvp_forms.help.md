@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to RSVP for a transportation forum event. The form allows users to provide information about the event they plan to attend, including the event name, date, start and end times, location, transportation type, number of passengers, contact phone number, contact email, and comments. The form is designed to gather necessary information from users in a clear and concise manner. Please ensure that you have reviewed the event details carefully before proceeding to submit your RSVP.
-</thinking>
-
 # Transportation Forum RSVP Form - Help Guide
 ## Purpose
 The Transportation Forum RSVP Form is used to allow users to RSVP for a transportation event. It is essential to fill out this form accurately to ensure that the event organizers have the correct information about the attendees.

@@ -1,5 +1,3 @@
-<thinking>...This form is used to schedule a review meeting between a student and their thesis advisor. The form requires the student to provide personal details such as first and last name, email address, and phone number. The student also needs to specify their degree program, department, thesis title, and the type of review requested. Additionally, they need to select a preferred appointment date and time, an alternative date if the first choice is unavailable, and a preferred meeting format. Finally, the student should provide any specific topics or questions they want to discuss during the review and any additional notes for their advisor. This form helps the students to schedule a review meeting with their advisor in an efficient and organized manner. By using this form, the students can ensure that all necessary information is provided, and the advisor is well-prepared for the meeting... </thinking>
-
 # Academic Thesis Review Appointment Form Template - Help Guide
 ## Purpose
 

@@ -1,19 +1,3 @@
-<thinking>
-This form is intended for assessing fire fighting equipment, which is critical for ensuring the safety of personnel and properties. It's essential to provide accurate and detailed information about the equipment's condition, location, and maintenance history. This form should not be completed for duplicate assessments, as it may lead to unnecessary work and potential safety risks.
-
-To complete this form, you must have a basic understanding of the equipment's condition and the relevant safety standards. If you're unsure about any aspect of the form, please consult with a qualified professional.
-
-This form is designed to collect information about fire fighting equipment, which includes but is not limited to:
-
-* Fire Extinguishers
-* Fire Hoses
-* Fire Pumps
-* Fire Hydrants
-
-Please ensure that you have permission to access the equipment and that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Firefighting equipment assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the condition, location, and maintenance history of fire fighting equipment. This data is crucial for ensuring the safety of personnel and properties.

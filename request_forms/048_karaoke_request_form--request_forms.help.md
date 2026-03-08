@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to request karaoke songs and events. The purpose of this form is to gather information about the songs and events the user wants to request. 
-The form is designed to be completed by users with the necessary information about the songs and events they are interested in.
-This form should only be filled out once, as it will create a record of the request that will be seen by the system administrators.
-
-</thinking>
-
 # Karaoke Request Form - Help Guide
 
 ## Purpose

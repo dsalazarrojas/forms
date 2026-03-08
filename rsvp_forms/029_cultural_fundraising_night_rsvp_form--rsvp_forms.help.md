@@ -1,11 +1,3 @@
-<thinking>
-The goal of the "Cultural Fundraising Night RSVP Form" is to collect information from attendees who want to participate in a cultural event or fundraising night organized by an organization or group. This form will be used to collect contact information, event details, and RSVP responses, helping the organizers to manage the attendees' expectations and plan the event accordingly.
-
-The form is designed to be simple and easy to fill out, requiring only basic information from the attendees. The form will be shared with potential attendees, and it's essential to ensure that all necessary details are correctly filled out to avoid confusion and miscommunication.
-
-This form should not be filled out by people who are unable to attend the event or have already responded with the same information. Please verify that you are filling this form with accurate and up-to-date information to ensure a smooth event organization and communication process.
-</thinking>
-
 # cultural_fundraising_night_rsvp_form - Help Guide
 ## Purpose
 The "Cultural Fundraising Night RSVP Form" is designed to collect information from attendees for a cultural event or fundraising night. This form will help the organizers to manage the event's attendance and communicate with the attendees effectively.

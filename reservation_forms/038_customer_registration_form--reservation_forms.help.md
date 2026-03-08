@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide information about their reservations, including their name, email, phone number, and other details such as reservation date, time, and status. This form is likely used by an organization to manage customer reservations and gather relevant information for their records. It's essential to ensure that the form is filled out correctly to avoid duplication of records.
-</thinking>
-
 # Customer Registration Form - Help Guide
 ## Purpose
 This form is used to register customer information for reservations.

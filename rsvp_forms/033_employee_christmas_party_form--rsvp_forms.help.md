@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to collect information from employees about their plans to attend the Christmas party, including their attending status, dietary preferences, and guest information. The form is designed to be completed by employees who are planning to attend or not attend the party. The purpose of this form is to ensure that the party planning committee has an accurate headcount and can make necessary arrangements for food, drinks, and other party activities. Please only fill out this form once per employee, and do not repeat information for each guest.
-</thinking>
-
 # Employee Christmas Party Form - Help Guide
 ## Purpose
 This form is used to collect information from employees about their plans to attend the Christmas party.

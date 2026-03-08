@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be used when a salesman wants to reject a utility service sale. It allows the salesman to indicate that the service was not sold, and provide reasons why it wasn't sold. The form is designed to be used in a sales process and is typically used by sales representatives to document their reasoning for not selling a service. This form is only intended for use by sales representatives, and is not intended for use by other personnel in the organization.
-
-Before filling out this form, ensure that you are using it for its intended purpose and that you are not duplicating effort. If you're unsure, please review the organization's sales process and procedures.
-
-When filling out this form, you'll be presented with several questions and options. Each question is intended to help the sales team understand why the service sale was not completed. The options provided are intended to capture a specific reason for the rejection, and are meant to be selected based on the actual reason for the rejection. Please answer each question as accurately and thoroughly as possible.
-
-When finished, the form will be submitted and stored as part of the sales process.
-
-</thinking>
-
 # Utility Service Sale Rejection Recommendation Form - Help Guide
 ## Purpose
 This form is intended to capture the reasons why a utility service sale was not sold, and to provide recommendations for future sales efforts.

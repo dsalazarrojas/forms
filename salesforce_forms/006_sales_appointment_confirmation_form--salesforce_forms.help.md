@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to confirm sales appointments. It is designed to collect information related to the appointment, such as the sales agent, customer name and email, lead status, scheduled time and date, appointment duration, and notes. This form likely serves as a post-appointment confirmation or follow-up form to ensure that the sales team is on the same page regarding the appointment's details and integration with other systems like Zoom, Google Calendar, Gmail, and Outlook.
-
-Before filling out this form, the sales team should ensure that they have completed the pre-appointment forms and that the appointment has already taken place. This form is meant to be a quick and efficient way to update the sales system with post-appointment details, and the fields should only require input if they are relevant to the specific appointment.
-
-The fields in this form should not be filled out unless the appointment has already occurred, and the sales team should only complete the form for appointments that have a "lead" status. The form's fields should be filled out as accurately and thoroughly as possible to ensure that the sales system has up-to-date information.
-</thinking>
-
 # sales_appointment_confirmation_form - Help Guide
 ## Purpose
 This form is used to confirm sales appointments and update the sales system with post-appointment details.

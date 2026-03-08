@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for users to create a free movie ticket for a movie showing in a movie house. The form is used to collect details such as the name of the movie house, the name of the movie being shown, the number of tickets to be allocated, the date and time of the movie, the duration of the movie, a brief description of the movie, and any notes from the user. This form will be used by the movie house staff to create a free movie ticket for the user. It is expected that the user will be a member of the movie house and will provide correct information to ensure the ticket is created successfully.
-
-Please note that this form is only for users who are members of the movie house and the movie house staff will check the form for accuracy before creating the free movie ticket.
-
-</thinking>
-
 # Free Movie Ticket - Help Guide
 ## Purpose
 This form is used to create a free movie ticket for a movie showing in a movie house.

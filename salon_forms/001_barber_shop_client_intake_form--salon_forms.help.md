@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their personal and grooming preferences, including hair type, length, and style, as well as any allergies or sensitivities they may have. The form is intended for first-time customers or regular customers who need to provide updated information. The fields are organized into sections for easier navigation and clarity. Note that while some fields are marked as optional, providing accurate and complete information is crucial for ensuring the best experience and service for the client.
-</thinking>
-
 # Barber Shop Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients about their personal and grooming preferences.

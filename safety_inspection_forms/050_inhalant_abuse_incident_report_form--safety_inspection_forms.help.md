@@ -1,12 +1,3 @@
-<thinking>
-This form is used to document incidents of inhalant abuse, which is a critical concern in various settings such as schools, workplaces, and communities. The purpose of this form is to gather information about the incident, including the date, time, location, and details of the incident, as well as the involvement of suspects and witnesses. The form also allows for the reporting of follow-up actions and the status of the incident report. It is essential to complete this form accurately and thoroughly to ensure that the incident is investigated and addressed properly.
-
-To prevent duplication of efforts, please review the form carefully before submitting, and only submit it if you have not already reported this incident.
-
-When completing this form, please provide as much detail as possible, and be honest about the involvement of the suspect(s) and witness(es). The information provided will help in conducting a thorough investigation.
-
-This form is intended for use by authorized personnel who have access to the reporting unit's reporting system.</thinking>
-
 # Inhalant Abuse Incident Report Form - Help Guide
 ## Purpose
 The Inhalant Abuse Incident Report Form is used to document incidents of inhalant abuse in various settings such as schools, workplaces, and communities. It is essential to complete this form accurately and thoroughly to ensure that the incident is investigated and addressed properly.

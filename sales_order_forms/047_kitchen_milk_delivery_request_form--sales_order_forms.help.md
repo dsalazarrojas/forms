@@ -1,24 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "kitchen_milk_delivery_request_form" form. This form is used to request milk delivery for customers. The form is likely used by sales or customer service teams to gather information from customers about their milk delivery preferences, such as type and quantity of milk, delivery date and time, and contact information.
-
-To complete this form, follow these steps:
-
-1. Fill in the customer information section, which includes the customer's name, address, and other relevant details.
-2. Enter the customer's name and any additional comments or notes.
-3. Specify the delivery date and time.
-4. Select the type of milk to be delivered (e.g., regular milk, almond milk, etc.).
-5. Enter the quantity of milk to be delivered.
-6. Specify if milk is delivered with units (e.g., gallons, liters, etc.).
-7. Enter the delivery address and instructions.
-8. Specify the delivery status (e.g., active or inactive).
-9. Enter the contact person's name, email, and phone number.
-10. Optionally, enter any special instructions or notes.
-11. Optionally, enter billing information, if applicable.
-
-When filling out this form, ensure that all required fields are filled in completely and accurately. If a field is marked as "optional," it means you can leave it blank if it's not necessary. However, providing this information can help ensure the smooth delivery of milk to the customer.
-
-</thinking>
-
 # kitchen_milk_delivery_request_form - Help Guide
 ## Purpose
 This form is used by sales or customer service teams to gather information from customers about their milk delivery preferences.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information from attendees regarding their availability and preferences for a marketing meeting. It is not intended for general event RSVPs, but rather for specific meetings within the company. This guide will help fill out the form correctly and efficiently.
-
-Before filling out the form, please make sure that you have the necessary information and permissions to RSVP for the meeting. If you are unsure, please consult with your supervisor or the meeting organizer.
-
-The purpose of this form is to help the meeting organizers ensure that the right attendees are present at the meeting and to get an overview of the attendees' availability and preferences.
-
-Please fill out the form accurately and completely. If you have any questions or concerns, please contact the meeting organizer.
-
-</thinking>
-
 # Marketing Meeting RSVP - Help Guide
 ## Purpose
 This form is used to gather information from attendees about their availability and preferences for a marketing meeting. Please fill out the form accurately and completely to help the meeting organizers prepare for the meeting.

@@ -1,15 +1,3 @@
-<thinking>
-
-The Facepiece Inspection Checklist form is designed to help users conduct a thorough inspection of facepieces, a critical component of personal protective equipment (PPE) used in various industries. Facepieces are essential for ensuring worker safety, and this form is intended to streamline the inspection process, making it easier for users to identify and address potential issues.
-
-This form is not a one-size-fits-all solution; each section and field is designed to be tailored for specific aspects of facepiece inspections. The form guides users through a step-by-step process, gathering detailed information about the state of facepieces, including checks for equipment functionality and corrective actions taken. Additionally, the form accommodates note-taking, allowing users to document observations, actions, and other relevant comments.
-
-When filling out this form, please ensure that you answer the questions and provide information as accurately and thoroughly as possible. Each section should be completed for each facepiece being inspected.
-
-Please note that this form is a general template and may not cover all possible scenarios. It's essential to review and adapt it according to your organization's specific needs and regulations.
-
-</thinking>
-
 # Facepiece Inspection Checklist - Help Guide
 ## Purpose
 The Facepiece Inspection Checklist is designed to ensure that facepieces are properly inspected, documented, and maintained to guarantee worker safety and efficiency in various industries.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Salon Review Form - Help Guide
 ## Purpose
 The Hair Salon Review Form is a tool for clients to share their feedback and ratings about their experience at a salon. This form helps the salon management track customer reviews, identify areas of improvement, and provide quality service to their customers.

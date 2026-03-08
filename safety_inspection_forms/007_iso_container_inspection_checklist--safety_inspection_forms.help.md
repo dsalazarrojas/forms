@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to gather information about the condition of ISO containers, which are used for safe storage and transportation of goods. This form will help the user assess the condition of the containers, including the general information about the container, its labeling, condition, and seal types. The purpose of the form is to identify any potential safety concerns or issues with the container.
-
-Before filling out the form, please ensure that the container is in a safe and secure environment, where all the required elements can be easily inspected. Ensure that all seals and labels are not obstructed by any objects or other safety hazards.
-
-The form will be used by warehouse staff, shipping and receiving, or quality control inspectors to quickly identify any potential safety issues or concerns.
-
-Please note that the form is not affiliated with any specific platform or company, and the provided information is only for internal use.
-
-</thinking>
-
 # ISO Container Inspection Checklist - Help Guide
 ## Purpose
 The ISO Container Inspection Checklist is a form designed to inspect and assess the condition of ISO containers used for safe storage and transportation of goods. This form will help identify any potential safety concerns or issues with the container.

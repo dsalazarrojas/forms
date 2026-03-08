@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Field Trip Survey form, we need to determine the purpose of the form, how to complete it, and explain each field in detail.
-
-The form, titled "Field Trip Survey", is designed to collect data on field trips, likely for educational purposes. It appears to be used to gather information on various aspects of field trips, including date, start and end times, event organizers, teachers involved, student feedback, additional comments, costs, and student participation.
-
-To ensure that the form is used correctly, we should check for non-duplication and relevance. If a user has already completed this form for the same field trip, it's not necessary to fill it out again. Additionally, users should only fill out the form if they have relevant information to provide.
-
-</thinking>
-
 # Field Trip Survey - Help Guide
 ## Purpose
 The Field Trip Survey is a form used to collect data on field trips for educational purposes.

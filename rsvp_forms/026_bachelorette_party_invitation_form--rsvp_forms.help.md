@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for users who need to RSVP to a Bachelorette Party. It's designed to be completed by invited guests to confirm their attendance and provide some fun information about themselves to make the party more enjoyable for everyone.
-
-Before starting, check if you have already responded to an invitation with a similar form. If not, then please proceed with the form below.
-
-</thinking>
-
 # Bachelorette Party Invitation Form - Help Guide
 ## Purpose
 This form is designed to gather information about your attendance and preferences for the Bachelorette Party celebration. Please take a few minutes to fill it out and let us know about your plans.

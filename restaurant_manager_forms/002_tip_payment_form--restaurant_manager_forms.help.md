@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about tip payment, which is typically used in a restaurant setting. The form has 7 fields in total, each with a specific purpose. The "Tip Payment Form" is used to input values for "Bill", "Tip", "Service Charge", and "Total". These are numerical inputs. Additionally, the form allows the user to select a "Tip Calculator" to input a percentage for the tip calculation, and two other fields, "Calculate Tip" and "Calculate Service Charge", seem to be dates and times, respectively, which are likely intended to be used by a service charge calculator, but their purpose and function could be further explained and refined.
-</thinking>
-
 # Tip Payment Form - Help Guide
 ## Purpose
 The "Tip Payment Form" is used to collect information for tip payment calculation in a restaurant setting.

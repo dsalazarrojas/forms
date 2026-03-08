@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather feedback from the nail technician team on an appointment with a client. The form is designed for the nail technician team to provide a review of the appointment, including any comments, feedback, and next steps that need to be taken.
- 
-Please check that the form is being used for its intended purpose and not for other non-review-related activities.
-</thinking>
-
 # Nail Technician Team Review Appointment Form - Help Guide
 
 ## Purpose

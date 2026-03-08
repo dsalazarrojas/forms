@@ -1,17 +1,3 @@
-<thinking>... 
-
-This form is designed to collect information from customers about their t-shirt product orders. The form will likely be used by salespeople to gather customer details and preferences for t-shirt orders. However, it is not clear from the YAML if this form is part of a specific business process or if it's for general customer inquiries.
-
-To determine the relevance and potential duplication of this form, let's analyze its fields:
-
-- `t_shirt_order_form`: This field is likely meant to be a description of the order or a placeholder for other information.
-- `customer_info`: This field is likely meant to collect general customer information.
-- `tshirt_size`: This field is a select_one field, indicating that the customer will be selecting one of the available sizes (xs, s, m, l, xl).
-- `tshirt_color`: This field is also a select_one field, indicating that the customer will be selecting one of the available colors (red, blue, green, yellow, black, white).
-- `customer_name`, `customer_email`, `customer_phone`: These fields are meant to collect customer contact information.
-
-... </thinking>
-
 # T Shirt Product Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their t-shirt product orders.

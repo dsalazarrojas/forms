@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to collect information from users for car rental purposes. Its purpose is to gather details such as user name, pickup and dropoff dates and times, and email address. This form was created as an original adaptation of publicly available survey metadata and does not copy or derive content from any proprietary form platforms. 
-</thinking>
-
 # Hire A Car Form - Help Guide
 ## Purpose
 The Hire A Car Form is designed to collect information for car rental purposes, allowing you to gather details from users such as name, pickup and dropoff dates and times, and email address.

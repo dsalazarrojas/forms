@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from users about the Spring Collection 2021 Pre Order Now sales order form. It seems relevant to the industry of sales order forms, which is a common practice in various business settings.
- 
-The form doesn't duplicate any known form from public platforms. It's created using AI as an original adaptation.
- 
-</thinking>
-
 # Spring Collection 2021 Pre Order Now - Help Guide
 
 ## Purpose

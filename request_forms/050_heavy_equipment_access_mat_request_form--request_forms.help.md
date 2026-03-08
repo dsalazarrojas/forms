@@ -1,7 +1,3 @@
-<thinking>...This form appears to be a request form for accessing heavy equipment or materials on a site. It asks for information related to the request, including the site manager's approval, the type of material, and the request details. The form also includes fields for contact information and comments from both the site manager and job manager. This form likely serves as a means for employees to request access to heavy equipment or materials on a site and track the status of the request. To avoid duplicate requests, it's possible that this form is used to check if a request for a specific heavy equipment or material is already active or inactive, allowing for efficient management of resources and allocation of personnel. It may also help prevent conflicts between site managers and job managers regarding the availability of equipment or materials.
-
-</thinking>
-
 # Heavy Equipment Access Mat Request Form - Help Guide
 ## Purpose
 This form is used to request access to heavy equipment or materials on a site. It ensures that the site manager and job manager are aware of and approve each request for equipment access.

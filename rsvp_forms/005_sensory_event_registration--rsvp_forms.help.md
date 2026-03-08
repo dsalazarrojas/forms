@@ -1,7 +1,3 @@
-<thinking>
-The "Sensory Event Registration" form is used for users to register their attendance or interest in a sensory event, such as a workshop or conference. This form will help you provide essential information about your event, like your name, contact details, and preferences. To avoid registering twice, please check the event's website or communication from the event organizers for any previous registration instructions. If you find that this form has already been filled out by someone, it might be an error; you can still submit it to report the issue.
-</thinking>
-
 # Sensory Event Registration - Help Guide
 ## Purpose
 This guide will walk you through the Sensory Event Registration form to help you complete it accurately and efficiently. The form is designed to gather information about your attendance and preferences for a sensory event.

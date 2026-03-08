@@ -1,19 +1,3 @@
-<thinking>
-
-To create the user-facing help guide for the "Speaker Meet And Greet RSVP Form", I need to understand the form's purpose and the fields it contains. After analyzing the YAML, I see that the form has the following fields:
-
-* `rsvp`: a select_multiple field with two options ("Yes" and "No") that seems to be the main field of the form.
-* `guest_name`: a text field for the guest's name.
-* `guest_email`: an email field for the guest's email address.
-* `guest_phone`: a text field for the guest's phone number.
-* `accessibility_needs`: a select_multiple field with two options ("Yes" and "No") that seems to be related to accessibility needs.
-
-Given that this form is for an event, I'm assuming that the form is meant to collect RSVP information from guests, including their name, email, and phone number, and possibly their accessibility needs. I'm also assuming that the guest can choose whether they are attending the event or not.
-
-I will create a help guide that is concise and practical, while avoiding inventing unsupported business logic.
-
-</thinking>
-
 # Speaker Meet And Greet RSVP Form - Help Guide
 ## Purpose
 The Speaker Meet And Greet RSVP Form is designed to collect information from guests attending an event. Please use this form to let us know if you can attend and share your contact information so we can reach you for further details.

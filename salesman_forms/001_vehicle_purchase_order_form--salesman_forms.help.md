@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for creating a vehicle purchase order form. It's a straightforward form for collecting information about a customer and their vehicle purchase details. The form is not related to any specific platform, but rather an original creation based on public survey topic metadata. This form can be freely used, modified, and even sold, as long as credit is given. It's suitable for sales teams, automotive dealerships, or similar organizations. Before proceeding, ensure this form accurately captures your specific needs and requirements.
-</thinking>
-
 # vehicle_purchase_order_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers regarding their vehicle purchase. It includes fields for customer details, vehicle information, payment details, additional vehicle information, salesman details, and order details.

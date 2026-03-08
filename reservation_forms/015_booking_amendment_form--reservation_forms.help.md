@@ -1,5 +1,3 @@
-<thinking>... This form is designed for guests to make amendments to their existing bookings, which can include changing dates, room types, guest count, adding services, or cancelling the booking altogether. This form is used by guests to communicate their desired changes to the hotel. To ensure a smooth process, it's essential to complete the form accurately and thoroughly. Please review each field carefully to avoid any errors or misunderstandings... </thinking>
-
 # Booking Amendment Form - Help Guide
 ## Purpose
 The purpose of this form is to make amendments to an existing booking, allowing guests to modify their stay details, such as dates, room type, or services.

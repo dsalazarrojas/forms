@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from corporate clients for the purpose of booking a housing lease. It is likely used by a business travel management company or a hotel to streamline the booking process. The form should not be used for other purposes, such as booking individual travel or personal events. This form is a general template and may require adjustments based on the specific business use case.
-</thinking>
-
 # Corporate Housing Lease Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from corporate clients for the purpose of booking a housing lease. It is intended to be used by business travel management companies or hotels to streamline the booking process.

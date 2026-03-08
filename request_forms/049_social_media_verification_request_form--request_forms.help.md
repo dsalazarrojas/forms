@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to verify a user's social media account information. The purpose of this form is to request a review of the user's social media account to confirm their identity. This form is intended for users who want to use their social media account to access certain features or services that require verification. 
-
-The form is not designed for users who are looking to create a new social media account or reset their password. Before filling out this form, please ensure that you have already created a social media account and are attempting to verify its accuracy.
-
-To avoid duplicating requests, please make sure to submit this form only once for each social media account you want to verify. If you have already submitted this form and are receiving this guide again, please disregard this form and do not resubmit.
-
-</thinking>
-
 # Social Media Verification Request Form - Help Guide
 ## Purpose
 The Social Media Verification Request Form is designed to help you request a review of your social media account to confirm your identity. 

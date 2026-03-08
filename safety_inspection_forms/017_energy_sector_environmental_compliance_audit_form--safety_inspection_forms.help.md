@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a facility's energy usage and environmental compliance status. It is intended for internal use within the organization, likely for regulatory or reporting purposes. The form should only be completed for facilities that have a significant energy usage or emissions impact.
-
-Before filling out this form, ensure that you have permission to access and input information about the facility. If you are unsure, please check with the facility management or the relevant regulatory authority.
-
-When completing this form, please be as accurate and detailed as possible, and ensure that you have relevant documentation or evidence to support your answers.
-
-</thinking>
-
 # Energy Sector Environmental Compliance Audit Form - Help Guide
 
 ## Purpose

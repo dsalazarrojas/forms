@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for sales purposes, specifically for customers to place orders for school t-shirts. The fields are organized in a way that ensures the customer can easily provide all required information in a clear and concise manner. The form includes a mix of single and multiple select options, dates, and a note field for any additional information the customer may want to provide.
-</thinking>
-
 # School T Shirt Order Form - Help Guide
 ## Purpose
 The School T Shirt Order Form is a sales form designed to collect information from customers to place orders for school t-shirts. This form is intended to be used by sales team members to capture relevant details from customers and process their orders efficiently.

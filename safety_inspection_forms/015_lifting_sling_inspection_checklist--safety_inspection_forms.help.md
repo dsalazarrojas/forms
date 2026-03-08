@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I will first provide an internal reasoning block that explains the purpose and context of the form. The form "Lifting Sling Inspection Checklist" is a crucial document used to ensure the safety and integrity of lifting equipment during site inspections. It is typically filled out by safety inspectors to record observations, defects, and issues related to the inspection of lifting slings. The form is used to identify potential hazards and provide a clear record of the inspection findings. This document will serve as a reference for future inspections and help in maintaining a high level of safety on-site.
-
-</thinking>
-
 # Lifting Sling Inspection Checklist - Help Guide
 ## Purpose
 The Lifting Sling Inspection Checklist is a critical document used to record the inspection findings of lifting slings on-site. It helps to identify potential hazards and ensures that the slings are fit for use. The form is completed by safety inspectors during regular inspections of the slings.

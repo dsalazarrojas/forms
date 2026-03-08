@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to measure customer satisfaction with a restaurant visit. The purpose of this form is to collect feedback from customers on their dining experience, specifically regarding the food quality and service received. This information will be used to identify areas of improvement and inform future decisions related to the restaurant's operations and service standards.
-
-The form will only be filled out by customers who have recently visited the restaurant. It will ask them to rate various aspects of their visit and provide their overall rating in numbers.
-
-The form consists of two pages. No information will be duplicated or unnecessary data will be asked.
-
-</thinking>
-
 # Restaurant Customer Satisfaction Survey - Help Guide
 ## Purpose
 

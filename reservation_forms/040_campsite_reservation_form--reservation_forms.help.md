@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a reservation form for a campsite. The purpose of this form is to collect guest information, reservation dates, campsite selection, meal preferences, and party information. The form is likely used by an organization that manages a campsite, such as a park or resort.
-
-To avoid duplication, we assume that the form is used for creating new reservations rather than editing existing ones.
-
-</thinking>
-
 # Campsite Reservation Form - Help Guide
 ## Purpose
 The Campsite Reservation Form is used to create new reservations for a campsite. This form collects information about the guest, reservation dates, campsite selection, meal preferences, and party information.

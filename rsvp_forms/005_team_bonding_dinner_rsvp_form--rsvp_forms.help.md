@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from team members for a team bonding dinner event. The form will be used to track who is attending, their contact information, and any dietary restrictions or preferences they may have. This form is not intended for any other purpose, and it's recommended that team members complete it only once for each event.
-</thinking>
-
 # Team Bonding Dinner RSVP Form - Help Guide
 ## Purpose
 This form is used to collect RSVPs from team members for a team bonding dinner event. Please fill out the form with your information to help us plan the event.

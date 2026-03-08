@@ -1,7 +1,3 @@
-<thinking>
-This form is for RSVPs for a startup demo brunch. It is used to collect information about attendees and their guests, including their names, contact information, and preferences. This form is not intended for general public usage and is specific to the demo brunch event. The purpose of this form is to collect data for event planning and organization. It is recommended that users only fill out this form if they are actually attending or planning to attend the demo brunch event.
-</thinking>
-
 # startup_demo_brunch_rsvp_form - Help Guide
 ## Purpose
 The startup demo brunch RSVP form is used to collect information about attendees and their guests, including their names, contact information, and preferences.

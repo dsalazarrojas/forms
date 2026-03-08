@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about safety assessments and visits to clients' homes, providing an opportunity for the completion of follow-up actions, reviewer notes, and next review dates. This form is likely used by safety inspectors or review teams to record and track client data, and is part of the broader process of ensuring client safety and compliance. Please ensure that this form is completed accurately and thoroughly to ensure the best possible outcomes for the client.
-
-</thinking>
-
 # Home Visit Safety Checklist - Help Guide
 ## Purpose
 This guide provides an overview of the Home Visit Safety Checklist form, which is used to gather information about safety assessments and visits to clients' homes. The form includes sections for collecting client data, safety assessments, follow-up actions, reviewer notes, and next review dates.

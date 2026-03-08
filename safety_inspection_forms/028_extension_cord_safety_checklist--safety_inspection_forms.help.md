@@ -1,7 +1,3 @@
-<thinking>
-Is the purpose of the "extension_cord_safety_checklist" form to check the safety of extension cords? The form seems to be a simple and straightforward checklist to collect information about the safety status of extension cords. The fields included suggest that it's a form for an inspection, where the inspector collects data on the presence or absence of hazards, dates of inspections, types of hazards found, locations of hazards, additional notes, and possibly the tool used and the name of the inspector. This seems like a basic form for tracking and maintaining records of extension cord safety inspections. However, I'm assuming the form is used to ensure compliance with safety regulations or standards. Am I correct?
-</thinking>
-
 # extension_cord_safety_checklist - Help Guide
 ## Purpose
 The "extension_cord_safety_checklist" is a form used to inspect and record the safety of extension cords. It is designed to ensure compliance with safety regulations or standards.

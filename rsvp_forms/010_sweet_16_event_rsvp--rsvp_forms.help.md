@@ -1,20 +1,3 @@
-<thinking>
-This is a form for RSVPing to an event. It should only be completed for events where the user has already been invited.
-
-The "Event Details" page is where you should enter a brief description of the event you are RSVPing to. This can include information like event name, date, time, and location.
-
-The "Guest Details" page is where you should enter information about the guests attending the event. You can enter the names of the guests, their contact information, and any special requests they may have.
-
-The "Special Requests" page is where you can enter any additional information or requests you have for the event.
-
-On the "RSVP" page, you will be asked to confirm your response and select whether you will be attending the event or not. You must confirm your response.
-
-The "Attendees" page is where you can select which guests will be attending the event.
-
-The "Message or Comment" page is where you can include any additional comments or information about your RSVP.
-
-</thinking>
-
 # sweet16_event_rsvp - Help Guide
 ## Purpose
 This form is for RSVPing to an event. It should only be completed for events where you have already been invited.

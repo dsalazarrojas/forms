@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers who want to reserve a swim lane at your swim facility. The form has two main pages: "Swim Lane Reservation" and "Reservation Details". On the first page, the customer selects whether or not they want to reserve a swim lane. If they choose "Yes", they will proceed to the second page to provide more details. On this page, they will be asked if they have any swim lane availability issues. The customer will also be asked to select the time slot for the reservation and provide their contact information. The form is designed to be user-friendly and easy to complete.
-</thinking>
-
 # Swim Lane Reservation Form - Help Guide
 ## Purpose
 The Swim Lane Reservation Form is designed for customers who wish to reserve a swim lane at your swim facility. The form is divided into two main pages: "Swim Lane Reservation" and "Reservation Details". Completing this form will allow you to reserve a swim lane and provide any necessary information for the customer.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to report any incidents that have occurred during the workday, such as accidents, injuries, or near misses, to help identify potential safety hazards and take corrective actions to prevent future incidents. This form should only be completed for incidents that have occurred on the date specified in the "Date of incident" field, and not for historical incidents or incidents from previous days. It's essential to report all incidents, even if they seem minor, as they can help improve safety protocols and prevent more severe incidents.
-</thinking>
-
 # Daily Safety Reporting Form - Help Guide
 ## Purpose
 The purpose of this form is to report any incidents that have occurred during the workday.

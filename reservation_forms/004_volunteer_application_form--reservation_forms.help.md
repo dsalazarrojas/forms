@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Application Form - Help Guide
 ## Purpose
 The Volunteer Application Form is used to collect information from volunteers who are interested in joining your organization's volunteer efforts. This form helps us understand your availability, interests, and any specific skills you may possess that could be beneficial to our cause. By submitting this form, you'll be considered for volunteer opportunities that match your skills and availability.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coach Consultation - Help Guide
 ## Purpose
 This form is designed to be completed by individuals who wish to schedule a consultation with a coach. The form gathers essential information to ensure a successful and safe consultation experience. Please review and complete this form carefully to ensure you receive the correct support for your needs.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to guide shop safety inspectors in conducting thorough safety inspections of shops and offices, ensuring compliance with relevant safety regulations and guidelines. This form is designed to be completed by shop inspectors to document their findings and provide a structured approach to identifying potential hazards and risks. The form is intended for shops and offices with safety inspection requirements to record their inspection data, and will be reviewed and updated regularly to ensure consistency and continuity.
-
-Before proceeding, please ensure that this form is relevant to your specific use case and has not been superseded by newer or updated forms.
-
-</thinking>
-
 # Shop Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to conduct safety inspections of shops and offices, ensuring compliance with relevant safety regulations and guidelines.

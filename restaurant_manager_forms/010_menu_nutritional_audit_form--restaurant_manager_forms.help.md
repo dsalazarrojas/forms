@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Menu Nutritional Audit Form - Help Guide
 
 ## Purpose

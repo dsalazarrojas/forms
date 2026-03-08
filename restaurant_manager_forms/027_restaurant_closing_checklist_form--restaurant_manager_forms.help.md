@@ -1,7 +1,3 @@
-<thinking>
-We are developing a Restaurant Closing Checklist Form to assist restaurant managers in ensuring that all necessary tasks and actions are completed before closing the restaurant. This form is designed to be used at the end of each day to check off completed tasks and verify that the restaurant is secure, clean, and financially sound. The form includes sections for checking tasks related to restaurant safety, security, cleanliness, finances, and employee activities. Please review the form carefully to ensure all areas are addressed before closing the restaurant.
-</thinking>
-
 # Restaurant Closing Checklist Form - Help Guide
 ## Purpose
 The Restaurant Closing Checklist Form is designed for restaurant managers to verify that all necessary tasks and areas are completed before closing the restaurant. This ensures consistency and thoroughness in the closing process.

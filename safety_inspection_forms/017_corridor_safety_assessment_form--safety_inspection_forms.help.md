@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the Corridor Safety Assessment Form is completed accurately and effectively, let's first confirm that it's being used for its intended purpose and not duplicated. This form is designed to assess the safety conditions of corridors within facilities, focusing on identifying potential hazards and taking corrective actions to mitigate risks. It's crucial that the form is filled out for each corridor assessment, and not for other purposes or as a duplicate.
-</thinking>
-
 # Corridor Safety Assessment Form - Help Guide
 ## Purpose
 The Corridor Safety Assessment Form is a tool used to evaluate the safety conditions of corridors within facilities. Its primary objective is to identify potential hazards and take corrective actions to mitigate risks.

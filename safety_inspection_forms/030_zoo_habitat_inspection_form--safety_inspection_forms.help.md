@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the collection of data regarding the condition and well-being of animal habitats in zoos. This form is meant to be filled out by zoo inspectors during their regular checks to ensure that the habitats are safe and suitable for the animals. The form should be completed for each animal habitat, and the data collected will help zoo management and staff to identify areas that require attention and make necessary improvements.
-
-Before filling out this form, please make sure that you are only submitting data for a single animal habitat at a time. If you need to submit data for multiple habitats, please fill out this form multiple times, making sure to change the habitat name and other relevant details for each submission.
-
-To ensure that your submissions are accurate and consistent, please follow the guidelines below.
-</thinking>
-
 # Zoo Habitat Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect data on the condition and well-being of animal habitats in zoos.

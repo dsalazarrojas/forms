@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be an excessively long and redundant form, with multiple pages repeating similar content. It is likely that the form has been generated with a specific goal in mind, such as creating a survey or a data collection tool. I will do my best to create a user-facing help guide for this form, condensing the content and providing clear explanations for each field.
-</thinking>
-
 # Rail Ticket Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information for rail ticket booking, including booking details and passenger information.

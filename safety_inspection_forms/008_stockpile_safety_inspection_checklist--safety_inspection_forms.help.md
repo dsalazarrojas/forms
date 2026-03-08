@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the safety inspection of a stockpile. The purpose of this form is to ensure that all stockpiles are regularly inspected to identify and address potential safety hazards. This form should only be completed by authorized personnel who are responsible for conducting safety inspections. The information gathered from this form will be used to track stockpile safety status and identify areas for improvement. Before completing this form, ensure that you have the necessary permissions and that you are familiar with the stockpile's safety procedures and protocols.
-</thinking>
-
 # Stockpile Safety Inspection Checklist - Help Guide
 ## Purpose
 The Stockpile Safety Inspection Checklist is a tool used to ensure the safety of stockpiles by identifying and tracking potential hazards and corrective actions.

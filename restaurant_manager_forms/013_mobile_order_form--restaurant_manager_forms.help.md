@@ -1,9 +1,3 @@
-<thinking>
-Form purpose is to gather customer order information.
-This form is for mobile ordering, which implies its primary use case is mobile devices.
-Form fields and their labels are clear, so we will follow the structure and use them for explanation.
-</thinking>
-
 # mobile_order_form - Help Guide
 ## Purpose
 The mobile order form is used to gather customer order information for mobile ordering purposes.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for reviewing the progress of a client's fitness program. The form is designed to be completed by a fitness professional or coach to assess the client's progress over time. The form's fields are meant to be filled in by the coach or professional, and the data collected will be used to evaluate the client's fitness goals and make adjustments to their program as needed.
-</thinking>
-
 # Fitness Progress Review Appointment Form Template - Help Guide
 ## Purpose
 This form is designed to collect information for reviewing the progress of a client's fitness program.

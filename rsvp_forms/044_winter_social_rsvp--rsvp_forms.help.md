@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Winter Social RSVP - Help Guide
 ## Purpose
 

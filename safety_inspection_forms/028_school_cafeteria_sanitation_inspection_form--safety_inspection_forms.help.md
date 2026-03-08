@@ -1,16 +1,3 @@
-<thinking>
-This form appears to be a School Cafeteria Sanitation Inspection Form used to assess the cleanliness and safety of a school cafeteria. It is likely used for quality control and regulatory compliance purposes. The form includes sections on various aspects of the cafeteria, including equipment, utensils, dish room, hand washing, food, beverages, cleaning, food temperature, floor, and overall appearance. The form is designed for inspectors to evaluate the conditions and cleanliness of the cafeteria.
-
-Before filling out this form, it is essential to understand the purpose of each section and the options available. Each section assesses different aspects of the cafeteria's sanitation and safety.
-
-This form is likely used by school administrators or health inspectors to evaluate the cleanliness and safety of the cafeteria and identify areas for improvement.
-
-This form is not meant to be a comprehensive inspection report, but rather a tool to help identify areas of concern and provide a basis for corrective actions.
-
-Please fill out this form carefully, as it will help school administrators and health inspectors assess the current state of the cafeteria.
-
-</thinking>
-
 # School Cafeteria Sanitation Inspection Form - Help Guide
 ## Purpose
 The School Cafeteria Sanitation Inspection Form is designed to assess the cleanliness and safety of a school cafeteria.

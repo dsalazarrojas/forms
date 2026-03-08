@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather patient health information and is a standard set of questions used to assess the patient's overall well-being, including their mental health, physical health, and social functioning. This form is designed to ensure that patients' health needs are accurately assessed, and their information is stored in a structured format for easy reference. By duplicating this form, you are ensuring that each patient's health status is evaluated consistently and thoroughly, and that their data is stored for future reference and continuity of care.
-</thinking>
-
 # Patient Health Questionnaire PHQ9 - Help Guide
 
 ## Purpose

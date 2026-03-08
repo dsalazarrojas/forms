@@ -1,12 +1,3 @@
-<thinking> 
-The form purpose is to collect information about the fire safety equipment test request from the user. It is likely that this form is used in a facility or workplace that needs to conduct regular safety inspections of fire safety equipment to ensure they are in good working condition. 
-
-To prevent duplication of the form submission, it might be a good idea to implement a unique identifier or a token that can be generated for each form submission. 
-
-The form can be used by users in different roles, but the form might not be relevant for users without the necessary permissions or access rights. 
-
-</thinking>
-
 # Fire Safety Equipment Test Request Form - Help Guide
 ## Purpose
 The Fire Safety Equipment Test Request Form is used to collect information about the fire safety equipment test request from the user. This form is designed to be completed by users who need to request a test of fire safety equipment in their facility or workplace.

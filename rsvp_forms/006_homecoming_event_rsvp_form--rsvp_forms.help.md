@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for the "homecoming_event_rsvp_form" form, which is designed for users to RSVP to a homecoming event. This form is used to collect information from users regarding their intentions to attend the event, their contact details, and any special requirements they may have. To complete this form, users will provide their name, email, phone number, number of guests, their response to attending the event (yes or no), and any accessibility requirements. This form is crucial in helping event organizers gather accurate information to plan and prepare for the event.
-
-</thinking>
 # homecoming_event_rsvp_form - Help Guide
 ## Purpose
 The homecoming_event_rsvp_form is used to gather information from users regarding their intentions to attend a homecoming event and any additional details they may need to share with event organizers.

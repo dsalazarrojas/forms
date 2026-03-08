@@ -1,11 +1,3 @@
-<thinking>
-This guide provides an overview of the Grab And Go Meals Reservation Form, a tool designed for restaurant managers to collect information from customers for their meal orders. The form is a multi-page form that gathers details such as customer and order information, contact details, and special requests.
-
-Before filling out the form, ensure you have all the necessary information ready. The form consists of 25 fields divided into several sections, including customer and order details, contact information, and special instructions. Each field has a specific label, which we'll explain below.
-
-To complete the form, follow the instructions below:
-</thinking>
-
 # Grab And Go Meals Reservation Form - Help Guide
 ## Purpose
 The Grab And Go Meals Reservation Form is used to collect information from customers for their meal orders, allowing restaurant managers to efficiently manage customer data and provide better service.

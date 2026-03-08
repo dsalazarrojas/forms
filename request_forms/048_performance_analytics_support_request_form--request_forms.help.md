@@ -1,5 +1,3 @@
-<thinking>Performance Analytics Support Request Form is designed for customers or users who need support with performance analytics-related issues. To determine the relevance of this form, ask yourself: Do you have an issue with performance data or analytics? Are you experiencing a problem with your analytics dashboard or data report? If so, then this form is for you. To prevent duplication of effort, ensure that you're not submitting a similar request already in progress or resolved. If you're unsure, please check our internal system for existing support requests related to your issue. Before submitting, review the form below to ensure you have all the necessary information.</thinking>
-
 # Performance Analytics Support Request Form - Help Guide
 ## Purpose
 The Performance Analytics Support Request Form is for customers or users who need support with performance analytics-related issues, such as problems with their analytics dashboard or data report.

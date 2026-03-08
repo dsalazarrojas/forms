@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for restaurant table reservations. It is intended to be used by restaurant staff to manage and track reservation dates, times, and customer details. The form fields are intended to be filled out by both the customer and the restaurant staff to ensure accurate and efficient reservation management. The form's fields are also expected to be used for reporting and analytics purposes. 
-
-</thinking>
-
 # Restaurant Table Reservation Form - Help Guide
 ## Purpose
 This form is used to collect and track information for table reservations at a restaurant.

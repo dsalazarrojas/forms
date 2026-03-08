@@ -1,8 +1,3 @@
-<thinking>
-To provide a comprehensive help guide for the Virtual Product Demo Registration Form, we need to consider the context in which this form is being used. The form is likely used for customers or prospects to register for a demo of a virtual product, and the goal is to collect relevant information from them to schedule a demo at a suitable time slot. 
-The form should be designed to avoid duplication of registrations and ensure that the demo schedule is well-organized. This means ensuring that the form is easy to use and understand, and that all required fields are completed accurately.
-</thinking>
-
 # Virtual Product Demo Registration Form - Help Guide
 ## Purpose
 This form is designed to help customers or prospects register for a demo of our virtual product. Please complete the form accurately to ensure a smooth demo experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hazardous Material Handling Checklist Form - Help Guide
 
 ## Purpose

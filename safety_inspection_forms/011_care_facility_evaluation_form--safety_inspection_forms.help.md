@@ -1,5 +1,3 @@
-<thinking>... internal check: form is for evaluating safety and quality of care facilities, to be filled by inspectors or surveyors to ensure standards are met... form fields cover various aspects of care facilities, including facility characteristics, staff responsiveness, resident conditions, safety features, services, and overall evaluation... fields should be filled by selecting or typing information, with some fields having specific options or hints to guide the user...</thinking>
-
 # Care Facility Evaluation Form - Help Guide
 ## Purpose
 The Care Facility Evaluation Form is designed to assess the safety and quality of care provided by residential care facilities. This form is used by inspectors or surveyors to evaluate facilities and identify areas that need improvement.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information from employees regarding their attendance status and other related details for an off-site retreat. This form aims to ensure that all relevant information is collected in an organized and structured manner, making it easier for organizers to manage the event and for attendees to communicate their intentions. It is essential to fill out this form accurately and completely to avoid any confusion or miscommunication. Please note that you can only submit this form once for each employee.
-
-</thinking>
-
 # off_site_retreat_employee_rsvp_form - Help Guide
 
 ## Purpose

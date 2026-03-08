@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for ordering power backup batteries from a factory. The purpose of this form is to collect information necessary for the production and delivery of the battery order, including contact information, delivery details, delivery date and time, preferred date and time, order details, quantity, unit price, total price, payment method, and payment information. The form should be used by customers, sales team members, and other authorized personnel to facilitate the ordering process. Please ensure that the information provided is accurate and complete to avoid any potential issues with production and delivery.
-
-</thinking>
-
 # Factory Power Backup Battery Order Form - Help Guide
 ## Purpose
 This form is for ordering power backup batteries from the factory. It collects contact information, delivery details, and payment information to facilitate the production and delivery of the ordered batteries.

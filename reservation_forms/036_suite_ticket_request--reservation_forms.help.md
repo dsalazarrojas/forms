@@ -1,7 +1,3 @@
-<thinking>
-The "suite_ticket_request" form is designed to collect information from users about their preferences and interests. This form is likely used in a hotel or resort setting to request tickets for events or shows, and gather feedback from users about their favorite shows. The form has multiple fields, including select_multiple, select_one, text, and note fields, which allow users to choose their favorite shows, enter their name and phone number, and provide additional comments. The form is likely used for customer service or ticketing purposes.
-</thinking>
-
 # suite_ticket_request - Help Guide
 ## Purpose
 The suite_ticket_request form is a tool for users to communicate their preferences and interests with the hotel or resort staff. It is used to request tickets for events or shows, and provide feedback on their favorite shows.

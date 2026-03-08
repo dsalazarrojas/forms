@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for restaurant managers to handle table reservations. Upon reviewing the YAML, it appears to be used to collect information from customers to make a booking. This form likely serves as a front-end tool for the restaurant's reservation system. There might be other forms for other purposes, but this one specifically focuses on table reservations. I'll create a user-facing help guide based on the provided YAML.
-</thinking>
-
 # Table Reservation Form - Help Guide
 ## Purpose
 The Table Reservation Form is a tool for customers to make a table reservation at your restaurant. This form collects essential information to ensure a smooth and enjoyable dining experience.

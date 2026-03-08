@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to submit exercises for review and feedback. The form is intended for use by safety professionals and other personnel within the organization who need to report exercises that have been completed to assess the effectiveness of emergency procedures. It is essential to ensure that this form is completed only once per exercise, to prevent duplication of effort and maintain accurate records.
-
-To complete this form, start by providing a clear and concise summary of the exercise. This should include the title and outcome of the exercise, as well as any relevant notes or observations.
-
-Next, indicate whether the exercise was successful ('Yes' or 'No') and provide any further notes that may be useful in the review process.
-
-Before submitting the form, double-check any information entered to ensure accuracy and completeness.
-
-</thinking>
-
 # pssr_exercise_submission_form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the submission of exercises to assess the effectiveness of emergency procedures.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by hosts of a Non-Profit Appreciation Gala to collect RSVPs and additional information from guests. The purpose of this form is to help hosts manage their event attendance and gather essential details about their guests. It is crucial to complete this form carefully to ensure accurate and relevant information is collected.
-</thinking>
-
 # nonprofit_appreciation_gala_rsvp_form - Help Guide
 ## Purpose
 The Non-Profit Appreciation Gala RSVP Form is designed to collect RSVPs and additional information from guests for a charity event. This form helps hosts manage their event attendance and gather essential details about their guests.

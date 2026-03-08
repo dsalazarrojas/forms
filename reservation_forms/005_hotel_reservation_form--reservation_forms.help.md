@@ -1,7 +1,3 @@
-<thinking>
-This form is a Hotel Reservation Form designed for customers to provide their information for a hotel reservation. The form is likely used by the hotel staff to take down the customer's details and preferences, which will then be used to process their reservation and tailor their stay accordingly. The form's fields and design suggest that it is primarily used for single-night stays, with options for choosing a room type (single, double, or suite) and providing additional guest information such as name, phone number, email, and notes. The confirm field at the end is likely used to confirm that the customer has reviewed their details before submitting the form.
-</thinking>
-
 # Hotel Reservation Form - Help Guide
 ## Purpose
 The Hotel Reservation Form is a tool for customers to provide their information for a hotel reservation. It is designed to collect relevant details for the hotel staff to process the customer's reservation and tailor their stay.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by Site Safety Officers (SSOs) to check in and report their current status on site. This is a crucial step for ensuring the safety of both SSOs and others on site. Before starting to complete this form, please ensure that you are on site and are ready to report your check-in. 
-
-Please also be mindful of the potential risks associated with duplicating or incomplete check-ins.
-
-</thinking>
-
 # Site Safety Officer Check In Form - Help Guide
 
 ## Purpose

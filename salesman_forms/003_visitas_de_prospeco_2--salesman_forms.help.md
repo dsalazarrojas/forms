@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a salesman's visits to various customers or partners. The form is used to track and document the details of these visits, including the services provided and the overall evaluation of each visit. This form will help the sales team to better understand their performance and identify areas for improvement. It is likely intended for use by salesmen who are required to visit potential or existing customers to demonstrate or discuss their products or services. The form may be used by sales managers to monitor the progress of sales visits, evaluate the effectiveness of sales strategies, and make data-driven decisions to optimize sales processes.
-</thinking>
-
 # visitas_de_prospeco_2 - Help Guide
 ## Purpose
 This form is used to collect information about sales visits, including services provided and overall evaluation of each visit.

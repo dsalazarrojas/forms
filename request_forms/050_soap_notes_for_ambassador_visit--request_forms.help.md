@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture important information about a visit made by an ambassador to a location. The purpose of this form is to record the visit date, time, ambassador's social security number (SSN), visit duration, any comments, phone number, and email address. This form is intended for use in a specific scenario where an ambassador has visited a location and the staff wants to record the details of the visit for future reference.
-
-This form is not intended for general use and is specific to ambassador visits. The information captured in this form will help staff to keep track of visits made by ambassadors and provide a record of their interactions.
-
-The form is divided into the following sections: Visit Date, Visit Time, Ambassador S.S.N, Visit Duration, Comments, Ambassador Phone Number, and Email Address. Each section is designed to capture specific information about the visit.
-
-Before filling out this form, please ensure that you are completing it for a valid ambassador visit. If you have already completed this form for the same visit, do not resubmit the form. Please review the form carefully and ensure that you are providing accurate information in each field.
-</thinking>
-
 # soap_notes_for_ambassador_visit - Help Guide
 ## Purpose
 The purpose of this form is to record information about a visit made by an ambassador to a location.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect RSVP information from donors who are invited to attend a "Donor Thank You Banquet". The purpose of this form is to ensure that the necessary details are collected for the event organizers to manage the logistics of the banquet effectively. The form should only be used for RSVP purposes and not for any other context. To prevent duplication, please ensure that you have not already RSVP'd to the same event.
-</thinking>
-
 # Donor Thank You Banquet Registration - Help Guide
 
 ## Purpose

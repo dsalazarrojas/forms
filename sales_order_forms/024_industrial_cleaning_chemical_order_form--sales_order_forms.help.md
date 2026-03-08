@@ -1,14 +1,3 @@
-<thinking>
-This form is a sales order form for industrial cleaning chemicals. It's used to capture information about the chemicals being ordered, the delivery details, and other relevant information. 
-
-To avoid errors, this form should only be completed by authorized personnel. To prevent duplication of orders, ensure that each order is unique and not a copy of a previous order. 
-
-This form is part of a larger system for managing sales orders, and is meant to be used by users who need to place orders for industrial cleaning chemicals. 
-
-Please note that some fields are optional, but are still required to be filled out if they are relevant to the order.
-
-</thinking>
-
 # Industrial Cleaning Chemical Order Form - Help Guide
 ## Purpose
 This form is used to place orders for industrial cleaning chemicals. 

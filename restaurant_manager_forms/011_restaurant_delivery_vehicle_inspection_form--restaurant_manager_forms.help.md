@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a thorough inspection of the restaurant delivery vehicle to ensure it meets the necessary safety and regulatory requirements. This form is used to collect information about the vehicle's type, registration, year, photo documentation, and inspection date. The form is intended to be filled out by restaurant delivery staff or management to ensure that their vehicles are safe and compliant with regulations.
-This form should only be used for restaurant delivery vehicles and not for other types of vehicles or purposes.
-It is crucial to accurately fill out this form to avoid errors and ensure that the vehicle is safe for customers and staff alike.
-Please ensure that the vehicle type is selected accurately and that the vehicle registration number is correctly recorded.
-If you are unsure about any information, please consult with the relevant authorities or supervisors before proceeding.
-</thinking>
-
 # Restaurant Delivery Vehicle Inspection Form - Help Guide
 ## Purpose
 This form is used to inspect and verify the safety and compliance of the restaurant delivery vehicle.

@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that this form captures the right information for our lead generation efforts without overloading the user with too much data or redundant questions. This form should be easy to use and provide the necessary fields for our sales team to effectively engage with potential leads. To achieve this, we need to strike a balance between providing enough information for the sales team while being mindful of the user's time and effort.
-The form should only be used for lead capture purposes and not for sales or other unrelated activities. This form will be used to collect the first point of contact with a potential lead, so we need to be careful not to ask too many unnecessary questions.
-We should also consider that some of these fields might be optional, but still provide enough information for the sales team to have a conversation starter.
-</thinking>
-
 # Lead Capture Form - Help Guide
 ## Purpose
 The Lead Capture Form is a simple form designed to collect essential information from potential leads. This form is meant to be used for the first point of contact with a potential lead, providing the sales team with enough information to start a conversation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers who want to apply for a rental property. The form is designed to collect relevant information about the customer's contact details, property preferences, and other relevant details to facilitate the rental application process. To ensure that the form is completed correctly, the customer should only fill out the form if they are genuinely interested in renting a property.
-</thinking>
-
 # Online Rental Application Form - Help Guide
 ## Purpose
 The Online Rental Application Form is designed to collect information from customers who are interested in renting a property. This form helps us to understand their contact details, property preferences, and other relevant information to facilitate the rental application process.

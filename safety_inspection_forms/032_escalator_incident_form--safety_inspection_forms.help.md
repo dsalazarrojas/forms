@@ -1,9 +1,3 @@
-<thinking>
-Checking for duplication or relevance...
-Form Purpose: This form is designed to report an escalator incident, allowing users to describe the incident, provide details about its location, date, and time, and upload supporting images or videos if necessary. 
-Checking for duplication...
-</thinking>
-
 # Escalator Incident Form - Help Guide
 ## Purpose
 The Escalator Incident Form is used to report incidents related to escalators, such as malfunctions, accidents, or other issues that require attention from maintenance or management teams.

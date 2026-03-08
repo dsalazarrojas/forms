@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Delivery Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for food delivery orders. It's intended for restaurant staff to quickly and efficiently gather essential details from customers, allowing them to provide an exceptional dining experience. Please note that only the necessary information is requested, and the form's design ensures an optimal balance between data collection and customer convenience.

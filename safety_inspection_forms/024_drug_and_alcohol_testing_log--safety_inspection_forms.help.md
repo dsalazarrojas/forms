@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Drug And Alcohol Testing Log" form, I will need to understand the purpose and functionality of the form. Based on the provided YAML file, I will assume that this form is used for recording and documenting drug and alcohol testing events. The form is divided into four sections: "drug_and_alcohol_testing_log", "additional_tests", "test_location", and "notes".
-
-The "Drug And Alcohol Testing Log" form likely serves as a log for tracking and documenting instances of drug and alcohol testing, which could be used for various purposes such as monitoring employee compliance, tracking testing events, or maintaining accurate records. This form is not a critical, time-sensitive document that requires immediate attention, implying that it is likely used for regular or routine logging.
-
-Given the form's structure, it is also possible that the form is part of a larger management or compliance system, where users need to provide relevant information for each testing event. The form's non-critical nature and lack of immediate consequences for errors or incorrect submissions also suggests that it may not have any critical dependencies or consequences associated with its completion.
-
-However, without further information, it is essential to ensure that the form is not duplicated, and the data is up-to-date and accurate.
-
-</thinking>
-
 # Drug And Alcohol Testing Log - Help Guide
 
 ## Purpose

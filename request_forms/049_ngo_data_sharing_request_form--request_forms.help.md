@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NGO Data Sharing Request Form - Help Guide
 ## Purpose
 The NGO Data Sharing Request Form is a form used to collect information from non-profit organizations (NGOs) that request to access data from our platform. This form helps to track and manage these requests in a centralized manner, ensuring that all requests are reviewed and processed efficiently.

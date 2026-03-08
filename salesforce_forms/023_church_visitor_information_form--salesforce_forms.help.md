@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate or mislabeled entries, this form will only allow the submission of one entry per person. Please only fill out this form once per person. If you are visiting with family or group, you can fill out the form for each person separately. This form is designed to collect information about visitors and their preferences, interests, and experiences with our church. By filling out this form, you will help us better understand how to serve and engage with our community more effectively. Please answer all required fields and provide as much detail as possible in the optional fields.
-</thinking>
-
 # Church Visitor Information Form - Help Guide
 ## Purpose
 The Church Visitor Information Form is designed to collect information from visitors about their personal details, visit experience, interests, and communication preferences. This form will help us understand how to serve and engage with our community more effectively.

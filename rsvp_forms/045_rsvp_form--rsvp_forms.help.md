@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning block explains the purpose and relevance of the RSVP Form.
-The RSVP Form is used to collect event-related information from users, including event name, host name, event date and time, attending status, guest count, and contact details (email and phone number). This form is likely used for event planning and organization purposes.
-The form is not intended to be used for any other purpose, and its fields are specifically designed to collect relevant information for event management.
-</thinking>
-
 # RSVP Form - Help Guide
 ## Purpose
 The RSVP Form is a tool used to collect essential event-related information from users. It's designed to be used for event planning and organization purposes.

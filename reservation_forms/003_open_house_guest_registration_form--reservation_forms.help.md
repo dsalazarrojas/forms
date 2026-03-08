@@ -1,7 +1,3 @@
-<thinking>
-The Open House Guest Registration Form is designed for guests to register their interest and details for an open house event. It collects contact information and event-specific data to help manage guest expectations and provide a smooth event experience. This form ensures that guests can be easily contacted and informed about the event details, and that their specific interests are noted. It also helps the event organizers to manage the event efficiently and effectively. To ensure that you receive the correct information about the event, please fill in the form accurately and completely. If you have any questions or need further clarification about the form, please don't hesitate to contact us.
-</thinking>
-
 # Open House Guest Registration Form - Help Guide
 ## Purpose
 The Open House Guest Registration Form is designed to collect contact information and event-specific data from guests interested in attending an open house event.

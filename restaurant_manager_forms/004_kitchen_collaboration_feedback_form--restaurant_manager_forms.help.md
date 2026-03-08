@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Kitchen Collaboration Feedback Form - Help Guide
 ### Purpose
 The Kitchen Collaboration Feedback Form is designed to collect feedback from customers on their dining experience, helping the restaurant management team to identify areas of improvement and make data-driven decisions to enhance customer satisfaction.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the Thanksgiving Buffet Dining Reservation. This form is designed to be used during the Thanksgiving holiday season to gather details from customers interested in dining at the buffet. The form is not intended for duplicate reservations; users should only submit one reservation per person.
-</thinking>
-
 # thanksgiving_buffet_dining_reservation - Help Guide
 ## Purpose
 The Thanksgiving Buffet Dining Reservation form is used to gather information from customers interested in dining at the buffet during the Thanksgiving holiday season.

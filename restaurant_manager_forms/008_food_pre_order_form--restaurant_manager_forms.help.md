@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for food pre-orders. This form is likely used in a restaurant or food establishment setting where customers can place orders in advance for pickup or delivery. The form is designed to gather essential details from customers, including their contact information, order specifics, and any additional instructions they may have. 
-</thinking>
-
 # Food Pre Order Form - Help Guide
 ## Purpose
 The food pre-order form is designed to collect information from customers for food orders. This form is used to gather details such as customer contact information, order type, date, time, and any other important details that the customer may want to provide.

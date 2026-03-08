@@ -1,10 +1,3 @@
-<thinking>
-This form is used for RSVP (Response to an Invitation) purposes for Family Visitation Day, an event that likely brings families and their children together for socialization and interaction. The form collects information from parents and guardians to gather details about their expected attendance and the details of their visit. The goal is to ensure that everyone has the necessary information for a smooth and enjoyable event.
-
-This form does not have any specific requirements for submission, so users can fill it out at their own pace. The purpose of this guide is to help users understand each field and how to complete it correctly. Please note that the form is divided into several fields that cater to different aspects of the RSVP process.
-
-</thinking>
-
 # Family Visitation Day RSVP Form - Help Guide
 ## Purpose
 This form is designed to gather information from parents and guardians for the Family Visitation Day event. It is meant to help ensure a smooth and enjoyable event by collecting necessary details about your visit.

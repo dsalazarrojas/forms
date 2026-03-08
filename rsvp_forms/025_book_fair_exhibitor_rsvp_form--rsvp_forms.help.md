@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Book Fair Exhibitor RSVP Form - Help Guide
 
 ## Purpose

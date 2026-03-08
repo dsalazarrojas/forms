@@ -1,11 +1,3 @@
-<thinking>
-The Seasonal Sales Data Evaluation Report form is designed to collect sales data from various sales channels and periods. This data will be used to evaluate sales performance during different seasons and sales channels. The form is not strictly required, allowing users to optionally provide information for different sales periods and channels. The purpose of this form is to gather detailed sales data for analysis and evaluation purposes. 
-
-This form is likely to be used by sales managers or analysts who need to track sales performance over time and across different sales channels. They will use the data collected through this form to make informed decisions about sales strategies and initiatives. 
-
-Please ensure that you understand the form's purpose and requirements before proceeding.
-</thinking>
-
 # Seasonal Sales Data Evaluation Report - Help Guide
 ## Purpose
 The Seasonal Sales Data Evaluation Report is a form used to collect sales data from various sales channels and periods. This data will be used to evaluate sales performance during different seasons and sales channels.

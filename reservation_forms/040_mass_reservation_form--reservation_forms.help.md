@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be for collecting information about a mass reservation, which could include a group of people attending a event, meeting, or gathering. The form is likely used for internal purposes within an organization or a business. I will create a user-facing help guide for this form based on the provided YAML fields. The purpose of this form is to collect information about mass reservations, including details about the reservation, attendees, and any other relevant information that may be required for the mass reservation process.
-
-Before proceeding, ensure that the purpose of this form is clear and relevant to your intended use. This form may not be suitable for public use or for reservations that are not mass-related.
-
-</thinking>
-
 # Mass Reservation Form - Help Guide
 ## Purpose
 The Mass Reservation Form is used to collect information about mass reservations, including details about the reservation, attendees, and other relevant information.

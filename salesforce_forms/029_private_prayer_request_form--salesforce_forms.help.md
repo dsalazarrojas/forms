@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture private prayer requests from individuals, which will be used for internal prayer requests or personal guidance. This form will be filled out by those requesting prayer and will be used to provide guidance and support. Please ensure that you are filling out this form for a genuine prayer request and not for any other purpose. Also, please make sure that you're not duplicating an existing request.
-</thinking>
-
 # Private Prayer Request Form - Help Guide
 ## Purpose
 The Private Prayer Request Form is designed to capture personal and private prayer requests from individuals. It's meant to help provide guidance and support to those who have submitted these requests.

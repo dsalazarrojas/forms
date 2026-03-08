@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an event invitation, including the event title, guest name, date, and time. This form is designed to be a simple and straightforward way to gather the necessary details for an event invitation. It's essential to complete this form correctly to ensure that the event invitation is sent out successfully.
-
-Before filling out this form, please ensure that you are familiar with the event details and that you are authorized to send out invitations on behalf of the event organizer. If you are not sure about any of the fields, please ask the event organizer for clarification.
-
-Please note that this form is generated using AI and does not store any personal data, so you can fill it out without worrying about your data being used for any malicious purposes.
-
-</thinking>
-
 # Event Invitation - Help Guide
 ## Purpose
 This form is designed to collect information about an event invitation, including the title, guest name, date, and time.

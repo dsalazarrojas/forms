@@ -1,8 +1,3 @@
-<thinking>
-This is a technical writing task to create a user-facing help guide for a form with the given YAML structure. I will use the provided YAML fields to create a clear and concise guide that explains the form's purpose, how to complete it, and what each field means. I will aim to be concrete, concise, and practical in my explanation, and use Markdown formatting to make the guide easy to read and navigate.
-
-</thinking>
-
 # Raffle Ticket Form - Help Guide
 ## Purpose
 The Raffle Ticket Form is used to collect and manage raffle ticket sales and related information. It is intended for users to enter their name, email address, select a raffle ticket, and provide payment and order details.

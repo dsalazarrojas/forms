@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a restaurant's supply chain, specifically their suppliers. The purpose of this form is to conduct an audit of the supply chain, which is a critical process for ensuring that restaurants are sourcing ingredients and materials from reliable and trustworthy suppliers. This form is intended for use by restaurant managers or procurement staff to assess and document the performance of their suppliers. By filling out this form, restaurant staff will be able to identify areas where suppliers may not be meeting expectations and make informed decisions about future orders or relationships with those suppliers. Note that not all fields are required, so you may choose to omit any that do not apply to your supplier or supply chain situation.
-</thinking>
-
 # Restaurant Supply Chain Audit Form - Help Guide
 ## Purpose
 This form is designed to collect information about a restaurant's supply chain, specifically their suppliers. The purpose of this form is to conduct an audit of the supply chain, which is a critical process for ensuring that restaurants are sourcing ingredients and materials from reliable and trustworthy suppliers.

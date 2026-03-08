@@ -1,11 +1,3 @@
-<thinking>
-
-Before creating this guide, I've reviewed the provided YAML fields for the "Business Partner Meet And Greet RSVP Form". This form is designed to collect details from business partners about their attendance and preferences for a meet-and-greet event. The main goal of this form is to gather essential information to ensure a smooth and enjoyable experience for all attendees. 
-
-This guide will walk you through the purpose, completion process, and explanation of each field to help users understand the form's requirements and expectations.
-
-</thinking>
-
 # Business Partner Meet And Greet RSVP Form - Help Guide
 ## Purpose
 The Business Partner Meet And Greet RSVP Form is designed to help us gather essential information from you, our business partner, about your attendance and preferences for the upcoming meet-and-greet event. By filling out this form, you will help us plan and prepare for your visit.

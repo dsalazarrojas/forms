@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect safety inspection data for appliances, focusing on both the completion and validation of the inspection process. 
-
-This checklist covers the following key aspects of security inspections: 
-
-* Ensuring that the security inspector's details are correct and up-to-date.
-* Verifying access control and surveillance equipment functionalities.
-* Checking the status of fire safety equipment.
-* Assessing whether emergency exits are clear.
-* Identifying and recording any hazards found during the inspection.
-* Prioritizing corrective actions and scheduling follow-up inspections.
-
-This form aims to improve accuracy and speed of the inspection process by streamlining and standardizing the data collected.
-</thinking>
-
 # Appliance Security Inspection Checklist - Help Guide
 ## Purpose
 The Appliance Security Inspection Checklist is a tool for security inspectors to ensure a comprehensive and efficient inspection process.

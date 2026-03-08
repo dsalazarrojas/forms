@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Dungeon Master Session Reservation Form - Help Guide
 
 ## Purpose

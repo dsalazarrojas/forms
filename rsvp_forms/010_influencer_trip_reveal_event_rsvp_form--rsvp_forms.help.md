@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about an upcoming event, specifically the influencer trip reveal event, to facilitate the organization and coordination of the event. This form will help gather essential details such as event name, start and end dates, attendee's first and last name, email, and guest count.
-</thinking>
-
 # influencer_trip_reveal_event_rsvp_form - Help Guide
 ## Purpose
 The "Influencer Trip Reveal Event RSVP Form" is designed to collect information from users about an upcoming event, including event name, start and end dates, attendee details, and guest count.

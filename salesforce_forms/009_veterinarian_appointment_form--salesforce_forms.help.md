@@ -1,8 +1,3 @@
-<thinking>
-The Veterinarian Appointment Form is designed to collect information for a veterinarian's visit to a pet. The form is intended to gather details about the pet, its owner, and the scheduled visit. This form will help veterinarians to schedule and prepare for the visit efficiently.
-The form's purpose is to provide an organized way to collect and store data, reducing the likelihood of missed appointments or miscommunication. By using this form, both the owner and the veterinarian can easily access the required information, ensuring a smooth and productive visit.
-This form is not intended for other uses, such as tracking vaccination records or billing. Please note that all fields are optional unless specified otherwise.
-</thinking>
 # Veterinarian Appointment Form - Help Guide
 ## Purpose
 The Veterinarian Appointment Form is designed to collect information about a pet's visit to a veterinarian.

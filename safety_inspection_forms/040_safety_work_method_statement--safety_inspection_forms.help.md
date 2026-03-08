@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a Safety Work Method Statement. This form is likely used for safety-related activities or projects in a workplace, possibly for regulatory compliance. The form is used for a specific type of safety inspection or project, hence the "Safety Work Method Statement" title. It might be part of a larger workflow or process for managing workplace safety.
-
-The form is likely used in a setting where safety is a high priority, such as in construction, manufacturing, or other industries with high-risk workplaces.
-
-The information collected on this form will provide insights into the type of safety work being performed, the organization conducting it, and other relevant details. This form could be part of a broader system for tracking and monitoring safety activities.
-
-To ensure the correct information is collected, it's essential to understand the purpose and usage context of this form.
-
-</thinking>
-
 # Safety Work Method Statement - Help Guide
 ## Purpose
 

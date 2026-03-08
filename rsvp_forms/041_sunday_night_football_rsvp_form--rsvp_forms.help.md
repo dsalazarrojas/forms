@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for users to RSVP to Sunday Night Football events. It is intended for players to indicate whether or not they will be attending the event and provide relevant information such as their name, availability, and contact details. The form is not designed for players to select their availability multiple times, so please choose 'Yes' or 'No' for each of these fields. If a player selects 'Yes' for an availability option, it will be assumed that they are available for all relevant time slots. Please fill out this form honestly, as it will help us get an accurate headcount and plan the event accordingly.
 
 # sunday-night-football-rsvp-form - Help Guide

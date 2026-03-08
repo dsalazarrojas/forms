@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help union members and organizers register for events and gatherings related to union organizing activities. This form will collect information about the user and event details, as well as RSVP preferences. This form is not affiliated with any specific form platform, but rather an original adaptation created by an AI using public metadata as inspiration.
 
 # Union Organizing Event Registration - Help Guide

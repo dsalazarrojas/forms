@@ -1,10 +1,3 @@
-<thinking>
-- This form is used to capture information about a student's reservation for accommodation on campus.
-- The student can use this form to express their interest in requesting accommodation on campus.
-- To ensure that this form is used correctly, please only submit one request per student.
-- Please make sure that you have filled out all required fields before submitting.
-</thinking>
-
 # Student Accommodation Request Form - Help Guide
 
 ## Purpose

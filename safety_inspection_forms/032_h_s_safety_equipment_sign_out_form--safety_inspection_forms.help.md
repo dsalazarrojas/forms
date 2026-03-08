@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users sign out safety equipment, ensuring accurate tracking and maintenance of equipment availability. 
-The form is intended for use in industries where safety equipment is regularly used or shared among employees. 
-It's crucial to use this form correctly to avoid any confusion or errors in tracking equipment status. 
-Before filling out this form, ensure you have selected the correct equipment and provided accurate information for your colleagues or supervisors to rely on.
-</thinking>
-
 # H₂S Safety Equipment Sign Out Form - Help Guide
 ## Purpose
 The H₂S Safety Equipment Sign Out Form is designed to track the sign out and return of safety equipment in a workplace. This form helps maintain accurate records of equipment availability, ensuring that employees can access the equipment they need for tasks and projects.

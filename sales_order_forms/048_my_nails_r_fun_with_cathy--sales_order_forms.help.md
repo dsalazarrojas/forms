@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used in a sales context, possibly for a nail salon or nail technician. The purpose of this form is to collect information from customers for sales orders. The form is designed to gather details such as customer contact information, order details, and payment information.
-The form has multiple pages, each with various fields to collect different types of information. This guide will walk you through each page and field to help you complete the form accurately.
-</thinking>
-
 # my_nails_r_fun_with_cathy_ - Help Guide
 ## Purpose
 This form is designed to collect information from customers for sales orders. It is likely used in a sales context, possibly for a nail salon or nail technician.

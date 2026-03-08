@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for streetwear orders, likely for an e-commerce or retail store. The purpose of this form is to capture essential details from customers, including their contact information, order specifics, and delivery address. This form will be used to process orders accurately and efficiently. Please ensure that all required fields are filled out correctly, as this information is crucial for order fulfillment. It's also a good idea to check the form fields for any errors before submitting. 
-</thinking>
-
 # streetwear_order_form_template - Help Guide
 ## Purpose
 The streetwear_order_form_template is a form used to collect information for streetwear orders. This form is designed to gather essential details from customers to ensure accurate and efficient order processing.

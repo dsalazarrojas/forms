@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect contact information and comments from users. This form will likely be used to gather details from customers or clients, such as their name, email, phone number, company, address, zip code, and any additional comments they may have. It's also designed to allow users to upload files, which could be attachments or other relevant documents. The form is likely used in a sales or business context, and the "Fancy Envelope" name suggests it may have a professional or corporate feel to it.
-
-Before continuing, take a moment to review the form and think about how it might be used in your specific situation. Make sure you're not duplicating any existing forms or processes.
-
-</thinking>
-
 # Fancy Envelope Contact Form - Help Guide
 ## Purpose
 The Fancy Envelope Contact Form is a form designed to collect contact information and comments from users. It is intended to be used in sales or business settings to gather details from customers or clients.

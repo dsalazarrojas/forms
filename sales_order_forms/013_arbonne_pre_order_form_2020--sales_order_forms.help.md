@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Arbonne - Pre Order Form 2020 - Help Guide
 
 ## Purpose

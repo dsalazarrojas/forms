@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect order details from customers for a pizza restaurant. 
-This form is designed to gather information from the customer, such as order type, toppings, crust size, and payment method. 
-The form should only be filled out once for each order. 
-Please ensure that you are filling out the correct order before submitting.
-</thinking>
-
 # paypal_pizza_order_form - Help Guide
 ## Purpose
 The purpose of the PayPal Pizza Order Form is to collect order details from customers for a pizza restaurant.

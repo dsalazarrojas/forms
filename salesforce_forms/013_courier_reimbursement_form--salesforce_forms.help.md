@@ -1,8 +1,3 @@
-<thinking>
-This form is used to track and reimburse employees for work-related expenses, particularly for mileage and travel costs. To ensure accuracy, please complete this form only for actual work-related activities. Reimbursement will be based on the submitted information and approved expenses. Please ensure all fields are filled in accurately and honestly. This form should not be used for personal expenses or other non-work-related activities. Please review the form carefully before submission to avoid duplication of efforts and ensure your request is processed correctly.
-
-</thinking>
-
 # Courier Reimbursement Form - Help Guide
 ## Purpose
 The Courier Reimbursement Form is used to track and reimburse employees for work-related expenses, specifically for mileage and travel costs.

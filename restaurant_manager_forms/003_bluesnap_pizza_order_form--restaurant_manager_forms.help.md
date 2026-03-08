@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers for their orders at BlueSnap Pizza. The form consists of several sections, each with its own purpose and set of fields to collect relevant data. The form's primary goal is to gather details about the customer's order preferences, including order type, pizza size, crust type, and other customizations, as well as payment information.
-
-Before diving into the form structure, it's essential to ensure that the form fields are not duplicated or unnecessary. The form's design should be user-friendly, and the language used should be clear and concise. Each field should have a specific purpose and label that accurately reflects its intended use.
-
-The form consists of 18 fields, divided into several sections, including order type, pizza customization, additional toppings, sides, beverages, customer information, and payment options. Each field is labeled with a descriptive name, and most have a corresponding hint to provide additional context. This guide will walk you through each field, explaining its purpose and how to complete it.
-
-</thinking>
-
 # BlueSnap Pizza Order Form - Help Guide
 ## Purpose
 The BlueSnap Pizza Order Form is designed to collect information about your order preferences and payment details for a seamless and efficient ordering experience.

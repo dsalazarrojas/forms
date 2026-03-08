@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to handle RSVPs (responses) to the film festival press night event. It allows the organiser to collect information from attendees about their media confirmation, guest details, photography consent, contact information, and other specific details related to the event. This form is crucial for ensuring accurate headcount and catering for the attendees, and for providing relevant information for event planning. Please ensure you have the necessary permissions to access or share this form.
-</thinking>
-
 # film_festival_press_night_rsvp - Help Guide
 ## Purpose
 The film festival press night RSVP form is a tool for attendees to confirm their participation and provide necessary details for event planning.

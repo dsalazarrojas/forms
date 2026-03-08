@@ -1,5 +1,3 @@
-<thinking>...this form is designed for capturing sales orders from market stalls, typically used by vendors at markets, trade shows, or fairs. It likely collects contact information and purchase history of the customer, details about the purchased products or services, and payment information. The form may be used for record-keeping and reporting purposes. This form does not appear to be a survey, as it does not have any question types that suggest data collection for research or statistical purposes. I will now create the user-facing help guide for this form...</thinking>
-
 # Market Stall Sales Order Form - Help Guide
 ## Purpose
 This form is designed to collect sales order information from customers purchasing at market stalls, trade shows, or fairs. It helps you keep a record of customer contact details, order history, and payment information.

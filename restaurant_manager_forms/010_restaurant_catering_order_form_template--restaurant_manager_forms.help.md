@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for a restaurant catering order. This form allows customers to provide their name, phone number, email address, address, order details, and any special requests. The customer can also select multiple catering services they are interested in. This form is designed to be used by the restaurant manager to process catering orders efficiently and effectively.
-</thinking>
-
 # Restaurant Catering Order Form Template - Help Guide
 ## Purpose
 This form is used to collect customer information and catering order details for a restaurant catering order.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # SCBA Safety Assessment Survey - Help Guide
 
 ## Purpose

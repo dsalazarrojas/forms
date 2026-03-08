@@ -1,7 +1,3 @@
-<thinking>...
-This form is intended to collect information about radio messages sent or received by personnel. Before proceeding, please ensure that you are authorized to fill out this form and that you have not previously submitted this form with the same information. The system will automatically validate your input to prevent duplication and ensure that the data is accurate.
-</thinking>
-
 # radio_message_log_form - Help Guide
 ## Purpose
 The radio_message_log_form is used to log and record radio messages sent or received by personnel, helping to maintain accurate and up-to-date information about these communications.

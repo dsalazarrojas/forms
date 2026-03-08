@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect RSVP information for attendees of the Public Service Award Night event. This form is to be filled out by individuals, groups, or organizations that plan to attend. The form will help the event organizers track attendance, manage expectations, and provide a way for attendees to communicate any special instructions or requests. To avoid duplication, please ensure that each individual or group only submits one RSVP form per person.
-</thinking>
-
 # Public Service Award Night RSVP Form - Help Guide
 ## Purpose
 The Public Service Award Night RSVP Form is a tool for attendees to provide their details and preferences for the event. It helps the organizers manage the event and ensure a smooth experience for all participants.

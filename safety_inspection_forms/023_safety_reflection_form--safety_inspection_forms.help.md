@@ -1,11 +1,3 @@
-<thinking>
-
-The form's purpose is to collect information related to safety incidents and near-miss events, enabling the safety team to reflect on the incidents, identify prevention steps, and track progress.
-
-Before proceeding, verify that the selected category is relevant to the incident reported. If you have reported a similar incident previously, please check if a duplicate report already exists to avoid redundant data entry.
-
-</thinking>
-
 # Safety Reflection Form - Help Guide
 
 ## Purpose

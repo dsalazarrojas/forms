@@ -1,9 +1,3 @@
-<thinking>
-This form is a tool for restaurant owners to provide information about their current status and protocols for reopening after a lockdown or other restrictions. It's meant to help businesses communicate their plans and guidelines to customers and authorities, promoting transparency and public safety. This form should only be used by restaurant managers or owners. 
-
-Please check if your restaurant has already completed this form. If so, no need to complete it again.
-
-</thinking>
 # Restaurant Reopening Survey - Help Guide
 ## Purpose
 This form is designed to gather information from restaurant owners about their current status and protocols for reopening after a lockdown or other restrictions.

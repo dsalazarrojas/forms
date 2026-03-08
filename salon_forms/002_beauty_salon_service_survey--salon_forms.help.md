@@ -1,11 +1,3 @@
-<thinking>
-
-We are creating a form for the Beauty Salon Service Survey, which aims to collect feedback from customers about their experience with the salon. The survey will help the salon understand their strengths and areas for improvement, providing valuable insights for future business developments. By analyzing this data, the salon can identify trends and patterns in customer satisfaction, enabling them to refine their services, adjust their processes, and better serve their customers.
-
-To ensure the integrity and effectiveness of the survey, we will avoid duplicating existing surveys or data collection efforts. This form will serve as a one-stop-shop for gathering valuable customer insights.
-
-</thinking>
-
 # Beauty Salon Service Survey - Help Guide
 ## Purpose
 This form is designed to gather your feedback about your recent visit to our beauty salon. Your input will help us improve our services and better understand your needs.

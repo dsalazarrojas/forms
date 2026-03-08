@@ -1,12 +1,3 @@
-<thinking>
-The internal purpose of this form is to collect information from users for a glow-themed camp event. The form is designed to gather details about the camp, the participants, and their preferences, including activity selection, dietary restrictions, and other important information. This form is likely used for registration and event planning purposes.
-
-To ensure the form is not duplicated or used for the wrong purpose, we will need to ensure that the form is filled out correctly and accurately.
-
-The form has multiple pages with different fields, and it's essential to understand each field's purpose to fill it out correctly. Below is a guide to help users complete the form successfully.
-
-</thinking>
-
 # Glow Themed Camp Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sustainability Expo Opening RSVP - Help Guide
 ## Purpose
 The Sustainability Expo Opening RSVP form is designed to help us track attendee information and special requests for the event. Please fill out this form to let us know if you will be attending and if you have any special requests.

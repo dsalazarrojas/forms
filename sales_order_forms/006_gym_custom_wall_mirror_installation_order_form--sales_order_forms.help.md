@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gym Custom Wall Mirror Installation Order Form - Help Guide
 ## Purpose
 This form is designed to help customers order a custom wall mirror for their gym or fitness center. By filling out this form, customers can provide the necessary information to customize their mirror installation according to their preferences.

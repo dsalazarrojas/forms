@@ -1,9 +1,3 @@
-<thinking>
-The Church Conference Room Booking Form is designed to allow members of the church to reserve the conference room for events and meetings. This form gathers information about the event, including the date, start and end time, room selection, and any other specific requirements or requests. It also includes fields to provide contact information of the person making the request. The form is used to ensure that the conference room is reserved for events at the optimal time and arrangement, and that any necessary resources such as audio visual equipment, catering, and security are requested. The form is used by church staff to verify and prepare for the event.
-
-The form should only be completed by authorized users, and not by external or automated processes. The form's information and options are subject to change as the church's needs and policies change.
-</thinking>
-
 # Church Conference Room Booking Form - Help Guide
 ## Purpose
 The Church Conference Room Booking Form is designed to provide detailed information about events and meetings to be held at the church, including room selection, time, and any specific needs or requests. This guide will walk you through how to complete the form accurately and efficiently.

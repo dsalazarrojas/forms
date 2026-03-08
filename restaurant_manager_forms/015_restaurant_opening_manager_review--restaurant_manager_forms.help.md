@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and ratings from the restaurant opening manager, ensuring that the restaurant is operating smoothly and effectively. The goal is to assess the manager's performance, the restaurant's ambiance, and other key aspects of the business. This review helps the management team evaluate the restaurant's opening and identify areas for improvement.
-</thinking>
-
 # Restaurant Opening Manager Review - Help Guide
 
 ## Purpose

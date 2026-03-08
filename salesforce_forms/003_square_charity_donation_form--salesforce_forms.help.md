@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for collecting donations from customers for a charity or non-profit organization. The purpose of this form is to gather essential information from donors, such as their contact details, donation amount, and purpose of the donation. This form will help the organization to track and process the donations efficiently.
-To avoid confusion and ensure accurate processing, please fill out the form carefully and correctly. Ensure that all required fields are completed before submitting the form.
-</thinking>
-
 # Square Charity Donation Form - Help Guide
 ## Purpose
 The Square Charity Donation Form is designed to collect donations from customers for a charity or non-profit organization. It gathers essential information from donors to process their contributions efficiently.

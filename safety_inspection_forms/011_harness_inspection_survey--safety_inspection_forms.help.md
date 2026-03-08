@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to conduct a safety inspection on a harness, ensuring that it meets the necessary criteria for safe operation. This form is meant to be completed by personnel involved in the harness's maintenance and upkeep, such as inspectors, technicians, and supervisors. The form's primary goal is to identify potential hazards and areas for improvement, promoting a culture of safety and responsibility.
 
 To avoid duplication of effort and minimize errors, it is essential that this form is only completed for a harness that has not been inspected recently or has been subject to changes that may affect its safety.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for tennis court reservations. It's crucial that the form is used correctly to avoid confusion and ensure accurate processing of reservation requests. The form should not be used for other purposes, such as general contact or feedback forms. Ensure that all relevant fields are filled out, and that the correct tennis court and reservation status are selected.
-</thinking>
-
 # Tennis Court Reservation Form - Help Guide
 
 ## Purpose

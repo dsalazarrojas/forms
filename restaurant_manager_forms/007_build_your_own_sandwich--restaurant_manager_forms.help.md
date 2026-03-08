@@ -1,9 +1,3 @@
-<thinking>As a form expert, I'll break down the form's purpose, how to complete it, and explain each field to ensure end-users understand its intended use. The "Build Your Own Sandwich" form is designed to let customers customize their perfect sandwich. This form is meant for restaurant management to collect customer preferences for order processing. It should only be used by customers who want to build their own sandwich.
-
-Please note that this form is not intended for general restaurant staff or customers who prefer pre-made options. The form's purpose is to create a personalized order, which requires specific information to ensure accurate processing.
-
-This guide will walk through each field, its label, type, and intended use to assist customers in completing their order correctly.</thinking>
-
 # Build Your Own Sandwich - Help Guide
 
 ## Purpose

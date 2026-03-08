@@ -1,7 +1,3 @@
-<thinking>
-The internal purpose of this form is to collect prayer request information from users. This form is likely used for internal purposes, such as keeping track of prayer requests and assigning them to specific individuals. The form should not be used for public-facing requests, as some options imply internal assignment and tracking. To avoid duplication of requests, it's assumed that users will be able to view existing prayer requests before submitting new ones.
-</thinking>
-
 # Prayer Request Form - Help Guide
 ## Purpose
 The Prayer Request Form is used to collect information from users about their prayer requests. This form allows users to provide their general information, prayer type, and any additional comments.

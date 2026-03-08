@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users requesting a tent reservation. It is essential to fill out this form accurately and completely to ensure that your reservation request is processed correctly. Please do not submit duplicate requests. If you have already submitted a request, please do not resubmit.
-</thinking>
-
 # Tent Reservation Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users requesting a tent reservation. The form helps us to understand your requirements and process your request efficiently.

@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is designed to gauge customers' satisfaction with our customer service. It helps us understand their perceptions of our service quality, identify areas of improvement, and make data-driven decisions to enhance customer experience.
-Form relevance: This form is relevant to customers who have interacted with our customer service in any capacity.
-Form non-duplication: This form does not duplicate any existing processes or forms within the organization.
-</thinking>
-
 # Customer Service Satisfaction Survey - Help Guide
 ## Purpose
 The Customer Service Satisfaction Survey is a tool to measure customer satisfaction with our customer service. It's essential to complete this form to provide us with valuable feedback on how we can improve our service.

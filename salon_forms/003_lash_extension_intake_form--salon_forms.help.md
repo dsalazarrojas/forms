@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lash Extension Intake Form - Help Guide
 ## Purpose
 The Lash Extension Intake Form is used to collect information from clients for lash extension services. It helps the lash technician to understand the client's requirements and preferences for their appointment, including services, application type, and contact details.

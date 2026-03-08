@@ -1,6 +1,3 @@
-<thinking>...Internal reasoning block: This form is designed to collect RSVP information for guests attending a spa event. The form requires the guest's name, email, phone number, RSVP date, RSVP time, and guest count. The guest can optionally provide a special request or comments. The form also asks the guest to confirm their RSVP and assigns a tool to the guest based on their selection. The tool assignment is a dropdown menu with two options: 'chatjimmy' and 'other'. The confirm field is a multi-select menu that asks the guest to confirm their RSVP status. This form ensures that guests provide accurate and complete information to facilitate event organization and guest management.
-
-</thinking>
 # Spa Guest Event RSVP Registration Form - Help Guide
 ## Purpose
 The Spa Guest Event RSVP Registration Form is a tool for guests to provide their RSVP information for a spa event. By filling out this form, you will help us manage your attendance, assign a suitable tool for the event, and make sure you are properly confirmed for the event.

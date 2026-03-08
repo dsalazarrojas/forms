@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness and conduct of an emergency evacuation drill. The goal is to assess whether the drill was conducted properly and identify areas for improvement. The form is used to gather information about the drill's date, time, location, plan, and other critical details. 
-The form must be completed after the drill, when the participants can provide an objective evaluation. It should not be filled out before or during the drill. 
-Please note that this form is specific to safety inspection forms, and its completion is part of regular safety protocol in the workplace. 
-Before starting, make sure you have the necessary information about the drill, and have access to a clear and concise description of the drill's purpose, procedures, and objectives. 
-Ensure that you complete the form accurately and comprehensively, providing details about each field as required or specified. 
-</thinking>
-
 # emergency_evacuation_drill_evaluation_form - Help Guide
 ## Purpose
 The emergency_evacuation_drill_evaluation_form is used to assess the effectiveness and conduct of an emergency evacuation drill. 

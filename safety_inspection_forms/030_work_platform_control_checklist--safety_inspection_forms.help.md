@@ -1,8 +1,3 @@
-<thinking>
-This form is used for conducting safety inspections of work platforms, ensuring that all necessary safety equipment and procedures are in place before allowing workers to begin operating. This form helps to prevent accidents and ensures compliance with safety regulations. The fields below are required to document the safety checks. This guide will help you complete the form accurately. If the form is being used for a different type of safety inspection, please refer to the relevant documentation.
-
-</thinking>
-
 # Work Platform Control Checklist - Help Guide
 ## Purpose
 The Work Platform Control Checklist is a safety inspection form used to ensure the safety of workers on work platforms. This form covers pre-operating checks, safety equipment, safety procedures, safety training, inspection of safety equipment, completion of safety procedures, and notes from the inspector. The form helps to identify potential hazards and prevent accidents on work platforms.

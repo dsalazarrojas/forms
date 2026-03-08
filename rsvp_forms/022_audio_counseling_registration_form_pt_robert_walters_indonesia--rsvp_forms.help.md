@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who are interested in audio counseling services provided by PT. Robert Walters Indonesia. The purpose of this form is to gather relevant details about the participant, including their personal information, session preferences, and background, with the goal of scheduling an effective audio counseling session.
-
-To ensure that the form is filled out correctly, please follow the instructions below.
-
-</thinking>
-
 # Audio Counseling Registration Form PT. Robert Walters Indonesia - Help Guide
 ## Purpose
 

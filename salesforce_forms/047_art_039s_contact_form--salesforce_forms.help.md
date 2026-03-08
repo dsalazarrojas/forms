@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to capture contact information from potential customers or individuals interested in Art's work. The purpose of this form is to allow Art to follow up with interested parties in a personalized and timely manner. This form should only be used for legitimate business purposes and should not be used to solicit unsolicited contact information.
-
-It's essential to ensure that each field is filled in according to the specified type and requirements to avoid form errors and miscommunication. Some fields are optional and can be filled out at the user's discretion. If you're unsure about any field, please refer to the field label for clarification.
-
-This form captures a wide range of information including date of submission, contact details, and inquiry purpose. Please fill out each field carefully to ensure that Art can best address your needs.
-
-</thinking>
-
 # Art's Contact Form - Help Guide
 ## Purpose
 The form is designed to capture contact information and details for follow-up with potential customers or interested parties.

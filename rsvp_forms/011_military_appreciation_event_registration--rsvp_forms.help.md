@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from guests for a Military Appreciation Event. This event aims to show appreciation for the military community, and the form is designed to gather relevant details from attendees. To ensure accurate and complete data, each field is carefully crafted to capture necessary information. The form is not intended to be a duplicate of any other form; it's a unique tool for event organizers to collect RSVPs and plan the event effectively.
-</thinking>
-
 # Military Appreciation Event Registration - Help Guide
 ## Purpose
 This form is designed to gather information from guests for a Military Appreciation Event. It helps event organizers to collect RSVPs, plan the event, and ensure that attendees have all necessary details.

@@ -1,12 +1,3 @@
-<thinking>
-This is a technical writing task that involves creating a user-facing help guide for a form, specifically a "Culinary Masterclass RSVP Form". 
-
-The form is used for RSVP (response to social invitation) for a culinary event, likely a cooking class. The form is designed to collect information from attendees about their participation, dietary restrictions, payment methods, and other relevant details.
-
-Given the form YAML, I'll provide a concrete, concise, and practical help guide in Markdown format.
-
-</thinking>
-
 # Culinary Masterclass RSVP Form - Help Guide
 ## Purpose
 This form is used to RSVP for a Culinary Masterclass event. Please fill out the form to let us know if you can attend and provide any necessary details about your participation.

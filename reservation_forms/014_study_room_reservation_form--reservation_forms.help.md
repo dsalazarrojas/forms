@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help students reserve a study room for a specific time period. The fields are meant to collect information about the room reservation request, including date, time, name, email, phone number (if provided), room type, and any additional notes. To ensure accurate completion, review each field's label and description carefully. Please note that some fields are required, and providing incorrect information may lead to rejection of the reservation request. This guide will walk you through each field to help you complete the form correctly.</thinking>
-
 # Study Room Reservation Form - Help Guide
 ## Purpose
 The Study Room Reservation Form is used to reserve a study room for a specific date and time period. This form helps the library manage study room availability and ensure that students have a reserved space for studying and studying-related activities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-friendly help guide, we need to understand the purpose and requirements of this form, and then break down the instructions in a clear and concise manner.
 
 Upon reviewing the form schema, we can see that the **Product Quote Form** is designed to collect information from clients about a product or service they are interested in purchasing. The form is divided into several fields, each with its own specific purpose and requirement. We should aim to cover all fields, while not duplicating any information.

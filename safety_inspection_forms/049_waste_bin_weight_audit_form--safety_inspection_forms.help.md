@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Waste Bin Weight Audit Form - Help Guide
 ## Purpose
 This form is designed to collect information for the waste bin weight audit process. It is intended for waste management personnel to accurately record the weight of waste bins and their condition. This form helps in maintaining accurate records and facilitates the process of monitoring and managing waste bins.

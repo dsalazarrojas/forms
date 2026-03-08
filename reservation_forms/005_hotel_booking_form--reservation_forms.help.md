@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users for the purpose of booking a hotel room. The form is divided into multiple steps, each with its own specific fields and requirements. The form's purpose is to collect necessary information from users for the hotel's booking system. Before filling out this form, please ensure that you have read and understood the instructions carefully.
-</thinking>
-
 # Hotel Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information for hotel room bookings. Please fill out the form carefully to ensure that your booking is processed correctly.

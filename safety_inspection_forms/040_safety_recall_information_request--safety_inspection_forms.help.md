@@ -1,10 +1,3 @@
-<thinking>
-The form "Safety Recall Information Request" is used to collect information about a customer's product recall request. This form is intended to be filled out by customers who have concerns about their product's safety and want to initiate a recall process. The form helps to gather details about the reason for the recall request, product identification, and customer contact information. This information is used to investigate and address the customer's concerns in a timely and effective manner.
-
-Before filling out this form, please ensure that you have not already submitted a similar request. Filling out this form will not automatically initiate the recall process. A member of our team will review your request and contact you to discuss further actions.
-
-</thinking>
-
 # Safety Recall Information Request - Help Guide
 
 ## Purpose

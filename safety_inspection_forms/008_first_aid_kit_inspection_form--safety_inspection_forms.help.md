@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the inspection of a first aid kit. The purpose of this form is to ensure that the first aid kit is properly inspected and reported on. This form will likely be used by personnel who are responsible for maintaining first aid kits in various locations, such as offices, schools, or hospitals. 
-
-When completing this form, you should ensure that you are in a relevant context and that you have the necessary information ready. Please do not fill out this form if you have already inspected the first aid kit and submitted a report.
-
-</thinking>
-
 # first aid kit inspection form - Help Guide
 ## Purpose
 

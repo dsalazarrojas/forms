@@ -1,16 +1,3 @@
-<thinking>
-
-We need to ensure that our restaurant customers are happy and satisfied with their dining experience. To achieve this, we must understand their opinions and feedback about our grilled wings. This survey is designed to gather information on their experience, including how they liked the flavor, presentation, and service of our grilled wings. The survey will help us identify areas of improvement and make informed decisions about menu items and customer service.
-
-We will use this form to:
-* Gather feedback on our grilled wings
-* Understand customer preferences and expectations
-* Make data-driven decisions to improve our menu and customer experience
-
-Please note that the survey is completely anonymous and will not take more than a few minutes to complete.
-
-</thinking>
-
 # Grilled Wings Feedback Survey - Help Guide
 ## Purpose
 This survey aims to gather your honest feedback on our grilled wings. Your input will help us understand what you like and dislike about our food and service, and help us make improvements to create a better dining experience for you and our other customers.

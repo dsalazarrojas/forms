@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect the consent of individuals for safety inspections and photography. The form allows users to select whether or not they consent to have their photographs taken, as well as indicate their preferences for the type of photography that may occur during the inspection. It is intended for use in situations where safety inspections are being conducted, such as in emergency services, construction, or other high-risk environments where consent for photography can be a necessary component. Ensure you are using this form in an appropriate context where consent is required and relevant. Please review the form carefully before filling it out to ensure you understand each field and its purpose. If you have questions or concerns, please seek clarification from the relevant party or authority.
-</thinking>
-
 # Safety Inspection Photography Consent Form - Help Guide
 ## Purpose
 This form is intended to collect the consent of individuals for safety inspections and photography in various environments, such as emergency services, construction, or high-risk areas where consent is necessary.

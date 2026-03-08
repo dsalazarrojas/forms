@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help applicants to the university apply for admission by providing detailed personal and academic information. 
-To ensure that the application process is efficient and accurate, please do not submit duplicate applications. 
-</thinking>
-
 # Application For University Form - Help Guide
 ## Purpose
 The Application For University Form is used to collect personal and academic information from applicants to determine eligibility for admission to our university.

@@ -1,7 +1,3 @@
-<thinking>
-The Fit For Work Assessment Form is designed to assess an employee's readiness to return to work after a period of absence due to medical reasons. This form is intended to gather information about the employee's current health status, availability, and work schedule to ensure a smooth transition back to work. To fill out this form, employees will be asked to provide details about their current health condition, work availability, and schedule, as well as any additional support they may need. The form is meant to be completed by the employee before returning to work, and it is used to determine the best possible outcome for their return to work. This form is not meant to be a medical evaluation, but rather a way to assess the employee's ability to perform their job duties. Before filling out this form, please make sure you are not duplicating any existing assessments or medical evaluations. If you are unsure about any of the questions or fields, please reach out to your HR representative or supervisor for clarification.
-</thinking>
-
 # Fit For Work Assessment Form - Help Guide
 
 ## Purpose

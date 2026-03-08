@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ร ก กาย ท ร รง Request Form - Help Guide
 ## Purpose
 The "ร ก กาย ท ร รง Request Form" is a form designed to collect information from patients and healthcare professionals for requesting medical services. This form is intended to streamline the process of requesting and managing medical services, ensuring accurate and efficient communication between patients, healthcare providers, and administrative staff.

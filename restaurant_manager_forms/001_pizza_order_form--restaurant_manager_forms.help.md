@@ -1,7 +1,3 @@
-<thinking>
-We need to consider that the form is intended for restaurant managers to collect order information from customers. It's likely that the form is designed to streamline the order-taking process, ensuring accurate and complete customer data for efficient order management. To confirm, the form includes fields for contact info, payment methods, pizza size, toppings, quantity, and order details such as date and time. This seems to be a straightforward form for ordering pizzas, and the fields provided cover the necessary information for a smooth and organized ordering process.
-</thinking>
-
 # Pizza Order Form - Help Guide
 ## Purpose
 The Pizza Order Form is designed to collect accurate and complete information from customers for efficient order management.

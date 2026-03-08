@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Compliance Form - Help Guide
 
 ## Purpose

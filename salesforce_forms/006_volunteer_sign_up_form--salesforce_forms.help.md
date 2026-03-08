@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals interested in volunteering. The form should only be used to sign up for volunteering opportunities at events hosted by your organization, and not for any other purpose. Duplicate submissions can be identified by the email address used.
-
-The purpose of this form is to collect essential contact information and details about the event the individual is volunteering for. It's crucial that users provide accurate and complete information to ensure proper event organization and communication. Please fill out the form accurately and honestly.
-
-</thinking>
-
 # Volunteer Sign Up Form - Help Guide
 ## Purpose
 The Volunteer Sign Up Form is designed to collect vital information from individuals interested in volunteering at events hosted by our organization. Please use this form for signing up for volunteering opportunities and ensure that you fill out the form accurately and honestly.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form, quote_acceptance_form, is designed to gather information from salespersons to confirm their acceptance of quotes. It is intended to be used in conjunction with other forms, such as sales order forms, to track sales data and ensure that quotes are properly acknowledged. The form should not be used to collect new sales information, but rather to verify that the salesperson has reviewed and accepted the quote details. This form should only be filled out by salespersons and not by clients.
-
-</thinking>
-
 # quote_acceptance_form - Help Guide
 ## Purpose
 The quote_acceptance_form is used to confirm salesperson's acceptance of quotes. This form ensures that sales data is accurately recorded and up-to-date.

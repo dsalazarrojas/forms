@@ -1,18 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Telescope Reservation Request" form, we'll first need to understand its purpose and the fields involved. Based on the provided YAML fields, the form is likely used to request a telescope reservation, which includes details about the reservation, such as the date, observer's information, and specific telescope settings.
-
-The form appears to be designed to collect various types of information, including:
-
-* Details about the reservation itself (e.g., reservation date, start and end time)
-* Observer's information (e.g., name, email, phone number)
-* Telescope settings (e.g., type, location)
-* Notes and comments for the observer and reservation requester
-
-This form likely serves as an interface for users to submit requests for telescope time and equipment allocation, and the fields are likely designed to provide enough information for the relevant parties to process the request and allocate resources accordingly.
-
-</thinking>
-
 # Telescope Reservation Request - Help Guide
 ## Purpose
 

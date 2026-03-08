@@ -1,7 +1,3 @@
-<thinking>
-This form is for the reservation of a guild battle, and the fields should be filled out with information related to the battle. The form is likely used for internal management and organizational purposes within the guild.
-</thinking>
-
 # Guild Battle Reservation Form - Help Guide
 ## Purpose
 This form is designed to be completed by a guild member to reserve a battle with specific details such as date, time, arena, and player count.

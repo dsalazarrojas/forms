@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a photography walk event. The form purpose is to obtain RSVPs from participants who want to join or support the event. The event details and participant information should be filled in the respective fields. The form also asks if the participant will take photographs, provides the date and time of the event, and allows for additional notes. This form is not required for any of the fields but is used for informational purposes only.
-</thinking>
-
 # photography_walk_rsvp - Help Guide
 ## Purpose
 This form is designed to collect information for a photography walk event.

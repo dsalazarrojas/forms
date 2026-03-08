@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to capture the visitor information for a historic tour. The tour guide can use this form to collect details about each visitor, including their name, contact information, language preference, and any special requirements or accessibility needs. The form is not intended for immediate submission, as the tour guide will be using it to prepare for the tour, and the visitor will not be submitting it themselves. Therefore, the form is not designed for real-time submission. The form's fields should be filled in by the tour guide based on the visitor's information provided during the tour.
-
-</thinking>
-
 # Historic Tour Visitor Information Form - Help Guide
 ## Purpose
 This form is used to capture the visitor information for a historic tour, allowing the tour guide to prepare for the tour and ensure a smooth experience for all visitors.

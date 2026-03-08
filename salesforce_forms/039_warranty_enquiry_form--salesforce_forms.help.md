@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to inquire about their product warranty, providing details such as product serial number, customer information (name, phone number, email), and claim information (warranty type, claim status, claim date, claim type). The form helps the support team to efficiently gather the necessary information to process and manage customer claims.
-</thinking>
-
 # warranty_enquiry_form - Help Guide
 ## Purpose
 This form is used for customers to report and inquire about their product warranty issues, allowing the support team to efficiently gather the necessary information to process and manage customer claims.

@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the Salesforce system, and it's designed to collect contact information from users. It's intended to be a simple and user-friendly form that can be placed on a sidebar of a webpage, hence the name "Sidebar Contact Form". The form is meant to be filled out by users who want to get in touch with the company or organization, and it's a good way to provide a clear and easy way for them to do so. Before filling out this form, please make sure you have the necessary permissions and approvals to do so, and that you're not duplicating efforts with other forms or channels. It's also a good idea to review the form's purpose and fields carefully to ensure you're providing the correct information.
-</thinking>
-
 # Sidebar Contact Form - Help Guide
 ## Purpose
 This form is intended to collect contact information from users and allow them to send a message to the company or organization.

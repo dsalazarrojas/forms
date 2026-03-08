@@ -1,9 +1,3 @@
-<thinking>
-The Process Control Unit Order Form is used to capture information regarding the selection of units for a sales order. The form allows users to choose the units they want to purchase, select a delivery method, and specify any payment terms. This form is likely used by sales teams or customer service representatives to fulfill sales orders.
-The form is designed to be completed in a step-by-step manner, guiding the user through the selection of units, delivery details, and payment information. The form's fields should be completed in order to ensure accurate and complete sales order processing.
-The form's fields are designed to be straightforward, with clear labels and instructions. However, to avoid duplication of effort, users should ensure that the form is not completed more than once per sales order.
-</thinking>
-
 # Process Control Unit Order Form - Help Guide
 ## Purpose
 The Process Control Unit Order Form is used to capture information regarding the selection of units for a sales order. It guides the user through the selection of units, delivery details, and payment information to ensure accurate and complete sales order processing.

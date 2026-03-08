@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect salesforce account information from users. It is intended to be completed by users who are creating new salesforce accounts or updating existing ones. Please ensure that you are only completing this form when necessary and that you have a valid reason for doing so. Before starting, review the fields below to understand what information is required and what is optional...</thinking>
-
 # Salesforces Account Form - Help Guide
 ## Purpose
 The Salesforces Account Form is used to create or update salesforce account information.

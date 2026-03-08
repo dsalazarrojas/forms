@@ -1,7 +1,3 @@
-<thinking>
-# This form is designed to gather information about events that took place in the past, allowing users to provide follow-up details such as event name, attendee name, event type, event date, event location, event description, event rating, and feedback. This form is intended for internal use only and should not be filled out by external parties without explicit permission from management. Please ensure that the form is only used for events that have already occurred to prevent duplication of effort and maintain data accuracy.
-</thinking>
-
 # event_follow_up_survey - Help Guide
 ## Purpose
 The event follow-up survey is used to gather information about past events, including event name, attendee name, event type, event date, event location, event description, event rating, and feedback.

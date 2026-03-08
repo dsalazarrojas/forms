@@ -1,5 +1,3 @@
-<thinking> ... </thinking>
-
 # LisasColorStreetOnHandStock - Help Guide
 ## Purpose
 This form is designed to collect sales order data for a specific stock color request. It is intended to be used by sales teams to capture the customer's information and preferences for the order.

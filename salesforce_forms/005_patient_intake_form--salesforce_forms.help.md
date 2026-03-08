@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information and medical history data for patient intake purposes. To ensure the form is completed accurately and efficiently, review the form fields carefully and fill out each section as instructed. Ensure that you are completing the form for the correct patient and that the information entered is up-to-date and accurate. If you have any doubts or concerns, please reach out to the relevant medical staff for clarification.
-</thinking>
-
 # Patient Intake Form - Help Guide
 ## Purpose
 The patient intake form is a comprehensive form designed to collect relevant information from patients, including contact details, medical history, appointment information, and other necessary data for patient care.

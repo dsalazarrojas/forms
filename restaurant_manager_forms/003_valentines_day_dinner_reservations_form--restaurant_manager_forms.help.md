@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # valentines_day_dinner_reservations_form - Help Guide
 ## Purpose
 This form is designed to collect information for Valentine's Day dinner reservations at a restaurant. It will help the management team to prepare for the special occasion.

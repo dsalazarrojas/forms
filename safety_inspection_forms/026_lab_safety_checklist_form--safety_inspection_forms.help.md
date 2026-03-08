@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to ensure that all necessary safety measures are in place in a lab setting, including emergency exit routes, fire extinguishers, first aid kits, and more. This form should only be completed for a specific lab, and its completion is not a substitute for regular safety inspections and risk assessments. If a lab has already had a recent safety inspection or audit, this form can be used as a quick and efficient way to document and update safety information, rather than duplicating effort by completing a full safety inspection.
-</thinking>
-
 # Lab Safety Checklist Form - Help Guide
 ## Purpose
 The purpose of this form is to document and ensure that all necessary safety measures are in place in a lab setting. This includes emergency exit routes, fire extinguishers, first aid kits, personal protection equipment, electrical equipment, chemical and biological hazards, physical hazards, and other potential hazards.

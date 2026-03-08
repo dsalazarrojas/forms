@@ -1,9 +1,3 @@
-<thinking>
-
-The goal of this form is to collect information for a VIP table reservation at a nightclub. This form likely serves as a means to gather details about the reservation, including the VIP's preferences and any special requests, as well as payment information. The form may be used by the nightclub staff to prepare for the VIP's visit, ensuring a tailored and exclusive experience. To avoid duplication, it's possible that this form is part of a larger system for managing VIP reservations, with the collected data being used to create a customized experience for the VIP.
-
-</thinking>
-
 # Nightclub VIP Table Reservation - Help Guide
 ## Purpose
 This form is designed to collect information from VIPs who have reserved a table at a nightclub. The form helps the venue's staff prepare for the VIP's visit and provide an exceptional experience.

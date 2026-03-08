@@ -1,7 +1,3 @@
-<thinking>
-The form "shannonsmani_of_the_month_" is used for managing sales orders, providing a structured way to capture critical information about each order. This form is relevant when creating or updating sales orders. It is essential that you are aware of the form's purpose before completing it, as it will guide you through the correct sequence of fields. Please ensure that you only complete this form when it's relevant to your sales order management process.
-</thinking>
-
 # shannonsmani_of_the_month_ - Help Guide
 ## Purpose
 The "shannonsmani_of_the_month_" form is a sales order management tool that helps in capturing and organizing essential information about each order. It is used to update or create new sales orders.

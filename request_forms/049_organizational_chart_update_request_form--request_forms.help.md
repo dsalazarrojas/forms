@@ -1,7 +1,3 @@
-<thinking>
-This form is used to update the organizational chart of an employee. The purpose of this form is to ensure that changes to the organizational chart are accurately reflected and up-to-date. This form should be completed by employees who need to make changes to their job title, department, or reporting structure. Please note that this form should not be used to request changes that are not related to the organizational chart. 
-</thinking>
-
 # Organizational Chart Update Request Form - Help Guide
 ## Purpose
 The Organizational Chart Update Request Form is used to update the organizational chart of an employee, ensuring that changes are accurately reflected and up-to-date.

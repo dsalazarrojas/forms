@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to capture information about a restaurant's compliance software order, including customer and contact details, software packages and prices, payment method, and other relevant information.
-
-This form is designed to be completed by restaurant management or their representatives, with the goal of accurately recording and fulfilling software orders in a structured and organized manner. 
-
-To ensure the form is filled out accurately and efficiently, it's essential to understand each field's purpose and requirements.
-
-This form appears to be a comprehensive order form that captures all relevant information about the software ordered, including customer details, contact information, software specifics, and payment details. Before filling out the form, please review each field carefully to ensure accuracy and completeness.
-
-</thinking>
-
 # Restaurant Compliance Software Order Form - Help Guide
 ## Purpose
 The Restaurant Compliance Software Order Form is a tool used to capture and record information about a restaurant's compliance software order. This form helps ensure that all necessary details are collected accurately and efficiently.

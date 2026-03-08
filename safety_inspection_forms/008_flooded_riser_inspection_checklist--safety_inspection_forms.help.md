@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for recording and monitoring the status of flooded risers. 
-The goal is to assess the situation and document the findings to aid in taking appropriate actions. 
-</thinking>
-
 # Flooded Riser Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to help users inspect flooded risers and document their status. 

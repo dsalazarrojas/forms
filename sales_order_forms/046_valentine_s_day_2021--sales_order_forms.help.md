@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to facilitate ordering for Valentine's Day sales in 2021, and is intended to be filled out by customers who want to place an order. To avoid confusion and duplication, please ensure that you have not already completed this form for the same purpose before proceeding.
-
-This form includes various fields to collect information about the customer's order, including shipping details, payment method, and customer contact information. The form is divided into different sections for easy navigation and completion.
-
-Please note that this form is for internal use only and is not intended for external sharing or public display.
-</thinking>
-
 # valentines_day_2021 - Help Guide
 ## Purpose
 This form is for placing orders for Valentine's Day 2021 sales. Please fill out the form carefully and completely to ensure accurate processing of your order.

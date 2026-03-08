@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help sales representatives submit their weekly sales data. It's essential to ensure each sales representative accurately and efficiently reports their sales activity on a weekly basis. This form serves as a template for gathering necessary information for sales performance tracking and analysis.
-</thinking>
-
 # Weekly Sales Report Form - Help Guide
 ## Purpose
 The Weekly Sales Report Form is designed to help sales representatives submit their sales activity and performance on a weekly basis. This form provides a structured approach to report sales data, allowing for accurate and timely tracking of sales performance.

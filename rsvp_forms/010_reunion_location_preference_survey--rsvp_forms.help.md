@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about the attendee's preference for the upcoming reunion location. This is a survey that is part of the reunion planning process to ensure that everyone's needs and expectations are met. The purpose of this form is to collect the attendee's location preference and other relevant details. The information collected will be used to finalize the reunion location and arrangements.
-
-To determine the relevance of this form, we are looking for attendees who are interested in providing their location preference and are likely to attend the reunion. This form should not be completed by attendees who are not interested in attending the reunion.
-
-</thinking>
 # Reunion Location Preference Survey - Help Guide
 ## Purpose
 This form is used to gather information about the attendee's preference for the upcoming reunion location.

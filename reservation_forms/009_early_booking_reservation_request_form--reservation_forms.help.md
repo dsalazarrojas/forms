@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended for users who wish to book a reservation at our establishment. The form is designed to collect necessary information from the user for the booking process.
-
-To ensure that your reservation is processed correctly, please review the information in this guide carefully.
-
-Please note that the form is designed to be completed only once per reservation. If you have multiple reservations or need to make changes to an existing reservation, please contact our customer support team for assistance.
-
-</thinking>
-
 # early_booking_reservation_request_form - Help Guide
 
 ## Purpose

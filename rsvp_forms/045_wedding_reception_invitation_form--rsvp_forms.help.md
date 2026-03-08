@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from guests who have received a wedding reception invitation. The purpose of this form is to help the wedding party (organizer) track RSVPs (responses) from guests, including their meal preferences and any special requests or needs they may have. This form is not intended for guests to provide personal contact information, but rather as a way for them to communicate their attendance and preferences in a clear and organized manner. By completing this form, guests can ensure that their preferences and needs are taken into account when planning the wedding reception. The form is not intended for guests to provide duplicate information, so please do not fill out this form if you have already responded to the original invitation.
-</thinking>
-
 # Wedding Reception Invitation Form - Help Guide
 ## Purpose
 The Wedding Reception Invitation Form is a tool for guests to communicate their attendance and preferences to the wedding party. It helps the wedding party track RSVPs and plan the reception accordingly.

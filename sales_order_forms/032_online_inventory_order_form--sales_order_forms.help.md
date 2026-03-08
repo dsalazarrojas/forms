@@ -1,7 +1,3 @@
-<thinking>
-This form is used for sales teams to record orders from customers, ensuring accurate and efficient management of inventory. The form captures essential details such as customer information, items ordered, total value, date, and time of the order, as well as any relevant notes or contact information. By filling out this form, sales teams can track and analyze order data for future reference and improvement.
-</thinking>
-
 # Online Inventory Order Form - Help Guide
 ## Purpose
 The Online Inventory Order Form is used by sales teams to record orders from customers and manage inventory effectively.

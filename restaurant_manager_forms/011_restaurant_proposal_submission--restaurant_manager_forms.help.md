@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals or entities interested in proposing a restaurant concept to be considered for a specific restaurant management opportunity. The purpose of this form is to collect comprehensive details about the proposed restaurant concept, including its name, location, and supporting documents, as well as contact information for the person or entity submitting the proposal. This form aims to ensure that all relevant information is gathered in a clear and concise manner, facilitating a thorough evaluation of the proposal.
-</thinking>
-
 # Restaurant Proposal Submission - Help Guide
 ## Purpose
 The Restaurant Proposal Submission form is designed to collect detailed information about a proposed restaurant concept, including its concept, business plan, and contact details. This form is intended for individuals or entities interested in submitting a proposal for a specific restaurant management opportunity.

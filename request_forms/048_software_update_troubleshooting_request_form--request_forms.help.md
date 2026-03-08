@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Update Troubleshooting Request Form - Help Guide
 
 ## Purpose

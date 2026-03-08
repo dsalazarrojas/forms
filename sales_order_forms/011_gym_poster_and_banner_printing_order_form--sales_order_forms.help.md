@@ -1,7 +1,3 @@
-<thinking>
-The Gym Poster And Banner Printing Order Form is a template used to capture sales-related information from customers. This form helps in streamlining the order process for printing gym posters and banners. To ensure relevance, this form should only be used for sales orders related to gym poster and banner printing. If you are unsure about using this form for another purpose, please refer to your organization's guidelines. 
-</thinking>
-
 # Gym Poster And Banner Printing Order Form - Help Guide
 ## Purpose
 This form is used to capture orders for printing gym posters and banners, allowing you to efficiently manage and fulfill these requests.

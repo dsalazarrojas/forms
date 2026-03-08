@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect RSVPs for a Thanksgiving potluck event. The purpose of this form is to gather information from guests about their plans to attend the event, including what type of courses they will bring, dietary restrictions, and other relevant details.
-
-To avoid duplication of effort, please ensure that this form is only used for the specific event mentioned in the event details.
-
-Please note that this form is designed for a one-time event, and any submitted responses will only be valid for this specific event. If you're looking to create a recurring event or have ongoing surveys, consider using a different form.
-
-</thinking>
-
 # thanksgiving_potluck_survey - Help Guide
 ## Purpose
 This form is designed to collect RSVPs for a Thanksgiving potluck event. It is used to gather information from guests about their attendance, dietary restrictions, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for guests to book a stay at a guest house. It collects information about the guest, their reservation details, and their payment method. The form is divided into several sections, each containing specific fields that guests need to fill in. The form requires the following information: guest name, guest house name, check-in and check-out dates, number of guests, room type, services, payment method, and contact information. The form also includes fields for additional services, comments, and confirmation details. To avoid duplication, this form is meant to be filled out only once per reservation.
-</thinking>
-
 # Guest House Reservation Form - Help Guide
 ## Purpose
 The Guest House Reservation Form is designed to collect information from guests who want to book a stay at a guest house. This form is used to ensure that the guest's reservation details are accurately recorded and processed efficiently.

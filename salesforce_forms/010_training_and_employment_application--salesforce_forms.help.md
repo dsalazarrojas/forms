@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from candidates for training and employment purposes. It's meant for candidates to provide their contact details, employment history, skills, and other relevant information for potential employers to review. Please ensure that each candidate fills out the form accurately and honestly, as this information will be used to assess their suitability for training and employment opportunities. Before filling out this form, please ensure that you haven't already submitted the form, as duplicate submissions may cause unnecessary work on our end. If you're unsure about any section, feel free to ask for clarification.
-</thinking>
-
 # Training And Employment Application - Help Guide
 ## Purpose
 This form is designed to collect information from candidates for training and employment purposes. It's meant to provide potential employers with a comprehensive view of the candidate's background, skills, and qualifications.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are requesting tree trimming services, which is a crucial aspect of maintaining the health and safety of trees in urban areas. The form should only be filled out by clients who have a legitimate reason to request tree trimming services. Before filling out the form, please check if a similar request has already been made for the same tree location to avoid duplication of work.
-</thinking>
-
 # Tree Trimming Request Form - Help Guide
 ## Purpose
 The Tree Trimming Request Form is designed to collect information from clients who are requesting tree trimming services to maintain the health and safety of trees in urban areas.

@@ -1,7 +1,3 @@
-<thinking>
-We have a reservation system, and we want to make sure that users understand how it works and what is expected of them. The form is for reserving services, specifically car services. We want to cover our bases and ensure that users don't submit duplicate submissions. We'll go through each field carefully.
-</thinking>
-
 # Car Service Reservation Form - Help Guide
 
 ## Purpose

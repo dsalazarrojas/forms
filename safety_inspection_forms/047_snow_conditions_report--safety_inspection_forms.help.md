@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a Snow Conditions Report, a document used to report and record snow-related information. 
-The purpose of this form is likely to gather data about snow conditions on a specific area or location. 
-Before filling out this form, please ensure that it is not already completed for the same location or time period. 
-</thinking>
-
 # Snow Conditions Report - Help Guide
 ## Purpose
 The Snow Conditions Report is a form used to gather data about snow conditions on a specific area or location. This report is likely intended for use by personnel responsible for snow-related operations such as snow removal, maintenance, or emergency response. 

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to document and report incidents involving forklifts. The purpose of this form is to gather information about each incident, including date, time, location, operator name, machine number, machine type, injury description, action taken, witness names, witness statements, notes, incident cause, incident result, incident status, incident reported by, incident respondent, incident employer, incident inspector, and incident investigation result. This form is meant to be completed by individuals responsible for reporting and investigating forklift collisions.
-
-Before starting, ensure that the incident has not been already reported or documented. If the incident is still active, ensure that you have permission to share this information.
-
-Please note that this form is a tool to help gather information and document incidents. It is not a substitute for official incident investigation or incident reporting.
-
-</thinking>
-
 # Forklift Collision Incident Form - Help Guide
 ## Purpose
 The Forklift Collision Incident Form is designed to document and report incidents involving forklifts. This form helps gather information about each incident, including date, time, location, operator name, machine number, machine type, injury description, action taken, witness names, witness statements, notes, incident cause, incident result, incident status, incident reported by, incident respondent, incident employer, incident inspector, and incident investigation result.

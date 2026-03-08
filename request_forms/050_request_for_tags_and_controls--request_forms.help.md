@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and document requests for tags and controls from various categories and individuals. It helps in tracking and managing these requests efficiently. Before submitting a request, ensure you are not duplicating an existing one by searching the request database or checking with the team lead. 
-</thinking>
-
 # Request For Tags And Controls - Help Guide
 ## Purpose
 This form is used to document and manage requests for tags and controls across various categories. It ensures that all relevant information is collected and tracked for efficient processing and follow-up.

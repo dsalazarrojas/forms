@@ -1,14 +1,3 @@
-<thinking>
-...The purpose of this form is to collect feedback from restaurant customers. The form has 8 fields, asking users to rate their experience, provide their contact information, and give additional comments. This form is designed to be user-friendly and easy to complete. It is not affiliated with, endorsed by, or derived from any form platform. The form has been created using AI, and its original adaptation is released under CC BY 4.0. Users are free to use, modify, and sell forms derived from it, giving credit. The contact information for the form is form@gic.mx.
-
-This form is suitable for restaurant managers to use to collect feedback from customers on their dining experience. However, please note that the form has not been designed for any specific company or restaurant and should not be used for commercial purposes. If you are using this form for your business, please make sure to adjust it according to your specific needs and add any necessary details.
-
-To ensure that this form is helpful and not duplicated, we suggest you to check that all fields are being used correctly and that the form's purpose is clearly communicated to users. We also suggest you to test the form before sharing it with customers to make sure it is easy to complete and collects the necessary information.
-
-If you have any questions or need to add any additional fields, please contact form@gic.mx.
-
-</thinking>
-
 # Restaurant Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their dining experience at a restaurant.

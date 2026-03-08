@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a crucial part of the sales process for pianos. The sales agreement form is used to document the sale of pianos, ensuring a smooth and legally binding transaction for both the buyer and seller. It captures all the essential information regarding the piano, buyer, and terms of the sale. This form is a one-time use, and each sale requires a new instance.
-
-</thinking>
-
 # Piano Sales Agreement Form - Help Guide
 ## Purpose
 This form is a sales agreement for buying and selling pianos. It captures the necessary information for a legally binding transaction between the buyer and seller, ensuring a smooth and transparent sales process.

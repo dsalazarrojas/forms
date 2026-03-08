@@ -1,5 +1,3 @@
-<thinking>As a safety inspector, the purpose of this form is to gather information for scaffold user safety registration. This form will help us understand the safety status of a scaffold, and whether it is safe or not for use. Before completing this form, please ensure that you have the necessary information and permission to access the scaffold. Please do not register a scaffold if it is not under your control or if you are not authorized to access it. This form will help us improve the overall safety of our workplace, so please fill it out accurately and thoroughly. If you are unsure about any of the fields, please refer to the field explanations below.</thinking>
-
 # Scaffold User Safety Registration - Help Guide
 ## Purpose
 This form is designed to gather information for the safety registration of a scaffold. The goal is to understand the current safety status of the scaffold and ensure that it meets the necessary safety standards.

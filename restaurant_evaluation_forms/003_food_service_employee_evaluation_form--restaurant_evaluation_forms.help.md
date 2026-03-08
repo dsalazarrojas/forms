@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of food service employees. 
-The purpose of this form is to collect data from managers or supervisors to assess an employee's overall performance, rating, and other relevant details. This data can be used to identify areas of improvement and provide feedback to employees. 
-Before filling out this form, please ensure that you're evaluating the performance of a specific employee, and not duplicating the evaluation for the same employee. This guide will walk you through each field to help you complete the form accurately and effectively.
-</thinking>
-
 # Food Service Employee Evaluation Form - Help Guide
 ## Purpose
 The Food Service Employee Evaluation Form is a tool used to assess the performance of food service employees. It helps managers or supervisors to evaluate employees' overall performance, rating, and other relevant details.

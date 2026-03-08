@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect safety compliance information on a monthly basis from project teams. It's essential to fill out this form to ensure that all projects are meeting safety regulations and identify any concerns or incidents that need to be addressed. Please make sure to complete this form thoroughly and accurately to help project leaders and safety experts monitor and improve safety performance.
-
-</thinking>
-
 # Project Safety Compliance Monthly Report - Help Guide
 ## Purpose
 The purpose of this form is to collect safety compliance information on a monthly basis from project teams. It helps ensure that all projects are meeting safety regulations and identifies any concerns or incidents that need to be addressed.

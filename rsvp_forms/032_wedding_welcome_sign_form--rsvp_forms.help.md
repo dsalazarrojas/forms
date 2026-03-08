@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from guests attending a wedding. The form will likely be used at the wedding venue and is intended for the wedding party or staff to use in welcoming guests and gathering contact information. The form will not store any data for long-term use, but rather serves as a temporary tool for the wedding party to keep track of attendance and contact details. It's possible that this form will be completed by guests in advance, so it's essential that it's easy to understand and fill out. I'll create a clear and concise help guide to ensure guests know exactly what they need to do...</thinking>
-
 # Wedding Welcome Sign Form - Help Guide
 
 ## Purpose

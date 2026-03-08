@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for payment purposes. It is likely used for online transactions or other sales-related activities within the Salesforce platform. I will review the form fields to ensure they are clear and concise in the help guide.
-
-</thinking>
-
 # Payment Form Template - Help Guide
 ## Purpose
 The Payment Form Template is a form used to collect payment information from customers for various sales-related activities within the Salesforce platform.

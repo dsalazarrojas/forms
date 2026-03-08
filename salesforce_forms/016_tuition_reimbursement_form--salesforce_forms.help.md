@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about employee education reimbursement. The purpose of this form is to gather details about the employee's education history, including their education type, level, start and end dates, and the amount of reimbursement requested. This form is likely used by HR or accounting departments to process and track employee reimbursement requests.
-
-The form consists of 8 fields, and some of them are required while others are not. Before starting, ensure that all required fields are completed accurately to avoid any issues during processing.
-
-The following explanations are based on the provided YAML fields, with an attempt to provide a clear and concise description of each field.
-</thinking>
-
 # Tuition Reimbursement Form - Help Guide
 ## Purpose
 The Tuition Reimbursement Form is used to collect information about employee education reimbursement.

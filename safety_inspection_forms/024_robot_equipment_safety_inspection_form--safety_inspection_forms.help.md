@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide instructions and explanations for the robot_equipment_safety_inspection_form, which appears to be a form for recording information about the safety inspection of robot equipment. Before proceeding, it's essential to verify that this form is relevant to your work or task and that you're not duplicating efforts. If you're unsure, please consult your supervisor or relevant documentation.
-</thinking>
-
 # Robot Equipment Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to record information about the safety inspection of robot equipment. It collects details on the equipment's model number, manufacturer, year model, location installed, description, hazard rating, hazard identified, and other essential details. This form helps ensure that the equipment is regularly inspected and any safety issues are addressed promptly.

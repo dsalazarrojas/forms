@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from customers about their website design requests. The form is designed to be completed by the customer and is intended to capture their preferences and needs for the design of their website.
-</thinking>
-
 # Website Design Request Form - Help Guide
 ## Purpose
 The Website Design Request Form is designed to gather information from customers about their website design requests.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from customers interested in experiencing paragliding, which is a type of sky sports that uses specialized equipment, such as parachutes and harnesses. The form is intended for people who want to reserve a spot for a paragliding experience, which can be a thrilling activity for adventure-seekers. The form will likely be used by customers to provide details about their preferred experience, location, and other relevant information to make the reservation process smooth and effective. Before filling out this form, please ensure that you are not duplicating your reservation, and that the information provided is accurate and up-to-date.</thinking>
-
 # Paragliding Experience Reservation Form - Help Guide
 ## Purpose
 The Paragliding Experience Reservation Form is designed to collect information from customers interested in experiencing paragliding, a type of adventure sky sports activity. This form will help the paragliding staff to better understand your needs and preferences and to provide a safe and enjoyable experience.

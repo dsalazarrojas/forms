@@ -1,6 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly and the feedback is useful, it's essential to understand the purpose and context of the "Cafe Feedback Form". This form is designed to collect feedback from customers about their experience at the cafe, helping us to identify areas of improvement and make necessary adjustments to provide better service. The form asks for information such as the customer's name, email address, and details about their visit, including the date, time, and type of visit. It also inquires about the quality of food and drinks, service speed, staff friendliness, and overall experience. This feedback will help us to make informed decisions about menu offerings, staff training, and operational improvements. Please fill out the form accurately, providing as much detail as possible, and let us know if you have any additional comments or suggestions.</thinking>
-
 # Cafe Feedback Form - Help Guide
 
 ## Purpose

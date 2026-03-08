@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help our team manage pre-launch sample distribution orders. The purpose of this form is to collect relevant information from customers and internal teams to ensure smooth execution of sample distribution tasks. This form will be used by our team to review and process orders, and it's essential to fill out all required fields accurately to avoid delays or miscommunication.
-
-This form is intended for internal use by our team members, not for external customers. However, external customers may access this form as a reference point or to provide additional information to our team.
-</thinking>
-
 # pre_launch_sample_distribution_order_form - Help Guide
 ## Purpose
 The pre_launch_sample_distribution_order_form is used to collect information for pre-launch sample distribution orders. This form is essential for internal team members to gather details about the orders, ensuring efficient processing and distribution of samples.

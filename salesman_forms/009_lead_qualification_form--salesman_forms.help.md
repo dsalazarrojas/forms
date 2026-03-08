@@ -1,7 +1,3 @@
-<thinking> 
-The Lead Qualification Form is used to capture and store information about potential leads and track their qualification status within the sales process. This form should only be completed by sales representatives for leads that are new to them. It is not intended for use by other stakeholders, such as marketing or customer service teams, to avoid duplication of effort and potential miscommunication. 
-</thinking>
-
 # Lead Qualification Form - Help Guide
 ## Purpose
 The Lead Qualification Form is used to gather and track information about potential leads, ensuring that sales representatives have a clear understanding of the lead's status and requirements within the sales process.

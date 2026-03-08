@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Receptacle Testing Survey - Help Guide
 
 ## Purpose

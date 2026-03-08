@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Auto Sales Customer Application Form.
-
-This form is used to collect information from customers to determine their vehicle preferences and needs. The form gathers personal and contact information, employment details, trade-in vehicle information (if applicable), and desired vehicle details.
-
-To avoid data duplication and ensure accurate representation, the form is designed to be completed in a logical sequence, with each section building on the previous information. The form will guide the user through the collection of necessary information in a clear and concise manner.
-
-</thinking>
-
 # Auto Sales Customer Application Form - Help Guide
 ## Purpose
 The Auto Sales Customer Application Form is used to collect information from customers about their personal, employment, and vehicle preferences.

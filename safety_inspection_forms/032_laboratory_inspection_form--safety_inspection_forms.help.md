@@ -1,14 +1,3 @@
-<thinking>
-The Laboratory Inspection Form is designed to collect information on a laboratory's facilities and equipment, ensuring compliance with relevant regulations and industry standards. This form is intended to gather data on the lab's contact information, facility address, equipment types, and inspection results. The form is crucial for regulatory compliance, risk assessment, and quality control purposes.
-
-To ensure the form's integrity and relevance, we should check for duplication and inconsistencies in the field data. This can be achieved by:
-
-- Verifying the form's completion against existing records and regulatory requirements.
-- Ensuring that all required fields are filled out accurately and completely.
-- Reviewing the form for any errors or discrepancies before submission.
-
-</thinking>
-
 # Laboratory Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information on a laboratory's facilities and equipment, ensuring compliance with relevant regulations and industry standards.

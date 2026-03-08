@@ -1,5 +1,3 @@
-<thinking> This guide is for the Quinceañera Invitation Form, which is used to track the RSVP information for a Quinceañera (a Latin American celebration marking the 15th birthday of a girl) party. The form is intended for guests to respond to their invitation, indicating their attendance, arrival and departure times, and other relevant details. Before completing this form, please ensure that you have received an invitation from the host and that you have reviewed the party details carefully. </thinking>
-
 # Quinceañera Invitation Form - Help Guide
 ## Purpose
 The Quinceañera Invitation Form is used to track the RSVP information for a Quinceañera party. Please respond to this form to let the host know if you will attend, and provide any necessary details for the host to plan the party.

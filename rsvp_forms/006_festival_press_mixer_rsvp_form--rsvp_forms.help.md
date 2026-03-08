@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used by users to RSVP for the Festival Press Mixer event. To ensure that it is being used correctly, we need to check if it's being used for the purpose it's intended for and not being duplicated for a different event or purpose. It's possible that someone might want to use the same form for a different event, but that would be an error. The form is designed to collect information about a specific Festival Press Mixer event, and using it for something else might lead to confusion and incorrect data being collected.</thinking>
-
 # Festival Press Mixer RSVP Form - Help Guide
 ## Purpose
 The Festival Press Mixer RSVP Form is designed to allow users to RSVP for the Festival Press Mixer event. Please use this form to let us know if you can attend the event.

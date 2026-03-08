@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Easter Meal Order Form, I must first understand the form's purpose and fields. The form's purpose is likely for a customer to place an order for an Easter meal, and the form should guide the customer through the process of providing necessary information to complete the order. The fields seem to be focused on collecting the customer's contact information, order details, and payment information (implied by the "order_total" field). I will create a clear and concise guide to help the customer navigate the form.
-
-</thinking>
-
 # Easter Meal Order Form - Help Guide
 ## Purpose
 The Easter Meal Order Form is designed to help customers place their Easter meal orders. Please follow these steps to ensure a smooth and accurate ordering experience.

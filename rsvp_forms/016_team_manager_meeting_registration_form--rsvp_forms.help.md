@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Manager Meeting Registration Form - Help Guide
 
 ## Purpose

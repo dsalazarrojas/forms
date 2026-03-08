@@ -1,5 +1,3 @@
-<thinking>As I understand, this form is for making reservations in a "Lodge" context. It's likely for an accommodation or a hotel, where users can provide details about their stay. The fields are pretty self-explanatory, but I'll break them down for the user's benefit.</thinking>
-
 # Lodge Reservation Form - Help Guide
 ## Purpose
 This form is for making reservations at a lodge. Fill in the required information to help us prepare for your stay.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect sales order information from customers, including their contact details, order specifics, delivery information, and payment terms. The purpose of this form is to gather all the necessary information for processing and fulfilling customer orders efficiently.
-
-Before proceeding, it's essential to note that this form appears to be a comprehensive sales order form, covering a wide range of fields related to customer and order information. To avoid duplication or errors, please ensure that you have all the necessary details before submitting the form. If you're unsure about any field or have any questions, please don't hesitate to reach out to our support team for assistance.
-
-</thinking>
-
 # Shelf Talker Printing Order Form - Help Guide
 ## Purpose
 The Shelf Talker Printing Order Form is designed to collect sales order information from customers. This form gathers details such as customer contact information, order specifics, delivery information, and payment terms to enable efficient processing and fulfillment of orders.

@@ -1,12 +1,3 @@
-<thinking>
-The DOT Compliance Audit Checklist form is designed to help ensure that vehicles are in compliance with relevant regulations and guidelines set by the Department of Transportation (DOT). This form is used to collect information about a vehicle's registration status, driver's qualifications, and vehicle condition. The purpose of this form is to identify potential compliance issues and ensure that the vehicle is safe to operate on public roads.
-
-Before filling out this form, please ensure that you have all the necessary information about the vehicle and its driver. This form should only be filled out for vehicles that are currently registered and operating on public roads.
-
-The form is divided into several sections, each with its own set of questions and options. Please read each section carefully and answer the questions accordingly.
-
-</thinking>
-
 # DOT Compliance Audit Checklist - Help Guide
 ## Purpose
 The DOT Compliance Audit Checklist is a form used to collect information about a vehicle's registration status, driver's qualifications, and vehicle condition.

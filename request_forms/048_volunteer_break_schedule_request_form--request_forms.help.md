@@ -1,8 +1,3 @@
-<thinking>
-The form "volunteer-break-schedule-request-form" seems to be used for volunteers to request breaks or time off from their work schedule. The form might be used by volunteers who need to take a break during their working hours, and the purpose of the form is to provide managers or administrators with the necessary information to approve or reject the request. The fields in the form appear to be related to the volunteer's details, the break schedule request, and the manager's contact information. Before filling out the form, volunteers should ensure that their request is not a duplicate and that they have the necessary information to complete it accurately. Volunteers should also make sure to fill out the form in a timely manner to minimize the delay in processing their request.
-
-</thinking>
-
 # Volunteer Break Schedule Request Form - Help Guide
 ## Purpose
 This form is used by volunteers to request breaks or time off from their work schedule. Volunteers can use this form to submit their requests to their managers or administrators for approval.

@@ -1,21 +1,3 @@
-<thinking>
-The form "customer_bill_pay" appears to be related to processing customer payments, specifically managing billing information and payment details. This form likely serves as a tool for customers to input their payment information, such as billing amounts, payment methods, and due dates.
-To determine the relevance of this form, let's assume it is used in a business setting, such as an e-commerce platform or a retail store, where customers need to pay bills or invoices. The form's purpose is to collect and process customer payment information, ensuring accurate and timely payments.
-Before creating the user-facing help guide, let's quickly review the form fields:
-
-- `customer_name`: A text field for the customer's name.
-- `email`: A field for the customer's email address.
-- `billing_amount`: A field for the billing amount.
-- `payment_method`: A select field for the payment method (e.g., Visa, Mastercard, Amex).
-- `payment_type`: A select field for the payment type (e.g., Credit, Debit, Cash).
-- `due_date`: A date field for the due date.
-- `payment_status`: A select field for the payment status (e.g., Paid, Pending, Unpaid).
-- `payment_terms`: A select field for the payment terms (e.g., Net 15, Net 30, Other).
-- `billing_address`: A text field for the billing address.
-- `billing_city`: A text field for the billing city.
-
-</thinking>
-
 # customer_bill_pay - Help Guide
 ## Purpose
 The "customer_bill_pay" form is used to collect and process customer payment information, such as billing amounts, payment methods, and due dates. This form helps ensure accurate and timely payments for customers.

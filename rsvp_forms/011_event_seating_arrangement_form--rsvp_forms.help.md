@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about guests' seating arrangements for an event. This includes their name, table and seat preferences, meal choices, special requests, and contact information. The form is used to ensure that event organizers can provide the best possible experience for their guests. This form has been designed to minimize duplication and ensure that all necessary information is collected.
-</thinking>
-
 # Event Seating Arrangement Form - Help Guide
 ## Purpose
 The Event Seating Arrangement Form is used to collect information about guests' seating preferences and requirements for an event.

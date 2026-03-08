@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information about a pool excavation inspection, ensuring that all necessary safety checks are performed and documented. This form is intended for use by pool installation and maintenance personnel to verify that the pool excavation site is safe and ready for pool construction or maintenance. To avoid duplication of effort and ensure consistency, this form should only be used for pool excavation inspections.
-</thinking>
-
 # Pool Excavation Safety Checklist - Help Guide
 ## Purpose
 The Pool Excavation Safety Checklist is a document used to inspect and verify the safety of a pool excavation site before construction or maintenance begins. This form helps ensure that all necessary safety checks are performed, reducing the risk of accidents and ensuring a safe working environment.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect registration information from participants for a Scramble event. It will be used to track attendance and details about the event, such as participant names, contact information, and event preferences.
-The form will help the event organizers keep track of the number of participants, their preferences, and any special arrangements that need to be made.
-To avoid duplication of effort, the form will only allow a single registration per participant. 
-</thinking>
-
 # scrabble_event_registration - Help Guide
 ## Purpose
 This form is used to collect registration information from participants for a Scramble event. It helps event organizers track attendance, participant details, and event preferences.

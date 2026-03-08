@@ -1,9 +1,3 @@
-<thinking>
-... internal reasoning block ...
-The form is meant to gather information about the safety inspection of confined spaces. The primary purpose of this form is to ensure that the workplace is safe for workers and visitors. The form collects data on various aspects of the confined space, including the date and time of the inspection, the inspector's name and ID number, and the space's location. It also asks about the condition of the space, including barriers, ventilation systems, communication equipment, rescue equipment, and personal protective equipment. The form is used to identify potential hazards and take corrective actions to improve safety. It's essential to fill this form accurately and thoroughly to ensure that the space is safe for everyone.
-
-</thinking>
-
 # Confined Space Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to record the results of a safety inspection of confined spaces. It helps identify potential hazards and ensure that the workplace is safe for workers and visitors.

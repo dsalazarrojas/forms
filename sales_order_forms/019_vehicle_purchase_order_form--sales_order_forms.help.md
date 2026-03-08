@@ -1,10 +1,3 @@
-<thinking>
-We will design a user-friendly help guide for the "Vehicle Purchase Order Form". To begin, let's clarify the form's purpose: it's designed to capture essential information for a vehicle purchase transaction. The form collects data from the customer, including their details, vehicle preferences, and purchase information. We'll ensure that the form's design is intuitive, allowing users to easily navigate and complete it. 
-
-To confirm, we will not duplicate any existing forms or introduce new features that aren't covered in the provided YAML fields. 
-
-Let's proceed with the help guide.</thinking>
-
 # Vehicle Purchase Order Form - Help Guide
 ## Purpose
 This form is used to capture essential information for a vehicle purchase transaction, ensuring accurate and complete data collection.

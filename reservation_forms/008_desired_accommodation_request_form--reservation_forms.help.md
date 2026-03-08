@@ -1,12 +1,3 @@
-<thinking>
-The Desired Accommodation Request Form is used to collect information from users about their accommodation preferences and requirements. This form is likely intended for guests who are planning to book a room or reserve a space for a specific period. It's possible that the form is used to gather information about the guest's stay, such as the dates of reservation, type of accommodation, and contact details.
-
-Before filling out this form, the user should ensure that they are not duplicating an existing request, and that their request is relevant to the accommodation provider's offerings. This form is likely used to streamline the accommodation booking process, so it's essential to provide accurate and complete information to ensure a smooth experience for both the guest and the accommodation provider.
-
-To avoid errors, the user should carefully review their answers and ensure that they match their actual needs and preferences. The form requires some basic information about the guest's stay, including the dates of reservation, accommodation type, and contact details. The user should also be aware that some fields are optional, which means they can be left blank if they are not applicable.
-
-</thinking>
-
 # Desired Accommodation Request Form - Help Guide
 
 ## Purpose

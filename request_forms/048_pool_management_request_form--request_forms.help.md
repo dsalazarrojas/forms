@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pool Management Request Form - Help Guide
 
 ## Purpose

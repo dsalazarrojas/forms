@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Reasonable Accommodation Request Form - Help Guide
 ## Purpose
 This form is for employees to request a reasonable accommodation to help them perform their job duties or participate in work-related activities. A reasonable accommodation is a change to the work environment or workplace that would help to eliminate a barrier to performing the job duties or workplace activities. This form ensures that employees can request necessary accommodations without duplicating effort or confusion, and ensures that all necessary information is collected to process their requests.

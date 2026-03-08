@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Appreciation Luncheon Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect RSVP information for the Employee Appreciation Luncheon. It is intended for employees to register their attendance and provide details about their guests, if applicable.

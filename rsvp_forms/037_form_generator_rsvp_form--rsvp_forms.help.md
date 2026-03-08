@@ -1,5 +1,3 @@
-<thinking>Before generating a help guide for the "Form Generator | RSVP Form", I'll briefly review the form's purpose and ensure that it's not duplicating any existing help guides.</thinking>
-
 # Form Generator | RSVP Form - Help Guide
 ## Purpose
 The "Form Generator | RSVP Form" is a comprehensive form designed to collect RSVP information from attendees for various events. This form helps event organizers gather essential details such as name, email, phone number, and other relevant information from attendees, ensuring they can plan and prepare for the event accordingly.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Email Order Form - Help Guide
 ## Purpose
 This form is designed to collect email order information from customers to enable the sales team to process orders efficiently. This includes customer contact information, order details, and payment methods to facilitate smooth order management and communication.

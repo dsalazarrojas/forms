@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the safety skills of individuals who perform rope access, a method of ascending or descending structures using ropes and harnesses. This form will help evaluate their experience with different safety equipment and rope access methods, which are crucial for safe and efficient work at heights.
-</thinking>
-
 # Rope Access Skills Assessment Form - Help Guide
 ## Purpose
 The Rope Access Skills Assessment Form is designed to assess the safety skills of individuals who perform rope access, such as window cleaners, riggers, and other professionals who use ropes and harnesses for work at heights.

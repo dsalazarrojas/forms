@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect RSVP information for a Nonprofit Appreciation Brunch event. The form is meant to gather details such as guest names, RSVP dates, number of guests, contact methods, RSVP status, additional guests, comments, email, phone number, and address. This information will be used to organize and manage the event effectively. Please ensure to fill out the form accurately and completely, so that the event organizers can plan and prepare accordingly.
-
-</thinking>
-
 # Nonprofit Appreciation Brunch RSVP Form - Help Guide
 ## Purpose
 The purpose of this form is to collect RSVP information for a Nonprofit Appreciation Brunch event. This information will be used to plan and prepare for the event.

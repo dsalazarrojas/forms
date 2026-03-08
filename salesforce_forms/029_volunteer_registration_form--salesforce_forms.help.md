@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let's consider the form's purpose and ensure it's not a duplicate task. Based on the provided YAML, this form seems to be for volunteer registration, which is likely an important process for events, projects, or organizations that rely on volunteers. It's possible that this form is a custom-built solution for a specific use case, such as managing volunteer shifts or projects. To confirm, we'll need to review the context and requirements of the project or organization using this form.</thinking>
-
 # volunteer_registration_form - Help Guide
 ## Purpose
 The volunteer registration form is designed to collect information from potential volunteers for events, projects, or other initiatives. This form helps organizers manage volunteer shifts, projects, and volunteer availability.

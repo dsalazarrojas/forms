@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from artists who want to book their music for promotional events, festivals, or other performances. The form is intended for artists who wish to provide details about themselves and their music, which will be reviewed and considered for booking opportunities. This form is not meant to be a comprehensive or exhaustive survey, but rather a starting point for further communication and discussion.
-</thinking>
-
 # Music Artist Booking Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from artists who want to book their music for promotional events, festivals, or other performances. By completing this form, artists can provide their details, which will be reviewed and considered for booking opportunities.

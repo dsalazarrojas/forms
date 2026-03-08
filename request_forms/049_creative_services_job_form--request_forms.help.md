@@ -1,12 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the "Creative Services Job Form" with the aim of assisting end-users in filling out the form correctly and efficiently. This form will be used to gather information about job requests, and it will serve as a template for various job types. It's essential to ensure that the form is filled out accurately and consistently to prevent duplication of efforts and ensure that the correct information is captured.
-
-To achieve this, we will create a comprehensive help guide that explains the form's purpose, the steps to complete it, and a detailed breakdown of each field.
-
-The form is designed to gather information about job requests, including job type, paper size, envelope size, ink color, paper weight, job title, and a description of the job. The form will help in categorizing and tracking job requests, making it easier to manage and prioritize tasks.
-
-</thinking>
-
 # Creative Services Job Form - Help Guide
 ## Purpose
 The "Creative Services Job Form" is designed to gather information about job requests, allowing our team to efficiently manage and prioritize tasks. This form is used to capture essential details about each job, including job type, paper size, envelope size, ink color, paper weight, job title, and a description of the job.

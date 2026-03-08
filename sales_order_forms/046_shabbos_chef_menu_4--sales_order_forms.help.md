@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to collect information for sales orders, specifically the Shabbos Chef menu 4. This form is likely used to gather details about customer orders, including menu items, customer information, and order details. The form is designed to be completed by customers or sales staff to facilitate the processing of sales orders.
-
-To determine if this form is relevant and not duplicated, consider the following:
-
-- Is this form part of a larger sales process, such as an online ordering system or a sales pipeline?
-- Are there similar forms or processes in place for other menus or products?
-- Is this form part of a specific business or department's workflow, such as sales, customer service, or marketing?
-- Are there any established processes or protocols for handling customer orders or information already in place?
-
-If the answer is yes, the form is likely relevant. If not, it may be duplicated or unnecessary.
-</thinking>
-
 # shabbos_chef_menu_4 - Help Guide
 ## Purpose
 The shabbos_chef_menu_4 form is used to collect information for sales orders, specifically for the Shabbos Chef menu 4.

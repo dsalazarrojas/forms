@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Seminar RSVP - Help Guide
 ## Purpose
 The Seminar RSVP form is designed for attendees to confirm their attendance and provide necessary contact information for a seminar. It helps the organizers keep track of attendees and ensures accurate headcount for the event.

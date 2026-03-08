@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist vendors in completing the Heritage Festival Vendor RSVP Form. 
-
-The purpose of this form is to collect information from vendors that have registered to participate in the Heritage Festival. This includes details about the vendor, their product or service, and their participation status. 
-
-When completing this form, ensure that all required fields are filled out to avoid any issues with your registration. 
-
-Please review each field below for more information on how to complete it correctly.
-
-</thinking>
-
 # Heritage Festival Vendor RSVP Form - Help Guide
 ## Purpose
 The Heritage Festival Vendor RSVP Form is a mandatory registration form for vendors who want to participate in the Heritage Festival. This form collects information about the vendor, their product or service, and their participation status.

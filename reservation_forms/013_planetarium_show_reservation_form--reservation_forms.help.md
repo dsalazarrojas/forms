@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand the purpose and functionality of the Planetarium Show Reservation Form. The form is designed to gather information for show reservations, allowing customers to book shows and events at a planetarium. The form is not intended for other purposes, such as general contact or inquiry forms.
-
-</thinking>
-
 # Planetarium Show Reservation Form - Help Guide
 ## Purpose
 The Planetarium Show Reservation Form is a tool for customers to book and manage show reservations at a planetarium. This form allows customers to provide show details, contact information, and reservation status, enabling staff to efficiently manage reservations and communicate with customers.

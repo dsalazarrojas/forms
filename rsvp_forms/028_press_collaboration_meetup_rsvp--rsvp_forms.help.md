@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help individuals RSVP to a Press Collaboration Meetup and provide information about their attendance and needs. The form is intended for event organizers to collect relevant details from attendees, ensuring a smooth and inclusive event experience. 
-
-Form data will be used to create a comprehensive attendee list, facilitate communication, and provide necessary accommodations for participants with accessibility needs.
-
-Please note that each field is required for its respective section, marked as such in the form.
-
-</thinking>
-
 # Press Collaboration Meetup RSVP - Help Guide
 ## Purpose
 This form is used to RSVP to a Press Collaboration Meetup and provide information about your attendance and needs.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the process of electric power transfer requests. It's designed to gather the necessary information from the customer to ensure a smooth transition of services. The form should only be filled out once for each request. To avoid any confusion or errors, please make sure to fill out the form correctly and accurately.
-
-</thinking>
-
 # Electric Power Transfer Request Form - Help Guide
 ## Purpose
 

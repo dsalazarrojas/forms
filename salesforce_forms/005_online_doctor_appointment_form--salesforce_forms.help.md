@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to be an online platform for patients to schedule doctor appointments. It is intended for patients to provide their personal and appointment information, allowing doctors to prepare for the meetings accordingly. The form will be filled out by patients before meeting with their assigned doctor. This ensures that the doctor has all necessary information prior to the appointment, saving time for both parties. 
-
-</thinking>
-
 # online_doctor_appointment_form - Help Guide
 ## Purpose
 The online doctor appointment form is used by patients to provide their personal and appointment information to the assigned doctor before meeting with them. This form helps the doctor prepare for the meeting and saves time for both parties.

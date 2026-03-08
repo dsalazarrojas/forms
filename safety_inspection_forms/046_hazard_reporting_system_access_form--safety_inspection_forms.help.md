@@ -1,14 +1,3 @@
-<thinking>
-To confirm that the form purpose and instructions are correct, I'll review the YAML definition of the form and provide a brief internal reasoning block.
-
-Upon reviewing the YAML definition, I understand that the form is used to collect information about a Hazard Reporting System Access Form. This form is intended to gather data from employees to report hazards, near misses, and incidents in various facilities. The form collects data on the employee's details, facility information, reporting date and time, hazard description, report status, and other relevant details.
-
-The purpose of this form is to provide a systematic approach to gathering and reporting hazards, near misses, and incidents in the workplace, which can help identify and mitigate potential safety risks.
-
-The instructions for completing this form should be clear and concise, and the field-by-field explanation will be provided in the following sections.
-
-</thinking>
-
 # Hazard Reporting System Access Form - Help Guide
 ## Purpose
 The Hazard Reporting System Access Form is a systematic approach to gathering and reporting hazards, near misses, and incidents in the workplace. This form helps identify and mitigate potential safety risks by collecting relevant data from employees.

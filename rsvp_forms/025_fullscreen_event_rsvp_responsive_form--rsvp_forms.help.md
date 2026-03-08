@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be a responsive, full-screen form for RSVPs (Responding to Social Proof). The purpose of this form is to gather basic attendee information for an event, including their name, phone number, and email address. It also includes questions about whether they will attend the event, the date and time of the event, and space for additional comments or messages. This form is likely to be used for events such as concerts, conferences, or meetups, where RSVPs are necessary to gauge interest and plan for attendance.
-
-When filling out this form, please ensure you are providing accurate and clear information. If you need help with any of the fields, refer to this guide for assistance.
-
-</thinking>
-
 # Fullscreen Event RSVP Responsive Form - Help Guide
 ## Purpose
 This form is designed to gather basic attendee information for events, including guest details, event date, and additional comments.

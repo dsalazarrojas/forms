@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I will first analyze the provided YAML data.
-
-This form is designed to collect information related to orders for products displayed on retail shelves. The form fields appear to be standard business information fields, such as customer details and order-related information. However, a few fields have missing hints, which may indicate a need for further context or clarification.
-
-For example, "Product Id", "Product Name", and "Discount" fields lack hints, which might be crucial for users unfamiliar with the expected input format or business rules associated with these fields. "Order Notes" has a hint, but it would be helpful to explain what kind of information should be included in the field.
-
-To create a comprehensive help guide, it would be essential to ensure that each field has a clear and concise explanation, and any potential business logic or context is properly conveyed.
-
-The form's structure suggests it is intended for customers to place orders with details such as contact information, product details, and order notes. The "Retail Shelf Mirror Display Order Form" title implies that it might be used for mirroring or verifying existing display information.
-
-</thinking>
-
 # Retail Shelf Mirror Display Order Form - Help Guide
 ## Purpose
 

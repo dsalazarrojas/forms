@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal purpose of this form is to allow employees to report any safety hazards, particularly fire hazards, they encounter while working. The form is designed to gather information about the location of the hazard, the type of hazard, and any other relevant details that can aid in resolving the hazard promptly. To prevent duplication of effort, this guide is intended for end-users who are looking to learn how to correctly fill out the form to ensure that the safety team receives accurate and complete information.
 
 # Fire Hazard Report Contact Form - Help Guide

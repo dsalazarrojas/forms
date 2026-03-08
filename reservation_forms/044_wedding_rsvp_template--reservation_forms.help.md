@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide will provide an explanation of the "Wedding RSVP template" form and its fields. 
-
-The purpose of this form is to collect RSVPs (responses) from guests to a wedding event. The form will help the wedding planner to track and manage the guest list, including their attendance status, comments, and other relevant information.
-
-The form should not be used for other purposes and should only be used for RSVPs to a wedding event.
-
-</thinking>
-
 # Wedding rsvp template - Help Guide
 ## Purpose
 The purpose of this form is to collect RSVPs from guests to a wedding event, allowing the wedding planner to track and manage the guest list.

@@ -1,7 +1,3 @@
-<thinking>
-We are checking for relevance and duplication to ensure this guide is accurate and up-to-date. The form "Fire Safety Daily Work Report" is intended to collect information on the daily work activities and safety concerns related to fire safety in a facility. This form is likely to be used by facility staff or supervisors to report their daily work activities, identify potential safety risks, and document any necessary procedures or actions taken. It is possible that this form is part of a larger safety management system, but we will provide guidance based on the provided YAML fields.
-</thinking>
-
 # Fire Safety Daily Work Report - Help Guide
 ## Purpose
 The Fire Safety Daily Work Report is a form used to document and report daily work activities and safety concerns related to fire safety in a facility. This form helps to ensure that all staff and supervisors are aware of the current safety status of the facility and can take necessary actions to mitigate any risks identified.

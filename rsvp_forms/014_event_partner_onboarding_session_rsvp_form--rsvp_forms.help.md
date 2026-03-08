@@ -1,11 +1,3 @@
-<thinking>
-This form is used for RSVPs (Responses) to partner onboarding sessions. 
-It is designed to collect relevant information from partners about their participation in the onboarding session, 
-including their name, contact information, and response to the session. 
-This form should not be filled out if you have already completed the onboarding process, 
-as a confirmation will be sent to you separately.
-</thinking>
-
 # Event Partner Onboarding Session RSVP Form - Help Guide
 
 ## Purpose

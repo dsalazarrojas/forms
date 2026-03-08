@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing the yoni-therapys-vaginal-steam-intake-form form. This form is designed to collect information about the treatment type, date, outcome, and other relevant details for vaginal steam treatments. Before proceeding, please ensure that you have the necessary permissions and authority to complete this form. This form should not be used for any other purpose other than collecting data for vaginal steam treatments.
-</thinking>
-
 # yoni-therapys-vaginal-steam-intake-form - Help Guide
 ## Purpose
 The yoni-therapys-vaginal-steam-intake-form is designed to collect information from patients regarding their vaginal steam treatment experiences. This includes details on the type of treatment received, date of treatment, treatment outcome, current symptoms, treatment duration, frequency of treatments, previous experience with steam treatments, any comments, follow-up treatment, and next scheduled appointment.

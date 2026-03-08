@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from healthcare organizations seeking audit services related to the 340B Program. The 340B Program is a federal program that provides discounts on certain outpatient drugs to hospitals and other covered entities. This form helps the requesting organization to request audit services that meet their specific needs. 
-
-The form is meant to be completed by the primary contact person for the organization, who should provide accurate and relevant information about the organization's 340B Program audit request. 
-
-Please ensure that the submitted form does not duplicate previous audits or requests already processed by the same organization. If the form is incomplete or contains incorrect information, it may delay the processing of the audit request. 
-
-Ensure that you have permission to fill out this form on behalf of your organization. If the organization's 340B audit services request is accepted, the audit firm will be in contact with the person submitting this form to discuss further details.
-
-</thinking>
-
 # 340B Program Audit Services Request Form - Help Guide
 
 ## Purpose

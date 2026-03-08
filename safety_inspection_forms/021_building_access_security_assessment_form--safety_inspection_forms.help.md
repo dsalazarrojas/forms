@@ -1,6 +1,3 @@
-<thinking>
-This guide will explain the Building Access Security Assessment Form, which aims to help assess the security and safety of buildings and facilities. This form is designed for safety and security personnel to identify potential vulnerabilities and develop recommendations for improvements. It is essential that this form is completed by someone with knowledge of the facility's security and safety procedures. To ensure accuracy, the form should only be completed by authorized personnel. This guide will explain each field and help complete the form correctly. It is not intended to replace professional security and safety assessments.</thinking>
-
 # Building Access Security Assessment Form - Help Guide
 ## Purpose
 The Building Access Security Assessment Form is used to evaluate the security and safety of a building or facility. It helps identify potential vulnerabilities and provides recommendations for improvements.

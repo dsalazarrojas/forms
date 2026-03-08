@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide end-users with a clear understanding of the Meal Reimbursement Form and its purpose. The form is designed to assist employees in submitting reimbursement claims for meal expenses incurred during work-related activities. This form will guide users through the necessary steps to complete the form accurately and efficiently.
-</thinking>
-
 # Meal Reimbursement Form - Help Guide
 ## Purpose
 The Meal Reimbursement Form is used by employees to submit claims for meal expenses incurred during work-related activities. This form captures essential information about the meal expense, including date, employee details, and expense categories.

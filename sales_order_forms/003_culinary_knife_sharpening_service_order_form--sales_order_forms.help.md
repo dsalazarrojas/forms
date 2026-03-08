@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used by customers to order a culinary knife sharpening service. The purpose of this form is to collect information from customers about their knife sharpening needs, including their name, contact email, the number of knives to be sharpened, the type of service required (e.g., Basic, Deluxe, Premium), the frequency of sharpening (e.g., Daily, Weekly, Monthly), the date for drop-off and pick-up of the knives, and the payment method.
-The form is likely to be used by a business providing a service to customers who need their knives sharpened. The form is not likely to be used by a business selling products.
-The form is likely to be used in a B2B (Business-to-Business) or B2C (Business-to-Consumer) setting.
-The form is likely to be used by a business providing a service to individuals or businesses that require knife sharpening.
-</thinking>
-
 # Culinary Knife Sharpening Service Order Form - Help Guide
 ## Purpose
 This form is used to place an order for a culinary knife sharpening service. It collects information from customers about their knife sharpening needs, allowing the business to provide the service efficiently.

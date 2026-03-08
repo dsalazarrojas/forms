@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about occupational vibration exposure monitoring for employees. It's crucial that this form is only used for its intended purpose and not for other safety inspections. Please ensure that you're using this form for its primary function. If you're unsure about the form's purpose, double-check that you have the right form in front of you. This will help prevent duplication of effort and ensure accuracy in record keeping.
-</thinking>
-
 # occupational_vibration_exposure_monitoring_log - Help Guide
 ## Purpose
 This form is used to document and record employee exposure to occupational vibration. The goal of this form is to gather information about the type and frequency of monitoring, location, and other relevant details.

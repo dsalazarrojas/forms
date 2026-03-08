@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to register individuals for a specific event or service offered by Hillary Owen Church. It is likely for event planning, attendance, or service sign-up purposes. The form should only be used to gather relevant and necessary information for the intended event or service. If there is a need for additional forms, please create a new form with a distinct purpose to avoid duplication of effort and confusion.
-
-</thinking>
-
 # Hillary_Owen_Church_Registration_Form - Help Guide
 ## Purpose
 This form is used to register individuals for a specific event or service at Hillary Owen Church. It is intended to gather relevant information for event planning, attendance, or service sign-up purposes.

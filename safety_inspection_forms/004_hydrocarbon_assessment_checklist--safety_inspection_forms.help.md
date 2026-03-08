@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hydrocarbon Assessment Checklist - Help Guide
 ## Purpose
 The Hydrocarbon Assessment Checklist is a form designed to assess the risks associated with hydrocarbon storage and handling on your site. This form helps identify potential hazards, assess risks, and ensure that your site is prepared for emergency situations.

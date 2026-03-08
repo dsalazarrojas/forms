@@ -1,7 +1,3 @@
-<thinking>
-We're assuming the form is intended for businesses to provide information to insurance brokers or agents for quotes. To complete this form accurately, ensure you have access to necessary business information. Please review each field carefully before filling out this form. This form will help us gather information on your business, which will be used to provide an accurate quote for insurance coverage. We will not duplicate this form or share your data with others. Please fill out the form only once and for the specific purpose of receiving a quote.
-</thinking>
-
 # Business Insurance Quote Form - Help Guide
 
 ## Purpose

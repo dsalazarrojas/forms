@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information related to steel erection activities, specifically for safety inspection and authorization purposes. The form is designed to gather essential details such as project numbers, dates, and personnel involved in the steel erection process. The form will guide the user through the necessary fields to ensure accurate and comprehensive information is collected.
-</thinking>
-
 # Steel Erection Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information related to steel erection activities, including project details, personnel involved, and authorization.

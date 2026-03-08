@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to monitor and record fire safety conditions in a location. It's intended to be used by facility management or safety personnel to assess the presence of fire hazards, the condition of safety equipment, and the overall risk level of fires in the area. This information is crucial for taking proactive measures to mitigate potential fires and ensuring a safe environment for occupants. It's essential to fill out this form accurately and thoroughly to ensure that the information is up-to-date and reliable. If you're filling out this form for the first time, please read the instructions carefully and ensure you're familiar with the form's purpose and fields before proceeding.
-
-Please note that this form is not meant to be a comprehensive fire safety plan but rather a regular monitoring tool. If you're unsure about any of the questions or have concerns about fire safety in your area, please consult with your fire safety officer or relevant authorities.
-
-Also, if you've filled out this form before, please review your previous responses to ensure they are consistent and reflect any changes that have occurred since the last submission. Duplicate entries can cause confusion and make it difficult to track changes over time.
-
-</thinking>
-
 # Fire Safety Monitoring Form - Help Guide
 ## Purpose
 The Fire Safety Monitoring Form is a tool used to monitor and record fire safety conditions in a location.

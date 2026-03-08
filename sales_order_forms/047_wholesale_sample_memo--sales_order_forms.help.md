@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for wholesale samples, allowing users to provide details about the customer's order status and product information. It's essential to ensure that the form is filled out correctly to avoid any potential issues with order fulfillment or customer communication. Before proceeding, please review the form to ensure you have all the necessary information and haven't duplicated any previous submissions.
-</thinking>
-
 # Wholesale Sample Memo - Help Guide
 ## Purpose
 The **Wholesale Sample Memo** form is a tool used to provide detailed information about wholesale samples, which includes customer and product data.

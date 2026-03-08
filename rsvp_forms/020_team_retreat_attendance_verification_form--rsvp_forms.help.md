@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from team members about their attendance and preferences for a team retreat. The purpose of this form is to ensure that all necessary arrangements can be made for each participant, including accommodation, meal preferences, and other relevant details. This form is not meant to be completed by team members who are not attending the retreat, and it is essential to fill it out only once for each participant. By completing this form, team members can help facilitate a smooth and enjoyable experience for everyone at the retreat.
-</thinking>
-
 # Team Retreat Attendance Verification Form - Help Guide
 ## Purpose
 This form is used to collect information from team members about their attendance and preferences for a team retreat. It is essential to fill out this form to ensure that all necessary arrangements can be made for each participant.

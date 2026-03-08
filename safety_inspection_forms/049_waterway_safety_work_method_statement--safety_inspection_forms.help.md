@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information and documentation related to waterway safety work methods. As a safety inspector or project manager, you will likely be using this form to create and maintain accurate records of safety procedures, risks, and precautions for a specific waterway project. The purpose of this form is to provide a comprehensive overview of the safety aspects of the project, including potential hazards, safety measures, and emergency procedures. 
-
-This form may be used in conjunction with other project documents, such as the project plan and risk assessment report. It's essential to review and understand the form's fields to ensure accurate and complete submission of information. If you're unsure about any aspect of the form, please contact your project team or supervisor for clarification. Before proceeding, please ensure that you have reviewed all previous submissions and relevant project documents to avoid duplication of effort and ensure consistency in your responses.
-
-</thinking>
-
 # Waterway Safety Work Method Statement - Help Guide
 
 ## Purpose

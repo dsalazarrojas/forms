@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to assist in maintaining laboratory safety and compliance by ensuring that users declare their personal safety equipment, personal protective equipment, and other relevant safety and electrical equipment. This form helps in identifying potential safety risks and ensuring that necessary measures are taken to prevent accidents and injuries in a laboratory setting.
-
-This form is intended to be used by laboratory staff and students to declare their safety and equipment usage. It is essential to fill out this form accurately and completely to ensure that your safety and the safety of others is maintained in the laboratory.
-
-Please ensure you fill out this form correctly and thoroughly. If you are unsure about any of the information required, please consult your supervisor or laboratory safety officer.
-
-</thinking>
-
 # laboratory_safety_compliance_declaration_form - Help Guide
 ## Purpose
 The laboratory_safety_compliance_declaration_form is used to declare safety and equipment usage in a laboratory setting. This helps in maintaining a safe and compliant environment for all staff and students.

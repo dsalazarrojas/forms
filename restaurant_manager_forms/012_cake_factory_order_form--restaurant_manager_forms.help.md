@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Cake Factory Order Form", we need to consider the form's purpose, how to complete it, and what each field means. The form is designed to collect customer information, cake order details, and delivery/pickup information. To start, we need to consider the form's purpose and ensure it's not a duplicate effort.
-
-The form purpose is to collect information necessary to fulfill a cake order. The form has multiple sections: Customer Information, Cake Order Details, Delivery/Pickup, and Pricing and Payment. Each section is designed to collect specific information to ensure accurate and efficient order fulfillment.
-
-We should consider if there are any existing forms or processes that this form might be duplicating or if there are any specific requirements or regulations we need to follow while creating this guide.
-
-The form has several fields, each with a specific label, type, and required status. We'll need to ensure that each field is properly explained to the user.
-
-</thinking>
 # Cake Factory Order Form - Help Guide
 ## Purpose
 The Cake Factory Order Form is designed to collect information necessary to fulfill a cake order. This form has multiple sections: Customer Information, Cake Order Details, Delivery/Pickup, and Pricing and Payment. Each section is designed to collect specific information to ensure accurate and efficient order fulfillment.

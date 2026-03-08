@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for sales orders related to merchandising mannequins, which are custom-made mannequins or dolls used for various purposes, such as training, display, or entertainment. The form will collect information about the base product, mannequin, custom requests, shipping details, payment information, mannequin orders, customer info, shipping address, and sales information. The form is not affiliated with any form platform and is an original adaptation created by AI using public survey topic metadata as inspiration.
-
-This form is intended to help customers and sales teams efficiently collect and process orders, payment, and other relevant information. It's essential to ensure that all fields are correctly filled out to avoid delays or errors in processing.
-
-Before starting, please ensure that the form is not a duplicate and that you have the necessary permissions to complete it.
-
-</thinking>
-
 # Merchandising Mannequin Order Form - Help Guide
 ## Purpose
 The Merchandising Mannequin Order Form is designed to collect information about custom-made mannequins for sales orders. This form gathers details about the base product, mannequin, custom requests, shipping, payment, customer information, and sales information.

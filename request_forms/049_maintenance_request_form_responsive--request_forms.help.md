@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect maintenance requests from users. Before filling out this form, please ensure you are not duplicating a previous request. This form is meant for new, unique requests. If you have a previous request, please reach out to the maintenance team directly.
-</thinking>
-
 # Maintenance Request Form Responsive - Help Guide
 ## Purpose
 

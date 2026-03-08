@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that employees understand the importance of completing this form accurately and honestly, as it is used to track and verify that electrical safety training has taken place. This form helps us to:
-* Track who has completed the training, when they completed it, and what training location they attended.
-* Ensure that training hours are accurately recorded.
-* Identify any employees who have not completed the training, and take corrective action if necessary.
-</thinking>
-
 # electrical_hazard_safety_training_form - Help Guide
 ## Purpose
 This form is used to document and track the completion of electrical safety training for employees. It is essential to complete this form accurately and honestly to ensure that training is properly recorded and that employees are aware of their responsibility to maintain electrical safety.

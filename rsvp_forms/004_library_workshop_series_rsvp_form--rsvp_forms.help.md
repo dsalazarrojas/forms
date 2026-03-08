@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide will cover the process of completing the "Library Workshop Series RSVP Form".
-
-</thinking>
-
 # Library Workshop Series RSVP Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from attendees who are interested in attending the Library Workshop Series. This form will help us confirm their attendance, details such as name, email, and contact information, as well as workshop preferences like date, time, language, and location.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the vehicle-maintenance-request form is to collect information about a vehicle's maintenance needs. This form is designed to be filled out by vehicle owners to report any issues or defects they have identified with their vehicle. It is not intended to be used for other purposes.
-
-The vehicle-maintenance-request form is not a duplicate of any existing form. It is an original form created using AI-generated metadata and does not copy or extract content from any form platform.
-
-Before filling out this form, please ensure that you understand the purpose and the questions being asked. If you are unsure about any of the fields, please refer to this help guide for more information.
-
-</thinking>
-
 # vehicle-maintenance-request - Help Guide
 ## Purpose
 The vehicle-maintenance-request form is a tool for vehicle owners to report any issues or defects they have identified with their vehicle. This form helps to gather detailed information about the vehicle's condition, allowing the maintenance team to provide a more accurate diagnosis and repair estimate.

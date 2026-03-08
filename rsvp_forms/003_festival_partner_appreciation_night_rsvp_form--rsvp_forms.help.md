@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from festival partners who would like to attend the Festival Partner Appreciation Night event. The form will help us track which partners are attending, what their guest(s) information is, and any personal messages they'd like to share. Please ensure you only submit one form per partner or guest. If you're unsure about any field, please don't hesitate to contact us.</thinking>
-
 # Festival Partner Appreciation Night RSVP Form - Help Guide
 ## Purpose
 This form is designed to help us track which festival partners and their guests will be attending the Festival Partner Appreciation Night event. 

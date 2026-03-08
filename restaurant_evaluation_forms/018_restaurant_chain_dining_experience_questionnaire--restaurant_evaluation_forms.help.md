@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather feedback on the dining experience of a customer in a restaurant chain. The purpose of this form is to collect data on the customer's overall experience, including the quality of the food and service, the value for money, and any additional comments they may have. By completing this form, customers can help the restaurant chain understand their strengths and weaknesses and make improvements to provide better service.
-
-This form is likely to be used in conjunction with other feedback mechanisms and data analysis to inform business decisions. Therefore, please be sure to provide clear and concise comments to help us understand your experience.
-
-To avoid duplicate submissions, please do not fill out this form if you have already submitted feedback on the same restaurant chain in the past.
-
-</thinking>
-
 # Restaurant Chain Dining Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback on the dining experience of a customer in a restaurant chain. It is used to collect data on the quality of food, service, and overall experience, as well as any recommendations or additional comments the customer may have.

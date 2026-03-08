@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Fire Alarm System Order Form - Help Guide
 
 ## Purpose

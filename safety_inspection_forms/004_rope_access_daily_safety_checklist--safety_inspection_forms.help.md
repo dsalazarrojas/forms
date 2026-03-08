@@ -72,6 +72,3 @@ To complete the form, follow these steps:
 </figure> 
 
 <figure>
-<thinking>
-This form is designed to be used in rope access work settings, where safety is paramount. The purpose of this form is to ensure that rope access technicians and their team members are properly prepared and equipped for the work at height. This form helps in identifying potential hazards and risks associated with rope access work and provides an opportunity for the worker to confirm their understanding of safety procedures and protocols before starting work.
-</thinking>

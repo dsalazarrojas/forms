@@ -1,7 +1,3 @@
-<thinking>
-This form is for documenting an employee's return to work after an absence. It's essential to use this form when an employee has been absent from work due to a valid reason, such as illness, family emergency, or vacation. Before filling out the form, ensure you are not duplicating an already existing instance of this form for the same employee. If you are unsure about the purpose of this form or if you've already submitted a similar form for the same employee, please contact your supervisor or HR representative for clarification.
-</thinking>
-
 # Return To Work Letter - Help Guide
 ## Purpose
 

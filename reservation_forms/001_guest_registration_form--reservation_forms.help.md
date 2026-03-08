@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Guest Registration Form - Help Guide
 
 ### Purpose

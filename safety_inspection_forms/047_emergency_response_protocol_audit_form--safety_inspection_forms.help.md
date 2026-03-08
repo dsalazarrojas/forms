@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document the general information and details related to emergency response protocols. It is intended to gather data on the location, response protocol name, document, follow-up dates, and follow-up times for auditing and quality control purposes. Before filling out this form, please ensure that you are in the correct context and that the information you provide is accurate. To prevent duplication, please check if a similar form has already been filled out in the past.
-
-</thinking>
-
 # emergency_response_protocol_audit_form - Help Guide
 ## Purpose
 The emergency response protocol audit form is used to gather information and data related to emergency response protocols. This form is designed to help in auditing and quality control processes.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users responsible for conducting monthly safety inspections on fire alarm systems. It is crucial to follow this procedure to ensure the systems are functioning correctly. Please note that this form may need to be adapted for your specific use case, and the instructions below should be reviewed carefully before using the form. If you're unsure about any aspect of the form, please consult with your supervisor or someone familiar with the process. This guide will walk you through each field and provide step-by-step instructions on how to complete the form accurately.
-</thinking>
-
 # Fire Alarm System Monthly Check - Help Guide
 ## Purpose
 The purpose of this form is to document the monthly safety inspection of the fire alarm system in your facility. This includes checking the system's status, testing its functionality, and recording important details about the inspection process.

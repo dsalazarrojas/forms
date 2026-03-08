@@ -1,23 +1,3 @@
-<thinking>
-This is a help guide for the "Noths_Ark_Restaurant_Reservation_Form" form. This form is designed to collect information from users for restaurant reservations. To ensure accurate and complete submissions, please make sure to understand the purpose and requirements of this form.
-
-When filling out this form, please be aware that some fields are not required, but may still be necessary for the restaurant to process your reservation request. The form is divided into several sections that guide you through the necessary information for a successful reservation.
-
-Please note that the form is divided into the following sections:
-
-* First Name: This field is for your first name.
-* Email: This field is for your email address.
-* Phone: This field is for your phone number.
-* Check In Date: This field is for the date you plan to check in.
-* Check In Time: This field is for the time you plan to check in.
-* Reservation Date: This field is for the date of your reservation.
-* Number of Guests: This field is for the number of people in your group.
-* Special Request: This field is for any special requests or notes you have.
-* Reservation Status: This field is for indicating the status of your reservation.
-* Number of Children: This field is for the number of children in your group.
-
-</thinking>
-
 # Noths_Ark_Restaurant_Reservation_Form - Help Guide
 ## Purpose
 The "Noths_Ark_Restaurant_Reservation_Form" is designed to collect information from users for restaurant reservations.

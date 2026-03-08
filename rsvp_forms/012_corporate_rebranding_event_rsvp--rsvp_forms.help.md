@@ -1,17 +1,3 @@
-<thinking>Before creating this help guide, I checked the internal reasoning block to understand the purpose and structure of the form. The form is used to collect RSVPs (Responses to the invitation to attend an event) for a corporate rebranding event, which likely involves updating the company's branding and identity. This form is designed to gather important information from attendees, such as their event details, contact information, and special requests. The form is likely to be used by event organizers to prepare for the event and ensure that all necessary arrangements are made.
-
-Upon examining the form, I identified the fields as follows:
-- Event Details: This section likely contains information about the event itself, such as date, time, and location.
-- RSVP Details: This section is used by the attendee to provide their own RSVP information, including RSVP method and date/time.
-- Company Information: This section is used to collect information about the company hosting the event.
-- Guest Management: This section allows attendees to select which guests they are bringing.
-- Special Requests: This section is for attendees to mention any special requests they have.
-- RSVP Date/Time: This section is to record the date and time of the RSVP.
-- RSVP Method: This section is to record the method used for RSVP (e.g., email, phone, etc.).
-- Comments: This section is for any additional comments or notes about the event.
-
-Given this understanding, I will create the help guide as requested.</thinking>
-
 # Corporate Rebranding Event RSVP - Help Guide
 
 ## Purpose

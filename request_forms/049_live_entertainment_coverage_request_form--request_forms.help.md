@@ -1,7 +1,3 @@
-<thinking>
-We're designing a help guide for the "Live Entertainment Coverage Request Form". This form is intended to collect information about live events, such as concerts, festivals, and live events, that require media coverage. The form is used to request coverage from a media outlet or publication. It's essential to ensure that the form is filled out accurately to provide the required details to the media outlet, and to avoid submitting duplicate requests. Before filling out this form, please review the fields carefully and ensure that you are submitting a new request.
-</thinking>
-
 # Live Entertainment Coverage Request Form - Help Guide
 
 ## Purpose

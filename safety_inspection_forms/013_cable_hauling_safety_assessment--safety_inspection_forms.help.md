@@ -1,12 +1,3 @@
-<thinking>
-This is a form for collecting safety data related to cable hauling systems. The form appears to be used for assessing the safety of cable hauling systems on a construction site or project location. The questions cover various aspects of the system's safety, including the condition of the cable, anchor points, tension, and safety devices. The form also includes fields for recording any hazards identified, corrective actions required, and an overall safety assessment. The form is likely used by safety inspectors to evaluate the safety of the cable hauling system and identify potential risks. 
-
-To ensure accurate and comprehensive data collection, it is essential to understand the correct answers to each field. This form seems to have been designed with that goal in mind. If you are unsure about any aspect of this form, please refer to the provided instructions or seek guidance from the relevant authorities.
-
-Before proceeding, ensure that you have the necessary permissions to fill out this form and that it is being used within its intended purpose.
-
-</thinking>
-
 # Cable Hauling Safety Assessment - Help Guide
 ## Purpose
 The Cable Hauling Safety Assessment form is designed to evaluate the safety of cable hauling systems in various locations. The form ensures that all necessary checks are performed to guarantee the safe operation of the system.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect essential information from clients who are requesting custom artwork. By providing this information, clients can effectively communicate their needs and requirements for the project, which will help the designers create high-quality artwork that meets their expectations.
-
-To avoid any potential issues, please ensure that you are completing this form only for the purpose of requesting custom artwork and not for any other reason. If you are a design company or organization looking to hire a designer for an external project, please use our "Request for Quote" form instead.
-
-This form will only be used for internal purposes and will not be shared or displayed externally. The information collected will be reviewed and evaluated internally to ensure that the artwork meets the client's requirements and is delivered within the specified deadline.
-
-Before you start, please make sure you have all the required information handy to provide the best possible answers.
-</thinking>
-
 # Artwork Request Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients requesting custom artwork. Please fill out the form completely and accurately to ensure the artwork meets your expectations.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from customers who want to purchase a retail tablet display stand. The form is likely to be used for online sales and order processing. I will assume that each field is designed to collect specific information from the customer. I will provide clear and concise explanations for each field, making sure to cover all the required and optional fields. I will not invent any business logic or assumptions, but instead, explain each field based on its label and provided type.
-
-</thinking>
-
 # Retail Tablet Display Stand Order Form - Help Guide
 ## Purpose
 This form is designed for customers to provide their order details and information for a retail tablet display stand purchase.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect and document information about operational safety incidents. This form is used to report incidents that have occurred during work hours, and it helps to gather essential details about the incident, including its date, time, location, description, root cause, corrective and preventive actions, type, personnel involved, witnesses, and status. It's crucial to complete this form accurately and thoroughly to ensure that incidents are properly documented and addressed to maintain a safe working environment.
-
-Before starting to fill out this form, ensure that you're reporting a legitimate incident that hasn't already been reported. If you're unsure, please contact your supervisor or HR representative for guidance.
-
-</thinking>
-
 # operational_safety_incident_report - Help Guide
 ## Purpose
 The operational safety incident report form is used to document and record incidents that occur during work hours, helping to ensure a safe working environment and enabling prompt action to be taken in response to such incidents.

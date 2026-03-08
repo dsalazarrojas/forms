@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to capture sales orders for the November Good Hart pre-order. As a sales team member, it's crucial to fill out this form accurately to ensure timely and successful fulfillment of customer orders. Please note that some fields may seem optional, but providing accurate information is essential for efficient order processing. This form serves as a guide to help you navigate the required and optional fields for a smooth and successful pre-order process.
-
-</thinking>
-
 # november_good_hart_pre_order - Help Guide
 ## Purpose
 The "november_good_hart_pre_order" form is a crucial document for sales team members to capture customer information, shipping details, and order specifics for the November Good Hart pre-order. This guide will walk you through each field, ensuring you provide accurate and complete information for successful order fulfillment.

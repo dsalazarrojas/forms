@@ -1,8 +1,3 @@
-<thinking>
-This form is used for reporting public transit safety incidents. The purpose of this form is to collect information about an incident that occurred during a public transit operation. This information will be used to track and analyze safety incidents, identify contributing factors, and prevent similar incidents in the future.
-Before proceeding, please ensure that you are filling out this form for an incident that has actually occurred. If you are unsure whether an incident has occurred or is still under investigation, please do not fill out this form. To avoid duplication, only fill out this form once per incident.
-</thinking>
-
 # public_transit_safety_incident_form - Help Guide
 
 ## Purpose

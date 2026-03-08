@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from customers after an order has been placed. It's intended for the customer to share their thoughts and experiences regarding their recent order. This form should only be used for orders that have already been fulfilled. If the customer has not yet received their order, please use the contact us form or call our customer support line.
-
-This form will ask for customer details such as name, order date/time, order total, feedback question, photo question, order comments, customer email, and customer phone number. However, please note that some fields may not be required for the customer to complete.
-
-To prevent abuse and maintain data quality, we've set some fields to be optional. This is because the customer may not have all the information available at the time of submission. Please be aware of this when reviewing customer responses.
-
-Before submitting, please make sure you have the customer's permission to share their personal data with our team.
-</thinking>
-
 # thank_you_insert_order_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from customers after an order has been placed.

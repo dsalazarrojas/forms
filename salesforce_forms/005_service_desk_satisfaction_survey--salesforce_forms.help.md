@@ -1,7 +1,3 @@
-<thinking>
-The service desk satisfaction survey form is designed to gather feedback from customers or users about their experiences with the service desk. This form helps identify areas of improvement and ensures that the service desk team is meeting customer expectations. To complete this form, users will be guided through a series of questions that cover different aspects of their interaction with the service desk. The form is divided into two pages, and users will be able to provide feedback on their experience, including the type of issue encountered, the description of the issue, the date they first connected to us, the date they last connected to us, their preferred method of communication, and a summary of their overall experience. This form is not intended for immediate action or resolution, but rather for gathering feedback to improve the service desk process.
-</thinking>
-
 # service_desk_satisfaction_survey - Help Guide
 ## Purpose
 The service desk satisfaction survey is a tool used to gather feedback from customers or users about their experiences with the service desk. This form helps identify areas of improvement and ensures that the service desk team is meeting customer expectations.

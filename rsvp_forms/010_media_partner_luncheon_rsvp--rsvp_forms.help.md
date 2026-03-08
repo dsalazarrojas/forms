@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Media Partner Luncheon RSVP" form, which is used to gather information from media partners for a luncheon event. The form is crucial for ensuring that the necessary details are collected from attendees, including their name, dietary preferences, guest count, and other relevant information. To avoid duplication, we should check if the form has been filled out before, and if so, prompt the user to review and resubmit. The form should be completed with care to ensure accurate and complete information is provided. This guide will walk the user through the form fields and provide clear explanations for each field to ensure they understand the purpose and importance of the data collected.
-</thinking>
-
 # Media Partner Luncheon RSVP - Help Guide
 ## Purpose
 The Media Partner Luncheon RSVP form is designed to collect essential information from media partners attending a luncheon event. This form helps us ensure that we have an accurate headcount and understand each attendee's preferences and requirements.

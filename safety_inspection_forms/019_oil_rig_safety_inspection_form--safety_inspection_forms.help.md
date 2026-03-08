@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to be used by oil rig operators to conduct regular safety inspections and ensure that the rig is in a safe and compliant state. This form is intended to be used in conjunction with regulatory requirements and industry standards to identify areas for improvement and take corrective action when necessary. This guide is meant to help the operator complete the form accurately and consistently.
-
-Before starting, please ensure that you have all relevant information and materials necessary to complete the form. This includes access to the relevant regulatory requirements and industry standards, as well as any relevant documentation or records.
-
-This form is not intended to be used as a substitute for thorough and accurate documentation and record-keeping. It is also not intended to be used as a substitute for proper training and certification of personnel.
-
-Before starting, please verify that you have not completed this form in the past and that you are not currently completing it. This will help to prevent duplication and ensure that the form is completed accurately and consistently.
-
-</thinking>
-
 # Oil Rig Safety Inspection Form - Help Guide
 ## Purpose
 This form is used by oil rig operators to conduct regular safety inspections and ensure that the rig is in a safe and compliant state.

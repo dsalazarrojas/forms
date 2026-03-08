@@ -1,17 +1,3 @@
-<thinking>...
-
-The "robotics_vision_lens_order_form" is a sales form used to capture customer and order information for robotic vision lenses. This form is designed to be completed by customers, sales representatives, or other authorized personnel. To ensure accurate and complete order submissions, it's essential to fill out the form correctly.
-
-When using this form, please note that:
-
-*   The form has multiple pages, each with different fields.
-*   All fields are text input fields, except for "Lens Selection" which is a dropdown select_one field.
-*   Certain fields are required, but others are optional.
-
-This form is intended to be used in a B2B (business-to-business) setting, typically with sales representatives or customers interacting with each other directly.
-
-</thinking>
-
 # robotics_vision_lens_order_form - Help Guide
 ## Purpose
 The "robotics_vision_lens_order_form" is designed to capture customer and order information for robotic vision lenses.

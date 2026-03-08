@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Cocktail Event RSVP" form. To ensure the form is completed accurately and efficiently, it is essential to understand its purpose and each field's significance. The form is designed to gather essential information from guests attending the cocktail event, including their contact details, preferences, and RSVP status. 
-
-To prevent errors, double-check that the required fields are completed accurately. This includes the guest's name, email address, RSVP response, number of guests attending, and RSVP date. The form also requests optional information, such as the guest's organization, phone number, and LinkedIn profile, to facilitate networking and event organization. 
-
-Ensure that the fields are filled out according to the provided instructions and hints. For example, if a guest's phone number is not provided, it may affect their ability to be contacted about the event. Similarly, if a guest selects "Yes, I will attend" but does not provide a number of guests, it may lead to confusion during event organization. 
-
-The form is designed to be completed in a specific order, with each section serving as a logical progression of the information gathering process. This guide will outline each field and its purpose to ensure that the form is completed accurately and efficiently.
-
-</thinking>
-
 # Cocktail Event RSVP - Help Guide
 ## Purpose
 The "Cocktail Event RSVP" form is designed to collect information from guests attending the event, including their contact details, preferences, and RSVP status.

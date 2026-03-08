@@ -1,7 +1,3 @@
-<thinking>
-This is a sales onboarding assessment form designed to help sales teams onboard new team members and assess their sales skills and knowledge. The form collects data on the team member's sales data, product data, sales process, sales strategy, sales tactics, and sales tech stack. This form is intended for internal use within the sales team, and its completion is not mandatory. 
-</thinking>
-
 # Sales Onboarding Assessment Form - Help Guide
 ## Purpose
 The Sales Onboarding Assessment Form is a tool used by the sales team to evaluate the skills and knowledge of new team members.

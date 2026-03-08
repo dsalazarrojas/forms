@@ -1,7 +1,3 @@
-<thinking>
-Checking the YAML input for the Renewable Energy Campus Booking Form, the form appears to be designed to collect reservation data for campus visits. It seems to be used for various purposes such as general tours, educational visits, events, or other specific reasons. The form also requests contact details, group size, visit dates, preferred date, start and end times, and any additional comments or notes. To prevent form duplication, it's likely that this form will serve as a single point of entry for users to schedule their visits. This assumption is based on the fact that it contains a submit option which indicates a clear action (submit) that users must confirm, making it less likely that this form will be used to collect information for multiple purposes.
-</thinking>
-
 # Renewable Energy Campus Booking Form - Help Guide
 ## Purpose
 The Renewable Energy Campus Booking Form is used to collect reservation data for campus visits. It can be used for a variety of purposes such as general tours, educational visits, events, or other specific reasons.

@@ -1,15 +1,3 @@
-<thinking>
-
-**Internal Note:**
-
-This form is intended to gather information about attendees' responses to a wedding invitation. It collects details such as name, number of people attending, and a message from each attendee, as well as the RSVP status and date of the submission. The form also allows attendees to select multiple guests and specify the time and date of their attendance. The form is likely used by wedding planners or hosts to track RSVPs and plan for the event.
-
-**Form Duplication Check:**
-
-Please ensure you have not already submitted this form before proceeding, as duplicate submissions may cause confusion and affect the accuracy of the tracking.
-
-</thinking>
-
 # Wedding Attendance - Help Guide
 ## Purpose
 

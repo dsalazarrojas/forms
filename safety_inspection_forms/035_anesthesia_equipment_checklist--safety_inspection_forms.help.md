@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to check if form purpose and content is relevant and not duplicated elsewhere ...
-
-Form purpose is to collect information on the status of anesthesia equipment, specifically oxygen supply, suction, monitors, and other critical equipment. This form ensures that the equipment is functioning correctly and is safe for use. It's a critical form for medical professionals to assess the status of equipment and identify any issues that need to be addressed. 
-
-Form fields should be explained clearly and concisely to the end user, and any unclear field labels should be addressed accordingly. 
-
-</thinking>
-
 # Anesthesia Equipment Checklist - Help Guide
 ## Purpose
 This form is designed to collect information on the status of anesthesia equipment, ensuring that it is functioning correctly and is safe for use. Medical professionals use this form to assess the status of critical equipment, such as oxygen supply, suction, and monitors, and to identify any issues that need to be addressed.

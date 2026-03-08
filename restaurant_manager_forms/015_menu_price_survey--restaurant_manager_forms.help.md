@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "menu_price_survey" form. The purpose of this form is to gather information about the menu prices of a restaurant. It is used to collect data from customers or managers to better understand how customers perceive the prices of the menu items. This form is meant to be completed by restaurant managers or staff members to report on customer feedback and perceptions of menu prices.
-</thinking>
-
 # menu_price_survey - Help Guide
 
 ## Purpose

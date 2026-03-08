@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information for production space reservations, which are used for various purposes such as meetings, workshops, or presentations. This form will be used by studio users and administrators to reserve spaces, manage schedules, and track reservations. To ensure that reservations are accurate and up-to-date, please complete this form carefully and make sure to check the "Reserved Status" field is set to "Awaiting" before submitting the form. Also, double-check that the "Reserved By" and "Reserved Until" fields are correct. Note: This form is not intended for duplicate reservations.
-</thinking>
-
 # Production Space Reservation Form - Help Guide
 ## Purpose
 The Production Space Reservation Form is used to reserve production spaces for meetings, workshops, or presentations.

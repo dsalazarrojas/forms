@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I need to analyze the form's purpose, structure, and requirements. Based on the provided YAML fields, it appears that this form is designed to register shooters for a range or event, collecting information about the shooter's identity, visit details, and other relevant data. This form likely serves as a registration tool for the range administration to manage shooter records.
-
-The form contains various fields, including text fields for shooter's city, name, phone, and range, select fields for visitor type, target type, and shooter type, and time fields for shoot time and shoot time frame. The form also contains options for shooter visitor type and shooter target.
-
-</thinking>
-
 # Range Time Registration Form - Help Guide
 ## Purpose
 The Range Time Registration Form is a tool designed for shooters to register themselves for a range or event. This form collects information about the shooter's identity, visit details, and other relevant data.

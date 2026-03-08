@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # nutrition_workshop_rsvp_form - Help Guide
 ## Purpose
 The purpose of this form is to collect RSVP (response to an invitation) information from participants for the Nutrition Workshop. This form allows participants to provide their name, email address, phone number, preferred workshop date and time, and whether or not they plan to attend. The form helps us understand who is coming and make necessary arrangements.

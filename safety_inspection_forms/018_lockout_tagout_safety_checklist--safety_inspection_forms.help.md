@@ -1,7 +1,3 @@
-<thinking>
-The "Lockout Tagout Safety Checklist" form is a crucial tool for ensuring that maintenance and facilities operations are performed safely, preventing accidental machine start-up and potential harm to workers. This form helps in organizing and monitoring the lockout/tagout process, making it easier to identify and address any safety issues. The form is relevant for any organization that performs maintenance and facilities tasks.
-</thinking>
-
 # Lockout Tagout Safety Checklist - Help Guide
 ## Purpose
 The Lockout Tagout Safety Checklist is designed to ensure that all maintenance and facilities operations are performed with safety in mind, preventing potential harm to workers and equipment. This form helps in organizing and monitoring the lockout/tagout process.

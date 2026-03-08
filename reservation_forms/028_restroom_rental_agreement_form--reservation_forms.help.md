@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information necessary for the rental of a restroom facility. The information includes event details, rental period, location, price, payment method, approval status, contact person, contact email, contact phone, approval person, approval date and time, approval location, approval comments, customer information, address, city, state, country, post office code, customer notes, and customer comments.
-Before filling this form, please make sure you have all the necessary information and that the form is relevant to your needs. If you are a customer seeking to rent a restroom, this form is intended to gather your reservation and contact information. If you are a manager or administrator, this form is meant to collect and track rental requests and approvals.
-</thinking>
-
 # Restroom Rental Agreement Form - Help Guide
 ## Purpose
 This form is designed to collect information necessary for the rental of a restroom facility. It is intended for customers seeking to rent a restroom and for managers/administrators to collect and track rental requests and approvals.

@@ -1,6 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Salesforce Account Form that explains its purpose, how to complete it, and what each field means. This form is for capturing information about sales accounts, and it seems that most fields are optional. This form might be for internal use within the organization, but it's designed for users to input data about various types of sales-related accounts. The form appears to be used for data collection and perhaps for updating existing account records. However, some fields have unclear labels or purposes, such as "Account Notes" and "Account Status Updated By", which may not be immediately apparent to the user. This guide should aim to clarify these fields and provide clear, concise instructions for filling out the form. We also need to be aware that some fields seem to be for tracking dates, but without further context, these may be confusing to users. Overall, our guide should aim to be concrete, practical, and friendly to users.</thinking>
-
 # Salesforce Account Form - Help Guide
 ## Purpose
 This form is for capturing information about sales accounts. It is intended to be used for data collection and perhaps for updating existing account records.

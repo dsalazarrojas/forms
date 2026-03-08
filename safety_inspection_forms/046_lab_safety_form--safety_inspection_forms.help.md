@@ -1,27 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Lab Safety Form, we need to consider the following fields and their respective purposes. 
-
-This form is designed to gather information about a laboratory inspection, including contact information, facility details, and safety concerns. The form is likely used by facility managers or safety inspectors to report on the safety conditions of a laboratory.
-
-The form has the following fields: 
-
-*   Contact Information: This field is meant to capture the contact details of the person filling out the form, which will likely be the facility manager or the person in charge of the laboratory.
-*   Facility Name: This field is for the name of the facility being inspected, which will help identify the location and organization of the laboratory.
-*   Contact Person: This field is for the person responsible for the facility, who can be contacted for further information or follow-up actions.
-*   Facility Address: This field is for the physical address of the facility, which will help identify the location of the laboratory.
-*   Safety Inspector: This field is for the person conducting the safety inspection, who can be a facility employee or a third-party inspector.
-*   Date of Visit: This field is for the date when the inspection took place, which is an important date for record-keeping purposes.
-*   Time of Visit: This field is for the time when the inspection occurred, which can help in scheduling future visits.
-*   Facility Condition: This field is for selecting the current condition of the facility, which can be used to assess the level of safety compliance.
-*   Hazards Identified: This field is for listing any hazards or safety concerns identified during the inspection, which can help prioritize corrective actions.
-*   Actions Taken: This field is for documenting any actions taken to address the identified hazards, which can be used for follow-up purposes.
-*   Follow Up: This field is for any additional information or follow-up actions required, which can help track progress.
-*   Next Visit: This field is for scheduling the next visit or inspection, which can help in tracking and maintaining a regular inspection schedule.
-
-The form is designed to be filled out by the safety inspector or facility manager, and the information will be used to assess and improve the safety conditions of the laboratory.
-
-</thinking>
-
 # Lab Safety Form - Help Guide
 ## Purpose
 The Lab Safety Form is designed to gather information about a laboratory inspection, including contact information, facility details, and safety concerns. This form is used to assess and improve the safety conditions of the laboratory.

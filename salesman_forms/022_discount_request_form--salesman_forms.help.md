@@ -1,7 +1,3 @@
-<thinking>
-**Internal note:** This form, "Discount Request Form", is used to request discounts from the sales team. It is likely used in situations where a customer wants to inquire about or request a discount on a product or service. This form should be used by customers to provide relevant information about themselves, such as their name, email, and phone number, to facilitate communication and discount negotiations. It is also used to gather information about the discount being requested, including the date and time of the request. To prevent duplication of effort, the form should only be submitted once the customer has thoroughly reviewed the fields and ensured that all necessary information is accurate and complete. 
-</thinking>
-
 # Discount Request Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for individuals to RSVP to the St. Patrick's Day Event. To ensure accurate tracking, it is recommended that each user only fills out the form once. If you need to RSVP with multiple individuals or events, please fill out this form multiple times.
-
-</thinking>
-
 # St. Patrick's Day Event Registration - Help Guide
 ## Purpose
 This form is used to collect information for individuals to RSVP to the St. Patrick's Day Event.

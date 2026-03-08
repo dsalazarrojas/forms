@@ -1,11 +1,3 @@
-<thinking>
-This form is for placing pre-orders for the Matilda Jane February 2022 collection. 
-The form is used to gather information from customers, including their name, contact details, order date, product details, shipping information, and payment method. 
-The form is intended to be filled out by customers who wish to pre-order the Matilda Jane collection. 
-This form is not intended for customers who have already placed an order for the same collection. 
-Please ensure you are not placing a duplicate order. 
-</thinking>
-
 # Matilda Jane February 2022 Pre Order Form - Help Guide
 ## Purpose
 This form is for customers to pre-order the Matilda Jane collection. Please fill out the form with your required information.

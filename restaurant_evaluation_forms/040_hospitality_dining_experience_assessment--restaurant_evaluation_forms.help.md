@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their dining experience at our restaurant. It's crucial that users answer this form to help us improve our services. Please ensure that the information provided is accurate and complete. If you have already completed this form, please do not submit duplicate responses. Your input will help us make informed decisions about our business.
-</thinking>
-
 # Hospitality Dining Experience Assessment - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their dining experience at our restaurant.

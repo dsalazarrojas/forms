@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Alumni Sports Event RSVP Form, ensuring that all relevant information is collected to make the event a success. Please review the provided form fields to understand their relevance to the event organizers and attendees. Before proceeding, ensure that you've reviewed all sections carefully to provide accurate and complete responses.
-</thinking>
-
 # Alumni Sports Event RSVP Form - Help Guide
 ## Purpose
 The Alumni Sports Event RSVP Form is designed to collect essential information from attendees to plan and execute the event successfully. This guide will walk you through each section and field of the form to help you complete it effectively.

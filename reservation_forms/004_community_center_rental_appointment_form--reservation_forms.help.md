@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to help event organizers and planners submit a rental request for the community center. The form gathers essential information about the event, including details about the renter, the event type, and the specific requirements for the event. The form is designed to ensure that the community center has all the necessary information to process the rental request efficiently and effectively. The form is not intended to be used for other purposes, such as creating a public event listing or marketing materials. Please note that some fields are marked as required, which means that they must be filled in for the form to be submitted successfully. If a field is marked as required, please ensure that you fill it in accurately and completely... </thinking>
-
 # Community Center Rental Appointment Form - Help Guide
 ## Purpose
 The purpose of this form is to help event organizers and planners submit a rental request for the community center. It is used to gather essential information about the event, including details about the renter, the event type, and the specific requirements for the event.

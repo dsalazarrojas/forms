@@ -1,11 +1,3 @@
-<thinking>
-We are creating a help guide for the "Restaurant Customer Preferences Information Form". This form is designed to collect valuable information about customers' preferences, dietary needs, and experiences to help restaurants provide better service and catering to their customers' requirements. 
-
-This form will be used by customers to provide their details and preferences when booking a table or making a reservation at the restaurant. By completing this form, customers can indicate their preferred dining experience, dietary needs, and other important information that will help the restaurant to serve them better.
-
-We will check for duplication of such form and make sure it's not used for other purpose or for non-relevant use cases. This form's main goal is to enhance the customer experience and build a relationship between the customer and the restaurant. We are not sure if this form will be used for non-relevant purposes. However, it's good that we are being cautious.
-</thinking>
-
 # Restaurant Customer Preferences Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about your preferences and needs so that we can provide you a better dining experience at our restaurant.

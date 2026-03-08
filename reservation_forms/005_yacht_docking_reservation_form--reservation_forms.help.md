@@ -1,7 +1,3 @@
-<thinking>
-This form is a Yacht Docking Reservation Form. Its purpose is to collect information from users who wish to make a reservation for docking their yacht. The form likely serves a marina or docking facility, and the information collected will be used to manage the reservations and coordinate with the users. The form appears to be a standard form that asks for basic user information (name, email, phone), a date and time for the reservation, and some specific details about the yacht such as slip size and marina name. There are also fields for notes and reservation start and end times, which might be related to the reservation duration or specifics of the service provided. The form likely doesn't store or process sensitive or financial information, as it's not specified to be required, and the fields types are basic text, email, phone, and select options. The form seems to be designed for a simple and straightforward reservation process.
-</thinking>
-
 # Yacht Docking Reservation Form - Help Guide
 ## Purpose
 This form is designed to help yacht owners and users make a docking reservation at a marina or docking facility.

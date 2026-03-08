@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the Annual Dinner Reservation Form, which is used to gather details about attendees for a special event. It's essential to ensure that the information is accurate and complete to ensure a smooth and enjoyable experience for all attendees. The form should not be completed by anyone other than a confirmed attendee.
-</thinking>
-
 # Annual Dinner Reservation Form - Help Guide
 ## Purpose
 This form is used to gather details about attendees for a special event, ensuring a smooth and enjoyable experience for all.

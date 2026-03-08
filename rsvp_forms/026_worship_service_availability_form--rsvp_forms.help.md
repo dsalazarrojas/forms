@@ -1,12 +1,3 @@
-<thinking>
-The Worship Service Availability Form is used to track the availability of volunteers for worship services, which are usually held on weekdays and weekends. This form is typically used to schedule volunteers for specific services on specific dates and times. It's essential to complete this form accurately to ensure that volunteers are aware of their scheduled commitments.
-
-The form is not meant to be duplicated, so please avoid submitting duplicate entries. Ensure you're filling out this form for the correct service date and time.
-
-When completing this form, you'll need to provide some personal details and schedule preferences. The goal is to make it easy for the service team to plan and schedule volunteer commitments.
-
-</thinking>
-
 # Worship Service Availability Form - Help Guide
 ## Purpose
 The Worship Service Availability Form is used to track the availability of volunteers for worship services. It helps the service team schedule volunteers for specific services on specific dates and times.

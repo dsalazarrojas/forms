@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about suspected cases of Child Sexual Abuse Material (CSAM) from users who need to report such incidents. The form is not intended to be filled out by the victims themselves, but rather by individuals or organizations who have witnessed or have knowledge of such incidents. 
-The purpose of this form is to gather necessary information to facilitate investigation and potential further action. It is crucial to fill this form accurately and thoroughly, as the information provided will be used to identify and address potential issues. 
-To ensure that this form is filled out correctly, it's essential to review the guidelines and instructions below carefully before completing the form. 
-
-Please note that this form has been designed to minimize the risk of duplication and ensure accurate reporting. However, in the rare case that the same report is submitted multiple times, our team will review each submission individually to determine the most critical information and ensure that the report with the most comprehensive details is used for further action.
-</thinking>
-
 # Suspected Child Sexual Abuse Material (CSAM) Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about suspected cases of Child Sexual Abuse Material (CSAM) from users who have witnessed or have knowledge of such incidents. The goal is to gather accurate and comprehensive details to facilitate investigation and potential further action.

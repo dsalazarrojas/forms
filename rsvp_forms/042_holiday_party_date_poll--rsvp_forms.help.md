@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help users decide on the details of a holiday party. The purpose of this form is to gather information on the date, time, and other details of a holiday party from interested users. This form should be completed by users who want to attend the holiday party. 
-
-It's assumed that users will be submitting this form on a device with a keyboard and screen, and will be able to access the provided fields and select from options. The form does not seem to have a clear "submit" action, so users may be able to save or close the form without submitting it. Users will be able to see the other users' submissions, but it's not clear if they can edit or delete existing submissions. 
-
-The following sections assume that the form is intended for users to provide some basic information about a holiday party, such as date and time, location, and RSVP information. If this form is not intended for this use, or if there are other fields not described here, further information would be necessary to provide accurate help documentation.
-
-</thinking>
-
 # Holiday Party Date Poll - Help Guide
 ## Purpose
 This form is designed to gather information on the details of a holiday party from interested users.

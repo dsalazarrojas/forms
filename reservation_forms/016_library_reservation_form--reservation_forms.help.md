@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to reserve books in a library, providing necessary information for the reservation process. This form is designed to collect details about the book to be reserved, including its title, author, publication date, and condition. The form also includes fields for the reservation date, book status, and any additional notes or comments. This information will be used by library staff to process the reservation request.
-
-This form should only be used for reserving books and not for other purposes. Please ensure that you are completing this form for the correct reason and not duplicating effort.
-
-</thinking>
-
 # Library Reservation Form - Help Guide
 ## Purpose
 The Library Reservation Form is a tool used to reserve books in the library. This form helps library staff to quickly and efficiently collect the necessary information for processing the reservation request.

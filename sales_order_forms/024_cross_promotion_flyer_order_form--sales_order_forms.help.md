@@ -1,7 +1,3 @@
-<thinking>
-This form is a generic order form designed for sales purposes. It is likely intended for sales teams to collect customer information and order details from potential clients. The form might be used for promotional materials such as flyers, brochures, or other sales collateral. The form is not tied to a specific industry, company, or product, suggesting a general-purpose use case. Before proceeding, please ensure that the form's purpose is clear and aligned with your business needs.
-</thinking>
-
 # Cross Promotion Flyer Order Form - Help Guide
 ## Purpose
 The Cross Promotion Flyer Order Form is a sales order form designed to collect customer information and order details from potential clients.

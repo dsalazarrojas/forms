@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information related to the inspection and documentation of a truck's packout, which is an essential process for ensuring the safe transportation of goods. The purpose of this form is to gather relevant details about the vehicle, the driver, and the cargo being transported. To prevent duplication of effort, it's crucial to have accurate and complete information in this form.
-
-The following instructions will help users navigate the form successfully.
-
-</thinking>
-
 # Truck Packout Checklist - Help Guide
 ## Purpose
 The Truck Packout Checklist is a form used to collect and document vital information about a truck's packout, ensuring a safe and efficient transportation process.

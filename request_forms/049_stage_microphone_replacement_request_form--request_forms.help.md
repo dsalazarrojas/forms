@@ -1,16 +1,3 @@
-<thinking>...thinking>
-
-This form appears to be a request form for a "Stage Microphone" replacement, likely used in a professional setting such as a sound or audio-related industry. The form is not affiliated with or endorsed by any specific form platform, and its purpose is to collect information from users. 
-
-The form consists of three fields: 
-1. Stage Microphone Request: a text input field for users to provide a brief description of their request.
-2. Urgency Level: a dropdown menu with three options: High, Medium, and Low, allowing users to categorize their request as High, Medium, or Low priority.
-3. Photo Attachment: a text input field for users to attach photos or images related to their request.
-
-This form appears to be designed for internal use within an organization, possibly for requesting maintenance or replacement of stage microphones. 
-
-</thinking>
-
 # stage_mic_replacement_request_form - Help Guide
 ## Purpose
 The "stage_mic_replacement_request_form" is a request form used to submit requests for stage microphone replacement. Fill out the form to initiate the replacement process.

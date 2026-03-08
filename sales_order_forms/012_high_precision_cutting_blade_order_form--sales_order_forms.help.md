@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for ordering high precision cutting blades. This form will be used by customers to provide their details and preferences for the delivery of the blades. It will also allow them to include any special instructions or comments they may have. This form is designed to be completed by customers, so it is essential to ensure that the fields are clear and easy to understand. Before completing the form, please note that the delivery method and any additional comments or special instructions are optional, but may be required in some cases. The form will be reviewed and processed accordingly based on the information provided.
-</thinking>
-
 # high_precision_cutting_blade_order_form - Help Guide
 ## Purpose
 This form is for customers to order high precision cutting blades. It will help us understand their requirements and preferences for the delivery of the blades.

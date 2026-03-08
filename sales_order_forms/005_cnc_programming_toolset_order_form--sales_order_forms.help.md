@@ -1,5 +1,3 @@
-<thinking>Before designing the help guide, let's ensure the form purpose and relevance. The CNC Programming Toolset Order Form is designed to collect information for a CNC programming toolset order, likely for customers or businesses that need custom toolsets for their CNC machinery. The form is likely used for sales or purchasing purposes.</thinking>
-
 # CNC Programming Toolset Order Form - Help Guide
 
 ## Purpose

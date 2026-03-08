@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be for registering speakers for an event or presentation, likely for a conference or workshop. The form likely aims to collect information about the speaker, including their contact details, presentation topic, and social media presence. This form might be used by event organizers to manage speaker registrations and ensure they have the necessary information to promote the event properly. It might also be used to create a directory of speakers for attendees to reference.
-</thinking>
-
 # Speaker Registration Form - Help Guide
 ## Purpose
 The Speaker Registration Form is a tool for registering speakers for events, conferences, or workshops. This form helps event organizers collect essential information about each speaker, including their contact details, presentation topic, and social media presence.

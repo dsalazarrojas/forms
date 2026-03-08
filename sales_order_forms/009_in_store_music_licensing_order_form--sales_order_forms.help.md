@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from music store employees and owners to help us better understand their music licensing needs. This form is used for internal purposes only, and the data collected will not be shared publicly or used for any other purpose than to improve our services. Please ensure that you have the necessary permissions to fill out this form on behalf of your store.
 
 </thinking>

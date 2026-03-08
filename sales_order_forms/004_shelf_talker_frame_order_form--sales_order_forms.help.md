@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect order information for Shelf Talker Frames, a product category that likely involves custom picture frames or other decorative frame products. The form likely serves as a sales or customer order form for customers to submit their orders, specifying their frame preferences. The form may be used in an e-commerce or retail business setting. Before filling out this form, ensure that you are ordering for the correct purpose, and double-check that you're not duplicating an existing order. If you're unsure about any field or its purpose, please contact the form owner for clarification.</thinking>
-
 # Shelf Talker Frame Order Form - Help Guide
 ## Purpose
 This form is designed to collect order information for Shelf Talker Frames, a product category that involves custom picture frames or other decorative frame products.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is for employees to RSVP for an Exclusive FAM Trip, which is a type of trip organized by the company for employees to experience a product or service firsthand. The form will collect information about the employee's travel agency, RSVP status, and other details about their trip. The form will help the travel agency to organize and manage the trip efficiently.
-
-This form is designed to gather information from employees who are interested in attending the trip. It's crucial to ensure that the form is completed accurately and thoroughly to avoid any issues during the trip.
-
-Before starting to fill out the form, please review the form carefully to ensure you're completing it for the right trip and that all the required fields are filled in correctly.
-
-</thinking>
-
 # RSVP For Exclusive FAM Trip - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employees about their attendance on an Exclusive FAM Trip. The form is used by the travel agency to organize and manage the trip efficiently.

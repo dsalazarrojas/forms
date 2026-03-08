@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended for users who are familiar with safety protocols and procedures but may not be familiar with the specific requirements of a hazardous material handling declaration form. This guide will cover the basics of completing this form and provide explanations for each field to ensure users can accurately and safely report their hazardous material handling procedures.
-
-Before starting, ensure you have all necessary information and materials to complete the form accurately. This guide will assume you have been trained in the handling and disposal procedures of hazardous materials. If you are unsure about any information, consult with your supervisor or safety team.
-
-Additionally, this guide is not intended to be a substitute for proper training or certification in hazardous material handling. Completing this form should be done with care and attention to detail to avoid errors that may lead to accidents or other safety issues.
-
-</thinking>
-
 # Hazardous Material Handling Declaration Form - Help Guide
 ## Purpose
 The Hazardous Material Handling Declaration Form is a safety document used to report the handling and disposal procedures for materials that pose a risk to health and safety. This form is used to document and ensure proper handling and disposal of these materials to minimize risks associated with their use.

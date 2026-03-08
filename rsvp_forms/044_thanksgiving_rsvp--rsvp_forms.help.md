@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from users regarding their plans for Thanksgiving, specifically whether they will be attending and what they will be bringing. It is intended to be completed by individuals who are interested in attending a Thanksgiving dinner and want to provide details about their plans. It is not intended for general public use or to collect information from people who have not been invited. Please note that this form is not designed to be completed more than once, as it's a one-time RSVP form for a specific event.
-
-</thinking>
-
 # Thanksgiving RSVP - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals about their plans for attending a Thanksgiving dinner. This includes whether they will be coming, what they will be bringing, and what time they would like to come for dinner.

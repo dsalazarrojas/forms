@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to capture payment information from customers for a business transaction. This form is used to create a pop-up payment form on a website, which allows users to enter their payment details. It's likely intended for a specific business context, such as an e-commerce platform or a payment processor. This form should not be used for other purposes, such as personal transactions or non-business payments. 
-</thinking>
 # PayPal Business Payment Form On The Pop Up - Help Guide
 ## Purpose
 The PayPal Business Payment Form On The Pop Up is a form designed to collect payment information from customers for business transactions.

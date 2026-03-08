@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track sales opportunities, providing a structured approach to managing leads, contacts, and sales activities. The form collects information on lead sources, contact details, sales status, deal stages, and other relevant sales-related data. It's essential to ensure the sales opportunity tracker is used correctly to avoid duplication and ensure accurate sales data.
-</thinking>
-
 # Sales Opportunity Tracker - Help Guide
 ## Purpose
 This form is used to track sales opportunities and manage sales data. It's crucial to fill it out accurately and consistently to maintain a clear and up-to-date sales pipeline.

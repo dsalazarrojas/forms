@@ -1,7 +1,3 @@
-<thinking>
-To create this membership resignation request form, the purpose is to allow members to formally notify the organization of their intention to leave. This form is meant for members who wish to disaffiliate from the organization. Before proceeding, ensure that you have checked your membership status to avoid duplicates. 
-</thinking>
-
 # Membership Resignation Request Form - Help Guide
 
 ## Purpose

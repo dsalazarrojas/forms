@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about children attending a Christmas party at school, including their personal details, contact information, and special needs or requirements. This form is intended to be completed by parents or guardians of the children.
-
-Before starting to fill out this form, please confirm that you are the parent or guardian of the child in question and that you have not already submitted a similar form.
-
-</thinking>
-
 # Kids Christmas Party Sign Up Form - Help Guide
 
 ## Purpose

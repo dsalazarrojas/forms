@@ -1,21 +1,3 @@
-<thinking>
-This form appears to be a comprehensive checklist for assessing and ensuring food safety. The purpose of this form is to monitor and maintain food safety standards in a facility, which is crucial for preventing foodborne illnesses and ensuring consumer safety. This form likely serves as a reference guide for food safety officers or quality managers to evaluate the compliance status of food safety protocols within the facility. 
-
-This form seems to be used to track the following:
-
-* Food safety standards
-* Storage and labeling of food products
-* Date of last reviewed and next review
-* Status of safety standards reviewed
-* Corrective actions taken
-* Preventive actions taken
-* Status of food hazard control
-* Corrective actions taken
-* Frequency of corrective actions
-
-To avoid duplication, this form may be used in conjunction with other quality control or quality assurance forms to ensure a comprehensive review of the facility's food safety protocols. 
-</thinking>
-
 # Food Safety Checklist - Help Guide
 
 ## Purpose

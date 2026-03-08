@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that have occurred during the workday. This information will help management and safety teams identify potential hazards, track near-miss incidents, and take corrective measures to prevent future incidents. The form is divided into sections for incident details, description, type, location, and other relevant information. It is intended to be used by employees to report incidents that have occurred within the workplace.
-</thinking>
-
 # Employee Safety Incident Report - Help Guide
 ## Purpose
 This form is used to report incidents that have occurred during the workday. It is designed to collect information about the incident, including its details, description, type, location, and other relevant information. This information will help management and safety teams identify potential hazards, track near-miss incidents, and take corrective measures to prevent future incidents.

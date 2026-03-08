@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for requesting a temporary bypass of a safety interlock, which is a critical safety feature designed to prevent accidents or malfunctions in a system or equipment. The form is intended for maintenance teams to request a temporary bypass when performing maintenance or repairs that cannot be done while the safety interlock is enabled. This bypass is typically only granted when it is absolutely necessary and when the maintenance team has taken adequate precautions to mitigate any potential risks. To avoid duplication, maintenance teams should check with the relevant team or department before submitting this form. 
-</thinking>
-
 # Safety Interlock Bypass Request Form - Help Guide
 ## Purpose
 The Safety Interlock Bypass Request Form is used to request a temporary bypass of a safety interlock to perform maintenance or repairs that cannot be done while the safety interlock is enabled.

@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the evaluation of a debt security request. The form should only be used to request an evaluation of a specific debt security interest. It is essential to ensure that the request is not duplicated, and that the same request is not pending review. If you are requesting an evaluation for the same debt security interest, please do not fill out this form.
-
-Before starting, please ensure that you have all the necessary information ready. The form is divided into several sections, and you should complete each section in the order presented. You can skip sections that do not apply to your specific request.
-
-The following sections are required to be completed in full for the evaluation process to proceed:
-* Requester Information
-* Request Date and Time
-* Description
-* Amount
-* Security Interest
-
-Please ensure that all the required fields are filled correctly and that your contact information is up to date.
-
-If you have any further questions or concerns, please do not hesitate to reach out to the review team for assistance.
-</thinking>
-
 # Debt Security Evaluation Request Form - Help Guide
 ## Purpose
 This form is used for requesting an evaluation of a debt security interest. The form is designed to gather necessary information for the evaluation process.

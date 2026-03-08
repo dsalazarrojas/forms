@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting venue reservations for events. It captures essential information such as venue name, event date, start and end times, event description, event type, number of guests, contact name, contact phone, contact email, and organization. This form likely serves as a preliminary step in the event planning process, allowing the venue's management to evaluate and potentially book the requested date and time. This guide will cover the form's purpose, how to fill it out, and what each field means.
-</thinking>
-
 # Venue Reservation Request Form - Help Guide
 ## Purpose
 This form is used to request a venue reservation for an event. Please fill it out to provide the necessary information for the venue's management to evaluate and potentially book the requested date and time.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather RSVP information and details about an event giveaway. The form is designed to collect basic event details and user preferences for giveaways. It is used by event organizers to collect attendee information and preferences for giveaways during events. This is a one-time event and will not be used for any other purpose. Please make sure to fill out the form correctly to ensure accurate RSVP and giveaway information.
-
-</thinking>
-
 # rsvp_for_event_giveaway_entry - Help Guide
 ## Purpose
 This form is used to collect RSVP and giveaway information for a one-time event. It will not be used for any other purpose.

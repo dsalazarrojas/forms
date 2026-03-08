@@ -1,13 +1,3 @@
-<thinking>
-
-As a bartender, closing a shift involves a series of tasks to ensure the bar is clean, organized, and set up for the next shift. This form, "Bartender Closing Checklist," is designed to guide you through these tasks to help you remember everything. 
-
-The purpose of this form is to help bartenders efficiently complete their closing duties, preventing oversights, and ensuring consistency. This form is meant to be used as a guide for bartenders to follow and will help them complete tasks accurately and thoroughly. 
-
-The form will help the bartender track their progress and make sure everything is ready for the next shift. It's essential for the bartender to understand the form's purpose and follow these steps to maintain high-quality standards.
-
-</thinking>
-
 # Bartender Closing Checklist - Help Guide
 ## Purpose
 The Bartender Closing Checklist is a guide to help bartenders complete their closing duties efficiently and accurately.

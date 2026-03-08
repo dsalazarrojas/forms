@@ -1,14 +1,3 @@
-<thinking>
-The reservation confirmation form is used to confirm a reservation made by a customer. 
-This form is typically completed by the customer to provide additional details and confirm their reservation. 
-It is designed to be filled out once the initial reservation has been made, and is used to update the reservation status.
-The customer should only complete this form once the reservation has been initiated and not before or after.
-This form should only be used to confirm and update the reservation, it is not a form for new reservation requests.
-This form does not require any information that has not been previously entered in the reservation process. 
-The form is meant to be used by customers and should be filled out in a customer facing manner.
-The fields in this form are meant to be filled out by the customer and should be completed in a way that is easy to understand and complete for the customer.
-</thinking>
-
 # Reservation Confirmation Form - Help Guide
 ## Purpose
 The reservation confirmation form is used to confirm a reservation made by a customer. This form is typically completed by the customer to provide additional details and confirm their reservation once the initial reservation has been made.

@@ -1,8 +1,3 @@
-<thinking>
-The Power Line Integrity Inspection Form is used to track and record safety-related information about electrical power lines. This form is used to ensure that the power line's condition and status are accurately documented, which is crucial for maintaining power line integrity and preventing potential safety hazards.
-Before proceeding, ensure that you are filling out this form for the correct power line and that the information you provide is accurate and up-to-date. It is also essential to follow the relevant safety protocols and guidelines when conducting inspections.
-</thinking>
-
 # Power Line Integrity Inspection Form - Help Guide
 ## Purpose
 The Power Line Integrity Inspection Form is designed to provide a structured way to collect safety-related information about electrical power lines. This form ensures that critical data is captured and documented consistently, which aids in identifying potential issues and preventing safety hazards.

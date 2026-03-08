@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from visitors during their visit to a host's office or location. The form likely serves as a record-keeping tool for the host to track visitor information. The form's fields cover various aspects of the visit, including visitor details, host information, and visit specifics. The form's purpose is to ensure accurate and complete visitor records, which can be useful for future reference or follow-up. It is possible that this form is used in a controlled or restricted environment where visitor information is necessary for security or access purposes.
-</thinking>
-
 # Visitor Sign In Form - Help Guide
 ## Purpose
 The Visitor Sign In Form is used to collect information from visitors during their visit to a host's office or location. This information is used to maintain accurate visitor records and ensure a smooth visit experience.

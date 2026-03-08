@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from restaurant managers to create a customized order for their customers. This form will guide the user through the necessary steps to provide their delivery, contact, and order details.
-</thinking>
-
 # Grill Box Order Form - Help Guide
 ## Purpose
 The Grill Box Order Form is used to collect information for a customer's order, including their delivery option, contact details, and order specifics.

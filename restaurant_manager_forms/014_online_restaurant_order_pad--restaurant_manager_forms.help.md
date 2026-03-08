@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for their online orders in a restaurant. This form should be used by restaurant staff to efficiently manage customer orders, and it is likely part of a larger system for managing customer orders and deliveries. To confirm, are you certain that this is the correct form for this purpose? Are there any other forms or systems in place that handle similar tasks? Are you sure there aren't any duplication of effort or conflicting form fields?
-</thinking>
-
 # Online Restaurant Order Pad - Help Guide
 ## Purpose
 The "Online Restaurant Order Pad" form is used to collect information from customers for their online orders in a restaurant. This includes collecting customer details and order specifics to facilitate efficient order management.

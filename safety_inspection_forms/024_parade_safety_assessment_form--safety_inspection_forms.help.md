@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for assessing the safety of an event, specifically a parade. It is intended for use by event organizers to identify and evaluate potential risks and develop a plan to mitigate them. This form is not intended for public-facing users to report on the safety of a specific event. The purpose of this form is to help event planners ensure that their events are safe for participants and attendees. If you are not an event organizer, please do not use this form. Please ensure that you only fill out this form once for each event you are organizing.
-
-</thinking>
-
 # Parade Safety Assessment Form - Help Guide
 ## Purpose
 This form is designed for assessing the safety of an event, specifically a parade. It is intended for use by event organizers to identify and evaluate potential risks and develop a plan to mitigate them.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to ensure that users understand the purpose and requirements of the Housing Development Site Audit Form. The form is intended to collect information about a housing development site, focusing on safety inspections, hazard identification, and corrective actions taken. This is a crucial tool for developers, auditors, or site managers to document and track the site's safety status. The form should not be used for other purposes, such as general site information or project planning.
-</thinking>
-
 # Housing Development Site Audit Form - Help Guide
 ## Purpose
 The Housing Development Site Audit Form is a crucial tool for assessing the safety status of a housing development site. It is designed to identify potential hazards, document actions taken to mitigate them, and track the site's safety inspection history.

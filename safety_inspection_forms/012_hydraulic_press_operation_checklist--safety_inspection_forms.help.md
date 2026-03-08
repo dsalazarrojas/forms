@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to track and record information related to the operation and maintenance of hydraulic press equipment, ensuring it is used safely and in good working condition. This form is relevant to individuals responsible for operating, maintaining, and managing hydraulic press equipment in various settings, including manufacturing, production, or research environments. The form aims to reduce errors and accidents caused by inadequate maintenance or lack of proper operation procedures. It is essential to complete this form correctly to ensure the hydraulic press equipment is regularly inspected and maintained, reducing downtime and the risk of accidents.
-
-To prevent duplication, please ensure that you are using this form for the correct hydraulic press operation and maintenance activities.
-
-</thinking>
-
 # Hydraulic Press Operation Checklist - Help Guide
 ## Purpose
 

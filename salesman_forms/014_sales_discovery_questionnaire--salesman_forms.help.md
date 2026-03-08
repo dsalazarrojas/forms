@@ -1,8 +1,3 @@
-<thinking>
-This form is a sales discovery questionnaire designed to gather specific information about leads and sales opportunities. Its purpose is to collect data that will help sales professionals better understand customer needs and preferences. This form may be used in various sales contexts, such as when onboarding new customers, upselling or cross-selling, or simply to gather more information about existing leads.
-When completing this form, please ensure that you don't have duplicate entries for the same customer, as this may lead to unnecessary work and potential customer confusion. Please fill out the form accurately and completely to avoid any discrepancies.
-</thinking>
-
 # Sales Discovery Questionnaire - Help Guide
 ## Purpose
 The sales discovery questionnaire is a tool used to gain a better understanding of customer needs and preferences. Its primary goal is to gather information that will help drive sales and revenue growth.

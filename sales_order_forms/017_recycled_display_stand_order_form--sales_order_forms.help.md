@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers for a recycled display stand order. This form will likely be used by a sales team or customer service representative to gather data on customer details, order specifics, shipping information, payment methods, and delivery details. This form could be used by a variety of businesses, such as retail, e-commerce, or online marketplaces, to streamline their sales process.
-
-To complete this form, follow these steps:
-
-1. Provide your customer information: This includes basic details like name, address, phone number, and email. Please fill in your name and any relevant contact information.
-2. Order specifics: Share details about the item(s) you would like to purchase, including the product code, quantity, and any special instructions or comments.
-3. Shipping info: Enter your shipping address and any additional shipping notes.
-4. Payment info: Choose your preferred payment method and provide any necessary payment details.
-5. Delivery info: Specify your delivery preferences, including pickup or delivery options.
-
-</thinking>
-
 # Recycled Display Stand Order Form - Help Guide
 ## Purpose
 The Recycled Display Stand Order Form is used to collect information from customers for a recycled display stand order. This form helps sales teams and customer service representatives gather essential data for processing orders efficiently.

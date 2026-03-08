@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for a golf course player check-in process. The check-in form is designed to gather essential data from players before they begin their golfing experience. This form serves as an initial point of contact for the golfer, ensuring that the course staff has all the necessary information to manage the player's visit efficiently.
-
-To determine if a form is needed for a specific use case, consider the following scenarios:
-
-* If a player is booking a tee time for a single person or a small group, it's likely that the "Group Size" field will be set to "1" or "2", and the "Service Required" field will be set to "None" since no additional services are needed.
-* If a player is booking a tee time for a larger group, it's likely that the "Group Size" field will be set to "4", "5", "6", or "7", and the "Service Required" field may be set to "Food and Beverage Cart" or "Tee Cart" depending on the group's needs.
-* If the player has specific requests or requirements that aren't accounted for in the "Service Required" options, it's likely that they'll need to provide additional information in the "Notes" field.
-
-</thinking>
-
 # golf_course_player_check_in - Help Guide
 ## Purpose
 The golf course player check-in form is used to collect essential information from players before their visit, ensuring that the course staff has all necessary details to manage their experience efficiently.

@@ -1,14 +1,3 @@
-<thinking>
-Before creating the help guide, let's break down the form purpose and fields to ensure we cover all required aspects.
-
-This form is designed to gather information about a customer's wedding invitation printing quote request. 
-
-The form likely aims to collect details about the type of printing style, quantity, paper type, material, font, color printing, paper size, orientation, finish, and ribbon type needed for the wedding invitations. 
-
-To avoid duplication, we should ensure that the customer has not already provided the requested information and check for inconsistencies in the form data.
-
-</thinking>
-
 # Wedding Invitation Printing Quote Request Form - Help Guide
 ## Purpose
 The Wedding Invitation Printing Quote Request Form is designed to help us gather information about your wedding invitation printing needs. Please fill out this form to provide us with the necessary details for a quote.

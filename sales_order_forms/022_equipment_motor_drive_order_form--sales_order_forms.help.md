@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information for sales orders related to motor drives. The purpose of this form is to collect data from customers for the sales team to process orders. The form should only be used for sales orders and not for other types of equipment-related requests. To ensure that the form is being used correctly, please review the instructions below.
-</thinking>
-
 # Equipment Motor Drive Order Form - Help Guide
 ## Purpose
 The Equipment Motor Drive Order Form is used by the sales team to collect information from customers for sales orders related to motor drives. This form helps ensure that all necessary details are captured and that orders are processed efficiently.

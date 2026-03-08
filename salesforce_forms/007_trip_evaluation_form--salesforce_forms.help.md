@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Trip Evaluation Form - Help Guide
 
 ## Purpose

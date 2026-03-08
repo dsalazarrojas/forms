@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for restaurant managers to evaluate the quality of service and food at their restaurant. The form will help them identify areas of improvement and make data-driven decisions to enhance their customer experience. Please ensure this form is used within the restaurant's management scope to avoid duplication of efforts and misinterpretation of data.
-</thinking>
-
 # Restaurant Evaluation Form - Help Guide
 ## Purpose
 The Restaurant Evaluation Form is a tool for restaurant managers to assess the overall quality of their restaurant's service and food. The feedback collected through this form will help them identify strengths and weaknesses, enabling data-driven decision-making to improve the customer experience.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Awards Nomination Form is to provide a structured and standardized way to nominate an employee, manager, or team for an award within an organization. This form aims to capture the essential information about the nominee, including their contact details, job title, and nomination justification, to ensure a fair and transparent nomination process. Before filling out this form, please ensure that you are not nominating someone for an award they have already been given in the past year. It's also a good idea to review the award categories to confirm the correct selection.
-
-</thinking>
-
 # Awards Nomination Form - Help Guide
 ## Purpose
 The Awards Nomination Form is used to nominate an employee, manager, or team for an award within your organization.

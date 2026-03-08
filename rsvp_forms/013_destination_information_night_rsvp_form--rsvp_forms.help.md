@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Destination Information Night RSVP Form - Help Guide
 
 ## Purpose

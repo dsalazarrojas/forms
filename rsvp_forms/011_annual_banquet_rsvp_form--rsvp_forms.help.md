@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from attendees for the annual banquet event. The purpose of this form is to collect details about the attendees, including their personal contact information, dietary restrictions, meal preferences, and other relevant details. This form will be used to create a seating chart, track RSVPs, and provide necessary accommodations for the event.
-
-To ensure relevance and non-duplication, please review the fields carefully and only fill out the form if you are planning to attend the event.
-
-</thinking>
-
 # Annual Banquet RSVP Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for the annual banquet event.

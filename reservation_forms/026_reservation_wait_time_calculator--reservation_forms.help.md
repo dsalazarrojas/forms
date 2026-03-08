@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help customers estimate their wait time when visiting a restaurant or other establishments that offer a table service. It asks for customer information such as name and phone number, details about the table size, arrival time, and the quality of service performance they experienced. The form also provides the option for customers to add notes if they want to mention anything specific during their visit. This form is likely used by restaurants or hospitality businesses to gauge the quality of service and optimize customer experience.
-
-Please make sure to fill out the form accurately and completely, as your feedback is invaluable for us to improve our services.
-
-</thinking>
-
 # Reservation Wait Time Calculator - Help Guide
 ## Purpose
 The Reservation Wait Time Calculator form is designed to help customers provide feedback on their wait time experience at our restaurant. It helps us understand how long customers had to wait before being seated and how their experience was impacted by our service performance.

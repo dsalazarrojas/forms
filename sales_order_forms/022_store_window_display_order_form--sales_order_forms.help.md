@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to explain the form purpose and check for relevance and non-duplication ...
-
-The "Store Window Display Order Form" is designed for store managers and customer-facing staff to collect and record information about store window displays for customers who wish to purchase or inquire about store window displays. The form aims to gather essential details about the display window, including retail window specifications, store information, and customer contact details. This guide will walk you through each section of the form to ensure that you understand the purpose and requirements of each field.
-
-... </thinking>
-
 # Store Window Display Order Form - Help Guide
 
 ## Purpose

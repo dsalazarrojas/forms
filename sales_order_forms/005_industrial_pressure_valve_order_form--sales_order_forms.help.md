@@ -1,11 +1,3 @@
-<thinking>
-This form is used for placing orders for industrial pressure valves. The purpose of this form is to collect necessary information from the buyer to process and fulfill the order accurately. To use this form, the buyer should have a basic understanding of the product being ordered and the information required for shipping and payment. Please ensure that all required fields are filled in correctly to avoid any delays in processing the order.
-
-This form should not be used for duplicate orders. If you have previously ordered from us, please use the existing order form that corresponds to your existing order.
-
-The following sections will be explained in more detail below.
-</thinking>
-
 # industrial_pressure_valve_order_form - Help Guide
 ## Purpose
 This form is used for placing orders for industrial pressure valves. The purpose of this form is to collect necessary information from the buyer to process and fulfill the order accurately.

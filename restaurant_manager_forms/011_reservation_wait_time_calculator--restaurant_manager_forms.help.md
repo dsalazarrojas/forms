@@ -1,8 +1,3 @@
-<thinking>
-The Reservation Wait Time Calculator form is a tool designed to estimate the wait time for a given reservation. This form is used to calculate wait times for reservations at a restaurant. It's likely used by restaurant managers or staff to estimate wait times for customers based on several factors such as table capacity, number of guests, reservation start time, expected and actual reservation durations, and wait time. This form should not be confused with other similar forms that estimate wait times for other purposes, such as those used in manufacturing or transportation industries. 
-
-</thinking>
-
 # Reservation Wait Time Calculator - Help Guide
 ## Purpose
 The Reservation Wait Time Calculator form is a tool designed to help restaurant managers estimate the wait time for a reservation based on several factors.

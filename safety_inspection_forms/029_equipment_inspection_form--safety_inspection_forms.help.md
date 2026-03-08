@@ -1,14 +1,3 @@
-<thinking>
-The Equipment Inspection Form is used by maintenance personnel to record the status of equipment in a facility or fleet. This form helps to ensure that equipment is inspected regularly and any safety issues are identified and addressed promptly. It's essential to complete this form accurately and thoroughly to maintain a safe working environment.
-
-Before starting the form, please ensure that:
-
-* You are inspecting the correct equipment.
-* The equipment has not been previously inspected and recorded.
-* You have all the necessary information and resources to complete the form.
-
-</thinking>
-
 # Equipment Inspection Form - Help Guide
 
 ## Purpose

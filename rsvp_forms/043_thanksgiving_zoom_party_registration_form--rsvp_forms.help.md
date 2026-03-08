@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for users to RSVP for a Thanksgiving Zoom party. It collects information about the guest's details, their relationship with the host, and their preferences for the party. The form has fields for the guest's first and last name, email, phone number, RSVP status, date of birth, time of arrival, comments, guest name, relationship with the host, RSVP type, and other details such as dietary restrictions and special requests. To ensure accurate and complete information, it's crucial that users understand what each field means and how to fill it out correctly.
-
-</thinking>
-
 # Thanksgiving Zoom Party Registration Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from guests to ensure a smooth and enjoyable Thanksgiving Zoom party experience. Please take a few minutes to fill out the form accurately, and don't hesitate to reach out if you have any questions or need further clarification.

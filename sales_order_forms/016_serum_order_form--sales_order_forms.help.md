@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for sales orders, likely for a business or organization that sells serums, which can be products or services. The form is divided into multiple pages, each with its own set of fields. The purpose of the form is to gather essential details from customers or sales representatives to facilitate the sales process.
-The form will likely be used in a business-to-business (B2B) or business-to-consumer (B2C) sales context. The fields on the form will help determine the suitability of serums for the customer and facilitate the ordering process.
-
-The following fields should not be required if the customer has already been pre-screened or if the customer is an existing customer. In this case, this form can be used as a reference.
-
-To determine which fields are necessary and which are not, please consider the following: Are the customers already familiar with the business? Do they have a history with the company? Do they require a customized order?
-</thinking>
-
 # Serum Order Form - Help Guide
 ## Purpose
 The Serum Order Form is designed to collect information from customers or sales representatives for sales orders related to serums.

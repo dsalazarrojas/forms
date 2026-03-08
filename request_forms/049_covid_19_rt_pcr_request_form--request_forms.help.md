@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a COVID-19 RT-PCR test request, which is used to diagnose or rule out COVID-19 in individuals who are symptomatic or have been in close contact with someone with COVID-19. This form ensures that all necessary information is collected before testing, which helps in the efficient processing of test requests.
-To prevent duplicate requests, the system will detect if a similar request has been made within a week prior to the current request. If it detects a duplicate request, it will alert the user and prevent them from proceeding with the current request.
-</thinking>
-
 # COVID 19 RT PCR Request Form - Help Guide
 
 ## Purpose

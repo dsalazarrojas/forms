@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from buyers about their preferences and situation to provide a more personalized experience in the home buying process. This form is meant to be filled out by buyers who are interested in purchasing a home. Please ensure that you only fill out this form once, as it is intended to capture your initial information and preferences.
-</thinking>
-
 # Buyer Interview Form - Help Guide
 ## Purpose
 The Buyer Interview Form is a tool used to gather information from buyers about their preferences and situation to provide a more personalized experience in the home buying process.

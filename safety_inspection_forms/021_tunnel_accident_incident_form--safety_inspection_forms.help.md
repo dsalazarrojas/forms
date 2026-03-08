@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for reporting accidents or incidents in tunnel environments. It captures information about the incident date, location, and description, which can be used to gather data on the frequency, causes, and consequences of accidents or incidents in tunnels. Before filling out this form, ensure that you are only reporting incidents that have not already been reported or recorded in the system. If you have previously reported an incident, do not repeat the form.
-</thinking>
-
 # tunnel_accident_incident_form - Help Guide
 ## Purpose
 The tunnel accident incident form is used to gather information about incidents that occur in tunnel environments. This form helps in tracking and analyzing data on the frequency, causes, and consequences of such incidents.

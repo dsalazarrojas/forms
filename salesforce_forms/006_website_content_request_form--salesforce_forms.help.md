@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # website_content_request_form - Help Guide
 ## Purpose
 This form is used for requesting website content updates. It's meant for internal stakeholders to submit their requests for website content changes. 

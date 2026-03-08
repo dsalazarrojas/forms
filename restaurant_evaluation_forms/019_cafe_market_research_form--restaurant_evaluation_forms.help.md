@@ -1,8 +1,3 @@
-<thinking>
-As a form design expert and technical writer, I understand the importance of creating a user-friendly help guide to accompany this Cafe Market Research Form. Upon reviewing the provided YAML structure, I see that the form aims to collect demographic and behavioral data from respondents about their visits to a cafe. The form inquires about the respondent's name, age range, gender, location, frequency of visiting cafes, frequency of visiting a specific cafe, reason for visiting, typical spending per visit, favorite menu items, other cafes they visit, unique aspects of the cafe, price perception, atmosphere rating, importance of WiFi, seating comfort, interest in new products, marketing channels, areas needing improvement, overall satisfaction, likelihood to recommend, and additional suggestions. To ensure that the form is completed accurately and effectively, I will provide a clear and concise help guide.
-
-</thinking>
-
 # Cafe Market Research Form - Help Guide
 ## Purpose
 This form is designed to gather insights about your experiences and preferences regarding our cafe. Your input will help us understand what we do well and where we can improve. Please take a few minutes to answer the questions honestly, and don't hesitate to provide any additional feedback or suggestions you may have.

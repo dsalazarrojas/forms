@@ -1,14 +1,3 @@
-<thinking>
-A safety inspection form, such as a spill management checklist, is crucial for organizations to maintain a safe working environment, identify potential risks, and ensure compliance with safety regulations. This form helps in documenting incidents and responses related to spills, which is an important part of an organization's safety and regulatory requirements.
-
-To prevent duplication and ensure that only relevant information is collected, it's essential to have a clear and well-structured form that guides users through the completion process. 
-
-This form should be designed to be easy to understand and use for various stakeholders, including employees and supervisors.
-
-The fields included in this form are: Spill Incident Form, Spill Location, Spill Description, Spill Date/Time, Spill Size, Spill Type, Spill Response, and Spill Documentation.
-
-Each field is essential for the completion of the spill management process and should be understood and filled out accordingly.</thinking>
-
 # Spill Management Checklist - Help Guide
 
 ## Purpose

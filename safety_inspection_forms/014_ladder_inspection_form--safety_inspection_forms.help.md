@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of this form, I reviewed the provided YAML fields. The form is titled "Ladder Inspection Form" and appears to be used for inspecting ladders, which suggests that it may be used in an industrial or safety inspection context. The form has several fields, including "Ladder Name", "Ladder Location", "inspection_checklist", "Notes", "Email Contact", "Telephone Contact", and "Assigned To". The fields "inspection_checklist" is a select_one type, suggesting that it might be used to select a specific checklist for the inspection. The "Notes" field is of type "note", which implies that it's meant for free-formatted text. The "Email Contact" field is an email type, indicating that it's intended for users to input their email address. The "Telephone Contact" field is a text type, and "Assigned To" is also a text type. This form likely captures information for safety inspections of ladders, possibly for reporting or record-keeping purposes.
-
-This form is likely used for reporting or record-keeping purposes for safety inspections of ladders. It is possible that this form is used by safety personnel or inspectors to document their findings and observations during inspections. The form is not likely used for general information collection, but rather for specific, formalized reporting or record-keeping.
-
-There is no indication that the form is used to collect duplicate or redundant data, so it's likely that the data collected is unique to each inspection. 
-
-</thinking>
-
 # Ladder Inspection Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <details>
 # strategic_planning_meeting_rsvp_form - Help Guide
 ## Purpose

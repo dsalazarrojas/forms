@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for demo purposes, likely as part of a sales or promotional activity. It appears to be a generic form with various fields for gathering different types of data. The form has a mix of text, email, date, select_one, select_multiple, note, number, time, and text fields. This form does not seem to be specifically designed for any particular business purpose, such as customer support or product inquiry. The form does not contain any fields indicating it should be filled out by a specific role, such as "Internal Use Only" or "Customer Only". There might be some overlap or redundancy between fields. 
-</thinking>
-
 # demo_request_form - Help Guide
 ## Purpose
 This form is designed to collect demo request information for internal purposes.

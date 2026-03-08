@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report hazards and incidents in the workplace, which is crucial for maintaining a safe work environment. It's essential to fill this form accurately and thoroughly to ensure that all relevant details are captured, especially when it comes to safety equipment maintenance. By using this form, employees can help identify and mitigate potential hazards, reducing the risk of accidents and injuries. It's also a good idea to review the form carefully before submitting it to ensure that all required and optional fields are completed.
-
-</thinking>
-
 # Workplace Safety Report Form - Help Guide
 ## Purpose
 The Workplace Safety Report Form is used to report hazards and incidents in the workplace, ensuring a safe work environment is maintained.

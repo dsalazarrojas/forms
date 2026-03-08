@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Heat Stress Survey - Help Guide
 
 ## Purpose

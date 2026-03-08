@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a thorough safety inspection at a recycling plant. The form gathers information on various aspects of the plant's safety, including the facility's name, address, and date and time of the inspection, as well as its safety and electrical and mechanical equipment status. The form also asks the inspectors to provide notes and observations, and determine the need for corrective actions. Finally, it allows for follow-up information to be recorded.
-
-Before starting the form, please ensure that you have not already conducted a similar inspection at this facility. This will help prevent duplication of effort and ensure that all necessary information is gathered.
-
-Now, let's proceed to the instructions on how to complete this form.
-
-</thinking>
-
 # Recycling Plant Safety Inspection Form - Help Guide
 ## Purpose
 This form is designed to conduct a thorough safety inspection at a recycling plant. It gathers information on various aspects of the plant's safety, including its name, address, and status of its safety and electrical and mechanical equipment.

@@ -1,7 +1,3 @@
-<thinking>
-This is a form for tracking RSVPs (responses) to a Veterans Day celebration event. It is intended to be used by event organizers to collect information from attendees about their attendance status and any special requests or additional comments. The form is designed to be simple and easy to complete, with a focus on collecting relevant information for event planning and organization. Before proceeding, ensure that this form is not already being used to collect similar information for another purpose or event. If you're unsure, please reach out to the event organizer for clarification.
-</thinking>
-
 # Veterans Day Celebration RSVP Template - Help Guide
 ## Purpose
 The Veterans Day Celebration RSVP Template is a form designed to collect information from attendees about their attendance status and any special requests or additional comments for the Veterans Day celebration event.

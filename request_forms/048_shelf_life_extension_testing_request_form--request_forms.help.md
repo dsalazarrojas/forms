@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request shelf life extension testing for products. The form is designed to capture relevant information from the product owner to assess the possibility of testing and extending the shelf life of a product. Please ensure that you are not submitting this form for a product that is already in the midst of a shelf life extension process, and that the information provided is accurate and up-to-date. Additionally, please be aware that the completion of this form does not guarantee approval of the shelf life extension.
-</thinking>
-
 # Shelf Life Extension Testing Request Form - Help Guide
 ## Purpose
 The Shelf Life Extension Testing Request Form is a crucial document that helps assess the possibility of testing and extending the shelf life of a product. By providing accurate and detailed information, you are helping the product owner to potentially improve the shelf life of their product, which can have significant commercial and quality implications.

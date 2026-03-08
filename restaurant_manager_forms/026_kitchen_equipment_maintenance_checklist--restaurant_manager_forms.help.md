@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to track maintenance activities for kitchen equipment in a restaurant. The primary purpose of this form is to ensure that maintenance tasks are regularly performed to prevent equipment malfunctions, reduce the risk of accidents, and improve overall food safety. By completing this form, restaurant staff can record and update information on the maintenance status, maintenance frequency, cost, and last updated date for various kitchen equipment pieces. 
-To avoid duplication and ensure consistency, only one entry should be made per piece of equipment.
-</thinking>
-
 # Kitchen Equipment Maintenance Checklist - Help Guide
 ## Purpose
 The Kitchen Equipment Maintenance Checklist form is designed to track and record maintenance activities for kitchen equipment in a restaurant. This form helps ensure that maintenance tasks are performed regularly, reducing the risk of equipment malfunctions and accidents.

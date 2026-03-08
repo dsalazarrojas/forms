@@ -1,8 +1,3 @@
-<thinking>
-This form is likely for guests to RSVP to a cultural event or party, which is a social gathering where guests can show off and appreciate various aspects of a particular culture. This form aims to collect information from guests about their preferences and needs to ensure a smooth and enjoyable experience for everyone. The form is not intended to collect unnecessary or redundant information.
-
-</thinking>
-
 # Cultural Showcase Afterparty RSVP - Help Guide
 ## Purpose
 This form is designed to collect RSVP information from guests attending a cultural showcase afterparty. You will provide your name, contact information, and other relevant details to help us plan for your presence.

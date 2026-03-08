@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Booking Enquiry Form - Help Guide
 ## Purpose
 This form is designed for guests and customers to contact your business for online booking enquiries. It allows them to provide their contact information and any feedback they may have.

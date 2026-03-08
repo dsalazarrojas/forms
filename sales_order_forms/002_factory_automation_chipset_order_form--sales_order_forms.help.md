@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for factory automation customers to order chipsets for their operations. It is used to gather essential information about the company, shipping address, chipset selection, quantities, and any additional order notes. This form is intended for internal use by factory automation customers and is not meant for external, public use. Please ensure you are authorized to access this form before proceeding.
-</thinking>
-
 # Factory Automation Chipset Order Form - Help Guide
 ## Purpose
 The Factory Automation Chipset Order Form is a tool for factory automation customers to order chipsets for their operations. This form is used to collect important information about the company, shipping address, chipset selection, quantities, and any additional order notes.

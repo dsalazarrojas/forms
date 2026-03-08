@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the lead generation process and strategies used by sales representatives and teams. The form is designed to gather data on various aspects of lead generation, including lead sources, conversion rates, lead value, and sales process stages. This information can be used to analyze and optimize the lead generation process, identify areas for improvement, and provide insights for data-driven decision-making.
-
-To complete this form, follow the instructions below:
-
-1. Select the correct options for the lead generation strategies used by your team or organization.
-2. Enter the current sales process stage and conversion rate if applicable.
-3. Choose the lead sources and channels used to generate leads.
-4. Enter any comments or notes about the lead generation process.
-5. Fill in the relevant contact information for the sales representative, sales team, and territory manager.
-6. Choose the territory and status of the lead generation process.
-7. Enter the date and person completed the lead generation survey.
-
-This form is designed to be completed by sales representatives, sales teams, and territory managers to provide a snapshot of the lead generation process and strategies used by their organization.
-
-</thinking>
-
 # Lead Generation Survey - Help Guide
 ## Purpose
 The Lead Generation Survey is a form designed to collect information about the lead generation process and strategies used by sales representatives and teams.

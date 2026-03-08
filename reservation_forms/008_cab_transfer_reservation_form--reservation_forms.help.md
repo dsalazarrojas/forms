@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for cab transfers, ensuring that all necessary details are captured for a smooth and successful transfer experience. This form should only be used for cab transfers and should not be filled out if you are booking a different type of transfer or service. It is recommended to book at least 24 hours in advance to ensure availability and optimal pricing. If you have any special requests or needs, please include them in the "Special Requests or Needs" field.
-</thinking>
-
 # CAB Transfer Reservation Form - Help Guide
 
 ## Purpose

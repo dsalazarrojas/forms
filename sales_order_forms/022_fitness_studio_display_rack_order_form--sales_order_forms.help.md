@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from fitness studios for displaying their products in a rack system. The purpose of this form is to collect data about the gym, delivery details, preferred date for display, order details, and delivery location. The form will likely be used by studio representatives to submit information for the display of their products, such as fitness equipment and apparel. It is likely used in conjunction with the rack system to ensure accurate and efficient display.
-
-This form does not appear to be for general public use, so there should be no need to check for relevance and non-duplication.
-</thinking>
-
 # Fitness Studio Display Rack Order Form - Help Guide
 ## Purpose
 The Fitness Studio Display Rack Order Form is a tool for fitness studios to submit information about their products for display in a rack system.

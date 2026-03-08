@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for creating and submitting new orders for display lights. It captures the necessary information to process an order, including contact details, order specifics, and delivery preferences.
-The form has 22 fields, and users should be aware that some fields have specific requirements and options to ensure accurate order submission. This form is intended for internal use within the company, and it's essential to understand the purpose and requirements for each field to avoid any confusion or errors.
-The form will be reviewed for relevance and potential duplication before submission.
-</thinking>
-
 # Checkout Display Light Order Form - Help Guide
 ## Purpose
 This form is used to create new orders for display lights. It captures essential information to process and fulfill orders correctly.

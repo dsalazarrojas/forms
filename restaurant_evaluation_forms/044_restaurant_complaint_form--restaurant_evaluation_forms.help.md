@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect customer feedback and complaints about a visit to a restaurant. This form is designed to be a simple and straightforward way to gather information from customers about their dining experience. To prevent duplication, customers can only submit one complaint per visit, and it is assumed that if they have visited multiple times, they will fill out the form multiple times, providing a separate entry for each visit.
-</thinking>
-
 # restaurant_complaint_form - Help Guide
 ## Purpose
 This form is designed to collect customer feedback and complaints about a visit to a restaurant. It is meant to help the establishment improve its services and provide a better experience for future customers.

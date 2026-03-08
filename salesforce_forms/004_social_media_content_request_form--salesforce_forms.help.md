@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture the details of social media content requests from various content requesters. The purpose of this form is to gather essential information about the requested content, including type, location, and publishing schedule. The form ensures that all required fields are filled out by the content requester, which includes the content type, location, and request status. The form also allows for optional fields such as content description, additional details, and content request date. The goal of this form is to streamline the content request process and improve communication between content requesters and reviewers.
-
-This form is not intended to be used for duplicate or unnecessary requests. Please ensure that you have not already submitted a similar request before filling out this form. If you are unsure, please contact the review team for guidance.
-
-</thinking>
-
 # Social Media Content Request Form - Help Guide
 ## Purpose
 The Social Media Content Request Form is designed to capture the details of social media content requests from various content requesters. The form is used to gather information about the requested content, including type, location, and publishing schedule.

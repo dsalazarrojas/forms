@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to aid in the safety assessment of scissor lifts. Scissor lifts are commonly used in various industries for lifting and lowering equipment, personnel, and goods. The purpose of this form is to provide a structured checklist for inspectors to perform pre-operation checks, record lift operations, document inspection dates, locations, and inspector names, and capture any relevant notes and operational checks. It is intended to ensure that the scissor lift is in a safe state for operation.
-</thinking>
-
 # scissor_lift_safety_checklist - Help Guide
 ## Purpose
 The scissor lift safety checklist form is a systematic tool for inspecting and ensuring the safety of scissor lifts. It is designed to be completed by an authorized inspector prior to each operation.

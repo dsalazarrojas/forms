@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: 
-The Temporary Electrical Safety Certification Application Form is used by customers or users to request temporary electrical certification for a specific project or equipment. This form ensures that the equipment or project meets the necessary safety standards before being certified. The form is designed to collect information about the project, equipment, and certification status, allowing the relevant authorities to quickly and efficiently evaluate the request and issue a certification. Before starting, it's essential to ensure that you're using this form for the correct project and not duplicating a previously submitted form. If you're unsure, please check with the relevant authority or project administrator. 
-</thinking>
-
 # Temporary Electrical Safety Certification Application Form - Help Guide
 ## Purpose
 This form is used to request temporary electrical certification for a project or equipment, ensuring it meets the necessary safety standards.

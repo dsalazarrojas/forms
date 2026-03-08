@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Commission Statement Template - Help Guide
 ## Purpose
 This form is used to generate a commission statement for a salesperson, showing the total sales for a given period, commission rate, and calculated commission earned. The form will guide you through a standard commission calculation process, which includes entering the statement period, agent's name, total sales, commission rate, and other relevant details.

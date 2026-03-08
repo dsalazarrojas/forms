@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Call Reviews Milestones - Help Guide
 
 ## Purpose

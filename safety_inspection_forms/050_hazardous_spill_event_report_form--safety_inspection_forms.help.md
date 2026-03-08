@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report and document hazardous spills that occur on a facility's premises. The purpose of this form is to collect information about the spill, including its location, date, and description. This information will help facility personnel and management understand the extent of the spill, take appropriate measures to contain and clean it up, and document the process for future reference.
-Before filling out this form, please ensure that the spill is indeed hazardous and not a minor, non-hazardous event. Also, ensure that you are completing the form only once for each spill event and not duplicating efforts.
-</thinking>
-
 # Hazardous Spill Event Report Form - Help Guide
 ## Purpose
 The Hazardous Spill Event Report Form is used to document and report hazardous spills on a facility's premises. This form collects information about the spill, including its location, date, and description, to help facility personnel and management take appropriate measures to contain and clean up the spill.

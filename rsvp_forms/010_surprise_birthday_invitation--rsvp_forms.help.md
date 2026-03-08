@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect RSVP information for a surprise birthday event. It is likely used by event planners or hosts to gather details from guests. The purpose of this form is to get RSVP information from guests and any personal messages they might want to send to the birthday recipient. The form may be used for internal or internal purposes within the organization.
-</thinking>
-
 # Surprise Birthday Invitation - Help Guide
 ## Purpose
 This form is designed to collect RSVP information and optional messages from guests for a surprise birthday event.

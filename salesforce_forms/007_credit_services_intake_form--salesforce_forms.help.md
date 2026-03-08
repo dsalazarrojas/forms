@@ -1,8 +1,3 @@
-<thinking>
-As a salesforce-forms expert, I've come across many forms designed for various purposes. The form you've provided appears to be a credit services intake form, likely used for customers or clients to provide their information for credit-related services such as loans or credit inquiries. This form likely aims to collect essential details to assess the applicant's creditworthiness and suitability for a credit service. Before diving into the form details, it's essential to check if you've completed this form before to avoid duplication of effort and potential data inconsistencies. 
-To ensure the accuracy and completeness of your submission, review the form carefully and fill it out accurately. If you're unsure about any field or option, don't hesitate to reach out to the relevant authorities for clarification.
-</thinking>
-
 # Credit Services Intake Form - Help Guide
 ## Purpose
 The Credit Services Intake Form is designed to collect information from customers or clients seeking credit-related services such as loans or credit inquiries. This form helps us assess your creditworthiness and suitability for a credit service.

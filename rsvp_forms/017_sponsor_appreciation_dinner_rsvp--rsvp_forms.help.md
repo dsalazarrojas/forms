@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sponsor Appreciation Dinner RSVP - Help Guide
 
 ## Purpose

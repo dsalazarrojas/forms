@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from clients or internal teams on graphic design projects, allowing them to submit their graphic design project requests and associated details. This form likely aims to streamline communication and ensure that all necessary data is captured for project execution and tracking.
-
-Before starting, please ensure that you have not already submitted a request for this project. If you have any previous submissions for the same project, please refer back to those records instead of resubmitting a new request.
-
-Please review each field carefully before providing your input to ensure you are submitting accurate and relevant information.
-
-</thinking>
-
 # Graphic Design Request Form - Help Guide
 ## Purpose
 

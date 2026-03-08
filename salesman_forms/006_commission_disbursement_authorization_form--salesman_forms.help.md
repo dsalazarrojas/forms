@@ -1,13 +1,3 @@
-<thinking>
-The Commission Disbursement Authorization Form is a document used to request authorization for commission disbursement to a third party. It is intended for salesmen, managers, and other employees to authorize the payment of commissions to third parties, such as banks, investment firms, or family members. The form is meant to capture relevant details about the commission being disbursed, including the commission amount, rate, and method of payment. It also asks for the employee's information, department, and manager's approval status. This form is likely used in sales, finance, or management settings where commissions are paid out to third parties as part of a larger financial process.
-
-Before filling out this form, ensure that all fields are accurate and complete, as any errors could lead to miscommunication or incorrect disbursement. Additionally, ensure that you have the necessary authority and approval to complete this form, as it pertains to sensitive financial information.
-
-To prevent any duplication of this form, ensure that you have checked with the sales manager or finance department to see if the disbursement has already been authorized or if it requires additional steps.
-
-Please note that some fields may require manager or sales manager approval before submission, so ensure to get the necessary approval before proceeding.
-</thinking>
-
 # Commission Disbursement Authorization Form - Help Guide
 ## Purpose
 The Commission Disbursement Authorization Form is a document used to request authorization for commission disbursement to a third party.

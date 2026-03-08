@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # International Missions Form - Help Guide
 ## Purpose
 The International Missions Form is a document used to gather information about international missions, allowing users to provide details about their trips abroad. This form is designed to be completed by travelers, travelers' organizations, or travel agents to provide essential information for planning and executing international missions effectively.

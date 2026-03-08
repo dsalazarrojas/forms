@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees on their experience with church events. It is intended for internal use only and will not be shared publicly. It's assumed that the events being evaluated will have varying levels of quality, and this form aims to identify areas of improvement for future events. It's essential to complete this form accurately and honestly to help the organizers of these events make informed decisions. Please ensure that you're answering based on your actual experience and not speculating.
-</thinking>
-
 # Church Event Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees on their experience with church events. It will help the organizers understand what they did well and what areas need improvement for future events.

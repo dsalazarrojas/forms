@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Civic Recognition Ceremony RSVP Form - Help Guide
 
 ### Purpose

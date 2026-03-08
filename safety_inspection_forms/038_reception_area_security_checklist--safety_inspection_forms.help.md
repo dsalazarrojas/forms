@@ -1,14 +1,3 @@
-<thinking>
-Before creating the help guide, let's first review the purpose and fields of this form to ensure we're on the same page.
-
-The form is named "Reception Area Security Checklist" and it's likely used to inspect and document the safety status of reception areas in an organization or facility. 
-
-This form has fields related to different aspects of reception area safety, including doors and locks, surveillance systems, fire exits, fire extinguishers, emergency exits, emergency contact info, security monitors, first aid training, fire drills, and more. These fields are mostly multiple-choice questions or free-text fields for notes.
-
-To create a clear and concise help guide, we'll focus on explaining each field in the context of this form's purpose and scope.
-
-</thinking>
-
 # Reception Area Security Checklist - Help Guide
 
 ## Purpose

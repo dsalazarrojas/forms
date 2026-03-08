@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect RSVP data from attendees for a Zoom event. It's crucial that attendees submit their RSVPs for accurate headcount and seating arrangements. This form is likely to be used by Zoom organizers to gather relevant information from their participants.
-The form should only be completed once per participant to avoid duplication of effort.
-Please note that fields like attendee_name and event_location are not marked as required fields which means they can be left blank.
-The form may have a few fields with options like attendees, event_date and event_time which might need further explanations.
-</thinking>
-
 # Zoom RSVP Form - Help Guide
 
 ## Purpose

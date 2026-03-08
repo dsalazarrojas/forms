@@ -1,7 +1,3 @@
-<thinking>...thinking>
-
-This is a form for collecting reservation information from users. This form is used for booking flights, but we'll refer to it as "flight_reservation_form" to make it more specific. Before proceeding, please ensure you have all necessary information and permissions to book a flight. Additionally, this form is designed for end-users, so it's essential to understand how to fill it out correctly to avoid any issues or errors.</thinking>
-
 # flight_reservation_form - Help Guide
 ## Purpose
 The flight_reservation_form is a form used for booking flights. It collects essential information from users, including their name, contact details, and travel dates.

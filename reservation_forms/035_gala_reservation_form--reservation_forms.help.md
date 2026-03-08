@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gala Reservation Form - Help Guide
 
 ## Purpose

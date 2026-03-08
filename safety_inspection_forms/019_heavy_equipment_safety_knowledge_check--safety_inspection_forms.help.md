@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to assess the safety knowledge of users who interact with heavy equipment. It is likely used in industries where heavy equipment is used, such as construction, manufacturing, or mining. The form is designed to gauge the user's familiarity with procedures and policies related to the use of heavy equipment. This is likely used as part of a larger safety initiative to ensure that users are aware of and follow proper safety protocols. 
-
-This form does not appear to be redundant, as it has a unique combination of questions that cover different aspects of safety knowledge.
-</thinking>
-
 # Heavy Equipment Safety Knowledge Check - Help Guide
 ## Purpose
 The Heavy Equipment Safety Knowledge Check is a series of questions designed to assess your familiarity with procedures and policies related to the use of heavy equipment. This form is intended to ensure that users are aware of and follow proper safety protocols.

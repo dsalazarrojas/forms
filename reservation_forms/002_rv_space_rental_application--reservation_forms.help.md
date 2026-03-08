@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form, "rv_space_rental_application", is to collect information from individuals or businesses seeking to rent a space. This form is likely used by property managers or landlords to gather essential details about potential tenants before making a decision on their rental application. The form is designed to capture relevant details about the tenant's background, lease preferences, and payment information.
-
-To prevent duplication of effort and ensure accurate information collection, it is recommended that this form be completed only once by the applicant and not shared or submitted multiple times. The internal logic should check for duplicates and prevent multiple submissions of this form by the same user.
-
-This guide assumes a basic understanding of the form's purpose and the types of questions it contains. If you are unsure about any of the fields or their meanings, please refer to the explanations provided below.
-</thinking>
-
 # rv_space_rental_application - Help Guide
 ## Purpose
 The "rv_space_rental_application" form is used to collect essential information from individuals or businesses seeking to rent a space. This form helps property managers or landlords make informed decisions on rental applications by gathering details about the tenant's background, lease preferences, and payment information.

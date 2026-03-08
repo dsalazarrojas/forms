@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to capture personal and appointment details for a hairdressing service. The form includes fields for personal information, appointment date, type of service, service duration, appointment time, client preferences, hair condition, hair history, phone number, and email. It is likely intended for clients to book appointments and provide information about their hair needs. To ensure consistency in the data collected, it is likely that the fields should be filled out accurately and in the correct format (e.g., date and time should be entered in the correct format). 
-</thinking>
-
 # Hairdressing Consultation Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect RSVPs for a product anniversary celebration. The purpose of this form is to gather information from attendees about their attendance status and any guests they plan to bring. The form is not required, but it's recommended that attendees fill it out to help the organizers plan the event accordingly.
-
-This form is not a duplicate of other similar forms, as it's specifically designed for this event and collects distinct information.
-
-</thinking>
-
 # Product Anniversary Celebration RSVP - Help Guide
 ## Purpose
 The Product Anniversary Celebration RSVP form is a short and simple form designed to collect information from attendees about their attendance status and guest count for the product anniversary celebration. 

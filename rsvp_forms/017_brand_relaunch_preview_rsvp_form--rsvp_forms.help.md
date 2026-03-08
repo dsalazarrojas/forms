@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and unnecessary steps in the form filling process, please ensure you have not already RSVPd to this event. If you are unsure, please contact [insert contact information] to verify your status.
-The purpose of this form is to gather essential information from attendees to the brand relaunch preview event. This form will help us confirm your attendance, gather your contact information, and understand your preferences and needs for the event.
-</thinking>
-
 # Brand Relaunch Preview RSVP Form - Help Guide
 ## Purpose
 The Brand Relaunch Preview RSVP Form is designed to gather essential information from attendees to the brand relaunch preview event. This form helps us confirm your attendance, gather your contact information, and understand your preferences and needs for the event.

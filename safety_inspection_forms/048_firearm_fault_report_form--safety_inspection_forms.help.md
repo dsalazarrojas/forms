@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Firearm Fault Report Form - Help Guide
 ## Purpose
 This form is designed to help you report a fault with your firearm. Please fill out the form carefully and accurately to help our service team resolve the issue efficiently.

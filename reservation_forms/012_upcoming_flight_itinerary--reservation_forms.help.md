@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for passengers to provide information about their upcoming flight. The purpose of this form is to collect relevant details about the passenger's travel, including their personal contact information, flight specifics, and other relevant data.
-</thinking>
 # Upcoming Flight Itinerary - Help Guide
 ## Purpose
 This form is designed to collect information about a passenger's upcoming flight. It includes fields for passenger contact details, flight details, and other relevant information. Completing this form will help ensure that you have the necessary information for your travel arrangements.

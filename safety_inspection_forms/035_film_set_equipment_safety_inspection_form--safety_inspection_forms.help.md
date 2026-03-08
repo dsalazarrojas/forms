@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Set Equipment Safety Inspection Form - Help Guide
 
 ## Purpose

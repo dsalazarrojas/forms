@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture sales order information from customers, allowing the sales team to efficiently process orders. It is intended for internal use within the organization, and its purpose is to facilitate accurate and organized order tracking. This form does not need to be duplicated or modified. The fields included are essential for the order processing workflow and will be used to generate a sales order document. The form is designed for a specific use case and should be used accordingly.
-</thinking>
-
 # screen_printing_order_form - Help Guide
 ## Purpose
 The screen_printing_order_form is designed to capture sales order information from customers for internal order tracking purposes.

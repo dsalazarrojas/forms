@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by performers who want to participate in the Dance Festival. It is used to collect information from them about their performance needs and schedule. The purpose of this form is to ensure that the festival organizers have accurate and complete information about the performers, so they can plan the event accordingly. 
-
-To prevent duplicate submissions, the system will automatically check if a performer has already submitted an RSVP form. If they have, they will be notified and asked to resubmit.
-
-</thinking>
-
 # Dance Festival Performer RSVP Form - Help Guide
 
 ## Purpose

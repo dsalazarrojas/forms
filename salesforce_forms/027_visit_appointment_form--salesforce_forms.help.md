@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for visit appointments.
-The form has four pages:
-  * Page 1: Customer Information (Page 1)
-  * Page 2: Appointment Details
-  * Page 3: Additional Information (Optional)
-  * Page 4: Confirmation
-The form's purpose is to gather essential details from customers for visit appointments, including their personal information, appointment specifics, and any additional notes or comments. This form is a straightforward and efficient way to collect necessary information, ensuring a smooth visit experience for both the customer and the business.
-
-To prevent duplication or misinterpretation, this form is not affiliated with, endorsed by, or derived from any form platform. It is a unique, AI-generated adaptation of public survey topics and metadata.
-
-The form's design and content are released under CC BY 4.0, allowing users to freely use, modify, and sell the form, providing they give credit.
-</thinking>
-
 # Visit Appointment Form - Help Guide
 ## Purpose
 The Visit Appointment Form is designed to collect essential information from customers for visit appointments, ensuring a smooth experience for both the customer and the business.

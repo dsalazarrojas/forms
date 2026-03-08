@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to help residents of the neighborhood RSVP (Respond to a Socially Positive Invitation to Visit, or in this case, a "neighborhood open house") to an event. The form will collect information about the guest's name, contact phone number, number of guests attending, if they will attend, the date they plan to attend, and any additional message or comments they might have. 
-
-The following fields are included in this form: 
-- guest_name: Guest Name 
-- guest_phone: Guest Phone 
-- number_of_guests: Number of Guests 
-- will_attend: Will Attend 
-- rsvp_time: RSVP Time 
-- rsvp_date: RSVP Date 
-- message: Message 
-- rsvp_by: RSVP By 
-
-These fields are used to help the event host track the RSVPs and make sure they have all the necessary information for the event. To fill out this form, follow the instructions below. 
-</thinking>
- 
 # Neighborhood Open House RSVP Form - Help Guide
 
 ## Purpose

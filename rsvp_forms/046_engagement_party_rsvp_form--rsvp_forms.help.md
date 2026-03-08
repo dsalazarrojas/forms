@@ -1,8 +1,3 @@
-<thinking>
-We are creating a help guide for the "engagement_party_rsvp_form" form, which is used to collect RSVP information from guests attending an engagement party. This form is likely to be used by the party organizers or hosts to gather essential details from guests about their attendance, contact information, and any special messages they may want to share.
-We will ensure that the form fields are clearly explained, making it easy for end-users to understand and complete the form accurately. This will prevent any misunderstandings or misinterpretation of the form's purpose and fields.
-</thinking>
-
 # engagement_party_rsvp_form - Help Guide
 ## Purpose
 The "engagement_party_rsvp_form" is a simple form designed to collect information from guests attending an engagement party. It includes fields for RSVP status, guest details, and contact information.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to capture essential information for electricians to efficiently process sales orders. The fields provided are meant to cover crucial points in the sales process, ensuring that the electrician, sales representative, and customer are all on the same page. It's essential to complete this form carefully and accurately to avoid misunderstandings or missed opportunities.
-
-The form's purpose is to streamline communication and documentation throughout the sales process, from initial contact to finalizing orders.
-
-This form should not be used as a template for other sales processes with different requirements or purposes.
-
-</thinking>
-
 # Sales Process Template For Electricians - Help Guide
 ## Purpose
 This form is designed to capture information for sales orders from electricians. It helps to ensure that all parties involved in the sales process have a clear understanding of the order details.

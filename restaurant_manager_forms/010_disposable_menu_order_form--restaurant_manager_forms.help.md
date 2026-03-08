@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disposable Menu Order Form - Help Guide
 
 ## Purpose

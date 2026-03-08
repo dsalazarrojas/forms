@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information about the safety inspection of a construction site, specifically for areas such as foundations, roads, and sidewalks. This form aims to gather data about the conditions and damage of these areas, which is crucial for identifying potential safety risks and taking corrective actions. Before filling out this form, please ensure that you are familiar with the specific inspection criteria and that you are not duplicating efforts, as this form is intended for collecting data on existing conditions. Please note that some fields are required to ensure that the form is completed accurately and thoroughly. </thinking>
-
 # Pre Pour Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to collect data about the conditions of foundation, road, and sidewalk areas on a construction site. This data will be used to identify potential safety risks and inform corrective actions.

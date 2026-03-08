@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for restaurant managers to collect information from customers when placing an order. The form will gather customer contact information, order details such as type, date, and time, payment method, and order status. This form is likely used for internal purposes such as recording customer orders, tracking order status, and communicating with customers.
-
-This form is not a duplicate of any other form in the system, and its purpose is unique to the restaurant management process.
-
-</thinking>
-
 # Restaurant Order Form - Help Guide
 ## Purpose
 The Restaurant Order Form is a tool for restaurant managers to collect and record customer order information.

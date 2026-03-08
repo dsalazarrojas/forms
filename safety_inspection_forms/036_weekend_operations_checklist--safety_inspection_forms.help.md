@@ -1,8 +1,3 @@
-<thinking>
-The Weekend Operations Checklist is a form used to gather information about the status of various systems and equipment on site during the weekend operations. This form is designed to ensure that all necessary systems are checked and reported before the weekend, to prevent any potential issues or accidents that may arise due to unattended or malfunctioning equipment.
-This form should only be completed if the site has been inspected and the user is confident that all required systems are functioning correctly. If any issues are identified, they should be reported immediately to prevent any potential risks.
-</thinking>
-
 # Weekend Operations Checklist - Help Guide
 ## Purpose
 The Weekend Operations Checklist is a form used to gather information about the status of various systems and equipment on site during the weekend operations. This form ensures that all necessary systems are checked and reported before the weekend, to prevent any potential issues or accidents that may arise due to unattended or malfunctioning equipment.

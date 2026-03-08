@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Pre Order Form" which is part of the "salesman_forms" category. Upon reviewing the YAML, I see that this form appears to be designed to capture customer information for pre-order purposes. The form consists of five fields: "customer", "customer name", "customer email", "customer phone", and "Pre Order Form" (which seems to be a title field). It's likely used for salesmen to collect contact information from customers interested in pre-ordering a product or service. We should ensure that users understand the purpose of each field and how to fill it out correctly to avoid confusion.
-
-</thinking>
-
 # Pre Order Form - Help Guide
 ## Purpose
 The Pre Order Form is used for salesmen to collect contact information from customers interested in pre-ordering a product or service. It helps salesmen to gather essential details about the customer, enabling them to follow up with them and facilitate the pre-order process.

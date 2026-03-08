@@ -1,22 +1,3 @@
-<thinking>
-
-This form is used to request a permit for music video production at a specific location. The purpose of this form is to gather necessary information from the applicant about the location, crew, and production details. The form is designed to be completed by the location owner or manager to provide the required information for the permit application.
-
-To ensure that this form is completed correctly and efficiently, please review the following guidelines:
-
-1. Ensure that you are the authorized person to submit this form on behalf of the location.
-2. Please provide accurate and complete information about the location, including the address, city, zip, state, and country.
-3. Specify the contact person and their phone number.
-4. Clearly describe the nature of the shoot and the duration of the permit.
-5. List all the safety measures that will be taken during the shoot.
-6. Specify the equipment that will be used during the shoot.
-7. List all the members of the cast and crew.
-8. Ensure that you agree to the terms and conditions of the permit.
-
-This form will help ensure that all necessary information is collected and processed efficiently.
-
-</thinking>
-
 # music_video_location_permit_request_form - Help Guide
 ## Purpose
 This form is used to request a permit for music video production at a specific location.

@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form is named "Safety Meeting Checklist" and it's part of the "safety_inspection_forms" category. This suggests that the form is related to safety inspections or meetings. The fields in the form seem to be related to the safety meeting process, including meeting date, location, attendees, leaders, and notes. The form is likely used to document important information about safety meetings, such as dates, attendance, and actions plans.
-
-Checking for relevance, we can see that the form fields align with common practices in safety meetings, such as documenting meeting dates, attendees, and action items. The form might be used by safety teams or managers to keep track of safety meetings and identify potential hazards. To prevent duplication, let's assume that the form is not meant to be filled out by the same user for the same meeting more than once. Users should only fill out the form once per meeting.
-
-The form is likely used to provide a structured way of capturing safety meeting information, which can then be used to improve safety processes and prevent accidents.
-</thinking>
-
 # Safety Meeting Checklist - Help Guide
 
 ## Purpose

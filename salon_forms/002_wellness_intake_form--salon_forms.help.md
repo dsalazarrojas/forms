@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the individual's overall wellness, including their name, contact information, health history, and emergency contact details. This form is meant to be completed by individuals seeking care or services at a salon, and is part of the onboarding process. By providing this information, the individual will be able to receive the necessary care and attention for their specific needs. It is assumed that the individual has provided consent for the completion of this form. The form is designed to be completed once, and the information collected will be used to tailor services and provide personalized care. The information collected will be stored securely and only accessed by authorized staff. 
-
-</thinking>
-
 # Wellness Intake Form - Help Guide
 
 ## Purpose

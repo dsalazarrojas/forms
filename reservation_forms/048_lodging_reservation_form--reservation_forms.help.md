@@ -1,6 +1,3 @@
-<thinking>
-A lodging reservation form is used for individuals visiting a police department to book accommodations. It captures personal and visit details for lodging purposes. The form helps ensure accurate and efficient communication between the individual and the department, reducing errors and misunderstandings. It's essential to fill out the form accurately to avoid any confusion. This form is not meant to be filled out by officers, it's for individuals visiting the department.
-</thinking>
 # Lodging Reservation Form - Help Guide
 ## Purpose
 This form is used to book lodging for individuals visiting a police department. It captures personal and visit details for efficient communication and accurate record-keeping.

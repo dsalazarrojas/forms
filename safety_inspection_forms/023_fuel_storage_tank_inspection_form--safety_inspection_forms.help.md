@@ -1,13 +1,3 @@
-<thinking>
-This form is used for fuel storage tank inspection. To determine if this form is relevant and not a duplicate, consider the following:
-- Is the fuel storage tank subject to regular inspections?
-- Are the inspection procedures and guidelines up-to-date?
-- Have all necessary safety protocols been followed?
-- Have previous inspections been completed for this tank?
-
-If you answer "yes" to all these questions, it's likely that this form is relevant and not a duplicate. Proceed to fill it out.
-</thinking>
-
 # Fuel Storage Tank Inspection Form - Help Guide
 
 ## Purpose

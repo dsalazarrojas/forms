@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Automotive Safety Verification Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for an automotive safety verification request, which is a critical process to ensure the vehicle's safety and compliance with relevant regulations. The purpose of this form is to gather details about the vehicle, the requester, and the inspection requirements to facilitate efficient and effective safety verification.

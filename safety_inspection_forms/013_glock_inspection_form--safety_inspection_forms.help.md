@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for the purpose of documenting and inspecting GLOCK firearms for safety and maintenance. The form allows users to input information about the firearm's condition, safety features, and maintenance records, which can be used for quality control and inspection purposes.
-The form is not intended for general information collection or data analysis, but rather for detailed inspection and recording of specific firearm data.
-The form's purpose is to ensure that the firearm is safe to use and that its maintenance records are up-to-date.
-</thinking>
-
 # glock-inspection-form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the GLOCK firearm's condition, safety features, and maintenance records.

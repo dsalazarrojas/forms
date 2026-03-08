@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form designed to collect detailed service requests from customers or end-users. The form likely aims to gather information about the type of service needed, date and time of the service, contact information, and other relevant details. Before proceeding, please ensure you are using this form for its intended purpose and not duplicating an existing request. This form is meant for a single service request, so if you are submitting multiple requests, please create separate forms for each one.
 
 # Detailed Service Request - Help Guide

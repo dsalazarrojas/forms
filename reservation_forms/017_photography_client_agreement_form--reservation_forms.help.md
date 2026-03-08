@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Photography Client Agreement Form", we'll need to ensure that users understand the form's purpose, how to complete it, and what each field means. The form's purpose is to gather information from clients about their photography needs and preferences. This includes details about the photo session, such as session date and time, location, and type. The form also requests the client's email address, phone number, and agreement to the terms of the photo session. To complete this form, users will need to provide the necessary information about their photo session and agree to the terms of the session. Each field should be explained clearly, taking into account the type of information it collects (e.g., text, email, date).
-</thinking>
-
 # Photography Client Agreement Form - Help Guide
 ## Purpose
 The "Photography Client Agreement Form" is a tool used to gather information from clients about their photography needs and preferences for a photo session. This form helps us understand what type of session you are looking for, what dates and times work best for you, and what services you are interested in.

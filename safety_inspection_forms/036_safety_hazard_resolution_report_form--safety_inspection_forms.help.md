@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to report safety hazards and provide details about their resolution. It's essential to ensure that the data collected is accurate, complete, and not duplicated. Please review the form carefully before submitting the information.
-</thinking>
-
 # Safety Hazard Resolution Report Form - Help Guide
 ## Purpose
 The Safety Hazard Resolution Report Form is designed to collect information about safety hazards and their resolution. It's used to identify, document, and address potential risks and incidents in the workplace. This form is a tool for safety managers, inspectors, and other stakeholders to gather accurate and consistent data.

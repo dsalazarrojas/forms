@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for RSVPing to a Fashion Designer Luncheon event. The purpose of this form is to gather attendee information, including their first and last name, contact email, phone number, attendance status, and any additional comments they may have. This form is intended for fashion designers and industry professionals to RSVP for the event. Before filling out this form, please note that it is required to provide your last name, email, and attendance status. 
-
-</thinking>
-
 # Fashion Designer Luncheon RSVP Form - Help Guide
 ## Purpose
 The Fashion Designer Luncheon RSVP Form is a simple form designed to help us gather information from attendees for the Fashion Designer Luncheon event.

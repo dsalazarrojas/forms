@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to report their return to work information. The form is designed to collect the date returned to work, shift start and end times, and reason for returning to work. This form is intended to help management track employee attendance and attendance-related activities. To ensure accurate and consistent use of this form, please ensure that you only fill it out after having actually returned to work and that the information provided is correct and up-to-date. Please do not fill out this form if you have already completed one for the same return to work date.
-</thinking>
-
 # Return To Work Form - Help Guide
 ## Purpose
 The Return To Work Form is used to report an employee's return to work after an absence.

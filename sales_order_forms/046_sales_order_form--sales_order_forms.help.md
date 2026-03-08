@@ -1,7 +1,3 @@
-<thinking>
-This form is for processing sales orders. It is designed for sales teams to collect customer and order information in a structured and organized way. The form fields are divided into several categories to facilitate easy completion.
-</thinking>
-
 # sales_order_form - Help Guide
 ## Purpose
 This form is used for processing sales orders, allowing sales teams to collect customer and order information in a structured and organized way.

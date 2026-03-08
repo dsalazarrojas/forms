@@ -1,7 +1,3 @@
-<thinking>
-  This form is meant to be used by staff to record and manage reservations for housing. It's a crucial form for maintaining accurate records and ensuring that the reservation system is up-to-date. Before filling out this form, please make sure that you have checked the reservation system and that the housing unit is currently available. If there are any discrepancies, please correct them before proceeding.
-</thinking>
-
 # Housing Cart Reservation Form - Help Guide
 ## Purpose
 The Housing Cart Reservation Form is used to record and manage reservations for housing. It's essential for maintaining accurate records and ensuring that the reservation system is up-to-date.

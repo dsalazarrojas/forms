@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect customer information for styling services. The form is used to gather basic details about the customer, including their name, size preferences, and contact information. The form is part of the sales order process in the fashion industry.
-
-This form is intended to be completed by customers, sales representatives, or other stakeholders involved in the sales process. To ensure accurate and consistent data collection, it's essential to understand the purpose and usage of each field.
-
-The form is not affiliated with any specific form platform, and its creation is based on public survey topic metadata. The form's design and content are original adaptations, and any derived forms should be credited accordingly.
-
-</thinking>
-
 # Zyia Styling Form - Help Guide
 ## Purpose
 The Zyia Styling Form is designed to collect customer information for styling services, including name, size preferences, and contact details.

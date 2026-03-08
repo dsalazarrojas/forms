@@ -1,5 +1,3 @@
-<thinking>What this form is designed to do is identify and document potential risks on site, ensuring that our team is aware of and prepared to mitigate any risks that could impact our projects and operations. This form guides the user to collect and record information on various aspects of the risks, including risk assessment, level, and description, as well as mitigation plans and next steps to address the risks. This information will help to create a comprehensive risk register, which will aid in informed decision-making and resource allocation. This guide will walk you through each field to ensure that the user is able to collect the necessary information accurately and effectively.</thinking>
-
 # Onsite Dynamic Risk Assessment Form - Help Guide
 ## Purpose
 The Onsite Dynamic Risk Assessment Form is designed to identify potential risks that may impact projects or operations on site, ensuring that our team is informed and prepared to take action.

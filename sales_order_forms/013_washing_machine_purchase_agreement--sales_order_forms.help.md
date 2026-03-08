@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information from a customer for a washing machine purchase. The customer will provide their contact details, purchase details, and payment information. This form is likely to be used in a sales context, where a sales representative needs to record the customer's agreement with the purchase details. The form may be used for internal purposes such as sales reporting, customer communication, or order tracking.
-</thinking>
-
 # Washing Machine Purchase Agreement - Help Guide
 ## Purpose
 The purpose of this form is to record the customer's agreement with the purchase details for a washing machine purchase, including contact information, purchase date, machine type, purchase price, delivery address, payment method, payment due date, and payment total.

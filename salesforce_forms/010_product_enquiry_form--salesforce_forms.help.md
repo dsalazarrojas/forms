@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers who are interested in learning more about a product or service. The purpose of this form is to provide a channel for customers to reach out to the company with their inquiries, whether it be for product information, support, or a quote. This form will help the company better understand the customer's needs and preferences, and respond accordingly.
-</thinking>
-
 # Product Enquiry Form - Help Guide
 ## Purpose
 The Product Enquiry Form is a tool to gather information from customers who want to know more about a product or service.

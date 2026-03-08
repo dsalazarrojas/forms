@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document an employee's return to work process after a work-related injury or illness. The form is intended to be filled out by the employee's physician, verifying their fitness to return to work and providing necessary information for the employee's work status.
-</thinking>
-
 # Physician Release To Return To Work Form - Help Guide
 ## Purpose
 

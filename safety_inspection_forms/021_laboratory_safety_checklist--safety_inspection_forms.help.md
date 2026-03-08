@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to ensure that laboratory personnel are aware of and are taking the necessary steps to ensure a safe working environment. The primary purpose of this form is to verify that the lab is equipped and prepared for potential hazards and incidents. This includes ensuring that all necessary safety equipment, procedures, and protocols are in place. It is a critical tool in maintaining a safe and compliant environment for laboratory activities. This form should be completed thoroughly and regularly, as it helps in identifying potential risks and hazards. It is essential for ensuring that the laboratory meets the relevant safety standards and protocols. Please review the following help guide to understand the form purpose and its required fields.
-</thinking>
-
 # Laboratory Safety Checklist - Help Guide
 ## Purpose
 The Laboratory Safety Checklist is a tool used to verify that a laboratory is equipped and prepared for potential hazards and incidents. This form aims to ensure that all necessary safety equipment, procedures, and protocols are in place.

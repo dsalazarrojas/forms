@@ -1,5 +1,3 @@
-<thinking>...The form is used to collect information from customers when they place an order for a Square Pizza. Each field must be filled out to ensure accurate order fulfillment. Please review the fields carefully and make sure you're providing the correct information. If any fields are unclear or you have questions, ask the order coordinator for guidance...</thinking>
-
 # Square Pizza Order Form - Help Guide
 ## Purpose
 This form is used to collect order information from customers who are placing an order for a Square Pizza. Each field must be filled out to ensure accurate order fulfillment.

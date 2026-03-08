@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used by safety inspectors to assess the safety of forklifts in a workplace or facility. The purpose of this form is to identify potential safety concerns and provide recommendations for improvement. To complete this form, the user should answer the questions accurately and thoroughly. However, before proceeding, let's ensure that the answers are not duplicated or irrelevant. This form should not be used for general queries or discussions, but rather for detailed and specific safety assessments.
-
-</thinking>
-
 # Forklift Safety Inspection Form - Help Guide
 ## Purpose
 The Forklift Safety Inspection Form is used to identify potential safety concerns and provide recommendations for improvement on forklifts in a workplace or facility.

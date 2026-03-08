@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture sales figures and information for each salesperson, covering the day's sales performance. This form is used for daily sales reporting, allowing salespeople to input their sales data for each region, district, customer, and product. The purpose of this form is to ensure accurate and up-to-date sales data is recorded and reported. It is essential to complete this form accurately and consistently to help the sales team track and analyze sales performance.
-</thinking>
-
 # End Of Day Sales Report Form - Help Guide
 ## Purpose
 The End Of Day Sales Report Form is used for daily sales reporting, capturing sales data for each salesperson, region, district, customer, and product.

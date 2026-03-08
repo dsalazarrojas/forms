@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from schools and other groups visiting the science center for a guided or self-guided tour. The form asks for details such as school name, contact person, email, phone number, and other relevant information. The form also has fields for additional information like date and time of visit, number of students, age range, tour type, and more. The form is designed to be completed by school administrators or group organizers to provide necessary details for planning and execution of the tour. This form is typically used for internal purposes within the science center and may not be publicly accessible.
-Checking for relevance and non-duplication: There are no obvious fields that are redundant or unnecessary, but some fields like "school_name" and "school_contact" could be combined into one field, as "school_name" already has a "contact_person" field that contains the person responsible for making the reservation.
-</thinking>
-
 # science_center_tour_reservation_form - Help Guide
 ## Purpose
 This form is used to collect information from schools and other groups for a guided or self-guided tour of the science center.

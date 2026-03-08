@@ -1,6 +1,3 @@
-<thinking>
-The form is intended to be completed by users who want to request a trial of a product or service. It is not meant to be a sales transaction form. The purpose of the form is to capture relevant information about the trial request, including the lead details, trial start and end dates, duration, and other relevant notes. To avoid duplication, users should not submit the same form multiple times for the same purpose.
-</thinking>
 # Trial Request Form - Help Guide
 ## Purpose
 This form is designed to capture the details of a trial request for a product or service. It is intended for users who want to explore the product or service before committing to a purchase.

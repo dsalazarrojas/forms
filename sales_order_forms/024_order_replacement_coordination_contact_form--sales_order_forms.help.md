@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather contact information and replacement details from customers who need to replace an order. It's essential to provide accurate and clear contact information to ensure efficient communication. Before filling out this form, please check if you've already contacted us regarding this order, as duplicate submissions might cause confusion and delay the process. Fill out this form to initiate the replacement coordination process. Please note that the form is not affiliated with any form platform and is an original creation.
-</thinking>
-
 # Order Replacement Coordination Contact Form - Help Guide
 
 ## Purpose

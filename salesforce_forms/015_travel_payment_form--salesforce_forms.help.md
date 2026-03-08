@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to facilitate the processing of travel payments for employees or travelers. It captures relevant information such as payment date, travel details, and payment method to ensure accurate and efficient financial management. The form is likely used by finance departments or travel administrators to gather necessary data for reimbursement or expense reports.
-To avoid duplication of efforts, please review the form fields and instructions carefully before filling out the form.
-</thinking>
-
 # Travel Payment Form - Help Guide
 ## Purpose
 This form is designed to collect relevant information for travel payments, including payment dates, traveler details, and payment methods.

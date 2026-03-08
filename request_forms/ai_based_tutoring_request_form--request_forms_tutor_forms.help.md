@@ -1,5 +1,3 @@
-<thinking>Form purpose is to collect information from students to better understand their needs and provide effective tutoring assistance. This form will help us tailor our support services to meet your learning goals. Please ensure you submit a single, accurate entry per student to avoid duplication and ensure the best possible outcome.</thinking>
-
 # AI Based Tutoring Request Form - Help Guide
 ## Purpose
 The AI Based Tutoring Request Form is designed to collect information from students to provide effective tutoring assistance. By submitting this form, you will help us understand your learning needs and preferences, allowing us to tailor our support services to meet your goals.

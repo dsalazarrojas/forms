@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from sales teams to submit leads for cross-selling opportunities. The form should only be completed for customers that are already existing or have a high potential for cross-selling. 
-To prevent duplication, please ensure that the company and customer names match existing records before submitting a new lead. 
-This form should not be used for leads where the customer has not yet been contacted or engaged by the sales team. 
-</thinking>
-
 # Cross Sell Lead Submission Form - Help Guide
 ## Purpose
 The Cross Sell Lead Submission Form is used to submit leads for cross-selling opportunities. 

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture information for a reservation, likely for a hotel or accommodation. The form should only be completed by users who have a legitimate need to make a reservation. It is essential to ensure that the reservation information is accurate and up-to-date to avoid any conflicts or miscommunications. This form should not be used for any other purpose other than making a reservation.
-
-</thinking>
-
 # Reservation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record daily food and storage temperature data from restaurant staff. It will help to track the quality and safety of food during preparation, storage, and serving. The form will be used to monitor and report temperature values to ensure that food is stored and served at safe temperature ranges. This is the official daily temperature form for recording food and storage temperatures for the restaurant.
-</thinking>
-
 # Daily Food Temperature Form - Help Guide
 ## Purpose
 This form is used to record the daily food and storage temperatures for quality and safety control.

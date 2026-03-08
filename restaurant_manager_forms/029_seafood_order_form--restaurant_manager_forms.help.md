@@ -1,7 +1,3 @@
-<thinking>
-The Seafood Order Form is used to capture customer information, order details, and payment information for seafood orders. This form is designed to be completed by customers to place orders for seafood products. It is not intended for other purposes, such as general contact forms or surveys.
-</thinking>
-
 # Seafood Order Form - Help Guide
 ## Purpose
 The Seafood Order Form is a tool for customers to provide their order details and preferences.

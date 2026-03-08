@@ -1,10 +1,3 @@
-<thinking>
-The Event Video Request Form is designed to collect information from clients about their video requests. The form is used to gather details about the client's event and their video request status. 
-The form is used internally within the company to keep track of video requests and ensure that all necessary information is captured before proceeding with the request. 
-Please ensure that you are not requesting a video for an event that has already been recorded or is no longer active. 
-If the event is part of a recurring series, please provide the specific date of the event you are requesting a video for.
-</thinking>
-
 # Event Video Request Form - Help Guide
 ## Purpose
 The Event Video Request Form is used to collect information from clients about their video requests for events. This form helps the company keep track of video requests and ensures that all necessary information is captured before proceeding with the request.

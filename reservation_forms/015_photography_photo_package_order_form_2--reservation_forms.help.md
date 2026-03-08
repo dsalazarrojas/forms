@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to provide information about a photography photo package order, specifically for events such as weddings, birthday celebrations, or other gatherings. The form collects details about the event, the type of photography package desired, and contact information for the client. It also has space for special requests and package details.
-This form should be used for users who are inquiring about or requesting a photography package for their event. It is not designed for users who are simply looking for general information about photography services.
-</thinking>
-
 # Photography Photo Package Order Form 2 - Help Guide
 ## Purpose
 The Photography Photo Package Order Form 2 is a form used to gather information from clients about their photography package needs for events such as weddings, birthday celebrations, or other gatherings.

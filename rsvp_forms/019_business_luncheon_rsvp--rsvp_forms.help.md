@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees who are RSVPing to a business luncheon event. It aims to gather data on attendees' names, contact details, company names, job titles, and preferences for the event. The form also requests information on attendance status, meal preferences, dietary restrictions, and other relevant details that will aid in the event planning and organization.
-
-</thinking>
-
 # Business Luncheon RSVP - Help Guide
 ## Purpose
 This form is used to collect RSVPs from attendees for a business luncheon event. The form aims to gather essential details such as names, contact information, and preferences to ensure a smooth and enjoyable experience for all attendees.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the (Slick Client's) L'Oréal's Professional Consultation Form, I will analyze the provided YAML fields and explain the form's purpose, how to complete it, and each field's meaning.
-
-The form is designed to collect information from clients about their hair and scalp conditions, preferences, and concerns, as well as their desired hair goals and allergies/sensitivities. The form is intended for L'Oréal's professional consultants and stylists to use as a consultation tool to provide personalized recommendations for their clients.
-
-</thinking>
-
 # (Slick Client's) L'Oréal's Professional Consultation Form - Help Guide
 ## Purpose
 This form is designed to help L'Oréal's professional consultants and stylists collect client information and provide personalized recommendations for hair and scalp treatments.

@@ -1,5 +1,3 @@
-<thinking>...This form is used for customers to place cafe orders in advance. It's meant for both pickup and delivery orders. The form collects information for customers to provide their name, contact phone number, and the items they want to order along with their quantities. Additionally, customers can choose their preferred pickup or delivery method and time. If delivery is selected, the customer must provide their address. Payment methods are also specified, including card, cash, or online payment. The form also allows customers to provide any special instructions for their order. This form is intended for customers to fill out and submit to place their orders, ensuring that the cafe has all necessary information to fulfill the order accurately and efficiently... </thinking>
-
 # Cafe Order Form - Help Guide
 ## Purpose
 The Cafe Order Form is used for customers to place cafe orders in advance, allowing the cafe to accurately and efficiently fulfill their orders.

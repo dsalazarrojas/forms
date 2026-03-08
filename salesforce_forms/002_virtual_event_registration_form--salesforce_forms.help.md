@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect registration information from attendees for virtual events. It captures basic contact information, event type, and purchase order details. The goal is to gather data efficiently without overwhelming the user with unnecessary questions.
-</thinking>
-
 # Virtual Event Registration Form - Help Guide
 
 ## Purpose

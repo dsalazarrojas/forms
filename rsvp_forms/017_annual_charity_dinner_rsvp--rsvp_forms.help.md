@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for RSVP for the annual charity dinner event, which allows guests to provide their details and preferences to make the event planning and coordination process smoother. The purpose of this form is to collect necessary information from attendees, including their contact details, meal preferences, and any special requests or requirements. This form will be used to create a comprehensive guest list and plan for the event, ensuring that everyone's needs are met and that the event runs smoothly. Before filling out this form, please ensure that you are attending the annual charity dinner event and have not already responded.
-</thinking>
-
 # Annual Charity Dinner RSVP - Help Guide
 ## Purpose
 The Annual Charity Dinner RSVP form is designed to collect information from attendees to ensure that we can provide the best experience for all guests and make necessary arrangements for a successful event.

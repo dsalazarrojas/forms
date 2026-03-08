@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are invited to a Gender Reveal Event. The form is used to gather details about the event such as the title, date, time, location, RSVP status, expected guest count, name, and contact phone number. This form is intended for internal use within an organization and is not publicly accessible.
-</thinking>
-
 # Gender Reveal Event Invitation - Help Guide
 ## Purpose
 The purpose of this form is to collect RSVP information from invited individuals for a Gender Reveal Event.

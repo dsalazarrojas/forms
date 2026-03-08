@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for flight reservations, likely for travel agencies or airlines. The purpose of this form is to gather personal and travel-related details from customers. The form is divided into several sections, each with a specific field that the customer needs to fill in. This guide will walk you through the process of completing the form step by step.
-</thinking>
-
 # Flight Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information for flight reservations, which will be used to book and manage flight schedules. To fill in the form, follow the instructions below.

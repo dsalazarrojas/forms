@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to assess the safety and certification status of electrical systems in a facility or workplace. This form guides users through a series of questions and checks related to electrical system inspections, certifications, and emergency contact information. The form is intended for users who are responsible for maintaining and certifying electrical systems, such as maintenance personnel, safety inspectors, or facility managers.
-
-Before starting the form, ensure that:
-
-* You are authorized to access and complete this form.
-* You have reviewed the relevant policies and procedures for electrical system maintenance and certification.
-* You have all necessary information and documentation required to complete the form.
-
-Please note that the form has been designed to guide you through a structured checklist of questions. Please answer each question carefully and thoroughly, as it will help ensure accurate and reliable data.
-
-Also, be aware that some fields may have conditional dependencies or relationships with other fields. For example, if you answer 'Yes' to "electrical_system_certification_status" field, you may be required to provide additional information related to "electrical_systems_certification_issue_date" and "electrical_systems_certification_issue_description" fields.
-
-Finally, please keep in mind that this form is intended to be completed by authorized personnel only. If you are unsure about any question or feel that you cannot complete the form, please reach out to your supervisor or relevant authority for guidance.
-
-</thinking>
-
 # Electrical Safety Checklist Form - Help Guide
 ## Purpose
 

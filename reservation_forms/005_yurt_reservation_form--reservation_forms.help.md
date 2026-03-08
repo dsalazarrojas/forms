@@ -1,10 +1,3 @@
-<thinking> 
-This form is used for reserving a Yurt, which is a type of campsite. The form collects information from guests about their reservation, including their name, email, phone number, and payment method. It also includes fields for the start and end dates of the reservation, as well as additional information about the guest's arrival and departure dates.
-
-The form does not have any explicit validation or duplication checks in its schema, so we will not address that in this help guide. It is assumed that the form will be used for a single reservation per user, so the fields are designed to collect the relevant information for that one reservation.
-
-</thinking>
-
 # Yurt Reservation Form - Help Guide
 ## Purpose
 This form is used to reserve a Yurt at the campsite. It collects information from the guest, including their name, email, phone number, and payment method, as well as dates for the reservation.

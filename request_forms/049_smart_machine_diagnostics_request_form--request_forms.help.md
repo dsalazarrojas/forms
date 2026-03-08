@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit a request for machine diagnostics. When a machine is not functioning properly, fill out this form to request that it be diagnosed. This will guide the maintenance team in identifying the issue and making a plan to resolve it. Please only submit a request for a machine that has not yet been reported as having a diagnostic request in progress.
-</thinking>
-
 # Smart Machine Diagnostics Request Form - Help Guide
 ## Purpose
 The Smart Machine Diagnostics Request Form is used to submit a request for machine diagnostics when a machine is not functioning properly. It will guide the maintenance team in identifying the issue and making a plan to resolve it.

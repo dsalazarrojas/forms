@@ -1,7 +1,3 @@
-<thinking>
-The Medical Appointment Form is a digital representation of the process for scheduling medical appointments. The form captures essential patient and appointment information, including personal details, appointment scheduling options, and communication channels. This form ensures a structured and organized process for scheduling appointments, facilitating communication between patients and medical staff. The form's fields and sections are designed to be comprehensive and user-friendly, allowing users to easily input and access relevant information. This guide will walk you through the form's purpose, how to complete it, and an explanation of each field.
-</thinking>
-
 # Medical Appointment Form - Help Guide
 ## Purpose
 The Medical Appointment Form is a digital representation of the process for scheduling medical appointments. It captures essential patient and appointment information to facilitate communication between patients and medical staff.

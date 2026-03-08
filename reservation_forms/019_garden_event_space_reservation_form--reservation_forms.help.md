@@ -1,7 +1,3 @@
-<thinking>
-This form is used by users to reserve a space for a garden event. The form is designed to collect information from event organizers about the event details, including the event date and time, number of guests, and event type. This form is not intended for general public use, but rather for internal purposes within the organization or institution. It is recommended that only authorized users fill out this form to ensure accurate and relevant data collection. Please do not fill out this form if you are not authorized to do so.
-</thinking>
-
 # Garden Event Space Reservation Form - Help Guide
 ## Purpose
 The Garden Event Space Reservation Form is used to reserve a space for a garden event. Event organizers can use this form to provide details about the event, including date, time, number of guests, and type of event.

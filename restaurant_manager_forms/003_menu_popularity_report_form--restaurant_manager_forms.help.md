@@ -1,29 +1,3 @@
-<thinking>
-
-This form is designed to provide a menu popularity report for restaurants and multi-location teams. The form has six fields, each with a specific purpose and required/optional status. The form's main goal is to gather data on menu performance, trend analysis, and other relevant insights. 
-
-The form can be completed by selecting the type of report required, specifying the relevant data collection details, and providing staff insights. 
-
-The form's design allows the user to choose between three different types of reports: Menu Performance, Menu Trend, and Menu Analysis. Each of these reports provides a different set of insights and data. 
-
-The form also asks for a brief description of the data collection process, which will be used to generate the report. 
-
-The form's layout and fields are designed to make it easy to understand and complete. 
-
-The user can choose between two options for the "restaurant_manager_forms_2" field, but it is not required. 
-
-The user can select one option for the "compare_menu_trends" field, which is also not required. 
-
-The user can enter a number for the "monthly_dish_performance" field, which is not required. 
-
-The user can enter an email address for the "staff_insights" field, which is not required. 
-
-The user can enter a note for the "data_collection" field, which is not required. 
-
-The form's fields and options are designed to be self-explanatory and intuitive.
-
-</thinking>
-
 # Menu Popularity Report Form - Help Guide
 
 ## Purpose

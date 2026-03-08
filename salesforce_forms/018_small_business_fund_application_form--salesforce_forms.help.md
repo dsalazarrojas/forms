@@ -1,7 +1,3 @@
-<thinking>
-This form is for applicants to apply for a small business fund. The form asks for basic business information and project details. The form is designed to be completed by business owners or representatives to provide a comprehensive application package for consideration. Please ensure that the form is filled out accurately and thoroughly to increase the chances of a successful application. 
-</thinking>
-
 # small_business_fund_application_form - Help Guide
 ## Purpose
 The Small Business Fund Application Form is designed for small business owners or representatives to apply for funding. This form gathers essential information about the business and project details.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow customers to download ebooks from the company's website. The form's purpose is to collect customer information such as name, email, and phone number for the ebook download process. The form is also used to confirm the customer's email and phone number for security and verification purposes. The form's fields are: Ebook prophets, Name, Email, Phone, Ebooks, Confirm Email, Confirm Phone, Ebooks Type, and Confirm Ebooks Type. 
-Please make sure to fill out the form correctly and thoroughly, and also note that some fields are not required but are still necessary for the form to be submitted properly. The form's data will be used for ebook download and customer communication purposes.
-</thinking>
-
 # Ebook Prophets Download Form - Help Guide
 
 ## Purpose

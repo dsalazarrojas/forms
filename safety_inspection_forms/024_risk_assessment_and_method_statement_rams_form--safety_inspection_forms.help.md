@@ -1,7 +1,3 @@
-<thinking>
-We're going to assume you're familiar with safety inspections and risk assessment. Before we proceed, let's confirm that you've reviewed the safety protocols and risk management procedures relevant to your workplace or project. This form is designed for the Risk Assessment and Method Statement RAMS Form, a crucial tool for identifying and mitigating potential hazards on construction sites. Please ensure that you're not duplicating information already documented in existing risk assessments or reports.
-</thinking>
-
 # Risk Assessment And Method Statement Rams Form - Help Guide
 ## Purpose
 The Risk Assessment and Method Statement RAMS Form is a critical tool used to identify and assess potential hazards on construction sites. It helps you document and prioritize risks, as well as outline control measures to mitigate them.

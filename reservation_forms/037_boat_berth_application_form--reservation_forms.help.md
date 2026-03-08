@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the purpose and completion process of the "Boat Berth Application Form". The form is designed to collect essential information from vessel owners or operators who wish to reserve a berth in a marina or harbor. The purpose of this form is not to create a new reservation, but rather to capture the required details for existing or pending reservations. Before starting the form, please check if you have an existing reservation or have received a confirmation notice for a new one. Completing a new form may cause duplication of efforts and lead to errors. If you're not sure, please contact the marina administration for verification.
-</thinking>
-
 # Boat Berth Application Form - Help Guide
 ## Purpose
 The Boat Berth Application Form is used to gather essential information from vessel owners or operators to reserve a berth in a marina or harbor. It is essential to have all the required details correct to ensure a smooth and efficient reservation process.

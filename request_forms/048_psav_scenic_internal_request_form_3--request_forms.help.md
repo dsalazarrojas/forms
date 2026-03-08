@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting internal requests for scenic installations. It is used by staff to request installations of scenic equipment and other related resources to support events on site. Before starting this form, please ensure that you have checked whether your request already exists or has been fulfilled in our internal database. Please do not submit duplicate requests.
-</thinking>
-
 # Psav Scenic Internal Request Form 3 - Help Guide
 ## Purpose
 This form is used for submitting internal requests for scenic installations to support events on site.

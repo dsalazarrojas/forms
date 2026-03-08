@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect RSVPs from sponsors who are interested in attending the sponsor briefing breakfast event. To ensure that each sponsor has a unique and correct response, we check for duplication and relevance of responses. This helps us to get an accurate headcount and make necessary arrangements for the event.
-</thinking>
-
 # Sponsor Briefing Breakfast RSVP Form - Help Guide
 ## Purpose
 The Sponsor Briefing Breakfast RSVP Form is a form used to collect attendance information from sponsors for the sponsor briefing breakfast event.

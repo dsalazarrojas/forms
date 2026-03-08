@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect general information from potential customers interested in a 5-day free trial of a product or service. The purpose of this form is to gather contact and company information from interested parties, enabling the business to follow up and offer personalized support during the trial period. Before filling out the form, please make sure you haven't already completed this form. This form is a general template, and your submission will not trigger any automatic actions or notifications.
-
-</thinking>
-
 # Free 5 Day Trial Form - Help Guide
 ## Purpose
 The purpose of this form is to collect contact and company information from potential customers interested in a 5-day free trial of a product or service.

@@ -1,12 +1,3 @@
-<thinking>
-We are creating a form for Project Safety Protocol Assessment, used to evaluate project sites for potential hazards and ensure safety practices are up to code. This form helps assessors evaluate project sites' adherence to safety protocols and identify areas for improvement.
-
-To ensure consistency, we will only allow one submission per project site per form. Please make sure to submit one form per project site, and not to submit multiple forms for the same site.
-
-Before proceeding, please ensure that the form is filled out completely and accurately. Incomplete or inaccurate submissions may lead to incorrect safety assessments and potential harm to workers.
-
-</thinking>
-
 # Project Safety Protocol Assessment Form - Help Guide
 ## Purpose
 The Project Safety Protocol Assessment Form is used to evaluate project sites for potential hazards and assess their adherence to safety protocols.

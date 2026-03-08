@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees regarding their preferences and requirements for the holiday party. This form will help the party organizers understand which employees are attending, their dietary restrictions, and other important details to ensure a enjoyable and inclusive celebration.
-</thinking>
-
 # Holiday Party Food Preferences - Help Guide
 ## Purpose
 This form is intended to gather information from employees regarding their preferences and requirements for the holiday party.

@@ -1,14 +1,3 @@
-<thinking>
-
-This form is used to create payment requisitions for various purposes. A payment requisation form is a document used to request payment for something. This form is intended to be filled out by employees to request payment for their work or services. The form requires the following information:
-* Employee information (name, department, job title)
-* Payment details (payment type, amount, date)
-* User involvement (assigned user, submitted by, approved by, declined by)
-
-Before filling out this form, ensure that the payment request is not duplicate and that the payment details are accurate. 
-
-</thinking>
-
 # Payment Requisition Form - Help Guide
 ## Purpose
 The Payment Requisition Form is used to request payment for work or services provided. It captures information about the employee, payment details, and user involvement.

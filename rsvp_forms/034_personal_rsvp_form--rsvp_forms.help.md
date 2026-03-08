@@ -1,6 +1,3 @@
-<thinking>
-This guide assumes that the "Personal RSVP Form" is used to collect information from individuals about their attendance or status at an event. This form is likely used in conjunction with an event planning process, where event organizers need to track who is attending, who is not attending, and why. The form's fields allow users to input details about the event, including its status, attendees, contact information, and any additional notes or comments.
-</thinking>
 # Personal RSVP Form - Help Guide
 
 ## Purpose

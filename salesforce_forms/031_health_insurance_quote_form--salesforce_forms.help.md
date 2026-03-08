@@ -1,9 +1,3 @@
-<thinking>
-To determine if this form is suitable for the user and to prevent duplication, we need to understand its purpose. This form appears to be for quoting health insurance plans, which is a common business need. The form collects information from the individual, including their personal details (name, email, phone, age, and income) and health insurance preferences (health insurance provider, type, and policy holder's details). This form is likely intended for sales or customer service use, where the goal is to provide personalized health insurance quotes or assistance. 
-
-Given this understanding, let's proceed with creating a user-facing help guide for this form.
-</thinking>
-
 # Health Insurance Quote Form - Help Guide
 ## Purpose
 This form is designed to gather essential information for quoting health insurance plans. Please fill it out to help our team provide you with accurate and personalized quotes or assistance.

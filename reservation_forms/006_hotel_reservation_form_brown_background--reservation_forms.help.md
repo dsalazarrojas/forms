@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect reservation information for hotels, allowing users to select their preferred hotel, check-in and check-out dates, room type, background color, and provide any additional notes or contact information. The purpose of this form is to streamline the reservation process and provide users with a convenient way to book their stay at the hotel. It's recommended that users complete this form only if they have the necessary information to proceed with the reservation process. If users have already booked their stay or have no plans to book, there is no need to fill out this form.
-
-</thinking>
-
 # Hotel Reservation Form Brown Background - Help Guide
 ## Purpose
 This form is designed to collect reservation information for hotels, allowing users to select their preferred hotel, check-in and check-out dates, room type, background color, and provide any additional notes or contact information.

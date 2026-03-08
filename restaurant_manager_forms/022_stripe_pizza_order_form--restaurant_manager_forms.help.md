@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect order details for a customer's pizza order. The purpose of this form is to gather the necessary information to fulfill the customer's pizza order requirements. This form is not meant to be used for any other purpose and should only be used for orders. The required fields are: "Quantity" and "Order Type". The other fields are optional and can be filled out by the customer if they wish to provide more information about their order.
-</thinking>
-
 # Stripe Pizza Order Form - Help Guide
 ## Purpose
 This form is used to collect order details for a customer's pizza order.

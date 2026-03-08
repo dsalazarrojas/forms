@@ -2,17 +2,6 @@
 ## Purpose
 The Omnichannel Support Integration Application Form is a tool for customers to provide support and integration requests to your organization. This form helps to streamline the process of gathering necessary information from customers, reducing response times, and improving overall customer experience.
 
-<thinking> 
-This form is designed for customers who want to submit support requests or integration applications to your organization. Before filling out the form, please ensure that you have reviewed our support options and integration services to understand what type of support your organization can provide. 
-
-If you are a returning customer, please note that you will not be able to submit duplicate requests. 
-
-To avoid duplication of requests, please check our public knowledge base or contact our support team if you have any existing requests. 
-
-Please fill out the form accurately and thoroughly to ensure that your support and integration needs are met.
-
-</thinking>
-
 ## How To Complete This Form
 1. Please select the **Support Channels** you would like to integrate with.
 2. Enter your **Email** and **Phone** contact information.

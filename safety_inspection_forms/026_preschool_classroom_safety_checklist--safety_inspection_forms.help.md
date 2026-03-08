@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for conducting a safety inspection of a preschool classroom, focusing on identifying potential hazards that could pose a risk to children and staff. The goal is to ensure a safe learning environment, preventing accidents and injuries. This form should not be used for other purposes; its primary function is to aid educators and administrators in assessing and mitigating safety risks specific to preschool settings.
-
-</thinking>
-
 # Preschool Classroom Safety Checklist - Help Guide
 ## Purpose
 This form is a comprehensive safety inspection checklist for preschool classrooms, aimed at identifying potential hazards and ensuring a safe environment for children and staff.

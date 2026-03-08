@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to create and manage invitations for VIP events. The form allows users to input various details about the event, including the date, time, location, and attendees. The form also includes options for sending invites and setting the event status. Users can choose to send invitations via different methods and add notes about the event. This form is likely used by administrators or event coordinators to manage VIP events within a sales-related context.
-The form is not designed for duplicate or irrelevant submissions, as the required fields ensure that users input necessary information for each event.
-</thinking>
-
 # vip_event_invitation_form - Help Guide
 ## Purpose
 This form is designed to create and manage invitations for VIP events.

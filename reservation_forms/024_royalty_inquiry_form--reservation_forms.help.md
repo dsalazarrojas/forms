@@ -1,13 +1,3 @@
-<thinking>
-This form is used for customers to inquire about making a reservation at a venue. The form is designed to collect information about the event details, including the event name, date, time, number of guests, services required, and contact information. To ensure that customers can provide accurate and complete information, the form will only allow one reservation request per form submission. This means that customers cannot submit the form multiple times with different reservation requests.
-
-The purpose of this form is to gather all necessary information for the venue to process the reservation inquiry and follow up with the customer with the necessary steps for the event.
-
-The form fields are designed to be self-explanatory, but a brief explanation will be provided to help customers understand the purpose of each field.
-
-Please note that this form is a public-facing form, and customers are expected to provide accurate and honest information to ensure that their inquiry is processed correctly.
-</thinking>
-
 # royalty_inquiry_form - Help Guide
 ## Purpose
 The purpose of this form is to allow customers to inquire about making a reservation at a venue. Please fill out the form below to provide all necessary information for the venue to process your reservation request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for salon extensions or appointments. The purpose of this form is to gather details such as the client's name, the type of extension they want, the start and end dates of the extension, any notes or comments, and contact information. Before filling out this form, please ensure that you are not duplicating an existing record. If you are unsure, please check with the salon management to confirm.
-</thinking>
-
 # Extension Form - Help Guide
 ## Purpose
 The Extension Form is used to collect information from clients for salon extensions or appointments.

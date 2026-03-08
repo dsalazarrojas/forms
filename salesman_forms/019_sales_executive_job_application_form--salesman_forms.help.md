@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect information from sales executives applying for a job. To confirm, this form is primarily used by sales representatives looking to join the organization's sales team. To ensure accuracy, please fill out the form completely and ensure that all required fields are filled in.
 
 # Sales Executive Job Application Form - Help Guide

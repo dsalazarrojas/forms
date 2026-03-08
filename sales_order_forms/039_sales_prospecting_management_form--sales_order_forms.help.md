@@ -1,7 +1,3 @@
-<thinking>
-The sales_prospecting_management_form is designed to manage sales prospects by capturing crucial information such as sales stage, customer details, and team member assignment. This form ensures that sales teams can efficiently track and follow up on leads, improving sales performance and customer relationships. To prevent data duplication, users should only fill out the form once per lead, and updates should be made through the "Update" feature.
-</thinking>
-
 # sales_prospecting_management_form - Help Guide
 ## Purpose
 The sales_prospecting_management_form is used to manage sales prospects by capturing relevant information such as sales stage, customer details, and team member assignment.

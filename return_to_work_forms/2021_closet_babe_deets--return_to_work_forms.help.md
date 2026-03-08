@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals who are looking to return to work, specifically women who are interested in the Closet Babe program. The form is designed to help users provide details about their current and desired professional styles, wardrobe needs, and preferences for their return-to-work journey. By completing this form, users will be able to provide their full name, email address, and phone number, which will be used for communication and scheduling purposes. They will also be asked to provide details about their return-to-work date, current employment status, target industry, desired role level, and preferred professional image. Additionally, users will have the opportunity to share their style and career goals, specify which wardrobe areas need attention, and provide information about their budget range for new wardrobe pieces. Finally, users will be asked about their preferred consultation format, available days for consultation, and any additional comments or requests.
-The form is meant to be completed by individuals who are looking to improve their professional style and wardrobe, and the information gathered will be used to provide personalized recommendations and guidance through the Closet Babe program.
-</thinking>
-
 # 2021 Closet Babe Deets - Return to Work Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals who are looking to return to work, specifically women who are interested in the Closet Babe program. The form is intended to help users provide details about their current and desired professional styles, wardrobe needs, and preferences for their return-to-work journey.

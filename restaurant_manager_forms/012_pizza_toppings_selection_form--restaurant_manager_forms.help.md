@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to help restaurant managers create and manage orders for their customers. It's intended to be a simple, user-friendly way to collect information about customer preferences for their pizza orders. The form is divided into sections for each topping category, allowing customers to choose from a variety of options for sauce, cheese, toppings, and crust type. The form also includes fields for special instructions and order comments, as well as date and time of order.
-
-Please note that the form is designed to be completed by customers, and the fields are intended to elicit the necessary information for the customer's order. This guide will cover each field and its intended use to ensure that customers understand what's expected of them. 
-
-</thinking>
-
 # Pizza Toppings Selection Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their desired pizza order.

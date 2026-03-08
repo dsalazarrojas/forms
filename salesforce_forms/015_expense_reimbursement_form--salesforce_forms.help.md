@@ -1,9 +1,3 @@
-<thinking>As a forms expert, I'd like to provide a brief internal reasoning block to ensure we're on the same page.
-
-Upon reviewing the provided YAML, I've identified the Expense Reimbursement Form as a comprehensive form that captures essential details related to employee expenses. It appears to be designed for tracking and managing employee expenses within an organization. The form includes various fields for collecting information such as company address, employee name, date of expense, expense description, amount, category, status, and more. The form also includes email fields for submitted and approved/approved/denied users, which suggests that the form is used for internal communication and tracking within the organization.
-
-To ensure clarity and consistency, I'll use the provided YAML to create a user-facing help guide that covers the form's purpose, completion instructions, and field explanations.</thinking>
-
 # Expense Reimbursement Form - Help Guide
 ## Purpose
 The Expense Reimbursement Form is used to track and manage employee expenses within an organization. It helps collect and verify essential details related to employee expenses, including date, description, amount, category, and status.

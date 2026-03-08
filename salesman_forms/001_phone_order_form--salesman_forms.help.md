@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # phone_order_form - Help Guide
 
 ## Purpose

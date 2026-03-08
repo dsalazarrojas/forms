@@ -1,6 +1,3 @@
-<thinking>
-We need to verify that this form is used for sales orders, specifically for calibration stands, and that it's not used for duplicate purposes. This form is meant for collecting information about customer orders, including their name, email, phone number, delivery details, and preferences for the type of calibration stand they need. We should ensure that the form is clear and easy to follow for end-users, and that each field has a concise and practical explanation.</thinking>
-
 # Robotics Calibration Stand Order Form - Help Guide
 
 ## Purpose

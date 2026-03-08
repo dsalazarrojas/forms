@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from parents for the youth coat pickup process. The form is designed to gather contact information, pickup details, and confirm the pickup of the youth coat. It's essential to fill out this form to ensure the coat is handed over correctly and efficiently to the right person. 
-
-This form is part of a larger process, and it's crucial to complete it correctly to avoid any issues with coat handover.
-
-</thinking>
-
 # Youth Coat Pick Up RSVP - Help Guide
 ## Purpose
 This form is used to collect information from parents for the youth coat pickup process. It ensures that the correct person is contacted and the coat is handed over to the right person at the correct time.

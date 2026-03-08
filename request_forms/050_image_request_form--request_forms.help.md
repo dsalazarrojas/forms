@@ -1,7 +1,3 @@
-<thinking>
-The AI-generated Image Request Form is designed to collect information about an image request from end-users. The form has three pages: "Image Request Form 1", "Insert Image", and "Image". Before proceeding, please ensure that the request is not a duplicate and that you have a valid purpose for submitting this form. Please review the purpose of this form and ensure it aligns with your needs before completing it.
-</thinking>
-
 # Image Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about image requests, which may include requests for image uploads, image links, or image descriptions. It is intended for use in various contexts, such as requesting images for publication, reference, or other uses.

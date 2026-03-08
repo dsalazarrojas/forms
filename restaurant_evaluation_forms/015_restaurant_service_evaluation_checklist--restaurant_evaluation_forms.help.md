@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a Restaurant Service Evaluation Checklist, used for customers to provide feedback on their recent dining experience. This guide will help you understand how to complete the form and what each field is intended to capture.
-
-When completing this form, please be as specific and accurate as possible in your feedback, as it will help restaurants improve their service and quality of food and drinks.
-
-Before starting, please note that this form is divided into several sections, each focusing on different aspects of the restaurant's service.
-
-</thinking>
-
 # Restaurant Service Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their dining experience at the restaurant, allowing the establishment to improve their service and quality of food and drinks.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather attendee information and preferences for the Conference Closing Dinner. The form is intended to be filled out by attendees who have registered for the conference. The form is used to collect data on the attendee's attendance, meal preferences, and other relevant details. 
-</thinking>
-
 # Conference Closing Dinner RSVP - Help Guide
 ## Purpose
 This form is used to collect attendee information and preferences for the Conference Closing Dinner. Please fill out the form carefully to ensure accurate information is submitted.

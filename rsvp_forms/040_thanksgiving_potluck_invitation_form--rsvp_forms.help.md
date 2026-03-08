@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information about an individual's RSVP (Response to Social/Party Invitation) status for a Thanksgiving potluck event. The form will be used to gather details such as the individual's name, email, phone number, and RSVP status. This information will be used to organize and track RSVPs for the event. 
-
-Please ensure you only fill out this form once per guest. If you have any issues or need to make changes, please contact the event organizer. 
-
-</thinking>
-
 # Thanksgiving Potluck Invitation Form - Help Guide
 ## Purpose
 

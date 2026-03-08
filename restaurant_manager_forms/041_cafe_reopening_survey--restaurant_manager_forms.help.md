@@ -1,11 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I've encountered various forms with specific purposes and requirements. This one, however, is a simple survey aimed at understanding the likelihood of customers to visit a cafe after it reopens and their feedback on the safety measures and services offered. The form is likely intended to gauge customer interest and sentiment, providing valuable insights for cafe management to improve their reopening strategy.
-
-Before proceeding, I'll guide you through the form fields to ensure you understand what's expected and how to provide the best input.
-
-</thinking>
-
 # Cafe Reopening Survey - Help Guide
 ## Purpose
 

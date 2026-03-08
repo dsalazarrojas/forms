@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information from clients or customers regarding their graphic design request. The form is used to gather contact details and service preferences to process the request efficiently.
 
 To avoid duplication, please ensure that you haven't previously submitted a request for the same project. If you're unsure or have any questions, feel free to contact us for assistance.

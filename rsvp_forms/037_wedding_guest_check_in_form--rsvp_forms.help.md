@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from wedding guests, allowing them to check in, provide contact details, and respond to the wedding party. It's likely used for wedding events, such as receptions or ceremonies, to gather essential data for planning and organization. The form should be completed by each guest, ensuring accurate and complete information is captured. Ensure that the form is not completed by someone other than the actual guest, as this might lead to incorrect or misleading data.
-</thinking>
-
 # Wedding Guest Check In Form - Help Guide
 ## Purpose
 This form is designed to collect personal and event-specific information from wedding guests to ensure accurate planning and organization for the wedding party.

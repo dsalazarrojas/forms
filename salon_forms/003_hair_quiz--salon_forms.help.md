@@ -1,14 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Hair Quiz" form, I need to understand its purpose and requirements. The form seems to be a client-facing form designed to collect information about a client's hair and skin conditions, preferences, and contact information. It appears to be used for scheduling hair services and possibly for follow-up appointments.
-
-Upon reviewing the form fields, I notice that it is divided into several sections: Client Information, Hair Information, Skin Condition, Client Satisfaction, Service, and Contact Information. The form requires fields for client data (name, email, phone number), hair data (condition, type), skin condition, service (type), and contact information (contact type). 
-
-The form seems to be used for two main purposes: to schedule hair services and to store client data for follow-up appointments. 
-
-I will make sure to keep this in mind when creating the help guide to ensure it's clear, concise, and user-friendly.
-
-</thinking>
-
 # Hair Quiz - Help Guide
 
 ## Purpose

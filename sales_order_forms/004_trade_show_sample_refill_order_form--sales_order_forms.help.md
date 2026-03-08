@@ -1,12 +1,3 @@
-<thinking>
-This form is for trade show participants to submit their refill order information.
-The form has multiple pages, each with its own fields. The "Customer Info" page asks participants to select their customer name or provide their phone number.
-The "Shipping Info" page is not applicable as it doesn't have any options, implying that shipping information might not be requested.
-The "Shipping Method" page provides an option to choose between two shipping methods.
-The "Order Details" page is a text field where participants can provide additional order information.
-This form is not meant to be filled out by anyone with the following information: a phone number without a corresponding customer name, or two options for shipping method without a corresponding shipping method page.
-</thinking>
-
 # Trade Show Sample Refill Order Form - Help Guide
 ## Purpose
 The Trade Show Sample Refill Order Form is designed for trade show participants to submit their refill order information.

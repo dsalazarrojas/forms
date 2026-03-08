@@ -1,7 +1,3 @@
-<thinking>
-We need to check if the form is actually relevant for our use case and not already covered by another existing form. The form seems to be focused on collecting data related to oil field operations, which should be relevant for a specific industry or use case. However, we should verify that this form is not already covered by another form or survey in the same scope. Additionally, we need to ensure that this form is not too similar to existing forms or surveys that might be already available. Let's assume for now that this form is relevant and not a duplicate.
-</thinking>
-
 # Oil Field Operations Survey - Help Guide
 ## Purpose
 

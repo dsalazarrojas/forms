@@ -1,12 +1,6 @@
 # Warehouse Inspection Checklist - Help Guide
 
 ## Purpose
-<thinking>
-
-This form is designed to help you conduct a comprehensive inspection of a warehouse, ensuring that it meets safety and compliance standards. The form includes various sections that cover essential aspects of the warehouse, such as general information, facility condition, and safety equipment. The goal is to identify potential hazards and deficiencies that need to be addressed to maintain a safe working environment.
-
-</thinking>
-
 ## How To Complete This Form
 
 1. Start by entering the general information about the facility, including its name, address, phone number, and email.

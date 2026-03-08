@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a simple accommodation request form for a wedding-related event. The form likely asks users to input their arrival and departure dates, which could be used for planning and coordinating accommodation arrangements. The fields provided seem to be basic and straightforward, with no additional fields or complex logic. This form is probably intended for internal use within an organization or a community that's organizing a wedding event.
-</thinking>
-
 # wedding_accommodation_request_form - Help Guide
 ## Purpose
 This form is used to record the accommodation preferences and arrival/departure dates of individuals attending a wedding event.

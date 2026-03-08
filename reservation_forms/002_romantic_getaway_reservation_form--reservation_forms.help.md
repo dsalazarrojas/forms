@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for booking a reservation for a romantic getaway. The form is designed to gather information from the user about their personal details, preferences, and requirements for the trip. The fields are divided into two sections: personal details and reservation details. The form will be used to create a reservation, so it's essential to ensure that the information is accurate and complete.
-</thinking>
-
 # Romantic Getaway Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information for booking a romantic getaway reservation.

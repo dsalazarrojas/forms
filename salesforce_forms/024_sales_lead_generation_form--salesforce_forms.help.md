@@ -1,9 +1,3 @@
-<thinking>
-This form is used for generating sales leads for various business purposes. It is intended to be used by sales teams to collect information about potential clients or customers. The form includes fields for personal details, company information, and other relevant data. This form should not be used for other purposes, as it is designed specifically for sales lead generation.
-
-When completing this form, please ensure that all required fields are filled in, and that the information provided is accurate and up-to-date. The form's fields should not be duplicated or filled in with irrelevant information.
-</thinking>
-
 # Sales Lead Generation Form - Help Guide
 ## Purpose
 The Sales Lead Generation Form is used to collect information about potential clients or customers for sales teams to follow up with.

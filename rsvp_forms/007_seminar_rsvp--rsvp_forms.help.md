@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for a seminar event, including guest lists, event details, RSVP types, dates of birth, and contact details.
-The purpose of this form is to gather essential information from attendees and guests to facilitate effective communication and organization during the event.
-The form will be used to collect information for both the host and the guest(s), and it is crucial that the host completes all required fields to ensure accurate and complete information.
-The form is divided into sections: guest list, event details, RSVP type, contact details, and logistical details.
-Each field is crucial for a smooth event experience, and ensuring accuracy and completeness is vital.
-</thinking>
-
 # seminar_rsvp - Help Guide
 ## Purpose
 The seminar_rsvp form is used to collect information for both hosts and guests to ensure a smooth and successful event experience.

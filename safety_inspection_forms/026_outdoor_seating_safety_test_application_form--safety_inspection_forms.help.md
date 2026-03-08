@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended for non-experts who need to fill out the "Outdoor Seating Safety Test Application Form". The form is designed to gather information from facility managers about the safety and condition of outdoor seating areas on their properties. It's essential to ensure that the form is filled out accurately and thoroughly to help maintain a safe and healthy environment for users. Before starting, please ensure that you have not already submitted this form for the same property. If you've filled out this form recently, you can review and update previous submissions, or contact the relevant authorities for assistance.
 
 # Outdoor Seating Safety Test Application Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect RSVPs for attendees who are planning to attend the pre-networking session at the conference. This form helps us understand who will be attending, their contact information, and any special requirements or goals they hope to achieve during the session. To avoid duplication, please ensure that you have not already RSVPed for this event before attempting to complete this form. If you're unsure if you've already RSVPed, you can check our internal event calendar or contact the event organizers for clarification.
-</thinking>
-
 # Conference Pre Networking Session RSVP - Help Guide
 ## Purpose
 

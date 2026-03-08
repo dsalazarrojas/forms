@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create or update meeting reservations. It captures the essential details about the meeting, including the organizer's name, date, time, location, and contact information. To complete this form, the user should ensure that all required fields are filled out, and the organizer's contact information is accurate.
-</thinking>
-
 # meeting_reservations - Help Guide
 ## Purpose
 This form is used to create or update meeting reservations.

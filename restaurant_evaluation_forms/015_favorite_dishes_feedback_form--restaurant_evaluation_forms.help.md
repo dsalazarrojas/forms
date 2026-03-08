@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their favorite dishes at a restaurant. The form is designed to gather information about the customer's rating of their experience, the name of the dish they ordered, and any other relevant details. This information will be used to improve the restaurant's menu and service.
-</thinking>
-
 # Favorite Dishes Feedback Form - Help Guide
 ## Purpose
 The Favorite Dishes Feedback Form is a tool used to collect feedback from customers about their favorite dishes at a restaurant. It helps the restaurant to understand what customers like and dislike about their menu items.

@@ -1,7 +1,3 @@
-<thinking>
-The form "sales_operations_handover_checklist" is a sales operations handover checklist used to track and document the progress of sales orders. Its purpose is to ensure a smooth transition of sales orders between different stages of the sales process, reducing errors and ensuring consistency. The form should only be filled out for sales orders that are being handed over, not for new sales orders.
-</thinking>
-
 # sales_operations_handover_checklist - Help Guide
 ## Purpose
 The sales operations handover checklist is used to track and document the progress of sales orders, ensuring a smooth transition of sales orders between different stages of the sales process.

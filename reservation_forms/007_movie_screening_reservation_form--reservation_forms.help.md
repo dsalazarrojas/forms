@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for movie screening reservations. It will allow users to select the film they want to reserve, choose a screening time, pick their seats, and provide some basic contact information.
-It is intended for end-users who want to book a movie screening. To ensure accuracy, we'll check for duplicate reservations based on film and screening time. This form is designed to be completed by a single user at a time.
-</thinking>
-
 # Movie Screening Reservation Form - Help Guide
 ## Purpose
 This form is used to reserve a movie screening. You will be asked to select the film you want to watch, choose a screening time, pick your seats, and provide some basic contact information.

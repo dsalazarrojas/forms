@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Catering Request Form Milk & Honey - Help Guide
 ## Purpose
 The Catering Request Form for Milk & Honey is a comprehensive form designed to help us better understand your event needs and preferences. Please fill out this form to provide us with essential information about your event, and we will use it to create a tailored experience for you and your guests. This form is required for all event catering requests.

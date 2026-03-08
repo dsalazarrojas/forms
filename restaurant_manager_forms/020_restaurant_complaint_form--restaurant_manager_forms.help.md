@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose and relevance of the form, let's analyze the provided YAML schema. The form is called "Restaurant Complaint Form", suggesting that it's designed for customers to report issues or problems they encountered during their visit to a restaurant. This form likely serves as a channel for customers to provide feedback, report incidents, or submit complaints.
-
-To check for duplication, let's consider the context of the form. The form appears to be a general complaint form for a restaurant, which might already have established processes for handling customer complaints. If there's duplication, it might be due to an internal duplication or a misunderstanding of the form's purpose. In this case, the form's purpose is clear, and its sections seem to cover various aspects of the complaint, such as details, type of complaint, and resolution date.
-
-After understanding the form's purpose and checking for duplication, let's assume that the form will serve as a useful tool for restaurants to gather customer feedback and improve their services.
-
-</thinking>
-
 # Restaurant Complaint Form - Help Guide
 
 ## Purpose

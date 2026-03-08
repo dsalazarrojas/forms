@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential car buyers to facilitate the sale process. It is intended to be completed by buyers who wish to purchase a vehicle from the dealership. The form is divided into several sections, each focusing on different aspects of the buyer's information and financial status. To ensure accurate and efficient processing, please fill out the form accurately and thoroughly.
-</thinking>
-
 # Auto Sales Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential car buyers to facilitate the sale process. It is intended to be completed by buyers who wish to purchase a vehicle from the dealership.

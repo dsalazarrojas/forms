@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to assess the skills and knowledge of a lift operator in various aspects, including first aid training, fall protection, confined space entry, lift equipment inspection, general inspection requirements, and rescue procedures. The form likely serves to evaluate the operator's proficiency in ensuring a safe work environment and adherence to relevant regulations and standards. The form's fields cover a range of topics, from personal protective equipment to rescue procedures, suggesting a focus on both the operator's personal skills and the overall safety protocols of their workplace.
-</thinking>
-
 # Lift Operator Skills Assessment - Help Guide
 ## Purpose
 The Lift Operator Skills Assessment form is designed to evaluate a lift operator's skills and knowledge in various aspects of their work, including first aid training, fall protection, confined space entry, lift equipment inspection, general inspection requirements, and rescue procedures.

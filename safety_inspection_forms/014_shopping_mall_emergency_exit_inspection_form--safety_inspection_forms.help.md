@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to ensure that the safety and emergency exit protocols of a shopping mall are up-to-date and compliant with safety standards. The form collects information on various aspects of the emergency exit systems, including exit paths, signs, doors, and equipment. It also checks for the presence and functionality of emergency equipment such as fire extinguishers and alarm systems. The purpose of this form is to identify areas of non-compliance and ensure that all necessary corrective actions are taken to maintain a safe environment for customers and employees.
-
-</thinking>
-
 # shopping_mall_emergency_exit_inspection_form - Help Guide
 
 ## Purpose

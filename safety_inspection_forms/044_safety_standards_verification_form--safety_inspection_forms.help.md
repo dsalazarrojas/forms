@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll first analyze the form's purpose and fields to ensure I understand the required explanations and instructions. 
-
-This form appears to be for verifying safety standards, likely for compliance or certification purposes. The fields seem to cover various aspects related to the inspection, including the organization, safety standards name, version, and verification results. The form also includes fields for contact information, inspection details, and additional notes or comments.
-
-The fields with "required: false" are likely optional or secondary information. I will focus on the required fields and provide explanations for those. I will also cover the select_one field for clarity. 
-
-Please let me know if I'm correct in my understanding, and I'll proceed with the help guide.
-</thinking>
-
 # Safety Standards Verification Form - Help Guide
 ## Purpose
 

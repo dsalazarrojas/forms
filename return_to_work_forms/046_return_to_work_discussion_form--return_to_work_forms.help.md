@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Return To Work Discussion Form - Help Guide
 
 ## Purpose

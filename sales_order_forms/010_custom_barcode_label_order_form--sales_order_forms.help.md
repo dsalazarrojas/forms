@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to be created for a Custom Barcode Label Order Form. The purpose of this form is to gather information for creating a custom barcode label for the customer. This form will ask for details such as category, specifications, artwork, quantity, description, payment details, shipping details, order notes, email, phone, file uploads, and terms and conditions. This form will be used to create a custom barcode label for the customer and will require the customer to provide their contact information for payment and shipping purposes.
-</thinking>
-
 # Custom Barcode Label Order Form - Help Guide
 ## Purpose
 The Custom Barcode Label Order Form is designed to gather all the necessary information for creating a custom barcode label for the customer. This form is used to create a label with a specific category, specifications, artwork, and quantity. It also includes space for description, payment details, shipping details, order notes, email, phone, file uploads, and terms and conditions.

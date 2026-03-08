@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a simplified order form for a "Smart Shelf Refill Device" product. Given the category "sales_order_forms", it's likely used for customers to place new orders or refill their existing inventory of devices. However, without further context, the form's structure suggests it might also be for handling returns, cancellations, or other order-related issues. To clarify its purpose, I'll make the following assumptions:
-
-Assuming the form is for order creation or update.
-
-The form might be used when a customer has a new request to refill or adjust their existing inventory of a smart shelf device.
-
-</thinking>
-
 # Smart Shelf Refill Device Order Form - Help Guide
 
 ## Purpose

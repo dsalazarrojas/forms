@@ -1,7 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the Water Service Request Form. This form is designed to facilitate users in requesting water services from the utility company. Users will be able to submit their requests with their name, email, address, contact number, problem description, and other relevant details. The form aims to ensure that the utility company provides the right assistance in a timely manner.
-</thinking>
-
 # Water Service Request Form - Help Guide
 ## Purpose
 The Water Service Request Form is a tool for requesting water services such as Water Service, Sewer Service, and Meter Service. This form is intended to gather information from the service requester and facilitate the processing of their request.

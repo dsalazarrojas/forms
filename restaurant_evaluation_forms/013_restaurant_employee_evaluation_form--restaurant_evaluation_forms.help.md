@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Employee Evaluation Form - Help Guide
 ## Purpose
 

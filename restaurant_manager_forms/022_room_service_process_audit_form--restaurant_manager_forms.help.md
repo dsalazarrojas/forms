@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Room Service Process Audit Form - Help Guide
 
 ## Purpose

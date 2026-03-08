@@ -1,15 +1,3 @@
-<thinking>
-This is a brief internal reasoning block to understand the form purpose and context.
-The form is intended to collect information from customers who are interested in purchasing a product or service related to the "Tips Of The Trade" by Darcie. The form is likely used for sales or marketing purposes, and the goal is to gather relevant details from customers to facilitate the sales process.
-
-This form seems to be a generic template created using AI, and it does not have any affiliation or connection to specific form platforms. It appears to be a custom form designed for a particular business or industry.
-
-The form has 8 fields, including customer information, shipping address, shipping details, payment method, date, time, product information, and a note section. The fields are mostly text or date/time fields, with a select multiple field for payment method.
-
-The purpose of this form is to collect customer details and preferences to facilitate the sales process. The form does not require any specific technical expertise or business knowledge to complete.
-
-</thinking>
-
 # Tips Of The Trade By Darcie Order Form - Help Guide
 ## Purpose
 The Tips Of The Trade By Darcie Order Form is designed to collect information from customers interested in purchasing a product or service related to the "Tips Of The Trade" by Darcie.

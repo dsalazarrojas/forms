@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals about their attendance and contact details for a New Year's party. This form will help the party organizers keep track of guest attendance and contact information.
-</thinking>
-
 # new_year_party_rsvp_form - Help Guide
 ## Purpose
 This form is used to RSVP (Respond to the invitation) for a New Year's party. Please fill in the required information accurately to ensure that the party organizers can plan accordingly and contact you about any updates or changes.

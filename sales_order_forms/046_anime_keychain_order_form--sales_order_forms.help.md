@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anime Keychain Order Form - Help Guide
 ## Purpose
 This form is designed to help you order anime-themed keychains. You can customize your order with various options, including keychain style, size, and character name. The form gathers information for shipping and payment details, as well as any additional requests you might have.

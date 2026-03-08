@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to capture information for a sales order, specifically for the Scentsy monthly pre-order. This form will likely be used by sales representatives to input customer and order details. The form has a mix of text fields for customer information, select options for payment method and order status, and date fields for tracking the order date and date of sale. This form may be used for both online and offline sales. It's worth noting that some fields have optional or non-relevant information, such as customer source or order source.
-</thinking>
-
 # Scentsy Monthly Pre Order - Help Guide
 ## Purpose
 This form is designed to capture sales order information, including customer details, payment method, and order status.

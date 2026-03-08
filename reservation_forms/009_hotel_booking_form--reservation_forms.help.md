@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from users for hotel reservations. The form is intended to gather details such as check-in and check-out dates, room preferences, contact information, and payment details. The form is used to facilitate the booking process and ensure that users can provide accurate and relevant information for their stay.
 
 # Hotel Booking Form - Help Guide

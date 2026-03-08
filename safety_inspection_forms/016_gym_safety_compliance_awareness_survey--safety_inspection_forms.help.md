@@ -1,8 +1,3 @@
-<thinking> 
-This form is for gym safety compliance awareness, and it's used to collect information about the gym's safety procedures, emergency contacts, and equipment. The information collected will be used to assess the gym's safety compliance level and identify areas for improvement. The form should only be filled out by authorized personnel and should not be used for any other purpose. 
-
-To ensure the form is filled out correctly, please review the following instructions carefully.</thinking>
-
 # Gym Safety Compliance Awareness Survey - Help Guide
 ## Purpose
 This form is designed to help assess the gym's safety compliance level and identify areas for improvement.

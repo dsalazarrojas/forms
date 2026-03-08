@@ -1,7 +1,3 @@
-<thinking>
-**Internal reasoning block:** This form is intended to gather feedback from customers to evaluate the quality of service and dining experience at our restaurants. It's crucial to understand that each customer's experience is unique, and this form is designed to collect specific feedback on various aspects of their visit. Please ensure that you're not submitting duplicate or irrelevant feedback to help us improve our services more effectively. This guide will walk you through each step and explain every field clearly.
-</thinking>
-
 # Kitchen Mystery Shop Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on your recent visit to our restaurant. Your input is invaluable to us, as it helps us understand what we're doing well, what we're doing wrong, and how we can improve to provide the best possible dining experience for you and our other customers.

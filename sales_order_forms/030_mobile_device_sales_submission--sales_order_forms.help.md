@@ -1,27 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the "Mobile Device Sales Submission" form. The form is intended to collect information about mobile devices being sold, including details about the seller, device specifications, and photos. The form is used by mobile device sellers to submit their sales information for processing. This guide will walk users through the process of completing the form, explaining each field and its purpose. The form's fields are categorized into different sections for easier understanding.
-
-Please note that the form requires the following fields:
-- Seller Details
-- Device Specs
-- Photos
-- Price
-- Seller (a dropdown list of sellers)
-- Seller Name
-- Seller Email
-- Seller Phone
-- Device Model
-- Year
-- Color
-- Price (a duplicate of the "Price" field, this might be a mistake in the form's design)
-- Condition
-- Device Photos (4 fields for up to 4 photos)
-- Seller Address
-
-Please ensure to fill out all the required fields and submit the form accurately.
-
-</thinking>
-
 # Mobile Device Sales Submission - Help Guide
 ## Purpose
 The "Mobile Device Sales Submission" form is designed to collect sales information about mobile devices. It is intended to be used by mobile device sellers to submit their sales information for processing.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for this Urban Fire Hydrant Inspection Form, I will first analyze the provided YAML structure. This form appears to be designed for inspecting the condition and status of fire hydrants in urban areas. The form will be used to document and report on the findings, which is crucial for ensuring public safety. It's essential to ensure that the form is completed accurately and thoroughly, as the information collected will inform maintenance and repair actions.
-
-I will review the form fields to provide clear explanations for each section, making sure that end-users understand the purpose and requirements of each field.
-
-</thinking>
-
 # Urban Fire Hydrant Inspection Form - Help Guide
 ## Purpose
 The Urban Fire Hydrant Inspection Form is a critical tool used to inspect and document the condition and status of fire hydrants in urban areas. This form helps maintain public safety by ensuring that fire hydrants are properly inspected and reported on.

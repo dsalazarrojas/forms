@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for end-users to provide necessary information for the rental order process. The form's purpose is to collect data from customers regarding their rental preferences, including the type of rental order (yes/no), shipping provider details (name, provider name), payment information (amount, method), and delivery details (date). This form is part of the sales order process, and its completion is crucial for accurate order fulfillment. It's essential to note that this form is a critical part of the overall sales process, and any errors or missing information might impact the order's success. Please review the form carefully to ensure a smooth and accurate order completion.
-</thinking>
-
 # shipping_pallet_rental_order_form - Help Guide
 
 ## Purpose

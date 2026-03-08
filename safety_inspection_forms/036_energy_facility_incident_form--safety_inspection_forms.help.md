@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the form is to collect information related to incidents that occur at an energy facility. The form is likely used by facility management or safety teams to document and report incidents in a structured manner. This form is likely not used for real-time incident reporting or emergency response. 
-The form is a basic template for collecting general data about energy facility incidents.
-</thinking>
-
 # energy_facility_incident_form - Help Guide
 
 ## Purpose

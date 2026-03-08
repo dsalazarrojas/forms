@@ -1,7 +1,3 @@
-<thinking>
-The Restaurant Personnel Evaluation Form is used to assess the performance of restaurant personnel, providing an opportunity for managers and staff to evaluate their coworkers' skills, attendance, and work ethic. This form is an essential tool for employee evaluations, as it allows managers to gather data-driven insights on staff performance. It's likely used in a restaurant management context where staff evaluations are a regular occurrence.
-</thinking>
-
 # Restaurant Personnel Evaluation Form - Help Guide
 ## Purpose
 The Restaurant Personnel Evaluation Form is a tool used by restaurant management to assess the performance of restaurant personnel. It's used to evaluate staff skills, attendance, and work ethic.

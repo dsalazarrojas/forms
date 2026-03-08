@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information for mental health review appointments. It is intended for mental health professionals to collect relevant details from patients before or after each session. 
-
-To avoid duplication, ensure that the patient's file is up-to-date or use this form for new patients.
-
-</thinking>
-
 # mental_health_review_appointment_form_template - Help Guide
 ## Purpose
 This form helps mental health professionals collect and document essential information for mental health review appointments.

@@ -1,8 +1,4 @@
-> <thinking>
-This form is for scheduling a workplace safety inspection, which is a critical process to identify and mitigate potential hazards in the workplace. It is essential to ensure a safe working environment for employees. The form requires users to provide personal contact information, select a date and time for the inspection, and specify the type and location of the assessment. Users can also include additional comments or notes for the assessor. It is crucial to review and confirm the submission before scheduling the inspection. This form will help ensure that the inspection is conducted efficiently and effectively.
-</thinking>
-
-# Workplace Hazard Assessment Appointment Form - Help Guide
+> # Workplace Hazard Assessment Appointment Form - Help Guide
 ## Purpose
 This form is designed to schedule a workplace safety inspection. It gathers essential information from the user to facilitate the inspection process.
 

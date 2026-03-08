@@ -1,12 +1,3 @@
-<thinking>
-This form is used by end-users to indicate whether they are available to monitor a studio during a certain time period. The form is used to gather information on the individual's monitor availability and preferences. 
-
-This form will be filled out by end-users in order to ensure that there is adequate staffing coverage on their shift. 
-
-Please ensure that you fill out this form accurately and thoroughly in order to provide the best possible information for our team to work with.
-
-</thinking>
-
 # Monitor Availability Form - Help Guide
 ## Purpose
 The Monitor Availability Form is used to indicate your availability to monitor a studio during a certain time period. It is crucial that you fill out this form accurately in order to ensure that there is adequate staffing coverage for your shift.

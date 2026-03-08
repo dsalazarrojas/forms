@@ -1,12 +1,3 @@
-<thinking>
-We will create a help guide for the "swppp_inspection_form" form. This form is used to record safety inspections for equipment, machinery, or other safety-related items. It is designed to ensure that all relevant safety standards are met during the inspection process. Please review the form carefully to ensure you have the necessary information to complete it accurately.
-
-The form consists of several fields that require input from the inspector, including the company, inspector, address, contact person, email, phone, date completed, time completed, inspector notes, safety standards met, and safety standards not met. Some fields are required, while others are optional.
-
-Before starting the form, ensure you have all the necessary information and follow the instructions carefully to complete it correctly.
-
-</thinking>
-
 # swppp_inspection_form - Help Guide
 ## Purpose
 The swppp_inspection_form is used to record safety inspections for equipment, machinery, or other safety-related items.

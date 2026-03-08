@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for an employee's PPE (Personal Protective Equipment) upgrade deduction. It is intended for employees who need to upgrade their equipment and need to submit a request for approval. The form is used by the submitter to provide details about the upgrade, including the employee's name, ID, and department, as well as the upgrade date and cost. The reviewer will then review the request and provide approval or rejection.
-
-This form is only used for upgrades that need to be approved by a reviewer. If the upgrade is not subject to approval, the employee may be able to upgrade without submitting this form. This form is not intended for general upgrades or those that do not require approval. Please ensure that you are using this form for the correct purpose before submitting a request.
-
-This form is only accessible to employees and reviewers who have been given access to it. If you are not authorized, you will not be able to access the form.</thinking>
-
 # ppe_upgrade_deduction_form - Help Guide
 ## Purpose
 The PPE Upgrade Deduction Form is used to request approval for an employee's PPE upgrade.

@@ -1,10 +1,3 @@
-<thinking>
-Malaysian cuisine is known for its rich and diverse flavors, and this form is designed to capture order information for food delivery and catering services. 
-This form will be used by customers to place orders, and by staff to fulfill those orders. 
-Please ensure that the form is completed accurately and correctly before submitting it. 
-Note: This form will automatically check for duplicate orders based on the orderer name, phone, and email fields. 
-</thinking>
-
 # Malaysian Cuisine Order Form - Help Guide
 
 ## Purpose

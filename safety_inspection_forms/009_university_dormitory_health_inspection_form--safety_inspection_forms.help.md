@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's break down the form purpose and fields to ensure we cover all necessary information for the end-users. This University Dormitory Health Inspection Form is designed to facilitate regular health inspections of residence halls. The form captures essential details for inspectors and management teams to efficiently perform their tasks.</thinking>
-
 # University Dormitory Health Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information for regular health inspections of residence halls, allowing inspectors to document observations, findings, and follow-up actions.

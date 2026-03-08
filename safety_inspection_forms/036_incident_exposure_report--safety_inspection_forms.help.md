@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about incidents that expose employees, visitors, or the general public to potential risks or dangers. This form should only be used for reporting incidents that have already occurred, and not for hypothetical or anticipated scenarios. Please ensure that each incident report is filled out accurately and truthfully.
-The form should not be used for reporting duplicate incidents. Before submitting, review the form to ensure that all required fields are completed and that no fields are left blank or contain duplicate information.
-</thinking>
-
 # Incident Exposure Report - Help Guide
 ## Purpose
 The Incident Exposure Report form is designed to collect information about incidents that pose risks or dangers to employees, visitors, or the general public. This form is used to gather details about the incident, including the date, time, location, and description of the incident. The form also asks for the type of incident, status, reporter, category, investigator, and any witness statements or attachments.

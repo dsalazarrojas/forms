@@ -1,17 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form is filled out correctly, it's essential to understand the purpose and requirements of the "Concierge Service" form. This form is designed to gather information about the client's personal details, service preferences, and payment options. 
-
-The form is divided into several sections, each with specific fields that need to be filled out. 
-
-Here's a brief rundown of the form's purpose and requirements:
-
-* The form is meant to capture the client's personal and service-related information, including their name, address, contact details, and service preferences.
-* The form requires the client to select the type of concierge service they require, the tier of service, and the duration of the service.
-* The form also asks for the client's payment method and budget, as well as their acceptance of the contract terms.
-* All fields marked as "required" must be filled out, and the client must accept the contract terms to proceed.
-
-</thinking>
-
 # Concierge Service - Help Guide
 ## Purpose
 The "Concierge Service" form is designed to gather information about the client's personal details, service preferences, and payment options to provide a tailored concierge service experience.

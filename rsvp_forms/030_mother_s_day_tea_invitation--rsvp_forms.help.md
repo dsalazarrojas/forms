@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from guests about their attendance and preferences for a Mother's Day tea invitation. This form is likely to be used by hosts or event organizers to collect RSVPs and additional details from guests. It's essential to complete this form carefully to ensure that hosts have accurate information about guest attendance and any special requests. This form is not designed for general event registration but rather for a specific, invitation-only event.
-
-</thinking>
-
 # Mother's Day Tea Invitation - Help Guide
 ## Purpose
 The Mother's Day Tea Invitation form is a tool used to collect RSVPs and additional information from guests invited to a Mother's Day tea.

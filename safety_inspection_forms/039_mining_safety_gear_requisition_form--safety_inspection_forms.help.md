@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mining Safety Gear Requisition Form - Help Guide
 
 ## Purpose

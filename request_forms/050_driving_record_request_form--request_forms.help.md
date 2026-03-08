@@ -1,8 +1,3 @@
-<thinking> 
-This form is a "Driving Record Request Form" that is used to collect information from users to request driving records. The form likely serves as an interface for users to submit a request to access their driving records. To use this form correctly, users must fill out all the required fields. Please note that some fields might be optional, but it's best to fill out all of them for a complete request.
-
-</thinking>
-
 # Driving Record Request Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a request for driving records. Users must fill out all the required fields for a complete request.

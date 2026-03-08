@@ -1,8 +1,3 @@
-<thinking>
-The Workplace Safety Innovation Award Nomination Form is designed to collect information about a workplace safety initiative, innovation, or technology that can be submitted for consideration to receive an award. Before filling out this form, please ensure that you have not already submitted a nomination for the same project or idea. To complete the form, follow the instructions below.
-
-</thinking>
-
 # Workplace Safety Innovation Award Nomination Form - Help Guide
 
 ## Purpose

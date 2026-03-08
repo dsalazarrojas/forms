@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect customer information and order details for a custom vibration dampener product. The form is meant to be a simple and straightforward way to gather necessary data from customers, making it easier to process their orders.
-
-Before proceeding, please review the following to ensure you're not duplicating an existing order:
-
-* Are you a new customer?
-* Do you have an existing account with us?
-* Have you placed an order with us in the past?
-
-If you answered "yes" to any of the above, please refer to your previous order confirmation emails or contact our support team to avoid duplicating efforts.
-
-</thinking>
-
 # custom-vibration-dampener-order-form - Help Guide
 ## Purpose
 This form is designed to collect customer information and order details for a custom vibration dampener product.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a customer's order for the Unico product. This form is designed to be completed by customers who want to place an order or inquire about the product. The form should only be used for this specific purpose, and it is not intended for other types of data collection.
-
-To confirm, this is a customer-facing form, and users should only complete it for their own personal orders or inquiries. If you are using this form for other purposes, please consider using a different form or reaching out to support for further assistance.
-
-Before proceeding, please ensure that you have reviewed the Unico product documentation and have a clear understanding of its features and requirements.
-
-The form has several fields that require specific information. Please review the following sections carefully to complete the form accurately.
-
-</thinking>
-
 # Unico Order Form - Help Guide
 ## Purpose
 The Unico Order Form is designed to collect information about a customer's order for the Unico product.
