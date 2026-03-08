@@ -1,0 +1,97 @@
+<thinking>
+This form is designed for attendees to RSVP to the Annual Fund Drive Kickoff event. The purpose of this form is to collect information about the attendees, including their contact details, dietary preferences, and other relevant details to ensure a smooth and enjoyable experience for all attendees. The form is intended to be completed by attendees of the event, and the information collected will be used for event planning and coordination purposes.
+</thinking>
+
+# Annual Fund Drive Kickoff RSVP - Help Guide
+## Purpose
+This form is used to RSVP to the Annual Fund Drive Kickoff event. Please provide your details to ensure a smooth and enjoyable experience for all attendees.
+
+## How To Complete This Form
+To complete this form, simply fill out the required fields and select your preferences from the options provided. Please review each field carefully to ensure you provide accurate information.
+
+## Field-by-Field Explanation
+- **Full Name** (`guest_name`, text, **required**): Please enter your full name as you would like it to be used for event purposes.
+- **Email Address** (`email`, email, **required**): Enter your email address for confirmation and updates about the event.
+- **Phone Number** (`phone`, text, **optional**): Provide your best contact number in case we need to reach you.
+- **Organization or Company** (`organization`, text, **optional**): If you are representing an organization or company, please enter its name.
+- **Donor Status** (`donor_status`, select_one, **required**): Choose your relationship with us:
+  - **Current Donor**: You are an active donor.
+  - **Past Donor**: You have donated in the past but are not currently.
+  - **Prospective Donor**: You are interested in donating but have not yet.
+  - **Volunteer**: You have volunteered for our organization.
+  - **Community Member**: You are a member of our community.
+  - **Other**: If none of the above apply, please select this option.
+- **Will You Attend?** (`rsvp_status`, select_one, **required**): Please confirm your attendance:
+  - **Yes, I Will Attend**: You will be attending the event.
+  - **No, I Cannot Attend**: You will not be able to attend.
+  - **Maybe, Will Confirm Later**: You are still unsure but will confirm later.
+- **Number of Guests** (`number_of_guests`, number, **required**): Enter the total number of guests in your party.
+- **Guest Names** (`guest_names`, text, **optional**): If you would like to list the names of your guests, please do so here.
+- **Dietary Restrictions** (`dietary_restrictions`, select_multiple, **required**): Select all that apply:
+  - **None**: You have no dietary restrictions.
+  - **Vegetarian**: You are vegetarian.
+  - **Vegan**: You are vegan.
+  - **Gluten-Free**: You require gluten-free options.
+  - **Dairy-Free**: You require dairy-free options.
+  - **Nut Allergies**: You have a nut allergy.
+  - **Shellfish Allergies**: You have a shellfish allergy.
+  - **Kosher**: You keep kosher.
+  - **Halal**: You keep halal.
+  - **Other**: If none of the above apply, please select this option.
+- **Dietary Details** (`dietary_details`, text, **optional**): If you have any other dietary requirements or details, please specify them here.
+- **Meal Selection** (`meal_selection`, select_one, **required**): Choose your preferred entree:
+  - **Beef**: You would like to have beef.
+  - **Chicken**: You would like to have chicken.
+  - **Fish**: You would like to have fish.
+  - **Vegetarian**: You would like to have vegetarian.
+  - **Vegan**: You would like to have vegan.
+  - **No Preference**: You are not picky.
+- **Beverage Preference** (`beverage_preference`, select_one, **optional**): Choose what you would like to drink:
+  - **Full Bar**: You would like to have a full bar selection.
+  - **Wine and Beer**: You would like to have wine and beer.
+  - **Non-Alcoholic Only**: You would prefer non-alcoholic options.
+  - **No Preference**: You are not picky.
+- **Donation Pledge** (`donation_pledge`, select_one, **optional**): Will you be making a pledge?
+  - **Yes, Planning to Pledge**: You plan to make a donation.
+  - **Considering**: You are considering making a donation.
+  - **Not at This Time**: You are not planning to make a donation.
+- **Pledge Range** (`pledge_range`, select_one, **optional**): If you are planning to pledge, approximate the amount:
+  - **Under $500**: You are planning to pledge under $500.
+  - **$500-$1,000**: You are planning to pledge between $500 and $1,000.
+  - **$1,001-$5,000**: You are planning to pledge between $1,001 and $5,000.
+  - **$5,001-$10,000**: You are planning to pledge between $5,001 and $10,000.
+  - **$10,001-$25,000**: You are planning to pledge between $10,001 and $25,000.
+  - **Over $25,000**: You are planning to pledge over $25,000.
+  - **Not Sure**: You are not sure about your pledge amount.
+- **Volunteer Interest** (`volunteer_interest`, select_one, **optional**): Would you like to volunteer for the drive?
+  - **Yes, Interested**: You are interested in volunteering.
+  - **Maybe**: You are not sure.
+  - **No, Thank You**: You are not interested.
+- **Committee Interest** (`committee_interest`, select_one, **optional**): Would you like to join the planning committee?
+  - **Yes, Interested**: You are interested in joining the committee.
+  - **No, Thank You**: You are not interested.
+- **Hosting Interest** (`hosting_interest`, select_one, **optional**): Would you like to host a house party?
+  - **Yes, Interested**: You are interested in hosting a party.
+  - **Maybe**: You are not sure.
+  - **No, Thank You**: You are not interested.
+- **Accessibility Requirements** (`accessibility_requirements`, text, **optional**): If you have any special accessibility needs or requirements, please specify them here.
+- **Parking Needed** (`parking_needed`, select_one, **optional**): Do you need parking facilities?
+  - **True**: You will need parking.
+  - **False**: You will not need parking.
+- **Transportation Assistance** (`transportation_needed`, select_one, **optional**): Do you need transportation assistance?
+  - **True**: You will need transportation assistance.
+  - **False**: You will not need transportation assistance.
+- **Photo Consent** (`photo_consent`, select_one, **required**): May we use photos of you for marketing purposes?
+  - **Yes, I Consent**: You are okay with photos being used.
+  - **No, Please Do Not**: You do not want your photo used.
+- **How Did You Hear About This Event?** (`how_heard`, select_multiple, **optional**): Select all that apply:
+  - **Direct Invitation**: You were invited directly.
+  - **Email**: You heard through email.
+  - **Social Media**: You heard through social media.
+  - **Website**: You heard through our website.
+  - **Word of Mouth**: You heard from someone who knows you.
+  - **Previous Event**: You heard from a previous event.
+  - **Other**: If none of the above apply, select this option.
+- **Special Requests** (`special_requests`, text, **optional**): If you have any other requests or needs, please specify them here.
+- **Emergency Contact Name** (`emergency_contact`, text, **optional**): In case of emergency, please provide the name of your emergency contact person.
+- **Emergency Contact Phone** (`emergency_phone`, text, **optional**): If applicable, please provide the phone number of your emergency contact person.

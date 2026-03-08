@@ -1,0 +1,46 @@
+<thinking>
+
+To create a user-facing help guide for the "Library Meeting Room Reservation Form" form, we need to understand the purpose of the form and how it will be used. The form is designed for users to reserve a meeting room in a library. The purpose of the form is to collect information from users to schedule and manage meeting room bookings.
+
+The form has a total of 10 pages, which may seem excessive at first glance. However, upon closer inspection, we can see that the first 8 pages are all "Page X" and do not contain any actual content. This suggests that these pages are likely placeholders or dummy pages created to accommodate specific design or structural requirements. The actual content and field labels for the form are likely to be located on page 9, which is marked as "Page 9" (required) and page 10 (not required). This means that the form only collects relevant information from the user on the last two pages.
+
+Given this understanding, the actual content and field labels that the form collects information from users are:
+
+*   Page 9:
+    + Label: "Page 9"
+    + Hint: Not applicable
+    + Type: Text
+    + Required: True
+*   Page 10:
+    + Label: "Page 10"
+    + Hint: Not applicable
+    + Type: Text
+    + Required: False
+
+The form is likely used in a library setting where meeting rooms need to be reserved for various events and activities. Users need to provide some basic information to complete the form, which will be used to manage and schedule the meeting room reservations.
+
+</thinking>
+
+# Library Meeting Room Reservation Form - Help Guide
+
+## Purpose
+The Library Meeting Room Reservation Form is designed to allow users to reserve a meeting room in the library. This form collects necessary information to schedule and manage meeting room bookings.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+
+1.  Navigate to the form and select the "Page 9" tab, which is the first page that contains actual content.
+2.  Enter your meeting room reservation details in the "Page 9" field.
+3.  Once you have filled out "Page 9", select the "Page 10" tab, which is the second page.
+4.  Enter any additional details or comments you have about your meeting room reservation in the "Page 10" field.
+
+## Field-by-Field Explanation
+
+*   **Page 9** (`page_9`, text, required): Enter the details of your meeting room reservation, including the date, time, and any other relevant information.
+*   **Page 10** (`page_10`, text, not required): Enter any additional details or comments you have about your meeting room reservation.
+
+## Tips
+
+*   Make sure to enter accurate information in "Page 9" to ensure that your meeting room reservation is processed correctly.
+*   If you have any additional comments or requests, please enter them in "Page 10".
+*   Review your form submission carefully before submitting it to ensure that all necessary information is included.

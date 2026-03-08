@@ -1,0 +1,24 @@
+<thinking>
+This form seems to be a quiz form for assessing knowledge in the subject of engineering calculus, likely for academic or educational purposes. It appears to be a series of questions related to limits, derivatives, and integrals, which are fundamental concepts in calculus. Upon reviewing the form structure, it's clear that this quiz will help evaluate respondents' understanding of these concepts. The form does not require all fields to be filled, which suggests that it may be designed to collect optional or supplementary information from users. Given the lack of hints and specific instructions, the form seems to be straightforward and focused on assessing users' knowledge of calculus concepts.
+</thinking>
+
+# Engineering Calculus Quiz - Help Guide
+## Purpose
+This is a quiz designed to assess your understanding of fundamental concepts in engineering calculus.
+
+## How To Complete This Form
+To complete this form, simply answer the questions presented below. Each question is related to a specific concept in calculus. You can choose one or multiple answers depending on the type of question. If you're unsure about any question, feel free to answer based on your best understanding.
+
+## Field-by-Field Explanation
+* **Engineering Calculus Quiz** (`engineering_calculus_quiz`, note, not required): This is the title of the quiz, which is a placeholder and does not require an answer.
+* **Limit Question 1** (`limit_question_1`, select_one, not required): This question asks whether a specific limit exists. Choose one of the two options provided.
+* **Limit Question 1 Answer** (`limit_question_1_answer`, number, not required): If you answered "Yes" to the previous question, you can provide a numerical value for this question.
+* **Derivative Question 1** (`derivative_question_1`, select_multiple, not required): This question asks whether a specific derivative exists. Choose one or multiple of the two options provided.
+* **Derivative Question 1 Answer** (`derivative_question_1_answer`, number, not required): If you answered "Yes" to the previous question, you can provide a numerical value for this question.
+* **Integral Question 1** (`integral_question_1`, select_multiple, not required): This question asks whether a specific integral exists. Choose one or multiple of the two options provided.
+* **Integral Question 1 Answer** (`integral_question_1_answer`, number, not required): If you answered "Yes" to the previous question, you can provide a numerical value for this question.
+* **Limit Question 2** (`limit_question_2`, select_one, not required): This question asks whether a specific limit exists. Choose one of the two options provided.
+* **Limit Question 2 Answer** (`limit_question_2_answer`, select_multiple, not required): If you answered "Yes" to the previous question, choose one or multiple of the two options provided.
+* **Answer Limit Question 2** (`answer_limit_question_2`, select_multiple, not required): This question asks for a numerical value related to a specific limit.
+* **Limit Question 3** (`limit_question_3`, select_multiple, not required): This question asks whether a specific limit exists. Choose one or multiple of the two options provided.
+* **Limit Question 3 Answer** (`limit_question_3_answer`, select_multiple, not required): If you answered "Yes" to the previous question, choose one or multiple of the two options provided.

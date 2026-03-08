@@ -1,0 +1,43 @@
+<thinking>
+The form purpose is to gauge the perception of tenants about their experience with their landlord/property manager. This survey aims to collect information on various aspects of communication, maintenance, and overall satisfaction with the building/property condition. 
+
+This form has been designed to be filled out once, so it's essential to complete it thoroughly and accurately. 
+
+The survey is divided into several pages, each focusing on a specific topic. The following fields are included:
+
+*   **Communication Satisfaction:** Measures the overall satisfaction with communication from the landlord/property manager.
+*   **Communication Frequency:** Checks how often tenants communicate with their landlord/property manager.
+*   **Communication Channel:** Identifies which communication channel tenants most often use (e.g., email, phone, in person).
+*   **Tenant Awareness:** Measures the overall awareness of maintenance and repairs in the building/property.
+*   **Maintenance Frequency:** Checks how often tenants experience maintenance or repairs in their building/property.
+*   **Communication Effectiveness:** Measures the effectiveness of communication from the landlord/property manager.
+*   **Communication Satisfaction 2:** Measures overall satisfaction with the building/property condition.
+*   **Maintenance Satisfaction:** Measures the overall satisfaction with maintenance and repairs in the building/property.
+*   **Feedback:** Checks how often tenants provide feedback to their landlord/property manager.
+*   **Tenant Survey:** Measures overall satisfaction with the building/property condition.
+*   **Maintenance Awareness:** Measures the awareness of maintenance and repair notifications from the landlord/property manager.
+*   **Maintenance Frequency 2:** Checks how often tenants experience issues with maintenance and repairs in their building/property.
+*   **Maintenance Satisfaction 2:** Measures overall satisfaction with maintenance and repairs in the building/property.
+
+Please make sure to answer each question carefully and accurately, as the information will be used to improve the landlord/property manager's communication and maintenance services. Thank you for taking the time to complete this survey!</thinking>
+# Tenant Empowerment Perception Survey - Help Guide
+## Purpose
+The Tenant Empowerment Perception Survey is designed to gauge the perception of tenants about their experience with their landlord/property manager. The survey aims to collect information on various aspects of communication, maintenance, and overall satisfaction with the building/property condition.
+## How To Complete This Form
+
+To complete this form, simply go through each page and answer the questions as accurately and carefully as possible. Each page focuses on a specific topic, and you will find explanations for each field below.
+
+## Field-by-Field Explanation
+*   **1. How would you rate your overall satisfaction with communication from your landlord/property manager?** (`communication_satisfaction`, number, required): This question measures your overall satisfaction with communication from your landlord/property manager. It's essential to answer this question truthfully, as it will help us understand how well your landlord/property manager is meeting your needs.
+*   **2. How often do you communicate with your landlord/property manager?** (`communication_frequency`, select_one, optional): This question helps us understand how frequently you interact with your landlord/property manager. You can choose from the options: Very frequent, Frequent, Occasional, Rare.
+*   **3. Which of the following channels do you most often use to communicate with your landlord/property manager?** (`communication_channel`, select_multiple, required): This question is about how you usually contact your landlord/property manager. Please select all the channels that apply to you.
+*   **4. How would you rate your awareness of maintenance and repairs in your building/property?** (`tenant_awareness`, number, required): This question checks your overall awareness of maintenance and repairs in the building/property. Rate your awareness on a scale from 1 (not at all aware) to 10 (very aware).
+*   **5. How often do you experience maintenance or repairs in your building/property?** (`maintenance_frequency`, select_one, optional): This question helps us understand how frequently you encounter maintenance or repairs. You can choose from the options: Very frequent, Frequent, Occasional, Rare.
+*   **6. How would you rate the effectiveness of communication from your landlord/property manager?** (`communication_effectiveness`, number, optional): This question measures the effectiveness of communication from your landlord/property manager. Rate your satisfaction on a scale from 1 (not at all satisfied) to 10 (very satisfied).
+*   **7. How satisfied are you with the overall condition of your building/property?** (`communication_satisfaction_2`, number, optional): This question asks about your overall satisfaction with the building/property condition. Rate your satisfaction on a scale from 1 (not at all satisfied) to 10 (very satisfied).
+*   **8. How would you rate the satisfaction with maintenance and repairs in your building/property?** (`maintenance_satisfaction`, number, required): This question measures your overall satisfaction with maintenance and repairs in the building/property. Rate your satisfaction on a scale from 1 (not at all satisfied) to 10 (very satisfied).
+*   **9. How often do you provide feedback to your landlord/property manager?** (`feedback`, select_one, required): This question checks how often you offer feedback. You can choose from the options: Very frequent, Frequent, Occasional, Rare.
+*   **10. How would you rate your satisfaction with the overall condition of your building/property?** (`tenant_survey`, number, optional): This question is about your overall satisfaction with the building/property condition. Rate your satisfaction on a scale from 1 (not at all satisfied) to 10 (very satisfied).
+*   **11. How often do you receive maintenance or repair notifications from your landlord/property manager?** (`maintenance_awareness`, select_multiple, optional): This question helps us understand how often you get maintenance or repair notifications. Please select all the options that apply to you.
+*   **12. How often do you experience issues with maintenance and repairs in your building/property?** (`maintenance_frequency_2`, select_one, optional): This question measures how frequently you encounter issues with maintenance and repairs. You can choose from the options: Very frequent, Frequent, Occasional, Rare.
+*   **13. How would you rate your satisfaction with the overall condition of maintenance and repairs in your building/property?** (`maintenance_satisfaction_2`, number, required): This question is about your overall satisfaction with maintenance and repairs in the building/property. Rate your satisfaction on a scale from 1 (not at all satisfied) to 10 (very satisfied).

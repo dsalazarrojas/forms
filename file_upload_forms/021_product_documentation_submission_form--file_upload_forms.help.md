@@ -1,0 +1,96 @@
+<thinking>
+This is a form for submitting product documentation. The form is designed to collect information about a product, including product information, product name, description, image, category, price, and status. The form also captures additional information about team members involved with the product, such as their name, email, phone number, location, and status.
+
+This form is intended to be completed by team members or product owners to provide accurate and up-to-date documentation about their products. It is not necessary to fill out every field, but it is recommended to provide as much information as possible to ensure that the product documentation is comprehensive and useful.
+
+Before submitting the form, please make sure that you are not duplicating an existing product documentation. If you are unsure, you can check the product documentation database to see if the product is already listed.
+
+</thinking>
+
+# product_documentation_submission_form - Help Guide
+## Purpose
+The product documentation submission form is designed to collect information about a product and its team members. This guide will walk you through how to complete the form and explain each field in more detail.
+
+## How To Complete This Form
+- Start by filling out the product information section, including the product name, description, image, category, price, and status.
+- Move on to the team member section and provide information about each team member involved with the product, including their name, email, phone number, location, and status.
+
+## Field-by-Field Explanation
+- **Product Information** (`product_information`): This field is a brief description of the product.
+  - This field is not required.
+  - Please provide a short description of the product, including its features and benefits.
+- **Product Name** (`product_name`): This field is the name of the product.
+  - This field is not required.
+  - Please enter the name of the product as it is known in the market.
+- **Product Description** (`product_description`): This field is a detailed description of the product.
+  - This field is not required.
+  - Please provide a detailed description of the product, including its features and benefits.
+- **Product Image** (`product_image`): This field is an image of the product.
+  - This field is not required.
+  - If you have an image of the product, please upload it here.
+- **Product Category** (`product_category`): This field is the category of the product.
+  - This field is not required.
+  - Please select the category that best fits the product from the dropdown list.
+- **Product Price** (`product_price`): This field is the price of the product.
+  - This field is not required.
+  - Please enter the price of the product in the format `X.XX` (e.g., 10.99).
+- **File Upload** (`file_upload`): This field is for uploading files related to the product.
+  - This field is not required.
+  - Please upload any files that provide additional information about the product.
+- **Product Status** (`product_status`): This field is the status of the product.
+  - This field is not required.
+  - Please select the status that best fits the product from the dropdown list.
+- **Product Url** (`product_url`): This field is the URL of the product.
+  - This field is not required.
+  - If the product has a website, please enter the URL here.
+- **Product Date** (`product_date`): This field is the date the product was released or created.
+  - This field is not required.
+  - Please enter the date in the format `YYYY-MM-DD`.
+- **Product Time** (`product_time`): This field is the time of day the product was released or created.
+  - This field is not required.
+  - Please enter the time in the format `HH:MM AM/PM`.
+- **Product Note** (`product_note`): This field is a note about the product.
+  - This field is not required.
+  - Please enter any additional information about the product here.
+- **Product Email** (`product_email`): This field is the email of the product owner or contact.
+  - This field is not required.
+  - Please enter the email address here.
+- **Product Phone** (`product_phone`): This field is the phone number of the product owner or contact.
+  - This field is not required.
+  - Please enter the phone number here.
+- **Product Location** (`product_location`): This field is the location of the product.
+  - This field is not required.
+  - Please enter the location here.
+- **Product Status Note** (`product_status_note`): This field is a note about the product status.
+  - This field is not required.
+  - Please enter any additional information about the product status here.
+- **Team Member Name** (`team_member_name`): This field is the name of the team member.
+  - This field is not required.
+  - Please enter the name of the team member here.
+- **Team Member Email** (`team_member_email`): This field is the email of the team member.
+  - This field is not required.
+  - Please enter the email address of the team member here.
+- **Team Member Phone** (`team_member_phone`): This field is the phone number of the team member.
+  - This field is not required.
+  - Please enter the phone number here.
+- **Team Member Location** (`team_member_location`): This field is the location of the team member.
+  - This field is not required.
+  - Please enter the location here.
+- **Team Member Note** (`team_member_note`): This field is a note about the team member.
+  - This field is not required.
+  - Please enter any additional information about the team member here.
+- **Team Member Image** (`team_member_image`): This field is an image of the team member.
+  - This field is not required.
+  - If you have an image of the team member, please upload it here.
+- **Team Member Url** (`team_member_url`): This field is the URL of the team member.
+  - This field is not required.
+  - If the team member has a website, please enter the URL here.
+- **Team Member Date** (`team_member_date`): This field is the date the team member joined or was involved with the product.
+  - This field is not required.
+  - Please enter the date in the format `YYYY-MM-DD`.
+- **Team Member Time** (`team_member_time`): This field is the time of day the team member joined or was involved with the product.
+  - This field is not required.
+  - Please enter the time in the format `HH:MM AM/PM`.
+- **Team Member Status** (`team_member_status`): This field is the status of the team member.
+  - This field is not required.
+  - Please select the status that best fits the team member from the dropdown list.
