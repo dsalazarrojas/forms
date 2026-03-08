@@ -63,7 +63,21 @@
       return false;
     }
 
-    return /^[a-z0-9_-]+\/[a-z0-9_.-]+\.(yaml|yml)$/i.test(formPath);
+    const parts = formPath.split('/');
+    if (parts.length !== 2) {
+      return false;
+    }
+
+    const [category, filename] = parts;
+    if (!/^[a-z0-9_-]+$/i.test(category)) {
+      return false;
+    }
+
+    if (!filename || filename.includes('/') || filename.includes('\\')) {
+      return false;
+    }
+
+    return /\.(yaml|yml)$/i.test(filename);
   }
 
   function getAppliedPages() {
