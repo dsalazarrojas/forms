@@ -1,7 +1,3 @@
-<thinking>
-The form design seems to be geared towards creating a quote or proposal for a photography service. It might be used by a photographer to generate a quote for a client based on the services they require and the date and time of the event. This form appears to be comprehensive, covering a wide range of fields related to the client, event details, services, and pricing. Before starting to fill out this form, make sure you have all the necessary information about the event and the services required. This form does not seem to be for internal use only; it appears to be designed for public use as well, possibly by clients or potential clients providing information about their events.
-</thinking>
-
 # Photography Quote Form - Help Guide
 ## Purpose
 This form is designed to help photographers create quotes or proposals for their services. It collects information about the client, event details, services required, and pricing.

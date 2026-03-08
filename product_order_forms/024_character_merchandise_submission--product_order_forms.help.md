@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for character merchandise submissions. To ensure the form is completed accurately, please review it carefully and ensure you have all necessary information available before starting. This form should only be completed by the creator or authorized vendor of the merchandise. 
-Duplicate submissions will not be accepted. 
-</thinking>
-
 # Character Merchandise Submission - Help Guide
 ## Purpose
 This form is used to submit character merchandise for approval. It collects relevant information about the product, including the creator or vendor's details, product characteristics, and submission confirmation.

@@ -1,24 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding how to effectively complete the "Responsive Product Order Form" with ease. The form is designed to gather relevant information for order processing and customer details. 
-
-The form is structured into several sections, including Customer Details, Billing Address, Shipping Address, Order Items, Shipping Details, Payment Method, Order Total, Customer Notes, Billing Details, Order Status, Payment Details, Date Of Sale, Time Of Sale, Email, Phone Number, Billing Phone, Customer Email, Customer Phone, Billing Phone, Shipping Phone, Customer Company, Billing Company, Shipping Company, Customer Address, and Billing Address. 
-
-Key fields to focus on when completing this form include:
-
-* Customer Details: This section includes fields for customer name, email, and phone number, which are essential for order processing and communication.
-* Billing Address and Shipping Address: These sections require the customer's billing and shipping addresses, including the address type (e.g., residential or commercial).
-* Order Items: List the items ordered, including the quantity and price.
-* Payment Method: Select the payment method used (e.g., Credit Card, PayPal, or Stripe).
-* Order Status: Choose the order status (e.g., Pending, Processing, or Completed).
-* Date Of Sale and Time Of Sale: Provide the date and time of sale.
-* Email: Enter the customer's email address.
-* Phone Number: Enter the customer's phone number.
-* Customer Company, Billing Company, and Shipping Company: Enter the customer's or billing/shipping company name.
-* Customer Address and Billing Address: Enter the customer's or billing address.
-
-Please note that some fields may have specific requirements based on the selected payment method or order status.
-</thinking>
-
 # Responsive Product Order Form - Help Guide
 ## Purpose
 The "Responsive Product Order Form" is a comprehensive form designed to gather essential information for order processing and customer details. 

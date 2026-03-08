@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for recording and reporting information related to patients, possibly for medical or health-related purposes. Given the fields, it may be used in a hospital or clinic setting. This explanation is focused on helping users understand the form's intent, fields, and requirements. Please ensure that this form is not used for any other purpose than its intended use, as it may involve sensitive patient information. This form seems to be for a single patient and does not appear to be for duplicate or batch entries.
-</thinking>
-
 # HPI Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the form design process: 
 - The form is used for polls, so it's likely meant to be used for collecting opinions or preferences from a youth smartphone user base.
 - It's a 10 question long form.

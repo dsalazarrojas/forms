@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to screen and monitor potential cases of mpox, also known as the monkeypox virus. The Mpox Screening Form will help collect information about the individual's exposure and symptoms to aid in the assessment and response efforts. This form is not intended for medical diagnosis or treatment, but rather as a tool for healthcare professionals to gather data and inform their decision-making process.
-</thinking>
-
 # Mpox Screening Form - Help Guide
 ## Purpose
 The Mpox Screening Form is a tool designed to collect data on potential cases of mpox to support public health initiatives and inform healthcare responses.

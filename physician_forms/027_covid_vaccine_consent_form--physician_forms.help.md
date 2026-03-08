@@ -1,8 +1,4 @@
-<thinking>...
-This form is designed to collect patient consent for COVID-19 vaccination, including demographic information, medical history, and vaccination preferences.
-It's essential to ensure that the form is only filled out once by the patient, and that the patient understands the risks and benefits of the vaccine.
-Please ensure that the form is not filled out in error and that the patient's consent is accurately recorded.
-</thinking>...
+...
 
 # COVID Vaccine Consent Form - Help Guide
 ## Purpose

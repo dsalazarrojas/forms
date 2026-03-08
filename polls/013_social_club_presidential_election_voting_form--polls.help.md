@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for the internal use of the social club. It's meant to be used by club members to cast their votes in the presidential election. Each field is designed to collect specific information from the user, and the form is structured in a way that allows users to provide their preferences in a clear and concise manner.
-
-The form is not intended to be used for external purposes, and it's not meant to be filled out by non-members of the social club.
-
-Each field has been designed with the following goals in mind:
-
-- Collect the name and contact information of the user
-- Ask the user to choose their top candidate from a list
-- Ask for additional comments or other information
-
-The fields are also required and optional based on their designated purpose.
-
-</thinking>
-
 # Social Club Presidential Election Voting Form - Help Guide
 ## Purpose
 The Social Club Presidential Election Voting Form is designed to collect user preferences and information in the internal presidential election of the social club.

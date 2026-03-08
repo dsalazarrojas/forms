@@ -1,6 +1,3 @@
-<thinking>
-The form is a tool to evaluate the performance of a pastor in their role. This form is used by supervisors or administrators to assess the pastor's abilities, effectiveness, and areas for improvement. It's essential to fill out this form accurately and honestly to provide constructive feedback that helps the pastor grow and improve their skills. Please ensure you're only filling out this form for the intended purpose and not duplicating efforts.
-</thinking>
 # Pastors Evaluation Form - Help Guide
 ## Purpose
 This form is designed for supervisors or administrators to evaluate a pastor's performance, providing feedback on their abilities, effectiveness, and areas for improvement.

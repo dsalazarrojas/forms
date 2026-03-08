@@ -1,15 +1,3 @@
-<thinking>
-This form appears to be designed for customers to pre-order STEM-related products (toys) and collect information about the customer and their order. However, the form seems to be missing a clear purpose statement, which would ideally be the first step in the process. 
-
-Given the form's structure, it's likely that it is used for customers to place pre-orders for STEM toys, and the fields may be used to collect customer information, order details, and shipping information. However, some fields seem to be redundant or unnecessary, such as the "form_id" and "form_name" fields, which might be better removed or replaced with more relevant information. 
-
-The "toy_pre_order" field is a select_one field, which suggests that customers can choose one of the available STEM toys to pre-order. The "shipping_details" field is a note field, which could be used for customers to provide additional shipping information. The "preorder_status" field is a select_one field, which could be used to track the status of the pre-order. 
-
-To improve the form, it might be beneficial to add more clear and concise labels for each field, as some of them seem to be quite generic (e.g., "shipping_address", "shipping_date", "shipping_time", etc.). Additionally, some fields could be grouped or rearranged for better logical flow, especially considering the fields related to shipping. 
-
-Overall, this form seems to be a good starting point, but further refinements are needed to make it more user-friendly and efficient for customers to pre-order their STEM toys.
-</thinking>
-
 # STEM Toy Pre Order Form - Help Guide
 
 ## Purpose

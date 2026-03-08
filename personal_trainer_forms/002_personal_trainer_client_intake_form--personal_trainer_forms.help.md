@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that is clear, concise, and practical for the "Personal Trainer Client Intake Form". This form is used for clients to provide their contact information, training preferences, and medical history to their personal trainer. By following this guide, clients will be able to understand the purpose of each field and how to complete the form accurately.</thinking>
-
 # Personal Trainer Client Intake Form - Help Guide
 
 ## Purpose

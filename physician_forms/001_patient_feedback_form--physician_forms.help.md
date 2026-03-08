@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient feedback, which is crucial for healthcare providers to assess and improve their services. This form aims to gather detailed information about the patient's experience at the clinic, including their name, contact information, visit details, and feedback. It is essential that this form is completed accurately and thoroughly, as the information gathered will help healthcare providers better understand their patients' needs and provide improved care.
-
-Before filling out this form, ensure that you have read and understood the instructions to avoid duplicating entries.
-
-</thinking>
-
 # Patient Feedback Form - Help Guide
 ## Purpose
 The Patient Feedback Form is designed to collect feedback from patients after their visit to the clinic. This form is used to assess and improve the quality of care provided to patients.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a personal planner for users to structure and plan their daily schedule, allowing them to input their tasks, appointments, and other activities. It's meant to be a flexible and customizable tool for users to efficiently organize their daily tasks and appointments, providing them with a clear overview of their daily commitments. This form is not meant to be a replacement for more advanced scheduling software, but rather a simple, user-friendly interface for daily planning. It is likely to be used by individuals looking to plan their daily activities, possibly in conjunction with other tools or software for more complex scheduling needs.
-
-This form should not be used for business purposes or for scheduling appointments for multiple people. The fields are designed to provide a personal and flexible experience, allowing users to input their personal and professional activities in a way that suits their needs. 
-
-</thinking>
-
 # Daily Personal Planner - Help Guide
 ## Purpose
 The Daily Personal Planner is a simple and user-friendly form designed to help you plan your day in a structured and efficient way. It allows you to input your tasks, appointments, and other activities for a better understanding of your daily commitments.

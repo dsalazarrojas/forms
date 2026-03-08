@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information and agreements for a wedding photoshoot. The main goal is to ensure that both the photographer and the client are on the same page regarding the terms and conditions of the photoshoot, including basic requests, special add-ons, contact details, and contract signing. The form is meant to be a comprehensive agreement that outlines the expectations and requirements for the photoshoot.
-</thinking>
-
 # Wedding Photoshoot Agreement - Help Guide
 ## Purpose
 This form is used to gather essential information and agreements for a wedding photoshoot. It includes basic requests, special add-ons, contact details, and contract signing.

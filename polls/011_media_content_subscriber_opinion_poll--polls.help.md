@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Media Content Subscriber Opinion Poll - Help Guide
 ## Purpose
 This form is designed to collect the opinions and ratings of media content subscribers. It aims to gather feedback on various aspects related to media content, allowing us to better understand their preferences and needs.

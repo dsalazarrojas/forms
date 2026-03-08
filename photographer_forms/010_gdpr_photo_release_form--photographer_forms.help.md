@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # gdpr_photo_release_form - Help Guide
 
 ## Purpose

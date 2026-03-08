@@ -1,8 +1,3 @@
-<thinking> 
-This form is a comprehensive tool designed to capture essential information related to photography shoots. Its primary purpose is to streamline the photo shoot booking process, ensuring that all necessary details are recorded accurately and efficiently. This guide will walk users through each field, providing clarity on its significance and requirements. Ensure that you have reviewed the form's purpose and content before proceeding, as it may reduce duplication of information.
-
-</thinking>
-
 # Photo Shoot Order Form - Help Guide
 ## Purpose
 The Photo Shoot Order Form is a crucial tool for capturing and organizing essential details related to photography shoots. It helps in ensuring that all necessary information is recorded accurately and efficiently.

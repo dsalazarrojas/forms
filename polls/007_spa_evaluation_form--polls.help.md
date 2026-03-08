@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # SPA Evaluation Form - Help Guide
 ## Purpose
 The **SPA Evaluation Form** is designed to collect feedback and evaluations from customers about the aesthetic services and products provided by the spa. This form helps spa management to assess the quality of services, identify areas for improvement, and provide better customer experiences.

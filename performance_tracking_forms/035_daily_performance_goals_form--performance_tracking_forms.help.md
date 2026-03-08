@@ -1,7 +1,3 @@
-<thinking>
-This form is used by performance tracking team members to document and report on daily performance goals and objectives. It is a crucial tool for measuring progress and identifying areas for improvement. The form is used to capture key information about the goals, target dates, and actual performance metrics. This form should be used for every team member, and it's essential to fill it out accurately and completely.
-</thinking>
-
 # Daily Performance Goals Form - Help Guide
 ## Purpose
 The Daily Performance Goals Form is a tool used by performance tracking team members to document and report on their daily performance goals and objectives. It is a crucial tool for measuring progress and identifying areas for improvement.

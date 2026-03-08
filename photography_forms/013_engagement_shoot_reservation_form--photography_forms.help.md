@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to aid couples in the process of reserving a photography engagement shoot. The form is intended for couples to provide essential details about their event, ensuring that the photographer is adequately prepared. It is a one-page form with fields for couple names, event date and time, location, and other relevant information.
-</thinking>
-
 # engagement_shoot_reservation_form - Help Guide
 ## Purpose
 The engagement_shoot_reservation_form is a tool used by photographers to gather information from couples about their engagement shoots.

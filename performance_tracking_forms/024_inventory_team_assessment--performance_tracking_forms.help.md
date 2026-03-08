@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to assess an employee's skills and competencies within their team, specifically in relation to inventory management. It is used to evaluate each employee's strengths and areas for improvement, providing insights for development and growth within the team. The goal is to ensure that employees are well-rounded and effective in their roles, and that any weaknesses can be addressed through training or support.
-
-</thinking>
-
 # inventory_team_assessment - Help Guide
 ## Purpose
 This form is designed to help you understand an employee's skills and competencies within their team, specifically in relation to inventory management. It will help you identify their strengths and areas for improvement to support their development and growth within the team.

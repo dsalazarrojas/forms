@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to collect information from users who want to pre-order limited edition toys. The form will ask for various details such as the customer's name, preferred options, and other relevant information. The form's purpose is to streamline the process for customers to order their limited edition toys and reduce potential errors or missed details.
-
-Each field in this form is designed to gather specific information from the users. The form is divided into multiple pages to break down the information gathering process into more manageable sections.
-
-Please note that this is a one-time order form for a limited edition product, which is why many fields are optional. Users are not required to fill out all fields, but providing the most relevant information will help us process their order efficiently.
-
-The form fields are designed to be user-friendly and intuitive. Here's a breakdown of each field:
-
-The fields are divided into the following categories: text, select, number, select multiple, date, time, and email.
-</thinking>
-
 # limited_toy_order_form - Help Guide
 ## Purpose
 The limited_toy_order_form is designed to collect information from users who want to pre-order limited edition toys. Fill out this form to provide your details and preferences, and we'll get in touch with you to confirm your order.

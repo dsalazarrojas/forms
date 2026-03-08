@@ -1,13 +1,3 @@
-<thinking>From the provided YAML, it appears that the Performance Goals Alignment Survey form is designed to collect feedback and performance data from employees regarding their alignment with organizational objectives. The form is likely used to track and evaluate an employee's performance in relation to the organization's goals and objectives. The form's purpose is to identify areas where the employee's performance needs to be adjusted to better align with the organization's goals.
-
-This form is intended to be completed by employees, and it's likely used in a performance review or evaluation process. The form's fields appear to be a mix of rating and text-based questions that ask the employee to provide feedback on their performance goals and alignment with organizational objectives.
-
-It's possible that the form is used to identify areas where the employee's performance needs improvement and to provide feedback and support to help them better align with the organization's objectives.
-
-The form's fields are quite extensive, including questions on manager rating, employee comments, performance goals alignment, alignment with organizational objectives, employee support needs, goal clarity, and more. It's likely that these fields are used to collect data on the employee's performance and provide a comprehensive overview of their strengths and areas for improvement.
-
-To confirm, it would be helpful to know more about the organization's goals and objectives and how this form is used in the performance review process.</thinking>
-
 # Performance Goals Alignment Survey - Help Guide
 ## Purpose
 

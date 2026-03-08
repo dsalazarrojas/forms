@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide that explains the purpose of this form and how to complete it, including a field-by-field explanation of each field. This form is likely for photographers to submit their images for review, exhibition, or other purposes. The form is designed to collect information about the photographer, image, and submission details. To avoid duplication, we should ensure that users understand the form's purpose and how to fill it out correctly.
-</thinking>
-
 # Image Submission Form - Help Guide
 ## Purpose
 The Image Submission Form is designed for photographers to submit their images for review, exhibition, or other purposes. This form collects information about the photographer and the submitted image, helping us to process and review submissions efficiently.

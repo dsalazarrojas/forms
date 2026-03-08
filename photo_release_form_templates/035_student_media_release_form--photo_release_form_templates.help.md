@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to obtain the consent of a parent or guardian for a student's media usage. The form is used to collect information such as the student's name, date of birth, and contact details of the parent or guardian. It also requires the parent or guardian to provide their consent for the use of the student's image, whether it will be used for social media, print materials, or websites. The form also requires the signature of both the student and the parent or guardian, as well as the status of the consent.
 
 ## Student Media Release Form - Help Guide

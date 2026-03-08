@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect feedback and voting information for an "Innovative Project Voting Form" within an organization. The form likely aims to gauge user opinions on various projects, and the collected data will be used for internal evaluation and improvement purposes. This form is meant for users to provide their honest opinions, and responses are required for certain fields to ensure accurate and complete data collection.
-
-Before proceeding, ensure that you have not already submitted a response for the same project. Duplicate responses may lead to inaccurate data and skew the voting results.
-
-</thinking>
-
 # Innovative Project Voting Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and voting information for an "Innovative Project Voting Form". It aims to gauge user opinions on various projects and collect data for internal evaluation and improvement.

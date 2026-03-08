@@ -1,5 +1,3 @@
-<thinking>...This guide is for the Physiotherapy Assessment Form, used to evaluate patient satisfaction and other relevant information. Please note that this form may be used in a medical setting, and the fields below aim to help healthcare professionals gather necessary data to improve patient care and services. Ensure that you complete this form accurately and according to your clinical judgment...</thinking>
-
 # Physiotherapy Assessment Form - Help Guide
 ## Purpose
 The Physiotherapy Assessment Form is used to assess patient satisfaction and other relevant information in a medical setting.

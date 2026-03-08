@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact information, product details, and payment/shipping data from customers who want to preorder products for an event. The form is not affiliated with, endorsed by, or derived from any form platform, and it was created using AI-generated content. The form has four sections: contact information, product information, payment information, and shipping information. Each section will be explained in detail below.
-
-</thinking>
-
 # matilda-jane-march-2022-pre-order-form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers who want to preorder products for an event. This information will be used to facilitate the preorder process and ensure that customers receive their ordered products on time.

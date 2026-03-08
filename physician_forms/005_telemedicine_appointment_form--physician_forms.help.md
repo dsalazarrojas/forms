@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the Telemedicine Appointment Form, I'll review the form's purpose, completion instructions, and field-by-field explanation, ensuring each field label is explained in a straightforward and practical manner.
 
 # Telemedicine Appointment Form - Help Guide

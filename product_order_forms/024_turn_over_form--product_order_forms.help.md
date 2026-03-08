@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for processing returns and exchanges of products, ensuring that customers can provide necessary information for the return process. This form helps to collect relevant details to facilitate the return process efficiently. To avoid duplication and ensure consistency in data collection, please ensure you complete this form carefully and accurately. If you're unsure about any of the fields, please refer to the help guide below for guidance.
-</thinking>
-
 # Turn Over Form - Help Guide
 ## Purpose
 The Turn Over Form is a tool used by customers to initiate a return or exchange of a purchased product. This form collects necessary information to process your return or exchange efficiently and effectively.

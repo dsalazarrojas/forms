@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about development plans, likely for tracking and monitoring progress in a work or project context. The purpose of this form is to capture details about employee development plans, including employee name, job title, and other relevant details. The form is intended to be used internally within an organization, and the fields are likely populated by authorized personnel. The form's layout and fields suggest that it is used for tracking employee development progress and status.
-</thinking>
-
 # Development Plan Acknowledgment Form - Help Guide
 ## Purpose
 This form is used to collect and acknowledge details about employee development plans. It is intended for internal use within an organization to track progress and status.

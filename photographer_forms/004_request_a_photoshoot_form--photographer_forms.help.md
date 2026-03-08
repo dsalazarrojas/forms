@@ -1,12 +1,3 @@
-<thinking>
-The form is used to request a photoshoot from the photographer. The form is designed to collect information from the client, including their name, email, phone number, website, and services required. This information will be used to schedule and prepare for the photoshoot.
-
-The form is not intended to be a contract or a binding agreement, but rather a request for services. The client will be contacted to discuss their request and schedule a photoshoot at a later time.
-
-To avoid duplication, we will not process multiple requests from the same client for the same photoshoot.
-
-</thinking>
-
 # Request A Photoshoot Form - Help Guide
 ## Purpose
 This form is used to request a photoshoot from the photographer. It is designed to collect essential information from the client, such as their name, email, phone number, website, and services required. This information will be used to schedule and prepare for the photoshoot.

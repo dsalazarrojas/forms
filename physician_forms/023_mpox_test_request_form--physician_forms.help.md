@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mpox Test Request Form - Help Guide
 ## Purpose
 The Mpox Test Request Form is designed to collect information from physicians to request mpox tests. This form helps to streamline the process of requesting tests, ensuring that all necessary details are captured accurately. Please use this form to request mpox tests in a clear and concise manner.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photoshoot Session Booking Form - Help Guide
 
 ## Purpose

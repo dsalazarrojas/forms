@@ -1,21 +1,3 @@
-<thinking>
-This help guide is being generated based on the provided YAML fields. I'll review the form's structure and provide a clear and concise explanation for end-users. The form is titled "photography contest" and its purpose is to collect information about a photo submission for a contest or competition. 
-
-The form is divided into multiple pages with various fields for entering different types of information. Some fields are required (e.g., photo_title, photographer_name, email), while others are optional (e.g., photo_description, phone, date, time, note, category, tags, image_urls).
-
-Upon reviewing the form, it appears that the contest is likely designed for photographers to submit their work and provide additional details about the photo and themselves. The fields are self-explanatory for the most part, but some clarification will be provided where necessary.
-
-The fields can be categorized as follows:
-
-* Photo information (Title, Description, Photo URL)
-* Photographer's Information (Photographer's Name, Email, Phone, Date, Time)
-* Additional Information (Note, Category, Tags)
-* Image URLs (5 fields for uploading multiple images)
-
-This guide will explain each field in a clear and concise manner, making it easy for end-users to understand and complete the form accurately.
-
-</thinking>
-
 # photography contest - Help Guide
 ## Purpose
 The photography contest form is designed for photographers to submit their work and provide additional details about the photo and themselves. This form is used for collecting information for a contest or competition.

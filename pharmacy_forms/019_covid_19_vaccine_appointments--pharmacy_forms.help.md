@@ -1,10 +1,3 @@
-<thinking>
-To ensure that this form is used correctly and effectively, it's essential to have a clear understanding of its purpose and how it's used internally. The form is designed to gather information from individuals and groups to schedule COVID-19 vaccine appointments. 
-The form is used in the context of the vaccine rollout, and its completion is crucial for organizing appointments, ensuring that individuals receive the vaccine on time, and reducing the risk of vaccine waste. 
-
-This form must be filled out by people who are interested in receiving the vaccine and need to provide information about their contact details, appointment preferences, and health status. 
-</thinking>
-
 # COVID 19 Vaccine Appointments - Help Guide
 ## Purpose
 The COVID-19 Vaccine Appointments form is used to gather information from individuals and groups to schedule vaccine appointments. This form helps to organize appointments, reduce vaccine waste, and ensure that those who need the vaccine can get it on time.

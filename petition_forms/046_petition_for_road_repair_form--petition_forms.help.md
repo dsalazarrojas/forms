@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about road conditions and requests for repairs. To prevent duplicate submissions and ensure that your issue is addressed, please only submit one form per road condition issue. If you have multiple problems with the same road, please submit one form with all the issues listed in the description field.
-</thinking>
-
 # Petition For Road Repair Form - Help Guide
 ## Purpose
 The Petition For Road Repair Form is a tool for citizens to report road conditions and request repairs. By filling out this form, you can help the city identify areas that need attention and prioritize repairs based on the urgency of the issues reported.

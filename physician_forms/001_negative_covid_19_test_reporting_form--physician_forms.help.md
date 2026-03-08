@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a user's negative COVID-19 test result. 
-This form is designed to gather data about the user's test result, test date, and who reported the test result. The form can be completed by anyone with a negative COVID-19 test result. 
-It's essential to ensure that the form is completed accurately and consistently to maintain the integrity of the data collected. To avoid duplication, please ensure that you do not complete this form if you have already submitted a negative COVID-19 test result in the past. 
-Please be aware that this form is not affiliated with any specific healthcare provider or authority and is an AI-generated adaptation of a public survey topic. 
-</thinking>
-
 # Negative COVID 19 Test Reporting Form - Help Guide
 ## Purpose
 This form is designed to collect information about your negative COVID-19 test result. It's used to gather data about your test result, test date, and who reported the test result.

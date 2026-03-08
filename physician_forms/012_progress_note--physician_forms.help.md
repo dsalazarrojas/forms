@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to document the progress of a patient's treatment or care. It is designed to capture relevant information about the patient's condition, medical history, treatment plans, and other important details. The form is intended for use by healthcare professionals, such as physicians, in a clinical setting.
-
-To ensure that the form meets your needs, please check that:
-
-* You have the necessary permissions to use this form in your healthcare setting.
-* You have reviewed and understood the form's purpose and fields.
-* You have not previously filled out a similar form for the same patient.
-
-If you are unsure about any of these points, please contact your organization's administration or technical support for further guidance.
-
-</thinking>
-
 # Progress Note - Help Guide
 
 ## Purpose

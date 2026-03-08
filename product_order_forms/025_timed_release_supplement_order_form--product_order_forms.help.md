@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Timed Release Supplement Order Form - Help Guide
 
 ## Purpose

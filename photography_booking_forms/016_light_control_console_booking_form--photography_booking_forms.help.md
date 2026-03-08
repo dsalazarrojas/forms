@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form serves its intended purpose without duplication. This form, the "Light Control Console Booking Form", is used for users to book a console for a specific time period. The fields in this form are meant to collect information about the user, the console they are booking, and any additional details required for the console usage.
-</thinking>
-
 # Light Control Console Booking Form - Help Guide
 ## Purpose
 This form is used to book a console for a specific time period. Please provide the required information to complete the booking process.

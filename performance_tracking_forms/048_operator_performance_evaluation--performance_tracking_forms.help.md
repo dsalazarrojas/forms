@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the performance of operators within an organization. It allows users to assess the effectiveness and efficiency of operators in performing their duties, identify areas of improvement, and track progress over time. This form is likely used by supervisors, managers, or HR representatives to gather feedback and ratings on operator performance, and to document any comments or recommendations for future reference. Before completing this form, please ensure that you are aware of the operator's performance and have all the necessary information required to provide an accurate assessment. Note that this form is for general guidance and is not designed for specific business processes or workflows. It is possible that some fields might be redundant or overlap with other forms or processes. Please verify that the fields are relevant to your use case before proceeding.</thinking>
-
 # Operator Performance Evaluation - Help Guide
 
 ## Purpose

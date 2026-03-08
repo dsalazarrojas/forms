@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for customers who wish to place an order for a custom automation arm. It is intended for use by sales and customer service teams to gather necessary details from the customer to process the order efficiently.
-</thinking>
-
 # Custom Automation Arm Order Form - Help Guide
 ## Purpose
 This form is meant to guide the customer through a step-by-step process of providing required information for their custom automation arm order.

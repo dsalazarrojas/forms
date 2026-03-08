@@ -1,9 +1,3 @@
-<thinking>
-
-The internal reasoning for this form is to collect customer information for a Festival T Shirt Pre Order Form. This form is likely used for customers to pre-order festival t-shirts and provide their contact information for potential follow-up actions. The form should be used by festival attendees to place their orders before the festival, ensuring timely delivery and minimizing last-minute requests. To prevent duplication, the form should be used only for new orders or updates to existing orders.
-
-</thinking>
-
 # Festival T Shirt Pre Order Form - Help Guide
 ## Purpose
 The Festival T Shirt Pre Order Form is designed to collect information for pre-ordering festival t-shirts. To use this form, follow the steps below.

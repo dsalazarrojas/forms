@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information for the Eco Cup prototype order process. It is expected that users will have a basic understanding of the Eco Cup and its ordering process. This form is not intended to be filled out multiple times, but rather as a one-time submission for each order. 
 
 </thinking>

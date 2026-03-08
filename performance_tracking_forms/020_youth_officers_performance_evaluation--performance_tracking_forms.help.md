@@ -1,16 +1,3 @@
-<thinking> 
-This form is designed to evaluate the performance of youth officers in their role. It is used to gather feedback from supervisors or peers on specific aspects of the youth officer's performance, such as communication and leadership skills, attendance, meeting attendance, time management, and problem-solving abilities. This feedback is essential in helping to identify areas of strength and weakness, inform performance development plans, and support the growth and improvement of the youth officer.
-
-The form is divided into two main sections: "Evaluation of Skills" and "Other Aspects". The first section assesses the youth officer's skills, including communication, leadership, time management, collaboration, problem-solving, and task completion. The second section is used to gather general feedback and suggestions for improvement.
-
-The form is meant to be completed by a single person, likely the supervisor or peer who works closely with the youth officer. It is crucial that the person completing the form has first-hand experience with the youth officer's performance and can provide honest and constructive feedback.
-
-The form is designed to be completed online, which allows for easy submission and review of the evaluation.
-
-Before starting the form, ensure you have a clear understanding of the youth officer's performance and specific instances that support your evaluation.
-
-</thinking>
-
 # Youth Officers Performance Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of youth officers in their role. It is used to gather feedback from supervisors or peers on specific aspects of the youth officer's performance, such as communication and leadership skills, attendance, meeting attendance, time management, and problem-solving abilities.

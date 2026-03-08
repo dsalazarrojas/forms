@@ -1,11 +1,3 @@
-<thinking>
-The form is used to collect feedback on public environmental policy sentiment from users.
-This form is intended to measure public opinion on various environmental policies.
-To avoid duplication, users can only submit one response per user ID.
-The form has multiple pages, each with different types of questions, such as multiple-choice questions, text fields, and date/time fields.
-The form also collects contact information, such as email, phone number, and physical address.
-</thinking>
-
 # Public Environmental Policy Sentiment Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback on public environmental policy sentiment from users. It is intended to measure public opinion on various environmental policies and understand how different groups of people perceive and respond to these policies.

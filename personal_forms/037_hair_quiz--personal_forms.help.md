@@ -1,9 +1,3 @@
-<thinking>
-Do I understand the form purpose: The "Hair Quiz" form is likely used to gather information about a person's hair condition, type, length, thickness, condition history, falling history, and other related topics. This form aims to collect data for some internal or external use. 
-Is the form purpose clear? If it's not, I'll make some assumptions based on the provided YAML fields.
-Do the form fields look consistent with the purpose? They seem to be asking about hair-related aspects, so I'll proceed with creating the help guide.
-</thinking>
-
 # Hair Quiz - Help Guide
 ## Purpose
 This form is used to collect information about your hair condition, type, length, thickness, condition history, and other related topics. Please answer the questions honestly to help us better understand your hair.

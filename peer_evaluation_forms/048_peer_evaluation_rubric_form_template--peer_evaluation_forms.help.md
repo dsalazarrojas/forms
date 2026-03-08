@@ -1,19 +1,3 @@
-<thinking>
-
-The Peer Evaluation Rubric Form Template is designed to facilitate peer review and feedback within a team or organization. It is meant to be used by peers to evaluate and score each other's work, providing constructive feedback and suggestions for improvement. This form is not meant to be a comprehensive assessment tool, but rather a tool to help individuals grow and develop their skills and performance.
-
-To ensure the form is used effectively, please review the following guidelines:
-
-* Be specific and objective when providing feedback.
-* Focus on specific aspects of the work, rather than making general statements.
-* Use the provided space to explain the reasons behind the scores and comments.
-* Keep your feedback constructive and actionable, providing suggestions for improvement.
-* Be respectful and professional in your tone and language.
-
-If you have used this form before, please ensure that you are not duplicating your evaluation. If you are unsure, please check with the form administrator to confirm.
-
-</thinking>
-
 # Peer Evaluation Rubric Form Template - Help Guide
 ## Purpose
 The Peer Evaluation Rubric Form Template is a tool used to collect feedback and suggestions from peers on individual work or projects. It is designed to promote growth, improvement, and learning within a team or organization.

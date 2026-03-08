@@ -1,9 +1,3 @@
-<thinking>
-This guide will help users understand how to complete the "green_building_project_petition_form" form, which is designed to collect information from individuals or organizations interested in participating in the Green Building project. This form is meant to gather contact details and project-related information, such as project name and location. It will help project organizers to get in touch with potential participants and keep them updated on project progress.
-
-Before proceeding, please make sure you have the necessary permissions to fill out this form and that you are not duplicating your information. If you have already filled out this form, please do not repeat the process.
-</thinking>
-
 # green_building_project_petition_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or organizations interested in participating in the Green Building project.

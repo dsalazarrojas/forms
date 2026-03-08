@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from medical staff members about their new physician information, emergency contact, physician experience, minimally invasive procedures, medical certifications, and other relevant details. The form ensures consistency with our internal records and helps us verify the qualifications and credentials of new medical staff members. To avoid duplication, please do not fill out this form if you are already listed as an active medical staff member or have a previously submitted application.
-</thinking>
-
 # Medical Staff Application Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from new medical staff members, including their new physician information, emergency contacts, physician experience, medical certifications, and other relevant details. It ensures consistency with our internal records and helps verify the qualifications and credentials of new medical staff members.

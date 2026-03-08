@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Vaccine Consent Form - Help Guide
 
 ## Purpose

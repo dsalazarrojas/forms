@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a Medical Declaration Form, a document used to gather information about a patient's health status. It is intended to be completed by the patient or their representative. The form is not affiliated with, endorsed by, or derived from any form platform, but rather created using public survey topic metadata as inspiration. The form is released under CC BY 4.0 and can be used, modified, and even sold with proper credit.
-
-The purpose of this form is to collect general information, travel history, symptoms, medical history, vaccination status, travel details, medical declaration, goals, contact information, emergency contact information, allergies, medications, test results, travel documents, and other relevant information about the patient.
-
-This form is not intended to be a comprehensive medical record, but rather a supplement to the patient's medical history. It is essential that the patient provides accurate and detailed information to ensure a thorough understanding of their health status.
-
-Before starting to complete the form, please make sure you are not duplicating efforts. If you have already completed the form for the same purpose or for a similar case, please refer back to that form instead of completing this one.
-
-</thinking>
-
 # Medical Declaration Form - Help Guide
 ## Purpose
 The Medical Declaration Form is a document used to gather information about a patient's health status.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information for personal training clients. It is used to collect contact information, training plans, and payment details for clients who are interested in or have already started training. This form likely exists to streamline the client onboarding process and to ensure that both the client and trainer are on the same page regarding the terms of the training agreement. This information will likely be used to create a contract or agreement between the client and trainer. Ensure this form is used for personal training agreements only, and not for other types of agreements or contracts.</thinking>
-
 # Personal Training Agreement And Guidelines Form - Help Guide
 ## Purpose
 

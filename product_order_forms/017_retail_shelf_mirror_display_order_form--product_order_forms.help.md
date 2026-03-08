@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for retail shelf mirror display orders.
-</thinking>
-
 # Retail Shelf Mirror Display Order Form - Help Guide
 
 ## Purpose

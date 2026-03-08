@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from passengers about their in-flight meal service preferences. The form is not affiliated with any form platform and is an original creation using public survey topic metadata. This form is a tool to gather information and improve passenger experience.
-</thinking>
-
 # Passenger Inflight Service Preference Poll - Help Guide
 ## Purpose
 This form is meant to collect feedback from passengers about their preferences and experiences with in-flight meal service. Please take a few minutes to complete the form and let us know about your preferences.

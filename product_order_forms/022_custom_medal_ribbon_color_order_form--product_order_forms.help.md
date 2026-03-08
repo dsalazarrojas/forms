@@ -1,12 +1,3 @@
-<thinking>
-The main purpose of this form is to gather information for a custom medal ribbon color order. This form is used to collect details about the order, including the color of the medal ribbon, the quantity required, shipping details, and payment information. The form is designed to be used by school staff or organization members to place orders for custom medal ribbons.
-Before filling out this form, please ensure that you have all the necessary information ready. If you are placing an order on behalf of a school or organization, please use this form to collect all the required details for each member. This will help in ensuring that all the orders are accurate and complete.
-
-To avoid duplication of orders, please use this form only when you have a new order to place. If you need to update or cancel an existing order, please contact the relevant school or organization staff directly.
-
-Please go through the form carefully and fill out all the required fields. The form has several sections, each designed to collect specific information. Please refer to the field-by-field explanation below for more details.
-</thinking>
-
 # Custom Medal Ribbon Color Order Form - Help Guide
 ## Purpose
 

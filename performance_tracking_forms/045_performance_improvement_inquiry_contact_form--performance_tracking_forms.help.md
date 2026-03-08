@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who have a performance improvement inquiry or concern. This form is meant to gather details about the performance concerns, the priority of the issue, and contact information for follow-up. It is essential to fill out this form accurately to ensure that the right person is contacted and the issue is resolved effectively.
-</thinking>
-
 # Performance Improvement Inquiry Contact Form - Help Guide
 ## Purpose
 The Performance Improvement Inquiry Contact Form is designed to collect information from users who have a performance improvement inquiry or concern. This form helps to identify areas of improvement and ensures that the right person is contacted to address the issue.

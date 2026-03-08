@@ -1,7 +1,3 @@
-<thinking>
-The form is used to track the performance of employees in various departments. It is meant to collect data on employee details, such as their category of work, date and time of visit, employee ID, department, and job title. The form also includes fields to collect notes and the submitted date and time. The form is intended to be completed by employees or their managers.
-</thinking>
-
 # Human Capital Performance Audit Application Form - Help Guide
 ## Purpose
 The Human Capital Performance Audit Application Form is designed to collect data on employee performance. It is used to track employee details and progress across different departments and job grades.

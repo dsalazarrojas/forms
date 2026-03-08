@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students to create a formal request or appeal to the University Senate. This form is used to provide a structured format for students to express their concerns, suggestions, or requests in a clear and concise manner. Before filling out this form, please review your request carefully to ensure it aligns with the purpose of the University Senate and has not been previously submitted. Please make sure to provide as much detail as possible to support your request.
-</thinking>
-
 # University Senate Petition Form - Help Guide
 
 ## Purpose

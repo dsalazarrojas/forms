@@ -1,12 +1,3 @@
-<thinking>
-**Form Purpose:** The Health Profile Form is designed to collect essential patient information to help healthcare providers better understand a patient's medical needs and history.
-
-**Form Fields Explanation:** The purpose of this form is to gather crucial details about a patient's health profile, including their medical history, allergies, conditions, medications, and vital signs. This information enables healthcare providers to make informed decisions and provide personalized care.
-
-Before we dive into the explanation of each field, let's clarify that this form is not a comprehensive medical assessment tool. It is meant to supplement, not replace, a thorough medical evaluation. If you have any doubts or concerns about a field, please reach out to your healthcare provider for clarification.
-
-</thinking>
-
 # Health Profile Form - Help Guide
 
 ## Purpose

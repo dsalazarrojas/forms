@@ -1,12 +1,3 @@
-<thinking>
-This is a form for creating or editing worker profiles, and it's designed to collect various information about the worker, including their personal details, job description, and job-related information. This form is likely used by HR or personnel management teams to create and manage worker profiles in a database or system. 
-
-This form has 25 fields, covering a range of topics, including names, email addresses, job titles, hire dates, phone numbers, and job descriptions. It also includes some dropdown menus for select_one or select_multiple types, which allow users to select specific options for fields like department, job level, job function, team, and job level of the reporting manager. 
-
-Before proceeding, please review the following fields carefully to ensure you understand what information is being collected and what the expected format is.
-
-</thinking>
-
 # workers_profile_form - Help Guide
 ## Purpose
 This form is used to create or edit worker profiles, which are used by HR or personnel management teams to manage worker information in a database or system.

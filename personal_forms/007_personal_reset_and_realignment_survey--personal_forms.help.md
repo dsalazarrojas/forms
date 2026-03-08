@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to be used by individuals to reset and realign their personal goals, coaching, and priorities. The purpose of this form is to help users reflect on their current status and identify areas for improvement. The form consists of multiple pages with various types of questions including multiple-choice questions, text fields, and select_multiple questions. Each page has a specific set of questions tailored to gather relevant information. Before filling out this form, make sure you have the necessary information and answers ready to provide accurate and detailed responses. To prevent duplication, please do not fill out this form multiple times. If you need help or have questions, contact the support team. 
-</thinking>
-
 # Personal Reset And Realignment Survey - Help Guide
 ## Purpose
 The Personal Reset And Realignment Survey is a tool to help you reset and realign your personal goals, coaching, and priorities.

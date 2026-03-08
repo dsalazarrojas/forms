@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'd like to note that this form appears to be for registering faculty members in some sort of peer exchange program or initiative. The goal is likely to gather information about each faculty member in a comprehensive and structured manner. The form seems to be asking for basic contact information (First Name, Last Name, Email), affiliation with a department or institution (Department, Department 2, Department 3, Department 4), research interests (Research Areas, Faculty ID), and possibly administrative details (Role, Title, Faculty ID). It also includes some more unique fields like "Prophets" which might be used for a specific purpose in the context of this peer exchange. The form's purpose could be for creating a directory or a database of faculty members with diverse expertise in different areas.</thinking>
-
 # Faculty Peer Resource Exchange Registration Form - Help Guide
 ## Purpose
 This form is used to register faculty members in the peer exchange program, providing a comprehensive directory of members with diverse expertise in various areas.

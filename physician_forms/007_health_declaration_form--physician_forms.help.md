@@ -1,11 +1,3 @@
-<thinking>
-**Internal reasoning:**
-The purpose of this form is to collect information about an individual's travel history, symptoms, medical conditions, contact details, and travel details. This form is used for health-related purposes, likely for medical professionals to gather relevant information about patients. The fields seem to be designed to be optional, which means users may choose not to fill them out if they don't have the necessary information. The form appears to be simple and straightforward, with no complex logic or branching logic required.
-
-**Form purpose:** This form is designed to collect health-related information about an individual's travel history, symptoms, medical conditions, contact details, and travel details.
-
-</thinking>
-
 # Health Declaration Form - Help Guide
 ## Purpose
 This form is used to collect health-related information from individuals.

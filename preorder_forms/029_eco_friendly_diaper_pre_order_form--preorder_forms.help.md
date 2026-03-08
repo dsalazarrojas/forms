@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, titled "eco-friendly-diaper-pre-order-form," is designed to collect pre-order information from customers. The purpose of this form is to gather essential details for customers to place a pre-order for eco-friendly diapers. The form will help customers provide their contact information, delivery preferences, and payment details, which will allow the store to efficiently process and fulfill the pre-orders. This form is not intended for immediate purchases, but rather for customers to reserve products in advance.
 
 # eco-friendly-diaper-pre-order-form - Help Guide

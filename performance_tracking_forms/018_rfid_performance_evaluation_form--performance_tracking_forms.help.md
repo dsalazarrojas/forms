@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to help track and evaluate the performance of RFID readers. It is used to collect data on the functionality and issues faced by RFID readers in the test environment. The form should only be filled out for each RFID reader tested. The form is not intended for general use, but rather for specific, concrete instances of RFID reader testing. This form should only be filled out after an RFID reader has been tested, and it is intended to provide a clear and concise way of documenting the results and issues encountered during the test.
-
-</thinking>
-
 # rfid-performance-evaluation-form - Help Guide
 ## Purpose
 This form is used to collect data on the performance of RFID readers in the test environment. It is intended to document the results of specific RFID reader tests and highlight any issues or recommendations for improvement.

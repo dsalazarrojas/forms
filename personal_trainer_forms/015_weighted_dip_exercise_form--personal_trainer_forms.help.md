@@ -1,9 +1,3 @@
-<thinking> 
-
-The form is a Weighted Dip Exercise Form, which is used to record and track the details of a weighted dip exercise, including the date of the exercise, weight used, repetitions, exercise type, weight machine used, weight machine setting, weight used (machine), and additional notes. The form is designed to be completed by personal trainers or coaches to track the progress and performance of their athletes. The form will be used to provide a clear and accurate record of the exercise, allowing for easier tracking and analysis of the athlete's performance.
-
-</thinking>
-
 # Weighted Dip Exercise Form - Help Guide
 ## Purpose
 The Weighted Dip Exercise Form is used to record and track the details of a weighted dip exercise, including the date of the exercise, weight used, repetitions, exercise type, weight machine used, weight machine setting, weight used (machine), and additional notes.

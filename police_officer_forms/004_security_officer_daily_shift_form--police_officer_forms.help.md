@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I'll first provide a brief internal reasoning block explaining the form purpose and checks for relevance and non-duplication.</thinking>
-
 # Security Officer Daily Shift Form - Help Guide
 ## Purpose
 The Security Officer Daily Shift Form is used to record and document the daily activities and incidents of security officers. This form helps to ensure that security officers are accurately reporting their daily shift, including any incidents or issues encountered during their shift. The form is designed to be a quick and efficient way to document and report daily activities, reducing the need for additional paperwork or lengthy reports.

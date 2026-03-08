@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information from customers who wish to pre-order health supplements. The form is part of the pre-ordering process for launching new health supplements. This form collects various details about the customer, their order, and payment method. Before starting, please check that you are in the correct context and that this form is not a duplicate of another form you may have already filled out.</thinking>
-
 # health-supplement-launch-pre-order-form - Help Guide
 ## Purpose
 This form is used to collect information from customers who wish to pre-order health supplements. It is part of the pre-ordering process for launching new health supplements.

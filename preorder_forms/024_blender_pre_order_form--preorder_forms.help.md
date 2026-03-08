@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to allow users to reserve their desired Blender model for the upcoming launch, and gather all the necessary information for the pre-order and payment process. This includes customer name, contact details (email and phone number), shipping address, and preferred payment method. The user also has the option to add additional accessories, specify a gift message and warranty coverage, and include any special instructions.
-Please do not fill out this form unless you intend to reserve a Blender model for pre-order.
-</thinking>
-
 # Blender Pre Order Form - Help Guide
 ## Purpose
 The Blender Pre-Order Form is designed to help you reserve your desired Blender model before it's officially launched. This form gathers all the necessary information for the pre-order and payment process.

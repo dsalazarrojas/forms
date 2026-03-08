@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect guesses and opinions on various questions related to holiday celebrations.
-It is designed to be a fun and easy-to-use survey for users to express their thoughts on what they think are the most important things about holiday celebrations.
-Each question is designed to gather specific information that will help us better understand users' thoughts and preferences.
-Please note that this form is a one-page form, with multiple questions that users can answer at their own pace.
-</thinking>
-
 # รักHoliday Celebration Guessing Poll - Help Guide
 ## Purpose
 The รักHoliday Celebration Guessing Poll is a form designed to collect guesses and opinions on various questions related to holiday celebrations.

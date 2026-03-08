@@ -1,15 +1,3 @@
-<thinking>
-The Online Fitness Coach Application Form is used to gather information from potential clients about their personal details, medical history, fitness goals, and emergency contacts. This form ensures that all essential information is collected in a standardized manner, improving the overall efficiency and effectiveness of the client onboarding process.
-
-To determine the relevance and non-duplication of the form's content, we've considered the following:
-
-*   The form collects general information from the client, such as personal trainer form, medical history, health and medications, fitness goals, and emergency contacts.
-*   There is no overlap between fields.
-*   There is no redundancy in the collected data.
-*   The form fields are well-structured and organized for easy understanding.
-
-</thinking>
-
 # Online Fitness Coach Application Form - Help Guide
 
 ## Purpose

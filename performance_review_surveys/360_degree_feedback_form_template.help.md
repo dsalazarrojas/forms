@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # 360_degree_feedback_form_template - Help Guide
 
 ## Purpose

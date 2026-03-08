@@ -1,5 +1,3 @@
-<thinking>Before you begin, please make sure you are submitting a true and accurate POD (Product Order Document) for the intended purpose. This form is for internal use only and should not be completed for external or marketing purposes. Also, please do not submit duplicate submissions as this may cause unnecessary delays in processing your order. Ensure you have all required documents and information before proceeding. This form is for the submission of a new product order, and please do not use it for other types of submissions. If you are unsure about any aspect of this form, please contact the relevant department for clarification.</thinking>
-
 # POD Submission Form - Help Guide
 ## Purpose
 The POD Submission Form is a document used for submitting new product orders to be processed and reviewed by our team. This form should only be used for submitting original, accurate, and complete product orders. Duplicate submissions or submissions with incomplete or incorrect information may cause delays or issues with the ordering process.

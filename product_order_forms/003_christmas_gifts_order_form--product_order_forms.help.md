@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for Christmas gifts orders. It is a multi-page form that requests customer contact information, gift selection details, and delivery preferences. The form is intended for both the customer and the gift giver to provide all necessary details to ensure accurate and timely gift delivery.
-
-This form aims to minimize duplication and repetition by presenting relevant fields together, such as customer contact information at the beginning of the form, followed by gift selection and details. 
-
-</thinking>
-
 # Christmas Gifts Order Form - Help Guide
 ## Purpose
 The Christmas Gifts Order Form is designed to collect information for Christmas gifts orders, ensuring accurate and timely gift delivery.

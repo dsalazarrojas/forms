@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on a team captain's leadership style and skills from their team members. The purpose of this form is to help the team captain understand their strengths and weaknesses, and identify areas for improvement. By providing feedback, team members can help the team captain develop their leadership skills and lead the team more effectively. 
-
-Before filling out the form, please ensure that you have filled out feedback forms for all team captains under your leadership. This form should not be filled out for team captains who have already received feedback forms.
-
-</thinking>
-
 # Team Captain Leadership Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on a team captain's leadership style and skills from their team members.

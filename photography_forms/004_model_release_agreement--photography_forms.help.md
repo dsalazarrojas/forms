@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Model Release Agreement - Help Guide
 ## Purpose
 The Model Release Agreement is a form used to obtain the necessary releases from models (individuals who are the subjects of a photograph) before their images are used for any commercial purpose. This form is used to ensure that all parties involved have agreed to the terms and conditions of the photo shoot, including the use of their likeness, image, or other identifying characteristics.

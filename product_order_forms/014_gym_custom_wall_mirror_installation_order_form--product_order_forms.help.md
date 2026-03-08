@@ -1,5 +1,3 @@
-<thinking>Before starting, let's clarify the purpose and relevance of this form. This form is designed for customers to order a custom wall mirror installation for a gym environment. It's a one-time order process for individual customers who want to install a mirror in their personal or business gym space. This form ensures that customers can provide necessary details about their order, such as contact information, order specifics, and submission requirements.</thinking>
-
 # Gym Custom Wall Mirror Installation Order Form - Help Guide
 ## Purpose
 This form is a custom wall mirror installation order form designed for gym customers to provide details about their order.

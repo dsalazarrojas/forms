@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information from clients who want to upload their photos for editing. The goal is to ensure that the client's expectations are accurately reflected in the editing process. This form serves as a starting point for the editor's work. 
-
-The form is a crucial part of the editing process, and it ensures that the client's needs are understood correctly. By filling out this form, clients can provide the editor with essential details about their preferences, such as editing style, retouching, and deliverable format. This form is used by the editor to create a high-quality edited version of the photos that meets the client's expectations.
-
-</thinking>
-
 # Client Photo Selection Upload Form - Help Guide
 ## Purpose
 This form is used by clients to provide information about their photo selection and preferences for editing. It helps the editor understand the client's needs and expectations, ensuring that the edited photos meet their requirements.

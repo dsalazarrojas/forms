@@ -1,8 +1,3 @@
-<thinking>
-The "Objective Setting Confirmation Form" is a tool used to set and confirm objectives for performance tracking and management. It is intended to be completed by team members, managers, or HR teams to provide a clear understanding of project objectives and deadlines. Before proceeding, please confirm that this form is relevant to your role and purpose. If you have already set objectives for this project, please ensure that you are not duplicating your existing work.
-
-</thinking>
-
 # Objective Setting Confirmation Form - Help Guide
 ## Purpose
 The "Objective Setting Confirmation Form" is a tool used to set and confirm objectives for performance tracking and management.

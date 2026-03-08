@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their photography payment plans. The purpose of this form is to gather relevant data for users to create a photography payment plan that suits their needs. It is essential to fill out this form to ensure that the user's photography payment plan is properly configured and meets their expectations. Please make sure to complete this form accurately and thoroughly.
-
-This form is not a duplicate of other forms, and it is a unique tool for photography payment planning. Its fields are designed to be simple and easy to understand. 
-
-The form is used to collect information about photography payment plans, and it is crucial to fill it out correctly to ensure that the user's photography payment plan is effective. 
-
-This form is part of the photography_forms category.
-</thinking>
-
 # Photography Payment Plan Form - Help Guide
 ## Purpose
 The Photography Payment Plan Form is designed to collect information about photography payment plans. It is essential to fill out this form accurately and thoroughly to ensure that the user's photography payment plan is properly configured and meets their expectations.

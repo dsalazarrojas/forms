@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from patients and their physicians to verify treatment sites. The form is likely to be used for medical purposes, such as verifying medical records and treatment plans. This form may be part of a larger process for healthcare providers to track patient information and ensure consistency across multiple visits. It's possible that the form is used to ensure that patients are receiving necessary treatments and medical care. It's also possible that the form helps to prevent miscommunication between healthcare providers.
-
-To prevent duplication of effort, it's likely that the information collected in this form will be used to update existing patient records, rather than creating new ones. This form might be used by medical administrators or physicians to quickly verify patient information and update records as necessary.
-
-Please note that the form fields and their labels are likely to be self-explanatory, so this guide is meant to provide a clear understanding of each field's purpose and how to complete it.
-
-</thinking>
-
 # Treatment Site Verification Form - Help Guide
 ## Purpose
 The Treatment Site Verification Form is a medical form used to collect information from patients and their physicians to verify treatment sites. This form is used to track patient information and ensure consistency across multiple visits.

@@ -1,13 +1,3 @@
-<thinking>
-This form is for customers to sign up for a newsletter. 
-To determine if this form is relevant for an individual customer, check if they are already subscribed to the newsletter. 
-If not, then it is relevant for the customer.
-If the customer is already subscribed, then this form is not relevant for the customer.
-
-The form is not designed for mass-subscription of multiple customers at once. 
-If you are trying to subscribe multiple customers at once, please use the "bulk upload" feature.
-</thinking>
-
 # PayPal Email Subscription Form - Help Guide
 ## Purpose
 This form is designed for customers to subscribe to a newsletter and optionally receive updates. 

@@ -1,22 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "scented_candle_order_form" form, I'll first analyze the provided YAML fields to understand their purpose and requirements. This will ensure that the guide is clear, concise, and practical for end-users.
-
-The form is designed to collect information from customers for a scented candle order. The fields are divided into several sections, including customer details, order information, shipping information, payment information, and review sections. Each section is designed to gather specific data to facilitate the order process.
-
-To prevent duplication and ensure relevance, let's review the fields and their types:
-
-* customer_details and order_info are both text fields, likely for free-form text input.
-* shipping_info is also a text field, potentially for shipping address.
-* payment_info is a text field, which may be for payment details or methods.
-* review is a text field for customer feedback.
-* customer_email is an email field for customer contact information.
-* customer_phone is a text field, likely for customer phone number.
-* customer_note and customer_shipping are both note fields, possibly for additional customer comments or shipping details.
-
-The form is likely used for both internal and external purposes, such as order tracking, customer communication, and sales analysis. To avoid duplication, I'll focus on providing a clear and concise guide for end-users.
-
-</thinking>
-
 # scented_candle_order_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a scented candle order. It includes sections for customer details, order information, shipping information, payment information, and review.

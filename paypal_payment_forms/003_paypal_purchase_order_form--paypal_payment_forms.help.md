@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose:** The `paypal_purchase_order_form` is a form designed to collect user details and shipping information for a purchase order. The form is intended to capture relevant data required for a smooth and secure payment process.
-**Checking for Relevance and Duplication:** This form is not affiliated with, endorsed by, or derived from any form platform, including Google Forms, Jotform, ODK Collect, Tally, Formbricks, or Cloudflare. It was generated using AI and is an original adaptation of public survey topic metadata. The form is released under a Creative Commons BY 4.0 license, allowing for free use, modification, and distribution.
-</thinking>
-
 # paypal_purchase_order_form - Help Guide
 ## Purpose
 The `paypal_purchase_order_form` is a form designed to collect user details and shipping information for a purchase order.

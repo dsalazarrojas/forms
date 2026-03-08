@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the sales performance of real estate employees, which is used by the company to assess their sales performance over a specific time period and category. This form is likely used in a business setting to track and analyze sales data for real estate employees.
-Before filling out this form, please ensure that you are using the correct category (Residential, Commercial, or Other) and the correct time period (6, 12, 18, or 24 months). The form should only be completed for a specific employee.
-</thinking>
-
 # Real Estate Sales Performance Employment Evaluation - Help Guide
 ## Purpose
 The Real Estate Sales Performance Employment Evaluation form is used to evaluate the sales performance of real estate employees.

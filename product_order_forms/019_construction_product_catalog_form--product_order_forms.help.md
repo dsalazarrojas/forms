@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Product Catalog Form - Help Guide
 
 ## Purpose

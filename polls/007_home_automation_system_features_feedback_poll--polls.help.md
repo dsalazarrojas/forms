@@ -1,13 +1,3 @@
-<thinking>
-
-This form aims to collect feedback from users on their experience with the Home Automation System (HAS) features. The purpose of this form is to gather information on the quality and responsiveness of the current system, as well as identify areas that require improvement or enhancement. By analyzing this feedback, the development team can make data-driven decisions to prioritize feature development and improve the overall user experience.
-
-To ensure the feedback provided is relevant and useful, we ask that users complete the form with their genuine thoughts on the HAS features. If you have already provided similar feedback, please note that this form is designed for new feedback, and we appreciate your participation if the questions are relevant to your current experience with the HAS.
-
-Please note that all feedback submitted through this form will be reviewed, and any identifiable information will be kept confidential.
-
-</thinking>
-
 # Home Automation System Features Feedback Poll - Help Guide
 
 ## Purpose

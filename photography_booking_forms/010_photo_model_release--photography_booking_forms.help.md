@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's break down the form purpose and ensure it's not a duplicate. This form is for the "photo_model_release" category, and its purpose is to collect information from models, photographers, and agencies related to photo shoots. This form likely aims to establish a release agreement between parties involved in a photo shoot, ensuring all parties understand their rights and responsibilities. The form will help guide users through this process.</thinking>
-
 # photo_model_release - Help Guide
 ## Purpose
 The "photo_model_release" form is used to collect information from models, photographers, and agencies involved in a photo shoot. This form helps establish a release agreement between the parties, outlining their rights and responsibilities.

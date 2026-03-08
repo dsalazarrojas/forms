@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in gun control measures. It is meant to gather data for internal use only and will not be shared publicly. Please fill out the form completely and accurately to ensure that your information is properly recorded.
-</thinking>
-
 # Gun Control Measures Petition Form - Help Guide
 ## Purpose
 The Gun Control Measures Petition Form is a collection of demographic and interest-based information from individuals who are interested in supporting gun control measures. The information collected will be used for internal purposes only and will not be shared publicly.

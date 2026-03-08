@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Standard Work Checklist - Help Guide
 ## Purpose
 The Standard Work Checklist is a form used to track the completion status of tasks and activities at the start and end of each shift. It helps ensure that essential tasks are performed and documented consistently across shifts and teams. This form is used to provide a snapshot of the current state of work at the beginning and end of a shift, allowing for efficient tracking and quality control.

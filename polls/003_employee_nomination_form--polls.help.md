@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee-nomination-form - Help Guide
 
 ## Purpose

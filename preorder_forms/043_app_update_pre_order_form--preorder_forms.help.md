@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and completion process of the App Update Pre Order Form. The form is designed to collect interest and pre-orders for upcoming app updates, allowing developers to gauge user interest and gather feedback. The form's purpose is not to collect sensitive or personal identifiable information, but rather to gather anonymous feedback and pre-orders. It is recommended that users complete the form only if they are genuinely interested in pre-ordering the app update.
-</thinking>
-
 # App Update Pre Order Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Journal Entry Form - Help Guide
 
 ## Purpose

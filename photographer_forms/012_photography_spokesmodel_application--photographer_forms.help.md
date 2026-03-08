@@ -1,19 +1,3 @@
-<thinking>
-To determine if the form is relevant and not a duplicate, let's analyze its purpose and structure. The form's title "Photography Spokesmodel Application" suggests that it is intended for photographers who want to apply as models for various types of photography projects, such as fashion, lifestyle, fitness, or beauty. Given the fields provided, the form likely aims to collect information about the photographer's contact details, areas of interest, and hair color to categorize them for potential clients.
-
-To confirm, the form has fields for:
-- Photographer Name
-- Email
-- Phone number
-- Portfolio Link
-- Model Name (potentially a field for a model's name or a name used for a portfolio)
-- Contact Information
-- Areas of Interest (multiple select options)
-- Hair Color (select one option)
-
-The form seems to be a simple application form for photographers interested in modeling projects, but it's essential to clarify that it might be used for other purposes as well, such as for clients to gather information about potential photographers. To avoid duplication, the form should be used for this specific use case.
-</thinking>
-
 # Photography Spokesmodel Application - Help Guide
 ## Purpose
 This guide will walk you through the Photography Spokesmodel Application form to help you complete it accurately. The form is intended for photographers who want to apply as models for various photography projects.

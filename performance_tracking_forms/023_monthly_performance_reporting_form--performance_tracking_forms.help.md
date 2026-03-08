@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track the performance reporting of employees on a monthly basis. It is meant to capture key information about each employee's performance, including their employee ID, name, job title, and job function. The form also tracks their performance outcomes, key performance metrics, goals, action items, progress updates, next steps, comments, and signed-by information. This form is intended to be filled out on a monthly basis. Before filling out this form, please ensure that it is not a duplicate of another report.
-
-</thinking>
-
 # Monthly Performance Reporting Form - Help Guide
 ## Purpose
 This form is designed to track the performance reporting of employees on a monthly basis.

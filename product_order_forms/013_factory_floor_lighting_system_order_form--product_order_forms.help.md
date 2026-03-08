@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a factory floor lighting system order. The purpose of this form is to gather necessary details for the order, including delivery and installation information, contact person, and order total. This form is designed to be filled out by customers or internal staff to ensure accurate and efficient processing of the order.
-</thinking>
-
 # Factory Floor Lighting System Order Form - Help Guide
 ## Purpose
 The Factory Floor Lighting System Order Form is used to collect information about a factory floor lighting system order, including delivery and installation details, contact person, and order total.

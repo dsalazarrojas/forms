@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering participants for a Fitness Boot Camp program. The purpose of this form is to collect information from potential participants, including their personal details, membership preferences, and class scheduling information. This form is likely used by the fitness center staff to manage the registration process and ensure that participants are properly registered for the program.
-</thinking>
-
 # Fitness Boot Camp Registration - Help Guide
 ## Purpose
 The Fitness Boot Camp Registration form is used to collect information from potential participants for the Fitness Boot Camp program. This form helps the fitness center staff to manage the registration process and ensure that participants are properly registered for the program.

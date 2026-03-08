@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather customer information and order details for the April Matilda Jane Pre Order. The form is intended to collect customer contact information, order specifics, and payment details. This form is not a duplicate of any existing form, and its purpose is to streamline the preorder process for customers.
-</thinking>
-
 # April Matilda Jane Pre Order - Help Guide
 ## Purpose
 The April Matilda Jane Pre Order form is designed to collect customer information and order details for customers who wish to place a preorder. This form will help us understand your preferences, including size and color options, to ensure we prepare your item correctly.

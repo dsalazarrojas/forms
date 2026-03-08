@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from patients about their medical history, allergies, and previous vaccinations in order to determine eligibility for the flu vaccine. The form is designed to be completed by patients before their appointment with a healthcare provider to assess their risk factors and ensure safe administration of the vaccine. The form should not be completed multiple times, as each submission is a separate instance of the form and should reflect the patient's current medical status at the time of completion.
-</thinking>
-
 # Flu Vaccine Screening Form - Help Guide
 ## Purpose
 This form is used to collect information from patients about their medical history, allergies, and previous vaccinations in order to assess their risk factors and determine eligibility for the flu vaccine.

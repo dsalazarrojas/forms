@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online-doctor-appointment-form - Help Guide
 ## Purpose
 This form is designed for patients to schedule online appointments with a doctor. It collects essential information to book a convenient and secure online meeting. By filling out this form, you will be able to choose a practice name, select a date and time for the appointment, and specify other important details such as phone number, email, and patient availability.

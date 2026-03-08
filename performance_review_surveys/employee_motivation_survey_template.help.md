@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_motivation_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on their motivation and overall work experience. The survey aims to understand what factors motivate employees in their current roles and identify areas for improvement to enhance employee motivation and job satisfaction.

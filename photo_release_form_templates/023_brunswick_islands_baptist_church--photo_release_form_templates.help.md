@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for individuals or parents/guardians to grant permission for photos taken at Brunswick Islands Baptist Church events or programs. The purpose of this form is to ensure that participants understand how their photos will be used and that they agree to the terms of use. This form is meant to be used for events where photos will be taken, such as Sunday School, Bible School, and other church activities. The form is required to be filled out for all participants, including minors. It is not a one-time form, but rather a template that will be used for recurring events. The form is also used for internal documentation and to track permission for photo use across different departments and ministries of the church.
-
-The form consists of several fields that gather information such as the participant's name, date of birth (if a minor), contact information, event/location where photos will be taken, date of the event, and agreement to the terms of photo use. This form is designed to be easy to fill out, with clear instructions and explanations for each field.
-
-It is worth noting that the "Church Ministry or Program" field is meant to gather information about the specific event or activity that the photos are related to, such as a Sunday School class or a specific program. This will help the church to keep track of photos related to different events.
-
-The options for "Allow photos on church website", "Allow photos on church Facebook", "Allow photos for print materials", "Allow identification by name", "Allow use for commercial purposes", and "Duration of Photo Use Permission" are meant to provide clear and concise options for participants to make informed decisions about how their photos will be used. The "Any Additional Restrictions" field is meant to be used for any special requests or concerns that participants may have. The "I grant permission for photo release" field is a required field that indicates the participant's agreement to the terms of photo use.
-
-The form also includes a "Date of Agreement" field, which is meant to record the date when the participant grants permission for the photo use. This is a required field to track when permission was granted.
-
-</thinking>
-
 # Brunswick Islands Baptist Church - Help Guide
 ## Purpose
 The purpose of this form is to grant permission for photos taken at church events or programs. It is designed to be used for Sunday School, Bible School, and other church activities.

@@ -1,11 +1,3 @@
-<thinking>
-  The university_remote_teaching_tools_poll form is designed to collect input from users about their experiences and opinions regarding remote teaching tools. This form aims to gather data on platform usage, priority areas for improvement, submission preferences, teaching platforms used, and feedback. This data will be used to inform decisions on how to improve the quality and accessibility of remote teaching tools.
-
-  Before filling out this form, please ensure that you are not duplicating responses, as this can skew the data. If you have already filled out this form in the past, please do not resubmit.
-
-  If you're unsure about any of the fields or have questions, please refer to this guide for clarification.
-</thinking>
-
 # university_remote_teaching_tools_poll - Help Guide
 ## Purpose
 The university_remote_teaching_tools_poll form is designed to collect input from users about their experiences and opinions regarding remote teaching tools.

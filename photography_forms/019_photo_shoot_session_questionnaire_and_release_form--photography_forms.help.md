@@ -1,19 +1,3 @@
-<thinking>Before creating a user-facing help guide for the "Photo Shoot Session Questionnaire And Release Form", let's consider the following points:
-
-* The form is designed to collect information about a photo shoot session, including contact information, photo shoot details, and release forms.
-* The form requires specific fields for the session, such as name, email, phone number, location, date, start and end time, and description.
-* The form also includes options for type of photo (e.g., landscape, portrait, still life, fashion, commercial, and event), release form, and special notes.
-* The form requires a contact person and their contact information, including phone number and email.
-* The form also includes fields for additional photos, services, and information.
-* The form is likely used by photography professionals to collect information from clients.
-* The form is likely used for both new and existing clients.
-* The form is likely used in conjunction with other systems or tools, such as scheduling systems or photo editing software.
-* The form is designed to be completed by the client, but also serves as a reference for the photographer.
-* The form may be printed or digitally stored for future reference.
-* The form should be clear, concise, and easy to understand for both the photographer and the client.
-
-</thinking>
-
 # Photo Shoot Session Questionnaire And Release Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a photo shoot session, including contact information, photo shoot details, and release forms. It helps both the photographer and the client to communicate effectively and efficiently.

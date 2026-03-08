@@ -1,13 +1,3 @@
-<thinking>
-This guide will help ensure that end users understand the purpose and usage of the "Photography And Videography Request Form".
-
-
-This form is used to collect event and contact details from end-users for photography and videography requests. The goal of this form is to gather all necessary information in a structured manner, which will facilitate efficient processing and organization of the requests.
-
-When filling out this form, please make sure to provide all requested information to ensure that your request is processed correctly.
-
-</thinking>
-
 # Photography And Videography Request Form - Help Guide
 ## Purpose
 This form is used to collect event and contact details for photography and videography requests.

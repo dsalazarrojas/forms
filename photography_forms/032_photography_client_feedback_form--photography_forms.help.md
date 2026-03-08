@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect feedback from clients after a photography service has been provided. The purpose of this form is to gather information about the client's experience, satisfaction, and any issues they faced during the service. This form should only be used by clients who have received photography services from the organization.
-
-This form is designed to be completed by the client themselves, and is intended to be a straightforward and easy-to-use interface. The form is divided into two pages, with each page containing a few form fields. 
-
-Each field on this form has been designed to collect specific information, including name, email, phone number, date and time of service, feedback, and category of service. The form also includes a field to rate the client's satisfaction, and a field for any additional comments. 
-
-When completing this form, please make sure to fill in all required fields. If you need help with a specific field, please do not hesitate to ask. 
-
-Please note that this form is intended for internal use only, and any information collected will be reviewed by organization staff.
-
-</thinking>
-
 # Photography Client Feedback Form - Help Guide
 
 ## Purpose

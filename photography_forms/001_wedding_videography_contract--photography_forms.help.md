@@ -1,7 +1,3 @@
-<thinking>...We need to create a user-facing help guide for the "Wedding Videography Contract" form. This form is used to collect information from customers who are interested in hiring a videographer for their wedding. The form will help to understand the details of the wedding event and the services required from the videographer. We need to ensure that the form is completed accurately and thoroughly to avoid any misunderstandings or miscommunications. The fields should be clear and concise, and the instructions should guide the users through the completion of the form.
-
-</thinking>
-
 # Wedding Videography Contract - Help Guide
 ## Purpose
 This form is used to collect information from customers who are interested in hiring a videographer for their wedding. Please complete this form accurately and thoroughly to avoid any misunderstandings or miscommunications.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Store Compliance Poster Order Form - Help Guide
 
 ## Purpose

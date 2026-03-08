@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to allow customers to pre-order their items from the McCarty Holiday Collection 2020. This form is likely used by customers to submit their orders before the actual holiday season, providing the necessary information for processing and preparing the orders. This form is likely used by the McCarty team to gather all the necessary details about each order and to efficiently manage their production and shipping processes. To ensure that this form is filled out correctly, please review each field carefully and make sure to fill in all required fields.
-
-</thinking>
-
 # McCarty Holiday Collection Pre-Order 2020 - Help Guide
 ## Purpose
 This form is designed to allow customers to pre-order their items from the McCarty Holiday Collection 2020. It is essential to fill out all required fields to ensure that your order is processed correctly.

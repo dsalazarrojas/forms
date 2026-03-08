@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from the users about a wedding day event, which includes details about the wedding day photography session, the venue, and the event itself. 
-
-To ensure we are not duplicating efforts, this form will likely be used to collect data for events with similar characteristics. 
-
-The form should be reviewed to ensure the fields are not redundant and the data collected will provide valuable insights for the event organizers or photographers.
-
-</thinking>
-
 # Wedding Day Photography Planner Form - Help Guide
 ## Purpose
 The Wedding Day Photography Planner Form is designed to collect essential information about a wedding day event, allowing event organizers and photographers to plan and prepare for the event.

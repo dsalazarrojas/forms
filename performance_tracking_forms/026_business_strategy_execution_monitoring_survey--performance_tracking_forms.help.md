@@ -1,13 +1,3 @@
-<thinking> This form is designed to monitor and evaluate the execution of business strategies within an organization. It assesses various aspects of strategy implementation, including clarity, communication, alignment, progress, resource availability, obstacles encountered, team engagement, leadership support, timeline feasibility, success metrics, and confidence in strategy success. The form aims to identify areas of improvement and provide suggestions for enhancing strategy execution.
-
-This form is part of a larger process for monitoring and evaluating business strategy execution within an organization. It is not intended to be a one-time activity but rather a recurring process to ensure that strategies are being implemented effectively.
-
-The form is designed to be completed by individuals within the organization, providing their perspective on the current state of strategy execution.
-
-Please note that this form is a generic adaptation and does not contain any proprietary content from other form platforms. It is released under CC BY 4.0 and can be used, modified, or even sold by users, as long as proper credit is given.
-
-</thinking>
-
 # Business Strategy Execution Monitoring Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback on the current state of strategy execution within your department or team. The survey questions are designed to assess various aspects of strategy implementation, providing valuable insights for identifying areas of improvement and suggestions for enhancing strategy execution.

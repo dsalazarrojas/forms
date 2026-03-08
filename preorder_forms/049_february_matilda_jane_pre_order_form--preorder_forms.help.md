@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # february_matilda_jane_pre_order_form - Help Guide
 ## Purpose
 This form is intended for customers to pre-order products from an online store. It collects essential details such as order details, shipping information, and any additional notes or messages. This form helps ensure that the customer's order is accurate and complete before processing.

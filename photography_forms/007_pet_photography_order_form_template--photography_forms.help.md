@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the pet photography order form is to collect information from customers about their pets and photography preferences for a photography session. This form should only be filled out if the customer has decided to book a pet photography session, as it will guide the photographer in preparing for the session. 
-</thinking>
-
 # pet_photography_order_form_template - Help Guide
 ## Purpose
 This form is meant to be filled out by customers who have booked a pet photography session. It helps guide the photographer in preparing for the session by collecting essential information about the pet and the customer's preferences.

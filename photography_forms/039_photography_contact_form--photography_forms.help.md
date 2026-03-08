@@ -1,5 +1,3 @@
-<thinking>...internal reasoning check: This form is likely used for photographers to collect client information, which could include contact information, details about the client's family or relationships (e.g., spouse, number of siblings), and any other relevant data required for the photography session (e.g., due date, address, phone number, and signature). The form's purpose is to efficiently collect and organize client information, ensuring that the photographer has all the necessary details to deliver high-quality services. To prevent duplication, the form should not be used for other purposes, such as marketing or advertising, and its content should be reviewed and approved by relevant stakeholders to maintain consistency and accuracy...</thinking>
-
 # Photography Contact Form - Help Guide
 ## Purpose
 This form is used to collect client information for photography sessions. It is essential to provide detailed and accurate information to help us deliver the best possible experience for you and your family.

@@ -1,7 +1,3 @@
-<thinking>
-This is a form to collect information from experts in the field of academic research on factors contributing to HIV/STD vulnerability. The form is designed to gather data from healthcare professionals, public health researchers, social workers, community advocates, academics, and students. The form aims to understand the perceptions of these experts on the significance of various factors, including socioeconomic factors, healthcare access, education, structural racism, stigma and discrimination, cultural factors, historical trauma, and healthcare system mistrust. The data collected will help identify areas of research gaps and inform policy recommendations to reduce HIV/STD vulnerability. This form will not ask for any personal identifiable information and will ensure anonymity for the respondents. 
-</thinking>
-
 # Academic Research - Help Guide
 ## Purpose
 

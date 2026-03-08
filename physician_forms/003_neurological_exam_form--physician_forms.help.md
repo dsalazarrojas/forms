@@ -1,15 +1,3 @@
-<thinking>
-To determine the purpose of this form, I've analyzed the provided YAML fields. The form is designed for a neurological exam, which suggests it's used for assessing a patient's neurological system, including their mental status, cranial nerves, motor system, reflexes, sensation, and other related aspects. This form likely aims to collect information from healthcare professionals to evaluate a patient's neurological condition.
-
-To ensure the form is relevant and not a duplicate, I've considered the following points:
-
-* The form is specifically designed for a neurological exam, which is a common procedure in medical settings.
-* The fields included in the form (e.g., mental status, cranial nerves, motor system, reflexes, and sensation) are typical components of a neurological examination.
-
-To provide a comprehensive help guide for this form, I'll now create a user-facing guide with the requested structure.
-
-</thinking>
-
 # Neurological Exam Form - Help Guide
 ## Purpose
 The Neurological Exam Form is designed to assess a patient's neurological system, including their mental status, cranial nerves, motor system, reflexes, and sensation. This form helps healthcare professionals evaluate a patient's neurological condition and gather relevant information for diagnosis and treatment.

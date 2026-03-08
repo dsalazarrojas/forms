@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture information for a team's branded water jug order. This is a crucial form for the team's management and other stakeholders to understand the team's order needs, preferences, and requirements. The form will gather details such as team name, size, email, phone number, water type, size, order date, time, and assigned tool preferences. It will help the team's management to process the order efficiently and effectively.
-</thinking>
-
 # Team Branded Water Jug Order Form - Help Guide
 ## Purpose
 The Team Branded Water Jug Order Form is a critical document used to collect information about a team's order needs and preferences. It is essential to fill this form accurately to ensure that the team's order is processed efficiently and effectively.

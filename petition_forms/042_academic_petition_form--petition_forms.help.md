@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students who are seeking to petition for academic accommodations or exceptions. The form is designed to ensure that students have the opportunity to provide a clear and detailed explanation of their request, as well as any supporting documentation.
-
-Before starting, please note that this form is a one-time submission, and you will not be able to save your progress or edit your response later. Therefore, please ensure that you have all necessary information and attachments before completing the form.
-
-To confirm, this form is for students who are seeking academic accommodations or exceptions, and it is not intended for other purposes. If you are unsure whether you qualify for this form, please review the options carefully or consult with your academic advisor.</thinking>
-
 # Academic Petition Form - Help Guide
 ## Purpose
 The Academic Petition Form is designed to collect information from students who are seeking academic accommodations or exceptions.

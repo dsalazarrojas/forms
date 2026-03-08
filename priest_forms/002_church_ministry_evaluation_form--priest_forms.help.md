@@ -1,12 +1,3 @@
-<thinking>
-We will create a comprehensive help guide for the "Church Ministry Evaluation Form" to assist users in understanding its purpose, completing it, and navigating each field. 
-
-The form is designed to evaluate the effectiveness of various ministry roles within a church, allowing users to assess the strengths and areas for improvement of their leadership. This form will help the church leadership to make informed decisions about their programs and resources. To complete this form, users will need to provide honest and accurate feedback on their evaluations, ratings, and comments. The form is essential for promoting healthy church growth and improvement.
-
-We will also check for non-duplication and ensure that the form is clear and concise in its explanation of each field.
-
-</thinking>
-
 # Church Ministry Evaluation Form - Help Guide
 ## Purpose
 The Church Ministry Evaluation Form is designed to provide a framework for assessing the effectiveness of various ministry roles within a church. This form allows users to evaluate leadership, communication, and teamwork skills, as well as provide comments and recommendations for improvement.

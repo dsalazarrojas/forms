@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to gather information from potential adopters about themselves and their pet's details to facilitate a smooth pet adoption experience. This form will help us understand who you are, what kind of pet you're interested in, and what kind of household you have to ensure a good fit for both you and the pet. Please ensure you're filling out this form for the purpose of adopting a pet, and not for any other reason. If you've already submitted a pet adoption application, please do not resubmit this form as it will not be processed.</thinking>
-
 # Simple Pet Adoption Application Form Template - Help Guide
 ## Purpose
 This form is designed to gather information from potential adopters about themselves and their pet's details to facilitate a smooth pet adoption experience.

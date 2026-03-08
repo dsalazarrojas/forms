@@ -1,13 +1,3 @@
-<thinking>
-The AI-generated Task Log Form is designed to collect data on specific tasks, enabling users to track and report on their progress. This form is not intended to duplicate or replicate any existing form platforms but rather offer an original adaptation for data collection and reporting purposes.
-
-To ensure that this form is used correctly and in a way that aligns with the intended purpose, please consider the following:
-
-*   Ensure the form is not used for purposes that may be sensitive or personal in nature.
-*   Be mindful of the data you collect, as it will be used for reporting and analysis.
-*   Use this form in accordance with your organization's data collection and usage policies.
-
-</thinking>
 # Task Log Form - Help Guide
 ## Purpose
 The Task Log Form is a straightforward tool to record and track progress on specific tasks, allowing you to monitor and report on your work status.

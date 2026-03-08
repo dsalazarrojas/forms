@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for patients to provide information about themselves before visiting a healthcare provider. The purpose of the form is to gather essential details necessary for the healthcare provider to assess the patient's situation and prepare for the visit.
-The form is designed to be completed by the patient before their scheduled appointment. The patient will be asked to provide personal and medical information to ensure their safety and the safety of others.
-This form is not intended for patients with specific medical conditions or concerns that require immediate attention. Patients with such conditions should contact their healthcare provider separately.
-</thinking>
-
 # COVID 19 Pre Visit Screening Questionnaire - Help Guide
 ## Purpose
 This form is used to gather essential information from patients before their scheduled appointment. The information collected will help the healthcare provider assess the patient's situation and prepare for the visit.

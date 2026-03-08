@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be a lease agreement for wedding photography services. It is likely used to formalize the terms of a contract between a photographer and their client. The form should be used to collect the necessary information for the photography services, including client and photographer details, contract terms, and signature blocks.
-
-This form may already exist in your organization, or there might be a similar form with a different name. If it's the same form, ensure you're updating the guide for the current version. 
-
-This guide will walk you through each field of the form to help you understand its purpose and usage.
-
-</thinking>
-
 # Wedding Photography Lease Agreement - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to guide the user through the process of creating a business card order, collecting necessary information for card production and shipping.
-This form is intended for both new and existing business customers.
-The form collects information about the account and contact person, including company name, contact person's name, email, phone number, and website.
-The form also collects information about the business card specifics, including quantity, size, paper quality, card finish, and card information for printing.
-Lastly, the form collects shipping details, including shipping address, city, state, and shipping speed.
-
-</thinking>
-
 # Business Card Order Form - Help Guide
 ## Purpose
 The Business Card Order Form is designed to collect necessary information for producing and shipping custom business cards.

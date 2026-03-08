@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Personalized Notebook Order Form, we first need to understand the form's purpose and how it's used. This form appears to be designed for customers to place custom orders for notebooks, allowing them to select specific features such as paper color, weight, and size. It also gathers contact information and shipping details for delivery purposes.
-
-Let's assume this form is used for customers to create their own custom notebooks, possibly for personal or business use. We will need to break down each field and provide explanations for end users to fill it out correctly.
-
-</thinking>
-
 # Personalized Notebook Order Form - Help Guide
 
 ## Purpose

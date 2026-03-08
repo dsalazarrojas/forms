@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Paper Order Form" that explains its purpose, how to complete it, and each field's explanation in a concise and practical way.</thinking>
-
 # Paper Order Form - Help Guide
 ## Purpose
 The Paper Order Form is designed to collect information for paper orders from customers. It helps us gather essential details about the customer, order, and delivery status, ensuring accurate and efficient processing.

@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide for the "strength_training_workout_plan_questionnaire" form, our goal is to provide a clear and concise explanation of the form's purpose, how to complete it, and what each field means. This form is designed to gather information from clients about their personal details, training experience, fitness level, availability, and preferences for a strength training workout plan. We want to ensure that our clients feel comfortable and informed while filling out the form, and that we can provide them with the best possible service.</thinking>
-
 # strength_training_workout_plan_questionnaire - Help Guide
 ## Purpose
 The "strength_training_workout_plan_questionnaire" form is designed to collect information about your personal details, training experience, and preferences for a strength training workout plan. This will help us create a customized plan tailored to your needs and goals.

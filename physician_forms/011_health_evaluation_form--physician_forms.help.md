@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about a patient's health evaluation. The form is divided into multiple sections to ensure that the user can provide relevant information for each area of concern. Please make sure you are filling out this form for the right patient and purpose. If you are unsure, please consult the relevant healthcare professional before proceeding.
-
-The form is not intended for use as a substitute for professional medical advice or diagnosis. It's essential to consult a healthcare professional for personalized guidance.
-</thinking>
-
 # Health Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect and document a patient's health evaluation details in a structured and efficient manner. It's an essential tool for healthcare professionals to gather and analyze information to provide the best possible care for the patient.

@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide will help users understand how to fill out the Image Gallery Submission Form, which is used to submit new images to the gallery. The form is meant to gather information about the image, such as the title, description, category, and author. By filling out this form, users can contribute to the image gallery and make it more comprehensive and user-friendly. 
-
-Before proceeding, please note that this form is designed to be completed once per image. If you have already submitted an image with similar information, please do not submit it again to avoid duplication. If you are unsure about any of the fields, please read the explanations below for guidance.
-
-</thinking>
-
 # Image Gallery Submission Form - Help Guide
 ## Purpose
 The Image Gallery Submission Form is a simple form designed to collect metadata for a new image submission to the gallery. Fill out this form to add your image to the gallery.

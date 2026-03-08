@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to prevent end-users from submitting the pre-order form without proper understanding of its purpose and how to fill it out correctly.
-We should ensure that end-users understand that this form is a preorder form for a specific event, and its completion is mandatory to secure their spot on the event.
-We should also check that the end-user understands how to complete the form correctly by following this help guide.
-</thinking>
-
 # scentsy_march_15th_pre_order_form - Help Guide
 ## Purpose
 The `scentsy_march_15th_pre_order_form` is a preorder form for reserving a spot on the March 15th event. To secure your spot, please fill out this form with accurate and complete information. This form is mandatory, and incomplete submissions will not be accepted.

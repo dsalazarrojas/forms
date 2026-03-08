@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This guide is intended for end-users who are filling out the "Theater Viewing Experience Feedback Poll" form. The form is designed to gather feedback from patrons after a theater event, allowing us to understand their overall experience and gather information about their demographics, preferences, and suggestions.
 
 The form consists of multiple pages, and users are expected to complete each page sequentially. Please take the time to review each field carefully and provide honest feedback.

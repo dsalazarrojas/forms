@@ -1,26 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "kings_and_queens_photography_order_form" form. The form is designed to collect information from users for a photography order, likely for a photo shoot or service.
-
-This guide will cover the form's purpose, how to complete it, and an explanation of each field. We will follow the provided YAML structure and ensure the explanations are concrete, concise, and practical.
-
-Before we begin, let's review the form fields:
-
-- First name
-- Last name
-- Email
-- Phone number
-- Date
-- Time
-- Select One (single selection)
-- Select Multiple (multiple selections)
-- Note (single line note)
-- Note 2 (single line note)
-- Select One 2 (single selection)
-
-The purpose of the form is to gather basic contact information and preferences for a photography order. The form is designed to be completed by users who want to book a photography service.
-
-</thinking>
-
 # kings_and_queens_photography_order_form - Help Guide
 ## Purpose
 The "kings_and_queens_photography_order_form" is a form designed to collect information from users for a photography order. This form is intended for users who want to book a photography service.

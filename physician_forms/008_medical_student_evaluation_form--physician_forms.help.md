@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Student Evaluation Form - Help Guide
 ## Purpose
 The Medical Student Evaluation Form is used to assess the performance and progress of medical students. This form allows professors to evaluate the medical knowledge, skills, and abilities of students, and provide recommendations on whether they are ready to move on to the next level of their medical education.

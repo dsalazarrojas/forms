@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect information from customers visiting healthcare facilities related to COVID-19, including customer details, service type, and health-related information. The form likely aims to gather informed consent from customers about the risks associated with COVID-19 and ensure that they understand facility safety protocols. It's reasonable to assume that the form is intended for healthcare professionals to use in their practice, and the fields seem to cover essential aspects of customer health and safety. Before proceeding, let's ensure that this form is not a duplicate and is still relevant to your specific use case.
-</thinking>
-
 # COVID 19 Customer Consent Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from customers visiting healthcare facilities related to COVID-19, ensuring they understand the risks and protocols in place for their health and safety.

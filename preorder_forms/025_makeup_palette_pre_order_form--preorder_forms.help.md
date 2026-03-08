@@ -1,5 +1,3 @@
-<thinking>...This form is intended to help customers place a pre-order for a custom-made makeup palette. The form collects personal details, delivery information, color selection, size selection, payment details, and a confirmation for the order. This guide will walk through each section of the form to ensure the customer completes it accurately and efficiently.</thinking>
-
 # Makeup Palette Pre Order Form - Help Guide
 
 ## Purpose

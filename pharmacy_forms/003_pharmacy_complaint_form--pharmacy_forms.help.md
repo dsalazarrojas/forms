@@ -1,9 +1,3 @@
-<thinking>
-The form's purpose is to collect feedback or complaints from patients regarding their experiences with a pharmacy. This form is likely used to gather information on patient satisfaction, product usage, and any issues that arose during a visit or interaction with the pharmacy. It may help pharmacists identify areas for improvement and make data-driven decisions to enhance customer experience and service quality.
-By using this form, patients can provide detailed information about their visit, including their personal details, complaint description, contact information, date and time of the event, location, product used, and any symptoms or medical history they may have experienced. The form also asks about the type of product used and the symptoms they experienced, which could help pharmacists understand product efficacy and potential side effects.
-This form is a straightforward and user-friendly tool for patients to express their concerns and provide valuable feedback to the pharmacy.
-</thinking>
-
 # Pharmacy Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect patient feedback and complaints about their experiences with a pharmacy.

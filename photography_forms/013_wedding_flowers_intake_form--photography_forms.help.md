@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Flowers Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a wedding event for our flower services. It includes details about the client, the wedding ceremony, the theme and style of the event, and other related information.

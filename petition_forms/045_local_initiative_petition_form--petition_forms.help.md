@@ -1,5 +1,3 @@
-<thinking>A local initiative petition is a formal request submitted to an organization, typically a government agency or corporation, by a group of citizens or individuals to propose a specific policy change or initiative. This form is used to collect information from the petitioners (the individuals or group signing the petition) to facilitate the submission of the petition to the target organization. To ensure that the form is properly completed, we will go through each field to check for any inconsistencies or missing information.</thinking>
-
 # local_initiative_petition_form - Help Guide
 ## Purpose
 

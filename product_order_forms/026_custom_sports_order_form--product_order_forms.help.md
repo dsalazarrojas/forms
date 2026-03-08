@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect user information and order details for custom sports orders. It is likely used in an e-commerce or retail environment to gather data for fulfilling user requests or inquiries. 
-The form's purpose is to create a comprehensive order record, which includes user contact details and preferences, order specifics, payment information, and order totals and shipping address. 
-
-It is crucial that the form's fields align with these expectations and avoid duplication. The form should only be filled out with the required fields. 
-</thinking>
-
 # Custom Sports Order Form - Help Guide
 ## Purpose
 The Custom Sports Order Form is a tool used to collect user information and details for custom sports orders in an e-commerce or retail environment.

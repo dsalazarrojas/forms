@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information for a photo shoot order, which is a crucial step in the photography process. The form is intended to collect details about the photo shoot, such as the date, time, location, and number of photos, as well as the type of photos to be taken and the payment method. The form also requires the submitter to provide their name, email, phone number, and other relevant information. 
-
-Before creating this form, we should check if similar forms exist in our system, and if so, we can update or merge the new form with the existing one, to avoid duplication. 
-</thinking>
-
 # Photo Shoot Order Form - Help Guide
 ## Purpose
 The Photo Shoot Order Form is designed to gather necessary information for a photo shoot order, which includes shoot details, client information, and payment details.

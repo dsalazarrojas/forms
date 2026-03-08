@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to enable peer evaluation, where users can assess and provide feedback to their peers. This form is designed to gather specific information from users about their peers, including ratings and comments. Before filling out this form, please ensure that you have a clear understanding of the peer you are evaluating and that your submission is based on your honest and constructive feedback. Additionally, please note that this form should only be filled out for the same peer once, so please make sure you're not duplicating efforts.
-</thinking>
-
 # peer_evaluation - Help Guide
 ## Purpose
 The peer evaluation form is a tool for users to assess and provide feedback to their peers. This form is meant for rating and commenting on the performance, behavior, and work quality of peers within the same group or team.

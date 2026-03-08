@@ -1,5 +1,3 @@
-<thinking> 
-The Simple Product Purchase Form is designed to gather essential information for the purchase of products. It is used to record details of a product's purchase, including the customer's information, product details, and purchase specifics. This form is typically used for internal tracking and reporting purposes within an organization. To confirm, the purpose of this form is to collect accurate and detailed data for record-keeping and reporting, and it is not intended for external use. Please ensure that the data entered is accurate and relevant, as it may be used for future reference or audit purposes. Also, please note that all fields marked as "required" must be filled out to ensure the form submission is valid. </thinking>
 # Simple Product Purchase Form - Help Guide
 ## Purpose
 The Simple Product Purchase Form is designed to record detailed information about a product's purchase, including customer and product details.

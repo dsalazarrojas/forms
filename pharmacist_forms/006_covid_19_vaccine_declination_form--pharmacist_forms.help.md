@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information from patients who have declined the COVID-19 vaccine. As a pharmacist, it's essential to understand the reasons behind a patient's decision to decline the vaccination. The form is used to gather data that can help healthcare providers and researchers better understand vaccine hesitancy and refusal patterns. It's crucial to collect accurate and detailed information to improve patient care and inform public health policies. This form should only be completed by patients who have been offered the vaccine and have declined it. Please note that this form should not be used to collect information from patients who have not been offered the vaccine.
-
-</thinking>
 # COVID 19 Vaccine Declination Form - Help Guide
 ## Purpose
 This form is used to collect information from patients who have declined the COVID-19 vaccine. It's essential to understand the reasons behind a patient's decision to decline the vaccination, which can help healthcare providers and researchers better understand vaccine hesitancy and refusal patterns.

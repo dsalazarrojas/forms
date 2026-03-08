@@ -1,7 +1,3 @@
-<thinking>
-This form is for medical supply orders, used to request medical supplies for a hospital, pharmacy, or store. It should only be filled out if a valid requestor (physician, nurse, or other authorized person) has access to the system. Ensure that this form is not filled out for non-medical supplies or for supplies not related to medical facilities. 
-</thinking>
-
 # Medical Supply Order Form - Help Guide
 ## Purpose
 The Medical Supply Order Form is used to request medical supplies for hospitals, pharmacies, or stores. This form is intended for authorized personnel to order medical supplies for their facility.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Emergency Documentation Form - Help Guide
 ## Purpose
 The Medical Emergency Documentation Form is used to document the details of a patient's medical emergency, including the date and time of the emergency, the patient's name and contact information, and other relevant medical history and treatment information.

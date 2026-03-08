@@ -1,7 +1,3 @@
-<thinking>
-The "Gluten Free Prescription Form" is designed to collect patient information and medical history for the purpose of diagnosing and treating gluten-related medical conditions. This form helps physicians gather necessary details about the patient's medical condition, dietary allergies, and medical history to provide informed treatment recommendations. The form's layout is structured in a way that ensures a comprehensive understanding of the patient's situation, enabling the physician to make accurate diagnoses and develop effective treatment plans.
-</thinking>
-
 # Gluten Free Prescription Form - Help Guide
 ## Purpose
 The Gluten Free Prescription Form is designed to help physicians gather relevant medical information from patients suffering from gluten-related medical conditions, such as celiac disease or gluten intolerance. By filling out this form, patients can provide their medical history, dietary allergies, and other essential details required for a proper diagnosis and treatment.

@@ -1,8 +1,3 @@
-<thinking>
-To confirm the form purpose and context: 
-This form is likely used for customers to provide information about their orders or inquiries related to packing cubes, which are small pouches used to organize and compress items such as clothing, bedding, or other merchandise. The form likely serves as a means for customers to communicate their needs or requests to the business or organization handling the orders. The form's design and fields suggest it's used for both customer-facing and order management purposes.
-</thinking>
-
 # Packing Cubes Order Form - Help Guide
 ## Purpose
 The Packing Cubes Order Form is a user-facing form designed to collect customer information and order details for the efficient processing and management of packing cube orders. This form serves as a communication channel for customers to share their order requirements and preferences with the business or organization handling the orders.

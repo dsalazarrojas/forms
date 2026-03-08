@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from photography clients, including their contact details, session preferences, and other relevant information. The form is intended to be used for sessions with photographers, but the information could be adapted or extended to suit other contexts. Please ensure that you're familiar with the form's purpose and intended use before proceeding. If you're unsure, please reach out to your team for clarification.
-</thinking>
-
 # photography_mini_session_questionnaire_form - Help Guide
 ## Purpose
 The photography_mini_session_questionnaire_form is designed to collect information from photography clients, including contact details, session preferences, and other relevant information. This form is intended to be used for sessions with photographers, but the information could be adapted or extended to suit other contexts.

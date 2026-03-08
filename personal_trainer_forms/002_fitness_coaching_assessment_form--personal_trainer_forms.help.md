@@ -1,20 +1,3 @@
-<thinking>
-This form seems to be designed for assessing a client's fitness and personal information for coaching purposes. It includes various fields such as contact information, health history, medical history, fitness goals, exercise frequency, sleep pattern, stress level, and more. 
-
-The fields can be grouped into categories such as:
-* Client Information
-* Health History
-* Fitness Goals
-* Lifestyle Habits
-* Health and Wellbeing
-* Emergency Contact
-
-Each field is designed to gather specific information to help the coach understand the client's situation and provide tailored guidance. The form seems to be a comprehensive assessment tool for fitness coaches to get a complete picture of their clients' needs and goals.
-
-Before proceeding, please ensure that this form is not a duplicate or outdated. If you are unsure, please check with the relevant team members or the original creator of the form.
-
-</thinking>
-
 # Fitness Coaching Assessment Form - Help Guide
 
 ## Purpose

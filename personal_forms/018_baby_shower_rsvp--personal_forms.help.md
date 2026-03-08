@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Baby Shower RSVP" is used to collect information from guests about their plans to attend a baby shower event. The form is designed to be completed by guests who are invited to the event. The form should not be completed by the person whose baby shower it is, as this information is typically managed internally.
-
-This form is likely to be used by event planners or hosts to track guest responses, plan for logistics and headcount, and ensure that all guests have a pleasant experience. The form should be filled out once by each guest to ensure accurate tracking of responses.
-
-</thinking>
-
 # Baby Shower RSVP - Help Guide
 
 ## Purpose

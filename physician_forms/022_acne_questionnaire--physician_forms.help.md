@@ -1,7 +1,3 @@
-<thinking>
-We need to check that the form purpose is to gather patient information for acne diagnosis and treatment. This guide should cover the basics of the form, including its purpose, how to fill it out, and what each field means. This will help users understand what to expect when completing the form, and how to provide accurate and useful information for diagnosis. We also need to check that all fields have a clear label, type, and description to avoid confusion.
-</thinking>
-
 # Acne Questionnaire - Help Guide
 ## Purpose
 The Acne Questionnaire is a form designed to collect information about patients with acne to aid in diagnosis and treatment. It covers various aspects of acne, including duration, severity, and triggers, as well as medical history and lifestyle factors.

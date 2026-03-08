@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help users submit requests for tools and equipment to be assigned to them for use. To confirm, this form is not meant for users to report issues or problems with existing tools, but rather for requesting new or additional tools. Each form submission should be unique and not a duplicate of a previously submitted request. Please make sure to fill out the form with accurate and relevant information to help facilitate efficient processing and allocation of tools.
-
-</thinking>
-
 # Tool Request Form - Help Guide
 ## Purpose
 

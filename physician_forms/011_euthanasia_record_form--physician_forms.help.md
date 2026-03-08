@@ -1,11 +1,3 @@
-<thinking>
-
-The Euthanasia Record Form is used to document the details of an animal's death, typically when an animal's quality of life has become unacceptable due to a severe or terminal medical condition. The form is essential in shelters, hospitals, and other facilities where animals are being cared for, as it provides a clear and concise record of the circumstances surrounding the animal's death. The form is used to gather information about the animal's species, date of death, reason for euthanasia, and other relevant details.
-
-The form can be completed by veterinary professionals, shelter staff, or other authorized personnel. When filling out the form, please ensure that all necessary information is provided accurately and truthfully.
-
-</thinking>
-
 # Euthanasia Record Form - Help Guide
 ## Purpose
 The Euthanasia Record Form is used to document the details of an animal's death, typically when an animal's quality of life has become unacceptable due to a severe or terminal medical condition.

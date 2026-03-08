@@ -1,5 +1,3 @@
-<thinking>...This form is intended for project team members to leave or deactivate a photography project. The purpose of this form is to provide a standardized process for project team members to submit their leave requests. It's essential to complete this form accurately and clearly to ensure that project team members are properly notified and updated. Before proceeding, please review the project list to ensure that this form is being used for its intended purpose and is not duplicating another ongoing process. Please also review the project status to ensure that it aligns with the reason for leave selected. If you're unsure about any field, please seek clarification with the project lead or project manager before submitting the form.</thinking>
-
 # photography_project_leave_form - Help Guide
 ## Purpose
 The photography project leave form is designed to help project team members request a leave or deactivate a project in a structured and standardized process.

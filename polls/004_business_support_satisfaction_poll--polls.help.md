@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a customer satisfaction survey for a business support service. The purpose of this form is to gather feedback from customers on their experience with the business support team, including their satisfaction with the response time, quality of services, and professionalism of staff. This feedback will help the business to identify areas of improvement and make necessary adjustments to better serve their customers. This form is likely to be used by business support teams to measure their performance and customer satisfaction.
-
-It is assumed that this form is for businesses that offer support services to their customers, and the data collected will be used to improve the overall customer experience. The form is designed to be completed by customers who have interacted with the business support team in some way.
-
-Please ensure that the form is completed honestly and thoroughly, as the feedback will help the business to improve their services.
-
-</thinking>
-
 # Business Support Satisfaction Poll - Help Guide
 ## Purpose
 This guide will walk you through the "Business Support Satisfaction Poll" form, which is designed to gather feedback from customers on their experience with the business support team.

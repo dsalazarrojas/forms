@@ -1,9 +1,3 @@
-<thinking>
-This form is used to record hand hygiene observations in a clinical setting. Hand hygiene is a critical aspect of infection control, and this form helps healthcare professionals to monitor and improve hand washing practices among patients and staff. The data collected from this form can be used to identify areas of improvement and develop targeted interventions to enhance hand hygiene compliance.
-
-Before filling out this form, please ensure that you are completing it for a specific patient and that you are not duplicating an existing observation.
-</thinking>
-
 # hand_hygiene_observation_form - Help Guide
 ## Purpose
 This form is used to collect information on hand washing practices among patients and staff in a clinical setting.

@@ -1,7 +1,3 @@
-<thinking>
-Church Photo Release Form is used to obtain participant consent for taking photographs during events or activities. This form is required for participants in church events, ensuring that their images are used responsibly and with their approval. The form is also used to gather information about the participant, the event, and the authorized uses of the photographs. By completing this form, participants agree to the terms of photo usage and ownership. Please ensure that you have reviewed the form carefully and understand the implications of your participation. This form must not be used for duplicate purposes, so only one submission per participant is required.
-</thinking>
-
 # Church Photo Release Form - Help Guide
 ## Purpose
 The Church Photo Release Form is a crucial document that ensures participants understand and agree to the usage of their photographs taken during events or activities. By completing this form, participants grant permission for the use of their images and provide essential information about themselves and the event.

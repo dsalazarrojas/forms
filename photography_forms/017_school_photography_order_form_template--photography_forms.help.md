@@ -1,7 +1,3 @@
-<thinking>...internal reasoning block to check if the form purpose is valid and not duplicated...
-
-This form is designed to collect information for school photography orders. It's meant for capturing essential details about a student or event from a school, such as contact information, event dates, and order specifics. This form will likely be used by school administrators or staff to process and fulfill photography orders for events, sports teams, or other groups within the school. Please ensure this form is not used for unrelated purposes and is only filled out by intended recipients. If you have any questions or concerns, consult the internal documentation or contact the form owner...</thinking>
-
 # School Photography Order Form Template - Help Guide
 ## Purpose
 This form is used to process and fulfill photography orders for events, sports teams, or other groups within a school.

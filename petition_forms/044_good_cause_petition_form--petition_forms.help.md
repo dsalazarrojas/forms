@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "good_cause_petition_form", is designed to collect information for a petition, which is a formal request made to an entity, usually a government official or organization, to take some action or make a decision regarding a particular cause or issue. This form is intended to help gather relevant details about the petition, including the reason behind it, any supporting documentation, and the specific details and relief being sought.
-
-Before we dive into the form, please ensure that you're using this form for its intended purpose and not for any other reason. If you're unsure, please review the form's purpose and usage guidelines to avoid duplicating efforts or collecting unnecessary data.
-
-</thinking>
-
 # good_cause_petition_form - Help Guide
 
 ## Purpose

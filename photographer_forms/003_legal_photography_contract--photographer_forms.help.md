@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a legal photography contract between a photographer and a client. This contract outlines the terms and conditions of a photography session, including the date, time, and location of the session, as well as payment and cancellation terms. It's likely used by a photographer to ensure a clear understanding with their clients before a session. It's worth noting that this form doesn't appear to include any fields that would indicate this is a specific type of contract or service (e.g. wedding, portrait, commercial, etc.), so it may be a more general contract template. It would be helpful to determine whether this form is intended for specific types of photography sessions or if it's meant to be used across different types of sessions.
-</thinking>
-
 # legal_photography_contract - Help Guide
 ## Purpose
 This form is a template for creating a legal photography contract between a photographer and a client. It outlines essential information for a session, including date, time, location, and payment terms.

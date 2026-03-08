@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the form is for users to provide feedback on their personal training sessions with a personal trainer. The form likely aims to collect insights on the effectiveness and quality of the sessions, trainer's performance, and overall satisfaction. This could help the trainers improve their services and tailor them according to client needs.
-</thinking>
-
 # Personal Trainer Feedback Form - Help Guide
 ## Purpose
 

@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Church Visitor Survey - Help Guide
+> # Church Visitor Survey - Help Guide
 ## Purpose
 The Church Visitor Survey is designed to gather information about our church visitors' experiences, preferences, and opinions. This will help us understand what we do well and identify areas for improvement.
 

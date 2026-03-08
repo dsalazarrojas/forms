@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from potential organ donors, including their personal details, medical history, preferred organ donation options, emergency contact information, and medical conditions. The form is intended for use by medical professionals and hospitals to assess the suitability of potential organ donors. To ensure that each donor is properly vetted and that their wishes are respected, it's crucial to gather accurate and comprehensive information from the donors.
-
-Before proceeding with the form, please confirm that this is relevant to your specific use case and not a duplicate. If you're unsure, review the form's structure and content to ensure it aligns with your needs.
-
-</thinking>
-
 # Organ Donation Form - Help Guide
 ## Purpose
 The Organ Donation Form is designed to collect information from potential organ donors, enabling medical professionals to assess their suitability and ensure that their wishes are respected during the organ donation process.

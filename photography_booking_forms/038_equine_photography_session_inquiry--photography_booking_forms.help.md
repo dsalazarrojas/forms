@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help equine photography clients inquire about a photography session with a professional photographer. The form is intended to be completed by potential clients who wish to book a session with the photographer. It is meant to gather information about the client's preferences for the photography session, including the preferred dates, start and end dates, and contact information. The form will likely be used by the photographer to understand the client's needs and provide a personalized experience. Please ensure that this form meets your specific business needs and is not used for any other purpose.
-</thinking>
-
 # Equine Photography Session Inquiry - Help Guide
 ## Purpose
 The purpose of this form is to provide a platform for potential clients to inquire about an equine photography session with a professional photographer. It helps the photographer understand the client's preferences and provide a tailored experience.

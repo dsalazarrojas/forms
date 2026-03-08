@@ -1,15 +1,3 @@
-<thinking>
-This form is used by the HR team, membership organizations, and insurers to notify the system about changes to a member's relationship status. The purpose of this form is to accurately track and record these changes, ensuring that the system stays up-to-date with the latest information. It's essential to complete this form correctly to avoid duplication of effort and ensure that the data is consistent throughout the system.
-
-Before filling out this form, please make sure that you are authorized to make changes to the member's relationship status. If you're unsure, please reach out to the HR team or the member directly for clarification.
-
-Please note that this form is designed to be completed by the HR team, membership organizations, or insurers. If you're not one of these entities, please do not attempt to fill out this form.
-
-When filling out this form, make sure to provide accurate and up-to-date information. This includes selecting the correct relationship status and type, and attaching any relevant documents if necessary.
-
-Also, please be aware that some fields are required, and it's essential to fill them out correctly to ensure the form is processed correctly.
-</thinking>
-
 # Relationship Change Notification - Help Guide
 ## Purpose
 The purpose of this form is to notify the system about changes to a member's relationship status. It is used by the HR team, membership organizations, and insurers to ensure that the system stays up-to-date with the latest information.

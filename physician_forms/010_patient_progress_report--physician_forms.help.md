@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for physicians to report on the progress of their patients. It's likely a part of a larger medical record-keeping system. The form likely aims to gather information from the physician about the patient's current medical status, any medications they are taking, their medical history, social history, family history, allergies, lab results, and treatment plans. This form may be used by healthcare providers to track patient progress over time. To avoid duplication, it's essential that the form is filled out for each patient only once, and that the data is up-to-date and accurate.
-</thinking>
-
 # Patient Progress Report - Help Guide
 ## Purpose
 This form is designed to help physicians report on the progress of their patients, gathering key information about their medical status, treatment plans, and next steps.

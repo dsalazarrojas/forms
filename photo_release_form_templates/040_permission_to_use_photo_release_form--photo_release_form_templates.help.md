@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to obtain permission from individuals or organizations to use their photos for specific purposes, such as marketing, education, social media, or fundraising. This form is designed to capture relevant information about the photo, its location, and the individual's or organization's permission to use the image. It's essential to fill out this form accurately to ensure that the photo usage aligns with the individual's or organization's preferences and to maintain transparency and respect for their intellectual property rights.
-
-Before starting this form, please ensure that you have the necessary permissions from the individual or organization depicted in the photo, and that you're filling out the form for the correct purpose.
-
-This form is a one-time form, and once completed, it serves as a permanent record of the permission granted. Please note that the form fields are required fields for the form to be considered complete.
-</thinking>
-
 # Permission To Use Photo Release Form - Help Guide
 ## Purpose
 This form is used to obtain permission from individuals or organizations to use their photos for specific purposes.

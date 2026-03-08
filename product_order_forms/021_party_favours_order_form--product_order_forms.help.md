@@ -1,7 +1,3 @@
-<thinking>
-This form is used for capturing order details of party favours for an event. Before proceeding, please ensure you have all the necessary information and that the order is not a duplicate.
-</thinking>
-
 # Party Favours Order Form - Help Guide
 ## Purpose
 The Party Favours Order Form is designed to collect order details for party favours. This form helps us efficiently manage party favours orders and ensures that we get the required information for successful delivery.

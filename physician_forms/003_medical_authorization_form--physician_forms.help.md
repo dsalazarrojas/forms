@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Authorization Form - Help Guide
 
 ## Purpose

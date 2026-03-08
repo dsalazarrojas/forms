@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their immunization history and consent to proceed with immunizations. The purpose of this form is to ensure that patients provide accurate and up-to-date information about their medical history, allergies, and current medications, as well as their willingness to receive immunizations. This form is intended for healthcare professionals to use as a reference during patient consultations. Before completing this form, please ensure that you have not already collected this information from the patient in a previous form.</thinking>
-
 # Immunization Consent Form - Help Guide
 ## Purpose
 The Immunization Consent Form is a tool for healthcare professionals to collect patient information and obtain consent for immunizations.

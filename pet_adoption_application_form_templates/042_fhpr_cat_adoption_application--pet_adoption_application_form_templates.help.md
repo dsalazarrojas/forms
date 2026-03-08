@@ -1,8 +1,3 @@
-<thinking>
-This form is for individuals interested in adopting a cat from the Feline Habitat Preservation and Rescue (FHPR) organization. It is used to collect information about the adopter's preferences and needs, as well as the adopter's pet, to ensure a smooth and successful adoption process. This form is required for all prospective adopters. 
-Please review the form carefully and answer each question to the best of your ability. If you have any questions or concerns, feel free to reach out to us.
-</thinking>
-
 # FHPR Cat Adoption Application - Help Guide
 ## Purpose
 This help guide explains how to complete the FHPR Cat Adoption Application form. The form is designed to gather information about you and your pet preferences, as well as your own contact information and adoption preferences.

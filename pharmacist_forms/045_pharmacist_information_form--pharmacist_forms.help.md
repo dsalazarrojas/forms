@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to record pharmacist information for the purpose of maintaining a database of available pharmacists in the system. The form is used to capture the unique identifier for each form, a description of the pharmacist's services, their category, the user assigned to handle their work, the title of the pharmacist, and the user to whom the pharmacist is assigned. This form is intended to be completed by authorized personnel in the organization and is used to update or create new entries in the database.
 
 # pharmacist_information_form - Help Guide

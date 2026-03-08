@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help individuals who are interested in adopting a pet, providing a structured and organized way to collect necessary information for the adoption process. The form is intended for use by animal shelters, rescue organizations, or pet adoption agencies.
-The form collects personal contact details, pet details, address, and pet preferences, as well as additional comments. The form is designed to be completed by potential adopters to provide necessary information for the adoption process.
-The fields on this form are meant to elicit specific information to help the adoption organization understand the potential adopter's suitability for adoption and to help the organization tailor the adoption process to their needs.
-</thinking>
-
 # pet_adoption_application_form - Help Guide
 
 ## Purpose

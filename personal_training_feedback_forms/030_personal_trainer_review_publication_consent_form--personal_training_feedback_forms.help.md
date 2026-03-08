@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for personal trainers to review and provide feedback on the publication of testimonials from clients who have used their services. This form will help us to collect valuable insights and opinions from trainers on how they feel about the publication of their client's testimonials. It is essential to ensure that this form is filled out by the correct person, to avoid duplication of efforts and to ensure that we are getting accurate and relevant feedback. This form should be completed by a person who has worked with the trainer and has had a positive experience with them.
-</thinking>
-
 # Personal Trainer Review Publication Consent Form - Help Guide
 ## Purpose
 This form is designed for personal trainers to review and provide feedback on the publication of testimonials from their clients. It is a crucial part of our process to ensure that we are sharing the right information and to get valuable insights from trainers about their experiences.

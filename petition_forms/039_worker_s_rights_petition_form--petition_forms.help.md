@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Worker's Rights Petition Form is to gather data from workers about their rights and working conditions. Before filling out this form, please ensure that you are a worker with grievances related to your workplace or industry. This form is not intended for use by non-workers or as a general purpose survey. Please do not fill out this form if you have already submitted a similar petition or grievance in the past.
-</thinking>
-
 # Worker's Rights Petition Form - Help Guide
 ## Purpose
 The Worker's Rights Petition Form is used to gather information from workers about their working conditions, rights, and grievances. This form is intended for workers who want to report issues or concerns related to their workplace or industry.

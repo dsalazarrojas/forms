@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's demographics and medical history. It is meant to be completed by healthcare providers or administrative staff to collect relevant data for patient care and treatment planning. Before filling out this form, please confirm that you are authorized to access this information and that it is not for duplicate patient entry.
-
-This form is divided into multiple pages with various fields that require different types of information. Please review each field carefully and provide accurate and relevant information.
-
-</thinking>
-
 # Patient Demographics And History Information Form - Help Guide
 ## Purpose
 This form is used to collect essential information about a patient's demographics and medical history, which is crucial for healthcare providers to make informed decisions about patient care and treatment.

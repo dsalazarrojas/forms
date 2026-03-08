@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect input on potential webinar topics and their details. The form will help the team determine which topic to focus on for the next webinar based on popular vote. It is essential that users understand this form is for voting on potential webinar topics only and should not be used to schedule or manage existing webinars. Users should not submit duplicate entries for the same webinar topic. 
-</thinking>
-
 # Webinar Topic Voting Form - Help Guide
 ## Purpose
 This form is used to collect input on potential webinar topics and their details for the next webinar. The team will use this information to decide which topic to focus on.

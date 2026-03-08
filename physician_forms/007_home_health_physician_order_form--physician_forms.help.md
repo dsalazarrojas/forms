@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect relevant information from a patient, specifically for home health care purposes. This form is not affiliated with, endorsed by, or derived from any form platform. The form is an original adaptation created using public survey topic metadata (title + industry/category) as inspiration. It is released under CC BY 4.0 and can be used, modified, and even sold with proper credit.
-
-</thinking>
-
 # Home Health Physician Order Form - Help Guide
 ## Purpose
 The Home Health Physician Order Form is a document designed for physicians to collect essential information from patients about their medical history, medications, allergies, medical conditions, and home health care needs. This form helps physicians make informed decisions about patient care and treatment.

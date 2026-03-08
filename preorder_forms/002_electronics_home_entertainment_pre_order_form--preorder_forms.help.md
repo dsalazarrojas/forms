@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for pre-orders of electronics home entertainment products. It gathers customer, delivery, order, payment, shipping address, and contact details. This form can be used by electronics retailers to streamline the ordering process and improve customer experience. Please note that this form was not created with any affiliation or endorsement from a specific form platform, but rather as an original adaptation of a public survey topic. 
-</thinking>
-
 # Electronics Home Entertainment Pre Order Form - Help Guide
 ## Purpose
 

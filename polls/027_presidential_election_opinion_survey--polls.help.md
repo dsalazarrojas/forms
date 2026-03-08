@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather opinions on various aspects of the presidential election, including politics, social issues, economy, environment, healthcare, education, national security, energy, foreign policy, and immigration. The form is intended to collect both quantitative (yes/no) and qualitative (text) feedback on these issues, allowing users to provide detailed insights into their thoughts and opinions. The form is not a survey in the classical sense, but rather a more in-depth assessment of the users' views. It's likely that this form will be used for research or educational purposes to gauge public opinion on these various topics. It's possible that some of the questions might be more subjective or opinion-based, and the responses might not be strictly quantifiable. It's also possible that some questions might be redundant or have some overlap in terms of the topics they cover. However, in order to understand the full scope of the form's purpose and the kind of information it aims to collect, let's review the form's structure and fields.
-</thinking>
-
 # Presidential Election Opinion Survey - Help Guide
 ## Purpose
 This form is designed to collect users' opinions on various aspects of the presidential election, including politics, social issues, economy, environment, healthcare, education, national security, energy, foreign policy, and immigration. The form is intended to gather both quantitative and qualitative feedback on these issues, allowing users to provide detailed insights into their thoughts and opinions.

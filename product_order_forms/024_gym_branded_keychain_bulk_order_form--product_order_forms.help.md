@@ -1,11 +1,3 @@
-<thinking>
-The form "Gym Branded Keychain Bulk Order Form" is designed to collect information for bulk orders of gym-branded keychains. The form is intended to gather details such as product name, quantity, shipping and billing addresses, and other relevant order information. This form is likely used by sales teams or customer service representatives to process and fulfill bulk orders. It's essential to ensure that all required fields are completed accurately to avoid delays or errors in the order fulfillment process.
-
-Before filling out this form, please note that some fields are marked as required, meaning they must be filled out to submit the form. Please ensure you have all necessary information before starting.
-
-To complete this form, simply follow the instructions below:
-</thinking>
-
 # Gym Branded Keychain Bulk Order Form - Help Guide
 ## Purpose
 This form is used to collect information for bulk orders of gym-branded keychains.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect general health information from users, including demographic details such as age, height, and weight, as well as lifestyle habits like smoking and drinking habits, exercise frequency, and medical history. It is not a comprehensive medical assessment, but rather a general survey to gather health-related data. This guide is to help users understand the purpose and usage of this form.
-
-</thinking>
-
 # general_health_survey - Help Guide
 ## Purpose
 The general_health_survey form is designed to collect general health information from users, including demographic details and lifestyle habits.

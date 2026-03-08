@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users assess their personal purpose and identify areas for growth and development. It is meant to be a self-discovery tool that guides users in evaluating their goals, values, and overall satisfaction with their current life situation. By answering the questions and selecting the most relevant options, users will gain a better understanding of their strengths, weaknesses, and areas of improvement. This tool is not a one-size-fits-all solution and should be completed by individuals who are genuinely interested in self-reflection and personal growth.
-
-Note: Before starting, please review each field explanation below to ensure you understand the purpose of each question and make informed choices.
-
-</thinking>
-
 # Personal Purpose Assessment - Help Guide
 ## Purpose
 The Personal Purpose Assessment is a self-discovery tool designed to help you assess your personal purpose and identify areas for growth and development.

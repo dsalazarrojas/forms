@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for patients to agree to telemedicine services offered by a healthcare provider. It ensures that both the patient and the physician understand the terms and conditions of telemedicine services, including how communication will take place and what level of confidentiality can be expected. 
-
-When a patient completes this form, they are indicating their consent to receive telemedicine services from the physician. This form is an essential document for both parties to have a clear understanding of their roles and responsibilities. 
-
-Note: This form is not a contract or a binding legal document. It is an agreement that outlines the terms and conditions of telemedicine services. 
-
-</thinking>
-
 # Telemedicine Services Agreement - Help Guide
 ## Purpose
 The Telemedicine Services Agreement form is a document that outlines the terms and conditions of telemedicine services offered by a healthcare provider to a patient. It ensures that both the patient and the physician understand how communication will take place and what level of confidentiality can be expected.

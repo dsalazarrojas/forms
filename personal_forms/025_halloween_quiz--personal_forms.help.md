@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's preferences and experiences related to Halloween. The form is divided into several sections, each with a specific set of questions or options. The user will be asked about their favorite Halloween movie, character, and song, as well as their preferences for trick-or-treating, candy, and other Halloween activities. The form also includes questions about their birthday, favorite time to go out on Halloween night, and whether they have attended a haunted house tour or seen the movie Ghostbusters. The form has 25 fields and is optional for all questions. However, some users may be able to answer more than one field if they want to.
-</thinking>
-
 # Halloween Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about your Halloween preferences and experiences.

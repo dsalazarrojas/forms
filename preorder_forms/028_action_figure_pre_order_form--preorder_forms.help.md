@@ -1,11 +1,3 @@
-<thinking>
-This form is used for customers to pre-order action figures from various franchises. The purpose of this form is to collect information from customers about the action figure they want to pre-order, including their contact information, shipping details, and payment method. This form is designed to be used by customers to place pre-orders for action figures that have not yet been released to the market. The form is divided into several sections, each with its own field that requires specific information. 
-
-When a customer completes this form, the information is reviewed and the customer is contacted to confirm their order. If there are any issues or questions about the order, the customer service team will reach out to the customer to clarify or make any necessary changes. The form is designed to be easy to use and understand, with clear instructions and labels for each field. Customers can expect a prompt response from the customer service team once they submit their pre-order request.
-
-To ensure accurate and complete orders, please review each field carefully and fill in the required information. If you have any questions or concerns, do not hesitate to contact our customer service team.
-</thinking>
-
 # Action Figure Pre Order Form - Help Guide
 ## Purpose
 The Action Figure Pre Order Form is designed for customers to pre-order action figures from various franchises. This form collects information about the action figure to be pre-ordered, including shipping details and payment method.

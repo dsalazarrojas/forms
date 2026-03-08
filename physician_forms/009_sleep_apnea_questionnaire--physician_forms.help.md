@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's sleep apnea symptoms, diagnosis, and treatment. This includes questions about common symptoms, risk factors, and potential medication used to treat sleep apnea. The form is used to gather information for medical evaluation and treatment planning. This form should only be filled out by patients who are suspected of having sleep apnea or are already diagnosed with it. Please make sure to review this guide carefully and fill out the form accurately to ensure the best possible outcome.
-
-</thinking>
-
 # Sleep Apnea Questionnaire - Help Guide
 ## Purpose
 

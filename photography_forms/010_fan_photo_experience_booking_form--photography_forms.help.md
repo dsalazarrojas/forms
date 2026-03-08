@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the purpose and requirements of the Fan Photo Experience Booking Form. It is designed to help event organizers and participants book a photography session with a designated photographer. The form is meant to collect information about the event, including the event description, location, and photographer assigned. Non-essential fields like photo session duration and number of photos may not be required but will help tailor the photo experience. This guide will cover the form's purpose, completion instructions, and field-by-field explanation, ensuring a seamless experience for users.
-
-</thinking>
-
 # Fan Photo Experience Booking Form - Help Guide
 ## Purpose
 

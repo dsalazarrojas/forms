@@ -1,24 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand its purpose, how to complete it, and explain each field clearly. This form is for gym equipment rental, which means users are likely to be renting equipment for personal or professional use in a gym setting. 
-
-This form likely serves as a way to capture necessary information from customers who want to rent gym equipment. This could be to ensure that the customer has the necessary information for them to complete the rental process, which may involve verifying their email and phone number to contact them for follow-up or payment purposes. 
-
-We should ensure that the form doesn't ask for redundant or unnecessary information, as the goal is to facilitate the rental process, not to create unnecessary barriers. 
-
-The form has the following fields: 
-- form fields (a text input for any additional information)
-- equipment type (a select one menu to choose from three options: Bikes, Treadmills, Weights)
-- quantity (a number input for the quantity of equipment requested)
-- rental period (a select one menu to choose from three options: Week, Month, Quarter)
-- start date (a date input for the start date of the rental)
-- end date (a date input for the end date of the rental)
-- form comments (a text input for any additional comments)
-- customer email (an email input for the customer's email address)
-- customer phone (a text input for the customer's phone number)
-
-Given the form's purpose and fields, we can now create a user-facing help guide.
-</thinking>
-
 # Gym Equipment Rental - Help Guide
 ## Purpose
 This form is for customers to rent gym equipment. To complete the form, please follow the instructions below.

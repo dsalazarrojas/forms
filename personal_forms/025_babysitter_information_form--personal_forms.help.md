@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about potential babysitters. This form is meant to be completed by parents or guardians seeking to hire a babysitter. The form collects personal and professional information from the applicant, including their name, contact details, experience, certifications, and availability. The form is designed to help parents make informed decisions when selecting a babysitter. 
-
-It's essential to ensure that the applicant is aware that their information is collected for the sole purpose of verifying their identity and suitability for the role. Please make sure you have the necessary consent from the applicant before collecting their background check information. 
-
-Before proceeding, please review this guide to understand the form's requirements and what information is collected from each field.</thinking>
-
 # Babysitter Information Form - Help Guide
 ## Purpose
 The Babysitter Information Form is a tool used by parents or guardians to gather essential information from potential babysitters.

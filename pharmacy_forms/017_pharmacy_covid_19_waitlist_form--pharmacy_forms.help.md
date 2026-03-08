@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and not duplicated or filled out with incorrect information. The purpose of the form is to gather contact information and preferences from patients for the COVID-19 waitlist. This form will be used to manage the waitlist efficiently and ensure that patients receive the necessary information and care in a timely manner. 
-</thinking>
-
 # Pharmacy COVID 19 Waitlist Form - Help Guide
 ## Purpose
 The Pharmacy COVID 19 Waitlist Form is used to gather contact information and preferences from patients for the COVID-19 waitlist. This form is used to manage the waitlist and ensure that patients receive the necessary information and care in a timely manner.

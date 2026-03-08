@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to facilitate the process of disputing a mobile payment that has not been received. The form is designed to be completed by customers, merchants, or support staff, depending on the context, to provide a clear and concise description of the issue. The form will be used to create a record of the dispute, which can then be reviewed and acted upon by the relevant parties. To ensure that the form is completed correctly, please carefully follow the instructions below.
-
-</thinking>
-
 # Mobile Payment Not Received Dispute Form - Help Guide
 ## Purpose
 This form is used to dispute a mobile payment that has not been received. It is essential to fill out the form accurately and completely to ensure that the issue is handled efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a payment form designed to allow users to make payments to a store. The purpose of this form is to collect user information, product information, and payment details in a responsive and accessible way. The form is intended for use in online stores and should not be used for any other purpose.
-</thinking>
-
 # Responsive Paypal Payment Form - Help Guide
 ## Purpose
 The Responsive Paypal Payment Form is designed to facilitate secure and convenient online payments to a store.

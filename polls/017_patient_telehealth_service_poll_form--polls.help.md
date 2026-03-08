@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Telehealth Service Poll Form - Help Guide
 ## Purpose
 This form is used to gather feedback from patients on the quality of the telehealth service they received. The goal is to identify areas of improvement and ensure that the telehealth service meets the needs and expectations of our patients. This form is an essential part of our quality assurance process and helps us to continually improve our services.

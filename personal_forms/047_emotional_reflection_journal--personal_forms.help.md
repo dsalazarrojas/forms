@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this form, I will follow the required structure and guidelines. Here is the result:
 
 # Emotional Reflection Journal - Help Guide

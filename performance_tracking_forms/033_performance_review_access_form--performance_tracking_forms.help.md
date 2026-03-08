@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's ensure the purpose and relevance of this form. The Performance Review Access Form is likely used to assess an employee's performance over a certain period. It's a crucial tool for managers to evaluate an employee's strengths and areas for improvement. This form should only be filled out by managers and employees, and it's essential to avoid duplication of effort and ensure that the correct person is completing the form for each employee. This form is not meant for general feedback, but rather for official performance evaluations. To prevent errors, we should ensure that each section is filled out correctly and thoroughly, and that all fields are completed before submitting the form.</thinking>
-
 # Performance Review Access Form - Help Guide
 
 ## Purpose

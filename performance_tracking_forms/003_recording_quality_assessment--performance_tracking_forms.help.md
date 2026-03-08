@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the quality of a recording, which is a crucial aspect of various audio-related tasks such as data analysis, research, or content creation. The purpose of this form is to collect feedback on the audio quality of recordings, which will help in identifying areas of improvement for future recordings.
-The form collects feedback on various aspects of the recording quality, including audio quality, time synchronization, sound volume, audio clarity, background noise, speaker speech, audio speed, and recording format. The form is designed to be simple and easy to use, allowing users to quickly and efficiently provide their feedback.
-</thinking>
-
 # Recording Quality Assessment - Help Guide
 ## Purpose
 This form is used to assess the quality of a recording, which is a crucial aspect of various audio-related tasks such as data analysis, research, or content creation.

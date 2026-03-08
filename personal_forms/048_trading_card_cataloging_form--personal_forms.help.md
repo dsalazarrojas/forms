@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information about trading cards, specifically for cataloging purposes. The form has multiple fields to gather details such as card information, rarity, condition, edition, price, and purchase date and time. The purpose of this form is to provide a structured way to collect and organize trading card data for further analysis and processing.
-
-The form is intended for use by individuals or organizations collecting and cataloging trading cards, such as card game players, collectors, or researchers. It is likely used in a context where accurate and detailed information about trading cards is necessary for cataloging, inventory management, or other related purposes.
-
-To determine the relevance and potential duplication of this form, consider the following questions:
-
-* Is it a form for collecting and cataloging trading cards?
-* Does it have multiple fields for various aspects of trading card information?
-* Is it designed for use by individuals or organizations with specific needs for cataloging and inventory management?
-
-If the answers to these questions are affirmative, then the form is likely relevant and non-duplication. Otherwise, further clarification or modification of the form may be necessary.
-
-</thinking>
-
 # Trading Card Cataloging Form - Help Guide
 ## Purpose
 The Trading Card Cataloging Form is designed to collect and organize information about trading cards for further analysis and processing.

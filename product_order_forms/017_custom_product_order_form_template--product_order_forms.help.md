@@ -1,9 +1,3 @@
-<thinking>...<thinking>
-
-This form is designed for customers to provide their personal information and product order details. The form is called "Custom Product Order Form Template". It consists of five fields that are grouped into multiple pages.
-
-</thinking>
-
 # Custom Product Order Form Template - Help Guide
 ## Purpose
 The Custom Product Order Form Template is designed for customers to provide their personal information and product order details. This form helps you to collect relevant information from customers for further processing and follow-up.

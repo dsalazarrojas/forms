@@ -1,12 +1,3 @@
-<thinking>
-To create a patient care plan template, I will first ensure that this form is relevant and not a duplicate within our organization. After checking our internal systems, I found that this form does not exist, and its purpose is to provide a structured template for healthcare professionals to outline a patient's care plan. This form will help in ensuring that patient needs are properly documented and communicated among healthcare team members.
-
-The purpose of this form is to standardize the process of creating a care plan for patients with complex or ongoing medical needs. It includes sections for key healthcare providers, such as physicians and nurses, to document their observations, comments, and plans for the patient's care. 
-
-The template will serve as a starting point for creating a customized plan, ensuring that all relevant information is included, and facilitating effective communication among the care team.
-
-</thinking>
-
 # Patient Care Plan Template - Help Guide
 ## Purpose
 The Patient Care Plan Template is a standardized form used to document and communicate a patient's care plan among healthcare team members. It is designed to facilitate effective collaboration and ensure that all necessary information is captured.

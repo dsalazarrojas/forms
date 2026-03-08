@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for pediatric referrals, which are used to facilitate the exchange of information between healthcare providers about a patient's care. The form should be filled out by a referring provider (e.g., pediatrician, nurse practitioner) when they are referring a patient to another specialist or department within the healthcare system. This form helps to ensure that all relevant information is captured and transferred correctly, reducing errors and improving the quality of care.
-
-Before filling out this form, please ensure that you are referring the correct patient and that the information is up-to-date and accurate.
-
-</thinking>
-
 # Pediatric Referral Form - Help Guide
 ## Purpose
 This form is used to gather and document information for referrals from one healthcare provider to another.

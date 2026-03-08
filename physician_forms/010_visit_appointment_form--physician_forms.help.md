@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication ...
-
-This form appears to be a simple visit appointment form designed for patients to provide information about their upcoming visit. It seems to be used for scheduling and organizing appointments, and the fields are likely related to the appointment details and patient information. I will make sure to provide a clear and concise help guide for the end users.
-
-</thinking>
-
 # Visit Appointment Form - Help Guide
 ## Purpose
 This form is used to collect information from patients about their upcoming visit, including the visit details and their contact information.

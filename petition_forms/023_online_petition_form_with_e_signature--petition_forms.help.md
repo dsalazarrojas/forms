@@ -1,11 +1,3 @@
-<thinking>
-We should first determine the purpose and relevance of this form to ensure we provide accurate and helpful content. From the provided YAML, it seems the form is used for creating online petitions. The form fields are: name, category, description, start date, end date, signature, embedded reports, and assigned tool. We can use this information to explain the form to the end users. We should ensure that the fields are explained in a way that's easy to understand and follow a logical structure.
-
-This form seems to be part of a workflow or process that involves creating and managing online petitions, possibly within a specific organization or platform. The form fields appear to be related to the creation and administration of such petitions, including categorization, description, scheduling, and assigning tools or resources. 
-
-Considering the form fields, it's likely that this form is used for creating new petitions, and the fields should be explained accordingly.
-</thinking>
-
 # Online Petition Form With E Signature - Help Guide
 ## Purpose
 This form is used to create online petitions. Petitions can be categorized under "Petition Forms" or other forms, and each petition has a unique name and description. You can also specify a start and end date for the petition, as well as a category for embedded reports and assigned tools.

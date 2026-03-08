@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information and payment details for a summer camp program. It ensures that each camper and their parent/guardian have a clear and secure payment experience. The form is divided into several sections, each containing relevant fields that gather necessary information to process the registration and payment. The purpose of this form is to provide a convenient and easy-to-use interface for campers and their parents to register and pay for the camp program.
-</thinking>
-
 # Camp Registration Form PayPal Checkout - Help Guide
 ## Purpose
 This form is used to register and pay for a summer camp program. It collects camper and parent/guardian information, payment details, and other relevant data to secure the payment and finalize the registration.

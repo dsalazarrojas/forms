@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Preschool Photo Order Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gather opinions on various topics. The fields are designed to collect responses from users, and the form has 25 questions that range from simple "yes" or "no" questions to more complex questions that ask for multiple choices or specific information such as email or date.
-
-To ensure that the form is completed correctly, it would be best to only include questions relevant to the current user's interests or expertise. If the form has already been completed, there is no need to complete it again.
-
-It is also worth noting that this form is likely used in a voting system, where users can express their opinions on different questions. Users may be able to see the results of previous votes or compare their answers with others.
-
-Before proceeding, please ensure that you are completing the form for the correct purpose and that it is not a duplicate effort.
-</thinking>
-
 # election_voting_poll - Help Guide
 ## Purpose
 This form is designed to gather opinions on various topics. It consists of 25 questions that cover a range of topics, from simple "yes" or "no" questions to more complex questions that ask for multiple choices or specific information such as email or date.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's potential exposure to Monkeypox (Mpox) virus, a type of virus that can cause a range of symptoms including fever, rash, and sores. The purpose of this form is to gather data that can aid in the identification, tracking, and prevention of Mpox outbreaks. By filling out this form, users will be contributing to the public health effort to combat this infectious disease.
-
-The form asks for a series of questions about the individual's medical facility, contact history, symptoms, and potential exposure risks. The user will need to answer questions about the number of contacts they have had with infected individuals, their travel history, and their symptoms' duration and severity.
-
-To complete this form, users will need to fill in each field with their relevant information. Some fields may be optional, but those marked as "required" are essential to provide accurate data.
-
-Below is a detailed explanation of each field in the form:</thinking>
-
 # Mpox Self Screening Questionnaire - Help Guide
 ## Purpose
 ## How To Complete This Form

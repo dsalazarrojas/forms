@@ -1,9 +1,3 @@
-<thinking>
-This form will be used by potential clients or customers to request a quote for event photography services. It's an online form designed to gather necessary information about their event so that we can better understand their needs and provide an accurate quote. 
-
-The form will not be filled out multiple times or in parallel by the same person. 
-</thinking>
-
 # Event Photography Quote Request - Help Guide
 ## Purpose
 This form is used to request a quote for event photography services. Please fill out this form to provide us with the necessary information about your event so that we can better understand your needs and provide an accurate quote.

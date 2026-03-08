@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from companies for business performance modeling projects. The purpose of the form is to gather essential data about the company, its performance, and the objectives for the project. This information will be used to guide the modeling process and ensure that the results meet the client's expectations.
-
-When filling out this form, please make sure to answer all required fields and provide as much detail as possible. This will help to ensure accurate and effective results.
-
-</thinking>
-
 # Business Performance Modeling Request Form - Help Guide
 ## Purpose
 The Business Performance Modeling Request Form is used to collect information about a company's performance and the objectives of a business performance modeling project. This information will guide the modeling process and help to ensure that the results meet the client's expectations.

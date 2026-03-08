@@ -1,13 +1,3 @@
-<thinking>
-
-To create this form, I'll follow these steps:
-
-1.  **Purpose:** The form aims to gauge academic peer feedback culture by gathering perceptions of faculty members and students on various aspects of peer feedback within their institution. It will help in understanding how peer feedback impacts academic performance, challenges, and benefits. This form is essential for understanding the dynamics of peer feedback culture and its influence on academics in higher education institutions.
-2.  **Relevance:** This form is relevant to the academic community, particularly to institutions that value peer feedback culture. It is not a general feedback form; instead, it focuses on specific aspects related to peer feedback within an academic setting.
-3.  **Non-duplication:** The form is tailored to gather specific, institution-related data and doesn't overlap with existing surveys or forms on general feedback or performance evaluation.
-
-</thinking>
-
 # Academic Peer Feedback Culture Survey - Help Guide
 ## Purpose
 The Academic Peer Feedback Culture Survey aims to understand the perceptions of academic peer feedback within your institution. This form will help gather information on how often you give or receive feedback, your comfort levels with giving and receiving feedback, and how you perceive the quality and culture of peer feedback.

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information for wedding photography surveys. It's crucial to ensure the form is completed accurately to avoid duplication or incomplete information. To confirm the purpose and importance of this form, consider the following:
-
-* A wedding photography survey is a crucial tool for capturing the essence of a wedding day.
-* Inaccurate information can lead to miscommunication or misinterpretation.
-* To complete the form, you should provide detailed and accurate information to avoid duplication or missing critical details.
-</thinking>
-
 # Wedding Photography Survey - Help Guide
 ## Purpose
 The Wedding Photography Survey form is designed to collect essential information about a wedding. It helps in capturing the photographer's details, wedding day information, and any notes or comments. This form is crucial for ensuring accuracy and preventing duplication of information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for wholesale orders, allowing customers to input details about their order, including customer information, contact details, order quantities and notes. This form is likely to be used for business-to-business (B2B) sales or large scale purchases. I'm checking for relevance and non-duplication...
-</thinking>
-
 # wholesale_order_form - Help Guide
 ## Purpose
 This form is designed for customers to enter details about their wholesale orders, including personal information, contact details, and order specifics. 

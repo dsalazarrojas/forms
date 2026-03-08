@@ -1,10 +1,3 @@
-<thinking>
-The form's purpose is to gather electronic product order information from customers for Afterpay products, ensuring accurate and efficient order processing. This form is likely used for B2B or B2C sales, where customers need to provide their details and product specifics to place an electronic order. The form is designed to collect relevant customer and product information, allowing for smooth and secure transactions through various payment gateways.
-
-Before proceeding, it is essential to review the form's requirements and the relevance of the information provided. Ensure that the customer has all the necessary details and selects the correct options for their order. This guide will walk through the fields and their intended use to help users understand the purpose and completion of the form.
-
-</thinking>
-
 # Afterpay Electronic Product Order Form - Help Guide
 ## Purpose
 The Afterpay Electronic Product Order Form is designed for customers to provide their details and product specifics to facilitate electronic orders for high-quality electronics using the Afterpay payment gateway.

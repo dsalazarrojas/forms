@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication of efforts and ensure a well-rounded understanding of the form's purpose, we should only provide this help guide to users who have been explicitly granted access to the nominating_petition_form category. This form is designed to collect information from nominees and nominators for the purpose of nominating someone for a position or recognition. It is essential to complete this form accurately and thoroughly to ensure that all relevant details are captured.
-</thinking>
-
 # nominating_petition_form - Help Guide
 ## Purpose
 This form is designed to collect information from nominees and nominators for the purpose of nominating someone for a position or recognition.

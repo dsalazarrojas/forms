@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the management and tracking of property tax payments. It captures relevant information such as the municipality, tax year, tax amount, payment method, date and time of receipt, and payment status. This data will be useful for administrative and accounting purposes. 
-</thinking>
-
 # Property Tax Billing Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-To ensure this form serves its purpose effectively, let's break down its components and consider potential issues:
-- The form is designed to gather information for product authentication labels, which might include details about the product, authentication methods, shipping, and customer information.
-- The form seems to be targeting a specific use case where customers or users are ordering product authentication labels, possibly for various purposes such as verification, tracking, or identification.
-- The fields are a mix of text, select_one, and select_multiple types, which suggests that users will be able to input various types of information, including choices for authentication label type, size, shipping method, payment method, and status.
-- Some fields seem optional, which might indicate that users have flexibility in how much information they provide.
-- There might be a concern for ensuring that users fill out all necessary fields, and possibly a need to guide users through the process.
-
-</thinking>
-
 # Product Authentication Label Order Form - Help Guide
 ## Purpose
 The Product Authentication Label Order Form is designed to collect necessary information for product authentication labels. This form helps customers or users order labels for various purposes such as verification, tracking, or identification.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals and medical staff to collect patient information, medical history, and relevant medical provider information. The purpose of this form is to streamline the patient intake process, ensuring that all necessary information is gathered efficiently and accurately.
-
-Before using this form, please verify that it's suitable for your specific use case and that it hasn't been created or modified by any other party. This form's content and structure are based on publicly available metadata and might not cover every possible scenario or medical specialty.
-
-Please note that this form's original purpose and design are for general medical patient intake, and you might need to adapt it according to your organization's specific needs and local regulations.
-
-</thinking>
-
 # Medical Patient Intake Form - Help Guide
 ## Purpose
 The Medical Patient Intake Form is designed to collect essential information from patients, including their medical history, medical history date, E-signature preferences, and medical provider details.

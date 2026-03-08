@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to support seniors and collect information about their needs, concerns, and issues. The form aims to gather data that can be used by organizations to provide more effective support and services to seniors. It is intended for seniors and caregivers who want to express their opinions, needs, or concerns about services provided by organizations. 
-
-Before filling out this form, please ensure that you have not filled out a similar form before, and that you understand the purpose of this form. If you have concerns or issues that you have already expressed through this or a similar form, please contact the supporting organization before filling out this form.
-
-</thinking>
-
 # petition_to_support_seniors_form - Help Guide
 ## Purpose
 The petition_to_support_seniors_form is designed to collect information from seniors and caregivers about their needs, concerns, and issues. This data will be used to provide more effective support and services to seniors.

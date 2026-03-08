@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this Church Membership Questionnaire form is to gather information from current and prospective members of the church to understand their demographics, level of involvement, and opinions on church programs and services. This form should not be completed by non-members or individuals without an account on the church's internal system. Please ensure that each field is filled out accurately and completely to help us better serve and support you.
-</thinking>
-
 # Church Membership Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from church members to help us understand their demographics, level of involvement, and opinions on church programs and services. Your input will help us improve our services and provide better support to our community.

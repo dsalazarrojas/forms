@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to provide a waiver and release of liability for a photography session or shoot. The form is designed to be completed by the person(s) being photographed, or their representative, to acknowledge and waive any potential liabilities related to the photography session. The form helps to clarify the terms of use of the photographs taken during the shoot, including the release of the photographer's liability for any injuries or damages suffered by the subject of the photography.
-
-</thinking>
-
 # Photography Accident Waiver - Help Guide
 ## Purpose
 The Photography Accident Waiver form is a document that waives any potential liability for injuries or damages suffered by you or your heirs during a photography session. It serves as a release of liability for the photographer and their representatives.

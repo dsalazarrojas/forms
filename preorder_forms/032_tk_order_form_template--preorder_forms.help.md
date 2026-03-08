@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is to gather information about a customer's order, including date and time of the order, customer details, order details, payment information, and notes. This form is a general template and can be used in various contexts, such as retail, hospitality, or any other industry where order taking is necessary. Before proceeding, please ensure that you have the necessary permission or approval to collect and use the data gathered from this form. Also, please review this guide to ensure you are using the form correctly and that the data collected aligns with your company's data protection policies.
-</thinking>
-
 # tk order form template - Help Guide
 ## Purpose
 The **Order Form Template** is designed to gather information from customers about their orders, providing a structured and user-friendly way to collect relevant details.

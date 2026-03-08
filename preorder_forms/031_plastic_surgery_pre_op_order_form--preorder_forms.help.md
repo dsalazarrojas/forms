@@ -1,13 +1,3 @@
-<thinking>
-This form was created using AI, based on public survey topic metadata. It is a plastic surgery pre-op order form designed to collect patient information, medical history, and other relevant details. This form is intended to guide surgeons and medical staff in preparing for plastic surgery procedures.
-
-To ensure that all necessary information is collected and that the form is being used correctly, it is essential to verify the context and purpose of this form within your institution or organization. If you are unsure about the form's use or have questions, please contact the designated authority or department responsible for its implementation.
-
-This guide assumes that the form is being used in a healthcare setting, and the explanations and instructions are tailored to that specific use case. Please note that some fields may have varying levels of importance based on individual patient cases, and it is crucial to use your professional judgment when filling out this form.
-
-Before proceeding, please make sure to review the entire form and understand its requirements.
-</thinking>
-
 # Plastic Surgery Pre-Op Order Form - Help Guide
 ## Purpose
 This form is designed to collect patient information, medical history, and other relevant details before a plastic surgery procedure. It helps surgeons and medical staff prepare for the operation, ensuring that all necessary information is available and documented.

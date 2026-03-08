@@ -1,8 +1,3 @@
-<thinking>
-This help guide is being created to support end-users in completing a form designed for gathering feedback after a game event. The form is meant to collect data on attendees' experiences and opinions on various aspects of the event, including overall satisfaction, favorite parts, food quality, staff friendliness, venue facilities, and event attendance frequency. This guide will explain each field's purpose, required status, and how to fill it out correctly to provide valuable feedback.
-
-</thinking>
-
 # Post Game Fan Feedback Poll - Help Guide
 ## Purpose
 The Post Game Fan Feedback Poll is a series of questions designed to gather opinions and experiences from game attendees. Your input will help us understand what made the event exciting, what you enjoyed the most, how we can improve, and what made the event a great experience for you.

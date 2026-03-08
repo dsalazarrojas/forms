@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Referring Clinician Survey - Help Guide
 ## Purpose
 The Referring Clinician Survey is a form used to capture information from referring clinicians about new patients being referred to our institution. This form helps us understand the context of each referral, including the patient's presenting condition and relevant background information. The data collected from this form will be used to support the care of the new patient.

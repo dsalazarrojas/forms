@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is likely to collect and record vaccination information for patients, such as the type of vaccine administered, the date it was given, and who administered and recorded it. This form should only be filled out for patients who have received vaccinations, and it may be used as a companion form to other forms, like patient check-in forms or medical history forms. It's possible this form is used in conjunction with other forms to provide a comprehensive patient record. Before filling out this form, please ensure that the patient has given consent for this information to be recorded. Please review the form carefully to ensure that you are filling it out completely and accurately.
-</thinking>
-
 # Vaccination Record Form - Help Guide
 ## Purpose
 This form is used to record and document vaccination information for patients. Please fill out this form for patients who have received vaccinations.

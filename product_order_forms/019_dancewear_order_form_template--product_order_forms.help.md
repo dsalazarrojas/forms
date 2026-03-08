@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers for dancewear orders. It is intended for dancewear shops or studios to use as a template for taking orders from customers. The form asks for customer information, dance class preferences, product choices, shipping address, and order confirmation.
-
-The form was created based on publicly available metadata about dancewear surveys and forms, and is not affiliated with or derived from any specific form platform. It is released under CC BY 4.0 and can be freely used, modified, and even sold, as long as credit is given.
-
-</thinking>
-
 # Dancewear Order Form Template - Help Guide
 ## Purpose
 

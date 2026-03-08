@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess the spiritual well-being of patients in a hospice care setting. It is intended to gather information on a patient's spiritual history, supports, beliefs, and practices, as well as their spiritual needs and state. This form is likely used by healthcare professionals in a hospice care setting to better understand the patient's spiritual needs and preferences, which can inform their care and support.
-
-Before proceeding, please note that this form is designed to be a starting point for further discussion and assessment. The answers provided here should not be considered definitive or absolute, and should be used in conjunction with the patient's overall medical and care plan.
-
-This form may not be applicable to every patient, and its completion is not mandatory. Please use your clinical judgment to determine the suitability of this form for each patient.
-
-</thinking>
-
 # hospice_spiritual_assessment_form - Help Guide
 ## Purpose
 This form is designed to gather information on a patient's spiritual well-being in a hospice care setting.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from event organizers and photographers for public event photography contracts. It's intended to be used when an event is open to the general public, allowing multiple photographers to capture moments and share them on various platforms. This form helps in standardizing the contract process, ensuring both parties are on the same page regarding event details, photographer responsibilities, and payment terms. It's a crucial document to have for events where many people will be capturing moments, to protect both the event organizers and photographers.
-
-</thinking>
-
 # public_event_photography_contract_form - Help Guide
 ## Purpose
 This form is used to collect information for public event photography contracts, ensuring both event organizers and photographers are aware of their responsibilities and expectations.

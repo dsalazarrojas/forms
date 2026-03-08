@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information and consent from parents for newborn photography services. It includes fields for the studio's photography information, parent information, model release, terms and conditions, signature, studio address, photographer's name, phone number, email, studio license, shoot date and time, and client information. The form is likely used to onboard new clients and ensure that parents understand the terms and conditions of the photography services. Before creating this guide, I will review the form structure and field requirements to ensure that the explanations are accurate and clear.
-
-</thinking>
-
 # Newborn Photography Consent - Help Guide
 ## Purpose
 This form is used to collect information and consent from parents for newborn photography services. It helps the photography studio to onboard new clients and ensure that parents understand the terms and conditions of the services.

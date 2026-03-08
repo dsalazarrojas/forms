@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from clients for a maternity photo session. It's essential to ensure that all required fields are completed accurately and thoroughly to avoid any potential issues or misunderstandings during the session. Please review this guide carefully before starting the form to understand what each field is for and how to complete it correctly.
-
-To ensure accurate and relevant information is collected, please do not proceed with the form if you've filled out a similar form recently or if you're unsure about any of the fields. If you have any questions or concerns, feel free to reach out to the photographer for clarification.
-</thinking>
-
 # Maternity Session Questionnaire - Help Guide
 ## Purpose
 The Maternity Session Questionnaire is designed to gather essential information from clients for a smooth and enjoyable maternity photo session experience. This guide will walk you through each field to help you complete the form accurately and effectively.

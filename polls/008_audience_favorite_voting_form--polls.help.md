@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from attendees of a performance or event, allowing them to express their opinions on various aspects of the event. The form includes fields for demographic information, such as the attendee's name and email, as well as fields for rating the event's performances, design, and overall experience. Attendees can also provide additional comments and suggestions. The form's purpose is to gather feedback that can be used to improve future events.
-</thinking>
-
 # Audience Favorite Voting Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from attendees of a performance or event.

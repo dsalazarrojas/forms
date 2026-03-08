@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # police_patrol_log_form - Help Guide
 ## Purpose
 The **police_patrol_log_form** is a form used to document and record the details of a police patrol shift, including officer identity, shift start and end times, incident details, and other relevant information. This form is essential for maintaining accurate records and facilitating communication between officers and dispatchers.

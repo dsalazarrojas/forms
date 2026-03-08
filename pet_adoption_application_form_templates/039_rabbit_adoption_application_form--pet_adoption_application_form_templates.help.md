@@ -1,7 +1,3 @@
-<thinking>...
-The form was generated for the "pet_adoption_application_form_templates" category, likely for organizations or individuals involved in rabbit adoption. Its purpose is to collect information about potential adopters, rabbits' characteristics, and suitability assessment for adoption. The form aims to ensure adopters are suitable for rabbit ownership and understand the adoption process.
-...</thinking>
-
 # Rabbit Adoption Application Form - Help Guide
 ## Purpose
 The Rabbit Adoption Application Form is a tool designed to gather necessary information from potential adopters to facilitate a successful rabbit adoption process.

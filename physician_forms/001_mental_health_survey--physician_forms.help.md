@@ -1,10 +1,3 @@
-<thinking>
-A mental health survey is a form designed to assess an individual's mental health status. This survey is used to gauge a person's well-being, mood, and psychological status at a specific point in time. The survey typically includes questions that inquire about symptoms such as anxiety, depression, and other mental health concerns. 
-In this mental health survey, you will be asked questions to assess your mental health status across multiple dimensions.
-This form is meant to help healthcare professionals gain insights into your mental health and provide you with resources and support if necessary. Please be aware that your answers will be treated confidentially.
-
-</thinking>
-
 # Mental Health Survey - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals understand your mental health status, allowing them to provide you with the most suitable support and resources.

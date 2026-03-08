@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Personalized-Mug-Order-Form is used to collect information from customers for ordering personalized mugs. This form is designed to gather relevant details such as customer name, product features, shipping method, order date and time, payment method, customer email, and customer phone number. Please note that this form is not intended to be a comprehensive order form for all types of products, but specifically for ordering personalized mugs. If you are unsure about any information or have already filled out a similar form, please review the form carefully to avoid duplication of effort.
 
 </thinking>

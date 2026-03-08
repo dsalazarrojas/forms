@@ -1,7 +1,3 @@
-<thinking>
-The Event Photography Contract form is designed to capture essential information for an event, including the event details, the client's information, and the services offered by the photographer. This form aims to standardize the process of collecting necessary data for event photography services. To ensure that the form is filled out correctly, it's essential to understand each field's purpose and requirements. The goal is to gather accurate and complete information for a seamless event experience.
-</thinking>
-
 # Event Photography Contract - Help Guide
 ## Purpose
 This form is used to capture essential information for event photography services.

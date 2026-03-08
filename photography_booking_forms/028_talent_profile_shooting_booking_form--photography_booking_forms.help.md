@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information for photography shoots, likely for a talent agency or management platform. The form captures details about the shoot, including the date, location, photographer, and other relevant information. The fields include date and time options, text fields for location and photographer names, and selection options for shoot type and status. The form does not appear to require any personally identifiable information. This form is likely used in conjunction with other tools or platforms for managing photography shoots.
-
-Please note that this form is AI-generated and does not contain any proprietary content from any form platform. It is released under a Creative Commons license, allowing users to modify and distribute it freely.
-
-</thinking>
-
 # Talent Profile Shooting Booking Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for a photography shoot, including date, time, location, and other relevant details.

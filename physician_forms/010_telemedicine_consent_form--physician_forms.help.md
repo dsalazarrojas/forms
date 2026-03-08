@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be used in a telemedicine setting, where a patient can provide their consent for remote treatment. This form is likely used to ensure that patients understand their rights and responsibilities during telemedicine consultations. 
-
-This form may be used in various settings, such as private practice clinics, hospitals, or healthcare systems. It is not intended to be used in non-telemedicine settings, such as in-person doctor visits. 
-
-To avoid duplication, please ensure that this form is not used for the same purpose as other forms already existing in your healthcare system. 
-
-</thinking>
-
 # telemedicine_consent_form - Help Guide
 ## Purpose
 The Telemedicine Consent Form is a document that a patient must complete before participating in a telemedicine consultation. This form ensures that patients understand their rights and responsibilities during telemedicine consultations and obtain their informed consent to proceed.

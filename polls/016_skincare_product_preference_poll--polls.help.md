@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Skincare Product Preference Poll" form, I will first consider the internal reasoning behind the form's purpose and ensure it aligns with the provided YAML fields. The form seems to be designed to gather information on users' skincare habits, preferences, and experiences. It appears to be a survey-style form, likely intended for market research or user insights.
-
-To confirm, I will consider the following points:
-
-* The form has various sections, such as introduction, preferred products, daily routine, purchase habits, and product preferences, which cover a range of topics related to skincare.
-* There are multiple selection-based fields (select_multiple, select_one) for users to indicate their preferences or habits.
-* Some fields are marked as required, indicating that users must provide an answer.
-* The form does not seem to ask for personal or sensitive information, making it likely a non-sensitive survey.
-
-Given this analysis, I assume that the form's purpose is to gather user insights on skincare habits, preferences, and experiences for research or business purposes.
-
-</thinking>
-
 # Skincare Product Preference Poll - Help Guide
 ## Purpose
 The Skincare Product Preference Poll form is designed to collect information about your skincare habits, preferences, and experiences. This survey aims to gather insights that can help us understand your needs and preferences in the skincare industry.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for a physician to refer a patient to another doctor, which is a common practice in the healthcare industry. The form is used to collect necessary information about the patient and the referring physician. The form is likely to be used by healthcare organizations, insurance companies, or medical facilities for referral purposes. Before filling out this form, ensure that you have reviewed the patient's medical history and obtained their consent to share their information with the referred doctor. Additionally, double-check that the referred doctor is the correct specialty for the patient's condition.
-</thinking>
-
 # physician_referral_form - Help Guide
 ## Purpose
 This form is used for a physician to refer a patient to another doctor. It collects necessary information about the patient and the referring physician, allowing the referring physician to provide the best possible care for the patient.

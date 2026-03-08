@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Municipal Referendum Voting Form - Help Guide
 
 ## Purpose

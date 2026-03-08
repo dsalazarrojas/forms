@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the health examination of a patient. The purpose of this form is to gather relevant medical history, symptoms, and test results to aid in the diagnosis and treatment of the patient. This form should only be completed by authorized medical professionals for official medical purposes. Please ensure that you have the necessary permissions and clearance to access and use this form. If you are unsure, do not proceed with completing this form.
-</thinking>
-
 # health_examination_form - Help Guide
 ## Purpose
 This form is used to gather information for the health examination of a patient. It is designed to collect relevant medical history, symptoms, and test results to aid in the diagnosis and treatment of the patient.

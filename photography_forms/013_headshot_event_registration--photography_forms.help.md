@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a photography event, specifically for an event registration process. This form is designed to gather necessary details about the event and its attendees, and also to obtain the attendee's consent for participating in the event. The form is intended to be completed by individuals who are interested in attending or have already registered for the event. Please note that the form should not be completed by individuals who are not attending or have not yet registered for the event.
-</thinking>
-
 # headshot_event_registration - Help Guide
 ## Purpose
 The headshot_event_registration form is designed to collect necessary information for a photography event registration process. It includes details about the event, attendees, and consent for participation.

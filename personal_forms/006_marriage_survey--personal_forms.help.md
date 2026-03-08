@@ -1,5 +1,3 @@
-<thinking>...The goal of this form is to collect information on marriage-related data for analysis and reporting. The fields are designed to gather basic details about the individual's marital status, number of children, income, and family structure. This form is intended to be completed by individuals, possibly for research, demographic studies, or other purposes where such data is relevant. Please ensure this form is completed by the correct audience and that data is not duplicated or misinterpreted.</thinking>
-
 # Marriage Survey - Help Guide
 
 ## Purpose

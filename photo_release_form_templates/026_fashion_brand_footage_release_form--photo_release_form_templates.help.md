@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to obtain consent for fashion brand footage usage from individuals who have participated in photo shoots, fashion shows, or other events. The form is intended to ensure that all participants understand how their recorded footage will be used by the fashion brand. It's crucial to complete this form accurately and thoroughly to avoid any confusion or disputes in the future.
-
-The form will be used internally within the fashion brand to collect necessary information, verify the identity of the individuals, and record their consent for various purposes such as campaigns, social content, and brand promotions.
-
-Before filling out this form, ensure that you are the intended individual and that you haven't completed this form previously.
-
-</thinking>
-
 # fashion_brand_footage_release_form - Help Guide
 ## Purpose
 The fashion brand footage release form is used to obtain consent for the usage of recorded footage from participants in photo shoots, fashion shows, and other events. This form ensures that individuals understand how their footage will be used and gives the fashion brand the necessary permissions to use it.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to allow users to create a Secret Santa wish list, which is a fun and interactive way to exchange gifts during the holiday season. The form gathers information from users about their gift preferences and recipient details, making it easier for them to receive a gift they'll appreciate.
-
-The form is intended for users to fill out individually, and it's essential to ensure each user only fills out their own form once to avoid confusion and duplicates. Please complete the form carefully and accurately, and do not fill out someone else's form.
-</thinking>
-
 # Secret Santa Wish List Form - Help Guide
 ## Purpose
 The Secret Santa Wish List Form is a tool for users to submit their gift preferences and recipient information to facilitate the Secret Santa gift exchange process.

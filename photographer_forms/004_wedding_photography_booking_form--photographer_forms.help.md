@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential clients or customers interested in booking a wedding photography service. The form will be used by the photography team to gather essential details about the wedding date, location, number of guests, contact information, and other relevant details to ensure a successful and enjoyable experience for the couple.
-
-</thinking>
-
 # Wedding Photography Booking Form - Help Guide
 ## Purpose
 This guide will walk you through the process of filling out the Wedding Photography Booking Form, so you can provide us with the necessary details to create a custom and memorable experience for your special day.

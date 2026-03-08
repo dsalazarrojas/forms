@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about the host and participant of an event, as well as the photographer and their release information. The form is meant to be filled out by the event host, participant, or photographer to provide legal release information. This form should not be used for general event promotion or registration purposes, but rather for specific legal releases.
-
-Before filling out this form, ensure that you have the necessary permissions and approvals from all parties involved.
-
-When completing this form, please fill out all required fields and make sure to enter accurate and up-to-date information.
-
-The fields are as follows:</thinking>
-
 # Host Event Legal Release Authorization - Help Guide
 ## Purpose
 The Host Event Legal Release Authorization form is a legal document that provides release information for event hosts, participants, and photographers. It's essential to complete this form to ensure that all parties involved in the event have given their legal release consent.

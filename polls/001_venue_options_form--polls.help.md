@@ -1,6 +1,3 @@
-<thinking>
-To avoid duplication, this form should only be used when creating new venue options. The purpose of this form is to collect information about the characteristics of a venue, including its availability, type, costs, and amenities. The form is divided into several sections, including venue options, costs, and contact information. It is not meant to be used for editing or modifying existing venues.
-</thinking>
 # Venue Options Form - Help Guide
 ## Purpose
 The Venue Options Form is a tool used to collect information about the characteristics of a venue when creating new venue options. It is essential to fill out the form accurately to ensure that the venue's details are properly recorded in the system.

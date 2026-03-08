@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photography Retainer Contract Form - Help Guide
 
 ## Purpose

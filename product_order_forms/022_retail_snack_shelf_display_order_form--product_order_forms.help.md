@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Snack Shelf Display Order Form - Help Guide
 ## Purpose
 This form is designed to capture information about retailers' snack shelf display orders. Retailers can use this form to provide details about their orders, including retailer information, delivery information, merchandising details, and additional notes.

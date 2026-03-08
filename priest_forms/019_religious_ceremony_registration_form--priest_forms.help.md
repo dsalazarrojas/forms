@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information about a religious ceremony, which can be used for administrative or record-keeping purposes. This form will help users register a ceremony by providing a title, date, time, venue, officiant, ceremony type, and a brief description. The form is intended for internal use and should not be shared with external parties. Please note that the form is not intended for public display, and the data entered will be stored for internal records only.
-</thinking>
-
 # religious_ceremony_registration_form - Help Guide
 ## Purpose
 The form is used to register a religious ceremony. It captures the essential details of the ceremony, including title, date, time, venue, officiant, ceremony type, and a brief description.

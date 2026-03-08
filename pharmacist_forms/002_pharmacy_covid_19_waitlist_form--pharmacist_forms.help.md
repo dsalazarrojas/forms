@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pharmacy COVID 19 Waitlist Form - Help Guide
 ## Purpose
 This form is designed to manage the COVID-19 waitlist for pharmacies, allowing you to add or remove patients from the waitlist, and provide information about their status.

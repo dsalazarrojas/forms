@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users understand how to complete the COVID-19 Vaccination Card Upload Form, a form used to upload information and documentation from a vaccination card. This form is designed to ensure accurate and efficient data collection for vaccination records.
-
-Before proceeding, please confirm that you have a valid reason to use this form and that you have not submitted this form previously.
-
-This guide will walk you through each step of the form, explaining each field and its purpose in detail.
-
-</thinking>
-
 # COVID 19 Vaccination Card Upload Form - Help Guide
 ## Purpose
 This form is designed to gather accurate and up-to-date information from your COVID-19 vaccination card. Please fill in the required fields accurately, and upload a clear photo or scan of your vaccination card.

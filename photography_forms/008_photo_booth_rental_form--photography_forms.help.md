@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photo Booth Rental Form - Help Guide
 
 ## Purpose

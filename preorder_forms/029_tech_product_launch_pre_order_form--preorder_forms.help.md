@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users who want to preorder a tech product. It's crucial to note that the form is not intended for existing customers but rather for new customers interested in purchasing a product before its official launch. This form will help our team prepare for the launch by gathering essential details about our potential customers, including their name, contact information, and shipping details. It's essential to fill out this form accurately to ensure that we can reach out to you with updates and confirm your preorder details. Please note that filling out this form does not guarantee a preorder, and our team will review and follow up with you to confirm your interest.
-</thinking>
-
 # Tech Product Launch Pre Order Form - Help Guide
 
 ## Purpose

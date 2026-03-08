@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for pre-ordering items for a specific date, likely related to Valentine's Day. It's designed to capture information from customers for their first name, last name, phone number, email, date of birth, pre-order date, pre-order items, and any additional notes. This form is not meant for internal use within the organization and is likely used for customers or external users. There is no indication that this form is duplicated or redundant with other forms in the context of pre-ordering items for Valentine's Day.
-</thinking>
-
 # valentines_day_pre_order_form - Help Guide
 ## Purpose
 The valentines_day_pre_order_form is designed to collect information from customers for pre-ordering items on a specific date, likely for Valentine's Day.

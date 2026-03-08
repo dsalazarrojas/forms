@@ -1,6 +1,3 @@
-<thinking>
-We should ensure that the Photographer Onboarding Form is used only for its intended purpose, which is to gather information about photographers who want to work with our company. This form should not be used for other purposes, such as general inquiries or feedback. Each field in the form is designed to collect specific information that will help us assess the photographer's qualifications and fit for working with us. By carefully following the instructions and guidelines in this help guide, you should be able to complete the form accurately and efficiently.</thinking>
-
 # Photographer Onboarding Form - Help Guide
 ## Purpose
 The Photographer Onboarding Form is designed to collect information about photographers who want to work with our company. This form helps us to evaluate a photographer's qualifications, experience, and availability, and to determine if they are a good fit for our projects.

@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll review the form purpose and fields to ensure I understand its intended use. The form is for tracking weekly retail performance, and it appears to be quite detailed, covering various aspects such as sales, transactions, foot traffic, inventory status, and store manager information. I'll focus on creating a clear and concise help guide that explains each field's purpose and requirements.</thinking>
-
 # Weekly Retail Performance Report - Help Guide
 ## Purpose
 

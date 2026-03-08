@@ -1,5 +1,3 @@
-<thinking>Medical reimbursement claims can be a complex and time-consuming process for healthcare providers. To help streamline this process, we have designed the Medical Reimbursement Claim Form to gather essential information from healthcare providers, including patient data, medical details, and claim specifics. The form should only be used for legitimate claims and should not be duplicated or altered in any way. Ensure that all required fields are accurately filled in to avoid delays or claim rejection.</thinking>
-
 # Medical Reimbursement Claim Form - Help Guide
 ## Purpose
 The Medical Reimbursement Claim Form is used to submit medical claims to insurance providers and other relevant parties. It captures essential patient and medical information, along with claim specifics and submission details.

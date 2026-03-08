@@ -1,9 +1,3 @@
-<thinking>Before we dive into the help guide, let me quickly review the form purpose and fields to ensure it's clear and concise. The form is called "precision-balancing-weight-order-form" and it seems to be a order form for weights, likely used in a business or commerce context. It has 25 fields in total, divided into several categories such as weight classes, customer information, order details, and payment and shipping information. The form appears to be designed for precision-balancing weights, which likely involves calculating the total quantity of weights, shipping details, and payment methods.
-
-Upon reviewing the form fields, it seems that most fields are required except for "order_comments" and "customer_signature", "special_instructions", "signature_date", and "customer_verified" are not mandatory. The required fields are "weight_classes", "selected_class", "weight_unit", "quantity", "order_date_time", "contact_number", "customer_name", "customer_email", "shipping_date", "total_quantity", "shipping_total", "payment_method", "customer_verified", "order_status", "shipping_status", "shipping_method", and "signature_date" fields. The form also has various type of fields such as select, select_multiple, select_one, date, text, and number.
-
-With this in mind, let's create a user-friendly help guide for this form.</thinking>
-
 # precision-balancing-weight-order-form - Help Guide
 ## Purpose
 This form is designed to collect information for precision-balancing weights orders. It's used to calculate the total quantity of weights, shipping details, and payment methods.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to allow customers to pre-order products before they are available on the market. The form captures customer's personal details and information about their pre-order preferences. The form will help us better understand customer demand and preferences for the product before it is released. This form will not be used for any other purpose than to gather pre-order information for the product. Please ensure that you have the necessary permissions to complete this form on behalf of the customer. 
-
-</thinking>
-
 # Pre Order Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This help guide will be used to assist end-users in understanding how to complete the Couples Survey form, which is designed to gather information about a couple's relationship dynamics. The form is meant to provide insight into the couple's communication style, conflict resolution, and overall relationship satisfaction. To ensure the form is completed accurately and effectively, we must consider the following:
-
-1.  Ensure the form is relevant to the user's situation and not a duplicate effort.
-2.  Review the form's questions and options to understand how they pertain to a couple's relationship.
-3.  Complete the form carefully, considering each question's significance and the options provided.
-
-</thinking>
-
 # Couples Survey - Help Guide
 ## Purpose
 The Couples Survey is a form designed to gather information about a couple's relationship dynamics, focusing on communication style, conflict resolution, and overall relationship satisfaction. This form will help you gain insight into your relationship and provide valuable information for growth and improvement.

@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that this form is well-understood by end-users, so let's go over the purpose and requirements of the "Personal Trainer Review Publication Consent Form". This form is meant to collect user testimonials, ratings, and consent for publishing their review on various social media channels. It is crucial to have a clear understanding of each field to provide accurate and reliable data.
-
-This form appears to be designed to collect feedback from individuals who have interacted with a personal trainer, either in-person or virtually. The form aims to capture the quality of service provided by the personal trainer, as well as the user's willingness to share their positive (or negative) experience with the public. The review will be published on selected social media platforms, ensuring that the user's consent and contact information are collected for proper publication.
-
-We'll be using the provided YAML to guide us in creating a clear and concise help guide for the form.
-
-</thinking>
-
 # Personal Trainer Review Publication Consent Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information about a person's personal preferences and characteristics. It is intended to be used for survey or research purposes and is not affiliated with any form platform.

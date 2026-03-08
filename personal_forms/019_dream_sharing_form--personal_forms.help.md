@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect users' dreams, allowing them to share their thoughts, ideas, and experiences related to their dreams. This form has a single field for each section, and users are required to fill out one field (Part 2) and can optionally fill out the others. The form is intended for personal use and does not collect any sensitive or personal identifying information. The form's design and fields are meant to be simple and straightforward, making it easy to use and fill out.
-</thinking>
-
 # Dream Sharing Form - Help Guide
 ## Purpose
 The Dream Sharing Form is designed to collect users' personal experiences and thoughts related to their dreams. This form allows users to share their ideas, emotions, and insights in a simple and private way.

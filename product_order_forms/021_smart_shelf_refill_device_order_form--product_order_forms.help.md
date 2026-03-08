@@ -1,7 +1,3 @@
-<thinking>
-This form is used to order refills for a Smart Shelf device. It's essential to fill out this form accurately to ensure that your device is refilled correctly and shipped promptly. Please review the form carefully to ensure you're providing the necessary information. This form is meant to be filled out once for each order, so please do not submit duplicate orders. If you have any questions or need help, contact us directly.
-</thinking>
-
 # Smart Shelf Refill Device Order Form - Help Guide
 ## Purpose
 The Smart Shelf Refill Device Order Form is used to place an order for a Smart Shelf device refill. To complete the form, follow the instructions below.

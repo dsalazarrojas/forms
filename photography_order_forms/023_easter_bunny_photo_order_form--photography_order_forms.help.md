@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be a comprehensive guide for users to place an order for a photography session, specifically the Easter Bunny photo shoot. It collects various details about the photo shoot, including the date and time, location, and preferences for the photos. The form also captures contact information for the person placing the order and details about the payment method.
-
-</thinking>
-
 # Easter Bunny Photo Order Form - Help Guide
 ## Purpose
 The Easter Bunny Photo Order Form is designed to collect information for a photography session, specifically the Easter Bunny photo shoot. Please fill out this form carefully to ensure that all necessary details are provided.

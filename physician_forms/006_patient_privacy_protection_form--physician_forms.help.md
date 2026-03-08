@@ -1,7 +1,3 @@
-<thinking>
-A patient privacy protection form is a crucial tool for medical facilities to safeguard sensitive patient information and ensure HIPAA compliance. To ensure accuracy and clarity, this form should be completed by the patient (or a designated representative) in conjunction with a medical provider. Please verify that the patient's information is accurate and up-to-date. This form should not be used as a duplicate or replacement for other medical records, such as patient charts or electronic health records.
-</thinking>
-
 # Patient Privacy Protection Form - Help Guide
 ## Purpose
 The Patient Privacy Protection Form is used to collect and document sensitive patient information, ensuring confidentiality and protecting patient privacy according to HIPAA regulations.

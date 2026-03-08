@@ -1,8 +1,3 @@
-<thinking>
-  This form is intended to collect information from employees on various aspects of their workplace experience, including their general information, contact details, concerns, management response, labor unions, employee advocacy groups, and employee assistance programs. The form is designed to be completed by employees to provide feedback and suggestions to management on ways to improve their workplace experience. This form will help management understand the needs and concerns of employees and provide a platform for employees to express their opinions on various aspects of their workplace.
-  To avoid duplication, this form is not intended to replace other communication channels, such as regular feedback meetings or employee suggestions boxes. This form is meant to supplement these channels and provide an additional way for employees to express their thoughts and ideas.
-</thinking>
-
 # Workplace Petition Form - Help Guide
 ## Purpose
 The Workplace Petition Form is designed to collect information from employees on various aspects of their workplace experience. This form will help management understand the needs and concerns of employees and provide a platform for employees to express their opinions on various aspects of their workplace.

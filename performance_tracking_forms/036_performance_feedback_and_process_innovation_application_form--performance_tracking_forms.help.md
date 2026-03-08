@@ -1,10 +1,3 @@
-<thinking>
-This guide is for users who need to fill out the Performance Feedback And Process Innovation Application Form. Before proceeding, please ensure that this form is the correct one for your needs, and that you have not already submitted this form or a similar one. If you're unsure, please check with your supervisor or the relevant department.
-
-The purpose of this form is to gather information on performance metrics, process innovations, and other related details. It's essential to provide accurate and truthful information to ensure the form's data is reliable and useful for future reference.
-
-</thinking>
-
 # Performance Feedback And Process Innovation Application Form - Help Guide
 ## Purpose
 The Performance Feedback And Process Innovation Application Form is a tool used to gather feedback on performance metrics and process innovations. This form is crucial for the department to track and evaluate performance and suggest improvements for future processes.

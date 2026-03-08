@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients who wish to rent photography equipment. 
-The form will be used to gather contact information from the client, details about the equipment they wish to rent, and the specifics of the rental period. 
-The information collected through this form will be used to facilitate communication and organization of rental processes. 
-The field "Equipment Type" is meant to determine if the client is willing to rent equipment or not. 
-The field "Rental Duration" is meant to measure the time for which the equipment is being rented. 
-The field "Photographer" is a field meant for photographers who will be using this form but not the primary client, so it will be mainly used for internal purposes.
-
-</thinking>
-
 # Photography Equipment Rental Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients who wish to rent photography equipment.

@@ -1,5 +1,3 @@
-<thinking> ... </thinking>
-
 # Gas Boiler Replacement Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for gas boiler replacement requests. It is intended for customers or users who need to replace their gas boiler and want to provide details about the replacement process.

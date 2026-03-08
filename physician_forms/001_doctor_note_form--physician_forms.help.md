@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to document a doctor's notes for a patient, including the patient's name, the doctor's name, the date of the visit, the reason for the visit, and any other relevant medical information or notes. The form is meant to be completed by a doctor or medical professional to keep a record of the patient's medical history and any treatments or medications administered. It's likely used in a clinical setting, such as a hospital or private practice.
-
-Before starting to complete this form, check that it's not a duplicate of another form. If it is, please do not complete it.
-
-</thinking>
-
 # Doctor Note Form - Help Guide
 ## Purpose
 This form is designed to capture a doctor's notes for a patient, including key details about the patient, the doctor, and the reason for the visit. It's intended to be completed by a medical professional and serves as a record-keeping tool for the patient's medical history.

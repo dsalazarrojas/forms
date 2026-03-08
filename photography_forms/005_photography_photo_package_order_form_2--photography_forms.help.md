@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from users regarding the details of a photography event or project. It collects data on the event type, date, time, location, and other relevant details such as the number of guests and the photographer involved. The form also inquires about the photo package and services required, including photo sessions, editing, deliveries, retouching, and print services. It is essential to ensure that all required fields are completed accurately to avoid any potential issues with the order.
-
-</thinking>
-
 # Photography Photo Package Order Form 2 - Help Guide
 ## Purpose
 This form is designed to gather information about a photography event or project, ensuring that all necessary details are captured for efficient and accurate processing.

@@ -1,7 +1,3 @@
-<thinking>
-Petition For Improved Veteran Services form is used to gather feedback and suggestions from veterans and their family members regarding the services provided by the organization. Before submitting, please check if a similar petition has been submitted previously to avoid duplication. This form is intended to help the organization understand the community's needs and improve services accordingly.
-</thinking>
-
 # Petition For Improved Veteran Services - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from veterans and their family members regarding the services provided by the organization. Your input will help us improve our services and better serve the community.

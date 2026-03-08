@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and information about a Little League season. This form is likely used by coaches, managers, or other team officials to gather information about player attendance, performance, and feedback. It is likely used to keep track of team statistics and performance metrics. This form is not meant for use during regular gameplay, but rather as a post-game evaluation tool. This guide will help you understand what each field means and how to complete it correctly.
-</thinking>
-
 # Little League Season Feedback Form Template - Help Guide
 ## Purpose
 This form is designed to collect feedback and information about a Little League season. It is used to gather data on player attendance, performance, and suggestions for improvement.

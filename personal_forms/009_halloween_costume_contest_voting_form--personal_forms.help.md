@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for users to vote for their favorite costumes in a Halloween contest. This form is designed to be user-friendly, with a clear and concise layout that allows users to easily select the best costume from a list of options and provide feedback about the contestants. It is possible that similar forms exist, but it is assumed that each form will have a unique set of features based on the user's preferences, so no duplication is considered a risk.
-
-The purpose of this form is to collect votes and comments from users, so it is expected that users will be able to navigate the form without issue. However, to ensure that users understand the form and its fields, a detailed explanation is provided below.
-</thinking>
-
 # Halloween Costume Contest Voting Form - Help Guide
 ## Purpose
 The Halloween Costume Contest Voting Form is designed to allow users to vote for their favorite costumes in a fun and easy-to-use interface. The form collects the user's vote, their preferred contestant's name, email (if provided), phone number (if provided), and a brief explanation of why they like the costume.

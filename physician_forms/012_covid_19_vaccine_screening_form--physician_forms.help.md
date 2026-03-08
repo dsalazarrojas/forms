@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Vaccine Screening Form - Help Guide
 ## Purpose
 This form is designed to collect information for a COVID-19 vaccine screening. It helps to identify potential risks and allergies before administering the vaccine. The form is used by medical professionals to evaluate an individual's eligibility for vaccination.

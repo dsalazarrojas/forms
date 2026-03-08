@@ -1,7 +1,3 @@
-<thinking>
-I'll create a user-facing help guide for the "Medical Estimate Template" form. I'll analyze the provided YAML structure and provide a concise explanation of each field's purpose and functionality.
-</thinking>
-
 # Medical Estimate Template - Help Guide
 ## Purpose
 This form is designed to collect and process medical estimates in a structured and organized manner, helping healthcare providers, medical offices, or clinics streamline their workflow. 

@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's first understand the purpose and context of the COVID-19 Antibody Screening Consent Form. This form is used for patients to provide information about themselves and their medical history to facilitate the antibody screening process. It's essential to ensure patients understand the form's purpose and their role in the screening process. We'll use this form to guide patients through the process and address any questions or doubts they may have.</thinking>
-
 # COVID 19 Antibody Screening Consent Form - Help Guide
 ## Purpose
 The COVID-19 Antibody Screening Consent Form is a patient-facing form designed to gather essential information about a patient's medical history, reason for testing, and consent for antibody screening. This form helps healthcare providers understand the patient's eligibility for testing and ensure they are aware of the risks and benefits associated with the screening process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect post-operative information from patients after a surgical procedure. The form is designed to gather data about the patient's feedback, medical outcome, pain level, medication usage, and follow-up details. This information is essential for the healthcare team to assess the patient's recovery and make necessary adjustments to their care.
-</thinking>
-
 # Post Operative Questionnaire Form - Help Guide
 ## Purpose
 

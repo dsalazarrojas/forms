@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bible Study Registration Form - Help Guide
 
 ## Purpose

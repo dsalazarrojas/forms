@@ -1,15 +1,3 @@
-<thinking>
-We need to ensure that users understand the form's purpose and how it helps facilitate wildlife photography. This form is designed to request permission from wildlife organizations or landowners for taking photos of their property or the animals that live there. It helps to document the photo shoot, understand what is acceptable and not, and ensure that photographers and their organizations comply with any regulations or rules set forth by the owners.
-We need to consider the following:
-- Is the form being submitted to the right contact person (the contact's phone number or email is required).
-- Does the photographer understand what type of photography is allowed (General or Specific Event).
-- Are the photo subjects correctly listed (Wildlife, Landscapes, Flora, Fauna, or Other)?
-- Does the photographer know where and when the photos were taken (photo_location and photo_date fields)?
-- Can the photographer provide a brief description of the photos taken (photo_description)?
-- Is the permission valid until a specific date or time (permission_expiration_date and permission_expiration_time fields, if provided)?
-
-</thinking>
-
 # Wildlife Photography Permission Form - Help Guide
 ## Purpose
 This form is designed to request permission from wildlife organizations or landowners for taking photos of their property or the animals that live there. It helps to document the photo shoot, understand what is acceptable and not, and ensure that photographers and their organizations comply with any regulations or rules set forth by the owners.

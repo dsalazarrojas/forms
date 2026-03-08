@@ -1,7 +1,3 @@
-<thinking>
-  This guide is for users who need to fill out the "Photo Print Release Form Template" to provide necessary permissions and information for photo prints. This form is typically used by photographers and their clients to document the usage rights and permissions for printed photos. It's essential to fill out this form accurately to ensure that both parties have a clear understanding of the terms and conditions for using the printed photos.
-</thinking>
-
 # Photo Print Release Form Template - Help Guide
 ## Purpose
 The "Photo Print Release Form Template" is a document used to provide permissions and information for photo prints. It's essential for both photographers and their clients to understand the usage rights and permissions for the printed photos.

@@ -2,10 +2,6 @@
 
 ## Purpose
 
-<thinking>
-This poll is designed to gather opinions from students about their preferences for an online professional skills course. The form is intended to help us understand what type of course students would like to take, what they would prefer in terms of format, duration, language, and more. Please answer the questions honestly, and select all the options that apply to you. This will help us create a course that meets your needs and expectations.
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, simply follow these steps:

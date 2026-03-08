@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Campus Vehicle Policy Petition - Help Guide
 ## Purpose
 The purpose of this form is to collect signatures and supporting information from students, faculty, and staff on a particular issue related to vehicle policy on campus. The goal is to gather insights and data to inform decision-making regarding vehicle-related policies and practices.

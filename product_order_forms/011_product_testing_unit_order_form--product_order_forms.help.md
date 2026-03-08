@@ -1,7 +1,3 @@
-<thinking>
-This form is used for ordering product testing units, and it's designed for customers to provide information about their orders. The form includes fields for product details, test unit details, and customer contact information. To complete this form, follow the steps below.
-</thinking>
-
 # Product Testing Unit Order Form - Help Guide
 ## Purpose
 The Product Testing Unit Order Form is used for customers to provide information about the products they want to order for testing purposes. Please fill out the form with accurate and complete information.

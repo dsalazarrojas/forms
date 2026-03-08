@@ -1,17 +1,3 @@
-<thinking>
-To ensure we are not duplicating effort and to clarify the form's purpose:
-
-Dealership Maintenance Service Feedback Poll is designed for customers who have visited our dealership for maintenance services to provide us with feedback about their experience. This feedback is crucial to help us identify areas for improvement and provide better services in the future.
-
-This form is meant to be a brief and straightforward way for customers to share their honest opinions about their experience. We value customer feedback and use it to adjust our processes and improve overall satisfaction.
-
-The form collects information about the customer's experience, including their contact information, vehicle type, and specific details about their visit. We will be using this information to better serve our customers and enhance their future visits.
-
-We kindly ask that customers take a moment to complete this form and provide as much detail as possible so we can make the necessary changes to improve our services.
-
-Please let me know if any questions or concerns arise from this guide, and we'll be happy to address them.
-</thinking>
-
 # Dealership Maintenance Service Feedback Poll - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from customers who have visited our dealership for maintenance services. We use this feedback to improve our services and provide better experiences for our customers.

@@ -1,19 +1,3 @@
-<thinking>
-The form purpose is to collect information about individuals who are being assessed for eligibility for the Mpox vaccine. This includes demographic information such as age, sex, and travel history, as well as medical history, exposure risk, and vaccination status. The form will be used to determine the individual's eligibility for the vaccine and will help healthcare professionals make informed decisions about vaccination. The form is designed to be completed by healthcare professionals and will not be used as a standalone diagnosis tool. This form does not collect sensitive data that would normally require HIPAA compliance.
-
-Checking for relevance and non-duplication:
-
-Form "Mpox Vaccine Questionnaire" has a broad range of fields that cover different aspects of the assessment, including:
-- age and sex which are relevant and important demographic factors,
-- medical conditions, which is a critical part of the medical history assessment,
-- exposure risk and travel history which are essential for assessing the risk of exposure,
-- vaccination status, which is a critical factor in determining eligibility,
-- mpox_vaccinated and mpox_vaccination_status which are specific to the mpox vaccine.
-
-The form has a good balance of required and optional fields, which helps to ensure that all essential information is collected while keeping the form user-friendly. There are no duplicate fields that collect similar information.
-
-</thinking>
-
 # Mpox Vaccine Questionnaire - Help Guide
 ## Purpose
 The Mpox Vaccine Questionnaire is designed to collect information about individuals who are being assessed for eligibility for the Mpox vaccine. This form helps healthcare professionals make informed decisions about vaccination.

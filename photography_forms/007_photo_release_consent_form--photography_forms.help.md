@@ -1,7 +1,3 @@
-<thinking>
-The Photo Release Consent Form is used to obtain the owner's consent to use their photos. This form should only be used for internal purposes, and it's essential to ensure that the owner's consent is obtained before sharing their photos. Please check that you have not completed this form for the same photo release purpose before filling it out again. 
-</thinking>
-
 # Photo Release Consent Form - Help Guide
 
 ## Purpose

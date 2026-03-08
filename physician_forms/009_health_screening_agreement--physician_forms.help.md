@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect general information and health screening data from users. The purpose of this form is to gather essential details about the user's health status, medical conditions, and other relevant information. Before proceeding, please ensure that you are not duplicating efforts and that this form is being used for a valid reason. If you're unsure, consider the following questions: 
-- Is this form relevant to your current project or task?
-- Have you already collected similar data or used this form in the past?
-- Are you using this form for a genuine reason, such as patient data collection or research?
-</thinking>
-
 # health_screening_agreement - Help Guide
 ## Purpose
 This form is designed to collect general information and health screening data from users to gather essential details about their health status, medical conditions, and other relevant information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # regional_product_listing_request_form - Help Guide
 ## Purpose
 The regional_product_listing_request_form is used to request a new product to be listed in our regional product catalog. This form is used for both internal and external stakeholders to submit product information for review and potential inclusion in our product catalog. Please ensure you are using this form for its intended purpose and not duplicating efforts.

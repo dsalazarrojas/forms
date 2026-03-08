@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed for collecting information from potential sperm donors, aiming to gather medical and personal details relevant to the medical history of the individual. The form may be part of a larger screening process for sperm banks or fertility clinics. The repetition of "Medical History" fields suggests that the form is intended to collect specific and detailed medical information. The form's structure and content imply that it is a comprehensive and standardized document used for assessing the health and eligibility of individuals interested in becoming sperm donors. The purpose of this form is to ensure that each potential donor meets the necessary medical and health standards for donation. To avoid duplication, this form should be filled out by individuals who have not previously completed a similar questionnaire or have had any prior medical evaluations or screenings. If you are unsure, please consult with a medical professional or the relevant authority before proceeding.
-</thinking>
-
 # sperm_donor_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect detailed medical and personal information from potential sperm donors to ensure they meet the necessary health and eligibility standards for donation.

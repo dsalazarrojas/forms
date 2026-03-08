@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from participants in a photography competition. The form is designed to gather basic contact information, photo submission details, and other relevant data. Ensure that all required fields are filled out, and optional fields are not left blank if applicable.
-
-This form will be used to collect data from multiple users, so ensure that each user's form submission is unique. Avoid duplicating information or using placeholder values that do not accurately reflect the user's actual data.
-
-</thinking>
-
 # photography_competition_registration_form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants in a photography competition. It gathers basic contact information, photo submission details, and other relevant data.

@@ -1,12 +1,3 @@
-<thinking>
-Please ensure that this guide is reviewed and updated regularly to reflect any changes or updates to the form or its fields. Also, make sure to include a link to this guide in the form's footer or instructions section to direct end-users to this resource. It's also a good idea to have a clear call-to-action or instruction to encourage users to carefully review the form before submitting it. 
-
-The "COVID 19 Vaccination Clinic Registration Form" serves as an initial step in the COVID-19 vaccine registration process for patients at a clinic. This form is used to collect demographic and medical information necessary for vaccine administration, including patient contact details, medical history, and appointment preferences.
-
-This guide will help users navigate the form and understand each field's purpose.
-
-</thinking>
-
 # COVID 19 Vaccination Clinic Registration Form - Help Guide
 ## Purpose
 The COVID 19 Vaccination Clinic Registration Form is a crucial document that helps the clinic staff understand your medical history, contact information, and preferences for a smooth and efficient vaccination process.

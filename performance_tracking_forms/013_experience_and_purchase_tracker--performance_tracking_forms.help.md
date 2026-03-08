@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a customer's experience and purchase, including their contact information, purchase details, and feedback. This form is used to track a customer's interaction with the sales team and to monitor the customer's experience with the product or service. The information collected will help the sales team to better understand customer needs and preferences, and to improve the overall customer experience.
-
-This form is designed to be completed once after a customer has made a purchase, and will likely be used by the sales team to follow up with the customer and to track progress. 
-
-This form should not be used for other purposes, such as creating new customer accounts or making sales orders, as it is intended to be a follow-up and tracking tool. If you are unsure about the purpose of this form, please contact your supervisor or the sales team.
-</thinking>
-
 # Experience And Purchase Tracker - Help Guide
 ## Purpose
 The Experience And Purchase Tracker form is used to collect information about a customer's purchase and experience with our company. The form includes fields for customer contact information, purchase details, and feedback.

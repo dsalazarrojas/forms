@@ -1,12 +1,3 @@
-<thinking>...
-This form is designed for recording and tracking information about headaches, specifically the diary and medication history of a patient. The goal is to help healthcare providers understand the patient's medical history and make informed decisions about their care. The form has multiple pages, each with specific fields that gather detailed information about the patient's headaches. When completing this form, please ensure that you are accurately and completely filling out each field, especially if a field is marked as "required". 
-
-Please note that some fields are "select_one" or "select_multiple" and are designed to gather specific information from the available options. Select the one that best describes the patient's condition. 
-
-The form should not be used for multiple patients, as each patient's medical history and medication history are unique and should be treated as individual entries. 
-
-</thinking>
-
 # Headache Diary Form - Help Guide
 ## Purpose
 

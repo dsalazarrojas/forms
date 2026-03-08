@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for monitoring and reporting on the status of pets, typically for veterinarians or pet owners to assess and maintain the health and well-being of a pet over time. The purpose of this form is to gather information about a pet's name, breed, weight, condition, monitoring time, and monitoring notes, as well as contact information for follow-up actions. Before proceeding, please ensure you have not completed a similar form for this pet recently, as this form is meant for ongoing monitoring and reporting.
-</thinking>
-
 # Pet Monitoring Checklist - Help Guide
 
 ## Purpose

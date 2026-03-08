@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for talent (individuals or entities participating in a photo shoot) to release their image rights after a photo shoot. The purpose of this form is to ensure that the talent has given their consent to the use of their images by the production company. 
 
 It's essential to understand that this form should only be filled out once per shoot and by the correct talent, as each shoot and talent may have unique requirements. If you're unsure about filling out this form, please contact the production company.

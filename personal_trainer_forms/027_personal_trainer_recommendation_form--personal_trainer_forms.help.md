@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from users about their personal training needs, preferences, and availability. The form includes fields for first name, last name, email, phone number, fitness goals, available days, available time, best time to contact, preferred location, experience level, and preferred activities. The purpose of this form is to provide a personal trainer with the necessary information to tailor a customized fitness program for the user. By filling out this form, users will be able to provide the trainer with their personal details, allowing for a more effective and efficient workout plan. This form is designed to be completed by users who are seeking personalized guidance in their fitness journey.
-</thinking>
-
 # Personal Trainer Recommendation Form - Help Guide
 ## Purpose
 The Personal Trainer Recommendation Form is designed to be filled out by users seeking personalized guidance in their fitness journey. This form will help the personal trainer understand your needs, preferences, and availability to create a tailored workout plan just for you.

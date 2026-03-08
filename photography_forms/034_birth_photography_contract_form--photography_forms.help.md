@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to document the terms and conditions of a photography contract for birth photography services. The purpose of this form is to outline the photographer's and client's responsibilities, including details on photography service, deliverables, fees, payment terms, and photo rights.
-
-The form should be reviewed carefully by both the photographer and the client to ensure that all parties are clear on their roles and responsibilities. This form should not be used for photography services that are not related to birth photography. If you are unsure about any aspect of this form, please reach out to your photographer for clarification.
-
-</thinking>
-
 # Birth Photography Contract Form - Help Guide
 ## Purpose
 This form is a standard contract for birth photography services, outlining the terms and conditions for both the photographer and the client.

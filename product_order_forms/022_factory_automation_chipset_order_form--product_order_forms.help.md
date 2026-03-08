@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the essential information needed to process and fulfill orders for chipset products within the factory. It is crucial to understand the correct purpose and usage of this form to avoid duplication of efforts and to ensure accurate data capture. The form's purpose is to gather details about the company placing the order, the shipping address, the desired chipset selection, quantities, order notes, product order forms, email, phone number, category, and description. Ensuring that each field is accurately filled will help in providing the best possible service and experience for the customer.
-</thinking>
-
 # Factory Automation Chipset Order Form - Help Guide
 ## Purpose
 The Factory Automation Chipset Order Form is designed to gather essential information from customers to process and fulfill orders for chipset products in the factory.

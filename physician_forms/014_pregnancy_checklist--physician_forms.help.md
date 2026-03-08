@@ -1,5 +1,3 @@
-<thinking>This guide is intended for end-users who will be filling out the Pregnancy Checklist form. This form is designed to collect information about a pregnancy, including details about the expectant parents, due date, gestation age, fetal size, symptoms, medical information, complications, hospitalizations, birth weight, birth length, delivery type, birth date, blood type, and follow-up date. The form is likely to be used in medical settings to gather data about pregnancies for tracking and statistical purposes. It is essential to ensure that each question is answered accurately and thoroughly to provide a comprehensive record of the pregnancy.</thinking>
-
 # Pregnancy Checklist - Help Guide
 ## Purpose
 The Pregnancy Checklist is a form used to collect detailed information about a pregnancy, including expectant parents' details, due date, gestation age, symptoms, medical information, complications, and other relevant details.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This block is here to help ensure that the form is being filled correctly and that no one is duplicating an existing effort. When filling out this form, please ensure that:
 - You are aware of the purpose of the form and its relevance to the situation.
 - You are not duplicating an existing petition, as this form is intended to collect unique submissions.

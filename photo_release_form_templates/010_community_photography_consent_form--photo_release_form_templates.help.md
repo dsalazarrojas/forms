@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for obtaining informed consent from individuals or their guardians for photography and media usage. The form is used to ensure that participants understand how their images will be used and shared, and to obtain their consent for specific types of media and promotional activities. To prevent duplication, it's recommended to only submit the form once for each participant or event. 
-
-</thinking>
-
 # Community Photography Consent Form - Help Guide
 ## Purpose
 

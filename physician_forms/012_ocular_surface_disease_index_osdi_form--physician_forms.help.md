@@ -1,12 +1,3 @@
-<thinking>
-To create a helpful guide for end-users, let's first understand the purpose of the Ocular Surface Disease Index (OSDI) Form. This form is designed to collect information about a patient's ocular surface disease, which can be a challenging condition to diagnose and treat. The form is intended to provide a standardized way to gather relevant data on various aspects of ocular surface disease, such as general questions, tear film breakage, ocular surface disorders, redness/blurred vision, pain, tearing, and eye opening. This information is crucial for healthcare professionals to assess and diagnose ocular surface disease accurately.
-
-Before filling out the form, it's essential to note that some fields may be optional, and the user should only fill out the relevant sections. Additionally, the form is designed to be completed by a healthcare professional or a patient themselves, depending on the context.
-
-To ensure that the form is completed accurately and thoroughly, let's break down each section and its corresponding fields:
-
-</thinking>
-
 # Ocular Surface Disease Index (OSDI) Form - Help Guide
 ## Purpose
 The Ocular Surface Disease Index (OSDI) Form is designed to collect information about a patient's ocular surface disease. This information is crucial for healthcare professionals to assess and diagnose ocular surface disease accurately.

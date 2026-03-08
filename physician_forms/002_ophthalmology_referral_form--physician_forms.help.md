@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ophthalmology_referral_form - Help Guide
 
 ## Purpose

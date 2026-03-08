@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture information from clients interested in booking a session with a photography studio. The purpose of this form is to provide the studio with the necessary details to schedule and prepare for a session. This form is typically used by clients who are looking to book a session for various events or occasions such as weddings, portraits, or other special events.
-
-It's essential to note that this form is not used for general inquiries or feedback. To ensure that you provide the correct information, please carefully review the form sections below.
-
-To avoid duplication of efforts, please ensure that you have not already contacted the studio via other means before filling out this form.
-</thinking>
-
 # photography_studio_client_contact_form - Help Guide
 ## Purpose
 The photography studio client contact form is designed to collect information from clients interested in booking a session with the studio. The form helps the studio to understand the client's requirements and preferences to schedule and prepare for a successful session.

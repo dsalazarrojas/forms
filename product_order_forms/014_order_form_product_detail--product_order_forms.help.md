@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their product orders, which can be used for various business purposes such as sales analysis, customer support, and inventory management. The form should be completed by customers to provide accurate and complete information about their orders, ensuring that all required fields are filled in. Please note that this form may be part of a larger process, and the fields required may change based on the context in which the form is being used. 
-</thinking>
-
 # Order Form Product Detail - Help Guide
 ## Purpose
 The Order Form Product Detail is a form used to collect information from customers about their product orders.

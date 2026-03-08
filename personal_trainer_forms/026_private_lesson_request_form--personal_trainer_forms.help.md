@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting private lessons for students to schedule one-on-one or group classes with a private instructor. The form is used to capture the essential details about the private lesson, including type (Private or Group), start and end times, duration, student information (name, email, and phone), and other relevant notes. The form is designed to be flexible and not required fields are meant to capture optional but useful information. This form is meant to be filled out by students or clients to request private lessons, and the information collected will be used by instructors to manage and coordinate private lesson scheduling.
-</thinking>
-
 # Private Lesson Request Form - Help Guide
 ## Purpose
 This form is used to request private lessons with a private instructor. Please fill out this form with your details and an instructor will contact you to schedule a lesson.

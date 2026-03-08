@@ -1,7 +1,3 @@
-<thinking>
-We are introducing the "Petition To Stop Construction Form" to help concerned citizens express their opposition to ongoing or proposed construction projects in the area. Before filling out this form, please ensure you have not previously submitted a similar petition, as duplicate submissions may be disregarded. Ensure that your concerns are relevant and directly related to the construction project. The following guide will walk you through the form fields and provide you with necessary instructions to complete it accurately.
-</thinking>
-
 # Petition To Stop Construction Form - Help Guide
 ## Purpose
 The "Petition To Stop Construction Form" is designed to provide concerned citizens with a formal way to express their opposition to ongoing or proposed construction projects. This form helps to collect and document the concerns and objections of the community, which can be presented to relevant authorities for consideration.

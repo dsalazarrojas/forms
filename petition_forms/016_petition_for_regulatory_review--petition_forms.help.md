@@ -1,9 +1,3 @@
-<thinking>
-The form "Petition For Regulatory Review" is designed for stakeholders to submit their formal requests to regulatory bodies for review and approval. The form is intended to gather relevant information about the request, the contact details of the submitter, and any additional supporting documentation. 
-It's essential to ensure that the form is not submitted multiple times by the same individual for the same reason, as this could lead to duplication of effort and potential conflicts of interest. 
-Please review the form carefully and only submit if the request is genuine and has not been submitted previously. 
-</thinking>
-
 # Petition For Regulatory Review - Help Guide
 ## Purpose
 The "Petition For Regulatory Review" form is a formal request to regulatory bodies for review and approval of a particular action or decision. It is intended to gather information about the request, contact details of the submitter, and any additional supporting documentation.

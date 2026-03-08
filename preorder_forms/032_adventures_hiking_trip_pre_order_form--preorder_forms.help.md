@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adventures Hiking Trip Pre Order Form - Help Guide
 ## Purpose
 This form is for customers to pre-order their hiking trip, providing required information for the trip planning process. It is used to gather details about the customer's group, their preferred hiking trail, trip duration, difficulty level, and other relevant information to ensure a successful and enjoyable trip.

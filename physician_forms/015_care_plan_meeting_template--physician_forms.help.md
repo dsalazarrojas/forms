@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Care Plan Meeting Template - Help Guide
 ## Purpose
 This form is used to document and track care plan meetings between healthcare professionals and patients. It captures essential information about the patient's condition, goals, and treatment plans, ensuring a comprehensive and coordinated care approach.

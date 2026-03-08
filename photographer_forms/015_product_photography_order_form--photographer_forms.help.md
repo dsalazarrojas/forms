@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be for capturing order information from a photographer who is interested in offering their services to a client for product photography. It should cover the basics such as what type of product is being ordered, its name, the quantity, a contact name, email, and phone number.
-</thinking>
-
 # Product Photography Order Form - Help Guide
 ## Purpose
 This form is for photographers to capture information about the products they wish to photograph, their quantity, and contact details of the client. Fill out this form to provide the necessary information for your photography services.

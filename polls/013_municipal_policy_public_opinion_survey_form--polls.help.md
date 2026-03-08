@@ -1,12 +1,3 @@
-<thinking>
-The "Municipal Policy Public Opinion Survey Form" is designed to collect feedback from citizens on various aspects of municipal services and policies. The form is divided into multiple pages, each with a specific set of questions or fields that aim to gather information on different areas of interest.
-
-Before filling out the form, please ensure that the information you provide is accurate and up-to-date. If you have previously submitted feedback or surveys, you may be asked to confirm whether it's still relevant or if you have new information.
-
-Please note that some fields are optional, and you are not required to provide information if you don't feel comfortable doing so. However, providing your honest opinions and answers will help the municipal government better understand the needs and concerns of the community.
-
-</thinking>
-
 # Municipal Policy Public Opinion Survey Form - Help Guide
 
 ## Purpose

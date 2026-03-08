@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # X RAY Release Form - Help Guide
 ## Purpose
 This form is intended to be used to release X RAY images or data, and to obtain the necessary authorization from the patient's healthcare provider. The form should only be used to request access to medical images or data, not to obtain new medical treatment or consultation.

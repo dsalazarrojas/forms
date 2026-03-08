@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a family photography session. The purpose of this form is to ensure that we have all the necessary details to provide an excellent experience for the family. We will use this information to schedule the session and tailor it to your specific needs. Please fill out this form carefully and accurately, and make sure to provide any special requests or additional information that we may need to make the session a success.
-</thinking>
-
 # Family Photography Intake Form - Help Guide
 ## Purpose
 This form is intended to collect information for a family photography session. Please fill out this form carefully and accurately to ensure that we have all the necessary details to provide an excellent experience for the family.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users to understand their preferences and opinions. It's intended to be used for internal purposes and may be used to gauge user behavior, preferences, or opinions on a specific topic or product. The form is divided into several sections, each with its own set of questions or fields. This guide will walk you through each section and field to help you complete the form accurately and efficiently.</thinking>
-
 # Best Day Poll Survey - Help Guide
 ## Purpose
 The Best Day Poll Survey is a form designed to collect information from users to understand their preferences and opinions. It's intended to be used for internal purposes and may be used to gauge user behavior, preferences, or opinions on a specific topic or product.

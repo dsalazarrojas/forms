@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block: This form is used to track and report on employee performance progress in the organization. It is meant to be completed on a regular basis by supervisors or managers to provide an overview of an employee's performance during a specific reporting period. The form is designed to be flexible, allowing for multiple performance goals to be selected and actual performance to be reported as yes or no. It also includes a field for follow-up information, which can be used to note any necessary actions or deadlines. The form is not meant to be a comprehensive performance evaluation, but rather a tool to help track progress over time. 
-
-</thinking>
-
 # Employment Progress Report - Help Guide
 ## Purpose
 This form is used to track and report on employee performance progress in the organization during a specific reporting period.

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Pastoral Care And Support Form", we need to first understand its purpose and ensure that it's being used correctly. The form is designed to provide a space for individuals to seek pastoral care and support from a religious institution. It's essential to use this form correctly to ensure that the pastoral care team can provide the right kind of support and care to those who need it.
-</thinking>
-
 # Pastoral Care And Support Form - Help Guide
 ## Purpose
 The Pastoral Care And Support Form is designed to help individuals seeking pastoral care and support from our institution. Please take a few minutes to fill out this form, and we'll do our best to provide the care and support you need.

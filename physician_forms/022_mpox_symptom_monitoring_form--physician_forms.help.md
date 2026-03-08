@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information on symptoms that are commonly associated with Mpox, a viral disease caused by the Parapoxvirus. The purpose of this form is to help healthcare professionals collect and document symptoms from patients suspected to have Mpox, which will aid in the early detection, treatment, and management of the disease. This form is not intended for patients to diagnose themselves, but rather for healthcare professionals to gather data that will inform clinical decisions.
-
-When completing this form, please be mindful of the following:
-
-*   Ensure that the patient's symptoms are accurately and honestly reported.
-*   This form is not a definitive diagnostic tool, and symptoms alone should not be used to diagnose Mpox.
-*   If you are a patient, please provide the most up-to-date information about your symptoms.
-
-</thinking>
-
 # Mpox Symptom Monitoring Form - Help Guide
 ## Purpose
 The Mpox Symptom Monitoring Form is designed to collect information on symptoms associated with Mpox, a viral disease caused by the Parapoxvirus. This form helps healthcare professionals gather data to aid in the early detection, treatment, and management of the disease.

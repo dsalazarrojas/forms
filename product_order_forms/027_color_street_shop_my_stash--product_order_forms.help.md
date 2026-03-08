@@ -1,8 +1,3 @@
-<thinking>
-This form is a customer-facing form for the Color Street Shop "My Stash" product ordering process. The primary goal of this form is to collect information from customers, including their contact details, order preferences (e.g., shipping speed), and interest in potential future services such as hosting an online party or becoming a stylist. The form aims to efficiently collect necessary information for order fulfillment and customer communication. Please ensure that this form is not duplicated or used in any other context where it may cause confusion or lead to incorrect information gathering.
-
-</thinking>
-
 # Color Street Shop My Stash - Help Guide
 ## Purpose
 The Color Street Shop My Stash form is a crucial tool for customers to place their orders and communicate their preferences for product selection, shipping, and potential services. This guide will walk you through each section of the form to ensure you complete it accurately and efficiently.

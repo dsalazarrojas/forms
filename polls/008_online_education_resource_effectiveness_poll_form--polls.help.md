@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the effectiveness of online education resources in the context of polls. It is essential to complete this form accurately to ensure that the feedback is relevant and not duplicated. Please make sure to complete the form with the intention of providing genuine feedback. If you are unsure about the form purpose or have any doubts, please review this help guide carefully.
-</thinking>
-
 # Online Education Resource Effectiveness Poll Form - Help Guide
 ## Purpose
 This form is used to gather feedback on the effectiveness of online education resources in polls. Please provide honest and clear feedback about your experience with the resources.

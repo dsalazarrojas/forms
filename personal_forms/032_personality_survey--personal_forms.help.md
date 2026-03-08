@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be a personality survey designed to collect information on various aspects of personality, emotional intelligence, and psychological traits. The form is likely used for research, academic, or personal development purposes. The form asks users to indicate their agreement or disagreement with certain statements related to personality traits, emotional intelligence, and psychological aspects. The form's structure suggests that it is a self-reporting type of survey, where users are asked to report on their own experiences and perceptions.
-
-The form is composed of multiple pages, each with a different set of questions. The questions are mostly multiple-choice type with options "Yes" and "No". Some pages also have select_one type questions, which allow users to choose only one option from the list.
-
-To complete this form, users will need to navigate through each page, reading the instructions and questions carefully. The form does not require users to answer all questions, as most fields are marked as optional.
-
-Before we proceed, it's essential to review the form's purpose and ensure that it is relevant and not a duplication of another form or process.
-
-</thinking>
-
 # Personality Survey - Help Guide
 ## Purpose
 This form is designed to collect information on various aspects of personality, emotional intelligence, and psychological traits. The form is composed of multiple pages, each with different questions related to these areas.

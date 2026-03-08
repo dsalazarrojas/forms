@@ -1,11 +1,3 @@
-<thinking>
-This help guide will cover the "Antibiotic Use Survey" form, which is designed to gather information from physicians about their antibiotic prescribing practices. The form is intended to help identify areas where physicians may be struggling with antibiotic stewardship, which is a critical issue in public health.
-The form will ask questions about the physician's practice setting, prescribing habits, and attitudes towards antibiotic use. The survey will help identify potential barriers to antibiotic stewardship and provide insights into how often physicians prescribe antibiotics, which types of antibiotics they prescribe, and how they approach conversion from IV to oral antibiotics.
-The questions in the form have been carefully selected to cover various aspects of antibiotic use, including the physician's specialty, practice setting, patient population, and attitudes towards antibiotic resistance. The survey will also ask about educational needs, access to rapid diagnostics, and conversion practices from IV to oral antibiotics.
-It is essential to note that this survey is anonymous and voluntary. All responses will be treated confidentially, and participation is encouraged. The survey is designed to be user-friendly and easy to navigate.
-Please take a few minutes to complete the survey, and your input will help us better understand antibiotic use in healthcare.
-</thinking>
-
 # Antibiotic Use Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from physicians about their antibiotic prescribing practices, with the goal of identifying areas where they may be struggling with antibiotic stewardship.

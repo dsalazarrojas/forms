@@ -1,36 +1,3 @@
-<thinking>
-The "plumbing_services_billing_form" form is likely used to document and bill for plumbing services provided to clients. This form likely requires information such as client details, service type, payment method, and date/time of service. The form may also require comments and status updates to track progress and completion of the service. 
-
-The form's structure suggests it is designed for a service-oriented business, where clients can be billed for different types of services provided by the plumbing company. The form allows for flexibility in case the client needs to provide other payment methods or service types not listed.
-
-The following fields are present: 
-* Client details (name, email, phone, address, zip, city, state, and country)
-* Service type and date/time 
-* Payment method and amount
-* Comments and status updates
-
-This form may be used by plumbers or plumbing companies to provide services to clients and track the progress and completion of those services. 
-
-This form's structure is suitable for various business use cases, such as billing, reporting, or progress tracking. 
-
-This form does not require any external data or dependencies, making it a self-contained form.
-
-The following fields are required/optional and their types are self explanatory:
-* Client Name (Text)
-* Service Type (Select One)
-* Payment Method (Select Multiple)
-* Total Charges (Number)
-* Payment Amount (Number)
-* Comments (Text)
-* Status (Select One)
-* Due Date (Date)
-* Completed Date (Date)
-* Assigned Date (Date)
-* Assigned User (Text)
-
-This form's fields are likely used to provide a comprehensive overview of the service provided to the client. 
-</thinking>
-
 # plumbing_services_billing_form - Help Guide
 ## Purpose
 The "plumbing_services_billing_form" is used to document and bill for plumbing services provided to clients.

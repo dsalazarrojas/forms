@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to place a photography order by providing necessary information about themselves and their desired session(s). The customer will select their choice(s) of photography session package(s), provide their contact and payment information, schedule a date and time for the session, and confirm their order. This form is likely used in a photography studio or agency context. I'm assuming the form is not already covered in existing documentation, and I will not duplicate that information. The form fields are mostly self-explanatory, but some clarification will be provided for unclear or ambiguous fields.
-</thinking>
-
 # photography_order_form - Help Guide
 ## Purpose
 This form is designed for customers to place a photography order with the specified photography studio or agency. 

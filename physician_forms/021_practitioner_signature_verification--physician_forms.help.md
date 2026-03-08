@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify the signature of a practitioner (physician, nurse, etc.) for the purposes of authentication and verification. The form is designed to collect information from the practitioner, including clinic information, practitioner details, and verification details such as method, date, and time of verification. This form ensures that the practitioner's signature is accurately and securely stored for future reference. It is essential that the form is filled out correctly and thoroughly to prevent errors and ensure compliance with regulatory requirements.
-</thinking>
-
 # Practitioner Signature Verification - Help Guide
 ## Purpose
 The Practitioner Signature Verification form is used to verify the identity and authenticity of a practitioner's signature. This form collects necessary information from the practitioner, including clinic details, practitioner information, and verification details.

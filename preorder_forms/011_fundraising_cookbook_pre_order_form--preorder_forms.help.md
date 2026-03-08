@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information for a cookbook pre-order program. It will likely be used by customers to provide their personal and pre-order details to receive a copy of the cookbook before its official release. This form should not be used for general contact or feedback purposes, as it is a specific, time-sensitive event. To avoid duplication, please ensure you only use this form to pre-order the cookbook before the official release date.
-</thinking>
-
 # fundraising_cookbook_pre_order_form - Help Guide
 ## Purpose
 This form is for customers to pre-order a cookbook. It will help us gauge the demand and interest for the cookbook before its official release.

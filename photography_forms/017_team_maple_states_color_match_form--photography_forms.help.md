@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be interacting with the "Team Maple States Color Match Form". This form is designed to help new business starters create a color match template for their business. It seems that the form is meant to gather information from the user and possibly provide a visual aid to help them get started. I'll create a help guide that explains the purpose and usage of this form in a clear and concise manner.
-</thinking>
-
 # Team Maple States Color Match Form - Help Guide
 ## Purpose
 The Team Maple States Color Match Form is a tool to help new business starters create a color match template for their business. It will guide you through a series of questions and provide visual aids to aid in the process.

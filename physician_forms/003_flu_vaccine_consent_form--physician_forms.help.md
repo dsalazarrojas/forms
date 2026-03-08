@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Flu Vaccine Consent Form - Help Guide
 ## Purpose
 The Flu Vaccine Consent Form is used by healthcare providers to gather essential information from patients before administering the flu vaccine. This form is required for every patient who will be receiving the flu vaccine.

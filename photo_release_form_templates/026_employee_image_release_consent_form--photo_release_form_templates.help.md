@@ -1,14 +1,3 @@
-<thinking>
-**Purpose of this form:**
-We need to confirm whether an employee consents to use their photo and image in various company materials and platforms, such as website, email, mail, intranet, and social media. This form is essential for the company to obtain the necessary permission from the employees before publishing their photos and images.
-
-This form will prevent the company from facing any potential issues or disputes regarding the use of an employee's image without their consent. It is a crucial document that ensures the employee's privacy and rights are respected. It is a simple form that should be completed by the employee to confirm their permission to use their image in the company's materials and platforms.
-
-**Form Duplication Check:**
-Please note that this form should only be completed by the employee once, and not multiple times. Each employee should only complete one photo release form per occasion.
-
-</thinking>
-
 # Employee Image Release Consent Form - Help Guide
 
 ## Purpose

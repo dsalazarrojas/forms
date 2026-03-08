@@ -1,7 +1,3 @@
-<thinking>
-This form serves as a critical legal and administrative document in the field of telemedicine. It is used to inform patients about their rights and responsibilities when receiving telemedicine services, which are medical services provided remotely through electronic communications. The form is designed to ensure that patients are aware of and agree to the terms and conditions of telemedicine services. This form is specific to California state laws and regulations, so it's essential to carefully review and understand the content before use. By understanding the form's purpose and requirements, users can efficiently complete it and ensure that the necessary information is provided accurately and comprehensively.
-</thinking>
-
 # Telemedicine Informed Consent Form California - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients before providing telemedicine services. It ensures that patients are aware of the risks and benefits associated with telemedicine, as well as their rights and responsibilities.

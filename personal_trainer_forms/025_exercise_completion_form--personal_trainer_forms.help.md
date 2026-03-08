@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect information about an exercise completion from a participant. This form aims to gather essential details about the participant's participation in an exercise, including their name, contact information, and comments. The form will be used to document and analyze the exercise completion, providing valuable insights for trainers and researchers.
 
 </thinking>

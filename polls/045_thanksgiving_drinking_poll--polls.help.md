@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # thanksgiving_drinking_poll - Help Guide
 ## Purpose
 The thanksgiving_drinking_poll form is used to collect information about user's favorite Thanksgiving drinks and their drinking habits. This form is used to gather data for a poll, hence the name.

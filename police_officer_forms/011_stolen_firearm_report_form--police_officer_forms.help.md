@@ -1,9 +1,3 @@
-<thinking>
-This form is used to report a stolen firearm to the relevant authorities. It is not intended to be a comprehensive or exhaustive reporting template, but rather a starting point for reporting a stolen firearm.
-Please ensure that you only submit this form if you have reason to believe that a firearm has been stolen. If you are unsure about the firearm's status or have any doubts, do not complete this form. 
-Duplicate submissions for the same firearm will not be considered.
-</thinking>
-
 # Stolen Firearm Report Form - Help Guide
 ## Purpose
 The Stolen Firearm Report Form is designed to provide a standardized and efficient way to report a stolen firearm. Please use this form to report any stolen firearm you are aware of.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide assumes the form is intended for customers or staff members to place orders for course materials. The form may be used in educational institutions or online course platforms to manage course material requests, including selecting the material type, quantity, price, shipping cost, customer contact information, order status, and payment gateway used.
-</thinking>
-
 # Course Material Order Form - Help Guide
 ## Purpose
 The Course Material Order Form is used to place orders for course materials, such as textbooks, equipment, or other learning resources. This form helps customers or staff members quickly and accurately submit requests for course materials, ensuring that the necessary materials are ordered and delivered on time.

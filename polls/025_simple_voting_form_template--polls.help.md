@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Simple Voting Form Template - Help Guide
 ## Purpose
 This form is designed to collect user votes on various categories, questions, and choices. It is intended to be a simple and straightforward way to collect opinions and feedback from users. Please use this form to submit your vote, and make sure to fill out all required fields.

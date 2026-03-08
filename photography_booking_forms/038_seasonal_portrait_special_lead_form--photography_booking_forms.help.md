@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a lead generation form for a photography studio or service, designed to capture contact information and details about a potential client's photo shoot needs. The form seems to be used to generate leads for seasonal portrait photography packages. It's likely used to collect contact information, photo preferences, and other details to follow up with potential clients.
-</thinking>
-
 # Seasonal Portrait Special Lead Form - Help Guide
 ## Purpose
 This form is used to capture leads for seasonal portrait photography packages. It's designed to collect contact information and details about a potential client's needs, so that our photography team can follow up and provide more information.

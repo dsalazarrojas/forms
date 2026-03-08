@@ -1,7 +1,3 @@
-<thinking>
-This form is used for physicians to order outpatient imaging procedures for their patients. It captures essential information such as patient demographics, imaging order details, and exam scheduling details. To prevent errors, please ensure that you have a thorough understanding of the patient's medical history and current situation before submitting this form.
-</thinking>
-
 # Outpatient Imaging Order Form - Help Guide
 ## Purpose
 The Outpatient Imaging Order Form is used to order imaging procedures for patients in an outpatient setting.

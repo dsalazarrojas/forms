@@ -1,13 +1,3 @@
-<thinking>
-The pre-anesthetic questionnaire form is designed to gather information from patients about their medical history, allergies, medications, and anesthesia history. The purpose of this form is to ensure that the anesthesiologist has a thorough understanding of the patient's health status before administering anesthesia. This information will be used to create a safe and effective anesthesia plan.
-
-Before starting the form, please note that:
-
-* You should only complete this form if you are a patient.
-* If you have already completed this form, please do not repeat the information.
-
-</thinking>
-
 # pre_anesthetic_questionnaire - Help Guide
 ## Purpose
 The pre-anesthetic questionnaire is a form designed to collect information about your medical history, allergies, medications, and anesthesia history. This information is crucial for the anesthesiologist to create a safe and effective anesthesia plan.

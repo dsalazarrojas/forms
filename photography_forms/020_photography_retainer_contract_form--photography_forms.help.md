@@ -1,7 +1,3 @@
-<thinking>
-Photography retainer contracts are agreements between photographers and their clients, outlining the terms of a retainer relationship. This form is used to establish a retainer contract between a photographer and a client, detailing the scope of work, payment terms, and other essential aspects of the agreement.
-</thinking>
-
 # photography_retainer_contract_form - Help Guide
 ## Purpose
 This form is designed to facilitate the creation of photography retainer contracts between photographers and their clients. It helps ensure that all necessary details are captured and agreed upon, ensuring a clear understanding of the relationship.

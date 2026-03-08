@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end users who will be using the sports photography order form template. The purpose of this form is to gather information from clients about their photography session needs, preferences, and payment details. 
-</thinking>
-
 # sports_photography_order_form_template - Help Guide
 ## Purpose
 The sports photography order form template is designed to collect essential information from clients about their photography session needs, preferences, and payment details. This form is meant to be a comprehensive guide for clients to ensure that all necessary information is provided, making the process of ordering a photography session smoother and more efficient.

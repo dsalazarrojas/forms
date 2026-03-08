@@ -1,8 +1,3 @@
-<thinking>
-To be honest, a "Tidy Order Form" is a bit of an oxymoron. I'm assuming it's a form used for customers to place pre-orders for some service or product. It's likely that the form will be used for customers to provide their information so that they can be contacted or updated on their order status.
-The form likely has a mix of personal and order-related information such as name, email, date, payment method, and order comments. Some fields might be optional, which means that customers may choose to leave them blank.
-</thinking>
-
 # Tidy Order Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to track the performance of candidates throughout the hiring process. It helps recruiters and hiring managers to monitor progress, update statuses, and record feedback and notes. This form ensures that all relevant information is documented and easily accessible for decision-making.
-
-To use this form effectively, make sure to fill it out as accurately and thoroughly as possible. This form is designed to be completed multiple times during the hiring process, with each update recording the current stage of the candidate's progress.
-
-The fields below provide detailed explanations to help you complete the form correctly:
-
-</thinking>
-
 # Candidate Tracking Form Template - Help Guide
 ## Purpose
 The Candidate Tracking Form is a tool to monitor the progress of candidates through the hiring process, from initial application to final stages such as job offer or declination.

@@ -1,7 +1,3 @@
-<thinking>
-The Narcotic Reconciliation Form is a document used to record the reconciliation of narcotics, which is the process of checking and verifying the quantity of narcotics received, used, and discarded in a pharmacy or healthcare setting. The form is typically filled out by a pharmacist or authorized personnel after receiving and dispensing narcotics, ensuring that the quantities match and that the reconciliation process is complete. To avoid duplication, ensure that you only submit this form after the reconciliation process is finished and you have checked for any discrepancies. 
-</thinking>
-
 # Narcotic Reconciliation Form - Help Guide
 ## Purpose
 The Narcotic Reconciliation Form is used to record the reconciliation of narcotics, ensuring accuracy and accountability in the quantity received, used, and discarded.

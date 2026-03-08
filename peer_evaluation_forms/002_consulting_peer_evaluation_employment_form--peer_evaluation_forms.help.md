@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to allow employees to provide peer evaluations of their colleagues, specifically for employment purposes. The form is meant to gather feedback on an employee's performance, strengths, and areas for improvement. This feedback is intended to support employee development and growth within the organization.
-
-The form is typically completed by a colleague who has worked with the employee being evaluated, providing an opportunity for them to share their observations and insights. The evaluations are used by HR or management to inform decisions regarding promotions, increased responsibility, or other employment-related matters.
-
-Before filling out this form, please ensure that you have not already provided feedback on this employee in the past. If you are unsure or have previously completed an evaluation, please verify with HR or the employee's manager to avoid duplicating efforts.
-
-</thinking>
-
 # Consulting Peer Evaluation Employment Form - Help Guide
 ## Purpose
 

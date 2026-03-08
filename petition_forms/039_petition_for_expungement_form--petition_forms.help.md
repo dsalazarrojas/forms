@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Petition For Expungement Form - Help Guide
 
 ## Purpose

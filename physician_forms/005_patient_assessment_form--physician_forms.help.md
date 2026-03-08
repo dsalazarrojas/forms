@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect information about patients. The purpose of this form is to gather data from patients to help healthcare professionals understand their medical history, symptoms, and allergies. This form is not affiliated with any specific form platform and is created using AI generated code.
-</thinking>
-
 # Patient Assessment Form - Help Guide
 
 ## Purpose

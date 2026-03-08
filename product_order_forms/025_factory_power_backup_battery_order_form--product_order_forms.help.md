@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for customers to provide their information and details for ordering power backup batteries from a factory. The purpose of this form is to collect user data for order fulfillment. This form does not require any specific business logic or proprietary content. It is an original adaptation and is intended to assist customers in providing their information effectively.
-</thinking>
 # Factory Power Backup Battery Order Form - Help Guide
 ## Purpose
 The Factory Power Backup Battery Order Form is designed to collect user information and order details for the purpose of ordering power backup batteries from the factory. This form helps the factory to understand customer requirements and process orders efficiently.

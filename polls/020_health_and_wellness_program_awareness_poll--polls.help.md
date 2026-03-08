@@ -1,6 +1,3 @@
-<thinking>
-This form is used to assess awareness and participation in health and wellness programs within an organization. It aims to collect feedback and suggestions from employees to help improve the programs' effectiveness. To complete this form, please follow the instructions below.</thinking>
-
 # health_and_wellness_program_awareness_poll - Help Guide
 ## Purpose
 This form is designed to gauge the current state of health and wellness programs within your organization, with questions ranging from demographic information to specific program participation and engagement.

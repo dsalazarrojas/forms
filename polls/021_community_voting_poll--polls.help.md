@@ -1,5 +1,3 @@
-<thinking>...The form is designed to collect community votes on a specific topic, allowing participants to choose their preferred option and provide optional comments. This guide will walk you through the process of completing the form, explaining each field, and providing additional tips for a successful submission...</thinking>
-
 # Community Voting Poll - Help Guide
 ## Purpose
 The Community Voting Poll form is designed to gather opinions and votes from community members on a specific topic. This form is a tool for collecting feedback and understanding the views of the community on a particular issue or decision.

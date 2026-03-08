@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Provider Approval Form - Help Guide**
 
 ## Purpose

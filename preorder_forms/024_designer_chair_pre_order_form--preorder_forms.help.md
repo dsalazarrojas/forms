@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for customers to pre-order designer chairs. The purpose of this form is to collect relevant information about the customer's chair preferences and payment details. It appears to be a straightforward form designed to capture basic contact and order details.
-
-To confirm, the form is for a single-page pre-order of a designer chair, with fields for selecting a chair model, delivery address, desired delivery date, deposit amount, desired delivery timeframe, contact name, phone number, email, and additional message. Payment details include confirmation options, payment method, and payment information such as card number, expiration, and security code.
-
-The form appears to be a pre-order form, suggesting that customers will be required to pay for the chair at a later time. 
-
-</thinking>
-
 # Designer Chair Pre Order Form - Help Guide
 ## Purpose
 

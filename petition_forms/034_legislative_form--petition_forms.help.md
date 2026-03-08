@@ -1,5 +1,3 @@
-<thinking>What we need to do here is create a user-facing help guide for the "Legislative Form" that is clear, concise, and practical. The form has multiple fields with varying labels, types, and requirements. The guide should explain the purpose of the form, how to complete it, and what each field means in simple language. I'll need to break down the form into sections for clarity and include only the final output in Markdown format.</thinking>
-
 # Legislative Form - Help Guide
 ## Purpose
 The Legislative Form is designed to collect information from users. This form is used to collect personal details and contact information from individuals for legislative purposes.

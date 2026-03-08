@@ -1,9 +1,3 @@
-<thinking>
-This form is used for obtaining consent from photographers for various purposes such as events, shoots, or exhibitions. The purpose of this form is to gather necessary information for the photographer, the event organizer, or the exhibition organizer to ensure a smooth collaboration and to establish a clear understanding of the terms and conditions of the collaboration. 
-Please ensure that you complete this form for each photographer individually, and not as a group.
-This guide will walk you through how to complete this form.
-</thinking>
-
 # photography_consent_form - Help Guide
 ## Purpose
 The photography_consent_form is used to gather necessary information from photographers for events, shoots, or exhibitions. Please read each section carefully and fill out the form accordingly.

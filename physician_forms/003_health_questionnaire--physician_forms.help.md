@@ -1,11 +1,3 @@
-<thinking>
-The form "health_questionnaire" is designed to collect information about a patient's general health, medical history, and any ongoing medical conditions or treatments. It's essential to fill out this form accurately and honestly to ensure that the healthcare provider has a clear understanding of the patient's situation. 
-
-Before filling out this form, it's crucial to verify that this is the correct form for the current consultation or encounter, as it might be used for other purposes.
-
-The form has multiple pages, each focusing on specific aspects of the patient's health.
-</thinking>
-
 # health_questionnaire - Help Guide
 
 ## Purpose

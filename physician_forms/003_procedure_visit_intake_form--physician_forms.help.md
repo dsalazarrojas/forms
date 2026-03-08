@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect relevant information about a patient's visit to a medical practice. The purpose of this form is to ensure that the physician has all the necessary information to provide effective care for the patient. To use this form, the end user (typically a medical staff member) should follow these steps:
-
-</thinking>
-
 # Procedure Visit Intake Form - Help Guide
 ## Purpose
 The Procedure Visit Intake Form is used to collect vital information about a patient's visit, including their contact details, medical records, and procedure specifics. This information will help the physician understand the patient's needs and provide the best possible care.

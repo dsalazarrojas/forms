@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Portrait Photography Feedback - Help Guide
 ## Purpose
 This form is intended for clients and customers to provide feedback on their portrait photography session experiences. Please take a few minutes to fill out this form to help us understand your thoughts and satisfaction with our services.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for photography exhibit approval, and its purpose is to streamline the process of reviewing and approving photography exhibit proposals. It aims to gather essential information from both the artist and the exhibition team, ensuring that all necessary details are captured and communicated effectively.
-The form is structured to collect and organize the required data in a clear and concise manner, facilitating efficient and transparent communication between the parties involved. This form does not require any specific business logic or proprietary information, and its structure is based solely on the metadata provided.
-This form is a public-domain adaptation, created using AI-generated form metadata. You are free to use, modify, and distribute it as needed.
-</thinking>
-
 # photography_exhibit_approval_form - Help Guide
 ## Purpose
 The photography exhibit approval form is designed to gather essential information from both the artist and the exhibition team to facilitate the review and approval process of photography exhibits. It is a straightforward and organized guide to ensure a smooth and transparent communication process.

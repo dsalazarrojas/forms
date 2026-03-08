@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help you, the parent or guardian, provide essential information to the babysitter about your household and the children in their care. The Babysitter Checklist form ensures that the sitter has all the necessary details to take care of your kids safely and effectively while you're away. This form helps establish a mutual understanding between you and the sitter, preventing mistakes and ensuring a smooth experience for everyone.
-
-Before we dive into the form's specifics, make sure the sitter has all the necessary details for your household and children. This form is not for commercial use; it's meant for personal, private use between you and the caregiver.
-
-</thinking>
-
 # Babysitter Checklist - Help Guide
 ## Purpose
 The Babysitter Checklist is a comprehensive form designed to provide essential information about your household and children to the babysitter. This form helps prevent misunderstandings and ensures that the sitter has all the necessary details for a safe and enjoyable experience for everyone.

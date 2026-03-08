@@ -1,9 +1,3 @@
-<thinking>
-We are designing a form to help us understand the availability and preferences of adopters who are interested in caring for pets. This form is intended to gather information about the adopter's work schedule, availability, and communication preferences to ensure that we can find the best match for our furry friends. Before proceeding, please note that this form should not be completed by people who are not serious about adopting a pet. If you have already completed this form, please do not submit it again.
-
-We will use the information gathered from this form to understand your work schedule, availability, and preferences to find the best match for you and your family. Please answer the questions honestly and thoroughly to help us get a better understanding of your situation.
-</thinking>
-
 # Adopter Availability Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your availability and preferences to help us find the best match for you and your family.

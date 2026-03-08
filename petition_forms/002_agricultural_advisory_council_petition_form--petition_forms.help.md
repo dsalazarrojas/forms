@@ -1,7 +1,3 @@
-<thinking>
-This form is for petitioners to submit their concerns and requests to the Agricultural Advisory Council. Petitioners are encouraged to provide accurate and clear information about their issue, proposed solutions, and any supporting documents. The form helps the council understand the scope and urgency of the issue, which informs their decision-making process. Please make sure to fill out the form completely and accurately to ensure your concerns are heard. Before submitting, review the form to ensure you haven't missed any required fields or included any unnecessary information. If you have any doubts or questions, contact the council directly.
-</thinking>
-
 # Agricultural Advisory Council Petition Form - Help Guide
 ## Purpose
 The Agricultural Advisory Council Petition Form is a tool for petitioners to communicate their concerns and requests to the council. It helps the council understand the scope and urgency of the issue, which informs their decision-making process.

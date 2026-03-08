@@ -1,5 +1,3 @@
-<thinking> ... </thinking>
-
 # Mpox Vaccine Eligibility Form - Help Guide
 ## Purpose
 This form is designed to assess whether an individual is eligible for the mpox vaccine. It will guide healthcare professionals through the necessary information to determine the vaccination status of each individual, ensuring accurate and efficient processing of patient data.

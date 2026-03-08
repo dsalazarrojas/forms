@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ata Ur Rehman Photography School Registration Form - Help Guide
 ## Purpose
 This form is a registration form for Ata Ur Rehman Photography School. It is designed to collect essential information from potential students to assess their suitability for our courses. The form will help us understand your background, preferences, and requirements, ensuring that we provide you with the best possible services.

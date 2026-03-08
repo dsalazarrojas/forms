@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals undergoing personal training, allowing trainers to evaluate their progress, set goals, and provide feedback. This form aims to assess the trainee's current level of fitness, their goals and objectives, and gather comments from the trainer. It will help trainers tailor their training programs to individual needs.
-
-Before filling out this form, ensure that you are not already on this program or have a duplicate entry on file.
-
-</thinking>
-
 # Personal Training Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect information about an individual's fitness progress, goals, and feedback from their trainer.

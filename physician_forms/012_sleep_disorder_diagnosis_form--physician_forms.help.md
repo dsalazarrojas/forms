@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sleep Disorder Diagnosis Form - Help Guide
 ## Purpose
 This form is designed to help physicians gather and document information about a patient's sleep habits, medical history, and sleep environment to aid in the diagnosis and treatment of sleep disorders.

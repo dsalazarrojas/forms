@@ -1,10 +1,3 @@
-<thinking>
-We can start by understanding the purpose and context of this form, which is likely used for collecting user input on voting or polling, specifically related to exam dates and flat colors. To confirm, I will check if similar forms or surveys have been created before, but as this form is AI-generated, it's a unique combination of fields. This form appears to have many "color_note" fields, which might be redundant or placeholder fields left from the generation process. However, I will explain each field as is to ensure clarity.
-
-Given the provided YAML, the form consists of two date fields and multiple note fields. This form might be used in educational settings or for events where users are asked to vote on exam dates or provide feedback on color schemes. I will make sure to cover all fields, including the redundant ones, to ensure a comprehensive guide is provided.
-
-</thinking>
-
 # Vote Exam Date Flat Color - Help Guide
 ## Purpose
 This form is designed for users to vote on exam dates or provide feedback on color schemes related to exams. Its purpose is to collect user input on when exams are held and which color options are preferred.

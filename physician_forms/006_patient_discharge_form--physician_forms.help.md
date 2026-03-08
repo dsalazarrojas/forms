@@ -1,5 +1,3 @@
-<thinking>Before providing a user-facing help guide for the "Patient Discharge Form", let's ensure we are on the same page. This form appears to be designed for medical professionals to collect information about a patient's condition before discharging them from a medical facility. Each field is meant to capture specific details about the patient's visit, including general information, medical history, treatment, and follow-up plans. To confirm, let's review the fields and their corresponding labels to create a clear and concise help guide.</thinking>
-
 # Patient Discharge Form - Help Guide
 ## Purpose
 The Patient Discharge Form is used to collect essential information about a patient's condition before discharging them from a medical facility. This form helps ensure that the necessary details are documented for the patient's care and follow-up.

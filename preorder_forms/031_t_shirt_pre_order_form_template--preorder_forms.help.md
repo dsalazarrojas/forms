@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for a pre-order of t-shirts. The form has several fields to gather data such as color, quantity, size, color preference, style, customer name, email, phone number, and order date.
-</thinking>
-
 # t-shirt-pre-order-form-template - Help Guide
 ## Purpose
 The pre-order form is used to collect information from customers before ordering t-shirts. This form helps to ensure that all necessary details are provided, making the order process smoother and more efficient.

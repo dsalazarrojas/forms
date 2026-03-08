@@ -1,7 +1,3 @@
-<thinking>
-We have a few forms in our system, but this "Board Member Voting Form" is one of the more complex ones. Before we dive into the detailed instructions, let's confirm that you are in the correct context to fill out this form. This form is intended for board members to cast their votes on various matters, such as elections, policy approvals, and budget approvals. Before proceeding, please ensure you have the necessary information to complete the form accurately and truthfully. To fill out this form, you should only complete this if you are a registered board member with an active vote.
-</thinking>
-
 # Board Member Voting Form - Help Guide
 ## Purpose
 The Board Member Voting Form is a critical tool for board members to express their opinions and votes on various matters. This form helps to gather votes on elections, policy approvals, and budget approvals in a transparent and structured way.

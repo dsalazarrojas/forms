@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Phone Case Pre Order Form" is to collect customer information and preferences for phone case orders. This form is used to gather essential details such as customer name, email, phone number, case size, color, design, order date, payment method, and any additional notes or messages. The form is crucial for the business to fulfill orders accurately and efficiently. 
-Before proceeding, ensure that you have the necessary details to fill in the form correctly and do not submit duplicate orders.
-</thinking>
-
 # Phone Case Pre Order Form - Help Guide
 ## Purpose
 The "Phone Case Pre Order Form" is a crucial tool for our business to collect and process customer orders for phone cases. This form helps us gather essential details about the customer and their order preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a doctor visit appointment. It is intended for use in a medical setting, and the data collected will be used to schedule appointments and allocate resources. Please ensure that you have the necessary permissions and access to complete this form. If you are unsure about any of the fields, please ask your supervisor or the healthcare team for clarification. Also, please note that this form should not be filled out for test purposes, and the data will be stored in a secure and compliant manner.
-</thinking>
-
 # Doctor Visit Appointment Form - Help Guide
 ## Purpose
 The Doctor Visit Appointment Form is a medical form used to schedule appointments with doctors for patient visits. It collects information about the patient, doctor, and appointment details.

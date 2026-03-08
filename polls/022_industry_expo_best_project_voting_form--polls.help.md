@@ -1,13 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to allow attendees of the Industry Expo to vote on and rate projects in a specific category. This form helps the project managers and organizers to gauge the interest and opinions of attendees on the projects presented during the event.
-
-We assume that the project managers have already been informed about the event and its schedule. This form is meant to be filled out during or after the event. Please make sure that you're completing the form for your own project or one that you have interest in, to avoid unnecessary duplication.
-
-Before starting, please make sure you have the required information ready, such as your project's ID and your attendee ID. If you're unsure about any field, please refer to the explanations below.
-
-</thinking>
-
 # Industry Expo Best Project Voting Form - Help Guide
 
 ## Purpose

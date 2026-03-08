@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the release of photography copyright from a photographer to a client. The form should be used when a photographer has taken photos of a client or a subject, and the client wants to obtain the rights to use those photos. This form is not affiliated with or endorsed by any form platform, and it is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # photography_copyright_release_form - Help Guide
 ## Purpose
 The photography copyright release form is a legal document that transfers the rights of a photographer's work to a client. It's used to formalize the agreement between the photographer and the client, ensuring both parties understand the terms of use and ownership of the photographs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Positive Diagnosis Form - Help Guide
 ## Purpose
 This form is used to record a patient's COVID-19 positive diagnosis. It captures essential information for patient care, contact tracing, and infection control. Ensure this form is filled out accurately and completely for each patient.

@@ -1,14 +1,3 @@
-<thinking>
-This form, called the "Personal Values Survey," is an AI-generated form designed to help individuals reflect on and explore their personal values. The form's purpose is to guide users through a series of questions and prompts to help them understand and articulate their values, how they prioritize them, and how they share them with others. The form is not affiliated with or derived from any form platform, and it's released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell it as an original adaptation.
-
-Before proceeding, ensure that you've reviewed the form's content and that it aligns with your needs. Duplicate forms may result in unnecessary data collection and analysis. 
-
-This guide is intended to be used in conjunction with the form itself, and it's designed to be a one-on-one guide for end-users. 
-
-If you have any questions or concerns, or if you'd like to request any changes to the form, please contact us at [form@gic.mx](mailto:form@gic.mx).
-
-</thinking>
-
 # Personal Values Survey - Help Guide
 
 ## Purpose

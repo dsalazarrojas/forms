@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for drone-related information sharing and coordination. The purpose of this form is to collect information from drone operators about their drone, its usage, and other relevant details. This form is intended to be filled out by drone operators to provide necessary details to property owners or managers for coordination purposes.
 
 # Drone Release Form - Help Guide

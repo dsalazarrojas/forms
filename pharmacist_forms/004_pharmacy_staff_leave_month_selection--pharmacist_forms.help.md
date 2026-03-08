@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about pharmacy staff leave month selection. It is used to gather data on whether a staff member is on leave or not for a specific month. The form is used to prevent leave duplication and ensure accurate leave records. The form fields are divided into several sections for ease of use. This form is intended for internal use within the pharmacy staff and management team. Please ensure that all required fields are completed accurately and consistently.</thinking>
-
 # Pharmacy Staff Leave Month Selection - Help Guide
 ## Purpose
 This form is used to select a month for which a staff member is on leave or not. It is essential to complete this form accurately to prevent leave duplication and ensure proper leave records.

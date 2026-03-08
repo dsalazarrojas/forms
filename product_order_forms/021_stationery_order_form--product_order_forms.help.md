@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to order stationery products from the company. Before filling out this form, please ensure you have not already placed an order for the same items. If you are unsure about the purpose of the form, please contact the sales department for clarification. This form is intended to be used for customers who want to place new orders.
-</thinking>
-
 # Stationery Order Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians about their newborn photography experience. It will help us better understand their needs and preferences when it comes to capturing memories of this special time. Please ensure you are completing this form for the correct purpose and not duplicating it unnecessarily.
-</thinking>
-
 # Newborn Photography Questionnaire - Help Guide
 ## Purpose
 This form is intended to gather information from parents or guardians about their newborn photography experience. It will help us understand their preferences and needs when it comes to capturing memories of this special time.

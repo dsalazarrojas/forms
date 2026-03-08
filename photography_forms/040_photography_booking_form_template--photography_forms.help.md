@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photography Booking Form Template - Help Guide
 ## Purpose
 This form is designed to help you book a photography session with a professional photographer. It collects necessary information from the client, such as their contact and booking details.

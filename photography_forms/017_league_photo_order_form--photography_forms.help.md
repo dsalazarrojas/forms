@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # League Photo Order Form - Help Guide
 
 ## Purpose

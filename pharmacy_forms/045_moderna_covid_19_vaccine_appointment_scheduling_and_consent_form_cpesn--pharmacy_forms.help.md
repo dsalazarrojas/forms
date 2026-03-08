@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from patients for the Moderna COVID-19 vaccine administration process, including appointment scheduling, consent, and post-vaccination follow-up. This form is designed to ensure that patients have all the necessary information and understand the process before receiving the vaccine. It will be used to track patient data for follow-up purposes and ensure that the vaccine administration is done correctly and safely.
-</thinking>
-
 # Moderna COVID-19 Vaccine Appointment Scheduling And Consent Form CPESN - Help Guide
 ## Purpose
 This form is used to gather information from patients for the Moderna COVID-19 vaccine administration process. It includes fields for patient contact information, appointment scheduling, medical history, and post-vaccination follow-up.

@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed for users to pre-order Glutathione, a product that is likely related to health or wellness. It's not clear what specifically Glutathione is or how it benefits users, but it's likely a medical supplement or dietary aid. The purpose of this form is to gather information from users before they can place an order for this product. Each page of the form is designed to collect specific information from the user, such as user details, delivery information, product details, and payment information.
-  Before creating a pre-order, ensure that you are not a registered user and that you are not placing the same order multiple times. The form does not have any built-in validation for non-duplicate orders, so please be cautious and review your answers carefully.
-</thinking>
-
 # Glutathione Pre Order Form - Help Guide
 ## Purpose
 The Glutathione Pre Order Form is designed to collect information from users before they can place an order for Glutathione. This form is intended to be filled out by individuals who want to purchase Glutathione for personal use or for their business purposes.

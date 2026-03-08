@@ -1,13 +1,3 @@
-<thinking> 
-
-The form "industrial_control_panel_assembly_order_form" is designed to collect information from customers about their industrial control panel assembly orders. This form will guide users through the necessary steps to provide accurate and complete customer information, order details, and payment and shipping information. 
-
-The form is divided into several sections, each with its own set of fields that need to be filled out. 
-
-Before proceeding, ensure that the form has not been previously completed for the same customer or order, as this could lead to duplicate orders and confusion.
-
-</thinking>
-
 # industrial_control_panel_assembly_order_form - Help Guide
 ## Purpose
 This form is used to collect customer information, order details, and payment and shipping information for industrial control panel assembly orders.

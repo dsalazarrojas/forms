@@ -1,7 +1,3 @@
-<thinking>
-The Jacket Order Form is designed to collect information from customers for a jacket order. This form is meant to be used for internal purposes within the company. Before proceeding, ensure that this form is the correct one for your intended use. Please note that this form has multiple pages, and each page is dedicated to a specific set of fields. If you have previously submitted a similar form or have any questions, please let us know so we can assist you in the correct way.
-</thinking>
-
 # Jacket Order Form - Help Guide
 ## Purpose
 The Jacket Order Form is a document used to collect customer information for order processing purposes. It is essential to fill out this form accurately to ensure that your order is processed correctly.

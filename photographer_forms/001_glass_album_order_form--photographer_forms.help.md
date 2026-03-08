@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help photographers create and manage albums for their clients. It collects information about the album's title, details, and photographer's contact information. The form is intended for internal use by photographers and their teams, and the data collected will help them keep track of album orders and communicate effectively with their clients.
-</thinking>
-
 # Glass Album Order Form - Help Guide
 ## Purpose
 This form is a tool for photographers to create and manage album orders. It is designed to collect essential information about each album, making it easier for photographers to organize and track their orders.

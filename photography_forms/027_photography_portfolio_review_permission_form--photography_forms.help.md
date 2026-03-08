@@ -1,9 +1,3 @@
-<thinking>
-This form, photography_portfolio_review_permission_form, serves as a template for requesting permission from a photographer to access and review their portfolio. The form ensures that the photographer's portfolio is properly reviewed and acknowledged before any further action can be taken. 
-
-To prevent duplication, a check is performed internally to ensure that a review request for the same photographer is not already in progress.
-
-</thinking>
 # photography_portfolio_review_permission_form - Help Guide
 ## Purpose
 The photography_portfolio_review_permission_form is used for requesting permission from a photographer to review and access their portfolio. This form helps in ensuring that the review process is properly initiated and acknowledged by both parties involved.

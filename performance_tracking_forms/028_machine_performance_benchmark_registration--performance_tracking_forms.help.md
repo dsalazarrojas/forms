@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Machine Performance Benchmark Registration" form, let's first understand the form's purpose and relevance.
-</thinking>
-
 # Machine Performance Benchmark Registration - Help Guide
 ## Purpose
 This form is used to register and track the performance of machines, allowing you to record and analyze benchmark test results. This information is crucial for evaluating the performance of machines in various benchmark tests, enabling data-driven decisions to improve performance and optimize machine capabilities.

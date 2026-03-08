@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for customers to place orders for custom-made collars. The form will guide customers through selecting various options for their collar order, including details about the collar type, fabric, and shipping information. It's essential to note that the form is specifically designed for ordering collars, so customers will need to follow the guidelines carefully to ensure accurate submission of their order. The purpose of this guide is to ensure that customers understand how to fill out the form correctly and what each field represents.
-</thinking>
-
 # Collar Order Form - Help Guide
 ## Purpose
 This form is designed to help customers order custom-made collars with various options such as collar type, fabric, and shipping information.

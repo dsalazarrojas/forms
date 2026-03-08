@@ -1,5 +1,3 @@
-<thinking>Form purpose: This is a form for booking photography services for a wedding. The form collects client information, payment details, and other related data to facilitate the booking process. This form should only be used for booking photography services for a wedding, and not for other types of services or events.</thinking>
-
 # f_b_wedding_photography_booking_payments - Help Guide
 ## Purpose
 This form is for booking photography services for a wedding. It is used to collect client information, payment details, and other relevant data to facilitate the booking process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to track the workout completion rate of a participant in a fitness program. It's essential to complete this form accurately to ensure that the participant's progress is recorded correctly. The purpose of this form is to collect data on the workout details, including the date and time of the workout, the participant's name, and other relevant information. Please ensure that you have all the required information before filling out this form. If you're unsure about any field, refer to this help guide for clarification.
-
-</thinking>
-
 # Workout Completion Rate Report Form - Help Guide
 ## Purpose
 This form is used to track the workout completion rate of a participant in a fitness program. It captures essential information about the workout, including date, time, participant details, and other relevant data.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect changes of address from employees. 
-To ensure the form is not duplicated, it checks to see if the employee's address has changed recently before accepting the new address. 
-To minimize completion time and maximize accuracy, it's best to complete the form online instead of printing and scanning it. 
-</thinking>
-
 # Employee Change Of Address Form - Help Guide
 ## Purpose
 This form is used to report a change of address for an employee. Please provide the required information to update the employee's address in the system.

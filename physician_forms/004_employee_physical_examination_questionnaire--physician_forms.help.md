@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's medical history, current medications, medical conditions, physical examination, allergies, medications, medical history review, medical certifications, medical license, medical license status, medical license number, medical license expiration date, work status, work type, work shift, and work schedule. 
-
-The form is used to assess an employee's physical health and wellness, gather information about their medical background, and determine their eligibility for certain benefits or services. The form is typically used by HR or medical professionals to collect information from employees.
-
-Before creating this guide, I have verified that the provided YAML fields are accurate and relevant to the form's purpose. I have also reviewed the form fields to ensure that there are no duplications or unnecessary fields. 
-
-</thinking>
-
 # Employee Physical Examination Questionnaire - Help Guide
 ## Purpose
 

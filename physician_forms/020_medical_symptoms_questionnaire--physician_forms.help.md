@@ -1,17 +1,3 @@
-<thinking>
-The "Medical Symptoms Questionnaire" form is designed to collect information about a patient's medical condition, treatment, and symptoms. This form aims to gather detailed data about the patient's medical history, current symptoms, and any allergies they may have. It's essential to provide accurate and comprehensive information to help healthcare professionals understand the patient's needs.
-
-To ensure accurate completion and prevent duplication, please fill out the form carefully, and if you're unsure about any question, ask a healthcare professional for guidance.
-
-Before starting, please review the form instructions and questions carefully to avoid mistakes. If you've filled out this form before and are re-submitting, please make sure to review your previous answers and update them as necessary.
-
-Note that some fields are not required, and you should only fill them out if relevant to your situation. However, providing as much information as possible will help healthcare professionals better understand your needs.
-
-The form is divided into several sections, each with its own unique questions and purposes. Please review each section carefully before proceeding.
-
-If you have any doubts or concerns, please don't hesitate to reach out to a healthcare professional for assistance.
-</thinking>
-
 # Medical Symptoms Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medical condition, treatment, and symptoms to help healthcare professionals better understand their needs.

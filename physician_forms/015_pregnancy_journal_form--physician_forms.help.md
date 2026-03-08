@@ -1,8 +1,3 @@
-<thinking>
-This form seems to be a Pregnancy Journal Form, which is designed to collect various information about a baby's and mother's health and vital signs before, during, and after birth. This form may be used for medical or health-related purposes, such as tracking progress in a pregnancy or monitoring a baby's development. To avoid duplication, it's assumed that this form is intended for a specific medical professional or organization to collect and analyze data. Please ensure that the form is not used for any other purpose, as it may contain sensitive information about individuals' health.
-
-</thinking>
-
 # Pregnancy Journal Form - Help Guide
 ## Purpose
 The Pregnancy Journal Form is a medical form used to collect and track various health-related information about a baby and mother during and after pregnancy.

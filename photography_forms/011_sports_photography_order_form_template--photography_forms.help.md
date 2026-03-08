@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to order sports photography services. The form is a template for users to input their information and preferences for a photo shoot. It is meant to be completed by users who wish to book a sports photography session. This form is intended to be used for general purposes and does not have any specific requirements or restrictions for completion. It is recommended that users complete this form carefully and accurately to ensure a successful and satisfactory photo shoot.
-</thinking>
-
 # Sports Photography Order Form Template - Help Guide
 ## Purpose
 This form is designed for users to order sports photography services.

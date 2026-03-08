@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to express their preferences in fashion, specifically their favorite style, color palette, and design preference. The form is designed to collect information on individual style choices, color palettes, and age. Users can select multiple options for certain fields and are required to provide their email address and phone number. The form also allows for additional feedback from users.
-</thinking>
-
 # Fashion Design Preference Poll Form - Help Guide
 ## Purpose
 This form is designed to collect user preferences in fashion, including style, color, and design. The goal is to gather information to inform future design decisions.

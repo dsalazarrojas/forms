@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect photography portfolio information from end users. This form helps photographers showcase their work, projects, and contact information for potential collaborations or commissions. The purpose of this form is to gather essential details about the photographer's portfolio, including project descriptions, dates, styles, websites, contact email, phone number, and social media handles. This form is intended for photographers to easily submit their information, making it easier for potential clients to get in touch with them. This form will be used by clients to find and contact photographers for projects. This form is not intended for internal use within the company, but rather for public consumption.
-
-The following help guide will walk through each field in detail to ensure end-users understand what is required and what is optional.
-
-</thinking>
-
 # Photography Portfolio Intake Form - Help Guide
 
 ## Purpose

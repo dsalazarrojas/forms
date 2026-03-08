@@ -1,13 +1,3 @@
-<thinking>...checking the form purpose and fields for redundancy and consistency...
-
-The form "Image Upload For Visual Effects" is used to collect information about a project's visual effects requirements. It is intended to gather details about the project's brief, reference image, deadline, VFX requests, contact person, contact email, and contact phone number. This form should only be completed once per project.
-
-Upon reviewing the fields, there is no indication of which fields are required or optional. However, it appears that the "VFX Request" field is a select_multiple field with three options: "VFX 1," "VFX 2," and "VFX 3." This suggests that users may be able to select multiple VFX requests for a single project.
-
-To minimize duplication, users should only enter a reference image and project brief once per project. If a project has multiple VFX requests, users can select all applicable options for the "VFX Request" field. Contact information can be filled in for multiple people, but it's likely that each project will only have one contact person and one set of contact details.
-
-</thinking>
-
 # Image Upload For Visual Effects - Help Guide
 ## Purpose
 This form is used to collect information about a project's visual effects requirements. It helps us understand the project's details and ensure that we can provide accurate and timely visual effects services.

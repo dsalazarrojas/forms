@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Picture Day Registration Form - Help Guide
 
 ## Purpose

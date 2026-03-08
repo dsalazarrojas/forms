@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from refugees and asylum seekers to help them exercise their rights and receive support. This form is part of a movement to advocate for the rights of refugees and asylum seekers, and the information collected will be used to inform advocacy efforts and provide resources to those in need. Please ensure that you are filling out this form for yourself or on behalf of someone who is a refugee or asylum seeker. If you are not a refugee or asylum seeker, please do not fill out this form.
-</thinking>
-
 # Refugee Rights Petition Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Respirator Medical Evaluation Questionnaire - Help Guide
 
 ## Purpose

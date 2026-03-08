@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is not being filled out by someone who is already planning an event in the same location on the same date or at the same time. This is a critical consideration for our team as we provide event photography services, and we cannot afford to double-book photographers or equipment for multiple events. Additionally, we must verify that all the necessary information is provided to fulfill the event photography coverage request accurately.
-</thinking>
-
 # Event Photography Coverage Request - Help Guide
 ## Purpose
 This form is designed to gather essential details for event photography coverage requests. Please fill out the form carefully to ensure that your event is accurately captured.

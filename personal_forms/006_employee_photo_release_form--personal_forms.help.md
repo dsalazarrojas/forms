@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used when an employee's photo is being taken for company-related purposes, such as for an employee directory or security badge. The form is meant to be completed by the employee to acknowledge and grant permission for their photo to be taken. This form should not be used for non-company purposes or for photos taken in a personal capacity.
-</thinking>
-
 # Employee Photo Release Form - Help Guide
 ## Purpose
 This form is used to obtain the employee's written permission to take their photo for company-related purposes, such as for an employee directory or security badge.

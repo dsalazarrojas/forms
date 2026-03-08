@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting information from customers about their nail color wishes for a color street wish list. The form is not affiliated with any form platform and is released under CC BY 4.0. The form's purpose is to gather data on customer preferences for nail color, nail size, and nail type, as well as other relevant details such as date and time of order, and any additional customer notes.
-</thinking>
-
 # makana_nails_color_street_wish_list - Help Guide
 ## Purpose
 The makana_nails_color_street_wish_list form is designed to collect information from customers about their nail color wishes for a color street wish list.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to create a party invitation for a social gathering. 
-The form will be used by party planners to gather information for a specific type of party (e.g., dinner party, pool party, etc.) and invitees' contact information (name, address, phone number, and email). 
-This guide will help users understand what information is needed to fill out the form and how to complete it.
-</thinking>
-
 # Party Invitation Form - Help Guide
 ## Purpose
 The Party Invitation Form is used to create a party invitation for a social gathering.

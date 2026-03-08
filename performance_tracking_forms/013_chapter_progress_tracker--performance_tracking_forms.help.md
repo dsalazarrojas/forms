@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the progress of members on various chapters or modules. The purpose is to collect data on individual members' completion rates, obstacles encountered, and next steps for continued progress. This form is intended for internal use within the organization and is not meant for external sharing or publication. The information collected will be used to monitor progress, identify areas of improvement, and inform decisions on resource allocation.
-</thinking>
-
 # Chapter Progress Tracker - Help Guide
 ## Purpose
 The Chapter Progress Tracker form is used to monitor and record the progress of members on chapters or modules. It helps to track completion rates, note any obstacles or challenges faced, and outline next steps for continued progress.

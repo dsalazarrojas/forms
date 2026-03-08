@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I'll need to understand the form's purpose and how it works. The form appears to be a poll for determining community event dates and preferences.
-
-The form likely serves to gather information from users about their availability and preferences for community events. This could be used to find a mutually convenient date and time for the event.
-
-From a technical standpoint, the form is built using an input schema that defines the structure and rules for the form.
-
-</thinking>
-
 # Community Event Date Poll - Help Guide
 ## Purpose
 This form helps gather information from users to determine the best date and time for community events.

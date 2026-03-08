@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rescue Dog Adoption Application - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals interested in adopting a rescue dog from a shelter or rescue organization. The form is designed to gather personal and household details, pet experience, desired pet preferences, and any medical conditions that may impact the adoption process.

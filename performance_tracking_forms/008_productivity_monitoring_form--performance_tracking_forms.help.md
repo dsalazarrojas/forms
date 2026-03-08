@@ -1,9 +1,3 @@
-<thinking>
-The "productivity_monitoring_form" is a form designed to track the productivity and performance of employees in an organization. The form is used to collect information about general information, performance tracking, employee details, project specifics, work hours, notes, and other relevant data. 
-
-This form is meant to be completed by employees, and the information collected will be used to analyze and improve productivity and performance within the organization. The form is not meant to be used for internal purposes only, but can be shared with external collaborators if required.
-</thinking>
-
 # productivity_monitoring_form - Help Guide
 ## Purpose
 The "productivity_monitoring_form" is a tool used to track and monitor employee productivity and performance. It helps organizations to collect and analyze data on employee work habits, time management, and other relevant metrics.

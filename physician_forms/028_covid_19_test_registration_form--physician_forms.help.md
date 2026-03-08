@@ -1,17 +1,3 @@
-<thinking>**Internal reasoning and non-duplication check:**
-
-This form is for registering patients for COVID-19 testing. It's crucial to ensure that patients provide accurate information to aid in efficient testing and result processing. Each field in this form has a specific purpose, and filling it out correctly helps us understand the patient's situation.
-
-To prevent duplicates, we check for the following:
-* A valid phone number and email address are essential for contacting patients and sending test results.
-* Patients must consent to testing and acknowledge receipt of the HIPAA privacy notice.
-* We need to know the patient's date of birth to ensure age verification for testing.
-* The preferred test type and appointment details help us schedule the test efficiently.
-* The symptoms and exposure information aid in identifying potential risks and taking necessary precautions.
-* The contact information, such as emergency contacts and preferred result delivery methods, ensure that patients receive their test results and can be reached in case of an emergency.
-
-Please fill out this form accurately to ensure efficient and effective COVID-19 testing and processing.</thinking>
-
 # COVID 19 Test Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients for COVID-19 testing. It's essential to fill it out accurately to aid in efficient testing and result processing.

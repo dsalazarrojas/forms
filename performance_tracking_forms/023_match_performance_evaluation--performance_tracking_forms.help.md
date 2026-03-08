@@ -1,12 +1,3 @@
-<thinking>
-This help guide will be used to assist users in understanding the purpose and process of completing the "Match Performance Evaluation" form. The form's purpose is to evaluate the performance of a match, taking into account various factors such as player performance, match details, team performance, match outcome, match score, and match time.
-
-Before filling out the form, let's ensure that the user understands the context and goals of this evaluation. The evaluation is meant to provide an objective assessment of how well a player or team performed during a match. This form will help users identify areas of improvement and track progress over time.
-
-To ensure that the user has a clear understanding of each field, a field-by-field explanation will be provided, detailing the purpose and expected input for each section.
-
-</thinking>
-
 # Match Performance Evaluation - Help Guide
 ## Purpose
 The "Match Performance Evaluation" form is used to assess the performance of a match, considering various factors such as player, team, and match information.

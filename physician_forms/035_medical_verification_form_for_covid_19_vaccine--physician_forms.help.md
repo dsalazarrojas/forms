@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect medical verification information for COVID-19 vaccination purposes. It includes fields for patient demographics, medical history, vaccination status, medical provider information, and medical verification status. The form is intended for medical professionals to verify patient information and provide certification for COVID-19 vaccination.
-
-To ensure accuracy and completeness, the form requires medical provider information, including their license number, specialty, and signature. Patient consent and age are also important considerations. The form allows for free-text fields for additional comments and notes.
-
-The purpose of this form is to support the COVID-19 vaccination process by gathering necessary medical information and verifying medical provider credentials.</thinking>
-
 # Medical Verification Form For COVID 19 Vaccine - Help Guide
 ## Purpose
 This form is designed to collect medical verification information for COVID-19 vaccination purposes. It includes fields for patient demographics, medical history, vaccination status, medical provider information, and medical verification status.

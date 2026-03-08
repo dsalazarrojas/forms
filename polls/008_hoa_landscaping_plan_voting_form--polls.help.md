@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HOA Landscaping Plan Voting Form - Help Guide
 ## Purpose
 This form is used to collect opinions and preferences from HOA residents on the landscaping plans proposed for the community. The purpose of this form is to gather information and feedback on the different options presented, ensuring that the community's needs and expectations are considered in the final decision-making process.

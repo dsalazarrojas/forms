@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to support the winding up of a company, which is a process where the court takes control of a company's property and finances due to insolvency or other reasons. To determine if this form should be completed, review the relevant company information and the grounds for winding up. Ensure that the form is not being submitted in error or for duplicate purposes, as this can cause unnecessary work and potential delays in the winding-up process.
-</thinking>
-
 # Company Winding Up Petition Form - Help Guide
 ## Purpose
 

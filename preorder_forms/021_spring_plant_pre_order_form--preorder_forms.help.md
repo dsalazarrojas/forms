@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to pre-order plants for the spring season. The form will be used to gather details about the type of plant, delivery date and time, pickup location, and any additional comments. The goal is to ensure that users provide accurate and relevant information to facilitate a smooth and efficient delivery process.
-
-To complete this form, users will need to select the type of plant they are interested in, provide their name, email address, and phone number (optional), and specify the delivery date and time for their pre-ordered plants. They will also need to indicate the location where they would like to pick up their plants.
-
-Please ensure that you are not pre-ordering plants for the same category and date multiple times as it may affect our inventory management and lead to double orders. This form is meant for individual use only, so please do not use it for commercial purposes.
-</thinking>
-
 # spring_plant_pre_order_form - Help Guide
 ## Purpose
 This form is designed to collect information from users who want to pre-order plants for the spring season. It helps us gather details about the type of plant, delivery date and time, pickup location, and any additional comments to facilitate a smooth and efficient delivery process.

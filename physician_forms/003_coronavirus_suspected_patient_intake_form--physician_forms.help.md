@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll need to understand the purpose and functionality of the form. Based on the provided YAML fields, this form appears to be a tool for collecting information from patients suspected of having the coronavirus. The form is designed to collect patient information, symptoms, contact details, and medical information. This guide will aim to break down each step of the process in a clear and concise manner.
-
-</thinking>
-
 # Coronavirus Suspected Patient Intake Form - Help Guide
 ## Purpose
 The Coronavirus Suspected Patient Intake Form is designed to collect information from patients suspected of having the coronavirus. This form will help healthcare professionals gather essential data to assess and treat patients efficiently.

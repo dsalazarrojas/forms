@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial part of the business process for wedding videography services. Its purpose is to gather information from clients about their wedding video order requirements. The form helps in ensuring that the videographer has all the necessary details to create a stunning and memorable wedding video. This form is typically filled out by clients who are interested in ordering a wedding video. The information collected in this form will be used to guide the production process and deliver the final product to the client. It is essential that the form is completed accurately and thoroughly to avoid any misunderstandings or delays in the production process. 
-</thinking>
-
 # Wedding DVD Application Form - Help Guide
 
 ## Purpose

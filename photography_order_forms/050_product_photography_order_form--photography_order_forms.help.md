@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide customers through the process of placing an order for photography services. The form asks for general details about the product to be photographed and the customer's contact information. This form is suitable for customers who need to submit their product photography order details and requirements.
-</thinking>
-
 # Product Photography Order Form - Help Guide
 ## Purpose
 This form helps customers provide their product photography order details, contact information, and any other relevant information to facilitate a smooth and successful order process.

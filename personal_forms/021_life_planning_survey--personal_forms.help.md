@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal information from users to help create a profile or account. It's likely used in a HR or HR-related context. The form asks for a variety of fields including name, contact information, job and personal details.
-</thinking>
-
 # Life Planning Survey - Help Guide
 ## Purpose
 This life planning survey is designed to collect personal information from users, likely for HR or HR-related purposes.

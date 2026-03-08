@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to elicit user opinions on a set of travel dress themes, allowing them to select multiple themes they are in favor of, select their preferred theme options, provide a number value to express their liking for a theme, select one preferred theme, and provide additional information via text, email, phone, or comments fields. The form is not required for completion. However, the user can choose to provide their email address for further communication. The form's purpose is to gauge user opinions on the travel dress themes and gather more information about the users' preferences. To the best of my understanding, the form does not repeat questions or themes that have been answered previously. This is a one-time feedback form and is not part of a larger, ongoing poll or survey.</thinking>
-
 # Travel Dress Theme Voting - Help Guide
 ## Purpose
 This form is used to gather user opinions on a set of travel dress themes. You can provide your opinions on which themes you are in favor of, select your preferred theme, and provide additional information.

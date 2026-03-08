@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scheduling Poll - Help Guide
 ## Purpose
 The Scheduling Poll form is used to schedule meetings and events with attendees and send reminders to specific senders.

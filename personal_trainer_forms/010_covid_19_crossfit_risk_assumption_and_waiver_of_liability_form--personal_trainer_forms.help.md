@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid 19 Crossfit Risk Assumption And Waiver Of Liability Form - Help Guide
 ## Purpose
 This form is designed to ensure that individuals who participate in CrossFit classes during the Covid-19 pandemic are aware of and confirm their understanding of the risks associated with participating in a group fitness setting. It helps to identify potential risks and take necessary precautions to prevent the transmission of Covid-19.

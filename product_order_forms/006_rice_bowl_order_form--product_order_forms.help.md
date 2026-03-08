@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place an order for a rice bowl product. The form will be used to collect contact information, order details, and payment method. Before filling out this form, please ensure you have the necessary information and approvals to complete it accurately. This form is not intended for internal use within the company, but rather for customers to place orders. To ensure accurate processing, please fill out the form correctly and carefully.
-</thinking>
-
 # Rice Bowl Order Form - Help Guide
 ## Purpose
 The Rice Bowl Order Form is designed to collect contact and order information from customers for the purpose of placing an order for a rice bowl product.

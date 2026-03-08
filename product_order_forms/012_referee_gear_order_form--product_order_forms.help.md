@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that end-users understand the purpose and functionality of this form before we can provide a clear and concise help guide. The form seems to be designed for customers to place orders for Referee gear, which could be a product or equipment designed for referees in various sports or activities. The form requires customers to provide personal information, contact details, order specifics, and payment information, indicating that it's likely for online ordering or shopping. However, without further context, we'll proceed with the assumption that this form is intended for customers to place orders for Referee gear.
-</thinking>
-
 # Referee Gear Order Form - Help Guide
 ## Purpose
 The Referee Gear Order Form is designed to help customers place orders for Referee gear. This form is intended to collect necessary information to process and fulfill orders efficiently and securely.

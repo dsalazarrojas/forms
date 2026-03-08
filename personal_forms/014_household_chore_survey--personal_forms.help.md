@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for households to conduct a survey about the distribution of household chores. It is likely used in a domestic setting, perhaps by family members or household members to discuss and assign responsibilities. The form might be part of a larger system or workflow management tool, or simply a standalone survey tool for households to collect and analyze data about their chore distribution. It's possible that this form is part of a broader initiative to promote fairness and equality within households, or to improve the overall efficiency of household operations. The form's design suggests a focus on understanding the distribution of tasks, assigning responsibilities, and assessing fairness in task distribution. It is not immediately clear if this form is intended for individual household members or for a larger family unit, but the presence of multiple select_one fields for each household member suggests the latter.
-</thinking>
-
 # Household Chore Survey - Help Guide
 ## Purpose
 The purpose of this form is to conduct a survey about household chores within a household. It is designed to help households understand who is responsible for each task, how tasks are distributed, and how fair each member finds the distribution of tasks.

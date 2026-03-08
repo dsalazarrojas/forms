@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pediatric Consent Form - Help Guide
 
 ## Purpose

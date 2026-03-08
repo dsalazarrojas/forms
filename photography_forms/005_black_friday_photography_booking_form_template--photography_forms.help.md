@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to facilitate the booking of photography sessions, specifically targeting clients interested in taking advantage of special Black Friday offers. The purpose of this form is to gather necessary information from clients, including their contact details, session preferences, and package selections. The form ensures that clients confirm their deposit payment and preferred payment method, making it a comprehensive booking process. This form is intended for both internal and external use, providing a structured way to capture relevant information from clients.
-
-This form is likely to be used by photography businesses to manage their bookings and clients' preferences during the Black Friday sales period.
-
-Before proceeding, please ensure you have the necessary information required for the form and have reviewed the form's guidelines to avoid any errors or misunderstandings.
-
-This form has been designed to be user-friendly and easy to navigate. Each field has been carefully crafted to minimize the effort required from clients, while ensuring that the necessary information is captured accurately.
-
-Please review each field carefully and follow the instructions provided to complete the form successfully.
-</thinking>
-
 # Black Friday Photography Booking Form Template - Help Guide
 
 ## Purpose

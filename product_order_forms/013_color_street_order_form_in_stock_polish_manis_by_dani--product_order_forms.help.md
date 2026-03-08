@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to help users order products from the Color Street product line, specifically "In Stock Polish Manis By Dani" products. It is designed to be completed by customers who wish to purchase these products from the available stock.
-The form should only be completed by customers who actually need to order from this product line, as there is no option to order a product that is not in stock.
-The form is divided into two main sections: "In Stock Polish - Manis By Dani --" and "Delivery and Payment --". The first section allows customers to select the specific products they wish to purchase, while the second section handles delivery and payment details.
-</thinking>
-
 # Color Street Order Form - In Stock Polish Manis By Dani - Help Guide
 
 ## Purpose

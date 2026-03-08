@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Local Business Decoration Voting Form - Help Guide
 ## Purpose
 This form is used by local business owners and managers to vote on decorations in their businesses. The form is designed to gather information on the current state of decorations, allowing for the collection of data and tracking of changes over time. This form is used to help businesses make informed decisions about their decoration strategy.

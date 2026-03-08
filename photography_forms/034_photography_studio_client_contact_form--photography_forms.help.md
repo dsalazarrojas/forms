@@ -1,7 +1,3 @@
-<thinking>
-We're creating this help guide to ensure that clients understand how to fill out the Photography Studio Client Contact Form accurately. This form is designed to gather essential information about the client, including their contact details, session preferences, and other relevant inputs. By following this guide, clients can provide the necessary information to ensure a smooth and efficient experience with our photography studio.
-</thinking>
-
 # Photography Studio Client Contact Form - Help Guide
 ## Purpose
 The Photography Studio Client Contact Form is designed to gather essential information from clients to ensure a smooth and efficient experience with our photography studio. This form helps us understand your needs, preferences, and contact details.

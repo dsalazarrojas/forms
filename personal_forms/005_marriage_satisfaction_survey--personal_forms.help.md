@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect self-reported data on relationship satisfaction and other aspects of intimate relationships, likely for research or survey purposes. This type of form is commonly used in social sciences to study relationships and their dynamics. To avoid duplication, respondents should only fill out this form if they have not already completed a similar survey on the same topic. 
-</thinking>
-
 # Marriage Satisfaction Survey - Help Guide
 ## Purpose
 The Marriage Satisfaction Survey is a tool designed to collect information about relationships and overall satisfaction levels. It's essential to provide honest and accurate answers to help researchers and experts in the field better understand relationships and their aspects.

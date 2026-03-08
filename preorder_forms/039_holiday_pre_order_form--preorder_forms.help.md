@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is being used for its intended purpose and not as a means of testing or duplicating data entry. This form is designed to collect pre-order information for holiday products. To use this form, follow the steps below.
-</thinking>
-
 # Holiday Pre Order Form - Help Guide
 ## Purpose
 This form is used to collect pre-order information for holiday products. It is designed to gather essential details about the product, shipping address, and payment method of the customer.

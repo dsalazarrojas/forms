@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to pre-order their menu items before the actual ordering process. The form is designed to collect the customer's name and email address. This form will be used to generate a pre-order list for the customer, which will be used for ordering purposes. To avoid duplication, customers can only submit one pre-order request at a time.
-</thinking>
-
 # Menu Pre Order Form - Help Guide
 ## Purpose
 This form is for customers to pre-order their menu items before the actual ordering process. It will help generate a pre-order list for the customer, which will be used for ordering purposes.

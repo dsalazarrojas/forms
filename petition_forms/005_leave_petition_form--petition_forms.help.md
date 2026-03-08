@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # leave_petition_form - Help Guide
 
 ## Purpose

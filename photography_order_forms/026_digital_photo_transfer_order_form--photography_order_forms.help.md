@@ -1,7 +1,3 @@
-<thinking>
-This form is used to order digital photos. The purpose of this form is to collect information from users to fulfill their digital photo transfer orders. This form will be used by staff to process and deliver the photos according to the user's specifications.
-</thinking>
-
 # Digital Photo Transfer Order Form - Help Guide
 ## Purpose
 This form is used to order digital photos. Please fill in the required information to complete your order.

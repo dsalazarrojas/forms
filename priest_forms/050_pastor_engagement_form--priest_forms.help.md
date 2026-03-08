@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from users for pastor engagement purposes. The form is likely used by church staff or administrators to keep track of interactions with users who have engaged with the pastor. To ensure data accuracy and prevent duplication, this form should only be filled out once for each user. 
 
 The form is divided into two parts: user input and additional information. 

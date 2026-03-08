@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Welfare Petition Form - Help Guide
 
 ## Purpose

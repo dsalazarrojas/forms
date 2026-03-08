@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let's review the form purpose and required fields to ensure it's correctly reflected in the guide. This form appears to be for collecting patient information and consent for COVID-19 vaccination. Required fields include Full Name, Date of Birth, Email Address, Phone Number, Immunocompromised status, Have You Had COVID-19, Number of COVID-19 Vaccine Doses Received, Dose Type for Today, and Vaccine Product for Today. This guide will be tailored to assist users in completing the form accurately and efficiently.</thinking>
-
 # COVID 19 Vaccine Intake Consent Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients before administering the COVID-19 vaccine. It will help the healthcare provider understand the patient's medical history, vaccination status, and other relevant details.

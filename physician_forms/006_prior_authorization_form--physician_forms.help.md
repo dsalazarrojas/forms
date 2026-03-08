@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prior Authorization Form - Help Guide
 
 ## Purpose

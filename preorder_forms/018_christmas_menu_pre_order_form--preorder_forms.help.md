@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from customers for a Christmas menu pre-order, allowing them to select their preferred date, time, and menu options, as well as any special requests or dietary restrictions. This form is likely used by a restaurant or catering service to gather information for reservations and orders. The form has several sections for customer information, order details, and special requests.
-</thinking>
-
 # Christmas Menu Pre Order Form - Help Guide
 ## Purpose
 The Christmas Menu Pre Order Form is designed to collect information from customers for a Christmas menu pre-order. This form is used to gather details for reservations and orders, allowing the restaurant or catering service to prepare accordingly.

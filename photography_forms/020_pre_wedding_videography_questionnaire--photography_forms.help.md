@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Wedding Videography Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from wedding clients about their videography preferences, wedding details, and other essential information to ensure that their wedding video is tailored to their needs and expectations. Please fill out this form to provide the necessary details for your pre-wedding videography services.

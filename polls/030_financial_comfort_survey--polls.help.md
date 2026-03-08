@@ -1,5 +1,3 @@
-<thinking>...The Financial Comfort Survey form is designed to collect feedback from users on their overall financial comfort, current financial situation, financial satisfaction, financial safety, financial security, stress levels, frustration levels, financial support systems, financial independence, and financial well-being. This form is not affiliated with or endorsed by any form platform. It is an original creation using public survey topic metadata and is released under CC BY 4.0. Users are free to use, modify, and even sell forms derived from it, just give credit. Contact: form@gic.mx</thinking>
-
 # Financial Comfort Survey - Help Guide
 ## Purpose
 This form is designed to gather information on users' financial comfort, satisfaction, and well-being. It's meant to be a quick and easy way to assess your financial situation and provide valuable insights for financial planning and decision-making.

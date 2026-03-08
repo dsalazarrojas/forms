@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to request a meeting for employee performance reviews. Before proceeding, please review the following:
-
-*   Is the purpose of the form aligned with your department's performance review process?
-*   Have you already completed this form for a similar meeting request? Please make sure to review your previous submissions before filling out this form again.
-</thinking>
 # Performance Review Meeting Request Form - Help Guide
 ## Purpose
 The Performance Review Meeting Request Form is designed to request a meeting for employee performance reviews. This form collects necessary information to facilitate the meeting preparation process.

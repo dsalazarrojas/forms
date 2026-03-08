@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help manage influencer contracts with advertisers. 
-It's used for data collection and to track agreements between influencers and their partners. 
-This guide aims to ensure that users understand the purpose and the necessary steps to fill out the form accurately and efficiently. 
-</thinking>
 # Influencer Contract Form - Help Guide
 ## Purpose
 This form is used to create and manage influencer contracts with partners. It captures necessary information for both influencers and advertisers, including contract details, payment terms, and e-signatures.

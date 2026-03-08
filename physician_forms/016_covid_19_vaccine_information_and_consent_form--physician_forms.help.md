@@ -1,5 +1,3 @@
-<thinking>Is this form intended for patients providing information and consent for COVID-19 vaccination? Does it cover all necessary aspects of vaccination, including medical history, allergies, and risks/benefits understanding? Is this form part of a larger process or a standalone tool?</thinking>
-
 # COVID 19 Vaccine Information And Consent Form - Help Guide
 
 ## Purpose

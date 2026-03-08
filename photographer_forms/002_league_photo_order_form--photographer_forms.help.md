@@ -1,7 +1,3 @@
-<thinking>
-Internal note: The form is designed for clients to book appointments and order photography services. The form requires clients to provide their personal details, such as name, email, and phone number, as well as details about their appointment, including date, time, and location. Clients can choose from different photography packages, services, and photo sizes. They can also specify their payment method and provide any additional notes. This form is intended to help photographers manage client appointments and services effectively.
-</thinking>
-
 # League Photo Order Form - Help Guide
 ## Purpose
 This guide will walk you through the League Photo Order Form, which is designed for clients to book appointments and order photography services. The form requires clients to provide personal details, appointment information, and preferences for services and payment methods.

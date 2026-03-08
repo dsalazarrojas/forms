@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting user feedback and suggestions on exhibit themes for the Historical Society. It's essential to provide accurate and diverse suggestions to create an engaging and informative exhibit. Before filling out this form, please ensure you've read the previous suggestions and haven't already submitted similar ideas to avoid duplication. This form is for new, original ideas only. Please answer every question to the best of your ability and be as specific as possible. The more detailed and thoughtful your answers, the better the exhibit will be.
-</thinking>
-
 # Historical Society Exhibit Theme Voting Form - Help Guide
 ## Purpose
 The Historical Society is seeking your input to curate a captivating and informative exhibit. This form is designed to collect your suggestions on exhibit themes that align with the Historical Society's mission.

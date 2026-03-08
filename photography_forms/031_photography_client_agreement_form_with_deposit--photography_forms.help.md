@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photography Client Agreement Form (With Deposit) - Help Guide
 ## Purpose
 This form is designed for clients to agree on the terms and conditions of a photography service, including the deposit payment and payment terms. It helps ensure that both the client and the photographer are on the same page before starting the project.

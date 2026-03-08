@@ -1,7 +1,3 @@
-<thinking>
-The form "photo_print_release_form_template" is used for obtaining permission from a client for printing and releasing their photos. This form is typically used by photographers to get clients' explicit approval before publishing their photos, ensuring they have the necessary permissions to do so. To avoid duplication, please make sure to use this template only for obtaining photo release permissions from clients.
-</thinking>
-
 # photo_print_release_form_template - Help Guide
 ## Purpose
 The photo_print_release_form_template is a form used to obtain permission from clients to print and release their photos.

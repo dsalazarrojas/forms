@@ -1,12 +1,3 @@
-<thinking> 
-The police officer forms are a critical part of the crime investigation process. This form, specifically designed for investigating crime scenes, is aimed at gathering essential information regarding the incident. It helps the investigators to document details about the case number, date, time, location, and other relevant aspects of the incident.
-
-To create a comprehensive crime scene investigation form, it's crucial to ensure that it's not duplicated or filled out for the same case. This form serves as a centralized platform to collect data in a structured and organized manner, which helps in streamlining the investigation process. 
-
-Before proceeding, please review the form carefully and ensure that it's filled out for the correct case.
-
-</thinking>
-
 # crime_scene_investigation_form - Help Guide
 ## Purpose
 The "crime_scene_investigation_form" is designed for documenting and gathering crucial information about crime scenes. This form helps investigators in collecting and storing data about cases in an organized and structured way.

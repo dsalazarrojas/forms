@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to provide end-users with a clear understanding of the Election Contexts Survey form's purpose and how to complete it. Before proceeding, the following internal reasoning block will be checked for relevance and non-duplication:
-The form is designed to gather information from end-users on their perceptions of elections, voter participation, and the fairness of the process. The questions are intended to be straightforward and clear, allowing users to provide their thoughts and experiences with the election process. Please review the form carefully before proceeding to ensure that you are providing accurate and relevant information.
-
-</thinking>
-
 # Election Contexts Survey - Help Guide
 ## Purpose
 The Election Contexts Survey is a form designed to gather information on end-users' perceptions of elections, voter participation, and the fairness of the process. The survey aims to collect data that can inform future improvement of the election process.

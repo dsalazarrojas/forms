@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Church Donation Receipt Form - Help Guide
 ## Purpose
 This form is used to create and print a receipt for donations received by the church. It captures essential information about the donation, including receipt details, church and donor information, donation specifics, and acknowledgment and signature. By using this form, you can ensure accurate and standardized recording of donations for tax purposes and other administrative needs.

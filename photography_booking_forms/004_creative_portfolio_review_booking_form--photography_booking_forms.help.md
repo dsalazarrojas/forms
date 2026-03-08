@@ -1,12 +1,3 @@
-<thinking>
-The internal reasoning block is to ensure that the form purpose and its individual fields are clearly understood and correctly represented in the help guide. This involves analyzing the YAML structure to determine the form's main objective and what information each field is intended to capture. The goal is to ensure that the guide accurately represents the form's functionality and requirements.
-
-The form purpose appears to be for clients or users to provide information about their creative portfolio, such as scheduling a review session, sharing their portfolio link, and providing contact information. Each field in the form seems to be designed to collect specific details about the client's portfolio, such as review dates, times, and types, as well as contact information for reviewers.
-
-The form's design also suggests that it may be used for internal workflow management within an organization, allowing staff to schedule sessions with clients, assign reviewers, and track review progress. However, without further information, it's difficult to determine the exact use case or internal processes.
-
-To confirm the form's purpose and ensure accuracy in the help guide, it would be helpful to have more context or information about the form's intended use within the organization. If you provide more details, I can refine the internal reasoning block and create a more accurate help guide.</thinking>
-
 # Creative Portfolio Review Booking Form - Help Guide
 
 ## Purpose

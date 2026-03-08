@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll provide an explanation that covers the form's purpose, how to complete it, and a field-by-field explanation to help end-users understand each section of the Chiropractic Exam Form.</thinking>
-
 # Chiropractic Exam Form - Help Guide
 ## Purpose
 The Chiropractic Exam Form is a comprehensive tool used by healthcare professionals to gather essential information about a patient's medical history, symptoms, and examination results. This form helps chiropractors and other healthcare providers assess a patient's condition, create a treatment plan, and track progress.

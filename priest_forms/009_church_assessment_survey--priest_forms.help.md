@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning**
-This form is designed to gauge the assessment of a church's services, programs, and overall experience for its attendees. The form is intended to be completed by church members and visitors, and its purpose is to gather feedback on various aspects of the church's operations. The form will be used to evaluate the church's performance and identify areas for improvement.
-</thinking>
-
 # Church Assessment Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from church attendees on their experience with the church's services, programs, and overall atmosphere. Your input will help us understand your needs and preferences, enabling us to make informed decisions to improve our services.

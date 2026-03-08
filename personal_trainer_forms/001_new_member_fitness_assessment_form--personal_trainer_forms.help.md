@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The New Member Fitness Assessment Form is a form used to collect personal information from new members of a fitness center or gym. The form is intended to capture essential details such as name, contact information, and address to create a member profile and provide a better experience for the member.
 
 The form is not a mandatory form, meaning it's not required for members to fill it out. However, having this information will help the fitness center or gym tailor their services and communication to each member's needs.

@@ -1,8 +1,3 @@
-<thinking>
-We will use this form for obtaining personal training informed consent from users, which is essential for ensuring their safety and well-being during training sessions. This form will help trainers to understand the individual's medical history, emergency contacts, and other relevant information to tailor the training to their needs.
-The form will be used to collect user's first name, last name, date of birth, emergency contact information, address, email, date and time of the training session, and other relevant details. We will ensure that this form is not duplicated and is only used for this specific purpose.
-</thinking>
-
 # Personal Training Informed Consent Form - Help Guide
 ## Purpose
 The Personal Training Informed Consent Form is a crucial document that helps us understand your medical history, emergency contact information, and other relevant details to ensure your safety and well-being during training sessions.

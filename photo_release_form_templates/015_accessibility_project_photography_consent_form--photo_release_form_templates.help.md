@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting consent from individuals for photography purposes as part of an accessibility project. This form will help to understand their personal and photography-related information. Ensure you've reviewed and understood the instructions before proceeding. This form is not intended for children under 13 years old. Please ensure that a parent or guardian signs the consent for minors. If you're unsure about the purpose of this form or any of its fields, please review the instructions carefully before proceeding.
-</thinking>
-
 # Accessibility Project Photography Consent Form - Help Guide
 ## Purpose
 The Accessibility Project Photography Consent Form is a document that seeks consent from individuals for photography related to accessibility features and improvements. It is essential for collecting necessary permissions and details for a successful project.

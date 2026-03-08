@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect laboratory test results for patient care and medical record keeping. The form will be used by medical professionals to document test results, including test dates, times, and statuses, as well as other relevant information such as specimen descriptions, clinical laboratory names, and patient contact information. To avoid duplication and ensure accuracy, it's essential to review test results for each patient and ensure that the information provided is up-to-date. Before starting, please verify that the patient's information is accurate and complete.</thinking>
-
 # Laboratory Result Form - Help Guide
 ## Purpose
 The Laboratory Result Form is designed to collect and document laboratory test results for patient care and medical record keeping.

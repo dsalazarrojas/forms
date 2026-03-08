@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be interacting with the "Sample Telemedicine Consent Form". The form is designed to be a template for patients to provide informed consent for telemedicine services. This template is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI. The form is released under the Creative Commons BY 4.0 license, allowing users to modify and distribute it freely. It is meant to be a starting point for users to create custom forms for their specific needs. This form collects essential information from patients, including their first name, last name, email address, and informed consent. The selection of signature options is intended to allow patients to sign their consent in multiple ways, providing flexibility to accommodate different situations.
-</thinking>
-
 # Sample Telemedicine Consent Form - Help Guide
 ## Purpose
 This form is a template for patients to provide informed consent for telemedicine services. It collects essential information and allows patients to sign their consent in multiple ways.

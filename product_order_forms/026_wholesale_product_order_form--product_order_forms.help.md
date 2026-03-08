@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information about a wholesale product order from the customer. This form should be used by sales teams, account managers, or customer service representatives to gather details about the order, including the customer's contact information and the order's specifics.
 
 When completing this form, ensure that you're only sending in orders for wholesale products and not for other types of transactions. Additionally, if a customer has already submitted an order for the same product, please do not submit another order for the same item.

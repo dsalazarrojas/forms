@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a gift-giving process for a loved one. The form aims to identify the recipient's name, age, interests, and budget preferences. By completing this form, users will be able to generate gift ideas tailored to the recipient's unique needs and preferences.
-
-To determine relevance, we assume that the user is a person who wants to find the perfect gift for someone special in their life, such as a family member, friend, or loved one.
-
-To prevent duplication, we assume that the user will be filling out this form for a new gift-giving process each time.
-
-</thinking>
-
 # Gift Ideas For Loved Ones - Help Guide
 
 ## Purpose

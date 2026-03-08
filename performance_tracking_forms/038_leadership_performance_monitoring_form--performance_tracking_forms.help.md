@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for leadership performance monitoring, and it is meant to gather feedback and insights on various aspects of leadership performance. This form will be used to track the assigned tools and output files for each leader, ensuring that everyone has access to the necessary tools to perform their role effectively. The form includes multiple categories, each with select one and select multiple options, allowing for a comprehensive overview of leadership performance. The fields include select one and select multiple options, text fields, and notes, providing a mix of quantitative and qualitative feedback.
-
-Please note that some fields are not required, and users can skip them if they are not relevant. Also, the form includes multiple pages, each with its own set of fields, allowing for a structured and organized input process.
-
-Before creating this form, ensure that all required fields are filled in, and provide as much information as possible to help with leadership performance monitoring.
-</thinking>
-
 # leadership_performance_monitoring_form - Help Guide
 ## Purpose
 This form is designed to help track leadership performance by gathering feedback and insights on assigned tools and output files.

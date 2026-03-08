@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to be used by customers or clients who want to inquire about renting a photo booth for an event. They will need to provide some basic contact information and specifics about the rental, such as dates and photo booth type. The form is designed to be simple and easy to fill out, with the option to add a message if needed. This form is not intended to be used for any other purpose, such as for internal use by staff. It is a public-facing form that should be filled out by clients or customers directly.
-</thinking>
-
 # Photo Booth Rental Form - Help Guide
 
 ## Purpose

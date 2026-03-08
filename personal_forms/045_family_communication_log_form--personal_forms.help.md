@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to be used for tracking and documenting family communication, including conversations, decisions, and follow-ups. The goal is to provide a centralized record of interactions between family members, caregivers, and other relevant individuals. This form can be used to track progress, identify patterns, and inform future discussions. It's likely that this form will be used in family law or social services settings.
-</thinking>
-
 # Family Communication Log Form - Help Guide
 ## Purpose
 The Family Communication Log Form is a tool for tracking and documenting family communications, decisions, and follow-ups. This form helps keep a record of interactions between family members, caregivers, and other relevant individuals, facilitating better communication and collaboration.

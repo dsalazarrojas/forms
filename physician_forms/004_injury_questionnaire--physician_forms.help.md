@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive questionnaire designed to collect information about an injury. The purpose of this form is to gather detailed information about an incident that caused an injury, including incident details, injury severity, medical treatment, and any related medical history. It also includes fields to capture symptoms and the impact of the activity that caused the injury. This form likely serves as a template for medical professionals or healthcare providers to assess and document the severity of an injury.
-
-To determine the relevance and originality of this form, I noticed that it is an AI-generated form created using public survey topic metadata and is not affiliated with any proprietary form platforms. This suggests that the form has a strong potential to be used as a template for injury questionnaires in various settings, such as clinics or hospitals.
-
-</thinking>
-
 # injury_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect detailed information about an incident that led to an injury, allowing medical professionals to assess and document the severity of the injury.

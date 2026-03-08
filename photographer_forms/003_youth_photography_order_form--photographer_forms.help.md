@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for ordering photography services for youth, and it is expected that the form will be filled out by a photographer or someone acting on their behalf. This form is likely to be used in a professional setting, such as a photography studio or event planning service, and the purpose of the form is to collect necessary information from clients to fulfill their photography requests. It is expected that the form will be filled out by a single user, and the fields are designed to be completed with minimal guidance. The form fields are not intended to be filled out multiple times, and it is expected that the form will be submitted once the client has provided all necessary information.
-</thinking>
-
 # Youth Photography Order Form - Help Guide
 ## Purpose
 The Youth Photography Order Form is used to collect information from clients for photography services. The form is intended to be used by photographers or those acting on their behalf to gather necessary details from clients.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for requesting art supplies from the craft store. It will be submitted to the store staff to process the order.
-We want to ensure that the form is completed correctly, without any mistakes or irrelevant information.
-</thinking>
-
 # craft_store_art_supplies_order_request_form - Help Guide
 ## Purpose
 This form is designed to gather information from customers to process and fulfill their art supply orders. To use this form, customers must provide details about their order, including customer information, shipping address, shipping option, delivery information, order items, and any additional comments. The form will help the store staff to efficiently process and deliver the order.

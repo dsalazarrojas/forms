@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for creating contracts for event photography services. To ensure that each form submitted is a genuine event photography contract, I will first check for relevance and non-duplication of contracts. This form is used to capture details from both the photographer and the client, such as their names, contact information, and service details. This form will also help track the status of payments and confirm payment confirmation.
-</thinking>
-
 # First Data Event Photography Contract - Help Guide
 ## Purpose
 This form is designed to create contracts for event photography services. It captures essential information from both the photographer and the client, enabling efficient communication and payment tracking.

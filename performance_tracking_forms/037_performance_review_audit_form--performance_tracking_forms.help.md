@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking employee performance and providing feedback. It's intended to ensure that reviews are thorough and regular, and to aid in development and growth. Ensure that you have the necessary permissions to access this form. Before filling out this form, review the employee's recent performance and identify areas that require improvement or recognition. If you're unsure about any field or the overall process, consult with the relevant personnel. Duplicate entries will not be accepted, so please ensure that each submission is unique.
-</thinking>
-
 # Performance Review Audit Form - Help Guide
 ## Purpose
 The performance Review Audit Form is designed to provide a structured and objective assessment of an employee's performance. This form aims to identify areas of strength and weakness, set performance goals, and track progress over time.

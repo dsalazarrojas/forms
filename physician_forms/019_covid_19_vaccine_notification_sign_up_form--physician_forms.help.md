@@ -1,9 +1,3 @@
-<thinking>
-Please ensure that this form is only used for individuals who are not already registered with the system and have not previously received the COVID-19 vaccine. 
-This form should not be used by those who have already been vaccinated or have an existing appointment scheduled. 
-Please provide accurate and up-to-date contact information, as this will be used for follow-up notifications and communication.
-</thinking>
-
 # COVID 19 Vaccine Notification Sign Up Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals who are interested in receiving the COVID-19 vaccine. It will help us to understand their preferences and eligibility for vaccination, and enable us to provide personalized notifications and scheduling.

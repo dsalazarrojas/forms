@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and usage of this form, which is a "Municipal Election Voter Priority Poll". The form likely aims to gather information from citizens about their opinions and preferences regarding municipal elections. However, to prevent duplication and ensure relevant feedback, it's crucial to check for internal flags indicating that the user is a valid, registered voter. This form should be used by registered voters to express their priorities and concerns about the municipal election, and not for non-voters or non-registered individuals.
-</thinking>
-
 # Municipal Election Voter Priority Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from registered voters on their priorities and sentiments regarding the municipal election. Please fill out this form to express your opinions and concerns.

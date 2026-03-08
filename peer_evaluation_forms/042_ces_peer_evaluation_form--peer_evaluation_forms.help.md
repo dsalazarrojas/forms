@@ -1,5 +1,3 @@
-<thinking>...This form is a crucial tool for peer evaluation and growth in a professional setting. It helps team members assess and provide feedback on their peers' strengths and areas for improvement. This feedback is meant to be constructive, specific, and anonymous, aiming to encourage personal growth and team cohesion. It's essential that you understand the purpose and importance of this form before providing feedback...</thinking>
-
 # CES Peer Evaluation Form - Help Guide
 ## Purpose
 This form is designed to facilitate peer evaluations within teams, allowing members to assess their peers' performance, identify areas of improvement, and provide constructive feedback. This process promotes a culture of growth, accountability, and open communication.

@@ -1,10 +1,3 @@
-<thinking>
-This form is a pre-screening form designed for patients to provide necessary information before receiving the COVID-19 vaccine. The form includes various fields to collect patient's contact information, allergy history, medical conditions, and previous reactions to vaccines. The purpose of this form is to ensure that patients are screened thoroughly and safely vaccinated. 
-
-Please note that this form will guide you through the process of filling out the form.
-
-</thinking>
-
 # COVID 19 Vaccine Pre Screening Form - Help Guide
 ## Purpose
 This form is designed to gather information necessary for a safe and successful COVID-19 vaccination experience.

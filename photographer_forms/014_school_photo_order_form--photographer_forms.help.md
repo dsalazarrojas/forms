@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for schools to order photos for their students. It allows administrators to enter the student's name, parent's name, school email, school phone number, order date, order time, photo type, student count, and any additional notes. The form also requires selection of the assigned tool and output file type.
-</thinking>
-
 # School Photo Order Form - Help Guide
 
 ## Purpose

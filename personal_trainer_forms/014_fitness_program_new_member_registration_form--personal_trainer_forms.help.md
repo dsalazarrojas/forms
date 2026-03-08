@@ -1,11 +1,3 @@
-<thinking>
-This help guide will explain the "fitness_program_new_member_registration_form" form, which is part of the "personal_trainer" category. This form is intended for new members to register with their fitness program by providing personal details. To ensure accurate completion, it's essential to understand the purpose and required fields. 
-
-The form is used to gather basic information from new members, including their name, address, contact information, and birth details. Some fields are required, while others are optional. It's crucial to fill out the form accurately and consistently, as this information will be used for communication and record-keeping purposes. 
-
-Before starting, check that you haven't already registered or have a duplicate record in the system.
-</thinking>
-
 # fitness_program_new_member_registration_form - Help Guide
 ## Purpose
 The fitness program new member registration form is a form used to register new members with the fitness program by providing their personal details.

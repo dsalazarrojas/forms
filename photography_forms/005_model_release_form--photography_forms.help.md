@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from models, photographers, or subjects who have been photographed by a photographer or a production team. This form helps to obtain a model release, which is a statement that releases the photographer/production team from any liability for the images taken.
-</thinking>
-
 # Model Release Form - Help Guide
 ## Purpose
 The Model Release Form is used to gather information from individuals who have been photographed and to obtain a model release, which grants permission for the photographer or production team to use the images taken.

@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and requirements of the "Katherine Mkparu Name Of Immunizing Learner (Please Print)" form. This form, part of the "pharmacy_forms" category, is used for capturing specific information related to immunization programs. It is essential to complete this form accurately to ensure that the provided data is valid and usable for the intended purpose.
-
-To avoid errors, ensure that you complete the form carefully and correctly, and if you are unsure about any field, please refer to this guide for clarification.
-
-Please note that the form's purpose is to collect information from immunizing learners, and it is crucial to provide accurate and relevant data to ensure the form's intended outcome.
-
-Before proceeding, review the form's fields and their explanations to ensure that you understand what information is required and how to provide it accurately.
-</thinking>
-
 # Katherine Mkparu Name Of Immunizing Learner (Please Print) - Help Guide
 ## Purpose
 The "Katherine Mkparu Name Of Immunizing Learner" form is used to collect information from immunizing learners, and it is essential to complete this form accurately to ensure that the provided data is valid and usable for the intended purpose.

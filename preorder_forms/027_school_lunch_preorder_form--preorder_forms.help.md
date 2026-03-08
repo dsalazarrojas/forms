@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the School Lunch Preorder Form is to gather information from students, parents, or guardians about their preferences and requirements for school lunches. This form will help the school cafeteria staff in preparing and catering to the individual needs of each student. The form collects details about the student, their school, and their dietary preferences. It also asks for payment information, special requests, and contact details for communication. The form is designed to be completed by students or their authorized representatives.
-</thinking>
-
 # School Lunch Preorder Form - Help Guide
 ## Purpose
 This form is designed to collect and process student lunch requests, allowing schools to prepare and serve individualized meals that cater to each student's specific needs and preferences.

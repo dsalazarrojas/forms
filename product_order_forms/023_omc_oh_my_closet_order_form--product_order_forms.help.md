@@ -1,19 +1,3 @@
-<thinking>
-This form is intended for customers to submit their order information for Oh My Closet, likely an online store or business selling clothing or related products. The form is likely used by the business to collect customer information for order fulfillment purposes. To determine if a form is a good fit for this purpose, you can consider the following:
-
-*   The form collects customer name, address, and contact information.
-*   The form includes a field for shipping address and details, which is often required for order fulfillment.
-*   The form also includes an "Order Date" field, which could be used to track order timing.
-*   The form does not include any fields that would indicate a payment method or order total, which is unusual for an order form.
-*   The form also does not include any fields that would indicate a specific product being ordered, which is unusual for an order form.
-*   The "Order Details" field is a free-text field and does not seem to be specifically designed for any particular type of information.
-*   The form does not include any fields that would indicate a specific shipping option or method.
-*   The form does not include any fields that would indicate a specific business address, which seems unusual for a business-to-consumer transaction.
-*   The form does not include any fields that would indicate a specific contact method, such as phone number, email, or other.
-
-This form appears to be for general order purposes and does not include any fields that would indicate specific requirements for product selection or payment. Therefore, this form likely needs fields for product selection or payment information to be fully effective.
-</thinking>
-
 # Oh My Closet! Order Form - Help Guide
 ## Purpose
 The Oh My Closet! Order Form is used by customers to submit their order information for the business.

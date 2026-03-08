@@ -1,9 +1,3 @@
-<thinking>
-The internal purpose of this form is to gather performance data of mentorship sessions. This information will likely be used to track progress, identify areas of improvement, and make data-driven decisions for future mentorship sessions. 
-The form will likely be filled out after each session by the mentor and mentee. It's crucial to ensure that both mentors and mentees understand the purpose and usage of this form to avoid duplication of effort and maintain accuracy in the collected data. 
-The form should ideally be reviewed and submitted after each session to ensure a smooth and efficient mentorship program.
-</thinking>
-
 # Daily Mentor Score Report - Help Guide
 ## Purpose
 The Daily Mentor Score Report form is a tool used to track and record key performance data for mentorship sessions. 

@@ -1,7 +1,3 @@
-<thinking>
-The Medicare Refund Form is designed to facilitate the process of handling refunds for Medicare claims. The form should only be used for legitimate refund purposes, and the user should carefully review the form instructions and guidelines to ensure accurate and efficient completion. It is essential to check that the form is not being duplicated or misused for other purposes. This form's purpose is to provide a structured way of handling refund requests, and any misuse or duplication could lead to delays or errors in the refund process.
-</thinking>
-
 # medicare_refund_form - Help Guide
 ## Purpose
 The Medicare Refund Form is a document used to handle refunds for Medicare claims. It is essential to use this form to ensure accurate and efficient refund processing.

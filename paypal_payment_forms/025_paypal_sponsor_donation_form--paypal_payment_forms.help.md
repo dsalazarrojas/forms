@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to collect information from potential sponsors who are interested in supporting a specific project or initiative. The purpose of this form is to gather essential details that will help facilitate a smooth donation process. The form will be used to verify the authenticity of the sponsors and ensure that the donation is legitimate. It is crucial to fill out this form accurately and completely to avoid any discrepancies or misunderstandings.
-
-Before proceeding, please ensure that you have not filled out this form before, and that the information you provide is genuine. This form should only be submitted once per sponsor.
-</thinking>
-
 # paypal_sponsor_donation_form - Help Guide
 ## Purpose
 The `paypal_sponsor_donation_form` is a form used to collect information from potential sponsors who want to support a specific project or initiative.

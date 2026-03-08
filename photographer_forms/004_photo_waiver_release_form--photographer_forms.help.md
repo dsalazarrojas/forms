@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to release their photo for use in photography or other media. It's a straightforward form for gathering necessary information from individuals before capturing or using their likeness. The form fields aim to collect basic contact and identity details, photo-specific information, and license-related data to ensure proper identification and consent. This guide will walk you through each field of the form, helping you understand what information is required and how to complete it accurately.
-</thinking>
-
 # Photo Waiver Release Form - Help Guide
 ## Purpose
 This form is intended for individuals who wish to participate in photo shoots or have their photographs used in various media. It is essential to complete this form accurately to ensure that you are aware of how your likeness will be used and to provide necessary information for identification purposes.

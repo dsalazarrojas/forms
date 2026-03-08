@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers who want to pre-order a luxury sports car. It gathers essential information for the pre-ordering process, which includes contact details, car preferences, order specifics, payment information, and review and confirmation. The purpose of this form is to collect accurate and complete customer data for order processing and communication. This form will only be accessible when a customer has opted-in to pre-order a luxury sports car. The fields below are intended to be filled out by the customer in a step-by-step manner. The form's design aims to ensure that customers provide accurate and relevant information for a smooth pre-ordering experience.
-</thinking>
-
 # Luxury Sports Car Pre Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers interested in pre-ordering a luxury sports car.

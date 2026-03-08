@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to register a secret admirer's contact information, details, and preferences for a special event. The form is designed to ensure that the secret admirer's wishes are considered when planning the event. Before starting, please check that this is the correct form and that you have not already submitted this form. 
-
-This form has been designed to be completed by the secret admirer or their representative. Please ensure that the information provided is accurate and up-to-date. 
-
-This guide is to help you complete the form correctly and effectively.
-
-</thinking>
-
 # Secret Admirer Registration Form - Help Guide
 ## Purpose
 The Secret Admirer Registration Form is used to register the contact information, details, and preferences of a secret admirer for a special event. This form is essential for ensuring that the admirer's wishes are considered and respected.

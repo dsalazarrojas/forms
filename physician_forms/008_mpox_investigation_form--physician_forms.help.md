@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about Mpox outbreaks, which is a rare but potentially serious disease caused by the monkeypox virus. The form is intended to be filled out by healthcare professionals in the context of public health investigations. The purpose of this form is to collect data on cases of Mpox, including demographic information, clinical presentation, and laboratory results. To ensure accuracy and completeness, each field is labeled clearly and instructions are provided to guide users through the completion process. Please note that some fields may be optional, but providing accurate and thorough information will help in the prompt investigation and response to the Mpox outbreak. If you are unsure about any field, please contact your supervisor or the public health authority for guidance.
-</thinking>
-
 # Mpox Investigation Form - Help Guide
 ## Purpose
 The Mpox Investigation Form is designed to gather information about Mpox outbreaks in order to facilitate prompt and accurate investigation and response.

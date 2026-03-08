@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for a specific use case, likely related to vaccinations. I am assuming it's for screening patients for mpox (monkeypox) vaccine eligibility, consent, and follow-up purposes. I'll be using this information to guide the help documentation.
-The form likely serves as an entry point for patient data in a medical setting. The "screening_information" field might involve collecting information such as symptoms, medical history, and previous vaccine exposure. "Vaccine Details" likely includes specifics about the vaccine type, dosage, and administration schedule. "Screening Results" could be used to note any reactions or issues after the vaccine. "Vaccination Status" and "Consent Status" are select options that might indicate a patient's eligibility and consent status for the vaccine. "Date Of Birth" is used to identify the patient, potentially for future reference. "Contact Information" and "Contact Number" are likely for follow-up purposes. "Next Steps" might be used for tracking patient instructions or reminders. "Signature" is for authentication or agreement. "Patient Name" is used for identifying the patient.
-</thinking>
-
 # Mpox Vaccine Screening And Consent Form - Help Guide
 ## Purpose
 This form is designed to collect and manage patient information related to mpox vaccine screening, eligibility, consent, and follow-up.

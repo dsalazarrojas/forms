@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the "Church Attendance Registration Form". The form's purpose is to collect demographic and event-specific information from visitors to a church, which will be used for registration and planning purposes. To ensure that the correct information is collected, we will only be using this form for visitors attending scheduled church services. This guide will walk the user through each page of the form and explain the purpose and requirements of each field.
-</thinking>
-
 # Church Attendance Registration Form - Help Guide
 ## Purpose
 The Church Attendance Registration Form is designed to collect information from visitors attending a church service, allowing us to better plan and prepare for their visit. Please ensure that the provided information is accurate to help us make the most out of your visit.

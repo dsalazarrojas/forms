@@ -1,14 +1,3 @@
-<thinking>
-We are creating a help guide for a form used to evaluate the performance of Research Fellows. The purpose of this form is to provide a structured and systematic approach to assessing the performance of Research Fellows, ensuring that their work and contributions are accurately and fairly evaluated. This form is designed to be completed by the Research Fellow themselves, with the goal of providing an honest self-assessment of their performance. By using this form, Research Fellows can demonstrate their progress, goals, and areas of improvement, enabling them to identify their strengths and weaknesses and develop strategies for growth.
-
-Before starting, please note that this form is for Research Fellows to evaluate their own performance. If you are a reviewer or evaluator, please ensure that you are familiar with the evaluation criteria and guidelines before proceeding.
-
-To avoid duplication of effort, please only complete this form once a quarter. If you have already completed a similar form in the past, please review your previous submissions and update only the areas that have changed.
-
-Please complete the form accurately and thoroughly, taking the time to provide thoughtful and detailed responses to each question.
-
-</thinking>
-
 # Research Fellow Performance Evaluation Form - Help Guide
 
 ## Purpose

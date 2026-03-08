@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information for pre-launch sample distribution orders. This includes gathering details such as the customer's request date, customer information (name, email, and phone number), sample requests, shipping details, and order status. The form also includes fields for notes and payment status. To ensure accuracy and prevent duplication, this form should only be used for new orders.
-
-The form is designed to be completed by customers or administrators, and it is essential to fill out all required fields to ensure that the order is processed correctly.
-
-Please note that some fields are not required but can be filled out for additional information. However, it is crucial to fill out all required fields, such as the customer's email, shipping address, sample requests, and product order status.
-</thinking>
-
 # Pre Launch Sample Distribution Order Form - Help Guide
 ## Purpose
 This form is used to collect information for pre-launch sample distribution orders. It includes details such as the customer's request date, customer information, sample requests, shipping details, and order status.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from patients for laboratory testing purposes. It is intended for use in a clinical setting, such as a hospital or medical laboratory. The form captures essential details about the patient, the tests requested, medical conditions, and other relevant information.
-
-This form should only be used for laboratory testing purposes. If you are not a healthcare professional, you should not use this form.
-
-Please ensure that you understand the purpose and usage of this form before proceeding. If you have any doubts, please consult with a healthcare professional.
-
-</thinking>
-
 # Laboratory Requisition Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients for laboratory testing purposes.

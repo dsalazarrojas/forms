@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect votes from users on their favorite holiday trees. The form is designed to be used by anyone who wants to participate in the holiday tree voting process. Before filling out the form, please ensure that you are eligible to participate by answering "Yes" to the "Are you eligible?" question. Then, select "I am human" as the captcha response to prove you are not a robot. After that, browse the list of trees and select the ones you like the most. You can select multiple trees if you want. Finally, provide any additional comments if you want to. Please make sure to fill out all the required fields.
-</thinking>
-
 # Favorite Holiday Tree Voting - Help Guide
 ## Purpose
 The purpose of this form is to collect votes from users on their favorite holiday trees.

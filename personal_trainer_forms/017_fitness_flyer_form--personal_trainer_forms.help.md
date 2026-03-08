@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect general information from customers to be used for a fitness business. It asks for personal details, availability, preferences, and additional context. The form is not meant to be used for a specific business transaction or appointment, but rather for general inquiries and information collection.
-
-To avoid duplication and ensure relevance, the form should be filled out carefully and accurately. Each field should be filled with the most up-to-date information. If a field is not applicable or not relevant, please leave it blank or indicate that it's not applicable.
-
-The goal of this form is to provide a comprehensive picture of the customer's needs and preferences. Please answer each field truthfully and accurately. If you have any questions or concerns, please feel free to ask for clarification.
-
-</thinking>
-
 # Fitness Flyer Form - Help Guide
 ## Purpose
 The purpose of this form is to collect general information from customers to help us better understand their needs and preferences. Please take a few minutes to fill out this form accurately and completely.

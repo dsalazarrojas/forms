@@ -1,7 +1,3 @@
-<thinking>
-The form is used for gathering information and opinions from users on the topic of presidential elections. It is likely used for research or survey purposes. The form is not meant for actual voting, but rather for collecting feedback and opinions on various aspects of presidential elections. There is no internal logic or rules about what questions are asked or not, so users should answer accordingly.
-</thinking>
-
 # Presidential Election Form - Help Guide
 ## Purpose
 This form is designed to gather information and opinions from users on the topic of presidential elections. Please answer the questions to the best of your ability, and don't hesitate to leave comments if you have any feedback or suggestions.

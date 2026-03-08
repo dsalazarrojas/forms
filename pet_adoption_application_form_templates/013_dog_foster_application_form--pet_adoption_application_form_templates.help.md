@@ -1,18 +1,3 @@
-<thinking>
-
-To create an informative and user-friendly help guide for the Dog Foster Application Form, I first need to understand its purpose and the requirements for filling it out. 
-
-The form is intended for individuals or organizations seeking to become dog foster caregivers, providing a safe and loving environment for dogs in need. The form is used to gather essential information about the applicant, their household, and their ability to care for the dog. It is likely used by animal shelters, rescue organizations, or pet adoption centers to evaluate potential foster families.
-
-To determine the relevance and potential duplication, I considered the following:
-
-* The form's fields cover essential information for evaluating potential foster families, including personal details, household characteristics, pet-related knowledge, and care provider qualifications.
-* The required fields are marked as true, indicating that this data is necessary for a successful application.
-* The fields are categorized into sections (personal info, household details, physical conditions, pet info, care providers, and additional info), which makes the form easy to navigate and fill out.
-* There is no duplicate or redundant information in the fields, suggesting that the form is well-designed.
-
-</thinking>
-
 # Dog Foster Application Form - Help Guide
 ## Purpose
 The Dog Foster Application Form is used to collect information from potential foster families about their ability to care for dogs in need. The form helps evaluate their household, pet experience, and care provider qualifications to ensure a safe and loving environment for the dogs.

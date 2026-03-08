@@ -1,12 +1,3 @@
-<thinking>
-  This form is used to recruit volunteers for a ministry setting. 
-  The fields are categorized into two main sections: personal information and volunteer preferences. 
-  This form will be used by the ministry leadership to understand the volunteer's availability and willingness to volunteer.
-  It is essential that the form is filled in correctly to ensure accurate records and effective volunteer matching. 
-  Please note that some fields are mandatory and must be filled in before proceeding. 
-  This form should not be duplicated, and any previously submitted forms will not be resubmitted.
-</thinking>
-
 # Ministry Volunteer Recruitment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who are interested in volunteering for the ministry.

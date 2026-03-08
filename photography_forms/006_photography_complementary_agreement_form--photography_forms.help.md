@@ -1,10 +1,3 @@
-<thinking>
-This form is likely part of a photography business's process to establish a collaborative agreement with a client. The purpose of this form is to collect information from both the photographer and the client, ensuring a mutual understanding of the project terms, payment conditions, and contact details. It seems to be a straightforward form designed for internal use, possibly for administrative or project management purposes. Given the fields included, it appears to be a template for a basic photography service agreement, covering essential aspects like service description, photographer and client info, service details, payment terms, and terms of service.
-
-Before proceeding, please review the form carefully to ensure it suits your specific needs. If you're unsure or need to modify the form for your business, kindly refer to your internal guidelines and standards.
-
-</thinking>
-
 # photography_complementary_agreement_form - Help Guide
 ## Purpose
 This form is designed for establishing a collaborative agreement between a photographer and a client, covering essential details for a successful project execution.

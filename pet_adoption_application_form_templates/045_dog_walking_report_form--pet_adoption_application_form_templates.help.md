@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This code block is used to create a help guide for users who are completing the "Dog Walking Report Form" in Markdown format.
 
 ## Purpose

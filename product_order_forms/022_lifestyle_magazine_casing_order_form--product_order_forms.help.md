@@ -1,5 +1,3 @@
-<thinking> This form is intended to help customers place an order for Lifestyle Magazine casing products. It is crucial to ensure that the order is accurately completed to avoid any errors. Before proceeding, kindly verify that you are not duplicating an order or have already completed one for the same product. If you have any questions or concerns, please reach out to our customer support team for assistance. </thinking>
-
 # Lifestyle Magazine Casing Order Form - Help Guide
 ## Purpose
 The Lifestyle Magazine Casing Order Form is a tool used to order Lifestyle Magazine products. This form allows customers to select a magazine title, choose their preferred product casing size, enter their shipping and billing information, and confirm their order details.

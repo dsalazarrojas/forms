@@ -1,15 +1,3 @@
-<thinking>
-
-To determine the form purpose and ensure there's no duplication, I'll review the fields in the YAML configuration. 
-
-The form is used to register events, specifically for liturgies or religious ceremonies. The event registration form collects various details such as event type, date, location, and participants' information. 
-
-It appears to be a standard form for event registration, which can be used for different types of events like weddings, funerals, masses, and others. The form is likely used for administrative purposes, such as recording events and scheduling.
-
-After reviewing the fields, it seems that most fields are required, indicating that this form is comprehensive and covers all necessary information for event registration.
-
-</thinking>
-
 # Liturgy Registration Form - Help Guide
 ## Purpose
 The Liturgy Registration Form is used to register events such as weddings, funerals, masses, and other religious ceremonies. This form collects essential details about the event, including the type, date, location, and participant information.

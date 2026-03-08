@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect users' responses to a series of questions related to their political values. It is intended to be completed by individuals who wish to express their views on political matters. Please ensure that you are responding truthfully and accurately. If you have already taken this form, please do not attempt to submit it again as it may cause duplication of data and skew the results.
-</thinking>
-
 # political_values_questionnaire - Help Guide
 ## Purpose
 This form is a questionnaire designed to collect information about your political views and opinions. It consists of 11 questions that cover various aspects of politics. Please complete the form to provide your honest and accurate responses.

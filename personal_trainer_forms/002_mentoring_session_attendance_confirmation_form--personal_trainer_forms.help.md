@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mentoring Session Attendance Confirmation Form - Help Guide
 ## Purpose
 The Mentoring Session Attendance Confirmation Form is a simple form used to confirm attendance at a mentoring session. It helps you provide feedback about your experience, and it is a crucial step in evaluating the effectiveness of our mentoring program. Please fill out this form accurately to help us improve the program.

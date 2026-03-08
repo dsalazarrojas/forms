@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Consultation Form - Help Guide
 
 ## Purpose

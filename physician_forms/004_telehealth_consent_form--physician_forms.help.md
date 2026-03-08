@@ -1,8 +1,3 @@
-<thinking>
-This is a Telehealth Consent Form help guide, intended to aid end-users in understanding its purpose and usage.
-The form is designed to capture patient information, telehealth details, and consent for remote consultations or treatments. It is a crucial document that ensures patients' rights and responsibilities are understood and acknowledged in a virtual or remote healthcare setting. Before proceeding, please review this guide to ensure you complete the form accurately and effectively.
-</thinking>
-
 # Telehealth Consent Form - Help Guide
 ## Purpose
 The Telehealth Consent Form is a mandatory document for patients undergoing remote consultations, treatments, or other telehealth services. It aims to establish a clear understanding of the patient's rights, responsibilities, and expectations in a virtual or remote healthcare environment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rehome Application Form - Help Guide
 ## Purpose
 The Rehome Application Form is a tool used to rehome a pet that is currently being cared for in a shelter or by the previous owner. This form helps to gather essential information from the person interested in rehoming a pet to ensure a smooth and successful rehoming process.

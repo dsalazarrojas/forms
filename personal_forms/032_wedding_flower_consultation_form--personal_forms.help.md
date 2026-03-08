@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from customers for wedding flower consultation. It's essential to ensure that all relevant information is gathered correctly to provide the best experience for the customer and to avoid any duplication of information or incorrect information.
-</thinking>
-
 # Wedding Flower Consultation Form - Help Guide
 ## Purpose
 The Wedding Flower Consultation Form is designed to gather information from customers for wedding flower consultation purposes. Please fill in the form with your details to help us better understand your preferences and requirements.

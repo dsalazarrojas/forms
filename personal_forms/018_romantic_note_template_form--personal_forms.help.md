@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users create romantic notes for special occasions, such as anniversaries, birthdays, or Valentine's Day. It is intended for personal use, and the data collected will likely be used to generate a customized note. The form should only be used for positive and loving intentions. Please ensure that you have obtained the necessary permissions and approvals before using this form.
-</thinking>
-
 # Romantic Note Template Form - Help Guide
 
 ## Purpose

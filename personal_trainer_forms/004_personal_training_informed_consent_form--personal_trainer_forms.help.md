@@ -1,9 +1,3 @@
-<thinking>...
-
-The purpose of this form is to capture essential information from clients before the start of a personal training session, ensuring that they are aware of and agree to the terms and conditions of the training, as well as provide emergency contact information and any relevant medical details. This form should only be used for personal training sessions and not for other types of training or activities. It is crucial to ensure that each client completes this form only once and not duplicate their information.
-
-</thinking>
-
 # Personal Training Informed Consent Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow customers to place orders for ice cube molds. The form is used by the customer to provide information about their order, including shipping and billing details, payment information, and any additional notes they may have. This form will be used by the customer service team to process and fulfill the order.
-
-Before proceeding, let's make sure you're filling out the correct information for your order. Please review the fields carefully to ensure you're providing all the necessary details.
-
-</thinking>
-
 # Ice Cube Mold Reorder Form - Help Guide
 ## Purpose
 The Ice Cube Mold Reorder Form is a tool for customers to place orders for ice cube molds.

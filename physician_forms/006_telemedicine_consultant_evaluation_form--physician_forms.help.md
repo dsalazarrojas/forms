@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning block: The form "Telemedicine Consultant Evaluation Form" is designed to collect feedback and ratings from patients or clients regarding their experiences with telemedicine consultants. The form likely aims to evaluate the quality of care provided by these consultants, their communication skills, and overall satisfaction with the services. To ensure relevance and non-duplication, I will only include fields and information that are explicitly provided in the inputSchema and refrain from adding any extraneous or hypothetical items. I will also strive to provide clear and concise explanations for each field, avoiding any unsupported business logic or assumptions... </thinking>
-
 # Telemedicine Consultant Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from patients or clients about their experiences with telemedicine consultants.

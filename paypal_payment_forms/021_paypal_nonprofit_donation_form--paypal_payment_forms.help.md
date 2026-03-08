@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help nonprofit organizations understand the purpose and usage of the PayPal Nonprofit Donation Form. The form is meant to collect information from donors about their donations, including the donation amount, payment method, and donor contact information. Nonprofit organizations can use this form to process donations securely and efficiently. Before proceeding, review this guide to ensure you understand the form's purpose and requirements.
-</thinking>
-
 # PayPal Nonprofit Donation Form - Help Guide
 ## Purpose
 The PayPal Nonprofit Donation Form is designed to collect donations from individuals and organizations to support your nonprofit's causes. It's a secure and efficient way to receive donations and track donor information.

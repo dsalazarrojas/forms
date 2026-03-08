@@ -1,7 +1,3 @@
-<thinking>
-The main goal of this form is to gather information from a pet owner when an adopter wishes to extend or modify an existing pet adoption agreement. This form must be used to ensure that all parties involved are clear on the terms of the agreement, and any adjustments or additions are documented for future reference. This information will be used to update the original adoption agreement.
-</thinking>
-
 # Pet Adoption Agreement Extension Form - Help Guide
 ## Purpose
 The Pet Adoption Agreement Extension Form is a document that is used to update or modify an existing pet adoption agreement. This form is meant to be used when an adopter wants to make changes to the original agreement, ensuring that all parties involved are aware of these changes.

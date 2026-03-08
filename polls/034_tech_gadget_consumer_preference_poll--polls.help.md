@@ -1,8 +1,4 @@
-# <thinking>
-This form is designed to gather information about consumers' preferences and experiences with gadgets. The purpose of this form is to help us better understand our customers' needs, interests, and pain points. This form will ask you questions about your gadget ownership, buying behavior, demographic details, and preferences. Please answer all questions honestly to help us improve our services.
-</thinking>
-
-# Tech Gadget Consumer Preference Poll - Help Guide
+# # Tech Gadget Consumer Preference Poll - Help Guide
 
 ## Purpose
 This form is designed to gather information about your preferences and experiences with gadgets to help us improve our services.

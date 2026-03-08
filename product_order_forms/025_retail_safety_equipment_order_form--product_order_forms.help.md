@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block that explains the form purpose and checks for relevance and non-duplication ...
-
-The Retail Safety Equipment Order Form is intended to collect contact information and order details from customers ordering safety equipment online. This form ensures that the company receives accurate and comprehensive data to fulfill and deliver the ordered equipment effectively. The form is divided into five pages, each designed to capture specific information: Contact Information, Order Information, Additional Information, Order Summary, and Order Details.
-
-The company will use this form to process orders efficiently, reduce errors, and provide excellent customer service. 
-
-</thinking>
-
 # Retail Safety Equipment Order Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and order details from customers ordering safety equipment online.

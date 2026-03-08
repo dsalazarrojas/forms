@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and satisfaction ratings from patients after a visit to a pharmacy. The form aims to measure how satisfied the patients are with the services provided by the pharmacist, including their overall rating of the service, the quality of the pharmacist's communication, the accuracy of the prescription, and other specific aspects of the service. This information will help the pharmacy to evaluate its performance and make improvements to enhance the patient experience.
-To ensure that the form is completed accurately and effectively, the following fields should be understood:
-
-- The form is divided into two main sections: the introduction section and the survey section.
-- The introduction section (page 1) provides a brief context and introduction to the survey.
-- The survey section (pages 2-5) includes questions that ask patients to rate their satisfaction with various aspects of the pharmacy service.
-- Each question is designed to gather specific information about the service, such as the overall rating, service quality, pharmacist availability, communication, prescription quality, and follow-up care.
-- The form also includes fields for comments and contact information, allowing patients to provide any additional feedback or express their preferences for follow-up contact.
-
-This form is intended to collect feedback from patients, not to be a comprehensive survey of their medical history or personal information. The form should be completed with the understanding that the information collected will be used to improve the pharmacy services, not for any other purpose.
-</thinking>
-
 # Pharmacy Service Satisfaction Survey - Help Guide
 ## Purpose
 The Pharmacy Service Satisfaction Survey is designed to collect feedback from patients about their experiences with the pharmacy service. This feedback will help us evaluate our performance and make improvements to enhance the patient experience.

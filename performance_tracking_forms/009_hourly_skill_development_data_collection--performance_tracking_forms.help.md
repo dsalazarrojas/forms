@@ -1,10 +1,3 @@
-<thinking>
-# This form is intended to collect information about an individual's progress in developing a specific skill.
-The hourly skill development data collection form is used to track and document an individual's learning and development activities, focusing on skills that require practice over a period of hours.
-This form is used by Learners, Trainers, and Teams to collect data on a person's skill development progress, which can help inform future skill development plans and evaluations.
-This form is not to be used for multiple submissions from the same individual, to prevent duplication of data.
-</thinking>
-
 # hourly_skill_development_data_collection - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's progress in developing a specific skill, with a focus on tracking hours spent practicing and outcomes achieved.

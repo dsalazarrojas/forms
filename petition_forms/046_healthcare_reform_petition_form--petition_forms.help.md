@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to help users understand the purpose and requirements of the "healthcare_reform_petition_form" form. The form is a petition form designed to collect information and signatures from individuals and organizations in support of various policy changes related to healthcare reform. The form will help gather data on the individual or organization's name, contact information, and policy preference, as well as collect signatures and dates/time for verification purposes. This guide will walk users through the form's requirements and explanations for each field, ensuring a smooth and accurate completion process.
-
-</thinking>
-
 # healthcare_reform_petition_form - Help Guide
 ## Purpose
 This form is a petition tool for healthcare reform. It's designed to collect signatures and information from individuals and organizations in support of policy changes related to healthcare.

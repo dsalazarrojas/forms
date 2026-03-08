@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Wedding Photography Survey" form. This form is designed to collect information from clients about their wedding event. The purpose of the form is to gather details such as client name, date of the wedding, number of guests, location, contact information, and photographer preferences. The form is divided into several sections to help clients provide accurate and relevant information to the photographers.
-To ensure that the form is completed correctly, we will walk through each field and provide explanations on how to fill it out.
-</thinking>
-
 # Wedding Photography Survey - Help Guide
 ## Purpose
 

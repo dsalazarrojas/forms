@@ -1,11 +1,3 @@
-<thinking>Before creating the help guide, I'd like to confirm a few things:
-
-* The form is called "Surgery Pre Op Order Form" and its purpose is to collect information about patients before surgery. This form likely helps surgeons, anesthesiologists, or other medical professionals to gather necessary data from patients before the procedure.
-* The form has 8 fields in total, each with a unique label, type, and (mostly) optional status.
-* I'll base my explanations on the field labels and hints, assuming they are self-explanatory or at least, not too unclear.
-
-</thinking>
-
 # Surgery Pre Op Order Form - Help Guide
 ## Purpose
 The Surgery Pre Op Order Form is a collection of information required for patients about their medical history, condition, and upcoming surgery. This form helps medical professionals assess the patient's situation and prepare for the procedure.

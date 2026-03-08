@@ -1,7 +1,3 @@
-<thinking>
-This form is for uploading a photo, and it's essential to fill it out accurately to ensure your photo is uploaded correctly. Please make sure to review the form carefully and fill it out with the correct information. 
-</thinking>
-
 # Photo Upload Form - Help Guide
 ## Purpose
 The Photo Upload Form is designed to collect information about the photo you are uploading. It helps us understand the context and details of the photo, which is necessary for proper upload and processing.

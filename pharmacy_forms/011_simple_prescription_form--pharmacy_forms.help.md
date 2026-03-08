@@ -1,10 +1,3 @@
-<thinking>
-The Simple Prescription Form is a crucial tool for healthcare professionals to collect patient information, medical history, and other relevant details in a structured and organized manner. This form is designed to be a quick and efficient way to gather necessary information for prescribing medications, ensuring accuracy and consistency across patient interactions. By following this guide, you should be able to understand how to complete the form accurately and effectively.
-
-Before starting, please note that this form is not intended for duplicate submissions. If you have already submitted a prescription for the same patient, please do not re-submit the form. 
-
-</thinking>
-
 # Simple Prescription Form - Help Guide
 
 ## Purpose

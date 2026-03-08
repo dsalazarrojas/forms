@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Limited Edition Drop Order Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-**Internal Note:**
-
-The Foster Application Form is used to gather information from potential foster parents who want to join the animal shelter's foster program. This form is crucial in ensuring that the foster parents have the necessary skills, experience, and availability to care for a pet until it's adopted. The form helps the shelter evaluate the suitability of the foster parent and ensures that all necessary information is collected to make a smooth adoption process. It's essential to fill this form correctly and thoroughly to avoid any potential issues or delays in the adoption process.
-
-To prevent duplication, this form is only to be filled by individuals interested in joining the foster program and should not be filled by people searching for a regular adopter.
-
-</thinking>
-
 # Foster Application Form - Help Guide
 ## Purpose
 The Foster Application Form is a crucial step in the animal shelter's adoption process. It helps us understand your qualifications, availability, and experience to ensure that you can provide a suitable home for a foster pet.

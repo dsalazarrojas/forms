@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Self Permission Acknowledgement Form - Help Guide
 
 ## Purpose

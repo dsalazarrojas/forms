@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to request reordering of product samples. It's a crucial form as it allows customers to provide necessary information for the reorder process. Before completing this form, please ensure that you have already spoken to the customer and have the necessary information to proceed with the reorder. Also, please make sure that you haven't already submitted this form for the same product and customer.
-</thinking>
-
 # Product Sample Reorder Request Form - Help Guide
 ## Purpose
 This form is used to request the reorder of product samples for customers. It's essential for providing accurate information to the customer service team to process the reorder efficiently.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended for users to request peer-to-peer payments from their colleagues, friends, or family. This form ensures that all necessary information is collected and documented to facilitate smooth and secure transactions. Before proceeding, ensure that you have the necessary authorization and approval to request a payment, and that this form is not a duplicate of an existing request.
 
 # Peer To Peer Payment Request Form - Help Guide

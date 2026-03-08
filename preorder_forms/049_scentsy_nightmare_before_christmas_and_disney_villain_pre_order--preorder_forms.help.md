@@ -1,10 +1,3 @@
-<thinking>
-The form "scentsy-nightmare-before-christmas-and-disney-villain-pre-order" is likely a pre-order form for Christmas-themed items or Disney-themed items, possibly with a horror or villainous twist. It's designed to collect customer information for orders, including their preferences for Nightmare Before Christmas and Disney Villains. The form might be used for customers to place pre-orders for items such as figurines, collectibles, or exclusive items that will be shipped at a later date. This form appears to be a simple, one-page form with multiple fields for collecting customer information, including select and text fields. There doesn't seem to be any specific logic that would cause this form to be non-duplicate or not relevant to the context. 
-
-This is a basic form with a mix of select and text fields. It's not clear without more context why these specific fields are included. However, the fields are self-explanatory enough that it's possible to understand their purpose. I will assume the intent of each field based on their types and labels.
-
-</thinking>
-
 # scentsy-nightmare-before-christmas-and-disney-villain-pre-order - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers to place pre-orders for Christmas-themed items or Disney-themed items with a horror or villainous twist, such as figurines or collectibles.

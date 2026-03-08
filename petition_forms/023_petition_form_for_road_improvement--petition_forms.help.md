@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to collect information from users about a road improvement petition. This form is intended for users who want to submit their opinions or suggestions regarding road improvements in their area. It is not a survey or a general inquiry form. Please ensure that your submission is relevant and not a duplicate of an existing petition. If you are unsure, please check the list of existing petitions on the website.
-
-</thinking>
-
 # Petition Form for Road Improvement - Help Guide
 ## Purpose
 The Petition Form for Road Improvement is a form used to collect information from users about their opinions or suggestions regarding road improvements in their area.

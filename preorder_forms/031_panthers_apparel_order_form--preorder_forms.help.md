@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by customers to place an order for custom-made apparel items from the Panthers Apparel company. It collects information about the customer's product preferences, shipping details, and contact information. 
-The form is divided into several sections, each focusing on a different aspect of the order. The customer will need to provide information about the product they want to order, including its name, category, color, and size. They will also need to provide their shipping address and preferred shipping method, as well as their contact information, including phone number and email. Additionally, the form includes fields for the order total, tax, and order status. 
-The form is designed to guide the customer through the ordering process, ensuring that they provide all necessary information for a smooth and efficient transaction. It is intended for use by customers who want to place an order for custom-made apparel items.
-</thinking>
-
 # Panthers Apparel Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place an order for custom-made apparel items from the Panthers Apparel company.

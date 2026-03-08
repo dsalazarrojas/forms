@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for evaluating medical products, allowing users to provide feedback on their experiences with these products. It is likely used by medical professionals or companies to gather information on the effectiveness, usability, and other aspects of medical products. 
 
 To avoid duplication, this form likely should be used for a specific product or product line, and not for general feedback on all medical products.

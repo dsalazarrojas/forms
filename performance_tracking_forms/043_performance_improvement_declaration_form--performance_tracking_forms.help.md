@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and context of this form. The "Performance Improvement Declaration Form" is a document used to track and report on employee performance, including issues and areas for improvement. It is essential for employees and managers to fill out this form accurately and consistently to maintain a clear and reliable record of performance data. To avoid duplication of effort and ensure accurate reporting, please make sure to only complete this form for new performance issues and not for updates to existing ones. The data collected in this form will be used to inform training, coaching, or other performance improvement initiatives. 
-</thinking>
-
 # Performance Improvement Declaration Form - Help Guide
 ## Purpose
 The "Performance Improvement Declaration Form" is designed to collect and track employee performance issues and areas for improvement. This form provides a standard way to document and report on performance problems, ensuring consistency and accuracy in data collection.

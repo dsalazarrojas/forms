@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from healthcare professionals about their experiences and attitudes towards anti-infective medications. It aims to gather valuable insights on key opinion leaders' perspectives on anti-infective treatment, resistance concerns, guidelines, and innovative practices. The form is meant to be completed by medical professionals with various levels of experience in the anti-infective field, including physicians, researchers, and educators. To avoid duplication of effort, please ensure that you have not completed this form previously, and that your responses are accurate and up-to-date.
-
-</thinking>
-
 # Anti Infectives Key Opinion Leader (KOL) Survey - Help Guide
 ## Purpose
 This survey aims to gather information on your experiences and attitudes towards anti-infective medications, treatment practices, and innovative approaches in your field of work.

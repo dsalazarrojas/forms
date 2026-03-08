@@ -1,9 +1,3 @@
-<thinking>
-
-The form is intended for users to submit stories, photos, and other relevant information about their experiences and memories. This form is likely used for a personal or business project that requires users to share their experiences and memories in a structured and organized way. Before proceeding, please ensure you have not already submitted this form, as duplicate submissions may be rejected. This guide will walk you through each field of the form to help you complete it successfully.
-
-</thinking>
-
 # Memory Book Submission Form - Help Guide
 ## Purpose
 

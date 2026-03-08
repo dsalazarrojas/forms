@@ -1,9 +1,4 @@
 <figure>
-  <thinking>
-    This form is intended to gather post-event feedback from vendors after their event has taken place. This feedback is crucial in helping the event organizers understand areas of improvement and areas of strength. To ensure the form is completed accurately and thoroughly, please make sure to follow these steps:
-    1. Ensure the event you are providing feedback for is the correct one. This is to prevent duplication of feedback for the same event.
-    2. Fill out the form completely and accurately, ensuring all required fields are filled out.
-  </thinking>
   # Vendor Post Event Feedback Poll - Help Guide
   ## Purpose
   This form is designed to collect feedback from vendors after their event has taken place. The feedback gathered will help event organizers understand areas of improvement and areas of strength.

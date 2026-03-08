@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather responses on national policy reforms. It is meant to help understand public opinions and preferences on various policy-related matters. Please note that the purpose of this form is to collect aggregate data and ensure that each response is unique, as the form will not allow duplicate responses. If you have already submitted a response, it will not be accepted.
-</thinking>
-
 # National Policy Reforms Poll - Help Guide
 ## Purpose
 The National Policy Reforms Poll is a survey designed to gather responses on national policy reforms. It aims to understand public opinions and preferences on various policy-related matters.

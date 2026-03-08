@@ -1,5 +1,3 @@
-<thinking>... internal reasoning and checks to ensure this form's purpose and potential duplication are understood...</thinking>
-
 The purpose of this form is to gather information from individuals who would like to submit a petition related to gender equality, providing them with a platform to share their thoughts, comments, and contact details for further communication. This form is designed to collect personal and contact information from petitioners. To ensure relevance and non-duplication, please note that:
 
 - This form is meant for individuals who genuinely support or oppose gender equality and want to express their views.

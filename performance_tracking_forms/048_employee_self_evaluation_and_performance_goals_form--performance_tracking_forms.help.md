@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for employees to evaluate their own performance and set their performance goals. The form captures information about the employee's self-evaluation, their performance goals, job description, and metrics used to measure their performance. The form is used by managers to review and provide feedback on the employee's performance.
-
-The purpose of this form is to help employees reflect on their own performance and set realistic goals for improvement. It is an essential tool for employee growth and development.
-
-Before completing this form, please ensure that you have not already submitted a self-evaluation form for the same period. This form is meant to be a one-time evaluation for the specified evaluation period.
-
-</thinking>
-
 # Employee Self Evaluation And Performance Goals Form - Help Guide
 ## Purpose
 This form is designed for employees to evaluate their own performance and set their performance goals for improvement.

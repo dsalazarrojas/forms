@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to allow customers to reserve a limited quantity of a child warmer product, selecting a model, quantity, and personalization options. This form is designed to ensure that customers can order the product with their preferred features and receive it for shipping. The form checks for required fields, such as customer name, email, and phone number, to ensure accurate shipping and contact information. 
-
-When completing this form, customers should be aware that only a limited quantity of each model is available for preordering. Therefore, please select the desired model carefully. 
-
-Please review each field to ensure you are providing the correct information. 
-
-</thinking>
-
 # Child Warmer Preorder Form - Help Guide
 ## Purpose
 This form is used to reserve a limited quantity of a child warmer product with your preferred features.

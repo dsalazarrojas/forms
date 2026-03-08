@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and non-duplication...</thinking>
-
 # Poll Answer Slip - Help Guide
 ## Purpose
 This form is used to collect answers from participants in a poll. It is intended to be used by poll administrators to gather data on participant responses.

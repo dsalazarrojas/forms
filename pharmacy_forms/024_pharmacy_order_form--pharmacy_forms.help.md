@@ -1,7 +1,3 @@
-<thinking>...
-The form is designed to collect information related to patient medication orders. It is intended for pharmacists and healthcare professionals to gather necessary details about a patient's medical condition, medication history, and treatment options. This form helps to standardize the process of taking orders from doctors and ensuring that all necessary information is collected accurately. By completing this form, pharmacists can efficiently and effectively communicate with patients, and doctors can make informed decisions regarding patient care.
-</thinking>
-
 # Pharmacy Order Form - Help Guide
 ## Purpose
 This form is designed to collect information related to patient medication orders, allowing pharmacists to gather necessary details and ensure accurate communication with patients and doctors.

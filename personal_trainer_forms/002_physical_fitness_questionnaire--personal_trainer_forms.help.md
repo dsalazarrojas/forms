@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physical Fitness Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your physical fitness, including your height, weight, activity level, exercise frequency, sleep duration, wake-up time, exercise type, medical conditions, and more. This data will help us understand your overall fitness level and provide you with personalized recommendations for improvement.

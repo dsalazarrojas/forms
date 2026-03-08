@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mentee Progress Check In - Help Guide
 ## Purpose
 The Mentee Progress Check In form is designed to track the progress of mentees in a program or training. It helps mentors and administrators to evaluate the progress of mentees, identify areas of improvement, and provide constructive feedback. This form is typically used during regular check-ins between mentors and mentees.

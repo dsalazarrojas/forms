@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is for reserving a personal trainer appointment, and we want to ensure that this form is only used for this purpose and not duplicated for other use cases. This form collects client information, trainer information, appointment details, and other relevant data to facilitate a smooth reservation process. We'll break down the form fields to ensure end-users understand their purpose and usage.
-</thinking>
-
 # Personal Trainer Appointment Reservation Form - Help Guide
 ## Purpose
 This form is designed for clients to reserve a personal trainer appointment with one of our trainers. Please fill out the form below to provide your information and schedule your appointment.

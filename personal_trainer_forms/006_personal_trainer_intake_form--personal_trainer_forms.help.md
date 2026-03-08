@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended to provide a clear and concise explanation of the Personal Trainer Intake Form, ensuring that end-users understand its purpose, how to complete it, and what each field means. The form's purpose is to collect relevant information from individuals seeking personal training services, helping trainers to tailor their approach to each client's needs and goals. This guide will help non-duplication and relevance checks by addressing potential issues and providing clear explanations for each field.</thinking>
-
 # Personal Trainer Intake Form - Help Guide
 ## Purpose
 The Personal Trainer Intake Form is designed to gather essential information from individuals interested in starting a personal training program. This form helps trainers understand the client's goals, preferences, and needs, allowing them to create a customized training plan tailored to their client's objectives and limitations.

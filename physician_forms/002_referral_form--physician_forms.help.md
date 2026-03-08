@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather referral information for patient care and treatment. This form should only be used for patients who have a doctor referring them for a specific treatment or service. Referral forms can be used for various purposes, such as scheduling appointments, requesting medical consultations, or providing additional information for medical records. Please ensure that the form is not duplicated or used for non-medical purposes to avoid confusion and ensure accurate patient care.
-</thinking>
-
 # Referral Form - Help Guide
 ## Purpose
 This form is used to collect referral information for patients seeking medical care or services. It should only be used for patients who have a doctor referring them for a specific treatment or service.

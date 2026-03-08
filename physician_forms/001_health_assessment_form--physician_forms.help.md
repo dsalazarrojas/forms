@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather medical history information from patients. This form is typically used to collect detailed medical history information from patients to aid healthcare professionals in making informed decisions about their treatment and care. It is essential to ensure that you provide accurate and comprehensive information to fill out this form thoroughly and truthfully.
-
-Before you start filling out the form, please make sure that you are familiar with the information you are providing. If you are unsure about any of the questions, please consult with your healthcare provider for clarification.
-
-Additionally, please note that this form is designed to gather medical history information from patients, but it is not a comprehensive medical evaluation. If you have any medical concerns or questions, please reach out to your healthcare provider for personalized advice.
-
-</thinking>
-
 # health_assessment_form - Help Guide
 
 ## Purpose

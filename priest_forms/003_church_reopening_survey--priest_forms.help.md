@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from church members, visitors, staff, and volunteers on their comfort levels and preferences regarding the reopening of the church after the pandemic. The goal is to understand their comfort levels with attending in person services, preferred service options, and suggestions for ensuring a safe and comfortable environment for everyone. The form should be completed by respondents who are members, visitors, staff, or volunteers of the church. To ensure accurate and relevant feedback, it is recommended that respondents complete the form on the day they submit it, and it is not required for the same person to submit multiple responses.
-</thinking>
-
 # Church Reopening Survey - Help Guide
 ## Purpose
 The Church Reopening Survey is designed to gather feedback from church members, visitors, staff, and volunteers on their comfort levels and preferences regarding the reopening of the church after the pandemic.

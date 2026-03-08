@@ -1,10 +1,3 @@
-<thinking>
-The form is likely for photographers and other individuals or organizations to register their events or photography sessions with a permit, which may be required by local laws or regulations. The form could be used to gather information about the event or session, such as the location, start and end dates and times, and the type of photography to be performed. The goal of the form is to ensure that the photographer is aware of and complies with any necessary permits and regulations.
-
-Before completing this form, please note that some fields may be optional or have specific requirements based on the jurisdiction or type of permit.
-
-This guide will walk you through each field of the form to help ensure you complete it accurately and efficiently.</thinking>
-
 # Photography Permit Registration Form - Help Guide
 ## Purpose
 

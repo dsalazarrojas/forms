@@ -1,19 +1,3 @@
-<thinking>
-The form "Veterinary Technology Exhibition Media Consent Form" is used to gather information about an individual's consent for media usage. This form is likely used by veterinarians or veterinary institutions to capture consent from pet owners for the use of their pets' images or videos for various purposes such as exhibition, marketing, or education.
-
-Internal logic checks:
-- The form includes fields for selecting templates, which suggests that the consent is for a specific media format (e.g., print, digital, etc.).
-- The form requires the user to select whether the photos can be released or not, which implies that the consent is related to usage rights.
-- The form also captures additional details such as photo count, location, and description, which might be used to categorize or tag the media.
-
-To complete this form, the user needs to select the relevant options for the consent and provide any additional information that is requested. The form appears to be focused on capturing the user's consent for media usage, with a mix of select-one and select-multiple type fields.
-
-This form seems to be designed for veterinary institutions or pet owners to capture consent for media usage related to their pets. It is not clear if the form is for capturing consent for specific events or events in general.
-
-Please note that the form seems to be very lengthy, and some fields might be redundant or have similar purposes. For example, "photo_usage" and "photo_release" fields might have the same purpose. It is recommended to review and refine the form fields to ensure they are clear and concise.
-
-</thinking>
-
 # Veterinary Technology Exhibition Media Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about an individual's consent for media usage related to their pet's images or videos.

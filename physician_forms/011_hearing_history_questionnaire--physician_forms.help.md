@@ -1,5 +1,3 @@
-<thinking>Before designing this form, let's first confirm that it is a medical history form for patients with hearing issues, and we're not duplicating existing forms. This form will be used to collect information about a patient's hearing history, including their name, hospitalization date, hearing loss type, location, description, hearing aid use, and other relevant medical history. We'll make sure to cover all the necessary fields and provide clear explanations for each field to ensure end-users understand what information is required and how to complete the form correctly.</thinking>
-
 # Hearing History Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential information about a patient's hearing history, including details about their hospitalization date, hearing loss type, location, description, and other relevant medical history.

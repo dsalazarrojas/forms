@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from festival attendees on their experience with author readings at the literary festival. It will help festival organizers to understand the audience's opinions and preferences.
-
-The form is used to collect the following information:
-- Attendee's first name
-- Attendee's last name (if applicable)
-- Attendee's email address (required for feedback and follow-up)
-- Rating of the author reading (select one option)
-- Additional feedback about the author reading
-- Phone number (optional, for follow-up)
-- Select one option from multiple choices (optional)
-- Select multiple options from multiple choices (optional)
-- Date of the event (optional)
-- Time of the event (optional)
-- Select multiple options from multiple choices (optional)
-
-This form is designed to be simple and easy to fill out, with all required fields clearly marked. Please note that the email field is required to be filled out for feedback and follow-up purposes.
-
-</thinking>
-
 # Literary Festival Author Reading Voting Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from festival attendees on their experience with author readings at the literary festival.

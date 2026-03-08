@@ -1,8 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's review the provided YAML fields. The form has fields related to a person's identity, employment, and vaccination history. It seems to be a registration form for a COVID-19 vaccination program, specifically for individuals who are part of essential services or work in industries that require verification of employment. The purpose of this form is to gather information about the registrant's identity, job role, and employment status to verify their eligibility for the vaccination.
-The form is likely part of a program to prioritize vaccination for essential workers and services. The form will help the registration team to identify these individuals and verify their employment status.
-</thinking>
-
 # COVID 19 Phase 3 Vaccination Registration Form - Help Guide
 ## Purpose
 This form is for essential workers and individuals in industries that require verification of employment to receive COVID-19 vaccination as part of Phase 3 of the vaccination program.

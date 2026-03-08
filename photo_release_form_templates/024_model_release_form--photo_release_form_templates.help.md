@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to capture information about the model's consent and permission to use their photograph or image. It is a crucial document that ensures the model's rights are protected and that they are aware of how their image will be used. This form should only be used when there are specific situations that require the model's consent, such as modeling jobs, photo shoots, or any other instance where their image is being captured and used. Ensure that you are using this form only when necessary, as it can be a lengthy and detailed process.</thinking>
-
 # Model Release Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Before designing the user-facing help guide, I will review the provided YAML fields to ensure I understand the form's purpose and fields. This form appears to be a photo release form for a coworking space, used for various events and purposes. The form requires participants to provide their consent for the use of their photos in different scenarios, including marketing materials, social media, and internal communications. It also asks for information about the event, such as the name, date, and type of membership.</thinking>
-
 # Co Working Space Photo Release Form - Help Guide
 ## Purpose
 This form is to obtain your consent and information for the use of your photos taken in a coworking space event or occasion. Please fill out this form to ensure that you are comfortable with the use of your photos in different contexts.

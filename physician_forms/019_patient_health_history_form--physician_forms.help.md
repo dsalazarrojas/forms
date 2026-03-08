@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect patient health information in a structured and organized manner. The form is used to gather medical history, allergies, medical conditions, current medications, past treatments, medical procedures, medical specialties, doctor's contact information, and other relevant details. This form is meant to be completed by patients to provide their healthcare providers with a comprehensive overview of their health status.
-
-</thinking>
-
 # Patient Health History Form - Help Guide
 ## Purpose
 This form is designed to collect patient health information in a structured and organized manner. The form is used to gather medical history, allergies, medical conditions, current medications, past treatments, medical procedures, medical specialties, doctor's contact information, and other relevant details.

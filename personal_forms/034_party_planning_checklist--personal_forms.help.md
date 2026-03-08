@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to help users plan and organize parties and events, including planning party details, guest lists, food and drink, entertainment, decorations, and other important aspects. This form aims to make party planning easier and more efficient by providing a structured and systematic approach to planning.
-This form is likely to be used by event organizers, hosts, or anyone who wants to plan a party or event. It is possible that this form will be used for internal purposes within an organization or as a public-facing tool, depending on the context.
-Please note that some of the fields in this form are not required, so users can choose to fill them in or leave them blank.
-</thinking>
-
 # Party Planning Checklist - Help Guide
 ## Purpose
 The Party Planning Checklist is a form designed to help you plan and organize parties and events. It guides you through the most important aspects to consider when planning a party, including party details, guest lists, food and drink, entertainment, decorations, and more.

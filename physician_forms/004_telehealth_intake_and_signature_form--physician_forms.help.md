@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # telehealth_intake_and_signature_form - Help Guide
 ## Purpose
 The telehealth_intake_and_signature_form is a form used for patient intake and signature capture during telehealth consultations. It collects essential information from both the patient and the healthcare provider. This form is designed to be easily accessible and completed by both parties, ensuring accurate and efficient data collection.

@@ -1,9 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, my goal is to create a user-facing help guide that clearly communicates the purpose and requirements of the Pet Portrait Order Form, making it easy for users to understand and fill out. The form is designed to gather essential information for a pet photography session, including the pet's name, breed, owner's name, contact information, session details, and package options. The guide will be concise, practical, and easy to follow, ensuring that users understand each field's purpose and requirements.
-
-</thinking>
-
 # Pet Portrait Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for a pet photography session. Please fill out the form completely and accurately to ensure a smooth and successful photography experience for your pet.

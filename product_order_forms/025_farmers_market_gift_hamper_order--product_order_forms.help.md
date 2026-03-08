@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a tool for customers to place an order for a customized gift hamper, a type of gift basket typically filled with locally-sourced products from a farmers market. 
-To complete this form, the user will provide personal information about the recipient, including their name and email address, as well as details about the delivery date and time. 
-The user will also select a hamper type and options for the contents of the hamper, and have the option to include a gift message. 
-The delivery address is a required field, indicating the location where the gift hamper should be delivered.
-</thinking>
-
 # Farmers Market Gift Hamper Order - Help Guide
 ## Purpose
 This form is designed for customers to place an order for a customized gift hamper filled with locally-sourced products from a farmers market.

@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block to explain the form's purpose and relevance checks.
-This form is intended for individuals to sign up for a petition, providing personal details and agreeing to share their contact information and certain other specific details. The form is likely used in an academic or organizational setting where petitioners need to confirm their identity and contact information to be included in a petition. Before starting, ensure you are not signing up for the same petition multiple times, and check your contact information for accuracy.
-</thinking>
-
 # Petition Signup Form - Help Guide
 ## Purpose
 The Petition Signup Form is used to collect personal details and agreements from individuals who wish to sign a petition in an academic or organizational setting. This form helps ensure that petitioners can be identified and their contact information shared with relevant parties.

@@ -1,12 +1,3 @@
-<thinking>
-The Faculty Promotion Peer Assessment Form is a tool used to gather evaluations and recommendations from peer faculty members on a candidate's qualifications and fit for promotion. This form is typically completed by peer faculty members who are well-versed in the candidate's work and qualifications. It is essential to complete this form accurately and thoroughly, as it plays a crucial role in the promotion process.
-
-Before starting to complete this form, ensure that you are familiar with the candidate's work and qualifications. If you are not sure about the candidate's work or qualifications, it is recommended that you do not complete this form.
-
-Please only complete this form if you have a thorough understanding of the candidate's work and qualifications. This will help maintain the integrity and reliability of the assessment.
-
-</thinking>
-
 # Faculty Promotion Peer Assessment Form - Help Guide
 
 ## Purpose

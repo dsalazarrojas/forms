@@ -1,13 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I've analyzed the given YAML fields and understood the purpose of the form. The "Board Meeting Performance Review" form is designed to evaluate the performance of a board meeting by collecting feedback from the reviewers. This form is likely used by board members or meeting facilitators to assess how well the meeting was conducted, what went well, and areas for improvement.
-
-To ensure data quality and relevance, I've reviewed the form fields to ensure they cover all necessary aspects of a board meeting performance review. The form includes fields for rating the meeting's attendance, agenda clarity, engagement, time management, discussion quality, decision-making, action items, leadership effectiveness, content relevance, strengths, areas for improvement, communication and transparency, resource adequacy, suggestions for next meeting, and overall satisfaction.
-
-This form appears to be a comprehensive evaluation tool, covering various dimensions of a board meeting's performance. Reviewing this form will help identify areas of strength and weakness, guiding future meetings to improve their effectiveness.
-
-</thinking>
-
 # Board Meeting Performance Review - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-To create this form, I'll consider the context of "product_order_forms" and "qr_marketing_display_order_form" to provide an accurate and user-friendly help guide.
-
-</thinking>
-
 # qr_marketing_display_order_form - Help Guide
 ## Purpose
 This form is designed to display marketing order information, allowing users to select products, specify delivery preferences, and provide customer details. It's a crucial tool for managing and tracking marketing orders.

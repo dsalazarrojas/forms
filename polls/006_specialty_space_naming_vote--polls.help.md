@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their preferences for naming a specialty space. The purpose of this form is to collect data that will help in the decision-making process for choosing a name for a specialty space. This form will not collect any sensitive or personally identifiable information. Please ensure that you fill out the form accurately and provide any additional comments or feedback if you have any specific thoughts or ideas about the naming process.
-</thinking>
-
 # Specialty Space Naming Vote - Help Guide
 ## Purpose
 The Specialty Space Naming Vote form is designed to gather your opinion on the best name for a specialty space. Your input will help us choose a name that represents the space's unique identity.

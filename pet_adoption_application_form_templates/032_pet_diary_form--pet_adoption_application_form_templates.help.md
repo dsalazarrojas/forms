@@ -1,10 +1,3 @@
-<thinking>
-The Pet Diary Form is a crucial tool for collecting and recording important information about pets in our shelter. This form will help our staff members to quickly gather essential details about each pet, making it easier to care for and find the right home for them. It's essential to complete this form accurately to ensure the pet's medical and social needs are met.
-
-Before starting, please ensure you have all the necessary information about the pet, including their name, breed, color, weight, health status, and any medication they may require. This form should only be filled out for a new pet or a pet that has not been previously recorded in our system. If a pet has been previously recorded, please use the existing entry to avoid duplication of information.
-
-Please review the fields below to understand what information we need from you.</thinking>
-
 # Pet Diary Form - Help Guide
 ## Purpose
 The Pet Diary Form is a tool for collecting and recording essential information about pets in our shelter.

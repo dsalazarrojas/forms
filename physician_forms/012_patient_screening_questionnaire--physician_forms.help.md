@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather crucial information about patients for the purpose of conducting a comprehensive screening. This form will be used to collect and store patient data in a standardized format, ensuring that all necessary information is captured consistently. By completing this form, you will be able to assess the patient's medical history, current medications, medical conditions, and other relevant details. This information will help you to identify potential risks and ensure that the patient receives the best possible care. Please note that some of the fields are optional, but all fields marked as required should be filled out carefully and accurately.
-</thinking>
-
 # Patient Screening Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect and store patient data for the purpose of conducting a comprehensive screening. The information gathered will help identify potential risks and ensure that the patient receives the best possible care.

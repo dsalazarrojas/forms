@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to quality inspection gauges orders. The form is likely used in a manufacturing or industrial setting where quality control is essential. The fields on this form seem to cover different aspects of the order, such as shipping details and customer notes.
-
-Before proceeding, let's review the fields to ensure there is no duplication of information. After examining the form structure, it appears that fields with similar labels and types are intended to collect different types of information or serve as alternatives. For example, "Shipping Contact" and "Shipping Contact 2" likely serve the same purpose, with the latter being a duplicate or a secondary option. Similarly, "Customer Notes" and "Customer Notes 2" are also likely duplicates. This guide will provide clear guidance on how to complete the form, taking into consideration these potential duplicates.
-
-</thinking>
-
 # Quality Inspection Gauge Order Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a template for a photography payment plan. The purpose of this form is to collect information from customers about their photography payment plans. I will assume that it is intended to be filled out by customers, perhaps as part of a service or product offering.
-
-To confirm, the fields on this form include a text field for a customer name, an email field for customer contact information, and a numeric field for payment plan ID. The form does not appear to be required, but it may be used to collect optional information from customers.
-
-The form will likely be used in a customer-facing context, such as on a website or in a mobile app. I will aim to create a clear and concise help guide that explains the purpose and usage of each field.</thinking>
-
 # Photography Payment Plan Form - Help Guide
 ## Purpose
 The Photography Payment Plan Form is used to collect information from customers about their photography payment plans. This information will help us understand their needs and preferences.

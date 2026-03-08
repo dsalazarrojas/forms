@@ -1,7 +1,3 @@
-<thinking>
-The mining equipment order form is a critical document used to process and manage orders for mining equipment. It is essential to ensure that the form is completed accurately and thoroughly to facilitate efficient and effective order processing. The form should only be filled out for genuine orders and not for testing or demonstration purposes. Please review the form carefully before submitting it.
-</thinking>
-
 # Mining Equipment Order Form - Help Guide
 ## Purpose
 The Mining Equipment Order Form is a standard template used to capture critical information about mining equipment orders. It is used to ensure accurate and efficient processing of orders, helping to reduce errors and improve communication between the supplier and the customer.

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for documentary screening pre-orders. The form will collect user data such as email, phone number, number of tickets, payment method, ticket type, and special requests. This form is designed to be completed by the end-user to place a pre-order for a documentary screening event. The form fields will help the organiser to process the orders and manage the event logistics efficiently. To ensure accurate and complete data, please make sure to fill in all the required fields. Note that some fields are optional, which means you can skip them if not applicable. If you have any doubts or questions, please contact the event organiser.</thinking>
-
 # Documentary Screening Pre Order Form - Help Guide
 ## Purpose
 The Documentary Screening Pre Order Form is designed to collect information from users for a documentary screening event. This form will help the organiser to process the orders and manage the event logistics.

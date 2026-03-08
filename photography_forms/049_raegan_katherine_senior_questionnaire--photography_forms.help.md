@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users, specifically to gather data about individuals who have interacted with Raegan Katherine, a senior at a company. The form is meant to be completed by people who have had a session with Raegan Katherine, and the data collected will help the organization understand their demographics, preferences, and habits. To ensure that the form is not completed unnecessarily, it's essential to check if a similar form has already been filled out by the same individual.
-</thinking>
-
 # raegan_katherine_senior_questionnaire - Help Guide
 ## Purpose
 

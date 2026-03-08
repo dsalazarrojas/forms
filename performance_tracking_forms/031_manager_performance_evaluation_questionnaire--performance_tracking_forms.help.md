@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we should first understand the purpose of this form. Based on the provided YAML fields, this form appears to be designed for evaluating the performance of a manager, specifically in terms of their leadership skills, performance indicators, and other key areas. The form seems to be used for regular evaluations, as there are fields for evaluation frequency, cycle dates, and cycle status.
-
-The form asks for feedback from the employee, ratings from the manager, and recommendations for improvement. It also asks for a plan of action and notes from the manager. The form is likely used for performance management and development purposes.
-
-Before creating the help guide, we should check for any duplication or unnecessary fields. Upon reviewing the form fields, we can see that some fields are similar or have overlapping information. For example, 'evaluation_cycle_status' and 'evaluation_status' are similar, 'performance_rating' and 'employee_rating' are similar, and 'evaluation_cycle_completed' and 'evaluation_cycle_status' seem redundant. We can consider removing or merging these fields to make the form more streamlined.
-
-</thinking>
-
 # Manager Performance Evaluation Questionnaire - Help Guide
 ## Purpose
 The Manager Performance Evaluation Questionnaire is used to assess the performance of a manager based on leadership skills, performance indicators, and other key areas. It is designed to help managers evaluate their performance regularly and identify areas for improvement.

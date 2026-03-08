@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect medical history information from patients for telemedicine consultations. The form is divided into several sections, including Medical History, Insurance Information, Contact Info, Medical Contact Information, Medical History Allergies, Medical History Conditions, Medication List, Contact Info Additional, Emergency Contact Info, Emergency Contact Relationship, Medical History Surgeries, Medical History Fertility, Medical History Tattoos, Medical History Vaccinations, Medical History Vaccinations 2, Medical History Vaccinations 3, Medical History Vaccinations 4, Medical History Vaccinations 5, Medical History Vaccinations 6, and Medical History Vaccinations 7 and 8. The form is intended to gather relevant medical information to ensure the best possible care and treatment for the patient. It is crucial that this information is accurate and up-to-date to prevent any potential risks or complications during the telemedicine consultation. 
-
-This form should only be completed by the patient or their authorized representative. 
-
-Please note that this form may need to be reviewed and updated regularly to reflect any changes in the patient's medical history.
-</thinking>
 # Telemedicine Patient Information Form - Help Guide
 ## Purpose
 This form is designed to collect medical history information from patients for telemedicine consultations.

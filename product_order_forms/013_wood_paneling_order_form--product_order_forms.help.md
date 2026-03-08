@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and not for ordering something else, and we need to make sure we don't end up with duplicate orders. This form is meant for customers to order wood paneling for their homes or offices. We should only allow customers to select one wood type, quantity, color, wood finish, and installation type. We should also ensure that the email and phone fields are only used for contact purposes and not for other information. This form is a simple order form that needs to guide the customer through the process of placing an order.
-</thinking>
-
 # Wood Paneling Order Form - Help Guide
 ## Purpose
 The Wood Paneling Order Form is a simple form designed to help customers place an order for wood paneling for their homes or offices. This form gathers information about the customer, wood type, quantity, color, wood finish, and installation type required for the order.

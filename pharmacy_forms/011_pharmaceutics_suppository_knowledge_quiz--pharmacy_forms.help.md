@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to assess the knowledge of pharmacy professionals on suppositories, which are medical devices used to deliver medication through the rectum. This form is designed to evaluate their understanding of various aspects related to suppositories, such as their application, benefits, and potential risks. The form's results will help identify knowledge gaps and inform educational materials.
-</thinking>
 # Pharmaceutics Suppository Knowledge Quiz - Help Guide
 ## Purpose
 This quiz is designed to assess your knowledge on suppositories, medical devices used to deliver medication through the rectum. It consists of 12 questions, each evaluating different aspects of suppositories.

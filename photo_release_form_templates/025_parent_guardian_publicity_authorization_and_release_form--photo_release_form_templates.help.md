@@ -1,14 +1,3 @@
-<thinking>
-This form is for authorizing and releasing the use of a child's image, name, or likeness for publicity purposes. The form is designed to gather information from a parent or guardian to obtain their consent and specify terms for the use and expiration of their child's publicity rights. The purpose of this form is to ensure that parents or guardians are aware of and approve the use of their child's image, name, or likeness for publicity purposes.
-
-Before continuing, please ensure that you have read and understand the form's purpose and the terms outlined below.
-
-If you are a parent or guardian, please fill out this form carefully and accurately to ensure that your child's image, name, or likeness is used properly and according to your wishes.
-
-If you are a project administrator or team member, please use this form to gather necessary information from parents or guardians and ensure that it is completed accurately and thoroughly.
-
-</thinking>
-
 # Parent Guardian Publicity Authorization And Release Form - Help Guide
 
 ## Purpose

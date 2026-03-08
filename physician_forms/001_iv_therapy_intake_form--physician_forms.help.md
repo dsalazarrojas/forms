@@ -1,12 +1,3 @@
-<thinking>
-The "Iv Therapy Intake Form" is a comprehensive document used to gather essential information about patients undergoing intravenous (IV) therapy treatment. This form is designed to collect data that will help healthcare providers evaluate the patient's medical history, current condition, and treatment needs.
-
-Before proceeding, the purpose of the form should be reviewed to ensure relevance and to avoid duplication of effort. Is the form being used for a new patient intake or as a follow-up to an existing patient's treatment? If it's being used for a new patient, make sure to start a new medical record for them. If it's a follow-up, ensure the existing record is referenced and updated accordingly.
-
-To avoid confusion, the following fields will be addressed separately, and the reader is expected to understand their purpose and importance in the IV therapy intake process.
-
-</thinking>
-
 # Iv Therapy Intake Form - Help Guide
 ## Purpose
 The "Iv Therapy Intake Form" is used to collect crucial information about patients undergoing IV therapy. This form is a critical document that guides healthcare providers in evaluating the patient's medical history, current condition, and treatment needs.

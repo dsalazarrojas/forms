@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect personal and health information from potential clients for a fitness coaching program. The form includes fields for contact information, medical conditions, emergency contacts, and medications. The purpose of this form is to ensure that the potential client has provided all necessary information to participate in the fitness coaching program.
-To ensure accuracy and relevance, please review the following fields carefully. Note that most fields are optional and only the required fields need to be filled out.
-</thinking>
-
 # Fit Life Coaching Intake Form - Help Guide
 ## Purpose
 The Fit Life Coaching Intake Form is designed to collect personal and health information from potential clients for a fitness coaching program. The form is essential for the coach to understand the client's needs and provide personalized guidance.

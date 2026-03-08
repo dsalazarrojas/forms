@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Safety Standards Petition Form - Help Guide
 ## Purpose
 The Construction Safety Standards Petition Form is a tool for individuals to petition for changes to the construction industry's safety standards. This form will allow you to submit your suggestions and support for changes to the existing safety standards.

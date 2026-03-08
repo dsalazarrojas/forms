@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will review the provided YAML schema for the "Hiking Boot Pre Order Form" and ensure that the help guide accurately reflects its purpose, usage, and field explanations. I will aim to create a clear and concise guide that assists end-users in completing the form correctly.</thinking>
-
 # Hiking Boot Pre Order Form - Help Guide
 
 ## Purpose

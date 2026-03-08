@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to calculate the total cost of a meal or service, including the tip. This form is designed to simplify the calculation process, making it easy to determine the final amount to be paid. By providing the bill subtotal, choosing a tip percentage or amount, and entering the final amount, the user can accurately calculate the total. 
-
-The form has multiple fields, each with its own specific purpose and input type. However, I must note that some fields seem to have contradictory names, such as "Bill Amount" and "Tip Amount" - in a tip payment context, these names should be reviewed for consistency. 
-
-For instance, "Bill Amount" could be named "Bill Subtotal" to avoid confusion with "Bill Subtotal" on page 1, which is actually the original bill price. 
-
-To avoid duplication and confusion, I will assume that the original bill price is what "Bill Subtotal" should refer to, and "Bill Amount" will be renamed to "Original Bill" for clarity.
-
-</thinking>
-
 # Tip Payment Form - Help Guide
 ## Purpose
 The Tip Payment Form is a tool used to calculate the total cost of a meal or service, including the tip.

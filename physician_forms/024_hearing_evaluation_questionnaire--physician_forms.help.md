@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive help guide for the "hearing_evaluation_questionnaire" form, we'll need to break down its purpose, completion instructions, and field-by-field explanations.
 
 The form is designed to gather information related to patient hearing evaluations, including their medical history, current medications, and hearing tests results. The purpose of this form is to provide a structured way for healthcare professionals to document and communicate key information about a patient's hearing status.

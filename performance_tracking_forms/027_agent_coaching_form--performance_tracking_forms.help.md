@@ -1,13 +1,3 @@
-<thinking>... 
-
-We need to create a user-facing help guide for the "Agent Coaching Form" which is part of the "performance_tracking_forms" category. The form aims to collect data on agent coaching sessions, including information about the session itself, the agent's performance, and the action plan agreed upon. 
-
-The form will be used by coaches and supervisors to provide coaching and development opportunities to agents, helping them improve their performance in areas such as communication, time management, product knowledge, customer handling, and sales technique. The form should be used for each coaching session, and the collected data will help in tracking progress and identifying areas of improvement.
-
-This guide will help users understand the purpose and structure of the form, making it easier for them to complete it accurately and effectively. It will also explain each field in a clear and concise manner, ensuring that users understand what information is required and how it will be used.
-
-</thinking>
-
 # Agent Coaching Form - Help Guide
 ## Purpose
 The "Agent Coaching Form" is a tool used by coaches and supervisors to provide coaching and development opportunities to agents, focusing on improving their performance in specific areas.

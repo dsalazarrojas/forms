@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is only used for its intended purpose and that users understand the questions and fields clearly. This form is designed to collect feedback from patients about their experience at the hospital, gathering information on various aspects of their visit, including overall satisfaction, doctor care, wait time, quality of care, and other factors. We should check that the form is not being used for other purposes, such as for patient registration or appointment scheduling.
-</thinking>
-
 # Hospital Satisfaction Survey - Help Guide
 ## Purpose
 The Hospital Satisfaction Survey is designed to collect feedback from patients about their experience at the hospital. This form will help us understand how well we are meeting our patients' needs and identify areas for improvement.

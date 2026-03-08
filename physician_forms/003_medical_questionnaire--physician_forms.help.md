@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect medical information from patients or clients, providing a comprehensive set of fields to capture essential details. The form is likely used in healthcare settings to gather relevant medical history, certifications, and other important health-related information.
-
-To confirm, this form is intended for medical or health-related purposes only, and its completion is required for the collection of accurate and up-to-date medical information. Please ensure you are completing this form only for a legitimate medical reason and not for any other purpose.
-
-The following guide will walk you through how to complete each section of the form.
-
-</thinking>
-
 # medical_questionnaire - Help Guide
 ## Purpose
 The medical questionnaire form is used to collect detailed medical history, health status, and medical certificate information from patients or clients. This form is designed to be completed by the individual themselves, providing accurate and comprehensive information for healthcare professionals.

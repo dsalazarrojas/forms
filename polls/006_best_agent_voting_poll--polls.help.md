@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and ratings from users to recognize and reward outstanding performance of agents in various categories. The form is designed to gather specific information about the agents, such as their name, email, organization, and performance ratings, to help identify the best agents and provide recognition to their work. This form is used to determine which agents are exceptional in their field and deserve recognition and rewards. It is also used to help other users make informed decisions when selecting an agent for future collaborations or projects.
-</thinking>
-
 # Best Agent Voting Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from users to recognize and reward outstanding performance of agents in various categories.

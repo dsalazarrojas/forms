@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Employee Performance Evaluation Form - Help Guide**
 
 ## Purpose

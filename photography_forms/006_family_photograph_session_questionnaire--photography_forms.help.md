@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from families about their photography session preferences and needs. This information will be used to tailor the session to their requirements and ensure a memorable experience. Please make sure to fill out the form accurately and thoroughly, and do not duplicate any sessions.
-
-</thinking>
-
 # Family Photograph Session Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from families about their photography session preferences and needs. Please answer the questions honestly to help us create a customized experience for your family.

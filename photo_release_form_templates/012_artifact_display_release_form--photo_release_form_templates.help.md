@@ -1,7 +1,3 @@
-<thinking>
-We should first verify that the form is being used for its intended purpose. This form is designed for lenders to release their artifacts for display in a specific location, and it captures essential information about the artifact and its display details. Before proceeding, please ensure that you are using this form for a legitimate reason and not duplicating existing releases. This form may be used for museum displays, event exhibitions, or other public displays. To avoid errors, please fill out the form carefully and accurately.
-</thinking>
-
 # Artifact Display Release Form - Help Guide
 ## Purpose
 This form is designed to capture information about the artifact, its lender, and display details for a specific exhibition or display. It helps ensure that all necessary permissions, insurance, and other requirements are in place for a smooth and successful display.

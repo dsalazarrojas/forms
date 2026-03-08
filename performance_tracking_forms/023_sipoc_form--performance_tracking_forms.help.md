@@ -1,10 +1,3 @@
-<thinking>
-- The SIPOC Form is used to track supplier performance, customer interactions, and process data. This form helps to collect and analyze information about suppliers, inputs, processes, outputs, customers, and other relevant details.
-- This form is intended to be used in a variety of scenarios, such as performance tracking, data collection, and process monitoring.
-- To avoid duplication of effort, please ensure that you have a clear understanding of the form's purpose and the specific data you're looking to collect before proceeding.
-- Before completing the form, review the following instructions and explanations to ensure a smooth and accurate experience.
-</thinking>
-
 # SIPOC Form - Help Guide
 ## Purpose
 The SIPOC Form is designed to capture relevant data for tracking supplier performance, customer interactions, and process information.

@@ -1,12 +1,3 @@
-<thinking>
-The Resort Opening Pre Order Form is a crucial tool for guests to submit their pre-reservation requests and special instructions for their upcoming stay. It's essential to ensure that the form is filled out correctly to provide the best possible experience for our guests.
-
-Before filling out the form, please ensure that you have carefully reviewed the form and that the information you provide is accurate and complete.
-
-To avoid duplicate submissions, please do not resubmit your request if you have already done so. If you have any doubts or questions, please contact our customer support team for assistance.
-
-</thinking>
-
 # Resort Opening Pre Order Form - Help Guide
 ## Purpose
 The Resort Opening Pre Order Form is a pre-reservation request form designed to help guests provide their preferences and requirements for their upcoming stay at our resort. It helps us to better understand their needs and make their stay more enjoyable.

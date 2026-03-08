@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect data from law enforcement officers about their stress and support experiences in their workplace. The purpose of this form is to gather information on the types of stressors, levels of support, and factors that contribute to their job satisfaction and retention. The data collected will help to identify areas of improvement for police departments to better support their officers and improve overall work environment.
-
-To avoid duplication, please only complete this form if you have not already done so in the past 6 months.
-
-</thinking>
-
 # Law enforcement officer employment stress and support review - Help Guide
 ## Purpose
 This form is designed to collect data from law enforcement officers about their stress and support experiences in their workplace.

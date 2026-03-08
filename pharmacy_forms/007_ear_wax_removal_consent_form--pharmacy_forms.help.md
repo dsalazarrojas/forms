@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 
 # Ear Wax Removal Consent Form - Help Guide

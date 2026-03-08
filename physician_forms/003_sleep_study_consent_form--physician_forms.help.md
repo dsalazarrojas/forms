@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to obtain consent from a patient for a sleep study. This form is likely used in a healthcare setting, such as a sleep center or a medical practice, to ensure that patients understand and agree to participate in a sleep study.
 
 Before proceeding, ensure that you are not duplicating a form that already serves a similar purpose. Review your organization's documentation or consult with colleagues to confirm that this form is a one-time requirement.

@@ -1,9 +1,3 @@
-<thinking>
-The "sculptra_consent_form" is designed to collect patient and clinician information for consent and treatment purposes. This form may be part of a medical setting where patients are consenting to receive treatment. 
-The form collects demographic details about the patient and information about the treatment they're undergoing. It also includes fields for the clinician's and patient's signatures, indicating that the patient has understood and agreed to the treatment plan.
-The form may not be applicable in all medical settings or situations.
-</thinking>
-
 # sculptra_consent_form - Help Guide
 ## Purpose
 The sculptra_consent_form is a medical consent form that collects necessary information from patients and clinicians for treatment and consent purposes. It is used to ensure that patients understand and agree to their treatment plans.

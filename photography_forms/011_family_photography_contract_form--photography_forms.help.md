@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for clients to document and confirm their photography services. The fields provided here are meant to gather essential information about the client, their preferences, services required, and payment details. This form should be used to ensure that all relevant information is captured and communicated clearly to both the photographer and the client.
-The following guide assumes the client will be filling out this form for a photography session.
-</thinking>
-
 # Family Photography Contract Form - Help Guide
 ## Purpose
 This form is a document for capturing essential details between the photographer and the client before, during, and after a photography session.

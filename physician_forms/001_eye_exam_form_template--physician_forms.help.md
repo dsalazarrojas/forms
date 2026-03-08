@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be a general-purpose eye exam form template. The form is likely to be used in medical settings to collect information from patients. The fields provided seem to cover various aspects of eye exams, including patient details, medical history, and examination results. The form is not clearly designed for a specific exam type, such as ophthalmology or contact lens evaluation. However, it appears to be a comprehensive form to gather information for any type of eye exam. There does not seem to be any duplicate fields. The form fields are mostly text or select_one/select_multiple fields, which suggests it's intended for a medical professional to fill out and analyze. I'll make sure to provide clear guidance on how to complete this form.</thinking>
-
 # Eye Exam Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from patients for eye exams. It covers various aspects of the exam, including patient details, medical history, and examination results.

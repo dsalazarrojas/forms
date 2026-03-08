@@ -1,11 +1,3 @@
-<thinking>
-As a form designer and technical writer, I'll first analyze the provided YAML form schema to understand its purpose and functionality. The Quality Control Tracker form seems to be designed for tracking quality control processes, likely in a manufacturing or inspection context. The form's purpose is to collect information on inspections, outcomes, quality issues, corrective actions, and other relevant details. 
-
-From the schema, it appears that the form is not strictly mandatory, with only one field, "inspection_outcome", which is not required. This suggests that the form can be completed without any specific requirements, allowing for flexible data collection. 
-
-To create a user-facing help guide, I'll focus on making the form's purpose and usage clear, concise, and accessible to end-users.
-</thinking>
-
 # Quality Control Tracker - Help Guide
 ## Purpose
 The Quality Control Tracker form is designed to collect information on quality control processes, including inspections, outcomes, quality issues, and corrective actions. This form helps to track and monitor the quality control process, ensuring that any issues are addressed promptly and effectively.

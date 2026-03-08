@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the purpose of ordering ice machine filters. The form will likely be used by customers or internal staff to place orders for replacement filters for ice machines.
-To avoid duplication of effort, it's assumed that the form will be used in a controlled environment, such as a customer support portal or a dedicated ordering system. This guide will cover the expected usage flow and field explanations to ensure that users understand how to complete the form correctly.
-</thinking>
-
 # Ice Machine Filter Replacement Order Form - Help Guide
 ## Purpose
 This form is used to order replacement filters for ice machines. Please fill out the required fields to place your order.

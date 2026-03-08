@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture data for single-product orders with a single choice for payment status. The purpose of this form is to provide a simple and straightforward way to collect relevant information for a single product order. This form is intended to be used in scenarios where only one product is being ordered and the payment status is a single choice among "Unpaid", "Paid", or "Void". This form does not require any complex calculations or conditional logic, making it suitable for straightforward order entry tasks.
-
-Before filling out this form, please ensure that you are using the correct context and that the information you are entering is accurate and valid. 
-
-This form is part of the "product_order_forms" category and is specifically designed for "single_product_w_single_choice_orders" scenarios.
-
-</thinking>
-
 # single_product_w_single_choice_orders - Help Guide
 ## Purpose
 This form is for capturing data for single-product orders with a single choice for payment status.

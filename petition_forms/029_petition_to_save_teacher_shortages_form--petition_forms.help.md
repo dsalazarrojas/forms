@@ -1,6 +1,3 @@
-<thinking> 
-We are developing a tool to help address the pressing issue of teacher shortages in the education sector. To ensure that all students receive quality education from qualified and effective teachers, we need to better understand the root causes of teacher shortages and the potential solutions. The Petition To Save Teacher Shortages Form is a template designed to gather insights and ideas from various stakeholders, including teachers, educators, and policymakers, to help us understand the challenges and propose viable solutions. Please fill out this form accurately and thoroughly, and ensure that you are not duplicating information or efforts already underway in your institution or organization. Your input is invaluable to us, and we appreciate your contributions. </thinking>
-
 # Petition To Save Teacher Shortages Form - Help Guide
 ## Purpose
 The Petition To Save Teacher Shortages Form is designed to collect insights and ideas from various stakeholders on how to address the issue of teacher shortages in the education sector. Your responses will help us understand the challenges and propose solutions to ensure that all students receive quality education from qualified and effective teachers.

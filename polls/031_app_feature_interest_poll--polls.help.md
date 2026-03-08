@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # App Feature Interest Poll - Help Guide
 ## Purpose
 This guide is a step-by-step explanation of the App Feature Interest Poll form. The purpose of this form is to gather information from users about their interests and preferences regarding various features of our app. This information will be used to inform our product development and feature prioritization process.

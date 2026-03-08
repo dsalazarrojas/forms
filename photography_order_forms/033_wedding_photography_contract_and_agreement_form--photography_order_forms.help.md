@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Photography Contract And Agreement Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from a couple getting married to formalize their agreement on wedding photography services with a professional photographer. The form helps ensure a clear understanding between the parties involved, outlining expectations, and setting the stage for a successful collaboration.

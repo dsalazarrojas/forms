@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help users create a new preorder on the website. 
-The form is divided into two main sections: user information and business information. 
-The user is required to fill in their domain name, business name, email, phone number, and website. 
-The business type, domain name, and target audience sections are optional. 
-The form is used to create a new preorder on the website, which will be used to track the user's preferences and requirements for their website.
-</thinking>
-
 # website_order_form - Help Guide
 ## Purpose
 This form is used to create a new preorder on the website, which will help us better understand your business and website requirements.

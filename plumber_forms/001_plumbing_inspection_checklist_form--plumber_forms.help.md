@@ -1,20 +1,3 @@
-<thinking>
-This form is a comprehensive checklist for plumbing inspections. It was created to help users ensure that all necessary checks are performed during a plumbing inspection. The form is designed to be completed by a user who is conducting a plumbing inspection, and it guides them through a series of questions and checks to help them identify any issues with the plumbing system.
-
-The form has 25 pages, each covering a different aspect of the inspection. The pages are designed to be completed in sequence, with each page building on the information gathered from the previous one.
-
-To ensure that the form is being used correctly, it's essential to understand each page's purpose and how it fits into the overall inspection process.
-
-Before starting the form, make sure to review the entire document and understand what each page is asking for. This will help you stay organized and ensure that you don't miss any critical checks.
-
-During the inspection, complete each page in order, following the instructions provided. Be sure to answer all questions and complete all checks, as they are essential to a comprehensive inspection.
-
-When you've completed the form, review your answers and checks to ensure that you haven't missed anything. This will help you identify any issues and make a detailed report of your findings.
-
-If you need help or clarification on any of the checks or questions, don't hesitate to ask for assistance.
-
-</thinking>
-
 # plumbing_inspection_checklist_form - Help Guide
 ## Purpose
 The plumbing inspection checklist form is designed to help users perform a thorough inspection of a plumbing system, ensuring that all necessary checks are completed and issues are identified.

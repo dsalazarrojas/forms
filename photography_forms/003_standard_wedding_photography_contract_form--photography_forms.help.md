@@ -1,7 +1,3 @@
-<thinking>
-This form is likely a contract for a wedding photography service, used by photographers to capture the details of the wedding ceremony, reception, and other important events related to the wedding. Its purpose is to collect necessary information from the client about their wedding, including the ceremony and reception details, chosen photo package, and their understanding of the terms and conditions. The form is likely used by the photographer to ensure that all necessary information is collected and the client is aware of the terms of the photography services. This form should be used by clients to complete their wedding photography contract.
-</thinking>
-
 # Standard Wedding Photography Contract Form - Help Guide
 ## Purpose
 This form is a contract for a wedding photography service, used to collect information about the client's wedding and ensure a clear understanding of the photography services provided.

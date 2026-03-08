@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Trading Cards Pre Order Form", I'll first consider its purpose and required fields. The form, as evident from its title, is designed for customers to provide information for a preorder of trading cards. This form is likely used for customers to specify their shipping information, preferred payment method, and details about the items they want to preorder. 
-
-Given the form structure, it appears that customers can select multiple payment methods and specify the quantity of preordered items. This guide will explain the form fields in detail to ensure users understand what's required from them.
-
-</thinking>
-
 # Trading Cards Pre Order Form - Help Guide
 ## Purpose
 The Trading Cards Pre Order Form is designed for customers to specify their shipping information, payment preferences, and details about the items they want to preorder. This form helps the business process these preorders efficiently and accurately.

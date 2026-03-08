@@ -1,17 +1,3 @@
-<thinking>
-This form is intended for parents or guardians to register their child for a training program. The purpose of this form is to collect information about the child, including their personal details, contact information, and medical history. This form is not applicable to individuals without a relationship to the child. 
-
-To complete this form correctly, please ensure that you fill in all required fields and ensure that the information entered is accurate and up-to-date. 
-
-The following fields require special attention:
-
-- First Name and Last Name are used to identify the child.
-- Birth Date should be entered in the format of MM/DD/YYYY.
-- Grade is used to specify the child's current grade level.
-- Medical Conditions, Medication, Allergies, and Medical Notes are used to provide critical information about the child's health.
-
-</thinking>
-
 # registration_form_for_training_children - Help Guide
 ## Purpose
 This form is for parents or guardians to register their child for a training program.

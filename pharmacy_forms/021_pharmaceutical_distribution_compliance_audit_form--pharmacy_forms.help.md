@@ -1,7 +1,3 @@
-<thinking>
-Pharmaceutical Distribution Compliance Audit Form is used for internal auditing to ensure that all pharmacy branches within a district are complying with the company's policies and procedures related to pharmaceutical distribution. This form is designed to be filled out by pharmacists or other authorized personnel after each inspection. The purpose of this form is to collect and analyze data on the compliance status of each branch, allowing the management to identify areas that need improvement.
-</thinking>
-
 # Pharmaceutical Distribution Compliance Audit Form - Help Guide
 ## Purpose
 The Pharmaceutical Distribution Compliance Audit Form is used to ensure that all pharmacy branches within a district are complying with the company's policies and procedures related to pharmaceutical distribution.

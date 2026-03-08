@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the Wedding Videography Agreement form. The purpose of this form is to collect information and details related to a wedding videography project. This form is designed to be completed by the wedding couple or their representative, and is meant to capture the essential aspects of the videography services required for the wedding event.
-
-To ensure relevance, it's essential to review the form's fields to understand which ones are required and which ones are optional. Each field has a specific purpose, and the instructions below will guide you through the completion process.
-
-</thinking>
-
 # Wedding Videography Agreement - Help Guide
 
 ## Purpose

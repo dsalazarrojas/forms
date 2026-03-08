@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from a user, but it's not affiliated with, endorsed by, or derived from any specific form platform. The form's original adaptation is created using AI and public survey topic metadata. It's released under the Creative Commons Attribution 4.0 license, allowing free use, modification, and distribution.
-</thinking>
-
 # AI-Generated Form - Help Guide
 ## Purpose
 This form is designed to collect general information from users. It consists of 25 text fields, each labeled with a unique number and string label.

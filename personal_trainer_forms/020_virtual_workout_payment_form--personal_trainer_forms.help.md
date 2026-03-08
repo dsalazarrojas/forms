@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect payment information for virtual workouts. Ensure you understand the purpose of this form and are aware that it is a critical component of the payment process. Double-check that you are not completing this form unnecessarily or for the same purpose as another form. 
-
-</thinking>
-
 # Virtual Workout Payment Form - Help Guide
 
 ## Purpose

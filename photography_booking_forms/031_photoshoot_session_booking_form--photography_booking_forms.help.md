@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of the form and its requirements before diving into the explanation of each field. This form is designed to be used for booking photoshoot sessions with photographers. It will be used to collect information about whether a photoshoot session is desired, personal information for the model, and consent/contract details from the model. This form is likely used by agencies or photographers to manage and track their booking requests with their clients.
-
-</thinking>
-
 # photoshoot_session_booking_form - Help Guide
 ## Purpose
 The photoshoot session booking form is a crucial tool for photographers and agencies to manage their booking requests with clients. It is used to collect information about the photoshoot session, model, and other relevant details.

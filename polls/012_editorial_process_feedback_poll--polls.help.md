@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather feedback from users on the editorial process. The purpose of this form is to collect anonymous feedback on the clarity, communication, and overall quality of the editorial process. This feedback will help editors and administrators identify areas of improvement and make data-driven decisions to enhance the editorial process. 
-
-This form should only be filled out if you have completed the editorial process and have feedback to share. If you have not completed the process, please do not fill out this form. 
-
-This form is not intended to be filled out by the same person multiple times, so please do not fill it out if you have already provided feedback on this form. 
-
-</thinking>
-
 # Editorial Process Feedback Poll - Help Guide
 ## Purpose
 This guide will walk you through how to fill out the Editorial Process Feedback Poll form.

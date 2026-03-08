@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be filled out by customers who are booking photography services. It's used to gather information about their session location, date, time, coverage areas, session duration, any additional session details, and agreement to terms and conditions. This form should be filled out before a photo shoot to ensure all necessary information is captured and both parties are on the same page.
-</thinking>
-
 # Photography Session Agreement - Help Guide
 
 ## Purpose

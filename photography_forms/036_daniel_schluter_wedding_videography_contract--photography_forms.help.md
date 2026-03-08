@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a wedding videography contract, including client and contact information, wedding details, services offered, dates and times, location, and payment terms. The form is likely used to create a formal contract between a videographer and a client, outlining the scope of work, payment terms, and other relevant details. The form includes a range of fields, including text fields for names, addresses, and notes, date and time fields for scheduling, and select fields for services offered and payment methods. This form is likely used for internal purposes by a business or organization that offers videography services.
-</thinking>
-
 # daniel_schluter_wedding_videography_contract - Help Guide
 ## Purpose
 This form is intended to collect information for a wedding videography contract between a client and a videographer.

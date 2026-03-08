@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Training Questionnaire STC - Help Guide
 ## Purpose
 This form is designed to collect information from clients for personal training purposes. It consists of multiple sections to gather essential details about the client, their medical history, goals, contact information, and emergency contact details. The form is divided into eight sections, each focusing on a specific aspect of the client's information. Completing this form will help the trainer to understand the client's needs and preferences, ensuring a safe and effective training experience.

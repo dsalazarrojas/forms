@@ -1,13 +1,3 @@
-<thinking>
-
-To create a help guide for the Medical Prior Authorization Form, I need to understand the purpose and functionality of the form. 
-
-The form is likely used for requesting medical procedures or treatments that require authorization from a medical provider or an insurance company. The form will ask for patient information, medical details, and authorization dates. The "Medical Provider" field might be the person or entity authorizing the procedure, and the "Authorized By" field might indicate who approved the request. 
-
-To avoid duplication, the form might be used by multiple departments or teams within a medical organization, each with their own set of rules and procedures. However, I will not make any assumptions and focus on the provided YAML structure. 
-
-</thinking>
-
 # Medical Prior Authorization Form - Help Guide
 
 ## Purpose

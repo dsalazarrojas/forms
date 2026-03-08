@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for wedding day details, including ceremony and reception information, photographer and sponsor details, contact information, and event specifics. The form is intended for use by wedding planners, photographers, and sponsors, and is meant to streamline the collection of necessary details for a successful and stress-free wedding day. This form should not be used for multiple events, as it is designed to be a one-time use form. 
-</thinking>
-
 # Wedding Day Questionnaire - Help Guide
 ## Purpose
 This form is a comprehensive tool for collecting and organizing essential details for your wedding day. It includes sections for ceremony and reception information, contact details, and event specifics.

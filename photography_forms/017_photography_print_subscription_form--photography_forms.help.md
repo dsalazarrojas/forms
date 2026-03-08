@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information from users regarding their print order requirements, including their subscription plans, print size, material, quantity, shipping costs, billing cycles, billing frequencies, order frequencies, and any additional notes they may have. This form likely serves as a template or guide for users to provide relevant details about their needs, allowing them to efficiently communicate their requirements to others. This form should not be used for any other purpose. Please ensure that you are using this form correctly for the intended purpose only. If you have any confusion, please clarify with your supervisor or the form author before proceeding.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information about print orders. It includes fields to specify the print order details, subscription plans, material, quantity, shipping costs, and billing information.

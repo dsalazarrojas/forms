@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be for capturing photography requests from clients. It's a comprehensive form that gathers essential information from the client, including their personal details, order information, product specifics, delivery preferences, and payment terms.
-
-Before filling out this form, please ensure that you have all the required information ready. This form is intended to be a one-time request, so please do not submit multiple requests for the same project. 
-
-The form is divided into several sections to make it easier to navigate.
-
-</thinking>
-
 # 360 Photo Request Form - Help Guide
 ## Purpose
 The 360 Photo Request Form is designed to collect essential information from clients for photography projects, ensuring that all necessary details are captured to deliver high-quality services.

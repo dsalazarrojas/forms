@@ -1,14 +1,3 @@
-<thinking>
-**Internal Note:**
-
-This form is designed to gather feedback and opinions from community members about a community solar project. It aims to understand their attitude and preferences towards community solar, including their knowledge about solar energy, support for the project, preferred locations for solar panels, and potential barriers to participation. The form also seeks to understand their financial considerations, such as willingness to pay a subscription, acceptable payback period, and preferred communication methods. This information will help inform the development and implementation of a community solar project in the area.
-
-The form has been designed to minimize duplication and repetition, while ensuring that all necessary information is collected. Each question is carefully crafted to gather specific and relevant data for the project's development.
-
-The form's sections are designed to be clear and concise, with each field labeled and explained in a way that makes it easy for respondents to understand. The form's structure allows respondents to provide detailed and specific feedback, which will be invaluable for the project's development and implementation.
-
-</thinking>
-
 # Community Solar Project Attitude Poll - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from community members about a community solar project. Your input will help inform the development and implementation of the project, ensuring that it meets the needs and preferences of the community.

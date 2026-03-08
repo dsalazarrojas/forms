@@ -1,15 +1,3 @@
-<thinking>... internal reasoning block to check for form purpose and non-duplication ...
-
-The form purpose is to collect information from citizens to express their support or opposition to a potential local governance change. This form is likely used in a municipal or government setting to gather feedback from the community. The form likely aims to collect demographic information (name, email) and allow citizens to write a message expressing their viewpoint. The form might be used to gauge public opinion on a particular issue, such as a proposed policy change or a new project.
-
-Before proceeding, please ensure that:
-
-* You are not duplicating an existing petition on the same topic.
-* You have reviewed and understand the purpose of the form.
-* You are providing accurate and genuine information.
-
-</thinking>
-
 # Petition For Local Governance Change - Help Guide
 
 ## Purpose

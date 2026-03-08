@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect relevant information from patients undergoing plastic surgery. The purpose of this form is to gather essential details about the patient's personal and medical history to ensure a safe and successful surgical experience. It's crucial to complete this form accurately and thoroughly to avoid any potential risks or complications. Please ensure that you have the patient's consent to access this form. This form should not be used for non-surgical purposes, such as general patient registration. If you're unsure about any part of the form, please reach out to your supervisor or a healthcare professional for guidance.
-</thinking>
-
 # Plastic Surgery Patient Form - Help Guide
 ## Purpose
 This form is designed to collect personal and medical information from patients undergoing plastic surgery. It's essential to gather accurate and complete data to ensure a safe and successful surgical experience.

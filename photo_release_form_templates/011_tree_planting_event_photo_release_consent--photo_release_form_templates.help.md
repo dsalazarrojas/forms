@@ -1,7 +1,3 @@
-<thinking>
-This form is used by individuals to grant photo and media release for a tree planting event. This form is usually filled out by event participants, typically parents or guardians, to allow the event organizers to use their likeness and photos from the event in their promotional materials. Please note that this form is not meant for minors (those under 18 years old) to complete without the presence and consent of their parent or guardian.
-</thinking>
-
 # Tree Planting Event Photo Release Consent - Help Guide
 ## Purpose
 This form is used to obtain photo and media release from participants to use their likeness and photos taken during a tree planting event.

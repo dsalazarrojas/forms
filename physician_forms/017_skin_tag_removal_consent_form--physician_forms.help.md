@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skin Tag Removal Consent Form - Help Guide
 
 ## Purpose

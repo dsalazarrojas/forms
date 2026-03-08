@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide explains the Top 25 College Football Poll form to help users understand how to complete it effectively. 
 
 Form fields that do not have a description or hint may require clarification in this guide.

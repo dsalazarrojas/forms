@@ -1,9 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "event_photography_authorization_form", we must first understand the form's purpose and requirements. This form is designed to obtain authorization and specify guidelines for event photography. It's essential to ensure that the form is completed accurately to prevent potential issues with image usage, storage, and access controls. To avoid duplication of effort, users should verify that the form is up-to-date and relevant for the specific event.
-
-The guide will explain each field's purpose and requirements, ensuring users understand what to expect and how to provide the necessary information for successful event photography authorization.
-</thinking>
-
 # event_photography_authorization_form - Help Guide
 ## Purpose
 The "event_photography_authorization_form" is a crucial document used to authorize event photography and outline guidelines for its use, storage, and access control. It's essential to complete this form accurately to prevent potential issues with image usage, storage, and access controls.

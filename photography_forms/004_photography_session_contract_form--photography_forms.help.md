@@ -1,16 +1,3 @@
-<thinking>
-This form is used for creating a photography session contract, which is a legal agreement between a photographer and a client. The purpose of this form is to collect necessary information from the client, including details about the session, the photographer, the client, and the payment terms. This form will help ensure that both parties have a clear understanding of the terms and conditions of the session. 
-
-Before proceeding, please ensure that you have reviewed and understood the following:
-
-* You are authorized to create contracts on behalf of the photography studio or business.
-* You have permission to share sensitive information with the photographer and the client.
-* The client has provided their consent to create this contract.
-
-Please review the form carefully and ensure all required fields are filled out accurately. 
-
-</thinking>
-
 # photography_session_contract_form - Help Guide
 ## Purpose
 This form is used to create a photography session contract for a client, ensuring both parties have a clear understanding of the session details and terms.

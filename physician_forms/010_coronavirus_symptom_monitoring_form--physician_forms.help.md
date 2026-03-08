@@ -1,7 +1,3 @@
-<thinking>
-This form is used to monitor the symptoms of patients suspected to be infected with the coronavirus. The form will collect information on patient demographics, symptoms, and other relevant health indicators. It is essential to fill out this form accurately and completely to ensure that patients receive the best possible care. Please note that this form is not meant to diagnose or treat any condition, but rather to provide essential information for healthcare professionals to make informed decisions.
-</thinking>
-
 # Coronavirus Symptom Monitoring Form - Help Guide
 ## Purpose
 The Coronavirus Symptom Monitoring Form is designed to collect information about patients' symptoms to help healthcare professionals assess and treat coronavirus infections effectively.

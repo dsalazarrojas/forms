@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Women's Health Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medical history and health status. It is intended to help healthcare professionals assess the patient's overall health and provide accurate diagnoses and treatment plans.

@@ -1,10 +1,3 @@
-<thinking>... 
-This form appears to be used for capturing data for a client's cutting phase weight training plan. The form likely aims to collect information from the coach and client to understand their progress, goals, and challenges during this phase of their training. It may be used to monitor and adjust training plans to ensure the client reaches their desired objectives.
-
-Before proceeding, ensure that this form is not used for another purpose, such as creating a new client profile, and that all required fields are filled out accurately to avoid errors.
-
-</thinking>
-
 # Cutting Phase Weight Training Plan Form - Help Guide
 ## Purpose
 This form is designed to gather information from the client and coach regarding their progress, goals, and challenges during the cutting phase of their weight training plan.

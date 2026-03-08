@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their medical history, medications, and risk factors related to diabetes, as well as their blood pressure and glucose levels. The form is intended to be used by healthcare professionals to gather data for screening and diagnosis purposes. It is essential to ensure that the form is completed accurately and thoroughly to provide the best possible care for the patient. Please review the form carefully before submitting it to prevent any errors.
-</thinking>
-
 # Diabetes Screening Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients about their medical history, medications, and risk factors related to diabetes, as well as their blood pressure and glucose levels.

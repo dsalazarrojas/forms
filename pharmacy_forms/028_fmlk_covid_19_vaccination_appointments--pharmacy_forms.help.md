@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to record patient information and schedule COVID-19 vaccination appointments in a pharmacy setting. The form includes fields for patient demographics, appointment details, and provider information. It's essential to ensure that the form is completed accurately and thoroughly to maintain accurate records and efficient communication between healthcare professionals.
-
-Before proceeding, please ensure that you have reviewed the form's purpose and understand its relevance to your role. This form should not be used for other purposes or for collecting sensitive data without proper authorization.
-
-</thinking>
-
 # fmlk_covid_19_vaccination_appointments_pharmacy_forms - Help Guide
 ## Purpose
 This form is used to record and schedule COVID-19 vaccination appointments in a pharmacy setting.

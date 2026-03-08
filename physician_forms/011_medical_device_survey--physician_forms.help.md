@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from users about a medical device. The purpose of this form is to gather information about the user's experience with the device, including its performance, usability, safety, and regulatory compliance. The form asks the user to rate the device on a scale of excellent, good, fair, or poor for performance, ease of use, and safety. Additionally, the user is asked about the device's regulatory compliance, name, manufacturer, and contact information. The form also allows the user to provide additional comments about their experience with the device.
-</thinking>
-
 # Medical Device Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from users about a medical device. We want to understand your experience with the device and gather information that will help us improve its performance, usability, and safety.

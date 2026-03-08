@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a patient's potential exposure to Mpox, which is a highly contagious and potentially serious disease. The form is designed to gather details about the patient's contact history, including their exposure date, contact person, and location, as well as any relevant exposure details. The form is intended for use by physicians and other healthcare professionals to quickly and accurately record patient data, helping to identify potential cases of Mpox and facilitate timely medical interventions.
-</thinking>
-
 # Mpox Contact Form - Help Guide
 ## Purpose
 The Mpox Contact Form is a data collection tool used to gather information about patients who have been exposed to Mpox. This form helps healthcare professionals quickly and accurately record patient data, enabling timely medical interventions and reducing the risk of disease transmission.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for individuals who experience migraines to document and track their symptoms, medication, and treatment plans. The form is intended to be a comprehensive and personalized tool to help users understand and manage their condition more effectively.
-The form is not meant to replace medical consultation or treatment. If you experience any severe or frequent migraines, please consult a healthcare professional for proper evaluation and care.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation created using public survey topic metadata and is released under CC BY 4.0.
-
-</thinking>
-
 # Migraine Diary Form - Help Guide
 
 ## Purpose

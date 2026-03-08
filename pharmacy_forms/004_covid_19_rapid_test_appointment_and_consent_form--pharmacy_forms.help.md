@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Rapid Test Appointment And Consent Form - Help Guide
 
 ## Purpose

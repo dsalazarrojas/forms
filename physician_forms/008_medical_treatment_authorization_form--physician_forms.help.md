@@ -1,5 +1,3 @@
-<thinking>Before diving into this form, we first need to understand that this is a Medical Treatment Authorization Form, which is a crucial document for patients or their representatives to provide information about a subject's medical treatment. This form is likely used in situations where medical treatment is necessary, and the details need to be recorded for documentation and reference purposes. It's essential to ensure that the form is filled out accurately and completely to avoid any confusion or errors. To avoid duplication, it's also essential to check if a similar form has already been completed for the same subject, especially if they have undergone medical treatment previously.</thinking>
-
 # Medical Treatment Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information about a subject's medical treatment, including the treatment category, details, start and end dates, and other relevant details. It's a crucial document that helps healthcare providers or medical facilities to keep accurate records and track patient care.

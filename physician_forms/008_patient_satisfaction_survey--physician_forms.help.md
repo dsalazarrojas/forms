@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will review the provided YAML and generate a comprehensive help guide for the "Patient Satisfaction Survey" form.</thinking>
-
 # Patient Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their satisfaction with the care provided by their physician. The goal is to gather information to improve the quality of service and patient care.

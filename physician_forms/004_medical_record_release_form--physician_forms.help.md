@@ -1,7 +1,3 @@
-<thinking>
-This form is used for patients to grant or deny access to their medical records. The purpose of this form is to obtain the patient's permission to access their personal medical history, medical record number, and other confidential information. This form is usually used in conjunction with other medical documents, such as the patient's chart or medical history.
-</thinking>
-
 # Medical Record Release Form - Help Guide
 
 ## Purpose

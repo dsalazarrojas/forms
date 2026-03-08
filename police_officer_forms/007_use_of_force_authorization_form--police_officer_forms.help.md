@@ -1,10 +1,3 @@
-<thinking>
-  - The form is intended for police officers to report on incidents and provide information about suspects, vehicles, and other factors involved in the incident.
-  - The form has 25 fields with various labels and options.
-  - The form can be completed in a way that allows for a good balance between providing as much detail as possible and keeping the report concise.
-  - Each field has a label, hint, and options that can be selected from.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to provide a comprehensive report on incidents and suspects involved in the incident. This form is designed to collect information from police officers in the field, providing a clear and concise way to document the details of each incident.

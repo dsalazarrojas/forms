@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a product order, specifically for sanitizing products such as hand sanitizer, hand soap, and hand wipes. This form will guide users through a series of fields to gather details about the product ordered, including product type, quantity, price, payment method, shipping method, product type, notes, order ID, email, phone number, and date of birth. It's essential to ensure that the user completes all the required fields accurately, as missing or incorrect information may lead to order processing issues. This form is designed to be user-friendly, and the fields are clearly labeled to help users understand what information is being requested.
-</thinking>
-
 # Sanitizer Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for a product order, specifically for sanitizing products such as hand sanitizer, hand soap, and hand wipes.

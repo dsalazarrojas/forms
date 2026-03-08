@@ -1,7 +1,3 @@
-<thinking>
-This form is used for personal trainers to renew their certifications and services. Its purpose is to gather information about the trainer's renewal details, contact information, and services offered. This form should only be filled out by personal trainers who need to renew their certifications. Please make sure you have the necessary information and permissions to fill out this form.
-</thinking>
-
 # Personal Trainer Renewal Form - Help Guide
 ## Purpose
 The Personal Trainer Renewal Form is designed to collect necessary information from personal trainers to renew their certifications and services. This form will help us update your trainer profile and ensure you receive your renewed certification and services.

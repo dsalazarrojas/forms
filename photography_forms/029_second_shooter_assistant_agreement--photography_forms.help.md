@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for second shooter agreements, which are contracts between a photographer and their assistant. This ensures that both parties are on the same page about the terms of the collaboration. The purpose of this form is to outline the scope of work, compensation, and expectations for the second shooter. This is a crucial document for any photography project that involves a second shooter, as it prevents misunderstandings and clarifies responsibilities. This form should not be used for other purposes, as it is highly specific to photography projects with second shooters.
-</thinking>
-
 # Second Shooter Assistant Agreement - Help Guide
 ## Purpose
 The Second Shooter Assistant Agreement is a form that ensures both the photographer and the second shooter are clear about their roles and responsibilities during a collaborative photography project.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a clear and concise user-facing help guide that helps end-users understand the purpose, how to complete, and what each field means in the "Teacher Performance Appraisal Assessment Form". I will follow the provided YAML fields and base the explanation on them.</thinking>
-
 # Teacher Performance Appraisal Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information and feedback from school administrators, students, and parents about a teacher's performance. This form helps assess a teacher's strengths, weaknesses, and areas for improvement, providing valuable insights for professional development and growth.

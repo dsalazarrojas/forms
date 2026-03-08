@@ -1,9 +1,3 @@
-<thinking>... This form is a patient exit survey, used to collect feedback and insights from patients about their experience at a healthcare facility. The purpose of this form is to gather information about the patient's satisfaction with their care, identify areas of improvement, and help staff refine their services.
-
-Before completing this form, please make sure you are not duplicating your answers from a previous survey or feedback session. If you have already completed a survey about this visit, do not fill out this form again.
-
-</thinking>
-
 # Patient Exit Survey - Help Guide
 
 ## Purpose

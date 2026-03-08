@@ -1,14 +1,3 @@
-<thinking>
-This form is a Church Satisfaction Survey, designed to gather feedback from church members and attendees to help the church understand their satisfaction with various aspects of the church's services and facilities. 
-
-Before filling out this form, please make sure you have not already provided feedback on this topic. Your input will help the church to identify areas of strength and weakness, and make informed decisions to improve your worship experience. Your responses will be kept confidential and will not be shared with anyone outside the church.
-
-This form is not affiliated with, endorsed by, or derived from any form creation platform.
-
-Please note that some questions might be specific to your situation, and you should select the option that best fits your experience.
-
-</thinking>
-
 # Church Satisfaction Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from church members and attendees to help the church understand their satisfaction with various aspects of the church's services and facilities.

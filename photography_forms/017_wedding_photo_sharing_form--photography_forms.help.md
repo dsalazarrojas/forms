@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their wedding or engagement, including details about sharing photos, time and date of the event, and personal contact information. The form ensures that users provide necessary details, such as a unique ID, a brief description of the form, their marital status, and contact email and phone number. Users can also choose to share album or video photos from their wedding or engagement. The form's fields have been carefully crafted to provide a clear and concise way for users to share their wedding or engagement information.
-</thinking>
-
 # Wedding Photo Sharing Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their wedding or engagement.

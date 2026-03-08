@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from wildlife photographers about their accommodation needs while traveling. This form will help us understand their preferences for accommodation type, location, dates of stay, and other specific requirements. The data collected will be used to provide accurate quotes and arrangements for the photographers' accommodations.
-Please ensure you have the following details before completing this form:
-* You are a wildlife photographer or representative thereof.
-* You are looking for accommodation for a specific project or assignment.
-* You have a clear understanding of the dates and duration of your stay.
-* You are aware of your specific accommodation preferences.
-</thinking>
-
 # wildlife_photographer_accommodation_form - Help Guide
 ## Purpose
 This form is designed to collect essential information from wildlife photographers about their accommodation needs while traveling. This information will be used to provide tailored quotes and arrangements for the photographers' accommodations.

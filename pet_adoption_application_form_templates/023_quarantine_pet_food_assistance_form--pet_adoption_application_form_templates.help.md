@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from pet owners who need assistance with providing food for their pets during the quarantine period. The form aims to understand the pet's specific needs, the owner's contact information, and the duration of the assistance required. This is likely to help the organization providing the assistance in determining the best allocation of resources. This form should not be used for other purposes, such as adoption or pet registration.
-</thinking>
-
 # Quarantine Pet Food Assistance Form - Help Guide
 
 ## Purpose

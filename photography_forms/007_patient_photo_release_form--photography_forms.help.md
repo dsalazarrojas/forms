@@ -1,6 +1,4 @@
-> <thinking>... This form is designed to be used by healthcare professionals and medical institutions to obtain a patient's consent for using their photograph for medical purposes, such as for documentation, research, or publication. This form ensures that the patient's privacy and consent is respected and documented for legal and ethical purposes. ...</thinking>
-
-# Patient Photo Release Form - Help Guide
+> # Patient Photo Release Form - Help Guide
 ## Purpose
 The Patient Photo Release Form is used to obtain a patient's consent for using their photograph for medical purposes. This form ensures that the patient's privacy and consent is respected and documented.
 

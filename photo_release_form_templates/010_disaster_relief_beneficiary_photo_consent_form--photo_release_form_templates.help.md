@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # disaster_relief_beneficiary_photo_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to collect photo consent from disaster relief beneficiaries, ensuring that the organization or entity providing relief can use the photos taken during the process for their intended purposes.

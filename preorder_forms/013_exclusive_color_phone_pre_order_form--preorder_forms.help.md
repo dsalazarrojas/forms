@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are placing a preorder for an exclusive phone. The form includes fields for pre-order details, shipping details, payment details, shipping options, and customer information. The fields are designed to gather essential information to ensure smooth and efficient processing of the preorder. The form should only be used for legitimate preorders and not for any other purpose. It's essential to fill out the form accurately and completely to avoid any issues during the preorder process.</thinking>
-
 # exclusive_color_phone_preorder_form - Help Guide
 ## Purpose
 

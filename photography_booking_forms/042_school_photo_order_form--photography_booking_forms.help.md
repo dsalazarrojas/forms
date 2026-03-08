@@ -1,20 +1,3 @@
-<thinking>
-This help guide aims to provide a comprehensive understanding of the School Photo Order Form, ensuring users fill it out correctly and accurately.
-
-The form is designed to collect information about a school photo shoot, including student details, event specifics, and order status. It's essential to fill this form carefully, as the information gathered will be used to manage the photo shoot process.
-
-Before proceeding with the actual form, let's consider the following: 
-
-- Does the school photo shoot require student details (like student name, year, and class)? If not, it's not necessary to fill this part of the form.
-- Does the school photo shoot require specific event details (like date, location, and number of students)? If not, it's not necessary to fill these fields.
-- Are you ordering photos or packages? If yes, select the relevant options.
-- What is the order status and payment method? This will help in tracking and managing the order.
-- Are there any additional comments or notes regarding the photo shoot or order? If yes, fill in the comments section.
-
-Please note that all fields are optional, except for those marked as "required".
-
-</thinking>
-
 # School Photo Order Form - Help Guide
 ## Purpose
 The School Photo Order Form is designed to collect information about a school photo shoot, including student details, event specifics, and order status.

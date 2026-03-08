@@ -1,7 +1,3 @@
-<thinking>
-The form is used to capture information from individuals who are participating in a photography session. The purpose of this form is to obtain informed consent from subjects, obtain necessary contact information, and ensure that the photographer understands their responsibilities and rights. This form is likely to be used in a commercial or professional photography setting.
-</thinking>
-
 # Photo Waiver Release Form - Help Guide
 ## Purpose
 This form is intended to be completed by individuals who are participating in a photography session. It gathers essential information for both the subject and the photographer to ensure a successful and respectful experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain the user's consent for releasing a portfolio model, which can be a crucial step in the process of sharing the model with others. The purpose of this form is to collect information about the user and the model, ensuring that the user understands the terms and conditions of releasing the model. It is essential to complete this form carefully to avoid any potential issues or miscommunications.
-</thinking>
-
 # portfolio_model_release_consent_form - Help Guide
 ## Purpose
 The portfolio model release consent form is a crucial document that ensures users understand the terms and conditions of sharing their portfolio model with others. It's essential to complete this form carefully to avoid any potential issues or miscommunications.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by physicians and healthcare professionals to order medical products for their practices. It is likely used in a B2B or B2C (Business-to-Consumer) e-commerce setting. The form should only be used within the scope of a business agreement or partnership. To the best of my knowledge, this form is not for public use. It's possible that the form may be duplicated or modified in the future, and it's essential to ensure that the provided documentation remains accurate and up-to-date.
-</thinking>
-
 # Medical Product Order Form - Help Guide
 ## Purpose
 The Medical Product Order Form is designed to be used by physicians and healthcare professionals to order medical products for their practices.

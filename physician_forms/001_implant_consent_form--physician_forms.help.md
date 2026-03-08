@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the **implant_consent_form** is to collect essential information from the patient about their implant consent, ensuring that the patient understands and consents to the implant procedure. This form will help the healthcare professionals to gather the necessary details to proceed with the implant surgery while maintaining patient confidentiality and consent.
-
-Before starting, please ensure that you have the patient's consent and that this form is completed accurately and truthfully. If you have already collected this information through another means, such as during a previous visit, you can skip this form. However, please note that this form is a mandatory requirement for all implant procedures.
-
-</thinking>
-
 # implant_consent_form - Help Guide
 ## Purpose
 The implant_consent_form is designed to collect patient information and consent for an implant procedure. It is essential to complete this form accurately and truthfully to ensure that the healthcare professionals have the necessary information to proceed with the surgery.

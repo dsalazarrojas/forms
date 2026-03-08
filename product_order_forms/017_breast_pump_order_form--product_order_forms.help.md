@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers to place an order for a breast pump, which is a medical device used for expressing breast milk. This form aims to gather essential details about the customer, including their contact information, delivery address, and preferences for the pump and accessories. The form also seeks information on the customer's medical history and insurance coverage, as well as their expected pumping frequency and payment method. This information will help the seller to process the order accurately and provide the customer with the most suitable product and service.
-
-</thinking>
-
 # Breast Pump Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers to place an order for a breast pump. Please follow the instructions below to ensure you complete the form accurately.

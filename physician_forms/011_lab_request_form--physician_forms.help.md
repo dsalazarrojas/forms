@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure the form is used for its intended purpose. This form is a "lab_request_form" intended for requesting laboratory tests. It should only be used for requesting lab tests, and not for other purposes.
-The form is designed to be completed by authorized users, and the fields are structured to gather information about the lab tests requested. We need to avoid duplication and ensure that the form is used correctly.
-
-</thinking>
-
 # lab_request_form - Help Guide
 ## Purpose
 The "lab_request_form" is a form for requesting laboratory tests. It is used to gather information about the lab tests requested from authorized users.

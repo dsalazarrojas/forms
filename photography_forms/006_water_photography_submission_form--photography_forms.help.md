@@ -1,9 +1,3 @@
-<thinking>
-The Water Photography Submission Form is a crucial tool for photographers to share their work with the world. Before proceeding, ensure that your submission is relevant to the Water Photography category and complies with the submission guidelines to avoid duplication. To confirm, please review your image and confirm that it fits within the specified category and meets all submission requirements.
-
-The form is designed to collect essential information from photographers, including submission details, image information, and contact information. Each field has a specific purpose, and the following guide will walk you through the process step-by-step.
-</thinking>
-
 # Water Photography Submission Form - Help Guide
 
 ## Purpose

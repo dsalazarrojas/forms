@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to be used for the "Animal Adoption Application ARP" form. The form is intended to gather information from potential adopters about their household and preferences for adopting an animal. It is designed to assess their suitability for adoption and help match them with an appropriate animal. The guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each question.
-</thinking>
-
 # Animal Adoption Application ARP - Help Guide
 ## Purpose
 The Animal Adoption Application ARP is designed to collect information about potential adopters and their preferences for adopting an animal. This form will help us match you with the perfect animal for your lifestyle and needs.

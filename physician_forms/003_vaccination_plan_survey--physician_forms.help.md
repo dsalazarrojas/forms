@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Vaccination Plan Survey is to gather information about a patient's vaccination status and plan. This form will help healthcare professionals track and manage vaccination records for patients, ensuring that they receive the necessary care and attention required for their health and well-being.
-
-Before starting this form, please ensure that the data you are collecting is accurate and relevant to the patient's situation. The form should only be used for the specific scenario where a patient requires vaccination planning, and not as a general information-gathering tool.
-
-</thinking>
-
 # Vaccination Plan Survey - Help Guide
 ## Purpose
 The Vaccination Plan Survey is a crucial tool for healthcare professionals to track and manage vaccination records for patients. It helps to ensure that patients receive the necessary care and attention required for their health and well-being.

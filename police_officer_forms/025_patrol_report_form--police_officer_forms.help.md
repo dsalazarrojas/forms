@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document police incidents, including details of the incident, officer involved, unit details, and suspect information. The form will help to track and record incidents, provide necessary information for further investigation or response, and ensure consistency and accuracy in reporting.
-</thinking>
-
 # Patrol Report Form - Help Guide
 ## Purpose
 The Patrol Report Form is designed to collect information about incidents that occur during police patrol activities. This form helps police officers document details about the incident, their unit, and any suspects involved.

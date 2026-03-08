@@ -1,10 +1,3 @@
-<thinking>
-This is a form that collects data from individuals or organizations expressing support for racial equality. It is designed to collect general information about petitioners, such as their name, contact details (email and zip code), and other relevant details (address, city, state, county). The purpose of the form is to allow users to express their support for racial equality. Before proceeding, please verify that you have not previously submitted this form, and ensure you are submitting it for the right reason.
-
-This form was designed to be a simple and direct way to collect feedback and support from the public for racial equality causes.
-
-</thinking>
-
 # Racial Equality Petition Form - Help Guide
 
 ## Purpose

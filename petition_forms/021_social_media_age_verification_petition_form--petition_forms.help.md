@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning block:**
-This form is used to verify the age of a social media user, and the purpose of this form is to gather information about the user's age and social media presence. This form should only be used for users who are at least 18 years old, and the user's age should be verified through their social media profile. The form should not be used for users who are under 18 years old, and the user's age should not be verified if they are under 18. The form should only be filled out once for each user, and the user's information should not be duplicated in the system. If a user has filled out this form before, they should not be allowed to fill it out again.
-</thinking>
-
 # Social Media Age Verification Petition Form - Help Guide
 ## Purpose
 This form is used to verify the age of a social media user and gather information about their social media presence.

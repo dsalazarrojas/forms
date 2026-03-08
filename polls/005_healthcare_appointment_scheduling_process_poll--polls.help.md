@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from patients on their experience with the healthcare appointment scheduling process. This form aims to identify areas of improvement and ensure that the process is patient-centered and efficient. The form fields are designed to be straightforward and easy to fill out, with multiple options for patients to provide their thoughts on their experience. The form is part of a quality assurance and improvement process to enhance patient satisfaction and outcomes. The form should not be duplicated or repeated unnecessarily, and patients should be encouraged to fill it out only once for each appointment.
-
-The form consists of multiple sections, each focusing on a different aspect of the healthcare appointment scheduling process. Some fields are mandatory and others are optional, providing patients with flexibility to share their thoughts and experiences in a way that feels comfortable for them.
-
-The following guide will walk you through each field, explaining its purpose and what to expect from the patient's perspective.
-</thinking>
-
 # Healthcare Appointment Scheduling Process Poll - Help Guide
 ## Purpose
 The healthcare appointment scheduling process poll is designed to gather feedback from patients on their experience with our healthcare services. This form helps us identify areas of improvement and enhance patient satisfaction and outcomes.

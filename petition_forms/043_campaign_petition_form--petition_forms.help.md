@@ -1,12 +1,3 @@
-<thinking>
-As a form expert, I'll first explain the internal purpose and considerations for this "Campaign Petition Form".
-
-The "Campaign Petition Form" is designed to collect information from individuals who support a particular cause or campaign. This form serves as a means of gathering signatures, contact information, and statements of support for petition organizers. The form's primary purpose is to allow people to voice their opinions and show their support for the campaign, while also providing a way for petition organizers to verify the authenticity of signatures and contact information. 
-
-To prevent duplication of effort, it's recommended that petition organizers review the form and its purpose to ensure it aligns with their campaign's goals and objectives. Additionally, it's essential to clearly communicate the form's purpose and instructions to the target audience to avoid confusion.
-
-</thinking>
-
 # Campaign Petition Form - Help Guide
 
 ## Purpose

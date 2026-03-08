@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Eco Friendly Bag Restock Order Form - Help Guide
 
 ## Purpose

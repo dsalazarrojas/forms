@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information for the Street Art Project, a photography project that aims to document and showcase street art in various cities. The purpose of this form is to gather contact information and location details from individuals who are interested in participating in the project or providing their consent to be photographed. The form will help the project team to contact and collaborate with potential participants, ensuring they are aware of and agree to the project's terms and conditions.
-To complete this form, follow these steps:
-1. Enter your name in the "Name" field.
-2. Provide your email address in the "Email" field.
-3. Enter your phone number in the "Phone" field.
-4. Enter your address in the "Address" field.
-5. Enter your city in the "City" field.
-6. Enter your state in the "State" field.
-7. Enter your zip code in the "Zip" field.
-8. Enter your country in the "Country" field.
-</thinking>
-
 # Street Art Project Photography Consent Form - Help Guide
 ## Purpose
 This form is used to gather contact information and location details from individuals who are interested in participating in the Street Art Project or providing their consent to be photographed.

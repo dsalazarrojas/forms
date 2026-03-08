@@ -1,7 +1,3 @@
-<thinking>
-This form is a digital adaptation of a form used for customers to place an order for perfumes. The purpose of this form is to collect information from customers about their order details, including their contact and payment information. This form does not have any required fields, as it is designed to be a general guide for customers to input their information voluntarily. It is not affiliated with or endorsed by any form platform, and it is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # perfume_purchase_order_form - Help Guide
 ## Purpose
 The perfume_purchase_order_form is a digital form designed to collect information from customers for their perfume order. It is a general guide for customers to input their information voluntarily.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist individuals who will be completing the "Transfer Of Medical Records Form." The form is designed to collect information from healthcare providers for medical record transfers between institutions or facilities. This form ensures that the necessary details for the transfer are captured accurately and efficiently. The guide will provide a step-by-step explanation of the form's purpose, how to complete it, and each field's significance. This guide will cover the essential aspects of the form, making it easier for end-users to understand and complete the form effectively.
-</thinking>
-
 # Transfer Of Medical Records Form - Help Guide
 ## Purpose
 The "Transfer Of Medical Records Form" is a document used to request and record the transfer of medical records between healthcare providers. This form ensures that all necessary information is exchanged correctly, reducing the risk of errors or loss of critical patient data.

@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Lookbook Release Form," we must first understand its purpose. This form is used to release information about a publication, allowing contributors to share their work with the public. However, it is essential to ensure that the form is filled out accurately and in its entirety, as incorrect or missing information can cause delays in the review process. Therefore, it is crucial to verify that the form has been filled out correctly before submitting it.
-
-To check for relevance and non-duplication, we need to ensure that the form is not being used for purposes other than releasing publications. In this case, the form is specifically designed for publications, and any other use may be considered incorrect.
-
-</thinking>
-
 # Lookbook Release Form - Help Guide
 ## Purpose
 The "Lookbook Release Form" is used to release information about a publication to the public. This form helps ensure that the required details are provided accurately and in a consistent format.

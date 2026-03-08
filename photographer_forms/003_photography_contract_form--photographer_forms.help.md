@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to provide a comprehensive contract for a photography session. It is designed to capture the necessary details and terms for both the photographer and client. This form aims to ensure a clear understanding of the session's scope, coverage, and payment expectations. Please note that this form is a sample template and may need to be adapted or customized to meet specific business needs or requirements. Before using this template, review and adjust the content to fit your particular situation. Also, ensure you have the necessary permissions or agreements in place before sharing or using the form with clients or other parties. </thinking>
-
 # Photography Contract Form - Help Guide
 ## Purpose
 The purpose of this form is to document and establish clear understandings between the photographer and client. It captures key details such as the client's and photographer's information, session terms, and payment expectations. This form serves as a foundation for both parties to agree on and sign off on the session's scope and terms.

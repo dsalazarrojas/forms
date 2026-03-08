@@ -1,16 +1,3 @@
-<thinking>
-To create the help guide for the "Quick Release Connector Order Form", I need to understand the purpose of this form and its fields. From the provided YAML, it appears that this form is used to capture customer details, delivery preferences, and order information for a product or service.
-
-The form has several pages, but for the sake of this help guide, I will focus on the main fields. The form asks for the customer's name, company, email, contact number, order date, order time, delivery time, delivery status, supplier name, order confirmation status, customer note, order ID, order status, quantity, price, product ID, and payment method.
-
-Upon reviewing the fields, I notice that some fields are required (e.g., customer name, company, email, and payment method) while others are optional (e.g., customer details, delivery preferences, and order confirmation). The fields also include various types, such as text, select multiple, note, date, time, and number.
-
-The form seems to be designed for ordering a product or service, and the customer's order information is captured in several fields. However, some fields may be redundant or unnecessary, and further clarification on the form's purpose and usage would be beneficial.
-
-For instance, the "customer details" page has a field for "customer name", which is also captured in the "customer name" field. Similarly, the "delivery address" field is missing, which might be a crucial piece of information for delivery purposes.
-
-To create an effective help guide, I would focus on clarifying the form's purpose, required fields, and how to complete each section. I would also provide tips and recommendations for users who may encounter issues or have questions about specific fields.</thinking>
-
 # Quick Release Connector Order Form - Help Guide
 ## Purpose
 The Quick Release Connector Order Form is used to capture customer details, delivery preferences, and order information for a product or service.

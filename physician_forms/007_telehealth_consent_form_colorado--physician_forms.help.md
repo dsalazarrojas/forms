@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from patients for telehealth services in Colorado. The form should be completed by patients to provide their consent for telehealth services and to provide necessary contact and medical information. This form should not be used for other purposes, such as billing or payment information.
-
-Before filling out this form, please note that some fields are optional and are intended to help the healthcare provider tailor the care they provide to the patient's needs.
-
-This form will ask for various pieces of information, including the patient's name, date of birth, contact information, emergency contact details, medical history, and medical conditions. Some fields will allow you to select from a list of options, while others require a free-text response. Please answer each field truthfully and accurately to ensure the best possible care.
-
-</thinking>
-
 # Telehealth Consent Form Colorado - Help Guide
 ## Purpose
 

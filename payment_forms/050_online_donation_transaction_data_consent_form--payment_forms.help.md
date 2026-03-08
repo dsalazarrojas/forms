@@ -1,7 +1,3 @@
-<thinking>
-This form is a payment processing form, but its primary purpose is to collect and document donation transactions data for compliance and transparency. It is used to ensure that donors and their financial institutions understand and agree to the terms of their transactions, including data usage. This form should only be filled out by donors making a payment and should not be used for other types of transactions.
-</thinking>
-
 # Online Donation Transaction Data Consent Form - Help Guide
 ## Purpose
 The Online Donation Transaction Data Consent Form is a mandatory form that collects and documents donation transactions data for compliance and transparency purposes. It is essential for all donors to fill out this form to ensure that their financial institution and other relevant parties understand and agree to the terms of their transactions.

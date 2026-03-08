@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for a photography portfolio inquiry. This form is likely used by the organization's marketing or sales team to gather details from potential clients or customers about their photography portfolio needs. 
-
-The form is not a high-stakes or critical business process, and its purpose is not sensitive or time-sensitive. Therefore, it's reasonable to assume that users can fill it out multiple times with little consequence. 
-
-The goal of this form is to get basic information that could help the organization's marketing or sales team get started on a new project or client engagement. It's essential to fill the form out completely and accurately for the best results.
-</thinking>
-
 # photography_portfolio_inquiry_form - Help Guide
 ## Purpose
 The photography portfolio inquiry form collects information from users for the organization's marketing or sales team to get started on a new project or client engagement.

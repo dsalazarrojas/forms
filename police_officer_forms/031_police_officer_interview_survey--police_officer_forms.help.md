@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Police Officer Interview Survey - Help Guide
 
 ## Purpose

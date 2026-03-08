@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personalized Fitness And Nutrition Plan Request - Help Guide
 
 ## Purpose

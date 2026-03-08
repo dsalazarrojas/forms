@@ -1,7 +1,3 @@
-<thinking>
-This form is used to order radiology examinations for patients. The purpose of the form is to gather necessary information from the patient, order the desired radiology examination (e.g. x ray or MRI), and select a radiologist to perform the examination. This form is used by healthcare professionals to ensure accurate and efficient ordering of radiology examinations.
-</thinking>
-
 # Radiology Requisition Form - Help Guide
 ## Purpose
 This form is used by healthcare professionals to order radiology examinations for patients. The form helps to gather necessary information from the patient, select the desired examination type, and choose a radiologist to perform the examination.

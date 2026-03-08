@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block explaining the form purpose and checking for relevance and non-duplication
-
-The "Online Community Moderator Voting Form" is used to gather feedback and votes from the online community on various aspects of the community, such as moderator selection, vote type, and other moderator-related attributes. This form is likely used in a community management context where moderators are elected or appointed to manage the community and make decisions. The form is designed to be completed by moderators or community members to provide an easy and efficient way to collect feedback and votes on the moderators' performance and ideas.
-
-The form has multiple fields that cover different aspects of moderation, including moderator selection, vote type, feedback, and personal details of the moderators. The form is not meant to be a comprehensive survey, but rather a quick and focused way to gather opinions and feedback from the community.
-
-Upon reviewing the form, there are a few fields that stand out as redundant or potentially unnecessary. For example, there are two fields for "Comments" (id: 1 and id: 11) which may be unnecessary. Additionally, the "phone" field (id: 7) seems out of place in a form focused on community moderation, as it's unlikely to be a relevant field for this specific form.
-
-... </thinking>
-
 # Online Community Moderator Voting Form - Help Guide
 ## Purpose
 The "Online Community Moderator Voting Form" is designed to gather feedback and votes from the online community on various aspects of moderation. It helps to collect opinions and feedback on moderators' performance and ideas, making it easier for the community to have a say in the moderation process.

@@ -1,5 +1,3 @@
-<thinking>Internal context: This form is intended to collect feedback and insights from employees on the effectiveness and satisfaction of the technology employee remote work policy. It gathers information on work preferences, commute methods, work hours, and various aspects of the policy's impact and relevance. This form is crucial for the company to understand how to improve the remote work policy and increase employee engagement and productivity. To avoid duplicate entries, please ensure that you fill out the form only once. If you've already submitted your feedback, do not submit it again.</thinking>
-
 # tech_employee_remote_work_policy_poll - Help Guide
 
 ## Purpose

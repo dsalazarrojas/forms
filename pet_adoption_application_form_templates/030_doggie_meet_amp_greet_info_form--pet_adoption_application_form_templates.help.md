@@ -1,7 +1,3 @@
-<thinking>
-The "Doggie Meet & Greet Info Form" is a form designed to collect information from pet owners who want to meet and greet with their pets. This form likely exists to gather data for animal adoption purposes, ensuring that potential adopters have all necessary information about the pet they are interested in. Before starting, please review the following steps and explanations for a smooth and correct completion of this form.
-</thinking>
-
 # Doggie Meet & Greet Info Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential adopters about their pet's details and owner contact information. Fill out this form carefully to provide as much detail as possible, as this information will help match you with the right pet for adoption.

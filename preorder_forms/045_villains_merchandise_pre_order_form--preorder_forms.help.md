@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users who want to complete the Villains Merchandise Pre Order Form. To confirm, the form is used for customers to place pre-orders for merchandise related to villains. This form will gather information about the customer, their order, and shipping details. Before proceeding, please ensure that you have not already placed a pre-order for this merchandise. If you have, please do not submit another pre-order. To use this form, follow the steps below.
-</thinking>
-
 # Villains Merchandise Pre Order Form - Help Guide
 ## Purpose
 The Villains Merchandise Pre Order Form is used to place pre-orders for merchandise related to villains.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for pre-orders of Halloween-related products. This form may be used by customers to indicate their interest in buying a product before the official sales period. The form collects customer information, product preferences, and shipping details. Please ensure you have the necessary permissions to process customer data before using this form. If you're unsure, please consult your organization's data protection guidelines. Ensure that the fields are filled in correctly to avoid delays in processing orders.
-</thinking>
-
 # halloween_pre_order_form - Help Guide
 ## Purpose
 This form is used for customers to submit their interest in purchasing products before the official sales period for Halloween. Please use this form to collect necessary information from customers.

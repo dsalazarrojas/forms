@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive guide for emergency room admission. The form will be used by physicians to collect information from patients in emergency situations, ensuring a smooth and efficient process for patient care.
-
-To avoid duplication, please ensure the form is only used in emergency situations and not for routine patient information gathering.
-
-</thinking>
-
 # Emergency Room Admission Form - Help Guide
 ## Purpose
 The Emergency Room Admission Form is used to collect essential information from patients in emergency situations, enabling medical professionals to provide prompt and appropriate care.

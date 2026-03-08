@@ -1,7 +1,3 @@
-<thinking>
-The Ear Nose And Throat Patient Registration Form is intended to collect information about patients visiting an Ear, Nose, and Throat (ENT) specialist, including general information, patient details, medical history, doctor referral, and contact details. This form should only be used for patient registration purposes and is not a substitute for a full medical consultation. Ensure that the form is not used to collect sensitive or personal identifiable information without proper consent from the patient. The form fields are designed to be completed by the patient, but it's the doctor's discretion to review and confirm the information.
-</thinking>
-
 # Ear Nose And Throat Patient Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information about patients visiting an Ear, Nose, and Throat specialist.

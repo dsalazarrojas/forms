@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for setting up a projection mapping for a specific event, and it is required for events that require technical requirements such as video format, resolution, screen size. The form is used to gather details about the event, including the type, name, date, time, venue, client, technical requirements, and booking requests. The projection mapping setup field is a required field that asks the user to select the type of projection mapping they need. The form also includes fields for name, email, and phone number of the person submitting the form.
-
-</thinking>
-
 # Projection Mapping Setup Booking Form - Help Guide
 ## Purpose
 The Projection Mapping Setup Booking Form is used to collect information about a specific event's projection mapping requirements.

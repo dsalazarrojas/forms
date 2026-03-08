@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to allow users to reflect on their current status, progress, and challenges in relation to their goals. It is meant to be completed regularly, allowing users to monitor and adjust their goal setting as needed. 
-
-When filling out this form, users should consider the following:
-
-* The form is divided into 7 sections, each focusing on a different aspect of goal tracking.
-* Users should fill out the form with their actual progress and thoughts on the current status.
-* Each field should be filled out accurately and honestly, as it will help the user identify areas of improvement and track progress.
-
-</thinking>
-
 # Goal Setting Reflection Form - Help Guide
 ## Purpose
 This form is designed to help users reflect on their current status, progress, and challenges in relation to their goals. It is meant to be completed regularly, allowing users to monitor and adjust their goal setting as needed.

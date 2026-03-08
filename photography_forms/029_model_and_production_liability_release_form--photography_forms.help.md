@@ -1,11 +1,3 @@
-<thinking>
-This form is a liability release form used by the production and model industry to obtain a release from a model, actor, or talent for the use of their likeness and image in a production. The form is meant to provide a formal agreement between the production company and the model, ensuring that both parties understand and agree on the terms of use. 
-This form is designed to be completed by models, actors, or talents to provide their consent for the use of their likeness and image in a production. The form will be reviewed and signed by both the production company and the model, ensuring a mutual understanding of the terms.
-The purpose of this form is to establish a clear understanding of the terms of use, ensuring that both parties are aware of their rights and responsibilities. This form is not meant to be a substitute for a lawyer's advice, and it is recommended that models, actors, or talents consult with a lawyer before signing this form.
-The form is designed to be filled out once for each production, and it is recommended that models, actors, or talents keep a record of the forms they have signed for future reference.
-Please ensure that the form is filled out correctly, as the information will be used to establish a formal agreement.
-</thinking>
-
 # Model And Production Liability Release Form - Help Guide
 
 ## Purpose

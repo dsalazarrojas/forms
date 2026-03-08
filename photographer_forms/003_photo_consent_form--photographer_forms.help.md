@@ -1,7 +1,3 @@
-<thinking>
-We should check if we are not duplicating this form's purpose and intent. This form is for photographers to obtain consent from clients for photography sessions. The main goal is to ensure that both parties are on the same page about the terms and conditions of the session. We should verify that this form's purpose and intent align with our internal policies and procedures.
-</thinking>
-
 # Photo Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from clients for photography sessions. It confirms that both the photographer and the client understand the terms and conditions of the session, including the type of photography (e.g., Portrait, Landscape, Action), the event date, and other relevant details.

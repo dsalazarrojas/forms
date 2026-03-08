@@ -1,7 +1,3 @@
-<thinking>
-This form is for retailers to request placement of their products in store windows, shelves, or other areas of interest. The form helps the company's product placement team to understand the retailer's request and process it efficiently. It's essential to ensure that the retailer's product will be placed in the right location and timeframe to maximize sales and customer engagement. To avoid delays, please fill out the form only once for each product request and do not resubmit the same request. This will help the team to manage the high volume of requests and respond promptly to the retailers.
-</thinking>
-
 # Retailer Product Placement Request Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a product placement request to our team for processing. Fill out this form to request placement of your products in our stores.

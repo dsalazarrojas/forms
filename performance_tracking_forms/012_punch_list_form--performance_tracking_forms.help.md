@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Punch List Form - Help Guide
 
 ## Purpose

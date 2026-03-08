@@ -1,12 +1,3 @@
-<thinking>
-This is a form for creating a location scouting quote request for photography projects. The form is used to gather information about the production team, location scouting services needed, shoot dates, shoot locations, shoot duration, shoot details, location details, client information, contact details, project budget, estimated budget, budget currency, project manager, contact name, contact title, department, job code, job status, job type, and notes.
-
-Before starting, please ensure that you have all the necessary information to fill out the form accurately. Please note that this form is a quote request, not a booking form. If you have already submitted a booking form, please do not submit this form again.
-
-Please review the form carefully and fill out each field accurately to ensure that the location scouting team can provide you with the best quote for your project.
-
-</thinking>
-
 # Location Scouting Quote Request - Help Guide
 ## Purpose
 The purpose of this form is to request a quote for location scouting services for your photography project. Please fill out the form with the required information to receive a detailed quote for your project.

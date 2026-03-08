@@ -1,5 +1,3 @@
-<thinking>As a performance tracking form, this form is designed to collect and document test results for performance tests. It's intended for users to input information about a specific performance test, including the test run number, duration, start and end dates, test result, and other relevant details. The form is meant to be completed by users who have conducted performance tests and need to record their findings. The purpose of this form is not to collect data for any other specific reason. This form should not be used for other purposes such as data collection for other types of tests or surveys. It's also a good practice to fill out this form for each separate performance test run. If you're not sure, please consult with your team before proceeding.</thinking>
-
 # Performance Test Results Form - Help Guide
 
 ## Purpose

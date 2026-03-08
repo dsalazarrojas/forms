@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information and obtain consent for photo releases, which is a common requirement in various industries such as photography, modeling, and other fields where photos are taken or used. The form aims to ensure that all parties involved understand their rights and responsibilities regarding the use of photos. This form should only be used for photoshoots where the subjects are people. The form's fields are designed to collect information about the photo shoot, including the location, camera used, and any editing software employed. The form also includes fields for obtaining consent for release and rights management. To avoid duplication, please fill out this form only once per photo shoot.
-
-Please note that the following fields are not applicable for non-human subjects (e.g. landscapes, objects):
-* date
-* time
-* photo_location
-
-The photo_release and photo_print_release fields are for release and printing purposes, while photo_rights_release is for managing rights.
-</thinking>
-
 # photo_waiver_release_form - Help Guide
 ## Purpose
 The photo_waiver_release_form is designed to collect information and obtain consent for photoshoots involving people. This form ensures that all parties understand their rights and responsibilities regarding the use of photos.

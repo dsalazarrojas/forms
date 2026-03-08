@@ -1,8 +1,3 @@
-<thinking>
-This guide will cover the "photo_session_booking_form" form, a key component for managing photography session bookings. Its purpose is to gather essential information from clients to ensure smooth and efficient photo shoots. 
-The form is designed to be completed by clients or photographers to record details such as session dates, times, durations, and other relevant information. This guide will walk you through each field, helping you understand what data is required and how to use it effectively.
-</thinking>
-
 # photo_session_booking_form - Help Guide
 ## Purpose
 The "photo_session_booking_form" is a crucial tool for photography session management, ensuring accurate and organized data entry for both clients and photographers.

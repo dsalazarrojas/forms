@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and agreement from an individual or family who wishes to adopt a dog. This form aims to ensure that the adopter has a clear understanding of the adoption process, the dog's needs, and their responsibilities as an adopter. The form will be used by animal shelters, rescue organizations, or pet adoption centers to streamline the adoption process and ensure a smooth transition for both the adopter and the dog.
-
-Before filling out this form, please note that it is essential to answer all questions honestly and accurately. The information collected will be used to create a record of the adoption and to ensure the well-being of both the adopter and the dog.
-
-If you are unsure about any of the fields or questions, please do not hesitate to contact the adopting organization or agency for clarification.
-
-</thinking>
-
 # Dog Adoption Agreement Form - Help Guide
 ## Purpose
 The Dog Adoption Agreement Form is used to collect essential information and agreement from individuals or families who wish to adopt a dog. This form ensures a clear understanding of the adoption process, the dog's needs, and the adopter's responsibilities.

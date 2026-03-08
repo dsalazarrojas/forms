@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for patients undergoing plastic surgery procedures. The purpose of this form is to gather essential information about the patient's medical history, condition, understanding of the procedure, and contact details. This will help the doctor or medical staff to assess the patient's suitability for the procedure and ensure a smooth and safe experience for the patient. It is essential that the form is completed accurately and thoroughly to avoid any potential issues or complications.
-
-Before starting the form, please note that all fields are optional unless marked as "required." The fields are designed to gather specific information, and the required fields are marked with an asterisk (\*).
-
-Please fill out this form carefully, and do not hesitate to ask if you have any questions or concerns.
-
-</thinking>
-
 # Plastic Surgery Patient Intake Form - Help Guide
 ## Purpose
 This form is for patients undergoing plastic surgery procedures to provide essential information about their medical history, condition, and contact details.

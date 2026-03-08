@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for capturing legal details of a photography session, including client and session information, permissions, and agreements. The form likely serves as a template for a photography studio or service provider to ensure they have all necessary client and session details, permissions, and agreements before commencing the photo shoot. This template should help prevent duplication of effort or confusion by standardizing the data collected for each session.
-</thinking>
-
 # Legal Photography Contract - Help Guide
 ## Purpose
 This form is used to collect legal information and agreements from clients for a photography session. It is essential to provide accurate and thorough details to ensure a smooth and stress-free experience for both the client and the photographer.

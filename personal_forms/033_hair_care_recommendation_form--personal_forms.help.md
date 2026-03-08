@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a person's hair care habits and preferences. It will likely be used in a salon or spa setting to provide personalized recommendations for hair care products or treatments. The form asks for a variety of information, including hair type, skin type, hair length, color type, and various hair and skin problems. This form will likely be used by a hair care professional to provide targeted advice, but it could also be used by individuals seeking personalized recommendations. To avoid duplication, this form should only be used once per person.
-</thinking>
-
 # Hair Care Recommendation Form - Help Guide
 ## Purpose
 The Hair Care Recommendation Form is designed to gather information about a person's hair care habits and preferences. This information will be used to provide personalized recommendations for hair care products or treatments.

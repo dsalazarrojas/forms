@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the Seasonal Collection Feedback Poll form to end users. Before proceeding, let's confirm that this guide is relevant and not duplicating any existing resources. The form is used to gather feedback on the seasonal collection, and the questions are designed to elicit specific responses that will help improve future collections. The form's purpose is to collect information on users' experiences and opinions regarding the collection, and it is not meant to be a transactional form. Therefore, no internal logic or business rules need to be considered in this explanation.
-</thinking>
-
 # Seasonal Collection Feedback Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback on the latest seasonal collection. Your input will help us understand what worked well and what could be improved in the next collection.

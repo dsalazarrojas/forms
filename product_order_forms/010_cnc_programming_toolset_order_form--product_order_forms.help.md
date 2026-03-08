@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CNC Programming Toolset Order Form - Help Guide
 ## Purpose
 The CNC Programming Toolset Order Form is designed to gather information from customers interested in purchasing the CNC programming toolset. This form helps us understand their needs and preferences for the toolset, allowing us to provide the best possible experience and support.

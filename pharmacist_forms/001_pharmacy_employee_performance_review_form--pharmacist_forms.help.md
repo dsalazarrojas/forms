@@ -1,7 +1,3 @@
-<thinking>
-The Pharmacy Employee Performance Review Form is a crucial tool for evaluating and improving the performance of pharmacy employees. The form provides an opportunity for supervisors to assess the employee's overall performance, skills, and behavior, and to identify areas for improvement. This evaluation is essential for the employee's growth and development and for ensuring that the pharmacy maintains high standards of quality and efficiency. Before filling out this form, make sure you have a clear and objective assessment of the employee's performance, and use specific examples to support your answers. Please review each field carefully and answer all relevant questions.
-</thinking>
-
 # Pharmacy Employee Performance Review Form - Help Guide
 ## Purpose
 The Pharmacy Employee Performance Review Form is a tool for evaluating the performance of pharmacy employees. It helps supervisors assess and improve the employee's overall performance, skills, and behavior.

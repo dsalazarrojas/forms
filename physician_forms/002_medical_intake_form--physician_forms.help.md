@@ -1,13 +1,4 @@
-> <thinking>
-This help guide is intended to support end-users in completing the "Medical Intake Form" for healthcare professionals. This guide covers the form's purpose, step-by-step completion, and field-by-field explanations. 
-
-The form is designed to gather essential information about a patient's medical history, conditions, and treatments. This information will be used to provide an accurate diagnosis and treatment plan. 
-
-Please note that the form's fields are divided into distinct categories, including patient contact information, medical history, allergies, medical conditions, and more. Completing this form will help healthcare professionals better understand the patient's medical situation and provide the best possible care. 
-
-</thinking>
-
-# medical_intake_form - Help Guide
+> # medical_intake_form - Help Guide
 ## Purpose
 The medical_intake_form is a comprehensive form used to gather detailed information about a patient's medical history, conditions, and treatments. This information will be used to provide an accurate diagnosis and treatment plan.
 

@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand the purpose of this form and how to complete it accurately. This is a COVID-19 vaccine card collection form, and its purpose is to collect information about an employee or staff member's vaccination status, vaccine type, and other relevant details. This form will help to maintain accurate and up-to-date records, which will facilitate verification and compliance.
-
-Before starting, ensure that you have not already submitted this form and that your information is accurate and up-to-date, as duplicate submissions may lead to errors in the record.
-
-</thinking>
-
 # COVID 19 Vaccine Card Collection Form - Help Guide
 ## Purpose
 This form is designed to collect and verify COVID-19 vaccination information from employees or staff members.

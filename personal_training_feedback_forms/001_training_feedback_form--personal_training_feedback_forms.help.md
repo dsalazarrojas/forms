@@ -1,5 +1,3 @@
-<thinking>...this form purpose is to collect feedback from users about their experience in a training session. This form will help the training staff to evaluate the quality of the session, identify areas for improvement, and make data-driven decisions for future trainings. It is recommended to be filled out after each session, and the information will be used to improve the training program. Please ensure that you are filling out this form for a session you attended, and not for someone else. Duplicate entries will be ignored, so please do not submit multiple entries for the same session. Please fill out this form completely and accurately, as the information will be used to make data-driven decisions. If you have any questions or concerns, please don't hesitate to reach out to the training staff... </thinking>
-
 # Training Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from users about their experience in a training session. It helps the training staff to evaluate the session's quality, identify areas for improvement, and make data-driven decisions for future trainings.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the form is only filled out by customers who have a genuine interest in financial planning services. The purpose of this form is to gather opinions from customers about their satisfaction with our financial planning service. The form should not be filled out by customers who are simply checking the box without actually taking the survey seriously. We should also ensure that customers do not fill out the form multiple times, so we will be implementing measures to prevent duplicate submissions.
-</thinking>
-
 # Financial Planning Service Opinion Poll - Help Guide
 ## Purpose
 This form is designed to gather opinions from customers about their satisfaction with our financial planning service. We value your feedback and want to understand how we can improve our service to better meet your needs.

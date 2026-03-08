@@ -1,14 +1,3 @@
-<thinking>
-
-**Purpose of the form:**
-This form is for participants to register for a photography workshop. The main goal is to collect essential information from participants, which will be used to manage the workshop's attendance and payment processing. 
-
-We will check for duplicate or missing registrations to prevent multiple entries or incorrect payments.
- 
-Please make sure to complete this form accurately as we will use the information you provide to process your payment and confirm your workshop attendance.
-
-</thinking>
-
 # Photography Workshop Registration Form - Help Guide
 ## Purpose
 The Photography Workshop Registration Form is designed to collect essential information from participants to manage workshop attendance and payment processing.

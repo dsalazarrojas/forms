@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and payment details from school photography clients. The form is used to record payment status, due dates, and other relevant information. The form should only be filled out by school photography clients, and not by photographers or other users of the system.
-</thinking>
-
 # School Photography Contract - Help Guide
 ## Purpose
 This form is used to collect information and payment details from school photography clients.

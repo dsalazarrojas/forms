@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for wedding packages that have a price change. The form will likely be used by wedding planners or event organizers to collect client information, specifically the client's name, email, wedding date, package name, price, and agreement details. This form will help ensure that all necessary information is collected and stored accurately. I will not duplicate this form's functionality. The form fields will be used to collect data for a specific purpose and will help with data analysis and processing.
-</thinking>
-
 # Wedding Package With Price Change - Help Guide
 ## Purpose
 This form is used to collect information for a wedding package with a price change, including client name, email, wedding date, package name, price, and agreement details.

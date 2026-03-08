@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed for collecting information during a doctor's visit. It should only be used for recording and documenting patient information, medical history, and vital signs during a visit. This form is intended for use by healthcare professionals, not for self-reporting or general information gathering. 
-
-</thinking>
-
 # Doctor Visit Form Template - Help Guide
 ## Purpose
 The Doctor Visit Form Template is designed for healthcare professionals to collect and document patient information, medical history, and vital signs during a visit.

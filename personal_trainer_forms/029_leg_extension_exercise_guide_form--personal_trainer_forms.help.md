@@ -1,6 +1,3 @@
-<thinking>
-Form "leg_extension_exercise_guide_form" is used to gather information from personal trainers regarding the leg extension exercises they perform. This form is likely used for research, assessment, or administrative purposes within a fitness center or gym. It might also be used to gather feedback from participants in these exercises, ensuring that trainers are aware of any physical limitations or conditions that require adjustments to be made. The form is likely part of a larger process of evaluating a trainer's or participant's performance, possibly used as part of ongoing assessments.
-</thinking>
 # leg_extension_exercise_guide_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from personal trainers regarding the leg extension exercises they perform, which might be used for research, assessment, or administrative purposes within a fitness center or gym.

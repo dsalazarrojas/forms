@@ -1,12 +1,3 @@
-<thinking>
-The form is used to gather information about an individual's personal development skills and goals. The form has 25 fields, each covering a specific area of personal development, such as self-confidence, self-perception, time management, and professional networking.
-
-To determine the relevance of this form, consider that personal development is a crucial aspect of professional growth and career success. This form would be useful for assessing an individual's strengths and weaknesses in different areas, identifying areas for improvement, and creating a plan for personal growth.
-
-This form does not seem to be duplicating any existing forms, as its focus on personal development skills is unique compared to other forms that might focus on more specific areas like leadership or time management.
-
-</thinking>
-
 # personal_development_assessment_form - Help Guide
 ## Purpose
 The personal development assessment form is used to gather information about an individual's personal development skills and goals.

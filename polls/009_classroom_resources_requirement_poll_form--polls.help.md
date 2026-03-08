@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a teacher's or staff member's classroom resources requirements in a school setting. This form helps identify areas where resources are needed and can be used to inform purchasing decisions or budget allocation. It also helps track the status of resources and the impact on student learning.
-
-When filling out this form, respondents will be asked to provide their name, role, grade level, department, and classroom number. They will then select the type of resources they need (e.g., classroom supplies, technology equipment, etc.), specify the items required, and indicate the urgency level and quantity needed. Additionally, they will provide an estimate of the cost, current inventory status, and justification for the resources. Some fields also ask about alternative solutions, funding sources, and willingness to share resources with other teachers.
-
-This form should only be completed by teachers or staff members who are responsible for managing classroom resources. It is not intended for students or other non-staff members.
-
-</thinking>
-
 # Classroom Resources Requirement Poll Form - Help Guide
 ## Purpose
 This form helps teachers and staff members report their classroom resources requirements to inform purchasing decisions and budget allocation.

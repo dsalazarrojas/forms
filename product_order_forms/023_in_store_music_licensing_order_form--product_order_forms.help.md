@@ -1,6 +1,3 @@
-<thinking> 
-This form is for store owners to submit their request for in-store music licensing for their business. It is used by the store's music licensing team to process and verify the store's details, usage information, payment information, contact information, consent, product information, and billing and shipping details. The form should only be submitted once for each store, as multiple submissions with the same store ID will be considered duplication and will not be processed further. Please ensure that you have all the necessary details before submitting the form.</thinking>
-
 # in-store-music-licensing-order-form - Help Guide
 ## Purpose
 This form is used by store owners to request in-store music licensing for their business.

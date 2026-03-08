@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive and user-friendly help guide for the COVID 19 Rapid PCR Test Order Form, let's break down the form's purpose and the process of completing it.
-
-The form is intended to collect essential information for the COVID-19 rapid PCR test order. The purpose of this form is to provide a structured and standardized way to gather the necessary details for the test order, ensuring accuracy and consistency in reporting. This will aid in the processing and delivery of the test kits.
-
-Before proceeding, please review the following fields to ensure you have all the required information. Note that some fields are required, while others are optional.
-
-After reviewing the form, let's move on to the step-by-step process of completing it.
-
-</thinking>
-
 # COVID 19 Rapid PCR Test Order Form - Help Guide
 ## Purpose
 The COVID 19 Rapid PCR Test Order Form is a standardized document used to gather necessary information for the COVID-19 rapid PCR test order. It ensures accuracy and consistency in reporting, aiding in the processing and delivery of test kits.

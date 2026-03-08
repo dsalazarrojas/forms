@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **photography_use_authorization_form - Help Guide**
 =============================================
 

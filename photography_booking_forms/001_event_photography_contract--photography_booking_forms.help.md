@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for an event photography contract. The form is designed to be completed by the event organizer or client, providing details about the event, including the date, location, and terms of the photography service. The form is meant to be used as a template for creating a contract between the client and the photographer, outlining the expectations and responsibilities of both parties. This form does not require a login or account registration, making it easily accessible to anyone who needs to create an event photography contract.
-</thinking>
-
 # Event Photography Contract - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Event Photography Contract form, which is used to collect essential information for creating a comprehensive contract between a client and a photographer for an event.

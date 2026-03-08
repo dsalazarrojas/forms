@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on a personal assistant's time spent working on tasks or projects. This form helps to track time in and time out, hours rendered, and other relevant details. It's likely used for time tracking, project management, or reporting purposes within a company or organization. It's essential to fill this form accurately to ensure that the data collected is reliable and useful for decision-making.
-
-The form is designed for personal assistants to report their work hours and activities, making it a crucial tool for their time management and task tracking. It's also possible that this form is used in a context where personal assistants are assigned specific tools or tasks, and this form helps in assigning those tools or evaluating their performance. 
-
-The form is not intended for general use or public access. It's a private form for internal use within an organization. 
-
-This form has been designed with care to ensure that it's easy to use and understand. Each field has a specific purpose, and the labels are clear and concise. However, if you're unsure about any field or have questions, don't hesitate to reach out to the form's administrators or support team.
-
-</thinking>
-
 # Personal Assistant Time InOut Form - Help Guide
 
 ## Purpose

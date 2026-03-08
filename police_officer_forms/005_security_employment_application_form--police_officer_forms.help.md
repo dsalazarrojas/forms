@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying for security employment with a police department. The form is intended to ensure that all applicants provide accurate and complete information about their personal details and employment history. Please note that this form is not intended for police officers applying for another position within the department, but rather for external candidates. If you are a current police officer looking to transfer or apply for a new role, please contact your supervisor or HR representative for assistance. 
-</thinking>
-
 # Security Employment Application Form - Help Guide
 ## Purpose
 The Security Employment Application Form is used to collect information from external candidates applying for security employment with the police department. The form helps the hiring team to verify the candidate's identity, employment history, and qualifications.

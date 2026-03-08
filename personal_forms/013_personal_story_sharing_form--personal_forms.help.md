@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect personal stories from users, which will be used to create a shared experience that can help individuals connect with each other. The purpose of this form is to gather information about the users' first name, last name, email, organization type, role, date of the event, time of the event, phone number, and any additional notes they may have about their experience. This information will be stored and potentially used for future reference or shared among users who have similar experiences or backgrounds. Before proceeding, it's worth considering whether the information being requested is truly relevant to the purpose of the form and not duplicating any existing information.
-</thinking>
-
 # Personal Story Sharing Form - Help Guide
 ## Purpose
 The Personal Story Sharing Form is designed to collect personal stories and experiences from users. The information collected will be stored and potentially shared among users with similar experiences or backgrounds.

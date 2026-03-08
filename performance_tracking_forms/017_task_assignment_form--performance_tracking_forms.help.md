@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assign tasks to users and track their progress. It captures relevant information such as the assignee, task details, assignment date, end date, status, priority, and any comments or notes associated with the task. This form is typically used for task management purposes within the organization. It is recommended that users fill in all required fields to ensure accurate and efficient task tracking.
-</thinking>
-
 # Task Assignment Form - Help Guide
 ## Purpose
 

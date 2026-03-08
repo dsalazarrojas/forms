@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photo Consent Form - Help Guide
 ## Purpose
 This form is designed for capturing consent from individuals to use their photos for certain purposes. It gathers information about the individual's demographics, contact details, and consent status for photo usage.

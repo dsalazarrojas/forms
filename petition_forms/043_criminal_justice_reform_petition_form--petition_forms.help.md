@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their thoughts on criminal justice reform. The form should be used to gather feedback from the community on how to improve the criminal justice system. This form is not meant to be used for official purposes, but rather to collect general public opinion and suggestions on how to make the criminal justice system more efficient and fair. It's essential to ensure that the form is completed by users who are genuinely interested in providing constructive feedback and not for any malicious purposes. To prevent duplication, users who have already submitted feedback will be prompted to sign in and confirm their identity before being able to submit again.
-</thinking>
-
 # Criminal Justice Reform Petition Form - Help Guide
 ## Purpose
 The Criminal Justice Reform Petition Form is designed to collect public opinion and suggestions on how to improve the criminal justice system. It's a platform for citizens to express their thoughts and ideas on making the system more efficient and fair.

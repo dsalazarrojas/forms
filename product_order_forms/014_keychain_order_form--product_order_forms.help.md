@@ -1,16 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze its fields. It appears to be for ordering custom keychains. The fields include customer information (name, email, phone), date, a message, keychain type, size, shape, text size, line height, font size, line weight, and color depth. The form seems to be a combination of order information and keychain design options.
-
-The form is likely used for customers to place custom keychain orders, providing their information and customizing the keychain's design. The required fields indicate that customers must provide essential information, such as their name, email, date, keychain type, size, shape, text size, line height, and color depth.
-
-The select_one field for keychain type suggests that customers can choose from different types of keychains, such as "Custom", "Default", and "Premium". The select_multiple field for size implies that customers can select multiple sizes for their keychain.
-
-The form's structure and fields suggest that it is a comprehensive order form for custom keychains. It is possible that the form is used for internal orders or customer-facing, depending on the context.
-
-To confirm, it would be helpful to know more about the form's intended use case and the organization that created it. If the form is for internal use, it might be used for tracking orders or managing keychain production. If it's customer-facing, it's likely used for online ordering or phone orders.
-
-However, based on the provided YAML, it seems that the form is designed for customers to place custom keychain orders, and the fields are organized to accommodate this purpose.</thinking>
-
 # Keychain Order Form - Help Guide
 ## Purpose
 This form is for customers to place custom keychain orders. It collects customer information and customizes the keychain's design according to their preferences.

@@ -1,12 +1,3 @@
-<thinking>
-# winter_skin_care_wish_list - Help Guide
-
-The winter skin care wish list form is designed to help users provide information about their skin type, preferences, and concerns. This form is meant to be filled out by individuals who wish to get recommendations for skin care products tailored to their specific needs.
-
-Before filling out this form, please make sure you are not duplicating your efforts by checking that you haven't already submitted this form.
-
-</thinking>
-
 ## Purpose
 The winter skin care wish list form is used to gather information about your skin type, preferences, and concerns. This information will be used to provide you with personalized product recommendations.
 

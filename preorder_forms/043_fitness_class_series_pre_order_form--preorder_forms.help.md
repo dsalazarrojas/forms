@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to help instructors collect information from students who are interested in enrolling in their Fitness Class Series. The fields are designed to collect title and name information, scheduling preferences, and payment details from students. This form should only be used when students are pre-registering for a series of fitness classes and should not be used for general feedback, complaints, or other purposes not related to pre-ordering. 
-
-</thinking>
-
 # Fitness Class Series Pre Order Form - Help Guide
 ## Purpose
 

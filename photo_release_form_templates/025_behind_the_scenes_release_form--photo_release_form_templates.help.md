@@ -1,5 +1,3 @@
-<thinking>Behind The Scenes Release Form is a form used to collect information from participants in a behind-the-scenes project, such as a film, television, or commercial production. This form will help us understand the participant's information, production details, and permission to use their likeness or voice in promotional materials. Please fill out this form carefully and accurately. Note that some fields are mandatory and must be filled out before proceeding. If you have any questions or concerns, please reach out to our team for assistance.</thinking>
-
 # Behind The Scenes Release Form - Help Guide
 ## Purpose
 The Behind The Scenes Release Form is used to collect information from participants in a behind-the-scenes project, such as a film, television, or commercial production, to obtain necessary permissions and details for the project's use of their likeness or voice.

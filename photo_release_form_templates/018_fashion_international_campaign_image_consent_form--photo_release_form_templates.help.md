@@ -1,7 +1,3 @@
-<thinking>...To create the user-facing help guide for the "Fashion International Campaign Image Consent Form", I will first analyze the provided YAML fields. The form appears to be a consent form for image releases, primarily targeting the fashion industry. It asks for various details related to the campaign, model, photographer, and image usage. The form seems to be designed for both model and photographer consent, and also for agency and photographer agreements. The form fields are quite comprehensive, covering different aspects such as image location, release version, and image count. The form's structure suggests that it is intended for both internal and external use, possibly for official documentation and record-keeping purposes.
-
-... </thinking>
-
 # Fashion International Campaign Image Consent Form - Help Guide
 ## Purpose
 This form is for obtaining consent from models and photographers for image releases used in fashion campaigns. It captures important details about the campaign, model, photographer, and image usage.

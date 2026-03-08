@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect user input for a "Voiceover Picture" task, which likely involves creating a voiceover or audio description for a picture or video. This form is probably part of a larger workflow or process for managing multimedia content. To confirm, please ensure that this form is not a duplicate of any existing form, and that the provided YAML fields are correct and up-to-date.
-</thinking>
-
 # Voiceover Picture - Help Guide
 ## Purpose
 This form is used to collect user input for a "Voiceover Picture" task, which involves creating a voiceover or audio description for a picture or video. The form is designed to gather necessary information to process the voiceover or audio description request.

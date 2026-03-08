@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients to acknowledge that they are aware of the risks associated with certain medical procedures. The patient is asked to confirm their personal details, including age, whether they are pregnant or not, and the date of their last visit to the doctor. The form aims to ensure that the patient has a clear understanding of their condition and the treatment they are receiving. Please note that this form is not intended for patients who are already pregnant, as it is not relevant for them to sign this waiver. Also, note that this form is not intended for patients under a certain age group (e.g., minors), as their consent may not be valid.
-</thinking>
-
 # Pregnancy Waiver Form - Help Guide
 ## Purpose
 This form is for patients to acknowledge their understanding of their medical condition and the risks associated with treatment.

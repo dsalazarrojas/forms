@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Law Enforcement Stress Leave Of Absence Form is to document and report the need for an officer to take a leave of absence due to stress. This form is used by law enforcement agencies to record and review officer's absences due to stress-related reasons, ensuring that the officer's well-being and work performance are not compromised.
-</thinking>
-
 # Law Enforcement Stress Leave Of Absence Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and insights from employees on the effectiveness of the company's talent management strategy. The purpose of this form is to identify areas of improvement and gather suggestions for future talent management initiatives. Please ensure that you complete this form only if you have direct experience with the company's talent management strategy. If you're unsure about any of the questions or fields, please don't hesitate to reach out to your HR representative for clarification. 
-</thinking>
-
 # Talent Management Strategy Effectiveness Poll - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from employees on the effectiveness of the company's talent management strategy. It will help us identify areas of improvement and gather suggestions for future talent management initiatives.

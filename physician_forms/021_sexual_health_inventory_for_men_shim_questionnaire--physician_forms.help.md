@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from men about their sexual health, including their history, benefits, behaviors, status, dysfunctions, relationships, and preferences. The purpose of this form is to collect data that can be used for research, educational, or clinical purposes. 
-
-This form appears to be a survey or questionnaire, and its design is based on public survey topic metadata. It is an original adaptation and does not copy, extract, or use proprietary content from any form creation, data collection, or survey platform. 
-</thinking>
-
 # Sexual Health Inventory For Men (SHIM) Questionnaire - Help Guide
 ## Purpose
 The Sexual Health Inventory For Men (SHIM) Questionnaire is designed to collect information about men's sexual health, including their experiences, habits, and preferences. The data collected will help researchers, clinicians, or educators understand the complexities of male sexual health.

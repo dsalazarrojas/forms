@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thank-You-Insert-Order-Form - Help Guide
 ## Purpose
 

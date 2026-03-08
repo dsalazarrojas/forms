@@ -1,9 +1,3 @@
-<thinking>
-To ensure the form's purpose and intent are understood, let's review its components. The "Investor Business Venture Interest Poll" form is designed to gather information from potential investors on their interest in various aspects of a business venture. This form helps investors express their interests in different areas, such as investment areas, priorities, target market, growth stage, business model, industry, location, revenue range, employee count, company type, and investor interest. The form is likely used for internal or external research, such as market research or to gauge the feasibility of a particular business idea.
-
-To prevent duplication or confusion, it's essential to understand the form's intended use and the questions it asks. Each field should be completed with the understanding that the data collected will be used for analysis and decision-making. This guide will walk through the form step-by-step to clarify the purpose and usage of each field.
-</thinking>
-
 # Investor Business Venture Interest Poll - Help Guide
 ## Purpose
 The "Investor Business Venture Interest Poll" form is designed to collect information from potential investors on their interests and priorities for a business venture. This form helps investors express their thoughts on various aspects of a business, enabling the creator to gauge the potential interest and feasibility of the venture.

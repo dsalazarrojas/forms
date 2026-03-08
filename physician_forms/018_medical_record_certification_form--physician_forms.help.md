@@ -1,9 +1,4 @@
-# <thinking> 
-This form is for certifying medical records, and it's essential to complete it accurately to ensure the authenticity of the medical information. The form is designed to collect information about the patient, the healthcare professional who treated the patient, and the details of the medical record. Please review this guide carefully to understand each field's purpose and requirements.
-
-</thinking>
-
-# medical_record_certification_form - Help Guide
+# # medical_record_certification_form - Help Guide
 ## Purpose
 The Medical Record Certification Form is used to certify the authenticity of a patient's medical record. It requires information about the patient, the healthcare professional, and the details of the medical record.
 

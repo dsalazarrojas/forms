@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate information, let's review this form's purpose and requirements.
-This form is designed to collect user information for a specific electronic product order. The fields are meant to gather details about the customer, such as their name, contact information, and product preferences.
-</thinking>
-
 # Paypay Electronic Product Order Form - Help Guide
 
 ## Purpose

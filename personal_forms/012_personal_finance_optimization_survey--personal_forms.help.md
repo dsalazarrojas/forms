@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Finance Optimization Survey - Help Guide
 ## Purpose
 The Personal Finance Optimization Survey is designed to help you better understand your financial habits, goals, and priorities. The survey consists of 18 questions that cover various aspects of personal finance, including income management, saving strategies, financial goals, and investment approaches. The information gathered from this survey will help you identify areas where you can optimize your finances and make informed decisions to achieve your financial goals.

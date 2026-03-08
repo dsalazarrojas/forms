@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from team members on their manager's performance and effectiveness. Before proceeding, it's essential to confirm that this form is relevant to your specific team and that you haven't already conducted a similar survey. The form is designed to be a template, and its contents should be adapted according to your team's specific needs.
-
-The form is meant to gauge the manager's performance in several key areas, including overall satisfaction, feedback frequency, leadership qualities, and areas for improvement. The goal is to gather honest and constructive feedback to help the manager grow and make informed decisions.
-
-This form is not affiliated with or derived from any form platform, and it's released under a Creative Commons license. You are free to use, modify, and even sell forms derived from it, as long as you give credit.
-
-Please note that some fields might not be applicable to your team or organization. Adapt this form according to your specific needs, and use it as a starting point for your own survey.
-
-</thinking>
-
 # management_survey_template - Help Guide
 ## Purpose
 This form is a survey designed to collect feedback on management performance and effectiveness. It's a tool to help managers grow and improve their skills, leading to a more positive work environment and better outcomes.

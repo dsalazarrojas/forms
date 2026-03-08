@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for customers to pre-order cell phones before they are released. The form requires customer information, device selection, and payment details to ensure a smooth pre-order experience. To prevent errors, please ensure that the information provided is accurate and complete.
-
-</thinking>
-
 # Cell Phone Pre Order Form - Help Guide
 ## Purpose
 The Cell Phone Pre Order Form is designed to collect pre-order information from customers before the release of new cell phones. This form helps us to understand the customer's preferences and requirements for the pre-order process.

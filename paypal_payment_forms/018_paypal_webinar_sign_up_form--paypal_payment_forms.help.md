@@ -1,10 +1,3 @@
-<thinking>...
-This form is intended to collect information from users interested in attending a webinar organized by the company. The purpose of the form is to gather relevant details about the user, including their name, contact information, and preferences for the webinar. This information will be used to confirm attendance and provide personalized communication for the event.
-
-Before proceeding, please ensure you are not duplicating your registration. If you have already signed up for this webinar, please do not fill out this form again.
-
-</thinking>
-
 # PayPal Webinar Sign Up Form - Help Guide
 ## Purpose
 The form is designed to collect information from users interested in attending a webinar. The gathered data will help us confirm attendance and provide personalized communication for the event.

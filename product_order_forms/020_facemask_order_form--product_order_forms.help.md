@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for their facemask orders. The purpose of this form is to gather essential details from customers to process their orders efficiently and effectively. This form is not intended to be a survey, but rather a straightforward order form to collect necessary information. 
-
-The form is divided into sections, each focusing on a specific aspect of the order. 
-
-- **Customer Information (1)**: This section is for customers to provide their contact details.
-- **Contact Info (2)**: This section is for customers to provide their contact information for delivery and communication purposes.
-- **Delivery Info (3)**: This section is for customers to specify their delivery details.
-- **Product Info (4)**: This section is for customers to provide their product selection and quantity details.
-- **Payment Details (5)**: This section is for customers to provide their payment information.
-
-The form is optional for customers, but it is required for the business to process the order. Customers can provide the necessary information at their discretion. However, please note that some fields might be required for the form to be processed.
-
-The form is designed to be simple, user-friendly, and easy to understand. The business will use the information provided in this form to process the order and communicate with the customer.
-</thinking>
-
 # Facemask Order Form - Help Guide
 ## Purpose
 The Facemask Order Form is designed to collect information from customers for their orders in a straightforward and efficient manner.

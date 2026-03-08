@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect medical information from patients. It is used to gather a comprehensive summary of a patient's medical history, including their current medications, medical conditions, and social security number (if provided). This information will help healthcare providers understand the patient's overall health status and provide better care. Please note that this form is not intended to be a substitute for a comprehensive medical evaluation, but rather a supplement to aid healthcare providers in their assessment.
-
-Before filling out this form, please ensure that you have not already completed it for the same patient. If you have previously completed this form, your changes will not be saved and you will need to resubmit the entire form.
-
-To fill out this form, please follow the instructions below:
-
-</thinking>
-
 # medical-summary-form - Help Guide
 ## Purpose
 The purpose of this form is to gather medical information from patients to aid healthcare providers in understanding their overall health status.

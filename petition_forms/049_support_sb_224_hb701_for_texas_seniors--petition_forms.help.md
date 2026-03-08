@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather support for a bill (SB 224 HB701) aimed at helping Texas seniors. The purpose of this form is to allow individuals to express their support or opposition to the bill. The form has multiple fields, and users should only fill out the fields that apply to them. Please make sure to complete only the fields that pertain to your situation. 
-</thinking>
-
 # Support SB 224 HB701 For Texas Seniors - Help Guide
 ## Purpose
 This form is designed to gather support for a bill (SB 224 HB701) aimed at helping Texas seniors. The bill's goal is to provide benefits and protections for seniors in the state of Texas.

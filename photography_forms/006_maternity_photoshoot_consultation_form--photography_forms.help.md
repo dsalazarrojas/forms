@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for capturing information from expecting mothers about their preferences and requirements for a maternity photoshoot. It seems to be a form to be used by photographers or photography studios to understand the clients' needs and expectations for a photoshoot. This form likely aims to gather information on the client's contact details, photography preferences, and specifics about the photoshoot. 
-</thinking>
-
 # Maternity Photoshoot Consultation Form - Help Guide
 ## Purpose
 This form is designed to help photographers or photography studios capture information from expecting mothers to better understand their needs and preferences for a maternity photoshoot. By filling out this form, the client will be able to provide their details, contact information, photography preferences, and specifics about the photoshoot, allowing the photographer to tailor the shoot accordingly.

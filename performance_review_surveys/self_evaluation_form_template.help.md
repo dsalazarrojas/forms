@@ -1,8 +1,3 @@
-<thinking> 
-The self_evaluation_form_template was designed to help individuals assess their performance and development throughout a review period. This form is intended to guide users in evaluating their strengths, weaknesses, and areas of improvement. Before filling out this form, please review the questions and fields to ensure you're providing accurate and relevant feedback. This form is meant to be a self-assessment tool, and your responses should reflect your personal experience and perspective. If you have any concerns or questions, please refer to your supervisor or HR representative for guidance.
-
-</thinking>
-
 # Self Evaluation Form Template - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hedgehog Adoption Application Form - Help Guide
 
 ## Purpose

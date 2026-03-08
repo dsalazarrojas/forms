@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for peer-based curriculum evaluation registration. It is designed to collect relevant information about the curriculum being evaluated and the evaluator conducting the evaluation. The form will check for duplication before saving any submitted data, so you should only submit a new registration if you have not evaluated the curriculum before or if the evaluation has not been completed.
-
-Please note that the form consists of 26 fields divided into multiple pages. It is expected that you will be able to complete the form in a step-by-step manner, page by page, without having to worry about jumping between unrelated fields. If you are unsure about any specific field, refer to the field-by-field explanation below for more details.
-
-</thinking>
-
 # Peer Based Curriculum Evaluation Registration Form - Help Guide
 ## Purpose
 This form is used for registering a peer-based curriculum evaluation. It gathers information about the curriculum being evaluated and the evaluator conducting the evaluation.

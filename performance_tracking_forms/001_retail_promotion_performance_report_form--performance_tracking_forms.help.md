@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used for retail businesses to track and analyze the performance of their promotions, allowing them to identify what works and what doesn't. The form may be used by retail managers or team members to record key information about each promotion, including its campaign details, target audience, products involved, and financial data. It's essential to ensure that the form is completed accurately and thoroughly, as the data collected can inform future promotional decisions. 
-
-Please note that some fields might be redundant or have overlapping purposes, such as the "Date" fields (#7 and #8). In this case, the field with the most specific information should be prioritized.
-
-The provided form fields include various types of data such as date, time, text, select multiple, select one, number, note, and email fields. Each field has a specific purpose and is designed to collect different types of data.
-</thinking>
-
 # Retail Promotion Performance Report Form - Help Guide
 ## Purpose
 The Retail Promotion Performance Report Form is designed to help retail businesses track and analyze the performance of their promotions. It's intended to be used by retail managers or team members to collect relevant data on each promotion.

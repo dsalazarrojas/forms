@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Training Feedback Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants who attended a workshop or corporate training session. The goal is to understand their experience, what they learned, and what they would like to see improved in future sessions. Your input will help us tailor our training programs to better meet your needs.

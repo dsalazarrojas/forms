@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect information for a change of address update, typically used for updating a customer's or individual's address in a system or database. This form is meant to be used in a variety of scenarios, such as when a person moves to a new home, opens or closes a business, or updates their contact information. 
-
-To use this form, the user will be presented with a series of fields, each with its own specific purpose and requirements. 
-
-The form will be divided into sections, and the user will be guided through the fields in a logical and intuitive manner. The form will ask for information such as the date of form submission, the user's full name, account or reference number (if applicable), customer ID (if applicable), email address, phone number, former address details (street, city, state/province, zip/postal code, and country), the date they moved from the previous address, and the date they moved to the new address, the type of move (residential, business, or both), and whether services should be continued at the new address. 
-
-The user will be required to input accurate information in each field, and will be given the option to confirm the accuracy of the information provided. 
-
-This form will help ensure that the necessary information is collected accurately and in a structured manner, making it easier to update the user's information in the system or database. 
-
-This form is intended to be used by individuals and organizations to update their address information, and should be used in scenarios such as:
-- Moving to a new home or business location
-- Updating contact information
-- Closing or opening a business
-- Other situations where address updates are necessary
-
-It is essential to fill out the form accurately and thoroughly, as the information collected will be used to update the user's information in the system or database.
-</thinking>
-
 # Change Of Address Form Template - Help Guide
 ## Purpose
 The Change of Address Form Template is a document designed to collect information for updating a customer's or individual's address in a system or database.

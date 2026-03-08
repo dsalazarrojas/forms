@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on an individual's or organization's performance and attention evaluation, which is crucial for assessing their ability to meet expectations and address areas for improvement. This form is part of a performance tracking system, and its data is likely to be used for reporting and evaluation purposes. It's essential that the user understands the relevance of this form and fills it out accurately to avoid duplication of effort and ensure that the collected data is meaningful.
-</thinking>
-
 # Performance And Attention Evaluation - Help Guide
 ## Purpose
 The Performance And Attention Evaluation form is designed to collect data on an individual's or organization's performance and attention evaluation. This form is used for reporting and evaluation purposes.

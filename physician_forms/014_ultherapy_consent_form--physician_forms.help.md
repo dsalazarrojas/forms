@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ultherapy Consent Form - Help Guide
 ## Purpose
 The Ultherapy Consent Form is a document designed to obtain informed consent from patients before undergoing the Ultherapy treatment. This form gathers essential information about the patient's medical history, contact details, and consent to proceed with the treatment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate booking a baby photography session for clients. The purpose of this form is to gather essential information from the client to ensure a smooth and successful experience. The form collects the client's personal details, session type, baby's information, preferred date and time, location, and package choice. The client is asked to agree to the photography service terms and conditions.
-</thinking>
-
 # Baby Photography Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients to book a baby photography session. It ensures that all the necessary details are gathered to provide a great experience.

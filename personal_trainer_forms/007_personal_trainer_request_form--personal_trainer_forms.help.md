@@ -1,7 +1,3 @@
-<thinking>
-This form is a request form for personal training and coaching services. It is intended to collect information from potential clients about their contact details, training interests, schedule availability, and any additional notes. The form is designed to be completed by users who want to inquire about personal training services, such as personal coaching, nutrition counseling, or workout plans. It should not be used for other purposes, like scheduling group classes or workshops.
-</thinking>
-
 # personal-trainer-request-form - Help Guide
 ## Purpose
 This form is for individuals who are interested in requesting personal training services, including personal coaching, nutrition counseling, or workout plans. It collects their contact information, training preferences, and schedule availability.

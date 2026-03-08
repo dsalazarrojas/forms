@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the registration process of dodgeball players. It is meant for users to provide their personal and contact information, as well as medical clearance and emergency contact details. The form is divided into several sections that guide the user through the required and optional information. Please note that this form is not meant to be used for payment processing, instead, it is used for registration purposes only. There are no required fields for this form, and all fields are optional. This form is intended for internal use only, and the provided information will not be shared publicly. The form has 16 fields with various types of input, such as text, email, date, select one/multiple options, and notes.
-</thinking>
-
 # dodgeball_registration_form - Help Guide
 ## Purpose
 The Dodgeball Registration Form is used for the registration process of dodgeball players. It is meant for users to provide their personal and contact information, as well as medical clearance and emergency contact details.

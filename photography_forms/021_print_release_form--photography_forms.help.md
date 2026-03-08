@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Print Release Form - Help Guide
 ## Purpose
 The Print Release Form is a document that confirms an image has been released for print and is suitable for public consumption. It's used to track and record the distribution of printed materials, ensuring they are not used in unauthorized or unapproved ways.

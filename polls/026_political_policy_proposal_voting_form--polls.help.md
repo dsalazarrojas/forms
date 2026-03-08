@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the Political Policy Proposal Voting Form. This form aims to gather feedback and opinions from users regarding a particular policy proposal. It's essential to ensure that only eligible users can participate in the voting process, and that their feedback is accurately recorded. Before filling out this form, please make sure you have the authority to participate in the voting process and that your comments are based on the specific proposal being discussed.
-
-This form is used to record the results of the voting process, including the number of eligible voters, the voting threshold, and the outcome of the vote. The form also allows users to provide additional comments and track the status of the proposal.
-</thinking>
-
 # Political Policy Proposal Voting Form - Help Guide
 ## Purpose
 The Political Policy Proposal Voting Form is used to collect feedback and opinions from users regarding a particular policy proposal.

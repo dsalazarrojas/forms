@@ -1,10 +1,3 @@
-<thinking> 
-  This form, titled "Rx Refills", is designed to collect patient information and medical details for refill purposes. It is likely used in a healthcare setting to gather data for medication refills. To ensure that this form is filled out correctly, please verify that you are filling out the form in a relevant context and that you are not duplicating any information that has already been provided elsewhere.
-
-This form is composed of multiple pages, but for the sake of simplicity, we will consider them as sections. The sections include patient information, medical history, medication, and refills.
-
-</thinking>
-
 # Rx Refills - Help Guide
 ## Purpose
 The purpose of this form is to collect patient information and medical details for refill purposes in a healthcare setting.

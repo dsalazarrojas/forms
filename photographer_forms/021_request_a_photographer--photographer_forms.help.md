@@ -1,6 +1,3 @@
-<thinking>
-The form is meant to be a simple request form for a photographer or a photography client, likely used for booking or managing photography sessions. This form may be used by photography studios or photographers to request a session with a model or a client. The fields are mostly related to the session's basic details and the client's requirements.
-</thinking>
 # Request A Photographer - Help Guide
 ## Purpose
 This form is used to request a photography session. The goal is to gather information about the session's specifics and the client's requirements.

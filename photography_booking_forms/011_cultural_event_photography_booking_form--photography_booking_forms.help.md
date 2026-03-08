@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for booking photography services for a cultural event. It captures relevant details about the client, event, and photography package. This form aims to streamline the process of capturing event photography for a specific event. Please note that some fields are optional, allowing users to skip them if not applicable. This form does not duplicate existing functionality. 
-</thinking>
-
 # cultural_event_photography_booking_form - Help Guide
 ## Purpose
 The Cultural Event Photography Booking Form is designed to help clients book photography services for their events. It gathers essential details from clients, ensuring a smooth and efficient photography experience.

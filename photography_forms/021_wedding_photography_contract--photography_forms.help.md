@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture essential details from the client for a wedding photography service. The primary goal is to collect information necessary for the photographer to understand the client's preferences and requirements for the event. This form likely serves as a starting point for communication and collaboration between the client and the photographer, ensuring a smooth and successful experience. The form appears to be relatively straightforward, focusing on details such as the wedding date, vendor information, event type, and contact details. The fields are well-structured, with a mix of date, text, select, and email types. To ensure accuracy and efficiency, it is essential to review each field carefully to understand its purpose and requirements.
-</thinking>
-
 # Wedding Photography Contract - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients for a wedding photography service. It will help the photographer understand the client's preferences and requirements, ensuring a successful and enjoyable experience.

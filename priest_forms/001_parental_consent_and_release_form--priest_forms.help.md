@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather parental consent for a minor's participation in a program or activity. The goal is to ensure that parents or guardians provide permission for their child's involvement, and to release the organization from liability in case of any issues that may arise. This form should only be completed by a minor's parent or guardian.
-</thinking>
-
 # Parental Consent And Release Form - Help Guide
 ## Purpose
 The Parental Consent And Release Form is used to gather parental consent for a minor's participation in a program or activity. This form is required to ensure that parents or guardians provide permission for their child's involvement and to release the organization from liability in case of any issues that may arise.

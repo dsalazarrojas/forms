@@ -1,15 +1,3 @@
-<thinking>
-Form purpose:
-The form is designed for customers to pre-order Color Street's Spring collection, which is a specific product launch. It's essential to capture relevant details from customers to process their orders accurately and efficiently.
-
-Form relevance:
-This form should only be used for customers who want to pre-order the Spring collection. If customers are interested in other collections or products, they should use the corresponding form.
-
-Form non-duplication:
-To prevent duplicate orders, we'll use the customer's name and email address to check for existing pre-orders. If a customer has already pre-ordered the Spring collection, they won't be able to submit this form again.
-
-</thinking>
-
 # Color Street Spring Launch Preorder - Help Guide
 ## Purpose
 This form is for customers to pre-order Color Street's Spring collection. Please fill out the form accurately to ensure that your order is processed correctly.

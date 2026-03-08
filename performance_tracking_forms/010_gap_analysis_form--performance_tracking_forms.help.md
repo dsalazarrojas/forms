@@ -1,14 +1,3 @@
-<thinking>
-This form is used for gap analysis, which is a process to identify and measure gaps between current performance and desired performance. A gap analysis helps in understanding areas of improvement and informs decision-making for resource allocation and future planning. This form is intended to gather information from end-users to aid in identifying gaps and tracking progress over time. 
-
-Before filling out this form, please ensure that you have a good understanding of the performance goals and current status that need to be assessed. This form is not designed for duplicate submissions; if you have already submitted this form, please do not resubmit it. 
-
-The form is designed for end-users to provide information on a first page and select options on subsequent pages. Please note that some fields are optional, but providing accurate information will aid in better understanding of performance gaps. 
-
-If you are unsure about any field, please refer to the field-by-field explanation below for clarification.
-
-</thinking>
-
 # gap_analysis_form - Help Guide
 ## Purpose
 The gap analysis form is designed to help identify and measure gaps between current performance and desired performance.

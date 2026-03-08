@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in filling out the Covid 19 Pilates Waiver Form. This form is designed to collect general information and medical history of a client or individual seeking to participate in Pilates activities. It's crucial to complete this form accurately and thoroughly, as it helps instructors and facilities take necessary precautions during the session. To ensure proper submission, users need to review and follow the provided instructions carefully.
-</thinking>
-
 # Covid 19 Pilates Waiver Form - Help Guide
 ## Purpose
 This form is used to gather essential health information from clients or individuals before participating in Pilates activities. By providing detailed responses, users can help ensure their safety and a successful experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Noise Ordinance Petition Form - Help Guide
 
 ## Purpose

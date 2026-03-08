@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather feedback and suggestions for improvements from residents and managers on waste management services provided by the organization. This feedback can help the organization identify areas of improvement and make data-driven decisions to enhance the quality of services. It's essential to ensure that the form is completed by residents and managers to provide valuable insights, but it's also crucial to avoid duplication of effort and ensure that the same information is not submitted multiple times. This form should be filled out by residents and managers separately to capture their unique perspectives and experiences.
-</thinking>
-
 # Waste Management Services Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions on waste management services provided by your local waste management service provider. Your input will help identify areas of improvement and enhance the quality of services in your area.

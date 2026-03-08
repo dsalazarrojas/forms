@@ -1,7 +1,3 @@
-<thinking>
-We need to check if the form is being used to create a new product order, and if it's not a duplicate submission. If it's a duplicate, we should check for a valid reason for resubmission. If it's a new product order, we need to ensure all required fields are filled out correctly. Let's proceed with the help guide.
-</thinking>
-
 # Fin Order Form - Help Guide
 ## Purpose
 This form is used to submit a new product order. Please fill out the form accurately and thoroughly to ensure a smooth ordering process.

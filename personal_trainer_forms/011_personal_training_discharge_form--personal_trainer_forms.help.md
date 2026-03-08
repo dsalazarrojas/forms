@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the discharge of a client from a personal training program. It ensures that all necessary information is captured and communicated to the relevant parties, such as the client, trainer, and other stakeholders. The purpose of this form is to finalize the client's status and provide a clear understanding of their progress, goals, and next steps. Before starting to fill out this form, please ensure that you are familiar with the client's current status and have the necessary information and authorization to proceed. If you are unsure about any part of the process, please consult with the relevant authorities or the client directly. This form should not be used for duplicate or incomplete entries. Please review the form carefully before submitting it to ensure accuracy and completeness.
-</thinking>
-
 # Personal Training Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge of a client from a personal training program.

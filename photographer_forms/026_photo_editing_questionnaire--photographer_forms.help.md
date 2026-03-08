@@ -1,7 +1,3 @@
-<thinking>
-As the form designer and technical writer, I'm assuming that this form is intended to collect information about a photo editing process, likely for photographers or graphic designers who want to share their work or store their edited images. The form is quite extensive, covering various aspects of photo editing, from basic to advanced techniques, and includes options for file format, size, and color space. This form is probably used for internal or external documentation, and its fields seem to be well-structured and self-explanatory, but a brief explanation will still help end-users understand what each field is used for.
-</thinking>
-
 # photo_editing_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a photo editing process, allowing photographers and graphic designers to document their edited images and share or store them.

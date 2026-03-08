@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assist users in the process of adopting a Labrador, a popular breed of dog. Its primary purpose is to collect information from potential adopters to determine their suitability for the adoption program. The form is divided into three sections: Contact Info Form, Labrador Info Form, and Adoption Info Form. This guide will help users understand the purpose of each field and how to complete the form correctly.
-</thinking>
 # Labrador Adoption Application Form - Help Guide
 ## Purpose
 The Labrador Adoption Application Form is a questionnaire designed to gather essential information from potential adopters to facilitate the adoption process of Labradors. Completing this form will help us understand your preferences and determine if you're a suitable match for a labradors adoption.

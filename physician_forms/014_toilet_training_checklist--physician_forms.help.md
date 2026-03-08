@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from parents or caregivers about a child's toilet training progress. This form is designed to be a checklist for tracking the child's training status, gender, and any observations or medical history related to the training process. It's essential to have a clear understanding of the child's current status and any potential issues that may arise during the training process. This form should not be used for any other purpose, such as creating new patient records or generating reports.
-</thinking>
-
 # Toilet Training Checklist - Help Guide
 ## Purpose
 The "Toilet Training Checklist" form is used to gather information from parents or caregivers about a child's toilet training progress, status, and any associated observations or medical history.

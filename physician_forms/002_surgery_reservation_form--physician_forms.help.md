@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for the purpose of reserving a surgery appointment. 
-This form is intended for patients to provide necessary details about their upcoming surgery, including contact information and specific surgery preferences. 
-This form should only be filled out once for each surgery reservation, and it's a good idea to check with the healthcare provider before filling it out to confirm the form's relevance and to avoid duplication of efforts.
-</thinking>
-
 # Surgery Reservation Form - Help Guide
 ## Purpose
 The Surgery Reservation Form is designed to collect information for the purpose of reserving a surgery appointment. This form gathers details about the patient, their surgery preferences, and contact information to ensure a smooth and successful surgery experience.

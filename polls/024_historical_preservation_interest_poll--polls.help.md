@@ -1,8 +1,3 @@
-<thinking>...
-This form is designed to gauge the interest of individuals in historical preservation, which is a crucial aspect of cultural and cultural heritage conservation. The form will help in understanding the level of interest in preservation methods and locations. It is intended for end-users who are interested in providing their feedback on the preservation of historical sites, artifacts, and cultural heritage. To prevent duplication of efforts, we will be using this form to collect feedback from people who have already participated in preservation activities.
-
-</thinking>
-
 # Historical Preservation Interest Poll - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your interest in historical preservation. It helps us understand your preferences and interests in preserving historical sites, artifacts, and cultural heritage.

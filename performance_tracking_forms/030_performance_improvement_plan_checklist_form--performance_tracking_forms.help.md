@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Performance Improvement Plan Checklist Form. The form is designed to be used by employees to identify areas of performance gaps and develop plans to address them. It is essential to fill out this form accurately and completely to ensure that the performance improvement plan is effective. Please ensure that you are filling out the form for the correct employee, and if you are unsure about any information, consult with your supervisor or HR representative before proceeding.
-
-</thinking>
-
 # Performance Improvement Plan Checklist Form - Help Guide
 ## Purpose
 

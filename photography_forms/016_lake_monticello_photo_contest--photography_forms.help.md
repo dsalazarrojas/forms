@@ -1,16 +1,3 @@
-<thinking>
-
-**Internal reasoning:**
-This form is designed for a photography contest, and its purpose is to collect user information and photo entries for a specific contest. The form should only be used by individuals who wish to participate in the contest and provide a photo entry.
-To determine the relevance of this form, we check if the user is attempting to:
-* Participate in a photography contest
-* Enter a photo for the contest
-* Submit information that matches the categories listed in the form (Nature, City, People, Landmarks)
-
-To avoid duplication of effort, we should check if the user has already submitted an entry for this contest.
-
-</thinking>
-
 # lake_monticello_photo_contest - Help Guide
 ## Purpose
 The lake_monticello_photo_contest form is designed to collect user information and photo entries for a photography contest. Please fill out the form to participate in the contest by providing a photo and submitting the required information.

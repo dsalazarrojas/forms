@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # e_commerce_delivery_experience_poll_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their e-commerce delivery experience. It aims to gauge their satisfaction with various aspects of their delivery experience, such as timeliness, packaging condition, and communication. This feedback is valuable for us to improve our delivery services and provide better customer experiences in the future.

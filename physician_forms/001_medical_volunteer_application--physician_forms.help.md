@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who want to volunteer their medical skills to assist in hospitals or medical facilities. The purpose of this form is to gather necessary contact and professional information from the applicants. It's essential to complete this form accurately to ensure that the volunteer's qualifications and availability are properly recorded.
-This form should only be completed by individuals who have a genuine interest in volunteering their medical skills. Duplicate submissions will be automatically rejected.
-The following help guide will walk you through the form's fields and provide a clear understanding of what is expected from the users.
-</thinking>
-
 # Medical Volunteer Application - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients to provide information for COVID-19 testing. The form is intended for walk-in testing and requires information such as patient name, contact information, date of birth, medical history, and test results status. Some fields are required to be filled out to ensure accurate and efficient processing of the test results. The form's fields should not be duplicated or filled out with incorrect information to ensure accuracy and prevent delays in processing the test results. 
-</thinking>
-
 # Walk In COVID 19 Testing Form - Help Guide
 ## Purpose
 This form is used to collect information for COVID-19 testing for patients who are visiting a testing site. The form is designed to gather essential details such as patient contact information, medical history, and test results status.

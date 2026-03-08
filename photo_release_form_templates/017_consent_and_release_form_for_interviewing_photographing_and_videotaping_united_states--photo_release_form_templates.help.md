@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to obtain consent and release from participants when interviewing, photographing, or videotaping. This form is intended for use in the United States. Before proceeding, please ensure that this form is not a duplicate of another form you have already created or used.
-
-This form is used to collect personal information from participants, including their full name, address, phone number, and other relevant details. It also covers the scope of consent and release, including the specific media types and usage rights granted. The form ensures that participants understand their rights and liabilities, including the release of liability and compensation acknowledgment. Additionally, it confirms the participant's age status and includes a section for parent/guardian signatures if the participant is under 18 years old. Finally, the form requires an electronic signature from the participant, confirming their consent and release.
-
-</thinking>
-
 # Consent And Release Form For Interviewing Photographing And Videotaping (United States) - Help Guide
 ## Purpose
 

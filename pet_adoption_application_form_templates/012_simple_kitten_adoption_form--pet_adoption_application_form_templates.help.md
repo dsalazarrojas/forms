@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for prospective adopters to submit their adoption applications for a simple kitten adoption process. This form will collect information about the applicant and the kitten they are interested in adopting. The purpose of this form is to streamline the adoption process and ensure that adopters are matched with the right kitten based on their preferences and needs.
-</thinking>
-
 # simple_kitten_adoption_form - Help Guide
 ## Purpose
 This form is used to submit an adoption application for a simple kitten adoption process. Please provide the required and optional information to help us match you with the purrfect kitten.

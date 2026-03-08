@@ -1,14 +1,3 @@
-<thinking>
-The Doctor Visit Form is a comprehensive form used to collect and document vital information during a patient's visit to a healthcare provider. This form is designed to be completed by the patient, and it helps the healthcare provider to accurately record the patient's medical history, allergies, current medications, and other essential details. 
-This form is a critical tool for effective patient care, as it ensures that the healthcare provider has all the necessary information to provide accurate diagnoses and treatment plans. Before proceeding, please note that this form is meant for the patient's information only, and it is not intended for sharing or discussion on social media.
-
-When filling out this form, please ensure that you accurately and truthfully provide all the information requested. This form is not a substitute for regular medical care, and if you have any concerns or questions, please do not hesitate to ask your healthcare provider.
-
-Please review each field carefully and provide the necessary information to complete the form accurately. 
-
-Please ensure that you have the necessary permissions to share the form with your healthcare provider.
-</thinking>
-
 # Doctor Visit Form - Help Guide
 ## Purpose
 The Doctor Visit Form is a crucial document used to collect and document vital information during a patient's visit to a healthcare provider.

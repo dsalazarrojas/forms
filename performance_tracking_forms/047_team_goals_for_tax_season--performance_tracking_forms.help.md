@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of the "Team Goals For Tax Season" form, let's break down the provided YAML fields. This form appears to be used for collecting information related to team performance and goals during tax season. The fields include team goals, tax season start and end dates, team priorities, team ownership, tax weeks, tax days, tax hours, team meetings, tax deadlines, priority owners, deadline owners, task assignees, team status, tax status, tax comments, team comments, priority comments, deadline comments, task comments, team lead, team member, manager, and tax manager. Given the nature of the form, it seems to be used for tracking and reporting team performance, goals, and progress during tax season.
-
-Checking for duplication, the form fields can be categorized into several main sections: Team Information (team goals, team ownership, team lead, team member), Tax Season Information (tax season start and end dates, tax weeks, tax days, tax hours, team meetings, tax deadlines), Priority and Deadline Management (priority owners, deadline owners), Task Management (task assignees), Team Status (team status, tax status), and Comments (tax comments, team comments, priority comments, deadline comments, task comments).
-
-However, this explanation may be incomplete without additional context. The provided form fields seem to have a mix of required and optional fields, and some fields might have ambiguous labels or unclear purposes. Without further information, it's challenging to provide a definitive explanation of the form's purpose and each field's significance. Nevertheless, the above analysis should serve as a starting point for further refinement and clarification.
-
-</thinking>
-
 # Team Goals For Tax Season - Help Guide
 ## Purpose
 The "Team Goals For Tax Season" form is designed to collect information related to team performance and goals during tax season. This form helps in tracking and reporting team progress, goals, and priorities.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from students to order school photos. The form is not affiliated with or endorsed by any form platform, but rather an original adaptation created using AI. It does not extract or use proprietary content from any form platforms. The form is released under the Creative Commons by 4.0 license, allowing users to freely use, modify, and even sell derived forms as long as they give credit. This form can help schools gather necessary information from students for photo orders while maintaining data consistency and accuracy. 
-
-</thinking>
-
 # School Photo Order Form - Help Guide
 ## Purpose
 The School Photo Order Form is a tool designed to collect student information and order details to help schools efficiently manage photo orders.

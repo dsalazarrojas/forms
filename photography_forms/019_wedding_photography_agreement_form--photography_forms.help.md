@@ -1,7 +1,3 @@
-<thinking>
-This guide helps ensure that the form's purpose and requirements are understood by the end-users, and that the form is filled out correctly and consistently. The form is intended to gather essential information from couples planning a wedding, including their contact details, wedding plans, and photography services required. This guide helps prevent misunderstandings and errors in the completion of the form, ensuring that the photographer has all the necessary information to provide excellent service.
-</thinking>
-
 # Wedding Photography Agreement Form - Help Guide
 ## Purpose
 The Wedding Photography Agreement Form is a document that helps us understand your wedding plans and preferences, ensuring that we can provide you with the best possible experience on your special day.

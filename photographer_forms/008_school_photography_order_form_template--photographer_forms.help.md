@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for schools to collect information from their students or parents about their photography order preferences. It is intended to be used for internal purposes only and not for external publishing or sharing. Please ensure that you are using this form within a school or related context to avoid any potential confusion or misuse.
-</thinking>
-
 # School Photography Order Form Template - Help Guide
 ## Purpose
 The School Photography Order Form Template is a tool used by schools to collect order details from students or parents. It helps to streamline the photography order process and ensures that all necessary information is gathered accurately.

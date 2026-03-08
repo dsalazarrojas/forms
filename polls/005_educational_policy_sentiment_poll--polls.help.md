@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect opinions or sentiments on educational policies. This form is designed to gather opinions from users on various educational policies, allowing the administrators to gain insights and understand what matters most to the users. Please make sure you're completing this form for the intended purpose and not duplicating your responses.
-</thinking>
-
 # Educational Policy Sentiment Poll - Help Guide
 ## Purpose
 This form is used to collect opinions on educational policies to help administrators understand user sentiments.

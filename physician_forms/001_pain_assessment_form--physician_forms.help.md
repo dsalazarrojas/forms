@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pain Assessment Form - Help Guide
 ## Purpose
 The Pain Assessment Form is designed to collect information about a patient's pain experience, including the body parts affected, pain level, duration, frequency, and potential medication side effects. This data will help healthcare providers better understand the patient's condition and provide effective treatment.

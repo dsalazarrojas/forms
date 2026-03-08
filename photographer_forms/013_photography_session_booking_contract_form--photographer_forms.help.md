@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for booking photography sessions. It's a simple, single-page form that collects contact information from both the photographer and the client. The form is designed for basic communication between these parties, allowing them to exchange contact details, dates and times, locations, and other essential information. This form does not store sensitive data or handle payments. It's a starting point for further discussion and agreement between the photographer and the client.
-</thinking>
-
 # photography_session_booking_contract_form - Help Guide
 ## Purpose
 This form is designed to facilitate the booking of photography sessions between photographers and their clients. It collects the necessary information for both parties to establish contact and schedule the session.

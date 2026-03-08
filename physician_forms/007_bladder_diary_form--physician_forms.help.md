@@ -1,5 +1,3 @@
-<thinking>...To create a user-facing help guide for the "Bladder Diary Form", we need to consider the purpose of the form, which is to help patients track and report their bladder and urinary health information daily. This form is likely to be used in a clinical or medical setting, where patients need to monitor their symptoms, fluid intake, and other factors that may affect their bladder health. The form should be easy to understand and complete for patients, and clear in its purpose and instructions... </thinking>
-
 # Bladder Diary Form - Help Guide
 ## Purpose
 The Bladder Diary Form is a daily record of your bladder and urinary health. Please use this form to track your symptoms, fluid intake, and other factors that may affect your bladder health.

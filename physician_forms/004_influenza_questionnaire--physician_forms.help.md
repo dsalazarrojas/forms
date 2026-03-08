@@ -1,32 +1,3 @@
-<thinking>
-This help guide is for the "Influenza Questionnaire" form, which is designed to collect information about patients' symptoms and exposure history related to influenza. The purpose of this form is to help healthcare professionals assess and manage patients who may be at risk of developing or have already developed flu symptoms. The form is not intended for diagnosis but rather to gather relevant data for patient assessment and potential treatment.
-The guide will cover the following fields in the form:
-* Symptom Questions
-* Recent Travel
-* Exposure Risk
-* Flu Symptoms
-* Recent Exposure
-* Exposure Duration
-* Recent Contact
-* Flu Vaccine
-* Health Care Workplace
-* Flu Symptoms Duration
-* Flu Symptoms 2
-* Flu Exposure Risk
-* Healthcare Workplace Contact
-* Healthcare Workplace 2
-* Healthcare Workplace Type
-* Flu Vaccination Date
-* Recent Flu Exposure
-* Flu Symptoms Severity
-* Recent Flu Symptoms
-* Health Care Worker Flu Exposure
-* Flu Vaccination
-* Health Care Worker Flu Symptoms
-* Health Care Worker Flu Status
-* Flu Exposure Source
-</thinking>
-
 # Influenza Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about patients' symptoms and exposure history related to influenza. The purpose of this form is to help healthcare professionals assess and manage patients who may be at risk of developing or have already developed flu symptoms.

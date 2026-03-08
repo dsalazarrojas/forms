@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: The National Urology Unit Service Audit Form is used to collect data on service audits performed by healthcare providers in the urology unit. This form is intended to be completed by healthcare professionals to track and analyze the quality of services provided. The form is designed to capture information on the provider's details, patient identifier, service audit date, time of day, date of visit, time of visit, and any additional notes or comments. The form's purpose is to improve the efficiency and effectiveness of the urology unit's services by identifying areas for quality improvement.
-</thinking>
-
 # National Urology Unit Service Audit Form - Help Guide
 ## Purpose
 The National Urology Unit Service Audit Form is a tool used to evaluate the quality of services provided by healthcare providers in the urology unit. This form helps healthcare professionals track and analyze services, identify areas for improvement, and optimize patient care.

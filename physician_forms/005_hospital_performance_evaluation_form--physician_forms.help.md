@@ -1,9 +1,3 @@
-<thinking>
-This form is a Hospital Performance Evaluation Form. The purpose of this form is to collect feedback from users regarding the performance of the hospital. The form is used to measure the performance of staff in various areas such as patient care, staff feedback, and submission notes. It's possible that you may have filled out this form before or have access to its contents, but it's always a good idea to review the guidelines to ensure you're providing accurate and helpful feedback.
-
-Before proceeding, please confirm that you have read and understood the form's purpose and have not filled it out recently. If you've already submitted a form, please ensure that your feedback is up-to-date and reflects any changes or improvements since your last submission.
-</thinking>
-
 # Hospital Performance Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on the performance of the hospital. It includes questions about staff performance, patient care, and other relevant metrics.

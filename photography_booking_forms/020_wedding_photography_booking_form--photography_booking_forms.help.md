@@ -1,7 +1,3 @@
-<thinking>
-To provide an internal explanation of the process: This form is designed to collect information from customers interested in booking a wedding photographer. The main purpose of this form is to gather essential details such as contact information, event specifics, and services required from the customer. This form will help the photographer or the booking team to better understand the customer's requirements and preferences, making it easier to provide a tailored and efficient service. The form does not duplicate any internal process, and it is a one-time collection of information for the customer's wedding photography booking.
-</thinking>
-
 # Wedding Photography Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in booking a wedding photographer for their special day. It helps us understand their requirements and preferences to provide a tailored and efficient service.

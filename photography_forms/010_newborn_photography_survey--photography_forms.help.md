@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information from new parents about their preferences and needs regarding photography sessions. The form will guide you through different aspects of a photography session, such as parent details, session preferences, policy consent, session dates, and any additional notes or preferences the parents may have. This form helps us better understand the needs and requirements of our clients.
-Please ensure you are using this form to provide information for the correct purpose. If you have already submitted this form or have a similar form for the same purpose, please do not resubmit. Please note that some fields may be optional and can be skipped if not applicable.
-</thinking>
-
 # Newborn Photography Survey - Help Guide
 ## Purpose
 This form collects information from new parents about their preferences and needs regarding our photography services.

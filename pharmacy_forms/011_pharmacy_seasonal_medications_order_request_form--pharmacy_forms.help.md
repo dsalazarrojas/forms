@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request seasonal medications from a pharmacy. 
-The form is intended for patients to provide information necessary for the pharmacist to fulfill their seasonal medication orders.
-To avoid duplicate requests, please ensure that you do not submit this form more than once for the same medication order.
-</thinking>
-
 # Pharmacy Seasonal Medications Order Request Form - Help Guide
 ## Purpose
 The Pharmacy Seasonal Medications Order Request Form is used by patients to request seasonal medications from a pharmacy.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect self-assessment data for individuals related to coronavirus symptoms, travel history, medical conditions, medications, and test results. It will help the healthcare system to track and monitor the spread of the disease. The form is essential for individuals who have traveled or been in contact with someone with the disease to provide accurate and timely information about their health status.
-
-Please note that this form is a self-assessment tool and should not be used as a substitute for medical advice or diagnosis. If you have any symptoms or concerns, please contact a healthcare professional.
-
-</thinking>
-
 # Coronavirus Self Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who have recently traveled, been in contact with someone with coronavirus, or have symptoms related to the virus. This information will help the healthcare system to track and monitor the spread of the disease.

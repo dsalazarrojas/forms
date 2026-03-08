@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to capture essential information from patients visiting an eye clinic. Its purpose is to gather demographic details, appointment scheduling information, and any relevant medical history or special requests. This form should only be filled out by the actual patient or their representative, and not duplicated or filled out by another individual on their behalf. Please ensure that the patient's information is accurate and up-to-date to ensure proper treatment and care.
-
-</thinking>
-
 # Eye Clinic Patient Registration Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gather information on various aspects of Mpox, a viral disease caused by the monkeypox virus. The form is used to assess the public's awareness and understanding of the disease, identify risk factors, symptoms, and the effectiveness of public health measures and control measures. The Mpox Survey aims to gather data on how the public perceives and responds to the disease. It's essential to fill out this form accurately and thoroughly to help public health professionals understand the current situation and make informed decisions. Please ensure that you are filling out this form with the correct information and are aware of the purpose behind the survey.</thinking>
-
 # Mpox Survey - Help Guide
 ## Purpose
 The Mpox Survey is designed to gather information on public awareness and understanding of the disease, its risk factors, symptoms, and the effectiveness of public health measures and control measures.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to submit a parking petition. It is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata as inspiration. The form is released under CC BY 4.0, allowing for free use, modification, and even commercialization as long as credit is given to the original creators. This form is intended for collecting parking-related feedback and comments from users.
-</thinking>
-
 # Parking Petition Form - Help Guide
 ## Purpose
 The Parking Petition Form is designed to collect information and feedback from individuals who have concerns or suggestions related to parking in the area.

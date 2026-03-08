@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Candidate Petition" form, I will first consider the form's purpose and ensure that end users understand it before proceeding with the detailed guide.
-
-The purpose of this form is to collect information and signatures from registered voters in support of a specific candidate. The form requires various fields to ensure that the petition is legitimate and verifiable. This guide will walk the user through each field, explaining their purpose and importance.
-
-</thinking>
-
 # Candidate Petition - Help Guide
 ## Purpose
 This form is for registered voters to express support for a specific candidate in an election. It requires accurate and truthful information to verify the authenticity of the petition.

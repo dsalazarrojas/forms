@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skin Check Form - Help Guide
 
 ## Purpose

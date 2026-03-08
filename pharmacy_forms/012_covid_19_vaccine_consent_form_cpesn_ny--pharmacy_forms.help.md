@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to be a consent form for patients receiving the COVID-19 vaccine. The purpose of this form is to gather personal information from patients, details about the pharmacy administering the vaccine, and information about the vaccine itself, as well as obtain consent from patients before administering the vaccine. This form appears to be specific to New York State and may be part of a larger process for tracking vaccine distribution and patient records. It's essential to ensure the form is completed accurately and in its entirety to prevent potential issues with vaccine administration and patient care.
-
-Before creating a help guide, I will review the form fields again to ensure I understand their purpose and intent.
-
-Based on the provided YAML, the form includes the following fields:
-
-* Patient demographics (name, date of birth, gender, phone number)
-* Pharmacy information (name, license number, pharmacist name)
-* Vaccination details (vaccine type, dose number, date of vaccination, lot number)
-* Consent and authorization (review of vaccine information, understanding benefits and risks, authorization for administration)
-* Medical information (known allergies to vaccine components, current medications, recent vaccination history)
-
-</thinking>
-
 # COVID 19 Vaccine Consent Form CPESN NY - Help Guide
 ## Purpose
 This form is intended to gather patient information, vaccine details, and consent for COVID-19 vaccine administration.

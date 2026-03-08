@@ -1,11 +1,3 @@
-<thinking>
-This guide is for users who want to understand how to fill out the "Craft Kit Pre Order Form". The form is used to capture information about an order, including customer details, payment method, shipping method, and order status. The form is divided into several sections, each containing relevant fields that need to be filled out.
-
-The guide will cover each field in detail, so users can understand the purpose of each field and how to fill it out correctly.
-
-Please note that this guide is based on the provided YAML fields and is intended to be a user-friendly guide for filling out the form.
-</thinking>
-
 # Craft Kit Pre Order Form - Help Guide
 ## Purpose
 The Craft Kit Pre Order Form is used to capture information about an order, including customer details, payment method, shipping method, and order status. This form is used to ensure accurate and complete information is collected for processing orders.

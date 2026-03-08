@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow customers to pre-order racing bikes. The purpose of the form is to collect information from customers about their desired bike type, color scheme, size, delivery date, delivery address, email, and phone number. 
-The form has 9 fields in total. However, please note that the "required" field in the yaml is more of a flag indicating that the field cannot be completed in the next version of the form, it is not a field validation rule here. 
-The fields are divided into two pages: form_page_1 and form_page_2. form_page_1 is a text input field and form_page_2 contains the other fields. 
-The form is intended to be completed by end-users, who are customers who want to pre-order a racing bike. 
-</thinking>
-
 # Racing Bikes Pre Order Form - Help Guide
 ## Purpose
 This form is designed to allow customers to pre-order racing bikes. The purpose of the form is to collect information from customers about their desired bike type, color scheme, size, delivery date, delivery address, email, and phone number.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the information needed to process an order for fashion accessories after a sale has been agreed upon. This includes gathering customer details, product information, and shipping details. It's essential to provide accurate and complete information to facilitate smooth order processing and delivery. Please ensure to fill this form carefully and thoroughly.
-</thinking>
-
 # Afterpay Fashion Accessories Order Form - Help Guide
 
 ## Purpose

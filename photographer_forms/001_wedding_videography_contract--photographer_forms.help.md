@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to serve as a contract between the client and the videographer for the wedding videography services. The client is required to fill out the form with their personal and contact information, wedding details, and video package selection. The form also includes space for the client to review and agree to the e-signatures and customer terms.
-The e-signatures section allows the client to upload their e-signature, and the customer terms section is where the client can review and agree to the terms of the contract. The customer consent section is not explicitly defined in the provided YAML, so it will be omitted from the help guide.
-This form is likely used by a wedding videographer to collect necessary information from clients before starting the videography work. The form is probably used to establish a professional relationship between the videographer and the client.
-</thinking>
-
 # Wedding Videography Contract - Help Guide
 ## Purpose
 The Wedding Videography Contract is a document that outlines the terms and conditions of the videography services for your special day. It's a crucial part of the booking process and helps ensure that both you and your videographer are on the same page.

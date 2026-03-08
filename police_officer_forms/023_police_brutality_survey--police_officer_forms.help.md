@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information on police brutality incidents, including the type of brutality, experiences related to it, and perceptions of the community. The purpose of this form is to collect data that can help identify trends and patterns in police brutality incidents. This form should only be filled out by individuals who have experienced or witnessed police brutality.
-</thinking>
-
 # police_brutality_survey - Help Guide
 ## Purpose
 The "police_brutality_survey" form is designed to collect information on police brutality incidents. This includes gathering data on the type of brutality, experiences related to it, and perceptions of the community.

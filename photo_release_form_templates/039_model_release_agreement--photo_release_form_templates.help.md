@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information related to a model release agreement, which is a legal document that grants permission to use a model's likeness, image, or representation in a commercial context. Before proceeding, ensure that you have the necessary permissions or agreements from the model. This form is not intended for use in situations where the model is a minor or is otherwise vulnerable. Ensure that all fields are filled out accurately and completely, and that the model's agreement is obtained before submitting this form.
-</thinking>
-
 # Model Release Agreement - Help Guide
 
 ## Purpose

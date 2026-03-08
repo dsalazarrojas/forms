@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to obtain a photo waiver for a photo release event. It captures the necessary information for a photo release agreement between the subject and the person taking the photo, and ensures that both parties have a clear understanding of the event's purpose, date, time, and location. The form must be completed by the individual being photographed, and requires their signature and contact information.
-
-</thinking>
-
 # photo_waiver_release_form - Help Guide
 ## Purpose
 The photo_waiver_release_form is used to obtain a photo waiver for a photo release event. It captures the necessary information for a photo release agreement between the subject and the person taking the photo, and ensures that both parties have a clear understanding of the event's purpose, date, time, and location.

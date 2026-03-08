@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information for interior design product orders. It is intended for end-users to input details about their orders, including product information, client details, and payment and delivery information. Please ensure this form is not used for other purposes as it is designed to be specific to interior design product orders.
-
-</thinking>
-
 # interior_design_product_order_form - Help Guide
 ## Purpose
 The interior design product order form is used to collect information for interior design product orders. This form is designed to gather product details, client information, payment details, and delivery information from end-users.

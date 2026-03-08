@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Wedding Photography Schedule" form, we need to ensure that the form's purpose and functionality are clearly explained to the users. This guide will cover the form's purpose, how to complete it, and what each field means.
-
-The form's purpose is to collect information about a wedding photography booking. It's likely used by photographers to record details about the wedding they're booked for, including dates and times, photographer information, and client details. To avoid duplication, users should ensure that they fill in the form for each new wedding booking individually.
-
-</thinking>
-
 # Wedding Photography Schedule - Help Guide
 ## Purpose
 The Wedding Photography Schedule form is a tool used by photographers to collect and record details about a wedding they've been booked for. This includes information about the couple, the photographer, and the wedding specifics.

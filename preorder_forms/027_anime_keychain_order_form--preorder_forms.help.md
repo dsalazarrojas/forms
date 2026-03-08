@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to order anime-themed keychains. The form has several sections, each focusing on a different aspect of the order. The customer is first asked to provide their information, including their full name, email address, and phone number. The next section is for the shipping address, which requires the street address, city, state or province, postal code, and country. After that, the customer is asked to select the keychain series or set, choose a character, and decide on the quantity of keychains. The form also allows the customer to select the material type, finish style, and size option of the keychain. Additionally, the customer can add a custom name or text, choose whether to add engraving, and select gift wrapping option. Finally, the customer can choose the shipping method and provide any special instructions or notes.
-
-The form requires all the customer information, shipping address, keychain selection (series, character, and quantity), material type, finish style, size option, and shipping method to be filled in order to complete the form. The fields with "required: true" in the form schema are mandatory and must be filled in by the customer.
-
-The form is designed to be user-friendly and easy to understand. Each field is labeled clearly, and the hints provided are to guide the customer through the process. The customer can choose from various options for some fields, such as keychain series, character selection, material type, finish style, and size option, which allows for customization.
-
-This form is a crucial part of the ordering process, and it is essential that the customer fills it in accurately and thoroughly to ensure that their order is fulfilled correctly.</thinking>
-
 # Anime Keychain Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to order anime-themed keychains. It guides the customer through the process of providing their order details, including shipping address, keychain selection, customization options, and shipping method.

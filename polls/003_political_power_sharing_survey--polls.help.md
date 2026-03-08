@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Political Power Sharing Survey form. Before proceeding, please ensure that you are taking this survey for the intended purpose and not duplicating efforts.
-</thinking>
-
 # Political Power Sharing Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on how they think power should be shared or distributed within a political institution or community. The questions are intended to be open-ended and will help in understanding the general opinions and sentiments of the respondents.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Mardi Gras Royalty Voting - Help Guide
 =====================================
 

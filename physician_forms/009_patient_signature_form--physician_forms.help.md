@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Signature Form - Help Guide
 ## Purpose
 This form is intended to collect patient information, including their first name, last name, date of birth, address, and phone number. The purpose of this form is to ensure accurate and up-to-date information is captured for patient records.

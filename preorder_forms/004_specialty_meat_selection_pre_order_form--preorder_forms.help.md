@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for customers to pre-order specialty meat products, likely from a butcher or meat shop. The form likely serves as a means to capture customer orders and preferences for specialty meat products, such as specific cuts or types of meat. The form's simplicity suggests that it may be used for online or mobile ordering, and the options for pickup or delivery provide flexibility for the customer. However, without further information, it's uncertain whether this form is intended for a specific business or industry. To ensure relevance, it's crucial to review the form's content and purpose with the form's creator or stakeholders to prevent duplication of efforts. Additionally, considering the form's structure, it's possible that it may be a part of a larger system or workflow, and understanding the form's integration with other systems or processes is essential for proper use.
-</thinking>
-
 # Specialty Meat Selection Pre Order Form - Help Guide
 ## Purpose
 The Specialty Meat Selection Pre Order Form is designed to capture customer orders and preferences for specialty meat products, such as specific cuts or types of meat.

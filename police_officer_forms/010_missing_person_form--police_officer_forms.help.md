@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect information about a missing person. It is meant to be completed by a law enforcement officer in the field, or by a call center agent in an emergency call center. The purpose of this form is to gather as much detail as possible about the missing person, including their name, date of birth, gender, height, weight, last seen location, time, and any distinguishing features. It is essential that the officer/call center agent fill out this form as accurately as possible, as the information collected will be used to help locate the missing person.
-
-Before filling out this form, please make sure that you are not duplicating any existing information. If the missing person's details are already in the system, please do not create a new entry for the same person.
-
-To avoid duplication, you can check the system for any existing reports on the missing person by checking the "Search" function in the system. If you are unsure whether the person is already in the system, please reach out to your supervisor for assistance.
-
-Please note that this form should only be used for missing person cases that are considered high-priority. If the missing person's status is changed to "Found" or "Deceased", the case will be closed and removed from the system.
-</thinking>
-
 # missing_person_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a missing person to facilitate their prompt and safe location.

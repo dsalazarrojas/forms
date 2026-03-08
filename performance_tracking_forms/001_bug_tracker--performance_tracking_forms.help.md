@@ -1,20 +1,3 @@
-<thinking> 
-This help guide is intended for end-users to report bugs and issues they encounter while using our platform. It is crucial to ensure that users provide accurate and comprehensive information to help our development team reproduce and resolve the bugs efficiently.
-
-Before using this form, please note that it is not a general feedback or feature request form. It is specifically designed for bug reporting, so please ensure that you have a clear understanding of the issue you are experiencing.
-
-Before filling out this form, take a moment to review the following sections to ensure you provide the most accurate information:
-
-*   **Bug Title**: Give a brief summary of the issue you are experiencing
-*   **Detailed Description**: Provide as much context as possible about the bug
-*   **Expected Behavior**: Describe what you thought should happen
-*   **Actual Behavior**: Describe what actually happened
-*   **Attachments**: If you have any screenshots or logs, please attach them
-
-When filling out the form, please ensure you provide your contact information so that we can reach out to you for follow-up questions. 
-
-</thinking>
-
 # Bug Tracker - Help Guide
 ## Purpose
 The Bug Tracker form is used to report any issues or bugs you encounter while using our platform. This form is designed to help our development team reproduce and resolve the bugs efficiently.

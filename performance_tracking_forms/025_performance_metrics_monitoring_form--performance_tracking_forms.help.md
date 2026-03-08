@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Performance Metrics Monitoring Form", we need to understand the form's purpose and how it is intended to be used. The form is likely used to track and monitor performance metrics, which can include various indicators such as key performance indicators (KPIs), progress towards goals, and other relevant metrics. 
-
-The form likely serves as a tool for users to input and track performance data, which can be used for analysis and reporting purposes. It might be used in a business setting to monitor and improve performance in areas such as sales, customer satisfaction, or project completion rates.
-
-This explanation assumes that the form is meant to be filled out by users who have some familiarity with performance tracking, and the fields are meant to be self-explanatory. However, if there is any ambiguity, this guide will explain the fields in a concise and practical manner.
-
-It is also worth noting that this form might be part of a larger system for performance tracking, and users who complete this form should be able to understand its connection to other performance metrics and data.
-
-In order to avoid duplication, users should only fill out this form if they have relevant performance metrics to report. If they do not, they should not fill out this form.
-
-</thinking>
-
 # Performance Metrics Monitoring Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and skills of pharmaceutical sales employees in various areas, including product knowledge, sales performance, and communication skills. The form should be completed by sales representatives to evaluate their understanding of the products they sell and their ability to effectively communicate with customers. The form will guide the employee in providing accurate and up-to-date product information to customers, ensuring that they can make informed decisions about purchasing the products. This form will also help in identifying areas where the employee needs additional training or support to improve their performance and communication skills.
-
-Please review the form fields carefully and ensure that the information you provide is accurate and up-to-date.
-
-</thinking>
-
 # Pharmaceutical Sales Employee Product Knowledge Assessment - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the knowledge and skills of pharmaceutical sales employees in order to provide accurate and up-to-date product information to customers and to identify areas where the employee needs additional training or support to improve their performance and communication skills.

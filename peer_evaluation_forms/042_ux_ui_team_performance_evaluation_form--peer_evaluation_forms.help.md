@@ -1,6 +1,3 @@
-<thinking>
-The form is intended to be a peer evaluation form for the UX/UI team. It will help evaluate individual team members' performance across various skills and principles, providing valuable feedback and insights for growth and improvement. This form is meant to be filled out by peers or team members, not by direct supervisors. The fields are designed to assess the team member's strengths, areas of improvement, and potential for growth in the following areas: team lead, team collaboration, project management, time management, organization, problem-solving, adaptability, self-motivation, and overall performance. This form should not be used for formal performance reviews or evaluations that may impact salary, promotion, or job security. It is primarily used for internal feedback and personal growth within the team.</thinking>
-
 # ux_ui_team_performance_evaluation_form - Help Guide
 ## Purpose
 The UX/UI team performance evaluation form is a tool for internal peer feedback and evaluation to assess individual team members' performance across various skills and principles. It's meant to be a supportive and constructive platform for team growth and development.

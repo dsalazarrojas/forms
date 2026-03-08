@@ -1,7 +1,3 @@
-<thinking>
-This form, "public_composting_petition_form," appears to be designed to collect information from individuals or organizations interested in public composting or related initiatives. It seems to be a generic form for general use, without any affiliation with or endorsement from proprietary platforms like Google Forms or Jotform. Its purpose may be to gather signatures or expressions of support for public composting initiatives, potentially for local government, non-profit, or community organizations. To confirm this is correct, I will proceed with creating a help guide that assumes this is the intended use case.
-</thinking>
-
 # public_composting_petition_form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for students to submit a petition to run for a position in the Student Council. The form is designed to collect information about the student's name, position they are running for, contact information, and other relevant details. This guide will walk you through the form fields and help you complete it accurately.
-
-</thinking>
-
 # running_for_student_council_petition_form - Help Guide
 ## Purpose
 The running for Student Council petition form is used by students to submit their petitions to run for a position in the Student Council. This form collects essential information about the student's name, position, contact details, and other relevant details.

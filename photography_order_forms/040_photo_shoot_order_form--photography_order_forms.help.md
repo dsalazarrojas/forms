@@ -1,11 +1,3 @@
-<thinking> 
-
-The form "photo_shoot_order_form" is designed to collect information from clients for a photography shoot. It is used to gather details about the client's preferences, schedule, and other relevant information to confirm the shoot. This form should only be used for photography shoots, and users should not use it for other purposes. 
-
-Please note that this form includes fields for both client information and shoot details. Each field has a specific type and purpose, which should be understood by the end-users to ensure accurate and complete information.
-
-</thinking>
-
 # photo_shoot_order_form - Help Guide
 ## Purpose
 The photo shoot order form is a crucial document for photography shoots. It ensures that all necessary information is gathered from clients to confirm the shoot details.

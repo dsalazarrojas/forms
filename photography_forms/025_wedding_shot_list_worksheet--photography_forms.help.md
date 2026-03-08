@@ -1,7 +1,3 @@
-<thinking>
-The Wedding Shot List Worksheet form appears to be a tool for photographers to document the details of a wedding event. It's likely used to capture essential information such as the wedding date, location, and contact information of the couple. This form might also be used to gather notes and insights for the photographer to reference during the event. However, the provided YAML does not specify any specific rules or constraints, so it's possible that this form is a basic template to be filled in by the photographer or event planner.
-</thinking>
-
 # Wedding Shot List Worksheet - Help Guide
 ## Purpose
 The Wedding Shot List Worksheet is a tool for photographers to document the details of a wedding event. It helps to capture essential information such as the wedding date, location, and contact information of the couple.

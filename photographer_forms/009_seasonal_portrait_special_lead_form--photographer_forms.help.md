@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I will create a user-facing help guide for the Seasonal Portrait Special Lead Form, making sure to break it down into sections and provide explanations for each field in a clear and concise manner.
 
 # Seasonal Portrait Special Lead Form - Help Guide

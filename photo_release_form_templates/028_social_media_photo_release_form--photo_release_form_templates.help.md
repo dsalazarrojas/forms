@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to obtain a photo release from a model or photographer before publishing their photo on social media. This form serves as a legal release, ensuring that the model or photographer's rights are respected and that they are comfortable with how their photos are being used. It's essential to complete this form accurately and honestly, as it will be used to determine the terms of use for the published photos.
-Before starting this form, please ensure that the photographer or model is aware of the photo release's purpose and that the photo is being used for the intended purpose. Completing this form for a different purpose or without the subject's knowledge can lead to issues with usage rights.
-</thinking>
-
 # Social Media Photo Release Form - Help Guide
 ## Purpose
 The Social Media Photo Release Form is used to obtain permission from a photographer or model to publish their photos on social media. This form ensures that the rights of the photographer or model are respected and that they are comfortable with how their photos are being used.

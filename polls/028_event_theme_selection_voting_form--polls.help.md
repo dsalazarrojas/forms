@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Event Theme Selection Voting Form" that explains its purpose, how to complete it, and the meaning of each field. This guide will help end-users understand the form's functionality and requirements.
-</thinking>
-
 # Event Theme Selection Voting Form - Help Guide
 ## Purpose
 The Event Theme Selection Voting Form is designed to allow event organizers to collect feedback from attendees on their preferred themes for an event.

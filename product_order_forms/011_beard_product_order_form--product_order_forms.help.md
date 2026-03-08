@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's consider the form's purpose. This form is designed to gather essential information from businesses, such as customer details, address, and product quantity selection, as well as payment information. The form is likely used by a company that sells beard care products to businesses for wholesale purposes. We should ensure that this guide is clear and concise to help end-users quickly and accurately complete the form. Let's also verify that there are no redundant fields or instructions that could lead to confusion. Now, let's create the help guide.</thinking>
-
 # Beard Product Order Form - Help Guide
 ## Purpose
 This form is used by businesses to place orders for beard care products. Please fill out the form with your business information, product selection, and payment details.

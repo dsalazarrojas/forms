@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive help guide for the "road_maintenance_petition_template" form, we must first establish that this form is intended to collect information from users for road maintenance purposes. It is likely used by city or local government staff to track and manage road maintenance petitions submitted by citizens. The form is designed to be completed by a submitter, who will provide details about the road maintenance issue, and the form will be assigned to a specific user for further action or resolution.
 
 Given the various fields in the form, it seems that the form is focused on collecting data about road maintenance issues, assignation of tasks, and follow-up information. However, some fields' labels are unclear or seem to be redundant. Let's break down each field to the best of our understanding:

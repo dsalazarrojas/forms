@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Influenza Vaccine Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about project budgets in the context of personal projects. The purpose is to record and store project details in a structured way. Before proceeding, check that the form is not already populated with relevant information to avoid duplication.
-</thinking>
-
 # project_budget_form - Help Guide
 ## Purpose
 The project budget form is a tool for documenting and managing personal project budgets. It captures essential details such as project start and end dates, amounts, and additional notes, providing a clear and organized overview of project expenses.

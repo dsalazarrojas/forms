@@ -1,8 +1,3 @@
-<thinking>
-This form is used for a wedding photography contract and agreement with PayPal invoicing. The form's primary purpose is to collect client information, payment details, and other relevant data for a wedding photography session. This form should be used for clients who are booking a wedding photography service with the photographer. Ensure this form is not used for other purposes or events.
-
-</thinking>
-
 # Wedding Photography Contract And Agreement Forms With Paypal Invoicing - Help Guide
 ## Purpose
 This form is designed to collect necessary information and details for a wedding photography contract and agreement, including payment terms and client payment preferences.

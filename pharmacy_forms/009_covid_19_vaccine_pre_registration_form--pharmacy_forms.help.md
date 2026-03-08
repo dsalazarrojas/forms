@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## COVID 19 Vaccine Pre Registration Form - Help Guide
 
 ## Purpose

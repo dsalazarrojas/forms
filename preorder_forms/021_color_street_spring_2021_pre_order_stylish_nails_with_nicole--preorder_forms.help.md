@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose and that the form's purpose is clear to the end user. Let's review the form's fields and structure to understand what it's for. The form seems to be a preorder form for a nail collection called "Stylish Nails With Nicole" for the spring of 2021. It appears to be a multi-page form that collects customer information (name, email, address), selection of nail sets, payment information, and shipping details.
-
-To avoid duplication and ensure relevance, we should confirm that this form is indeed for a preorder of the "Stylish Nails With Nicole" collection and not for any other purpose.
-</thinking>
-
 # Color Street SPRING 2021 PRE ORDER - Stylish Nails With Nicole - Help Guide
 ## Purpose
 This form is for customers to pre-order the "Stylish Nails With Nicole" collection for the spring of 2021. It is used to collect customer information, nail set selections, and shipping details.

@@ -1,7 +1,3 @@
-<thinking>
-The Mpox Intake Form is designed to collect information from patients about their mpox exposure and symptoms. This form is used for medical purposes and is intended to be completed by a healthcare professional in a medical setting. To prevent duplicate or unnecessary submissions, this form should only be used once for each patient. 
-</thinking>
-
 # Mpox Intake Form - Help Guide
 ## Purpose
 The Mpox Intake Form is used to collect patient information related to mpox exposure and symptoms for medical purposes.

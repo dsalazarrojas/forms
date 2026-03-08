@@ -1,10 +1,3 @@
-<thinking>
-To create a help guide for the "Protein Bar Order Form" that end users can understand, we need to consider the purpose of the form and the information it seeks to gather. This form appears to be a order form for protein bars, used to collect delivery details, payment information, and order specifics. Given the form's structure, we will guide the user through its completion step-by-step, providing clear explanations of each field. 
-
-The form has multiple sections: Protein Bar Order, Delivery Details, Payment Information, and Customer Information. Each section contains fields that require specific types of input.
-
-</thinking>
-
 # Protein Bar Order Form - Help Guide
 ## Purpose
 The Protein Bar Order Form is used to collect order details and customer information for protein bar orders.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from photographers for a photo shoot application process. It ensures that the photographer has all necessary details about the shoot, including the model's contact and shoot information. The form is typically filled out by models who are interested in collaborating with a specific photographer.
-</thinking>
-
 # Lookbook Photo Shoot Application Form - Help Guide
 ## Purpose
 This form is used to collect necessary information from photographers for a photo shoot application process. The form is designed to gather details about the shoot, including contact and shoot information.

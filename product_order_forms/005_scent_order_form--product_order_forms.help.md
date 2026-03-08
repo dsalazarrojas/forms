@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and structure of the "scent_order_form" form. The form is designed to collect information about a customer's order for a scent product. This form appears to be part of a larger system for managing product orders and customer feedback. The purpose of this form is likely to capture essential details such as customer contact information, order specifics, and review or feedback data. To confirm, this form does not appear to be a duplicate of any other form, and its fields are relevant to the intended purpose.
-</thinking>
-
 # scent_order_form - Help Guide
 ## Purpose
 The "scent_order_form" is a form designed to collect information about a customer's order for a scent product. This form is used to gather essential details such as customer contact information, order specifics, and review or feedback data.

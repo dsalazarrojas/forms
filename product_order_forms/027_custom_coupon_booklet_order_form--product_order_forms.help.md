@@ -1,19 +1,3 @@
-<thinking>
-This is a form for ordering custom coupon booklets. A customer would use this form to provide information to request a customized coupon booklet. The form should be clear and understandable for the end user so they can get the correct information to the right people. The purpose of this form is to collect information about the custom booklet order, including the title, design type, quantity, printing options, and shipping details. This form will be used by our sales team to review and fulfill the order.
-
-Please note that the fields are designed to be optional, but providing accurate and complete information will help us to create the best custom coupon booklet for the customer. We will review this form carefully to ensure that we get all the necessary information to create a custom coupon booklet that meets our customer's needs.
-
-Before you start filling out the form, please make sure you have the following information ready:
-- The title of the custom coupon booklet
-- The design type of the custom coupon booklet
-- The quantity of the custom coupon booklet
-- The printing options for the custom coupon booklet
-- Shipping address details (city, state, zip, and phone number)
-- Any custom design or image you would like to include in the custom coupon booklet
-
-Please fill out the form carefully and accurately, and our team will review it to create a custom coupon booklet that meets your needs.
-</thinking>
-
 # Custom Coupon Booklet Order Form - Help Guide
 ## Purpose
 The purpose of this form is to order a custom coupon booklet with a specific title, design, and printing options.

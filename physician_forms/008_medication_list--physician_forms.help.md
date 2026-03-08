@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are unfamiliar with the form. It is assumed that users have a basic level of understanding about the concept of medication lists and the importance of accurate medication records. Before proceeding, we will check for non-duplication to prevent overwriting existing medication lists. If this is a follow-up visit, please do not complete this form without first consulting with the primary care physician.
-</thinking>
-
 # Medication List - Help Guide
 ## Purpose
 The Medication List form is designed to collect information about a patient's current medications, including name, dosages, start and end dates, and contact information. This information will help healthcare professionals make informed decisions about patient care.

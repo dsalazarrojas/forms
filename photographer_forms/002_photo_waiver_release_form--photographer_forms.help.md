@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to capture information related to a photo shoot or event, including client and photographer details, release dates and times, and agreements. The form aims to ensure both parties understand their responsibilities and expectations. This form is not a legal document and should not be used as such. Please ensure that the form is reviewed and approved by legal counsel before use.
-
-The form fields are designed to be completed by the client and the photographer. The client is responsible for providing their name, contact information, and agreement to the terms and conditions. The photographer is responsible for providing their name, contact information, and agreement to the terms and conditions.
-
-Please ensure that the form is filled out accurately and completely before submission. This form is intended to be used as a template, and you should adapt it to suit your specific needs and requirements.
-
-</thinking>
-
 # Photo Waiver Release Form - Help Guide
 ## Purpose
 This form captures information related to a photo shoot or event, including client and photographer details, release dates and times, and agreements.

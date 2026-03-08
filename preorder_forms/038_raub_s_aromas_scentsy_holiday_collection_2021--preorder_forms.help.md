@@ -1,7 +1,3 @@
-<thinking>... This form is intended for preorders, allowing users to select options for a holiday collection. Each field should be filled out according to specific criteria. To ensure that the form is filled out correctly, review each field carefully before submission. 
-
-... </thinking>
-
 # Raub's Aromas Scentsy Holiday Collection 2021 - Help Guide
 
 ## Purpose

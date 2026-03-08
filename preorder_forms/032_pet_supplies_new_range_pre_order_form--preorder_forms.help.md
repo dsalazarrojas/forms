@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a simple order form for pet supplies, aiming to collect information from customers for a new product range. The form likely serves as a means to gauge demand and gather feedback from customers about their delivery preferences and contact information. To avoid duplication, customers with identical preferences and contact information may be automatically excluded or flagged for manual review. The form's internal structure suggests it might be used for internal purposes like data collection and analysis, rather than an external user-facing form.
-</thinking>
-
 # pet supplies new range pre order form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their pet supplies preferences and contact details for new product ranges.

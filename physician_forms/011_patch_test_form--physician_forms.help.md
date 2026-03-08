@@ -1,5 +1,3 @@
-<thinking>...The Patch Test Form is a crucial tool for collecting patient information for a patch test. It is meant to be completed by patients before undergoing a patch test, which is a type of skin patch test used to diagnose allergic contact dermatitis. This form should only be completed by patients who have a scheduled patch test appointment. Please ensure that you have received confirmation of your appointment before filling out this form. This form will be reviewed and approved by a medical professional before being completed. Please do not complete this form if you do not have a scheduled appointment or if you are under 18 years old... </thinking>
-
 # Patch Test Form - Help Guide
 ## Purpose
 

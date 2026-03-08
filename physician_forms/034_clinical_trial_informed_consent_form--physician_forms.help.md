@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clinical Trial Informed Consent Form - Help Guide
 
 ## Purpose

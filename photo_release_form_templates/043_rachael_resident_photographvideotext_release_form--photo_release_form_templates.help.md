@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rachael_resident_photographvideotext_release_form - Help Guide
 
 ## Purpose

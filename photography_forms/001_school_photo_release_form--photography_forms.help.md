@@ -1,5 +1,3 @@
-<thinking>... this form is used by school administrators and staff to collect information from parents/guardians for school photoshoots. This form ensures that parents are aware of and agree to the usage of their child's photos. This form must not be duplicated for a given school and photo date. The form's purpose is to gather necessary information to ensure that parents are informed and agree to the usage of their child's photos. ...</thinking>
-
 # School Photo Release Form - Help Guide
 ## Purpose
 The School Photo Release Form is used by school administrators and staff to collect information from parents/guardians for school photoshoots. The form serves as a way to inform parents about the usage of their child's photos and to obtain their consent.

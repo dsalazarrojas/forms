@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for Secret Santa, a popular gift-giving activity during the holiday season. The goal is to collect information about participants' preferences and limits to facilitate a fun and fair gift exchange. 
-
-The form will be used to gather data on participant preferences, gift limits, and other relevant information for a smooth and enjoyable Secret Santa experience. This form is likely to be used within a team or organization, where participants will fill it out to provide their input and preferences.
-
-</thinking>
-
 # Secret Santa Questionnaire - Help Guide
 ## Purpose
 The Secret Santa Questionnaire is designed to collect information about participants' preferences and limits for a fun and fair gift exchange during the holiday season.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document a medical examination, gathering information about the patient's medical history, condition, and other relevant details. This form is designed to be completed by a medical professional, such as a doctor or nurse, to provide a comprehensive record of the examination. It's essential to ensure the form is filled out accurately and completely to maintain the patient's medical records and facilitate future consultations. Please check that this form is not already completed and that the information is up-to-date before proceeding.
-</thinking>
-
 # medical_examination_report_form - Help Guide
 ## Purpose
 The medical examination report form is a document used to record the details of a patient's medical examination. It helps healthcare professionals gather and document information about the patient's medical history, condition, and treatment.

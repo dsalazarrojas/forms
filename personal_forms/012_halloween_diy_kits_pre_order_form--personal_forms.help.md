@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a Halloween DIY kits pre-order. It's used to gather details from customers for the order, and the fields are organized in a way that makes sense for this specific use case. I will make sure to cover all the fields in this guide.
-</thinking>
-
 # Halloween DIY Kits Pre Order Form - Help Guide
 ## Purpose
 This form is a pre-order form for Halloween DIY kits. It is used to collect customer information and kit preferences for the upcoming Halloween season. Fill out this form to let us know what you would like to order.

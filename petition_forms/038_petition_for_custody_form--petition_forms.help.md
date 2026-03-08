@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block is used by the system to check for duplication and ensure that each user only submits a new petition for custody once.
-</thinking>
-
 # Petition For Custody Form - Help Guide
 ## Purpose
 The Petition for Custody Form is used to gather information from a petitioner who wishes to file a petition for custody. This form helps the petitioner provide essential details about their situation, including their relationship status, residency, and reason for filing.

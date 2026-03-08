@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be designed for potential clients interested in the services offered by a company that specializes in wedding videography and photography services. The form likely aims to gather information from potential clients about their preferences and interests, such as how they heard about the company and what services they are interested in. 
-
-This form is likely used by clients who want to inquire about or book the company's services for their wedding.
-
-To avoid duplication, it's likely that this form will be used on a public-facing website, allowing potential clients to contact the company directly.
-
-</thinking>
-
 # Wedding DVD Application Form - Help Guide
 ## Purpose
 This form is for potential clients to provide information about their preferences and interests for their wedding services. It helps our team understand how to assist you better.

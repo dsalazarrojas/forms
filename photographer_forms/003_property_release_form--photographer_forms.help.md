@@ -1,7 +1,3 @@
-<thinking> 
-This guide will walk you through the Property Release Form, which is designed to collect information about a property being sold or transferred. The form is intended to gather details about the property owner, location, and the transaction between the buyer and the seller. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using AI-generated form design principles. It's released under a Creative Commons BY 4.0 license, allowing users to modify and use it as needed. If you're not sure about the form's purpose or if you're duplicating efforts, please review the details provided below.
-</thinking>
-
 # Property Release Form - Help Guide
 ## Purpose
 The Property Release Form is a document that facilitates the transfer of ownership of a property. It's used to collect crucial information about the property, the owner, and the buyer, ensuring a smooth and legal transaction process.

@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather information for a photography service. This form is likely used by customers to book a photography session with a photographer. It should only be filled out by customers or photographers looking to book a session. There may be a separate form for internal use or for other types of sessions.
-</thinking>
-
 # Photography Booking Form - Help Guide
 
 ## Purpose

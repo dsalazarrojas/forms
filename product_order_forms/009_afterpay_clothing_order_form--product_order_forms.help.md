@@ -1,10 +1,3 @@
-<thinking>
-This form is used for customers to place an order for clothing items, taking advantage of the Afterpay payment option, which allows for 4 easy payments. 
-The form includes fields for customer name, shipping address, item description or SKU, size, color, quantity, unit price, accessories, payment method, and special shipping instructions. 
-The form is designed to be user-friendly, and each field is carefully crafted to ensure that the customer has a smooth and hassle-free shopping experience. 
-Please ensure you fill out this form accurately and completely, as it will be used to process your order.
-</thinking>
-
 # Afterpay Clothing Order Form - Help Guide
 ## Purpose
 The Afterpay Clothing Order Form is designed to help customers place an order for clothing items using the Afterpay payment option. This form requires the following information: customer name, shipping address, item description or SKU, size, color, quantity, unit price, accessories, payment method, and special shipping instructions.

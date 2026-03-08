@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Upgrade Feedback Poll Form - Help Guide
 ## Purpose
 This form is used to collect feedback on the product upgrade, including ratings, comments, and other suggestions. Please provide honest feedback to help us improve our product.

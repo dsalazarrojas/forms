@@ -1,7 +1,3 @@
-<thinking>
-This form, named "Qapi Form", is used for performance tracking. It's a crucial tool for organizations to monitor and evaluate their quality and improvement activities. The form has multiple pages, each focusing on different aspects of performance tracking. To ensure accurate and relevant information is captured, please review each page carefully and fill in the required fields. If a field is marked as "required," it's necessary to fill it out to submit the form. This guide will walk you through each page and explain what each field is used for.
-</thinking>
-
 # Qapi Form - Help Guide
 ## Purpose
 This form is designed to track performance and quality improvement activities within an organization. It helps to evaluate and monitor progress in various areas, ensuring that improvements are made and standards are met.

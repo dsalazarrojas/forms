@@ -1,6 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to determine the form's purpose and ensure it's not being used for duplicate orders. The form is for customers to place phone orders, and it's possible that customers may try to order the same product multiple times. This form should be designed to guide users through the necessary information for a phone order, including contact details, order date, product list, and payment method.</thinking>
-
 # phone_order_form - Help Guide
 ## Purpose
 This form is for customers to place phone orders with the necessary information, including contact details, order date, product list, and payment method. Please ensure that you are only using this form once per order.

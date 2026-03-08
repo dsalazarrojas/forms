@@ -1,11 +1,3 @@
-<thinking>
-**Form Purpose**: The "Vote For Game Revival" form is designed to collect feedback and suggestions on which games should be revived or continued. This form is intended for players to express their opinions and vote for games that they would like to see revived.
-
-**Form Relevance**: This form is relevant to the games industry, particularly for game developers, publishers, or enthusiasts who want to gauge player interest in reviving or continuing certain games.
-
-**Non-Duplication**: This form is an original adaptation of a publicly available survey topic and does not copy or extract content from any proprietary form platforms.
-</thinking>
-
 # Vote For Game Revival - Help Guide
 ## Purpose
 The "Vote For Game Revival" form is designed to collect feedback and suggestions on which games should be revived or continued. This form is intended for players to express their opinions and vote for games that they would like to see revived.

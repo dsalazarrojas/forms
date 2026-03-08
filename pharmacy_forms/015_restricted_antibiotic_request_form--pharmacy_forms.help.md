@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's break down the form's purpose and requirements. This form appears to be used to request restricted antibiotics from a pharmacy, and it involves multiple fields to gather information from the patient, doctor, and pharmacy staff. The form seems to be designed for a healthcare setting, where restricted antibiotics are prescribed to patients who require them for certain medical conditions. The form requires fields for patient information, doctor information, and approval from the reviewer and approver. This guide will aim to make it easy for end-users to navigate and complete the form accurately.</thinking>
-
 # restricted_antibiotic_request_form - Help Guide
 
 ## Purpose

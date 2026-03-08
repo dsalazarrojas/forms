@@ -1,7 +1,3 @@
-<thinking>
-This form is used for patients to report any issues or concerns they may have with their prescription, and to request a refund. This form is not intended for use by healthcare professionals. When completing this form, please ensure that you have accurately and honestly reported the issue or concern, and provide as much detail as possible to help our team understand the issue. Please do not submit duplicate forms.
-</thinking>
-
 # Prescription Refund Form - Help Guide
 ## Purpose
 The Prescription Refund Form is used by patients to report any issues or concerns they have with their prescription. This form helps us to gather information about any errors or unsatisfactory outcomes with the prescription so that we can take corrective action.

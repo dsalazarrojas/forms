@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from personal training clients, ensuring they understand the terms and conditions of working with a personal trainer. The form aims to identify potential health risks, gather client contact details, and establish a clear understanding of the client's expectations and responsibilities.
-</thinking>
-
 # Personal Trainer Client Intake And Liability Form - Help Guide
 ## Purpose
 This form is used to gather essential information from clients before they start personal training sessions. It helps establish a clear understanding of the client's health status, expectations, and responsibilities, ensuring a safe and effective training experience.

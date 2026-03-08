@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the collection of information during a telehealth medical examination in the field of dermatology. The form is intended for use by patients and physicians to gather necessary details about the patient's medical history, examination, and treatment. The form should not be used for any other purpose without proper modification to ensure accuracy and relevance.
-</thinking>
-
 # Dermatology Telehealth Medical Examination Form - Help Guide
 
 ## Purpose

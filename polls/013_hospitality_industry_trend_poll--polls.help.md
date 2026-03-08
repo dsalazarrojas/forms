@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information on the trends and challenges faced by individuals in the hospitality industry. The questions are focused on the user's role, location, and specific areas of focus such as benchmarking, reporting, and planning. The form also asks about the time frames for these activities and the frequency of reporting and planning. The goal is to gather insights on how hospitality professionals manage their time and data for decision-making.
-
-Before filling out the form, please ensure that you have a clear understanding of your role, location, and the specific areas where you would like to focus your responses.
-
-This form is designed to be completed by hospitality professionals, including account managers, directors, managers, operations managers, owners, and others. Please select the option that best represents your role.
-
-The questions are designed to be answered based on your experience and knowledge. Please select the options that best fit your situation.
-
-Please note that some questions may have undefined options, which means you should select the option that best fits your experience and knowledge.
-
-</thinking>
-
 # Hospitality Industry Trend Poll - Help Guide
 ## Purpose
 This guide will walk you through the Hospitality Industry Trend Poll form, which aims to gather insights on the trends and challenges faced by hospitality professionals.

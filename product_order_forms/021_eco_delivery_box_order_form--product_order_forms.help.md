@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their eco-friendly delivery box preferences. The form will be used to process and fulfill their orders. To ensure data accuracy and consistency, please fill out the form carefully and thoroughly. Before proceeding, review the form to avoid any unnecessary submissions. This form does not collect any sensitive or personal identifiable information.
-</thinking>
-
 # Eco Delivery Box Order Form - Help Guide
 ## Purpose
 The Eco Delivery Box Order Form is designed to collect details about your delivery preferences for our eco-friendly delivery boxes. This information will be used to fulfill and process your order.

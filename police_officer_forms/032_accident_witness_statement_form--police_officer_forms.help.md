@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for witnesses to provide a detailed account of an accident that they witnessed. The purpose of this form is to collect information about the witness's identity, contact details, and a detailed description of the accident, including the date, time, location, and circumstances surrounding the incident. This form is intended for use by law enforcement agencies or other authorities to gather information and aid in the investigation of the accident. It is not intended for use in court proceedings or as a formal legal document.
-</thinking>
-
 # Accident Witness Statement Form - Help Guide
 ## Purpose
 The Accident Witness Statement Form is designed to collect information from witnesses about an accident they have witnessed. This form helps gather details about the witness's identity, contact information, and a detailed account of what they saw happen.

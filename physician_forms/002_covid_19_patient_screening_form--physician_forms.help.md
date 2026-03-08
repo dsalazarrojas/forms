@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to gather information from patients about their COVID-19 symptoms and exposure history to help healthcare professionals identify potential cases and take necessary precautions. This form should only be completed by patients who have visited the healthcare facility recently, and the submitted data will be reviewed by medical professionals to determine the next steps for the patient.
-
-Note that the form is divided into two sections: "Patient Information" and "Screening Questions". The patient's personal details are collected in the first section, while the second section asks about their current health status and recent exposure history.
-
-The form fields and their explanations are as follows:
-
-</thinking>
-
 # COVID 19 Patient Screening Form - Help Guide
 ## Purpose
 The COVID-19 Patient Screening Form is designed to gather information from patients about their symptoms and exposure history to help healthcare professionals identify potential cases and take necessary precautions.

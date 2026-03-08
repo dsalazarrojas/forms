@@ -1,6 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive help guide for the Photography Tour Client Survey form. This guide will cover the purpose of the form, how to complete it, and an explanation of each field in a concise and practical manner.
-
-</thinking>
 # Photography Tour Client Survey - Help Guide
 
 ## Purpose

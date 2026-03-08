@@ -1,8 +1,3 @@
-<thinking>
-What is the purpose of this form? The form appears to be designed for users to make selections related to artists and songs. However, the fields seem to be mostly empty or have unclear labels. A clearer understanding of the form's purpose would help to determine the best way to guide the user through it. It's possible this form is for users to suggest or vote for favorite artists or songs, or potentially for users to create a playlist or album. A more detailed analysis of the form's purpose is needed to provide accurate guidance. I will proceed with an assumption that the form is for users to suggest their favorite artists or songs.
-
-</thinking>
-
 # featured_artist - Help Guide
 ## Purpose
 The "featured_artist" form is designed to help users select their favorite artists or songs for some purpose. The form consists of multiple pages, each with a text field for users to input their selections.

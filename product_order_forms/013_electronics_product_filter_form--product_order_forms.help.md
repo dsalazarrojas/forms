@@ -1,8 +1,3 @@
-<thinking>
-This is a form designed to filter electronic products based on specific criteria. The form is intended to collect information from users to narrow down their search results for electronic products. To ensure that users understand how to complete this form and what each field means, a detailed help guide will be provided.
-
-</thinking>
-
 # Electronics Product Filter Form - Help Guide
 ## Purpose
 This form is used to filter electronic products based on your preferences. Fill out the form with your desired criteria, and the form will provide you with relevant results.

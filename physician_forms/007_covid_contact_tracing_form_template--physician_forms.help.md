@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Covid Contact Tracing Form Template. This form is designed for healthcare professionals and patients to record and track patient interactions during the Covid-19 pandemic. The form should only be used for patients who have visited the medical facility for any reason related to the Covid-19 pandemic. Please complete the form accurately and thoroughly to ensure proper contact tracing and patient care. If the patient has already been traced or has no contact tracing required, please answer 'no' to the questions related to contact tracing.
-</thinking>
-
 # Covid Contact Tracing Form Template - Help Guide
 ## Purpose
 The Covid Contact Tracing Form Template is used to record patient information for contact tracing purposes during the Covid-19 pandemic.

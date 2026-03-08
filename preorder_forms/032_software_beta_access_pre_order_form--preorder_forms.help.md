@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for beta access to software, allowing them to express their interest and agree to terms of service. It is intended for individuals who wish to participate in the beta testing phase of the software. The user will be asked to provide some basic information, including name, email, phone number, and company (if applicable), and to select their role and agree to the terms of service. The form will not be submitted until the user confirms their agreement to the terms.
-</thinking>
-
 # Software Beta Access Pre Order Form - Help Guide
 ## Purpose
 This form is intended for users who wish to participate in the beta testing phase of the software. It collects basic information and confirms the user's agreement to the terms of service, allowing them to gain access to the beta software.

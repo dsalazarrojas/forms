@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a questionnaire for women's photography booking. The purpose of the form is to collect essential details from women to be photographed by our photographer. We need to ensure that we collect accurate and complete information to provide the best possible experience and results for our clients. To confirm, this form is for women only.
-
-The following assumptions have been made in creating this guide:
-
-* The form is designed to be completed by women who are booking a photography session.
-* The fields collected are essential for the photographer to prepare and conduct the session.
-* The form is intended for women who are aware of and comfortable with providing their personal details.
-
-</thinking>
-
 # portrait_questionnaire_for_women - Help Guide
 ## Purpose
 This form is a questionnaire for women who are booking a photography session. It is designed to collect accurate and complete information to provide the best possible experience and results for our clients.

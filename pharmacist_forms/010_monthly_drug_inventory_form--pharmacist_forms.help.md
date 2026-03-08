@@ -1,13 +1,3 @@
-<thinking>
-This form is part of a larger system for pharmacists to manage their monthly inventory. The form is likely used to record and track the inventory of a pharmacy. Each field is crucial in providing accurate and up-to-date information for inventory management and reporting.
-
-The form is likely used by pharmacists to report on their business organization's monthly inventory. The form is meant to be filled out by a single user at a time.
-
-The form will be reviewed by other pharmacists and administrators to ensure accuracy and consistency in reporting. 
-
-The form fields are designed to collect basic and necessary information. The fields are not meant to be overly complex or time-consuming to fill out.
-</thinking>
-
 # monthly_drug_inventory_form - Help Guide
 ## Purpose
 This form is used by pharmacists to report their business organization's monthly inventory. The form is crucial for accurate and up-to-date inventory management and reporting.

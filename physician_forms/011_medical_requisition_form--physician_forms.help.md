@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about patient medical needs and conditions from healthcare providers. This information will be used to help healthcare staff make informed decisions about patient care. Please ensure that you only fill out this form if you are a healthcare provider authorized to do so. Additionally, please make sure that this form is not filled out in duplicate - only one form is required per patient.
-</thinking>
-
 # Medical Requisition Form - Help Guide
 
 ## Purpose

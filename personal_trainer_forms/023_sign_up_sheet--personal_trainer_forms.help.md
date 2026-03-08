@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sign_up_sheet - Help Guide
 
 ## Purpose

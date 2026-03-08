@@ -1,5 +1,3 @@
-<thinking>As a performance tracking form, the "Monthly Activity Tracker" is designed to collect data on team performance and progress. This form is used to track the activities, goals, and achievements of team members, providing valuable insights for team leads and managers. The form is composed of multiple fields that require different types of information, including select options, text fields, and date/time fields. To complete this form, users will need to select a month, team lead, activity level, and other relevant details.</thinking>
-
 # Monthly Activity Tracker - Help Guide
 
 ## Purpose

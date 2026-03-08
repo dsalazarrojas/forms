@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect patient history information from the patient or their proxy. It is designed to be completed by the patient or their representative, and is meant to provide a comprehensive overview of the patient's medical history, allergies, medications, and other relevant health information. By filling out this form, the patient can provide accurate and up-to-date information about their health status, which can help healthcare providers make informed decisions about their care.
-The purpose of this form is to ensure that the patient's history is accurately recorded and easily accessible for healthcare providers.
-This form is part of a larger set of tools for healthcare providers and should not be duplicated or used as a standalone solution.
-</thinking>
-
 # Patient History Questionnaire - Help Guide
 ## Purpose
 The Patient History Questionnaire is designed to collect and document a patient's medical history, including allergies, medical conditions, medications, and other relevant health information.

@@ -1,8 +1,3 @@
-<thinking>
-To prevent duplication and ensure accurate data collection, this form should only be filled out by individuals who are interested in receiving the Mpox vaccine. This form is intended for patients who have had contact with someone who has had Mpox or have been exposed to the disease in some other way. Please fill out this form carefully and thoroughly, as the information collected will be used to determine the suitability of vaccination for the individual and to schedule follow-up appointments.
-
-</thinking>
-
 # Mpox Vaccine Interest Form - Help Guide
 ## Purpose
 This form is for individuals who are interested in receiving the Mpox vaccine. If you have been exposed to someone with Mpox or have had contact with the disease, please fill out this form to express your interest in the vaccine and provide necessary information for scheduling.

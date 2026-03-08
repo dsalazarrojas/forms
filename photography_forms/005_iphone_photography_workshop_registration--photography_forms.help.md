@@ -1,12 +1,3 @@
-<thinking>
-You are about to view a help guide for the IPhone-Photography-Workshop-Registration form. Before proceeding, I would like to clarify that this form is designed for workshop registration purposes, specifically for an IPhone-Photography-Workshop. It appears to be a registration form for attendees who want to participate in the workshop. The form asks for various details such as session time, attendee details, contact details, and preferred session dates and times.
-
-To ensure that you complete the form correctly and effectively, please review the following guide carefully.
-
-Please note that some fields are optional, and you are not required to fill them out if they do not apply to you.
-
-</thinking>
-
 # IPhone-Photography-Workshop-Registration - Help Guide
 ## Purpose
 This form is designed to help you register for the IPhone-Photography-Workshop. Please fill out this form carefully to ensure that you are registered correctly.

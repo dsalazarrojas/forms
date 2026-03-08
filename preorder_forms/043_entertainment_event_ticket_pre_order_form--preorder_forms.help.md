@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for customers to pre-order tickets for an entertainment event. The purpose of this form is to collect information from customers about the event they wish to attend, including the event name, date, time, venue, and other relevant details. This form is meant to be filled out by customers before the event, allowing them to reserve tickets for themselves or others. The form will help event organizers and ticket vendors to prepare for the event by gathering necessary information about the attendees and their ticket preferences.
-
-Please make sure to fill out this form carefully and completely, as the information collected will be used to facilitate the ticketing process and ensure that you receive accurate tickets for the event. Please review the form fields carefully and ask for help if you are unsure about any of the fields.
-</thinking>
-
 # Entertainment Event Ticket Pre Order Form - Help Guide
 ## Purpose
 This form is designed for customers to pre-order tickets for an entertainment event.

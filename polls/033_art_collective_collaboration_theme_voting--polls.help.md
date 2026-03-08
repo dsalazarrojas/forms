@@ -1,16 +1,3 @@
-<thinking>
-We need to ensure that our Art Collective Collaboration Theme Voting form is clear and understandable for users, especially considering its purpose and how each field contributes to its overall functionality. This form is designed to collect information from users about their preferences and interests regarding various themes within an art collective context. It seems we have three main theme options for users to vote on, along with additional fields for user information and feedback. Let's review the provided YAML fields to confirm that we have all the necessary information to create a comprehensive help guide. Upon reviewing the form structure, we have the following fields:
-- User information (name, email, member since)
-- Voting information (voting date)
-- Theme options (three options with name, description, interest, and vote)
-- Feedback section (additional feedback)
-- Top choice (select one theme)
-- Collaboration ideas or suggestions (text field)
-- Interest in participation (select one)
-
-These fields should provide us with a complete picture of users' preferences and interests in the art collective themes. We will now create a concise and practical help guide for this form, using the above information as a reference.
-</thinking>
-
 # Art Collective Collaboration Theme Voting - Help Guide
 ## Purpose
 The Art Collective Collaboration Theme Voting form is designed to collect information from users about their preferences and interests regarding various themes within an art collective context. It's used to gauge users' interests in different theme options and their willingness to participate in the collaboration process.

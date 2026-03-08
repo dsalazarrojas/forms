@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to create or manage petitions against gang injunctions, which are legal measures that prohibit certain individuals or groups from gathering in specific areas. Petitions can be used to request the removal of a gang injunction, which can help to reduce tensions and improve community safety. The form is intended for use by law enforcement agencies, community organizations, or other stakeholders who need to create or manage petitions.
-
-To ensure that the form is used correctly, we need to check for duplicates and non-relevant petitions. This means that the form should only be used for legitimate purposes and not for frivolous or harassing activities.
-
-</thinking>
-
 # Petitions Against Gang Injunctions Form - Help Guide
 ## Purpose
 This form is designed to collect and manage information related to petitions against gang injunctions, allowing users to create or update existing petitions.

@@ -1,8 +1,3 @@
-<thinking>
-AI-generated forms are not affiliated with, endorsed by, or derived from any form platform.
-This form aims to gather information about a patient's health history and medical contact details.
-</thinking>
-
 # Health History Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential medical information about a patient's contact details and medical history.

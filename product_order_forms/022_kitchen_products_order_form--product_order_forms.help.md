@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Kitchen Products Order Form" to ensure that end-users understand its purpose and how to complete it. This form is used to gather information about products ordered in the kitchen, including product name, quantity, company, client, product type, price, ordered date, order notes, email, phone number, order total, payment method, payment date, and delivery status. It's essential to explain each field clearly to prevent confusion and ensure accuracy in data entry. Before we begin, let's review the form's structure and field types to ensure we cover all necessary information.
-</thinking>
-
 # Kitchen Products Order Form - Help Guide
 ## Purpose
 The "Kitchen Products Order Form" is designed to collect essential information about products ordered in the kitchen. This form helps the kitchen staff to efficiently manage orders, track product details, and provide accurate reports for future reference.

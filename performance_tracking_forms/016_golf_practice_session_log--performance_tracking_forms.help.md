@@ -1,20 +1,3 @@
-<thinking>
-This form is for logging golf practice sessions, which is a crucial part of improving golfing skills. A session log can help golfers track their progress, identify areas of improvement, and optimize their practice routine. This form is not intended to be used for other purposes, such as logging official scores or competitions.
-
-The form is designed to be flexible and accommodating, allowing golfers to log their practice sessions in a way that suits their needs. However, to ensure consistency and accuracy in tracking progress, it's essential to complete the form as thoroughly and truthfully as possible.
-
-The form can be completed by golfers who are looking to improve their skills, and it's recommended that they fill it out regularly to monitor their progress. The form can be completed at any time, but it's best to do so immediately after each practice session.
-
-Before filling out the form, make sure to have the following information ready:
-
-* The date of the practice session
-* The type of session (e.g., practice, drills, lessons, or games)
-* The areas of focus during the session (e.g., long game, short game, chipping, putting, irons, or wedges)
-* A self-assessment of their performance (on a scale of 1 to 5)
-* Any additional notes or comments about the session
-
-</thinking>
-
 # Golf Practice Session Log - Help Guide
 
 ## Purpose

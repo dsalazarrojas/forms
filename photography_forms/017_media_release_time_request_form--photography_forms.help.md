@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this Media Release Time Request Form is to collect information from users about the timing and logistics of media releases, including the media type, location, and release time. This form should only be filled out by users who are responsible for coordinating media releases, such as event organizers or coordinators. To avoid duplication of work, please only fill out this form if you have not already provided this information elsewhere.
-
-</thinking>
-
 # Media Release Time Request Form - Help Guide
 ## Purpose
 The Media Release Time Request Form is used to collect information about the timing and logistics of media releases for events or activities.

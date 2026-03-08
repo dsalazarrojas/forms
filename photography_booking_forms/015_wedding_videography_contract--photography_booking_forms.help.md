@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Videography Contract - Help Guide
 ## Purpose
 This form is designed for couples to book a videographer for their wedding day. It collects information from the couple regarding their event details and service preferences.

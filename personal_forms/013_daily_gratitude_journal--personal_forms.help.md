@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Form Purpose:**
 The daily gratitude journal is designed to help users reflect on their daily experiences and feelings, allowing them to focus on the positive aspects of their lives. By completing this form, users will be able to identify the things they are grateful for and how they make them feel, helping them cultivate a more positive and mindful approach to life.
 

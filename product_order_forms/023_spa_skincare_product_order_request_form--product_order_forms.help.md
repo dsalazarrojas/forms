@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their spa skincare product order requests. The form is intended for spa owners and customers to communicate their preferences and details about their orders.
-
-To ensure that you are using this form correctly, please note that some fields are optional. If you're not sure about any field, please ask for clarification or check with your spa representative.
-
-</thinking>
-
 # Spa Skincare Product Order Request Form - Help Guide
 
 ## Purpose

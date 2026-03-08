@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to capture information from plumbers and their customers. It helps track referrals and customer interactions. The form is likely used by plumbers to record and follow up on customer leads.
-To avoid duplication, users should not create a new referral if a customer already exists in the system or if they have a duplicate referral for the same customer.
-The form is likely used by plumbers to capture information about customers they have referred or are currently interacting with. It will help them track the status and follow-up of these leads.
-This form might be used in conjunction with other forms that capture customer interactions, such as chats, calls, or meetings.
-</thinking>
-
 # Plumber Referral Form - Help Guide
 ## Purpose
 This form is designed to capture information from plumbers and their customers to help track referrals and customer interactions.

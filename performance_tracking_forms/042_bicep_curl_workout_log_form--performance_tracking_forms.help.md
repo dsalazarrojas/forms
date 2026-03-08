@@ -1,7 +1,3 @@
-<thinking>
-The Bicep Curl Workout Log Form is a tool designed to help track and analyze performance data for bicep curl exercises. It captures information about the athlete or client, workout session details, exercise-specific data, and performance metrics. This form is intended to help trainers, coaches, and athletes monitor progress, identify areas for improvement, and optimize their training programs. It is a crucial tool for fitness professionals to provide personalized guidance and support to their clients, as well as for athletes to monitor their own performance and development. Before starting, ensure the form is relevant to your specific needs and not duplicating existing data collection efforts.
-</thinking>
-
 # Bicep Curl Workout Log Form - Help Guide
 ## Purpose
 The Bicep Curl Workout Log Form is designed to collect data on bicep curl exercises, providing insight into athlete performance, progress, and areas for improvement. This form helps fitness professionals provide personalized guidance and support to their clients, while athletes can monitor their own development.

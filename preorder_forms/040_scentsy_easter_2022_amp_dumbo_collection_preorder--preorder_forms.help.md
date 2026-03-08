@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers interested in preordering Scentsy's Easter 2022 collection and Dumbo collection. The form is not designed for order placement, but rather to gather contact information and preferences from potential customers. To ensure accurate and complete data collection, please review each field carefully.
-</thinking>
-
 # Scentsy Easter 2022 & Dumbo Collection Preorder - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in preordering Scentsy's Easter 2022 and Dumbo collections.

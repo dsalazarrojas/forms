@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this "Specialty Oil Procurement Order Form" is likely to collect order details from customers for specialty oil products. This form is probably used by businesses that sell specialty oils, such as oil refineries, distributers, or retailers. The form is designed to be completed by customers who want to place an order for a specific type of oil product.
-
-Before we dive into the instructions on how to complete this form, let's quickly check if this form is relevant to your needs. If you're looking to place an order for specialty oils, then this form is probably what you need. If not, please consider a different form designed for your specific use case.
-
-</thinking>
-
 # specialty_oil_procurement_order_form - Help Guide
 ## Purpose
 The Specialty Oil Procurement Order Form is designed to collect order details from customers for specialty oil products. This form is intended for businesses that sell specialty oils, such as oil refineries, distributers, or retailers.

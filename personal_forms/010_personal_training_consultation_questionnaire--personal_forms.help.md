@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who wish to consult with personal trainers for guidance on their training goals and needs. The purpose of this form is to ensure that trainers are well-informed about their clients' objectives, medical history, and current situation, allowing for effective and safe training advice. It's essential that users fill out this form accurately, as the information provided will be used to create a customized training plan that addresses their specific goals and concerns.
-</thinking>
-
 # Personal Training Consultation Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from individuals who wish to consult with personal trainers for guidance on their training goals and needs.

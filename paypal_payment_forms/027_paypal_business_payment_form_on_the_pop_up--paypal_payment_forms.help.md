@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential information for a business payment process using PayPal. Its primary purpose is to gather contact and payment-related data from users. The form has 10 fields, each with a specific label and type. The form is likely used in a pop-up or online context, suggesting it's meant to be filled out by users in a quick and efficient manner. 
-</thinking>
-
 # paypal_business_payment_form_on_the_pop_up - Help Guide
 ## Purpose
 This form is used to collect payment information from users for a business-related process, specifically for PayPal transactions. It's essential to fill out the form accurately to ensure smooth payment processing.

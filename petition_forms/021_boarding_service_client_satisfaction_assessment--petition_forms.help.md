@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Boarding Service Client Satisfaction Assessment" form, which is designed to gather feedback and ratings from clients about their experience with the boarding service. This form is intended to collect information about the client's pet, service dates, service type, and overall satisfaction with the service. We will break down the form into sections to make it easier to understand for users.
-
-</thinking>
-
 # Boarding Service Client Satisfaction Assessment - Help Guide
 
 ## Purpose

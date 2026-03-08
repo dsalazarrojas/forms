@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to report a stolen property, allowing users to provide details about the missing item, the location and time it was taken, and any relevant information about the suspect and witness. This form is likely used by law enforcement agencies to gather information about stolen properties and track reports. It's essential to ensure that the form is completed accurately and thoroughly to provide the necessary details.
-
-Before filling out this form, ensure that the property in question is indeed stolen and that the information provided is correct. Duplicate reports may be removed, so please be concise and avoid submitting incomplete or inaccurate reports.
-
-The following is a detailed help guide on how to complete this form:
-</thinking>
-
 # stolen_property_report_form - Help Guide
 ## Purpose
 The Stolen Property Report Form is used to report a stolen item to the police. This form gathers essential information about the missing item, including its description, location, and any suspect or witness information.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's profile picture background selection preferences. It appears to be part of a larger system for managing user profiles, possibly in a social media or online identity management context. The form allows users to select their background style, upload background images, and provide consent for the use of their profile picture. The fields seem to be duplicates or variations of the same type, which might be a result of testing or iteration. The form does not ask for any personal identifiable information (PII) or sensitive data. The purpose of this guide is to help users understand the form's functionality and requirements, and to ensure they can complete it successfully.</thinking>
-
 # Profile Picture Background Selection - Help Guide
 ## Purpose
 This form is designed to collect information about your profile picture background selection preferences. It allows you to select the style and content of your profile picture background.

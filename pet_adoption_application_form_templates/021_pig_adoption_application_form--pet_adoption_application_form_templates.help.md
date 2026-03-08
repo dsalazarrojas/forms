@@ -1,20 +1,3 @@
-<thinking>
-To determine the purpose of the "Pig Adoption Application Form", I've analyzed its fields. It seems the form is designed to gather information about the applicant's personal details, household, experience with pets, contact information, adoption preferences, pet care abilities, and any medical conditions that might affect the applicant. This information will likely be used to assess the applicant's suitability for adopting a pig.
-
-To confirm, I'll review the form's fields:
-- The "personal_info" field likely collects basic identifying data.
-- "household_info" and "household_type" (if I assume "type" is meant to be "type" in "household_info") might be used to understand the applicant's living situation.
-- "experience" likely gathers information about the applicant's previous experience with animals.
-- "contact_info" is self-explaining, collecting contact details.
-- "adoption_info" might be used to gather information about the applicant's adoption history.
-- "adoption_preference" seems to be a select-one field with options "Pet", "Animal", and "Service" which could be related to the type of adoption the applicant is interested in (e.g. companion, animal, service).
-- "pet_care" likely explores the applicant's pet care experience and abilities.
-- "medical_conditions" and "medical_conditions_info" might be used to gather information about any health conditions the applicant or their household members may have.
-
-Based on this analysis, the form is intended to be a comprehensive adoption application form for those interested in adopting a pig.
-
-</thinking>
-
 # Pig Adoption Application Form - Help Guide
 ## Purpose
 The Pig Adoption Application Form is designed to gather information about you and your household to assess your suitability for adopting a pig. This form will help us understand your personal details, household, experience with pets, contact information, adoption preferences, pet care abilities, and any medical conditions.

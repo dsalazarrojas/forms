@@ -1,8 +1,3 @@
-<thinking>
-This form is a preorder form for customers to pre-order books from an anthology series. The form is designed to collect essential customer information, book selection, and order details. Before completing the form, please ensure you are not a duplicate order for the same book. If you have previously pre-ordered or ordered the same anthology book, please do not submit this form. 
-The form is intended for individual customers and is not suitable for bulk orders. 
-</thinking>
-
 # Anthology Book Pre Order Form - Help Guide
 ## Purpose
 This form is for customers who want to pre-order books from an anthology series. To ensure the book is available for you when it's published, please fill out this form accurately and completely.

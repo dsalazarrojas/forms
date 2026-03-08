@@ -1,9 +1,3 @@
-<thinking>
-
-The form is used for collecting nutrition-related data from clients. This form is designed to gather information on the client's food intake, water intake, physical activity, and health coach feedback. This form is part of a broader assessment process used by health professionals to understand client behavior and provide personalized guidance.
-
-</thinking>
-
 # Nutrition Diary Form - Help Guide
 ## Purpose
 

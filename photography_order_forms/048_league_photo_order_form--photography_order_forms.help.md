@@ -1,7 +1,3 @@
-<thinking>
-This form is used for ordering photography services. The purpose of this form is to collect customer information, appointment scheduling, and payment details for photoshoot services. Before filling out this form, ensure that you are not duplicating an existing order. To start, please review the form carefully and proceed with caution.
-</thinking>
-
 # League Photo Order Form - Help Guide
 
 ## Purpose

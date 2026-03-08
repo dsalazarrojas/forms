@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for users who will be using the Wedding Photoshoot Agreement form. It is crucial to understand that this form is designed to capture information related to a wedding photoshoot, and its purpose is to collect details necessary for a successful and enjoyable experience for both the couple and the photographer. This form should not be used for any other purpose or context.
-
-To avoid any confusion or duplication, please ensure that you are in the correct context when using this form. If you are unsure, please revisit the form's title and description to confirm its relevance.
-
-</thinking>
 # Wedding Photoshoot Agreement - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from photographers for a sample photography contract. This form is likely used by a business or organization that commissions photography services, such as a media company or advertising agency. The form's purpose is to gather essential details from the photographer, including their contact information, availability, and specifics about the shoot. This form likely helps the commissioning organization to streamline their communication and project management with the photographer.
-The form's structure suggests that it is designed to be a standard contract or agreement that can be used for multiple projects and clients. The form fields cover basic contact information, date and time specifics, and logistical details about the photo shoot. This form may not be specific to a particular event or project, so it's likely intended to be a generic template.
-The fields provided in the form seem to cover the essential details needed for a simple photo shoot. They include fields for the photographer's contact information (name, email, phone), date and time specifics (date of birth, shoot date), and logistical details (photo count, photo type, photo size). The form does not require any fields to be completed, which suggests that it's a general template for various photo shoots.
-</thinking>
-
 # Sample Photography Contract - Help Guide
 ## Purpose
 This form is designed to collect information from photographers for a standard photo shoot. It's a template to gather essential details for project management and communication between the photographer and the commissioning organization.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used for certification applications from individuals wishing to obtain personal trainer certification. It collects information on the applicant's personal details, education, experience, and professional background. This form is required for all certification applications, and its fields should be filled out accurately and completely. Please ensure that you have all necessary documentation and information before submitting this form.
-
-Before starting this application, please check that you have not previously submitted an application for the same certification. If you have, this form will not be accepted. 
-
-</thinking>
-
 # Certification Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from individuals applying for personal trainer certification. Please fill out the form accurately and completely to ensure a smooth application process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Coaching Training Form - Help Guide
 
 ## Purpose

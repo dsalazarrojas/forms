@@ -1,11 +1,3 @@
-<thinking>
-The School Play Costumes Pre Order Form is used to gather information from students and parents for school play costumes. This form is used to pre-order costumes for students participating in the school play. The form should only be used for students who have been assigned a part in the school play and are interested in pre-ordering their costume. To avoid confusion, please do not use this form for non-play related purposes.
-
-This form will collect information such as student name, parent contact information, costume type, delivery preference, and payment details. The form will also collect any special requests or notes that the student would like to share with the costume team.
-
-It's essential to fill out the form accurately and completely to ensure that the costume is delivered correctly and on time.
-</thinking>
-
 # School Play Costumes Pre Order Form - Help Guide
 ## Purpose
 The School Play Costumes Pre Order Form is used to gather information from students and parents for school play costumes. Fill out this form if you have been assigned a role in the school play and would like to pre-order your costume.

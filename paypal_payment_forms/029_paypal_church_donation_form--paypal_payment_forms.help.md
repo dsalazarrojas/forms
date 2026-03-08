@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user information for a one-time or recurring donation to a church, as well as the amount and currency of the donation. It's intended for both individuals and organizations to make easy and secure online donations. This form is not intended to be used for other purposes such as membership applications, event registrations, or other types of transactions.
-The form is split into several pages, each with its own set of fields. Each field is designed to be completed in a specific way to ensure accurate and complete information is gathered.
-</thinking>
-
 # PayPal Church Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information for one-time or recurring donations to a church, allowing individuals and organizations to make easy and secure online donations.

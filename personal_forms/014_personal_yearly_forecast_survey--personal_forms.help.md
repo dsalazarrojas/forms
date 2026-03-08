@@ -1,16 +1,3 @@
-<thinking>
-
-This form is designed to help users reflect on their past, present, and future goals, growth, and relationships. It's meant to be a thought-provoking exercise to help users gain insights into their personal development and identify areas for improvement. The form is divided into several sections, each focusing on different aspects of a person's yearly experience and goals. This form will help users:
-
-* Identify areas where they have grown or struggled in the past year
-* Set realistic goals for the upcoming year
-* Focus on specific areas of improvement
-* Develop a strategy to address pain points and obstacles
-
-Before filling out this form, please make sure you have a clear understanding of your past year's experiences and goals, as well as your upcoming year's objectives and challenges. This form is not meant to be a rushed or superficial exercise; take your time to think deeply about each question and respond honestly.
-
-</thinking>
-
 # Personal Yearly Forecast Survey - Help Guide
 ## Purpose
 The Personal Yearly Forecast Survey is a tool to help you reflect on your past, present, and future goals, growth, and relationships. It's designed to help you gain insights into your personal development and identify areas for improvement.

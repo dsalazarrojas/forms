@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about the Youth Sports Program, specifically on their participation, satisfaction, outcomes, and any challenges they faced or suggestions for improvement. This information will help to better understand the impact of the program and identify areas for improvement.
-</thinking>
-
 # Youth Sports Program Impact Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants in the Youth Sports Program. Please answer the questions as honestly and thoroughly as possible to help us understand the effectiveness of the program.

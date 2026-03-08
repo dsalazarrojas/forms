@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to track and evaluate the performance of an athlete or team during a race or event. It's used to collect data and feedback to improve performance and optimize training. The purpose of this form is to provide a comprehensive overview of the event, including details such as the race name, event date and time, distance covered, weather conditions, performance metrics, training plan, and athlete rating. This form should only be filled out by the individuals who participated in the event or by their designated representatives. 
-</thinking>
-
 # รับประทับ Evaluation Form - Help Guide
 ## Purpose
 The รับประทับ Evaluation Form is designed to collect information about your performance during a race or event. Please use this form to provide accurate and detailed feedback about your performance.

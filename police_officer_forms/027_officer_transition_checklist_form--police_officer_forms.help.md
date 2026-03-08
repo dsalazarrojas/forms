@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information during officer transitions within the police department. 
-The form helps ensure a smooth transfer of responsibilities and duties by documenting the key details of the transition process. The form is typically used when one officer's responsibilities are being taken over by another. It serves as a reference for both the outgoing and incoming officers, helping them understand what needs to be done and what actions are required to complete the transition.
-
-The information gathered through this form is used for administrative purposes only and will be reviewed by the relevant authorities to ensure a seamless transfer of duties. The form is not intended for public access or use.
-
-To fill out this form, please follow the steps outlined below.
-</thinking>
-
 # Officer Transition Checklist Form - Help Guide
 ## Purpose
 The Officer Transition Checklist Form is used to document the details of an officer's transition within the police department. It helps ensure a smooth transfer of responsibilities and duties between officers.

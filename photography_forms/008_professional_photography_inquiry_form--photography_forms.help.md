@@ -1,7 +1,3 @@
-<thinking>
-The form is a simple, text-based form designed to collect user inquiries for professional photography services. It is likely part of a larger system for handling customer support or sales inquiries. The form should only be completed by those who are inquiring about professional photography services. This form should only be filled out once per individual to prevent data duplication.
-</thinking>
-
 # Professional Photography Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are interested in professional photography services. Please fill out this form to send us a message, and we will get back to you soon.

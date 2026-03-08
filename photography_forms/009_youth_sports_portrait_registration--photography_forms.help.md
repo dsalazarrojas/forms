@@ -1,5 +1,3 @@
-<thinking>...The Youth Sports Portrait Registration form is designed for capturing athlete details, parent contacts, photo package preferences, and other relevant information for a youth sports portrait. The purpose of this form is to provide a structured and user-friendly way to collect necessary data for athlete and parent registration. This form is likely to be used by sports clubs, organizations, or institutions looking to organize and manage athlete participation and portrait events... </thinking>
-
 # Youth Sports Portrait Registration - Help Guide
 
 ## Purpose

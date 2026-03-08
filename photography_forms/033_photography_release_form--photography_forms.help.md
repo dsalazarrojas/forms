@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photography Release Form - Help Guide
 ## Purpose
 This form is intended to collect information and permissions related to a photography shoot. It is used to document the details of the capture, the photographer's and client's details, and the usage rights of the images. This form is used by photographers to ensure they have the necessary permissions and information to use their photos for commercial purposes.

@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a pre-order process, likely for a product launch or event. The purpose of this form is to gather details about the customer's shipping address and order preferences. It appears to be a pre-order form for a product or event called "February Good Hart Matilda Jane" that may include some specific preorder options. The form should be used to collect accurate shipping information, order comments, and preorder type and quantity preferences.
-
-This form does not seem to be a duplicate of other existing forms, and it's focused on a specific event/product preorder process.
-
-Before filling out the form, ensure you are ready to provide accurate and relevant information for the preorder process.
-
-Please note that this form is for pre-order purposes only and does not contain payment information.
-
-It's recommended to double-check the filled information before submission to avoid any potential errors.
-
-The form includes options for confirming email, shipping address, shipping country, and pre-order quantity and type, which should be filled in accordingly.
-
-This form is designed to be completed by individuals or entities that are interested in pre-ordering the specified product/event.
-
-To fill out this form correctly, please follow the next sections for more details.
-</thinking>
-
 # february_good_hart_matilda_jane_pre_order - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a pre-order process, likely for a product launch or event.

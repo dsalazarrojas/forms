@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from individuals who want to sign up for prayers or spiritual guidance. The form is used to capture essential details such as the person's name, email, and phone number, as well as the specific prayer request, location, and any additional notes. This form is not intended for public use, but rather for internal purposes within the organization. Please note that all fields are optional, and users can fill out as much or as little information as they feel comfortable sharing.
 
 </thinking>

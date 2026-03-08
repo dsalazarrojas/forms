@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adopt A Shelter Animal Application - Help Guide
 
 ## Purpose

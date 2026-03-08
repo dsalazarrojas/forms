@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for businesses or individuals looking to purchase fermentation equipment, such as brewers or distillers who need to order specialized gear for their operations. The form is likely to be used by customers or sales representatives in a business-to-business (B2B) setting. 
-
-The purpose of this form is to gather essential information from customers or clients about their order requirements, including their contact details, order specifics, and payment information. 
-
-This form is an AI-generated adaptation of a standard form template and is intended to be a starting point for customization. It may not include all possible fields or questions that a specific business would require for a real-world order form. 
-
-The form's content and structure should be reviewed and updated according to a business's specific needs and branding guidelines.
-
-</thinking>
-
 # Fermentation Equipment Order Form - Help Guide
 ## Purpose
 The Fermentation Equipment Order Form is designed for customers or clients to provide their details and requirements for a specific order of fermentation equipment.

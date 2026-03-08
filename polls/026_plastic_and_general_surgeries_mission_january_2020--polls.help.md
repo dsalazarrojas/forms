@@ -1,13 +1,3 @@
-<thinking>
-This form is a post-mission survey for volunteers who participated in the "Plastic and General Surgeries Mission in January 2020" led by Blanca's House. The purpose of this form is to gather feedback and information about their experience during the mission.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It was generated using AI and is an original adaptation of the topic metadata. You are free to use, modify, and share this form.
-
-Please note that this form does not collect any sensitive or personal information that could be used to identify individuals. The information gathered is for the purpose of improving the mission logistics and procedures.
-
-Before filling out this form, please ensure that you have not already completed it. This will help us avoid duplicates and ensure that your feedback is taken into account.
-</thinking>
-
 # plastic_and_general_surgeries_mission_january_2020 - Help Guide
 ## Purpose
 This form is a post-mission survey for volunteers who participated in the "Plastic and General Surgeries Mission in January 2020" led by Blanca's House.

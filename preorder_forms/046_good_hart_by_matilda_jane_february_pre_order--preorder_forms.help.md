@@ -1,12 +1,3 @@
-<thinking>
-Form purpose: This form is designed to capture pre-orders for the Good Hart By Matilda Jane February pre-order event. The form collects user information, including their name, email, phone number, and other details. The event organizers use this information to prepare for the event and ensure that customers get their pre-ordered products on time.
-
-Internal checks:
-* The form is not a required field for all users to fill out.
-* Users can select multiple options from a dropdown menu.
-* Users can only select one option from a single-select dropdown menu.
-</thinking>
-
 # Good Hart By Matilda Jane February Pre Order - Help Guide
 
 ## Purpose

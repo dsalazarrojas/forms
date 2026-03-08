@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that this form's purpose and fields are well understood by the end-user to prevent miscommunication and errors. This form's purpose is to collect booking details for a photography portrait session. We need to verify that each field is properly filled out without duplication of information. For instance, booking details and session date should not be filled out multiple times, as this could lead to confusion and incorrect data.
-
-To achieve this, we should make sure each field is only filled out once. The form should prevent users from submitting duplicate or contradictory information. For example, if a user selects a location that is not available on the given session date, the system should alert the user to choose an available location. 
-
-We should also consider implementing some sort of data validation to ensure that users input correct data in the form. This could include checking that the session length is a positive number and that the payment method and amount are valid.
-</thinking>
-
 # photography_portrait_session_booking_form - Help Guide
 ## Purpose
 This form is used to collect booking details for a photography portrait session.

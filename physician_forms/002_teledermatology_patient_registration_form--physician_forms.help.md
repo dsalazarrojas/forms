@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended for patients to provide their information for teledermatology services. This is a general form that collects basic information for a patient registration. It does not collect any medical history or sensitive information. The form can be completed online or offline, and the information can be submitted via email or other means. The purpose is to gather necessary information for teledermatology consultations. This form is designed to be completed by a patient, not a doctor or healthcare provider. No medical information should be submitted through this form, except for general information about allergies, medical history, and medications. The patient will need to provide the medical provider's information for further consultations.</thinking>
-
 # Teledermatology Patient Registration Form - Help Guide
 ## Purpose
 This form is a patient registration form for teledermatology services. It is designed to collect basic patient information for teledermatology consultations. The information provided will be used to schedule and conduct a teledermatology appointment.

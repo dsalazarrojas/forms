@@ -1,7 +1,3 @@
-<thinking>
-The goal of the COVID-19 Discharge Form is to collect essential information about a patient's hospitalization and discharge. This form aims to ensure that all necessary details are documented for accurate and efficient patient care. Before starting to fill out the form, make sure you are authorized to access the patient's medical records and that the information you provide is accurate and up-to-date. If you are not sure about any information or have concerns, consult with the patient's attending physician or healthcare team. Ensure that you have all necessary permissions and approvals to fill out this form correctly.
-</thinking>
-
 # COVID 19 Discharge Form - Help Guide
 ## Purpose
 The COVID-19 Discharge Form is a crucial document that helps healthcare providers document the patient's status, treatments, and post-discharge instructions. It ensures accurate and efficient patient care by capturing essential information.

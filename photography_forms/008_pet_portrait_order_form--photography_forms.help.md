@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Portrait Order Form - Help Guide
 ## Purpose
 The purpose of this form is to allow pet owners to submit an order for a pet portrait photo session. The form collects information about the pet's details, the desired photography style, and session information, including the location, time, and session length.

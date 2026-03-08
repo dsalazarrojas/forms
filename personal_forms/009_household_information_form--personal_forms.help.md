@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about the household, including address, type, size, income source, monthly income, annual income, occupation, and occupation description. This form is likely to be used for demographic or statistical purposes, such as market research or social sciences. To ensure that this form is completed correctly, please review the instructions below carefully. Please note that the form is not intended to collect sensitive or personally identifiable information, and all fields are designed to be completed with general information.
-</thinking>
-
 # Household Information Form - Help Guide
 ## Purpose
 The Household Information Form is a collection of questions designed to gather demographic information about the household. This information will help us better understand your household's characteristics and needs.

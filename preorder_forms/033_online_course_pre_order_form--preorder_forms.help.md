@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Online Course Pre-Order Form, which is designed to collect information from users who want to pre-order a course. This form helps to gather essential details such as user contact information, course preferences, and purchase details. It's crucial to ensure that users understand how to fill out the form correctly to avoid errors and provide accurate information. We will aim to create a concise and practical help guide that covers all the necessary details.
-</thinking>
-
 # Online Course Pre Order Form - Help Guide
 ## Purpose
 This form is used to collect pre-order information from users who want to purchase a course. It's essential to fill out this form correctly to ensure that your order is processed smoothly and that you receive the right course materials.

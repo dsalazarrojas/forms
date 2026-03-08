@@ -1,11 +1,3 @@
-<thinking>
-
-To provide a comprehensive user-facing help guide for the "Photoshoot Client Agreement Form", the following fields need to be explained, as per the provided YAML structure:
-
-The form is used to capture important information from a client before a photo shoot. This information includes details about the client's contact information, photography session specifics, and rights and agreements. The goal is to ensure that both the client and photographer are on the same page and understand their roles and responsibilities before proceeding with the shoot.
-
-</thinking>
-
 # Photoshoot Client Agreement Form - Help Guide
 ## Purpose
 This form is used to capture and document crucial information from clients before a photo shoot, ensuring a smooth and successful collaboration between the photographer and the client.

@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Message Your Elected Official" form, ensuring they understand the form's purpose, how to complete it, and what each field means.
-
-The form is designed for users to send messages to their elected officials, facilitating communication and engagement between constituents and their representatives. Users can choose to send messages to a Senator, Congressman, or Mayor, and provide their contact information to help the elected official's office respond. The form is meant to be straightforward, allowing users to easily convey their thoughts, suggestions, or concerns to their elected officials.
-
-Before proceeding, please note that if you have already submitted a message to this elected official, you may not need to fill out this form again. However, if your circumstances have changed or you have new information, it's worth considering filling out the form to provide an update. If you're unsure, feel free to contact the elected official's office directly for clarification.
-
-</thinking>
-
 # Message Your Elected Official - Help Guide
 ## Purpose
 The "Message Your Elected Official" form is a tool for constituents to communicate with their elected officials, enabling them to express their thoughts, suggestions, or concerns. This form helps elected officials stay informed about the needs and interests of their constituents, facilitating more effective representation.

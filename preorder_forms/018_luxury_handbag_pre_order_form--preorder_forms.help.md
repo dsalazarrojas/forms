@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Luxury Handbag Pre Order Form", let's first break down the form's purpose and requirements for completion. This form is meant to collect information from customers who want to pre-order luxury handbags. The form should be simple and straightforward, requiring minimal information from the customer while ensuring that we capture the necessary details for the pre-order process.
-
-Upon examining the form schema, we notice that all fields are optional except for "Phone" which is not required. However, this is likely a mistake as a phone number should be an essential piece of information for delivery and communication purposes. Let's assume that the intention is to make "Phone" required for this form.
-
-The form is split into several pages, each with a specific set of fields. We will break down each field and provide clear explanations for the end-users.
-
-</thinking>
-
 # Luxury Handbag Pre Order Form - Help Guide
 
 ## Purpose

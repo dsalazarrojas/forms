@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form's purpose is to collect information about a patient's medical necessity, which is likely related to obtaining medical insurance coverage or other benefits. The form may be used by healthcare providers or institutions to document a patient's medical needs. This information will help ensure that you provide the most accurate and complete information possible.
-</thinking>
-
 # Letter Of Medical Necessity Form - Help Guide
 ## Purpose
 The Letter of Medical Necessity Form is a document that provides detailed information about a patient's medical necessity, which is required for various medical insurance coverage, treatments, or other benefits.

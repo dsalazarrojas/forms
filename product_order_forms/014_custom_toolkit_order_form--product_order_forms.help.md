@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # custom_toolkit_order_form - Help Guide
 
 ## Purpose

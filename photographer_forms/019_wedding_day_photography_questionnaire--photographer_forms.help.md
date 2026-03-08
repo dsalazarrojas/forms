@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a wedding day photography service, including the category of photography, description, venues, photographer's name and contact details, service type, event date and time, locations, photography style, additional services required, guest number, photography equipment, and any notes or comments from the client. This form is likely used by wedding photographers to gather necessary information for their services.
-</thinking>
-
 # Wedding Day Photography Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to gather details about your wedding day photography service to ensure a smooth and successful experience for both you and your photographer.

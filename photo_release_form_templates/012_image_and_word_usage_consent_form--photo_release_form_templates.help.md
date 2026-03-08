@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent and release permissions for the use of images or words, ensuring that all parties involved are aware of the terms and conditions of their use. This form is used to document the release of content from a releasee to an assignee, and it's essential that the form is filled out accurately and completely to prevent any miscommunication or legal issues. It's also used for internal purposes, so it's crucial to fill it out carefully and thoroughly. Please ensure that you fill out the form accurately and completely, and if you're unsure about any field, please reach out to the relevant personnel for clarification.
-</thinking>
-
 # image_and_word_usage_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent and release permissions for the use of images or words.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from patients and their parents/guardians about their health and medical history. The purpose of this form is to ensure that patients and their families are informed and consenting to any medical treatment or procedure. The form will help healthcare providers understand the patient's background, medical conditions, and allergies before proceeding with treatment.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Vaccine Consent Form - Help Guide
 
 ## Purpose

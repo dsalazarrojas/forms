@@ -1,12 +1,3 @@
-<thinking>
-Internal Note: This form is intended for alumni chapters to re-activate their chapters after they have been inactive for some time. The form helps the national organization understand why the chapter should be reactivated, what events they plan to host, and how they plan to maintain their operations. It's a crucial tool for the national organization to assess the feasibility of re-activating a chapter. Before starting, please ensure that the chapter has been inactive for at least six months and that there are at least 10 alumni in the area who are interested in reactivating the chapter.
-
-This form is not intended for general information collection. Please do not use it for any other purpose.
-
-Please ensure that the information provided is accurate and up-to-date. Incomplete or outdated information may lead to delays or rejections of the reactivation petition.
-
-</thinking>
-
 # Alumni Chapter Reactivation Petition - Help Guide
 ## Purpose
 The Alumni Chapter Reactivation Petition is a form to be completed by alumni chapters that wish to re-activate their chapter. This form will help the national organization understand the chapter's plans and goals for reactivation, ensuring that they meet the necessary requirements and have the support needed for a successful reactivation.

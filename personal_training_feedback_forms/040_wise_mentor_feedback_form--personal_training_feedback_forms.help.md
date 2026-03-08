@@ -1,7 +1,3 @@
-<thinking>
-The WISE Mentor Feedback Form is used to gather feedback from mentees about their experience with their mentors. This form is meant to be completed by the mentee after an interaction with their mentor, and provides an opportunity for the mentee to share their thoughts and insights about their mentor's performance and guidance.
-</thinking>
-
 # WISE Mentor Feedback Form - Help Guide
 ## Purpose
 The WISE Mentor Feedback Form is a tool to collect feedback from mentees about their experiences with their mentors. It helps us to understand what our mentors are doing well and what areas they can improve on.

@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid plagiarism and ensure the form's originality, let's first verify that the form was generated without any existing form platform's proprietary content. After confirming, we can create a helpful guide for the end-users. The form seems to be an original AI-generated creation based on public survey topic metadata, released under the Creative Commons BY 4.0 license, allowing for free modification and use.
-
-</thinking>
-
 # Student Representative Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate a representative for a group or organization, allowing users to provide suggestions for potential candidates. The purpose of this form is to gather information about the nominees' names, characteristics, and relevant details for the selection process.

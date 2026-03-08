@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for performance feedback sessions, which is crucial for evaluating and improving performance. It is used in scenarios where a session is conducted between a booking manager and a reviewer, and a booking manager is responsible for managing the session and the reviewer provides feedback on their performance. This form ensures that all necessary details for the session are recorded, making it easier to monitor and evaluate performance.
-
-This form is used to capture data for performance tracking, which helps in identifying areas of improvement and developing strategies to enhance performance. It also helps in maintaining accurate and up-to-date records of sessions, making it easier to analyze and compare performance over time.
-
-To ensure data accuracy and prevent duplication, this form should only be completed by authorized booking managers and reviewers.
-
-</thinking>
-
 # performance_feedback_session_booking_form - Help Guide
 ## Purpose
 The performance Feedback Session Booking Form is used to collect information for performance feedback sessions between booking managers and reviewers.

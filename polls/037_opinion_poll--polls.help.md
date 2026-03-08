@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect opinions from users on a new product. The purpose of this form is to gather feedback on the product's features, ratings, and overall impression. This information will help us understand how users perceive our product and what we can do to improve it. To ensure accurate and useful feedback, please provide clear and specific comments.
-</thinking>
-
 # opinion_poll - Help Guide
 ## Purpose
 This form is designed to collect opinions from users on a new product. The gathered feedback will help us understand how users perceive our product and identify areas for improvement.

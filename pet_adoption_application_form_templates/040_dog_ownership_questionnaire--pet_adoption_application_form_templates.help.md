@@ -1,8 +1,3 @@
-<thinking>
-To ensure the user is filling out the correct form and to prevent duplication or errors in the pet adoption process, it's essential that the user understands the purpose and requirements of this form. The "dog_ownership_questionnaire" is designed to gather essential information about the dog, its health, and the potential owner's ability to care for it. This form will help the shelter staff assess whether the dog is a good match for the potential owner. To avoid duplication, please ensure that you fill out this form accurately and completely, and do not submit it multiple times.
-
-</thinking>
-
 # dog_ownership_questionnaire - Help Guide
 ## Purpose
 The "dog_ownership_questionnaire" is designed to collect information about your potential new pet. It will help the shelter staff understand your lifestyle, experience, and preferences, which will help determine whether our dog is a good match for you and your family.

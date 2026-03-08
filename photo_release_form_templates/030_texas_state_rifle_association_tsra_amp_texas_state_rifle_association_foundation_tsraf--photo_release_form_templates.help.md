@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a photo release form used by the Texas State Rifle Association and Texas State Rifle Association Foundation. Its purpose is to obtain permission from individuals to use their photos and likenesses. The form may be used for events, activities, or publications associated with the organizations. The fields seem to be standard for photo releases, including a template for the photo release, a waiver, and a release of liability. The form's structure and fields seem to be designed for a straightforward and simple process to obtain photo releases. There does not seem to be any duplication or redundancy in the fields provided.
-</thinking>
-
 # texas_state_rifle_association_tsra_amp_texas_state_rifle_association_foundation_tsraf - Help Guide
 ## Purpose
 The Texas State Rifle Association and Texas State Rifle Association Foundation photo release form is designed to obtain permission from individuals to use their photos and likenesses. This form is typically used for events, activities, or publications associated with the organizations.

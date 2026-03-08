@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to capture a patient's consent for vaccination. The form ensures that the patient is aware of the risks and benefits of the vaccine and provides an opportunity for them to share any medical history that may be relevant to the administration of the vaccine. The form also allows the patient to provide information about their allergies and the location where the vaccination will take place. This form is intended to be completed by a patient before receiving a vaccination.
- 
-To avoid duplication, this form should only be used for patients who have not previously completed a vaccination consent form for the same vaccination.
- 
-This form should be completed by the patient or their guardian/parent (in the case of minors) in the presence of a medical practitioner.
- 
-</thinking>
-
 # Pharmacy Vaccine Consent Form - Help Guide
 ## Purpose
 The Pharmacy Vaccine Consent Form is a document that captures a patient's consent for vaccination, ensuring they are aware of the risks and benefits of the vaccine and providing an opportunity for them to share any relevant medical history.

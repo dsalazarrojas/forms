@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for collecting and recording data from backflow tests performed on plumbing fixtures. The form is meant to capture information about the tester, the device being tested, and the test results. This guide will help end-users understand the purpose and usage of each field in the form.
-
-</thinking>
-
 # Backflow Test Form - Help Guide
 ## Purpose
 This form is used to record backflow test data from certified testers and their associated tests.

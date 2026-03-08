@@ -1,18 +1,3 @@
-<thinking>
-This is a technical exercise that requires careful attention to detail and a deep understanding of the form's purpose and functionality. Before proceeding, let's analyze the form's purpose and structure.
-
-The Christmas Mass Survey form appears to be designed to gather feedback from attendees of a Christmas mass event. The form is divided into several sections, each focusing on different aspects of the mass experience. The purpose of this form is likely to collect data on various factors such as the attendee's overall satisfaction, music quality, homily rating, and logistics.
-
-The form includes a mix of select_one, select_multiple, and text fields, which suggests that the form is intended to capture both quantitative and qualitative feedback. The required fields are marked, indicating that respondents are expected to provide answers for these sections.
-
-Upon reviewing the fields, I notice that some of them are marked as optional, which may indicate that these sections are intended for supplementary information or to allow respondents to provide more detailed feedback. However, it's essential to ensure that respondents understand the purpose and expectation behind each field to provide accurate and relevant data.
-
-To avoid duplication of effort, it's likely that this form will be used in conjunction with other data collection methods, such as in-person surveys or focus groups. The form's structure and content should be designed to complement these methods and provide a comprehensive understanding of the mass event's success.
-
-The form's content and structure should be clear, concise, and easy to follow. Each field should have a specific purpose and explanation to guide respondents in providing accurate and relevant feedback.
-
-Now, let's proceed with creating the user-facing help guide for the Christmas Mass Survey form.</thinking>
-
 # Christmas Mass Survey - Help Guide
 ## Purpose
 The Christmas Mass Survey form is designed to gather feedback from attendees of the Christmas mass event. This form helps us understand your overall experience, satisfaction, and suggestions for improvement. Your input is invaluable in helping us plan and organize future events.

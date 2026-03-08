@@ -1,22 +1,3 @@
-<thinking>
-A patient declaration form is a document used to gather information from patients about their medical condition, treatment, and insurance information. This form is used to collect data from patients for medical purposes, such as insurance claims or medical research. It is essential that the form is completed accurately and thoroughly to ensure that the patient's information is up-to-date and reliable. 
-
-Before filling out this form, please ensure that you have the necessary information and consent to complete it. If you are unsure about any field, please ask your healthcare provider for clarification.
-
-This form is designed to collect the following information:
-- Patient name and contact information
-- Date of birth
-- Medical condition(s) (if applicable)
-- Consent given for treatment and medical care
-- Date and duration of treatment
-- Medical provider information
-- Medical facility information
-- Patient signature and date of signature
-
-Please fill out the form carefully and accurately, and make sure to ask your healthcare provider if you have any questions or concerns about any field.
-
-</thinking>
-
 # patient-declaration-form - Help Guide
 ## Purpose
 The patient declaration form is used to collect information from patients about their medical condition, treatment, and insurance information for medical purposes.

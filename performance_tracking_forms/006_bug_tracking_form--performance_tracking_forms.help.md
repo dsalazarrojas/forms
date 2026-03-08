@@ -1,13 +1,3 @@
-<thinking>
-
-The Bug Tracking Form is used for reporting and tracking bugs found in software applications. This form helps to gather necessary information about the bug, including details about the issue, its severity, status, and any relevant environment information. The form is designed to be completed by the person who found the bug and provides a structured way to report the issue, allowing for efficient tracking and resolution.
-
-This form is not meant to be a comprehensive bug report, but rather a starting point for further investigation and discussion. It should only be used for reporting bugs, not for other types of issues or requests.
-
-It is essential to fill out this form accurately and thoroughly, as it will aid in the swift and efficient resolution of the bug.
-
-</thinking>
-
 # Bug Tracking Form - Help Guide
 ## Purpose
 The Bug Tracking Form is used for reporting and tracking bugs found in software applications.

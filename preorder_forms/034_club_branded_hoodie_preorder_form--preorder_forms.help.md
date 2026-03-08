@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to preorder branded hoodies for a club or organization. The purpose of this form is to collect information from customers regarding their personal details, hoodie preferences, and order information. This form helps to streamline the preorder process and ensures that the correct information is collected for production and delivery of the preordered hoodies.
-</thinking>
-
 # Club Branded Hoodie Preorder Form - Help Guide
 ## Purpose
 The Club Branded Hoodie Preorder Form is designed to collect information from customers who want to preorder branded hoodies for a club or organization. This form helps to gather essential details such as customer information, hoodie preferences, and order specifics.

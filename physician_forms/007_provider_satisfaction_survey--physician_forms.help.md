@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to measure the satisfaction of healthcare providers (e.g., doctors) on various aspects of their work experience. The form aims to understand their needs, challenges, and opinions on specific questions. It is likely used for quality improvement purposes or to inform policy decisions within the healthcare sector. Before filling out this form, please ensure that the questions are not already answered or being addressed in another related form. This will help to prevent duplication of efforts and ensure that your input is valuable and relevant.
-</thinking>
-
 # provider_satisfaction_survey - Help Guide
 ## Purpose
 This form is a survey designed to measure the satisfaction of healthcare providers on their work experiences.

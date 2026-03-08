@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to be filled out by physicians who work in various settings. Its purpose is to collect feedback on their level of satisfaction with different aspects of their job, including job satisfaction, work-life balance, job security, job involvement, job advancement, work environment, support from colleagues, communication with superiors, communication with peers, and overall satisfaction. The form will help identify areas where physicians are satisfied and areas where they may need improvement or support.
-This form does not duplicate any existing surveys or forms, and its questions are based on general survey topic metadata. Please note that this form does not contain any proprietary content or use any form platforms as inspiration.
-</thinking>
-
 # Physician Satisfaction Survey - Help Guide
 ## Purpose
 This form collects feedback on the level of satisfaction of physicians with their job and work environment. It is designed to understand their perceptions and experiences in a variety of areas and help identify potential areas for improvement.

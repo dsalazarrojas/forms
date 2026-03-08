@@ -1,10 +1,3 @@
-<thinking>
-The Preparticipation Physical Evaluation Form is designed to gather information from patients about their medical history, current health status, and past injuries. This form helps healthcare professionals assess a patient's ability to participate in a specific physical activity or sport, and to identify any potential health risks or concerns. The form is typically completed by the patient before undergoing a medical evaluation or prior to participating in a physical activity.
-
-To ensure accuracy, please note that each section of the form is meant to be filled out in conjunction with the patient's medical history and current health status.
-
-</thinking>
-
 # Preparticipation Physical Evaluation Form - Help Guide
 ## Purpose
 The Preparticipation Physical Evaluation Form is used to gather information about a patient's medical history, current health status, and past injuries to assess their ability to participate in a physical activity or sport.

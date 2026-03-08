@@ -1,6 +1,3 @@
-<thinking>
-This form is used for creating follow-up visits for patients, typically after an initial visit or treatment. The form is designed to gather information from the patient and healthcare provider to ensure that all necessary details are captured for follow-up purposes. This form is likely to be filled out by a healthcare professional, such as a doctor or nurse, as part of their routine follow-up visits. It is recommended to use this form for any patient who requires follow-up visits after an initial treatment or visit. Please ensure that this form is used in the context of a medical setting, and the information gathered is kept confidential and secure.</thinking>
-
 # follow_up_visit_form - Help Guide
 ## Purpose
 This form is designed to capture information for follow-up visits with patients after an initial visit or treatment.

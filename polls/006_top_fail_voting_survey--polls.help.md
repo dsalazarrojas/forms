@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear and the fields are correctly labeled for the users. Let's start by examining the provided YAML form structure. It seems like this form is designed to conduct a "Top Fail Voting Survey", which could be a poll or a voting system used to identify common failures or shortcomings in a particular area or organization. The survey appears to ask users to rate the severity of failures and provide explanations for those failures, with multiple options for categorizing the failures.
-
-Each field seems to be designed for users to input a brief description of a failure and then provide more specific details about it, such as its severity, type, or explanation. The "Fail Type" fields seem to be asking users to categorize each failure as "Yes" or "No". Given the structure, it seems like the survey is asking users to identify and rate common failures or shortcomings in a particular area or organization.
-
-To avoid duplication, we should ensure that users are not asked to input redundant information, and the form should only ask for necessary and relevant information.</thinking>
-
 # Top Fail Voting Survey - Help Guide
 ## Purpose
 This form is designed to collect information about common failures or shortcomings in a particular area or organization. It is meant to help identify and rate these failures, providing a better understanding of areas that need improvement.

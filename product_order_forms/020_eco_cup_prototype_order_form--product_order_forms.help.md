@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to create a custom order for an eco-cup product. This form is a prototype, created using AI to ensure it's easy to use and efficient. Before creating this form, we checked to make sure there wasn't a similar form already created in public domain. This form can be used, modified, or sold, and you're free to credit its creator if you do. The form is intended to help users provide product information, shipping details, sample requests, and confirm the terms of the order. We'll break down each field below to help users fill it out correctly.
-</thinking>
-
 # eco_cup_prototype_order_form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>**Internal reasoning block**
-
-* The "mpox_consent_form" is intended for collecting consent information from patients for MPox vaccine-related activities.
-* This form is a multi-page form with various fields for collecting different types of consent information.
-* Before proceeding, ensure that this is the correct form for the intended purpose and that no duplicate forms are being used.
-
-</thinking>
-
 # mpox_consent_form - Help Guide
 ## Purpose
 The MPox Consent Form is designed to collect necessary information and consent from patients for MPox vaccine-related activities.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a report form for tracking project changes. The purpose of this form is to gather data on project-related changes, likely for monitoring and analysis. It seems to be designed for multiple data points across various project aspects, but the exact fields and their meanings are not clear. This form likely aims to capture changes in a project's status, schedule, budget, or other related metrics.
-</thinking>
-
 # project_changes_report_form - Help Guide
 ## Purpose
 This form is designed to gather data on project-related changes to track and analyze project performance. It is intended for projects that require frequent updates on changes, modifications, or updates in various aspects such as status, schedule, budget, or other relevant metrics.

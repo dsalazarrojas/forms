@@ -1,11 +1,3 @@
-<thinking>
-The "Childrens Health Questionnaire" form is designed to collect information about a child's health status. This form is typically used when a child is about to receive medical treatment or care, and the healthcare provider needs to assess the child's health history and any potential risks or allergies. The form is intended to be completed by a parent or guardian of the child.
-
-Before starting this form, please ensure that you have the necessary permissions and information to complete it accurately. If the child has any existing medical conditions or allergies, please provide as much detail as possible. If you're unsure about any information, please answer based on your best knowledge and indicate that you're unsure.
-
-This form is designed to be completed in a few steps, and each section is intended to gather specific information about the child's health status.
-</thinking>
-
 # Childrens Health Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a child's health status, including their contact information, medical history, and any potential risks or allergies.

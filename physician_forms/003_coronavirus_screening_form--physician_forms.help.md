@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from patients regarding their health status in relation to COVID-19. The form will be used to screen patients for potential exposure to the virus, identify symptoms, and gather information on their medical history. The form will help healthcare professionals quickly and accurately assess patients' conditions and provide necessary care.
-
-Before proceeding, please ensure that you have not already created a similar form with this same title and content, as it will cause duplication and potentially create confusion. This form is based on public survey topic metadata and is not affiliated with any form platform or proprietary content.
-
-</thinking>
-
 # Coronavirus_screening_form - Help Guide
 ## Purpose
 This form is designed to collect patient information and screen them for potential exposure to COVID-19. It is essential to provide healthcare professionals with the necessary data to make informed decisions.

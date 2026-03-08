@@ -1,8 +1,3 @@
-<thinking>
-To ensure that the "Performance Metrics Release Form" is filled out correctly and relevant, please note that this form is intended to collect data on employee performance and project outcomes. The form should only be filled out if there is new performance data to be released or if there are updates on existing projects. It is not intended for general employee information or project status updates. Please review the form carefully to ensure that all necessary information is collected.
-
-</thinking>
-
 # Performance Metrics Release Form - Help Guide
 ## Purpose
 The Performance Metrics Release Form is used to collect new performance data or updates on existing projects.

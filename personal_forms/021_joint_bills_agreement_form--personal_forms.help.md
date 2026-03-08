@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for managing joint bills between flatmates or roommates, where each user can provide their information, details about the bills, the division of expenses, and other relevant details. This form is probably used by landlords or property managers to collect information from roommates to track expenses and manage disputes. To avoid duplication, users should not create multiple forms for the same roommates or bills.
-
-</thinking>
-
 # Joint Bills Agreement Form - Help Guide
 ## Purpose
 The Joint Bills Agreement Form is a document used for managing joint bills between flatmates or roommates. It collects information about the users, the division of expenses, and other relevant details.

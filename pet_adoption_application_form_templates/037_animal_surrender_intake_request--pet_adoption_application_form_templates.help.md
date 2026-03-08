@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool to gather information for animal surrenders. Before completing this form, please ensure you have reviewed the animal's details and are providing accurate information. This form is not a guarantee of acceptance, and the animal's intake is subject to approval and availability. Please fill out the form thoroughly and honestly, and be prepared to provide additional information or clarification as needed.
-</thinking>
-
 # Animal Surrender Intake Request - Help Guide
 ## Purpose
 This form is designed to collect information from owners surrendering their animals to our organization. This information will help us understand the animal's history, behavior, and needs, ensuring a smooth and safe transition for the animal.

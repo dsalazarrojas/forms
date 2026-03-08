@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a prescription, which is a crucial part of medical treatment. This form will help physicians gather necessary information from patients and other healthcare professionals for prescribing the required medication. Before filling out this form, ensure that you have reviewed the patient's medical history and are aware of any allergies or contraindications. Also, please note that this form should not be used for duplicate or unnecessary requests.
-</thinking>
-
 # Prescription Request Form - Help Guide
 ## Purpose
 The Prescription Request Form is a standard form used by physicians to request a prescription for their patients. It gathers essential information from the patient and the healthcare professional requesting the prescription.

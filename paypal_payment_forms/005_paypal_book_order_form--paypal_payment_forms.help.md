@@ -1,7 +1,3 @@
-<thinking>
-The form "paypal_book_order_form" is designed to collect information from customers about their book orders. The form is likely used to process book orders through PayPal, and it should only be used for this specific purpose to avoid confusion. Please make sure to use this form correctly and consistently to ensure accurate and secure transactions.
-</thinking>
-
 # paypal_book_order_form - Help Guide
 ## Purpose
 The "paypal_book_order_form" is a form used to collect information from customers about their book orders for processing through PayPal.

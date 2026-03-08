@@ -1,11 +1,3 @@
-<thinking>
-This form is used for evaluating the performance of Account Managers, assessing their skills, achievements, and goals. This form is designed to be completed by a reviewer or assessor to provide a structured evaluation of an Account Manager's performance over a specific period. The form is divided into two main sections: "Employee Information" and "Performance Ratings" which cover various aspects of an Account Manager's job, including client relationship management, revenue generation, and overall performance. The form requires the assessor to provide specific ratings and comments for each of the assessed parameters, allowing for a comprehensive evaluation of the Account Manager's performance.
-
-This form is used to evaluate the performance of Account Managers in a specific period, typically one of the four quarters of a year. The assessor must select the appropriate period from the options provided, and then complete the form by providing ratings and comments for each parameter.
-
-Please note that this form is designed to be completed by a reviewer or assessor, not the Account Manager being evaluated. The form is meant to help the reviewer or assessor assess the performance of the Account Manager and provide a structured evaluation of their skills and achievements.
-</thinking>
-
 # Account Manager Assessment - Help Guide
 ## Purpose
 The Account Manager Assessment form is used to evaluate the performance of Account Managers in a specific period, covering various aspects of their job.

@@ -1,25 +1,3 @@
-<thinking>
-This form is for collecting feedback and order information for customers who have purchased units from a torque feedback product or service. The purpose of this form is to help customers provide detailed information about their purchase, including the product name, order details, and payment information. This form should only be completed by customers who have purchased units and are providing feedback on their purchase experience.
-
-To complete this form, please follow these steps:
-
-*   Enter the name of the product you purchased.
-*   Enter your name and contact information.
-*   Provide a detailed description of your order.
-*   Specify your delivery preferences.
-*   Enter your email address.
-*   Enter your phone number.
-*   Enter the date you made the purchase.
-*   Enter the total cost of the purchase.
-*   Provide any payment details.
-*   Specify how you made the payment.
-*   Indicate the status of your payment.
-*   Provide any comments or feedback about your experience.
-*   Enter any notes or comments from the customer.
-*   Specify if the purchase was for 'Yes' or 'No' (i.e. personal or business use).
-*   Enter the reason for the purchase.
-</thinking>
-
 # Torque Feedback Unit Order Form - Help Guide
 ## Purpose
 The Torque Feedback Unit Order Form is used to collect detailed information about customer purchases and feedback.

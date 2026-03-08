@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Participant Performance Assessment - Help Guide
 ## Purpose
 The Participant Performance Assessment form is used to evaluate the performance of participants in various activities, events, or programs. It helps assess their skills, progress, and overall performance. This form is typically used by facilitators, coaches, or instructors to gather data on participant's abilities and provide feedback for improvement.

@@ -1,6 +1,3 @@
-<thinking>
-This is a form for customers to pre-order season tickets, providing details on ticket quantity, price, and payment terms. It seems like the form is for an organization selling season tickets, possibly for a sports event. I will make sure to explain each field in a clear and concise way to help users complete the form correctly.</thinking>
-
 # Season Tickets Pre Order Form - Help Guide
 ## Purpose
 The Season Tickets Pre Order Form is designed to help customers pre-order season tickets for a sports event. Please fill out the form with the required information to place your order.

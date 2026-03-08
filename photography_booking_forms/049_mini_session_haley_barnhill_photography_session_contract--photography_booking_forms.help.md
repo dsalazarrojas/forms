@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mini Session Haley Barnhill Photography Session Contract - Help Guide
 ## Purpose
 This form is for booking a mini or full photography session with Haley Barnhill. The information provided in this form will help Haley Barnhill Photography to understand your needs and preferences for the session, ensuring a smooth and enjoyable experience for both you and your photographer.

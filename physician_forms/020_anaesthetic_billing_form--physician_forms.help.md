@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to collect details for billing purposes after an anesthesiology procedure. This information will be used by administrators to track and process payments for services rendered by the anesthesiology department.
-
-The purpose of this form is to gather accurate and comprehensive billing information, and it is a critical document for insurance claims and reimbursement. The form should only be filled out by authorized personnel, as incorrect or incomplete submissions can lead to delays or errors in processing payments.
-
-Please note that some fields are optional and can be filled out only if necessary. However, the required fields must be completed to ensure that the form is submitted correctly and can be properly processed.
-
-When filling out this form, ensure that you provide accurate and clear information in all fields. This will save time and reduce errors in processing your request.
-
-Also, please ensure that you choose the correct insurance provider from the options listed in the Insurance Provider field.
-
-</thinking>
-
 # Anaesthetic Billing Form - Help Guide
 ## Purpose
 The Anaesthetic Billing Form is used to collect details for billing purposes after an anesthesiology procedure. This form is essential for tracking and processing payments accurately.

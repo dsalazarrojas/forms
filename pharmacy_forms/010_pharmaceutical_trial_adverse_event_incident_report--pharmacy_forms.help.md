@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about adverse events that have occurred during pharmaceutical trials. The form is designed to gather data on the nature of the event, the treatment administered, the action taken, and other relevant details. This information will help in assessing the safety and efficacy of the trial.
-To ensure accuracy and consistency in reporting, it's essential to follow the guidelines outlined in this help guide.
-</thinking>
-
 # Pharmaceutical Trial Adverse Event Incident Report - Help Guide
 ## Purpose
 The Pharmaceutical Trial Adverse Event Incident Report form is used to collect information about adverse events that have occurred during pharmaceutical trials. This form helps in gathering data on the nature of the event, the treatment administered, the action taken, and other relevant details to assess the safety and efficacy of the trial.

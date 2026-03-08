@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Fitness Equipment Resource Guide - Help Guide
 
 ## Purpose

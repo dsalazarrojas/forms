@@ -1,8 +1,3 @@
-<thinking>
-We will be creating a help guide for the "Motor Vehicle Accident Report Form" to assist end-users in understanding its purpose, completing it, and understanding each field's meaning.
-The form is used to document and report motor vehicle accidents, providing essential information about the incident, involved vehicles, and witnesses. This guide will cover all fields on the form.
-</thinking>
-
 # Motor Vehicle Accident Report Form - Help Guide
 ## Purpose
 The Motor Vehicle Accident Report Form is used to document and report motor vehicle accidents, providing essential information about the incident, involved vehicles, and witnesses. This form will help gather details about the accident, including the type of vehicle involved, the date and time of the accident, the location of the accident, and the witnesses involved.

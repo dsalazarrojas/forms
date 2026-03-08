@@ -1,5 +1,3 @@
-<thinking>...This form is intended for tracking progress and feedback on stage assessments. It's meant to be completed by various stakeholders, including trainers, managers, educators, and others. The form asks for ratings and comments on the participant's performance, as well as other relevant details such as participant information and stage-specific data. This form is likely used for performance tracking and improvement purposes within an organization or training program. Please ensure you have the necessary permissions to access and complete this form. If you've completed this form before, please ensure you're not resubmitting unnecessary data. If you're still unsure, please reach out to your supervisor or program administrator for clarification. This form has been designed to be user-friendly and efficient, with clear and concise fields for easy understanding and completion... </thinking>
-
 # Stage Progress Assessment - Help Guide
 ## Purpose
 The Stage Progress Assessment form is designed to track and evaluate participant's progress and performance at different stages of a program or training.

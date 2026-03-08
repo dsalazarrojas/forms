@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to track their household budget. The purpose of this form is to gather information about the household's income, expenses, and financial goals. This form is likely used by individuals or families who want to monitor and manage their household finances effectively. This form does not appear to be intended for public use, as it asks for very detailed and specific information about the user's personal finances. It is also not clear if this form is intended for one-time use or if it is meant to be used repeatedly. The form includes multiple text fields for users to add additional notes and comments.
-</thinking>
-
 # Household Budget Tracker - Help Guide
 ## Purpose
 The Household Budget Tracker form is designed to help users monitor and manage their household's income, expenses, and financial goals.

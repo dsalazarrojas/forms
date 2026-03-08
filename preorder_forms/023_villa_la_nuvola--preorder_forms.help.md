@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Villa La Nuvola - Help Guide
 ## Purpose
 The Villa La Nuvola form is a tool designed to help users manage and track information related to the "Villa La Nuvola" entity. It allows users to input and store data in a structured way.

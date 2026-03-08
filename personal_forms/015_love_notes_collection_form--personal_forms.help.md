@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect love notes, messages, and memories from users about their significant other. The purpose of this form is to help users express their feelings and thoughts about their partner, allowing them to create a personalized and meaningful collection of love notes. This form is likely to be used by couples, partners, or romantic partners in a relationship. It's possible that the form could be used in a personal or social context, such as a wedding, anniversary, or romantic getaway.
-
-To ensure that the form serves its purpose, it's essential to prevent non-duplication and ensure that users understand the form's intent. This guide will help users complete the form correctly and effectively.
-</thinking>
-
 # Love Notes Collection Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to track student behavior and attendance in an educational setting. The purpose of this form is to collect data on a student's general behavior, attendance, and performance, as well as provide a space for teachers to leave notes and feedback. This form should only be used for tracking student behavior and attendance in a specific class or school, and should not be used for other purposes.
 
 # Student Behavior Tracking Form - Help Guide

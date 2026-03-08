@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a collection of questions aimed at gathering end-users' opinions about the usage and needs of digital media libraries. The purpose of this form seems to be to gather feedback from users about their usage habits, satisfaction, and expectations from digital media libraries. It may be used in a library setting to understand user needs and improve service offerings. This form is likely used for internal surveys or research purposes. There is a mix of select multiple and text fields, indicating that the form gathers both categorical and free-form feedback. Each field seems to focus on a specific aspect of digital media libraries, such as usage, satisfaction, and services offered. The form does not appear to be for public submission, as many fields are not required, suggesting that it's for internal use only. This form likely feeds into a larger database or report for analysis.
-</thinking>
-
 # library_digital_media_interest_poll - Help Guide
 ## Purpose
 This form is designed to gather user feedback on their usage and needs of digital media libraries in a library setting. The feedback gathered will help improve the services offered by the library.

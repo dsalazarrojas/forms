@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect comprehensive information from patients about their health status, medical history, and other relevant details. The purpose of the form is to facilitate accurate and efficient documentation of patient health information, enabling healthcare providers to make informed decisions about treatment and care. The form includes various sections to gather information about physical and mental health, medical history, patient details, and other relevant factors.
-
-This form is meant for patient intake and should not be used for other purposes. If you are unsure about the purpose of this form or its application, please contact your healthcare provider or the relevant authority for clarification.
-</thinking>
-
 # Patient Health Questionnaire PHQ9 - Help Guide
 
 ## Purpose

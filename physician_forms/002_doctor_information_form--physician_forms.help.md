@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect basic information about physicians, including their first name, last name, title, address, city, state, zip, email, and phone number. This information will be used to update the database with accurate and up-to-date information about the physicians. 
-
-The form is a simple text input form with 8 fields. The purpose of this form is to provide a way for physicians to update their own information and for administrators to easily collect and store this information. 
-
-Before proceeding, please ensure that you have the necessary permissions and authorizations to access and update the database with this information. 
-
-</thinking>
-
 # Doctor Information Form - Help Guide
 
 ## Purpose

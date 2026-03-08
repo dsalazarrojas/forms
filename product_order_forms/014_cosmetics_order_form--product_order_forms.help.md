@@ -1,12 +1,3 @@
-<thinking>
-The Cosmetics Order Form is designed to allow customers to place orders for cosmetic products. This form is intended for use in a retail setting, such as a store or online platform, where customers can select and customize their products. 
-
-The form includes fields to capture information on the customer's order preferences, including whether they want to purchase products, their customer information, shipping address, order total, payment method, shipping method, and quantity of products.
-
-This guide will help customers understand each field's purpose and how to complete the form accurately.
-
-</thinking>
-
 # Cosmetics Order Form - Help Guide
 ## Purpose
 The Cosmetics Order Form is a tool for customers to place orders for cosmetic products. To place an order, follow these steps.

@@ -1,18 +1,3 @@
-<thinking> 
-This form is designed to capture relevant customer information for the purpose of renting shipping pallets. 
-The form will help the shipping company understand the needs of the customer, 
-including their delivery details and rental period. 
-It appears that the form is a one-page form with 25 fields. 
-The form is intended to be filled out by the customer, and the required fields are likely to be marked as such. 
-
-Please note that the form fields appear to be quite extensive and cover a wide range of topics. 
-It may be beneficial to consider breaking the form into multiple pages to improve the user experience. 
-Additionally, some field labels seem quite generic and could be improved for clarity. 
-For example, "Notes" could be renamed to "Additional Information" or "Special Instructions". 
-
-The following is a step-by-step help guide for this form: 
-</thinking>
-
 # Shipping Pallet Rental Order Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-A Theme Park Image Release Form is used to collect information from event guests to obtain their permission to use their images and videos taken by park staff or authorized photographers. 
-This form ensures that guests are aware of and understand how their images will be used. This form may be required for events where photography is part of the event experience. 
-The form is designed to collect guest information, event details, and photo release options for use by the event organizers. The form's content should not be used to solicit sensitive or personal information without proper justification and authorization. 
-Please verify that this form meets your organization's data collection and privacy policies before sharing with guests. 
-</thinking>
-
 # Theme Park Image Release Form - Help Guide
 ## Purpose
 This form is used to obtain guests' consent for the use of their images taken during events held in the theme park. The form asks for basic guest information, event details, and photo release options to ensure that guests are aware of how their images will be used.

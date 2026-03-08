@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information about participants' concerns and feedback comments related to the peer feedback process. This form is used to understand the concerns and comments from participants, which will help in improving the peer feedback process. It's essential to fill out this form to provide valuable insights and suggestions for the peer feedback process.
-</thinking>
-
 # Online Peer Feedback Sharing Consent Form - Help Guide
 ## Purpose
 This form is used to collect participant information and feedback for the peer feedback process. It's essential to fill out this form to help us understand your concerns and comments.

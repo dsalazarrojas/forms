@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to help users track their personal finances by inputting various financial metrics such as income, expenses, and other related categories. This form is likely used for financial planning, budgeting, or reporting.
-To prevent duplication, this form should only be completed once a user has already started tracking their finances using this form. If the user has already completed this form, it is recommended to review and update their previous responses rather than starting from scratch.
-</thinking>
-
 # personal_finance_tracker - Help Guide
 ## Purpose
 The personal finance tracker form is designed to help users monitor and manage their income and expenses over time.

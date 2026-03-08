@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pharmaceutical Drug Release Form - Help Guide
 ## Purpose
 This form is used to document the release of a pharmaceutical drug to a patient. It captures essential information about the patient, medication, and release details to ensure accurate and safe drug administration.

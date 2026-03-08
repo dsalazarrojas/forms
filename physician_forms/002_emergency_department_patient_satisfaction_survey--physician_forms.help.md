@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect feedback from patients visiting the emergency department to understand their overall experience and satisfaction with the quality of care they received. The goal of this form is to gather information that can be used to improve the emergency department's services and provide better care to future patients.
-
-The form is divided into sections that ask about the overall quality of care, the nature of the encounter with staff, communication with doctors and nurses, and other aspects of the patient's experience. Some sections are required to be completed, while others are optional.
-
-The form is meant to be completed by patients after they have visited the emergency department, and the data collected will help to identify areas of improvement and provide insights to the department's staff.
-</thinking>
-
 # Emergency Department Patient Satisfaction Survey - Help Guide
 ## Purpose
 The emergency department patient satisfaction survey is a tool to collect feedback from patients about their experience in the emergency department. The form is designed to gather information on various aspects of care, including the quality of care, communication with staff, and overall experience.

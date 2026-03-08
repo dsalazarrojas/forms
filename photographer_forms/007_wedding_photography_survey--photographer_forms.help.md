@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather information about a wedding and its details, including venue, date, time, guests, budget, location, and photographer contact information. The purpose of this form is to help wedding planners or coordinators collect relevant data about the wedding event. 
-
-The following guide will walk you through each field of the form to ensure that users understand what is required and what is expected from them. 
-
-Before filling out the form, ensure that you have all the necessary information about the wedding at hand. This includes the venue where the wedding will take place, the date and time of the event, the number of guests, the budget for the wedding, and the contact information of the photographer handling the event. 
-
-The form is divided into multiple sections, and each field should be filled out with the corresponding information. If any of the fields are not applicable or not known, please indicate so in the field. 
-
-This guide will help you navigate the form smoothly and accurately. 
-
-</thinking>
-
 # Wedding Photography Survey - Help Guide
 ## Purpose
 The Wedding Photography Survey form is a tool used to collect and record essential details about a wedding event, allowing planners and coordinators to better understand the scope and requirements of the event. The form is designed to be completed by individuals involved in the wedding planning process or anyone responsible for coordinating the event.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about incidents that occur within the church community. The purpose of this form is to collect data on reported incidents, including the details of what happened, the individuals involved, and the response taken. The data collected will be used to analyze and identify potential issues, improve incident response procedures, and provide support to those affected. 
-
-Before filling out this form, please ensure that you are reporting an incident that has not been reported previously. If you are unsure or have already reported the incident, please do not fill out this form.
-
-</thinking>
-
 # Church Incident Report Form - Help Guide
 ## Purpose
 The Church Incident Report Form is designed to collect information about incidents that occur within the church community. This data will be used to analyze and identify potential issues, improve incident response procedures, and provide support to those affected.

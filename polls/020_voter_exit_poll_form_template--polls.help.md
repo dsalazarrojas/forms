@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect data on the views and opinions of individuals on various aspects of their personal and political lives. This includes their occupation, income, voter engagement, social media usage, political ideology, and more. The form is designed to gather information on their trust in government, participation in online activities, and opinions on the biggest challenges facing the country.
-
-When designing this form, the developer has taken into account the importance of understanding the complexities of modern society and the impact of technology on civic engagement.
-
-Please note that the form is a poll template, and its purpose is to collect anonymous, unbiased data. The information collected will be used for research and analysis purposes only, and all personal data will be kept confidential.
-
-Before proceeding, please make sure you have reviewed the form carefully and understand each question and its implications. If you have any concerns or questions, please do not hesitate to reach out to the form administrators.</thinking>
-
 # Voter Exit Poll Form Template - Help Guide
 ## Purpose
 

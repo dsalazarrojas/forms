@@ -1,12 +1,3 @@
-<thinking>
-# This help guide is intended to assist users in completing the Pet Photography Contact Form.
-# This form is designed to collect contact information and preferences for pet photography sessions.
-# Please ensure you have thoroughly read through this guide before attempting to complete the form.
-# This form is meant to be used for general purposes and not for commercial use without explicit permission.
-# The form has been created to gather information about pet owners' preferences, client details, and pet-related data for photography services.
-# The following guide explains each field in the form and provides a step-by-step process to fill it out.
-</thinking>
-
 # Pet Photography Contact Form - Help Guide
 ## Purpose
 The Pet Photography Contact Form is designed to collect information from pet owners who are interested in photography services for their pets. This form is meant to gather details about the pet, the owner's preferences, and contact information to schedule a photography session.

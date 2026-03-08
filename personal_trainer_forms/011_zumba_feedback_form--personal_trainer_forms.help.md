@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about their Zumba class experience. The purpose of this form is to gather information about the instructor, class they attended, date and time of the class, their feedback, any additional notes they may have, their email address, and their phone number. This form is intended for internal use within the organization and will not be shared with external parties. 
-
-Before completing this form, please ensure that you have attended a Zumba class and are providing feedback for the specific class you attended. If you have already submitted feedback for the same class, please do not resubmit as it may be considered duplicate feedback.
-
-</thinking>
-
 # zumba_feedback_form - Help Guide
 ## Purpose
 The zumba_feedback_form is designed to collect feedback from users about their Zumba class experience.

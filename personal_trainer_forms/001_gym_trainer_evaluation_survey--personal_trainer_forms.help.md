@@ -1,15 +1,3 @@
-<thinking>
-
-The "gym_trainer_evaluation_survey" is designed to assess an individual's experience with a particular gym trainer, covering aspects such as overall satisfaction, communication, professionalism, trainer proficiency, motivation, and continuous improvement. This form aims to provide valuable insights for gym management to evaluate the effectiveness of their trainers and make informed decisions for improvement.
-
-The purpose of this form is not only to gather feedback but also to promote a culture of self-awareness and accountability within the gym's staff, allowing them to reflect on their performance and strive for better results.
-
-This form is not intended to be a one-time assessment but rather a recurring process that can be used to monitor changes over time. The questions are designed to be straightforward and easy to understand, ensuring that both trainers and gym management receive actionable feedback.
-
-To confirm that the form is relevant and not a duplicate, it is recommended that a trainer evaluation survey is conducted at the beginning of a new training program or after significant changes in the training approach, such as a change in the training staff or a major program adjustment.
-
-</thinking>
-
 # gym_trainer_evaluation_survey - Help Guide
 ## Purpose
 The "gym_trainer_evaluation_survey" form is designed to provide valuable insights for gym management to evaluate the effectiveness of their trainers and make informed decisions for improvement.

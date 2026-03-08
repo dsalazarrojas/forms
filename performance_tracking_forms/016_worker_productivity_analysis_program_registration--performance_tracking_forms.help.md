@@ -1,7 +1,3 @@
-<thinking>
-This form is likely part of a performance tracking system used to register and collect information from workers participating in the Worker Productivity Analysis Program. It seems to be intended for general registration purposes, possibly for tracking progress or performance data. However, without more information about the program's specific goals or requirements, I'll proceed with explaining the form in a general sense. 
-</thinking>
-
 # Worker Productivity Analysis Program Registration - Help Guide
 
 ## Purpose

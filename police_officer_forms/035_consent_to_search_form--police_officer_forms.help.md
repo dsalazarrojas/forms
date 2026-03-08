@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather consent from a person for a police officer to conduct a search on their person, belongings, or property. The purpose of this form is to document the consent process and ensure that it is voluntary and without coercion. The form is designed to capture the details of the consent, including the location, time, and scope of the search, as well as the officer's and witness's involvement.
-Before starting, ensure that you have checked with your supervisor or a senior officer to confirm that this form is not already completed for this case or individual. If the form is already completed, do not proceed.
-</thinking>
-
 # Consent To Search Form - Help Guide
 ## Purpose
 This form is used to gather consent from a person for a police officer to conduct a search on their person, belongings, or property.

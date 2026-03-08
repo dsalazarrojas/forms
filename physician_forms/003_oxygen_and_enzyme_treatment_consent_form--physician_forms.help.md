@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from clients regarding oxygen and enzyme treatments. It is essential to ensure that clients are aware of the potential risks and benefits associated with these treatments. The form will help clients understand the procedure, risks, and aftercare instructions, and provide an opportunity for them to express their consent. Please review this guide to ensure you understand the form correctly and that you are filling it out for the right purpose.
-
-Before filling out this form, please verify that you are using it for its intended purpose. If you are unsure, please seek clarification with the relevant authorities or medical professionals.
-</thinking>
-
 # oxygen_and_enzyme_treatment_consent_form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from clients regarding oxygen and enzyme treatments. It ensures that clients are aware of the potential risks and benefits associated with these treatments.

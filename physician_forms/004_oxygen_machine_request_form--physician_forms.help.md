@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request maintenance and repair services for oxygen machines in an office setting. It helps track the status and history of oxygen machines, including their purchase date, last service date, and asset tag status. The form is designed to be completed by office staff to report issues or maintenance requests for oxygen machines.
-
-</thinking>
-
 # Oxygen Machine Request Form - Help Guide
 ## Purpose
 The Oxygen Machine Request Form is used to report maintenance and repair needs for office oxygen machines. This form helps track the status and history of oxygen machines, ensuring timely and efficient service.

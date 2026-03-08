@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect relevant client information and details for afterpay fitness equipment orders. This includes contact and delivery information, equipment model specifics, and payment options. To ensure accurate and complete orders, it's essential that clients provide the correct details in the corresponding fields.
-</thinking>
-
 # Afterpay Fitness Equipment Order Form - Help Guide
 ## Purpose
 The Afterpay Fitness Equipment Order Form is designed to collect necessary information from clients for afterpay fitness equipment orders. Completing this form ensures that your order is processed efficiently and accurately.

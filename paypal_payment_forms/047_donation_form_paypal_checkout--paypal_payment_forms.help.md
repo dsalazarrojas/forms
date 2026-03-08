@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Donation Form for PayPal Checkout
 
 The purpose of this form is to collect donations from users, allowing them to make secure payments using their PayPal account. This form is designed to be used for various donation purposes, such as fundraising campaigns or charity events. To ensure accurate and efficient processing, please make sure to fill out the form completely and correctly.

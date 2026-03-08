@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for online coaching check-ins, allowing coaches to gather important information and feedback from clients after each session. This information is crucial for the coach's own development and improvement, as well as for understanding the client's progress. Before starting this form, please ensure you have a valid reason for using it and that it's not a duplicate entry. If you've already submitted this form for the same date, please do not submit again.
-</thinking>
-
 # Online Coaching Check In Form - Help Guide
 ## Purpose
 This form is used to record and track information after each coaching session.

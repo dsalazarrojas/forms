@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the "Performance Recording Upload Form". This form is designed to record and track performances, allowing users to upload and categorize videos or audio recordings of their performances. The form is meant to be used by performance artists, such as musicians, dancers, or other creatives, to document and showcase their work. It is not intended for use in any other context. Please ensure that this form is only used by individuals who are uploading their own performances, as duplicate submissions will not be accepted.
-</thinking>
-
 # Performance Recording Upload Form - Help Guide
 ## Purpose
 The Performance Recording Upload Form is a tool used to record and track performances, allowing users to upload and categorize videos or audio recordings of their performances.

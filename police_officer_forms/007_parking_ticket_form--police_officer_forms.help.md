@@ -1,6 +1,3 @@
-<thinking>
-This form is used to document and track parking violations. It should only be used by authorized personnel, such as parking enforcement officers. The form is used to gather information about the vehicle that received the parking violation, including its license plate number, color, make, model, year, and owner's contact information. It also captures details about the parking offense, such as the issue date and time, fine amount, and parking garage/meter status. The form will help in issuing and tracking parking tickets effectively. Please fill in the form accurately and completely.</thinking>
-
 # Parking Ticket Form - Help Guide
 ## Purpose
 This form is used to document and track parking violations.

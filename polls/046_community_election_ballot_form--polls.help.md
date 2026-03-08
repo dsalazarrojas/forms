@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a digital ballot for community elections, gathering information from voters, and ensuring the integrity and security of the voting process. To avoid any duplication or misuse, please verify that the form has not been altered or shared with unauthorized parties.
-</thinking>
-
 # Community Election Ballot - Help Guide
 ## Purpose
 The Community Election Ballot is a digital form designed to facilitate a secure and transparent voting process for communities. It is intended for voters to submit their selections and comments in a private and confidential manner.

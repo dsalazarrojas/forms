@@ -1,5 +1,3 @@
-<thinking>This form is designed to capture information for images that the school may publish on their website. This includes information about the image, the student, and the parent/guardian's consent. Ensure that you have the necessary permissions and approvals before sharing the image, as the school website is public-facing and accessible by anyone. Please review each field carefully to provide accurate and complete information.</thinking>
-
 # School Website Image Consent Form - Help Guide
 ## Purpose
 This form is used to capture the necessary information and consent for images to be published on the school's website. It includes details about the student, the image, and the parent or guardian's consent.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Add A New Product - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The Health Screening Form is designed to collect information about an individual's health status, contact details, and other relevant information. 
-Before filling out this form, please ensure that the information is accurate and up-to-date.
-This form is intended for general use, and you should only fill it out if you are authorized to do so. 
-Please do not submit duplicate or incomplete submissions.
-</thinking>
-
 # Health Screening Form - Help Guide
 ## Purpose
 This form is used to collect information about your health status, contact details, and other relevant data.

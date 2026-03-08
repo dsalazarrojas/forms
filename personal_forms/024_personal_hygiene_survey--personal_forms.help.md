@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information on personal hygiene practices, which can be used to understand individual habits and behaviors related to physical and mental well-being. This form is likely part of a larger assessment or survey used by healthcare or wellness professionals. It's intended for users who want to provide feedback or respond to a query.
-
-To ensure data quality, users should only fill out this form once and with accurate information. If you've already completed this form previously, please do not submit duplicate responses.
-
-The provided form fields aim to gather detailed information on various personal hygiene practices, including hand washing frequency, showering frequency, toothbrush and toothpaste use, flossing frequency, exercise frequency, sleep duration, diet quality, water quality, social connections, mental health, sleep quality, stress level, and personal hygiene practices in general.
-
-The form's questions are designed to elicit a mix of quantitative and qualitative data, allowing users to provide more nuanced answers. Some questions are select-one or select-multiple, while others are note or number fields. The required fields have a specific purpose and are marked as such in the form.
-
-Before proceeding, please make sure you have all necessary information and can provide accurate answers. If you have any doubts or concerns, please ask your healthcare provider or survey administrator for clarification.
-</thinking>
-
 # Personal Hygiene Survey - Help Guide
 ## Purpose
 This form is designed to collect information on personal hygiene practices to understand individual habits and behaviors related to physical and mental well-being.

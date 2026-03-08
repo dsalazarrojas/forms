@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medication Record Form - Help Guide
 
 ## Purpose

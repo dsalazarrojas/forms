@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for the purchase of heritage flags. This form allows customers to provide their personal details, shipping information, payment details, and order information. The form also includes fields for flag details and order status, which will be used to track and update the order status. This form is likely to be used by customers who want to purchase flags with a personalized message or a special occasion, such as a birthday or anniversary. The form will help the staff to process the order accurately and keep the customer updated on the order status. Please ensure this form is only used for purchasing flags and not for other purposes.</thinking>
-
 # Heritage Flag Purchase Form - Help Guide
 ## Purpose
 The Heritage Flag Purchase Form is designed to collect information from customers for the purchase of heritage flags. The form is used to gather customer information, shipping details, payment information, and order details to process the order accurately.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain a photo and video release from clients. It is essential to ensure that all clients sign and date the form to acknowledge that they have given their consent for the photographer to use their photo and video content. This form should be used for every photo shoot or event where photos and videos will be taken. Please review the form carefully and ensure that all fields are filled out accurately before submitting it to the client. The form should not be used for multiple clients at once. 
-
-</thinking>
-
 # Photo And Video Release Form - Help Guide
 ## Purpose
 This form is used to obtain a photo and video release from clients, ensuring they have given their consent for the photographer to use their photo and video content.

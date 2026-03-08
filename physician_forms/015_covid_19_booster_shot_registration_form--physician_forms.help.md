@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for end users who will be completing the COVID 19 Booster Shot Registration Form. 
-The form is designed to collect necessary information from patients to facilitate the registration process for a COVID-19 booster shot. 
-Before proceeding, ensure that you are not duplicating an existing registration, and that you are authorized to access and complete this form for the intended patient. 
-</thinking>
-
 # COVID 19 Booster Shot Registration Form - Help Guide
 ## Purpose
 The COVID 19 Booster Shot Registration Form is a necessary step in the COVID-19 booster shot registration process. This form will help the healthcare team understand the patient's vaccination history, medical conditions, and eligibility for the booster shot.

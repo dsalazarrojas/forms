@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate communication between employees and their reviewers during performance reviews. It captures essential information about the review process, including category, description, employee name, reviewer name, date reviewed, performance areas, review outcome, comments, and next steps. This form is meant to be used in an internal performance review process, where the goal is to provide feedback and guidance for improvement.
-</thinking>
-
 # performance_review_communication_form - Help Guide
 ## Purpose
 This form is intended for communication between employees and their reviewers during performance reviews. It helps in capturing and recording the review details, allowing for a more structured and organized process.

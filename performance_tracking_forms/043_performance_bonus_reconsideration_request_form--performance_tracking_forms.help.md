@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to request a reconsideration of their performance bonuses. It's crucial that only employees submit a reconsideration request if they haven't already done so and haven't received a response. This form should not be filled out as a formality or to check the system's response. Please ensure you're submitting a genuine request for reconsideration.
-</thinking>
-
 # Performance Bonus Reconsideration Request Form - Help Guide
 
 ## Purpose

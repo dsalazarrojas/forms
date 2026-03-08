@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Photography Session Reservation Form" that is clear, concise, and practical for end-users to understand the form's purpose, how to complete it, and each field's meaning. I'll base the guide on the provided YAML fields and avoid inventing unsupported business logic. I'll also ensure that the guide is well-structured and easy to follow. Here's the final help guide in Markdown format.</thinking>
-
 # Photography Session Reservation Form - Help Guide
 ## Purpose
 The Photography Session Reservation Form is designed to collect essential information from clients about their photography session requirements and preferences. This form helps us understand their needs and schedule the session accordingly.

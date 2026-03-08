@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Annual Peer Performance Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help peers evaluate the performance of their colleagues, providing feedback on their strengths and areas for improvement. It's meant to be completed by peers who have worked closely with the employee being evaluated.

@@ -1,5 +1,3 @@
-<thinking>... This form is meant to track sales activity on a weekly basis. It is used to report on individual sales reps' progress towards their targets. The form is designed for sales reps to input their own sales activity data, including whether they have met their sales rep, their sales amount, and other relevant information... </thinking>
-
 # Weekly Sales Activity Report - Help Guide
 ## Purpose
 The Weekly Sales Activity Report is a form used by sales reps to track and report their individual sales activity on a weekly basis.

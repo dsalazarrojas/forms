@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information about a patient's pharmaceutical care plan, which is essential for providing optimal care and treatment. This form is likely used by pharmacists or healthcare professionals to gather and document patient data. The form's fields should align with the standard practices and protocols in the healthcare industry. Before filling out this form, ensure that the data is accurate and up-to-date, and that the form is completed by a qualified healthcare professional. 
-</thinking>
-
 # Pharmaceutical Care Plan Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a patient's pharmaceutical care plan. This includes details such as patient name, date of birth, reason for visit, medical history, medication history, assessment, treatment plan, follow-up, and medication reconciliation. The form is essential for healthcare professionals to provide accurate and safe medication management.

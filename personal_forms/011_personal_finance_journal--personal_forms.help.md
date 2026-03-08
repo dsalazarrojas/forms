@@ -1,8 +1,3 @@
-<thinking>
-The form "Personal Finance Journal" is designed to help users track their personal finance data in a structured and organized manner. This form will gather information on income, expenses, savings goals, and other relevant details to provide a comprehensive view of a user's financial situation. The form will be used to create a personalized financial report that can be useful for making informed financial decisions. This form is not intended to be used for any other purpose, and users should not fill it out for anything other than personal financial tracking.
-
-</thinking>
-
 # personal finance journal - Help Guide
 ## Purpose
 The Personal Finance Journal is designed to help you track your personal finance data in a structured and organized manner. It will collect information on income, expenses, savings goals, and other relevant details to provide a comprehensive view of your financial situation.

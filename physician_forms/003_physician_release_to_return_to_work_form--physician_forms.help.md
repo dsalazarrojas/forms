@@ -1,5 +1,3 @@
-<thinking>This form is designed to be completed by a medical provider (e.g. doctor) to document an employee's release to return to work after a medical examination. This form captures essential information about the employee's medical condition, including the employee's personal details, medical provider's information, and work status. The form is typically used for administrative purposes and may be required by the employee's HR department or insurance company. Please ensure you have a valid medical reason for the employee's return to work, as this form may be reviewed and verified by relevant authorities.</thinking>
-
 # Physician Release To Return To Work Form - Help Guide
 ## Purpose
 This form is designed to document an employee's release to return to work after a medical examination. It captures essential information about the employee's medical condition, work status, and other relevant details.

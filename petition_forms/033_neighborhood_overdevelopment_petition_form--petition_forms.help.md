@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Neighborhood Overdevelopment Petition Form - Help Guide
 ## Purpose
 This form is for residents to express their concerns and grievances about overdevelopment in their neighborhood. It is intended to gather information about the issues they are experiencing and their personal contact details.

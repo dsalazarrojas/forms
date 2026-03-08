@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Photographer Application Form - Help Guide
 
 ### Purpose

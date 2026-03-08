@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients seeking contraception services. It helps healthcare providers understand a patient's medical history, preferred contraception method, and reasons for requesting contraception. This information is crucial for safe and effective care. Please review the form carefully and provide accurate answers. This form is a required step before the patient can proceed with their contraception request.
-</thinking>
-
 # Contraception Request Form - Help Guide
 
 ## Purpose

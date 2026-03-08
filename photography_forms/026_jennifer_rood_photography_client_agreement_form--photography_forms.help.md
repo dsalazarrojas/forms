@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect client information and agreement for Jennifer Rood Photography sessions. This form is designed to be a simple, text-based form that guides users through the process of providing their basic information, session details, session time, equipment, photo details, and release information.
-
-Before filling out this form, please ensure you have not completed it previously as it may lead to duplicate or incorrect information.
-
-Form fields are explained below.
-</thinking>
-
 # Jennifer Rood Photography Client Agreement Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from clients for their photography sessions with Jennifer Rood Photography.

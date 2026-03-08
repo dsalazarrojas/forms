@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from parents or guardians for a photo session with the preschool. The purpose of this form is to ensure that the photographer has all necessary details to capture the perfect shots. This form will be used to determine the photo package, location, type, and other specifications of the photo session.
-
-To avoid duplication of efforts, please ensure that only one form is submitted per child, and make sure to fill out all required fields as accurately as possible.
-
-</thinking>
-
 # Preschool Photo Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for a photo session with the preschool. Please fill out the form carefully to ensure we capture the perfect shots.

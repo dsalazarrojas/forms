@@ -1,7 +1,3 @@
-<thinking>
-The Respiratory Assessment Form is a crucial tool for evaluating and documenting the respiratory system and related information of patients. Its purpose is to gather vital data that helps healthcare professionals identify potential respiratory problems and provide targeted treatment. This form is designed to be completed by patients or medical professionals in various settings, including hospitals, clinics, or at home. It is essential to complete this form accurately and thoroughly to ensure the best possible care and treatment for patients with respiratory issues.
-</thinking>
-
 # Respiratory Assessment Form - Help Guide
 ## Purpose
 The Respiratory Assessment Form is a medical tool used to evaluate and document the respiratory system and related information of patients. It helps healthcare professionals gather vital data that aids in identifying potential respiratory problems and providing targeted treatment.

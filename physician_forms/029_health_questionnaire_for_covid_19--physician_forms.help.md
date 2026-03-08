@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's make sure this form is relevant and not a duplication. The form is called "Health Questionnaire For COVID 19" and it's intended to gather information from individuals about their health status, symptoms, and contact history related to COVID-19. The form's purpose is to collect data for medical professionals to assess and address potential risks and concerns. Let's proceed with creating the help guide.</thinking>
-
 # Health Questionnaire For COVID 19 - Help Guide
 ## Purpose
 This form is designed to collect information about your health status, symptoms, and contact history related to COVID-19. Please answer the questions honestly to help medical professionals assess and address your concerns.

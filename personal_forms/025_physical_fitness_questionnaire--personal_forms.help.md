@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a person's physical fitness level and health status. It is intended to help healthcare professionals assess an individual's physical fitness and identify areas where they may need to focus their efforts to improve their overall health. This form should only be filled out by individuals who are interested in assessing their own physical fitness and health status, not by healthcare professionals evaluating patients.
-
-</thinking>
-
 # Physical Fitness Questionnaire - Help Guide
 ## Purpose
 The Physical Fitness Questionnaire is a survey designed to help you assess your own physical fitness level and health status. It will ask you questions about your general information, lifestyle habits, medical history, and physical activity level. Please answer all questions honestly to get an accurate assessment of your fitness level.

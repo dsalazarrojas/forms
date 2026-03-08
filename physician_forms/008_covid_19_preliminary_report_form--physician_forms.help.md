@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you fill out the Covid 19 Preliminary Report Form. The form is used to record patient data for COVID-19 cases. Please ensure you have the necessary information before proceeding. If you've already submitted a form for the same patient, you may not need to fill out this form again.
-</thinking>
-
 # Covid 19 Preliminary Report Form - Help Guide
 ## Purpose
 The Covid 19 Preliminary Report Form is used to record patient data for COVID-19 cases.

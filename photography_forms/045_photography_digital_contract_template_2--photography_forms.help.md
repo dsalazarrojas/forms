@@ -1,8 +1,3 @@
-<thinking>
-This form is a template for creating a digital contract for photography services. It gathers essential information from the client and photographer to outline the terms and conditions of the shoot. Before proceeding, please check that you have not previously completed this form for the same purpose or client to avoid duplication. This form is not meant to be used for other types of contracts or purposes.
-
-</thinking>
-
 # photography_digital_contract_template_2 - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information and terms for a photography digital contract between the photographer and the client. This template ensures both parties have a clear understanding of their responsibilities and the contract terms.

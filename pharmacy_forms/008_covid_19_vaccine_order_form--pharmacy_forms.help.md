@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this form is intended for facilities to order COVID-19 vaccines. The form is used to provide essential information for vaccine delivery, including facility details, vaccine type, and order specifics. Facilities must provide their name, contact information, and address to ensure accurate delivery. The form also asks for details on vaccine type, order quantity, and storage capacity. Additionally, it requests a preferred delivery date and any additional supplies needed. A signature is required to authorize the order. This form is designed for facilities to order vaccines efficiently and effectively.
-</thinking>
-
 # COVID 19 Vaccine Order Form - Help Guide
 ## Purpose
 This form is intended for facilities to order COVID-19 vaccines. It collects essential information for accurate delivery and processing of the order.

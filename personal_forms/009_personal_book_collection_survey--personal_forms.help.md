@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a user's personal book collection, including their favorite book title, author, genre, and other relevant details. This data will be used to improve our service and provide more tailored recommendations for users who share similar interests.
-To ensure the collected data is accurate and complete, we will check for duplicates and irrelevant submissions.
-</thinking>
-
 # personal_book_collection_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a user's personal book collection, including their favorite book title, author, genre, and other relevant details. This data will be used to improve our service and provide more tailored recommendations for users who share similar interests.

@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "CDC COVID 19 Vaccination Program Provider Agreement" form, I will follow the provided YAML structure and create a clear and concise guide that explains the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # CDC COVID 19 Vaccination Program Provider Agreement - Help Guide
 ## Purpose
 The CDC COVID 19 Vaccination Program Provider Agreement is a form that healthcare providers must complete to participate in the CDC's COVID-19 vaccination program. This form ensures that providers comply with the CDC's requirements and regulations for vaccine storage, handling, and reporting.

@@ -1,7 +1,3 @@
-<thinking>
-  This guide aims to provide users with a clear understanding of the purpose and usage of the PRP (Physician's Recommendation and Permission) Consent Form. It is crucial to ensure that users, particularly healthcare professionals, understand the form's intent and requirements to provide accurate and informed consent for patients. This guide will cover the form's purpose, how to complete it, and a detailed explanation of each field. The form is designed to collect necessary information for patient care and treatment, and it is essential to fill it out accurately to ensure patient safety and well-being.
-</thinking>
-
 # PRP Consent Form - Help Guide
 ## Purpose
 The PRP Consent Form is a document used to collect information and obtain consent from patients before undergoing a procedure or treatment. It is an essential tool for healthcare professionals to ensure that patients are aware of their rights and responsibilities during medical treatment.

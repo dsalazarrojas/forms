@@ -1,12 +1,3 @@
-<thinking>
-This form is used to capture medical clearance information for patients undergoing medical procedures or treatments. The form is intended to be completed by a healthcare professional, such as a doctor or nurse, to provide clearance for a patient's procedure. 
-
-This form is meant to be used in a medical setting, and the information collected will be used to ensure the patient's safety and suitability for the procedure. The form requires the healthcare professional to provide specific information about the patient, including their name, reason for clearance, type of clearance, and medical clearance status. Additionally, the form collects contact information for the healthcare professional, including their name, title, phone number, fax number, and email. 
-
-Please ensure that you are only completing this form for patients who require medical clearance and that you are authorized to do so. Duplicate completions of this form may result in unnecessary work and potential errors. 
-
-</thinking>
-
 # Medical Clearance Form - Help Guide
 ## Purpose
 The Medical Clearance Form is used to capture medical clearance information for patients undergoing medical procedures or treatments.

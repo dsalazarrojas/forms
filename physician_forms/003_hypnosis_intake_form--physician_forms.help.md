@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Hypnosis Intake Form - Help Guide**
 =====================================
 

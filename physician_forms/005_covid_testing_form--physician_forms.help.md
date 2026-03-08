@@ -1,5 +1,3 @@
-<thinking>...The form is designed to collect information from healthcare providers about a patient's Covid-19 testing process. This form likely serves as a means to document patient interactions with healthcare services, such as testing sites, and gather other relevant details. Ensure that the form is filled out for each patient interaction, and do not duplicate efforts. This guide aims to clarify the purpose and usage of each field....</thinking>
-
 # Covid Testing Form - Help Guide
 ## Purpose
 The Covid Testing Form is designed to collect information from healthcare providers about a patient's Covid-19 testing process. This includes details about the testing site, test results, and other relevant patient contact information.

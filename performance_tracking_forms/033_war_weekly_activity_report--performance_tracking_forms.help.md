@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect relevant data for performance tracking, which can include sales performance, number of appointments, recruiting performance, and other relevant metrics. This form can be used by various teams within an organization to track their progress and analyze their performance. It is not intended for other uses, so please do not attempt to use it for any other purpose.
-</thinking>
-
 # WAR Weekly Activity Report - Help Guide
 ## Purpose
 This form is designed to collect information for performance tracking, including sales, appointments, recruiting, and other relevant metrics. It is intended to be used by teams within an organization to track their progress and analyze their performance.

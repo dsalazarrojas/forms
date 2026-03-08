@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly, and only once. The purpose of this form is to track attendance at liturgy services. It should be used for each service held on a Sunday or Saturday. The form should not be used for other types of meetings or events. The fields should be filled out according to the actual attendance, with "Yes" for attendees and visitors present, and "No" for those not present. The "Total" fields should be used to record the actual number of attendees or visitors present. The "Date" and "Time" fields should be used to record the date and time of the service. The "Note" field can be used to record any additional information or comments about the service. The form should not be used to send unsolicited emails or phone numbers to people not present at the service. 
-
-</thinking>
-
 # liturgy_attendance_form - Help Guide
 ## Purpose
 This form is used to track attendance at liturgy services held on Sunday or Saturday. It helps to record the number of attendees and visitors present, and any additional information or comments about the service.

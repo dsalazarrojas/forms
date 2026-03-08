@@ -1,13 +1,3 @@
-<thinking>
-
-The Fitness For Duty Form is used to document the return-to-work process for employees who have been absent due to medical reasons. This form is completed by the employee's physician and is used to confirm whether the employee is fit to return to work after an injury or illness. It is crucial to fill out this form accurately and thoroughly to ensure that all necessary information is documented and that the employee's work status is properly updated.
-
-The form should only be completed by the employee's attending physician, and it is essential to ensure that the form is filled out correctly to avoid any potential issues with the employee's work status or benefits.
-
-Before filling out this form, please ensure that you have all the necessary information and documentation required to complete it accurately. If you are unsure about any part of the form, please consult with your supervisor or HR representative for guidance.
-
-</thinking>
-
 # Fitness For Duty Form - Help Guide
 ## Purpose
 The Fitness For Duty Form is used to document the return-to-work process for employees who have been absent due to medical reasons.

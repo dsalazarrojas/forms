@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from non-profit photography organizations for a fellowship application. This form helps to collect the necessary details to evaluate and consider potential applicants for the fellowship. Please ensure this form is being used for its intended purpose, and not for other non-related photography projects.
-</thinking>
-
 # Nonprofit Photography Fellowship Application - Help Guide
 ## Purpose
 The Nonprofit Photography Fellowship Application is a form designed to collect information from non-profit photography organizations for a fellowship application. This form is intended to gather details about the applicant, their photography portfolio, and contact information.

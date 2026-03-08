@@ -1,5 +1,3 @@
-<thinking>...The form is used to collect pre-order information for the Fall season. This form will likely be used by customers to place orders for products that will be available in the fall, but not yet available for immediate purchase. The purpose of the form is to collect relevant customer information, including their name, email, phone number, pre-order product selection, quantity, shipping address (if applicable), and any additional information they'd like to provide. This form is likely to be used by customers to place pre-orders for products that will be available in the Fall season, but not yet available for immediate purchase.</thinking>
-
 # Fall Pre Order - Help Guide
 ## Purpose
 The Fall Pre Order form is used to collect pre-order information for the Fall season. This form will be used to gather customer information and pre-order products that will be available in the Fall, but not yet available for immediate purchase.

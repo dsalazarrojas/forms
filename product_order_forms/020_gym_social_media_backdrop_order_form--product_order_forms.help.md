@@ -1,9 +1,3 @@
-<thinking>
-The goal of this form is to help gym administrators create a social media backdrop that accurately represents their gym's brand and identity. The form will be used to gather information about the gym's logo, payment options, and shipping details.
-
-This is a form used to order and manage backdrops and other materials for social media promotions. It's meant for gym administrators to easily order and customize their social media content without having to worry about unnecessary duplication. 
-</thinking>
-
 # Gym Social Media Backdrop Order Form - Help Guide
 ## Purpose
 The Gym Social Media Backdrop Order Form is a tool used to create and manage social media content for your gym. This form helps you gather information about your brand, payment options, and shipping details, ensuring you have a consistent and accurate online presence.

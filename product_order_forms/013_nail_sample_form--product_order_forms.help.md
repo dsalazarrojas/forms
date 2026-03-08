@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to complete a product order form specifically designed for nail sample orders. Before proceeding, please ensure you have a clear understanding of the form's purpose and requirements. This form is used to collect information related to nail samples, including the type of sample, customer contact details, and order specifics.
-</thinking>
-
 # nail_sample_form - Help Guide
 ## Purpose
 The "nail_sample_form" is a form designed to collect information related to nail sample orders, ensuring that the product is allocated correctly.

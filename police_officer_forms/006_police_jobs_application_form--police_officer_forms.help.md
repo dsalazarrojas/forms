@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for police officers or individuals who wish to apply for a job within the police department. It captures information about the applicant, including personal details, background check status, and relevant experience. This form should be completed by those who are new to the department or wish to transfer within the same department. To ensure accuracy, please review the fields carefully to ensure you're providing the correct information.
-
-Before starting this form, please note that some fields are optional. However, providing accurate and complete information in all relevant fields will strengthen your application.
-
-Please also ensure that the information entered in the "Background Check Status" field is up-to-date. If you have already undergone a background check, select "Cleared." If you're unsure or have not undergone one recently, select "Pending." If you've failed a background check in the past, select "Failed."
-
-Lastly, be mindful of the "Upload Documents" field. You should only upload documents that support your application, such as police certificates, identification numbers, or other relevant documents.
-</thinking>
-
 # Police Jobs Application Form - Help Guide
 ## Purpose
 

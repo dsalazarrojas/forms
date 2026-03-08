@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form, "Online Shopping Form Euphoria", is to collect information from customers for an online shopping experience. It appears to be a comprehensive form covering various aspects of the order, including contact, shipping, payment, and order details. This form likely serves as the core data collection tool for online shopping experiences.
 
 ### Online Shopping Form Euphoria - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the purpose and usage of the "Wedding Photoshoot Agreement" form. The form is designed to capture essential details about a wedding photoshoot, including photographer and client information, event details, and terms and conditions. This guide will walk the user through each field, explaining what information should be provided and why it's necessary for the photoshoot.
 
 # Wedding Photoshoot Agreement - Help Guide

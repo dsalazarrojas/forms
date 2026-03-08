@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers who want to pre-order wireless earbuds. The form will be used to gather details such as shipping information, payment method, and order dates to ensure a smooth pre-ordering process. The form will not collect any sensitive or personal information that is not required for the pre-ordering process.
-This form is designed to be completed by customers who are interested in pre-ordering wireless earbuds and need to provide necessary information for the pre-ordering process.
-</thinking>
-
 # Wireless Earbud Pre Order Form - Help Guide
 ## Purpose
 The Wireless Earbud Pre Order Form is designed to collect information from customers who want to pre-order wireless earbuds. This form will help us gather necessary details such as shipping information, payment method, and order dates to ensure a smooth pre-ordering process.

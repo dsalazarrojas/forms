@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather contact information and details about a potential pet adoption from the applicant. This information will be used to assess the suitability of the pet and the applicant for a potential adoption. Please fill out this form carefully and thoroughly, and make sure to answer all required fields.
-
-This form is not affiliated with, endorsed by, or derived from any other form platform. It was created using AI and public metadata as inspiration.
-
-You can use this form for your own purposes, and you are free to modify it as needed. Just give credit to the original form creator.
-
-If you have any questions or need help with this form, please contact [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # dog_ownership_application_form - Help Guide
 ## Purpose
 The purpose of this form is to gather contact information and details about a potential pet adoption from the applicant.

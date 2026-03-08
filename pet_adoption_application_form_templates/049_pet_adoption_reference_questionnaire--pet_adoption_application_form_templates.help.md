@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the user's pet adoption process. This form is meant to be filled out by a pet owner who is inquiring about adopting a new pet. The form is used to gather details about the user's contact information, pet adoption preferences, and their current situation with pets at home.
-
-When filling out this form, please ensure that you only complete it once and from the correct email address associated with your account. If you have already filled out this form, please do not duplicate your effort as it may lead to incorrect or outdated information being associated with your account.
-
-To complete this form, please follow the instructions below:</thinking>
-
 # Pet Adoption Reference Questionnaire - Help Guide
 ## Purpose
 The Pet Adoption Reference Questionnaire is a form designed to collect information about the user's pet adoption process. This form is used to gather details about the user's contact information, pet adoption preferences, and their current situation with pets at home.

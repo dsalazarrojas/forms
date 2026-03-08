@@ -1,10 +1,3 @@
-<thinking>
-This guide is to help the user understand the purpose and requirements of the Physical Therapy Referral Form. Before creating this guide, let's check if the form purpose is clear. The form appears to be designed to collect information from patients, specifically their medical history, chief complaints, and physical therapist preferences. The form's name, "Physical Therapy Referral Form," already implies its purpose. However, it's essential to confirm that this form is intended for patients to refer themselves to a physical therapist or for healthcare professionals to collect information from patients before referring them to a physical therapist. Let's assume the form is for self-referral by patients.
-
-Given the form's design, it seems that the fields are laid out in a straightforward manner. The form is divided into several sections, each containing a few fields. The fields seem to be mostly text-based, with only two fields requiring selection options. Let's create a guide that explains each field's purpose, required status, and any necessary clarification for the user.
-
-</thinking>
-
 # Physical Therapy Referral Form - Help Guide
 ## Purpose
 This form is intended for patients to refer themselves to a physical therapist for further treatment and assessment. It collects information about the patient's medical history, chief complaints, and preferences for physical therapy.

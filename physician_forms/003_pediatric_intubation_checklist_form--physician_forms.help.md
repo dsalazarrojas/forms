@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-The Pediatric Intubation Checklist Form is a critical tool for healthcare professionals to document the process and status of pediatric intubation. This form is used to record patient information, medical history, and vital signs during and after intubation. It is essential to complete this form accurately and thoroughly to ensure proper documentation and patient care. Before starting, ensure this is the correct form for your purpose and that you are not duplicating work by checking with your supervisor or medical team lead if necessary.
+> The Pediatric Intubation Checklist Form is a critical tool for healthcare professionals to document the process and status of pediatric intubation. This form is used to record patient information, medical history, and vital signs during and after intubation. It is essential to complete this form accurately and thoroughly to ensure proper documentation and patient care. Before starting, ensure this is the correct form for your purpose and that you are not duplicating work by checking with your supervisor or medical team lead if necessary.
 
 # Pediatric Intubation Checklist Form - Help Guide
 

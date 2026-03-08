@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telehealth Release Form - Help Guide
 ## Purpose
 

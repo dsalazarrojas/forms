@@ -1,6 +1,3 @@
-<thinking>
-This form is for petitioning to reinstate VCC Tennis, a tennis club or organization. It is used to collect information and signatures from interested parties. Please note that this form is not a formal petition, but rather a collection of information for internal purposes. If you are not interested in reinstituting VCC Tennis, please do not submit this form. Also, please note that if you have already submitted this form, your signature will not be counted multiple times, as we are checking for duplicate entries.</thinking>
-
 # Petition To Re Instate Vcc Tennis - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in reinstating VCC Tennis. By completing this form, you will be able to provide your name, email, phone number, and other details that will help us understand your support for reinstituting VCC Tennis.

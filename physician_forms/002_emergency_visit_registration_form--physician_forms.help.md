@@ -1,7 +1,3 @@
-<thinking>...
-To create an effective help guide for the "Emergency Visit Registration Form", we first need to understand the form's purpose and the context in which it's being used. This form is likely used by medical institutions to register patients' information for emergency visits. Each field's purpose and requirement should be clearly explained to ensure end-users understand what information is needed and why.
-
-</thinking>
 # Emergency Visit Registration Form - Help Guide
 ## Purpose
 This form is used to gather essential information from patients during emergency visits. It captures details about the patient's identity, visit details, contact information, medical records, and insurance coverage. Please fill out the form accurately to ensure efficient and proper processing of the patient's emergency visit.

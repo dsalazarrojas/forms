@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for a Medicare claim, which is a request for reimbursement of healthcare expenses submitted to the Medicare program. The purpose of this form is to gather essential details about the patient, provider, and billing information to facilitate the claims process.
-The form is divided into several sections that correspond to different aspects of the claim.
-Each form field will be explained below, providing a clear understanding of what is required for completion.
-The form is not affiliated with any form platform and is an original creation.
-</thinking>
-
 # Medicare Claim Form Template - Help Guide
 ## Purpose
 This form is designed to collect information for a Medicare claim, which is a request for reimbursement of healthcare expenses submitted to the Medicare program.

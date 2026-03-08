@@ -1,7 +1,3 @@
-<thinking>
-The "Personal Accomplishments Checklist" form is designed to help individuals track and reflect on their personal achievements and progress towards their goals. It's meant to be a tool for personal growth and self-reflection. This form is likely used in various contexts, such as goal-setting, career development, or personal development workshops. To avoid duplication of information, it's essential to ensure that the form is filled out by a single individual, and the questions and answers provided are accurate and up-to-date.
-</thinking>
-
 # Personal Accomplishments Checklist - Help Guide
 ## Purpose
 The Personal Accomplishments Checklist is a tool designed to help you reflect on your personal achievements and progress towards your goals. This form guides you in tracking your accomplishments, identifying areas of improvement, and setting realistic expectations for future growth.

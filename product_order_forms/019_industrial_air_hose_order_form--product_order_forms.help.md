@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture contact information and delivery details for orders related to industrial air hoses. The form is used to gather information from customers or clients who are interested in purchasing industrial air hoses for their business or industry. This form is not intended for general public use and is specifically designed for industrial settings. The form is not affiliated with, endorsed by, or derived from any form platform, but rather an original creation using public survey topic metadata.
-</thinking>
-
 # industrial_air_hose_order_form - Help Guide
 ## Purpose
 This form is designed to collect contact and delivery information from customers interested in purchasing industrial air hoses for their business or industry.

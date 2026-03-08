@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to help photographers and schools efficiently manage and fulfill photography orders. It captures essential details about each order, including student and photographer contact information, session details, and preferences for photo editing, printing, mounting, and delivery. The template ensures that all required fields are filled out, ensuring that orders are processed correctly and efficiently.
-</thinking>
-
 # Prom Photography Order Form Template - Help Guide
 ## Purpose
 The Prom Photography Order Form Template is used to collect information from students and photographers regarding photography orders for school events or proms. It helps ensure that all necessary details are captured to fulfill the order correctly.

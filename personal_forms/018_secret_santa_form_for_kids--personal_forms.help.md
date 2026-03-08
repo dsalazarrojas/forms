@@ -1,10 +1,3 @@
-<thinking>
-The Secret Santa Form For Kids is designed to collect information about who to get gifts for during the holiday season. 
-It is meant to be used during Secret Santa gift exchanges among children in schools, families, or communities. 
-This form helps to ensure that each participant knows who to get gifts for and can prepare their gift accordingly. 
-This form is not meant to be used for other purposes or shared with anyone not participating in the Secret Santa exchange.
-</thinking>
-
 # Secret Santa Form For Kids - Help Guide
 ## Purpose
 The Secret Santa Form For Kids is a tool used to collect information for a Secret Santa gift exchange among children. It helps participants know who to get gifts for during the holiday season.

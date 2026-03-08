@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from patients and physicians for the purpose of obtaining a telehealth waiver. This waiver is a legal document that allows patients to consent to or decline certain aspects of their care, such as virtual visits, phone calls, and other telehealth-related activities. It's essential to understand the purpose and implications of this form before completing it. Please ensure you have reviewed the form carefully and understood its intent before proceeding.
-
-To complete this form, please follow the steps below:
-
-1. Enter your patient information, including their name and email address.
-2. Fill in your physician name and signature.
-3. Indicate the date you signed the waiver.
-4. Choose the type of waiver you are requesting.
-5. Provide the reason for the waiver.
-6. Accept the waiver terms.
-7. Enter the date the form was submitted.
-
-</thinking>
-
 # Telehealth Waiver Form - Help Guide
 ## Purpose
 This guide will walk you through the completion of the telehealth waiver form, a crucial document for consenting to or declining certain aspects of your care.

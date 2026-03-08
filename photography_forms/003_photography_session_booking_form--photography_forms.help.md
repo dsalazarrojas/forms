@@ -1,8 +1,4 @@
-## <thinking>
-This form is designed to be a Photography Session Booking Form, typically used by customers to provide contact information, schedule a photography session, and make payment arrangements. It should not be filled out for non-photography bookings or events. Ensure that you are filling out the correct form for your intended event or session type. If you are unsure, please contact the photographer or event organizer for clarification.
-</thinking>
-
-# Photography Session Booking Form - Help Guide
+## # Photography Session Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information for a photography session, including contact details, session specifics, and payment preferences.
 

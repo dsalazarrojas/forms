@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user feedback for tools, specifically for users to provide their level of satisfaction with the tool, suggest improvements, and report any issues they encountered. It's meant to be a simple, one-page form that should be easy to complete in a few minutes. Please ensure that each form submission is unique and doesn't include duplicate information to avoid overwhelming the team with repetitive data. If a user has already submitted feedback, please do not ask them to resubmit or submit another form with similar feedback. If a user needs help or wants to report a technical issue, there's a link to a support contact in the form's footer.
-</thinking>
-
 # Tool User Feedback Poll Form - Help Guide
 ## Purpose
 

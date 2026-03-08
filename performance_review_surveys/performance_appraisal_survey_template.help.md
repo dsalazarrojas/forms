@@ -1,11 +1,3 @@
-<thinking>
-This form aims to gather feedback on the effectiveness and experience of our performance appraisal process. It's essential to provide a clear and honest evaluation to help us identify areas of improvement and make necessary adjustments to enhance the process.
-
-Before filling out this form, please ensure that you have participated in a performance appraisal and have a thorough understanding of the process. Duplicate responses will not be counted towards the evaluation.
-
-If you're ready to provide your feedback, please proceed to the "How To Complete This Form" section.
-</thinking>
-
 # performance_appraisal_survey_template - Help Guide
 
 ## Purpose

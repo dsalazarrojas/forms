@@ -1,16 +1,3 @@
-<thinking>
-
-**Context:**
-This form is designed for police officers to request for permission to engage in off-duty employment. The form is intended to be completed by police officers who wish to work or pursue other business interests outside of their official duties. The purpose of this form is to ensure that the officer's off-duty employment does not conflict with their official duties or responsibilities, and to provide necessary documentation for the officer's department.
-
-**Internal reasoning checks:**
-
-*   This form is not meant to replace official departmental policies or procedures.
-*   Before completing this form, police officers should review their department's policies on off-duty employment.
-*   If an officer has any concerns or questions, they should reach out to their department's HR or administration for clarification.
-
-</thinking>
-
 # police_off_duty_employment_request_form - Help Guide
 ## Purpose
 This guide helps police officers understand how to complete the Police Officer Off-Duty Employment Request Form to request permission for off-duty employment.

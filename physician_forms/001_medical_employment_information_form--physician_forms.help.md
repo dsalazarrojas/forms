@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for a form used by healthcare professionals to collect information about employees' medical employment. This form likely aims to gather sensitive data related to an employee's medical history, insurance, and contact information for emergency purposes. This form should be used to collect accurate and comprehensive information to ensure the well-being and safety of the employees.
-</thinking>
-
 # Medical Employment Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about an employee's medical employment, including their contact details, emergency contacts, and medical history. This information will be used to ensure the employee's well-being and safety in the workplace.

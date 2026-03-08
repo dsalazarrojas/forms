@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Personal Trainer Profile Submission Form - Help Guide
 ## Purpose
 This form is a submission form for personal trainers to provide their profile information. It helps us better understand their qualifications, experience, and availability to match them with clients. It's essential to fill this form accurately to ensure we can effectively match you with suitable clients.

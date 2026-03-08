@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place orders for a photo album. The form is designed to collect contact information, date of birth, and other relevant details from the customer. To determine if this is the correct form to be filled out, consider if the purpose is to place an order for a photo album. If not, please use the appropriate form for your intended purpose.
-</thinking>
-
 # Glass Album Order Form - Help Guide
 
 ## Purpose

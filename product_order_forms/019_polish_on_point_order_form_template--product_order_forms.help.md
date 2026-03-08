@@ -1,9 +1,3 @@
-<thinking>
-This form template is designed to collect order information from customers. 
-This form should be used when a customer wants to place an order for a product. 
-Before proceeding, ensure that the form is not a duplicate, and you are not attempting to collect order information that has already been captured.
-</thinking>
-
 # Polish On Point Order Form Template - Help Guide
 ## Purpose
 This form is used to collect order information from customers.

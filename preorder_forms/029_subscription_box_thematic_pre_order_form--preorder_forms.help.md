@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a subscription box thematic pre-order. The form is intended to be used by customers to sign up for a subscription box service, selecting their preferred subscription type, theme, and other relevant details. Before proceeding, please ensure that you have not previously submitted a pre-order for this service, as duplicate pre-orders will not be accepted. Please review the fields carefully and fill them out accurately to ensure a smooth pre-order process.
-</thinking>
-
 # Subscription Box Thematic Pre Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers for a subscription box thematic pre-order.

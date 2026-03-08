@@ -1,11 +1,3 @@
-<thinking>
-The form "Wellness 101 Health Survey" is designed to collect information about a user's current health habits and behaviors. This form is intended to be completed by individuals who want to assess their own wellness and make informed decisions about their lifestyle.
-
-Before completing this form, please make sure you are answering questions honestly and accurately to the best of your ability. If you have already completed a similar survey in the past, please do not re-complete it, as the results may not be relevant to your current situation.
-
-This form is not intended to be used for medical diagnosis or treatment. If you have concerns about your health, please consult a medical professional.
-</thinking>
-
 # Wellness 101 Health Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your current health habits and behaviors. Please answer the questions accurately and honestly to get a comprehensive picture of your well-being.

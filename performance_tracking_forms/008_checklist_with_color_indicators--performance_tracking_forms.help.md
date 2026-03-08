@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Checklist With Color Indicators - Help Guide
 ## Purpose
 

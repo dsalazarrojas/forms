@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to register a teleconsultation session with the hospital's physicians. The purpose of this form is to provide essential information about the patient, including their personal details, contact preferences, and medical condition, to facilitate the teleconsultation process.
-
-When filling out this form, the patient needs to provide accurate and up-to-date information to ensure effective communication and treatment during the teleconsultation session.
-
-This form is a one-time registration form and not a recurring form. Please ensure that you only register once for a teleconsultation session.
-
-After registering, the patient will receive a confirmation email with details on the teleconsultation session.
-
-</thinking>
-
 # Teleconsultation Registration Form - Help Guide
 ## Purpose
 This form is used to register a teleconsultation session with the hospital's physicians. 

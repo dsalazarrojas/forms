@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to sprint backlog items. This form likely exists to gather data about completed or ongoing tasks within a specific sprint, allowing team members and project managers to track progress, identify areas for improvement, and adjust strategies accordingly. It's essential to ensure that each field is filled out accurately and consistently to maintain data quality. Before starting, please review the form fields to ensure you understand the required and optional fields. To avoid duplication of effort, make sure to complete all pages and fields that apply to your specific situation.
-</thinking>
-
 # Sprint Backlog Items Entry Form - Help Guide
 ## Purpose
 The Sprint Backlog Items Entry Form is used to track and record information about sprint backlog items. This form helps team members and project managers to monitor progress, plan future actions, and assess the effectiveness of the current sprint.

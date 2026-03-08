@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Name Plate Order Form - Help Guide
 ## Purpose
 This form is used to collect information for a custom name plate order. You will need to provide your first name, last name, email, phone number, and company name (if applicable) to complete the form.

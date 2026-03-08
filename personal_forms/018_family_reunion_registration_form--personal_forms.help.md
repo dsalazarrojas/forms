@@ -1,5 +1,3 @@
-<thinking>We want to create a user-facing help guide that will walk the end user through the process of using this form. The form is meant to collect registration information for a family reunion, and we need to make sure that users understand what they are doing.</thinking>
-
 # Family Reunion Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from individuals and families attending a family reunion. Please fill out the form with accurate and complete information to ensure a successful and enjoyable reunion.

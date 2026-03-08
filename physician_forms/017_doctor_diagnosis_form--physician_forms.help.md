@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Doctor Diagnosis Form - Help Guide
 
 ## Purpose

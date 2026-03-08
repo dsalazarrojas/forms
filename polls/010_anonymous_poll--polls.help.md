@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users on their opinion and demographic data on a specific topic. It aims to gauge the user's familiarity with the topic, their level of agreement or disagreement, and how much it impacts their daily life. The collected data can help in understanding the overall sentiment and opinions of the users. This guide will explain each field and how to complete the form to ensure accurate and useful data.
-</thinking>
-
 # Anonymous Poll - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a booking form for newborn photography sessions. It collects essential information from customers, including their name, email, session date, and consent. 
-The form also collects optional information such as customer's phone number and address, which may be useful for communication and scheduling purposes. 
-The session time and notes fields are also optional, allowing customers to specify their preferred session time and any additional comments they'd like to include. 
-This form is designed to be completed by customers to book a newborn photography session with the studio. 
-</thinking>
-
 # Newborn Photography Booking Form - Help Guide
 ## Purpose
 The Newborn Photography Booking Form is a booking form for newborn photography sessions. It is designed to collect essential information from customers, including their name, email, session date, and consent. Optional information such as phone number, address, session time, and notes may also be provided.

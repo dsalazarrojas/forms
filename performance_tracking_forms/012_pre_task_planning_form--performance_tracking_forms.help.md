@@ -1,10 +1,3 @@
-<thinking> 
-  The Pre Task Planning Form is designed to collect information about tasks before they are executed.
-  It is intended to capture key details about the task, such as the task ID, description, priority, and assigned team member.
-  This form helps to ensure that all necessary information is gathered before the task is started, reducing errors and misunderstandings.
-  Please review the following instructions carefully to ensure you complete the form correctly.
-</thinking>
-
 # Pre Task Planning Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about customer orders in an easy-to-use system. It appears to be intended for internal use within an organization, possibly for managing customer orders, deliveries, and associated comments. The form consists of four sections: customer details, delivery details, order information, and order comments. To ensure relevance and accuracy, the form fields should be populated with precise and up-to-date information to maintain accurate order records. It is recommended to review the form fields carefully and fill them out accordingly. Please note that the "order_info" field is required, indicating its significance in the order process.</thinking>
-
 # easy_order_system - Help Guide
 ## Purpose
 The "easy_order_system" form is designed to collect information about customer orders for internal use within an organization. Its purpose is to gather essential details about customers, their deliveries, and order comments.

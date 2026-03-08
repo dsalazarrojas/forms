@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will explain the Hypertension Pre Evaluation Questionnaire form, which is used for the purpose of evaluating a patient's blood pressure.
 
 ### Hypertension Pre Evaluation Questionnaire - Help Guide

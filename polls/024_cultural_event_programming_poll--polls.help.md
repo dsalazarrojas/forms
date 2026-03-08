@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data about upcoming cultural events. It is meant to be completed by event organizers to provide information about their events to the audience. Please make sure to fill out this form only for events that are actually happening and not for events that have already occurred or are not happening at all. This form is meant to be a one-time submission for each event, so please do not fill it out multiple times for the same event.
-</thinking>
-
 # Cultural Event Programming Poll - Help Guide
 ## Purpose
 This form is used to collect details about upcoming cultural events. Event organizers can use this form to provide information about their events to the audience.

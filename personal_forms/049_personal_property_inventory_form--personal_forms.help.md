@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a property inventory form, used to catalog and track personal properties such as vehicles, jewelry, or other valuable items. This form is likely used for insurance or record-keeping purposes. The form has multiple pages and contains various fields to collect different types of information.
-
-Please note that the form has a large number of fields with select-one type options, which suggests that the form is intended for collecting specific, categorized information.
-
-Before we dive into the help guide, please ensure that this form is not a duplicate of another form or has been previously explained. If it has, please let me know so we can update this guide accordingly.
-</thinking>
-
 # personal_property_inventory_form - Help Guide
 ## Purpose
 This form is used to catalog and track personal properties such as vehicles, jewelry, or other valuable items. The form is designed to collect specific, categorized information about each property.

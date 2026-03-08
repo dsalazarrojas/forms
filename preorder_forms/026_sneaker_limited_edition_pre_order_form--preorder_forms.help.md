@@ -1,12 +1,3 @@
-<thinking>
-This guide is for the Sneaker Limited Edition Pre Order Form. The form is used for customers to provide their details and preferences for a limited edition sneaker preorder. It is designed to collect relevant information for processing and fulfilling the order. The form has multiple pages with various fields to gather specific information from the customer. Please ensure you fill in all the required fields to ensure a successful preorder process.
-
-This guide is intended for end-users, therefore, it is essential to understand the form's purpose and each field's significance. Please read through the guide carefully before filling out the form.
-
-The form is divided into different sections, each with a specific purpose. Please follow the instructions below to fill out the form correctly.
-
-</thinking>
-
 # Sneaker Limited Edition Pre Order Form - Help Guide
 ## Purpose
 The Sneaker Limited Edition Pre Order Form is used to collect information from customers for a limited edition sneaker preorder. It is essential to fill out the form accurately to ensure the preorder process is successful.

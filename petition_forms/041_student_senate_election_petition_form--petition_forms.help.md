@@ -1,10 +1,3 @@
-<thinking>
-This form's purpose is to allow students to submit a petition for a particular candidate in an election, providing essential information and reasoning behind their request. The form's fields and layout are designed to guide students through the process, ensuring they can effectively communicate their support for the candidate. 
-
-Before filling out this form, please ensure you are not duplicating a petition for the same candidate, as this may lead to confusion and potentially invalidation of your petition. It is recommended to review the student senate's guidelines and rules before submitting your petition to understand the process and any specific requirements.
-
-To complete this form, simply fill in the required and optional fields as instructed. If you're unsure about a particular field, refer to the explanations below for more information.</thinking>
-
 # Student Senate Election Petition Form - Help Guide
 ## Purpose
 The Student Senate Election Petition Form is a tool for students to express their support for a particular candidate in an election. This form collects information about the student candidate, the reason for petitioning, and the date of the election.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians to book a photography session for their baby. The form is intended to be completed by the person booking the session, and the information collected will be used to schedule and prepare for the session. This form is not meant to be a comprehensive survey, but rather a concise and practical tool to gather essential details. The form's fields are designed to elicit specific information to ensure a smooth and enjoyable experience for both the family and the photographer.
-</thinking>
-
 # Baby Photography Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians to book a photography session for their baby. The form will be used to schedule and prepare for the session.

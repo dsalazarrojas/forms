@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to provide information and details about their pet portrait order. This form is typically completed by pet owners who want to order a custom portrait of their pet. The purpose of this form is to collect necessary information about the pet and the desired portrait, such as the pet's name, contact email and phone number, breed, and size of the portrait. This form should only be completed by pet owners who are interested in ordering a custom portrait of their pet.
-</thinking>
-
 # Pet Portrait Order Form - Help Guide
 ## Purpose
 The Pet Portrait Order Form is used to collect information from pet owners to create a custom portrait of their pet. Please fill out this form to provide us with the necessary details about your pet and the desired portrait.

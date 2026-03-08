@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a wildlife photography trip reservation. This form is likely used by a travel agency or a tour operator to gather essential details from clients before confirming a trip. The form will be used to process trip reservations and ensure that all necessary information is collected from the client. Before proceeding, please ensure that you have the necessary authorization to collect this information and that it aligns with your organization's data protection policies.
-
-This form has been designed to be simple and straightforward, making it easy for clients to provide the required information. However, please note that the form's fields are designed to be specific and relevant to the purpose of the trip reservation, and it is essential to complete it accurately. 
-
-Please review the form fields carefully and ensure that you understand the requirements before submitting your answers. The information collected will be used to process your trip reservation efficiently and effectively.
-
-The "Additional Participant Information" field is optional but can be useful for clients to provide any additional details about their trip participants.
-</thinking>
-
 # wildlife_photography_trip_reservation_form - Help Guide
 ## Purpose
 This form is used to collect information for a wildlife photography trip reservation.

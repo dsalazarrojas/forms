@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Membership Registration Form PayPal - Help Guide
 
 ## Purpose

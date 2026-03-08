@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Motivauswahl Fur Den Gletschersprung 3 - Help Guide
 ## Purpose
 The purpose of this form is to collect user input regarding the Gletschersprung 3, which is likely a specific product or feature of some sort. This form is meant to be a user-facing feedback mechanism.

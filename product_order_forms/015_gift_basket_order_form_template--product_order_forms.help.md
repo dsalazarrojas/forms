@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a gift order, including the gift recipient's contact details, shipping information, payment method, and order details. This form is likely used for online gift-giving platforms, allowing users to create customized gift baskets and send them to intended recipients. It's essential to ensure that the form is filled out correctly to avoid any issues with the order. Please review the form carefully before filling it out to prevent errors.
-</thinking>
-
 # Gift Basket Order Form Template - Help Guide
 ## Purpose
 The Gift Basket Order Form Template is designed to collect information for a gift order, including the gift recipient's contact details, shipping information, payment method, and order details.

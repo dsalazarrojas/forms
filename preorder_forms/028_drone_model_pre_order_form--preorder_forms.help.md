@@ -1,6 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information for a preorder of drone models. It appears to be for a B2B or B2C context, possibly for a retail or online store. The form might be used for a preorder of specific drone models, such as the ones listed in the "product model" field. The form does not seem to be designed for a general preorder, but rather for a specific product with multiple variations. I will assume that the form is used to gather information for a preorder of a specific drone model. If this is not the case, please provide further context. I will not duplicate the information in the help guide. I will focus on explaining each field and how to complete the form. I assume that the form is designed to be filled out by a customer or an end-user, and the information will be used by the store or business to process the order.</thinking>
-
 # Drone Model Pre Order Form - Help Guide
 ## Purpose
 The Drone Model Pre Order Form is designed to help you place a preorder for a specific drone model. Please fill out this form to provide the necessary information for your preorder.

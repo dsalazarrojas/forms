@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dementia Questionnaire - Help Guide
 
 ## Purpose

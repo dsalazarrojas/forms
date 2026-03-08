@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for creating or managing product information, with a focus on tracking and release status. The form likely serves as a centralized hub for product details, evaluation results, and tracking units. It might be used by product managers or administrators to monitor and update product status.
-This form does not seem to have any explicit requirements for the fields, except for the "Yes/No" fields for tracking units, which are likely toggle options.
-The form structure suggests that it is intended for a multiple-page form, with sections for different product details, product status, and tracking units.
-</thinking>
-
 # Product Master Form - Help Guide
 ## Purpose
 The Product Master Form is designed to manage and track product information, providing a centralized platform for product managers or administrators to update and monitor product details, evaluation results, and tracking units.

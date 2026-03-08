@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect order details for a factory air duct system. The purpose of this form is to gather information from customers about their installation requirements, including customer order details, product specifications, date and time of installation, and other relevant information. This form is likely used by sales or customer service teams to facilitate the installation process and ensure accurate ordering. Please ensure that this form is not completed for test or demo purposes, and only use it for actual customer orders.
-
-</thinking>
-
 # Factory Air Duct System Order Form - Help Guide
 
 ## Purpose

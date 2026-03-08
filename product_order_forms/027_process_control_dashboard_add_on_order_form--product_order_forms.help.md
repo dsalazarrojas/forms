@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to be a customizable and adaptable tool for users to input data related to add-on orders in the Process Control Dashboard. The form's purpose is to collect information from users about their orders, which can be used for tracking, reporting, and analysis. This form appears to be a generic template with multiple fields for different types of information, but its actual usage and purpose might vary depending on the specific context and requirements of the organization using it. To determine if this form is the correct one to use, please refer to your organization's internal documentation and guidelines for order forms and processes.
-
-</thinking>
-
 # Process Control Dashboard Add On Order Form - Help Guide
 
 ## Purpose

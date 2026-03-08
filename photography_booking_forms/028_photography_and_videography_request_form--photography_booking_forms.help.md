@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is intended to collect details about a photography and videography request from clients or end-users, ensuring that the service provider has all the necessary information to deliver a successful and high-quality event. This form serves as an internal documentation tool and is not meant for public exposure. To ensure its effectiveness, the form requires all relevant fields to be filled in, as specified by the "required" tags in the form design. 
-</thinking>
-
 # Photography And Videography Request Form - Help Guide
 ## Purpose
 This form is designed to collect essential details about a photography and videography request from clients. It helps us understand their specific needs, preferences, and requirements for a successful event.

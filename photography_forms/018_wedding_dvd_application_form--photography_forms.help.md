@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding DVD Application Form - Help Guide
 ## Purpose
 The Wedding DVD Application Form is a tool for couples to submit their wedding DVD application. This form helps us understand the details of their wedding, including the order type, delivery method, and billing address. The form is designed to be completed by couples who wish to order a custom DVD of their special day.

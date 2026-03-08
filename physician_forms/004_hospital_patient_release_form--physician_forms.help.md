@@ -1,10 +1,3 @@
-<thinking>
-This form is a Hospital Patient Release Form, which is used to document the release of a patient from the hospital. The form is used to gather information about the patient, including their name, date of birth, medical history, and contact information. 
-This form is designed to be completed by the medical staff to ensure that the patient's information is accurate and up-to-date. It is not intended to be completed by the patient directly. 
-Before you start completing this form, please check that the patient's information is accurate and up-to-date. If you are unsure about any of the information, please contact the patient or their representative for clarification. 
-Please do not duplicate this form if the patient has already completed a release form for the same hospital stay. 
-</thinking>
-
 # Hospital Patient Release Form - Help Guide
 ## Purpose
 The Hospital Patient Release Form is used to document the release of a patient from the hospital, ensuring accurate and up-to-date patient information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Psychotropic Medication Consent Form Template - Help Guide
 
 ## Purpose

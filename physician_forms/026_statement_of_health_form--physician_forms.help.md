@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # statement_of_health_form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to match individuals with available dogs for adoption from a pet rescue organization. The form is intended to gather essential information about the person interested in adopting a dog and the dog they are interested in adopting, such as name, contact information, and specific details about the dog's characteristics. This information will be used by the rescue organization to assess the match between the individual and the available dogs. The form is divided into several fields, each with its own specific purpose. The fields are organized in a way that makes it easy to understand and fill out.
-
-Please note that while this form is intended for pet adoption, it may also be used in other contexts where matching individuals with pets or animals is required.
-
-Also, please note that the availability of the fields and their required status might be subject to change based on the specific requirements and policies of the rescue organization.
-
-</thinking>
-
 # Dog Rescue Adoption Matching Form - Help Guide
 ## Purpose
 The Dog Rescue Adoption Matching Form is designed to collect information from individuals interested in adopting a dog from a pet rescue organization. This form helps match the individual with available dogs based on their preferences and the dog's characteristics.

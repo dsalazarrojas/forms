@@ -1,7 +1,3 @@
-<thinking>
-  The form is designed to gather essential information from customers who want to pre-order a streaming package. The form's primary purpose is to collect the customer's personal details, preferred streaming package type, and any additional notes or instructions for the order. The form's data will be used to create a streaming package tailored to the customer's needs. To prevent data duplication, the form should only be filled out once for each customer. 
-</thinking>
-
 # Streaming Package Pre Order Form - Help Guide
 ## Purpose
 The Streaming Package Pre Order Form is a tool used to gather customer information and preferences for pre-ordering a streaming package. This form is designed to be filled out only once per customer.

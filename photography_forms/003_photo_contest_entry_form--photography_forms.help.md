@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to submit their entries for a photo contest. To ensure that users submit valid entries, the form requires some basic information such as email, name, and contact number. Additionally, the form asks for more specific details like photo title, caption, and the date and time the photo was taken. The form also allows users to upload their photo and select the category that best describes their photo. There is no requirement for a user to fill out any field, making the form flexible and open for any user who wishes to participate in the photo contest.
-</thinking>
-
 # Photo Contest Entry Form - Help Guide
 
 ## Purpose

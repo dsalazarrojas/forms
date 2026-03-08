@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prom Photography Order Form Template - Help Guide
 ## Purpose
 This template is designed to help clients book a photography session for various occasions such as portraits, events, or weddings. It captures essential information to facilitate a smooth and enjoyable experience for both the client and the photographer.

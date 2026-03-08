@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## employee_task_assignment_form - Help Guide
 ## Purpose
 The employee_task_assignment_form is used to track and assign tasks to employees. This form helps managers and administrators to efficiently assign tasks to employees, ensuring that tasks are completed on time and to the highest standard.

@@ -1,12 +1,3 @@
-<thinking>
-The form "App Name Selection Voting Form" is designed to collect information from stakeholders in an app development project regarding their preferences for the app's name. The form aims to gather feedback on the proposed names and understand how well they align with the brand identity and appeal to the target audience. 
-
-To ensure the form's output is reliable and valid, we should verify that each form submission meets the specified requirements and doesn't contain any duplicate responses. This will help in maintaining the accuracy and consistency of the data collected. 
-
-For instance, if an internal stakeholder submits the same response multiple times, this will be flagged and removed, ensuring only unique and relevant feedback is captured.
-
-</thinking>
-
 # App Name Selection Voting Form - Help Guide
 ## Purpose
 

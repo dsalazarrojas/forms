@@ -1,10 +1,3 @@
-<thinking>
-**Internal Note:**
-The COVID 19 Booster Vaccine Appointment Form is a crucial tool for patients to schedule and coordinate their COVID-19 booster vaccination appointments. It ensures that patients provide accurate and complete information required for the appointment. 
-To avoid duplication and confusion, this form should only be filled out by the patient or their designated representative, not multiple times or by different individuals. 
-Before proceeding, please ensure you have the patient's consent to collect and process their personal and medical information. 
-</thinking>
-
 # COVID 19 Booster Vaccine Appointment Form - Help Guide
 ## Purpose
 This form collects essential information required for scheduling a COVID-19 booster vaccination appointment.

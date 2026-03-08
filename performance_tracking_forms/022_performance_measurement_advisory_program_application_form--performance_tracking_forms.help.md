@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from organizations that have applied to the Performance Measurement Advisory Program. The form gathers essential data on the organization's performance measurement period, objectives, outcomes, and criteria. This data will help the administrators of the program to understand the scope of the applicant's goals and objectives. 
-Please review the form carefully and ensure that all required fields are completed accurately. This guide will walk you through each field to assist you in filling out the form successfully.
-</thinking>
-
 # performance-measurement-advisory-program-application-form - Help Guide
 
 ## Purpose

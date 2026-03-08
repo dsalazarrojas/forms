@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will create a user-facing help guide for the "work_performance_and_resource_usage_report" form. This form is used to track work performance and resource usage, allowing users to input relevant information to generate reports. To determine the purpose and fields of this form, we will analyze the provided YAML data. 
 
 The form has 4 fields: user, project, start_date, end_date, and resource_usage. It seems that the "user" field is a selection of "Yes" or "No", the "project" field is a selection of multiple "Yes" or "No" options, the "start_date" and "end_date" fields are dates, and the "resource_usage" field is a numerical input.

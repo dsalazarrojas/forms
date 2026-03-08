@@ -1,33 +1,3 @@
-<thinking>This form is designed to collect information from store staff for the purpose of issuing them badges. The form requires the following fields:
-
-- **Staff details**: This is the first page of the form where you will enter basic details about the staff member. 
-- **Roles**: Select all roles that the staff member is assigned to. 
-- **Shipping**: This field is not required and is used for additional shipping information. 
-- **Payments**: Enter the payment information for the badge. 
-- **Payment method**: Select the payment method used for the badge. 
-- **Payment terms**: Enter the payment terms for the badge. 
-- **Payment total**: Enter the total payment amount for the badge. 
-- **Store address**: This field is not required and is used for additional store address information. 
-- **Billing address**: Enter the billing address for the badge. 
-- **Billing name**: Enter the name to be used for billing purposes. 
-- **Billing phone**: Enter the phone number to be used for billing purposes. 
-- **Billing email**: Enter the email to be used for billing purposes. 
-- **Store name**: Enter the name of the store. 
-- **Store phone**: Enter the phone number of the store. 
-- **Store email**: Enter the email of the store. 
-- **Store address**: Enter the address of the store. 
-- **Manager name**: Enter the name of the manager. 
-- **Manager phone**: Enter the phone number of the manager. 
-- **Manager email**: Enter the email of the manager. 
-- **Manager title**: Enter the title of the manager. 
-- **Manager badge ID**: This field is not required and is used for additional manager badge ID information. 
-- **Manager badge number**: This field is not required and is used for additional manager badge number information. 
-- **Manager badge pin**: This field is not required and is used for additional manager badge pin information. 
-- **Store owner name**: Enter the name of the store owner. 
-- **Store owner phone**: Enter the phone number of the store owner.
-
-</thinking>
-
 # store-opening-staff-badge-order-form - Help Guide
 
 ## Purpose

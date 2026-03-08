@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to screen patients for potential risks and contraindications associated with COVID-19 vaccination. The form is divided into several sections that gather information about the patient's health status, medical history, and vaccination experience. This form helps pharmacists and healthcare professionals make informed decisions about vaccine administration and ensure patient safety.
-The form is intended for patients who are eligible for COVID-19 vaccination, and it is not designed to diagnose or treat any medical conditions. By completing this form, patients will be helping healthcare professionals to assess their individual risk factors and make informed decisions about their vaccination status.
-</thinking>
 # COVID 19 Vaccine Screening - Help Guide
 ## Purpose
 This form is designed to screen patients for potential risks and contraindications associated with COVID-19 vaccination.

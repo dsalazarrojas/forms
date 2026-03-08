@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a self-assessment survey used to collect general information from end users, likely for internal purposes such as feedback or performance evaluation. It seems to be a simple form with fields for basic contact information (name, email, phone) and several open-ended questions for self-assessment. There is no obvious duplication or redundancy in the form fields, so it's likely that each field is meant to collect a specific type of information. The form does not appear to be a complex or sensitive form, and the fields are all text-based, suggesting that it's not meant to collect sensitive or confidential information.
-</thinking>
-
 # self_assessment_survey - Help Guide
 ## Purpose
 This form is a self-assessment survey designed to collect general information from end users. It is intended to be completed by users to provide their feedback or self-evaluate their performance.

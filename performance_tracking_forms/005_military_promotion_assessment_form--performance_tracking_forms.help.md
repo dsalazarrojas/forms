@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Military Promotion Assessment Form - Help Guide
 ## Purpose
 The Military Promotion Assessment Form is designed to evaluate and assess the performance of military officers and soldiers. This form collects information on their performance, evaluation, and service details. It helps in making informed decisions about promotions and personnel management within the military organization.

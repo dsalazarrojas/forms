@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from members or attendees of a photography club. The form's purpose is to gather data on their attendance to meetings or events, which can be used to track attendance statistics, send reminders or notifications, and facilitate communication among club members. This form can be used by photography club administrators or organizers to streamline the process of collecting attendance information and improve the overall management of the club.
-
-</thinking>
-
 # Photography Club Attendance Form - Help Guide
 ## Purpose
 The Photography Club Attendance Form is designed to collect information from members or attendees of a photography club.

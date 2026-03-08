@@ -1,10 +1,3 @@
-<thinking>
-We're creating a help guide for the "Presentation Feedback Template" form, which is designed to collect feedback on presentations given by presenters. The form aims to assess the quality of the presentation, provide constructive feedback, and help presenters improve their skills. This form is meant to be filled out by observers or reviewers of the presentation. The fields are designed to be self-explanatory, but we'll break them down in more detail below to ensure clarity.
-
-Before proceeding, please ensure that you're using this form to provide feedback on a specific presentation and that you're not duplicating your efforts. If you've already submitted feedback on this presentation, you can skip this form.
-
-</thinking>
-
 # Presentation Feedback Template - Help Guide
 
 ## Purpose

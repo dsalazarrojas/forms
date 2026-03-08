@@ -1,16 +1,3 @@
-<thinking>
-  This form appears to be a voting system designed to gather opinions on favorite posters. 
-  It has multiple pages with various fields to accommodate different types of responses, 
-  including select multiple and select one options, and also a text field for users 
-  to provide a note if needed. 
-  The form is designed to be flexible, allowing users to provide multiple selections 
-  or single selections, depending on the field type. 
-  The fields are labeled clearly, indicating the question being asked and the type 
-  of response expected. 
-  There is also a submit field to finalize the response. 
-  The form seems to be well-structured and user-friendly.
-</thinking>
-
 # Favorite Poster Voting - Help Guide
 ## Purpose
 This form is designed to gather opinions on favorite posters. Users can vote for one or multiple posters on each page, and also provide additional notes if needed.

@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to ensure the form purpose and relevance...
-
-This form is designed to collect patient information for eye prescriptions, which is a critical aspect of healthcare services. The form aims to gather essential data from the patient and the prescriber, ensuring accurate and efficient prescription processing. To confirm that this form is relevant and not a duplicate, we will check if there are any similar forms in our inventory that match this form's title and description. If a similar form exists, we will either update the existing one or merge the new form into it. If no similar form exists, we will proceed with creating a new one...
-
-</thinking>
-
 # Eye Prescription Form - Help Guide
 ## Purpose
 The Eye Prescription Form is a crucial document used by healthcare professionals to record and prescribe eye care instructions for patients. It is used to gather information from patients and prescribers to ensure accurate and efficient prescription processing.

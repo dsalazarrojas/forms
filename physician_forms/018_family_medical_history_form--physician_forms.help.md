@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect medical information about patients' families. The form is designed to be used by doctors and medical professionals to gather data on patient's family medical history, including any known medical conditions, allergies, and dates of medical events. This information is crucial for providing personalized medical care and identifying potential health risks. The form is not intended for patients to fill out themselves, as it requires professional medical input. 
-
-</thinking>
-
 # Family Medical History Form - Help Guide
 ## Purpose
 The Family Medical History Form is used to collect medical information about patients' families, helping doctors and medical professionals provide personalized care.

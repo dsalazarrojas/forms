@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a pre-order form for a book series, designed to collect various information from customers before fulfilling the order. The form likely serves as an interface to gather customer details such as payment information, delivery addresses, and book-related metadata. To complete this form, follow the step-by-step guide below.
-
-</thinking>
 # new-series-pre-order-form - Help Guide
 
 ## Purpose

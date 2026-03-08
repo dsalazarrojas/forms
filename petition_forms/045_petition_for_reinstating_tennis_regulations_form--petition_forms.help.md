@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and data on petitions for reinstating tennis regulations. It is designed to gather information on why the tennis regulations should be reinstated and the details of the regulations that should be reinstated. This form is intended to gather input from individuals who wish to see the regulations brought back into effect. Please note that this form is not intended for duplicate submissions. If you have already submitted a petition for reinstating tennis regulations, you will not be able to submit this form multiple times. If you are unsure whether this form is relevant to your situation, please check with the relevant authorities or the form's administrators.
-</thinking>
-
 # Petition For Reinstating Tennis Regulations Form - Help Guide
 ## Purpose
 This form is used to collect feedback and data on petitions for reinstating tennis regulations. It is designed to gather information on why the tennis regulations should be reinstated and the details of the regulations that should be reinstated.

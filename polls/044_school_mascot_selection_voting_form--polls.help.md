@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "School Mascot Selection Voting Form", we need to understand the form's purpose and ensure it's being used correctly. This form is likely used to collect information about the school's new mascot, allowing users to vote on their preferred choice. To ensure accuracy, we should check that the form is being filled out in the correct context.
-</thinking>
-
 # School Mascot Selection Voting Form - Help Guide
 ## Purpose
 This form allows users to select a new school mascot, providing options for voting and submitting their choice.

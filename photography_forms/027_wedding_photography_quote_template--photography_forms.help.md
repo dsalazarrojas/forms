@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect essential details from clients and photographers for a wedding photography quote. The form will be used to generate a quote for the client based on their preferences and requirements. It is essential to ensure that the fields are filled correctly to provide an accurate quote.
-
-Please note that some fields may be required based on your preferences. For example, if you choose to require a photographer's email address, you will need to fill in the "Email" field.
-
-This form is divided into sections, each representing different parts of the information required. Here's a brief overview of each section:
-
-*   **Personal Details**: This section contains information about the client and the photographer.
-*   **Photography Details**: This section includes information about the photography packages and services offered by the photographer.
-*   **Client Details**: This section is for the client to provide their information for the quote.
-*   **Quote and Signature**: This section is for the client to review and sign the quote.
-</thinking>
-
 # Wedding Photography Quote Template - Help Guide
 ## Purpose
 The Wedding Photography Quote Template is a form used to collect information from clients and photographers to generate a quote for the wedding photography services.

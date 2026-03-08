@@ -1,13 +1,3 @@
-<thinking>
-**Context:** This form is used to track and manage the preparation of camp supplies, ensuring that the necessary items are in stock and ready for use. The purpose of this form is to verify that the required quantities of supplies are available, and if not, to trigger the need for reordering. The form is typically filled out by staff members responsible for inventory management.
-
-**Duplicate checking:**
-
-* Before filling out the form, please ensure that you have not recently filled it out for the same item or category of supplies.
-* If you are unsure whether to fill out the form, refer to your supervisor or the inventory management team for guidance.
-
-</thinking>
-
 # Camp Supplies Preparation Check Form - Help Guide
 ## Purpose
 The Camp Supplies Preparation Check Form is a critical document used to track and manage the preparation of camp supplies. It ensures that the necessary items are in stock and ready for use, and triggers the need for reordering if quantities are low.

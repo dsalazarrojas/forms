@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to create a customized order for Christmas cards. The form collects information about the recipient's order, including their personal details, card preferences, and shipping information. This form will help the user design and customize their Christmas card order in a streamlined and efficient way.
-</thinking>
-
 # Christmas Card Order Form - Help Guide
 ## Purpose
 This form is designed to help you create a customized Christmas card order. It will guide you through the necessary information to ensure that your order is placed correctly and on time.

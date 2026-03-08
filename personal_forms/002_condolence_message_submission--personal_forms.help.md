@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate submissions, this form will only allow one submission per user. This ensures that the family is not overwhelmed with the same message from multiple people. Additionally, the form is only intended for those who wish to share their condolences and memories with the family, not for commercial or promotional purposes. Please be respectful of the bereaved family and keep your message brief and concise. If you have any questions or concerns, feel free to reach out to the contact email listed at the bottom of this help guide.
-</thinking>
-
 # Condolence Message Submission - Help Guide
 ## Purpose
 The purpose of this form is to allow individuals to submit their condolences and memories to the family of the deceased. This is a way for you to share your thoughts, prayers, or stories about the person who has passed away, and to offer support and love to the family during this difficult time.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect virtual prayer requests from users, and is likely used by a church or place of worship. It appears to be a form for recording and tracking prayer requests, potentially for prayer groups or services. To verify, I will assume that the form is used to collect information about the prayer requests from attendees.
-To determine if this form has already been used by the user, I will need to check if the user's email address is already in the database. If it is, I will prevent the user from submitting duplicate requests.
-This form does not appear to be affiliated with any specific form platform, but was generated using public metadata from the category "priest_forms" and title "Virtual Prayer Requests".
-</thinking>
-
 # Virtual Prayer Requests - Help Guide
 ## Purpose
 The Virtual Prayer Requests form is a tool for users to submit prayer requests to a church or place of worship. This form allows users to input their requests and relevant contact information, which will be recorded and potentially shared with priests or prayer teams.

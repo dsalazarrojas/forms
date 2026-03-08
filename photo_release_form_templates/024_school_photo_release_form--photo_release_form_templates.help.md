@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Photo Release Form - Help Guide
 
 ## Purpose

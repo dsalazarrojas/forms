@@ -1,7 +1,3 @@
-<thinking>
-The Performance Appraisal Form is used to evaluate and document employee performance, providing a framework for managers to assess an employee's strengths, weaknesses, and areas for improvement. This form is typically completed by managers or supervisors after reviewing an employee's performance over a specific period. It's essential to fill out the form accurately and honestly to ensure that employees receive fair and constructive feedback that helps them grow and develop in their roles. To avoid duplication of effort, please ensure that the form is completed only once per performance review period.
-</thinking>
-
 # Performance Appraisal Form - Help Guide
 ## Purpose
 The Performance Appraisal Form is used to assess and document employee performance. It helps managers evaluate an employee's strengths, weaknesses, and areas for improvement.

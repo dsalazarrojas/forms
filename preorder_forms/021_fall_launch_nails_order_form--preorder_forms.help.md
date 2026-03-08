@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fall Launch Nails Order Form - Help Guide
 
 ## Purpose

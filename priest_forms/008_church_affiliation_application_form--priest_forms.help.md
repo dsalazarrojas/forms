@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is for the application for affiliation with a church. The form will guide individuals through providing personal information, faith background, and background check consent. It's not applicable for existing members, only for those seeking to join. We should be able to check for duplication of applications or individuals who have already applied. This form will also cover commitment and agreement with church doctrine and values.
-</thinking>
-
 # Church Affiliation Application Form - Help Guide
 ## Purpose
 This form is for individuals seeking to affiliate with our church. It guides applicants through providing personal information, faith background, and background check consent.

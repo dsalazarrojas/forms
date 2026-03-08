@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information and obtain consent from pet owners to use and release their pet's photos for various purposes. The form is used by photographers to capture and record essential information about the pet and its owner.
-</thinking>
-
 # Pet Photo Release Form - Help Guide
 ## Purpose
 This form is designed to collect information and obtain consent from pet owners to use and release their pet's photos. It's a crucial document that ensures the photographer and the pet owner are on the same page regarding the use of the pet's photos.

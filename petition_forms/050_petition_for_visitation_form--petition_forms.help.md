@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Petition For Visitation Form - Help Guide
 
 ## Purpose

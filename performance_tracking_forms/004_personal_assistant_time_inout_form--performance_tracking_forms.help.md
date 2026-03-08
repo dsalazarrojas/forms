@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be related to employee time tracking and performance tracking. The primary purpose of this form is to collect information about an employee's work hours and activities. The form likely aims to record the time an employee starts and ends work, the hours worked, and any additional comments or notes. It's possible that this form will be used for administrative or managerial purposes, such as generating reports or analyzing productivity. It's essential to check that this form is not a duplicate or redundant in your organization, and that the same data is not already being collected through another form. Ensure this form is not creating unnecessary work or data redundancy in your organization.
-</thinking>
-
 # Personal Assistant Time InOut Form - Help Guide
 ## Purpose
 This form is designed to collect employee information for time tracking and performance assessment.

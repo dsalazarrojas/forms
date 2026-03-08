@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for capturing information about a photography order from a client. It's used to store details about the client, the photographer, and the order status. The form likely serves as a template for managing and tracking photography orders.
 
 # Sports Photography Order Form Template - Help Guide

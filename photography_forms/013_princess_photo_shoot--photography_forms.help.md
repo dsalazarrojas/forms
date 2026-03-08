@@ -1,17 +1,3 @@
-<thinking>
-The form "princess_photo_shoot" is designed to collect information for a photo shoot event. This form is likely used for events such as photo shoots for princess-themed parties or events. The purpose of this form is to gather information from the user about the event details, such as form title, category, description, date, time, location, and contact information. This form is not designed to collect sensitive or personal information and is intended for internal use within a specific organization or community.
-
-The following fields are required fields and cannot be left blank:
-
-* Form Category (Category field)
-* Date (Date field)
-* Time (Time field)
-* Location (Location field)
-* Submit (Submit field)
-
-All other fields are optional and can be filled or left blank as needed.
-</thinking>
-
 # princess_photo_shoot - Help Guide
 ## Purpose
 The "princess_photo_shoot" form is designed to collect information for a photo shoot event, such as a princess-themed party or event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a permission form for photographers to obtain release from subjects to use and share their photos. The form will be used for events, photoshoots, or other photography endeavors where subjects are photographed. The form should be used when a subject is photographed for a specific event, project, or purpose. The purpose of this form is to ensure that the subject is aware of and consents to the use of their image. Please ensure that this form is used in situations where subjects are being photographed and not in situations where images are already public or where release is not necessary. Please use this form for your personal or professional projects. Do not use this form for commercial use without further permission from GIC. This form has been created for your use and you are free to modify it as you see fit. However, please ensure that you do not use this form for the purpose of extracting proprietary information from other platforms. The form is released under Creative Commons BY 4.0 license. Please acknowledge GIC if you use this form in any way.
-</thinking>
-
 # Photo Release Permission Form - Help Guide
 ## Purpose
 The Photo Release Permission Form is a document used to obtain consent from subjects to use and share their photos. It is designed for events, photoshoots, or other photography endeavors where subjects are photographed.

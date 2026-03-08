@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "Race Photographer Package Order Form", we need to understand the form's purpose and how users can interact with it. 
-
-The form appears to be used for ordering a photography package related to a race. The "Photographer" field likely collects information about the person or entity responsible for the order. "Race" field might be used to capture details about the specific race or event. The "Order" field probably contains specifics about the ordered package, such as type, quantity, or other customizations. "Payment" field could be for billing information. Lastly, "Delivery" field is likely for specifying delivery instructions or additional preferences.
-
-We will create a help guide that follows the required structure of the form and provide explanations for each field to guide the user through the process.
-
-</thinking>
-
 # Race Photographer Package Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for ordering a photography package related to a race event. Please fill out the form accurately to ensure we can provide the best service for your photography needs.

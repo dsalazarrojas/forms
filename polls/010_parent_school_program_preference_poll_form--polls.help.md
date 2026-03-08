@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect preferences from parents about the school programs they are interested in for their children. The form is designed to be completed by parents to express their interests in various school programs. Each field in the form is meant to gather specific information from the parents. The form does not have any required fields, but it is recommended that parents complete all fields to provide a comprehensive picture of their preferences. The form is not intended for duplicate entries or multiple submissions from the same user.</thinking>
-
 # parent_school_program_preference_poll_form - Help Guide
 ## Purpose
 This form is used to collect preferences from parents about the school programs they are interested in for their children.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly by the end user, so we should explain its purpose and the fields it contains. This form is designed to be used for private prayers, likely for personal or internal use within an organization or institution. It is not intended for public use or mass distribution. The purpose of this form is to collect information from individuals making private prayer requests, and it is essential to fill it out correctly to ensure that the requests are handled appropriately.
-</thinking>
-
 # private_prayer_request_form - Help Guide
 ## Purpose
 The "private_prayer_request_form" is designed to collect information for private prayer requests. This form is meant for internal use within an organization or institution and is not intended for public use or mass distribution.

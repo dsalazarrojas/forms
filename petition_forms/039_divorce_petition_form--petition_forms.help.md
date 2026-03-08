@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the Divorce Petition Form. The form is used to document the necessary information for a divorce proceeding in a court of law. The purpose of this guide is to assist users in filling out the form correctly and accurately. 
-
-The following sections cover the form's purpose, how to complete it, and a detailed explanation of each field. Please review them carefully before proceeding.
-
-</thinking>
 # Divorce Petition Form - Help Guide
 
 ## Purpose

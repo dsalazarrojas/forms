@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Slime Ingredient Order Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-To create this help guide, I will first analyze the provided YAML input, understanding the form's purpose and the fields it contains. Based on this analysis, I will craft a clear and concise help guide that explains each field's purpose and how to complete the form.
-
-The form is for pet grooming service reservations, and it appears to be designed to collect information about pet owners and their pets, along with details about the service they want to book. The fields are quite straightforward, but some might be unclear without further explanation.
-
-</thinking>
-
 # pet_grooming_service_reservation_form - Help Guide
 ## Purpose
 This form is designed to help you book a pet grooming service for your furry friend. Please fill out the form with your pet's details and your preferred date and time for the service.

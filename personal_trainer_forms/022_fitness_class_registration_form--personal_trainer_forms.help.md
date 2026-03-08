@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals registering for a fitness class program. The form requires basic personal details such as name, email, age, and emergency contact information. It also asks about the individual's medical conditions, consent, and program preferences (type, duration, and start/end dates). The form's goal is to ensure that all participants provide accurate and necessary information to be safely and effectively part of the fitness program. To avoid duplication, this form should only be filled out once by each participant.
-</thinking>
-
 # Fitness Class Registration Form - Help Guide
 ## Purpose
 This form is used to register for a fitness class program. It collects necessary information to ensure a safe and effective experience for all participants.

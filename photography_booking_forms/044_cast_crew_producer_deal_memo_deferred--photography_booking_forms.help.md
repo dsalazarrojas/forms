@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a document template for recording and managing agreements between cast, crew, and production staff on a film or television project. It's likely used to ensure clarity and consistency in communication among parties involved in the production process.
-
-To confirm, I'll review the form's fields and options to ensure I understand the intended purpose and usage.
-
-Upon examining the form, I see that it collects various details such as production title, production type, party information (including name, role, social security number or tax ID, address, phone number, and email), compensation terms (including amount, type, and payment schedule), deferment terms (including amount, payment due date, and conditions), engagement details (including production start and end dates, expected number of work days), and agreement acknowledgment and acceptance.
-
-The form seems to cover all essential aspects of a production deal, making it a comprehensive tool for recording and managing agreements between parties involved in the production process.
-
-</thinking>
-
 # Cast/Crew/Producer Deal Memo Deferred - Help Guide
 
 ## Purpose

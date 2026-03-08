@@ -1,13 +1,3 @@
-<thinking>
-This form is for tracking student progress, which is a crucial aspect of student learning and development. The Student Tracking Progress form allows teachers to monitor students' language skills, identify areas where they need improvement, and provide targeted support. This form is designed to be completed by teachers or instructors after observing or assessing student progress, and it's meant to be a regular occurrence throughout the academic year.
-
-To determine if this form is relevant and not duplicated, consider the following:
-
-* Is this form used for student progress tracking, language skills assessment, and providing feedback to students?
-* Does the form ask for essential information such as student name, language proficiency, and teacher/teacher assistant assigned to the student?
-* Are the fields required and labeled clearly to help with data collection and ease of understanding?
-
-</thinking>
 # Student Tracking Progress - Help Guide
 ## Purpose
 The Student Tracking Progress form is designed to help teachers track and evaluate student progress, identify areas where students need improvement, and provide feedback and support. This form is an essential tool for educators to assess student language skills, monitor their growth, and adjust instruction to meet student needs.

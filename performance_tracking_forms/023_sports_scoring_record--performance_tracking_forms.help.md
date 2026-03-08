@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, the Sports Scoring Record form is a data collection tool used to track sports scoring records. The form is used to gather information about sports games, including the sport name, game date and time, referee details, and team scores. The form is designed to be flexible and adaptable to different sports and game formats. However, it's essential to note that this form is not intended for real-time scoring updates during live games but rather for recording post-game summaries.
 
 Before proceeding, ensure that you have all the necessary information to complete the form accurately. If you need to record multiple games, it's recommended to fill out this form for each game separately.

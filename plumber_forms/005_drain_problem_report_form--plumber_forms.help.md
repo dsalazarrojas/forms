@@ -1,12 +1,3 @@
-<thinking>
-The form "Drain Problem Report Form" is designed to collect information about drain problems reported by customers or users. This form is used to gather data about the location, type, and priority of the problem, as well as any other relevant details. To ensure the form is completed correctly, please review the fields below to understand their purpose and required information. 
-
-Before filling out the form, please ensure that you are reporting a new problem and not repeating a report already submitted. If you are unsure about the purpose of the form or if the information is already reported, please contact your administrator or support team.
-
-The form will guide you through the process of providing information about the problem. Please be as specific as possible when filling out the form and provide all relevant details.
-
-</thinking>
-
 # Drain Problem Report Form - Help Guide
 ## Purpose
 The "Drain Problem Report Form" is used to collect and record information about drain problems reported by customers or users. This form helps the administration to identify, categorize, and prioritize drain problems effectively.

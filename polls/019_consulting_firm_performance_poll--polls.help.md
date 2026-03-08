@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients and stakeholders about their experience with a consulting firm. The form is meant to be a quick and easy way to gather information about the firm's performance in various areas, such as project management, communication, and problem-solving skills. It's likely that the firm will use this data to identify areas of improvement and provide better services in the future.
-
-Before starting, please note that some fields are marked as "required", which means you need to fill them out for the form to be complete. Also, some fields have specific options that are meant to guide your answers.
-
-</thinking>
-
 # Consulting Firm Performance Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients and stakeholders about their experience with a consulting firm. The data collected will help the firm identify areas of improvement and provide better services.

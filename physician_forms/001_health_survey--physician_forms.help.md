@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's health survey, gathering data on various aspects of their medical history, treatments, and procedures. It is intended for use by healthcare professionals to assess and document patient health status. Please ensure that this form is only used for the intended purpose and that you have the necessary permissions to collect and process patient data.
-To prevent duplication, please ensure that each patient's form is filled out only once, and that the patient's information is up-to-date and accurate.
-</thinking>
-
 # Health Survey - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information about a patient's health survey, including medical history, treatments, and procedures.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect votes for the "Building Of The Year" award, which likely recognizes outstanding architecture projects. The form aims to gather information from voters, including their contact details, profession, experience level, and preferences for different building categories. The form also asks voters to rank their top three choices for "Building of the Year" and rate the importance of certain criteria such as design excellence, sustainability, innovation, community impact, overall quality, and overall feedback on the competition. The form is designed to be completed by individuals with professional experience in the architecture industry, as indicated by the "Your Role" and "Years of Professional Experience" fields. The optional fields allow voters to provide additional demographic information.
-</thinking>
-
 # Building Of The Year Voting - Help Guide
 ## Purpose
 This form is designed to collect votes for the "Building Of The Year" award, which recognizes outstanding architecture projects. Voters are asked to provide their contact information, profession, and experience level, as well as their top three choices for "Building of the Year" and their preferences for different criteria.

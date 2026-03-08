@@ -1,6 +1,3 @@
-<thinking>
-To create a user-friendly experience for our clients, we need to ensure they understand the purpose and requirements of the Holiday Mini Session RSVP Form. This form is designed to collect RSVP information from clients for their scheduled holiday mini sessions. The purpose of this form is to gather essential details, such as guest names, contact email, RSVP status, and session preferences, to facilitate smooth communication and planning for the photo shoot. This form will help us confirm the client's availability and preferences, ensuring a seamless experience for both the client and our photography team. To prevent duplication, please fill out the form only once, and ensure that you're providing accurate information.</thinking>
-
 # Holiday Mini Session RSVP Form - Help Guide
 ## Purpose
 The Holiday Mini Session RSVP Form is designed to collect essential details from clients for their scheduled holiday mini sessions. This form will help us confirm their availability and preferences, ensuring a smooth experience for both the client and our photography team.

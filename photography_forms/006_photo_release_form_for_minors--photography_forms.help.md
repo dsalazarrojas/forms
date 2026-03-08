@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The photo release form for minors is a document that must be filled out by an adult who has a parental or guardian relationship with the minor. This form is used to grant permission for the minor to be photographed or recorded. The form is usually required for events where minors are involved and photography is taking place. The purpose of this form is to ensure that all parties involved in the photo release have given their consent. This form should not be submitted for adults. 
 
 </thinking>

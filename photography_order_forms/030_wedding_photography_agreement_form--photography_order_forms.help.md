@@ -1,5 +1,4 @@
-> <thinking>...</thinking>
-This form is used for a wedding photography service where a couple can select and agree on the details of their wedding photography package. The purpose of this form is to ensure that both the photographer and the client are on the same page about the services provided, the number of sessions, print size, and other important details.
+> This form is used for a wedding photography service where a couple can select and agree on the details of their wedding photography package. The purpose of this form is to ensure that both the photographer and the client are on the same page about the services provided, the number of sessions, print size, and other important details.
 </thinking>
 
 # Wedding Photography Agreement Form - Help Guide

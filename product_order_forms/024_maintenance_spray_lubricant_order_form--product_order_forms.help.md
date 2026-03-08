@@ -1,7 +1,3 @@
-<thinking>
-The Maintenance Spray Lubricant Order Form is used to place an order for maintenance spray lubricant, a critical product used to prevent wear and tear on equipment and machinery. To ensure accurate and efficient ordering, please review and complete the form carefully.
-</thinking>
-
 # Maintenance Spray Lubricant Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for the maintenance spray lubricant order. Please use this guide to ensure you fill out the form correctly.

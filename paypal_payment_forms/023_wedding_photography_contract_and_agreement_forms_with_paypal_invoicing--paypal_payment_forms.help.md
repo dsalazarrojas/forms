@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect and store client and payment information for wedding photography services. The form includes fields for the client's contract and agreement, billing details, payment method, and other relevant information. 
-
-The form is intended to be used by wedding photographers to collect necessary details from clients. This includes the client's name, contact information, payment amount, and other payment details. 
-
-Note that some of the fields are optional and may not be applicable for all clients. 
-
-Please ensure that all the required fields are filled out correctly and that the information is accurate before proceeding to the next step.
-
-Also, please ensure that the form is being used only for its intended purpose and not for any other type of transaction or agreement.
-</thinking>
-
 # Wedding Photography Contract And Agreement Forms With Paypal Invoicing - Help Guide
 ## Purpose
 This form is designed to collect and store client and payment information for wedding photography services.

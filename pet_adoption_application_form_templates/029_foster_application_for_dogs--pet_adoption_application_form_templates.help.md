@@ -1,7 +1,3 @@
-<thinking>
-To help us find the perfect foster home for our lovable dogs, we need to know a bit about you. Please take a few minutes to fill out this form. This information will help us get in touch with you and learn more about your interests and lifestyle. We'll review your application carefully and get back to you soon.
-</thinking>
-
 # Foster Application For Dogs - Help Guide
 ## Purpose
 This form is designed for potential foster families to apply for a foster home for a dog. We'll use the information you provide to get in touch with you and learn more about your lifestyle and interests to find the best match for you and your family.

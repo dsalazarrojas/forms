@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The goal of this form is to collect information and feedback from users who have submitted an environmental initiative. This form captures relevant details such as the user's name, email, phone number, organization, job title, position, level, location, comments, and check boxes for specific checkboxes. The form also allows users to upload files, if required. The purpose of this form is to ensure that the submitter's information is accurate and up-to-date, which will facilitate the review and follow-up process.
 
 To ensure the form's purpose is not duplicated, please ensure that the submitted information is not already in our system.

@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect information about a police complaint, which can include reports of crimes, incidents, or other law enforcement-related matters. This form is designed to gather relevant details from the witness or involved parties to help the authorities investigate and address the situation. The form is meant to be used for general purposes and is not specific to any particular police department or jurisdiction.
-
-Before proceeding, ensure that you are filling out the form for the correct incident and that the information you provide is accurate and relevant. If you have already submitted a similar form for the same incident, please do not repeat the effort, as it may cause confusion and redundancy in the investigation process.
-
-Please note that this form is for general use and may not be specific to your local police department's procedures or requirements. If you are unsure or have specific questions, it is best to contact the relevant authorities directly for clarification.
-
-</thinking>
-
 # police_complaint_form - Help Guide
 ## Purpose
 The police complaint form is a general-purpose document used to report crimes, incidents, or other matters related to law enforcement. It is designed to help the authorities gather relevant information to investigate and address the situation.

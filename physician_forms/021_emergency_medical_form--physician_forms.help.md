@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture essential information about emergency medical incidents, providing a standardized framework for physicians to record details about patients' injuries, medical conditions, and treatment. This form helps ensure consistency and accuracy in documenting critical data.
-
-To avoid redundancy and ensure that the form's purpose is met, it is best used in conjunction with other relevant medical records. Before completing the form, it's essential to verify that the information provided aligns with any existing medical records and that the form is filled out in the context of a real emergency medical incident, not for speculative purposes.
-
-</thinking>
-
 # emergency-medical-form - Help Guide
 
 ## Purpose

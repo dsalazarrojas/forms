@@ -1,6 +1,4 @@
-><thinking>...</thinking>
-
-# Emergency Medicine Residency Evaluation Form - Help Guide
+># Emergency Medicine Residency Evaluation Form - Help Guide
 
 ## Purpose
 This form is used to evaluate the performance of residents in an emergency medicine residency program. It provides a framework for assessors to rate and provide feedback on a resident's performance, attendance, and progress during their rotations. This form helps program directors and evaluators make informed decisions about resident development and advancement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture details related to a trade for print agreement between a model and a photographer. This form helps ensure that the photographer and model have a clear understanding of the terms and conditions of the agreement, especially regarding the usage of the photographs. The purpose of this form is to provide a structured and standardized way of documenting these agreements, which helps prevent miscommunication and potential disputes. It's worth noting that while this form is designed to be filled out by the photographer, the model is also expected to be aware of and understand the terms of the agreement.
-</thinking>
-
 # Trade For Print Agreement - Help Guide
 ## Purpose
 This form is a trade for print agreement between a model and a photographer, outlining the terms and conditions of the usage of the photographs. It ensures both parties have a clear understanding of the agreement, reducing the risk of miscommunication and potential disputes.

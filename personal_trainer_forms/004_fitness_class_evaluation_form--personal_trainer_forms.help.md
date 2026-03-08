@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from clients about their experience with a fitness class. This form is used to evaluate the quality of the class, including its overall rating, experience, instructor quality, facilities, communication, exercise selection, class structure, equipment, and feedback. The form is designed to be user-friendly and easy to complete, with select multiple options for each question to allow for multiple answers to be selected. The form is intended to be completed by clients after attending a fitness class, providing an opportunity for them to share their thoughts and opinions about their experience. The form will help us improve our services and provide better experiences for our clients in the future.
-
-This form is not intended to be used for multiple purposes, and each field should only be filled out once by each client.
-
-Before proceeding, please make sure to read through each field carefully and answer accordingly.
-
-This guide will walk you through each field and explain what it means and how to complete it.
-
-</thinking>
-
 # Fitness Class Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from clients about their experience with a fitness class.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals who have participated in a photo shoot or event, and to obtain their consent for their images to be used for publicity purposes. The form should be completed by the participant to provide their personal details and agree to the terms of the publicity release and risk waiver. Please ensure that this form is not a duplication of the existing form and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Risk Waiver Form And Publicity Release - Help Guide
 ## Purpose
 The Risk Waiver Form And Publicity Release is a document that must be completed by individuals who have participated in a photo shoot or event. It collects their personal details and their consent for their images to be used for publicity purposes. The form is essential for legal and administrative reasons.

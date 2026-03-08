@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the heat recovery equipment order process. It's intended for customers or internal stakeholders to provide details about the delivery of heat recovery equipment. The form is not required, but it's recommended for accurate and efficient processing. It's possible that customers or stakeholders may already have the necessary information, but filling this form will ensure that all the required details are captured correctly.
-
-</thinking>
-
 # heat_recovery_equipment_order_form - Help Guide
 ## Purpose
 The heat recovery equipment order form is a tool used to collect information about the delivery of heat recovery equipment. This form is used to ensure that all necessary details are captured accurately and efficiently.

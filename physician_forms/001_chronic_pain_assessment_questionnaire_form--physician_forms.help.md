@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to gather information on the patient's chronic pain experience. The form assesses the location, intensity, duration, and types of pain, as well as factors that trigger or relieve the pain. It also asks about the impact of pain on daily activities, sleep, and mood, and if the patient has received any previous treatments. Additionally, it collects information on any medications currently being taken and if there is a family history of chronic pain conditions. The purpose is to provide a comprehensive understanding of the patient's pain experience, which will aid in developing a personalized treatment plan.
-</thinking>
-
 # Chronic Pain Assessment Questionnaire Form - Help Guide
 ## Purpose
 The Chronic Pain Assessment Questionnaire Form is used to gather information on your chronic pain experience. The information collected will help us understand your pain better, and aid in developing a personalized treatment plan.

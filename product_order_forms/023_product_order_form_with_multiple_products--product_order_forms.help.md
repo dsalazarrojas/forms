@@ -1,14 +1,3 @@
-<thinking>
-This guide will cover the purpose, completion instructions, and field explanations for the Product Order Form With Multiple Products.
-
-The form is used to collect information about ordered products, including product details and quantities. It's a multi-product form, as indicated by the multiple "product_*" fields. The form is designed to accommodate up to 9 products. 
-
-It's intended for customers to select and specify the details of their ordered products. This form does not handle payment or inventory management, so it's assumed that the system will handle those aspects separately.
-
-The form has a submit, save, and cancel button, indicating the typical workflow of creating, modifying, and abandoning the order. The form does not enforce any specific logic for quantity validation, so users are free to enter any value. However, it's expected that the system will handle quantity validation internally.
-
-</thinking>
-
 # Product Order Form With Multiple Products - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect essential information from clients who are participating in training sessions or programs. This information will help the trainers or administrators to understand the clients' medical conditions, emergency contacts, and other necessary details to ensure their safety during the training sessions. This form is meant to be completed by the clients themselves, typically prior to the start of the training session.
-
-The goal of this form is to gather accurate and up-to-date information about the clients, and it is recommended that the clients complete it truthfully and thoroughly. This form does not collect sensitive or financial information. It is an essential part of the training process and helps the trainers or administrators to provide the best possible care and support to the clients.
-
-Please note that this form is not a substitute for professional medical advice. If you have any concerns or questions, please consult a healthcare professional.
-
-</thinking>
-
 # Personal Training Liability Waiver - Help Guide
 ## Purpose
 The Personal Training Liability Waiver form is used to collect essential information from clients about their medical conditions, emergency contacts, and other relevant details before participating in training sessions or programs.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help pharmacists manage their weekend work schedules and medication inventories. It's essential to ensure that pharmacists have a clear overview of their work shifts, medication levels, and communication details. This form will help pharmacists efficiently plan and execute their weekend work.
-
-The form is intended to be completed by pharmacists to provide accurate and up-to-date information about their weekend work schedules, medication inventories, and contact details. The form will be used by administrators to review and update pharmacist work schedules and inventory levels.
-
-Please note that this form is not a replacement for the actual work schedules and inventory management system, but rather a supplementary tool to aid in the efficient management of weekend work.
-
-Before proceeding, ensure that you have all necessary information and permissions to complete this form accurately.
-
-</thinking>
-
 # pharmacy_weekend_work_checklist - Help Guide
 ## Purpose
 This form is designed to help pharmacists manage their weekend work schedules, medication inventories, and communication details during the weekend.

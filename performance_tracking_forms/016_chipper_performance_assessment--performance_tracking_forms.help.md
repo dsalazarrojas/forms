@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather information on the performance of a chipper, a machine used in various industries such as woodworking, construction, and manufacturing. The form is intended to assess the chipper's performance in multiple areas, including its ability to process materials, efficiency, and reliability. 
-
-The form will help users evaluate the chipper's performance based on various metrics, including its processing capacity, fuel efficiency, engine start performance, idle quality, cutting performance, material handling capability, discharge quality, clogging or jamming frequency, reliability metrics, and overall performance rating. Additionally, it will gather information on the assessor's confidence in the chipper's safety features and operator safety, as well as their overall assessment of the chipper's performance. 
-
-The form will not assess the assessor's personal opinions or emotions towards the chipper, but rather, the factual information about its performance. 
-
-This form was created using a public survey topic metadata and is intended for use by anyone in the industry who wants to evaluate their chipper's performance. 
-
-This form will guide the assessor to evaluate their chipper's performance and provide suggestions for improvement, which will aid in maintaining or deciding on replacing their current chipper.
-
-</thinking>
-
 # Chipper Performance Assessment - Help Guide
 ## Purpose
 

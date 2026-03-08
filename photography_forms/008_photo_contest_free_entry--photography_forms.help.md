@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide will cover the "photo_contest_free_entry" form, which appears to be a user-facing form designed for a photography contest or competition where participants can submit their entries for free. To create this guide, I will follow the provided YAML structure and create a concise and practical explanation of each field.
-
-</thinking>
-
 # photo_contest_free_entry - Help Guide
 ## Purpose
 The "photo_contest_free_entry" form is designed for participants to submit their entries for a photography contest or competition. This guide will walk you through each field to help you complete the form successfully.

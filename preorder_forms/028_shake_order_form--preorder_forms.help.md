@@ -1,9 +1,3 @@
-<thinking>...internal reasoning block to understand the form purpose and check for relevance and non-duplication...
-
-The form's purpose is to collect information from customers to fulfill orders for shakes, likely for a food or drink company. The form has a straightforward design with various fields to capture different types of information. I'll review each field and provide a concrete, concise explanation for end-users to understand how to complete it correctly.
-
-</thinking>
-
 # Shake Order Form - Help Guide
 ## Purpose
 The Shake Order Form is designed to collect information from customers for shake orders. This form is intended for customers who want to place an order for a shake, and the provided fields help gather necessary details to fulfill their request.

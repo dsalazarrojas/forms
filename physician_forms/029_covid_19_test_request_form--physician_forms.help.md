@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is used correctly, we will need to check if the user meets the requirements and hasn't been tested previously. We should also verify that the user has entered the correct date and time zone for the request date and symptom onset date. This form is meant to be used by people requesting a COVID-19 test and is a crucial step in the testing process. By filling out this form, users will be able to provide their details and preferences for their test, making it easier for healthcare workers to understand their needs.
-</thinking>
-
 # COVID 19 Test Request Form - Help Guide
 ## Purpose
 This form is used to request a COVID-19 test for yourself or someone else. Please fill out the form with accurate and complete information so that healthcare workers can understand your needs and provide the best possible service.

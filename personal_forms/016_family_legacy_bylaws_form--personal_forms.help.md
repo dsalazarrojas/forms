@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gather information about family values, decision-making structures, review processes, and family history. The purpose of this form is to provide a comprehensive overview of a family's values, decision-making processes, and historical context. This form is not intended to be a legally binding document, but rather a tool for families to reflect on their own values, processes, and history. It's essential to complete this form honestly and thoroughly to get the most out of it.
 
 # Family Legacy Bylaws Form - Help Guide

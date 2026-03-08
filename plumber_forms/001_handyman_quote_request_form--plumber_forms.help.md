@@ -1,13 +1,3 @@
-<thinking>
-
-The Handyman Quote Request Form is used to gather information from clients for handyman services. 
-
-This form is designed to collect relevant details about the client's job, including their name, contact information, service type, job location, and job description. It also captures information about the requested date, job status, job priority, and whether a tool is assigned to the job. Additionally, the form includes fields for client and handyman signatures, job completion details, and job status updates. 
-
-To the best of my knowledge, this form is a unique instance and does not duplicate any existing form.
-
-</thinking>
-
 # Handyman Quote Request Form - Help Guide
 ## Purpose
 The Handyman Quote Request Form is used to gather information from clients for handyman services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help customers preorder a branded water bottle for their club or organization. The form collects customer information, bottle details, customization options, order details, and payment information. It is used to ensure accurate and efficient processing of orders, and to provide customers with an easy way to customize their water bottle with their club's branding.
 
 # Club Branded Water Bottle Preorder Form - Help Guide

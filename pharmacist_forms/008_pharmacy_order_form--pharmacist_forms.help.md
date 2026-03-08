@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Pharmacy Order Form", I'll first review the form fields and their purposes. This form seems to be used for ordering prescriptions, likely for medical institutions or pharmacies. It captures essential information about the patient, the prescriber, and the order details. The form is designed to collect patient demographics, prescriber information, and medication specifics such as dosage form, quantity, and instructions. I won't create any additional fields or invent business logic, sticking to the provided structure.
-</thinking>
-
 # Pharmacy Order Form - Help Guide
 ## Purpose
 The Pharmacy Order Form is a crucial document for ordering prescriptions. It ensures that pharmacists and medical staff receive all necessary information about patients and prescribers, facilitating accurate and efficient medication dispensing.

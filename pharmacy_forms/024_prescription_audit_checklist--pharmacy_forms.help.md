@@ -1,9 +1,3 @@
-<thinking>
-This form is used to audit and verify prescriptions filled at a pharmacy. The purpose of this form is to ensure that prescriptions are accurately filled and that all relevant information is documented. The form is intended to be filled out by pharmacy staff or others who have access to this information.
-
-Before filling out this form, please confirm that you are authorized to access this information and that it is not being duplicated in any other audit or documentation process.
-</thinking>
-
 # Prescription Audit Checklist - Help Guide
 ## Purpose
 The Prescription Audit Checklist is a form used to ensure that prescriptions are accurately filled and all relevant information is documented.

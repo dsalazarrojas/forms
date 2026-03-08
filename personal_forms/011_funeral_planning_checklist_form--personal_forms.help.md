@@ -1,11 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form to understand its purpose and the fields it contains. From the input schema, it appears that this form is designed for planning and organizing a funeral, covering various aspects related to the funeral, such as location, date, time, contacts, and services. Each field is a component in this planning process. Let's break down each field and its relevance to the form's purpose. I'll ensure that the guide is concise and easy to follow for end-users.
-
-The form seems to cater to different funeral arrangements, including burials, cremations, and memorial services. It's likely used by individuals or organizations responsible for planning and coordinating funeral events.
-
-With this understanding, I'll create a clear and user-friendly help guide for the form.
-
-</thinking>
-
 # Funeral Planning Checklist Form - Help Guide
 ## Purpose
 This form is designed to assist with the planning and organization of funerals, covering various aspects such as location, date, time, contacts, and services. It helps individuals or organizations coordinate and arrange funerals, burials, cremations, and memorial services.

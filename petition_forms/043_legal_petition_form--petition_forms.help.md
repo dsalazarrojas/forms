@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose and scope of this form, we'll take a look at the provided YAML fields.
-
-This form is for legal matters, and the fields seem to cover various aspects of a legal petition. We see fields for personal information (name, address, phone), contact information (email, parties contact info), dates (date), and court-related information (court level, court location, jurisdiction area). The form also includes fields for the case itself (case number, case type, case status) and the petition details (reason, relief sought, parties involved). There are also fields for additional information (attachment, signature, date of service, time of service, service type).
-
-We'll assume that this form is intended for legal professionals and individuals seeking to initiate a legal petition.
-
-</thinking>
-
 # Legal Petition Form - Help Guide
 ## Purpose
 This form collects information for a legal petition, which is a written request to a court for some kind of relief or redress. A legal petition typically involves a specific legal case and is used to initiate or continue a legal process. This form helps gather all necessary details about the case and the petitioner.

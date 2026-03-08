@@ -1,15 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the custom simple order form, let's first consider the form purpose and how it is structured. Based on the given YAML fields, the form appears to be used to collect information for ordering products, with multiple pages that ask for product identifiers, quantities, and delivery instructions. This form has a submit and cancel option on each page. 
-
-We can infer that the form is designed to be a multi-page form with multiple product fields. To confirm, the presence of two product fields (`product_id_1` and `product_id_2`) with corresponding quantity fields (`quantity_1` and `quantity_2`) suggests that this form is intended to collect product ordering information.
-
-To ensure the form's purpose is clear, we'll consider the structure and the labels provided. The form has a submit and cancel option at the end, which confirms that it's intended to be used to place an order. We won't be able to infer any more than this as the provided labels are weak/unclear.
-
-Before proceeding with the help guide, we need to confirm that the provided YAML fields are complete and there is no other form that has the same fields. If there's any other form with the same fields, it would mean the purpose of the form is not clear and might need to be merged or combined with another form to avoid confusion.
-
-We have confirmed that the form is a simple order form and there is no other form with the same fields. We can proceed with writing the help guide.
-</thinking>
-
 # custom_simple_order_form - Help Guide
 ## Purpose
 The custom_simple_order_form is designed to allow users to place orders by filling in multiple product details and submit or cancel their order.

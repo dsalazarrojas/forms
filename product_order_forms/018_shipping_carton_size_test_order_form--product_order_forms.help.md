@@ -1,11 +1,3 @@
-<thinking>
-The shipping_carton_size_test_order_form form is used to collect information for testing purposes, specifically for determining the size of a carton for shipping. This form is designed to gather data on delivery preferences, delivery date, delivery time, delivery location, and other relevant details related to the test carton. It's essential to ensure that this form is filled out accurately and thoroughly to get a precise estimate of the carton size. Please note that this form is not intended for actual order placement or shipping purposes. 
-
-This form is part of the product_order_forms category and is designed for testing purposes, so there's a high likelihood that it's not intended for real-world use. It's crucial to double-check the required fields and ensure that all the necessary information is provided to get a reliable test result. 
-
-To avoid duplication of effort, please confirm that this form is not being used for actual shipping purposes. If you're unsure, it's always best to consult with the relevant team members or the form's owner to clarify any doubts.
-</thinking>
-
 # shipping_carton_size_test_order_form - Help Guide
 ## Purpose
 The shipping_carton_size_test_order_form is a test order form used to collect information for determining the size of a carton for shipping. It's designed for testing purposes and should not be used for actual order placement or shipping.

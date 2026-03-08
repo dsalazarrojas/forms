@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for users to sign up for senior adoption programs. It is intended for people interested in adopting a senior pet from a shelter or rescue organization. To avoid duplication, please note that this form is not affiliated with any specific shelter or rescue organization, and it's meant to be an example or a template for your own use. Before filling out this form, ensure that you have all necessary contact and home information ready.
-
-</thinking>
-
 # Senior Adoption Sign Up - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in adopting a senior pet from a shelter or rescue organization.

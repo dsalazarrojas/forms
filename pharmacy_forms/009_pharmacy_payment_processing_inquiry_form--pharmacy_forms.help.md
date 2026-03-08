@@ -1,7 +1,3 @@
-<thinking>
-This form is for processing pharmacy payment inquiries. To prevent duplication, we will check for any open or in progress payments for the same customer and issue. This is to prevent over-processing of similar issues.
-</thinking>
-
 # pharmacy payment processing inquiry form - Help Guide
 ## Purpose
 This form is used to document and track pharmacy payment inquiries. It captures details of payments and issues that need to be resolved, making it easier for teams to follow up on customer queries.

@@ -1,11 +1,3 @@
-<thinking>
-The form "golf_performance_training_agreement" is designed to record and track the details of golf performance training programs. The form likely serves to collect information from coaches and players regarding training programs, including details about the program, coaches involved, players participating, dates and times of training, and other relevant metrics such as total players and total coaches.
-
-Internal reasoning checks:
-- The form is part of a performance tracking system, so it should be completed by coaches and/or administrative staff with access to such systems.
-- The form may be duplicated or completed multiple times to track progress and changes over time.
-</thinking>
-
 # golf_performance_training_agreement - Help Guide
 ## Purpose
 This form is used to record and track the details of golf performance training programs.

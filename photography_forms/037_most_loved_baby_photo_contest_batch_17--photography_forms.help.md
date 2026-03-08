@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a baby's photo habits and preferences from the contest's batch 17. The goal is to understand how participants store, share, and interact with their baby photos. This form is not intended for duplicate submissions, so please only fill it out once per participant. If you have already submitted a form for this batch, please do not attempt to submit again.
-</thinking>
-
 # most_loved_baby_photo_contest_batch_17 - Help Guide
 ## Purpose
 This form is part of a contest to collect information about baby photo habits and preferences from batch 17. It's designed to gather insights on how participants store, share, and interact with their baby photos.

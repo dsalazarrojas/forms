@@ -1,16 +1,3 @@
-<thinking> 
-This form is used by managers and reviewers to justify and approve salary increases for employees. The form is used to provide a structured way to document and track the process of justifying and approving merit increases. It captures information about the employee's job title, department, and salary increase justification, as well as the manager and reviewer's reviews and approvals. The form is typically filled out when an employee is requesting a merit increase. 
-
-Please ensure that you are filling out this form correctly to avoid delays or rejections in the merit increase process.
-
-Before filling out this form, please ensure that you have all necessary information and approvals in place.
-
-When filling out this form, please be sure to provide clear and concise justifications for the requested merit increase.
-
-Please note that the form requires approval from both the manager and reviewer. 
-
-</thinking>
-
 # Merit Increase Justification Form - Help Guide
 
 ## Purpose

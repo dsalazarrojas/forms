@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect information about a patient's medication dosage, including the name of the medication, the dosage frequency, unit, and instructions. This form is intended for healthcare professionals to request or provide information about a patient's medication regimen. This form will likely be used in a clinical or hospital setting.
-
-The form has multiple fields, including text fields for first and last name, date of birth, medication name, dosage unit, and notes; select fields for pharmacy and doctor; and fields for date submitted, submitted by, email, phone, address, fax, and comments. The fields are not marked as required, but this information is crucial for the form's purpose.
-
-To ensure that the form is filled out correctly and efficiently, it is essential to understand each field's purpose and how to complete it accurately.
-
-</thinking>
-
 # Medication Dosage Information Request Form - Help Guide
 ## Purpose
 The Medication Dosage Information Request Form is designed to collect information about a patient's medication regimen. This form is used to request or provide information about a patient's medication dosage, including how often the medication is taken, the unit of the medication, and any specific instructions.

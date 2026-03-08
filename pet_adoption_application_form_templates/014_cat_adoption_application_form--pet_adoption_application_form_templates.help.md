@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cat Adoption Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from potential cat adopters to ensure that they are a good fit for adopting a cat from our organization. This form helps us understand your lifestyle, experience with pets, and ability to provide a loving home for a feline friend.

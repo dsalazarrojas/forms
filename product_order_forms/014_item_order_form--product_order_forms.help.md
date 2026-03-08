@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information from customers about their order requests. It's crucial to ensure that the form is completed accurately and thoroughly to guarantee the best experience for both the customer and the business. Before starting, please review the form carefully to understand its purpose and how it should be filled out. If you've filled out this form before, you might be able to quickly recall the process. If not, take a few minutes to read through this guide to ensure you complete the form correctly.</thinking>
-
 # item_order_form - Help Guide
 ## Purpose
 The item_order_form is used to collect information from customers about their order requests. This form helps the business understand the customer's needs, ensuring a smooth and efficient order process.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers who want to preorder candy flavors. The form will guide the customer through a series of fields to gather essential details such as contact information, flavor preferences, delivery details, and payment options. The form is divided into multiple pages to make it easier for customers to provide the necessary information without feeling overwhelmed. By following this guide, customers will be able to submit their preorders successfully.
-
-</thinking>
-
 # Candy Flavor Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to preorder candy flavors. It will help you determine the customer's contact information, flavor preferences, and delivery details.

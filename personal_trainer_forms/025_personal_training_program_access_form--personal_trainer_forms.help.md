@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to grant access to a personal training program. The purpose of the form is to collect information from clients or potential clients about their goals, training preferences, session preferences, and access requirements. This form will likely be used by personal trainers or fitness studios to tailor their services to the individual's needs. 
-
-Before filling out the form, ensure that you are not already registered or have not been granted access to a similar program. If you are unsure, contact the form owner for clarification.
-
-The form should only take a few minutes to complete, and you will need to provide the following information:
-</thinking>
-
 # Personal Training Program Access Form - Help Guide
 ## Purpose
 This form is designed to grant access to a personal training program. It will be used by personal trainers or fitness studios to tailor their services to your individual needs.

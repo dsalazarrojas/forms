@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information for patient referrals, which are used to refer patients to specialists or other healthcare professionals for further treatment or consultation. The purpose of this form is to gather relevant details about the patient, including their name, medical record number, and contact information, as well as the doctor's information, including their name, specialty, contact details, and practice address. This form is meant to be completed by a doctor or healthcare professional and will help in facilitating smooth referrals and communication between healthcare providers.
-</thinking>
-
 # patient_referral_form - Help Guide
 ## Purpose
 The patient referral form is designed to collect information about patients and doctors for referral purposes.

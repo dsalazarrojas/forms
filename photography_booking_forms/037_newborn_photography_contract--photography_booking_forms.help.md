@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the terms and conditions of a photography session, including the session date, customer information, and contract terms. This form is intended to be completed by the customer before or after the photography session. It is used to ensure that both the customer and the photographer are on the same page regarding the use of the images, contract terms, and session details. This form is a standard template that can be used for any photography session.
-</thinking>
-
 # Newborn Photography Contract - Help Guide
 ## Purpose
 This form is used to document the terms and conditions of a photography session, including the session date, customer information, and contract terms. It is intended to be completed by the customer before or after the photography session.

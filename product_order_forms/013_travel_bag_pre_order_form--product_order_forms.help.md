@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to pre-order travel bags. The form will help customers provide necessary information for their order, such as their contact and delivery details, travel information, and bag specifications.
-</thinking>
-
 # Travel Bag Pre Order Form - Help Guide
 ## Purpose
 

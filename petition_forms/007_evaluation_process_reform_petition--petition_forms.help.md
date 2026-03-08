@@ -1,5 +1,3 @@
-<thinking>...this form is a petition for evaluation process reform and is used to gather information from individuals who want to express their support or feedback on the evaluation process. The form captures contact information, supporter details, and feedback. To ensure that the petition is not duplicated, you should only fill out the form once. If you are unsure if a similar petition has already been completed, please check with the relevant authorities to confirm. If you are not a real person, please do not fill out this form. This form is designed to be easy to use and understand, and we encourage you to fill it out carefully to ensure your message is conveyed effectively. If you need help, contact: form@gic.mx</thinking>
-
 # Evaluation Process Reform Petition - Help Guide
 ## Purpose
 This form is designed to gather information from individuals who want to express their support or feedback on the evaluation process. If you are a member of the public, a stakeholder, or an employee, you can use this form to share your thoughts and opinions on how to reform the evaluation process.

@@ -1,5 +1,3 @@
-<thinking>...The Hospice Consent Form is used to gather information from patients and their families to ensure they are aware of and understand the services and benefits provided by the hospice. This form helps to confirm the patient's status and ensure they are comfortable with the care team involved in their care. It also gathers contact information for the patient and their caregivers, ensuring that we can stay in touch and provide the best possible care... </thinking>
-
 # Hospice Consent Form - Help Guide
 ## Purpose
 The Hospice Consent Form is a document that helps us understand your needs and preferences as a patient or family member. It ensures we have the necessary information to provide personalized care and services.

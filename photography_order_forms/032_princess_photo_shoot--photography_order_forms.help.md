@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to book a photo shoot with the photographer. The form is designed to collect the basic contact information of the client and the details of the photo shoot they would like to book. The required fields are not specified, but it's assumed that the client will provide the necessary information to complete the form. This form is likely used by the photographer's office to schedule and coordinate photo shoots.
-</thinking>
-
 # princess_photo_shoot - Help Guide
 ## Purpose
 This form is used to book a photo shoot with the photographer. It gathers the client's contact information and details about the session.

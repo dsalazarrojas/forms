@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <markdown>
 
 # industrial_network_hub_order_form - Help Guide

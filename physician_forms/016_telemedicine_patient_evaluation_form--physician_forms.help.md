@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Telemedicine Patient Evaluation Form is to gather essential information from patients during a remote medical evaluation. This form will help healthcare professionals assess a patient's health and medical history in a telemedicine setting. Before continuing, ensure you have reviewed the patient's medical charts and have the necessary permissions to conduct the evaluation remotely. If you have previously conducted a similar evaluation on this patient, please note that this form is to be filled in addition to any existing information, and not as a replacement.
-</thinking>
-
 # Telemedicine Patient Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather relevant information from patients during a telemedicine evaluation, helping healthcare professionals assess a patient's health and medical history.

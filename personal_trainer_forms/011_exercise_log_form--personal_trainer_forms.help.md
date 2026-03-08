@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exercise Log Form - Help Guide
 ## Purpose
 This form is designed to record and track exercise activities. It is intended to be used by individuals who perform regular physical activities, such as athletes, fitness enthusiasts, or gym-goers. The form will help you to monitor your progress and identify patterns in your exercise routine.

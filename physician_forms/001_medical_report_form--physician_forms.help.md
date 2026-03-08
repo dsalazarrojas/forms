@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect medical information for a medical report. The fields in this form are intended to be completed by the patient or their representative. The purpose of this form is to gather essential details about the patient's medical history, including their personal details, medical group, medical provider, and date of visit. This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created by AI using public survey topic metadata.
-
-</thinking>
-
 # medical_report_form - Help Guide
 ## Purpose
 This form is designed to collect medical information for a medical report, including personal details, medical group, medical provider, and date of visit.

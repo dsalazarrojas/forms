@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather presentation peer feedback from observers. This feedback can be provided by any individual who attended the presentation. Feedback forms are used to ensure that both the presenter and the presenter's manager receive constructive and actionable comments. By completing this form, you can provide your honest and thoughtful opinion on the presentation, its content, and the presenter's delivery and time management. Please ensure that your feedback is specific, objective, and respectful.
-</thinking>
-
 # Presentation Peer Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect peer feedback on a presentation, providing an opportunity for observers to share their thoughts and suggestions on the content, delivery, and time management of the presentation.

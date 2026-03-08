@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll first think about the purpose and context of this form. Based on the provided YAML fields, it appears to be a form for a microbrewery to order equipment and supplies. This form might be used by suppliers or equipment providers to gather information from customers or breweries about their needs and preferences. The form seems to cover various aspects of the ordering process, including delivery details, payment methods, contact information, and shipping addresses. Before writing the help guide, I'll consider that the form might be used by customers or breweries who are unfamiliar with the ordering process, so I'll aim to make the guide clear, concise, and easy to follow.</thinking>
-
 # Microbrewery Equipment Supply Order Form - Help Guide
 ## Purpose
 This form is designed to help microbreweries order equipment and supplies from suppliers. It collects information about the equipment needed, delivery details, payment methods, contact information, and shipping addresses.

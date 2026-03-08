@@ -1,14 +1,3 @@
-<thinking>
-This form is for photographers and models to submit an application for a photo shoot. It is intended to gather information about the photographer and model's experience, equipment, and availability. The form is used to streamline the submission process and ensure that all necessary information is provided.
-
-Before submitting the form, please note that:
-
-* This form is for the purpose of booking a photo shoot, not for general inquiries or other purposes.
-* Please ensure that you have all necessary information about the shoot before submitting the form.
-* If you have any questions or concerns, please contact the team at [contact email or phone number].
-
-</thinking>
-
 # lookbook_photo_shoot_application_form - Help Guide
 ## Purpose
 The lookbook_photo_shoot_application_form is a tool for photographers and models to submit applications for photo shoots. It is designed to gather essential information about the shoot, including the date, location, photographer's and model's experience, equipment, and rates.

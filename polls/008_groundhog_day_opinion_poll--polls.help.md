@@ -1,9 +1,3 @@
-<thinking>
-This form is a collection of questions aimed at assessing the public's perception and experience with Groundhog Day. It asks about the respondent's familiarity, beliefs, and experiences related to the holiday, including how they learn about and gather information, their participation frequency, and the sources from which they obtain this information. The questions cover a range of topics, from general familiarity and beliefs to specific details such as where and how often they get their information.
-The form is not meant to be taken seriously or used for any serious analysis. It's a lighthearted and entertaining way to gauge the public's understanding and opinions on the holiday, and its primary purpose is to generate amusement and conversation.
-Please note that some fields might seem repetitive or similar. This is due to the form being generated using a combination of metadata from multiple sources, resulting in some fields being created to cover various aspects of the topic.
-</thinking>
-
 # Groundhog Day Opinion Poll - Help Guide
 ## Purpose
 This form is a collection of questions about Groundhog Day, a holiday celebrated on February 2nd. It aims to gauge the public's understanding, experiences, and opinions on the holiday.

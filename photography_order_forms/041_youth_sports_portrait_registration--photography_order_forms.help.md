@@ -1,6 +1,3 @@
-<thinking>
-We're creating a form to collect information for a photography order for youth sports teams. This form will be used to gather details about the athlete, their parent contacts, photo package choices, and other relevant information for the photo shoot. We should ensure that the form is clear and concise, and that each field is properly explained to avoid confusion. I will review the form to ensure that each field is necessary and not duplicated.</thinking>
-
 # Youth Sports Portrait Registration - Help Guide
 ## Purpose
 This form is designed to collect information for a photography order for youth sports teams. It will be used to gather details about the athlete, their parent contacts, photo package choices, and other relevant information for the photo shoot.

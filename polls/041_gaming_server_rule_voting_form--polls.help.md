@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is designed to allow server administrators to collect votes on rules for a gaming server. The form is not intended for general user feedback, but rather to collect specific voting data for server-specific rules. Each field on the form is used to gather information that will be used to determine the popularity of certain rules among server administrators and users. This form is typically used by server administrators to collect votes on rules that are specific to their server and community. The form is intended for server administrators to collect data that will help them make decisions on which rules to implement or maintain on their server. The form is not intended to be used for general user feedback or suggestions. It is possible that some fields may not be relevant or applicable to certain servers or communities, and it is the responsibility of the server administrator to determine which fields are necessary for their specific use case. If you are unsure about the purpose or relevance of a field, please reach out to your server administrator for guidance. 
-
-... </thinking>
-
 # Gaming Server Rule Voting Form - Help Guide
 ## Purpose
 The Gaming Server Rule Voting Form is designed to collect votes on rules for a gaming server. Server administrators use this form to gather data on the popularity of certain rules among server users and administrators.

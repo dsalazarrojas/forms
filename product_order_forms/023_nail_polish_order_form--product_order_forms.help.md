@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Polish Order Form - Help Guide
 
 ## Purpose

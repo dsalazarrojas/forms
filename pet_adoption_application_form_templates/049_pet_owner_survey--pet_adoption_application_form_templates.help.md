@@ -1,7 +1,3 @@
-<thinking>This form is designed to collect information from pet owners who are interested in adopting a pet. The purpose of this form is to gather essential details about the pet owner, such as their contact information and pet's species. The form is divided into several fields, each requiring specific input from the pet owner. To ensure that the form is completed accurately and efficiently, it's crucial to understand each field's purpose and requirements.
-
-This form is part of a larger process for adopting pets, and the information collected will be used for administrative purposes only. The fields are designed to be as straightforward as possible, with clear labels and instructions to guide the pet owner through the process.</thinking>
-
 # pet_owner_survey - Help Guide
 ## Purpose
 This form is designed to collect information from pet owners who are interested in adopting a pet. The information collected will be used for administrative purposes only.

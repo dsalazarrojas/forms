@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Photo To Cartoon Me Form" which is used to order photography services. The form is used to gather information about a photo, such as the uploaded photo, name, price, and additional details like select_one, select_multiple, date, time, note, email, phone, and submitted_by. The form is likely used in an online application or service where customers can fill out the form to request photography services. Before proceeding, we'll make sure the form is completed correctly and doesn't duplicate efforts.
-</thinking>
-
 # Photo To Cartoon Me Form - Help Guide
 ## Purpose
 The purpose of this form is to help you order photography services, allowing you to create a cartoon version of a photo of your choice.

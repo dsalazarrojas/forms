@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dress Code Policy Petition Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vote Exam Date - Help Guide
 ## Purpose
 This form allows users to select multiple exam dates for a vote. The purpose of this form is to collect information on the dates when an exam will take place, allowing users to express their preferences.

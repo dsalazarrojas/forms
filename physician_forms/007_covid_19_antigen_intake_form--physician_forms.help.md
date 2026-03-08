@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient's COVID-19 antigen intake, including their personal details, medical history, and treatment information. Before completing this form, ensure that you have reviewed and understood the requirements and guidelines for COVID-19 testing and treatment. This form is designed to be completed by physicians and healthcare providers for patients who have received an antigen test.
-
-Please note that the form fields and their requirements may need to be updated or modified based on changes in public health guidelines or regulations.
-
-</thinking>
-
 # Covid 19 Antigen Intake Form - Help Guide
 ## Purpose
 The Covid 19 Antigen Intake Form is a medical form designed for physicians and healthcare providers to collect information about a patient's COVID-19 antigen intake. This form helps in gathering essential details about the patient's medical history, treatment, and personal contact information.

@@ -1,7 +1,3 @@
-<thinking>
-The Student Daily Work Hours Check In Form is designed to record and track a student's work hours for the day. This form is intended to be used by students to provide accurate and transparent information about their work hours, which can be reviewed by instructors or administrators for monitoring and feedback. To avoid duplication, this form should only be filled out once a day, and students are expected to provide accurate and honest information in each field. The form should be completed before the end of the day, so that the work hours can be reviewed and recorded in a timely manner.
-</thinking>
-
 # Student Daily Work Hours Check In Form - Help Guide
 ## Purpose
 This form is used to record and track a student's work hours for the day. It helps to provide accurate and transparent information about their work hours, which can be reviewed by instructors or administrators for monitoring and feedback.

@@ -1,7 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for a form called "personal_training_par_q_form". This form is used to collect personal and health-related information from users, which will be used to create a training plan tailored to their needs. To ensure that this guide is clear and concise, we'll break it down into sections that cover the form's purpose, how to complete it, and a field-by-field explanation of each section. We'll also include any relevant tips or additional information that users should be aware of while filling out the form.
-</thinking>
-
 # personal_training_par_q_form - Help Guide
 ## Purpose
 The personal_training_par_q_form is a form designed to collect your medical history, contact information, and other relevant details to create a customized training plan tailored to your needs and goals. This form will help our team get a better understanding of your medical conditions, medical history, and contact information to provide you with the best possible guidance and support.

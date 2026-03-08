@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # legislative_proposal_submission_form - Help Guide
 
 ## Purpose

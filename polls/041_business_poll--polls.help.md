@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Business Poll - Help Guide
 ## Purpose
 This form is designed to gather opinions and feedback from employees on various business-related topics, including remote work, work-life balance, and industry trends. It aims to help us better understand your thoughts and opinions on these matters, which will be used to inform our business decisions and improve our work environment.

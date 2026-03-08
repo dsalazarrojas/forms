@@ -1,14 +1,3 @@
-<thinking>
-This form serves as a tool for collecting signatures and statements of support for petitions, specifically for addressing concerns around censorship. It allows users to express their stance on censorship in various areas (internet, literature, art, journalism, and academia) and provides an option for users to share their personal motivations and reasons for signing the petition. The form requires users to input their contact information, including name, email, phone number, city, and country, to facilitate signature verification and communication. Users can opt-out of public display of their name and instead keep their signature private.
-
-This form aims to gather a collective voice against censorship, promoting diverse voices and freedom of expression.
-
-To ensure that signatures are valid and not duplicated, it would be best for users not to sign the petition multiple times with different information.
-
-The following guide will walk you through each field and its purpose.
-
-</thinking>
-
 # Censorship Petition Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-We're creating a help guide for a form used to collect feedback on the effectiveness of a fitness app's workout plans. This form likely aims to gather insights on how well the app's workout plans are helping users achieve their fitness goals. 
-The form's fields seem to be categorized into two main sections: "General Info" and "Feedback", with some fields that require specific information such as email and phone number, likely for trainer communication. The form's goal is to help fitness trainers or coaches assess the effectiveness of their workout plans and make informed decisions for future adjustments.
-</thinking>
-
 # Fitness App Workout Plan Effectiveness Report - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on the effectiveness of a fitness app's workout plans. This feedback will help trainers assess whether their plans are meeting the users' needs and make necessary adjustments to improve future workouts.

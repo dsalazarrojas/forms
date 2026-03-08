@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consumer Rights Petition Form - Help Guide
 
 ## Purpose

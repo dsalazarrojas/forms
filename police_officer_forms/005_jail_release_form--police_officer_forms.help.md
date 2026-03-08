@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by law enforcement agencies to facilitate the release of individuals from jail or custody. It's a crucial document that ensures the proper procedure is followed when releasing someone from detention. The form is used to collect information about the release date, time, location, and reason, which is essential for official records and potential follow-up actions. Please review the form carefully to ensure accuracy and completeness.
-
-</thinking>
-
 # Jail Release Form - Help Guide
 ## Purpose
 The Jail Release Form is used to document the release of individuals from jail or custody.

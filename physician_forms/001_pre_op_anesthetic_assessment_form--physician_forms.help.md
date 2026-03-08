@@ -1,7 +1,3 @@
-<thinking>
-This form is used by a patient to provide pre-operative information to the anesthetist and surgical team before undergoing anesthesia and surgery. The form helps the patient communicate important medical history, allergies, and medication information, ensuring a safe and successful surgery. The form is intended for patients undergoing multiple surgical procedures and requires information on each procedure, the surgical team involved, and potential complications or concerns. Please fill out this form as accurately and thoroughly as possible to ensure the best care for your upcoming surgery. 
-Please note that the form has been designed to be as comprehensive as possible, but if you are unsure about any of the fields, you can consult with your surgeon, anesthetist, or medical professional for clarification.</thinking>
-
 # pre-op-anesthetic-assessment-form - Help Guide
 ## Purpose
 The pre-op-anesthetic-assessment-form is a patient-facing form used to provide essential information to the anesthetist and surgical team before undergoing anesthesia and surgery. This form helps ensure a safe and successful surgical experience.

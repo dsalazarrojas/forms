@@ -1,30 +1,3 @@
-<thinking>
-
-We need to create a user-facing help guide for the "Holiday Mini Session Contract" form. This form is used to collect information about the client and their holiday mini session details. We want to ensure that end-users understand the form's purpose and how to complete it correctly. 
-
-Before we start, let's quickly review the form:
-
-The form has the following fields:
-- Session Details (page 1)
-- Client Name
-- Contact Email
-- Contact Phone
-- Session Date
-- Session Time
-- Location
-- Contracted For
-- Notes
-- Signature (Yes/No)
-- Consent (Yes/No)
-- Payment Terms
-- Signed Payment Terms
-- Payment Terms Date
-- Payment Terms Signed Date
-
-This form is likely used to capture the necessary information for a holiday mini session, which may include details about the client, their contact information, session specifics, and payment terms.
-
-</thinking>
-
 # Holiday Mini Session Contract - Help Guide
 ## Purpose
 This form is used to collect information about the client and their holiday mini session details for a holiday mini session contract. The purpose of this form is to gather necessary information to finalize the contract between the photographer and the client.

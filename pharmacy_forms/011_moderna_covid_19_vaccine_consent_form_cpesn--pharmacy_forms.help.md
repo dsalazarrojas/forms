@@ -1,8 +1,3 @@
-<thinking>
-This form is for obtaining patient consent for the Moderna COVID-19 vaccine. The form is part of the Community Phasing Expanded Social Needs (CPESN) initiative. It's crucial to ensure that users understand the purpose and requirements of the form to ensure accurate and secure completion. Before proceeding, it is essential to confirm that this form is relevant to the user's needs and has not been completed previously.
-
-</thinking>
-
 # Moderna COVID 19 Vaccine Consent Form CPESN - Help Guide
 ## Purpose
 This form is for patients to consent for the Moderna COVID-19 vaccine. It captures essential information about the patient, including contact details, medical screening, and vaccine administration site.

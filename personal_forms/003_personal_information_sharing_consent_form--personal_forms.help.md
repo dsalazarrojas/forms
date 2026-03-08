@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect sensitive personal information from individuals for the purpose of sharing their medical history and authorization data with a medical provider. This form is intended for individuals who have been diagnosed with a medical condition and require access to their medical history for treatment purposes.
-
-Before filling out this form, please note that your responses are voluntary and will be kept confidential. Your answers will only be used for the purpose of sharing your medical history and authorization data with your designated medical provider.
-
-Please ensure that the information you provide is accurate and up-to-date. If you are unsure about any of the questions, please ask for clarification before proceeding.
-
-The information collected through this form will not be shared with any other organization or individual without your explicit consent. Your rights as a patient are protected, and you have the right to opt-out of sharing your information at any time.
-
-Before proceeding, please review the following pages to ensure you understand what information is being collected and how it will be used.
-
-</thinking>
-
 # Personal Information Sharing Consent Form - Help Guide
 ## Purpose
 This form is used to collect sensitive personal information from individuals for the purpose of sharing their medical history and authorization data with a medical provider.

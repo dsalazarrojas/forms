@@ -1,22 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze the provided YAML fields.
-
-The form is called "Weightlifting Program Application Form" and is divided into several sections, each representing a different aspect of a person's fitness and medical information. The form includes fields for user details, program details, medical details, emergency contact information, medical conditions, weight classifications, and more.
-
-It appears that this form is designed for individuals interested in participating in a weightlifting program. The purpose of the form is likely to gather information about the individual's fitness level, medical history, and other relevant details to ensure their safety and suitability for the program.
-
-To confirm, let's examine the form sections:
-
-* User details and program details suggest that the form is collecting information about the individual's preferences and goals.
-* Medical details and medical conditions imply that the form is gathering information to assess any potential health risks.
-* Emergency contact information suggests that the form is ensuring that the individual has a support system in place.
-* Weight classifications and rep fields indicate that the form is assessing the individual's fitness level.
-
-Given the structure and content of the form, it is likely that this form is for individuals interested in joining a weightlifting program, such as a gym or fitness center. The form is designed to gather information to ensure that the individual is a good fit for the program and to identify any potential health risks.
-
-</thinking>
-
 # Weightlifting Program Application Form - Help Guide
 ## Purpose
 This form is designed for individuals interested in joining a weightlifting program. It is used to gather information about your fitness level, medical history, and other relevant details to ensure your safety and suitability for the program.

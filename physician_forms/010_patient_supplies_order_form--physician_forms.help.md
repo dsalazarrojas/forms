@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect and store information about medical supplies for patients. The form is designed to gather details about the patient's identity, the medical supply they require, and the specific quantity of the supply needed. This form is typically used by healthcare professionals to order medical supplies for patients, ensuring that the correct supplies are provided with accurate quantity and cost information.
 
 </thinking>

@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect information from patients regarding their referral to a physician. The form will guide patients in providing their medical history, insurance status, and reasons for their referral to a doctor. When filling out this form, please make sure to fill out all required fields and answer truthfully. If a field is not required, it is still recommended to fill it out if you have the necessary information. If you have any questions or concerns, do not hesitate to reach out to a healthcare professional.
-</thinking>
-
 # Doctor Referral Form - Help Guide
 ## Purpose
 The Doctor Referral Form is designed to collect information from patients regarding their referral to a physician. This form is meant to gather essential details that will help healthcare providers better understand the patient's medical history, insurance status, and reasons for their referral.

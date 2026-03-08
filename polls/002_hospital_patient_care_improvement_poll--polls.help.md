@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients to rate their experiences with hospital staff, such as doctors and nurses, and provide feedback on their overall care and service. The goal is to help the hospital identify areas of improvement. Please ensure you are completing this form for a specific visit date and rating a staff member you interacted with. If you are a staff member, this form is not intended for you to rate yourself, as it is meant for patients to provide feedback.
-</thinking>
-
 # Hospital Patient Care Improvement Poll - Help Guide
 ## Purpose
 The Hospital Patient Care Improvement Poll is a form used by patients to provide feedback on their experiences with hospital staff and services. The poll helps the hospital identify areas for improvement and ensures that patient needs are met.

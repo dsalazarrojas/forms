@@ -1,29 +1,3 @@
-<thinking>
-We need to create a help guide for a "Photography Order Form" that explains its purpose, how to complete it, and what each field means. This form is for ordering photography sessions. The form will likely be used by photographers to receive requests from clients. 
-
-The form should include fields for:
-- First Name
-- Last Name
-- Email
-- Contact Number
-- Contact Email
-- Session Packages (e.g., Session 1, Session 2, Session 3)
-- Session Date
-- Session Time
-- Notes
-- Session Package
-- Session Start Time
-- Session End Time
-- Session Duration
-- Session Location
-- Session Date
-- Contact Address
-- Package Price
-
-We should make sure the form fields are not duplicated and that each field is explained in a user-friendly way. 
-
-</thinking>
-
 # Photography Order Form - Help Guide
 ## Purpose
 The "Photography Order Form" is designed to collect information from clients for ordering photography sessions. This form is used by photographers to receive and process requests from clients.

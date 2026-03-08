@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect user feedback on a jingle that has been shared in a work environment. The purpose of this form is to gather opinions on whether the jingle is catchy, memorable, and enjoyable to listen to. Users will be asked to rate and comment on various aspects of the jingle, including its length, quality, and tone. This form is intended for internal use within a company and will help management understand the preferences of their employees regarding jingles. It is not a formal survey but rather a fun and informal way to gather opinions and feedback.</thinking>
-
 # job_jingle_voting_survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback on a jingle that has been shared in a work environment.

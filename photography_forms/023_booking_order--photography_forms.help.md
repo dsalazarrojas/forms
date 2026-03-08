@@ -1,11 +1,3 @@
-<thinking>
-
-This form seems to be a booking order form for a photography service. It's likely intended for clients to book a photography session for various types of events such as weddings, portraits, and product photography. The form requires the client's personal information, event details, and photography preferences. It also includes options for selecting the photography style, package type, and required deliverables.
-
-To confirm, the form is likely used to collect information for an event photography booking, and the fields should be explained in a way that makes sense for this type of booking.
-
-</thinking>
-
 # Booking Order - Help Guide
 ## Purpose
 This form is used to book a photography session for various types of events such as weddings, portraits, and product photography. Please fill out the form with your details to secure your date and preferences.

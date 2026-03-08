@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photography Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer information and session details for photography services. It is intended for customers to input their contact details, select their preferred session packages, and schedule a session date and time. The form also allows customers to provide additional notes and email address and phone number.

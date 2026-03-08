@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I want to confirm that I understand the form purpose and structure. The form is designed for hospital admissions, and it appears to be a comprehensive form with multiple sections for collecting various types of information, including patient info, medical history, medical conditions, medications, allergies, vital signs, and additional medical history, conditions, medications, and allergies. The form has 25 fields, each with a unique ID, name, label, hint, type, and options. Some fields are required, while others are optional. I will ensure that the help guide accurately reflects the form's purpose and structure.</thinking>
-
 # Hospital Admission Form - Help Guide
 ## Purpose
 The Hospital Admission Form is designed to collect comprehensive information about a patient's medical history, conditions, medications, allergies, and vital signs during the hospital admission process. This form is meant to be completed by healthcare professionals for accurate and efficient patient assessment.

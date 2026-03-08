@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help users create a personalized watchlist of movies, allowing them to track and share their favorite films. The form collects various details about each movie on the watchlist, including title, genre, and whether or not the user has watched the movie. Users can also specify their preferred viewing method, favorite streaming service, and favorite genre of movies. Additionally, users can add extra movies to their list with a text field for the title, select options for genre and watch status, and rating.
-To ensure that users understand the purpose and relevance of the form, it is crucial to verify that they are not attempting to create a form for a different type of movie-related activity, such as creating a movie review or rating a movie. The form is designed to be user-friendly and easy to use, with clear and concise labels and hints for each field.
-</thinking>
-
 # Best Movies Watchlist Checklist - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-To create an internal reasoning block that justifies this form purpose, we need to extract the form's purpose from the provided YAML structure.
-Based on the form's title and fields, it appears that this form is intended for customers to place orders for youth photography services, such as printing and ordering photos. The form might be used by a business or organization that offers photography services to customers, perhaps for events or personal use. The purpose of this form is to collect customer information, payment details, and print order preferences.
-</thinking>
-
 # Youths Photography Order Form - Help Guide
 ## Purpose
 The Youth Photography Order Form is designed for customers to place orders for youth photography services. This form allows you to provide your information, select print order options, and enter a payment amount.

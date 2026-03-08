@@ -1,7 +1,3 @@
-<thinking>
-We should ensure this form is only used when a printing order is required for the product. Otherwise, we might end up creating unnecessary records. Additionally, we need to double-check that all relevant information is filled out, especially for fields like customer email and phone number, which will be useful for communication and order tracking.
-</thinking>
-
 # Shelf Talker Printing Order Form - Help Guide
 ## Purpose
 The Shelf Talker Printing Order Form is designed to collect necessary information for creating a printing order. This form helps us understand the client's requirements for printing, including product selection, delivery details, and payment information.

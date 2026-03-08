@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Culinary Class Filming Release Form - Help Guide
 
 ## Purpose

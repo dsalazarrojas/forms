@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather information from healthcare professionals about their experiences and concerns regarding Mpox, a rare and contagious viral disease. The form is intended to help healthcare providers identify potential risks and develop effective prevention and response plans. 
-
-The form includes sections for guidelines, patient history, symptoms, contact tracing, response plans, and prevention plans. 
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI. It is released under a Creative Commons BY 4.0 license, allowing users to modify and use it for their own purposes.
-
-The purpose of this form is to collect information from healthcare professionals about Mpox, its prevention, and response plans. It is not intended for patient use.
-
-This form is not intended to replace the advice or guidance of medical professionals. Healthcare providers are responsible for ensuring the accuracy and relevance of the information provided in this form.
-
-Please ensure you complete this form carefully and accurately, as the information provided will be used to inform public health decisions.
-
-</thinking>
-
 # mpox_checklist - Help Guide
 ## Purpose
 The mpox_checklist form is designed to gather information from healthcare professionals about Mpox, a rare and contagious viral disease. 

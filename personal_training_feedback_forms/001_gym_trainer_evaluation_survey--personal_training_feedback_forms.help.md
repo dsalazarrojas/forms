@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for evaluating the professionalism and communication skills of gym trainers, allowing users to provide feedback on their performance. This form is meant to be filled out by gym-goers after their training sessions, providing valuable insights to help trainers improve their skills and provide better service.
-We will be checking for duplication and making sure this guide is only used for this specific form and use-case.
-</thinking>
-
 # Gym Trainer Evaluation Survey - Help Guide
 ## Purpose
 The Gym Trainer Evaluation Survey is a tool used to evaluate the professionalism and communication skills of gym trainers. This form will help us understand how well our trainers are performing and provide valuable feedback to help them grow in their role.

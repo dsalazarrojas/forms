@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Test Result Reporting Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sports Photography Pass Registration - Help Guide
 ## Purpose
 The Sports Photography Pass Registration form is designed for event organizers and photographers to register for access to sports events. The form collects essential information about the event and the photographer's details, including the event title, start and end times, date, and event location. Additionally, it captures the photographer's information, such as their experience and equipment. The form also allows for the registration of media and photo passes, which are used to grant access to the event for photography purposes.

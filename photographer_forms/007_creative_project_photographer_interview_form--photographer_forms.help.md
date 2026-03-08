@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from photographers for a creative project. The form is designed to be completed by photographers who are participating in a project. The purpose of the form is to collect their details, project requirements, and any additional information that might be relevant to the project.
-The form is not affiliated with any form platform, and it is an original adaptation created using public survey topic metadata as inspiration. It is released under CC BY 4.0 license, allowing users to use, modify, and even sell derived forms, giving credit.
-</thinking>
-
 # Creative Project Photographer Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information from photographers for a creative project. It will help us better understand your requirements, details, and any additional information relevant to the project.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help evaluate the performance of dental assistants in a peer-review process. The form is meant to be completed by dental professionals who work with or supervise dental assistants. The evaluation will cover aspects of the assistant's work ethic, performance, and contribution to the dental practice.
-The form is intended to gather information on the assistant's name, date and time of evaluation, evaluation period, frequency of evaluations, feedback, overall performance, preferred dental practice, and practice address. The evaluation period, frequency of evaluations, preferred dental practice, and practice address are select or multiple-choice fields that require the evaluator to choose from pre-defined options. The date and time fields are optional and allow the evaluator to input free-form data.
-The form is designed to be completed by one dental professional evaluating another, making it a peer-to-peer evaluation process. This form does not require any proprietary content from other form platforms and is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Dental Assistant Peer Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help evaluate the performance of dental assistants in a peer-review process.

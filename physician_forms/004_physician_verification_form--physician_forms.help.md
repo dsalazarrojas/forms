@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Physician Verification Form is used for verifying a patient's information and medical history before providing treatment or services. This form ensures that the physician has all the necessary details to proceed with the treatment plan. 
 
 ### Physician Verification Form - Help Guide

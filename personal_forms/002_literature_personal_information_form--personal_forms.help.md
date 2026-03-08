@@ -1,16 +1,3 @@
-<thinking>
-
-We're creating a help guide for the "Literature Personal Information Form" which aims to collect essential details about individuals who are interested in literature programs. This form is designed to be used by end-users to provide their personal information, which will be used for the purpose of program evaluation and assessment. To ensure relevance, we'll be focusing on the following fields:
-- Name: A brief description of the individual's name.
-- Email: A valid email address of the individual.
-- Phone: A contact phone number for the individual.
-- Date of Birth: The date of birth of the individual, used for verification and assessment purposes.
-- Address: The individual's current address.
-- Program Participants: A multiple-choice question asking if the individual is interested in being part of the literature program.
-- Program Interest: A field for the individual to express their interest in the literature program.
-
-</thinking>
-
 # Literature Personal Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential personal details from individuals interested in the literature program. Please complete this form accurately to ensure a successful evaluation and assessment process.

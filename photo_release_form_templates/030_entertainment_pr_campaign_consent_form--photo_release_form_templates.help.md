@@ -1,5 +1,3 @@
-<thinking>...This form is for participants in an entertainment PR campaign to provide their consent for the use of their likeness, image, and contact information. The form is designed to ensure that participants are aware of and agree to how their information will be used in promotional activities. The form should only be completed by participants or their authorized representatives... </thinking>
-
 # Entertainment PR Campaign Consent Form - Help Guide
 
 ## Purpose

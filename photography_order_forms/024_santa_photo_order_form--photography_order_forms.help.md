@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from users to process their photography orders for the upcoming Santa Photo Sessions. This form will be used by both internal staff and external customers. It is essential to ensure that all required fields are filled in accurately to ensure that the order is processed correctly.
-The purpose of this form is to gather necessary details about the photo session, such as the session type, date, contact information, and any additional messages or instructions.
-Please complete the form carefully to avoid any confusion or mistakes during the processing of your order.
-</thinking>
-
 # Santa Photo Order Form - Help Guide
 ## Purpose
 The Santa Photo Order Form is designed to collect information from users to process their photography orders for the upcoming Santa Photo Sessions.

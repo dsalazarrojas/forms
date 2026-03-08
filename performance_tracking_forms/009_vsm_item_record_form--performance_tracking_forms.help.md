@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for tracking performance items related to Visual System Modeling (VSM). The form is meant to be used for recording and managing various VSM items, allowing users to input and store relevant information. To ensure accurate and complete data entry, it's crucial to fill out the form correctly and thoroughly. Before proceeding, please review the form's purpose and requirements to avoid duplication of effort. 
-
-Please note that this form is for recording VSM items, so it's essential to understand what VSM items are and what information is being requested. This form should only be used for tracking and managing VSM items, not for other purposes. 
-
-Before starting to fill out the form, make sure you have all the necessary information and that you are authorized to access and use this form. If you're unsure about any of the fields or their requirements, please reach out to your supervisor or the designated authority for clarification.
-</thinking>
-
 # VSM Item Record Form - Help Guide
 ## Purpose
 This form is designed for tracking and managing Visual System Modeling (VSM) items. It allows users to input and store relevant information about VSM items.

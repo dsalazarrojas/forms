@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I will review the form fields and purpose to ensure that I provide accurate and relevant explanations.</thinking>
-
 # Harvest And Nightmare Before Christmas With ScentDelishus - Help Guide
 
 ## Purpose

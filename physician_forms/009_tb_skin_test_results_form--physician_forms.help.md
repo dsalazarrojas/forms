@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the TB Skin Test Results Form is to record and document the results of a TB skin test, including patient information, test site, test results, and follow-up details. This form is designed to be completed by medical professionals, such as physicians, to record and document the outcomes of TB skin tests. 
-
-To ensure accuracy, the form is intended to be used only once a test is conducted, and not duplicated for multiple tests. This is to prevent any confusion or errors in recording and interpreting test results over time. 
-
-</thinking>
-
 # TB Skin Test Results Form - Help Guide
 ## Purpose
 The purpose of this form is to document the results of a TB skin test, including patient information, test site, test results, and follow-up details.

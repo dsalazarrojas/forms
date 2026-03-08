@@ -1,9 +1,3 @@
-<thinking>Let's create a help guide for the Vendor Training Kit Order Form.
-
-The purpose of this form is to collect information from vendors who wish to purchase a training kit. The form will guide them through the necessary steps to provide the required details for their order. To ensure that the form is completed accurately and efficiently, it's essential to follow the instructions below.
-
-</thinking>
-
 # Vendor Training Kit Order Form - Help Guide
 ## Purpose
 

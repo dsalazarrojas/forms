@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect new member information and emergency contact details in a group fitness setting. It's intended for individuals who are joining a fitness group, such as a gym or fitness class, to provide essential contact and demographic information for their membership and emergency contact purposes. The form ensures that the individual has provided all necessary details to create a comprehensive member profile.
-
-Before proceeding, it's essential to check if you're not already a member of this fitness group. If you're unsure, please reach out to the group administrator for confirmation.
-
-</thinking>
-
 # Group Fitness Onboarding Form - Help Guide
 ## Purpose
 The Group Fitness Onboarding Form is designed to collect new member information and emergency contact details to create a comprehensive member profile.

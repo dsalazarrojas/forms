@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for personal trainers to register new clients and gather necessary information for safe and effective training. The form is intended for trainers to collect basic contact and emergency contact details, medical information, and fitness goals and experience level of the client. The form will be used to create a client profile and will help the trainer to assess the client's readiness for training.
-
-</thinking>
-
 # Personal Training Registration Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from clients to create a comprehensive profile for safe and effective personal training. Please fill out the form accurately and thoroughly to ensure a successful training experience.

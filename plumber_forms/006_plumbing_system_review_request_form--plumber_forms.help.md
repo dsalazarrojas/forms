@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "plumbing_system_review_request_form" form is to collect information from users to facilitate a review of their plumbing system. This form is likely to be used by customers or plumbers to report issues with their plumbing systems and schedule appointments for repairs or maintenance. The form will help the reviewer understand the problem and schedule a convenient time to address it.
-This form should not be filled out if the user is already scheduled for a repair/maintenance appointment. In this case, please contact the reviewer or call the office to let them know the appointment time has changed.
-</thinking>
-
 # plumbing_system_review_request_form - Help Guide
 ## Purpose
 The "plumbing_system_review_request_form" is used to report issues with a plumbing system and schedule a convenient time for a reviewer to review the system.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Trimmer contract extension form - Help Guide
 ## Purpose
 This form is used to extend a Personal Trimmer contract for clients. It's essential to fill out this form when a client's contract has expired or is approaching its end date. Please fill out this form carefully to ensure accurate and timely extensions.

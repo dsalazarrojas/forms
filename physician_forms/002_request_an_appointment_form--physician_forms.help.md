@@ -1,9 +1,3 @@
-<thinking>
-A form designed to help patients or their representatives schedule an appointment with a medical professional. This form collects essential information such as name, contact details, medical history, availability, preferred contact method, and appointment preferences (date, time, type, and medical practice name).
-
-Before starting, ensure that this form is the correct tool for your specific request and not a duplicate. Review the form fields below to understand what information is required and how to proceed.
-</thinking>
-
 # request_an_appointment_form - Help Guide
 ## Purpose
 This form is designed for patients or their representatives to schedule appointments with medical professionals. It collects necessary information to ensure the best possible care and communication.

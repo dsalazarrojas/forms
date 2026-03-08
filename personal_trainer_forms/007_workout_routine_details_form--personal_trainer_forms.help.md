@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information about a user's workout routine details. The purpose of this form is to collect essential data from users regarding their workout frequency, duration, start and end dates, and other relevant details. This form is crucial for personal trainers and fitness professionals to understand their clients' workout patterns and provide tailored guidance.
 
 ## How To Complete This Form

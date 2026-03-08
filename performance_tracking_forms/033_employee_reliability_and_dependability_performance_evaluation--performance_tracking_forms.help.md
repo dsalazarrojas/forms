@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is intended for assessing employees' reliability and dependability. Its main aim is to collect data on employee behaviors, habits, and performance. This form might be used for internal HR purposes or as an addendum to performance evaluation procedures used in various organizations.</thinking>
-
 # Employee Reliability And Dependability Performance Evaluation - Help Guide
 ## Purpose
 The "Employee Reliability And Dependability Performance Evaluation" form is designed to help evaluate employees' reliability, dependability, and overall performance. It is primarily used to gather data on employee behaviors, habits, and performance, which can be utilized for internal HR purposes or as part of performance evaluation procedures in various organizations.

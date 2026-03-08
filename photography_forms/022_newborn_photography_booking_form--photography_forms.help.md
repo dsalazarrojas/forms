@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for clients to book a newborn photography session with a photographer. The form is intended to gather essential information about the client, including their personal details and session preferences. It's a simple and intuitive form that requires minimal effort to complete. 
-
-To ensure that you don't miss any important sessions, please review and double-check your submission before hitting the "Submit" button. 
-</thinking>
-
 # Newborn Photography Booking Form - Help Guide
 ## Purpose
 This form is used to book a newborn photography session with a photographer. It collects essential information about the client, including their personal details and session preferences.

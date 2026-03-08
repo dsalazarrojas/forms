@@ -1,11 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Remote Team Performance Assessment Form" based on the provided YAML fields. I will follow the specified structure and guidelines to ensure that the guide is clear, concise, and practical for end-users. I will also include a brief internal reasoning block to explain the purpose and relevance of the form.
-
-The purpose of this form is to collect data on remote team member performance, including feedback and assessment information. This form will help teams track and evaluate team member performance, identify areas of improvement, and provide constructive feedback for growth and development.
-
-Before we dive into the guide, let's confirm that this form is intended to collect data on remote team members and will not be used for any other purpose.
-
-Please note that the fields on this form are designed to collect specific information, and the explanations below will guide you through each field to ensure you complete the form accurately.</thinking>
-
 # Remote Team Performance Assessment Form - Help Guide
 ## Purpose
 The Remote Team Performance Assessment Form is designed to collect data on remote team member performance, including feedback and assessment information. This form helps teams track and evaluate team member performance, identify areas of improvement, and provide constructive feedback for growth and development.

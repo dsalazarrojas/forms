@@ -1,5 +1,3 @@
-<thinking>... This form is designed for collecting informed consent from participants in a CrossFit training program. The form is intended to be completed by the participant, providing their personal information, confirming their understanding of the program's terms, and acknowledging their waiver of liability. This form is a critical document to ensure that participants are aware of the risks and benefits associated with the training and are willing to participate voluntarily. The form's fields are divided into two main sections: Participant Information and Trainer Information. The form's purpose is to gather accurate and reliable information about the participant and trainer, ensuring that both parties are on the same page and understand their roles and responsibilities... </thinking>
-
 # crossfit-training-informed-consent-form - Help Guide
 ## Purpose
 

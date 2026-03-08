@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # glutathione_pre_order_form - Help Guide
 ## Purpose
 The glutathione_pre_order_form is designed for customers to pre-order products related to glutathione supplements. The form is intended to gather information about the customer, their delivery preferences, payment details, order confirmation, contact information, delivery address, and product specifics, as well as any pre-order details they might need to provide.

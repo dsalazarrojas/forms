@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning and validation**
-To confirm, this form is used for capturing patient progress notes, which are essential for healthcare providers to document the patient's condition, vital signs, medication sensitivities, and other relevant medical history. This form helps ensure that healthcare providers have up-to-date information on the patient's health status, medical history, and treatment plans, which can aid in informed decision-making and patient care. To prevent data duplication, ensure that each section is filled in completely and accurately. Also, ensure that the patient's name is filled out correctly to associate the form with the correct patient.
-</thinking>
-
 # Patient Progress Notes Form - Help Guide
 ## Purpose
 This form is used to capture and document a patient's progress, including their health status, vital signs, medical history, and other relevant information. It is essential for healthcare providers to have accurate and up-to-date information on the patient's condition to make informed decisions about their care.

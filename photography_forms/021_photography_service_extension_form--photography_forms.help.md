@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from clients about their photography service extension needs. The goal is to determine what additional services they require for their event or project. This form is designed to be filled out by clients, and the answers will be used by the photography team to provide a more tailored and effective service. Please ensure that you have reviewed this form carefully and that your answers are accurate, as they will help the photography team to provide the best service possible. Please note that this form is not designed to collect payment information or other sensitive data.
-</thinking>
-
 # Photography Service Extension Form - Help Guide
 ## Purpose
 This form is used to collect information from clients about their photography service extension needs. The goal is to determine what additional services they require for their event or project.

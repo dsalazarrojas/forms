@@ -1,20 +1,3 @@
-<thinking>
-The purpose of the Art Residency Publicity Consent Form is to ensure that you, as an artist, are aware of and consent to the use of your image, artwork, and other materials related to the residency program in various promotional and publicity materials. This form is essential for transparency and clarity, as it outlines the terms and conditions under which your image and work will be used.
-
-To ensure that you understand the terms and conditions, please carefully review this form and answer each question accordingly. If you have any questions or concerns, do not hesitate to reach out to the residency program for clarification.
-
-Before completing this form, please ensure that you have read and understood the terms and conditions outlined in the form. This form is not a standard form, but rather a personalized form tailored to the specific needs and requirements of the residency program. Therefore, please answer each question carefully and accurately.
-
-**Please note that this form is not a contract. While it sets out the terms and conditions for your consent, it is not legally binding. If there are any discrepancies or concerns, please contact the residency program directly.**
-
-Please answer the questions in this form as honestly and accurately as possible. If you need help or clarification on any question, do not hesitate to ask.
-
-By completing this form, you are providing the residency program with the necessary permissions to use your image, artwork, and other materials. Your consent is not required for any specific project or use, but rather for the overall use and distribution of your materials.
-
-Please be aware that this form is a living document, and the residency program reserves the right to update it as necessary.
-
-</thinking>
-
 # Art Residency Publicity Consent Form - Help Guide
 ## Purpose
 The Art Residency Publicity Consent Form is a document that outlines the terms and conditions under which your image, artwork, and other materials will be used by the residency program in promotional and publicity materials.

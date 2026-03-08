@@ -1,13 +1,3 @@
-<thinking>
-This form is for collecting petition signatures in support of a sheriff candidate. It allows users to provide their name, the name of the candidate they are supporting, and their contact information. The form is designed to be completed by individuals who want to express their support for a specific sheriff candidate. 
-
-This form is intended for collecting data from individuals who are willing to provide their contact information to support a candidate. It is not meant for commercial or business use. If you're unsure if you're the right person to complete this form, please consider the following:
-- Are you an individual, not a business or organization?
-- Do you have a clear intention to support a specific sheriff candidate?
-- Are you willing to provide your contact information for the campaign?
-
-Before starting, please make sure you haven't already completed this form for the same candidate. If you have, please do not submit again as it may lead to duplicate entries.</thinking>
-
 # Sheriff Candidate Petition - Help Guide
 ## Purpose
 This form is for collecting support for a sheriff candidate. It's a petition that allows users to express their endorsement of a specific candidate by providing their name, contact information, and selection of the candidate and party they support.

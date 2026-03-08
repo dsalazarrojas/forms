@@ -1,22 +1,3 @@
-<thinking>
-This form is designed for patients to provide informed consent for treatment related to COVID-19. The form aims to ensure that patients understand the potential risks and benefits of the treatment, as well as any alternative options available. This form is a critical component of the treatment process, allowing patients to make informed decisions about their care.
-
-The form is divided into several sections, each addressing a specific aspect of the treatment. The sections include:
-
-* Patient information: This section gathers details about the patient, such as their name, date of birth, medical record number, phone number, and email address.
-* Treatment information: This section provides information about the type of treatment being offered, the reasons for the treatment, and the potential benefits and risks involved.
-* Alternative treatments: This section allows patients to indicate if alternative treatments were discussed and if they are available.
-* Consequences of refusing treatment: This section outlines the potential consequences of refusing treatment.
-* Physician information: This section includes details about the treating physician, including their name and specialty.
-* Patient acknowledgment: This section allows patients to indicate if they have discussed the treatment fully with their physician and if all their questions have been answered.
-* Informed consent: This section confirms that the patient has consented to the proposed treatment.
-* Date of consent: This section captures the date of consent.
-
-The form requires patients to review each section carefully and answer questions to indicate their understanding of the treatment and its implications. Completing this form is a crucial step in the treatment process, as it ensures that patients are fully informed about their care and can make informed decisions.
-
-Please review each question carefully and answer truthfully to provide accurate and informed consent.
-</thinking>
-
 # COVID 19 Informed Consent To Treat Form - Help Guide
 ## Purpose
 This form is used to gather informed consent from patients for COVID-19 treatment.

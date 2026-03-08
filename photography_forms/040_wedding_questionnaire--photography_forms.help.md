@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Questionnaire - Help Guide
 ## Purpose
 The Wedding Questionnaire is a form designed to collect information from couples about their upcoming wedding. It is intended to help photographers and other wedding vendors understand the couple's needs and preferences. This form will be used to gather essential details about the wedding, including contact information, date and time, venue, number of guests, services required, and payment methods.

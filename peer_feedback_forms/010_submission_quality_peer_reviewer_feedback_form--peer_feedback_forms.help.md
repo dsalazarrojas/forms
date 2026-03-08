@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Submission Quality Peer Reviewer Feedback Form - Help Guide
 
 ## Purpose

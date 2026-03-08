@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Rider Performance Evaluation form is to track and analyze the performance of riders in your company or organization. This form allows you to collect data on a rider's performance, providing valuable insights for training, development, and evaluation purposes.
-
-Before creating this form, it's essential to ensure that you're not duplicating efforts or creating redundant data collection processes. If you're unsure about the form's purpose or have similar forms with overlapping fields, please review your existing forms and processes to avoid confusion or unnecessary work.
-
-</thinking>
-
 # Rider Performance Evaluation - Help Guide
 ## Purpose
 The Rider Performance Evaluation form is designed to collect data on a rider's performance, providing valuable insights for training, development, and evaluation purposes.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from clients who have undergone a photography session. The purpose of this form is to collect information about the client's experience, including the services they purchased, the date and time of the session, the location of the session, their feedback, and their rating of the service. 
-This form will be used by the photographer to evaluate their performance and improve their services.
-</thinking>
-
 # Photography Client Feedback Form - Help Guide
 ## Purpose
 The Photography Client Feedback Form is a tool used by photographers to gather valuable insights from their clients about their services. By filling out this form, you will be able to provide your feedback and rate your experience with the photographer.

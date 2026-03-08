@@ -1,6 +1,3 @@
-<thinking> 
-The form is intended for patients to document their consent for treatment during the COVID-19 pandemic. The form outlines the proposed treatment options, potential risks and side effects, and the patient's understanding of their condition and the treatment process. It also includes fields for the patient's medical history and emergency contact information. The form ensures that patients understand their treatment options, risks, and rights, and that they voluntarily consent to the treatment. This form is designed to be completed by a patient before commencing treatment, and it should not be used as a substitute for a comprehensive medical evaluation or diagnosis. Please ensure that patients are aware of the form's purpose and that they have a clear understanding of the questions and information being asked.</thinking>
-
 # COVID 19 Treatment Consent Form - Help Guide
 ## Purpose
 This form is a crucial document that ensures patients understand their COVID-19 treatment options, potential risks, and rights before commencing treatment. It's essential to complete this form carefully and accurately to ensure that you are making an informed decision about your treatment.

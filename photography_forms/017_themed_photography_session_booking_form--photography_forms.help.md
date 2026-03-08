@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients who are interested in booking a themed photography session. This form will be used to gather details about the client's personal information, session preferences, and any other relevant details that will help the photographer to prepare for the session. The form is intended to be filled out by the client, and the information collected will be used to schedule and prepare for the session.
-
-</thinking>
-
 # Themed Photography Session Booking Form - Help Guide
 ## Purpose
 The Themed Photography Session Booking Form is designed to collect information from clients interested in booking a themed photography session. This form will help the photographer to gather details about the client's personal information, session preferences, and any other relevant details to prepare for the session.

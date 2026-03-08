@@ -1,8 +1,3 @@
-<thinking>
-The form is intended for patients to update their COVID-19 vaccination status, preferences, and accessibility needs. This form is likely used by healthcare providers to track patient information and ensure they are up-to-date on vaccination eligibility and availability. It's crucial that the form is completed accurately and consistently to ensure patient data is reliable and useful for healthcare planning.
-The form is designed to be completed by patients who have already been vaccinated or are interested in getting vaccinated. It is essential to fill out this form carefully, as the information provided will help healthcare providers tailor their services and communication to the patient's needs.
-</thinking>
-
 # COVID 19 Vaccine Update Sign Up Form - Help Guide
 ## Purpose
 This form is designed to gather information from patients about their COVID-19 vaccination status, preferences, and accessibility needs. The goal is to help healthcare providers understand patient needs and provide personalized updates and services.

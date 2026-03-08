@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: this form is designed for magazine editors to collect release information from models, ensuring they have the necessary permissions to use images featuring the model. The form includes fields for the model's name, contact information, and other relevant details. Each field is carefully selected to gather the required information for a smooth and hassle-free publication process. The form's purpose is to protect both the model and the client from potential issues that could arise from using copyrighted material.</thinking>
-
 # Magazine Model Release Form - Help Guide
 ## Purpose
 

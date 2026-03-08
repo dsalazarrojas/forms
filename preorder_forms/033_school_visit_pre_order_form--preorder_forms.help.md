@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the School Visit Pre Order Form. The form is designed to gather information from schools to help plan and facilitate visits to educational institutions. The purpose of this form is to determine student attendance, visit details, and any special requirements or accommodations needed for the visit. Please ensure that you have the necessary permissions and authorities to submit this form on behalf of your school. Also, be aware that this form may be used to validate and confirm visit details.
-</thinking>
-
 # School Visit Pre Order Form - Help Guide
 ## Purpose
 This form is used to collect information from schools to plan and facilitate visits to educational institutions.

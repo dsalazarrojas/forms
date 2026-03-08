@@ -1,12 +1,3 @@
-<thinking>
-You are about to access the Petition For Presidency Of Advocacy Group Form, a crucial tool for expressing your interest in leading an advocacy group. Before you begin, please ensure that you are not duplicating an existing petition or that the current president's term has not ended. If you're unsure, contact the group's administration for clarification.
-
-This form serves as a formal request to be considered for the presidency of the advocacy group. Your response will be reviewed, and if approved, you'll be contacted to discuss further.
-
-Please note that only one petition can be active at a time, and once a new president is elected, the previous one will be notified and informed about the transition.
-
-</thinking>
-
 # Petition For Presidency Of Advocacy Group Form - Help Guide
 
 ## Purpose

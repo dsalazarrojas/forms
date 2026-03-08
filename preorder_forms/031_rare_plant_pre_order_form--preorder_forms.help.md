@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for pre-ordering rare plants. The purpose of this form is to ensure that customers provide accurate and complete information for their pre-order. 
-
-This form will collect user information, plant information, payment method, and delivery information. The form will also double-check the user's input through confirmation fields to minimize errors. 
-
-The form fields are divided into three main sections: user information, plant information, and payment and delivery details. 
-
-The form will use a variety of data types, including text, number, date, time, and select options to fit the needs of the customer.
-</thinking>
 # Rare Plant Pre Order Form - Help Guide
 ## Purpose
 The Rare Plant Pre Order Form is designed to collect information for pre-ordering rare plants. This form ensures that customers provide accurate and complete information for their pre-order.

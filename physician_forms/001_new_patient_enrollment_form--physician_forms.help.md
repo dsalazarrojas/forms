@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect new patient information for enrollment purposes. It is intended to be filled out by the patient or their authorized representative.
-This form is not meant to be a comprehensive medical history or diagnosis form. It is solely for administrative purposes and does not replace the need for a proper medical evaluation.
-The form will be reviewed by healthcare professionals to ensure accuracy and completeness.
-</thinking>
-
 # New Patient Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect and document new patient information for the hospital's patient registry system. It will be used to create a patient profile, which will be used for administrative and clinical purposes.

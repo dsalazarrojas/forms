@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from employees for COVID-19 vaccine authorization. This form will be used to determine whether an employee is eligible for company-provided vaccination and to obtain necessary medical information for the administration of the vaccine. This form is required to be completed by all employees who wish to receive the COVID-19 vaccine at the workplace.
-
-Please note that this form is a one-time submission and will only be used for the purpose of vaccine authorization. Once completed, the form will not be reused or accessed by any other department or entity. 
-
-Before starting, please ensure that you have read and understood the form content carefully. If you have any questions or concerns, feel free to reach out to your supervisor or HR representative.
-
-</thinking>
-
 # COVID 19 Vaccine Authorization Form - Help Guide
 ## Purpose
 The COVID 19 Vaccine Authorization Form is a mandatory submission for all employees who wish to receive the COVID-19 vaccine at the workplace. This form is used to gather information about your medical history, vaccine preferences, and other relevant details to ensure a safe and successful vaccination process.

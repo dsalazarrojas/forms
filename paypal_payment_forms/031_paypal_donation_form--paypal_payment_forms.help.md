@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to accept donations from individuals, allowing them to specify the frequency and amount of their donation. This form ensures data consistency and prevents duplicate submissions.
-The form will be submitted to a database, and the information will be used for further processing and analysis.
-</thinking>
-
 # PayPal Donation Form - Help Guide
 ## Purpose
 The PayPal Donation Form is used to accept donations from individuals, specifying the frequency and amount of their donation.

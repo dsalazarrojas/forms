@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for reporting incidents involving fireworks-related activities in a police jurisdiction. The form is designed to capture information from both witnesses and suspects of incidents involving fireworks use or abuse. The purpose of this form is to document all relevant details about an incident, including the date, location, description, and any identifying features of the suspects or witnesses.
-This form should be used in conjunction with other police records and procedures to ensure accurate and consistent reporting of such incidents.
-</thinking>
-
 # illegal_fireworks_reporting_form - Help Guide
 ## Purpose
 

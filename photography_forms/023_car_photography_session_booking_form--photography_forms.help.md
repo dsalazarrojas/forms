@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication and ensure the form's purpose aligns with the intended use case, I will focus on creating a clear and concise help guide for end-users. This form is designed to collect information for car photography sessions, gathering essential details for a successful and efficient experience. The form's primary goal is to gather client information, vehicle details, and session preferences to tailor the photography experience to their needs. It's crucial to provide a clear and easy-to-use guide for end-users to ensure they understand the form's purpose and know what to expect.
-
-</thinking>
-
 # Car Photography Session Booking Form - Help Guide
 ## Purpose
 The Car Photography Session Booking Form is designed to collect essential information for a successful car photography session. This form will help us understand your vehicle and preferences to provide the best experience tailored to your needs.

@@ -1,21 +1,3 @@
-<thinking>Before filling out this form, please note that it is essential to understand the purpose and context of this "Permission To Use Photo Release Form Template". This form is designed to obtain permission from the copyright owner (Releasee) to use their photo. It is a crucial step in ensuring that your use of the photo does not infringe on their rights. Please fill out this form carefully and accurately to avoid any potential issues.
-
-If you have already obtained permission from the Releasee in the past, you may not need to fill out this form again. However, please review the form carefully to ensure that the information you provide is up-to-date and accurate.
-
-Before filling out this form, please ensure that you have the necessary permissions and agreements in place with the Releasee. This form is not a substitute for a formal agreement or contract.
-
-Please note that the information provided in this form will be used to obtain permission from the Releasee to use their photo. The form will help you to:
-
-* Identify the photo title and description
-* Verify the photo credit (photographer's name)
-* Gather contact information for the client or company using the photo
-* Confirm the date the photo was taken
-* Confirm that the Releasee has agreed to the use of their photo
-
-The purpose of this form is to ensure that you are respecting the rights of the photo copyright owner (Releasee) and using the photo responsibly.
-
-</thinking>
-
 # Permission To Use Photo Release Form Template - Help Guide
 ## Purpose
 This form is designed to obtain permission from the copyright owner (Releasee) to use their photo. It is essential to ensure that you have the necessary permissions and agreements in place before using the photo.

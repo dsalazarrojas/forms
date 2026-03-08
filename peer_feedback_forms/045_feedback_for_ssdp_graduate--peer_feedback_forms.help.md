@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The purpose of this form is to collect feedback for the ssdp_graduate program, allowing users to provide comments, feedback, and other input on the program's performance, submission dates, and other relevant information. This form is designed to be completed by program administrators, staff, or other relevant individuals, ensuring that the feedback received is accurate and reliable. To ensure the quality of the feedback, we will not allow duplicate submissions from the same individual within a specific timeframe.
 
 </thinking>

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Petition Signing Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-  The adopter availability survey is a form used to gather information about the adopter's lifestyle and pet care preferences. It helps match potential adopters with available adoptable pets that fit their schedule and preferences. 
-  This form is meant to be completed by individuals or families interested in adopting a pet, and it's essential to ensure that they are providing accurate and relevant information to help find the best match for both the adopter and the pet.
-  Before filling out the form, please make sure that the information you provide is up-to-date and reflects your current lifestyle and preferences. This will help ensure that we can find the best match for you and your potential new pet.
-</thinking>
-
 # Adopter Availability Survey - Help Guide
 ## Purpose
 

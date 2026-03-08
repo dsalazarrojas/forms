@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication, this form is designed for customers to pre-order art pieces that they want to purchase before they are available for regular sale. This form helps the customer provide necessary information for the artwork they wish to pre-order, including their contact information and payment details. The form guides the customer through three main sections: customer information, artwork selection, and payment details.
-
-</thinking>
-
 # Art Collection Pre Order Form - Help Guide
 ## Purpose
 The Art Collection Pre Order Form is designed for customers to pre-order art pieces before they are available for regular sale. This allows customers to reserve their desired pieces and ensures timely delivery.

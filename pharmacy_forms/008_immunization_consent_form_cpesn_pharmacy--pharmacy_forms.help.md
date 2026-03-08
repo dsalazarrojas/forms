@@ -1,10 +1,3 @@
-<thinking>
-This form is used to obtain the patient's information and consent for immunization, as well as schedule an appointment and payment preferences. The form is likely used in a pharmacy setting where patients need to provide their personal details, contact information, medical history, and schedule a follow-up appointment for the immunization process. This form is probably used to streamline the process of obtaining patient consent and scheduling appointments, while also allowing patients to choose their preferred method of payment.
-
-The goal is to provide a clear and concise help guide for the end users to understand the purpose and requirements of the form.
-
-</thinking>
-
 # Immunization Consent Form CPESN Pharmacy - Help Guide
 ## Purpose
 The Immunization Consent Form CPESN Pharmacy is used to collect patient information, schedule an appointment, and obtain consent for immunization. It's essential to complete this form accurately and thoroughly to ensure a smooth immunization process.

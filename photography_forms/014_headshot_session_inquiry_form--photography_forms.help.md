@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The goal of this form is to gather information from potential clients about their photography session requirements. This form is designed to be filled out by clients who are inquiring about photography services. Each field is optional, but completing the form will help the photographer understand the client's needs better. To avoid duplication of efforts, please do not fill out this form if you have already contacted us for a headshot session.
 
 # headshot_session_inquiry_form - Help Guide

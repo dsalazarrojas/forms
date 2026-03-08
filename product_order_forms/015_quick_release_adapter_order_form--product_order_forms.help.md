@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a quick release order from a supplier. The purpose of this form is to capture essential details about the supplier, product, and delivery instructions. This form should only be used for orders that have a specific delivery date and time. Before starting, ensure that you have the relevant information ready to complete the form accurately.
-</thinking>
-
 # quick_release_adapter_order_form - Help Guide
 ## Purpose
 The quick_release_adapter_order_form is used to collect information about a supplier's order, including contact details, product specifics, delivery details, and payment information.

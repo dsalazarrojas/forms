@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for a district formation petition, which is typically a formal request to establish or modify a local government district. The purpose of the form is to gather base information, address details, contact information, district boundaries, supporting documents, petition justification, and additional signatures. This form is likely used by local government officials, residents, or interested parties to submit a petition for district formation.
-
-Please note that this form's purpose and content might not be specific to a real-world organization or entity, as it was generated based on public metadata. It's essential to review the form carefully and understand the context and requirements before filling it out.
-
-Also, ensure that you are not duplicating efforts by checking for similar petitions or forms already in progress. This will help avoid unnecessary work and potential conflicts.
-
-</thinking>
-
 # District Formation Petition Form - Help Guide
 ## Purpose
 The District Formation Petition Form is a tool for submitting a formal request to establish or modify a local government district. This form is intended to collect relevant information to support the petition process.

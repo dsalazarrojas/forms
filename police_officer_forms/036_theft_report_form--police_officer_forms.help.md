@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for reporting a theft. The purpose of this form is to collect information about the theft, including the description of the incident, location, date and time, witness details, and other relevant information. This form is designed to help users provide a clear and concise report of the incident, which can be used by law enforcement to investigate and take necessary actions.
-</thinking>
-
 # Theft Report Form - Help Guide
 ## Purpose
 

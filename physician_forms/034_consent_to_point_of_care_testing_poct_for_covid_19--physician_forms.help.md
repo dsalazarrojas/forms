@@ -1,7 +1,3 @@
-<thinking>
-The form "Consent To Point Of Care Testing POCT For Covid 19" is designed to gather information and consent from patients for Point of Care (POC) testing for COVID-19. This form is intended for healthcare providers to obtain consent from patients before performing testing, ensuring that patients understand the purpose, risks, and consequences of the testing process. To complete this form, please follow the steps below.
-</thinking>
-
 # Consent To Point Of Care Testing POCT For Covid 19 - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from patients for Point of Care (POC) testing for COVID-19. This includes gathering information about the patient's symptoms, medical history, and testing preferences.

@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose**
-This form aims to gauge customers' trust and satisfaction with digital banking services. It will help us understand their perception of our security and reliability, providing valuable insights for future development and improvement. **Please make sure to complete the form only if you have direct experience with our digital banking services**. If you have already completed this form or have identical feedback, your submission will not be accepted.
-</thinking>
-
 # Customer Digital Banking Trust Poll Form - Help Guide
 ## Purpose
 The Customer Digital Banking Trust Poll Form is designed to gather information about your experience with our digital banking services. Your feedback is crucial in helping us understand your trust and satisfaction levels, which in turn will guide our development to improve our services.

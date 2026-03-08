@@ -1,13 +1,3 @@
-<thinking>
-
-The medicare_prescription_claim_form form is used for submitting a Medicare prescription claim. The form is used by healthcare providers to document a patient's medical information, including medication lists, doctor's prescriptions, and claim details. The form is a crucial part of the Medicare claims process, ensuring that all necessary information is collected and submitted accurately. 
-
-When completing this form, ensure that you have all necessary information and documentation readily available. The form is typically completed by a healthcare provider, but it may also be used by patients or their representatives in certain cases.
-
-Before beginning, review the form carefully to understand the required fields and any specific instructions or guidelines. This guide will walk you through each section of the form, explaining the purpose and requirements of each field.
-
-</thinking>
-
 # medicare_prescription_claim_form - Help Guide
 ## Purpose
 The Medicare prescription claim form is used to document and submit a claim for reimbursement of medical expenses under the Medicare program. It captures essential information about the patient, their medical history, and the claim details.

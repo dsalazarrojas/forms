@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information related to a patient's surgery, including their details and the surgeon's and anesthesist's information. It's essential to ensure that all fields are filled in accurately and completely. Please note that some fields may not be required, but they are included for completeness and to provide a thorough record of the patient's and staff's details. This form is likely used in a hospital setting, and the information collected will be used for administrative and clinical purposes.
-
-Before filling out this form, please ensure that you have the necessary permissions and clearances to access and use the patient's sensitive information.
-
-To avoid duplication of effort, please do not fill out this form if the patient's surgery has already been cleared and recorded in the system.
-
-</thinking>
-
 # Surgery Clearance Form - Help Guide
 ## Purpose
 The Surgery Clearance Form is designed to collect information related to a patient's surgery, including their details and the surgeon's and anesthesist's information. This form is used to ensure that all necessary information is collected and recorded for administrative and clinical purposes.

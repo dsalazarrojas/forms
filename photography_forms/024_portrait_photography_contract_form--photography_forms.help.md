@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for a photography business, specifically for portrait photography contracts. It seems to cover the essential information needed for a photographer to work with a client, including photographer and client information, session details, legal terms, and agreements. It includes fields for electronic signatures and dates/times for contract signing. The form's structure suggests it's meant to be a comprehensive document for capturing essential details for both parties involved in the photography session.
-</thinking>
-
 # Portrait Photography Contract Form - Help Guide
 ## Purpose
 This form is designed to help photographers and clients agree on the terms and details of a portrait photography session.

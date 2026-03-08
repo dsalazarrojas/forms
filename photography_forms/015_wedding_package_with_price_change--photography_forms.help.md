@@ -1,13 +1,3 @@
-<thinking>
-This form was designed to help wedding vendors or planners create and customize their wedding packages with a price change option. The form will guide users through the process of filling in the essential details of their wedding package, including client and package information.
-The form is divided into three main sections:
-Client Details: This section requires basic contact and personal information from the client.
-Package Details: Here, the user will fill in the specifics of the package being offered, including any price changes.
-Agreement Part: This is where the user can add any additional comments or terms and conditions related to the package.
-
-Please note that this form is not affiliated with or derived from any form platforms and is an original creation.
-</thinking>
-
 # Wedding Package With Price Change - Help Guide
 ## Purpose
 This form is designed to help wedding vendors or planners create and customize their wedding packages with a price change option.

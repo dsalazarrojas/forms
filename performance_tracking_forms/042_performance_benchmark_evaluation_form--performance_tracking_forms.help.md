@@ -1,8 +1,3 @@
-<thinking>
-The Performance Benchmark Evaluation Form is designed to track the progress and performance of various aspects of a project or team. It helps in identifying areas of improvement and development opportunities. This form is usually filled out after a certain period of time, e.g., after each month, to evaluate how the team or project has performed over that time frame. The form ensures that the team or project is meeting its set targets and goals. This form should only be filled out when it is necessary, e.g., when there is a need to evaluate the performance, and not as a regular routine or for every small change. This is to avoid overwhelming the team with too much paperwork.
-
-</thinking>
-
 # Performance Benchmark Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance and progress of a project or team over a specific period of time. It helps in identifying areas of improvement and development opportunities.

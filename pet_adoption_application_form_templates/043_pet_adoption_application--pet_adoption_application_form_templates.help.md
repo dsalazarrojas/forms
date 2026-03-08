@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Adoption Application - Help Guide
 
 ## Purpose

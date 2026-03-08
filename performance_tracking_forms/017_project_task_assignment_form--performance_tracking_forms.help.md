@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assign tasks to projects, allowing project managers and owners to assign tasks to specific team members, track progress, and set deadlines. It captures the necessary information for project management, including project titles, task titles, due dates, and status updates.
-This form is not intended for general project tracking or general user feedback. It is primarily used for project management and assignment purposes.
-</thinking>
-
 # Project Task Assignment Form - Help Guide
 ## Purpose
 The Project Task Assignment Form is a tool used by project managers and owners to assign tasks to team members, track progress, and set deadlines. It provides a clear and structured way to capture essential project information.

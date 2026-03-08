@@ -1,13 +1,3 @@
-<thinking>
-To determine if this form is relevant and not duplicated for you, let's analyze the provided YAML fields:
-The form appears to be a registration form for companies interested in optimizing their beverage logistics operations. The form collects information about the company's background, current logistics operations, challenges, optimization goals, technology systems, and project requirements. This form seems to be designed for companies that are looking to improve their logistics efficiency and reduce costs.
-
-Before proceeding, let's check if you have already completed a similar form for this purpose. If you have, it's possible that this form may not be necessary for you. Please confirm if this is the case.
-
-Assuming this is the first time you're completing a form for beverage logistics optimization, let's proceed.
-
-</thinking>
-
 # Beverage Logistics Optimization Registration Form - Help Guide
 ## Purpose
 The Beverage Logistics Optimization Registration Form is designed to gather information about your company's logistics operations, challenges, and goals. This form will help us understand your needs and provide you with tailored solutions to optimize your logistics processes.

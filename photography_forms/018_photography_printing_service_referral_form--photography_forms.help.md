@@ -1,10 +1,3 @@
-<thinking>
-We should confirm whether this form is used internally or externally and whether it's a one-time use case or an ongoing process. We should also determine if the form is a part of a more significant process that requires additional context or if it stands alone. For the sake of this exercise, let's assume this form is an external referral form for users to refer a photography service to a client. We should also confirm whether this form is used for a one-time submission or if it's part of a more complex workflow with subsequent interactions with the user.
-
-Assuming this is the case, this form's purpose is to facilitate external referrals of the photography printing service to clients, providing essential information for the service provider and any follow-up communication.
-
-Before proceeding, it's essential to ensure that the user understands the form's intent and what each field represents. This guide will break down each field to clarify its purpose and usage.</thinking>
-
 # photography_printing_service_referral_form - Help Guide
 ## Purpose
 This form is for referring a photography printing service to a client. You will be asked to provide essential information about the client and the service provider to ensure a smooth communication and delivery.

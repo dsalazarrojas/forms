@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians about their child's details, medical conditions, and nursery-related preferences. It will be used to ensure the nursery can provide the best care for the child. Before filling out this form, please note that you will be asked to provide some sensitive information about your child, such as medical conditions and allergies. This information is kept confidential and will only be used by the church nursery staff to provide the best possible care for your child. Please answer the questions honestly to help the nursery staff understand your child's needs.
-
-</thinking>
-
 # Church Nursery Registration Form - Help Guide
 
 ## Purpose

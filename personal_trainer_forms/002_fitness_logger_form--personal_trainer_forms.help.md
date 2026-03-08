@@ -1,14 +1,4 @@
-# <thinking>
-The Fitness Logger Form is designed for logging and tracking client fitness information. This form will be used to collect data on client's exercise and weight progress, and will aid in creating a comprehensive picture of their fitness journey.
-
-Before proceeding, please check if a similar form already exists for the purpose of collecting fitness data for the client. If a similar form already exists, this one may not be necessary to create or use.
-
-The form is divided into two main sections: Client Information and Progress Logs. In the Client Information section, users will find fields for collecting the client's personal details, such as contact information (name, phone number, and email). This section also includes a field for setting a fitness goal, as well as selecting the type of client (e.g., individual, personal trainer). In the Progress Logs section, users will find fields for recording exercise and weight logs, as well as progress photos and notes.
-
-Please note that the form is designed for internal use only and should not be used for public sharing or publication.
-</thinking>
-
-# Fitness Logger Form - Help Guide
+# # Fitness Logger Form - Help Guide
 ## Purpose
 The Fitness Logger Form is a comprehensive form designed for logging and tracking client fitness information.
 

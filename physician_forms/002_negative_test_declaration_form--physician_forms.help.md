@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by a healthcare professional to report the results of a COVID-19 test. The purpose of this form is to declare the test result, which is a crucial step in tracking and managing the spread of the virus. The form is part of the process to verify the test result and ensure that individuals are aware of their status. It is essential to complete this form accurately and honestly, as it helps in the public health response to the pandemic. To ensure accuracy and reduce duplication, please check that your test result has been submitted correctly before proceeding.
-</thinking>
-
 # Negative Test Declaration Form - Help Guide
 ## Purpose
 The Negative Test Declaration Form is used to report the results of a COVID-19 test, ensuring that individuals are aware of their status and helping in the public health response to the pandemic.

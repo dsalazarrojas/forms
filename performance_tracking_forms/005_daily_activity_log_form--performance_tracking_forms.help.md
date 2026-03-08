@@ -1,11 +1,3 @@
-<thinking>
-The "daily_activity_log_form" form is used for employees to log their daily activities, including their activity date, time, description, category, outcomes, and other relevant details. This form helps track and record individual employee performance and progress over time. Before filling out this form, please ensure that:
-* You have not already filled out this form for the current date.
-* You have selected the correct category and outcomes for your activity.
-* You have accurately described your activity in the "activity_description" field.
-* If you have chosen "other" as your category, please provide a clear description of your activity in the "activity_outcome_other" field.
-</thinking>
-
 # daily_activity_log_form - Help Guide
 
 ## Purpose

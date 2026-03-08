@@ -1,9 +1,3 @@
-<thinking>
-
-The form is used for providing feedback on a session, which is a peer feedback form. The form is designed to gather multiple selections from the user for the session, with an option to provide a free-form description of the feedback. The form is likely used for gathering feedback on a peer's performance during a session, and the user is selecting the tools used, category of the session, and other relevant details. 
-
-</thinking>
-
 # feedback_session_glss - Help Guide
 ## Purpose
 This form is used to provide feedback on a session.

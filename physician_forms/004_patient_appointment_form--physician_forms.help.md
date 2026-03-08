@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect patient appointment information for a medical facility. The form will be used to create a new appointment for a patient. This guide will walk you through the process of completing the form.
-The purpose of this form is to ensure that patients have accurate and up-to-date information about their appointments, which is crucial for timely and effective patient care. It is essential to follow the instructions carefully to ensure that the form is filled out correctly.
-</thinking>
-
 # Patient Appointment Form - Help Guide
 ## Purpose
 The Patient Appointment Form is designed to collect information about a patient's appointment, which is necessary for efficient and organized patient care.

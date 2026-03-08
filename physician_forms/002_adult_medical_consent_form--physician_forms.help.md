@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adult Medical Consent Form - Help Guide
 ## Purpose
 This form is to obtain informed consent from an adult patient before undergoing any medical procedure or treatment. It ensures that the patient and their emergency contact understand the risks and benefits associated with the procedure, as well as any alternative treatments discussed.

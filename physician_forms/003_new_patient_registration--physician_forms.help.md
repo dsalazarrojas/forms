@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that is clear, concise, and easy to follow. Before creating the guide, I need to understand the purpose of the form and ensure that it's free from duplication. In this case, the form "new_patient_registration" is used to collect patient registration information, medical history, contact details, medical practice preferences, assigned tools, output file options, description, and category selection. To avoid duplication, this guide will cover the essential fields required to complete the form correctly.</thinking>
-
 # new_patient_registration - Help Guide
 ## Purpose
 This form is used to collect patient registration information for new patients. It includes fields for medical history, contact details, medical practice preferences, assigned tools, output file options, description, and category selection.

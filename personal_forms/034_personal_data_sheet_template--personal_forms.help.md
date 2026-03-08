@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect personal data for employees, including their name, contact information, job details, and work schedule. It's designed to capture relevant information for HR or organizational management purposes.
-This form is intended for use by employees, particularly those who need to update or provide accurate information for their job profiles. 
-Please note that the required fields are marked as such to ensure that users do not proceed without providing essential details.
-
-</thinking>
-
 # personal_data_sheet_template - Help Guide
 ## Purpose
 This form collects personal data for employees, including their name, contact information, job details, and work schedule.

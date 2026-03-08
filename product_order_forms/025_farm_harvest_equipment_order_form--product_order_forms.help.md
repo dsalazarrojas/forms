@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from farmers and agricultural businesses for the order of farm harvest equipment. The form is likely used in an online application or web platform for agricultural businesses to place orders for equipment needed for harvesting. This form will be used by customers to provide information about their needs, including their farm location, order details, payment methods, and any additional information. The form should be filled out by authorized personnel in the business.
-
-To avoid any duplication and ensure that customers provide correct and complete information, ensure that each farm is only registered once and that each order is filled out by the correct person.
-</thinking>
-
 # Farm Harvest Equipment Order Form - Help Guide
 ## Purpose
 

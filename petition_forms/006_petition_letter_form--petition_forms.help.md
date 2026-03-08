@@ -1,5 +1,3 @@
-<thinking>What this form is for: This form is used for creating and processing petitions, specifically for collecting information from users. To ensure the form is used correctly, please review the instructions below carefully.</thinking>
-
 # Petition Letter Form - Help Guide
 
 ## Purpose

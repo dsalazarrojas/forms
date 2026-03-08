@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Early Pregnancy Self Referral Form - Help Guide
 ## Purpose
 The Early Pregnancy Self Referral Form is designed for patients to provide information about their pregnancy. This form helps healthcare providers gather essential details about the patient's condition, medical history, and contact information. The purpose of this form is to ensure accurate and timely medical care during pregnancy.

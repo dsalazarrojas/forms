@@ -1,5 +1,3 @@
-<thinking>This form is a patient health questionnaire and Generalized Anxiety Disorder (GAD) questionnaire, a self-assessment tool used to gauge the severity of anxiety symptoms in patients. This form is designed to be completed by patients or healthcare professionals for clinical use. To confirm, this form is not affiliated with any proprietary survey or form platforms. It's a unique adaptation based on public survey topic metadata, released under CC BY 4.0, allowing for modification, use, and even commercialization. If you're unsure about the form's relevance, please consider the title and category: "physician_forms" and "Patient Health Questionnaire And Generalized Anxiety Disorder Questionnaire". Please ensure you're using the correct form for your intended purpose.</thinking>
-
 # Patient Health Questionnaire And Generalized Anxiety Disorder Questionnaire - Help Guide
 
 ## Purpose

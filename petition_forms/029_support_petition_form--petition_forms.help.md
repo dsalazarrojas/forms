@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals who want to express their support for a specific cause or issue. This form collects basic contact information and allows users to indicate their level of support and provide a brief reason for their backing. This form does not collect sensitive or personal data and is designed to be simple and easy to use.
-</thinking>
 # Support Petition Form - Help Guide
 ## Purpose
 The Support Petition Form is a simple way to collect information from individuals who want to express their support for a cause or issue. This form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation created by AI.

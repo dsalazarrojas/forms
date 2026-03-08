@@ -1,12 +1,3 @@
-<thinking>
-This form seems to be a general photo submission form for participants or teams. It might be used by event organizers, photographers, or social media contests to collect information and photo credits from participants. To ensure the form is being used correctly and consistently, let's review the form's purpose and fields.
-
-Upon review, the form appears to be designed for photo submission, but it lacks specific details about its intended use or target audience. However, based on the fields provided, it seems to be collecting basic participant information, photo metadata, and submission confirmation. To make the most out of this form, ensure you understand the form's purpose and intended use case before filling it out.
-
-To avoid duplication of effort, please make sure you're not submitting multiple forms for the same photo or participant. If you have any questions or need further clarification, please contact <form@gic.mx>.
-
-</thinking>
-
 # Top Enroller Photo Submission - Help Guide
 ## Purpose
 This form is designed to collect information and photo metadata from participants or teams for general photo submission purposes.

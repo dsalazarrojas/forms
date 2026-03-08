@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for content generation planning, ensuring that all necessary details are considered and recorded. This form is used to plan and track content projects, helping to maintain consistency and accuracy throughout the process. It's crucial that this form is completed thoroughly and accurately, as it serves as a foundational document for project management and content creation. Please ensure that you fill out the form with the most up-to-date and relevant information. 
-</thinking>
-
 # Content Generation Planning Form - Help Guide
 ## Purpose
 This form is used to gather and store essential information for content generation planning. It helps in organizing and tracking project details, which in turn aids in efficient project management and content creation.

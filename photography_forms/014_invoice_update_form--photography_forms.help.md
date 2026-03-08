@@ -1,7 +1,3 @@
-<thinking>
-I understand that the purpose of this form is to update invoice information for clients. It's a form that likely captures essential details such as the client's name, invoice date, total cost, payment status, and other relevant data that needs to be updated. Before proceeding, let me confirm this assumption is correct. If not, please let me know and I'll adjust my response accordingly.
-</thinking>
-
 # Invoice Update Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cosmetic_Surgery_Survey - Help Guide
 ## Purpose
 The Cosmetic_Surgery_Survey form is designed to collect information about a patient's experience with cosmetic surgery. It gathers feedback on survey trends, patient satisfaction, and overall experience, which will help healthcare professionals evaluate and improve their services.

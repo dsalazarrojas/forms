@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help beverage companies and businesses order custom branding wraps for their vehicles. The purpose of this form is to gather essential information from the client to determine the requirements for the wrap, including the type of vehicle, desired design and artwork, materials, installation details, and budget considerations. By filling out this form, clients can ensure that they provide all the necessary details for a successful wrap design and installation project.
-The form is structured into several sections to guide the client through the ordering process: Client Information, Vehicle Information, Design and Artwork, Materials and Quality, Installation and Timeline, Budget and Payment, and Additional Requirements. Each section is designed to collect specific information that will be used to determine the scope and requirements of the project.
-It is essential to provide accurate information in each section to ensure that the client receives a high-quality custom wrap that meets their expectations. Clients should review each field carefully and provide the best information possible to ensure the success of their project.
-</thinking>
-
 # Beverage Truck Branding Wrap Order Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information for a custom branding wrap order. It is designed to guide you through the process of ordering a custom wrap for your beverage truck or other vehicle.

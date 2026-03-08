@@ -1,7 +1,3 @@
-<thinking> 
-  This form is intended to be used in a healthcare setting to obtain information from a patient before discharging them from the pharmacy. The purpose of this form is to capture relevant details about the patient's medical history, medication regimen, and any allergies or sensitivities they may have. This information will help the pharmacy staff to ensure a safe and efficient discharge process. 
-</thinking>
-
 # Pharmacy Medication Discharge Form - Help Guide
 ## Purpose
 

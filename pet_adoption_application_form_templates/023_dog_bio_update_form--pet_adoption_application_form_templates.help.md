@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a dog's bio, including its behavior, personality, training, health, and special notes. The purpose of this form is to update the bio of a dog that is currently in the system. This form should only be used to update a dog's bio that already exists in the system, and not to create a new one.
-
-When filling out this form, please make sure that you are making changes to a dog's bio that already exists, and not creating a new one. If you are not sure if the dog's bio is already in the system, please contact us to verify before proceeding.
-
-Please fill out the form carefully and accurately to ensure that the information is up-to-date and consistent with the dog's actual status.
-
-</thinking>
-
 # Dog Bio Update Form - Help Guide
 ## Purpose
 This form is designed to collect and update information about a dog's bio, including its behavior, personality, and health. It is intended to be used to update a dog's existing bio, not to create a new one.

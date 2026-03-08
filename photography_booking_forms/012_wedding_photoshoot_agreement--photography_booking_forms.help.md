@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to be used for capturing the details and agreement of a wedding photoshoot. It is intended to be used by photographers to obtain necessary information from their clients, including client details, photographer details, photoshoot details, special add-ons, payment terms, and terms and conditions. This form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata as inspiration. The form is released under CC BY 4.0 and can be used, modified, and even sold with proper credit given.
-</thinking>
-
-# Wedding Photoshoot Agreement - Help Guide
+> # Wedding Photoshoot Agreement - Help Guide
 ## Purpose
 This form is used to capture the necessary details and agreement for a wedding photoshoot, ensuring that both the photographer and client are on the same page.
 

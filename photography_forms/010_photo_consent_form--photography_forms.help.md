@@ -1,16 +1,3 @@
-<thinking>
-Photography forms are used to obtain consent for the use of photographs and are an essential part of the photography industry. They ensure that all parties involved in the photo shoot are aware of the terms and conditions of the use of their likeness. This form is specifically designed for use with photography services, but it could potentially be applicable to other industries that require photo usage consent as well.
-
-To the best of my knowledge, there is no similar form in the public domain. I have designed this form based on general industry knowledge, so it might not cover specific requirements for very specialized use cases. If you're looking for customization, please provide more context and I'll be happy to help!
-
-Please use this form with the understanding that it is not officially affiliated with, endorsed by, or derived from any form platform. I have only used public metadata to generate this form, making it an independent adaptation.
-
-This form's metadata is released under a CC BY 4.0 license, which means you're free to use, modify, and distribute it, including selling forms derived from it, provided you give proper credit. If you need support, you can contact the original form creator at form@gic.mx.
-
-The following sections will cover each part of the form in detail.
-
-</thinking>
-
 # Photo Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain consent from the subject of a photo shoot for the use of their likeness. It helps establish the terms and conditions of the use of their photograph.

@@ -1,9 +1,3 @@
-<thinking>
-Please review the form purpose: The COVID-19 Testing Consent Form is a document used for patients to provide informed consent for a COVID-19 test.
-Please check for relevance: This form is for patients to provide their personal and medical information, understand the testing process, and acknowledge their consent for the test.
-Please check for duplication: There is no duplicated information in this form. Each field is unique and serves a specific purpose.
-</thinking>
-
 # COVID 19 Testing Consent Form - Help Guide
 ## Purpose
 The COVID-19 Testing Consent Form is a document that asks patients to provide their personal and medical information, understand the testing process, and acknowledge their consent for the test.

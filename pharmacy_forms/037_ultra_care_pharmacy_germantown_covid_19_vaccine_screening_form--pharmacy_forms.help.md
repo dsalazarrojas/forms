@@ -1,36 +1,3 @@
-<thinking>
-The form is likely intended to collect demographic and medical information from patients receiving COVID-19 vaccines at the Ultra Care Pharmacy in Germantown. This form may be used for patient registration, vaccination records, or other administrative purposes. It's essential to ensure that all required fields are accurately filled to prevent errors or duplication of records.
-
-Form fields should be filled out with the following types of information:
-
-- First Name: The patient's first name as per their identification.
-- Last Name: The patient's last name as per their identification.
-- Date Of Birth: The patient's date of birth for medical history and age verification.
-- Phone: The patient's contact phone number for communication and follow-up.
-- Email: The patient's email address for communication and follow-up.
-- Medical History: The patient's medical history, including pre-existing conditions, allergies, or previous medical procedures.
-- Medical Conditions: Additional medical conditions that may not be captured in the medical history section.
-- Vaccine Dosage: The amount of vaccine administered to the patient.
-- Vaccine Dosage Unit: The unit of measurement for the vaccine dosage (e.g., mL, units).
-- Vaccine Type: The type of vaccine administered (e.g., Pfizer, Moderna, Johnson & Johnson, AstraZeneca, or Other).
-- Vaccine Type Other: If the vaccine type is not listed above, please specify.
-- Medical Provider Name: The name of the healthcare provider administering the vaccine.
-- Medical Provider Phone: The contact phone number of the healthcare provider.
-- Medical Provider Email: The email address of the healthcare provider.
-- Date Of Vaccination: The date the vaccine was administered.
-- Time Of Vaccination: The time the vaccine was administered.
-- Vaccine Administered By: The person administering the vaccine.
-- Vaccine Administered By Title: The title of the person administering the vaccine.
-- Vaccine Administered By Department: The department of the healthcare organization administering the vaccine.
-- Date Reported: The date the vaccination record was reported.
-- Time Reported: The time the vaccination record was reported.
-- Reported By: The person or organization reporting the vaccination record.
-- Reported By Title: The title of the person or organization reporting the vaccination record.
-- Reported By Department: The department of the healthcare organization reporting the vaccination record.
-- Submitted: Additional comments or remarks about the record.
-
-</thinking>
-
 # ultra_care_pharmacy_germantown_covid_19_vaccine_screening_form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-To be honest, this form seems to be a complex order form for a product that's about to be released, possibly a limited edition handbag. It's designed to collect information about the customer's order, including their contact information, shipping details, payment method, and product specific information such as quantity, price, and image(s). I'm assuming the "preorder" part means that the customer is reserving a product before it's available in stores. I'll make sure to cover all fields in the explanation below. 
-
-Please let me know if this assumption is correct or if I'm missing anything!
-</thinking>
-
 # Handbag Exclusive Release Pre Order Form - Help Guide
 ## Purpose
 This form is for customers to place a pre-order for a limited edition handbag. It collects information about the customer, their shipping details, payment method, and product specifics.

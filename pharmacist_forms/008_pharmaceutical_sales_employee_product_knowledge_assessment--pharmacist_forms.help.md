@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to assess the pharmaceutical sales employee's product knowledge, 
-identify areas where they need training, and understand their sales performance. 
-This form will gather information on their sales representative experience, 
-product category knowledge, sales region, sales manager, and other relevant 
-details. This form will help the sales department to evaluate the employee's 
-product knowledge and identify areas where they need improvement. It will also 
-help to determine their training needs and sales performance.
-</thinking>
-
 # Pharmaceutical Sales Employee Product Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to assess the pharmaceutical sales employee's product knowledge, identify areas where they need training, and evaluate their sales performance.

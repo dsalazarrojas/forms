@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photo Print Release Form Template - Help Guide
 ## Purpose
 The Photo Print Release Form Template is a document used to obtain permission from a client to print their photos. This form helps ensure that the client understands and consents to the printing of their photos, and it also provides a record of their agreement.

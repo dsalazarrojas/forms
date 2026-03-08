@@ -1,17 +1,3 @@
-<thinking>
-
-This form was created for medical professionals to conduct respiratory infection screening in patients. It is used to gather information about the patient's condition, medical history, and any potential allergies or medications they are currently taking. This form is intended to be used in a clinical setting, such as a hospital or doctor's office, and is designed to be completed by a healthcare provider.
-
-This form is not intended to be used for diagnostic or treatment purposes, but rather as a screening tool to identify potential issues that require further evaluation.
-
-It is essential to fill out this form accurately and thoroughly, as any missing or incorrect information may lead to misdiagnosis or inadequate treatment.
-
-The information collected from this form will be used to support the patient's care and treatment plan.
-
-Please review the form carefully and answer the questions honestly and accurately.
-
-</thinking>
-
 # respiratory_infection_screening_form - Help Guide
 ## Purpose
 The respiratory infection screening form is a tool used by healthcare professionals to gather information about patients who may be experiencing respiratory infections. This form helps identify potential issues that require further evaluation and supports the patient's care and treatment plan.

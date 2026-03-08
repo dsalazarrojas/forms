@@ -1,7 +1,3 @@
-<thinking>
-Photograph submission form template helps users submit photographs for a specific event or event series. This form is meant to be used when a photographer has captured some photographs for an event that they would like to submit to be considered for publication. The form is designed to collect all the necessary information about the photographer and their submitted photograph.
-</thinking>
-
 # photograph_submission_form_template - Help Guide
 ## Purpose
 This form allows photographers to submit their photographs for a specific event or event series. It is meant for photographers who have captured images for an event that they would like to submit for publication.

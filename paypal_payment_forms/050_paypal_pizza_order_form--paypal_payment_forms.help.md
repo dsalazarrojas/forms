@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather order details, payment method and amount, and delivery information for the PayPal pizza ordering system. 
-
-We will not be considering this form for users if there is another existing form with similar purpose in this repository.
-</thinking>
-
 # paypal_pizza_order_form - Help Guide
 ## Purpose
 The PayPal pizza order form is a simple form used to collect order details, payment method and amount, and delivery information.

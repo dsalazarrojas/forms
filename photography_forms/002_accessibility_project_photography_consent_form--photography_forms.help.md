@@ -1,5 +1,3 @@
-<thinking>As we create this user-facing help guide, we'll be focusing on the "Accessibility Project Photography Consent Form". This form is used to collect information and consent for participants in an accessibility project where photography is involved. Our goal is to ensure that users understand the purpose and requirements of the form, making it easy to fill out and submit it correctly.</thinking>
-
 # Accessibility Project Photography Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent and demographic information from participants in an accessibility project where photography is involved. It captures details such as participant information, project specifics, and consent permissions for the use of photographs.

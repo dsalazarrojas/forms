@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the consent of a patient for a specific medical procedure. This consent form serves as a legal agreement between the patient and the healthcare provider, outlining the risks and benefits associated with the procedure. The form is intended to be completed by the patient, with the physician or healthcare provider also signing and dating the form as a witness. This is a general-purpose consent form that can be used in various medical settings.
-</thinking>
-
 # Procedure Consent Form - Help Guide
 ## Purpose
 The Procedure Consent Form is used to document the informed consent of a patient for a medical procedure. This form ensures that the patient understands and agrees to the risks and benefits associated with the procedure.

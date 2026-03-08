@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # sexually_transmitted_infection_report_form - Help Guide
 ## Purpose
 The Sexually Transmitted Infection (STI) Report Form is used to collect information about patient's symptoms and medical history for the purpose of diagnosis and treatment planning.

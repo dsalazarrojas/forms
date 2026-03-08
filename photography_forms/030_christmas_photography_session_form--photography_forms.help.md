@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Christmas Photography Session Form - Help Guide
 
 ## Purpose

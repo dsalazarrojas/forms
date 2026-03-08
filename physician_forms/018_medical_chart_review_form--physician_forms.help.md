@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect information from patients about their personal details, such as their name and birthdate. This form may be used in a medical setting for record keeping or other related purposes. To avoid data duplication, please ensure that you do not submit the same data for the same patient.
-</thinking>
-
 # Medical Chart Review Form - Help Guide
 ## Purpose
 The Medical Chart Review Form is used to collect and review patient information for medical record keeping purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mulch Sale Order Form - Help Guide
 
 ## Purpose

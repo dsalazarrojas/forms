@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physician Work Setting Assessment - Help Guide
 ## Purpose
 The Physician Work Setting Assessment is a form designed to gather information about your work setting as a healthcare professional. This includes your current work environment, duties, and responsibilities. The information collected will help us better understand your work context and improve our services.

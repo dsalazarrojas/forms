@@ -1,7 +1,3 @@
-<thinking>
-This form is for ordering custom T shirts for a family reunion. It will be used to collect information from attendees to print their name on the T shirt. The form has multiple sections and fields to gather details such as first and last name, preferred T shirt size and color, contact information, and additional notes. This form is designed to be completed by each family member to provide personalized information for their custom T shirt. Please ensure the form is filled out accurately and thoroughly to avoid errors in printing the T shirts.
-</thinking>
-
 # Family Reunion T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from family members to print their name on a custom T shirt for the family reunion.

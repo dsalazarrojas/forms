@@ -1,5 +1,3 @@
-<thinking>... internal reasoning check: the form is intended to gather feedback on drive-thru service, specifically on speed, accuracy, staff experience, cleanliness, location, and contact information... no obvious non-duplication or redundancy issues...</thinking>
-
 # Drive Thru Service Satisfaction Poll - Help Guide
 ## Purpose
 This form is designed to gather feedback on your drive-thru service experience, allowing us to understand and improve our service quality.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Reflection Journal - Help Guide
 ## Purpose
 The Daily Reflection Journal form is designed to collect personal information from users, including their name, contact details, and schedule preferences. This form helps us understand individual preferences and schedules to tailor our services to your needs.

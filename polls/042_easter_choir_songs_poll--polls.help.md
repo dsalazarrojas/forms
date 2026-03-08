@@ -1,14 +1,3 @@
-<thinking>
-This form is for users to submit their opinions on a series of questions related to Easter-related songs. The purpose of this form is to gather information on users' preferences and opinions about various songs that are traditionally sung during Easter celebrations. It's likely that the results will be used for analytics or surveys to understand user behavior and demographics.
-
-To prevent abuse and ensure data quality, please note that this is a single-use form and responses from duplicate IP addresses will be automatically discarded.
-
-Also, the fields are designed to be simple and intuitive, and the required fields are marked as such to ensure that users provide necessary information.
-
-Before proceeding, please take a moment to review the form and make sure to fill it out accurately and honestly.
-
-</thinking>
-
 # easter_choir_songs_poll - Help Guide
 ## Purpose
 This form is designed to gather opinions on traditional Easter songs sung in choir. Please take a few minutes to answer the following questions.

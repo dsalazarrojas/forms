@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to serve as a template for wedding photography lease agreements, capturing essential client and photographer information for the purpose of documenting and managing the terms of the photography services provided. This form should not be used for other types of photography services or agreements that do not pertain to weddings.
-</thinking>
-
 # Wedding Photography Lease Agreement - Help Guide
 ## Purpose
 This form is designed to provide a structure for capturing the essential details of the wedding photography service agreement between the client and the photographer. It will typically be used for wedding photography services, ensuring that all necessary information is collected and documented for both parties involved.

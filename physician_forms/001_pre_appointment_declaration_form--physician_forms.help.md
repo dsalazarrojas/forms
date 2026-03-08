@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the pre_appointment_declaration_form, which is a crucial document used to gather essential patient information before a scheduled appointment. This form is likely used in a medical setting to collect sensitive and important details about the patient, which will be reviewed and considered by medical staff before and during the appointment.
-
-The form has several fields that require completion, and the user's understanding of these fields is crucial for a smooth and successful appointment. This guide will walk you through each field, its purpose, and what is expected of the user.
-
-</thinking>
-
 # pre_appointment_declaration_form - Help Guide
 ## Purpose
 The pre_appointment_declaration_form is a necessary document used to gather information about a patient before their scheduled appointment. This information will be reviewed by medical staff before and during the appointment to ensure the patient's needs are met.

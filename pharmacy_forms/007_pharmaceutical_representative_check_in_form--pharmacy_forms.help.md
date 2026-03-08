@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pharmaceutical Representative Check In Form - Help Guide
 ## Purpose
 This form is for pharmaceutical representatives to check in when arriving at a meeting or event. It captures basic information for identification and contact purposes. The form helps the event staff to track who has arrived, making it easier to manage the event and provide a smooth experience for attendees.

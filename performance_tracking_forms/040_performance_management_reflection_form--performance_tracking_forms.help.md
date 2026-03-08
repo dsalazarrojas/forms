@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the performance management reflection form, a tool used to evaluate an individual's performance in various areas. This form is designed to gather feedback and reflection from both the individual and their supervisor, helping to identify areas of improvement and strengths.
-</thinking>
-
 # performance_management_reflection_form - Help Guide
 ## Purpose
 This form is used to track and evaluate an individual's performance in a structured and efficient manner. It consists of multiple pages with different types of questions and evaluations.

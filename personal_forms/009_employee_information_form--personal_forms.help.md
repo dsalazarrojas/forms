@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from employees about themselves, likely for HR purposes such as employee onboarding, directory listings, or other HR-related activities. The form does not appear to be a critical or high-priority form, as none of the fields are required. However, it's essential to understand its purpose and how to fill it out correctly to ensure accurate data collection. There is also the possibility that this form is part of a larger system, and understanding how to fill it out correctly will allow end-users to navigate this larger system more effectively.</thinking>
-
 # Employee Information Form - Help Guide
 
 ## Purpose

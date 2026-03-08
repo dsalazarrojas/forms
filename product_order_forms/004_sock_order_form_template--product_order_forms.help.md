@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to place an order for socks. The form is meant to be used by sales teams to process orders efficiently. It is not meant to be used for other purposes, such as customer feedback or internal communication. Please ensure that you only use this form for its intended purpose.
-</thinking>
-
 # Sock Order Form Template - Help Guide
 ## Purpose
 The Sock Order Form Template is a tool used by sales teams to collect information from customers who want to place an order for socks. The form helps to ensure that all necessary details are collected accurately and efficiently.

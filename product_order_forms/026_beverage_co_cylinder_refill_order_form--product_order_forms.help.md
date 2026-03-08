@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the Beverage CO₂ Cylinder Refill Order Form. The form is intended to help customers order a refill for their CO₂ cylinders, providing them with a range of options to customize their order based on their specific needs. The fields in this form are designed to collect essential information, including contact details, delivery preferences, and payment information. To ensure accuracy and relevance, please review the form carefully and fill it out based on your needs.
-</thinking>
-
 # Beverage CO₂ Cylinder Refill Order Form - Help Guide
 ## Purpose
 The Beverage CO₂ Cylinder Refill Order Form is designed to collect information for the CO₂ cylinder refilling process.

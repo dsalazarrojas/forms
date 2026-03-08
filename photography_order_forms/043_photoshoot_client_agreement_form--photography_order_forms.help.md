@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from clients during a photography session. The purpose of this form is to gather details about the client, the photography session, and the deliverables. This information will help the photographer to better understand the client's requirements and provide a high-quality service. To ensure accuracy, clients should fill out the form thoroughly and honestly. Note that the fields are not all required, but filling out all of them is strongly recommended.
-</thinking>
-
 # Photoshoot Client Agreement Form - Help Guide
 ## Purpose
 The purpose of this form is to capture essential information from clients during a photography session. This information helps the photographer understand the client's needs and expectations, ensuring a successful and satisfying experience.

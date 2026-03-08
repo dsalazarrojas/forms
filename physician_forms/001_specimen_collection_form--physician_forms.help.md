@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Specimen Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's specimen, including patient identification, collection details, and laboratory testing requirements. It ensures that all required fields are completed accurately to facilitate efficient and precise processing of the specimen.

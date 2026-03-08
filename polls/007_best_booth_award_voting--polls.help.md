@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and ratings on "Best Booth Awards" at events or trade shows. The purpose of this form is to gather data from event attendees on their experiences with different booths, providing insights on which booths are most impressive and engaging. The form collects information on the attendee's name, email address, company name (if applicable), event name, event date, booth number or location, company represented at the booth, and their ratings on various aspects of the booth, such as design, visual appeal, staff engagement, interactivity, and overall experience. The form's data will help event organizers understand what attendees value most in a booth and make informed decisions for future events.
-
-</thinking>
-
 # Best Booth Award Voting - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from event attendees on their experiences with different booths at events or trade shows.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mini Photo Shoot Session Contract Form Template - Help Guide
 
 ## Purpose

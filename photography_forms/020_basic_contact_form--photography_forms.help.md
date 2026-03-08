@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm that the form's purpose is to collect contact information from potential clients who are interested in hiring a photographer. This form will help us understand their needs and preferences for photography services. It's essential to note that the form is not designed to be a comprehensive proposal or contract, but rather a starting point for discussing further details with the client. This form will be used to gather information that will help us tailor the photography experience to the client's requirements. Please fill out this form carefully, ensuring all required fields are completed accurately.
-</thinking>
-
 # Basic Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information from potential clients who are interested in hiring a photographer. It helps us understand their needs and preferences for photography services.

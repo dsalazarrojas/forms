@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for vaccine exemptions. Vaccine exemptions are medical or philosophical reasons for not vaccinating a child. This form is meant to be completed by a parent or guardian to provide documentation for a school or medical provider to understand the reasoning behind a child's vaccination exemption. The form collects basic contact information (Parent Name), demographic information (Date of Birth), and a reason for refusing vaccination. Additionally, it includes fields for medical conditions that may impact vaccination, a space for a doctor's signature, and signatures from parents and teachers. The form is intended to be straightforward and easy to fill out, allowing for quick and accurate data collection.
-
-</thinking>
-
 # vaccine_exempt_form - Help Guide
 ## Purpose
 The vaccine exempt form is used to document a child's exemption from vaccination due to medical or philosophical reasons.

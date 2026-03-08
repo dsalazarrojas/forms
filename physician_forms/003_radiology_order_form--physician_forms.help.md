@@ -1,5 +1,3 @@
-<thinking>...checking the form purpose and fields... no obvious duplication or redundancy detected. This form appears to be designed for ordering radiology tests, which is a medical procedure that uses imaging technologies like X-rays, MRI, or CT scans to diagnose or monitor diseases. The form collects information about the patient, including name, age, gender, reason for imaging, and other relevant details. This guide aims to provide end-users with a clear understanding of how to complete the form correctly and efficiently...</thinking>
-
 # Radiology Order Form - Help Guide
 
 ## Purpose

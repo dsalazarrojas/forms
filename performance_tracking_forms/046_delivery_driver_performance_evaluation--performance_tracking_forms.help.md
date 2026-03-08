@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we should first understand the purpose of the form and ensure it's not duplicating any existing content. This form appears to be a performance evaluation tool for delivery drivers, designed to track their performance on a specific delivery route. It captures various aspects of the driver's performance, including their name, route, shift, location, start and end times, duration, distance driven, comments, supervisor approval, supervisor name, date, and time zone.
-
-We can assume that this form will help management or supervisors assess the efficiency and effectiveness of their drivers, possibly for future improvements or performance-related decisions.
-
-Let's review the form fields to ensure we provide a complete and concise help guide. Each field has a specific purpose and required status, which we'll outline below.
-
-</thinking>
-
 # Delivery Driver Performance Evaluation - Help Guide
 ## Purpose
 This form is used to evaluate the performance of delivery drivers. It captures key metrics and details about their work, including start and end times, duration, distance driven, and more. The data will help management assess their performance and make informed decisions.

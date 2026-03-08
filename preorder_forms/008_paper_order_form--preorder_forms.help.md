@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Paper Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for paper orders. It is intended to be a simple and user-friendly way to gather essential details about the customer, product, and shipping information. Please complete the form below to place your paper order.

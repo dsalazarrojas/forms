@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "Criminal Booking Process Checklist Form", I need to understand the purpose of the form, which is to document the process of booking a criminal, including information about the arrest, charges, and release. This form seems to be a comprehensive checklist that covers various aspects of the booking process, including the details of the arrest, the status of the arrest, the reason for booking, and the release of the individual. The fields are designed to collect specific information, such as the criminal booking number, date and time of arrest, name and address of the arrestee, criminal offense description, and more.
-
-To ensure that this form is completed correctly, it would be beneficial to have a clear guide that explains each field and its purpose. This way, users will be able to accurately fill out the form and ensure that all necessary information is gathered.
-
-</thinking>
-
 # Criminal Booking Process Checklist Form - Help Guide
 ## Purpose
 The "Criminal Booking Process Checklist Form" is a comprehensive form used to document the process of booking a criminal. This form helps to gather necessary information about the arrest, charges, and release of the individual.

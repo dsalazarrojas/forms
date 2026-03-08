@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stage Photography Permission Form - Help Guide
 
 ## Purpose

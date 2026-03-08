@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a general-purpose tool for citizens to express their concerns regarding noise nuisance regulations. The purpose of this form is to provide a platform for petitioners to describe their issue and propose a course of action. The form is not intended for use in emergency situations or urgent matters. Please use this form for non-urgent requests for modification or repeal of noise nuisance regulations. If you have a pressing concern, please contact your local authorities directly.
-</thinking>
-
 # Petition For Cancellation Of NoiseNuisance Regulations Form - Help Guide
 ## Purpose
 The Petition For Cancellation Of NoiseNuisance Regulations Form is designed to provide a structured way for citizens to express their concerns regarding noise nuisance regulations in their community. This form is meant to be used for general-purpose petitions that do not require immediate action.

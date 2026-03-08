@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning:**
-This form was generated using AI as part of an effort to provide a generic template for various petitioning tasks, including name changes. The form aims to assist individuals in providing necessary information for a formal name change petition, which typically requires a specific format and content. To ensure the form's relevance and prevent duplication, it's essential to understand its intended purpose and use it correctly.
-
-</thinking>
-
 # Name Change Petition Form - Help Guide
 ## Purpose
 This form is designed to assist individuals in preparing a petition to change their name. It collects essential information needed for a formal name change petition, which is typically submitted to a competent court.

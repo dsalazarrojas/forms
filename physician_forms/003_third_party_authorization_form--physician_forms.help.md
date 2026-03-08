@@ -1,5 +1,3 @@
-<thinking>This form is intended for third-party authorization, which involves obtaining permission from a patient or patient's legal representative to access and use their medical records. This form is usually required for healthcare providers to share patient information with third-party entities, such as family members, caregivers, or other healthcare professionals, who may need access to a patient's medical history for their own care or decision-making. The form ensures that the patient's privacy and confidentiality are protected while allowing authorized parties to access necessary information. In some cases, this form may be required for administrative or billing purposes, or for compliance with regulatory requirements. It's essential to ensure that only authorized parties have access to sensitive patient information, and this form is a crucial tool in maintaining patient confidentiality and ensuring accurate record-keeping.</thinking>
-
 # third_party_authorization_form - Help Guide
 ## Purpose
 The Third-Party Authorization Form is used to obtain permission from a patient or their legal representative to access their medical records.

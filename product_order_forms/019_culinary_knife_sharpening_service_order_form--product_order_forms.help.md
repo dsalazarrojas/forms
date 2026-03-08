@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for customers to order a culinary knife sharpening service. The form asks for various details including the type of business, the method of payment, number of knives to be sharpened, and other information to process the order correctly. This form should only be filled out once per order, and it is not meant for multiple orders. It is also assumed that the customer has already been in touch with the service and is familiar with the process.
-</thinking>
-
 # Culinary Knife Sharpening Service Order Form - Help Guide
 ## Purpose
 This form is used to place an order for the culinary knife sharpening service. It collects information necessary to process the order correctly and efficiently.

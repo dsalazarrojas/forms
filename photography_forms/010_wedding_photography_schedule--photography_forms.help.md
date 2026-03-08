@@ -1,5 +1,3 @@
-<thinking>... internal note: This form is designed to collect information from couples for a wedding photography service. It's crucial to ensure that all required fields are filled in accurately to avoid any misunderstandings or missed opportunities during the photo shoots. Before proceeding, please review each field to guarantee a smooth and pleasant experience for both the photographer and the couple. Please do not skip any required fields as they are marked with an asterisk (*) in the labels.</thinking>
-
 # Wedding Photography Schedule - Help Guide
 ## Purpose
 This form is a guide for the photographer to collect essential details from couples before their wedding day. By providing accurate and complete information, couples can help the photographer create a tailored schedule for capturing their special moments.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from clients or customers for a photography session. It captures details such as the type of session, session specifics, photographer and assistant information, scheduling details, client contact information, and terms of payment. This form is likely used by photography studios or agencies to communicate with clients and ensure that all necessary information is collected prior to the session. It's essential to fill out the form accurately to avoid any misunderstandings or miscommunications.
-</thinking>
-
 # photography_session_contract_form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients or customers for a photography session. It collects details such as the session type, session specifics, photographer and assistant information, scheduling details, and payment terms.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a quote request form for event photography services. The internal team uses this form to gather information from potential clients about their event details and requirements. Before filling out this form, please ensure that you are not a duplicate inquiry, as this will be used as a reference for quote purposes only. This form is intended to be completed by the person requesting the photography services or their representative. The internal team will use this form to provide an accurate quote for the event. 
-</thinking>
-
 # event_photography_quote_request - Help Guide
 ## Purpose
 This form is a quote request form for event photography services. It will help our team gather all the necessary information to provide an accurate quote for your event.

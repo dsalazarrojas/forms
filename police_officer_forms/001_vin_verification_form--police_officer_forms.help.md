@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to verify the details of a vehicle. The user will be asked to input information about the vehicle, including its Vehicle Identification Number (VIN), make, year, color, model, license plate, and other relevant details. This form will help ensure that the vehicle information is accurate and up-to-date, and that the user can make informed decisions about the vehicle's status.
-
-The user will be required to input their contact information (email and phone number) in case the officer needs to contact them for further clarification or follow-up.
-
-This form is designed to be filled out by a police officer, and the officer will be using it to verify the details of a vehicle. The form will help the officer to quickly and accurately gather the necessary information to make a decision about the vehicle's status.
-
-The user should not have to fill out this form if the vehicle's details have already been verified in the past. In that case, the officer can simply review the existing information and update it as necessary.
-
-</thinking>
-
 # vin_verification_form - Help Guide
 ## Purpose
 This form is used by police officers to verify the details of a vehicle.

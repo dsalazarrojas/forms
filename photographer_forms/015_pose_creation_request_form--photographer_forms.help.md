@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pose Creation Request Form - Help Guide
 
 ## Purpose

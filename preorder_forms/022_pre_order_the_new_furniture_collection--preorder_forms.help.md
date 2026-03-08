@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect customer information for pre-ordering the new furniture collection. The purpose of this form is to gather essential details from customers, such as their contact information, product selection, and order details. This information will be used to facilitate the ordering process and ensure that customers receive their pre-ordered items on time.
-
-To ensure that this form is relevant and not duplicated, let's review the inputSchema fields:
-
-* The form has 8 input fields: customer_details, customer_email, customer_phone, product_selection, order_date, order_time, address, and order_notes.
-* The form is designed to collect customer information and order details, which is suitable for pre-ordering a new furniture collection.
-</thinking>
-
 # pre_order_the_new_furniture_collection - Help Guide
 ## Purpose
 The "pre_order_the_new_furniture_collection" form is designed to collect customer information and order details for the new furniture collection.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a weekend work checklist for pharmacists to record their work activities, ensure patient safety, and provide emergency contact information for reference. This form is designed to be completed over a weekend, hence the name "Pharmacy Weekend Work Checklist". It's essential to ensure the form doesn't duplicate efforts or purposes already covered in other work-related forms or documents.
-</thinking>
-
 # Pharmacy Weekend Work Checklist - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Task Details Form - Help Guide
 ## Purpose
 The Daily Task Details Form is designed to collect information about daily tasks, allowing users to record and track their progress, status, and other relevant details.

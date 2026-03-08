@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from physicians regarding their medical practice, including patient information, medical conditions, treatment plans, diagnoses, and other relevant medical details. 
-
-To ensure accurate completion of this form, please ensure that:
-
-1.  You have all necessary permissions to complete this form.
-2.  You have reviewed the form content carefully.
-3.  You have completed other related forms if applicable.
-
-</thinking>
-
 # Physician Statement Form - Help Guide
 ## Purpose
 

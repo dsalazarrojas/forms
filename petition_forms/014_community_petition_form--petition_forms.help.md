@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll assume the form is designed for community members to submit petitions to various authorities or organizations within their community, and the goal is to collect data for internal purposes, such as identifying key issues, monitoring public opinion, or providing evidence for decision-making. The form may also help to avoid duplication of efforts by detecting if a similar petition already exists or has been previously submitted. I will provide an explanation of the form based on the provided YAML fields.</thinking>
-
 # Community Petition Form - Help Guide
 ## Purpose
 

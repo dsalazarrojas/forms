@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect order information from customers. The purpose of the form is to allow customers to place orders for retail shelf tester units, which are likely test units for retail products. The form should be used by customers to provide their order details, including their customer information, shipping information, and order date. The form does not require any specific fields to be filled, but it's best to fill them to ensure the order is processed correctly. Please ensure that the form is not duplicated or used for other purposes.</thinking>
-
 # Retail Shelf Tester Unit Order Form - Help Guide
 ## Purpose
 The form is designed to collect order information from customers to place orders for retail shelf tester units.

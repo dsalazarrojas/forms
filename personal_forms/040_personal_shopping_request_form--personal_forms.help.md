@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Shopping Request Form - Help Guide
 ## Purpose
 The Personal Shopping Request Form is designed to collect basic contact information and a message from users. This form is meant to be used by customers or users who want to inquire about shopping-related services or make inquiries about specific products. It will help our team provide personalized attention and support to users.

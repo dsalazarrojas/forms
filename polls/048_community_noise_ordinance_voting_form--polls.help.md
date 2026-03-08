@@ -1,10 +1,3 @@
-<thinking>
-**Form purpose:** This form is to collect feedback on the Community Noise Ordinance, a regulation that governs noise levels in the community. The purpose of this form is to gather votes from residents on their stance on the ordinance, as well as gather feedback and suggestions on noise levels and ways to improve the ordinance.
-
-**Form validation checks:** Before proceeding, we check that the form has not been submitted by someone who has already submitted it, to prevent duplicate entries. We also check if all required fields are filled out before allowing submission.
-
-</thinking>
-
 # Community Noise Ordinance Voting Form - Help Guide
 ## Purpose
 This form is used to collect feedback from residents on the Community Noise Ordinance. Your input will help shape the future of noise regulation in our community.

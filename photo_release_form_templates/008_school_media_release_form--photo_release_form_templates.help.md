@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure the School Media Release Form is used correctly, please note that this form is intended to obtain permission from parents for their child's media usage and image representation. It's crucial to understand that this form may have different sections and questions based on the specific needs of the school or media usage scenario. 
-
-Before proceeding, please ensure that you have read and understood the form's purpose and the implications of the permissions being asked. This form is designed to be completed by parents or guardians of students, and it's essential to have their explicit consent for their child's media representation.
-
-This guide will walk you through the form fields and their explanations to make it easier for you to complete it accurately and confidently.
-
-</thinking>
-
 # School Media Release Form - Help Guide
 
 ## Purpose

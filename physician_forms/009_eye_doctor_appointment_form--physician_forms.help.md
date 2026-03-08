@@ -1,21 +1,3 @@
-<thinking>
-This form is used for scheduling appointments with eye doctors. 
-The form is designed to collect patient information, 
-appointments details, and other relevant information for follow-up 
-purposes. 
-
-This form should be filled by patients or their representatives to 
-schedule appointments. It is not intended for use by healthcare 
-providers. 
-
-The form should only be used for scheduling purposes and not for 
-medical diagnoses or treatment decisions. 
-
-Please ensure that all required fields are completed and that 
-the information is accurate and up-to-date.
-
-</thinking>
-
 # eye_doctor_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule appointments with eye doctors for patients.

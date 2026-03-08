@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be used for tracking and sharing milestones achieved by teams in the organization. The purpose is to collect information about the milestones completed by teams across various programs, projects, and departments. The form will help in tracking the progress and impact of these milestones on the organization's performance. 
-
-To ensure data accuracy, it's essential to fill out this form correctly.
-
-Before completing this form, please ensure that you are authorized to do so and that the information you provide is accurate and up-to-date. If you need to fill this form multiple times, please do not create a new entry, but instead, update the existing one.
-
-Please note that this form is a tracking tool and not a reporting tool. The information collected will be used to analyze and report on the progress and performance of the organization.
-
-The information provided in this form will be used to track the impact of milestones on programs, projects, and departments. Please ensure that you fill out all relevant fields accurately and completely.
-</thinking>
-
 # Milestone Sharing Survey - Help Guide
 ## Purpose
 The Milestone Sharing Survey form is designed to track and share milestones achieved by teams in the organization. It collects information about milestones completed by teams across various programs, projects, and departments to analyze and report on the progress and performance of the organization.

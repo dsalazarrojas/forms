@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Performance Training Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help evaluate a client's fitness performance and progress in a training program. It collects information about the client's exercise preferences, training plan, workout schedule, performance data, and progress tracking. This data will be used to provide personalized feedback and guidance to help the client achieve their fitness goals.

@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that the form is relevant to the user's needs and not a duplicate of a similar form. This form is intended for users to provide their personal details for a life path reading session. The user will be asked to provide their first name, email, phone number, birth date, reading details, reading preferences, client preferences, and insights gained from the reading. We also need to ensure that the user understands that the form is for personal use only and not for commercial purposes.
-</thinking>
-
 # Life Path Reading Survey - Help Guide
 
 ## Purpose

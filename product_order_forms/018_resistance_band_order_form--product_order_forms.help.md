@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block will be hidden and only visible to you, the expert form designer and technical writer. Here's the thinking behind this form:
 
 The "Resistance Band Order Form" is a form used for customers to provide information for their orders, including order details, product selection, shipping and billing information, payment method, order notes, and order status. The form aims to gather all the necessary information from the customer in a single, easy-to-use interface.

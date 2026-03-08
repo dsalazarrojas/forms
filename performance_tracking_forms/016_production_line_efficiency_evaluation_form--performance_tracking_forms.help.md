@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for use by employees responsible for filling out the Production Line Efficiency Evaluation Form. It is crucial that users understand that this form is only to be used for evaluating the efficiency of production lines. If a production line has already been evaluated on the same day, please use the form for previous dates instead. Please make sure to fill out only the fields that are relevant to the current production line being evaluated.
-</thinking>
-
 # Production Line Efficiency Evaluation Form - Help Guide
 
 ## Purpose

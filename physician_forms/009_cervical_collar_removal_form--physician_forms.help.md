@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cervical Collar Removal Form - Help Guide
 ## Purpose
 This form is designed to document the removal of a cervical collar in a patient. It is used to obtain patient consent, clinical details, and other relevant information before proceeding with the removal. This form is meant to be used as part of the standard procedure to ensure patient safety and well-being.

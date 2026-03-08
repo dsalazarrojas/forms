@@ -1,8 +1,3 @@
-<thinking>
-This form is used for capturing details about a photography event. It is designed to collect information from the client about the event's title, date, time, location, and any other relevant details. The form is used by photographers to document and prepare for events. It is not intended for other purposes, such as creating new events.
-This form is used to collect information that is similar to what is already collected in "event_details" form, but it is a distinct form with the purpose of being a contract between the photographer and the client.
-</thinking>
-
 # first-data-event-photography-contract - Help Guide
 ## Purpose
 The first-data-event-photography-contract form is used by photographers to document and prepare for events.

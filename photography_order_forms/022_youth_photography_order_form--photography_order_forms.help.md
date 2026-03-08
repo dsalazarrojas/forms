@@ -1,11 +1,3 @@
-<thinking>
-To ensure accuracy, I will first review the provided YAML to confirm the form's purpose and required fields.
-This form is for youth photography, likely for events or parties where photos of children are being taken. The form is meant to capture details from the customer, such as the date and time of the reservation, the type of print they would like, and their contact information.
-Based on the YAML, the form has the following required fields:
- * Print Type (id: 4)
- * (There are no other required fields besides print_type)
-</thinking>
-
 # Youth Photography Order Form - Help Guide
 ## Purpose
 The Youth Photography Order Form is designed to collect information from customers for their reservation and order details.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Holiday Pre Sale Registration" form is used correctly by end-users, preventing any potential issues with order duplication or incorrect data entry. To achieve this, we should clearly explain the form's purpose and how to complete it, along with providing a detailed explanation of each field. This will help users understand the expected input and minimize errors. The form is designed to gather information for a pre-sale event, typically during the holiday season. The goal is to efficiently capture customer details and preferences for the event.
-</thinking>
-
 # Holiday Pre Sale Registration - Help Guide
 ## Purpose
 The "Holiday Pre Sale Registration" form is used to collect information from customers about their interest in purchasing products for a holiday pre sale event. This form helps us understand customer preferences and quantities for the products they wish to purchase, allowing us to better prepare for the event.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This help guide is for end-users who will be completing the "Patient Admission And Consent Form" which is a form used for recording and verifying patient information for admissions. It is essential to ensure that the information captured is accurate and complete to ensure a smooth and safe patient care experience. This guide will cover the purpose of the form, how to complete it, and provide a field-by-field explanation to ensure users understand each section.
 
 # Patient Admission And Consent Form - Help Guide

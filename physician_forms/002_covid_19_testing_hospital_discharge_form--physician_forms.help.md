@@ -1,12 +1,3 @@
-<thinking>
-This is a form for hospital administrators to document the discharge status of a COVID-19 patient. To ensure accuracy and consistency, please review the following guidelines before completing the form:
-
-*   The form is designed for patients who have been diagnosed with COVID-19 or have had a suspected exposure to the virus.
-*   This form should only be filled out by hospital staff with direct knowledge of the patient's situation.
-*   Ensure that you have access to accurate and up-to-date information before completing the form.
-
-</thinking>
-
 # COVID 19 Testing Hospital Discharge Form - Help Guide
 
 ## Purpose

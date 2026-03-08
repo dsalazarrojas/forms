@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a peer review assignment from a reviewer. The form should only be filled out when an assignment needs to be reviewed by a peer. This form helps to identify and document the necessary steps and requirements for the review process. Please fill out this form carefully and accurately to ensure a smooth and thorough review process. Ensure that the form is not submitted if the reviewer does not need to review the assignment or if the reviewer already has an assignment to review. This form should be used for new assignments only.
-</thinking>
-
 # Peer Review Assignment Request Form - Help Guide
 ## Purpose
 This form is used to request a peer review assignment from a reviewer. It helps to identify and document the necessary steps and requirements for the review process.

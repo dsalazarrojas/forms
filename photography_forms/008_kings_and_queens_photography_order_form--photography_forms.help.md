@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for photography orders. It is designed to be used internally, so the form data will likely be reviewed and processed within the organization. The form should not be used for external or public purposes. The form has multiple fields for capturing different types of information, including package selection, date, time, note, email, and phone number. It is likely intended for staff use, such as photographers or customer support staff, to facilitate efficient order processing.
-</thinking>
-
 # kings_and_queens_photography_order_form - Help Guide
 ## Purpose
 This form is designed for internal use to collect information for photography orders.

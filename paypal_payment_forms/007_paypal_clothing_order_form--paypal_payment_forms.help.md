@@ -1,6 +1,3 @@
-<thinking>
-The form's purpose is to collect customer information, product details, shipping information, payment details, and order summary from users. The form is designed to be completed by customers who want to place an order for clothing, and it is likely to be used in an online store or retail setting. The form's fields should be filled out by the customer to provide accurate and complete information for the order process. To avoid duplication, users should not use this form to collect information that is already known to the customer, such as shipping information if it is already stored in their account.</thinking>
-
 # payPal_Clothing_Order_Form - Help Guide
 ## Purpose
 The PayPal_Clothing_Order_Form is a tool used to collect customer information, product details, shipping information, payment details, and order summary from customers who want to place an order for clothing online or in-store.

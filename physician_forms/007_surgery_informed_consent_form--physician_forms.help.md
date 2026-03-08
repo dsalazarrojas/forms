@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect informed consent from patients before surgery. It is crucial that the patient understands the risks, benefits, and alternatives to the surgery. This form should only be completed by patients undergoing surgery, and it is mandatory for all procedures. Before filling out this form, please ensure that you are a patient or authorized to act on behalf of the patient.
-</thinking>
-
 # Surgery Informed Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients before surgery. It ensures that the patient understands the risks, benefits, and alternatives to the surgery.

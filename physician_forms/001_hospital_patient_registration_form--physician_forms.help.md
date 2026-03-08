@@ -1,15 +1,3 @@
-<thinking>
-
-The Hospital Patient Registration Form is a comprehensive guide to help healthcare professionals and medical staff in registering hospital patients with accuracy and efficiency. The form is designed to gather essential information about a patient, including their details, medical history, contact information, emergency contacts, and medical records. This guide is intended for healthcare professionals who need to understand the purpose and usage of the form to ensure accurate and complete patient data collection.
-
-The form is structured into several sections, each covering a different aspect of patient information. Completing the form accurately will ensure that patients receive the best possible care and treatment.
-
-Before filling out the form, please make sure you have all the necessary information about the patient. Some fields are optional, but it's essential to fill out all required fields for accurate registration.
-
-This guide will walk you through each field in the form, explaining what each field means and how to complete it.
-
-</thinking>
-
 # Hospital Patient Registration Form - Help Guide
 ## Purpose
 The Hospital Patient Registration Form is a comprehensive form designed to collect essential information about patients. It is meant to be filled out by healthcare professionals to ensure accurate and complete patient data collection.

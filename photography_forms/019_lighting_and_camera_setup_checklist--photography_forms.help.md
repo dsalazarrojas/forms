@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive checklist for ensuring proper lighting and camera setup for a photography session. Its purpose is to ensure that all necessary equipment and settings are in place before commencing a photo shoot, thereby minimizing the risk of errors and ensuring a satisfactory outcome. The form is designed to be completed in collaboration between the photographer and their assistant, or as a standalone task for the photographer themselves.
-</thinking>
-
 # Lighting And Camera Setup Checklist - Help Guide
 ## Purpose
 This form is a checklist designed to aid photographers in setting up their equipment and settings for a successful photo shoot. It covers various aspects of lighting and camera setup, ensuring that everything is in place before commencement.

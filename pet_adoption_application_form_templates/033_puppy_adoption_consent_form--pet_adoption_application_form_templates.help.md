@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or families interested in adopting a puppy from an animal shelter or rescue organization. The form is intended to be a straightforward and efficient way to gather necessary details from adopters, including their name, address, phone number, email, contact information, and consent to the adoption contract.
-The purpose of this form is to ensure that the adopter's contact information is accurate and up-to-date, and that they are aware of and agree to the terms of the adoption contract. This information will be used to facilitate the adoption process and ensure a smooth transition for both the adopter and the animal.
-It is essential to fill out this form completely and accurately to ensure that we can contact you and keep you updated on the adoption process.
-</thinking>
-
 # Puppy Adoption Consent Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from individuals or families interested in adopting a puppy from an animal shelter or rescue organization.

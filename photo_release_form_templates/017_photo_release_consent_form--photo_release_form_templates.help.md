@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, I will review the provided YAML fields. 
-The form seems to be related to the photo shoot process, possibly for marketing, commercial, or other purposes. The form is called "Photo Release Consent Form", which indicates that it is used to obtain consent from photo owners to release their photos.
-Checking the fields, I see that "photo_owner", "release_type", and "date" are the fields that indicate that the form is indeed related to photo ownership, release conditions, and dates. 
-Other fields like "photographer_info" and "photographer_signature" also point towards the form being related to photographers.
-However, it seems that the form is designed to cater to different scenarios, such as releasing photos for print, internet, or both, which makes it seem like it's used for various types of photo releases.
-Upon closer inspection, it appears that the form is used to obtain consent from photo owners for commercial or promotional purposes, allowing them to grant permission to the photographer for the release of their photos.
-Given the fields "release_type", "release_location", and "date", it's likely that the form is also used for event or location-specific releases.
-To confirm, I will check for any other fields that could hint at the form's purpose. Upon reviewing the form's fields, I notice that "photo_owner" and "photo_owner_signature" suggest that the form is used to obtain consent from the photo owner, which further supports the idea that the form is related to photo ownership and release conditions.
-</thinking>
-
 # Photo Release Consent Form - Help Guide
 ## Purpose
 The Photo Release Consent Form is used to obtain consent from photo owners for the release of their photos. The form is designed to capture the necessary information for a photo shoot, including the photo owner's details, the purpose of the shoot, and the release conditions.

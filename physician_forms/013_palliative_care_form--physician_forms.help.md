@@ -1,16 +1,3 @@
-<thinking>
-
-This form is designed to collect information related to palliative care, which focuses on providing relief from the symptoms, pain, and stress of a serious illness. The form is intended for healthcare professionals to document and track a patient's medical history, current condition, and treatment plans.
-
-Before starting to fill out this form, please review the following:
-
-* The form is divided into sections, each covering a specific aspect of the patient's care.
-* All sections are optional, but please provide as much information as possible.
-* If you are unsure about a section or have any questions, please consult with the healthcare team.
-* This form is designed to be filled out by the patient or their representative, but may also be used by healthcare professionals to record patient data.
-
-</thinking>
-
 # Palliative Care Form - Help Guide
 ## Purpose
 The Palliative Care Form is a document that helps healthcare professionals gather and track vital information about a patient's medical history, current condition, and treatment plans. It is used to ensure that the patient receives comprehensive care that is tailored to their specific needs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to report cases of coronavirus, allowing healthcare professionals to track and analyze the spread of the disease. This form will help to gather essential information about patients, including their symptoms, location, and case status. The goal is to provide a standardized template for reporting cases in a clear and concise manner.
 
 # Coronavirus Case Report Template - Help Guide

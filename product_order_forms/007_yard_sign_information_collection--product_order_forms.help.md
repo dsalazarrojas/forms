@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to collect information about a yard sign, including its specifications, artwork, installation details, contact person, and other relevant details. 
-The purpose of this form is to provide a centralized platform for collecting and managing yard sign requests. 
-This form should only be completed by authorized users, and each entry should be checked for accuracy and completeness before proceeding with the order. 
-To avoid duplication of effort, please ensure that you're not creating duplicate entries for the same yard sign request. 
-</thinking>
-
 # Yard Sign Information Collection - Help Guide
 ## Purpose
 This form is designed to collect information about yard signs, including specifications, artwork, installation details, and other relevant details.

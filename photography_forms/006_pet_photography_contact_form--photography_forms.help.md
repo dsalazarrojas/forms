@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture contact information from pet owners who are interested in scheduling a pet photography session. The purpose of this form is to gather necessary details from the pet owner to ensure a smooth and enjoyable experience for both the pet and the photographer. This form is meant to be completed by pet owners who are looking to capture beautiful memories of their furry friends. It is likely that this form will be used by pet photographers, pet owners, or pet-related businesses.
-
-To determine if this form is relevant to your needs, ask yourself: are you a pet owner looking to capture special moments with your pet? Are you a pet photographer or pet-related business looking to gather contact information from pet owners? If so, this form is for you.
-
-Please note that this form is a general template and may need to be adapted according to your specific business needs and requirements.
-
-</thinking>
-
 # Pet Photography Contact Form - Help Guide
 ## Purpose
 The Pet Photography Contact Form is designed to gather information from pet owners who are interested in scheduling a pet photography session. This form helps pet photographers and related businesses capture the necessary details to ensure a smooth and enjoyable experience for both the pet and the photographer.

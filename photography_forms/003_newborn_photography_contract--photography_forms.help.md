@@ -1,7 +1,3 @@
-<thinking>
-We should create a comprehensive help guide for the Newborn Photography Contract form. To start, the form's purpose is to gather essential information from customers for a photography session. This form will help us understand the details of the session, including the date, customer contact information, agreement terms, and signature of consent. It's likely that this form is used by photography studios or services to capture necessary information from clients prior to a photo shoot. We should ensure that this guide is easy to follow and covers all required fields to avoid any confusion or errors. We should also consider that this form might be used in multiple contexts, such as different types of photo shoots or locations, so it's crucial to keep the language general and adaptable. Let's review the form fields to create a clear and concise guide.
-</thinking>
-
 # Newborn Photography Contract - Help Guide
 ## Purpose
 This form is used to gather essential information from customers for a photography session. It captures details such as session date, customer contact information, agreement terms, and signature of consent.

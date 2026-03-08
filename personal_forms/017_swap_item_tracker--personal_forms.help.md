@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a tool for tracking swaps or trades between individuals, focusing on items and their associated details. The form is designed to gather information about the item being swapped, including its description, status, and images. It also includes fields for notes, swap dates, and exchange dates. The purpose of this form is likely to facilitate smooth and organized swaps between individuals, ensuring that all parties involved are aware of the current status and any changes in the swap process.
-</thinking>
-
 # Swap Item Tracker - Help Guide
 ## Purpose
 The Swap Item Tracker form is designed to help users keep track of swaps or trades between individuals. It's meant to be used by individuals or organizations swapping items, such as collectibles, books, or other items of value.

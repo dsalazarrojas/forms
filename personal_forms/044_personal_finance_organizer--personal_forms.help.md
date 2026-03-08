@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the "personal_finance_organizer" form, which aims to assist users in organizing their personal finance data. To confirm, this form is intended to collect information related to income, expenses, savings goals, money priorities, income type, and additional notes or contact information.
-</thinking>
-
 # personal_finance_organizer - Help Guide
 ## Purpose
 This form is designed to help you track your personal finance, including income, expenses, savings goals, and income type. It's a comprehensive tool to keep all your financial information in one place.

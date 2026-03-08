@@ -1,5 +1,3 @@
-<thinking>...The Autopsy Report Request Form is used by requestors to submit a request for an autopsy report. This form is primarily used by family members, legal representatives, or medical professionals to initiate the process of obtaining an autopsy report for various reasons such as personal records, legal proceedings, insurance claims, medical research, or family medical history. The form is typically completed by the individual or organization making the request, and it is used to gather information necessary to facilitate the preparation and distribution of the requested report. When completing this form, please ensure that the information requested is accurate and complete, as it will be used to identify the decedent and process the request. If you have previously submitted a request for this decedent, please do not complete this form again. Please ensure that the form is complete and accurate before submission, as it will be processed based on the information provided. If you have any questions or concerns, please contact us for clarification or assistance...</thinking>
-
 # Autopsy Report Request Form - Help Guide
 ## Purpose
 

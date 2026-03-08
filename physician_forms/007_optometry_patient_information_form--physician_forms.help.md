@@ -1,11 +1,3 @@
-<thinking>
-  This form is intended to gather patient information for optometry services.
-  This form is designed for patients to provide their personal details such as name, date of birth, medical doctor name, medical record number, address, and contact information.
-  Please note that this form does not include any sensitive or medical-related fields.
-  Before completing this form, ensure that you have the necessary permissions and consent to provide your personal data.
-  If you have any doubts or concerns about the form's purpose or content, please contact <form@gic.mx>.
-</thinking>
-
 # Optometry Patient Information Form - Help Guide
 ## Purpose
 The Optometry Patient Information Form is designed to collect patient's personal details for optometry services.

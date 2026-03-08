@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information from a patient for an urgent care work release. This form is designed to be completed by a physician and should only be used for patients who are being discharged from urgent care. This form is not intended for patients who are being admitted for inpatient care. Please ensure that you are familiar with the patient's case and the relevant medical information before completing this form.
-</thinking>
-
 # Urgent Care Work Release Form - Help Guide
 ## Purpose
 The Urgent Care Work Release Form is used to document the release of a patient from an urgent care setting. It captures essential information about the patient's work status, reason for return, and other relevant details for patient follow-up.

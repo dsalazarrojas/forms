@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # promotional_floor_decal_order_form - Help Guide
 ## Purpose
 The promotional floor decal order form is used to collect contact and shipping information from customers who wish to order promotional floor decals. This form is required for all orders, as it helps us understand the customer's needs and ensures accurate delivery of their decal.

@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Animal Adoption Process Analysis Survey" form, we need to consider the purpose of the form and how users will interact with it. The form aims to collect data on the animal adoption process, specifically from shelters or organizations involved in adoption. The form is designed to gather information on various aspects of the adoption process, including the role of respondents in the process, the length and complexity of adoption applications, the time it takes to process applications, the screening steps involved, and more.
-
-Before starting, it's essential to check if the form has already been filled out by the user, and ensure that the user has not already been asked to take this survey in the past. 
-
-This guide should be clear, concise, and concrete, explaining each field's purpose and requirements in an easy-to-understand manner.
-</thinking>
-
 # Animal Adoption Process Analysis Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your animal adoption process. It will help identify areas for improvement and provide insights on how to streamline the adoption process.

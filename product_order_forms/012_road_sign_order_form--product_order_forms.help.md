@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to understand the context and purpose of the "Road Sign Order Form" to create a user-facing help guide that meets their needs.</thinking>
-
 # Road Sign Order Form - Help Guide
 ## Purpose
 The purpose of this form is to allow customers to order custom road signs by providing all necessary details for production, delivery, and payment.

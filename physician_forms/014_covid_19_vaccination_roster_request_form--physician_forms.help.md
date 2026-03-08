@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from organizations or individuals requesting a COVID-19 vaccination roster. The purpose of this form is to gather essential details to facilitate the processing and fulfillment of vaccination requests. The form is not intended for emergency or urgent situations but rather for standard, non-urgent requests. Before filling out this form, please ensure that you have not already submitted a similar request, as duplicate submissions will be subject to review and possible removal. 
-</thinking>
-
 # COVID 19 Vaccination Roster Request Form - Help Guide
 
 ## Purpose

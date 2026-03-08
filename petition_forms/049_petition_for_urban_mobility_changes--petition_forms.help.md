@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to submit petitions for urban mobility changes. It's designed to gather information from users about their concerns or ideas related to urban mobility, such as transportation, infrastructure, or public services. Before proceeding, please ensure that you have not previously submitted a similar petition, and that your request is not a duplicate of another existing petition. If you're unsure, please review the list of existing petitions on our website or contact our support team for clarification.
-</thinking>
-
 # Petition For Urban Mobility Changes - Help Guide
 ## Purpose
 The purpose of this form is to allow users to submit petitions for urban mobility changes, which can include proposals for new or modified transportation systems, public services, or infrastructure projects.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Class Council Petition Template - Help Guide
 
 ## Purpose

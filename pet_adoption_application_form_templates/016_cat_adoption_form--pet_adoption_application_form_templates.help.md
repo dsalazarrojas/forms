@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive and user-friendly help guide for the Cat Adoption Form, I will analyze the provided YAML fields and provide a clear explanation of each section and field. This guide will help users understand the purpose of the form, how to complete it, and what each field means.
-
-</thinking>
-
 # Cat Adoption Form - Help Guide
 
 ## Purpose

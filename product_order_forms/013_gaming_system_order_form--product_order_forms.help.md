@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect order-related information from customers, including their personal details and preferences. The form is intended for customers who want to place an order for a gaming system. It includes a range of fields to gather information such as contact details, order preferences, and payment methods. To prevent duplication, this form should only be used for new orders. If you have already ordered from us before, please do not use this form.
-
-</thinking>
-
 # Gaming System Order Form - Help Guide
 ## Purpose
 This form is designed to collect order-related information from customers for new orders.

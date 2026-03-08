@@ -1,14 +1,3 @@
-<thinking> 
-This form is intended for customers to place orders for clearance sale items. The purpose of this form is to gather necessary information for order processing and delivery. This form is only for customers who are aware of and agree to the terms and conditions of the sale. 
-
-The information required to fill out this form includes the customer's contact and billing information, the items being ordered (description, quantity, and price), shipping method, and payment method. The customer is also asked about their preferred delivery date and any special instructions or packaging requests. 
-
-The form will ask for multiple items if the customer is purchasing more than one item. 
-
-The fields are organized in a way that the order is processed and delivered correctly. 
-
-</thinking>
-
 # Annual Inventory Clearance Sale Order Form - Help Guide
 ## Purpose
 The purpose of this form is to place an order for one or more items at a discounted price.

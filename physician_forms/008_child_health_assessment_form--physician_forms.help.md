@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Health Assessment Form - Help Guide
 
 ## Purpose

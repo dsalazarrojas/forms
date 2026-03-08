@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trainee Progress Report Form - Help Guide
 
 ## Purpose

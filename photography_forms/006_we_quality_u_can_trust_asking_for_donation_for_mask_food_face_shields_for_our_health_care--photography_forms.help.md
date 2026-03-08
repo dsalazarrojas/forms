@@ -1,7 +1,3 @@
-<thinking>
-This form was created for the purpose of collecting information from individuals or organizations seeking to ask for donations for mask, food, or face shields for our health care. The form aims to gather relevant details to ensure that we can trust the request and provide the necessary support. This form is not affiliated with, endorsed by, or derived from any form platform, and its use is governed by the Creative Commons BY 4.0 license.
-</thinking>
-
 # we_quality_u_can_trust_asking_for_donation_for_mask_food_face_shields_for_our_health_care - Help Guide
 ## Purpose
 This form is designed to collect information for individuals or organizations seeking to ask for donations for mask, food, or face shields for our health care.

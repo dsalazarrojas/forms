@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about bugs or issues that need to be tracked and addressed. It should only be used for reporting bugs that are specific and actionable. Do not use this form for general feedback or suggestions. The form is divided into two main sections: Contact Information and Bug Details.
-</thinking>
-
 # Bug Tracker Form - Help Guide
 ## Purpose
 The Bug Tracker Form is a tool used to report and track bugs or issues that need to be addressed. It helps in gathering all necessary information to efficiently identify and resolve the problem.

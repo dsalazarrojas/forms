@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their Mpox vaccine status. The form asks for personal details such as first and last name, contact information, and medical condition. It also asks about the user's vaccine status and reason for assessment. This form is meant to be completed by users who have been vaccinated against Mpox or who are due for a vaccine assessment. This form should not be completed by users who have not been vaccinated or are not due for a vaccine assessment. This form is part of a larger system for managing Mpox vaccine data and will be used to track vaccine status and provide personalized health advice to users.</thinking>
-
 # Mpox Vaccine Assessment Form - Help Guide
 ## Purpose
 This form is used to collect information about your Mpox vaccine status and medical condition.

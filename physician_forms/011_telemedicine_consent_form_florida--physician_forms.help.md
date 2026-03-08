@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients to provide their consent for telemedicine services in the state of Florida. The form will be used to collect patient information, which is essential for telemedicine service providers to offer high-quality care. Please ensure that the patient information collected is accurate and up-to-date to ensure the best possible care.
-</thinking>
-
 # Telemedicine Consent Form Florida - Help Guide
 ## Purpose
 The purpose of this Telemedicine Consent Form Florida is to obtain the patient's consent for telemedicine services in the state of Florida. This form is a crucial document that enables telemedicine service providers to offer safe and effective care.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a patient medical history form used for collecting important medical information from patients. This form is intended for use in a clinical setting and is designed to provide patients with a structured way to report their medical history. The form is not intended for use in any other setting, such as online surveys or market research.
-
-To avoid duplication of efforts and ensure accurate patient medical history, it is essential to use this form with each patient individually and only once. This form should not be used to collect medical history of multiple patients at once.
-
-</thinking>
-
 # Patient Medical History Form - Help Guide
 ## Purpose
 This form is used to collect important medical information from patients to help healthcare providers understand their medical history.

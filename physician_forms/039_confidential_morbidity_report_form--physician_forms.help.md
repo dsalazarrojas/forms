@@ -1,13 +1,3 @@
-<thinking>
-Internal reasoning to determine the form's purpose and identify potential redundancies:
-
-The purpose of this form, "Confidential Morbidity Report Form," appears to be for healthcare providers to report morbidity (the state of being diseased) data to public health departments. This form collects personal and clinical information about patients, including their demographics, medical history, and treatment details.
-
-Upon reviewing the form's fields, I notice that there are no obvious redundancies or fields that can be removed or combined without affecting its purpose or accuracy. Each field is designed to capture specific and unique information.
-
-With this understanding, we will create a user-facing help guide that explains the form's purpose, how to complete it, and a field-by-field explanation.
-</thinking>
-
 # Confidential Morbidity Report Form - Help Guide
 ## Purpose
 The purpose of this form is for healthcare providers to report morbidity data to public health departments. It collects demographic and clinical information about patients to facilitate accurate tracking and response to public health concerns.

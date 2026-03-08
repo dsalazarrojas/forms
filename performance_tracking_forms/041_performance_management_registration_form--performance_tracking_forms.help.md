@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect performance tracking information from employees. This form is used for evaluation and registration purposes only and must be completed once per quarter or month. The information collected through this form is used for performance tracking, evaluation, and management. It is essential to understand that this form must be filled out once a period, and not duplicate the entries as it may create confusion and affect the data accuracy.</thinking>
-
 # Performance Management Registration Form - Help Guide
 ## Purpose
 This form is used for employee performance tracking, evaluation, and management purposes. It is designed to collect relevant information from employees on a regular basis to ensure accurate data for performance assessments and evaluations.

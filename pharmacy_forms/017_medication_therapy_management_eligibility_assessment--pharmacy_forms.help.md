@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess the eligibility of a patient for medication therapy management. The form is designed to gather relevant information from the user, including their user details, medical history, medical conditions, patient status, and medication list. The form also includes a medical review section where the user can provide additional information. The review results section is a select one option field where the user can choose from pre-defined options. The form ends with a signature field where the user confirms their submission. This form is not intended to be used for commercial or medical purposes but rather as a hypothetical template for demonstrating form design and writing. The fields and labels used in this form are based on the provided YAML data and have been interpreted in the best possible way given the provided metadata.
-
-</thinking>
-
 # medication_therapy_management_eligibility_assessment - Help Guide
 ## Purpose
 The medication therapy management eligibility assessment form is a tool used to evaluate a patient's eligibility for medication therapy. This form gathers essential information from the patient, including their user details, medical history, and other relevant factors.

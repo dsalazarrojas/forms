@@ -1,7 +1,3 @@
-<thinking>
-We're building a Strength Training Registration Form to collect essential information from our users to provide a safe and effective fitness experience. This form aims to gather details about the user's personal information, medical history, training goals, and preferences. It's crucial that users provide accurate and honest information to avoid any potential risks or complications during their training sessions.
-</thinking>
-
 # Strength Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect user information to create a customized and safe fitness experience. Please provide accurate answers to help us get to know you better and ensure your well-being.

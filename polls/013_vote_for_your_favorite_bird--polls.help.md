@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vote For Your Favorite Bird - Help Guide
 
 ## Purpose

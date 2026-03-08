@@ -1,6 +1,3 @@
-<thinking>
-The form "Profile Picture Background Selection" is used to allow users to select the background style and upload a profile picture for their account. This form is not required for users to complete, but it does provide an option for them to choose a background style and upload a profile photo. The form is part of a larger process for users to customize their account settings. This help guide is to ensure that users understand the purpose and functionality of the form.</thinking>
-
 # Profile Picture Background Selection - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect order information from customers who want to purchase personalized necklaces. The goal of this form is to gather all the necessary details about the customer and the order, including customer contact information, shipping details, and order status.
-Before filling out this form, please make sure you are not duplicating an existing order. This form is intended for new orders only.
-</thinking>
-
 # Personalized Necklace Order Form - Help Guide
 ## Purpose
 This form is used to collect order information from customers for personalized necklaces.

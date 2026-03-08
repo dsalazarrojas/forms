@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the context and purpose of the form. The form is a "Hybrid Work Satisfaction Poll" and is likely used to gather feedback from employees about their work experience in a hybrid work setting. This could be a workplace that offers both remote and in-person work options. The purpose of the form is to collect information about employee satisfaction and preferences related to their work environment, work schedule, and communication channels.
-
-We should ensure that the form's purpose is clear and relevant to the target audience (employees in a hybrid work setting). We should also check if there is already a similar form or process in place to avoid duplication of efforts.
-
-</thinking>
-
 # Hybrid Work Satisfaction Poll - Help Guide
 
 ## Purpose

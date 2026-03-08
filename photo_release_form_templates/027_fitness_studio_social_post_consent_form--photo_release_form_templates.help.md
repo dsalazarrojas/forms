@@ -1,7 +1,3 @@
-<thinking>
-**Internal Note for Designers:** This form is for capturing client-specific social post consent information. It is crucial to collect the correct information to ensure compliance with our client's social media policies. Ensure the user is able to understand the purpose and requirements of each field clearly.
-</thinking>
-
 # Fitness Studio Social Post Consent Form - Help Guide
 ## Purpose
 The Fitness Studio Social Post Consent Form is used to collect client-specific social post consent information. This form is essential for ensuring that clients understand and agree to the terms of our social media posts, which helps us maintain a positive online presence.

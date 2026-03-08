@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a tool for pharmacy employees to provide feedback on their performance. The form is used to track and record performance data for employees in the pharmacy setting. The form should only be completed by authorized personnel, and should not be used for non-work purposes.
-
-The form consists of multiple sections, each with its own purpose and requirements. Before completing the form, it's essential to understand each field's intention and required status.
-
-Please ensure that you only provide feedback that is factual and constructive, and do not include any confidential or sensitive information.
-
-</thinking>
-
 # pharmacy_employee_performance_review_form - Help Guide
 ## Purpose
 The pharmacy_employee_performance_review_form is a tool for tracking employee performance in a pharmacy setting. It is used to document observations, provide feedback, and set goals for improvement.

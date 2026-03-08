@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture the information and agreements necessary for a family child photography session. The form is intended to be completed by both the client (parent/ guardian) and the photographer. The form's purpose is to establish clear expectations and agreements for the photography session. The form does not require any specific fields to be filled out, but it is recommended that all sections be completed to ensure a smooth and successful experience for both parties.
-
-The form is divided into four sections: Client Information, Photographer Information, Session Information, and Contract Terms. The Client Agreement and Photographer Agreement sections are critical, as they require a clear and definitive agreement to the contract terms. 
-
-In terms of duplication, this form is not intended to be used in any specific context or situation, but its design can be adapted to suit different contexts and use cases. The form's structure and purpose are general enough to be applicable to various photography-related settings.
-
-The form does not contain any sensitive or proprietary information, and its structure and content are original adaptations created using public survey topic metadata. The form is released under CC BY 4.0, allowing users to freely use, modify, and even sell forms derived from it, as long as credit is given.
-
-</thinking>
-
 # FamilyChild Photography Contract Form - Help Guide
 ## Purpose
 This form is designed to capture the information and agreements necessary for a family child photography session.

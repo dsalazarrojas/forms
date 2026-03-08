@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Performance management surveys are an essential tool for organizations to regularly assess their current performance management processes and identify areas where improvements can be made. This form is a valuable resource for companies to gather feedback from employees on the current performance management process and tools, helping to refine and optimize them for better employee growth, engagement, and overall organizational performance.
 
 This form is designed to be user-friendly and easy to navigate, with clear and concise questions that cater to the needs of all respondents. The purpose of this form is to gather honest and constructive feedback from employees, which will be used to inform data-driven decisions and drive positive change within the organization.

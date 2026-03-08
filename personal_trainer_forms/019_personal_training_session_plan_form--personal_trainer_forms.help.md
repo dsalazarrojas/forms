@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Training Session Plan Form - Help Guide
 
 ## Purpose

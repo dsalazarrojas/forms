@@ -1,7 +1,3 @@
-<thinking>
-To create a help guide for the "shutter_slap_model_release" form, let's break down the form's purpose, how to complete it, and what each field means, based on the provided YAML fields.
-</thinking>
-
 # shutter_slap_model_release - Help Guide
 ## Purpose
 The "shutter_slap_model_release" form is used to obtain model releases from individuals or subjects photographed for a specific project. A model release is a legal agreement that confirms the subject's consent to be photographed and allows the photographer or agency to use the images for various purposes, such as commercial use or publication.

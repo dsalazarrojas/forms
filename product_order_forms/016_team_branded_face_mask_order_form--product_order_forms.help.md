@@ -1,10 +1,3 @@
-<thinking>
-  To avoid confusion and errors, we should first establish that this form is for internal use only within the organization and its affiliates. It's essential to note that the form is designed to gather contact information and order details for branded face masks.
-  When filling out this form, please ensure that all mandatory fields (marked as "required") are completed. This includes the "Size" and "Quantity" fields.
-  For the "Branded Mask" field, selecting multiple options is possible, but the system may have limitations on how many selections are allowed. Please test the field to see the maximum number of selections allowed.
-  In the "Payment Details" field, enter a brief description of the payment method and any relevant transaction details.
-</thinking>
-
 # Team Branded Face Mask Order Form - Help Guide
 ## Purpose
 This form is used to collect contact and order information for branded face masks ordered by team members or affiliates. It's intended for internal use within the organization and its affiliates.

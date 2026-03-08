@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for photographers or videographers to request specific equipment and services for their shoots. It might be used by the production team to manage and coordinate equipment distribution, scheduling, and other logistical aspects of photo/video shoots. The form could be used to request specific cameras, lenses, lights, or other essential gear, and to provide details on the shoot schedule, location, and other relevant information. It is probably used internally within a company or organization that provides photography services. This form does not appear to be a public-facing form, as it contains specific industry terms and technical details that would be unfamiliar to most end-users.
-</thinking>
-
 # photography_lighting_gear_requisition_form - Help Guide
 ## Purpose
 This form is designed to collect information for photographers or videographers to request specific equipment and services for their shoots.

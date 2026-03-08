@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Portrait Photography Session Booking Form - Help Guide
 
 ## Purpose

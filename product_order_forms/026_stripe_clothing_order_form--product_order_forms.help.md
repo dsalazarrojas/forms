@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information for a product order form, likely for an online store. The form includes fields for order details, customer information, shipping details, payment information, items ordered, shipping options, special requests, and notes. This form requires user input on multiple pages with various fields types such as text, email, date, time, number, select options, select multiple, and notes. The form has several required fields including order details, customer information, payment information, email, phone, address, country, state, zip, price, total cost, payment method, payment status, and order status.
-
-</thinking>
-
 # stripe_clothing_order_form - Help Guide
 ## Purpose
 This form is used to collect information for a product order, including order details, customer information, shipping details, payment information, and other relevant fields.

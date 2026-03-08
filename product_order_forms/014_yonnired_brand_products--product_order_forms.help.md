@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create and manage product orders for the Yonni Red brand. The form is designed to collect relevant customer information, payment details, and order specifics. This form will help the user to efficiently process orders with the correct information.
-</thinking>
-
 # yonni_red_brand_products - Help Guide
 ## Purpose
 This form is used to collect information for product orders and payments for the Yonni Red brand.

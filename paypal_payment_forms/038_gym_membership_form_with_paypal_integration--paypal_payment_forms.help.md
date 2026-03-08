@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather user information and integrate with PayPal for payment processing. The form is meant to be used by gym members to join the gym or purchase a membership. The form fields are: User Information, Payment Method, Payment Details, Membership Plan, Membership Terms, and Submit and Pay. This form is not meant to be used for payment processing alone, but as a supporting form to accompany the PayPal integration. There is no duplication of fields as each page is a separate section.
-</thinking>
-
 # Gym Membership Form With PayPal Integration - Help Guide
 
 ## Purpose

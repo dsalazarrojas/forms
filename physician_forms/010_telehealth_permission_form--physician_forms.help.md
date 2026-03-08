@@ -1,9 +1,3 @@
-<thinking>
-A Telehealth Permission Form is a digital document that requires patients to provide their consent and agreement to participate in telehealth services. This form ensures that patients understand the terms and conditions of telehealth care and provides a secure and reliable way to verify patient identity and authorization. It is essential to have a clear and comprehensive Telehealth Permission Form to prevent miscommunication and ensure that patients are aware of their rights and responsibilities.
-
-Before proceeding, please ensure that you have not already completed this form for the same patient. If you have any doubts or questions, please contact your supervisor or IT department for assistance.
-</thinking>
-
 # Telehealth Permission Form - Help Guide
 ## Purpose
 The Telehealth Permission Form is a digital document that requires patients to provide their consent and agreement to participate in telehealth services.

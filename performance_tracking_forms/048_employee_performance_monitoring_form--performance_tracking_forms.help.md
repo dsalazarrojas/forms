@@ -1,11 +1,3 @@
-<thinking>
-The Employee Performance Monitoring Form is a document used to evaluate and monitor employee performance. It provides a framework for managers to assess an employee's work quality, identify areas for improvement, and set goals for future performance. This form is intended for periodic reviews, usually at the end of a project, quarter, or year. The form's fields aim to capture specific aspects of an employee's performance, such as their strengths and weaknesses, goals, and areas requiring attention. 
-
-Please note that, in the context of this form, a "select_one" field means the user can only select one option, while a "select_multiple" field allows for multiple selections. A "select_one" with an option list, such as "performance_level" and "employee_rating", implies a scale or grading system. The "employee_rating" scale seems to be based on a 5-point system, where higher numbers indicate better performance.
-
-It is essential to complete this form accurately and honestly to ensure fair and constructive feedback. This document serves as a tool for growth and improvement, and its use is not intended to be punitive or judgmental.
-</thinking>
-
 # Employee Performance Monitoring Form - Help Guide
 ## Purpose
 The Employee Performance Monitoring Form is a tool used to evaluate and monitor employee performance. It is designed to help managers assess an employee's work quality, identify areas for improvement, and set goals for future performance.

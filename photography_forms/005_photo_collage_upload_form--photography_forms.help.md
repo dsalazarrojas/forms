@@ -1,7 +1,3 @@
-<thinking>
-This form was created to help users easily upload a photo collage. It collects user input about their photo collage, including its entry and files related to it.
-</thinking>
-
 # Photo Collage Upload Form - Help Guide
 ## Purpose
 The Photo Collage Upload Form is designed to collect information about a photo collage, including the collage's entry and any files related to it.

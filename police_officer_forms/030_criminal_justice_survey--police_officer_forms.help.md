@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about criminal justice incidents, aiming to gather data on crime types, police responses, and other relevant details. The purpose of this form is to assist law enforcement agencies in understanding crime patterns and making informed decisions. It is essential to ensure that the information provided is accurate and complete to prevent duplication and misinterpretation of data.
-</thinking>
-
 # Criminal Justice Survey - Help Guide
 ## Purpose
 The Criminal Justice Survey is a form designed to collect information about criminal justice incidents. This form aims to gather data on crime types, police responses, and other relevant details to help law enforcement agencies understand crime patterns and make informed decisions.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used for preordering a product. It is likely used by the sales team to collect information from customers before the product is released. The form should not be used to collect information for actual orders, as it is specifically labeled as a "preorder" form.
-
-When filling out this form, the customer is being asked to provide information about their order preferences, such as delivery dates and methods. The form also requires some personal and company information to be filled out.
-</thinking>
-
 # Vitamin Product Pre Order Form - Help Guide
 ## Purpose
 The Vitamin Product Pre Order Form is a preordering form for customers to provide their preferences and information about their order before the product is released.

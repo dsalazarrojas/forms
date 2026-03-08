@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are ordering a product replica, likely from an online store. The form will collect customer information, order details, shipping address, shipping contact, payment method, order comments, order status, and customer email. This form is intended for internal use within the company or organization, and the purpose is likely to process orders and communicate with customers.
-
-The form will be submitted to a server for further processing, and the order status will be tracked to ensure accurate updates. The form's fields will be used to generate a confirmation email or notification to the customer, and for internal use to track the order's progress.
-
-To avoid duplication, this form will not be used for duplicate orders or orders already in progress.
-</thinking>
-
 # Prop Replica Order Form - Help Guide
 ## Purpose
 This form is designed to collect and process information for product replica orders. It is intended for customers to provide their details and for the company to track and fulfill orders.

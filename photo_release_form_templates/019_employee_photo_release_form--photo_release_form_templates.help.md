@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information for the release of employee photos used for official purposes such as marketing materials, office use, or social media. This form must be completed by the employee whose photo is being released. Please note that this form is not intended for external release purposes. Ensure that you have the necessary approval for this form before proceeding. Ensure that the date field is filled in the correct format (MM/DD/YYYY).
-
-</thinking>
-
 # Employee Photo Release Form - Help Guide
 ## Purpose
 The Employee Photo Release Form is a document that employees must sign to authorize the release of their photos for official purposes. This includes marketing materials, office use, or social media.

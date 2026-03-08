@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for pet owners who have experienced an incident during or after a pet grooming visit. Please only submit this form if you have had an issue with a salon or service provider. If you are a salon or service provider, this form is not intended for you.
-The form will be used by [salon/service provider] to gather information about the incident and to improve their services. If you have already submitted an incident report, please do not submit another one. Please make sure to fill out the form completely and accurately, so that we can assist you better.
-</thinking>
-
 # Pet Care Grooming Incident Report Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This internal reasoning block should confirm that the form purpose is a photo release form for obtaining a client's agreement to release their photos for use. We need to ensure that this form will be used by the right client and that the correct client has signed the agreement, which should be optional for all fields except the agreement. The form's fields should provide the basic information required for photo releases. The client field is a multiple-select field, allowing the user to select multiple clients. The agreement field is a single-select field, ensuring the client gives their explicit agreement for the photo release. The required fields should be marked as "required" in the form. The date and time fields are not strictly required, but they are useful for record-keeping and timestamping purposes.
 
 # photo_release_form - Help Guide

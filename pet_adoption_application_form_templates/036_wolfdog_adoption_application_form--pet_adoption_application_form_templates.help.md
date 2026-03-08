@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to help users understand the Wolfdog Adoption Application Form, a tool used to collect information from individuals interested in adopting a pet from an organization. The form is designed to gather essential details about the user, their contact and household information, pet preferences, and other relevant facts. Please ensure that you have reviewed the form's purpose and are familiar with its requirements before proceeding.
-
-This guide will cover the form's purpose, step-by-step instructions on how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
 # Wolfdog Adoption Application Form - Help Guide
 ## Purpose
 The Wolfdog Adoption Application Form is a tool used to collect information from potential adopters interested in adopting a pet from the Wolfdog organization. The form is designed to ensure that adopters are matched with the best possible pet companion for their lifestyle and needs.

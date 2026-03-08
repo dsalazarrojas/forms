@@ -1,8 +1,3 @@
-<thinking>**Internal Reasoning Block**
-This form is designed to collect follow-up information from patients, specifically those who are taking sleep medicine. It will help healthcare providers track the effectiveness of the treatment and any side effects or difficulties experienced by the patient. This form should only be used for patients who have already received sleep medicine, and should not be used as an initial assessment form. The form will guide the user to collect necessary information about the patient's sleep patterns, symptoms, and medication usage, including start and end dates of medication, dosage, and frequency. 
-
-</thinking>
-
 # Sleep Medicine Follow Up Form - Help Guide
 ## Purpose
 This form is used to collect follow-up information from patients who are taking sleep medicine. It helps healthcare providers track the effectiveness of the treatment and any side effects or difficulties experienced by the patient.

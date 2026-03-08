@@ -1,9 +1,3 @@
-<thinking>
-
-The "Photography Exhibition Theme Voting Form" is a form used to collect information from users to help curate and vote on photography exhibition themes. The form is designed to be user-friendly and gather necessary details to create a well-rounded and engaging exhibition theme. To avoid duplication and ensure accuracy, please note that this form is only for collecting theme information and is not intended for actual voting. Users should not fill out this form with their vote, but rather to submit their concept and idea.
-
-</thinking>
-
 # Photography Exhibition Theme Voting Form - Help Guide
 ## Purpose
 The Photography Exhibition Theme Voting Form is a tool for users to submit their photography concept and idea to be considered for an exhibition theme. This form helps the exhibition organizers to gather relevant and diverse themes from users, which will be used to curate and finalize the exhibition theme.

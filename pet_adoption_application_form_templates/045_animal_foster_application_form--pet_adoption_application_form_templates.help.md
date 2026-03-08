@@ -1,12 +1,3 @@
-<thinking>Before we dive into the help guide for the Animal Foster Application Form, let's consider the following:
-
-* The form is designed to gather information from potential animal fosterers to assess their suitability for fostering animals.
-* The form collects demographic and contact information, housing details, animal care experience and preferences, and other relevant factors to ensure the fosterer is a good fit for the shelter's needs.
-* The form aims to streamline the fostering process, reducing the risk of animal abandonment and improving the overall care and well-being of animals in the shelter.
-* It's essential to complete this form accurately and honestly to ensure a smooth and successful fostering experience.
-
-Now, let's get started with the help guide for the Animal Foster Application Form. If you're ready to provide a loving home to animals in need, follow these steps and guidelines:</thinking>
-
 # Animal Foster Application Form - Help Guide
 ## Purpose
 The Animal Foster Application Form is a crucial part of the animal fostering process. It helps us understand your background, experience, and suitability for fostering animals. By completing this form, you'll be helping us ensure the best possible match between you and the animal(s) in need of a loving home.

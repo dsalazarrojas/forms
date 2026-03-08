@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect data related to jobs and tasks performed by staff members. Each field is intended to capture specific information such as job titles, staff names, dates, times, and descriptions of work done. The form is not limited to just a single page, with multiple "pages" or sections that contain different fields, allowing the user to input information for various jobs or tasks.
-
-The form is designed to be flexible and adaptable, with some fields being optional and others required depending on the specific use case. For example, some fields like "task_date", "start_time", "end_time", and "job_date_2", "start_time_2", "end_time_2" are not required, which means they can be left blank if not applicable to the task at hand.
-
-It's worth noting that the form also includes a field for inputting multiple files, "files", which is likely for attaching relevant documents or evidence related to the task.
-</thinking>
-
 # Job Form - Help Guide
 
 ## Purpose

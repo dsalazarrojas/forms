@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a wedding photography quote. The form is designed to collect details from the client, including their contact information and preferences for the services offered. This information will help the photographer create an accurate and customized quote for the client. 
-
-</thinking>
-
 # Wedding Photography Quote Template - Help Guide
 ## Purpose
 The Wedding Photography Quote Template is a form used to gather client information and preferences for a wedding photography quote. 

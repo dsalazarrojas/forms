@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to gather information from customers who are interested in pre-ordering an Eco Mattress. This form will help us understand their preferences and requirements for the product, including their product selection, delivery details, and personal contact information. We will be using this form to generate a pre-order ID for each customer, which will be used to track their order and provide updates on the status of their pre-order.
-
-Before filling out this form, please ensure that you are not duplicating an existing pre-order. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-This form is designed to be completed in 2-3 pages, depending on the number of fields that are applicable to your pre-order.
-
-</thinking>
-
 # Eco Mattress Pre Order Form - Help Guide
 
 ## Purpose

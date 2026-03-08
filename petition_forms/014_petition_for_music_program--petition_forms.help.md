@@ -1,15 +1,3 @@
-<thinking>
-
-We are creating a help guide for the "Petition For Music Program" form, which is designed to collect information from schools and individuals to support music programs. The form is intended for students, educators, and administrators who want to express their support for music programs in their schools. Before you start filling out the form, please note that:
-
-* This form is a one-time submission. You will not be able to edit or update your responses after submitting the form.
-* The form is divided into two sections, corresponding to different parts of your school's music program: Section 1 and Section 2.
-* For each field, please provide accurate and complete information to help us better understand your support for the music program.
-* Some fields are mandatory, marked as "required". Please make sure to fill out these fields to ensure we receive your complete submission.
-* If you have any questions or need help with the form, feel free to contact us.
-
-</thinking>
-
 # Petition For Music Program - Help Guide
 ## Purpose
 The "Petition For Music Program" form is designed to collect information from schools and individuals to support music programs. We aim to gather support for music programs in schools and use this data to advocate for music education.

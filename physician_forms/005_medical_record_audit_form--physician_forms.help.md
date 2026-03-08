@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for a medical record audit, which is a process to verify the accuracy and completeness of patient medical records. The purpose of this form is to gather data on the current status of a patient's medical record, including information about the physician's name, the medical record ID, the date of the audit, the procedures and tests performed, the start and end times of procedures, the provider's name, the audit level, audit status, comments, and audit completion date. This form is a critical tool for ensuring the accuracy and reliability of patient medical records, which is essential for effective patient care and treatment.
-
-Please make sure to fill out this form completely and accurately, as it is used to support the quality of care provided to patients.
-
-</thinking>
-
 # Medical Record Audit Form - Help Guide
 ## Purpose
 

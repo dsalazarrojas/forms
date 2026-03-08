@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect information from customers for their product orders, including shipping details, product information, and order total. The form is designed to be completed by customers themselves or by customer service representatives. This form will likely be used by customers to place orders, provide feedback, or inquire about the status of their orders.
-
-To determine if this form is relevant to your use case, consider the following questions:
-
-* Are you a customer or customer service representative interacting with customers?
-* Are you placing or processing orders for products?
-* Do you need to collect information from customers for their orders, such as shipping details or product information?
-
-If you answered "yes" to any of these questions, this form is likely relevant to your use case.
-
-To avoid duplication of effort, please note that this form is intended for one-time orders. If you are placing multiple orders or have ongoing business relationships with customers, other forms may be more suitable.
-
-</thinking>
-
 # shelf_security_rail_order_form - Help Guide
 ## Purpose
 The shelf_security_rail_order_form is used to collect information from customers for their product orders.

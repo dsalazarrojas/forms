@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to capture customer information for ordering coffee products at the Vista Coffeeeteria. The primary purpose of the form is to ensure that customers' orders are fulfilled correctly and efficiently. The fields on this form collect various details that will be used to process the order, including personal contact information, order specifics, and optional product choices. Please review the form to ensure you understand the required fields and the options provided for each field.</thinking>
-
 # vista_coffeeteria_order_form_final - Help Guide
 
 ## Purpose

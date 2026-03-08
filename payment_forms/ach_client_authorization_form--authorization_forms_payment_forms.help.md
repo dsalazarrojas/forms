@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to authorize recurring payments from their bank accounts. It's a crucial document that outlines the terms and conditions of these payments, ensuring both the client and the payment processor are on the same page. This form is likely to be used in B2B or B2C (Business-to-Consumer) transactions where clients need to provide their banking information and authorize recurring payments. To avoid duplication, this form should not be filled out by clients who have already completed a similar form with the same client ID.
-</thinking>
-
 # ACH Client Authorization Form - Help Guide
 ## Purpose
 The ACH Client Authorization Form is designed for clients to authorize recurring payments from their bank accounts. This form outlines the terms and conditions of these payments, ensuring both the client and the payment processor are on the same page.

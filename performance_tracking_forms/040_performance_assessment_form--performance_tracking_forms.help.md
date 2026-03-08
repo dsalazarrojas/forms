@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the user understands the purpose and correct usage of the Performance Assessment Form, we must consider the context and intent behind the form's creation. This form is designed to assess an individual's performance in a specific context, likely for evaluation or feedback purposes. The form might be used by managers or supervisors to evaluate employees, students, or other stakeholders. It is essential to fill out the form accurately and honestly to provide a clear and comprehensive assessment of performance. Please ensure that you have a clear understanding of the context and the individual's performance before completing this form.
-</thinking>
-
 # Performance Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess an individual's performance in a specific context, such as evaluating employees, students, or other stakeholders. It helps to provide a clear and comprehensive assessment of performance.

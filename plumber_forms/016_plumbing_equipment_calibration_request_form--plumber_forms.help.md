@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Plumbing Equipment Calibration Request Form - Help Guide
 ## Purpose
 This form is designed to request the calibration of plumbing equipment, ensuring that it operates within specified standards for optimal performance and safety. Please use this form to submit a calibration request for your plumbing equipment.

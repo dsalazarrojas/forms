@@ -1,10 +1,3 @@
-<thinking>
-To avoid potential duplication and ensure the form is completed accurately, I will review the provided YAML fields to confirm the form's purpose and ensure that the explanations are clear and concise. The form appears to be designed for customers to place pre-orders for organic pet food, gathering relevant information about the pet, their owner, and the store where the order will be fulfilled.
-
-The main goal of this form is to collect data for pre-ordering organic pet food. The form is structured into several sections, each asking for specific information related to the pet, the store, and the order details.
-
-</thinking>
-
 # Organic Pet Food Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for pre-ordering organic pet food. Please fill out the form accurately to ensure that your order is processed correctly.

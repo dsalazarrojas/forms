@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers who want to pre-order a custom canvas print. The form captures customer contact details, canvas specifications, image details, design preferences, and delivery information. This form is designed to be completed by customers before they place their pre-order.
-</thinking>
-
 # Canvas Pre Order Form - Help Guide
 ## Purpose
 This form is designed to help you, our customer, place a pre-order for a custom canvas print. Please fill out the form with the required information to ensure a smooth and efficient pre-order process.

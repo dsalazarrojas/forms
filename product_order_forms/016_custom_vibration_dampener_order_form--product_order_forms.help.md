@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist in the completion of custom vibration dampener orders. It is likely intended for use in industries such as automotive or industrial manufacturing where vibration dampeners are used to reduce unwanted vibrations or noise. The form's fields are meant to gather information from the customer, including their contact details, product selection, shipping information, and payment details. This form does not appear to be a survey or a form with multiple branching logic or conditional questions, suggesting it is meant for straightforward order completion. It is not clear if the form is intended for internal or external customers. It is possible that this form is a simplified version of a more complex form with additional features and logic. It is essential to review the form's purpose and intended use case to ensure it is being used correctly.
-</thinking>
-
 # Custom Vibration Dampener Order Form - Help Guide
 ## Purpose
 The Custom Vibration Dampener Order Form is designed to gather information from customers for the completion of custom vibration dampener orders. This form helps to collect contact details, product information, shipping details, and payment information.

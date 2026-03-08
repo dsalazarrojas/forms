@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by faculty members to create and submit petitions to the university administration. The form will gather information about the petition, including the reason for the petition, supporting members, proposed action, and supporting statement. The form will also gather contact information for the submitter, including their department, position, affiliation, institutional role, and institutional unit. The purpose of this form is to ensure that faculty members have a streamlined process for submitting petitions and that the university administration has all necessary information to review and respond to these requests. The form will not be duplicated in the current system, as it is a unique tool for internal use.
-</thinking>
-
 # Faculty Petition Form - Help Guide
 ## Purpose
 The Faculty Petition Form is a tool designed to help faculty members submit petitions to the university administration. This form is used to gather information about the petition, the submitter, and any supporting members.

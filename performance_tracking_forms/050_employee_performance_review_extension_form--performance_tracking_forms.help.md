@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to support employee performance reviews, allowing managers to assess and provide feedback to employees during a specific performance period. This form helps to identify areas of improvement and strengths, and can be used as a tool for employee development and growth. It's essential to fill out this form accurately and consistently to provide reliable data for future reference. Please ensure you complete this form only for the designated performance period to maintain data consistency. This form is not intended for other purposes, such as regular employee feedback or casual evaluations. If you have already completed a performance review for this period, do not duplicate your efforts.
-</thinking>
-
 # Employee Performance Review Extension Form - Help Guide
 ## Purpose
 The Employee Performance Review Extension Form is a tool used by managers to evaluate and provide feedback to employees during a performance period. This form is designed to help identify areas of improvement and strengths, and can be used as a reference for future employee development.

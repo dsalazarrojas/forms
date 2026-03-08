@@ -1,15 +1,3 @@
-<thinking>
-
-We are creating a form to gather contact information and preferences from customers interested in requesting product bundles. The form will be used to identify potential leads and determine their suitability for a product bundle. 
-
-The purpose of this form is to gather essential details about the customers, such as their contact information, use cases for the product, resources they are interested in, their lead qualification status, and their follow-up needs.
-
-The form will help us assess whether the customer meets the criteria for a product bundle and will allow us to tailor our response and follow-up approach accordingly.
-
-Before filling out the form, please ensure you are not submitting duplicate requests. If you have already submitted a request, you may have already been contacted or assessed for a product bundle. Please review our previous interactions and ensure you are not submitting a new request.
-
-</thinking>
-
 # Product Bundle Request Contact Form - Help Guide
 
 ## Purpose

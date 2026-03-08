@@ -1,12 +1,3 @@
-<thinking> 
-This guide is for users who need to fill out the Boxing Waiver Form Template. 
-
-The purpose of this form is to gather essential information from participants in boxing activities, specifically to understand their awareness of the inherent risks of the sport and to obtain their consent for participation. The form is designed to ensure that participants are aware of the potential risks and consequences of boxing, and are willing to take on the responsibility of ensuring their health and safety during the activity. 
-
-Please make sure to fill out this form carefully and accurately, as it is a legally binding document. 
-
-</thinking>
-
 # Boxing Waiver Form Template - Help Guide
 ## Purpose
 This form is designed to collect participant information and obtain their consent for participation in boxing activities. It is essential to fill it out carefully and accurately.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for screening patients for various medical conditions and gathering relevant health information. The purpose of this form is to help medical professionals quickly and efficiently gather the necessary information to understand a patient's health status. The form will only be filled out for patients who are already registered with the medical facility and have been assigned a unique patient ID.
-
-This form will be used in conjunction with other medical records and patient data to provide a comprehensive picture of the patient's health status. The screening process should not be repeated for the same patient.
-
-</thinking>
-
 # Symptom Screening Form - Help Guide
 ## Purpose
 This form is used to screen patients for various medical conditions and gather relevant health information to support medical decision-making.

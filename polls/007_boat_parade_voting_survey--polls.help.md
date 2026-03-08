@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is for voting on the Boat Parade. It's crucial that we get feedback on the different aspects of the parade, including which boat was the most decorated, best themed, most creative, and has the best lighting display. We also need to gauge the audience's favorite boat and the overall rating of the parade. Additionally, we want to know what the audience's favorite highlights of the parade were and if they'd attend the next year. Lastly, we want to gather any suggestions for future improvements and gauge interest in volunteering for next year's event.
-</thinking>
-
 # Boat Parade Voting Survey - Help Guide
 ## Purpose
 The Boat Parade Voting Survey is a tool to collect feedback and opinions from attendees on the different aspects of the parade.

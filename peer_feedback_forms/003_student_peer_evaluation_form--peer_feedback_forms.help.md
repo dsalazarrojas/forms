@@ -1,12 +1,3 @@
-<thinking>
-This form is used for student peer evaluation in academic settings, such as in-class or online learning environments. The form is designed to gather feedback from students about their peers' performance, behavior, and overall attitude. This form is not intended to be used for other purposes, such as for self-evaluation or for evaluating instructors.
-
-Before filling out this form, please ensure that you are providing honest and constructive feedback about your peers. Remember that the purpose of this form is to help your peers grow and improve, not to criticize or harm their self-esteem.
-
-Please note that some fields in this form are required, while others are optional. Make sure to provide feedback for all required fields before submitting the form.
-
-</thinking>
-
 # Student Peer Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about their peers' performance, behavior, and overall attitude in academic settings. The feedback is intended to be used for peer growth and improvement.

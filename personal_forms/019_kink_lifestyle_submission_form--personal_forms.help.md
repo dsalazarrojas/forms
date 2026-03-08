@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kink Lifestyle Submission Form - Help Guide
 
 ## Purpose

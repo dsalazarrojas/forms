@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to guide users in ordering retail sensor batteries. The form is designed to collect shipping details, select the type and quantity of sensor batteries, provide order details, select the order type, and gather customer information. 
-
-The form is not intended to be a mandatory or a high-priority form, as it's marked as optional. This means that users can choose to fill it out if they need to, but it's not a requirement. The form is likely to be used by customers or users who need to order sensor batteries for their specific needs. 
-
-However, it's worth noting that the form has a few fields that might be considered optional but still hold important information for the order. The "shipping_details" field is crucial for accurate shipping, the "order_details" field can provide additional context to the order, and the "customer_info" field is required for identifying the customer's order. 
-
-To ensure that users understand the purpose and the importance of the form, it's crucial to provide clear explanations of each field in the help guide.</thinking>
-
 # retail_sensor_battery_order_form - Help Guide
 ## Purpose
 The retail sensor battery order form is a form designed to guide users in ordering sensor batteries for their specific needs.

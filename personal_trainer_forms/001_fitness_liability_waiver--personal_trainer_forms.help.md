@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals who will be participating in fitness-related activities or programs. The goal is to gather essential details, such as emergency contact information, medical history, and personal data, to ensure the well-being and safety of the individual during their participation. This form is typically used by fitness centers, gyms, or other organizations offering fitness-related services.
-
-Before creating this guide, I checked that this form is not a duplicate and it's relevant to the fitness liability waiver use case.
-
-</thinking>
-
 # Fitness Liability Waiver - Help Guide
 ## Purpose
 The Fitness Liability Waiver form is designed to collect necessary information from individuals before they participate in fitness-related activities or programs. This form helps to ensure the well-being and safety of the individual during their participation.

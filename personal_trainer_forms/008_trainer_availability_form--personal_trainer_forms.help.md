@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from trainers about their availability and other relevant details. It's crucial to ensure that each field is completed accurately and thoroughly, to avoid potential errors in scheduling and client management. Please verify that you have not already submitted this form before proceeding, as duplicates may cause scheduling conflicts.
-</thinking>
-
 # Trainer Availability Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from trainers to facilitate smooth communication and scheduling between trainers and clients. Please complete this form accurately to help us better understand your availability and provide the best possible services.

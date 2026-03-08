@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information for a smart manufacturing wearable order. The form is divided into several sections, each focusing on a different aspect of the order. The form's fields are organized to gather contact information, order details, and delivery information. This form does not require any field to be filled out, but it's assumed that users will fill out all fields for accurate order processing.
 
 # Smart Manufacturing Wearable Order Form - Help Guide

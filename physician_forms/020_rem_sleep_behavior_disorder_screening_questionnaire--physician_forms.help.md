@@ -1,9 +1,3 @@
-<thinking>
-This form is used to screen patients for Rem Sleep Behavior Disorder (RBD) which is a sleep disorder that affects sleep behavior, leading to abnormal sleep-wake cycles and daytime functioning. This disorder can have a significant impact on a person's mental and physical health. The form aims to collect data on patient's sleep behavior, symptoms, and treatment plans to help clinicians identify and manage RBD effectively.
-The form is designed to be user-friendly and easy to fill out. Patients can provide their information and symptoms through a series of questions, with multiple-choice options for frequency, duration, and type of symptoms. Clinicians can use the form to track patient progress, identify patterns, and provide tailored treatment plans.
-To ensure that the form is filled out accurately, please note that some fields are optional, but required fields are marked as such.
-</thinking>
-
 # Rem Sleep Behavior Disorder Screening Questionnaire - Help Guide
 ## Purpose
 The Rem Sleep Behavior Disorder Screening Questionnaire is designed to help clinicians identify and manage Rem Sleep Behavior Disorder (RBD) in patients. This form collects data on patient's sleep behavior, symptoms, and treatment plans to provide a comprehensive understanding of the condition.

@@ -1,12 +1,3 @@
-<thinking>
-  This form is intended to gather patient data for medical monitoring and treatment purposes. 
-  The form has been designed with the patient's health and treatment schedule in mind, 
-  and is meant to help healthcare professionals track and update relevant patient information. 
-  The form is likely to be used by physicians and medical staff to record patient data 
-  such as blood sugar levels, blood pressure, medication administration, and appointment dates.
-  This form will guide you through the process of completing it and explain each field's purpose.
-</thinking>
-
 # diabetes_monitoring_form - Help Guide
 ## Purpose
 This form is used to monitor and record patient health data for diabetes management.

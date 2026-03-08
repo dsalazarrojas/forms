@@ -1,6 +1,3 @@
-<thinking>
-This form is for security guards to apply for a training course. It is intended for security guards who need to update their skills and knowledge in the field. This form ensures that all necessary information is collected for the training process, including personal details, emergency contacts, and training course specifics. Please note that this form is a general template and might need to be modified according to specific business requirements and regulations.</thinking>
-
 # Security Guard Training Course Application Form - Help Guide
 ## Purpose
 This form is used by security guards to apply for a training course. It is designed to collect necessary information for the training process.

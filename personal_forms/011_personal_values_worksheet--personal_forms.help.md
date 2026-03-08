@@ -1,5 +1,3 @@
-<thinking>...We can use this form to gather information about a person's personal values, goals, and submission details, such as submission date and time, and follow-up questions. This form is likely used in a coaching or counseling context, possibly for self-reflection, progress tracking, or assessment purposes. We should be aware that some fields, like "self_reflection_2" and "core_values_2", might be duplicates and can be removed for clarity and data consistency. The form requires some fields to be completed, like "submission_date" and "submission_time", while others like "support_resources" are optional. Let's aim for a comprehensive yet concise help guide that explains each field's purpose in plain terms...</thinking>
-
 # Personal Values Worksheet - Help Guide
 
 ## Purpose

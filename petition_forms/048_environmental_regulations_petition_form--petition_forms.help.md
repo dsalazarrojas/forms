@@ -1,8 +1,3 @@
-<thinking>
-This guide explains the purpose and completion process of the environmental regulations petition form, which is used to collect information from individuals or organizations seeking to submit a petition related to environmental regulations. The form is designed to gather general contact information, address, and other relevant details from the submitters. Before proceeding, please ensure you are eligible to submit this form and that your petition does not duplicate an existing one.
-
-</thinking>
-
 # environmental_regulations_petition_form - Help Guide
 ## Purpose
 This form is used to collect information from individuals or organizations seeking to submit a petition related to environmental regulations. The collected data will be used to review and potentially support or oppose environmental regulations.

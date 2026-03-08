@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # supermarket_order_form - Help Guide
 ## Purpose
 The "supermarket_order_form" is a form used to collect information from customers for in-store orders. This form helps store staff gather the necessary details to process the order efficiently and accurately.

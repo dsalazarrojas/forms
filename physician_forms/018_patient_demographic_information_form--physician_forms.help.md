@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be using the "Patient Demographic Information Form". The form is likely used in a clinical or medical setting to collect information about a patient, which is a crucial aspect of patient care. 
-The form's purpose is to gather essential details about a patient, including their last name, given names, date of birth, contact information, and medical-related data such as blood pressure, pulse, and heart rate. 
-The form may also ask about the patient's medication form, but this field appears to be optional and has a limited range of options. 
-It is likely that the medical staff will be using this form to update or create patient records. 
-Please ensure you are using this form for its intended purpose and not for any other purpose. 
-Ensure that you have the necessary permissions and authorizations to access and use this form. 
-Ensure that you are not duplicating work or effort. 
-Please refer to your organization's policies and procedures for further guidance.
-</thinking>
-
 # Patient Demographic Information Form - Help Guide
 ## Purpose
 The "Patient Demographic Information Form" is used to collect essential details about a patient, including their last name, given names, date of birth, contact information, and medical-related data.

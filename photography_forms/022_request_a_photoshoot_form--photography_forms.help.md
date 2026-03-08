@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request a photoshoot, and it is expected to be completed by someone looking to book a photoshoot with the photographer.
-The form's purpose is to gather information about the person requesting the photoshoot, including their name, email, phone number, service type, date and time of the photoshoot, location, and a brief message about the request.
-To ensure that the photographer can properly understand the client's needs and provide accurate quotes and confirmations, it's crucial to fill out the form accurately and completely.
-Please note that some fields are required, and failing to fill them out may cause issues with the form's submission.
-</thinking>
-
 # Request A Photoshoot Form - Help Guide
 
 ## Purpose

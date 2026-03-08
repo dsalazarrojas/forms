@@ -1,7 +1,3 @@
-<thinking>**This form is used by internal teams to request and track the design of prayer cards for events, services, or occasions. It is meant to be filled out by users who need custom prayer card designs, such as graphic designers, marketing teams, or other stakeholders. To avoid duplication of work, please ensure that you only submit one request for each project or event. If you have already submitted a request, please do not resubmit it.**
-
-</thinking>
-
 # Prayer Card Design Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for custom prayer card designs. Please provide all required fields to ensure efficient processing of your request.

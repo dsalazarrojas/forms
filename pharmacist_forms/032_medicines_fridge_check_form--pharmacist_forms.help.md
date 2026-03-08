@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is for the "Medicines Fridge Check Form" designed for pharmacists and healthcare professionals to monitor and maintain accurate temperature readings in refrigerators where medicines are stored. This form serves to gather data on the current temperature, temperature range limits, and notes from the user. It helps pharmacists to track and maintain records of the fridge's performance, ensuring the quality and safety of stored medicines.
 
 ### Purpose

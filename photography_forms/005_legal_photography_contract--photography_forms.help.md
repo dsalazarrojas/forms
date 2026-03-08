@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential information for legal photography contracts, ensuring that all necessary details are captured to facilitate smooth and secure transactions between clients and photographers. This guide will walk you through the process of completing this form, explaining each field's purpose and required input to guarantee accurate and efficient data collection.
-</thinking>
-
 # Legal Photography Contract - Help Guide
 ## Purpose
 The Legal Photography Contract form is designed to collect essential information for legal photography contracts between clients and photographers. This form helps ensure that all necessary details are captured to facilitate smooth and secure transactions.

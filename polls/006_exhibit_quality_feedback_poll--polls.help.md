@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exhibit Quality Feedback Poll - Help Guide
 ## Purpose
 The Exhibit Quality Feedback Poll is a survey intended to gather end-users' impressions and opinions on various aspects of an exhibit, such as exhibit content, ambiance, staff interaction, and facilities. The collected feedback will help improve the overall quality of exhibits in our organization.

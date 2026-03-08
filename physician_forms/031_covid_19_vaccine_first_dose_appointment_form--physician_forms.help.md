@@ -1,27 +1,3 @@
-<thinking> 
-This form is designed to collect essential information from patients for their first dose COVID-19 vaccine appointment. The purpose of this form is to gather demographic data, appointment details, and medical history information to ensure a safe and efficient vaccination process. Before proceeding, please ensure that you have not already completed this form, as it may be a duplicate entry.
-
-To complete this form, follow these steps:
-
-1.  Enter your patient's full name.
-2.  Provide your patient's email address.
-3.  Enter your patient's phone number.
-4.  Enter your patient's date of birth.
-5.  Select the preferred appointment date and time.
-6.  Choose a preferred location for the appointment.
-7.  Select the type of vaccine you prefer.
-8.  If your patient is insured, select the insurance status.
-9.  Enter the name of your patient's primary care provider.
-10. If your patient has allergies or medical conditions, provide the necessary information.
-11. Confirm your patient's pregnancy status.
-12. Indicate if your patient has been previously diagnosed with COVID-19 or is experiencing symptoms.
-13. Confirm if your patient has had close contact with a COVID-19 case recently.
-14. Check if your patient has a current fever or elevated temperature.
-15. Indicate if your patient has recently received other vaccines.
-16. Confirm your consent to receive the COVID-19 vaccine.
-
-</thinking>
-
 # COVID-19 Vaccine First Dose Appointment Form - Help Guide
 
 ## Purpose

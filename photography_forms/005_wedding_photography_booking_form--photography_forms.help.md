@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a booking form for wedding photography services, likely for a photographer to capture a couple's special day. The form aims to collect essential information from the couple to provide a tailored and memorable experience. I assume the form is used for internal purposes within a business or organization, possibly to book appointments with clients or assign tasks to photographers. Before creating the help guide, I will make sure to cover all the fields and provide clear explanations to make the form easy to understand and use.
-</thinking>
-
 # Wedding Photography Booking Form - Help Guide
 ## Purpose
 This form is designed to help us capture essential information about your wedding photography booking. Please fill out the form carefully to ensure we can provide the best experience for you on your special day.

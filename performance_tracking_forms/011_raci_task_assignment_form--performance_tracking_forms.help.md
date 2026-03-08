@@ -1,19 +1,3 @@
-<thinking>
-The RACI (Responsibility Assignment Matrix for Complex Systems) Task Assignment Form is designed to track the tasks assigned to employees within a team. It provides a structured way to document the assignment of tasks, ensuring that all team members are aware of their responsibilities and deadlines. The form can be used for both active and inactive tasks.
-To ensure that the form is completed correctly, please review the fields below:
-
-*   **task_assignment_form** (Page 1): This is the main form where you will be entering the task details. Please fill in the relevant information as prompted.
-*   **employee_name** (Page 2): Enter the name of the employee assigned to the task.
-*   **assigned_to** (Page 2): Select "Yes" if the task is assigned to this employee, otherwise select "No".
-*   **deadline** (Page 2): Enter the deadline for the task completion date in the specified format.
-*   **task_start_date** (Page 2): Enter the start date of the task in the specified format.
-*   **task_end_date** (Page 3): Enter the end date of the task in the specified format.
-*   **task_status** (Page 3): Select the status of the task as "Active" or "Inactive".
-*   **assigned_by** (Page 3): Enter the name of the person who assigned the task.
-*   **priority** (Page 4): Enter the priority level of the task, which is usually a number.
-*   **task_type** (Page 4): Select all the applicable types for the task.
-</thinking>
-
 # RACI Task Assignment Form - Help Guide
 ## Purpose
 This form is designed to track the tasks assigned to employees within a team, providing a structured way to document the assignment of tasks, ensuring that all team members are aware of their responsibilities and deadlines.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lunch Menu Pre Order Form - Help Guide
 
 ## Purpose

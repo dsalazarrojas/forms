@@ -1,8 +1,3 @@
-<thinking>
-This form is used to book a photography session for a client. The purpose of this form is to collect client information, contract details, and session specifics. The form has multiple pages, each with its own set of fields. The fields are categorized into two main sections: client information and session details. The client information section includes fields for the client's first and last name, email, phone number, and contract status. The session details section includes fields for the photographer's name, contract terms, contract conditions, photo delivery date, photo session duration, photo session details, photo session location, photo session time, photo session date, photo session type, and photo session price. Each field has a specific label, type, and options. The client can choose whether to include a signature, which will be used as proof of agreement. The form also includes fields for notes and contract terms.
-
-</thinking>
-
 # Photography Session Booking Contract Form - Help Guide
 ## Purpose
 This form is used to book a photography session for a client. It collects client information, contract details, and session specifics to ensure a smooth and secure booking process.

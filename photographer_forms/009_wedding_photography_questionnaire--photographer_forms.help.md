@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used in a wedding planning or photography studio context, where the photographer needs to gather information about the wedding details, couple preferences, and other essential information to provide a good service. The form should be designed to guide the users through the process of providing these details in a clear and concise manner, ensuring they cover all the necessary aspects of wedding photography.
-</thinking>
-
 # Wedding Photography Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather essential information about the wedding details and preferences of the couple to provide a personalized and stress-free experience. It's recommended to carefully review this guide to ensure you complete the form accurately and efficiently.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and consent from subjects of photographs in order to archive, display, and use their images. This form is designed to ensure that all parties involved are aware of how their photographs will be used, and that they have given their consent for the images to be stored in a specific archive and displayed or used in various ways.
-This form is typically used for photography sessions where subjects may not be aware of how their images will be used, and it ensures that they have given explicit consent for their images to be archived, displayed or used in various ways. This form is also an important legal and ethical consideration for photographers and organizations working with subjects.
-This form is designed to be simple and easy to complete, and the fields are explained below.
-</thinking>
-
 # Heritage Archive Photography Consent Form - Help Guide
 ## Purpose
 This form is used to collect information and consent from subjects of photographs to be archived, displayed, or used in various ways.

@@ -1,14 +1,3 @@
-<thinking>
-The "Petition To Terminate Guardianship Form" is a crucial document used to request the termination of a guardianship arrangement. Guardianship is a legal arrangement where one person, often a parent or another adult, is granted permission to take care of and make decisions on behalf of a minor or incapacitated person, called a ward. This form is used to initiate a process that would end this arrangement and restore the ward's independence. 
-
-To ensure the form is filled out correctly and accurately, the following guidelines should be followed:
-
-1. The form should only be filled out by a valid guardian or their representative.
-2. The form must be completed in its entirety, including all required fields.
-3. The form should not be duplicated or submitted multiple times, as this can cause confusion and delay the proceedings.
-
-</thinking>
-
 # Petition To Terminate Guardianship Form - Help Guide
 ## Purpose
 The purpose of this form is to request the termination of a guardianship arrangement, allowing the ward to regain control over their life and decisions.

@@ -1,16 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "public_opinion_poll_questionnaire" form, we need to understand the purpose and context of the form. This form appears to be a survey or a poll designed to gather public opinions on various topics, including demographics, preferences, and experiences. The form includes a mix of multiple-choice questions, select-all-that-apply questions, and open-ended text fields, suggesting that it is intended to collect both quantifiable data and qualitative feedback.
-
-Before proceeding, let's review the form fields to ensure that the guide is accurate and helpful. Upon reviewing the YAML, we notice that the form has 25 fields, each with a unique label, type, and optional/required status. The fields can be grouped into several categories:
-
-* Demographics: date_of_birth, address, height
-* Preferences: favorite color, favorite season, favorite music genre, favorite food, favorite book, favorite movie
-* Habits: favorite hobby, length of contact with the organization
-* Experiences: years lived in the city, how long have you been in contact with our organization
-
-To avoid duplication and ensure a clear understanding of the form, let's focus on the most important fields and group them by category. We will also provide explanations for each field, making sure to clarify any unclear labels or field types.
-</thinking>
-
 # public_opinion_poll_questionnaire - Help Guide
 ## Purpose
 

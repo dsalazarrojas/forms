@@ -1,7 +1,3 @@
-<thinking>
-The form "Clone Of Wish List" appears to be designed for users to create a duplicate of their wish list entry, potentially for sharing or ordering purposes. This form likely serves as a way for users to provide essential details about the item(s) they wish to preorder, including contact information for notifications and shipping. The form might be used in contexts such as customer support, retail, or inventory management. Before proceeding, ensure the form is not a duplicate of another existing form in your system.
-</thinking>
-
 # Clone Of Wish List - Help Guide
 ## Purpose
 This form is designed to help users create a duplicate of their wish list entry, which can be shared or ordered from. It collects essential details such as product and contact information to facilitate communication and fulfillment.

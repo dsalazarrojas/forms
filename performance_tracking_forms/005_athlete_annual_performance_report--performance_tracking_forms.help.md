@@ -1,16 +1,3 @@
-<thinking>
-We're designing a help guide for the "Athlete Annual Performance Report" form, which is used to capture performance metrics and coach feedback for athletes. This form is likely used by sports teams, coaches, or athletic programs to evaluate an athlete's progress over a season or year. It's essential to ensure the form is filled out correctly to get accurate and actionable feedback for the athlete's development.
-
-To confirm, this form is used for:
-
-* Evaluating athlete performance over a specific season or year
-* Capturing performance metrics such as attendance, technical skills, tactical awareness, physical fitness, and mental attributes
-* Obtaining coach feedback and comments for the athlete's development
-* Recording the evaluation date and person completing the report
-
-Please let me know if this is correct and proceed with the help guide.
-
-</thinking>
 # Athlete Annual Performance Report - Help Guide
 ## Purpose
 The "Athlete Annual Performance Report" form is designed to capture comprehensive evaluation of an athlete's performance over the course of a season or year. This form is completed by coaches or evaluating staff members to provide accurate and actionable feedback for the athlete's development.

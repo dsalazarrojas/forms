@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information for the transfer of patients from one pharmacy to another. This form likely helps in ensuring smooth transitions of care by providing necessary details about the patient's current and new pharmacy settings. To ensure the form is filled out correctly and not duplicated, it's recommended that only authorized personnel fill it out when a patient's transfer is confirmed, and they should not fill it out for every patient, but rather when a transfer is scheduled.
-</thinking>
-
 # Pharmacy Transfer Form - Help Guide
 
 ## Purpose

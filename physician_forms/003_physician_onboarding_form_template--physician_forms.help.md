@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physician Onboarding Form Template - Help Guide
 ## Purpose
 The Physician Onboarding Form Template is a standard form used to guide new physicians through the onboarding process with our organization. This template provides a structured approach to capturing essential information about physicians, ensuring they are properly vetted and prepared to practice medicine with our organization.

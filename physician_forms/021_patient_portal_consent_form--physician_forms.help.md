@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients to consent to the use of the patient portal system. This form ensures that patients understand how their data will be used, stored, and protected. It also asks patients to confirm their understanding of our organization's privacy policy and data sharing practices. Please ensure that this form is not duplicated or unnecessary, as it is a one-time consent form. If a patient has already completed this form, there is no need to repeat it.
-</thinking>
-
 # Patient Portal Consent Form - Help Guide
 ## Purpose
 The Patient Portal Consent Form is a document that allows you to obtain informed consent from patients before using our patient portal system. This form is essential for ensuring that patients understand how their data will be used, stored, and protected.

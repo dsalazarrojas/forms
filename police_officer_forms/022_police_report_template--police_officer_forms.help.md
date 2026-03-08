@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the police report template is to collect information about a specific incident, which will be used to document and report the incident to the relevant authorities. This form should only be used for reporting a single incident, and the information should be accurate and detailed to ensure that the incident is thoroughly documented.
-
-Before filling out this form, please ensure that the incident has not been previously reported, and that you are filling out the correct form for the specific incident in question. If you are unsure, please double-check with your supervisor or the relevant authorities.
-</thinking>
-
 # police_report_template - Help Guide
 ## Purpose
 The police report template is used to document and report incidents to the relevant authorities. It is essential to fill out this form accurately and thoroughly to ensure that the incident is well-documented and that the relevant information is collected.

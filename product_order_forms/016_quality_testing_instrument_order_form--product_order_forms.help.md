@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information necessary for the quality testing of instruments. This form guides the customer in ordering a quality testing instrument, allowing them to specify their instrument type, details, and payment method. By completing this form, the customer can efficiently and accurately submit their order, ensuring that their instrument is properly prepared and shipped.
-
-</thinking>
-
 # Quality Testing Instrument Order Form - Help Guide
 ## Purpose
 

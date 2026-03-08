@@ -1,7 +1,3 @@
-<thinking>
-We want to ensure that the "Patient Information Update Form" is completed accurately and thoroughly. This form is designed to update patient information in our system, and any errors or inaccuracies can lead to incorrect data entry. To prevent this, we must double-check and confirm the accuracy of the form completion. We'll guide users through a step-by-step process to ensure they understand what the form is for, how to complete it, and what each field means.
-</thinking>
-
 # Patient Information Update Form - Help Guide
 ## Purpose
 The "Patient Information Update Form" is used to update a patient's information in our system. This form helps to gather accurate and up-to-date details about the patient, including their name, contact information, medical condition, and emergency contact details.

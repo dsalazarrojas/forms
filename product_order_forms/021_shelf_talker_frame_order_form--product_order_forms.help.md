@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information for orders of shelf talker frames, which are custom-designed products that require accurate customer and product details to ensure proper production and delivery. This form is intended to be completed by customers or staff members to place orders for these custom products. 
-The form is split into multiple pages to accommodate all the necessary fields in a clear and organized manner. To ensure that the form is completed correctly, please review each field carefully and fill in the required information.
-</thinking>
-
 # Shelf Talker Frame Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for orders of custom-designed shelf talker frames.

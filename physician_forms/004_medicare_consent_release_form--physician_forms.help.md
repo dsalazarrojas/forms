@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect patient information, practitioner information, consent details, and signatures for the transfer of a patient between healthcare providers. The form aims to ensure that the patient's medical records are properly transferred and that the patient's consent is documented. It's essential to complete this form accurately and thoroughly to avoid errors and potential complications.
-
-Before filling out this form, please ensure that you have all the necessary information and that the form is not a duplicate of another form or a previously completed form with the same data. If you're unsure about any part of the form, please consult with the relevant healthcare professionals or supervisors.
-
-Please note that this form is not a one-size-fits-all solution and may need to be adapted or modified to fit specific circumstances. If you have any questions or need further clarification, please don't hesitate to reach out to the relevant authorities.</thinking>
-
 # medicare_consent_release_form - Help Guide
 ## Purpose
 The Medicare Consent and Release Form is designed to document the transfer of a patient's medical records between healthcare providers. This form ensures that the patient's consent is obtained and documented for the transfer of their records.

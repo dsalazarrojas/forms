@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information and preferences from users in a professional board election. This form is likely used to gauge the opinions and sentiments of the board members or employees on various matters related to the board. To ensure accuracy, it's essential to fill out the form carefully and correctly.
-
-The form consists of multiple pages with different sections, each with its specific purpose. This guide will help you navigate through each page and understand what information is required.
-
-</thinking>
-
 # Professional Board Election Voting Form - Help Guide
 ## Purpose
 This form is designed to collect opinions and preferences from board members or employees on specific matters related to the board.

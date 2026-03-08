@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Necessity Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Vaccine Declination Form - Help Guide
 
 ## Purpose

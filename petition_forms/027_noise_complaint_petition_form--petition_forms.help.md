@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-The form is meant to collect information from citizens who are reporting noise disturbances in their area. This information will be used to identify patterns and trends in noise complaints, which will inform noise reduction strategies and enforcement actions. Please do not submit duplicate reports, as this can lead to unnecessary duplication of effort and waste of resources. 
+> The form is meant to collect information from citizens who are reporting noise disturbances in their area. This information will be used to identify patterns and trends in noise complaints, which will inform noise reduction strategies and enforcement actions. Please do not submit duplicate reports, as this can lead to unnecessary duplication of effort and waste of resources. 
 
 </thinking>
 

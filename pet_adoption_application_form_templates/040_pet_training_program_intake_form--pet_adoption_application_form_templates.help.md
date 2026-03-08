@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from pet owners for the purpose of enrolling their pets in a pet training program. The form aims to collect essential details about the pet, its owner, contact methods, training needs, training goals, owner concerns, veterinary information, pet details, emergency contact, training session details, payment information, and payment terms. This information will be used to tailor the training program to the specific needs of each pet and owner. Before starting, please note that this form is not a duplicate, and you are not required to complete it multiple times. If you have already submitted a pet adoption application, you do not need to fill this form again.
-</thinking>
-
 # Pet Training Program Intake Form - Help Guide
 
 ## Purpose

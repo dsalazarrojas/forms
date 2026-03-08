@@ -1,7 +1,3 @@
-<thinking> 
-This form is a Medical Informed Consent Form designed for patients to provide their medical history, medical conditions, allergies, treatment plans, and consent for a medical procedure. The form is intended to inform the patient about the treatment they will receive, their responsibilities, and the risks associated with it. It aims to ensure that the patient understands the purpose, risks, and benefits of the treatment, and provides a written record of their consent.
-</thinking>
-
 # Medical Informed Consent Form - Help Guide
 ## Purpose
 This form is a Medical Informed Consent Form used to document a patient's medical history, medical conditions, allergies, treatment plans, and consent for a medical procedure. It is designed to inform the patient about the treatment they will receive, their responsibilities, and the risks associated with it.

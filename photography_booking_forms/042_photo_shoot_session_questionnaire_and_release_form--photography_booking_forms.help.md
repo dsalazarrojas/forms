@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from clients or subjects about their photo shoot session preferences and details. It serves as a questionnaire to collect relevant data about the session, including session date and time, location, length, subject, style, and any additional comments or notes. The form also includes a release form option to obtain necessary permissions and agreements. This is to ensure that the photographer has all the necessary information and agreements in place before proceeding with the photo shoot. 
-
-This form aims to minimize the need for additional paperwork or questions during the session, making it more efficient for both the photographer and the client. The form can be completed at any time, and the photographer can review the answers and be prepared for the session.
-
-The main goal is to gather all the necessary information in a structured and organized manner, making it easier for the photographer to provide the best service for the client.
-
-</thinking>
-
 # Photo Shoot Session Questionnaire And Release Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients or subjects about their photo shoot session preferences and details. It ensures that the photographer has all the necessary information before proceeding with the photo shoot.

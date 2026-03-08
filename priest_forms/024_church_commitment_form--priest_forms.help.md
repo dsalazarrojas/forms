@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect commitments from church members, including their contact information, financial pledges, and service commitments. The form is likely used for internal church planning and reporting purposes. It is not intended for general public access, so only relevant and existing members are expected to fill out this form. 
-</thinking>
-
 # Church Commitment Form - Help Guide
 ## Purpose
 The Church Commitment Form is designed to capture member commitments, including financial pledges and volunteer service commitments. This form helps the church understand and plan for the needs and expectations of its members.

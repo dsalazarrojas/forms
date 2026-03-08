@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block)
-
-This form is designed to assess the risk of Mpox (Monkeypox) exposure in individuals. It gathers information on the individual's exposure history, travel history, contact history, exposure risk factors, symptoms, and exposure risk assessment. The form is used by healthcare professionals to gather information and make decisions about follow-up actions.
-
-</thinking>
-
 # Mpox Exposure Risk Assessment Form - Help Guide
 ## Purpose
 The Mpox Exposure Risk Assessment Form is used by healthcare professionals to gather information about an individual's risk of exposure to Mpox. This form helps healthcare professionals make informed decisions about follow-up actions and ensure the individual receives necessary care.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather feedback from customers or users about a marketing campaign, specifically to gauge their reaction to a particular offer. The form is designed to collect both quantitative and qualitative data, allowing the campaign team to assess the performance of the campaign and make data-driven decisions. The form likely aims to understand the user's perception of the offer, their preferred channel of interaction, and their willingness to act on the offer.
-</thinking>
-
 # Marketing Campaign Reaction Poll - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers or users about a marketing campaign, specifically to gauge their reaction to a particular offer.

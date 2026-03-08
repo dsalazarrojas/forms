@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and ratings from library users about their favorite genre in the library. The purpose of this form is to identify the most popular genres among library users. The form collects information on whether the user has a favorite genre, if they are interested in other genres, the date and time they last visited the library, their email address, and any additional comments they may have. To complete this form, the user will select their favorite genre and indicate if they are interested in other genres. They will also be asked to enter their email address, date and time of their last visit, and any additional comments. The fields are designed to provide users with the ability to provide detailed feedback and ratings. Please let me know if you would like to clarify any part of this form.
-
-</thinking>
 # Library Genre Highlight Poll - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and ratings from library users about their favorite genres in the library. This information will help us understand which genres are most popular among our users.

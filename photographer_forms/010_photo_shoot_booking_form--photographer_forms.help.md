@@ -1,7 +1,3 @@
-<thinking>
-I will now create the user-facing help guide for the "Photo Shoot Booking Form" as per the provided YAML specification.
-</thinking>
-
 # Photo Shoot Booking Form - Help Guide
 
 ## Purpose

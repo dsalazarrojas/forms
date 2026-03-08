@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a new patient, including their name, birthday, phone number, medical history, allergies, medications, and various medical conditions. This form is likely used for administrative purposes, such as creating a patient record or for insurance claims. The form's fields seem to be designed to gather a comprehensive overview of a patient's profile, but some fields appear to be redundant or unnecessary, such as multiple "Medical Conditions" fields. To avoid duplication, users should ensure that each field is filled in accurately and truthfully, but they should not enter duplicate information unless explicitly instructed otherwise by a healthcare professional.
-</thinking>
-
 # new_patient_questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about a new patient's profile, including their name, birthday, phone number, medical history, allergies, medications, and various medical conditions.

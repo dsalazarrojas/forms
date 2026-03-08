@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to capture information for the reimbursement process of a patient's prescription. It is used by patients to provide data about their prescriptions and medical conditions. The form's purpose is to ensure that the patient's prescription claims are accurate and complete. This form should only be filled out by patients who have been given a prescription by a doctor. It is not intended for public use. 
-</thinking>
-
 # Prescription Reimbursement Form - Help Guide
 ## Purpose
 The Prescription Reimbursement Form is a document used to gather information from patients about their prescriptions and medical conditions to facilitate the reimbursement process.

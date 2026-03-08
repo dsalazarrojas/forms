@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Police Report Request Form" in a clear and concise manner. Before proceeding, please ensure you have a valid reason for submitting this report and that the information is accurate and up-to-date. Duplicate or frivolous reports may be subject to review and possible rejection.
-</thinking>
-
 # Police Report Request Form - Help Guide
 ## Purpose
 This form is designed to collect relevant information related to police reports. It is a critical document used for official police documentation and may be subject to review and validation by law enforcement authorities.

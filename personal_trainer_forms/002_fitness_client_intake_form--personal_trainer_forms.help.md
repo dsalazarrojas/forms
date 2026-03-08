@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from fitness clients, including their contact details, health history, availability status, training goals, and acknowledgement of terms and conditions. This form will likely be used by personal trainers or fitness professionals to assess the needs and suitability of potential clients before offering services. To avoid duplication, ensure that the form is filled out accurately and completely, and that the submitted data is up-to-date and relevant to the client's current situation.
-</thinking>
-
 # Fitness Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from potential clients about their contact details, health history, availability status, and training goals, as well as their acknowledgement of terms and conditions.

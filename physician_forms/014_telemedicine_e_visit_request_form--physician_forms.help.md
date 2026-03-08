@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for requesting telemedicine E-Visits, which are virtual consultations with physicians that allow patients to receive medical care remotely. This form is used to collect necessary information from patients, including their medical history, contact information, and requesting details. 
-The form is divided into several pages, each with specific fields for collecting different types of information. Please ensure that all required fields are filled out to ensure that the request is processed accurately.
-</thinking>
-
 # Telemedicine E Visit Request Form - Help Guide
 ## Purpose
 This form is used to request a telemedicine E-Visit, a virtual consultation with a physician. It is used to collect information from patients, including their medical history, contact details, and requesting information.

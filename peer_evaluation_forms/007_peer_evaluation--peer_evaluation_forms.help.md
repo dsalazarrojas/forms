@@ -1,10 +1,3 @@
-<thinking>
-The form is likely designed for employees or peers within an organization to evaluate each other's performance or work quality. This form is probably used for feedback, rating, and comments on a peer's work. 
-This form might be part of a performance review process, a quality assurance process, or a continuous improvement process within the organization. 
-It could be used by managers, team leaders, or designated personnel to collect and analyze feedback from peers. 
-It's essential to ensure that the form is filled out accurately and thoroughly to maintain data quality and prevent duplication of efforts.
-</thinking>
-
 # Peer Evaluation - Help Guide
 ## Purpose
 The Peer Evaluation form is designed to collect feedback, ratings, and comments from peers on a specific piece of work. This form helps identify areas of strength and improvement.

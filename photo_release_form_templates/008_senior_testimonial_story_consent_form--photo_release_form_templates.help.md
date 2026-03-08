@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Senior Testimonial Story Consent Form. The form is meant to gather testimonials from individuals, typically seniors, in the form of stories and photos. It's possible that this form is being used in a school, healthcare, or other professional setting where seniors are sharing their experiences or stories. Before proceeding, please ensure that you're not duplicating efforts and that you're aware of the purpose of this form.
-</thinking>
-
 # senior_testimonial_story_consent_form - Help Guide
 ## Purpose
 The Senior Testimonial Story Consent Form is used to gather stories and photos from seniors, typically for professional or educational purposes. It helps to obtain their consent for sharing their stories and photos.

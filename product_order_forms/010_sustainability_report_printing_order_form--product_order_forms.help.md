@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information from users for sustainability report printing orders. The form should only be used for orders placed for reports in PDF format, as indicated by the "Report PDF" field (page 1). The "Delivery Details" field (page 2) should be used to provide any additional delivery instructions, such as address or shipping method. The "Order Information" field (page 3) should be used to collect any additional information relevant to the order, such as order quantity or special requests. The "Delivery Date" field (page 4) and "Delivery Time" field (page 5) should be used to specify a date and time for the delivery of the report.
-
-The form is not intended to collect sensitive or proprietary information, and all fields are optional. However, the "Delivery Date" and "Delivery Time" fields are likely to be required for logistical purposes.
-
-It is also worth noting that this form is a generic template and may need to be adapted or modified to fit specific business or organizational needs.
-
-The form is intended to be filled out by users to provide information about their sustainability report printing order, and it is expected that the form will be filled out accurately and completely.
-</thinking>
-
 # Sustainability Report Printing Order Form - Help Guide
 ## Purpose
 

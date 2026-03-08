@@ -1,5 +1,3 @@
-<thinking>As a medical appointment form, its primary purpose is to collect patient information for scheduling appointments. This form should be completed by patients to provide their personal details, appointment date and time, and the name of the healthcare provider they will be seeing. It's essential to fill out the form accurately to ensure proper scheduling and minimize delays. Please review the form carefully and ensure you've filled out all required fields. If you're unsure about any information, please contact the form owner or healthcare provider for guidance.</thinking>
-
 # Medical Appointment Form - Help Guide
 ## Purpose
 The Medical Appointment Form is a document used to collect patient information for scheduling appointments with healthcare providers.

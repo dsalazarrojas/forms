@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Portrait Photo Shoot Registration - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users who want to rent a photo booth for an event. The form is meant to gather necessary details to confirm the rental, including the type of event, the services required, the duration of the rental, and any additional notes or agreements. The purpose of this form is to streamline the photo booth rental process and ensure that all necessary information is collected in a single, user-friendly interface.
-
-</thinking>
-
 # Photo Booth Rental Form - Help Guide
 ## Purpose
 This form is used to collect information from users who want to rent a photo booth for an event.

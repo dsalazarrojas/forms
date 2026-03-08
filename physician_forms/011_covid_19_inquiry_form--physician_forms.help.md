@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who have inquiries related to COVID-19. It collects contact information, inquiry details, and medical context to ensure that the right support personnel are notified and equipped to address the inquiry. By filling out this form, individuals can get assistance with vaccination, symptoms, treatment, prevention, or other COVID-19 related queries.
-To prevent duplicate submissions, please ensure that you are not submitting the form multiple times for the same inquiry.
-</thinking>
-
 # COVID 19 Inquiry Form - Help Guide
 ## Purpose
 The COVID-19 Inquiry Form is a tool to gather information and assist individuals with inquiries related to COVID-19.

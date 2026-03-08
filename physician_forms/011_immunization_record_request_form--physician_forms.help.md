@@ -1,5 +1,3 @@
-<thinking>...this form is used to request access to a patient's immunization records. This form is required in order to verify a patient's vaccination history. To ensure accuracy and efficiency, please do not submit duplicate requests. If you have previously submitted a request, it is recommended to check the patient's current records instead of resubmitting this form. Ensure that you have the patient's consent before submitting this form. Please fill out the form completely and accurately to avoid delays in processing the request... </thinking>
-
 # Immunization Record Request Form - Help Guide
 
 ## Purpose

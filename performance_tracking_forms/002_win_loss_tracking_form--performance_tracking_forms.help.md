@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track wins and losses in business processes, such as sales, product launches, or service engagements. It helps to document the outcome of each process, categorize it, and identify areas for improvement. This form is used by sales, product, and service teams to monitor and analyze their performance. It is essential to fill out this form after each win or loss to maintain accurate records and ensure that the team can learn from their experiences.
-</thinking>
-
 # Win Loss Tracking Form - Help Guide
 ## Purpose
 The Win Loss Tracking Form is a tool used to record and analyze the outcome of business processes. It helps teams to identify successes and failures, understand their performance, and make data-driven decisions.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for obtaining consent from patients to perform an HIV test. This form is likely to be used in clinical settings such as hospitals or private practices. It's possible that this form will be used in combination with other forms, such as the patient's medical history form, to gather all necessary information.
-The form should not be filled in duplicate. A completed form should be kept on file for the patient's records.
-</thinking>
-
 # Hiv Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from patients to perform an HIV test. This is a legal requirement to ensure that the patient is aware and agrees to the test.

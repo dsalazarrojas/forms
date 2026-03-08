@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this form is designed for end users to provide information necessary for creating a custom family photo order. This form guides them in selecting the desired photo packages, photo types, and other relevant details for their order.
-</thinking>
-
 # Family Photo Order Form - Help Guide
 ## Purpose
 This form is intended for creating a custom family photo order. It requires selecting photo packages, photo types, and other essential details to process the order accurately and efficiently.

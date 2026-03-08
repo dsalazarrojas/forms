@@ -1,7 +1,3 @@
-<thinking>
-We need to create a form that is easy to understand for end users. This form is used for booking a photography session for babies. The purpose of this form is to collect essential information from clients to book a photography session. This form should not be duplicated with other forms, so we are assuming that the form will be used for a specific service or product. We will guide the user through the completion of the form, explaining each field and its intent.
-</thinking>
-
 # Baby Photography Booking Form - Help Guide
 
 ## Purpose

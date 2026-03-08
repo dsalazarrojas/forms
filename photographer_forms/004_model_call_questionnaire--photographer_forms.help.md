@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Model Call Questionnaire" form. The purpose of this form is to gather information from photographers about their availability and experience. The form is likely used in the context of a model casting or modeling call, where photographers are being asked to provide their contact information, portfolio URL, location, and availability. The form is not designed for internal use within the organization, so we don't need to worry about authentication or data validation for internal purposes. We should assume that the form will be filled out by external users, possibly photographers or models. To avoid duplication, we should ensure that the form is easy to understand and navigate, with clear labels and instructions.
-</thinking>
-
 # Model Call Questionnaire - Help Guide
 ## Purpose
 The Model Call Questionnaire is a form designed for photographers to provide information about their availability and experience for model casting or modeling calls. This form helps model casting agencies or clients gather essential details about photographers for potential collaborations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide explains the process of completing the "Vote For Your Preferred Candidate" form, which is designed to gather information from users about their preferences and opinions on various topics.
 
 # Vote For Your Preferred Candidate - Help Guide

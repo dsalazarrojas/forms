@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is to gather information from a police officer regarding an incident, such as a crime scene. This form will likely be used in a law enforcement setting to collect data on cases assigned to the officer. The goal is to gather accurate and detailed information about the incident, officer's involvement, and any evidence collected. It seems the form is designed for general use and is not specific to any particular case type or scenario, so the form's purpose is likely to be used for a wide range of incidents.
-</thinking>
-
 # CSI Form - Help Guide
 ## Purpose
 The CSI Form is a document used by police officers to report details about an incident, including their involvement and any evidence collected.

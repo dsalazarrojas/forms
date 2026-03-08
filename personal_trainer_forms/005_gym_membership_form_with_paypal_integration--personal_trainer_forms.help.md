@@ -1,5 +1,3 @@
-<thinking>This form is used for gym members to enroll or manage their membership status, payment method, and membership plan. It is not intended for creating new accounts or logging in. This form integrates PayPal for easy payment processing.</thinking>
-
 # Gym Membership Form With PayPal Integration - Help Guide
 ## Purpose
 The Gym Membership Form is designed to help you manage and update your gym membership details, payment information, and membership status. This guide will walk you through the process of filling out this form.

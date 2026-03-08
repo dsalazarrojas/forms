@@ -1,7 +1,3 @@
-<thinking>
-This form is used by healthcare professionals to request a prescription for a patient. The form will be used to gather information about the patient, doctor, and medicine. This form is intended for internal use only and is not meant to be filled out by patients. Please ensure that only authorized personnel in the pharmacy have access to this form.
-</thinking>
-
 # Prescription Request Form - Help Guide
 ## Purpose
 This form is used by healthcare professionals to request a prescription for a patient. It gathers information about the patient, doctor, and medicine for prescription processing purposes.

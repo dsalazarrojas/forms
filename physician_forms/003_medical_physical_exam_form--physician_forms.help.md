@@ -1,7 +1,3 @@
-<thinking> 
-  To ensure that the form is filled out correctly, please review the fields carefully to make sure all required fields are filled out. If there are any issues, please contact the administrator.
-</thinking>
-
 # medical_physical_exam_form - Help Guide
 ## Purpose
 This form is used to gather medical information from patients, including general information, medical history, medical conditions, and other relevant details. It is designed to help physicians and healthcare providers collect and store patient data efficiently.

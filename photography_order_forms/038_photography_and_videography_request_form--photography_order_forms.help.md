@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photography And Videography Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients regarding their photography and videography requests. It helps us understand their requirements for photo and video services, such as still photography and videography services, and any additional services they may need. The form also aims to gather information about the equipment required for the job.

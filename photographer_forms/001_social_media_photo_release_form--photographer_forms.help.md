@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Media Photo Release Form - Help Guide
 ## Purpose
 This form is for obtaining consent from subjects or their representatives to use their photos on social media. It is designed for photographers to ensure they have the necessary permissions to share photos of their subjects.

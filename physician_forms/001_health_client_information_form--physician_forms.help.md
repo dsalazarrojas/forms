@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient or client's health. The purpose of this form is to gather data for medical professionals to provide personalized care. It's essential to fill out the form accurately to ensure that the client receives appropriate care and attention.
-
-Before filling out this form, please ensure that you haven't filled out any similar forms recently, as it's possible that the same information may have been already collected and stored in your records.
-
-This guide will walk you through the process of completing the Health Client Information Form.
-</thinking>
-
 # Health Client Information Form - Help Guide
 ## Purpose
 This form collects essential information about a patient or client's health, providing medical professionals with the necessary data to deliver personalized care.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather necessary information from performers who grant usage rights to their likenesses in various contexts. The purpose of this form is to ensure that the rights holder, typically a production team or agency, has the necessary documentation and consent to use a person's image, audio, or footage in specific projects or campaigns. The form will be used to collect essential details such as the performer's name, project title, usage description, compensation, and duration of rights granted, as well as their consent and contact information.
-</thinking>
-
 # Actor Release Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from performers for the purpose of granting usage rights for their likenesses in projects or campaigns. It is intended to be used by production teams, agencies, or other parties responsible for handling such permissions.

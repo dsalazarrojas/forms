@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track the frequency of training sessions. It's used to record and store information about the training program, including the coach's name, participant's name, program date, start date, end date, frequency of training, training day, training time, training duration, location, and any additional notes. This form is intended for tracking regular training sessions, such as those conducted by a coach or instructor. To ensure that you provide accurate and relevant information, please review each field carefully and ensure you are entering the correct data.
-
-</thinking>
-
 # Training Frequency Tracker Form - Help Guide
 ## Purpose
 The Training Frequency Tracker Form is designed to record and store information about training sessions, including the coach's name, participant's name, program date, start date, end date, frequency of training, training day, training time, training duration, location, and any additional notes.

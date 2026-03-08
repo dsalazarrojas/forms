@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for customers to pre-order custom suits, providing a comprehensive set of fields to capture relevant information for order processing, payment, and delivery. Each field has been carefully crafted to cater to the specific needs of both customers and tailors. Before starting, please ensure you have all the required information ready to provide accurate details.
-
-Please note that some fields have default values or options, so you may fill them in accordingly based on your specific needs.
-</thinking>
-
 # Custom Suit Pre Order Form - Help Guide
 ## Purpose
 This form is designed to help customers pre-order custom suits with ease, ensuring accurate and complete information for seamless order processing.

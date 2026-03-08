@@ -1,10 +1,3 @@
-<thinking>
-To create the Medical Record Request Form, we need to ensure it serves a specific purpose for our organization. This form is used to request access to a patient's medical record for review or reference. We should verify that only relevant and non-duplicate requests are made. Please review the form carefully and ensure you are requesting a medical record for a legitimate reason.
-
-The form is divided into several fields, each with a specific purpose. Please refer to the field-by-field explanations below for more information.
-
-</thinking>
-
 # Medical Record Request Form - Help Guide
 ## Purpose
 The Medical Record Request Form is used to request access to a patient's medical record for review or reference.

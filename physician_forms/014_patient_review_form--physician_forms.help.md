@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to provide users a clear understanding of the "patient_review_form" and its purpose. The form is used for reviewing patients and capturing important information about them. This form is typically used by healthcare professionals to gather information about a patient's medical history, personal details, and other relevant data. It is essential to fill out this form accurately and thoroughly to ensure that the patient's information is properly recorded and up-to-date.
-</thinking>
-
 # patient_review_form - Help Guide
 ## Purpose
 The patient_review_form is a crucial tool used by healthcare professionals to review patient information, including medical history, personal details, and other relevant data.

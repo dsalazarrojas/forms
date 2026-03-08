@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's medication usage, including their medical conditions, prescription and non-prescription medications, dosages, and other relevant details. The form is intended to be used by healthcare professionals to gather accurate and comprehensive information about a patient's medication regimen. 
-
-The form has multiple fields that require input from the patient, including sections on patient information, allergies, medical conditions, medication lists, dosages, and medical providers. The required fields are marked as such to ensure that essential information is collected.
-
-Before using this form, it is essential to review the fields carefully to ensure that the required fields are completed accurately. The form's layout and field types are designed to guide the user through the process.
-
-</thinking>
-
 # Universal Medication Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medication usage and medical conditions.

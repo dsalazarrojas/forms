@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to pre-order curbside pickup for the Nutrition Club. The purpose of this form is to collect the necessary information to facilitate a successful curbside pickup experience. It is crucial that users complete all required fields for a smooth and efficient pickup process. To ensure accurate and efficient processing of orders, please review each field carefully and provide all necessary information. This form should only be used once for each order.
-</thinking>
-
 # Nutrition Club Curbside Pick Up Form - Help Guide
 ## Purpose
 The purpose of this form is for users to pre-order curbside pickup for the Nutrition Club. It is used to collect necessary information for a smooth and efficient curbside pickup experience.

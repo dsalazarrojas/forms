@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Outreach Program Success Poll - Help Guide
 
 ## Purpose

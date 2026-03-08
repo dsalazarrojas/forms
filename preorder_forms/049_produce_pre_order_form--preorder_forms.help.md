@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form, "Produce Pre Order Form", is to gather information from customers regarding their pre-order requests. This form likely serves a business-to-consumer or business-to-business context where customers or businesses place orders ahead of time for products or services. The form's primary goal is to capture essential details from the customer, including their name, contact information, and pre-order specifics.
-
-Before proceeding, ensure that this form is not a duplicate of any existing form within your organization. If you're unsure, please check your internal documentation or consult with your team to confirm.
-
-</thinking>
-
 # Produce Pre Order Form - Help Guide
 ## Purpose
 The Produce Pre Order Form is a crucial tool for capturing pre-order details from customers. This form helps ensure accurate and efficient ordering processes, reducing errors and misunderstandings.

@@ -1,33 +1,3 @@
-<thinking>
-To create a user-facing help guide for the COVID 19 Vaccine Appointment Form, we need to break down the form's purpose, the steps to complete it, and explain each field in detail.
-
-The form's purpose is to gather essential information from patients to schedule appointments for the COVID-19 vaccine. The form requires patients to provide their personal details, medical history, and other relevant information to ensure a safe and efficient vaccination process.
-
-To complete the form, users should follow these steps:
-
-1.  Start by filling in the **Patient Full Name** field with the patient's full name as it appears on their ID.
-2.  Enter the patient's **Date of Birth** in the corresponding field.
-3.  Provide their **Phone Number** for appointment confirmation.
-4.  Enter their **Email Address** for confirmation and communication purposes.
-5.  Select a **Preferred Appointment Date** from the calendar that suits them best.
-6.  Choose a preferred **Appointment Time** from the available time slots.
-7.  Indicate their **COVID-19 Vaccine Type Preference**, if any.
-8.  Specify which **Dose** of the vaccine they are interested in, if they have a preference.
-9.  If they have received a previous **COVID-19 Vaccine**, provide the date of administration.
-10. List any **Known Allergies**, including those related to vaccine components.
-11. Select any **Current Medical Conditions** that might affect vaccination.
-12. Provide a list of their **Current Medications**.
-13. Indicate if they have received any other **Vaccines Recently** (within the past 14 days).
-14. Answer whether they have had a **Recent COVID-19 Infection** (within the past 3 months).
-15. Confirm if they have a **Fever or Illness** currently.
-16. Provide their **Insurance Provider** for billing purposes.
-17. Enter their **Insurance ID Number** (if applicable).
-18. Confirm their consent to receive the **COVID-19 Vaccine**.
-19. Enter their **Street Address** where they live.
-20. Provide their **City, State, ZIP**.
-
-</thinking>
-
 # COVID 19 Vaccine Appointment Form - Help Guide
 ## Purpose
 

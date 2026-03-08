@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pediatric Medical Daycare Inspection Form - Help Guide
 ## Purpose
 This form is designed to inspect pediatric daycares to ensure they meet the necessary standards and regulations for a safe and healthy environment for children. It is intended to gather information about the physical space, medical supplies, equipment, and procedures in place at the daycare center.

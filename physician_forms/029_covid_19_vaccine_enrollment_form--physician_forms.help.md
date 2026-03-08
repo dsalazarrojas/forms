@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants for the COVID-19 vaccination program. The purpose of this form is to ensure that participants have the necessary information and consent to receive the vaccine. To avoid duplication, participants should only fill out this form once.
-</thinking>
-
 # COVID 19 Vaccine Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect relevant information from participants for the COVID-19 vaccination program. The form is used to determine the participant's eligibility, consent, and other necessary details for the program.

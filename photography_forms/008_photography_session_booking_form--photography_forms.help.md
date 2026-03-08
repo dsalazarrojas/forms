@@ -1,9 +1,3 @@
-<thinking>
-This form is for booking a photography session, and its purpose is to gather essential information from customers to schedule and prepare for their session. This form is likely to be used by photography businesses or studios to collect contact and session details. 
-
-Before starting, check if you have a similar session already booked. This form should only be filled out for a new session. 
-
-</thinking>
 # Photography Session Booking Form - Help Guide
 
 ## Purpose

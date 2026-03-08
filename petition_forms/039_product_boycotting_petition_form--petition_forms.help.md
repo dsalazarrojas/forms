@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for customers to express their opposition to a certain product or company. The purpose of this form is to gather feedback and concerns from the public regarding products or businesses that are causing harm or negative impacts on the environment, animals, or human rights. This form should only be completed by customers who have genuine concerns and have not already submitted a similar petition.
-</thinking>
-
 # product_bycotting_petition_form - Help Guide
 ## Purpose
 The product bycotting petition form is a tool for customers to express their opposition to a certain product or company. This form allows you to provide feedback and concerns about products or businesses that are causing harm or negative impacts on the environment, animals, or human rights.

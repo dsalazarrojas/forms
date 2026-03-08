@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The purpose of this form is to collect final details related to a wedding event. The form is designed to gather essential information from the client, which will be used by the photographer (Nicole Lopez) to confirm and finalize the event details. This form will help ensure that all necessary information is accurately recorded, reducing the chance of miscommunication or misunderstandings. 
 
 It's essential to complete this form carefully, as the information provided will determine the logistics and arrangements for the photography session. To ensure accuracy, each field must be filled in completely and correctly. Please review this guide to understand each field's purpose and how to complete it correctly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for pre-ordering tickets for an exclusive tour. The purpose of this form is to collect information from customers about their interest in purchasing tickets for the tour. The form is designed to gather personal details such as names, emails, and phone numbers, as well as specific tour details like dates and times. This information will be used to confirm the order and facilitate communication with the tour organizers.
-</thinking>
-
 # Exclusive Tour Pre Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers who wish to pre-order tickets for an exclusive tour.

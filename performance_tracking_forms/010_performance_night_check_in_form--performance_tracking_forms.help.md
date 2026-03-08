@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to track and record information about performances or events that occurred or will occur at night. This form aims to provide a standard way to collect and store consistent data about night check-in events, which can be useful for various purposes such as tracking attendance, monitoring attendance patterns, or creating performance schedules.
-
-Before proceeding, ensure that this form does not already exist in your system, and if it does, please use the existing one for consistency and data integrity.
-
-</thinking>
-
 # performance_night_check_in_form - Help Guide
 ## Purpose
 The performance_night_check_in_form is designed to record information about night-time events and performances.

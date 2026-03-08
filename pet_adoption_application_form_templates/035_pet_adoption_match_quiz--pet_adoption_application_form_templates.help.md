@@ -1,8 +1,3 @@
-<thinking>
-To ensure that the form is used correctly and effectively, it's essential to provide a clear and concise help guide for the end-users. The purpose of this form, "Pet Adoption Match Quiz," is to collect information from potential adopters to match them with the perfect pet that suits their lifestyle and preferences. This form will ask about various aspects of pet care, such as pet type, energy level, size, space availability, noise level, pet experience, available time, family members, pet budget, contact method, and emergency contact. The questions are designed to be straightforward and easy to understand, reducing the likelihood of errors or misinterpretation. By following this guide, users will be able to complete the form correctly and receive accurate matches for pet adoption.
-
-</thinking>
-
 # Pet Adoption Match Quiz - Help Guide
 ## Purpose
 The Pet Adoption Match Quiz is designed to help potential pet adopters find the perfect pet that suits their lifestyle and preferences. The form asks questions about various aspects of pet care to ensure that the adopter and pet are compatible.

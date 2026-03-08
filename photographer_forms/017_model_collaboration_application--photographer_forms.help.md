@@ -1,7 +1,3 @@
-<thinking>
-This form is for model collaboration, and we want to ensure that all photographers have a clear understanding of what it's meant to accomplish and how to fill out the form. The purpose of the form is to collect necessary information for model collaboration. We want to make sure that photographers understand that this form is not meant for general contact or inquiry purposes, but rather for specific collaboration requests. We've kept the form simple and focused on collecting necessary fields for model collaboration. We're using a text type for all fields, which will allow photographers to provide detailed responses. We've also included a field for email and phone number, which will help in case the model needs to reach out for further communication. We've kept the form relatively short, with 9 fields in total, to minimize the time and effort required to fill it out. We're using a required/optional label to indicate which fields are mandatory for the model collaboration process.
-</thinking>
-
 # model_collaboration_application - Help Guide
 ## Purpose
 The model collaboration application form is used to collect necessary information for model collaboration. This form is not meant for general contact or inquiry purposes, but rather for specific collaboration requests.

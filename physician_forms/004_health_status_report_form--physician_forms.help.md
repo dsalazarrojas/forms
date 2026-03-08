@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect various health-related information from users, including their general info, health status, symptoms, treatment plan, medication, allergy, medical history, medical conditions, medical tests, medical procedures, patient info, medical specialties, medical equipment, medical supplies, medical facilities, medical personnel, medical education, medical training, medical certification, medical license, medical board certification, medical board certified date, medical degree, and medical school. 
-
-This form is likely used in a medical setting, such as a hospital or clinic, to collect information for patient records or research purposes. It is not intended for public use. 
-
-Please ensure that all required fields are completed before submitting the form.
-
-</thinking>
-
 # Health Status Report Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block ...
-
-To create a user-facing help guide for the "Watch Design Pre-Order Form", we need to understand the purpose of this form and ensure that it is not a duplicate effort.
-
-The form is intended to gather information from customers about their pre-order requests for watch designs. The "Watch Design Pre-Order Form" seems to be a form for customers to place pre-orders for specific watch designs, providing details such as customer name, email, phone number, quantity, watch design image, watch price, deposit, shipping date, shipping time, customer note, shipping address, shipping city, shipping postal code, shipping country, and order status. This form may be used by a business or organization to collect and manage pre-orders for watch designs.
-
-Before proceeding, let's confirm that this form is not a duplicate effort and we are creating a user-facing help guide for a new form.
-
-</thinking>
-
 # Watch Design Pre-Order Form - Help Guide
 ## Purpose
 The "Watch Design Pre-Order Form" is a form designed to collect information from customers about their pre-order requests for watch designs. This form helps the business or organization to efficiently manage pre-orders and gather essential details from customers.

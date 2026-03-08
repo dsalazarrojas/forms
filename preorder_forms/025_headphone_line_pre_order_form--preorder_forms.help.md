@@ -1,5 +1,3 @@
-<thinking>Before filling out the Headphone Line Pre Order Form, make sure to review the form purpose and available preorder statuses. The form's primary function is to allow customers to place preorders for products that are not yet available for immediate purchase. To confirm the availability of a product, check the Pre-Order Status field, which will display "Pre-Order Available" or other status options. If the product is not available for preorder, it is likely because the status is set to "Pre-Order Sold Out" or "Pre-Order Not Available."</thinking>
-
 # Headphone Line Pre Order Form - Help Guide
 ## Purpose
 The Headphone Line Pre Order Form is used to place preorders for products that are not yet available for immediate purchase. This form allows customers to provide their details and specify their preferred shipping and payment methods.

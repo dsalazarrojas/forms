@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for the certification of a terminal illness for a patient. This form is used by the certifying physician to document the patient's terminal status. The fields on this form include information about the patient, the certifying physician, and the hospice. This form should only be filled out by a certifying physician, and the information should be accurate and up-to-date. Before filling out this form, please ensure that you are eligible and authorized to do so, and that the information is accurate and complete.
-
-To determine if this form has already been filled out for a patient, you can search for the patient's name in the patient database.
-</thinking>
-
 # Hospice Certification Of Terminal Illness Form - Help Guide
 ## Purpose
 This form is used to certify a terminal illness for a patient.

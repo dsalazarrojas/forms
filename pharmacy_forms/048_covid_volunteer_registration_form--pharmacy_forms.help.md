@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in volunteering for a pharmacy-related program during the COVID-19 pandemic. The form is intended to collect personal details, volunteer experience, and availability. It also includes questions about safety and health-related concerns to ensure volunteers can safely participate in the program.
-
-Before proceeding, please check that you have not already registered or volunteered for this program. If you have any doubts or concerns, please do not hesitate to contact the organization.
-
-This form was created to streamline the volunteer registration process and ensure that the right information is collected for the volunteers' safety and the program's success.
-</thinking>
-
 # COVID Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in volunteering for a pharmacy-related program during the COVID-19 pandemic.

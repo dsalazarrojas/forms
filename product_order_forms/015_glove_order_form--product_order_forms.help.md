@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Glove Order Form - Help Guide
 ## Purpose
 The Glove Order Form is used to gather information from customers to process their glove orders. This form is typically used by authorized personnel to collect and review customer data before sending it to the relevant teams for processing and shipping.

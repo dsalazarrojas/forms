@@ -1,5 +1,3 @@
-<thinking>As a photographer, it's essential to gather the right information from your subject before taking their portrait. This form is designed to help you get the necessary details about your subject quickly and efficiently. Please ensure that you have the permission and consent of the subject before proceeding with the photo shoot. This form should not be used for commercial purposes without the subject's knowledge and agreement.</thinking>
-
 # Portrait Questionnaire For Women - Help Guide
 ## Purpose
 The Portrait Questionnaire For Women is a form designed to collect essential information about the subject, ensuring a smooth and successful photo shoot experience.

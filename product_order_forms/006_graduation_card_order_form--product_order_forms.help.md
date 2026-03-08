@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the Graduation Card Order Form, a form used to process orders for graduation cards. This form should only be used for customers who have already been verified and cleared to purchase graduation cards. Each field should only be filled out once, and it's crucial to ensure that all fields are filled in correctly, as incorrect or incomplete information can lead to delays or errors in processing the order.
-</thinking>
-
 # Graduation Card Order Form - Help Guide
 ## Purpose
 The Graduation Card Order Form is used to collect information for customers who wish to purchase graduation cards. The form includes fields for customer, shipping, graduation card, and payment information, as well as fields for order details and notes.

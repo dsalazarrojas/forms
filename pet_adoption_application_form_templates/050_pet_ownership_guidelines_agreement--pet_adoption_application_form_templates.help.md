@@ -1,35 +1,3 @@
-<thinking>
-To confirm, you want me to create a user-facing help guide for a form called "Pet Ownership Guidelines Agreement" that includes the following fields:
-1. Pet ownership guidelines agreement (text field)
-2. Pet care expectations (text field)
-3. Pet supervision (select one: True/False)
-4. Pet training (select multiple: True/False/maybe)
-5. Emergency contact (text field)
-6. Emergency contact phone (text field)
-7. Pet insurance (select one: True/False)
-8. Signed by (select one: owner/guardian)
-9. Date signed (date field)
-10. Time signed (time field)
-11. Signature (note field)
-12. Signature image (note field)
-13. Pet ownership guidelines agreement terms and conditions (text field)
-14. Acknowledgement (text field)
-15. Terms and conditions (text field)
-16. Date (date field)
-17. Time (time field)
-18. Pet ownership guidelines agreement agreement (text field)
-19. Acknowledgement 2 (text field)
-20. Terms and conditions 2 (text field)
-21. Contact person (text field)
-22. Contact person phone (text field)
-23. Contact person email (email field)
-24. Contact person address (text field)
-25. Contact person city (text field)
-
-I will make sure to explain each field in a concrete, concise, and practical way, without inventing unsupported business logic. I will also follow the required Markdown structure for the help guide.
-
-</thinking>
-
 # Pet Ownership Guidelines Agreement - Help Guide
 ## Purpose
 This form is used to gather information about pet ownership guidelines and agreements between pet owners and their caregivers. It is essential to complete this form accurately to ensure that all parties involved are aware of their responsibilities and obligations.

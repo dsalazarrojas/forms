@@ -1,14 +1,3 @@
-<thinking>
-The Medical Marijuana Consent Form is used for patients to provide their consent for medical marijuana treatment. This form is designed to be completed by patients to indicate their willingness to participate in medical marijuana treatment. The form collects information about the patient's medical condition, medical history, and other relevant details. 
-
-Before filling out this form, please ensure that you have not already completed a similar form and that you are not duplicating your efforts. 
-
-This form is designed for patients who are seeking treatment for medical marijuana and want to give their consent for the treatment. The form will help the healthcare provider to understand the patient's medical history, condition, and other relevant details.
-
-Please take a few moments to read through this guide carefully, and if you have any questions, do not hesitate to reach out to our support team.
-
-</thinking>
-
 # Medical Marijuana Consent Form - Help Guide
 ## Purpose
 The Medical Marijuana Consent Form is a document that allows patients to provide their consent for medical marijuana treatment. It's an essential part of the treatment process, and by completing this form, you'll be giving your healthcare provider the necessary information they need to understand your medical history, condition, and other relevant details.

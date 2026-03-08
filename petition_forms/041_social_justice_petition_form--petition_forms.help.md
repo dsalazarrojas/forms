@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be a generic text input form with no conditional logic, branching, or validation. It seems to be designed for collecting user input data. I'm inferring that the purpose of this form is for users to provide information or statements related to social justice, and the form is intended to be a collection of user inputs for this purpose. 
-
-Given the large number of fields, it seems that users are expected to provide multiple pieces of information or statements. The fields are all text inputs, which suggests that users are expected to provide short answers or descriptions. 
-
-I'm not seeing any specific indication that this form is meant for a specific social justice context, such as human rights, environmental justice, or economic justice. However, the title "Social Justice Petition Form" suggests that the form is related to social justice, which is a broad topic that encompasses many areas.
-
-I'm not seeing any indication that this form is meant to be used for a specific geographic location or target audience. The form seems to be a generic form for collecting user input data.
-
-</thinking>
-
 # Social Justice Petition Form - Help Guide
 ## Purpose
 This form is for users to provide information or statements related to social justice. It is designed to collect multiple pieces of user input data.

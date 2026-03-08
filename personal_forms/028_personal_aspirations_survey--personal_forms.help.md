@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to create a user-facing help guide for the Personal Aspirations Survey form. This guide should help end-users understand the purpose of the form, how to complete it, and what each field means. I will review the provided YAML field and use it to create a concrete, concise, and practical guide in Markdown format.</thinking>
-
 # Personal Aspirations Survey - Help Guide
 ## Purpose
 The Personal Aspirations Survey is designed to help individuals identify and clarify their personal goals, motivations, and aspirations. It is a tool for self-reflection and planning, allowing users to better understand themselves and their goals. This form will guide you through a series of questions to help you define your personal aspirations and create a plan to achieve them.

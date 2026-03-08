@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a general-purpose photography wedding contract. The purpose of this form is to collect relevant information from customers regarding their wedding day, including customer details, wedding details, and contract information. This form will help you gather necessary data to create a comprehensive contract that ensures a smooth and enjoyable experience for both the client and the photographer. Ensure to review the form carefully and make sure there are no similar forms with the same purpose, to avoid duplication of effort.
-</thinking>
-
 # General Photography Wedding Contract - Help Guide
 ## Purpose
 The General Photography Wedding Contract form is designed to collect essential details about the customer and their wedding day to create a customized contract that meets their specific needs.

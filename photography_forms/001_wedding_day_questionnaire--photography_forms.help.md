@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information from clients or customers about their wedding day details, such as ceremony types, contact information, sponsors, organizers, special add-ons, and extra information about the event. The purpose of this form is to gather data that can be used to tailor the wedding services or experiences to the client's needs and preferences.
-</thinking>
-
 # Wedding Day Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information from clients about their wedding day details, including ceremony types, contact information, sponsors, organizers, special add-ons, and extra information.

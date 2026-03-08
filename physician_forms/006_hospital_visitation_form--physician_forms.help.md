@@ -1,16 +1,3 @@
-<thinking> 
-The Hospital Visitation Form is used for visitors to provide essential information about their visit, allowing healthcare professionals to track and manage visitations efficiently. 
-
-To ensure data accuracy and consistency, please fill in the form with the required information. The form is split into sections, each with specific fields that should be filled based on your relationship with the patient and the purpose of your visit. 
-
-This form is intended for staff members to record visitor information and manage their visits. If you are not a staff member, please do not complete this form. 
-
-Please note that some fields may be hidden or not applicable for your specific visit. 
-
-Before filling in the form, please make sure to review the form carefully to understand what information is required and what fields are applicable for your visit. 
-
-</thinking>
-
 # Hospital Visitation Form - Help Guide
 ## Purpose
 The Hospital Visitation Form is used for visitors to provide essential information about their visit, allowing healthcare professionals to track and manage visitations efficiently.

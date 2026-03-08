@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students on their peers' performance, behavior, and overall contribution to class discussions. It's crucial to provide accurate and honest feedback to help peers improve and grow as individuals and as a team. Please ensure that you're providing constructive and respectful feedback, focusing on specific examples and avoiding personal attacks or criticisms. It's also essential to review the form's content carefully to avoid duplicating or repeating feedback that has already been given.
-</thinking>
-
 # Student Peer Evaluation Form - Help Guide
 
 ## Purpose

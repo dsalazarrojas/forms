@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their wedding photography needs. This form is meant to gather essential details such as client contact information, wedding specifics, and photographer information. The form is not affiliated with any specific form platform and is created using only public metadata. It's released under the Creative Commons BY 4.0 license, allowing free use, modification, and even commercial use with proper credit.
-</thinking>
-
 # Wedding Photography Survey - Help Guide
 ## Purpose
 The Wedding Photography Survey is a form designed to collect information from clients about their wedding photography needs. This information helps photographers to better understand the client's requirements, preferences, and expectations, ensuring a more personalized and enjoyable experience for both parties.

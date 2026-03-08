@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide their order and payment information for extension bracket orders. It is crucial to ensure the accuracy and completeness of the information to facilitate a smooth and efficient order processing experience. To avoid duplication and redundancy, please do not submit the same form multiple times or use it for purposes other than ordering extension brackets.
-</thinking>
-
 # Extension Bracket Order Form - Help Guide
 ## Purpose
 The Extension Bracket Order Form is designed to collect essential information from customers to process their extension bracket orders efficiently. This form is meant to be filled out by customers to provide accurate and complete details about their order, payment, and other related information.

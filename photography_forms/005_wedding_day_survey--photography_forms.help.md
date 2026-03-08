@@ -1,7 +1,3 @@
-<thinking>
-The Wedding Day Survey form is used to collect information about a wedding event. It appears that the form is designed to gather details such as wedding date, time, location, theme, and other aspects of the wedding ceremony and reception. To ensure consistency and accuracy, it's essential to review the form carefully and verify that the information entered is correct. Please check if the wedding date and reception date are the same or if they should be different. Also, ensure that the selected theme, venue, and other options match the actual wedding details.
-</thinking>
-
 # Wedding Day Survey - Help Guide
 ## Purpose
 The Wedding Day Survey form is designed to collect information about a wedding event. It gathers details such as date, time, location, theme, and other aspects of the wedding ceremony and reception.

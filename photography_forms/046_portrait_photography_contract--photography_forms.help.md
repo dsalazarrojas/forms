@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from a client for a portrait photography session. It aims to collect details about the client, the contract terms, and payment information. This form should be used when a photographer is offering their services for a portrait session, such as a family portrait, wedding portrait, or individual portrait. It is not a general purpose form, so please do not use it for other types of photography sessions or unrelated purposes.
-</thinking>
-
 # Portrait Photography Contract - Help Guide
 ## Purpose
 This form is designed to collect essential details from the client for a portrait photography session. It will ask for the client's contact information, details about the session, and payment terms.

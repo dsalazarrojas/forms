@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and document a player's performance throughout a season. It appears to be used for reporting on a team's or player's performance in relation to a specific season. The form asks for basic information such as season start and end dates, team and player details, and performance metrics like goals scored, assists made, and penalties given. It also includes sections for reporting on wins, losses, draws, and points scored, as well as ratings for team, coach, and player performance. The form may be used by team managers, coaches, or other personnel to gather and review performance data. To avoid duplication, it's essential to ensure that only one form is filled out per player per season. 
-</thinking>
-
 # player_performance_season_report_form - Help Guide
 ## Purpose
 The player performance season report form is used to collect and document a player's performance throughout a season. It helps team managers, coaches, or other personnel to gather and review performance data for players.

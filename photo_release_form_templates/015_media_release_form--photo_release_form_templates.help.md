@@ -1,9 +1,3 @@
-<thinking>
-This form is used to obtain a media release from an individual or organization for use in public relations, marketing, or other purposes. It helps to ensure that the individual or organization is aware of and consents to the use of their name, image, or likeness for these purposes. This form is not intended to be used for other types of releases, such as medical or financial releases.
-
-Before filling out this form, please review the form carefully to ensure it is relevant to your situation and does not require a separate release form. If you are unsure, please contact the relevant authority for clarification.
-</thinking>
-
 # Media Release Form - Help Guide
 ## Purpose
 The Media Release Form is a document that confirms the individual's or organization's consent to the use of their name, image, or likeness in public relations, marketing, or other purposes.

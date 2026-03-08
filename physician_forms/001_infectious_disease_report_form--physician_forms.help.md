@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about infectious diseases. It is likely used in medical settings, such as hospitals or clinics, to gather data about patients with infectious diseases. The form might be used for monitoring disease outbreaks, tracking patient progress, or for research purposes.
-
-To ensure this form is not used inappropriately, please note that this is a public form created using machine learning algorithms and is not affiliated with any form platforms. It is intended for educational or informational purposes only. If you are a healthcare professional, use this form at your discretion and follow all relevant local and national regulations.
-
-Please ensure that your use of this form is in compliance with all relevant laws, regulations, and industry standards.
-
-</thinking>
-
 # Infectious Disease Report Form - Help Guide
 ## Purpose
 This form is designed to gather information about patients with infectious diseases. It helps to collect data on various aspects of the disease, such as symptoms, medical history, exposure history, and disease characteristics. The form is used for monitoring, research, or educational purposes.

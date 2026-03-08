@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by patients to schedule a new appointment with a physician. The form will help the physician's office to gather essential information about the patient, including their name, the date and time of the appointment, the reason for the appointment, and any additional comments or notes. This information will be used to create a new patient record and schedule the appointment accordingly.
-</thinking>
-
 # New Patient Appointment Form - Help Guide
 ## Purpose
 The New Patient Appointment Form is designed to collect essential information from patients when booking a new appointment with a physician. This form serves as a starting point for the patient's care and helps the physician's office to gather necessary details for their records.

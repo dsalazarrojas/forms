@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting information from parents or guardians of minors who have taken photos. The purpose of the form is to obtain the necessary consent from parents or guardians for the photo release. The form will ask for various details such as parent and minor information, photo details, consent date, photo type, photo number, photo description, photo location, date taken, minor consent, photo license, photo retouching, print or publish, and photo sharing. This information will be used to ensure that the photo release is properly managed and that the minor's consent is obtained prior to any photo usage. Please note that the fields with 'select_multiple' type allow multiple selections, while 'select_one' type allows single selection. Ensure you have filled out the correct fields according to your requirements before submitting the form.
-</thinking>
-
 # Photo Release Form For Minors - Help Guide
 ## Purpose
 The Photo Release Form for Minors is a document that requires the parent or guardian of a minor to provide consent for the use of their child's photo. This form ensures that the minor's identity and image are protected while allowing for the proper management of photo releases.

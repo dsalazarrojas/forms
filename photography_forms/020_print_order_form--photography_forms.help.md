@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from customers for print orders, allowing them to provide their details such as name, email, and phone number, as well as select options like print type and print size. The form may also be used to track the status of an order, including the payment method and payment status. It seems that this form is designed to serve as a centralized location for storing and managing print orders.
-
-</thinking>
-
 # Print Order Form - Help Guide
 ## Purpose
 This is a print order form used to collect information from customers for print orders.

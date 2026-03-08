@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the "Event Photography Coverage Request" form is filled out correctly, the following guide will walk you through the form's purpose and each field's meaning. This form is used internally for booking and managing photography events. Please review and complete the form accurately to ensure your events are adequately covered.
-</thinking>
-
 # Event Photography Coverage Request - Help Guide
 ## Purpose
 This form is used to request and confirm event photography coverage. You will need to fill out the form with your event details so that we can provide accurate and sufficient coverage for your event.

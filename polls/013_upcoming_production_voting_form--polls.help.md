@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to guide users through the Upcoming Production Voting Form, helping them understand the purpose, completion process, and individual field explanations for each section.
-</thinking>
-
 # Upcoming Production Voting Form - Help Guide
 ## Purpose
 The Upcoming Production Voting Form is designed to collect information and opinions from users about upcoming productions. This form helps to gather data on various aspects of the production, such as production type, production date, performance start time, and contact information. The form is used to facilitate decision-making and ensure that all necessary details are captured for the production process.

@@ -1,8 +1,3 @@
-<thinking>
-A dry needling consent form is used in the field of acupuncture to obtain informed consent from patients before undergoing dry needling treatments. This form is essential for ensuring that patients are aware of the risks and benefits associated with the treatment, and that they have given their consent to proceed. To prevent duplication or misuse of this form, it should only be used in a clinical setting with a qualified healthcare professional present.
-
-</thinking>
-
 # Dry Needling Consent Form - Help Guide
 ## Purpose
 This form is a standard template used to obtain informed consent from patients before undergoing dry needling treatments. It helps ensure that patients are aware of the potential risks and benefits associated with the treatment and that they have given their consent to proceed.

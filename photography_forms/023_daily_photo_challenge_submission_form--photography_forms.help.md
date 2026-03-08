@@ -1,9 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll guide you through creating a user-facing help guide for the Daily Photo Challenge Submission Form. Before I proceed, I want to highlight the form's purpose and potential issues to consider when explaining it to end users.
-
-The form, designed with AI, is meant to collect submissions for a photo challenge. It's a collection of multiple-choice options for tags, indicating various categories or themes a user can use to label their submitted photos. Given the numerous tags, there might be confusion about which ones are relevant or how to complete the form efficiently. To address these concerns, we'll focus on the form's core functionality and make it easy for users to understand how to fill it out effectively.
-
-</thinking>
-
 # Daily Photo Challenge Submission Form - Help Guide
 ## Purpose
 This form is designed to collect photos submitted for a daily photo challenge, where users can add tags to describe their photos using multiple-choice options.

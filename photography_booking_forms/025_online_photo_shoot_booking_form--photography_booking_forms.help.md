@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## online_photo_shoot_booking_form - Help Guide
 
 ## Purpose

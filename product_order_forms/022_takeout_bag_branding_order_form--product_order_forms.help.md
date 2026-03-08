@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for takeout bag branding orders from restaurants. The purpose of this form is to gather details such as restaurant name, order date and time, quantity, unit price, subtotal, and tax rate. The form also asks for the option to upload a bag file and a logo, as well as the payment status. Additionally, it collects contact information such as email, phone number, and address.
-</thinking>
-
 # Takeout Bag Branding Order Form - Help Guide
 ## Purpose
 This form is used to collect information for takeout bag branding orders from restaurants. It is essential to fill out this form accurately to ensure that your order is processed correctly.

@@ -1,6 +1,3 @@
-<thinking> 
-The form is used for requesting a COVID-19 vaccination, likely for medical facilities or organizations that require vaccination records. It's a general-purpose form without any specific context or constraints, so there may be overlap with other forms or requests. I'll aim to provide a helpful guide while keeping an open eye for potential duplication of effort. </thinking>
-
 # Covid 19 Vaccination Request Form - Help Guide
 
 ## Purpose

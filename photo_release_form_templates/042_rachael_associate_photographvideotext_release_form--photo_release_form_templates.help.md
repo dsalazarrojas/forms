@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I need to make sure that the form is used correctly by the end users. Before explaining the form, I'll review the provided YAML fields to ensure that everything is clear and concise.</thinking>
-
 # rachel_associate_photographvideotext_release_form - Help Guide
 ## Purpose
 This form is used to collect information from a photographer for the release of photos, videos, or text. It's an essential step in the publishing process to obtain the necessary permissions and agreements from photographers to use their work.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for customers to book a photoshoot. It's meant to collect details and preferences from clients, and it's an important part of the booking process for photographers. This form will help the photographer understand what kind of photoshoot the customer is looking for and tailor their services accordingly. Please make sure this form is not a copy or derived from other sources, as it's an original creation.
-
-</thinking>
-
 # Online Photo Shoot Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers to help you as a photographer prepare for their photoshoot.

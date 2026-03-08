@@ -1,10 +1,3 @@
-<thinking>
-This guide will help users fill out the "eco_friendly_business_investor_poll" form, which is intended to gather input on the preferences and priorities of eco-friendly business investors. The form is divided into several sections, each focusing on specific aspects of eco-friendly investing. By completing this form, users will provide valuable insights into their investment strategies and priorities, which can inform business development and investment decisions.
-
-Before proceeding, ensure that you have read and understood the form's purpose and requirements. The form is not intended to be a comprehensive assessment, but rather a starting point for further discussion and refinement.
-
-</thinking>
-
 # eco_friendly_business_investor_poll - Help Guide
 ## Purpose
 The "eco_friendly_business_investor_poll" form is designed to collect information on the preferences and priorities of eco-friendly business investors. This form is a starting point for gathering insights into sustainable investing strategies and preferences.

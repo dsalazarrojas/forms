@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be a photography session agreement, which is a legal document that outlines the terms and conditions of a photography session. The purpose of this form is to inform and protect both the photographer and the client. To ensure that this form is used correctly, let us first clarify the purpose and requirements for its use. This form should only be used for photography sessions, and its completion is not required for non-photography related purposes. Please note that this form does not copy or extract any proprietary content from any form creation or survey platform, and it is released under CC BY 4.0 license, allowing for free use, modification, and even commercial use with proper credit.
-
-</thinking>
-
 # photography_session_agreement - Help Guide
 ## Purpose
 The photography session agreement form is a document that outlines the terms and conditions of a photography session. It is intended to be filled out by the client before or after the session to ensure that both parties are on the same page and understand their responsibilities.

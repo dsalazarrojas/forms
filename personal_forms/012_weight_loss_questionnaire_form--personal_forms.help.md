@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information from individuals who are seeking to lose weight and need guidance or support in achieving their weight loss goals. This form helps to collect relevant details about the individual's weight loss goals, expectations, and challenges, as well as their medical history, diet, and exercise habits. The information collected will aid healthcare professionals in providing personalized advice and guidance to help individuals achieve their weight loss goals.
 
 **weight_loss_questionnaire_form - Help Guide**

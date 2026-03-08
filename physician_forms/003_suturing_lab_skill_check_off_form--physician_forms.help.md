@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to check off a suture lab skill in their training or practice. It appears to be a simple form for tracking progress or certification of a specific skill related to suturing. However, without further information about the context in which this form is used (e.g., medical training, certification, or education), it's hard to determine the exact purpose with certainty. The form has a few fields that seem to be standard in many similar forms: a text field, a multiple-choice question, a date field, and a time field. The user is likely completing this form for their own reference or for someone else to check their progress.
-
-The form does not require authentication or any other identifying information, which suggests it is intended for personal or internal use within an institution or organization.
-
-The form seems to be a basic, one-page form without any complex logic or conditional rules.
-
-Given these points, it's likely that the form is designed for tracking the completion of a suture lab skill check-off by a trainee or practitioner. The form might be used in a medical or educational setting, such as a medical school or a residency program.
-</thinking>
-
 # Suturing Lab Skill Check Off Form - Help Guide
 ## Purpose
 The Suturing Lab Skill Check Off Form is used to track the completion of a suture lab skill check-off by a trainee or practitioner.

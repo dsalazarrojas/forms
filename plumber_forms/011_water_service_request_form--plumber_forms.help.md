@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from end-users for a water service request, likely related to a plumbing issue or repair. To prevent non-duplication, the system will check if a user has already submitted a request for the same service address within the last 7 days.
-
-</thinking>
 # Water Service Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from end-users for a water service request. The system will use this information to process and prioritize the request.

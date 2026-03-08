@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the purpose of selecting a learning model. The form is likely used in educational settings to create or manage learning resources such as lessons, curricula, or assessments. It's a good idea to ensure that the user is in the correct context for this form, such as a teacher or administrator.
-
-Before proceeding, ensure that you are not duplicating efforts by checking that a similar learning model has not already been created. This form is meant to create new learning models, not to modify or update existing ones.
-</thinking>
-
 # Learning Model Selection Form - Help Guide
 
 ## Purpose

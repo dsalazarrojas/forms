@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to gather product order information from customers. 
-The form has the following fields:
-- Product order form: This is the main form where customers input the product they want to order.
-- Customer_info: This field is intended to gather information about the customer, but it currently only has two options, which seems to be incomplete or not properly defined.
-- Color St: This field allows customers to select multiple color options for the product.
-- Quantity Ordered: This field is a numerical input field where customers enter the quantity of the product they want to order.
-- Total Price: This field is likely to display the total price of the order once the customer has input the product and quantity.
-- Date Requested: This field is intended to allow customers to select a date for their order, but it's currently not defined.
-- Time Requested: This field is intended to allow customers to select a time for their order, but it's currently not defined.
-- Notes: This field is a free-text field where customers can add any additional comments or notes about their order.
-The form is used to capture all necessary information for a customer to place an order.
-</thinking>
-
 # Tips Of The Trade By Darcie Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to place an order for a product. 

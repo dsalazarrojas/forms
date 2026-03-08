@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect patient information for medical purposes. It is divided into several sections: Patient Information, Contact Information, Medical History, Billing Information, and Insurance Information. Each section is meant to capture specific details that are relevant for medical treatment or insurance claims. This form is not intended to replicate any existing form platforms, but rather an original creation using public survey topic metadata. It is released under a Creative Commons license, allowing for modification and use. Please note that the form's fields and sections are designed with the intent of capturing necessary medical data... </thinking>
-
 # Patient Information - Help Guide
 ## Purpose
 This form is designed to collect patient information for medical purposes, including demographic details and medical history.

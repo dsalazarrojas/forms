@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to gather information from clients for personal training consultations. The purpose of this form is to understand the client's schedule preferences, contact information, and session preferences. This form is not intended for clients who are not ready to schedule a session at this time. Please ensure that the client fills out the form completely and accurately before submitting it to the trainers.
-</thinking>
-
 # personal-training-consultation-form - Help Guide
 ## Purpose
 This form is designed to gather information from clients for personal training consultations. It is intended for clients who are ready to schedule a session.

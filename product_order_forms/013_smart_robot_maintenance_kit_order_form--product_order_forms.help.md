@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to capture information for the maintenance kit order for a smart robot. The form is used to gather customer information, shipping details, and order specifics, including the type of service needed, the robot's serial number, model, year, and other relevant details. 
-
-The form will be used by the customer service team to process the order and ensure that the correct maintenance kit is sent to the customer. The form is designed to be easy to fill out and understand, with clear fields and instructions to guide the customer through the process. 
-
-This form is likely to be used by customers who are ordering a maintenance kit for their smart robot, and the information collected will be used to process the order and provide the necessary support and services to the customer. 
-
-Note: This form is likely to be used by a specific group of customers, and the information collected will be used to provide personalized support and services to each customer. 
-
-Before filling out this form, please ensure that you have all the necessary information ready to avoid any errors or misunderstandings. 
-
-</thinking>
-
 # Smart Robot Maintenance Kit Order Form - Help Guide
 ## Purpose
 This form is designed to capture information for the maintenance kit order for a smart robot.

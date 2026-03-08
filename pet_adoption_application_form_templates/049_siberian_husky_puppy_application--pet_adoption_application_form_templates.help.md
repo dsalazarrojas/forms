@@ -1,6 +1,3 @@
-<thinking>
-This form is for prospective pet adopters to provide information about themselves and their family. It is designed to help us understand their ability to care for a Siberian Husky puppy and ensure they are a good match for this breed. The information gathered from this form will be used to evaluate potential adopters and make a decision on their suitability for adoption. Please fill out this form accurately and thoroughly to help us make an informed decision.</thinking>
-
 # Siberian Husky Puppy Application - Help Guide
 ## Purpose
 This is a comprehensive application form for prospective pet adopters of Siberian Husky puppies. The form collects information about you and your family, including your contact details, preferences, and lifestyle.

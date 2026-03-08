@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect data for task entry, allowing users to record and track various tasks with relevant details such as names, due dates, start and end times, and categorization.
-To avoid duplication and ensure accurate tracking, users should only fill out this form for new tasks that have not been previously recorded.
-The form collects data on tasks in the context of performance tracking, which might be used for internal purposes such as employee performance assessments or project management.
-</thinking>
-
 # Task Entry Form - Help Guide
 ## Purpose
 The Task Entry Form is a tool for users to record and track new tasks, including task names, due dates, start and end times, and categorization. This form helps to ensure accurate tracking of tasks, reducing duplication and mismanagement.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for collecting consent from individuals for the use of their photo images in a cultural diversity celebration. The form is meant to be used in an educational or cultural setting, such as a museum or event, to obtain permission from participants for the use of their images.
-Given the form's structure, it's assumed that it will be used to collect basic information from users, including their name, email address, phone number, address, date of photo taking, time of photo taking, and the permission level for the use of their image.
-Before proceeding, please ensure that you have not filled out this form in the past with the same information. Filling out the same form with the same details may lead to duplicate data entries.
-</thinking>
-
 # cultural_diversity_celebration_photo_consent_form - Help Guide
 ## Purpose
 The cultural_diversity_celebration_photo_consent_form is a document used to collect consent from individuals for the use of their photo images in a cultural diversity celebration. It's essential to obtain this consent before publishing or using any photos taken during the event.

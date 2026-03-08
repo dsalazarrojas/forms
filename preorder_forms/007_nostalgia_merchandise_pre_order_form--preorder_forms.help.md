@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # nostalgia_merchandise_pre_order_form - Help Guide
 ## Purpose
 This form is used for customers to place pre-orders for merchandise items. It collects information about the customer and their order details, including their name, email address, product name and description, pre-order cost, shipping cost, shipping details, and shipping date. This form helps us to efficiently process and fulfill customer orders while ensuring accurate and timely shipping.

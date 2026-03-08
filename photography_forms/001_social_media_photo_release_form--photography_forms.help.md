@@ -1,8 +1,3 @@
-<thinking>
-The Social Media Photo Release Form is used to obtain permission from the subject to share their photo on various social media platforms. This form is essential for ensuring that you have the necessary rights to share photos taken by a photographer. It's a crucial step in maintaining a respectful and compliant approach to sharing content.
-Before filling out this form, please ensure that you understand the purpose and requirements of the form. Review each field carefully to provide accurate information. If you are unsure about any field, please consult with the relevant team member or seek clarification.
-</thinking>
-
 # Social Media Photo Release Form - Help Guide
 ## Purpose
 The Social Media Photo Release Form is used to gather necessary information for sharing photos on social media platforms.

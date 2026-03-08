@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from team members to process and track team branded accessory orders. It is crucial that users accurately fill out the form to ensure correct order fulfillment and team member satisfaction.
-</thinking>
-
 # Team Branded Accessory Order Form - Help Guide
 
 ## Purpose

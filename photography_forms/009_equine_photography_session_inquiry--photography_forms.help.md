@@ -1,7 +1,3 @@
-<thinking>
-The form is a tool to collect information from users who are interested in booking an equine photography session. This form is designed to capture essential details such as session preferences (dates and times), contact information, and package choices to provide the best possible experience for both the photographer and the client. This form should be used to inquire about an equine photography session, and it is not intended for any other purpose. Please ensure you complete this form accurately and truthfully to help us better understand your requirements and needs.
-</thinking>
-
 # Equine Photography Session Inquiry - Help Guide
 ## Purpose
 This form is designed to collect essential information about your equine photography session preferences and contact details. It will help us understand your requirements and provide you with the best experience.

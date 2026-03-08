@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information from individuals interested in becoming a certified personal trainer. The purpose of this form is to collect contact information, such as first and last name, email, and phone number, as well as their fitness goals and any relevant medical history. This information will be used by the training organization to assess the applicant's suitability for the certification program and to provide guidance on the next steps in the application process. To ensure that the form is filled out correctly, please read the instructions carefully and only fill out the form if you are genuinely interested in becoming a certified personal trainer. This form is a required step in the application process, and incomplete or incorrect submissions may delay or disqualify your application. Please make sure to fill out the form with accurate and up-to-date information, as it will be used to contact you and provide updates on your application status.
-</thinking>
-
 # Personal Trainer Interview Form - Help Guide
 ## Purpose
 The Personal Trainer Interview Form is a required step in the application process for individuals interested in becoming a certified personal trainer. This form is used to collect contact information and relevant details about your background, fitness goals, and medical history.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to screen patients for COVID-19 vaccination, ensuring that they are suitable candidates for vaccination. The form gathers information about the patient's medical history, current health status, and previous vaccination experiences to identify potential risks and contraindications. This form is intended for healthcare providers to review and make informed decisions about vaccination recommendations.
-
-To determine the relevance of this form, it's essential to consider the following:
-
-* Is the patient presenting for vaccination?
-* Has the patient had previous experiences with vaccination, including COVID-19?
-* Are there any medical concerns or contraindications that may impact vaccination?
-* Is there a need for medical clearance or review before vaccination?
-
-By reviewing this form carefully, healthcare providers can quickly identify potential risks and ensure that the patient is properly cleared for vaccination.
-
-</thinking>
 # COVID 19 Vaccination Screening Form - Help Guide
 
 ## Purpose

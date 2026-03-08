@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used for a specific purpose and not duplicated with other forms. We should check if there's an existing form for similar events or parties to avoid confusion and potential data duplication.
-</thinking>
-
 # Holiday Party Date Poll - Help Guide
 ## Purpose
 This form is designed to collect information about a holiday party, specifically about the event date, time, location, number of attendees, and the list of attendees with their contact information. The data collected will help in planning and organizing the party.

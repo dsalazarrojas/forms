@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personalized Weight Loss Assessment Form - Help Guide
 ## Purpose
 The Personalized Weight Loss Assessment Form is a comprehensive form designed to collect information about your health, lifestyle, and weight loss goals. This form helps us understand your individual needs and preferences to create a tailored weight loss plan that suits you best.

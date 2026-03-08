@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to provide end-users with the necessary instructions on how to fill out the "Vehicle Air Intake Boot Order Form." The form is used to collect information for vehicle boot orders, and it's essential to fill it out accurately to ensure that all necessary details are captured.
-
-Before proceeding, please check that you are in the correct context for this specific form, and that it's not a duplicate task that has already been completed.
-
-The form is split into several sections, which will be explained in detail below.
-
-</thinking>
-
 # Vehicle Air Intake Boot Order Form - Help Guide
 ## Purpose
 

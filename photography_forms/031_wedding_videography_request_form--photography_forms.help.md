@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential clients or customers to determine their wedding videography needs. The form asks for details about the wedding, such as date, location, and number of guests, as well as information about the videographer's preferences, such as package selection and add-ons. The form also collects contact information, including name, email, phone, and message, to facilitate communication and follow-up. This form is likely used by a wedding videography service or business to gather information from potential clients and tailor their services to meet the client's needs.
-</thinking>
-
 # Wedding Videography Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential clients or customers about their wedding videography needs.

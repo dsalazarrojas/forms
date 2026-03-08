@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is likely to collect information and data related to sessions, client information, services, rates, taxes, payment terms, and attachments. This form may be used for various purposes, such as session management, client onboarding, or service delivery. To ensure the form is used effectively, please make sure to review the form carefully to understand its intended use and avoid duplicating efforts or submitting incomplete information.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect information and data related to sessions, client information, services, rates, taxes, payment terms, and attachments.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Leadership Performance Assessment Request Form - Help Guide
 
 ## Purpose

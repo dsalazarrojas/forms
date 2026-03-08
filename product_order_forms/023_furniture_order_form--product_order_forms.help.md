@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for furniture orders, including their personal details, order preferences, and payment information. The form is intended to be completed by customers who want to place an order for furniture products. This form is not intended to be used for other purposes.
-
-This form is designed to collect detailed information for each product ordered, including the product note and price. The form also includes fields for personal contact details, such as email, phone number, and physical address for delivery purposes.
-
-The form also allows users to select the payment method and status of the order. The form is designed to be completed by customers who want to place an order for a specific product or multiple products. 
-
-The form has fields for customer input, product selection, delivery information (date, time, address), payment details, and order status.
-</thinking>
-
 # Furniture Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for furniture orders, including their personal details, order preferences, and payment information.

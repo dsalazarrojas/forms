@@ -1,7 +1,3 @@
-<thinking>
-This form is for police officers to apply to the police department. This form is used to collect personal and contact information from applicants. The form is not a part of the hiring process, but rather a form for officers to apply to the department. The information collected will be used to process the application and contact the emergency contact if needed. This form is not a duplicate of any other form, and it is not a form for any other purpose.
-</thinking>
-
 # Police Application Form - Help Guide
 ## Purpose
 This form is for police officers to apply to the police department. It is used to collect personal and contact information from applicants.

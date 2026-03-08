@@ -1,5 +1,3 @@
-<thinking>This form is intended for individuals who are struggling with the high cost of medications, seeking support and action from their government representatives on this issue. To avoid duplication, only submit one form per individual or family affected. The goal is to collect data on the impact of high medication costs and gather support for policy change. Please provide accurate and truthful information as you complete the form.</thinking>
-
 # Affordable Medicine Petition Form - Help Guide
 ## Purpose
 This form is designed to collect stories and experiences of individuals affected by high medication costs, providing a platform for supporters to voice their concerns and advocate for policy change. By sharing your story, you'll help raise awareness and build momentum for more affordable medicine initiatives.

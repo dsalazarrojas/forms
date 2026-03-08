@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Political Poll - Help Guide
 ## Purpose
 The Political Poll form is designed to gather opinions on various political topics, allowing you to understand the preferences and opinions of the respondents. This form is part of our polls category and helps us to collect relevant and non-duplicating data for further analysis.

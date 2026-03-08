@@ -1,7 +1,3 @@
-<thinking>What we're trying to achieve with this help guide is to inform users about the purpose and completion process of the Talent Release Form, ensuring they understand what information is required and how to fill it out correctly. By following these guidelines, users will be able to accurately and efficiently provide the necessary information for talent releases. Additionally, this guide will help reduce support queries and improve overall user experience.
-
-The form purpose is to collect basic contact information and project details for talent releases. Users need to fill out this form to ensure smooth talent release processes. The form is not meant to be complex or time-consuming, and it will only take a few minutes to complete. This form will be used by [insert specific users or teams here, e.g. talent managers, project coordinators, etc.].</thinking>
-
 # Talent Release Form - Help Guide
 
 ## Purpose

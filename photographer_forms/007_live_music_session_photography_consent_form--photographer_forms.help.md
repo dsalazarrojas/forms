@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is intended for live music session photographers to obtain consent for their photography work. It's a crucial document for both the photographer and their clients to ensure they understand the terms and conditions of the photography session. By providing a clear guide, we can help photographers and clients navigate the form efficiently and accurately.</thinking>
-
 # live_music_session_photography_consent_form - Help Guide
 ## Purpose
 This form is for live music session photographers to obtain consent from their clients for the purpose of photographing them during the event. By filling out this form, both the photographer and client will have a clear understanding of the photography session terms and conditions.

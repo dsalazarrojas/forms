@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess the eligibility of a patient for breast and cervical cancer screenings. The form aims to collect relevant medical history, risk factors, and other information to determine the suitability of the patient for these screenings. This form is not designed to diagnose or treat any medical conditions, but rather to identify patients who may benefit from these screenings. The information collected will be used to inform healthcare providers about the patient's risk factors and to guide their clinical decisions.
-
-This form is part of a broader set of forms used to assess patient eligibility for various medical screenings. To ensure that the form is used correctly, please review the fields below and complete them according to your patient's information.
-
-Please note that this form should not be used for patients who have already been screened for breast or cervical cancer. If you are unsure about a patient's screening history, please use the 'Previous Cancer Screening History' field to determine the best course of action.
-</thinking>
-
 # Breast And Cervical Cancer Screening Eligibility Form - Help Guide
 ## Purpose
 This form is designed to determine the eligibility of patients for breast and cervical cancer screenings. It collects information on patient's medical history, risk factors, and other relevant details to guide healthcare providers in their clinical decisions.

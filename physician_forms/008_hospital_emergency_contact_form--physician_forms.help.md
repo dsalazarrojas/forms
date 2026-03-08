@@ -1,7 +1,3 @@
-<thinking>
-To design a help guide for the Hospital Emergency Contact Form, I need to understand its purpose and how to complete it. From the provided YAML, I see that this form is for patients to provide information about their emergency contact, including contact information, relationship, and other relevant details. The form is designed for patients to provide information that can be useful in case of an emergency. The fields in this form seem to be self-explanatory, so I can provide a clear and concise help guide without needing further clarification.
-</thinking>
-
 # Hospital Emergency Contact Form - Help Guide
 ## Purpose
 The Hospital Emergency Contact Form is designed for patients to provide information about their emergency contact in case of an emergency. This form helps the hospital to quickly get in touch with the patient's emergency contact and provide them with updates on the patient's status.

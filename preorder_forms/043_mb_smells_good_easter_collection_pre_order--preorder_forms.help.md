@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to pre-order the MB Smells Good Easter Collection. The purpose of this form is to gather the necessary details from customers, including their name, phone number, email address, preferred collection, quantity, and any additional notes. This form is intended for customers who want to reserve their spot in the pre-ordering process.
-
-The form will likely be used by customers who are interested in purchasing products from the MB Smells Good Easter Collection. It is not intended for general contact or feedback purposes.
-
-The form does not have any specific validation or business rules that would make it non-duplicative, meaning that it can be used by any customer who wants to pre-order the collection.
-
-</thinking>
-
 # MB Smells Good Easter Collection Pre Order - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to pre-order the MB Smells Good Easter Collection. To complete this form, please follow the instructions below.

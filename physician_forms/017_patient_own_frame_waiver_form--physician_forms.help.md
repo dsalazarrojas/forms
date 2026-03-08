@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather information from patients about their own frame choices. The purpose of this form is to collect data on the types of frames patients would like to use, including single vision, progressive, bifocal, high index, and aspheric frames. The form is designed to be completed by patients, likely during an eye exam or consultation with an optometrist or ophthalmologist. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation of publicly available survey topics in the healthcare industry. It was created using AI and is released under CC BY 4.0 license. The form is free to use, modify, and even sell, but give credit to the original creator.</thinking>
-
 # Patient Own Frame Waiver Form - Help Guide
 ## Purpose
 This form is used to gather information from patients about their own frame choices.

@@ -1,6 +1,4 @@
-> <thinking>...
-To create a user-facing help guide for this form, we'll need to understand that the purpose of the form is to generate a contract for a photography retainer agreement, which is a document outlining the terms and conditions of a contract between a photo studio and a client. This form will help both parties agree on the services to be offered, their terms, and any other important details. Before starting, ensure that you're using this form to agree on a specific contract and not as a generic form for other purposes. Also, note that this form was created using AI and is not affiliated with, endorsed by, or derived from any form platforms.</thinking>
-# photography_retainer_contract_form - Help Guide
+> # photography_retainer_contract_form - Help Guide
 ## Purpose
 The <strong>Photography Retainer Contract Form</strong> is a document that outlines the terms and conditions of a contract between a photo studio and a client. It covers the details of the services offered, payment terms, and any other essential agreements.
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is used by photographers to obtain consent from subjects or models featured in photos they take. The form helps photographers specify how and where the photos will be used. This form is relevant to photographers who require permission from subjects or models before publishing or using their photos. The form should not be used for commercial or other purposes without proper permissions or consent.
-
-</thinking>
-
 # Photo Release Consent Form - Help Guide
 ## Purpose
 The Photo Release Consent Form is a document used to obtain consent from subjects or models for photos taken by photographers. It ensures that the subjects or models are aware of how their photos will be used and that they agree to such use.

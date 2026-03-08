@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect user input on their camera preferences for a photography-related task, likely for a wish list or comparison purpose. It includes various camera specifications such as type, lens, sensor size, and body type. The form seems to be redundant in some fields, which could be a result of incomplete or inconsistent design. For example, the options for "Camera Body Type" and "Camera Sensor Size" are almost identical, with the only difference being the label. The field "Camera Type" also seems to have been duplicated, with both "Camera Type" (id: 1) and "Camera Type" (id: 4) having the same options. It's possible that these fields should be merged or one of them removed for consistency and clarity.</thinking>
-
 # wishlist_camera_gear - Help Guide
 ## Purpose
 This form is designed to help users create a wish list of camera gear for a photography-related task. It will guide you through the process of selecting the camera type, lens, and other specifications that are relevant to your needs.

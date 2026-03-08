@@ -1,9 +1,3 @@
-<thinking>
-This form is for pre-orders of products. To use this form, please make sure you are authorized to place orders and that your products are eligible for pre-ordering. 
-Before starting, please note that this form is for products that have not yet been released. The information collected here will be used for internal purposes only and will not be shared with third parties.
-This guide is intended to be used in conjunction with other relevant documentation and guidelines.
-</thinking>
-
 # matilda_jane_february_2022_pre_order_form - Help Guide
 ## Purpose
 The matilda_jane_february_2022_pre_order_form is a form designed to collect information from customers for pre-orders of products. This form is intended to ensure that all necessary information is collected before the order is fulfilled.

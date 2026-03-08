@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for capturing essential information related to a patient's medical encounter. The form's purpose is to gather data on the patient's basic details and the date and time of the medical encounter. This form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using AI-generated form templates. The form's fields are designed to be as straightforward as possible, with clear labels and hints provided to guide the user through the completion process.
-</thinking>
-
 # Patient Encounter Form Template - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a patient's medical encounter, including their basic details and the date and time of the encounter.

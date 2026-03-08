@@ -1,7 +1,3 @@
-<thinking>
-The Boudoir Photography Application Form is intended to collect information from clients to plan and schedule a boudoir photography session. The form is designed to be easy to fill out, and the fields are organized into clear sections to make it straightforward. The goal is to gather essential details from the client to create a personalized experience for them. This form is likely used by a boudoir photography service to collect client preferences, contact information, and consent for using the images.
-</thinking>
-
 # Boudoir Photography Application Form - Help Guide
 ## Purpose
 The Boudoir Photography Application Form is designed to collect information from clients for a personalized boudoir photography session. It helps the photographer understand the client's preferences, requirements, and expectations for the session.

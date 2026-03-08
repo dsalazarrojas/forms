@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a user's preferences and opinions regarding fabric colors. The purpose of this form is to collect data that can be used to improve the design and development of fabric products. The form should only be completed by individuals who have a genuine interest in providing feedback on fabric colors. To ensure accurate and relevant responses, please refrain from duplicating responses, as this can skew the poll results. It is essential to complete the form carefully and honestly, as the information collected will be used to inform future product development decisions.
-</thinking>
-
 # Fabric Color Poll - Help Guide
 ## Purpose
 The Fabric Color Poll is a survey designed to gather your opinions and preferences on fabric colors. Your feedback will help us understand what you like and dislike about our fabric colors, and will inform our decisions on future product development.

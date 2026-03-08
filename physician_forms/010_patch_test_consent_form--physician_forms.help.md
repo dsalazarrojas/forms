@@ -1,12 +1,3 @@
-<thinking>
-To create this form, I considered the following factors:
-* The form is used for patients to provide consent for a patch test in a medical setting.
-* Each field is intended to collect relevant information from the patient to ensure the test is conducted safely and effectively.
-* The form is designed to be user-friendly and easy to complete.
-* The required fields are identified as such in the YAML.
-* The form's purpose is to ensure that the patient understands and agrees to the patch test, including any potential risks and benefits.
-</thinking>
-
 # Patch Test Consent Form - Help Guide
 ## Purpose
 The Patch Test Consent Form is used for patients to provide consent for a patch test, a diagnostic procedure used to check for allergic reactions or sensitivities to specific substances. This form is designed to ensure that the patient understands the potential risks and benefits of the test and agrees to participate.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used for providing feedback or comments on the Introduction to Dermatology module. This form is likely used by module developers or administrators to gather information on how the module is being used, its effectiveness, and suggestions for improvements.
- 
-This form is intended to collect specific, structured feedback that will help developers understand how to improve this particular module. It is likely part of a larger set of feedback collection tools. Before proceeding, ensure this form is not a duplicate entry and provide relevant feedback only.
- 
-To avoid submitting duplicate entries, check if you have already filled out this form previously and make sure your comments are specific and actionable.
- 
-</thinking>
-
 # Feedback For Introduction To Dermatology Module Form - Help Guide
 
 ## Purpose

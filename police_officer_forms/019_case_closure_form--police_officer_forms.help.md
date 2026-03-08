@@ -1,18 +1,3 @@
-<thinking>
-This form is used by police officers to document and close cases, providing a clear and concise record of the case's resolution. It is essential to ensure that all relevant information is accurately captured, as it will be used for review and reference purposes.
- 
-Before starting, please confirm that the case has been resolved and that there are no outstanding issues that need to be addressed. Ensure that all necessary steps have been taken to complete the case, and that you have gathered all required information.
- 
-Ensure that you are authorized to complete this form, and that you have the necessary permissions and clearance to access the case details.
- 
-Please review the form carefully and provide accurate and detailed responses to each field.
- 
-If you are unsure about any field or require clarification, please reach out to your supervisor or refer to the relevant departmental policies and procedures.
- 
-Please be aware that this form is a critical document that will be used for official purposes, and any inaccuracies or omissions can impact case resolution and future references.
- 
-</thinking>
-
 # Case Closure Form - Help Guide
 ## Purpose
 The Case Closure Form is used to document and close cases, ensuring that all relevant information is accurately captured for review and reference purposes.

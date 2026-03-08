@@ -1,7 +1,3 @@
-<thinking>
-The charity transparency petition form is designed to collect information from individuals who want to express their concerns and demands regarding the transparency of charitable organizations. This form is meant to be filled out by people who feel that a charity organization is not transparent enough and are requesting specific actions from the organization to improve its transparency. The form will help collect data and concerns from individuals, which will be useful for the organization to understand its weaknesses and improve its practices.
-</thinking>
-
 # Charity Transparency Petition Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who want to express their concerns and demands regarding the transparency of charitable organizations. This form will help charitable organizations understand their weaknesses and improve their practices.

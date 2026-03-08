@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for citizens to submit petitions to the city council, proposing specific actions or solutions for community issues. The form guides users through the necessary information needed to understand the petition, including the title, description, target council members, and proposed solutions. This helps the city council understand the concerns of the community and make informed decisions. To ensure a comprehensive understanding of the petition, the form asks for supporting evidence, previous attempts, and estimated beneficiary numbers. It also inquires about the timeline for implementation and the support goal for the petition. This information will help the city council prioritize and address the community's concerns effectively. The form also allows for additional information, such as partner organizations and funding needs, to be provided. This ensures that the city council has all the necessary details to make informed decisions and take action on the petition. The form is designed to be completed by the person leading the petition, ensuring that the information provided is accurate and up-to-date.
-</thinking>
-
 # City Council Petition Form - Help Guide
 ## Purpose
 This form is designed to guide citizens in submitting petitions to the city council, providing all the necessary information to help the council understand and address community concerns.

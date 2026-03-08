@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place orders for stationary products. It is meant to gather information about the order, including the product name, type, color, quantity, payment method, payment amount, order date and time, order comments, contact email, contact phone number, customer name, customer company, and customer address. This form should be filled out by customers to place new orders. It is not a duplicate of any other form in our system.
-</thinking>
-
 # Stationary Order Form Template - Help Guide
 ## Purpose
 The Stationary Order Form Template is used to gather information from customers for their stationary orders.

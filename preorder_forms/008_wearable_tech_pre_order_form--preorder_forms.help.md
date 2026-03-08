@@ -1,9 +1,3 @@
-<thinking>
-
-The form is likely used to collect information from customers for pre-orders of wearable tech products. This form could be used internally to track and manage pre-orders, helping the sales team to prepare for production and fulfillment. It may also be used to collect additional details from customers for product personalization or customization purposes. This form might be part of a larger sales workflow, and its completion could trigger subsequent internal processes for order tracking and customer communication. The form fields and their corresponding hints will guide the user through the necessary information collection process.
-
-</thinking>
-
 # Wearable Tech Pre Order Form - Help Guide
 ## Purpose
 The Wearable Tech Pre Order Form is designed to collect information from customers for pre-orders of wearable tech products. This form helps our sales team prepare for production and fulfillment and may also be used to collect additional details for product personalization or customization.

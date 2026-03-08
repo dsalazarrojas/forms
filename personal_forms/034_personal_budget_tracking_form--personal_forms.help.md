@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to track personal budgets and provide users with a structured way to set and manage their financial goals. The form is divided into different sections, each covering a specific aspect of personal budgeting. It's essential to understand that this form is not meant to be a comprehensive financial planning tool but rather a simple, user-friendly guide to help individuals track their income, expenses, and financial objectives. 
-
-This form does not appear to be part of a comprehensive financial planning system, and its purpose might be for personal use or as part of a more extensive financial management system. It might not cover all the intricacies of personal finance or complex financial planning scenarios.
-
-The form seems to be designed for basic tracking and goal-setting, and users should not rely solely on this form for making financial decisions. 
-
-It's crucial to complete the form carefully and accurately to gain meaningful insights.
-
-</thinking>
-
 # Personal Budget Tracking Form - Help Guide
 ## Purpose
 The Personal Budget Tracking Form is a simple tool designed to help users track their income, expenses, and set financial goals.

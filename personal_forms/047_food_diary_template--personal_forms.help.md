@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users maintain a food diary, allowing them to track their meals and progress towards their health and wellness goals. Each page of the form guides users through different sections of their food intake, providing options for breakfast, lunch, dinner, and additional notes. Users can choose from a variety of options for each meal, add any extra information, and save their progress for further review. This form will help users stay consistent in tracking their food intake, which is beneficial for people with dietary restrictions or those who want to monitor their nutrition. This form does not require any specific permissions or authentication, making it accessible to everyone. Users can complete the form at their own pace, filling in as much or as little information as they need. This form is meant to be a personal and private space for users to reflect on their food choices and make informed decisions about their health.
-</thinking>
-
 # Food Diary Template - Help Guide
 ## Purpose
 The Food Diary Template is a simple form to help users track their daily food intake. It consists of multiple pages, each covering different meals and additional information.

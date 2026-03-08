@@ -1,13 +1,3 @@
-<thinking>
-
-Before creating the form, let's ensure it's filled out correctly without errors and that the fields are relevant to the context of COVID-19 RT-PCR testing.
-
-This form is designed for ordering a COVID-19 RT-PCR test, which is a molecular test used to diagnose the SARS-CoV-2 virus. 
-
-The form gathers information from the ordering physician, medical facility, patient, and test requirements.
-
-</thinking>
-
 # COVID 19 RT PCR Request Form - Help Guide
 ## Purpose
 This form is for ordering a COVID-19 RT-PCR test, a molecular test used to diagnose the SARS-CoV-2 virus. It gathers information from the ordering physician, medical facility, patient, and test requirements.

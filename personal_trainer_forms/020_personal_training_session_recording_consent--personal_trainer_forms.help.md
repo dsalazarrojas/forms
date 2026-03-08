@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information from personal training clients regarding their consent for recording sessions. The purpose of this form is to ensure that clients understand and agree to the recording of their sessions, whether it's audio or video, and which submissions (if any) will be recorded. This form is part of a broader process to maintain transparency and obtain informed consent from clients.
-
-Before completing this form, please consider the following:
-
-* You have been informed of the recording policy and understand the recording options.
-* The type of recording (audio or video) and which submissions are being recorded are clearly stated.
-* You have given your consent for the recording of the session and submissions.
-
-</thinking>
-
 # personal_training_session_recording_consent - Help Guide
 ## Purpose
 This form is designed to gather information from personal training clients regarding their consent for recording sessions. It aims to ensure that clients are informed and agree to the recording of their sessions, whether it's audio or video.

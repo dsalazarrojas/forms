@@ -1,10 +1,6 @@
 # Offense Incident Report Form - Help Guide
 
 ## Purpose
-<thinking>
-We need to ensure that all incidents are thoroughly documented for proper investigation and reporting. This form is used to gather information about incidents that occur within our jurisdiction. It's essential that we capture accurate details about the incident, suspect, and officer involved. Please review each field carefully to ensure you provide the necessary information.
-</thinking>
-
 ## How To Complete This Form
 
 1.  Fill out the form completely and accurately, following the instructions provided for each field.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from physicians to verify their credentials and background. The form asks for information about a physician's education, professional experience, and certifications, as well as their credentialing history and verification process. This form is likely used in a medical or healthcare context to ensure that physicians have the necessary qualifications and qualifications to practice medicine.
-Please note that the form has a variety of fields with different types (text, date, time) and some fields are optional. This guide will cover how to fill out each field type.
-</thinking>
-
 # Credentialing Questionnaire Template - Help Guide
 
 ## Purpose

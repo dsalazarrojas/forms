@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain a release from a model, also known as a model or subject, that grants permission to a photographer to use their likeness in a photography session. This form is typically used when a photographer captures images of a person or people for commercial use.
-</thinking>
-
 # Photography Model Release Form - Help Guide
 ## Purpose
 The Photography Model Release Form is a document that grants permission to a photographer to use a model's likeness in a photography session. It's a crucial step in ensuring that the model is aware of and consents to the use of their image.

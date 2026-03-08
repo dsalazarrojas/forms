@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Photography Order Form - Help Guide
 
 ## Purpose

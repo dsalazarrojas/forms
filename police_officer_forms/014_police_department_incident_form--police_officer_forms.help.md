@@ -1,14 +1,3 @@
-<thinking>
-To determine the form purpose, I will review the provided YAML fields. The form is called "police_department_incident_form", which suggests that it is used by police departments for incident reporting. Upon reviewing the fields, it appears that the form collects information related to incidents, including dates, times, locations, and details about suspects and officers involved. It may be used for reporting and documenting incidents such as crimes, accidents, or other events. To ensure non-duplication, the form might be used in conjunction with other forms or systems to prevent redundant reporting. This form seems to be a comprehensive tool for capturing and tracking incident data.
-
-Form fields are mostly text-based, suggesting that the form is intended for free-form input. Some fields, like "incident_type", are select_one type, implying that the user should select one option from a list. This indicates that the form is designed to be user-friendly and easy to complete.
-
-Considering the fields, it seems that the form is intended for reporting incidents involving suspects, and collecting information about the suspects, including demographics and contact information. The form also includes fields for officers involved, including their name, badge number, and unit. This suggests that the form is used for documenting and tracking officer involvement in incidents.
-
-To confirm this, I will review the fields again, looking for any inconsistencies or unclear fields. Upon re-examination, I notice that most fields are clear and straightforward. However, some fields, like "officer_1_name" and "officer_1Badge_number", seem to have duplicate fields with similar labels. This might indicate that the form is intended for multiple officers to be involved in an incident.
-
-In summary, the form "police_department_incident_form" is designed for comprehensive incident reporting, gathering information on suspects, officers involved, and incident details. The form seems to be clear and user-friendly, with most fields requiring free-form input or select_one options. To confirm its purpose and ensure non-duplication, it may be used in conjunction with other forms or systems. </thinking>
-
 # police_department_incident_form - Help Guide
 
 ## Purpose

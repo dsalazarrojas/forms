@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to gather feedback on employee participation and engagement in corporate initiatives. It is crucial that the form is not completed by anyone who has already provided feedback on this topic recently or by employees who are not familiar with this initiative. This form should only be filled out by employees who are actually participating or have some level of awareness about the initiative. If you're not sure whether this form applies to you, please review your department's initiatives and check with your supervisor or departmental representative before filling out this form.
-</thinking>
-
 # Corporate Initiative Engagement Poll - Help Guide
 ## Purpose
 This form is designed to gather your opinions and insights on the Corporate Initiative Engagement Poll. Your feedback is crucial in helping us understand how well we're doing and where we can improve.

@@ -1,5 +1,3 @@
-<thinking>...The Outfit Planner Form is designed for users to submit information about a specific event or meeting, including the type of event, date, location, description, and other relevant details. This form helps to gather necessary information to create an outfit for the occasion. To avoid submitting duplicate entries, please ensure that you are filling out the form for a new event...</thinking>
-
 # Outfit Planner Form - Help Guide
 ## Purpose
 The Outfit Planner Form is a tool that helps users submit information about a specific event or meeting, including the type of event, date, location, description, and other relevant details. This information will be used to create a personalized outfit for the occasion.

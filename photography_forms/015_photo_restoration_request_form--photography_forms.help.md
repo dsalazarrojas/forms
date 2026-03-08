@@ -1,9 +1,3 @@
-<thinking>
-This form is used for requesting photo restoration services from the team. It is designed to provide detailed information about the photos to be restored. 
-The form should only be used for photo restoration projects that require the team's expertise. It is recommended that the project lead and project deadline are only filled out if the project has a deadline or a lead person. 
-Before proceeding with the photo restoration, ensure that the photo is not duplicated in the system, and if it is, use the existing one instead. 
-</thinking>
-
 # photo_restoration_request_form - Help Guide
 ## Purpose
 The photo restoration request form is designed to gather information about the photos that require restoration from the team. This form helps the team understand the project requirements and ensures that the photos are restored accurately and efficiently.

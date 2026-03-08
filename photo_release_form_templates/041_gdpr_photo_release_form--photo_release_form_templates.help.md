@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about a photo release, which is a legal document that grants permission to use a person's likeness or image. The form is used to clarify the terms and conditions under which a photograph can be used, and helps to protect the rights of both the photographer and the subject of the photo. This form is often required for commercial or public use of a photo, such as in advertising or on social media.
-
-To avoid duplication, please ensure that you only complete this form once for each photo. If you have already completed a photo release for the same photo, do not submit this form again.</thinking>
-
 # gdpr_photo_release_form - Help Guide
 ## Purpose
 This form is used to collect information about a photo release, which is a legal document that grants permission to use a person's likeness or image.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about PayPal payment forms for business use. This form likely exists for merchants to provide payment options to their customers, ensuring a smooth transaction experience. 
-- Check if you're already using a similar form for the same purpose to avoid creating duplicate efforts. 
-</thinking>
-
 # PayPal Business Payment Form - Help Guide
 ## Purpose
 This form is designed to collect information about PayPal payment forms for business use, allowing merchants to provide payment options to their customers. This form helps in creating a smooth transaction experience by collecting necessary details about the form title, description, category, price, and other relevant information.

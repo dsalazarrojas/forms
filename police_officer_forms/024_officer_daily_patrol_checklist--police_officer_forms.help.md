@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from police officers about their daily patrol activities and checklists. This form is used to ensure that officers are aware of their daily objectives and tasks, and to record their progress and any issues encountered during their patrol. The form is used by law enforcement personnel to document their daily activities and provide a clear record of their actions.
-The form consists of multiple pages with various questions and fields that ask officers to report on their daily activities, objectives, and any challenges they faced. The fields are designed to be straightforward and easy to understand, with some fields requiring multiple select options or time inputs.
-This form is used in a law enforcement context, and the fields are tailored to capture relevant information about a police officer's daily activities and challenges. The form is likely to be used by supervisors or administrators to monitor officer progress and provide guidance or support as needed.
-</thinking>
-
 # officer_daily_patrol_checklist - Help Guide
 ## Purpose
 This form is designed to gather information from police officers about their daily patrol activities and checklists, ensuring they are aware of their objectives and can record their progress and challenges.

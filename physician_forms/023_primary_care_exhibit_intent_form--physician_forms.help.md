@@ -1,13 +1,3 @@
-<thinking>
-The Primary Care Exhibit Intent Form is a crucial tool in the physician-patient relationship, enabling healthcare providers to capture essential details from patients regarding their primary care exhibit status. This form ensures consistency and accuracy in documenting patient data, which is vital for effective medical decision-making and care planning. 
-The form is designed to be user-friendly and flexible, allowing healthcare providers to gather information from patients in a way that suits their specific needs. 
-Please note that the form's fields are not mutually exclusive, and users can choose to fill in any combination of fields that apply to their situation. 
-The Primary Care Exhibit Intent Form is intended to be used in conjunction with other patient information and medical records to provide a comprehensive understanding of the patient's health status. 
-Before filling out the form, please review the fields carefully to ensure you provide accurate and relevant information. 
-If you are unsure about any field, it is recommended that you consult with a healthcare professional before completing the form. 
-The form's fields are designed to be self-explanatory, but if you have any questions or concerns, please don't hesitate to reach out to your healthcare provider for clarification. 
-</thinking>
-
 # Primary Care Exhibit Intent Form - Help Guide
 ## Purpose
 The Primary Care Exhibit Intent Form is a tool used to gather information from patients about their primary care exhibit status, enabling healthcare providers to make informed medical decisions and develop effective care plans.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about a police use of force incident, which includes details about the incident, the officers involved, and the reporting officer. This form is meant to be used by law enforcement agencies to document and report incidents of use of force by their officers. To ensure accuracy and consistency, it is recommended that the form is completed thoroughly and truthfully. It is also suggested that the form is completed by the officer in charge, or the person who witnessed or reported the incident.
-
-This form has a total of 25 fields. Some fields are required, and some are optional.
-
-Before completing this form, please ensure you have permission to access the information being reported. The form may be used for official purposes, such as investigations or reporting.
-
-</thinking>
-
 # Police Use Of Force Report Form - Help Guide
 
 ## Purpose

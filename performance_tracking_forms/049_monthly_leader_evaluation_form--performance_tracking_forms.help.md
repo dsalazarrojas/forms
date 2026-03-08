@@ -1,5 +1,3 @@
-<thinking>...The form is designed for evaluating a leader's performance on a monthly basis. This form is meant to provide a structured way to assess the leader's strengths and areas for improvement. It is intended to be filled out by a manager or supervisor to track and analyze the leader's performance over time. Before filling out this form, ensure that you are completing it for the correct month and leader being evaluated. Also, make sure that you are not duplicating efforts by checking the form's current status and any previous evaluations for the same leader... </thinking>
-
 # Monthly Leader Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate a leader's performance on a monthly basis. It is meant to identify strengths and areas for improvement, providing a structured way to track and analyze performance over time.

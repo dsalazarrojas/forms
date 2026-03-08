@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to submit a petition for political reform. The form will ask for general petition details, contact details, and signature validation. Please review the fields below to ensure you're providing all required information. This guide is for users to help them understand what each section means and how to fill it out correctly.
-</thinking>
-
 # Political Reform Petition Form - Help Guide
 ## Purpose
 The Political Reform Petition Form is used to collect information from users who wish to submit a petition for political reform. The form will help us understand the concerns and demands of the users and help us to create meaningful change.

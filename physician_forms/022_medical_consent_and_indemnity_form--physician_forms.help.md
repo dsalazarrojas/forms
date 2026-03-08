@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medical_consent_and_indemnity_form - Help Guide
 ## Purpose
 The medical consent and indemnity form is used to obtain legal consent from patients before undergoing medical procedures and to record the date and time the consent was signed. This form helps protect both the patient and the healthcare provider by ensuring that the patient is aware of the risks and benefits of the procedure and provides a clear understanding of their rights and responsibilities.

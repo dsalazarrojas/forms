@@ -1,17 +1,3 @@
-<thinking>
-This form is used to help physicians plan and prepare for patient visits by gathering relevant information about the patient's medical history, allergies, contact details, and other essential information.
- 
-It's crucial that physicians complete this form correctly to provide the best possible care to the patient and to prevent any potential risks or complications during the visit.
- 
-To ensure accuracy, please review the form carefully and enter the required information.
- 
-This form can also be used as a reference during the actual visit to ensure that all necessary information is discussed and addressed.
- 
-Please ensure that you are using the most up-to-date version of the form.
- 
-If you are unsure about any of the information on this form, do not hesitate to reach out to the relevant healthcare team members for clarification.
-</thinking>
-
 # Pre Visit Planning Form - Help Guide
 ## Purpose
 This pre-visit planning form helps physicians gather essential information about the patient before their scheduled visit. Completing this form ensures that the physician has all necessary information about the patient's medical history, allergies, contact details, and other relevant factors to provide the best possible care during the visit.

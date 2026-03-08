@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about personal accomplishments and achievements, likely for tracking and reporting purposes. This form appears to be designed for individuals, such as employees or students, to record their personal achievements and milestones, which can then be reviewed by a manager or coach. The form seems to be suitable for use in an educational or corporate setting. Please note that the form does not appear to collect any sensitive or confidential data, as most fields are not required and are primarily text or select fields. However, it's always best-effort to review and validate your form fields to ensure they align with your specific needs and comply with your organization's privacy policies.
-</thinking>
-
 # Personal Accomplishments Checklist - Help Guide
 ## Purpose
 This form is designed to help you track your personal achievements and accomplishments. It's meant to be used in conjunction with a manager or coach to review your progress and provide feedback.

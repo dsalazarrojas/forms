@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from candidates, focusing on phone screening details such as phone numbers, appointment dates and times, and any additional notes or contact information. The form also includes an essential field to select relevant questions to be asked during the phone screening. This form is designed to be simple and user-friendly, allowing for easy completion and submission of the necessary data.
-
-Before proceeding, please note that the form is not affiliated with any proprietary form platforms and is generated using AI. If you are using this form, please be aware that it is an original creation and not a copy of any existing form. 
-
-This form will be used for collecting candidate screening information, so ensure that you understand its context and purpose before filling it out.
-
-</thinking>
-
 # Phone Screening Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from candidates, including their phone numbers, availability for screening, and preferred contact details. It's a simple and straightforward form that ensures you have all the necessary details to proceed with the screening process.

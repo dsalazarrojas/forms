@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect demographic information from pediatric patients. The purpose of this form is to ensure that the patient's basic information is accurately recorded for medical purposes.
-Before completing this form, please ensure that you are a valid patient or a guardian/parent of the patient. If you are not the patient or their guardian/parent, you should not complete this form.
-To prevent duplication of effort, this form should only be completed once for each patient.
-</thinking>
-
 # pediatric_patient_demographic_form - Help Guide
 ## Purpose
 This form is used to collect and record essential demographic information from pediatric patients. This includes details such as name, date of birth, age, gender, weight, height, medical record number, contact number, address, emergency contact information, and other relevant details.

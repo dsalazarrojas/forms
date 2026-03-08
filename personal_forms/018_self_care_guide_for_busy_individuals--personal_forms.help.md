@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to guide busy individuals in setting and tracking their self-care goals and activities. This form is likely to be used by individuals who want to prioritize their well-being and make time for activities that nourish their mind, body, and soul. This form is not meant for individuals who are seeking medical attention or emergency support. It is also assumed that the individual is at least 18 years old and able to provide valid consent.
-
-This form appears to be a duplicate, please ensure that this form is not being used multiple times for the same purpose before proceeding.
-</thinking>
-
 # Self Care Guide For Busy Individuals - Help Guide
 ## Purpose
 This form helps busy individuals set and track their self-care goals and activities.

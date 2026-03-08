@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help pharmacists and other healthcare professionals track and document deviations from the cold chain, which is the process of maintaining a consistent and controlled environment for storing and transporting temperature-sensitive medications. The purpose of this form is to record and analyze any deviations that occur during this process. This form is not affiliated with or endorsed by any form platform and is a free adaptation of the original idea. The form's metadata and content are released under CC BY 4.0.
-</thinking>
-
 # Pharmaceutical Cold Chain Audit Form - Help Guide
 ## Purpose
 This form is used to report and document any deviations that occur during the storage and transportation of temperature-sensitive medications.

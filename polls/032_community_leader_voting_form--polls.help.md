@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Leader Voting Form - Help Guide
 
 ## Purpose

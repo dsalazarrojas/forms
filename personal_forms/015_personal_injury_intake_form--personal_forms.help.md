@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting information about personal injuries for medical or legal purposes. It is meant to collect details about the contact information of the individual, the incident or accident that resulted in the injury, the details of the injury, the individual's medical history, insurance information, employment information, and any relevant work-related information. This form is designed to be filled out by the individual who experienced the injury.
-</thinking>
-
 # Personal Injury Intake Form - Help Guide
 ## Purpose
 This form is used to collect detailed information about personal injuries, which can be used for medical or legal purposes. The purpose of this form is to gather all the necessary information about the injury, including the incident or accident that caused it, the details of the injury, and any relevant personal information.

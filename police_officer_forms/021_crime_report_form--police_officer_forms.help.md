@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # crime_report_form - Help Guide
 
 ## Purpose

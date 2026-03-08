@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to enter their submission for the Virtual Halloween Cosplay Contest. It's meant for contestants who wish to participate in the contest with their own cosplay. This form will collect their contact information, image details, and other relevant information about their entry. To the best of my knowledge, there is no duplicate submission form for this purpose. This form has fields for user information, costume designer, cosplay name, image URL, description, date of birth, contact email, contact phone, image type, and submission status.
-</thinking>
-
 # Virtual Halloween Cosplay Contest Entry Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Coronavirus Molecular Testing Request Form is used to request molecular testing for a patient who has been tested for or is suspected of having a coronavirus infection. This form is intended to collect relevant information about the patient and their condition to ensure that the testing process is carried out efficiently and effectively. Before filling out this form, please make sure that you have not already submitted a request for the same patient and that the patient has not received molecular testing in the past. If you are unsure, please verify with your supervisor or the laboratory before proceeding.
 
 # Coronavirus Molecular Testing Request Form - Help Guide

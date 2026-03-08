@@ -1,6 +1,3 @@
-<thinking>
-The Athletic Training Manual Printing Order Form is used to collect information for printing athletic training manuals. This form is designed to gather essential details from customers, including order information, customer contact information, manual specifications, and delivery requirements. The form is meant to be completed by customers or authorized representatives of organizations/schools to place orders for printing athletic manuals. The form should not be used for general inquiry or feedback purposes.</thinking>
-
 # Athletic Training Manual Printing Order Form - Help Guide
 
 ## Purpose

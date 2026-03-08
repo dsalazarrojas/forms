@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # First Aid Treatment Form - Help Guide
 ## Purpose
 The First Aid Treatment Form is a document used to record and document patient information, medical conditions, and treatment details. It's essential to provide accurate and comprehensive medical information for healthcare providers and medical staff. This form helps ensure that patients receive proper medical attention and care.

@@ -1,5 +1,3 @@
-<thinking>This form is designed for participants to provide information about themselves and their exercise class experiences. It includes personal details such as participant information, exercise class details, and medical information. This form helps the instructor or trainer to tailor the class to the participant's needs and preferences.</thinking>
-
 # exercise_class_participant_questionnaire - Help Guide
 ## Purpose
 The exercise_class_participant_questionnaire form is a tool for participants to provide information about themselves and their exercise class experiences. This form will help the instructor or trainer to tailor the class to the participant's needs and preferences.
