@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients on their vestibular and postural assessment. It's meant to be completed by patients or healthcare professionals to gather data on symptoms, postural positions, and experiences related to dizziness and balance issues.
-
-This form is part of a larger assessment process that can help identify potential risks or conditions that may impact a patient's balance, posture, and overall well-being.
-
-To ensure accurate and thorough completion, it's recommended that healthcare professionals review the form carefully and ask clarifying questions as needed.
-
-Please review the following guide to understand how to complete this form:
-
-</thinking>
-
 # vestibular_and_postural_assessment_quiz - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is designed to help users assess the severity and presence of depressive symptoms, which can aid healthcare professionals in identifying potential depression cases and providing targeted interventions. This form should only be completed by users who have been screened for potential depression risk factors. Please ensure you are not using this tool for any other purpose.</thinking>
-
 # Depression Questionnaire - Help Guide
 ## Purpose
 This Depression Questionnaire is a comprehensive tool designed to help healthcare professionals assess the severity and presence of depressive symptoms in individuals. It's essential to use this tool only for those who have been screened for potential depression risk factors.

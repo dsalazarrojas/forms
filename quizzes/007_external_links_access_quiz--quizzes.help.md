@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help users assess an external link's safety and relevance, ensuring that employees can access the links they need without compromising the security and integrity of their work environment. The form is part of a comprehensive system to evaluate and manage external links within the company's network. By filling out this form, users can quickly and easily evaluate whether a link is safe to access, and if so, what kind of link it is (e.g., internal or external).
-
-This form is not intended to be a comprehensive security audit, but rather a quick and simple way to evaluate links that users may want to access. If you are unsure about the safety or relevance of a link, please use your best judgment or consult with a supervisor or IT specialist.
-
-</thinking>
-
 # External Links Access Quiz - Help Guide
 ## Purpose
 The External Links Access Quiz is a form used to evaluate the safety and relevance of external links. This form helps users quickly determine if a link is safe to access and what type of link it is.

@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form is designed to collect participant information, schedule details, workout plans, goals, comments, and notes for an exercise class, allowing trainers to gather essential data for effective exercise planning and participant management.
-Relevance: This form is intended for use in the fitness industry, specifically for exercise classes. Non-duplication: This form's purpose and structure are not replicated in other forms, ensuring unique and original content.
-</thinking>
-
 # exercise_class_participant_questionnaire - Help Guide
 ## Purpose
 The exercise class participant questionnaire helps trainers and instructors gather essential information from participants, ensuring a safe, engaging, and effective exercise class experience. It includes sections for participant details, exercise schedules, workout plans, goals, comments, and trainer notes.

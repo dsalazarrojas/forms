@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a questionnaire intended for patients to provide feedback or report their status after a surgical procedure. It's possible that the form is used for postoperative assessments, pain management, or to monitor the patient's recovery progress. The form may be used by healthcare professionals to quickly gather information from patients in a standardized and efficient manner. To confirm, the form's purpose and intended use should be verified with the relevant stakeholders. It's also possible that this form is part of a larger system and may be used in conjunction with other forms or systems.
-
-Before proceeding, let's ensure that the form is not a duplicate of an existing form or that it's not intended for another purpose. If so, the form will need to be revised to reflect its correct purpose and intended use. For now, let's assume this form is for postoperative assessments and proceed with creating the user-facing help guide.</thinking>
-
 # Post Operative Questionnaire Form - Help Guide
 
 ## Purpose

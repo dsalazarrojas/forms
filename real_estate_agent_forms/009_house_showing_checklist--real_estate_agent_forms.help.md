@@ -1,8 +1,3 @@
-<thinking>
-This form is used by real estate agents to provide information about a property. The form is used to collect data about a property's status, type, size, and amenities, as well as its location and agent information. This form is likely used for internal purposes, such as tracking and reporting, or for sharing with other agents or potential buyers.
-This form should only be filled out for a specific property, and the data entered should be accurate and up-to-date.
-</thinking>
-
 # house_showing_checklist - Help Guide
 ## Purpose
 This form is used to collect and report information about a property for real estate agents to facilitate internal tracking and reporting, or for sharing with other agents or potential buyers.

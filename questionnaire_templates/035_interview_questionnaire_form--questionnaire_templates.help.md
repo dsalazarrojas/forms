@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Interview Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to gather information about a candidate's contact details and background. It helps in creating a comprehensive profile that can be used for future reference.

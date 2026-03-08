@@ -1,18 +1,3 @@
-<thinking>
-This is a form for assessing an individual's pattern recognition skills. The form will guide the respondent through a series of questions that help identify their strengths and weaknesses in pattern recognition, a crucial skill for various roles.
-
-To ensure that the form is helpful, it's essential to understand that this form was created for a specific purpose and context. It's meant for individuals in specific roles that require pattern recognition skills, such as data analysts, researchers, or detectives. This form will help these individuals assess their current level of proficiency in pattern recognition, identify areas for improvement, and demonstrate their ability to apply this skill in their job.
-
-Please be aware that this form is a self-assessment tool and should not be used as a definitive measure of an individual's pattern recognition skills. It's a starting point for self-reflection and improvement.
-
-To avoid duplication, please do not fill out this form if you have already completed a similar assessment or survey on pattern recognition skills in the past.
-
-If you're unsure about any of the questions or their relevance to your role, please ask for clarification before proceeding.
-
-This form consists of multiple pages, each with questions related to pattern recognition. Please answer all questions honestly, and provide as much detail as possible.
-
-</thinking>
-
 # Pattern Recognition Skills Assessment - Help Guide
 ## Purpose
 This form is designed to assess your pattern recognition skills, which are essential for various roles that require identifying patterns, connections, and relationships in data, information, or situations.

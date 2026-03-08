@@ -1,7 +1,3 @@
-<thinking>
-This guide will explain the "Location Cost Estimation Form", which is used to help event planners gather information from clients to estimate the cost of a specific event location. This form is likely used by event planners or coordinators to collect relevant details from clients about their upcoming events, such as venue, budget, and event type. The form is designed to be completed by clients, providing them with a structured way to communicate their event requirements. This guide will help clients understand the purpose and usage of the form, ensuring they can complete it accurately and efficiently.
-</thinking>
-
 # Location Cost Estimation Form - Help Guide
 ## Purpose
 The Location Cost Estimation Form is used by event planners to collect details about an upcoming event, enabling them to provide accurate estimates of costs. Complete this form to provide the necessary information about your event.

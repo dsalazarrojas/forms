@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess an individual's or an organization's data security and consent management practices. The purpose of this form is to gather information on the current state of data security and consent management within an organization, and to identify areas for improvement. This form is intended to be used by individuals responsible for data security and consent management within an organization, such as data protection officers or IT administrators.
-To ensure the form is used effectively, please make sure to:
-- Complete the form carefully and accurately.
-- Review the form before submission to ensure all required questions are answered.
-- Do not repeat or copy information already provided in other sections.
-- Provide as much detail as possible for each question.
-</thinking>
-
 # Data Security And Consent Management Assessment - Help Guide
 ## Purpose
 The Data Security And Consent Management Assessment is designed to evaluate an organization's data security and consent management practices. This form will help you identify areas for improvement and provide insights into your current state of data security and consent management.

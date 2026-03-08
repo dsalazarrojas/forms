@@ -1,7 +1,3 @@
-<thinking> 
-We should check if the internal form fields match the provided YAML fields before creating a help guide.
-</thinking>
-
 # Science Study Guide Form - Help Guide
 ## Purpose
 The Science Study Guide Form is a collection of information about science studies. It's meant to gather data about a teacher's science course, including general information, student details, and course specifics. This form will help teachers and administrators track and record science studies data efficiently.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Solar Funnel Questionnaire - Help Guide
 
 ## Purpose

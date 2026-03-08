@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from a Transaction Coordinator, a key role in real estate transactions. A Transaction Coordinator is responsible for coordinating and facilitating the flow of information between all parties involved in a real estate transaction. The form aims to collect relevant details such as contact information, client details, transaction specifics, and other related information to efficiently complete this critical role. To avoid duplication, please use this form to report new or ongoing transactions only.
-
-</thinking>
-
 # Transaction Coordinator Form - Help Guide
 ## Purpose
 The Transaction Coordinator Form is a crucial tool for gathering information from Transaction Coordinators in real estate transactions. It helps to streamline the coordination process by collecting relevant details and facilitating efficient communication between parties.

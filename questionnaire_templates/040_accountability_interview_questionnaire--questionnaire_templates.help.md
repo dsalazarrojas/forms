@@ -1,5 +1,3 @@
-<thinking> This form is designed to be used as a guide for conducting accountability interviews in a professional setting. It is used to assess the performance and progress of employees or team members, helping the interviewer to evaluate their goals, strengths, weaknesses, and areas for improvement. This form is not intended to be used as a replacement for any form creation or survey platform, but rather as a free, open-source template for organizations to use as needed. Please ensure that you are using this form within a relevant context and for its intended purpose.</thinking>
-
 # Accountability Interview Questionnaire - Help Guide
 
 ## Purpose

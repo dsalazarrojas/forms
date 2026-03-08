@@ -1,23 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "seo-optimization-quotation-form" form. This form is designed to collect information from users for SEO optimization purposes. It appears that the form is used to gather data about a company's SEO services, website information, target audience, SEO approach, keywords, content creation, content promotion, analytics tracking, and budget. We need to ensure that this form serves its intended purpose and provide clear instructions on how to fill it out correctly.
-
-Before creating the help guide, we need to review the form's fields to understand their purpose and relevance. The fields include:
-
-* Company Info: a text field for collecting company information
-* Seo Services: a selection of services to choose from
-* Website Info: a text field for website information
-* Target Audience: a selection of target audiences to choose from
-* Seo Approach: a selection of approaches to choose from
-* Keywords: a text field for keywords
-* Content Creation: a numeric field for content creation
-* Content Promotion: a numeric field for content promotion
-* Analytics Tracking: a selection of analytics options to choose from
-* Budget: a text field for budget information
-
-We also need to check for any potential duplication or redundancy in the form fields. Upon reviewing the fields, we can see that the form has a mix of text, selection, and numeric fields. The form does not appear to have any significant duplication or redundancy.
-
-</thinking>
-
 # seo-optimization-quotation-form - Help Guide
 ## Purpose
 This form is designed to collect information from users for SEO optimization purposes. It is used to gather data about a company's SEO services, website information, target audience, SEO approach, keywords, content creation, content promotion, analytics tracking, and budget.

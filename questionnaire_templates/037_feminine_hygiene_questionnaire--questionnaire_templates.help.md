@@ -1,16 +1,3 @@
-<thinking>
-This form is a Feminine Hygiene Questionnaire designed to gather information about a person's feminine hygiene habits and preferences. The form consists of 24 questions, each with a specific type and format.
-
-To ensure that users complete the form accurately and relevantly, please note that:
-
-* The form is intended for individuals who have experienced or are currently experiencing feminine hygiene issues.
-* This form is not intended for users who have not experienced or are not currently experiencing feminine hygiene issues.
-* Please answer the questions honestly and to the best of your abilities, as your responses will help us better understand your concerns and provide more effective support.
-
-Please make sure to answer each question carefully and thoroughly, as your responses will be reviewed by healthcare professionals for accurate assessment and guidance.
-
-</thinking>
-
 # Feminine Hygiene Questionnaire - Help Guide
 ## Purpose
 This questionnaire aims to gather information about your experiences and preferences regarding feminine hygiene, which will help healthcare professionals better understand your concerns and provide you with tailored advice and support.

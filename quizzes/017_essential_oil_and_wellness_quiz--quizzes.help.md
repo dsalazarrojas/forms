@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the Essential Oil And Wellness Quiz form. The form is designed to gauge users' knowledge about essential oils and their applications in the wellness field. It is essential to ensure that users understand the quiz questions and answers to provide accurate and helpful information.
-The form consists of multiple pages with various questions, including multiple-choice and open-ended text fields. Users will be required to answer questions about their level of knowledge, current usage, and experiences with essential oils. Some fields are select-one, select_multiple, and text fields, allowing users to provide specific answers or describe their thoughts.
-Please review the following sections carefully to ensure you understand the form's purpose and how to complete it accurately.
-
-</thinking>
-
 # Essential Oil And Wellness Quiz - Help Guide
 ## Purpose
 The Essential Oil And Wellness Quiz is designed to assess users' knowledge and understanding of essential oils and their applications in the wellness field. This form is intended to provide users with a comprehensive understanding of essential oils and their benefits.

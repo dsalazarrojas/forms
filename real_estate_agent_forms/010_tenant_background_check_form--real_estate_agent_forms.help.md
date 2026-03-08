@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide end-users with a clear understanding of the purpose and usage of the Tenant Background Check Form. Before proceeding, it's essential to note that the form is designed to collect information from tenants, ensuring the accuracy and thoroughness of the data provided. To avoid duplication and ensure the effectiveness of the form, it's crucial to complete it in the correct sequence, from page 1 to page n.
-</thinking>
-
 # Tenant Background Check Form - Help Guide
 ## Purpose
 The Tenant Background Check Form is a crucial document that aids in the process of verifying tenant information, ensuring they are suitable candidates for renting or leasing a property.

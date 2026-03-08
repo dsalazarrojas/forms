@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graphing Skills Assessment - Help Guide
 ## Purpose
 The Graphing Skills Assessment form is designed to evaluate your graphing skills, including your ability to use various tools and your proficiency level in graphing. This form will help us understand your graphing skills and provide feedback for improvement.

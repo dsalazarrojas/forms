@@ -1,5 +1,3 @@
-<thinking> This form, "Heirship Information Form", is designed to collect sensitive and personal information about a deceased individual's estate, family members, and property. The form is used to gather essential data for probate purposes, ensuring that all necessary information is recorded accurately and efficiently. It is crucial that only relevant and up-to-date information is submitted to prevent duplication of efforts and ensure accurate tracking of the estate's status. Please review the form carefully and enter accurate information to avoid any discrepancies.</thinking>
-
 # Heirship Information Form - Help Guide
 ## Purpose
 The Heirship Information Form is a probate form used to collect sensitive and personal information about a deceased individual's estate, family members, and property. This form is essential for accurate and efficient recording of information for probate purposes.

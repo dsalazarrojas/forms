@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vehicle_inspection_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about vehicle inspections, focusing on the process, methods, and best practices for maintaining vehicle safety and efficiency.

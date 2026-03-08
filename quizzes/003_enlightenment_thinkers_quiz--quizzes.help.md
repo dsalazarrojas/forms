@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Enlightenment Thinkers Quiz - Help Guide
 
 ## Purpose

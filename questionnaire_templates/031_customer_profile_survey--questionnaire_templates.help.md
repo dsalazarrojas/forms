@@ -1,10 +1,3 @@
-<thinking> 
-This guide is intended to help users understand the purpose and functionality of the "Customer Profile Survey" form. The form is designed to collect customer information, including demographics, interests, and preferences. It is crucial to fill out the form accurately to ensure that the collected data is reliable and useful for analysis.
-
-Before starting the survey, please ensure that you have not filled out this form before, as duplicate entries will not be accepted. If you have already completed this form, you can simply log in and access your previous survey responses.
-
-</thinking>
-
 # Customer Profile Survey - Help Guide
 ## Purpose
 The "Customer Profile Survey" is designed to collect information about customers, including their demographics, interests, and preferences. This data will help us to better understand our customers' needs and provide more tailored services.

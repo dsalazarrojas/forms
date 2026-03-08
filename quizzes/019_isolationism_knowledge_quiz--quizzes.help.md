@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a help guide for the "Isolationism Knowledge Quiz" form based on the provided YAML structure. The form appears to be a knowledge-based assessment focused on the concept of isolationism, aiming to evaluate users' understanding of its definition, characteristics, and relationships with other concepts such as nationalism, global economy, and international relations.</thinking>
-
 # Isolationism Knowledge Quiz - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to create a quick and easy math quiz for users to test their knowledge on specific math topics. This form is likely used for educational purposes, such as assessing students' understanding of math concepts or as a quick assessment tool for professionals to test their math skills. The form can be filled out by anyone who wants to test their math abilities, regardless of their age or profession.
 
 # Mini Math Quiz - Help Guide

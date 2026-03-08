@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users demonstrate their knowledge on judicial cases. The purpose of this form is to collect and record various aspects of a judicial case, including its type, process, scenario, legal issue, and outcomes. This form should not be used to submit multiple cases; each submission should be a single case.
-</thinking>
-
 # judicial_cases_knowledge_quiz - Help Guide
 ## Purpose
 The judicial_cases_knowledge_quiz form is designed to collect and record information about a single judicial case. This form should not be used to submit multiple cases; each submission should be a single case.

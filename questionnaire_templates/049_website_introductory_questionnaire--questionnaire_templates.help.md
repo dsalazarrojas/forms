@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect introductory information from new clients about their website development project. It helps the development team understand the client's needs, preferences, and requirements. 
-
-The form is divided into several sections to make it easier for the client to provide the necessary information. 
-
-Before starting this form, please take a few moments to review each field to ensure that you've provided accurate and relevant information.
-
-</thinking>
-
 # website_introductory_questionnaire - Help Guide
 ## Purpose
 The website introductory questionnaire is a tool used to gather essential information from new clients about their website development project. This form ensures that the development team has a clear understanding of the client's needs, preferences, and requirements, enabling them to provide the best possible service.

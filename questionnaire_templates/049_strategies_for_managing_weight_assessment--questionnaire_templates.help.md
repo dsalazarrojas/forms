@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information on an individual's weight management strategies. It aims to help assess an individual's goals, habits, readiness for change, and potential next steps in managing their weight. This form is intended to be used for personal or professional development, such as in coaching or mentoring contexts.
-
-To ensure this form is being used correctly, please note that it is not affiliated with or endorsed by any form platform and is an original adaptation created using public survey topic metadata. It is released under a Creative Commons Attribution 4.0 license, allowing for modification and sharing.
-
-Please review this form carefully to ensure it meets your specific needs. If you have any questions or concerns, feel free to contact form@gic.mx.
-
-</thinking>
-
 # Strategies For Managing Weight Assessment - Help Guide
 ## Purpose
 This form is designed to help individuals assess their weight management strategies and identify areas for improvement. It is intended for personal or professional development, such as in coaching or mentoring contexts.

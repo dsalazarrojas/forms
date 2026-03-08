@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we need to ensure that the purpose of the form is clearly explained, and each field is explained in a way that is easy to understand for non-technical users. 
-
-The form "Rental History Verification Form" seems to be related to verifying the rental history of a tenant, typically used by landlords or property managers to gather information about a tenant's past rental experiences. This form is likely used to assess a potential tenant's credibility and rental history, and to determine whether they are a reliable tenant. 
-
-However, before we proceed, we need to check if this form is not a duplicate of another form, and if it's relevant to the current business process.
-
-</thinking>
-
 # Rental History Verification Form - Help Guide
 ## Purpose
 The "Rental History Verification Form" is used by landlords and property managers to gather information about a tenant's past rental experiences. This form helps to assess a potential tenant's credibility and rental history, and determine whether they are a reliable tenant.

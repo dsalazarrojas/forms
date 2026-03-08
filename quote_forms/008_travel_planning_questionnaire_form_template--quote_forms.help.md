@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # travel_planning_questionnaire_form_template - Help Guide
 ## Purpose
 This form is designed to gather information related to travel planning, such as destinations, travel dates, and other relevant details. Its purpose is to collect data from users for research, analysis, or other purposes.

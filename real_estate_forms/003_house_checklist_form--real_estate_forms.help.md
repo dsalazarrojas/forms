@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive checklist for evaluating the status and characteristics of a house. It includes fields for basic systems, engines, service requirements, and additional information, suggesting it's intended for a real estate agent or appraiser to assess a property's condition. To avoid duplication, it would be useful to ensure that no other forms with similar purposes exist, and this form's fields are sufficient to cover all necessary information. Additionally, it's essential to review the form's structure and fields to ensure they align with the organization's current processes and requirements.
-</thinking>
-
 # House Checklist Form - Help Guide
 ## Purpose
 This form is designed to be a comprehensive checklist for evaluating the status and characteristics of a house. It is intended to be used by real estate agents, appraisers, or other professionals who need to assess the condition of a property.

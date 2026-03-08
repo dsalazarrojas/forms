@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for gathering information from pregnant patients, likely as part of a medical history or intake process. It seems to be a comprehensive form covering various aspects of a patient's medical history, including allergies, medical conditions, medical tests, and insurance information. The form's purpose is likely to ensure that the healthcare provider has accurate and up-to-date information about the patient's health status.
-</thinking>
-
 # maternity_session_questionnaire - Help Guide
 ## Purpose
 This form is used to gather essential information from pregnant patients, including medical history, allergies, and contact information. It helps healthcare providers ensure that they have accurate and up-to-date information about the patient's health status.

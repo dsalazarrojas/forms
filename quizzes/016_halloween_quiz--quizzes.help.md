@@ -1,5 +1,3 @@
-<thinking>...This form is intended to collect user responses to various Halloween-themed questions, likely for entertainment or survey purposes. To avoid duplication, the form is designed to be filled out only once, and the user's responses will be saved for future reference. Please ensure that the form is submitted only once to avoid unnecessary data storage....</thinking>
-
 # Halloween Quiz - Help Guide
 ## Purpose
 This form is designed to collect user responses to various Halloween-themed questions, including favorite Halloween movies, scores, actors, games, comments, and other related topics.

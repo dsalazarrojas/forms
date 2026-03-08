@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us better understand your knowledge and understanding of linear algebra concepts. We are not affiliated with, endorsed by, or derived from any form platform. The form is created using public survey topic metadata and released under the Creative Commons Attribution 4.0 International License, allowing you to use, modify, and even sell forms derived from it, just give credit. This form is intended for general understanding and educational purposes only.
-</thinking>
-
 # Linear Algebra Concepts Survey - Help Guide
 ## Purpose
 This form is a survey designed to test your knowledge and understanding of linear algebra concepts. It will ask you a series of questions about various aspects of linear algebra, and you will be able to submit your answers in a text format.

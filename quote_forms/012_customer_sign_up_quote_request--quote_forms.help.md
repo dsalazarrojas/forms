@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from customers for a quote request. This form allows customers to provide their details, project information, and quote requirements, enabling us to better understand their needs and provide an accurate quote. This form is used for internal purposes only and is not intended for public display.
 
 # Customer Sign Up & Quote Request - Help Guide

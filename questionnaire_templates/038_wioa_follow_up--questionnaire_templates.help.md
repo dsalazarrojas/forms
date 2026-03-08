@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a follow-up form used in a business or professional setting. Its purpose is likely to collect information or updates after an initial form has been completed. The form is designed for end-users who need to input data related to the follow-up form's due dates, notes, signatures, and review dates. 
-
-Given the fields, it seems that the form is focused on scheduling and coordination tasks.
-
-</thinking>
-
 # wioa_follow_up - Help Guide
 ## Purpose
 The wioa_follow_up form is a follow-up form used to collect information or updates after an initial form has been completed. It is designed for scheduling and coordination tasks.

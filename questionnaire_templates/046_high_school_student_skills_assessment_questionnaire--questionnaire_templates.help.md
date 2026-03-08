@@ -1,7 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "High School Student Skills Assessment Questionnaire", I'll need to understand the purpose of this form and the context in which it's being used. This guide will walk through the form's purpose, how to complete it, and what each field means, using the provided YAML fields as a basis for explanation. This guide will also include a section for tips to help the end-user fill out the form accurately and efficiently.
-</thinking>
-
 # High School Student Skills Assessment Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to assess the skills and readiness of high school students for future career opportunities. It aims to gather information about the student's personal and professional attributes, career interests, and skills. The data collected will help identify areas of strength and weakness, and provide guidance for students to improve their skills and career readiness.

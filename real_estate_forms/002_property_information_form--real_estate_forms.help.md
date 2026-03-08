@@ -1,7 +1,3 @@
-<thinking>...
-This form is used to collect property information for real estate purposes. The purpose of this form is to gather detailed property information such as address, city, state, zip code, property type, property condition, square footage, lot size, year built, number of bedrooms, bathrooms, property status, property agent information, and listing agent information. This form is intended for users who need to collect comprehensive property data.
-</thinking>
-
 # property_information_form - Help Guide
 ## Purpose
 The purpose of this form is to collect property information for real estate purposes.

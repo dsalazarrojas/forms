@@ -1,9 +1,3 @@
-<thinking>
-This guide will walk you through the Halloween Movie Quiz form, ensuring you have a clear understanding of its purpose and how to complete it successfully.
-The purpose of this form is to gather information about your favorite Halloween movies in a fun and engaging way. By completing this quiz, you'll be able to test your knowledge and score your favorite movies in a few key areas.
-This form is not intended for any sensitive or personal information. Please ensure that you answer the questions honestly, and have fun while doing so!
-</thinking>
-
 # Halloween Movie Quiz - Help Guide
 ## Purpose
 This form is designed to gather information about your favorite Halloween movies, allowing you to test your knowledge and score your favorite films in a few key areas.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to track readers' progress, reflections, and ratings on different books or passages. The form seems to be designed for tracking multiple books or passages (referred to as "verses" in the form's title), with each "verse" having its own set of fields to fill out. The form appears to be a tracking tool for reading habits and experiences, possibly for personal or professional use. The presence of multiple "verses" and corresponding sections suggests that the form is meant to be used for tracking progress on multiple texts or projects.
-
-</thinking>
-
 # Verses Read Tracking Form - Help Guide
 ## Purpose
 This form is for tracking your progress, reflections, and ratings on different books or passages.

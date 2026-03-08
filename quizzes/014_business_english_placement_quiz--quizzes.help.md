@@ -1,7 +1,3 @@
-<thinking>Before we get into the help guide, let's make sure we're on the same page. This form is designed to assess an individual's English proficiency in a business setting. It's intended to gauge their ability to understand and communicate effectively in English, particularly in the context of business. This assessment can be used by language instructors, trainers, or anyone interested in evaluating English language skills for business purposes.
-
-We'll assume that the user is a business professional who needs to evaluate their English skills for improvement or assessment. We'll focus on explaining each field in a clear and concise manner, avoiding any jargon that might confuse users.</thinking>
-
 # Business English Placement Quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess your English language skills in a business context. It includes questions on reading, writing, and speaking abilities, as well as your background and learning goals. The quiz is designed to help you identify areas where you need improvement and provide a basis for further language training or assessment.

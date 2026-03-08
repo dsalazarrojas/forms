@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the Real Estate Broker Application Form, a document used to gather information from applicants seeking to become licensed real estate brokers. This form aims to capture relevant details about the applicant's background, experience, and qualifications. Before proceeding, ensure that you have completed this form only once to avoid duplication. This guide will walk you through each section of the form, explaining what information is required and why.
-</thinking>
-
 # Real Estate Broker Application Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from real estate broker applicants, including their past work experience, educational background, professional certifications, language skills, references, and employment status. This information will help evaluate their eligibility and suitability for a real estate broker's license.

@@ -1,8 +1,3 @@
-<thinking>
-This is a form designed for a prescreen rental questionnaire, which is used to gather essential information from tenants or landlords to assess potential rental candidates. The purpose of this form is to help landlords, property managers, or rental agents evaluate a prospect's qualifications, rental preferences, and property requirements.
-This form is intended to be used when a tenant or landlord initiates a rental inquiry. Before filling out this form, ensure that you've not previously filled it out for the same rental opportunity to avoid duplication. 
-</thinking>
-
 # Prescreen Rental Questionnaire - Help Guide
 ## Purpose
 The prescreen rental questionnaire is a form used to collect crucial information about a potential tenant's background, preferences, and expectations. This information helps landlords or property managers decide whether to proceed with the rental application.

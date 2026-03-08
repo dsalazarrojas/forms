@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-To start, the "Family Background Assessment" form is intended to gather information about an individual's family history, relationships, family structure, and health background. This form is not affiliated with or endorsed by any specific form platform and is an original adaptation using public survey topic metadata.
+> To start, the "Family Background Assessment" form is intended to gather information about an individual's family history, relationships, family structure, and health background. This form is not affiliated with or endorsed by any specific form platform and is an original adaptation using public survey topic metadata.
 
 **Family Background Assessment - Help Guide**
 

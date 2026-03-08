@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assist users in understanding and applying conversion rates between different currencies. The purpose of the form is to help users practice their knowledge of currency conversions. To achieve this, the form guides users through a series of steps, allowing them to select the base currency and conversion type, input the conversion rate, and submit their answer. The form will not be used for actual monetary transactions or calculations; it's intended solely for educational purposes.</thinking>
-
 # Money Conversion Quiz - Help Guide
 ## Purpose
 The Money Conversion Quiz is a form designed to help users practice converting money between different currencies.

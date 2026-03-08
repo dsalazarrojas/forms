@@ -1,7 +1,3 @@
-<thinking>
-A form for collecting feedback on real estate counter-offer information. This form helps in providing a platform for buyers and sellers to negotiate and agree on a counter-offer. It captures relevant details such as the title of the form, the type of form, the property address, the counter-offer amount, and the deadline for accepting or rejecting the offer. The form also includes fields for comments and status updates. The purpose of this form is to facilitate a smooth and efficient counter-offer process between parties.
-</thinking>
-
 # real_estate_counter_offer_form - Help Guide
 ## Purpose
 The real_estate_counter_offer_form is designed to collect feedback on counter-offer information for real estate transactions. This form helps in streamlining the negotiation process between buyers and sellers.

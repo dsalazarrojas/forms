@@ -1,5 +1,3 @@
-<thinking>This form is intended to educate users about space debris awareness. It's a series of questions designed to test the user's knowledge and understanding of the topic. The form should only be filled out once the user has finished reading the provided information and is ready to demonstrate their understanding. This form is not designed to be a comprehensive assessment, but rather a gentle evaluation of the user's comprehension. Please confirm that you have the necessary background information before proceeding. This form is for educational purposes only and is not meant to be a timed or scored assessment. Are you familiar with the topic of space debris and ready to begin?</thinking>
-
 # Space Debris Awareness Quiz - Help Guide
 ## Purpose
 This form, "Space Debris Awareness Quiz," is designed to test your knowledge and understanding of the topic of space debris. It consists of a series of questions that cover various aspects of space debris, including its types, effects, and mitigation strategies. By completing this form, you will be able to demonstrate your comprehension of the subject matter and assess your own knowledge.

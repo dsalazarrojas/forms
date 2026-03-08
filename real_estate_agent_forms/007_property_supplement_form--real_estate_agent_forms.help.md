@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block**
-
-This form is designed to capture detailed information about a property, including ownership details, address, type, rent, and additional notes. It is intended to be used by real estate agents to supplement property records. The form is divided into several sections, each covering specific aspects of the property. The fields are designed to be straightforward and easy to understand, with clear labels and concise descriptions. The form is not intended to be a comprehensive property management system, but rather a supplementary tool to aid agents in gathering and organizing relevant property information.
-
-</thinking>
-
 # Property Supplement Form - Help Guide
 
 ## Purpose

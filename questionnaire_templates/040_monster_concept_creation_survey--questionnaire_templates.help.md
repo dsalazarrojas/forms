@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from end-users to better understand their monster concept creations and their characteristics. Please ensure that you are filling this form for the first time or if you haven't filled it in a while. If you have already completed this form and your monster concept has changed, you can update the information here.
-</thinking>
-
 # Monster Concept Creation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your monster concept and help us understand its characteristics, name, type, and other relevant details.

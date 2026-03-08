@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from footballers about their activities and medical conditions. This form is used for the management and follow-up of football activities. Each field in this form is essential for gathering the required information to provide a comprehensive assessment. This form is not meant to be filled out by people who are not footballers...</thinking>
-
 # Fitness Football Activity Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from footballers about their activities and medical conditions.

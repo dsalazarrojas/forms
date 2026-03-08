@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a questionnaire designed to assess an individual's qualifications for a position within the Air Force. It is likely a pre-employment screening form used to determine an individual's suitability for the role. The form is comprised of several sections, including personal information, education level, physical standards, medical history, and legal history. Each section is designed to collect specific types of information to help the Air Force make informed decisions about an individual's candidacy. It is possible that this form is used for both new hires and existing personnel seeking promotion or reclassification. To avoid duplication, this guide will cover the entire form in this single document.
-</thinking>
-
 # Air Force Qualification Questionnaire - Help Guide
 
 ## Purpose

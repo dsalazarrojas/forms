@@ -1,6 +1,3 @@
-<thinking>
-This form is for conducting a security risk assessment on an asset. A security risk assessment is a process to identify potential security risks to an asset and determine the necessary actions to mitigate or manage those risks. This form is to be filled out by a specific user, such as a security team member or a risk owner, to document and track the security risks of various assets. Please make sure this form is not filled out multiple times for the same asset, as this can create duplicate data. To complete this form, select all relevant information and answer all fields. If a field is not applicable or not relevant, please leave it blank.</thinking>
-
 # security_risk_assessment_questionnaire - Help Guide
 ## Purpose
 This form is for conducting a security risk assessment on an asset.

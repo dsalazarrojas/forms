@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let me clarify the purpose and relevance of this form. This form is designed to gather information about tech product development projects, specifically to assess their status, readiness, and progress. It is likely used in a business or organizational setting to track and manage project development projects. Please review the form contents and ensure you are familiar with the project details, status, and progress before filling out this form.</thinking>
-
 # Tech Product Development Assessment Form - Help Guide
 ## Purpose
 The Tech Product Development Assessment Form is a tool used to collect information about tech product development projects. It is essential to provide accurate and detailed insights into project details, status, and progress.

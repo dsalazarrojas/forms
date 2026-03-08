@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather information from the user about vehicle stop procedures, which are a critical aspect of vehicle management and maintenance. The form is intended to be used by users who need to document and track vehicle stop procedures for various categories, vehicles, or tools. To ensure the form is filled out correctly, it is essential to follow the instructions below.
-
-The form is a series of text fields and selection fields that require the user to provide descriptive information and select from a list of predefined options.
-
-Before proceeding, please note that some of the fields are not required, and you can leave them blank if they do not apply to your specific situation.
-
-Also, please ensure that you fill out the form with the correct information as it will affect the output file.
-
-This guide will walk you through each field and how to fill it out correctly to avoid any errors.
-
-</thinking>
-
 # Vehicle Stop Procedures Quiz - Help Guide
 ## Purpose
 This form is designed to gather information for vehicle stop procedures, which are essential for documenting and tracking vehicle stop procedures for various categories, vehicles, or tools.

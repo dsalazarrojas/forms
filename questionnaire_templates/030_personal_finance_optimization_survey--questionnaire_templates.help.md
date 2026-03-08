@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their personal finance habits and goals. It is intended for users who are looking to optimize their financial situation and want to provide input on their current financial habits and goals. This form is not a substitute for professional financial advice, and users should not rely solely on this form to make decisions about their finances. Users are encouraged to consult with a financial advisor or planner for personalized advice.
-
-This form has been designed to be user-friendly and easy to complete, but users are advised to carefully review their answers before submitting the form to ensure they accurately represent their financial habits and goals. If users have any questions or concerns about the form, they should contact the financial planner or advisor they are working with.
-
-</thinking>
-
 # Personal Finance Optimization Survey - Help Guide
 ## Purpose
 

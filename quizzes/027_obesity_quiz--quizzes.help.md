@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Obesity Quiz - Help Guide
 
 ## Purpose

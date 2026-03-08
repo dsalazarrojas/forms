@@ -1,12 +1,3 @@
-<thinking> 
-To determine the purpose of this form, let's analyze its fields. The form seems to be related to assessing the health of someone's hair. It asks about various aspects of hair care and treatment, such as hair problems, frequency of hair care, and usage of heat styling, hair dyes, and hair products. This is likely a survey or assessment form used by hair care professionals to understand the hair care habits of their clients or patients.
-
-To verify, let's check if there are any fields that indicate the form is not a general health assessment. However, there are no fields that suggest this form is not related to hair care. Therefore, the purpose of this form is likely to assess the health and habits of someone's hair.
-
-To ensure that this form is not a duplicate, let's check if there are any similar forms. However, without further context, it's difficult to determine if there are any identical or very similar forms. Therefore, it's safe to assume that this form is a unique assessment tool.
-
-</thinking>
-
 # Juliettes_Healthy_Hair_Consultation - Help Guide
 ## Purpose
 This form is designed to assess the health and habits of someone's hair, providing a comprehensive overview of various aspects of hair care and treatment.

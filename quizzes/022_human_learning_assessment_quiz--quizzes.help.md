@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Human Learning Assessment Quiz - Help Guide
 
 ## Purpose

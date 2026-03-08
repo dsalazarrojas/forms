@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to participate in a human reproduction quiz. This quiz is intended for general knowledge and educational purposes only. Please ensure you are taking this quiz for the right reasons and not for any commercial or malicious purposes. If you are not sure, please do not proceed with the form submission. Also, please note that some fields are required, so make sure to fill in all the necessary information accurately.
-</thinking>
-
 # Human Reproduction Quiz - Help Guide
 ## Purpose
 The Human Reproduction Quiz is a form designed to collect demographic information from individuals for educational and general knowledge purposes only. Please fill out the form accurately and honestly, and do not submit the form for any commercial or malicious purposes.

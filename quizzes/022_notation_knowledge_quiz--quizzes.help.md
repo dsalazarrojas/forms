@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the user's knowledge of notation, likely in the context of mathematics or music notation. The form is designed to be a quiz, with multiple questions that require the user to select the correct answer from a set of options or provide a short text response. The form likely serves as a tool for assessing the user's understanding of notation principles, rules, or concepts.
-</thinking>
-
 # Notation Knowledge Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to test your knowledge of notation, a system used to represent musical or mathematical information in a concise and readable format. The goal is to assess your understanding of various notation principles, rules, or concepts.

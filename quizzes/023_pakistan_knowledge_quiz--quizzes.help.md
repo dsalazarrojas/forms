@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect data from participants of a quiz, specifically for the "Pakistan Knowledge Quiz". This form is designed to gather information about the participants, including their personal details and the specifics of the quiz they took. This form is intended for internal use within an organization or educational institution, and the data collected will likely be used to analyze the performance of participants and track their progress. It is possible that the form will be used to track and compare the performance of different participants, and the data will be used to identify areas of improvement for the quiz.
-
-Before proceeding, please ensure that you are filling out the form for the correct purpose and that you are not duplicating an existing participant's entry. If you are unsure about any of the fields, please refer to this help guide for clarification.
-
-</thinking>
-
 # Pakistan Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to collect data from participants of the Pakistan Knowledge Quiz, and the information collected will be used for tracking and analysis purposes.

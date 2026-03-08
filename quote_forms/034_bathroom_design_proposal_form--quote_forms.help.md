@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bathroom Design Proposal Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>... internal review and validation checks ...
-
-This form is intended to assess an organization's readiness for cloud migration. It's crucial to ensure that the form is filled out with accurate and comprehensive information to get a correct picture of the organization's migration status. Please note that this form is not a replacement for a thorough analysis, but rather a starting point for further evaluation and discussion.
-
-To avoid duplication, please ensure that the organization has not recently filled out this form. If there have been changes to the organization's infrastructure or migration status since the last assessment, please update the information accordingly.
-
-Please fill out the form with the most up-to-date information to get a precise evaluation of your organization's cloud migration readiness...</thinking>
-
 # Cloud Migration Readiness Assessment - Help Guide
 ## Purpose
 The Cloud Migration Readiness Assessment form is designed to evaluate an organization's readiness for cloud migration. It will help identify potential challenges, constraints, and areas of improvement for a successful migration process.

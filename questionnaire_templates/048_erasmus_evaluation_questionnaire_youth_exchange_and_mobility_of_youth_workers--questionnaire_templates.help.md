@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the Erasmus+ Evaluation Questionnaire Youth Exchange And Mobility Of Youth Workers, a form designed to collect information about youth exchange programs and mobilities. The form aims to gather data on various aspects of these programs, including exchange experience, mobility type, partner organization, project length, youth exchange participants, evaluation method, project goals, project location, partner organization type, participant role, partner contact information, participant contact information, participant additional information, partner additional information, evaluation outcomes, follow-up questions, partner feedback, participant feedback, project outcomes, evaluation method, participant additional comments, partner additional comments, and follow-up questions 4.
 
 </thinking>

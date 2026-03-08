@@ -1,8 +1,6 @@
 # Mother_s_Day_Questionnaire - Help Guide
 
 ## Purpose
-<thinking>This questionnaire is designed to gather information about your relationship with your mother. It is intended to be a fun and interactive way to collect data on what your mom loves and enjoys doing. Please answer these questions with honesty and thoughtfulness, and try to have fun with it!</thinking>
-
 ## How To Complete This Form
 
 To complete this form, simply fill out the questions as they come up, and you'll be done in no time! If you need help with any of the questions, just take your time and think about it for a bit.

@@ -1,10 +1,3 @@
-<thinking>
-This guide is automatically generated based on the provided YAML input schema.
-
-This guide will explain each field in the Scientific Arabic Vocabulary Quiz form, its purpose, and how to complete it. Please refer to the following sections for more information:
-
-</thinking>
-
 # Scientific Arabic Vocabulary Quiz - Help Guide
 ## Purpose
 The Scientific Arabic Vocabulary Quiz is a form designed to test and assess your knowledge of Arabic vocabulary related to science.

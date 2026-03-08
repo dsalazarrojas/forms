@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to a project's details, location, and timeline. This form is meant for users to provide information about their project, including its type, status, budget, and priority. The form is likely used for estimating the scope and feasibility of a project. It's a general-purpose form and might not be specific to any particular use case or industry.
-This form does not seem to be duplicated or redundant in the current scope and context.
-</thinking>
-
 # Hardscape Project Estimate Request - Help Guide
 ## Purpose
 The Hardscape Project Estimate Request form is used to collect project information for estimating the scope and feasibility of a project.

@@ -1,7 +1,3 @@
-<thinking>
-Is this form intended to gather information about the equipment used in a clinic, including its type, age, and maintenance schedule? The form appears to be a comprehensive questionnaire that covers various aspects of clinic equipment, including its certification status, safety concerns, and training needs. I will use this understanding to create a user-facing help guide.
-</thinking>
-
 # Clinic Equipment Questionnaire - Help Guide
 ## Purpose
 The Clinic Equipment Questionnaire is designed to gather information about the medical equipment used in a clinic, including its type, age, and maintenance schedule. This information will help clinics assess their equipment needs and make informed decisions about maintenance, upgrades, and future purchases.

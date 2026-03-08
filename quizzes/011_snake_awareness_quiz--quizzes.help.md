@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Snake Awareness Quiz - Help Guide
 ## Purpose
 The Snake Awareness Quiz is a survey designed to test your knowledge about snakes. It consists of multiple-choice questions about various aspects of snakes, including their behavior, safety, and habitat. The quiz is intended to educate and raise awareness about snakes and their role in the ecosystem.

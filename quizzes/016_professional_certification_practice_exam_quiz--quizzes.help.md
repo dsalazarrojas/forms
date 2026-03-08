@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created by an AI to help individuals practice and improve their performance on professional certification exams. The purpose of this form is to replicate the structure and format of actual certification exams, allowing users to assess their knowledge and preparation in a realistic and immersive environment. Before starting, ensure that the form is not used for commercial purposes, such as charging money for access to it, and that it is not affiliated with or endorsed by any form platform or certification provider. This form is intended to be a free and publicly available resource for educational purposes.
-
-</thinking>
-
 # professional_certification_practice_exam_quiz - Help Guide
 ## Purpose
 This form is designed to simulate a professional certification exam experience, allowing you to practice and assess your knowledge in a format similar to actual certification exams.

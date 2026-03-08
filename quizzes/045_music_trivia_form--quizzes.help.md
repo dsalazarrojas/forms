@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # music_trivia_form - Help Guide
 
 ## Purpose

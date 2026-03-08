@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 # Team Building Questionnaire - Help Guide
 ## Purpose

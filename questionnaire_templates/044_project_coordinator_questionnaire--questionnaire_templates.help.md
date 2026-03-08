@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to collect information about project coordinators, which are individuals who assist project managers in coordinating and executing projects. The form aims to gather details about the coordinator's availability, skills, and experience to better understand their capabilities and fit for a project role. It is crucial to fill out this form accurately to ensure that we have the right information to place the right person in the right project.
-</thinking>
-
 # Project Coordinator Questionnaire - Help Guide
 ## Purpose
 The Project Coordinator Questionnaire is a form designed to collect information about project coordinators to better understand their capabilities and fit for a project role.

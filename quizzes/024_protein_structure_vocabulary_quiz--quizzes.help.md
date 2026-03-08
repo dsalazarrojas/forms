@@ -1,5 +1,3 @@
-<thinking>... internal validation: the provided YAML seems to describe a form used for classifying and describing protein structures and their properties. The purpose of this form is to gather information about the structural and functional aspects of proteins, including their types, folding, bonds, and classification categories... checking for duplication and ensuring that the explanation is concrete and practical... </thinking>
-
 # protein_structure_vocabulary_quiz - Help Guide
 ## Purpose
 The protein structure vocabulary quiz is designed to gather information about the structural and functional aspects of proteins. This guide will walk you through the purpose and requirements of each field in the form.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visa Advice Strategy Session Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from clients to assist in providing tailored visa advice and guidance for their specific travel plans. Please fill out this form to ensure that you receive the most accurate and relevant information for your immigration needs.

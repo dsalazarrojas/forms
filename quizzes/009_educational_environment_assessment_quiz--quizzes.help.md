@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Environment Assessment Quiz - Help Guide
 ## Purpose
 The Educational Environment Assessment Quiz is designed to evaluate various aspects of the educational environment, including classroom resources, safety, teaching quality, and overall satisfaction. The quiz aims to collect feedback to improve the educational experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Neck Pain Assessment Quiz - Help Guide
 ## Purpose
 The Neck Pain Assessment Quiz is designed to help individuals assess their neck pain symptoms and history. It's a helpful tool for anyone experiencing neck pain or discomfort.

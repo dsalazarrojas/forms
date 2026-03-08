@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid Questionnaire For Doctors Office - Help Guide
 
 ## Purpose

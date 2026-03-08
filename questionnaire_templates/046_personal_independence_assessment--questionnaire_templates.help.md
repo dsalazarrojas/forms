@@ -1,5 +1,3 @@
-<thinking>...The purpose of this Personal Independence Assessment form is to evaluate an individual's capacity for personal independence, which is crucial for assessing their ability to perform daily tasks and manage their daily lives. This form is designed to be completed by care providers, such as nurses or healthcare professionals, who need to assess the independence level of their clients. The form is divided into various sections that cover different aspects of personal independence, including care provider questions, client information, and submission details... </thinking>
-
 # Personal Independence Assessment - Help Guide
 ## Purpose
 The Personal Independence Assessment form is a comprehensive tool used to evaluate an individual's capacity for personal independence. It is designed for care providers to assess the independence level of their clients, helping them make informed decisions about care and support needs.

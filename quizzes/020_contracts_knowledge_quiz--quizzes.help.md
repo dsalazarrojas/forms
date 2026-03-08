@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test the participant's knowledge of contract law, covering various aspects such as contract formation, types, remedies, and advanced concepts. The questions are based on the basics of contract law, covering the essential elements of a valid contract, types of contracts, breach and remedies, and advanced concepts such as parol evidence, privity of contract, assignment of contract, and novation. The form is divided into sections to help the participant focus on specific topics and track their progress. The participant is also asked to self-assess their confidence level and identify areas where they need more study. The form is meant to be a comprehensive assessment of a participant's knowledge of contract law.
-</thinking>
-
 # Contracts Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of contract law, covering various aspects such as contract formation, types, remedies, and advanced concepts.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animator Quote Form - Help Guide
 ## Purpose
 This form is designed to help us understand your project requirements and preferences for an animation quote. Please fill out the form with accurate and detailed information to help us create the best possible animation for your project.

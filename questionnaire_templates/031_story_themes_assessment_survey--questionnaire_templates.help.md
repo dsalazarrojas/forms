@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Story Themes Assessment Survey - Help Guide
 
 ## Purpose

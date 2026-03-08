@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a property management system, and its purpose is to gather information from users about a property inquiry. The fields in this form are designed to collect contact information about the property owner, details about the property, and the type of inquiry being made. 
-</thinking>
-
 # property_inquiry_form - Help Guide
 ## Purpose
 The property inquiry form is used to gather information from users about a property inquiry. It is designed to collect contact information about the property owner, details about the property, and the type of inquiry being made.

@@ -1,10 +1,3 @@
-<thinking>
-The Estate Planning Client Questionnaire is a form designed to collect information about the client's estate planning needs and relationships. It is likely part of a process to understand the client's estate management and planning requirements. Before creating this guide, ensure that the form has been reviewed by the relevant stakeholders and that there are no existing documentation or guides that cover the same information, to avoid duplication of effort and potential confusion for users.
-
-The form includes fields for personal details (first name, last name, street address, city, state, zip code, email address, and phone number), emergency contact information (emergency contact name, emergency contact phone), next of kin details (next of kin name, next of kin phone), and relationships with key individuals (estate manager, estate manager address, estate manager phone, trustee, trustee name, trustee address, trustee phone).
-
-It is essential to understand that this form is not meant to be a comprehensive document for estate planning, but rather a tool to provide a starting point for further discussions and assessments.</thinking>
-
 # Estate Planning Client Questionnaire - Help Guide
 ## Purpose
 This form is a guide to help clients provide essential information about themselves and their relationships for estate planning purposes.

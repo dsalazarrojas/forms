@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users document and explore their automatic thoughts, emotions, and behaviors in response to challenging situations. It's an essential tool for individuals working on their mental health and wellness. Before starting, please ensure you're not filling out this form for the same situation or thought more than once. Each entry should represent a unique event or thought. When completed, this form can help users identify patterns and gain a better understanding of their thought processes, which can aid in developing strategies for improvement.
-</thinking>
-
 # Automatic Thought Observation Form - Help Guide
 ## Purpose
 

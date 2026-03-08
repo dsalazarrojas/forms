@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a questionnaire for collecting feedback on seasonal products. It is used to gather information about the user's experience with each of several seasonal products. Each product is represented by a separate page with fields for product information, rating, and recommendation.
-This guide will walk the user through the process of completing the form. Please read through each page and ensure you have answered all required fields before submitting.
-
-To prevent duplication of effort, please ensure you only complete each page once.
-</thinking>
-
 # Seasonal_inventory_feedback_questionnaire - Help Guide
 ## Purpose
 The seasonal_inventory_feedback_questionnaire is a form used to collect feedback on seasonal products.

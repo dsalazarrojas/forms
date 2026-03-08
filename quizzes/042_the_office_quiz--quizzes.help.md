@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess the skills and qualities of an individual in a work setting, specifically in an office environment. The form is intended to be completed by the individual being assessed, and the results will provide an evaluation of their strengths and areas for improvement. This form is meant to be used as a self-assessment tool, and the results should not be used as a definitive evaluation of the individual's skills without further discussion and review.
-
-To ensure the form is used correctly, please note that it is not a test or evaluation tool, and the results are for personal growth and development purposes only. If you have any doubts or concerns, please consult with the relevant personnel or a qualified professional.
-
-Please review the form carefully and ensure that you understand each section and question before completing it. If you have any questions or need clarification, please don't hesitate to reach out.
-
-The following guide will walk you through each section of the form and provide explanations of each field to help you complete it accurately.
-</thinking>
-
 # the_office_quiz - Help Guide
 ## Purpose
 The "the_office_quiz" form is designed to assess your skills and qualities in a work setting, specifically in an office environment. It is meant to be a self-assessment tool to help you identify your strengths and areas for improvement.

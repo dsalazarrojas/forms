@@ -1,13 +1,3 @@
-<thinking>
-
-As I review the provided YAML fields, I realize that the "Real Estate Survey" form is designed to collect essential information about a customer's properties, expectations, and pricing. This form is crucial in providing a comprehensive understanding of the customer's needs, enabling a more personalized and efficient service delivery.
-
-Before filling out the form, it's essential to understand that the form is divided into several sections, each containing specific fields that require different types of information. To avoid duplication of efforts, ensure you fill out the form in the order of the sections provided.
-
-The form is meant to be completed by a single person, hence ensuring that each field is filled out thoroughly and accurately reflects the customer's situation.
-
-</thinking>
-
 # Real Estate Survey - Help Guide
 ## Purpose
 The Real Estate Survey form is designed to collect information about a customer's properties, expectations, and pricing. This form will help us better understand the customer's needs and provide a more personalized and efficient service.

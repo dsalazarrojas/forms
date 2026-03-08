@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's event styling preferences and recommendations from a stylist. It is intended for internal use within a business or organization, and the collected data will likely be used to inform future event styling decisions. Before proceeding, please ensure that you have the necessary permissions to collect and use this type of information. Additionally, double-check that this form does not duplicate any existing forms in your organization.
-</thinking>
-
 # red_saree_styling_advice_request - Help Guide
 ## Purpose
 This form is designed to collect information about a client's event styling preferences and recommendations from a stylist.

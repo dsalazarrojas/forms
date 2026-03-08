@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information about a real estate property, specifically an "open house" - a property that is being offered for sale or rent. This form is intended for agents and stakeholders involved in the real estate industry to gather data about the property's details, such as its address, lot number, property type, year built, square footage, and more. This information will be used to track and manage open houses effectively.
-
-Before proceeding, ensure that the form is not a duplicate or unnecessary submission. Each field should be filled in with accurate and relevant information.
-
-</thinking>
-
 # Open House Checklist - Help Guide
 ## Purpose
 The Open House Checklist is a form designed to collect and track information about a real estate property, specifically an open house. This form is intended for agents and stakeholders in the real estate industry to gather data about the property's details.

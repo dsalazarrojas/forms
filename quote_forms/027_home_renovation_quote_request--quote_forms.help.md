@@ -1,7 +1,3 @@
-<thinking>
-This form was created for clients who are looking to get a quote for their home renovation project. The form should only be filled out by people with a legitimate need for a quote, and not by people who are simply testing the system or trying to collect information for other purposes. This form is designed to collect necessary information for the quote process, and filling it out will allow our team to get in touch with the client to discuss their project further. Please make sure to fill out this form with accurate information to get the best possible service.
-</thinking>
-
 # Home Renovation Quote Request - Help Guide
 ## Purpose
 This form is for homeowners who are looking to get a quote for their home renovation project. Please fill out this form to provide us with the necessary information to get started.

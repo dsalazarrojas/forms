@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's review its properties:
-
-* The form is titled "large_format_printing_estimate_request_form".
-* It appears to be a request form for printing estimates related to project information.
-* Each field suggests specific aspects of project requirements, such as project description, print size, material type, quantity, deadline, production method, and other details.
-* The presence of fields like contact email, contact phone, and project manager suggests that this form is used for communicating with project managers or team members.
-* There are no duplicate fields in the form, which indicates that it's a single-purpose form for a specific task.
-
-</thinking>
-
 # large_format_printing_estimate_request_form - Help Guide
 ## Purpose
 

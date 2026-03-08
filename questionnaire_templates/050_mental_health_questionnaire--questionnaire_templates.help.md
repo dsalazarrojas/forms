@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used for mental health assessments. It is not intended for individuals who are in immediate crisis or emergency situations. Please reach out to mental health resources such as the National Suicide Prevention Lifeline (1-800-273-8255) or the Crisis Text Line (text "HOME" to 741-741-6789) if you are experiencing severe distress or suicidal thoughts.
-
-The form is not intended to diagnose or treat mental health conditions. This form is for general mental health assessment purposes only.
-
-This form has been designed to assess mental health symptoms. Please answer all questions honestly, and do not overthink or overanalyze your answers. This form is for your mental health information only, and will not be used for other purposes.
-
-</thinking>
-
 # Mental Health Questionnaire - Help Guide
 ## Purpose
 This mental health questionnaire is designed to assess your mental health symptoms and provide a general understanding of your mental well-being.

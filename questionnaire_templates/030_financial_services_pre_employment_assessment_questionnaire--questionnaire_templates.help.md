@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to be a pre-employment assessment questionnaire for financial services professionals. It is meant to help candidates demonstrate their understanding of various financial concepts and terminology, and to assess their suitability for a role in the financial services industry. The form consists of 22 questions that cover different aspects of financial services, including markets, products, and services.
 
 Before starting, please ensure that you have a clear understanding of the questions and the options provided. It is essential to answer each question accurately and honestly, as your responses will be used to evaluate your knowledge and experience in the financial services industry.

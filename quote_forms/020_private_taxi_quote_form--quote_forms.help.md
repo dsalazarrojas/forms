@@ -1,7 +1,3 @@
-<thinking>
-Internal purpose of this form is to collect information for a private taxi quote. The user is expected to provide details regarding their private taxi requirements for pickup and drop off points, estimated duration, and assigned taxi driver. This form should be filled out by authorized personnel only, and any duplication or incorrect submissions should be avoided. 
-</thinking>
-
 # private_taxi_quote_form - Help Guide
 ## Purpose
 This form is used to provide details for a private taxi quote.

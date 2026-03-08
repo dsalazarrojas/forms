@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey designed to measure users' opinions and behaviors related to Earth Day. It's essential to complete this form honestly, as the collected data will be used to understand people's attitudes and actions towards environmental conservation. Please note that the form has multiple pages, and you'll be asked to provide information in each page before proceeding to the next one. The form is not a formal assessment, and your responses will not be evaluated on a scoring system. This form is designed to be completed by users of all ages and abilities, and your participation is greatly appreciated.
-</thinking>
-
 # Earth Day Quiz - Help Guide
 ## Purpose
 

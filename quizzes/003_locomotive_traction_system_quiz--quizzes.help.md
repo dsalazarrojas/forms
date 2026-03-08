@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information for the locomotive traction system quiz, which is likely used for evaluating or assessing the locomotive traction system's performance, maintenance, and design requirements. 
-The form collects data on different aspects of the locomotive traction system, including its types, driveshafts, drive units, gearing, and other related parameters. It seems that this form is intended for a specific industry or field like engineering or manufacturing. The form's purpose is not entirely clear without further context, but it appears to be a structured questionnaire to gather information on locomotive traction systems. 
-Please note that the form does not seem to be a simple, straightforward questionnaire. It has multiple fields with various types (text, select_multiple, select_one), which might indicate that the form is used for more in-depth analysis or assessment. 
-
-</thinking>
-
 # locomotive_traction_system_quiz - Help Guide
 ## Purpose
 The locomotive traction system quiz is designed to collect information on the performance, maintenance, and design requirements of the locomotive traction system.

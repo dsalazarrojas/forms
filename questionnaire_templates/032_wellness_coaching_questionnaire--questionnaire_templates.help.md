@@ -1,8 +1,3 @@
-<thinking>
-This form is a Wellness Coaching Questionnaire, designed to collect personal and medical information from users. This form is intended to be completed by individuals seeking wellness coaching services. To ensure that you are the right user for this form, please verify that you are a healthy individual seeking wellness coaching and not a medical professional or organization seeking to collect data for another purpose. Also, please note that this form should not be completed by individuals with sensitive medical conditions or concerns.
-To prevent duplication or errors, please do not fill out this form more than once.
-</thinking>
-
 # Wellness Coaching Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect personal and medical information from users for the purpose of providing wellness coaching services.

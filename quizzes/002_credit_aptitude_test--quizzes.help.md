@@ -1,16 +1,3 @@
-<thinking>
-To create an effective user-facing help guide, we need to understand the form's purpose and requirements. Let's review the provided YAML data.
-
-This form appears to be a Credit Aptitude Test, designed to evaluate users' knowledge on various aspects of credit. The form consists of multiple questions with select_one and select_multiple options, as well as text fields for answers. Each question seems to be related to credit-related concepts such as credit instruments, risk, scoring, and the purpose of scoring.
-
-The form doesn't specify any prerequisites or requirements for completion, but it does have a few things to consider when filling it out. For example, some questions are marked as 'select_one' or 'select_multiple', meaning the user needs to choose one or multiple options. Other questions have a 'text' field, where the user needs to enter a free-form answer.
-
-The user should be aware that some questions are not required, which means they can be skipped or left blank if the user is unsure or doesn't want to answer. However, it's essential to note that this form is likely designed to be completed by users who have some basic knowledge of credit and finance concepts.
-
-Before proceeding, let's review the form's content again to ensure we cover all the essential points. This will help us create a comprehensive user-facing help guide that is clear, concise, and practical.
-
-</thinking>
-
 # Credit Aptitude Test - Help Guide
 ## Purpose
 The Credit Aptitude Test is designed to evaluate your knowledge on various aspects of credit, including credit instruments, risk, scoring, and the purpose of scoring.

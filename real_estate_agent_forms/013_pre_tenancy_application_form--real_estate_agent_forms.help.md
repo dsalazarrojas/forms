@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information, employment details, rental history, and rental preferences from individuals applying to be a tenant for a real estate property. This form is designed to gather the necessary information to evaluate the applicant's qualifications and suitability for tenancy. Before completing this form, please ensure that you have the required information readily available and that you are submitting accurate and truthful data. To avoid duplication of effort, please do not submit multiple applications if you have already submitted one.
-</thinking>
-
 # Pre Tenancy Application Form - Help Guide
 ## Purpose
 The Pre Tenancy Application Form is a comprehensive document designed to collect essential information from individuals applying to be a tenant for a real estate property. This form helps the landlord or property manager to assess the applicant's eligibility and suitability for tenancy.

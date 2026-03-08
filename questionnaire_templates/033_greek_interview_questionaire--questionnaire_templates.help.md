@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Greek Interview Questionaire - Help Guide
 
 ## Purpose

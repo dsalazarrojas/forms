@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect user input for an engineering calculus quiz. The purpose of this form is to gather information from users about their knowledge and understanding of calculus concepts. The form is divided into several sections, each containing multiple questions related to engineering calculus. The form is intended to be completed by individuals with a background in engineering or a related field, and it is expected that users will have a good understanding of calculus concepts.
-
-Before proceeding, please check that you have a good understanding of the concepts related to the questions asked in this form. If you are unsure about any of the questions, it is recommended to review the relevant calculus concepts before attempting to complete this form.
-
-This form is not intended for beginners, and it is expected that users will have a good grasp of calculus fundamentals.
-
-Please make sure to answer all the questions to the best of your ability, and if you need help or clarification on any of the questions, do not hesitate to ask.
-
-This form is a simulation of a real-world engineering calculus quiz. Your answers will be used to assess your knowledge and understanding of calculus concepts.
-
-Before submitting your answers, please review them carefully to ensure they accurately reflect your understanding of the questions asked.
-</thinking>
-
 # engineering_calculus_quiz - Help Guide
 ## Purpose
 This form is designed to collect user input for an engineering calculus quiz.

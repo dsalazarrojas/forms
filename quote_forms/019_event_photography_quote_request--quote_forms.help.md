@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block ...
-
-The purpose of this form is to collect information about an event's details, such as the event date, time, location, and type, to enable the photographer to provide a quote for their services. The form will help event organizers to quickly and accurately provide the essential details required for a quote, and it will serve as a reference point for the photographer to understand the specifics of the event.
-
-... </thinking>
-
 # Event Photography Quote Request - Help Guide
 
 ## Purpose

@@ -3,10 +3,6 @@
 
 This help guide is for the <b>hepatic_health_knowledge_quiz</b> form. This form is designed to assess your knowledge on hepatic health, a crucial aspect of overall bodily functions.
 
-<thinking>
-The purpose of this form is to evaluate your understanding of the liver's role, risks associated with liver disease, and how to maintain healthy living habits. It is recommended that users complete this form to gauge their knowledge on this topic without feeling rushed or obligated to submit. If you've already taken this form, please do not retake it.
-</thinking>
-
 ## How To Complete This Form
 
 1. Answer each question carefully, and provide a brief response to each question.

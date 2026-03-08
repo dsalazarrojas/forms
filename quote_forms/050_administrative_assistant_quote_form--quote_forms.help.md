@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for clients to request and submit their needs and requirements for administrative services. It should only be used for this specific purpose to ensure accurate and relevant information is captured for quoting and billing. Please do not submit non-quote requests or sensitive data. This form will not be used for any other purpose than to generate a quote for the client.
-
-</thinking>
-
 # Administrative Assistant Quote Form - Help Guide
 ## Purpose
 This form is used to request and submit quotes for administrative services. Please fill it out carefully to provide all required information for a comprehensive quote.

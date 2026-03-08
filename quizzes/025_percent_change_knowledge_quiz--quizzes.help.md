@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's knowledge on percent change. The purpose of this form is to assess the user's understanding of percent change, which is a crucial concept in various fields such as finance, economics, and statistics. The form will guide the user through a series of questions that cover different aspects of percent change, including whether it increases, decreases, or is unknown, and the values associated with these changes. 
-
-This form should only be completed if the user has a basic understanding of percent change and is able to provide accurate answers. If the user is unsure about any of the questions, it's best to review the basics of percent change before attempting to complete this form.
-
-</thinking>
-
 # Percent Change Knowledge Quiz - Help Guide
 ## Purpose
 The percent change knowledge quiz is designed to assess your understanding of percent change. This quiz will guide you through a series of questions that cover different aspects of percent change, including whether it increases, decreases, or is unknown, and the values associated with these changes.

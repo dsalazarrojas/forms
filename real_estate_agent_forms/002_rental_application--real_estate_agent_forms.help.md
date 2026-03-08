@@ -1,6 +1,3 @@
-<thinking>
-A form for potential renters to provide information about themselves, their desired living situation, and their current employment/financial situation. This form helps landlords or real estate agents assess potential renters' qualifications and determine the feasibility of renting them a property. 
-</thinking>
 # Rental Application - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...The form is designed to assess a user's understanding and perception of safety symbols or icons used to warn or caution users about potential hazards or dangers. This guide will help users understand the purpose of the form, how to complete it, and what each field represents in order to provide accurate and consistent assessments. This will help ensure that users are using the correct safety symbols in their workplace or environment...</thinking>
-
 # Safety Symbols Assessment - Help Guide
 ## Purpose
 The Safety Symbols Assessment form is used to evaluate a user's understanding and perception of safety symbols or icons used to warn or caution users about potential hazards or dangers.

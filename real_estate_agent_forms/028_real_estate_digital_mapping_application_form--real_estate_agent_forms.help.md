@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Digital Mapping Application Form - Help Guide
 ## Purpose
 This form is designed for real estate agents to provide detailed information about properties they would like to list on our digital mapping application. The form is used to collect relevant data about the property, including its address, type, size, price, and location, as well as contact information and project details. The purpose of this form is to ensure that all required information is accurately captured and easily accessible for our team to process and update the property listings.

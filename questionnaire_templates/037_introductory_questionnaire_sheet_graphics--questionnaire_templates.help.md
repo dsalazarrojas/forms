@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about graphic-related settings for a specific project. The form has 25 fields, each with a specific label and type. The fields are organized into two main categories: introduction and graphics settings. The introduction section likely provides a brief overview of the project, and the graphics settings section is where you'll find the more detailed settings for the graphics.
-The fields in this form are mostly related to the type of graphic work (web, print, video), the format and resolution of the output, the color mode and paper type, and other relevant settings. It's likely used for design or print-related projects.
-This form is intended to be filled out by someone with knowledge of graphic design or related fields. Some fields are marked as required, meaning that they need to be filled out for the project to be valid.
-</thinking>
-
 # introductory_questionnaire_sheet_graphics - Help Guide
 ## Purpose
 This form is designed to collect information about graphic-related settings for a specific project.

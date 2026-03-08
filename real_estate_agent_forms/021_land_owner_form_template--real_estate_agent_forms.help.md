@@ -1,7 +1,3 @@
-<thinking> 
-This form template is designed to collect information from land owners, specifically for real estate agents or professionals. It's an AI-generated form created using public survey topic metadata and is not affiliated with any form platform. The form is meant to gather various pieces of information about a property and its owner, including land owner details, property specifics, contact information, agreement details, photos, and signatures. This form is a template and can be used, modified, and even sold with proper credit given. If you need to modify or create a similar form for your needs, contact [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # Land Owner Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from land owners, including their contact details, property specifics, and agreement information. It's meant to be used by real estate agents or professionals to gather necessary data for their business needs.

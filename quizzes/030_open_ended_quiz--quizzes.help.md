@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # open_ended_quiz - Help Guide
 ## Purpose
 The "open_ended_quiz" form is designed to collect open-ended responses to questions, likely for a survey or research context. It is created to gather qualitative feedback or answers that require more in-depth explanations.

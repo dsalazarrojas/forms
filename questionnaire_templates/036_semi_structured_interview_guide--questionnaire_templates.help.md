@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a Semi Structured Interview Guide for conducting interviews with participants. The purpose of this form is to gather information on the participant's background, their background and history with the company, and any follow-up questions that the interviewer should be prepared to answer. The form is designed to provide a clear and structured approach to conducting interviews, allowing the interviewer to gather accurate and relevant information.
-</thinking>
-
 # Semi Structured Interview Guide - Help Guide
 ## Purpose
 The Semi Structured Interview Guide is a tool used to gather information from participants through a structured and clear approach. The form is designed to guide the interviewer in gathering relevant information and taking notes during the conversation.

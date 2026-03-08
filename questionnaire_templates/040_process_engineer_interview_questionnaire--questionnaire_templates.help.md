@@ -1,7 +1,3 @@
-<thinking>
-  This guide is intended to help users understand the Process Engineer Interview Questionnaire form. Before completing this form, ensure that you are eligible to participate in a Process Engineer interview. The questionnaire is designed to gather information about your background, experience, and qualifications. Please answer all the questions honestly, and provide as much detail as possible. If you have any questions or concerns, please reach out to the hiring manager for clarification.
-</thinking>
-
 # Process Engineer Interview Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from candidates applying for a Process Engineer position. It's essential to answer all the questions accurately and completely to help the hiring manager assess your qualifications and experience.

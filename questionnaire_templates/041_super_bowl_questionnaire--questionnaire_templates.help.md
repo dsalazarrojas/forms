@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, we can see that it is related to a sports-related event, likely the Super Bowl. The fields are mostly related to game details like attendance, game time, score, teams, game type, and other relevant information. Given the options available, it is possible that this form is meant for tracking or logging Super Bowl-related data.
-</thinking>
-
 # Super Bowl Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect data related to the Super Bowl. It can be used to track various aspects of the game, such as attendance, scores, and game details.

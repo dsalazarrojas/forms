@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their earned income tax credit (EITC) eligibility and benefits. It is intended to help the tax credit agency determine the client's EITC status for the 2018 tax year. This form should only be used for tax years 2018 and onwards. Ensure that you have the most up-to-date information before filling out this form. If you have previously completed an EITC form, please do not duplicate your effort. This form can be used for tax credits earned in 2018 or later.
-</thinking>
-
 # Earned Income Tax Credit (EITC) Client Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from clients about their earned income tax credit (EITC) eligibility and benefits for the 2018 tax year.

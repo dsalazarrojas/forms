@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hydrophilic Vs Hydrophobic Quiz - Help Guide
 ## Purpose
 The Hydrophilic Vs Hydrophobic Quiz is designed to help you understand the difference between hydrophilic and hydrophobic materials. Hydrophilic materials are those that attract water, while hydrophobic materials are those that repel water. This quiz will guide you through examples and questions to help you determine which category a material falls under.

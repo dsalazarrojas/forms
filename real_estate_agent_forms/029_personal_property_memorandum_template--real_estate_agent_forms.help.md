@@ -1,10 +1,3 @@
-<thinking>
-To create a helpful and relevant user guide for the "personal-property-memorandum-template" form, I need to ensure that the form's purpose and each field's explanation is clearly understood by end-users. This form is used to document and describe a personal property, which is a critical task for real estate agents and other professionals in the industry. The form's purpose is to gather information about a property, including its address, type, size, and location.
-
-Before creating the guide, I reviewed the form's structure and content to identify any potential issues, such as unclear field labels or missing descriptions. After examining the form, I noticed that some field labels are quite generic, but I'll do my best to provide clear and concise explanations.
-
-</thinking>
-
 # personal-property-memorandum-template - Help Guide
 ## Purpose
 

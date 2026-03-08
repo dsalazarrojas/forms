@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ladder Safety Quiz - Help Guide
 ## Purpose
 The Ladder Safety Quiz is designed to assess an individual's knowledge and behavior regarding ladder safety practices. This quiz is meant to be taken by users before using ladders, ensuring they are aware of the necessary precautions and procedures to safely climb and descend ladders.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential customers who are interested in getting a quote for a vehicle purchase or trade-in from a car dealership. This form helps the dealership understand the customer's requirements, preferences, and budget to provide a personalized quote. By filling out this form, the customer can provide necessary details about themselves and the vehicle they are interested in, which will help the dealership prepare an accurate quote. This form is not meant to be filled out by the dealership's staff, but rather by potential customers who are requesting a quote. Please fill out this form carefully and accurately to ensure the dealership has the necessary information to provide the best quote for you.
-</thinking>
-
 # Car Dealership Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential customers who are interested in getting a quote for a vehicle purchase or trade-in from a car dealership. By filling out this form, you'll provide the dealership with the necessary details to prepare an accurate quote for you.

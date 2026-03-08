@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Step 4 Resentments Inventory - Help Guide
 
 ## Purpose

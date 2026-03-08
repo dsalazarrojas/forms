@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Discovery Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather essential information from potential leads to help our sales team better understand their requirements and needs. It will help to identify the priority level of the lead, their buying context, and other important details that can aid in making informed sales decisions.

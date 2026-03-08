@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is designed to assess a user's knowledge and understanding of a subject by presenting them with multiple-choice questions. The form has different types of questions including text questions, select one questions, select multiple questions, date questions, time questions, email questions, and phone questions. The form is intended to be completed by users who are likely individuals taking an assessment or test. The form is not intended for multiple selections or open-ended answers. The form is intended to be used for one-time assessments, although the possibility of multiple uses cannot be ruled out.</thinking>
-
 # Online MCQ Assessment - Help Guide
 
 ## Purpose

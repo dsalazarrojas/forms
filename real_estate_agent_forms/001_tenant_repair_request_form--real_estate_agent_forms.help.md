@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from tenants to request repair services for their rented property. The purpose of this form is to ensure that tenants can report any issues or problems they encounter in their leased property, providing the property manager with the necessary information to address these issues efficiently.
-To avoid duplication of repair requests, the form should only be submitted if the issue has not been reported previously.
-</thinking>
-
 # Tenant Repair Request Form - Help Guide
 ## Purpose
 The Tenant Repair Request Form is designed to allow tenants to report any issues or problems they encounter in their rented property. This form will be reviewed by the property manager, who will then address the repair request accordingly.

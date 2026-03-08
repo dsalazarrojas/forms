@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gather information for a quote from an auditor, including details about the client, the audit scope, and the proposed services and timeline. The form is used to generate a quote for the auditor's services, which will be used to secure a job. The form should be completed only once for each quote, and the information should not be duplicated or submitted multiple times. Before filling out the form, ensure that all the necessary information is accurate and complete, as this will ensure a clear and accurate quote is generated.
 
 # Auditor Quote Form - Help Guide

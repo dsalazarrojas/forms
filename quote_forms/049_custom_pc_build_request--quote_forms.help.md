@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to request a custom PC build. It's intended for users who are interested in creating a personalized computer configuration according to their specific needs. This form is typically used by customers or users who want to provide details about their custom PC build requirements. 
-
-To determine if this form is relevant to you, please consider the following:
-- Are you looking to create a custom PC build?
-- Are you already familiar with the options listed in this form (e.g., CPU, motherboard, graphics, RAM, storage)?
-- Do you have specific requirements or preferences for your custom PC build?
-If the answer is yes, then this form is likely relevant to you. If not, then you might want to consider using a different form.
-
-Please note that if you have already submitted a similar request, you may not need to fill out this form again. If you're unsure, feel free to ask our support team for guidance.
-</thinking>
-
 # custom_pc_build_request - Help Guide
 
 ## Purpose

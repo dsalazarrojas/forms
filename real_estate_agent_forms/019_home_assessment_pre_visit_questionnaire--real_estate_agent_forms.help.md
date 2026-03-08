@@ -1,7 +1,3 @@
-<thinking>
-To create a help guide for the "Home Assessment Pre Visit Questionnaire" form, I'll follow the provided YAML structure and provide a clear and concise explanation of each field.
-</thinking>
-
 # Home Assessment Pre Visit Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from homeowners before an assessor visits their property. The goal is to gather essential details about the property and the contact information to facilitate a smooth and efficient assessment process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form helps organizations and individuals in the jewelry industry assess their conflict-free sourcing practices, identify areas of improvement, and create a plan to source materials without conflicts, such as child labor, forced labor, or environmental concerns. It's essential to fill out this form honestly and thoroughly to get a comprehensive audit report.
 
 </thinking>

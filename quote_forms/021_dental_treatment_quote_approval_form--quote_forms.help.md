@@ -1,10 +1,3 @@
-<thinking> 
-We are creating a help guide for the "dental_treatment_quote_approval_form" form, which is used to obtain a quote for dental treatment. This form is a critical part of the patient's treatment process and requires careful completion to ensure that all necessary information is collected and approved.
-
-Before proceeding with this form, please ensure that you are not duplicating work or providing unnecessary quotes. The form is designed for single quotes, and any existing quotes for the same treatment should be closed before creating a new one. If you are unsure, please consult your supervisor or the treatment coordinator for guidance.
-
-</thinking>
-
 # dental_treatment_quote_approval_form - Help Guide
 ## Purpose
 The dental treatment quote approval form is used to create and manage quotes for dental treatments. This form captures all the necessary information for the quote, including patient details, treatment plans, and approval status.

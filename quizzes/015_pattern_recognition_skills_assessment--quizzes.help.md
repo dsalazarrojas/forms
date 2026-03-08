@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to assess the pattern recognition skills of candidates. It is likely used in the context of hiring or evaluation processes to gauge a candidate's ability to recognize patterns. The form's layout and fields suggest that it is designed to collect multiple-choice answers from the candidate, as well as demographic information such as email address and phone number. This form may be used by HR personnel or hiring managers to evaluate candidates based on their response patterns.
-
-The purpose of this guide is to provide clear instructions on how to complete this form, which seems to be a multiple-choice assessment for pattern recognition skills.
-
-To complete this form, the candidate will be presented with a series of questions, each of which is a multiple-choice question or an open-ended text field. The candidate will be asked to choose an option or provide a text response to each question.
-
-Below is a field-by-field explanation of each section:
-
-</thinking>
-
 # Pattern Recognition Skills Assessment - Help Guide
 ## Purpose
 The Pattern Recognition Skills Assessment is a tool used to evaluate the ability of candidates to recognize patterns in various contexts. This form will help us understand your capacity for pattern recognition, which is an essential skill in many professional settings.

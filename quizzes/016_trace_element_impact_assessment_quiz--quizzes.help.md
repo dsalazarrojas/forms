@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # trace_element_impact_assessment_quiz - Help Guide
 
 ## Purpose

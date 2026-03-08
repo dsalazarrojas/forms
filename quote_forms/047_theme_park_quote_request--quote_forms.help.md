@@ -1,10 +1,3 @@
-<thinking> 
-To create a comprehensive user-facing help guide for the "theme_park_quote_request" form, we need to ensure that end-users understand the form's purpose, how to complete it, and what each field means. 
-
-The form is designed to capture details about a theme park visit, including event information, guest numbers, visit schedule, special requests, and contact information. The primary purpose of this form is to collect relevant data from users to facilitate theme park operations, such as planning and resource allocation. This form might be used internally within the theme park management system, or it could be shared with external partners or service providers.
-
-It is essential to ensure that the form is completed accurately and consistently to avoid errors and ensure that the provided data is usable for the intended use case. Therefore, we need to clearly explain the purpose and the expected outcome of the form to guide the users in filling it out correctly.</thinking>
-
 # theme_park_quote_request - Help Guide
 ## Purpose
 The theme_park_quote_request form is designed to collect information about a theme park visit, allowing the park management to prepare for the event, plan resources, and allocate staff accordingly. Please fill out the form accurately to help us better serve you during your visit.

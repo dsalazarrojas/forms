@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Ceremony Script Questionnaire - Help Guide
 
 ## Purpose

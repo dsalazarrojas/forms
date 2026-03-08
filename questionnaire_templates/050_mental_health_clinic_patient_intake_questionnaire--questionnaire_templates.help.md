@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from patients for a mental health clinic. It covers various aspects of a patient's demographics, medical history, and personal circumstances. The form is not affiliated with any form platform and is an original adaptation of public metadata. You are free to use, modify, and distribute it, and even sell forms derived from it - just give credit. Contact form@gic.mx for any inquiries.</thinking>
-
 # Mental Health Clinic Patient Intake Questionnaire - Help Guide
 ## Purpose
 The Mental Health Clinic Patient Intake Questionnaire is designed to collect comprehensive information from patients to aid mental health professionals in understanding their medical history, circumstances, and needs.

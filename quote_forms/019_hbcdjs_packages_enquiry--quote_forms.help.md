@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hbcdjs Packages Enquiry - Help Guide
 
 ## Purpose

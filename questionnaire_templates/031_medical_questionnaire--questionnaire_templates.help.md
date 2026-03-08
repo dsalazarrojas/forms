@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect medical information from clients, including their age, health status, medical condition, and other relevant details. It is crucial to ensure that the form is filled in correctly and consistently, as the information collected will be used to provide accurate and effective medical care. To avoid duplication of effort, please ensure that you do not fill out this form if you have already provided similar information to another medical professional or institution.
-</thinking>
-
 # Medical Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect medical information from clients, including their age, health status, medical condition, and other relevant details.

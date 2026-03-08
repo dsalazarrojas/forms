@@ -1,5 +1,3 @@
-<thinking> The purpose of this form is to collect information from potential tenants for property management purposes. This form will be used to gather data on the tenant's demographic information, employment status, income, and lease requirements. The form is intended to help property managers evaluate potential tenants and make informed decisions. Before starting to fill out this form, please note that all fields marked as 'required' are crucial for a successful application. This form has multiple pages, and each page has a unique fieldset. Please ensure you have all necessary information before proceeding. This guide will walk you through each page and field in a step-by-step manner.</thinking>
-
 # Tenant Application Form - Help Guide
 
 ## Purpose

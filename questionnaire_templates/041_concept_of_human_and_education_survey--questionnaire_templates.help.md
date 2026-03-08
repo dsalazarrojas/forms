@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Concept Of Human And Education Survey - Help Guide
 
 ## Purpose

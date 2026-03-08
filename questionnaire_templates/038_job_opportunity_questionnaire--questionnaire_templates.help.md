@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help users provide detailed information about a job opportunity. By filling out this form, users can showcase their professional experience, skills, and contact information to increase their chances of being considered for job openings. 
-The form is divided into several sections, each asking a different type of information. Some fields are required while others are optional, depending on the specific job opening.
-The goal is to provide a comprehensive overview of the job opportunity, which can be used by hiring managers to evaluate the applicant's qualifications and fit for the position.
-
-Please ensure that you have reviewed the information carefully and filled out the form accurately. If you have any questions or concerns, please do not hesitate to contact us.
-
-</thinking>
-
 # Job Opportunity Questionnaire - Help Guide
 ## Purpose
 The Job Opportunity Questionnaire is designed to help users showcase their job opportunities and increase their chances of being considered for a position.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a move-in inspection of a rental property, specifically for holiday homes. The purpose is to ensure that the property is in a condition that is satisfactory for the tenant to move in. The form will be used by the property manager to conduct the inspection and document the findings. It's essential to ensure that the form is completed accurately and thoroughly to avoid any potential disputes or issues that may arise during or after the tenancy. This is a one-time form and should not be duplicated.
-</thinking>
-
 # Move In Inspection Form Holiday Homes - Help Guide
 ## Purpose
 The Move In Inspection Form Holiday Homes is a document used to inspect and document the condition of a rental property before a tenant moves in. This form helps to ensure that the property is in a satisfactory condition for the tenant and helps to prevent any potential disputes or issues that may arise during or after the tenancy.

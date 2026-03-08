@@ -1,9 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information related to a divorce filing, allowing individuals to provide details about their marital status, divorce dates and times, properties, children, and other relevant factors. This form is designed to be a comprehensive and standardized way to collect this information, making it easier for users to provide accurate and consistent data.
-
-Before starting this form, please ensure that you have the necessary information and documents required for a divorce filing in your jurisdiction. This form is intended for informational purposes only and should not be used as a substitute for legal advice. If you are unsure about any of the fields or have specific questions, please consult a legal professional.
-
-</thinking>
 # Divorce Filing Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about a divorce filing, including details about the marriage, properties, children, and other relevant factors. The form is used to provide a comprehensive and standardized way to collect data for divorce filings.

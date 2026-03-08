@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about their interests and preferences related to a healing arts workshop. The form will help us better understand their needs and tailor the workshop content to cater to their interests. This survey is not intended to be a binding agreement, and users can withdraw their interest at any time.
-
-</thinking>
-
 # Healing Arts Interest Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your interests and preferences related to our healing arts workshop. Your input will help us tailor the workshop content to better meet your needs.

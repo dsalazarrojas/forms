@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketing Needs Assessment Form - Help Guide
 
 ## Purpose

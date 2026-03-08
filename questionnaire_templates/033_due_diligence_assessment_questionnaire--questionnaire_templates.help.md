@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Due Diligence Assessment Questionnaire - Help Guide
 ## Purpose
 The Due Diligence Assessment Questionnaire is designed to provide a structured framework for assessing a potential business partner or entity's due diligence process, financial standing, and legal compliance. This form helps to identify potential risks and areas of concern for investors, partners, or stakeholders.

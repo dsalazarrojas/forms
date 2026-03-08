@@ -1,13 +1,3 @@
-<thinking>
-
-The Enterprise Financinq Questionnaire is designed to gather information about a user's financial situation and preferences for a loan or investment proposal. This form is used to assess the user's eligibility and suitability for a particular financial product or service. The form is divided into several sections that ask for specific details about the user's company and financial situation. 
-
-Before filling out this form, please ensure you have all the necessary information available and that you are answering the questions truthfully. 
-
-If you have already filled out this form, you may not need to do so again, so please only fill it out once.
-
-</thinking>
-
 # Enterprise Financinq Questionnaire - Help Guide
 ## Purpose
 The Enterprise Financinq Questionnaire is designed to help us understand your financial situation and preferences for a loan or investment proposal. Please answer the questions accurately and completely to help us assess your eligibility and suitability for our financial products and services.

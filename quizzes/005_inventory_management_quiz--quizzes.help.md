@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about inventory management, a crucial process for businesses that involves tracking and controlling the stock levels of goods and materials. This form is designed to help users understand various aspects of inventory management, including its purpose, frequency, process, and tools. This form should only be completed by users who are familiar with basic inventory management concepts and terminology. To ensure consistency, please do not complete this form if you are new to inventory management. If you are unsure about any question, please ask your supervisor or colleague for guidance.
-</thinking>
-
 # inventory_management_quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge and understanding of inventory management concepts. It will assess your ability to answer questions related to inventory management, including its purpose, frequency, process, and tools.

@@ -1,13 +1,3 @@
-<thinking>
-
-To create the most effective and user-friendly help guide for the "Dog School Pre Consult Questionnaire Template", we need to consider the following key points:
-
-*   The form is designed to collect essential information about pet owners and their dogs, which will be used in a pre-consultation meeting.
-*   The form is divided into several sections, each focusing on different aspects of the owner's and dog's details.
-*   The form fields should be explained clearly and concisely to ensure users understand what to expect and how to complete it correctly.
-
-</thinking>
-
 # Dog School Pre Consult Questionnaire Template - Help Guide
 ## Purpose
 The Dog School Pre Consult Questionnaire Template is designed to gather information from pet owners before a pre-consultation meeting to discuss their dog's health, training, and behavioral concerns. This form aims to ensure that all relevant details are collected, enabling the consultant to provide the best possible guidance for the dog's well-being.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from tenants about their rental application. It's meant to be completed by individuals applying to rent a property. The form is divided into several sections, each asking for different types of information, including tenant information, contact information, rental history, employment status, and lease details. The form is likely used by property managers or landlords to assess the suitability of a potential tenant.
-
-The fields are mostly dropdown menus or text fields, with a mix of required and optional fields. Some fields ask for multiple selections, while others are single selections. The form's purpose is to gather enough information to make an informed decision about the rental application.
-
-To the best of my knowledge, this form is designed for a single-page application process, but it's possible that some fields could be related to other pages or sections not present in this schema. Please let me know if I'm incorrect.
-
-</thinking>
-
 # Online Rental Application Form - Help Guide
 ## Purpose
 This form is designed for tenants to provide information about their rental application. It's meant to be completed by individuals applying to rent a property.

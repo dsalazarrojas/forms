@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a template for a rental payment form, likely used by real estate agents to process rent payments from tenants. The form is divided into several sections, each asking for different information such as name, contact information, and payment details. It is likely that this form will be used for rent collection and reconciliation purposes.
-
-Upon reviewing the fields, it seems that all fields are required, and the form is quite straightforward. The fields include name, contact information, amount due, due date, payment type, and rental address. Some fields like 'rental_address_2', 'rental_address_3' and 'rental_address_4' appear to be redundant or duplicate fields that could be combined or removed.
-
-</thinking>
-
 # Rental Payment Form - Help Guide
 ## Purpose
 The Rental Payment Form is used by real estate agents to collect rental payment information from tenants. It captures essential details for rent collection and reconciliation purposes.

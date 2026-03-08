@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to provide loungewear recommendations based on their preferences and needs. The form aims to understand the user's current loungewear, preferences, lifestyle, and other relevant factors to suggest appropriate loungewear options. To ensure accurate and relevant responses, the user's input should be honest and comprehensive. Please note that some fields may be optional, but providing accurate information will help in providing better recommendations.
-Before proceeding, check that you haven't already completed this quiz to avoid duplication of effort.
-</thinking>
-
 # loungewear_recommendation_quiz - Help Guide
 ## Purpose
 The loungewear recommendation quiz is designed to suggest suitable loungewear based on your preferences and needs.

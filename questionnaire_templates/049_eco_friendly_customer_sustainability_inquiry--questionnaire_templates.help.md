@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their level of interest in sustainability, their feedback on existing programs, and their preferences for follow-up and data collection. 
-The form has 12 fields, some of which are repeated, likely due to a duplication in the form schema. 
-It is crucial to ensure that all the fields are necessary and relevant to the form's purpose. 
-We should review the schema carefully to ensure that there are no unnecessary fields or duplication of information. 
-We should also consider whether the field labels are clear and descriptive. 
-For example, "Customer Sustainability Inquiry" is repeated multiple times, which may cause confusion for the end user. 
-We should aim to create a user-friendly experience that guides the customer through the form smoothly. 
-Let's review the schema again and make adjustments as needed. 
-After reviewing the schema, we have decided to merge some fields for the sake of simplicity and clarity. 
-We will remove duplicate fields and focus on essential information collection. 
-The form will be designed to gather essential information from customers about their sustainability interest, preferences, and feedback. 
-The final form will have a clear and concise structure, making it easier for customers to provide their input. 
-We will also ensure that all field labels are clear and descriptive, reducing confusion and errors. 
-Let's proceed with creating the user-facing help guide based on the revised schema.
-</thinking>
-
 # Eco Friendly Customer Sustainability Inquiry - Help Guide
 
 ## Purpose

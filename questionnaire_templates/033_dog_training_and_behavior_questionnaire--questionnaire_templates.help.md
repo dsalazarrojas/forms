@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a dog's training and behavior. 
-This form will likely be used for dogs that require training or have behavioral issues. It is essential to understand that there is no duplicate of this form, and it's not intended to be filled out multiple times for the same dog or owner.
-</thinking>
-
 # Dog Training And Behavior Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a dog's training and behavior. It will help gather essential details about the dog's owner, training goals, behavior questions, and veterinary information. This form is crucial for veterinarians and dog trainers to have a comprehensive understanding of the dog's needs and develop an effective training plan.

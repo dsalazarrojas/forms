@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect requirements for an Inventory Management System (IMS) from users. This form is used to gather information about the business needs, technical requirements, evaluation criteria, priority level, timeline, budget, and other important details for the development of an IMS. This form ensures that all necessary information is captured in a single place, making it easier for developers and stakeholders to understand the project scope and requirements. 
-
-Before filling this form, please ensure that you have reviewed our guidelines for a clear and concise form submission. Please avoid duplication and ensure that you fill the form only once, as it will be reviewed and evaluated for the project.
-
-</thinking>
-
 # Inventory Management System Requirements Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect requirements for an Inventory Management System (IMS). It gathers essential information about the business needs, technical requirements, evaluation criteria, priority level, timeline, budget, and other important details for the project.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information from students who want to study civil procedure topics. The form is used to gauge their knowledge and understanding of key concepts in civil procedure. By completing this form, students can track their progress and identify areas where they need improvement. This form is not intended for other purposes, such as for external data sharing or analysis.
-</thinking>
-
 # Civil Procedure Study Quiz - Help Guide
 ## Purpose
 The Civil Procedure Study Quiz is a tool for students to assess their knowledge of civil procedure topics. This form helps students track their progress and identify areas where they need improvement in order to prepare for exams or assessments.

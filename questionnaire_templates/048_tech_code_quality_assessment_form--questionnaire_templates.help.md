@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to assess the technical code quality of a piece of code. The goal is to gather information about the code's maintainability, readability, and overall quality. The form is designed to be filled out by a developer or a reviewer, and it helps to identify areas of improvement for the code.
-
-The form has multiple sections that cover different aspects of code quality, including code review, code smells, code organizing, code metrics, code review frequency, code review participants, code review comments, and code review outcome. Each section is designed to be filled out according to the specific information being requested, and the fields are mostly boolean or numerical, making it easy to understand and complete.
-
-Before filling out the form, it's helpful to review the questions and understand what is being asked to ensure accurate and meaningful input. It's also good practice to fill out the form carefully and accurately, as the information gathered will be used to inform decisions about code quality.
-
-</thinking>
-
 # Tech Code Quality Assessment Form - Help Guide
 ## Purpose
 

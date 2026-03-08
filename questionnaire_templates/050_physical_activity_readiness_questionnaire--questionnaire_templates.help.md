@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess an individual's physical activity readiness, which is crucial for scheduling appointments, consultations, or coaching sessions. It's essential to determine the best time and method to contact the individual for these sessions. This form may be used by healthcare professionals, coaches, or other individuals seeking to schedule sessions with clients or patients. Ensure that you are not already using a similar form for this purpose to avoid duplication of effort.
-</thinking>
-
 # Physical Activity Readiness Questionnaire - Help Guide
 ## Purpose
 The Physical Activity Readiness Questionnaire is a form designed to gather information about an individual's physical activity level, available time, and preferred contact method. This information helps schedule appointments, consultations, or coaching sessions that are tailored to the individual's needs.

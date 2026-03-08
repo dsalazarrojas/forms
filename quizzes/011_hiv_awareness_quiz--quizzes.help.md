@@ -1,11 +1,3 @@
-<thinking> 
-  This guide will explain the HIV Awareness Quiz form, which is designed to collect information about an individual's HIV status, medical history, and other relevant factors.
-  This form is intended for individuals who are at risk of HIV infection or have been diagnosed with HIV.
-  The form is divided into multiple sections, each asking for different types of information.
-  This guide will walk you through each section, explaining what each question means and how to answer it.
-  Please note that this form is for educational purposes only and should not be used as a replacement for professional medical advice.
-</thinking>
-
 # HIV Awareness Quiz - Help Guide
 ## Purpose
 The HIV Awareness Quiz is a form designed to collect information about an individual's HIV status, medical history, and other relevant factors. This form is intended to educate individuals about HIV and its risks, and to help them assess their own risk factors.

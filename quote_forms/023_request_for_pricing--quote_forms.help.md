@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to request pricing for a specific good or service. This form will help gather the necessary details to provide an accurate quote, and it will guide the user through the process in a clear and concise manner.
-</thinking>
-
 # Request For Pricing - Help Guide
 ## Purpose
 The form is used to gather information from users to request pricing for a specific good or service. This information will be used to provide an accurate quote for the requested item.

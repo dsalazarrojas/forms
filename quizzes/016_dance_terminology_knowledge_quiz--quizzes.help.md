@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed to test the respondent's knowledge of various dance terminology. The form includes multiple fields that ask about different dance styles, their characteristics, and origins. The form is likely used for educational purposes, such as assessing knowledge of dance terminology for dancers, instructors, or enthusiasts. 
-
-</thinking>
-
 # Dance Terminology Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of dance terminology. The quiz consists of 12 questions that cover various dance styles, their characteristics, and origins.

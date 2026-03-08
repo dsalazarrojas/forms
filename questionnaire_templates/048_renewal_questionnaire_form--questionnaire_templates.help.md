@@ -1,5 +1,3 @@
-<thinking>...This renewal questionnaire form is designed to collect information from users on their current status and preferences for form renewal. The form is part of a process to ensure that users' forms are up-to-date and meet the latest requirements. To complete this form, please follow these steps:</thinking>
-
 # Renewal Questionnaire Form - Help Guide
 ## Purpose
 The Renewal Questionnaire Form is used to gather information about your current form status and preferences for renewal. This form will help us ensure that your form is up-to-date and meets the latest requirements.

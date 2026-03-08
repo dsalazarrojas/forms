@@ -1,12 +1,3 @@
-<thinking> 
-We're creating a comprehensive help guide for the Occupational Health And Safety Questionnaire form. This form is designed to collect information from employees about their workplace address, supervisor details, safety training, hazards, and incident reporting. Its primary purpose is to ensure that employees have a clear understanding of their workplace environment, safety protocols, and incident reporting procedures. This form will help the management and HR team to identify potential risks and implement measures to prevent workplace accidents and injuries.
-
-Before proceeding, please note that this form is only applicable if you are an employee or a supervisor in the workplace. If you are not an employee or a supervisor, please do not submit this form as it may contain sensitive information.
-
-This guide will walk you through each field of the form, explaining their purpose and requirements.
-
-</thinking>
-
 # Occupational Health And Safety Questionnaire - Help Guide
 ## Purpose
 The Occupational Health And Safety Questionnaire is a form designed to collect information from employees about their workplace address, supervisor details, safety training, hazards, and incident reporting. This form helps the management and HR team to ensure a safe working environment and identify potential risks.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discover Your Character Personality - Help Guide
 ## Purpose
 This form is designed to help you discover your character personality by collecting various pieces of information that will allow us to generate a personalized report based on your characteristics.

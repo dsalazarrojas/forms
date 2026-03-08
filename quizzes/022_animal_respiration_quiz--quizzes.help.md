@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Respiration Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of respiration systems in various animal groups. Please answer each question with the correct answer.

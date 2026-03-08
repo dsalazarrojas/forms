@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning And Memory Assessment - Help Guide
 
 ## Purpose

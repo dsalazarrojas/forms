@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a simple worksheet for calculating the distance between two points in a two-dimensional space. It allows users to input the coordinates of two points, calculate the distance between them, and view the result. The form is designed to be straightforward and easy to use, with a minimum number of fields that correspond to the basic mathematical calculation.
 
 ## Distance Between Two Points Worksheet - Help Guide

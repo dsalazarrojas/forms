@@ -1,13 +1,3 @@
-<thinking>
-This help guide is being generated based on the provided YAML form schema. The Christmas Theme Contact Form is designed to gather contact information and inquiry details from users, particularly during the holiday season. To ensure accurate and complete responses, please follow the steps below.
-
-The form is divided into several sections, each with its own set of fields. The first section, "Contact Information," requires users to input their name and email address.
-
-The second section, "Inquiry Details," has a few options. If the user is inquiring about a specific event, they must choose the type of event and, if applicable, provide the event date and budget range. The form also asks the user to specify the type of their inquiry and provide a message.
-
-The "Preferences" section allows users to choose their preferred contact method and the best time to contact them. Finally, the form asks users if they would like to subscribe to the holiday newsletter.
-</thinking>
-
 # Christmas Theme Contact Form - Help Guide
 ## Purpose
 The Christmas Theme Contact Form is designed to gather contact information and inquiry details from users, particularly during the holiday season.

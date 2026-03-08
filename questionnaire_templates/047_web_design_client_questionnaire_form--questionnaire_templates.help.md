@@ -1,8 +1,3 @@
-<thinking> 
-This form, "web_design_client_questionnaire_form," is a comprehensive questionnaire designed to gather essential information from clients and clients' representatives. The purpose of this form is to collect details about the client's web design project, including their expectations, requirements, and preferences. It also serves as a platform for designers to communicate with clients and gather feedback. This form is typically used by design teams to streamline the design process and ensure that both parties are on the same page. Please ensure that you have a legitimate reason to fill out this form, and that the information you provide is accurate and complete.
-
-</thinking>
-
 # web_design_client_questionnaire_form - Help Guide
 ## Purpose
 This form is intended to be used by clients and their representatives to provide detailed information about their web design project, enabling designers to effectively communicate and meet their expectations.

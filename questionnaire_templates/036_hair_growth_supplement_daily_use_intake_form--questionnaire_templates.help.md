@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a simple, AI-generated questionnaire designed to gather information from users about their experience with hair growth supplements. The purpose of this form is to collect data on user habits, supplement usage, and overall experience with hair growth supplements. This data can be useful for manufacturers, researchers, or medical professionals to better understand how their products are being used and what effects they have on users. It's essential to fill out this form honestly and accurately to provide valuable insights. Please note that this form is not affiliated with any form platform and is an original adaptation.
-
-</thinking>
-
 # Hair Growth Supplement Daily Use Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their experience with hair growth supplements, including their daily use habits, dosage, frequency, and overall experience. This data will help manufacturers, researchers, or medical professionals understand how their products are being used and their effects on users.

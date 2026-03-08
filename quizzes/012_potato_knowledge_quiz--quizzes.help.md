@@ -1,10 +1,3 @@
-<thinking>
-This guide explains how to fill out the "Potato Knowledge Quiz" form, which is a series of questions meant to gauge users' familiarity with potatoes.
-The form is designed to be completed by users who wish to showcase their understanding of potato-related information.
-Before starting the quiz, make sure you have not completed it before, as it may not be necessary to take it again.
-The form consists of multiple questions that assess different aspects of potato knowledge, and users are encouraged to provide honest and accurate answers.
-</thinking>
-
 # Potato Knowledge Quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess your knowledge about potatoes. It is a series of questions designed to gauge your understanding of various aspects of potatoes.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a Radiation Biology Quiz for users to assess their knowledge on radiation biology topics. This form is likely used in educational or training settings to evaluate students' or trainees' understanding of radiation biology concepts. The form should not be used in production settings where radiation biology knowledge is critical, as it may not provide a comprehensive evaluation of the topic.
-</thinking>
-
 # Radiation Biology Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge on radiation biology topics. It consists of multiple-choice questions with select_one and select_multiple types, as well as text questions for more in-depth answers.

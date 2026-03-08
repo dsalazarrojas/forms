@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the generational diversity of an organization or team. It is used to gauge the awareness and understanding of different generations, their communication styles, and the overall diversity of the team. The form asks questions such as the generation awareness, communication style, inclusion policies, and overall satisfaction with the team dynamics. The purpose of this form is to help organizations or teams identify areas where they need to improve their generational diversity and develop strategies to promote a more inclusive and harmonious work environment.
-
-This form is not meant to be a comprehensive tool for evaluating every aspect of an organization or team. Instead, it is a starting point for self-assessment and reflection. By completing this form, users will have a better understanding of their current state and can plan next steps for improvement.
-
-Please note that this form is not a scientifically validated instrument and should not be used as such. It is a tool for educational and exploratory purposes only.
-</thinking>
-
 # Generational Diversity Assessment - Help Guide
 ## Purpose
 The Generational Diversity Assessment is a tool to gauge the awareness and understanding of different generations, their communication styles, and the overall diversity of a team or organization.

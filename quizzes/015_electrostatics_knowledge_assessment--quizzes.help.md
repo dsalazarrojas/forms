@@ -1,7 +1,3 @@
-<thinking>... This form is intended to assess an individual's knowledge of electrostatics, a branch of physics that deals with the study of the interaction between electrical charges. It is a self-assessment tool used for educational purposes, and its results should not be taken as a definitive measure of one's expertise in the field. The form is designed to be completed by anyone with a basic understanding of the subject matter, including students, researchers, and practitioners in related fields. It is recommended that users complete the form in a distraction-free environment, ideally with a clear understanding of the topics being assessed. It is also important to note that the form is not a substitute for comprehensive knowledge of electrostatics. It is a simplified, user-friendly tool intended to gauge general knowledge rather than comprehensive understanding. Users should not rely solely on the form's results for professional or academic purposes.
-
-</thinking>
-
 # Electrostatics Knowledge Assessment - Help Guide
 ## Purpose
 This form is a self-assessment tool designed to gauge your understanding of electrostatics, a branch of physics that deals with the study of the interaction between electrical charges.

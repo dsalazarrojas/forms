@@ -1,9 +1,3 @@
-<thinking>
-To avoid unnecessary duplication of effort, I will assume that the form is meant to gather information about an individual's investment suitability. This form appears to be designed to collect data on various factors that determine an individual's suitability for investment. I will provide a clear and concise help guide to ensure that end-users understand the purpose and usage of the form.
-
-
-</thinking>
-
 # Investment Suitability Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to gather information about your investment suitability. It will help us understand your risk tolerance, investment objectives, and other relevant factors to provide you with suitable investment recommendations.

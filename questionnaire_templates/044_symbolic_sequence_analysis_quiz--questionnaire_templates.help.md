@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Symbolic Sequence Analysis Quiz - Help Guide
 
 ## Purpose

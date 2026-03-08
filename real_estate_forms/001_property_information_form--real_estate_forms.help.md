@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Information Form - Help Guide
 ## Purpose
 This form is used to collect property information, such as address, size, type, and status, to provide a comprehensive overview of a property's details.

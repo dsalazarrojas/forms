@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to inform and assist users in completing the "Heat Stress Awareness Quiz" form. The form is used to track and record employee responses to a heat stress awareness quiz, which assesses their knowledge of heat stress awareness and related practices. This form is used internally for administrative and compliance purposes. Please ensure this form is filled out correctly, as it may affect employee records and training status.
-
-</thinking>
-
 # Heat Stress Awareness Quiz - Help Guide
 ## Purpose
 This form is used to track and record employee responses to a heat stress awareness quiz, which assesses their knowledge of heat stress awareness and related practices.

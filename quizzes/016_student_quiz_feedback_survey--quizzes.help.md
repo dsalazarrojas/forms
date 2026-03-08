@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students on their experience with various quizzes. The purpose of this form is to gather information on how students perceive the quizzes, what they liked or disliked, and what they would suggest for improvement. This form is intended for internal use only, and the feedback collected will be used to refine and improve the quiz content and experience. It is essential to complete this form carefully, as it will help the quiz creators understand the students' perspectives.
-
-This form consists of multiple fields, each designed to elicit specific feedback. Ensure that you complete each field accurately and honestly, and please do not leave any fields blank unless explicitly indicated as optional.
-
-Before proceeding, take a moment to review the form fields carefully. If you have any questions or concerns, refer to the field-by-field explanations below.
-</thinking>
-
 # Student Quiz Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from students about their experience with quizzes.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to help users understand and recall the different units used in the International System of Units (SI). This includes base units, derived units, and prefixes used in various scientific and engineering contexts. This form is intended to assess users' knowledge and understanding of SI units. 
-</thinking>
-
 # SI Units Quiz - Help Guide
 ## Purpose
 The purpose of this form is to test your knowledge of the International System of Units (SI). It consists of multiple fields where you will be asked to fill in the names of various SI base units, derived units, symbols, and prefixes. Each field is designed to help you recall and identify different units used in science and engineering.

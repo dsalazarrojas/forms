@@ -1,7 +1,3 @@
-<thinking>
-The Finance Executive Selection Survey is a form used to gather feedback and evaluations of candidates for executive positions within an organization. This form is meant to help assess the suitability of candidates for these roles, and the data collected will be used to inform hiring decisions. Before proceeding, ensure that you have a clear understanding of the survey's purpose and the specific requirements for the executive position in question.
-</thinking>
-
 # Finance Executive Selection Survey - Help Guide
 ## Purpose
 The Finance Executive Selection Survey is a form designed to gather feedback and evaluations of candidates for executive positions within an organization.

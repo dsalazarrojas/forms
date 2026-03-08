@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to test the user's knowledge on electricity-related concepts. It will likely be used in an educational or assessment context, such as in a school or academic setting. The form consists of multiple questions that require the user to select or enter information, which will help evaluate their understanding of electricity concepts.
-
-This form appears to be a comprehensive assessment of knowledge on various aspects of electricity, covering different topics such as general information, safety risk factors, and specific concepts related to electricity. Each question is designed to test the user's ability to select or enter relevant information.
-
-The purpose of this form is to measure the user's knowledge and understanding of electricity concepts. The user's responses will be evaluated based on their answers to each question, likely to provide feedback on their understanding of the subject.
-
-It is essential to ensure the user understands the type of questions and the options available for each question. This will help them provide accurate and relevant answers.
-
-The following is a detailed explanation of each field:
-
-</thinking>
-
 # electricity_concepts_quiz - Help Guide
 ## Purpose
 The electricity_concepts_quiz form is designed to test the user's knowledge on various electricity-related concepts. This form is typically used in educational or assessment contexts to evaluate their understanding of electricity.

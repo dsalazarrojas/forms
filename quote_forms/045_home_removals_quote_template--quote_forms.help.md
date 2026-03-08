@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to generate a quote for a home removals service. The form will be used to collect information about the move, including the address of the home, the contact person's details, the date and time of the move, and the type and weight of the move. This form is likely to be used by moving companies or removals services to get necessary information to provide a quote for the move.
-
-Before proceeding, please ensure that you have all necessary information and approvals. This form should not be used to collect sensitive or personal data without the necessary legal and regulatory approvals.
-
-This form is a standard template, and the fields are self-explanatory. Please make sure to complete all required fields to ensure accurate and reliable quote generation.
-
-</thinking>
-
 # Home Removals Quote Template - Help Guide
 ## Purpose
 The Home Removals Quote Template is a form used to generate a quote for a home removals service. It collects information about the move, including address, contact details, move date and time, move type, and payment method.

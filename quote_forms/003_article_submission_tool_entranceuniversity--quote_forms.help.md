@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Article Submission Tool EntranceUniversity - Help Guide
 ## Purpose
 The Article Submission Tool EntranceUniversity is a form designed for authors to submit articles to the University's publication platform. This form collects essential information about the author and the article, including the author's name, email, and affiliation, as well as the article's title, category, keywords, and summary. The form also asks for the article's document and the author's contact information, such as phone number and preferred contact method. The form ensures that authors provide accurate and consistent information, which is then used to process and publish their articles on the platform.

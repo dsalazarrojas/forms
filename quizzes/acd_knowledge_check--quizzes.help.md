@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: The "ACD Knowledge Check" form is designed to evaluate the knowledge and skills of employees who have completed a specific type of training. The form is intended for ACD (Automatic Call Distribution) systems, which are used in customer service and call center environments to manage and distribute calls. This form will help the trainers and managers assess the trainees' understanding of the ACD system's features, usage, and effectiveness. The form should be completed by the trainees after they have finished the training and will take around 10-15 minutes to complete. This form will help in identifying areas that require further training or support and will aid in improving the ACD system and training process as a whole. This form is not intended to be a comprehensive assessment but a knowledge check to gauge the trainees' understanding and confidence levels with the ACD system. It is recommended to review the form carefully before starting and to answer each question truthfully.</thinking>
-
 # ACD Knowledge Check - Help Guide
 ## Purpose
 

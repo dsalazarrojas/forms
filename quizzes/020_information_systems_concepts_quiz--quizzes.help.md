@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information for the "Information Systems Concepts Quiz" from end-users. The form collects general information for a quiz, including the title of the quiz, categories, description, student name, date, time, and email address. The form is likely used for educational purposes to assess students' knowledge on information systems concepts.
 
 # Information Systems Concepts Quiz - Help Guide

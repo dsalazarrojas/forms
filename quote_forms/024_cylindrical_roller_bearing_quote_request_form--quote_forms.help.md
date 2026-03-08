@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers who are requesting a quote for cylindrical roller bearings. The form is intended to gather details about the customer's specific needs and preferences, including bearing type, material, size, quality, and delivery information. 
-
-This form is typically filled out by customers to submit a quote request for cylindrical roller bearings to a supplier. It's essential to fill out the form accurately and completely to ensure that the quote provided meets the customer's requirements.
-
-</thinking>
-
 # Cylindrical Roller Bearing Quote Request Form - Help Guide
 ## Purpose
 This form is a quote request form for cylindrical roller bearings. It helps our supplier understand your specific needs and preferences to provide an accurate quote.

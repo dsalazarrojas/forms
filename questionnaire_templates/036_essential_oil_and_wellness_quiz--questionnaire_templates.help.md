@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for users to gather information on essential oils and their relationship to wellness, specifically for a quiz-like assessment on their understanding of the topic. The form is part of a larger educational and informational context, aiming to evaluate users' knowledge and perceptions about essential oils and their benefits. This form is meant to be completed by individuals with some knowledge of essential oils, and its purpose is to assess their understanding of various aspects of essential oils, including their families, benefits, uses, characteristics, and customer perception. Please ensure that you have a basic understanding of essential oils before completing this form.
-
-</thinking>
-
 # essential_oil_and_wellness_quiz - Help Guide
 ## Purpose
 

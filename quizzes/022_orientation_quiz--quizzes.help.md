@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Orientation Quiz - Help Guide
 
 ## Purpose

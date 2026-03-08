@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Amends Form - Help Guide
 
 ## Purpose

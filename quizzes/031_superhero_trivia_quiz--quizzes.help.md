@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Superhero Trivia Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about a Superhero Trivia Quiz event. You can use this form to create a new quiz event, specify its details, and save them for future reference.

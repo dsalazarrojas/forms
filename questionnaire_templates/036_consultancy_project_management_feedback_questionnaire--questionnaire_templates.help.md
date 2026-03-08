@@ -1,7 +1,3 @@
-<thinking>This form is used by our consultancy to gather feedback from clients on project management, delivery quality, and overall satisfaction. We kindly request that you only complete this form once you have finished the project with our consultancy.
-
-To ensure consistency, please do not complete this form if your project is still ongoing or if you have already provided feedback through other means. Your responses will help us to continually improve our services and provide better support to future clients.</thinking>
-
 # Consultancy Project Management Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients on their experience with our consultancy. We value your input and would like to hear about your experiences, successes, and challenges during the project.

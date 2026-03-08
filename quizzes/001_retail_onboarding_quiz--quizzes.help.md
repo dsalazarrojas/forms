@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form, "retail_onboarding_quiz," is to assist new retail employees in understanding their onboarding process. It is meant to be a helpful tool for new hires to quickly get a grasp on the necessary skills and knowledge for success in retail. This quiz can help identify areas where an individual may be struggling, making it easier for managers or colleagues to provide targeted support and guidance. To ensure this form serves its purpose, we must first verify that it is being used correctly. Please consider the following:
-
-*   Is the target audience indeed a new retail employee?
-*   Are the required questions correctly answered?
-*   Are the answers coherent and logical?
-*   Is the form being used for its intended purpose?
-
-If the answers to these questions are positive, we can proceed to the form documentation.
-
-</thinking>
-
 # retail_onboarding_quiz - Help Guide
 
 ## Purpose

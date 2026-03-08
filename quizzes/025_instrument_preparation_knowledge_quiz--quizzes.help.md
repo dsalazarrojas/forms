@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to assess their knowledge on instrument preparation procedures. The form is structured into multiple pages, each with specific questions and fields to be completed. The form is intended to gauge a user's understanding of the correct sequence of steps for preparing various types of instruments, as well as their ability to select the correct options for specific procedures. The form also requires users to provide their name, department, and instrument details. It is essential that users fill out the form accurately and thoroughly to ensure they are aware of their strengths and weaknesses in instrument preparation procedures.
-</thinking>
-
 # Instrument Preparation Knowledge Quiz - Help Guide
 ## Purpose
 The Instrument Preparation Knowledge Quiz is designed to evaluate a user's knowledge on instrument preparation procedures. The quiz consists of multiple questions that cover various aspects of instrument preparation, including the correct sequence of steps, procedures, and specific details about instruments.

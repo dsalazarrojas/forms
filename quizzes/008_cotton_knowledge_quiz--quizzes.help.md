@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test the user's knowledge about cotton, covering various aspects of this natural fiber, including its uses, production process, and properties. The form is intended to be completed by users who wish to assess their knowledge about cotton and its applications. This form will not be used for any other purpose other than educational or informational.
-</thinking>
-
 # Cotton Knowledge Quiz - Help Guide
 ## Purpose
 The Cotton Knowledge Quiz is a self-assessment form designed to evaluate your understanding of various aspects of cotton, including its uses, properties, and production process. This form consists of 10 questions that cover different topics related to cotton, and the answers are meant to be selected based on your knowledge and experience with cotton.

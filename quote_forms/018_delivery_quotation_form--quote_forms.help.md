@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The form is designed to collect information related to delivery quotations. It's intended for customers to provide details about their quotation requests, including product preferences, delivery date, contact information, and any additional messages. This form will likely be used by sales teams or customer support agents to understand customer needs and respond accordingly. The form fields are designed to be straightforward and easy to fill out, with minimal requirements for the customer to provide necessary information.
-
-</thinking>
-
 # delivery_quotation_form - Help Guide
 ## Purpose
 This form is used to collect information from customers for delivery quotations. It's essential to provide accurate and complete information to ensure a smooth and efficient delivery process.

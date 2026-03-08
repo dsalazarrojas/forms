@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rent Schedule Form - Help Guide
 
 ## Purpose

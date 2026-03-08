@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly to collect feedback from software developers. This form should only be used for software developers who are applying for a position. The questions in this form are designed to assess a software developer's skills, experience, and behavior, which are essential for the role. Please ensure that you are completing this form as a software developer applying for a position.
-</thinking>
-
 # software_developer_interview_quiz_template - Help Guide
 ## Purpose
 This form is designed to help us assess your skills, experience, and behavior as a software developer. Please complete this form carefully and honestly to provide a clear picture of your qualifications.

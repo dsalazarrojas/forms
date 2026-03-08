@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I'll analyze the provided YAML. The form is called "electrical_substation_knowledge_assessment" and has 25 fields, including various types of questions such as text, select_multiple, select_one, number, date, time, and text fields. This suggests that the form is designed to assess knowledge about electrical substations, which is a critical infrastructure component in the electrical power industry. The form likely aims to evaluate the user's understanding of electrical substation design, safety, security, testing, and maintenance procedures, as well as their knowledge of safety measures and guidelines.
-
-This form appears to be a comprehensive assessment tool for electrical substation experts, possibly for certification or training purposes.
-
-</thinking>
-
 # electrical_substation_knowledge_assessment - Help Guide
 ## Purpose
 This form is designed to assess your knowledge about electrical substations, focusing on their design, safety, security, testing, and maintenance procedures, as well as safety measures and guidelines.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers requesting a quote for lawn topdressing services. The purpose of this form is to gather essential details such as customer name, contact information, job type, job area, schedule, estimated job size, start and finish dates, job duration, address, follow-up method, follow-up schedule, and estimated job cost. These details will be used to provide an accurate quote for the requested lawn topdressing services. This form does not require any specific fields to be completed, making it optional for the customer to provide only the necessary information.
-</thinking>
-
 # Lawn Topdressing Quote Request - Help Guide
 
 ## Purpose

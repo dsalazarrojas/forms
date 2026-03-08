@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 I'll create a user-facing help guide for this form.
 
 # Suture Removal Quiz - Help Guide

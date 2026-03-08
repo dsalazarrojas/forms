@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for real estate agents to collect information from buyers and sellers in a real estate transaction. The purpose of this form is to gather essential details for the purchase or sale of a property, including property address, buyer and seller information, price, and terms of the agreement. This form should only be used for real estate transactions, and users should not attempt to use it for other purposes.
-
-To ensure accuracy and consistency, please review the form carefully before completing it. If you're unsure about any field, refer to the field explanation below.
-
-Please note that some fields are optional, but providing accurate and complete information will ensure a smooth and efficient real estate transaction process.
-
-</thinking>
-
 # Offer To Purchase Real Estate Form - Help Guide
 ## Purpose
 The Offer To Purchase Real Estate Form is designed to collect essential information for real estate transactions, including property details, buyer and seller information, price, and terms of the agreement.

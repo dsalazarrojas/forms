@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from sellers to list their properties on the market. The purpose of this form is to gather essential details about the property, including its status, price, type, and features, to ensure accurate and efficient listing. It is crucial to complete this form accurately to provide a comprehensive overview of the property and to avoid any potential errors or miscommunication during the listing process.
-</thinking>
-
 # Pre Market Listing Questionnaire - Help Guide
 ## Purpose
 The Pre Market Listing Questionnaire is a form designed to collect necessary information from sellers to facilitate the listing process for their properties. Please ensure that all required fields are filled accurately to provide a complete and clear representation of the property.

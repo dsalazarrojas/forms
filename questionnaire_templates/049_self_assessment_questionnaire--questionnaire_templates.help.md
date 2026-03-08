@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Self Assessment Questionnaire - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nutrition And Lifestyle Assessment Form - Help Guide
 
 ## Purpose

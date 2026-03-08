@@ -1,7 +1,3 @@
-<thinking>
-The Offer And Counteroffer Form is used in the context of negotiations, where one party makes an offer and another party may respond with a counteroffer. This form is designed to capture the terms of the original offer and the counteroffer, as well as any comments or additional information relevant to the negotiation. The form is typically used when a buyer or seller wants to propose or respond to a proposal, and the goal is to provide a clear and concise way to document the terms and any subsequent changes.
-</thinking>
-
 # Offer And Counteroffer Form - Help Guide
 ## Purpose
 The Offer And Counteroffer Form is used to document the terms of an offer and a potential counteroffer in a negotiation. It helps to clarify the terms and any changes made to the original proposal.

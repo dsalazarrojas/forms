@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a website's homepage copy, including header text, hero image URL, hero image alt text, hero call-to-action (CTA) button text, CTA button URL, CTA button color, CTA button background, CTA button text color, CTA button padding, CTA button width, CTA button height, CTA position, CTA alignment, CTA button icon, CTA button icon color, CTA button icon width, CTA button icon height, CTA position relative, CTA alignment relative, CTA margin top, CTA margin bottom, CTA padding, and CTA border radius. This information will help the user create a visually appealing and functional hero section on their website. This form is a tool for website owners and designers to collect the necessary information to create a compelling and user-friendly hero section. The form fields are designed to be easy to understand and fill out, and the required fields are marked as such to ensure that the user doesn't miss any important information.
-</thinking>
-
 # Website Homepage Copy Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information for creating a compelling hero section on a website. 

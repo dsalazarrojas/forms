@@ -1,13 +1,3 @@
-<thinking>Here's a brief internal reasoning block explaining the form purpose and checking for relevance and non-duplication:
-
-This form is designed for reviewing quizzes, allowing users to evaluate student performance on a specific quiz. The form includes various fields for collecting information about the quiz, such as the grade level, review quiz, assessment type, question type, and more. Each field is carefully crafted to help users gather relevant data for assessment.
-
-Upon reviewing the form fields, I notice that the form has a mix of single-select, multi-select, and text fields, which cater to different types of data collection. The form also has a range of fields for collecting student performance data, such as Student Performance, Student Performance 2, and Student Performance 3.
-
-To avoid duplication, I've identified that the fields Student Name, Student Performance, and Student Performance 2 seem to be redundant, and Student Name 2 appears to be an exact duplicate of Student Name. I recommend removing or merging these fields to prevent confusion and data duplication.
-
-After internal review, I'm confident that the form's purpose is clear, and with minor adjustments, it can be used effectively for collecting and reviewing quiz data.</thinking>
-
 # grade_level_review_quiz - Help Guide
 ## Purpose
 This form is designed for reviewing quizzes to collect data about student performance and quiz details.

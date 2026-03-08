@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Car Repair Quotation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from the user to create a quote for car repair services. It captures essential details about the vehicle, the problem, and the user's preferences and requirements for the repair.

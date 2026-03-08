@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users in understanding the Five Pillars of Islam, which are the fundamental principles of the Islamic faith. The form aims to assess users' knowledge and understanding of these pillars. The questions are designed to be answered with a "Yes" or "No" response, indicating whether the user is aware of or practices each pillar. The form is used to collect user information, including demographic data and contact information. The purpose of the form is to educate users about the Five Pillars of Islam and to collect feedback from users.
-</thinking>
-
 # Five Pillars Of Islam Quiz - Help Guide
 
 ## Purpose

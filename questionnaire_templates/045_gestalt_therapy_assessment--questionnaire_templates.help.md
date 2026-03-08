@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about a client's experiences and perceptions during a gestalt therapy session. The Gestalt Therapy Assessment is used to collect data on various aspects of a client's life, such as their client information, session details, client reflections, session goals, client relationships, emotional stability, self-care activities, coping skills, stressors, goals and objectives, session outcomes, session notes, follow-up plans, next session dates, therapist notes, client comments, client signature, and therapist signature. This form is not a mandatory field and the user can fill it in at their own pace.
-
-Please note that this form is part of the "questionnaire_templates" category and has a title of "Gestalt Therapy Assessment". It has multiple pages with a combination of select multiple, text, number, select one, and date types of fields. 
-
-Before starting the form, please ensure that you are familiar with the purpose and content of this form to provide accurate and consistent information. If you are unsure or need guidance, please refer to this help guide.
-
-It is also a good idea to review the fields to ensure that you are not duplicating information or skipping any important fields.
-
-</thinking>
-
 # Gestalt Therapy Assessment - Help Guide
 ## Purpose
 This form is used to gather information about a client's experiences and perceptions during a gestalt therapy session.

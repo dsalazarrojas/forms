@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # TPMS Compatibility Assessment - Help Guide
 ## Purpose
 The TPMS Compatibility Assessment form is designed to gather information about a vehicle's compatibility with a TPMS (Tire Pressure Monitoring System) system. This form is used to evaluate the fitment and functionality of a TPMS system on a specific vehicle model.

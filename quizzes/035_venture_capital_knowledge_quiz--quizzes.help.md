@@ -1,15 +1,3 @@
-<thinking>
-This form is used to assess users' knowledge about venture capital. The form is designed to be completed by users, and the data collected will be used for internal assessment and evaluation purposes. It is essential that the users understand the purpose and requirements of the form to provide accurate and relevant information. The form is not designed for external sharing or publication, and the data collected will be kept confidential.
-
-The form has five pages, but only one page is presented here for completion. Each page has a set of fields that users must fill in accordingly. The fields are designed to collect specific information, and users should understand the purpose and requirements of each field to provide accurate and relevant information.
-
-This form is designed to be completed by users who have a basic understanding of venture capital and are willing to assess their knowledge. The form is not a test or assessment of users' skills or expertise, but rather a tool for internal evaluation and improvement.
-
-Users can complete the form at their own pace, but it is recommended that they answer all the questions accurately and truthfully. The form is not a timed assessment, and users can take as much time as they need to complete it.
-
-Before proceeding, please make sure that you have a basic understanding of venture capital and the topics covered in the form. If you are unsure about any of the questions, please refer to external resources or seek guidance from experts in the field.
-</thinking>
-
 # venture_capital_knowledge_quiz - Help Guide
 ## Purpose
 The Venture Capital Knowledge Quiz is designed to assess users' understanding of venture capital and its various aspects. It helps to evaluate and improve knowledge internally, and the data collected is kept confidential.

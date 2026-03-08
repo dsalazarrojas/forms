@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Outcome Measure Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect data on mental health outcomes, including self-reported measures of psychological distress, well-being, and treatment adherence. The goal is to assess the mental health and well-being of an individual, providing insights that can help in developing targeted interventions and support strategies.

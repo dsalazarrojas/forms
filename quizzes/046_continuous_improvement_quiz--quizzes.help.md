@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Continuous Improvement Quiz - Help Guide
 
 ## Purpose

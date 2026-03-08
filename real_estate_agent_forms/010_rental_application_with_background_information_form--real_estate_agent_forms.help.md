@@ -1,7 +1,3 @@
-<thinking>
-The form you're about to read is designed for renters to submit an application for a rental property, including background and personal information, employment details, and rental history. This form is an original creation, not affiliated with any specific form platform or company. Please note that you're free to use, modify, and even distribute this form under the terms of the CC BY 4.0 license.
-</thinking>
-
 # Rental Application With Background Information Form - Help Guide
 ## Purpose
 This form is designed for renters to submit their application and background information for a rental property. It's meant to collect necessary details for the landlord or property manager to assess the applicant's eligibility and suitability for the rental.

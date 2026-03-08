@@ -1,9 +1,3 @@
-<thinking>
-The form you are about to submit is a Literature Practice Test designed to assess your knowledge and understanding of literary concepts, techniques, and themes. This form is intended to help you gauge your proficiency in analyzing and interpreting literary works, and is divided into multiple sections that focus on different aspects of literature. Each section is designed to test your critical thinking and analytical skills, as well as your ability to identify and apply key literary elements.
-Please note that this form is a self-assessment tool, and the purpose is not to evaluate your grades or academic performance, but rather to help you track your progress and identify areas that require more practice.
-Before you begin, take a moment to read through each section carefully, and make sure you understand the questions and prompts.
-</thinking>
-
 # Literature Practice Test - Help Guide
 ## Purpose
 The Literature Practice Test is a tool for you to evaluate your knowledge and understanding of literature concepts, techniques, and themes. This self-assessment tool helps you track your progress and identify areas that require more practice.

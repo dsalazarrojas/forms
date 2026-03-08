@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # urban_public_spaces_governance_quiz - Help Guide
 ## Purpose
 This form is designed to assess your understanding of public space governance priorities. It consists of multiple questions that aim to gauge your knowledge and opinions on various aspects of public space management and participation. Please answer the questions to help us better understand your stance on these critical issues.

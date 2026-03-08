@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to request a price quote for wire rods. It captures essential information about the customer, their product requirements, and delivery and payment details. The purpose of this form is to provide a clear and accurate price quote to the customer. It is a one-page form with 13 fields, including text fields for customer name, contact information, and product details, a date field for delivery date, and multiple and single-select fields for delivery and payment terms. When filling out this form, the customer must provide required information, and some fields have specific formats or requirements, such as a valid email address and a specific date format for the delivery date. The form should not be filled out multiple times for the same customer and product, as it may lead to unnecessary quotes and potential confusion in the quote process.
-</thinking>
-
 # Wire Rods Price Quote Request Form - Help Guide
 ## Purpose
 The Wire Rods Price Quote Request Form is a tool for customers to request a price quote for their specific product requirements. It gathers essential information to provide an accurate quote and facilitate the quote process.

@@ -1,7 +1,3 @@
-<thinking>
-We should first consider the purpose of this form. Based on the provided YAML definition, it seems that this form is for assessing the needs of the IT hardware and software in an organization. It likely aims to gather information about the current state of IT hardware and software, including their age, budget, department, location, and other related details. This form might be used for planning and decision-making purposes, such as upgrading or replacing existing equipment or software.
-</thinking>
-
 # it_hardware_and_software_needs_assessment_form - Help Guide
 ## Purpose
 The IT Hardware and Software Needs Assessment Form is used to gather information about the current state of IT hardware and software in an organization, helping to identify areas that require upgrade or replacement.

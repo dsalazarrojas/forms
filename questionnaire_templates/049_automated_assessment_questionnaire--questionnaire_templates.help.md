@@ -1,5 +1,3 @@
-<thinking>Automated Assessment Questionnaire is designed to be used for assessing the performance and skills of individuals in a professional setting, typically after a project or task completion. This form is intended to be filled out by a supervisor or evaluator, providing feedback on an individual's technical proficiency, communication skills, problem-solving abilities, and other relevant competencies. To ensure that the assessment is fair and unbiased, it is essential that the evaluator understands the form's purpose and uses it consistently across all assessments.</thinking>
-
 # Automated Assessment Questionnaire - Help Guide
 ## Purpose
 

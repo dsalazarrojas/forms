@@ -1,7 +1,3 @@
-<thinking>
-**Internal reasoning block:** The purpose of this form, "teaching_assistant_questionnaire," is to gather information from users about their preferences regarding teaching assistants. This form is likely used in a educational setting, such as a school or university, to gather feedback and opinions from students, instructors, or staff. The form is designed to be completed by the person being asked to participate, and it is meant to be a quick and straightforward process.
-</thinking>
-
 # teaching_assistant_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from users about their experiences with teaching assistants. The goal is to understand the user's preferences and expectations regarding the role and interaction with teaching assistants.

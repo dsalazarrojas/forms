@@ -1,14 +1,3 @@
-<thinking>
-The Poland Geography Quiz form appears to be designed to assess knowledge of Poland's geographical features. However, without further information, it's unclear what specific aspects of Polish geography are being targeted. Assuming it's meant to evaluate familiarity with various regions, cities, water bodies, mountains, national parks, and other geographical features, the form likely aims to gauge the user's general knowledge of Poland's geography. To provide a more concrete explanation, let's assume the form is meant to check if the user is familiar with:
-* Major cities
-* Geographic features (e.g., rivers, lakes, bays, and mountains)
-* Coastal areas
-* Borders
-* Landmarks
-* National parks
-
-This explanation will be the basis for the help guide below.</thinking>
-
 # Poland Geography Quiz - Help Guide
 
 ## Purpose

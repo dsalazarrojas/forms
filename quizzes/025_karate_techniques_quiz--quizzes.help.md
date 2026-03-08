@@ -1,8 +1,3 @@
-<thinking> 
-This form appears to be a simple quiz form for assessing knowledge and gathering information about karate techniques. Each question and field has a specific purpose in mind. I will create a concise and practical guide for end-users.
-
-</thinking>
-
 # karate_techniques_quiz - Help Guide
 ## Purpose
 This form is designed to gather information about karate techniques and assess knowledge in this area. Please answer each question truthfully to help us improve our training programs.

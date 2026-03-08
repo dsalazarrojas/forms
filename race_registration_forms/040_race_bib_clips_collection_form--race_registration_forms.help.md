@@ -1,19 +1,3 @@
-<thinking>... (Internal reasoning and checks for relevance and non-duplication)
-
-The form is used to collect information from users about the collection and return of race bib clips.
-It's a standard form with a mix of text, select, date, time, and note fields.
-We should ensure that the user understands its purpose and each field's meaning to minimize errors and confusion.
-
-This form is likely used for administrative or logistical purposes, possibly for tracking or inventory management.
-The fields seem to be related to event management, bib identification, and collection confirmation.
-The form might be used in a context where events have specific dates and times, such as marathons or cycling events.
-
-We should check if this form is not a duplicate or redundant with other forms in the system.
-If it's a new form, we should consider adding a unique identifier or code for the form to track its completion and submission.
-We'll need to ensure that the form's fields and options are accurate and relevant to its purpose.
-
-</thinking>
-
 # Race Bib Clips Collection Form - Help Guide
 ## Purpose
 The Race Bib Clips Collection Form is used to collect information about the collection and return of race bib clips. This form is designed to gather details for administrative and logistical purposes, such as tracking event-related data.

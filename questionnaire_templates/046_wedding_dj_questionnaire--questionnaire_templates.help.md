@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a wedding DJ's music preferences and availability for a specific date and time. The form should only be filled out by wedding DJs who are interested in working at a particular wedding event. 
-
-To ensure that the form is being used correctly and to prevent duplicate submissions, please note that this form should only be filled out by one person per DJ. If you are a wedding planner or coordinator, please make sure to send this form to the correct DJ contact person.
-</thinking>
-
 # Wedding DJ Questionnaire - Help Guide
 ## Purpose
 The Wedding DJ Questionnaire is a form designed to gather information from wedding DJs about their music preferences and availability. It's a simple and essential tool for wedding event planners and coordinators to collect valuable data from potential wedding DJs.

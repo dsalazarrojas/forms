@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information for a bathroom renovation quote from a client. The purpose of this form is to gather the client's contact information, property details, and renovation scope to provide an accurate quote for the project. This form is a standard template and should only be used for bathroom renovation quotes.
-
-The form is divided into several sections, including client information, property details, and renovation scope. Each section has a clear and concise label that describes what information is required to be entered in that section. The fields are designed to provide all the necessary information to create a comprehensive quote for the client.
-
-Before starting, please review the form carefully and ensure that you understand what information is required for each field. Completing this form accurately and thoroughly will help ensure that the quote is as detailed and accurate as possible.
-
-</thinking>
-
 # Bathroom Renovation Quote Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a bathroom renovation quote from a client, allowing the quote provider to gather the necessary details to create an accurate quote for the project.

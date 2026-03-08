@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their urine color and other related details for analysis.
-To avoid duplication and ensure relevance, users should only access this form if they are experiencing changes in their urine color or have concerns about their urinary health.
-The form will ask for the following information:
-</thinking>
-
 # Urine Color Analysis Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about your urine color and other related details for analysis.

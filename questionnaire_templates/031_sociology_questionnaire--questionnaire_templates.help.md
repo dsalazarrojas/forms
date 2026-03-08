@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect demographic and research-related information from respondents, aiming to gather a comprehensive understanding of their backgrounds, interests, and preferences. Please ensure that you are completing this form for the correct purpose and in the context of a genuine research study.
-
-Before filling out this form, ensure that you have read and understood the provided instructions and guidelines.
-
-</thinking>
-
 # Sociology Questionnaire - Help Guide
 ## Purpose
 The Sociology Questionnaire is a set of questions designed to gather demographic and research-related information from respondents. This information will be used to better understand various aspects of sociology and research.

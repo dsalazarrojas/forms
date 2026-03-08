@@ -1,10 +1,3 @@
-<thinking>
-# The internal reasoning block to explain why this form is used and how it can prevent duplication of effort and confusion.
-This form is designed to help new managers quickly and easily get started with their new role by providing them with a guided set of questions to consider when taking on their responsibilities. 
-By completing this form, new managers can take the first step in building a clear understanding of their role, their approach to leadership, and their expectations. 
-This helps prevent duplication of effort, confusion, and misunderstandings in the transition process.
-</thinking>
-
 # new_manager_welcome_quiz - Help Guide
 ## Purpose
 This form, "new_manager_welcome_quiz", is designed for new managers to quickly get started with their new role. It helps them understand their role, leadership style, and expectations in an easy and structured way.

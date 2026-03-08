@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shorthand Skills Assessment Quiz - Help Guide
 ## Purpose
 

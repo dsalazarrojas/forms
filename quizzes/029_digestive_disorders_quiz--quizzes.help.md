@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to help patients or individuals identify potential digestive disorders based on their symptoms and experiences. The form is designed to be a simple and efficient way to collect information about common digestive issues. Please note that this form is not intended to replace professional medical advice or diagnosis. Users are encouraged to consult a healthcare professional for a thorough evaluation and proper diagnosis. This form is meant to be used by individuals who are aware of their symptoms but not necessarily aware of the possible causes or severity. It is not meant for use in a medical setting or for patients who have already been diagnosed with a digestive disorder. This guide will cover the form's purpose, how to complete it, and what each field means.
-</thinking>
 # Digestive Disorders Quiz - Help Guide
 ## Purpose
 This form is designed to help individuals identify potential digestive disorders based on their symptoms and experiences.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to assess a client's financial risk behavior, and it should only be used for this specific purpose. It is essential to fill out the form accurately and completely, and it is not a substitute for professional financial advice. Please ensure that the form is relevant to the situation and not duplicated for other purposes. If you have filled out this form before, please review and update it as necessary, especially if your financial circumstances have changed.</thinking>
-
 # Financial Risk Behavior Assessment Form - Help Guide
 ## Purpose
 

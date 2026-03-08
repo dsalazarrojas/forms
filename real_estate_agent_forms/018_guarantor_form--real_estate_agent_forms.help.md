@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting information about a guarantor's background and employment details. It is intended to be used in real estate transactions. This form is not meant to be used for any other purpose. The following is a step-by-step guide to filling out the Guarantor Form.
-</thinking>
-
 # Guarantor Form - Help Guide
 ## Purpose
 The Guarantor Form is used to collect information about a guarantor's background and employment details in real estate transactions.

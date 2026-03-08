@@ -1,11 +1,3 @@
-<thinking>
-
-To determine if this form is relevant for your purposes, consider whether you are looking to assess an individual's or organization's culture fit, work environment, or company culture. This form is designed to be used by someone looking to get a comprehensive understanding of a company's culture and work environment from the perspective of an individual or team member. It's best suited for those interested in understanding how well an organization aligns with their own values and work style.
-
-Please note that this form is part of the "questionnaire_templates" category, suggesting that it's a generic template and may need to be adapted or modified for specific use cases.
-
-</thinking>
-
 # Culture Fit Interview Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to assess an individual's or organization's culture fit, work environment, and work style. It's meant to be a comprehensive tool to understand how well an organization aligns with one's own values and work style.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for real estate agents to register for a campaign designed to boost their listings. The form collects information on their commitment, current listings, target listings, agreement to campaign rules, time-limited listing incentive, listing incentive duration, participant agreement, and listing agreement details. This form is not mandatory and is intended for those interested in participating in the campaign. It's possible that some of the fields might require additional clarification or explanation to ensure the correct completion of the form.
-</thinking>
-
 # Real Estate Listing Boost Campaign Registration Form - Help Guide
 ## Purpose
 This form is for real estate agents to register for the Real Estate Listing Boost Campaign, a program designed to enhance their listings. Please fill out the form carefully, as it's intended to understand your commitment and needs for the campaign.

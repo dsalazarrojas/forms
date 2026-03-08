@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Characteristics Of Living Beings Quiz - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be part of a larger system for assessing love languages, which is a concept popularized by Dr. Gary Chapman in his book "The 5 Love Languages". The form likely aims to help users determine their own and their partner's primary love language(s) and gather information about how they use giving, receiving, quality time, words of affirmation, and physical touch to show love. This form is likely used for personal or relationship development, possibly in a romantic or social context. Given the options for "whats_your_love_language" and "whats_your_partners_love_language" fields, this form seems to be focused on identifying and exploring the love languages of both the user and their partner. I will provide a clear and concise help guide based on this understanding.
-</thinking>
-
 # WhatsYourLoveLanguageQuiz - Help Guide
 ## Purpose
 This form is designed to help you discover your love language and that of your partner. By answering the questions, you will gain insight into how you and your partner express and receive love.

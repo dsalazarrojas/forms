@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users understand the concept of z-score, a statistical measure used to express the number of standard deviations from the mean a score is. Each question is designed to guide the user through the z-score concept, from its definition to calculation and interpretation.
-To avoid duplication, the user should answer each question only once and not skip any.
-</thinking>
-
 # Z Score Understanding Quiz - Help Guide
 ## Purpose
 The purpose of this form is to provide a step-by-step guide to understanding z-score, a statistical measure used to express the number of standard deviations from the mean a score is.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to assess users' knowledge and understanding of organizational behavior, which is a crucial aspect of human resource management in any organization. This form is designed to be a self-assessment tool for users to evaluate their knowledge on various organizational behavior topics.
-
-Before proceeding, please note that this form has a total of 27 questions, and all of them are multiple-choice type. Each question is designed to be answered in a specific format as specified in the "How to Complete This Form" section. 
-
-To ensure the accuracy and consistency of the answers, please answer each question as thoroughly and honestly as possible. If you have any doubts or concerns, please reach out to the form creator or contact: form@gic.mx.
-
-Please also be aware that this form is generated using AI and has not copied or extracted content from any proprietary platforms.
-
-</thinking>
-
 # Organizational Behavior Knowledge Quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess users' knowledge and understanding of organizational behavior, which is a crucial aspect of human resource management in any organization.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participant information, emergency contact details, race details, and waiver and consent information for registration for an obstacle race. The form is divided into sections for participant information, emergency contact information, and race details. The participant must provide their full name, date of birth, email address, phone number, emergency contact name, emergency contact relationship, emergency contact phone number, race name, race date, race distance, race category, fitness level, and medical conditions. The participant must also agree to the waiver and consent terms and pay the registration fee. Note that the emergency contact section is optional.
-</thinking>
-
 # Adventure Obstacle Race Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant information, emergency contact details, and waiver and consent information for registration for an obstacle race. The form is divided into sections for participant information, emergency contact information, and race details.

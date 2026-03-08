@@ -1,10 +1,3 @@
-<thinking>
-  This form, the "Vividness Of Visual Imaginary Questionnaire (VVIQ)", is designed to assess an individual's ability to conjure up detailed, colorful mental images of visual stimuli. This form helps to gauge their vividness of visual imagery.
-  The goal is to evaluate the level of visual imagination an individual possesses, which can be relevant in various fields such as psychology, neuroscience, or marketing research.
-  Ensure that you answer this form honestly, and try to provide as much detail as possible.
-  You can skip questions that do not apply to you.
-</thinking>
-
 # Vividness Of Visual Imaginary Questionnaire (VVIQ) - Help Guide
 
 ## Purpose

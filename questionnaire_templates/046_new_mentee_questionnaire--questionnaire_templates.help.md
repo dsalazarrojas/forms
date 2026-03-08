@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from new mentees participating in a mentorship program. The purpose of this form is to gather demographic and interest-based information from mentees to better understand their background, goals, and preferences. This information will be used to pair mentees with suitable mentors and program resources.
-The form collects a range of data including first and last name, contact information (email and phone number), preferred communication method, preferred language, start and end dates, mentorship program preferences, goals and interests, availability, work schedule, time zone, and work hours. This information will help the program administrators to create a suitable match for the mentee.
-The form will help to create a database for program organizers to easily identify the mentees' needs and provide personalized support.
-</thinking>
-
 # New Mentee Questionnaire - Help Guide
 ## Purpose
 

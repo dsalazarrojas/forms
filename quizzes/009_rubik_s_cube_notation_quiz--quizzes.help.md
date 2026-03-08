@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rubik's Cube Notation Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of Rubik's cube notation, a system used to describe moves on a Rubik's cube. It will present you with various questions and options related to Rubik's cube notation, and you will be required to select the correct notations for each question.

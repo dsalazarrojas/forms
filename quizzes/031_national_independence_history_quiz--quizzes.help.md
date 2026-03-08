@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide an overview of the National Independence History Quiz form, including its purpose, steps to complete it, and field-by-field explanations of each component.
-</thinking>
-
 # National Independence History Quiz - Help Guide
 ## Purpose
 The National Independence History Quiz is a form designed to assess knowledge on national independence history. The form is used to collect data on lessons, topics, dates, and answers related to national independence history. It is essential to understand the form's purpose to complete it effectively.

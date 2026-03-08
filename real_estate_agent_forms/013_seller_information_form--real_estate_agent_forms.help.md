@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from a seller about their real estate property, specifically their contact details and property characteristics. This information will likely be used for marketing or administrative purposes, such as listing the property on a website or contacting the seller for more information. It's essential to ensure that the form is completed accurately and thoroughly to ensure that the seller's needs are met and their property is represented correctly. To prevent duplication of efforts, this form should only be completed once for each property listing.
-</thinking>
-
 # Seller Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from a seller about their real estate property, which will be used for marketing or administrative purposes.

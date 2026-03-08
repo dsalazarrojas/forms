@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to test knowledge on Quantum Numbers, a fundamental concept in Quantum Mechanics. It assesses understanding of the properties, significance, and relationships between Quantum Numbers and other key concepts in Quantum Chemistry and Computing.
-
-To complete this form, you will be presented with a series of questions that probe your knowledge on Quantum Numbers and their applications. The form is divided into multiple sections, each covering a specific aspect of Quantum Numbers.
-
-Please note that the questions are meant to be completed by a knowledgeable individual, and the form should only be completed by someone familiar with the subject matter.
-
-To ensure the integrity of the form, we have included multiple questions that verify the respondent's understanding of Quantum Numbers and their relationships. This is not a multiple-choice form, and each question requires a thorough and detailed response.
-
-Before starting, please ensure that you have a good understanding of the subject matter. The form is not designed to be completed hastily, and each question requires careful consideration.
-
-If you have any doubts or concerns, please do not hesitate to reach out to us for clarification.
-
-</thinking>
-
 # Quantum Numbers Knowledge Quiz - Help Guide
 ## Purpose
 

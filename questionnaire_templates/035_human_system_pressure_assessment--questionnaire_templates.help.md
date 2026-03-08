@@ -1,7 +1,3 @@
-<thinking>
-The Human System Pressure Assessment form is a questionnaire designed to gather information about an individual's work-related stress and pressure. This form is intended to help identify potential stressors and provide a baseline for further assessment and support. It's essential to ensure that the form is completed accurately and thoroughly to gather reliable data. Please note that this form is not a diagnostic tool for mental health professionals and should not be used for clinical diagnosis or treatment.
-</thinking>
-
 # Human System Pressure Assessment - Help Guide
 ## Purpose
 The Human System Pressure Assessment form is a questionnaire designed to gather information about an individual's work-related stress and pressure. It aims to help identify potential stressors and provide a baseline for further assessment and support.

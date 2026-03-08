@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's understanding of financial literacy, which is a broad range of knowledge and skills related to money management, financial planning, and the ability to make informed financial decisions. This form will help to evaluate an individual's knowledge and skills in this area. To ensure that this form is not duplicated, we will be using the form to assess the current state of financial literacy of individuals in the organization.
-</thinking>
-
 # Financial Literacy Test - Help Guide
 ## Purpose
 The Financial Literacy Test is designed to evaluate your knowledge and skills in the area of financial literacy, which includes understanding financial concepts, principles, and practices.

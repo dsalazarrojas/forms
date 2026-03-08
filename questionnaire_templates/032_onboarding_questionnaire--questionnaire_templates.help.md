@@ -1,14 +1,3 @@
-<thinking>
-Onboarding Questionnaire is designed to collect information about a new employee's contact details, job specifics, and onboarding status. The form is used to capture essential data for employee onboarding and tracking.
-
-To ensure accuracy and consistency, please ensure that you have the necessary information before completing the form.
-
-This guide will walk you through each field, providing you with the necessary information to complete the form correctly.
-
-Please note that some fields are marked as optional. However, having accurate and complete information will help in the overall onboarding process.
-
-</thinking>
-
 # Onboarding Questionnaire - Help Guide
 ## Purpose
 

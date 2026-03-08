@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to help individuals understand their options and resources for healthcare funding. This form is designed to gather information about the types of care you are looking for, how you typically pay for care, and any challenges you may face in affording care. It also asks for contact information and any additional comments you may have. The form is intended to help healthcare providers and support services understand your needs and connect you with resources that can help you pay for your care. This form should only be completed by individuals seeking healthcare funding assistance...</thinking>
-
 # Healthcare Funding Quiz - Help Guide
 ## Purpose
 This guide helps you complete the Healthcare Funding Quiz form, which is designed to understand your options and resources for healthcare funding.

@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we must first consider the purpose and context of the quiz.
-
-The purpose of this form is to collect information about the user's knowledge of beverages, specifically their ability to answer questions related to cocktails, wine, beer, coffee, and other beverages. The form appears to be designed for employees in the hospitality industry, such as servers, bartenders, and managers, to assess their knowledge of beverages and identify areas where they may need more training.
-
-The form is likely to be used in a training setting, such as during onboarding or continuing education programs, to help employees develop their skills and knowledge in this area.
-
-Before filling out the form, it's essential to understand that the questions are designed to test the user's knowledge of various beverages, including their ingredients, pairings, and preparation methods. The form is divided into two main sections: questions about specific beverages and questions about the user's confidence level and areas where they need more training.
-
-</thinking>
-
 # Beverage Menu Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge of beverages, specifically cocktails, wine, beer, coffee, and other drinks. The quiz is intended to help identify areas where you may need more training in the hospitality industry.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Get A Quote - Help Guide
 ## Purpose
 The "Get A Quote" form is designed to allow users to create a quote for a project, gathering essential information about the project details, payment terms, and client contact information. This guide will walk you through each field and its purpose to ensure you fill out the form accurately and efficiently.

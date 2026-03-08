@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chinese Language Proficiency Assessment - Help Guide
 
 ## Purpose

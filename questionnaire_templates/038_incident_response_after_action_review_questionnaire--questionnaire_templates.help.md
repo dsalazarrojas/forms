@@ -1,7 +1,3 @@
-<thinking>This guide is intended for individuals involved in the Incident Response process who need to provide a detailed account of an incident, including relevant details and recommendations for future improvements. Ensure you understand the purpose of this form and the context in which it is being used before proceeding. Note that this guide is not a comprehensive guide to creating an Incident Response plan, but rather a tool to aid in documenting and reviewing incidents.
-
-Before completing this form, ensure that the incident you are documenting is not a duplicate or has not been previously reviewed. If unsure, please consult with the relevant teams or stakeholders.</thinking>
-
 # Incident Response After Action Review Questionnaire - Help Guide
 ## Purpose
 This form is used to document and review incidents that have occurred. It helps to gather details about the incident, identify areas for improvement, and provide recommendations for future prevention.

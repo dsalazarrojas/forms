@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are filling out the Property Feedback Form. The form is designed to collect feedback about properties, allowing users to provide input on various aspects of properties, such as their status, type, price range, and more. It is not intended for users to report issues or complaints, but rather to provide general feedback and insights about properties. Please ensure that you only submit relevant and non-duplicative feedback to help us improve our services.
-</thinking>
-
 # Property Feedback Form - Help Guide
 ## Purpose
 The Property Feedback Form is designed to collect feedback and insights about properties from users. This form is intended to help us improve our services and provide a better experience for our clients.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to assess the knowledge and skills of data frame operations from various angles, including instructor and trainer perspectives. The quiz covers various aspects such as data frame operations knowledge, learning progress, skills screening, and trainer's hiring teams. It's essential to fill out the form accurately to get a comprehensive understanding of the knowledge and skills of data frame operations. To avoid duplication and non-relevance, please make sure to fill the form with unique and relevant information about data frame operations.
-</thinking>
-
 # Data Frame Operations Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate your knowledge and skills in data frame operations. It is divided into multiple sections covering different aspects of data frame operations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # everyday_objects_knowledge_quiz - Help Guide
 
 ## Purpose

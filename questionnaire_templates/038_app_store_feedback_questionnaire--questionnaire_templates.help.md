@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect feedback from users about their experience with the app on the App Store. This form will help us understand how you found our app, what features you think are missing, and how we can improve our store listing to make it more appealing to you. It is essential to provide honest and accurate feedback, as it will help us make informed decisions about our app's development and listing optimization.
-
-Please note that this form will not collect sensitive information and is designed for general feedback purposes only.
-
-</thinking>
-
 # App Store Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback about your experience with our app on the App Store. Your input will help us understand how you found our app, what features you think are missing, and how we can improve our store listing to make it more appealing to you.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sound Quiz Form - Help Guide
 ## Purpose
 This form is designed to collect sound-related information, likely for quizzes or assessments within the "quizzes" category. It appears to be a simple form with a few select fields that require user input. The form's purpose is to gather user responses, possibly for educational or assessment purposes.

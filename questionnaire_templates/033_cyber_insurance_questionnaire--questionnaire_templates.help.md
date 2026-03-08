@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's or organization's cyber insurance needs. This form helps users assess their level of cyber insurance coverage, identify potential risks, and determine the type and scope of coverage required. It is essential to ensure that the responses provided are accurate and relevant to the user's actual cyber insurance needs.
-
-To avoid duplicating or contradicting information, please review the form carefully and answer the questions truthfully. This will help us better understand your cyber insurance requirements and provide you with the most suitable coverage options.
-
-Please note that some questions may seem repetitive, but they serve a specific purpose in the overall assessment process. Answering them accurately will aid in creating a comprehensive cyber insurance plan that meets your needs.
-
-</thinking>
-
 # Cyber Insurance Questionnaire - Help Guide
 ## Purpose
 

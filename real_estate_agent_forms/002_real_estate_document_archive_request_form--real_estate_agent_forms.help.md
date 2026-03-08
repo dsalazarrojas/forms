@@ -1,12 +1,3 @@
-<thinking>
-The real_estate_document_archive_request_form is designed to collect information for real estate document archives. It is intended for use in scenarios where agents need to request archiving of specific property-related documents. This form is likely used by real estate agents to request the archiving of documents such as deeds, leases, and other property-related files.
-
-Internal reasoning check: This form is only meant for requesting archives of property-related documents, and it is not intended for other purposes. Therefore, only property-related documents should be submitted using this form.
-
-No duplicate submissions: Please do not submit the same document for archiving multiple times as it may cause confusion and duplicate work.
-
-</thinking>
-
 # real_estate_document_archive_request_form - Help Guide
 ## Purpose
 The real_estate_document_archive_request_form is designed to collect information for real estate document archives.

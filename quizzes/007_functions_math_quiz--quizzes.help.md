@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from students for the purpose of assessing their understanding of mathematical functions, specifically their ability to solve math-related questions. This form will be useful for teachers to gauge student progress and identify areas that require extra attention.
-This form is intended to collect information in a structured and systematic way, so the teacher can analyze and track the student's performance effectively.
-The following sections will explain each part of this form.</thinking>
-
 # Functions Math Quiz - Help Guide
 
 ## Purpose

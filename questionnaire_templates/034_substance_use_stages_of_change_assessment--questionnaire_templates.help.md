@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess an individual's substance use stages of change, which is a concept used in substance use treatment and counseling. The purpose of this form is to help individuals track their progress and identify areas where they need improvement. This form is typically used in a clinical setting to monitor client outcomes and make data-driven decisions.
-
-To ensure you are using this form correctly, please note that each stage represents a specific stage of substance use change. The stages are numbered from 1 to 30, with each stage indicating a different level of substance use change. The form asks you to enter the current stage you are in, as well as your readiness score for each stage.
-
-Please make sure you are filling out the form for the correct stage and score you are currently at. If you are unsure, consult with your clinician or counselor.
-</thinking>
-
 # Substance Use Stages Of Change Assessment - Help Guide
 ## Purpose
 The Substance Use Stages Of Change Assessment is a questionnaire designed to help individuals track their progress in substance use change.

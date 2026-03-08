@@ -1,10 +1,3 @@
-<thinking>
-To ensure that the form is being used correctly and to prevent duplication, it's essential to clearly document how to complete and use the "Laser Engraving Quote Request" form. This guide will provide step-by-step instructions on how to fill out the form and what each field means.
-
-The purpose of this form is to collect information from clients for quote requests related to laser engraving services. This form will be used to gather necessary details to provide accurate pricing and services.
-
-</thinking>
-
 # Laser Engraving Quote Request - Help Guide
 ## Purpose
 The "Laser Engraving Quote Request" form is designed to collect information from clients for quote requests related to laser engraving services. This form will help us gather necessary details to provide accurate pricing and services.

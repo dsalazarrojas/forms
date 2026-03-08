@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from individuals who visited an open house event hosted by a real estate agency. The form will help the agency understand the visitor's experience, gather information about the event, and gather contact information for follow-up communication. This form is intended for agents who participated in the open house event. 
-
-Please note that this form is not designed to gather contact information from agents who are not visiting the open house, and the "Contact" field is required only to gather information about the attendees of the open house event. 
-
-</thinking>
-
 # real_estate_open_house_feedback_form - Help Guide
 ## Purpose
 This form is intended for agents to gather feedback and information from attendees after an open house event. It helps the agency to understand the visitor's experience and provide better services.

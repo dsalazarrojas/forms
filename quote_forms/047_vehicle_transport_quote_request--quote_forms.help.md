@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Transport Quote Request - Help Guide
 ## Purpose
 This form is a quote request for vehicle transport services. It gathers information about the vehicle being transported, the type of transport required, and contact details for the transport request.

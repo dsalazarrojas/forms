@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for video quizzes. It is designed for end users to create or manage video quiz content. The form should only be filled out for video quizzes, and not for other types of content. Please ensure that this form is filled out correctly and accurately. This guide will walk you through how to complete the form properly.
-</thinking>
-
 # video_quiz - Help Guide
 ## Purpose
 The video_quiz form is used to create or manage video quiz content.

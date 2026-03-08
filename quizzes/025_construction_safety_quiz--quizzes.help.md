@@ -1,6 +1,3 @@
-<thinking> 
-We need to determine if the user has filled in the construction safety quiz and if it is a retake. This should be done by checking the 'passing_status' field. If it is 'Fail', we should display a 'Retake Required' message, otherwise, we should display a 'Quiz Submission Successful'. We also need to verify if the quiz has a participant name, email, employee ID, company name, job title, and quiz date. If any of these fields are empty, we should display a 'Missing Information' message. Finally, we need to make sure that the participant's quiz score is not zero. If it is, we should display a 'Quiz Submission Failed' message.</thinking>
-
 # Construction Safety Quiz - Help Guide
 ## Purpose
 This form is designed to test the knowledge of construction personnel on safety practices and procedures. It consists of multiple-choice questions related to safety guidelines, best practices, and standards.

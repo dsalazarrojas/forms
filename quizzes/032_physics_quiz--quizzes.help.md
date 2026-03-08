@@ -1,6 +1,3 @@
-<thinking>Internal reasoning block:
-The form is a quiz designed for students to answer physics-related questions. It seems to be a comprehensive form with various question types, including text, select-one, select-multiple, and date/time fields. The form is likely used to assess students' knowledge in physics. To ensure the form is filled out correctly, we should check for duplication of questions and ensure the user understands the purpose and each field's intent.</thinking>
-
 # Physics Quiz - Help Guide
 ## Purpose
 This form is designed to help you create a free online quiz for your students to assess their knowledge in physics.

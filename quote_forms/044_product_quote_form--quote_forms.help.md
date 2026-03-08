@@ -1,7 +1,3 @@
-<thinking>
-We have a form called "product_quote_form" which is likely used to generate quotes for a product. The form's purpose is to gather information about the product and the customer, to provide a quote for the customer. This form likely serves as a front-end representation of a backend process. To ensure relevance, it's essential that this form accurately captures the necessary details about the product and customer, to generate an accurate quote. To avoid duplication, we should ensure that the form does not contain any duplicate fields that could lead to incorrect or misleading data.
-</thinking>
-
 # product_quote_form - Help Guide
 ## Purpose
 The product quote form is designed to gather information about a product and the customer, in order to provide a quote for the product. This form serves as a front-end representation of a backend process.

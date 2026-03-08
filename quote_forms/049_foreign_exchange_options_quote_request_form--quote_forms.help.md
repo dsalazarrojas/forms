@@ -1,7 +1,3 @@
-<thinking>
-To create an effective help guide for the Foreign Exchange Options Quote Request Form, I need to understand the intended purpose and functionality of the form, which is likely used for requesting quotes for foreign exchange options. This form likely serves as a means for end-users to submit their requests for quotes, including details about the type of option they are interested in (Instrument) and other relevant details such as Notional, Strike, Expiration Date, Expiration Time, Price, and Quantity. 
-</thinking>
-
 # Foreign Exchange Options Quote Request Form - Help Guide
 ## Purpose
 This form is used to submit a quote request for foreign exchange options.

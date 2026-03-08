@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from users about enzymes and carbohydrates, a topic that is crucial in nutrition and biochemistry. The form aims to assess users' knowledge on various aspects of enzymes and carbohydrates, including their functions, roles, and effects on the body. The questions cover a range of topics, from the basic functions of enzymes and carbohydrates to their roles in energy production, storage, and digestion. The form also touches on the effects of high-carbohydrate diets, fiber, and ketosis, as well as the differences between low-carb and low-fat diets.
-
-The form will help to identify areas of knowledge gaps in the subject matter, providing valuable insights for educational and informative purposes. It will be used to create a self-paced quiz or test for students, researchers, or enthusiasts of biology and nutrition.
-
-This form is an original adaptation created using AI, and it is not affiliated with, endorsed by, or derived from any form platform. You are free to use, modify, and even sell forms derived from it, just give credit.
-
-Please note that this form was created using public survey topic metadata as inspiration, and it does not copy, extract, or use proprietary content from any form creation, data collection, or survey platform. Released under CC BY 4.0, you can use, modify, and share this form without restrictions.
-
-</thinking>
-
 # Enzymes And Carbohydrates Quiz - Help Guide
 ## Purpose
 The Enzymes And Carbohydrates Quiz is a self-paced quiz designed to test your knowledge on enzymes and carbohydrates. The quiz covers various aspects of this crucial topic, including enzyme functions, energy sources, carbohydrate roles in the diet, and the effects of high-carb diets.

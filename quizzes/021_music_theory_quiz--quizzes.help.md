@@ -1,11 +1,3 @@
-<thinking>
-
-To create the help guide for the "Music Theory Quiz" form, we first need to understand its purpose. The form is used to administer a quiz on music theory, which is a fundamental aspect of music composition. The quiz likely assesses the respondent's knowledge of music theory basics, such as the main components of music and other related concepts.
-
-The form has 12 fields, each asking a different question or requiring a different type of input. To ensure that we don't create redundant content, we should review each field carefully and provide explanations for each.
-
-</thinking>
-
 # Music Theory Quiz - Help Guide
 ## Purpose
 The Music Theory Quiz form is used to test your knowledge of music theory basics. This form will help us assess your understanding of music fundamentals and related concepts.

@@ -1,19 +1,3 @@
-<thinking>
-This help guide will help the end user understand the purpose and usage of the Business Internet Quote Form. 
-The form is designed to collect business information from clients seeking internet services. 
-The form collects the following information:
-- Business name
-- Contact person name
-- Contact email
-- Service address
-- Required speed
-- Contract length
-- Number of users
-- Additional services
-- Best time to contact
-The guide will help users understand each field's purpose and required status to fill the form efficiently and correctly.
-</thinking>
-
 # Business Internet Quote Form - Help Guide
 ## Purpose
 The Business Internet Quote Form is designed to collect business information from clients seeking internet services. It is used to gather relevant details for generating a quote for the requested internet service.

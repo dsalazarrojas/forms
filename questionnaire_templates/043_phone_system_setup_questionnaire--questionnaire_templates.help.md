@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information about a business's phone system setup, including its contact information, phone system details, and specific requirements. To complete this form, follow these steps:
-
-1. Start by providing the business name, phone system ID, contact person's name, email, phone number, and address.
-2. Select the type of business (telecom provider, IT team, or service partner).
-3. Enter the number of employees in the business.
-4. Describe the phone system details.
-5. Indicate whether the business already has a phone system in place, and if so, provide its name and information.
-6. Specify the phone system requirements, which include voicemail, call forwarding, and other features.
-7. Provide additional phone system features that are required or desired.
-8. Describe the next steps for setup and integration.
-9. Add any comments or notes about the business phone system.
-</thinking>
-
 # Phone System Setup Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about a business's phone system setup, which will be used to guide the setup and integration process.

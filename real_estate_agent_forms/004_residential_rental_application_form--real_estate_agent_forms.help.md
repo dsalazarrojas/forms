@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from prospective tenants for rental applications. It is used to collect demographic data and rental history information for real estate agents to review and potentially show properties to. The form is not intended to be used for any other purpose.
-The form is divided into multiple pages, but the actual layout is not specified. However, it is assumed that the form will be rendered on a single page with all fields in a logical order.
-The fields are all optional, but the form is not intended to be used for anonymous submissions. It is assumed that the form will be filled out by a real person, and that the required information will be accurate and truthful.
-</thinking>
-
 # residential_rental_application_form - Help Guide
 ## Purpose
 The residential rental application form is used to gather information from prospective tenants for rental applications. It is used to collect demographic data and rental history information for real estate agents to review and potentially show properties to.

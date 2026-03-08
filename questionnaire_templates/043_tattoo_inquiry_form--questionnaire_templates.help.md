@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in getting a tattoo. The purpose of this form is to inquire about a potential tattoo appointment, including the desired style, size, location, and other relevant details. This form should only be used for genuine inquiries and not for spamming or other malicious purposes. To prevent abuse, users are advised to fill in their actual contact information and answer questions truthfully.</thinking>
-
 # Tattoo Inquiry Form - Help Guide
 ## Purpose
 The Tattoo Inquiry Form is designed to collect information from users who are interested in getting a tattoo.

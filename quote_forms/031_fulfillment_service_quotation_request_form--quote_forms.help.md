@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a quotation request related to fulfillment services. It includes fields for provider and customer information, service details, and submission options.
-</thinking>
-
 # Fulfillment Service Quotation Request Form - Help Guide
 ## Purpose
 This form is intended to help customers request quotations for fulfillment services from service providers. It captures relevant information about the service provider, customer, and service details to facilitate efficient quotation preparation.

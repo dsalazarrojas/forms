@@ -1,11 +1,3 @@
-<thinking>
-We've created this wedding photography questionnaire to help couples get a better understanding of their photographer's services, capabilities, and requirements. This form is designed to ensure that both the photographer and the couple are on the same page from the start, saving time and effort later on in the process.
-
-By completing this form, couples will be able to share essential information about their wedding event, including the details of the event, their preferences, and any special requests they may have. This will help the photographer get a clear understanding of what they need to do to make their day special. Additionally, the form will also help photographers provide the best possible service to their clients by giving them a chance to showcase their work, share their experiences, and get feedback from their clients.
-
-This form should not be used for commercial purposes and should only be used for internal use by the photographer and the couple. The form has been created using publicly available information and does not infringe on any existing patents or copyrights.
-</thinking>
-
 # Wedding Photography Questionnaire - Help Guide
 ## Purpose
 This wedding photography questionnaire is designed to collect essential information from couples about their wedding event, including details about the event, their preferences, and special requests. This will help the photographer understand what they need to do to make the day special and provide the best possible service to their clients.

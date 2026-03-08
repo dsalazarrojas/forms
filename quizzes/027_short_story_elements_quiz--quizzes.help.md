@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Short Story Elements Quiz - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to assess the professional risks and hazards that an individual may face in a workplace setting. The purpose of this questionnaire is to gather information on the types of risks that may exist, the training practices in place, and the risk management processes used to mitigate these hazards. To complete this form, users will be required to provide information on the types of hazards they are exposed to, the types of training they have received, and the risk management processes they follow. Please note that not all fields are required, and users can choose to complete only the sections that apply to them. The form's fields are designed to be user-friendly and clear, with each section and question explained below in detail.
-
-</thinking>
-
 # Professional Risk Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess professional risks and hazards in a workplace setting.

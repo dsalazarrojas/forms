@@ -1,7 +1,3 @@
-<thinking>
-This form is used for a personality quiz to determine a user's style when playing games. The goal is to identify a user's preferences in terms of game type, frequency, style, and other characteristics. This quiz should be completed by users who are willing to provide personal information and are interested in understanding their gaming style.
-</thinking>
-
 # Gaming Style Personality Quiz - Help Guide
 ## Purpose
 This form is used to determine a user's gaming style by asking a series of questions about their preferences and characteristics.

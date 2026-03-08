@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to provide quotations for digital transformation projects. It collects information about the project's details, customer and project manager contact information, and transformation type. The form is likely used by project managers or sales teams to gather requirements for quoting and project planning purposes.
-To avoid duplication of efforts and ensure accurate quotations, please make sure to fill out the form correctly and thoroughly.
-</thinking>
-
 # Digital Transformation Quotation Form - Help Guide
 ## Purpose
 

@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to collect information from swimmers who are registering for a swimming competition. This form will be used to gather data about the swimmer's contact information, swimmer details, and emergency contact information. The form is designed to be completed by the swimmer or their coach/parent/guardian. The fields are divided into two main categories: swimmer information and emergency contact information.
-
-The goal of this form is to ensure that all required fields are completed accurately and thoroughly. This will help the competition organizers to get in touch with the swimmer in case of any issues or emergencies.
-
-To avoid any duplication or errors, please note that the competition organizers will use the information provided in this form to contact the swimmer and their emergency contact. If any information is missing or incorrect, it may cause delays or complications.
-
-Please ensure that all fields are filled in accurately and thoroughly. If you are unsure about any field, please ask the competition organizers for clarification.
-</thinking>
-
 # Swimming Competition Entry Form - Help Guide
 ## Purpose
 

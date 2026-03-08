@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from children and youth about their experiences in a program or activity. The questions cover various aspects of their involvement, including their personal experiences, relationships with staff, and overall satisfaction with the program. This form is intended for internal use, to help program administrators and staff improve the services and experiences they provide. It is essential to ensure that each response is genuine and not duplicated, to provide accurate and unbiased feedback. Please answer the questions truthfully, and if you have already responded, please do not repeat your answers.
-</thinking>
 # Child And Youth Questionnaire - Help Guide
 
 ## Purpose

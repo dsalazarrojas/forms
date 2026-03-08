@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information from potential renters interested in renting a property. The goal is to gather relevant details about the applicant, their preferences, and their financial situation. This form is designed to help the property owner or landlord assess whether the applicant is a suitable candidate for renting the property. It's essential to fill out this form accurately and completely to ensure that the property owner or landlord has a clear understanding of the applicant's needs and qualifications.
-
-Before filling out this form, please review the property's availability and ensure that it matches your search criteria. This form should not be filled out if you are already renting the property, as it will not be considered a valid application.
-
-</thinking>
-
 # Rental Application Interest Form - Help Guide
 ## Purpose
 The Rental Application Interest Form is designed to collect information from potential renters interested in renting a property. This form helps the property owner or landlord determine whether the applicant is a suitable candidate for renting the property.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect modular home design selections from users. Its purpose is to gather information on users' preferences, such as the number of bedrooms and bathrooms, type of floor plan, and other relevant details.
-</thinking>
-
 # Modular Home Design Selections - Help Guide
 ## Purpose
 This form is used to collect information on users' preferences for a modular home design. It helps us understand their needs and provide a personalized experience.

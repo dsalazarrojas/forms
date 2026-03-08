@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Virtual Tour Registration Form - Help Guide
 
 ## Purpose

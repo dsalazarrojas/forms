@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Freelance Service Quote Form - Help Guide
 
 ## Purpose

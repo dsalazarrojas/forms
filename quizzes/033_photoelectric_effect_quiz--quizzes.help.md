@@ -4,9 +4,7 @@
 
 This quiz is designed to test your understanding of the photoelectric effect, a fundamental concept in physics. The photoelectric effect is a phenomenon in which electrons are emitted from a material when a photon of a certain energy hits the material. The quiz will ask you a series of questions to assess your knowledge on the topic.
 
-### <thinking> internal reasoning block </thinking>
-
-This form is intended to collect user feedback on the photoelectric effect quiz. It is used to determine the score of the user and gather additional comments or feedback from the user. The form should only be filled out after the user has completed the photoelectric effect quiz. 
+### This form is intended to collect user feedback on the photoelectric effect quiz. It is used to determine the score of the user and gather additional comments or feedback from the user. The form should only be filled out after the user has completed the photoelectric effect quiz. 
 
 ## How To Complete This Form
 

@@ -1,8 +1,3 @@
-<thinking>
-This guide will help users fill out the Halloween Costume Quz form, which aims to understand users' preferences for a hypothetical scenario where they are planning a Halloween costume. The form asks users to select their favorite costume type, age group, favorite colors, favorite animals, and other personal interests, among others. Users can fill out the form by selecting from various options, such as superhero, monster, and princess, and other categories like favorite music, food, and activities.
-Please ensure to fill out the form with your actual preferences and enjoy the experience! If you have already filled out a similar form, this might look familiar, please feel free to skip or adjust as needed.
-</thinking>
-
 # Halloween_Costume_Quz - Help Guide
 ## Purpose
 The Halloween_Costume_Quz form is designed to help users express their preferences and interests for a hypothetical scenario where they are planning a Halloween costume. This form will guide you through selecting your favorite costume types, colors, animals, music, food, activities, and other preferences.

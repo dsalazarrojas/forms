@@ -1,8 +1,3 @@
-<thinking>
-Before creating the user-facing help guide, I will analyze the form's purpose and fields to ensure I understand its design and requirements. Based on the provided YAML, it appears that the form is designed to test a person's knowledge and competencies related to DUI (Driving Under the Influence) defense, covering various aspects such as defense facts, skills, procedures, laws, technology, evaluation, and review. I will review the form fields to provide a clear and concise help guide for end-users.
-
-</thinking>
-
 # DUI Defense Competency Quiz - Help Guide
 ## Purpose
 The DUI Defense Competency Quiz is designed to assess a person's knowledge and understanding of DUI defense concepts, laws, procedures, skills, and technologies. This quiz aims to evaluate their ability to apply their expertise in a real-world scenario.

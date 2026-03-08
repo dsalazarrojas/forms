@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect data for the fourth step of a process. Please confirm that this form is relevant to your process and not a duplicate. If it is not, please do not fill it out.
-
-The form will guide you in collecting information on the harms or negative effects experienced during the fourth step of your process. You will be asked to indicate whether harms occurred, report the date and time of the event, specify the location and description of the incident, and report any actions taken in response to the incident.
-</thinking>
-
 # step_4_harms_inventory - Help Guide
 ## Purpose
 The **step_4_harms_inventory** form is a questionnaire used to collect data on harms or negative effects experienced during the fourth step of a process.

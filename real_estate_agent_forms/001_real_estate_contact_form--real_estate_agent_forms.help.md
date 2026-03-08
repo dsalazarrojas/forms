@@ -1,7 +1,3 @@
-<thinking>
-This form is for the real estate industry, specifically for real estate agents and property managers to contact and manage properties. It is likely used for listing properties, searching for properties, or managing contact information. This form is used for internal purposes and is not intended for public use.
-</thinking>
-
 # real_estate_contact_form - Help Guide
 ## Purpose
 This form is designed for real estate agents and property managers to gather and manage contact information for various properties. It is used to track properties' statuses, features, and contact methods.

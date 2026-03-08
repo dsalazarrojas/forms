@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wood Material Knowledge Quiz - Help Guide
 
 ## Purpose

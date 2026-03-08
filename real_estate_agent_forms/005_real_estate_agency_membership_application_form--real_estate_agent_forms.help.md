@@ -1,11 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the real_estate_agent_forms category, specifically for the "real_estate_agency_membership_application_form" form. This guide should explain the form's purpose, how to complete it, and what each field means. This guide should be concise, practical, and based on the provided YAML fields.
-
-The purpose of this form is to gather information from real estate agents to apply for membership with our agency. The form aims to collect necessary details to verify the agent's eligibility and ensure a smooth onboarding process.
-
-To avoid duplication, we'll ensure that this form is only filled out once by the agent, and all fields are filled in accurately to avoid any discrepancies.
-</thinking>
-
 # real_estate_agency_membership_application_form - Help Guide
 ## Purpose
 The real_estate_agency_membership_application_form is used to collect information from real estate agents applying for membership with our agency. This form helps us verify your eligibility and ensures a smooth onboarding process.

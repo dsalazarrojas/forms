@@ -1,13 +1,3 @@
-<thinking> 
-This form is a Secret Santa Questionnaire, designed to collect information for the Secret Santa gift exchange game. The form is intended to be filled out by the gift-giver and recipient, and it will be used to facilitate the gift selection process.
-
-Before proceeding, please ensure that:
-1. This form is not being used for commercial or malicious purposes.
-2. The form is not being filled out multiple times by the same user.
-3. This form is not being used for other purposes than Secret Santa gift exchange game.
-
-</thinking>
-
 # Secret Santa Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information for the Secret Santa gift exchange game. It will help the gift-giver and recipient to communicate their preferences and limits for the gift selection process.

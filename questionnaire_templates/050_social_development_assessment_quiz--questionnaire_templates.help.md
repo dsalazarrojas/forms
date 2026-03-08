@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Development Assessment Quiz - Help Guide
 ## Purpose
 

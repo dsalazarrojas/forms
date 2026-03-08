@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about the property's condition during move-in and move-out events. The form will help the user to report the condition of the property at the start and end of a rental period. This information will be used by property managers or landlords to track the property's state and make necessary repairs or adjustments.
-</thinking>
 # Move In Move Out Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about the property's condition during move-in and move-out events. It will help track the condition of the property at the start and end of a rental period.

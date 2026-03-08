@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mass_media_communication_quiz - Help Guide
 
 ## Purpose

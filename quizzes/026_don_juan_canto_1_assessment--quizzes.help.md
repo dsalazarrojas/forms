@@ -1,8 +1,3 @@
-<thinking> 
-The Don Juan Canto 1 Assessment form appears to be a comprehensive evaluation tool used to assess the difficulty and feedback of various questions or content. The form is designed to gather multiple-choice responses from the users. It seems to be used in an educational context, possibly for evaluating quizzes or assessments.
-
-To confirm, can you please clarify or confirm the form's purpose and any specific requirements or limitations for completion?</thinking>
-
 # Don Juan Canto 1 Assessment - Help Guide
 ## Purpose
 This form is used to assess the difficulty and feedback of various questions or content. It is designed to gather multiple-choice responses from the users, which will help in understanding the user experience and provide valuable insights for improvement.

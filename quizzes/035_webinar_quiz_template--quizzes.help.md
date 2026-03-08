@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Webinar Quiz Template - Help Guide
 ## Purpose
 This form is designed to create a quiz for a webinar or training session. It allows you to define the structure and questions of your quiz, including multiple-choice and date/time questions.

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for real estate agents to gather information from sellers about their properties, including their contact information, property details, and realtor licensing status. This form helps to facilitate communication and data collection for real estate transactions.
-
-Please ensure that this form is only filled out by real estate agents with valid business purposes. If you're a seller or a non-real estate professional, this form may not be relevant to you.
-
-Please be aware that filling out this form may imply consent for the collection of your data for real estate purposes.
-
-To avoid duplication of effort, please do not fill out this form if you've already provided your information through other means.
-</thinking>
-
 # Realtor Seller Intake Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the "Gold Price Estimation Form". The form is used to estimate the price of gold items based on various factors such as weight, type, size, and customer information. The form is not meant to provide a definitive or final assessment of the gold item's value, but rather to gather relevant data that can aid in making an estimate. This form is likely used in a business or commercial setting, possibly in the jewelry or precious metals industry. The form's purpose is not to be a comprehensive or exhaustive evaluation tool, but rather a starting point for further analysis or discussion.
-
-To avoid duplication of effort, this guide will cover the form's purpose, usage, and explanation of each field in a clear and concise manner.
-
-</thinking>
-
 # Gold Price Estimation Form - Help Guide
 ## Purpose
 This form is used to collect and analyze data to make an estimate of the price of gold items. The form gathers information such as item weight, type, size, and customer preferences to help make an educated estimate.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Here is the final help guide for the "Roastery Visitor Health Questionnaire" form:
 
 # Roastery Visitor Health Questionnaire - Help Guide

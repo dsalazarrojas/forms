@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the health status of an individual, family history, lifestyle factors, and other relevant information. This form is likely to be used in a medical or healthcare setting where understanding an individual's health status and history is crucial for providing personalized care and treatment. Before proceeding, please make sure you are filling this form for the correct purpose and that it's not a duplicate of another similar form. Ensure that you are filling this form as an individual or as part of a larger assessment, and not as a placeholder or demonstration.
-</thinking>
-
 # Human Health And Family Assessment - Help Guide
 ## Purpose
 This form is designed to gather essential information about an individual's health status, family history, and other relevant factors. It's essential for healthcare providers to understand these factors to provide personalized care and treatment.

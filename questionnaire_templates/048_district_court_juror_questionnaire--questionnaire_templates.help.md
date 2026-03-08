@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from potential jurors for the District Court, which will use this data to evaluate and select individuals to serve as jurors. The form will be used to collect information about the contact details and background of the respondents, as well as their experience and background information. The form does not contain any sensitive or personally identifiable information, making it suitable for use in a public forum. However, please ensure that you do not use this form for any commercial or profit-generating purposes, and always provide proper attribution to the original creators when using any forms derived from this one.
-
-Before filling out this form, please ensure that you have not already filled it out. Duplication of efforts may lead to unnecessary data collection and processing efforts.
-</thinking>
-
 # District Court Juror Questionnaire - Help Guide
 
 ## Purpose

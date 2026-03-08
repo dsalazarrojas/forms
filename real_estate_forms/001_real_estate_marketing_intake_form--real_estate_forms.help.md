@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about a property listing for marketing purposes. It is intended to be used by real estate agents or brokers to provide details about a property they are listing on the market. The form will be used to understand the client's contact information, property details, and marketing goals.
-
-To ensure that each form submission is accurate and complete, please note that some fields are marked as required. This means that the field must be filled out for the form to be successfully submitted. The field types and options will be explained in more detail below.
-
-This form should not be used for other purposes, such as listing multiple properties at once or for general inquiries.
-
-Before submitting, please review and complete all required fields carefully. You can skip optional fields if they are not relevant or applicable to your specific listing.
-
-</thinking>
-
 # real_estate_marketing_intake_form - Help Guide
 
 ## Purpose

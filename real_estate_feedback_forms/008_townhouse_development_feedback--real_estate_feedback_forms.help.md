@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from residents regarding the townhouse development process. The form will help gather information on various aspects of the development, including resident satisfaction, questions or concerns, and suggestions for improvement. Before filling out this form, please review the questions and fields to ensure you are providing accurate and relevant feedback.
-
-</thinking>
-
 # Townhouse Development Feedback - Help Guide
 ## Purpose
 This form is for residents to provide feedback on their experience with the townhouse development process. Your feedback will help us understand what works well and what areas need improvement, enabling us to create a better living environment for all.

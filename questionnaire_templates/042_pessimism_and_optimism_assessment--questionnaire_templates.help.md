@@ -1,5 +1,3 @@
-<thinking>...to create a user-facing help guide for the Pessimism and Optimism Assessment form... </thinking>
-
 # Pessimism and Optimism Assessment - Help Guide
 ## Purpose
 

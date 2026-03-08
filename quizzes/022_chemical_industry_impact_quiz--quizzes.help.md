@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to gauge the user's knowledge and understanding of the chemical industry's environmental and social impact. The questions are designed to cover various aspects of the industry, including its effects on the environment, society, and economy. This form is part of a larger effort to collect data on industry perceptions and understanding. The questions are based on publicly available information and are not specific to any particular product or company.
-
-Before filling out this form, please review the questions carefully and answer based on your genuine knowledge and understanding. This form is not a test, and there are no right or wrong answers. The purpose of this form is to collect data for research and analysis, not to evaluate your performance.
-
-Please ensure that you have read and understood the questions before proceeding. If you are unsure about any question, feel free to ask for clarification or assistance.
-
-Please also note that this form is intended for educational and research purposes only. The collected data will be used to improve industry understanding and awareness.
-
-If you have any feedback or suggestions on the form or its questions, please do not hesitate to share them with us.
-
-This form has multiple questions that require different types of answers, including select_one and select_multiple. Please answer each question based on your knowledge and understanding, and select only one option that best represents your answer.
-
-</thinking>
-
 # Chemical Industry Impact Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge and understanding of the chemical industry's environmental and social impact. Please answer the questions based on your genuine knowledge and understanding.

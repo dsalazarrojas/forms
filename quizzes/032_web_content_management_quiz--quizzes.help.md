@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for collecting information from users about their web content management roles and preferences. The purpose of this form is to gather data on how users perceive and interact with web content. The form can be filled out by anyone who wants to participate in the study.
-It's essential to complete this form only once for each unique user, to avoid duplication of results.
-</thinking>
-
 # Web Content Management Quiz - Help Guide
 ## Purpose
 This form is designed to collect data on users' roles and preferences regarding web content management. By filling out this form, you will help us better understand how users interact with web content.

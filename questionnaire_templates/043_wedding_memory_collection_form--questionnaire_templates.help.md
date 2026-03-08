@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect memories related to a wedding event, gathering information on various aspects of the wedding day, such as the story, photo, and other details about the couple and planners involved. The form is intended to be filled out by someone who attended the wedding or was part of the planning process.
-
-</thinking>
-
 # Wedding Memory Collection Form - Help Guide
 ## Purpose
 The Wedding Memory Collection Form is a tool for collecting memories, stories, and details about a wedding. This form is designed to help you record and save important moments from the special day.

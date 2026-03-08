@@ -1,8 +1,3 @@
-<thinking>
-**Form purpose**: The Prospective Tenant Application Form is a collection of fields designed to gather information from prospective tenants to assess their suitability to rent a property.
-**Internal reasoning**: This form is intended to provide a standardized and efficient way to gather necessary information from applicants. It is crucial to verify that the applicant's information is accurate and reliable. 
-</thinking>
-
 # Prospective Tenant Application Form - Help Guide
 ## Purpose
 The Prospective Tenant Application Form is a collection of fields designed to gather information from prospective tenants to assess their suitability to rent a property.

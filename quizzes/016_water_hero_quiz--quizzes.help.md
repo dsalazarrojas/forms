@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Water Hero Quiz - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for homeowners insurance quotes, aiming to determine the type of coverage and amount needed for a property. The form will guide users through a series of questions to understand their home and personal details. Each field in the form is carefully crafted to ensure accurate and relevant information collection. This guide will walk users through the form's purpose, completion process, and field explanations to help them fill it out effectively and efficiently.
-</thinking>
-
 # Homeowners Insurance Quote Questionnaire Form - Help Guide
 ## Purpose
 This form is used to collect information for homeowners insurance quotes, helping us understand your coverage needs for your home.

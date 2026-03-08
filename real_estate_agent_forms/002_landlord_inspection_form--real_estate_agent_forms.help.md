@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for landlords to conduct regular property inspections, checking the condition and functionality of various features on a rental property. The form's structure suggests that it's intended for a detailed examination of a property's systems, equipment, and exterior features. This form may be used by property managers, property maintenance staff, or landlords themselves to record the status of different components of a rental unit.
-The form's required fields indicate that the inspection's main focus is on essential systems like electrical, plumbing, and heating/cooling. The optional field for general inspection notes suggests that the form also considers the overall condition of the property, possibly covering items not explicitly listed under other categories. The select_one and select_multiple options imply that inspectors need to choose one or multiple items from provided lists.
-</thinking>
-
 # Landlord Inspection Form - Help Guide
 ## Purpose
 This form is designed to guide landlords through a comprehensive inspection of a rental property, ensuring that all essential systems and features are checked and documented.

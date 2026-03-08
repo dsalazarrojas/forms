@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to share their story, feedback, and experiences with the company, providing an opportunity for users to provide input and suggestions. This form is likely used for customer feedback, support, and other communication channels. To avoid duplication, users should only fill out this form if they haven't already provided feedback on the same topic.
-</thinking>
-
 # Responsive Share Your Story Form - Help Guide
 ## Purpose
 The Responsive Share Your Story Form is designed to gather user feedback, stories, and experiences with the company. This form serves as an open channel for users to share their thoughts, concerns, and ideas, helping the company understand their needs and preferences better.

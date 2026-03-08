@@ -1,11 +1,3 @@
-<thinking>**Internal reasoning and checking for relevance and non-duplication**
-
-This form is intended to be a quiz that compares the geographical size of different features, such as countries, cities, rivers, mountains, and islands. The purpose of this form is to educate users on the relative sizes of these geographical features. 
-
-To ensure relevance and non-duplication, we will review the options provided in each field to ensure they are accurate and not duplicated.
-
-</thinking>
-
 # Geographical Size Comparison Quiz - Help Guide
 ## Purpose
 The Geographical Size Comparison Quiz is a tool designed to educate users on the relative sizes of different geographical features. This quiz allows you to compare the sizes of countries, cities, rivers, mountains, and islands.

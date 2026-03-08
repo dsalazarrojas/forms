@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose of this form. The "Dolphin Intelligence Quiz" form is designed to collect various types of information from users, including title, name, age, email, phone number, date of birth, time, and other details. This form is likely used for market research, data collection, or other purposes where a wide range of user data is needed. It's essential to ensure that the form is completed accurately and efficiently, so let's break down the steps and fields to help users do so.</thinking>
-
 # Dolphin Intelligence Quiz - Help Guide
 ## Purpose
 The Dolphin Intelligence Quiz form is designed to collect a wide range of information from users. Please follow the steps below to complete the form successfully.

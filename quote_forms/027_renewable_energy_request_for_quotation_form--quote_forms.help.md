@@ -1,8 +1,3 @@
-<thinking>
-This form is a general template, and it's likely not specific to a certain company or product. The purpose of this form is to collect contact information from customers interested in receiving a quote for a renewable energy service. This form is probably used in a business-to-business (B2B) or business-to-consumer (B2C) context, and it might be part of a larger process that involves quoting, sales, or customer service.
-Before we dive into the help guide, let's make sure this form is not a duplicate of another form used for a similar purpose. If you're reading this guide, it's likely that you're new to this form or that you need a refresher. Please take a few minutes to review the following guide to ensure you understand how to complete the form correctly and what each field is used for.
-</thinking>
-
 # renewable_energy_request_for_quotation_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in receiving a quote for a renewable energy service. This information will be used to send quotes and proposals to the customer.

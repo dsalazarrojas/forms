@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from potential egg donors, including general information, medical history, family history, health status, medical conditions, medication history, social history, contact information, emergency contact details, and egg donor history. This form is meant to be a comprehensive guide for individuals who wish to become egg donors, and it helps to streamline the application process. 
-
-Please note that this form does not collect sensitive or confidential information and is intended for informational purposes only. If you are a potential egg donor, please ensure that you have reviewed and understood the terms and conditions of the egg donation program before submitting this form.
-
-</thinking>
-
 # Egg Donor Screening Questionnaire - Help Guide
 ## Purpose
 The Egg Donor Screening Questionnaire is a comprehensive form designed to collect information from potential egg donors, helping to streamline the application process and ensure that all necessary details are gathered.

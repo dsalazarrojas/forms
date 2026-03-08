@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Internal Reasoning Block**
 
 The purpose of this form is to collect information from users for educational or research purposes. This form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using AI. The form is released under the Creative Commons (CC BY 4.0) license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.

@@ -1,11 +1,3 @@
-<thinking>
-This form is a duplex rental application form designed to collect information from potential tenants. Its purpose is to gather data about the tenant's identity, contact information, property details, rental history, and rental agreement. This form can be used by landlords, property managers, or rental agents to streamline the rental application process and make informed decisions about potential tenants.
-
-The form is not affiliated with or endorsed by any form platform and is an original adaptation created using public metadata. It is released under the Creative Commons BY 4.0 license, allowing users to modify and use it for any purpose.
-
-Before proceeding, please ensure that you are not duplicating an existing form and that you are using this form for its intended purpose.
-</thinking>
-
 # Duplex Rental Application Form - Help Guide
 ## Purpose
 The Duplex Rental Application Form is designed to collect information from potential tenants for a duplex rental property. It consists of five sections: Tenant Information, Contact Information, Property Details, Rental History, and Rental Agreement.

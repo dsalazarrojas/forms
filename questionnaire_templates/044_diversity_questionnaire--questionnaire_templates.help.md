@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # diversity_questionnaire - Help Guide
 
 ## Purpose

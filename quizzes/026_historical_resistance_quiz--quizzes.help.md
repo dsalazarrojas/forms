@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Historical Resistance Quiz - Help Guide
 
 ## Purpose

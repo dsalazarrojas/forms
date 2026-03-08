@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Combat Techniques Knowledge Quiz - Help Guide
 
 ## Purpose

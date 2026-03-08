@@ -1,5 +1,3 @@
-<thinking>Is this a quiz about debugging programming languages, and the purpose is to gather information about the user's familiarity with programming languages and debugging skills. The form is likely used for educational or research purposes, and the goal is to get a snapshot of the user's knowledge and experience. The form is not a high-stakes assessment, and the answers are not scored or evaluated. I will now provide a user-facing help guide for the form.</thinking>
-
 # Programming Language Debug Quiz - Help Guide
 ## Purpose
 This form is designed to gather information about your familiarity with programming languages and debugging skills. The quiz is used for educational or research purposes and is not a high-stakes assessment.

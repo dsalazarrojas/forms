@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about their opinions and policies on inclusion, which are likely related to diversity and equity initiatives within a workplace or organization. The form is likely used for research, feedback, or policy development purposes. Before completing this form, please ensure you have not already provided your input on this topic to avoid duplication of effort.
-
-</thinking>
-
 # Quiz On Inclusion Policies - Help Guide
 ## Purpose
 This form is designed to gather opinions and perspectives on inclusion policies within an organization. Your input will help inform and shape these policies to create a more inclusive and equitable work environment.

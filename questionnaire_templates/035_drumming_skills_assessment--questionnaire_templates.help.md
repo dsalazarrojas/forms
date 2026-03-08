@@ -1,7 +1,3 @@
-<thinking>
-This form is for assessing the drumming skills of individuals. It's likely used within an organization or educational setting to gauge the level of proficiency in drumming. I'm assuming the form is used for internal evaluation or assessment purposes. If this is not the case, it would be helpful to have more context. The fields seem to cover various aspects of drumming, including experience, technique, practice time, music theory knowledge, music notation familiarity, and performance pressure handling. This form is likely used to evaluate candidates for drumming-related roles or to monitor the progress of students in drumming lessons. It's possible that this form is used in conjunction with other assessments or evaluations to get a more comprehensive understanding of a person's drumming abilities.
-</thinking>
-
 # Drumming Skills Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate your skills and experience in drumming. It's used to assess your proficiency in various aspects of drumming, including technique, music theory, and performance pressure handling.

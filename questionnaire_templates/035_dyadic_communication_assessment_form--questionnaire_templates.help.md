@@ -1,9 +1,3 @@
-<thinking>
-
-The Dyadic Communication Assessment Form is a tool for evaluating the quality of communication between two individuals. This form assesses the verbal and nonverbal communication aspects of interaction, including conflict resolution, supportiveness, emotional intelligence, and more. It is designed to provide an objective evaluation of the communication dynamics between two people, which can be useful for personal or professional development, relationship assessment, or team-building purposes. 
-
-</thinking>
-
 # Dyadic Communication Assessment Form - Help Guide
 ## Purpose
 The Dyadic Communication Assessment Form is a tool to evaluate the quality of communication between two individuals, focusing on both verbal and nonverbal aspects of interaction.

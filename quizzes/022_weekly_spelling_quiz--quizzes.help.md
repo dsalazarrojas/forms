@@ -1,5 +1,3 @@
-<thinking>... This form is designed for educators to input and manage data related to weekly spelling quizzes. Each week, teachers can use this form to create and collect information on students' progress, scores, and other relevant details. The form should be used by educators who are familiar with the school's grading and reporting systems... thinking</thinking>
-
 # weekly_spelling_quiz - Help Guide
 ## Purpose
 The weekly_spelling_quiz form is a tool for teachers to create and collect data on students' weekly spelling progress. This data is used to track students' scores, grades, and other relevant details.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about the user's knowledge of founding documents. It appears to be part of a larger assessment or evaluation system, possibly for educational or research purposes. The form has multiple pages or sections, each with its own set of questions or fields. The goal of this form is likely to gauge the user's understanding of historical documents. This form likely serves as a tool for evaluating users who have demonstrated knowledge of founding documents.
-
-Before filling out this form, the user should be aware that it may be used for educational or evaluative purposes. It's essential to fill out the form honestly, as the information collected will be used to assess the user's knowledge.
-
-This form has multiple sections, each with different types of questions or fields. Some sections may ask for multiple selections or choices, while others may require written responses. Be sure to carefully read each section's instructions and fill out the form accurately.
-
-To avoid any confusion, the user should review each field carefully and ensure that the information provided is accurate and complete.
-
-</thinking>
-
 # Founding Documents Knowledge Quiz - Help Guide
 ## Purpose
 The Founding Documents Knowledge Quiz is designed to test your knowledge of founding documents.

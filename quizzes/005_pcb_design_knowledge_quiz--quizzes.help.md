@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to test the knowledge of users on the topic of PCB design. It will assess the user's understanding of different aspects related to PCB (Printed Circuit Board) design, including board layout, design rules, board type, materials, layer count, design tools, design process, and design methodology. 
-
-This form will not be used for certification or assessment purposes. It is a self-assessment tool to help users evaluate their knowledge and identify areas where they need more practice or study. 
-
-Please note that the form is composed of multiple pages, each page is intended to be completed independently. The questions on each page are designed to test the user's knowledge on different topics related to PCB design. 
-
-It is recommended that users complete each page in order from top to bottom to ensure that they are able to answer each question based on their current knowledge and then come back to the previous page if they need clarification or more time to complete the next page. 
-
-This form will not be timed. Users can complete it at their own pace and come back to it as many times as they need. 
-
-</thinking>
-
 # pcb_design_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of different aspects related to Printed Circuit Board (PCB) design. It is intended to help you evaluate your understanding and identify areas where you need more practice or study.

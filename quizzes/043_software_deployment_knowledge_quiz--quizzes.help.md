@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the knowledge of software deployment concepts and practices among team members. It is meant to be a quiz that assesses the understanding of various aspects of software deployment, including release knowledge, deployment practice, team training, onboarding, data collection, fast submission, organized submission, customizable quizzes, supports tracking, fast data collection, and organized submission tracking. The form has 11 questions, each with different types of options (select multiple, text, number, select one, date, and time). The form is not mandatory, but providing accurate and honest answers will help the team to improve their knowledge and practices.
-</thinking>
-
 # Software Deployment Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate your knowledge of software deployment concepts and practices.

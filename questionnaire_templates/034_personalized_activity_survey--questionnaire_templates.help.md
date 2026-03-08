@@ -1,5 +1,3 @@
-<thinking>...The Personalized Activity Survey form is designed to be a helpful tool for organizations to get to know their employees, customers, or clients better. It asks questions about their preferred activities, availability, and other relevant details to provide a more personalized experience. This form aims to reduce the likelihood of non-response and improve engagement by offering an enjoyable and relevant experience tailored to each individual's needs and preferences.</thinking>
-
 # Personalized Activity Survey - Help Guide
 ## Purpose
 The Personalized Activity Survey form is designed to provide a better experience for users by understanding their preferences and availability. This form helps in reducing the likelihood of non-response and improving engagement.

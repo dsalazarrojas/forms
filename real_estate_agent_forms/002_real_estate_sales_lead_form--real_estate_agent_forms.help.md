@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information about real estate sales leads. The purpose of this form is to collect data from leads generated through various sources, such as online leads, social media, or referrals. This data can be used to track and analyze lead generation efforts. To avoid duplication, ensure that you are not filling out this form if you have already provided your information to this real estate agency.
-
-</thinking>
-
 # Real Estate Sales Lead Form - Help Guide
 ## Purpose
 This form is used to capture information about real estate sales leads, which can be generated through various sources such as online leads, social media, or referrals.

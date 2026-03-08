@@ -1,12 +1,3 @@
-<thinking>
-We should ensure that the form is clear and easy to understand for the end-users, as it's part of a knowledge quiz on fall protection, which could have important implications for workplace safety.
-
-Before we proceed, let's quickly review the form's purpose and structure. The form is divided into several sections, each focusing on a different aspect of fall protection, such as fall protection knowledge, equipment, training, records, and submission. The form asks questions that cover topics like what fall protection is, types of equipment used, when training is recommended, and where records are kept.
-
-With this in mind, we should aim to create a help guide that is straightforward, easy to follow, and provides clear explanations for each field.
-
-</thinking>
-
 # Fall Protection Knowledge Quiz - Help Guide
 
 ## Purpose

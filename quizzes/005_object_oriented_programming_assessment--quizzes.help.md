@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the understanding of object-oriented programming (OOP) concepts and principles, including polymorphism, encapsulation, inheritance, and abstraction. This form is used to evaluate the knowledge and skills of individuals in programming, particularly in the context of OOP. To ensure that this form remains relevant and effective, it is essential to avoid duplication of questions and maintain a focus on essential OOP concepts.
-
-</thinking>
-
 # Object Oriented Programming Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate the understanding of object-oriented programming (OOP) concepts and principles.

@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to gather information for a life insurance quote, which is a type of financial product that provides protection against life-related risks. This form is likely used in the context of life insurance sales, underwriting, or other related activities. 
-
-To create this form, I've analyzed the provided YAML schema and identified its fields as follows: 
-
-* First name and last name are likely used to identify the individual applying for the life insurance policy. 
-* Email, phone number, and age are used to contact and verify the individual. 
-* Date of birth is used to determine the individual's age. 
-* Smoker and occupation are used to assess the individual's health and lifestyle. 
-* Medical history is used to understand the individual's medical conditions. 
-* Life insurance type and coverage type are used to determine the type of policy required. 
-* Coverage amount and premium are used to calculate the policy cost. 
-* Policy holder name, date of birth, social security number, address, city, state, and zip are used to store information about the policy holder.
-
-</thinking>
-
 # Life Insurance Quote Form - Help Guide
 
 ## Purpose

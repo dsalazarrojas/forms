@@ -1,5 +1,3 @@
-<thinking> This form is designed to assess the knowledge and decision-making skills of dental professionals in managing dental trauma cases, specifically in scenarios where the patient has suffered from different types of dental injuries such as avulsion, fracture, subluxation, luxation, periapical lesion, or pulpal lesion. The form is intended for professionals, and the questions are crafted to test their ability to identify the most appropriate treatment for each type of injury. Please ensure that you are a dental professional before attempting to complete this form. </thinking>
-
 # Dental Trauma Management Quiz - Help Guide
 
 ## Purpose

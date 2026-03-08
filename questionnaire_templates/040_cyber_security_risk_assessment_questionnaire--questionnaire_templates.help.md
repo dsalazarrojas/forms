@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Cyber Security Risk Assessment Questionnaire is designed to gather information on potential risks to an organization's cyber security. To complete this form, follow these steps:
 
 ## Purpose

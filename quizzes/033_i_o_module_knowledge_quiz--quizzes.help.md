@@ -1,10 +1,3 @@
-<thinking>
-We're going to create a user-facing help guide for the "IO Module Knowledge Quiz" form. This form seems to be designed to test knowledge on IO modules, likely for industrial or technical purposes. The form appears to have multiple sections with yes/no options for various aspects of IO modules, such as questions, selection, type, functionality, application, interconnection, safety interlocks, safety labels, testing, troubleshooting, and redundancy. This form likely helps to assess understanding of IO module-related concepts and knowledge.
-
-To the best of my understanding, this form is meant for users with some level of technical background, possibly related to industrial control or automation. However, I will strive to provide explanations that are clear and concise for users without such background.
-
-</thinking>
-
 # IO Module Knowledge Quiz - Help Guide
 ## Purpose
 

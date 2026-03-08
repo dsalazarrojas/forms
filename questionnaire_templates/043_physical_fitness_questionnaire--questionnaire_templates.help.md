@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physical Fitness Questionnaire - Help Guide
 ## Purpose
 The Physical Fitness Questionnaire is designed to gather information about your physical fitness, including your general questions, medical history, exercise habits, and body measurements. This questionnaire is meant to be completed by individuals who want to assess their current physical fitness level.

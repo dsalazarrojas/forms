@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Security Deposit Refund Form - Help Guide
 ## Purpose
 The Security Deposit Refund Form is used to process the refund of a security deposit made by a tenant to a landlord. This form is typically used by landlords to initiate the refund process and to provide detailed information about the deposit refund.

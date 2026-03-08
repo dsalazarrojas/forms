@@ -1,24 +1,3 @@
-<thinking>... internal reasoning block to check the form purpose and relevance and prevent duplication ...
-
-After analyzing the form "mid-program-stress-assessment", I understand its purpose is to gather feedback and data from participants in a program or project, specifically to assess their stress levels, support needs, and preferences for communication. This form aims to help identify potential areas of support and provide suggestions to improve the participant's experience.
-
-The form is not a required form, and its completion is optional. However, it is designed to be completed by participants who have been involved in the program or project and can provide valuable insights.
-
-The form is divided into several sections:
-
-*   Participant feedback: This section is used to gather general feedback from the participant.
-*   Stress trends: This section is used to identify any patterns or changes in the participant's stress levels.
-*   Stress level: This section is used to measure the participant's current stress level.
-*   Support needs: This section is used to determine if the participant feels they need support.
-*   Support channel: This section is used to determine the participant's preferred method of communication.
-*   Stressors: This section is used to identify factors that contribute to the participant's stress.
-*   Suggestions: This section is used to gather suggestions from the participant.
-*   Additional comments: This section is used to gather any additional comments or feedback.
-
-Each section is designed to be completed by the participant, and the data collected will help in understanding their stress levels, support needs, and preferences for communication.
-
-</thinking>
-
 # mid-program-stress-assessment - Help Guide
 ## Purpose
 The mid-program-stress-assessment form is used to gather feedback and data from participants in a program or project, specifically to assess their stress levels, support needs, and preferences for communication.

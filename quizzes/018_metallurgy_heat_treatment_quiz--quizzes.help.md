@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help assess the knowledge and understanding of metallurgy heat treatment principles. The purpose of this form is to gauge the user's familiarity with heat treatment processes, their applications, and related concepts. It is a self-assessment tool for metallurgy students, professionals, or anyone interested in heat treatment.
-
-To ensure the accuracy of the assessment, please fill out the form completely and truthfully. The assessment score out of will be calculated based on the user's responses.
-
-Please note that this form is meant to be a self-assessment tool and is not a comprehensive review of metallurgy heat treatment principles. It is not intended to be used as a certification or qualification exam.
-
-Please answer the questions truthfully and completely. The assessment score is calculated based on the answers provided in the "heat_treatment_quiz_questions" field.
-</thinking>
-
 # Metallurgy Heat Treatment Quiz - Help Guide
 ## Purpose
 This form is designed to assess the user's knowledge of metallurgy heat treatment principles.

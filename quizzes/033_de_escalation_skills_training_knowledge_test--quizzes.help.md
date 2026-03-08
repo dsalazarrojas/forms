@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess the skills and knowledge of individuals in de-escalation skills training, which is a crucial aspect of crisis management and conflict resolution. This form is designed to evaluate the effectiveness of the training program in equipping users with the necessary skills to handle de-escalation situations. By filling out this form, trainers, managers, or assessors can gauge the participants' ability to identify, analyze, and respond to de-escalation situations, and provide valuable feedback for improvement.
-
-Please ensure that you have received training on de-escalation skills before completing this form.
-
-</thinking>
-
 # De Escalation Skills Training Knowledge Test - Help Guide
 ## Purpose
 The De Escalation Skills Training Knowledge Test is designed to evaluate your de-escalation skills and knowledge after completing the training program. This form will assess your ability to apply the learned skills in real-world scenarios.

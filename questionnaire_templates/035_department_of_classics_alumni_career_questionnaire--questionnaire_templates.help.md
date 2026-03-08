@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from Department of Classics alumni about their career experiences, educational background, and other relevant details. This data will be used to improve the department's understanding of its alumni network and provide a platform for future connections and collaborations.
-The form is not intended to be a mandatory form, and it's up to each individual to decide whether or not to participate. However, filling out this form will help the department better serve its alumni community and provide valuable insights for future events and initiatives.
-Please note that this form is not intended to replace or duplicate existing records, such as those found in LinkedIn or other professional networks.
-</thinking>
-
 # Department Of Classics Alumni Career Questionnaire - Help Guide
 
 ## Purpose

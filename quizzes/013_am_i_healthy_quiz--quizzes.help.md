@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's overall health status, providing a general evaluation of their physical and mental health. This is not a medical diagnosis and is meant to be used as a self-assessment tool. Please answer the questions honestly to receive an accurate evaluation. This form is divided into sections, each addressing a specific aspect of health. You will be asked about basic demographic information, lifestyle habits, medical history, mental health, and wellness practices.
-</thinking>
-
 # Am I Healthy Quiz - Help Guide
 
 ## Purpose

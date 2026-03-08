@@ -1,6 +1,4 @@
-# <thinking>...thinking</thinking>
-
-# Post Detox Program Questionnaire Template - Help Guide
+# # Post Detox Program Questionnaire Template - Help Guide
 ## Purpose
 The Post Detox Program Questionnaire Template is designed to collect information from individuals who have undergone a detox program. This form is used to gather overall experience, ratings, and feedback about the program. It is intended for individuals to provide their honest opinions and suggestions for improvement.
 

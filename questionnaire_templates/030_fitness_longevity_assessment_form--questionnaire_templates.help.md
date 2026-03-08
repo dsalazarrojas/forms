@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to assess the fitness longevity of clients. The form has been designed for clients who are interested in evaluating their current fitness levels and progress towards their fitness goals. This form is intended to be completed by clients, and the information collected will be used by fitness professionals to understand the client's needs and create a customized fitness plan.
-
-To avoid duplicating effort, this form should only be used for clients who have not previously completed a fitness assessment form. 
-
-</thinking>
-
 # Fitness Longevity Assessment Form - Help Guide
 ## Purpose
 The Fitness Longevity Assessment Form is a questionnaire designed to help clients evaluate their current fitness levels and progress towards their goals. It is a critical tool for fitness professionals to understand the client's needs and create a tailored fitness plan.

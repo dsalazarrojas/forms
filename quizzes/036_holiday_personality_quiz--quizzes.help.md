@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gauge an individual's holiday personality, likely for marketing or research purposes, by asking a series of questions related to their holiday preferences, habits, and interests. It may help in categorizing users based on their responses, providing insights into their personality types.
-</thinking>
-
 # Holiday Personality Quiz - Help Guide
 ## Purpose
 This form is designed to help you determine your holiday personality by asking a series of questions about your holiday habits and preferences. Your responses will help us better understand how you celebrate holidays and what kind of personality type you have.

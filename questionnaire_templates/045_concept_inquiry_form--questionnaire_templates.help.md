@@ -1,9 +1,3 @@
-<thinking>
-The Concept Inquiry Form is designed to collect details from submitters about their new ideas and proposals, allowing for evaluation and potential implementation.
-The form will be used to collect information from submitters about their concept, its potential impact, and any necessary support resources.
-This form is a public adaptation of a form created using AI, based on publicly available information, and is released under the Creative Commons BY 4.0 license.
-</thinking>
-
 # Concept Inquiry Form - Help Guide
 
 ## Purpose

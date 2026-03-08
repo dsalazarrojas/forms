@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's holistic therapy quote. It is intended for use by therapists or wellness professionals who want to provide a quote for a session with a client. The form is not meant to be used for internal purposes, so it's essential to ensure that the user understands the purpose and content of each field. To prevent duplication, please make sure to fill out this form only for new clients.
-
-</thinking>
-
 # Holistic Therapy Quote Form - Help Guide
 ## Purpose
 This form is designed to collect information for a holistic therapy quote. It helps therapists or wellness professionals provide an accurate quote for a session with a client.

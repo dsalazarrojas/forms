@@ -1,18 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, we must analyze the provided YAML fields. The form is titled "World Religions Knowledge Quiz" and seems to be related to educational content, possibly for quizzes, surveys, lessons, or programs. The field options, such as "Lessons", "Workshops", "Interfaith Programs", suggest that the form is for categorizing or organizing educational content. The email and phone fields suggest that the form might be used to contact teachers or administrators.
-
-The form has several sections, each representing a different type of field:
-
-1. **General Information**: The "form_title", "quiz_category", "description", and "email" fields are likely used to provide a title, category, description, and contact information for the quiz.
-2. **Submission Information**: The "form_submitted", "submission_time", and "form_lesson_topics" fields are related to when and where the quiz was submitted.
-3. **Content Organization**: The "form_lessons", "form_workshops", "form_programs", "form_lesson_topics", "form_program_topics" fields are used to organize lessons, workshops, programs, and topics.
-4. **Specific Content**: The "form_lesson_program_topics", "form_program_topics_lesson", "form_program_topics_lesson_topics" fields are used to specify topics related to lessons, programs, and workshops.
-
-To confirm the purpose and fields of this form, we should review the form's intended use and expected user behavior.
-
-</thinking>
-
 # World Religions Knowledge Quiz - Help Guide
 ## Purpose
 This form is used to create and manage educational quizzes, surveys, and programs related to world religions.

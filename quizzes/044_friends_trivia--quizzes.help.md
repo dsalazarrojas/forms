@@ -1,6 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the "Friends Trivia" form. The form aims to collect information about users' preferences and interests related to the popular TV show "Friends". It will likely be used to gather data for market research or entertainment purposes. To ensure the guide is relevant and accurate, let's review the form's design and content.</thinking>
-
 # Friends Trivia - Help Guide
 ## Purpose
 The Friends Trivia form is a survey designed to gather information about your favorite TV show "Friends". Your participation will help us understand more about your interests and preferences related to the show.

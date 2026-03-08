@@ -1,5 +1,3 @@
-<thinking>This form is used to collect information from users about their knowledge of dinosaurs. The form is intended to be a quiz that tests the user's knowledge about different types of dinosaurs. The form has multiple fields that ask for specific information, such as text input, date, email, phone number, note, time, select, and multiple select options. The form is designed to be completed by users who are interested in dinosaurs and want to test their knowledge. It is recommended that users review the form carefully before submitting it to ensure they have answered all required fields and to avoid any errors.</thinking>
-
 # Dinosaurs Quiz - Help Guide
 ## Purpose
 This form is designed to be a quiz that tests your knowledge about different types of dinosaurs.

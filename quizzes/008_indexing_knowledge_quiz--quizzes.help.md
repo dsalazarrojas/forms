@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users index their knowledge in a specific area by answering a series of questions. The form is not required, and users can complete it at their own pace. Each question is designed to gather information on a different aspect of the user's knowledge, skills, or interests. Please answer the questions honestly, and if you have any questions or concerns, feel free to reach out to us.
-
-</thinking>
-
 # Indexing Knowledge Quiz - Help Guide
 ## Purpose
 This form is meant to gather information about your knowledge, skills, or interests in a specific area. Your input will help us better understand your strengths and weaknesses, and provide personalized recommendations for growth and development.

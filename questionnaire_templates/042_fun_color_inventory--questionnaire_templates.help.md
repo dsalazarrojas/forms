@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the user's preferences and experiences. The form is used to assess their color personality and assign them a tool based on their response. The form consists of several fields that require the user to select their favorite colors, indicate whether they have a color personality, and provide additional information such as their email, phone number, and date and time. The form is optional, but some fields are required to ensure that the user's preferences are accurately represented.
-</thinking>
-
 # Fun Color Inventory - Help Guide
 ## Purpose
 This form is designed to collect information about the user's color preferences and personality. The form is used to determine which tool is best suited for the user based on their color selections.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for educational purposes, specifically to assess the user's knowledge about edge detection. The form is divided into several sections, each with its own set of fields. This quiz will help the user to check their knowledge and skills in this area.
-</thinking>
-
 # Edge Detection Knowledge Quiz - Help Guide
 ## Purpose
 The Edge Detection Knowledge Quiz is a self-assessment tool designed to evaluate the user's understanding of edge detection concepts.

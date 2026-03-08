@@ -1,21 +1,3 @@
-<thinking>
-This help guide should be designed to ensure that end users understand the form's purpose, its intended use, and how to complete it correctly. This form is likely used for registration for a mountain bike race, which requires sensitive information from riders including their emergency contacts. It is crucial to explain each field clearly to avoid any confusion or misinterpretation during the registration process.
-
-The form is likely used to collect rider details, emergency contact information, waiver consent, race location, date, time, category, and other relevant details. It is essential to ensure that riders understand the importance of providing accurate and up-to-date information to ensure a smooth and secure registration process.
-
-To confirm, the form will be used for the following events:
-- MTB Event 1
-- MTB Event 2
-
-The form will not be used for:
-- Any other type of event that is not mentioned above
-
-The purpose of this form is to register riders for mountain bike races, which includes collecting their details, emergency contact information, and other necessary details to ensure their participation in the race.
-
-This help guide will cover each field of the form to assist riders in completing it accurately and securely.
-
-</thinking>
-
 # Mountain Bike Race Registration Form - Help Guide
 ## Purpose
 The Mountain Bike Race Registration Form is used to register riders for mountain bike races, including collecting their details, emergency contact information, waiver consent, race location, date, time, category, and other relevant details. It is essential to complete this form accurately and securely to ensure a smooth and safe participation in the event.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Banking Operations Quiz - Help Guide
 
 ## Purpose

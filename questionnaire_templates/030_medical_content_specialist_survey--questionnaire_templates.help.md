@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from Medical Content Specialists about their demographic details. This includes their age and job title. The form is not meant to be taken as an official medical assessment, but rather as a general survey to gather data for internal use.</thinking>
-
 # Medical Content Specialist Survey - Help Guide
 ## Purpose
 The Medical Content Specialist Survey is a form designed to collect information about your demographic details as a Medical Content Specialist. This data will help us better understand our community's diversity and improve our services.

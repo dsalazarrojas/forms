@@ -1,13 +1,3 @@
-<thinking>
-
-The Self-Esteem Questionnaire is designed to help individuals identify and reflect on their self-esteem levels, confidence levels, and progress tracking. It's essential to take this questionnaire seriously and answer honestly, as it may help you understand your strengths and weaknesses, set realistic goals, and work on developing a more positive self-image. 
-
-Please note that this questionnaire is only meant for personal use and should not be used in place of professional help-seeking services. 
-
-If you've already taken this questionnaire in the past, please refrain from completing it again unless you've experienced significant changes in your life or circumstances that may affect your self-esteem levels.
-
-</thinking>
-
 # Self-Esteem Questionnaire - Help Guide
 
 ## Purpose

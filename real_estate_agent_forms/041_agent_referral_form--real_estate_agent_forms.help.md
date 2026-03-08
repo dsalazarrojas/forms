@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Agent Referral Form is to collect information about an agent's referral of a new client or prospect, ensuring that the agent's name, contact email, the name of the client being referred, and the reason for the referral are captured accurately. The form will be used to track and process referrals in our system, allowing us to follow up with the client and the agent as needed. This form is only meant for agents to use when referring a new client to us, and it is not intended for use by clients or other stakeholders to provide information about themselves. To avoid duplication, agents should only submit one referral form per client.
-</thinking>
-
 # Agent Referral Form - Help Guide
 ## Purpose
 The Agent Referral Form is used by agents to refer new clients or prospects to our organization. It captures essential information about the referrer, the referred client, and the referral reason.

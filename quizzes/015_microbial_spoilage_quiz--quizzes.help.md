@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to report cases of microbial spoilage. It aims to collect data on the type of food involved, the level of spoilage, and other relevant details such as when the spoilage began and was detected, as well as any follow-up actions taken. This form does not require a username or password for completion. All users can access and submit the form without any login credentials. This form should only be used for cases where the user has been trained to identify microbial spoilage. Please only submit reports for confirmed cases, do not use the form as a general inquiry or complaint form.
-</thinking>
-
 # Microbial Spoilage Quiz - Help Guide
 ## Purpose
 The Microbial Spoilage Quiz form is used to report cases of microbial spoilage. Please use this form to report confirmed cases of microbial spoilage.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge a user's understanding of symbiotic relationships between living organisms in different ecosystems. The form is meant to be completed by users who have some background knowledge of ecology and biology, but may not be experts in the field. The questions and fields in this form are intended to assess the user's ability to identify mutualism, commensalism, and parasitism relationships, as well as their understanding of the impact of these relationships on different organisms in various ecosystems. The form is designed to be self-explanatory, but may require some effort to understand the terminology and concepts used.
-</thinking>
-
 # Symbiotic Relationships Quiz - Help Guide
 
 ## Purpose

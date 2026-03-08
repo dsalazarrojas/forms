@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekdays Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about weekdays knowledge quizzes. The form allows users to select the best weekday and enter scores for each day of the week, along with any comments and the person who submitted the form.

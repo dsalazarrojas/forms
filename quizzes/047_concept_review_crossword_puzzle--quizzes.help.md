@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assist individuals in reviewing and evaluating their understanding of a set of core concepts. It is used to gauge their knowledge and application of these concepts.
-The form is not a survey or assessment tool used by any specific platform, but rather a tool created using public metadata and designed to be flexible and reusable.
-</thinking>
-
 # Concept Review Crossword Puzzle - Help Guide
 ## Purpose
 The Concept Review Crossword Puzzle is a tool used to review and evaluate the understanding and application of core concepts in a particular field. This form is designed to be a helpful resource for those looking to assess their grasp of these concepts.

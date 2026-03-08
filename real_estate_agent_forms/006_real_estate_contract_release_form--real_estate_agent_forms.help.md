@@ -1,5 +1,3 @@
-<thinking>...This form is used to release real estate contracts when a buyer or seller wishes to cancel their agreement and terminate the contract. This form ensures that all necessary information is provided and signed by both parties involved in the contract. The form is typically used in situations where a buyer or seller wants to formally end the contract due to unforeseen circumstances or change of heart. Before completing this form, please ensure that the contract being released is no longer valid or active. Duplicate submissions will not be accepted, so please review the form carefully before submitting it. This form is intended to provide a clear and concise way to release real estate contracts, ensuring a smooth and professional transaction process.</thinking>
-
 # Real Estate Contract Release Form - Help Guide
 ## Purpose
 The Real Estate Contract Release Form is used to formally release real estate contracts when a buyer or seller wishes to cancel their agreement. This form ensures that all necessary information is provided and signed by both parties involved in the contract.

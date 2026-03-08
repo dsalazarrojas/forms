@@ -1,8 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the Caesar's Campaigns Quiz form, which is designed to assess users' knowledge about Julius Caesar's life and conquests. This form is likely intended for history enthusiasts or students who want to test their knowledge about ancient Rome's leader. To complete this form, users will be asked to provide their student name, class period, date taken, and answers to various questions about Caesar's life and campaigns. We will need to carefully explain each field to ensure that users understand what is expected of them.
-
-</thinking>
-
 # Caesar's Campaigns Quiz - Help Guide
 ## Purpose
 This guide will walk you through the Caesar's Campaigns Quiz form, which is designed to test your knowledge about Julius Caesar's life and conquests. The form is divided into two sections: the questions section, which requires users to answer multiple-choice questions, and the optional bonus question, which allows users to write a free-text answer.

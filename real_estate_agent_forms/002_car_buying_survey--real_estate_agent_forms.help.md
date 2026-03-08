@@ -1,15 +1,3 @@
-<thinking>
-
-We will create a comprehensive help guide for the "Car Buying Survey" form to ensure end-users understand its purpose, how to complete it, and what each field means.
-
-This form is designed to collect information about car buyers' demographics, current vehicle experience, and preferences for future car purchases. The goal is to gather data that can be used for market research and to better understand car buying behavior.
-
-The form is divided into two main sections: "Customer Information" and "Future Purchase Plans". Each section collects relevant information about the user's demographics, current vehicle experience, and preferences for future car purchases.
-
-Before filling out the form, it's essential to understand that this information will be used for research purposes and will help car manufacturers and dealerships improve their services and products.
-
-</thinking>
-
 # Car Buying Survey - Help Guide
 ## Purpose
 The "Car Buying Survey" form is designed to collect information about car buyers' demographics, current vehicle experience, and preferences for future car purchases. The goal is to gather data that can be used for market research and to better understand car buying behavior.

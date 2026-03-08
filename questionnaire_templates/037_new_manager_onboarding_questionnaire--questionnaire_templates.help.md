@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "New Manager Onboarding Questionnaire" form is used to collect information about new managers as part of their onboarding process. This helps to ensure that all necessary details are captured and new managers are properly introduced to the organization. This form should only be completed once for each new manager.
 
 Please note that this form is not intended for duplicate submissions, and it's essential to fill it out accurately and completely to avoid any potential issues.

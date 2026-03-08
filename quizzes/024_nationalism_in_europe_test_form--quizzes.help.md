@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test the user's understanding of nationalism in Europe. The form is divided into several sections, each covering different aspects of nationalism. The questions are meant to assess the user's knowledge about the relationship between nationalism and other concepts like democracy, world peace, and global politics. Some questions are multiple-choice, while others require the user to provide a text response. The form's purpose is to evaluate the user's ability to identify the causes and effects of nationalism in Europe. Before proceeding, please ensure that you have a good understanding of the subject matter and that you are not attempting to complete this form for a purpose other than personal assessment or evaluation.
-</thinking>
-
 # Nationalism In Europe Test Form - Help Guide
 ## Purpose
 This form is designed to test your understanding of nationalism in Europe by asking various questions about its effects, causes, and relationship with other concepts.

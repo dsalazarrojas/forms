@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for collecting consumer feedback and opinions on the social security system. The purpose of this form is to understand the level of awareness and usage of the social security system among consumers. It also aims to collect feedback on their concerns and satisfaction levels with the system. The form is designed to be completed by social security consumers, and their input will be used to inform future improvements to the system.
-
-Before proceeding, please ensure that you have not already completed this form. Your feedback is valuable, and we want to make sure that your input is unique and helpful in shaping our future decisions.
-
-</thinking>
-
 # Social Security Consumer Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from social security consumers on their awareness, usage, concerns, and satisfaction levels with the system.

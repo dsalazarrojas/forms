@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to test the reintegration knowledge of users. It has four pages: "Quiz Questions", "Correct Answer", "Participant Name", "Participant Email", and "Participant Phone". 
 
 The form asks a series of questions (page 1), selects the correct answer (page 2), and collects participant information (pages 3, 4, and 5).

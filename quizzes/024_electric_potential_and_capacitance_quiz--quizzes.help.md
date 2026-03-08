@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for the Electric Potential and Capacitance Quiz, a series of questions aimed at testing the user's knowledge on electrical potential and capacitance. Please ensure that the form is being used for its intended purpose and not for any other use case. This form should only be used if you are familiar with the basics of electrical engineering or are an educator looking to assess a student's understanding of electrical potential and capacitance.
-</thinking>
-
 # electric_potential_and_capacitance_quiz - Help Guide
 ## Purpose
 

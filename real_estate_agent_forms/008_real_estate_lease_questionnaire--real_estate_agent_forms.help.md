@@ -1,7 +1,3 @@
-<thinking>
-The Real Estate Lease Questionnaire is a form designed to collect information about a lease agreement between a landlord and a tenant. It is used to gather details about the property address, tenant information, lease dates, and lease terms. This form is intended for use by real estate agents, property managers, or other professionals involved in the leasing process. It is not intended for use in actual lease signings or as a substitute for legal documentation. Please use this form responsibly and only for its intended purpose.
-</thinking>
-
 # Real Estate Lease Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about a lease agreement between a landlord and a tenant. It helps gather essential details for real estate professionals to manage and track lease-related data.

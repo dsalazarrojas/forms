@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users create quizzes about fictional pets. The form is a template with a series of questions and corresponding images, allowing users to create a quiz with up to 4 questions. The form is a collection of fields that users can fill out to create their quiz.
-</thinking>
-
 # Fictional Pets Quiz Template - Help Guide
 ## Purpose
 The "Fictional Pets Quiz Template" is a tool used to create quizzes about fictional pets. This template is designed to be a starting point for users to create their own quizzes with multiple questions and corresponding images.

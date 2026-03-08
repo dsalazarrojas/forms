@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # leishmaniasis_knowledge_quiz - Help Guide
 
 ## Purpose

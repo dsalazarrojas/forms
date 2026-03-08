@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's remote career skills and preferences. It will be used to gather data for various purposes such as career development, education, and employment purposes. Please ensure that this information is accurate and up-to-date before completing the form.
-
-</thinking>
-
 # Remote Career Skills Assessment - Help Guide
 
 ## Purpose

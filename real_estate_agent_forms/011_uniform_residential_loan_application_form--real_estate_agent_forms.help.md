@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users regarding their personal loan information, employment, financial history, loan purpose, other assets, loan history, and any other relevant details they may want to share. This information will be used to assess their eligibility for a loan. The form is not affiliated with any specific loan provider or platform. 
-</thinking>
-
 # Uniform Residential Loan Application Form - Help Guide
 ## Purpose
 The Uniform Residential Loan Application Form is a comprehensive questionnaire designed to gather essential details from borrowers to assess their eligibility for a loan. It covers various aspects of their personal loan information, employment, financial history, loan purpose, other assets, loan history, and additional details they may wish to provide.

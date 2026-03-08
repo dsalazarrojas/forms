@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, it's essential to gather information from your patients before a practice launch consultation. This form, "Practice Launch Pre Consult Questionnaire," helps you to collect relevant details about your patients' goals and objectives, their pre-session experiences, follow-up plans, and other crucial information necessary for the consultation. Please ensure that you complete this form accurately and thoroughly, as it will aid in providing personalized and effective care to your patients.</thinking>
-
 # Practice Launch Pre Consult Questionnaire - Help Guide
 
 ## Purpose

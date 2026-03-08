@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect data from students for two math problems related to the volume of a cone, with the goal of assessing their understanding of the math concept. This form will likely be used in an educational setting, possibly for grading purposes or for student assessment.
-The form is divided into two problems (Problem one and Problem two), each asking for the calculated volume of a cone with given radius and height. The form asks for the student's name, class or course name, and the calculated volume for each problem. The form also allows for method notes and instructor comments, though these are not mandatory.
-The form fields can be filled out by students and submitted for evaluation.
-
-</thinking>
-
 # Cone Volume Math Quiz - Help Guide
 ## Purpose
 This form is designed to help students demonstrate their understanding of the math concept of cone volume.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from couples about their upcoming wedding videography needs. It is meant to help videographers and photographers understand the couple's expectations and requirements for their special day. Before filling out this form, please ensure that you are a couple looking for wedding videography services and that this form is not already completed by another couple. If you are a videographer or photographer, please do not fill out this form as it is intended for couples, not service providers.
-</thinking>
-
 # pre_wedding_videography_questionnaire - Help Guide
 ## Purpose
 The "pre_wedding_videography_questionnaire" is a form designed to collect information from couples about their upcoming wedding videography needs. This form helps videographers and photographers understand the couple's expectations and requirements for their special day.

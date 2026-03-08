@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to determine the user's preferences in a fantasy world setting, specifically in the context of elements such as Fire, Ice, Earth, Air, and Water, as well as their associated types and combinations. The user will be presented with a series of questions, each asking them to select one or multiple options from a list of elements and their types. The ultimate goal is to provide a comprehensive understanding of the user's elemental preferences.
-
-This form is likely used in a context where the user's elemental preferences will be used to generate a unique experience or outcome, such as in a role-playing game or a story generation tool.
-
-Each question in the form is designed to be straightforward, but the user should pay attention to the required fields, as some of them are mandatory and will affect the outcome of the quiz.
-
-To avoid confusion, each question will be explained below.
-
-</thinking>
-
 # which_elements_are_you_quiz - Help Guide
 ## Purpose
 The "which_elements_are_you_quiz" form is designed to determine the user's preferences in a fantasy world setting, specifically in the context of elements such as Fire, Ice, Earth, Air, and Water, as well as their associated types and combinations.

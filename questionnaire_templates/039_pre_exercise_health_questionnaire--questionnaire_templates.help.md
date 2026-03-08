@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Exercise Health Questionnaire - Help Guide
 
 ## Purpose

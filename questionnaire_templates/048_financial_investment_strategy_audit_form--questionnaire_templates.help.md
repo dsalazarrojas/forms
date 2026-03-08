@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Investment Strategy Audit Form - Help Guide
 ## Purpose
 This form is designed to help individuals and organizations assess their financial investment strategy and gather information for financial planning and analysis.

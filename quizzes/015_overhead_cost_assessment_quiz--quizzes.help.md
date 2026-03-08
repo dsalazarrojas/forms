@@ -1,5 +1,3 @@
-<thinking>...This form is designed to assess the overhead costs associated with a project or activity. It is likely used in the context of project management, finance, or resource allocation. The form is intended to gather information on whether certain costs are tracked or challenged, and which categories these costs belong to. The questions are structured as a series of select-one and select-multiple fields, which may be confusing to some users. Please ensure you are using this form as intended and have the necessary expertise to understand the concepts being addressed...</thinking>
-
 # Overhead Cost Assessment Quiz - Help Guide
 ## Purpose
 The Overhead Cost Assessment Quiz is a tool used to evaluate the overhead costs associated with a project or activity. This quiz helps to determine which costs are tracked and which ones are challenged, and categorizes them accordingly.

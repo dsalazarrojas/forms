@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect user input for a country capitals quiz. This form is likely used to gather information for educational or testing purposes, such as to test user knowledge of country capitals. The form should only be accessed by authorized personnel, and its completion is not intended to be a mandatory task for all users. 
-
-Please review the form fields to ensure you have completed the form correctly. If you're unsure about a specific field, refer to the field-by-field explanation section below.
-</thinking>
-
 # Country Capitals Quiz - Help Guide
 ## Purpose
 The Country Capitals Quiz form is designed to collect user input for a country capitals quiz. This form will display a series of questions and allow users to input their answers.

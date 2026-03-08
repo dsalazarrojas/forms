@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help homeowners assess their energy consumption and identify potential areas for improvement. It collects information on various aspects of energy usage, including home energy consumption, heating and cooling systems, insulation, and energy-saving measures. The form will be used to determine the energy-saving potential of the home and provide recommendations for improvement. Please note that this form should not be filled out if you have already completed it in the past.
-</thinking>
-
 # Energy Saving Quiz - Help Guide
 ## Purpose
 This form is designed to help homeowners assess their energy consumption and identify potential areas for improvement.

@@ -1,6 +1,3 @@
-<thinking> 
-This form appears to be a straightforward form for collecting information related to a Homeowners Association (HOA) disclosure. The form's purpose is to gather details about the HOA, such as its address, fees, rules, services, maintenance areas, and other miscellaneous information. The internal review of this form's design and functionality indicates that it should be easy to complete for the end-user. No duplication of fields is apparent, and the form's layout should facilitate a clear and efficient submission process. The required fields are optional, which may lead to some potential issues with data completeness. It would be ideal to review and finalize the form with the end-users to ensure they are aware of the importance of filling out all the fields for a complete submission. </thinking>
-
 # HOA Disclosure Form - Help Guide
 ## Purpose
 The HOA Disclosure Form is designed to gather essential information about a Homeowners Association (HOA). This form is used to collect details such as the address, fees, rules, services, and other relevant information about the HOA.

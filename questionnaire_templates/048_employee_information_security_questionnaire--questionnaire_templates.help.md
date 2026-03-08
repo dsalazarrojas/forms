@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employee information for security and compliance purposes. It's essential to provide accurate and truthful answers to the questions. Please ensure that you fill out the form completely and accurately to avoid any issues related to security and compliance. This form should not be used for any other purpose other than what it's intended for. Please do not fill out this form if you're not an employee of the organization.
-</thinking>
-
 # Employee Information Security Questionnaire - Help Guide
 ## Purpose
 The Employee Information Security Questionnaire is designed to collect important employee information for security and compliance purposes. This form helps the organization to ensure the accuracy of employee data and maintain a secure work environment.

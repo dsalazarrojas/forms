@@ -1,5 +1,3 @@
-<thinking>...This guide is intended to assist users in completing the "Contemporary History Quiz". It is designed to assess users' knowledge of historical events and dates, focusing on the 20th century. This guide will cover the purpose of the quiz, step-by-step completion instructions, and a detailed explanation of each field... </thinking>
-
 # Contemporary History Quiz - Help Guide
 ## Purpose
 The Contemporary History Quiz is designed to evaluate your knowledge of significant historical events that occurred in the 20th century. It will assess your ability to identify key figures, dates, and events that shaped the world in that time period.

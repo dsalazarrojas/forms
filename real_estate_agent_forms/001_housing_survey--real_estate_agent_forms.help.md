@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about housing experiences, likely for research or quality improvement purposes. It is not affiliated with any specific form platform and is an original adaptation created using public survey topic metadata. The form consists of multiple pages with various questions about access to different aspects of housing, such as clean water, air, lighting, and living space. The form also asks about feelings of safety, security, and belonging, as well as opinions on the housing experience. Each field's label and options should be clear and self-explanatory, and users should be able to understand their purpose in the context of the form.
-</thinking>
-
 # Housing Survey - Help Guide
 ## Purpose
 This form is designed to collect information about housing experiences, likely for research or quality improvement purposes.

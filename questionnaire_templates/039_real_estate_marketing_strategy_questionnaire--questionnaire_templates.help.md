@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We have a form designed to gather information about real estate marketing strategies. This questionnaire is intended for end-users who need to fill in their marketing approaches to sell or rent properties.
 
 The form is structured into multiple pages with various types of fields, including text, select one, select multiple, email, phone number, date, time, note, decimal, integer, and boolean.

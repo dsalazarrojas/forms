@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be used to explain to end-users the purpose and requirements of the independent living skills questionnaire form, which will help to collect information about an individual's ability to perform daily activities, communicate effectively, and manage time.
-</thinking>
-
 # independent_living_skills_questionnaire - Help Guide
 ## Purpose
 The independent living skills questionnaire is designed to assess an individual's ability to perform daily activities, communicate effectively, and manage time. This form is used to collect information on how well an individual can perform tasks related to independent living, which is essential for various applications such as healthcare, social services, and education.

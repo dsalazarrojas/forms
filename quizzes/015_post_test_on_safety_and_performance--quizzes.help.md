@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # post_test_on_safety_and_performance - Help Guide
 ## Purpose
 This form is designed to collect information on the safety and performance of a specific test. It is intended for use by individuals who need to evaluate their knowledge, confidence, and actions related to safety and performance.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # herbal_medicine_safety_quiz - Help Guide
 ## Purpose
 The herbal medicine safety quiz is designed to help users assess their awareness and potential risks associated with using herbal medicines. This form is intended for individuals who use or are considering using herbal remedies, but it is not a substitute for professional medical advice.

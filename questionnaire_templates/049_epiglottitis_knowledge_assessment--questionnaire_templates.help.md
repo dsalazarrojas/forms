@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to assess a person's knowledge about epiglottitis, a medical condition affecting the epiglottis. It's meant to gauge their understanding of its definition, symptoms, and potential treatments. The form's answers will help identify areas where more information or education is needed.</thinking>
-
 # Epiglottitis Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to assess a person's knowledge about epiglottitis, a medical condition affecting the epiglottis. It's meant to gauge their understanding of its definition, symptoms, and potential treatments.

@@ -1,11 +1,3 @@
-<thinking>
-
-The form "vasectomy_service_quote_request" is used to gather information from patients for a vasectomy service quote request. This form is intended for individuals who are interested in undergoing a vasectomy procedure and are seeking a quote from our organization. To ensure that the form is properly filled out and submitted, we need to ensure that the user understands the purpose of the form and the required information needed to complete it accurately.
-
-Before creating this form, we need to verify that the form has not been duplicated, as there might already be an existing quote in process.
-
-</thinking>
-
 # vasectomy_service_quote_request - Help Guide
 ## Purpose
 The "vasectomy_service_quote_request" form is used to gather information from patients for a vasectomy service quote request. This form helps our organization understand the individual's needs and preferences for the procedure.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the understanding and skills of subcontractors in various aspects of site preparation, safety procedures, communication planning, quality control, time management, and job site practices. The purpose of this form is to gauge the level of proficiency and knowledge of subcontractors in these essential areas of the construction process.
-
-When using this form, please note that it has multiple pages, each addressing a different topic. Some fields may be required, but others are optional. If you're unsure about the purpose or meaning of a particular field, refer to this guide for clarification.
-
-Before proceeding, take a moment to review the following instructions and field explanations to ensure you complete the form accurately and effectively.
-
-</thinking>
-
 # Subcontractor Management Quiz - Help Guide
 ## Purpose
 The Subcontractor Management Quiz is a tool used to evaluate the skills and knowledge of subcontractors in various aspects of construction management. It is designed to provide a comprehensive assessment of their ability to perform site preparation, follow safety procedures, plan effective communication, control quality, manage time, and adhere to job site practices.

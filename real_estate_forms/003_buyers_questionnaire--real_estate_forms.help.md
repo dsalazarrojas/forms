@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to gather detailed information from real estate buyers to help them find their perfect home. This form will guide the buyers in providing accurate and relevant information about their preferences, financial situation, and search criteria. The form is designed to be completed by buyers who are looking to purchase a property and are in the process of finding a suitable one. The information collected will be used by real estate agents or brokers to narrow down the search results and provide the buyers with a tailored list of suitable properties.
-
-Please ensure that you answer this form truthfully and as accurately as possible, as the information will be used to guide your property search. You may be contacted by a real estate agent or broker to discuss your search further.
-
-Please note that this form is a guide, and your answers will be kept confidential. The form is divided into several sections, each with its own set of questions. Answer each question as thoroughly as possible to help us better understand your needs and preferences.
-
-The form is divided into the following sections:
-
-1.  -- Real Estate Search Criteria --
-2.  -- Buyer Information --
-3.  -- Property Preferences --
-4.  -- Financial Information --
-5.  -- Timeline --
-6.  -- Decision Factors --
-7.  -- Additional Requirements or Concerns --</thinking>
-
 # Real Estate Buyer Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather information from real estate buyers to help them find their perfect home.

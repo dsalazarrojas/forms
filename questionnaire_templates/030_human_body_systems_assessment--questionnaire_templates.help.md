@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess the human body systems, providing a comprehensive evaluation of different systems in the human body. 
-Please note that this form is a comprehensive assessment, it is not intended for any medical diagnosis. 
-Before proceeding, please ensure that you have read and understood the purpose of this form and that it aligns with your goals. 
-Also, make sure you have not already completed this form in the past, to avoid duplication of effort and data. 
-This form is a 25-question assessment tool, covering various aspects of the human body systems such as nervous system, musculoskeletal, circulatory, respiratory, and more. 
-Each question is designed to gather specific information about the respective system or function. 
-Please answer the questions accurately and in the best way possible to ensure that the assessment results are comprehensive and reliable. 
-</thinking>
-
 # Human Body Systems Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the different systems and functions of the human body, providing a comprehensive evaluation of various aspects of the human body.

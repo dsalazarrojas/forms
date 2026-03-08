@@ -1,7 +1,3 @@
-<thinking>
-To be clear, this form is designed to assess the functional ability of an individual in various aspects of their daily life, such as mobility, communication, and cognitive function. This form is not meant to diagnose or evaluate the individual's overall health status, but rather to gauge their level of independence or assistance needed in daily tasks. It is essential to note that this form should only be completed by a qualified professional, such as a healthcare provider or social worker, who can accurately assess the individual's needs based on their medical history, mental health, and functional ability. This form should not be used as a self-assessment tool, as it requires professional judgment and expertise to complete accurately. Before proceeding, please ensure that you have reviewed the individual's medical history and current condition to provide an informed assessment. This form should be used as a reference point for care planning and service coordination, not as a standalone assessment tool.
-</thinking>
-
 # Functional Ability Assessment Questionnaire - Help Guide
 
 ## Purpose

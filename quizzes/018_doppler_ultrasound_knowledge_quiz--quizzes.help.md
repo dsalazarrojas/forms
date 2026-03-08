@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the knowledge, skills, and attitude of medical professionals in the field of ultrasound, specifically in the context of Doppler ultrasound. It's designed to evaluate their understanding of Doppler principles, their ability to apply Doppler in various clinical situations, and their attitude towards using Doppler as a diagnostic tool. The form is part of a larger assessment tool for medical professionals to evaluate their knowledge and competence in this area. To determine relevance and non-duplication, I'll examine the provided form fields and provide a clear and concise explanation of each field, making sure to cover all required fields.
-</thinking>
-
 # Doppler Ultrasound Knowledge Quiz - Help Guide
 ## Purpose
 The Doppler Ultrasound Knowledge Quiz is designed to assess the knowledge, skills, and attitude of medical professionals in the field of Doppler ultrasound. It is a self-assessment tool to help users evaluate their competence and identify areas for improvement.

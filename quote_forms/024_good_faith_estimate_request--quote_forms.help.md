@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'll review the form's purpose and ensure there's no duplication in the instructions. The form, "Good Faith Estimate Request", appears to be a comprehensive form for requesting a good faith estimate, which is a process where a client provides information to support a claim or request. The form seems to cover various aspects of the request, including services requested, estimated date and time, confirmation, billing information, and submitter details. I'll make sure to explain each field clearly and concisely, without inventing unsupported business logic.</thinking>
-
 # Good Faith Estimate Request - Help Guide
 ## Purpose
 This form is for requesting a good faith estimate. You will be asked to provide information to support your claim or request.

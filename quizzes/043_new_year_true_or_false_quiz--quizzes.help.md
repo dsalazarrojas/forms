@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about New Year's celebrations. It asks questions about different aspects of New Year's, such as when it is celebrated, what activities are typically associated with it, and how it is observed in different cultures. This form is intended to help users understand the facts and traditions surrounding New Year's. Note that none of the questions are required, so users can skip or complete as many questions as they like.
-</thinking>
-
 # new_year_true_or_false_quiz - Help Guide
 ## Purpose
 This form is used to gather information about New Year's celebrations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a quotation for disposable gloves. The purpose of this form is to capture the customer's information to provide a detailed quote. It's essential to ensure that the form is filled out correctly to avoid any delays or errors in the quotation process. Please make sure to fill out the form accurately and completely, and do not duplicate this form if you have already submitted a previous request.
-</thinking>
-
 # Disposable Gloves Quotation Request Form - Help Guide
 ## Purpose
 This form is used to request a quotation for disposable gloves. Please fill out the form with your relevant information to help us provide a detailed quote for your disposable glove needs.

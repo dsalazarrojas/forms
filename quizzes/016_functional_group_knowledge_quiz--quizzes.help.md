@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be designed to test the knowledge of a functional group, specifically halogens and pseudohalogens with different bond types. The purpose of the form is to assess the user's understanding of these functional groups and their properties. The form likely serves as a tool for educational or assessment purposes.
-
-To confirm, the form asks questions about various functional groups, including halogens with single, double, and triple bonds, as well as pseudohalogens. This is relevant to chemistry education or assessment.
-
-Please note that this explanation assumes that the fields are correctly labeled and the logic is consistent across the form. If there are any discrepancies, please clarify.
-</thinking>
-
 # Functional Group Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of functional groups, specifically halogens and pseudohalogens with different bond types.

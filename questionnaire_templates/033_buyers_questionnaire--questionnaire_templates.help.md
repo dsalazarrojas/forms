@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Buyers Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from potential buyers about their preferences and requirements for a home purchase. The goal is to understand their needs, expectations, and priorities to provide personalized guidance and recommendations for a successful home buying experience.

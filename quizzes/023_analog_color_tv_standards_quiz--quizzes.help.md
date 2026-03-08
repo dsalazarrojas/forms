@@ -1,5 +1,3 @@
-<thinking>Let's break down the form and its purpose to understand what the user needs to know to complete it effectively. The form is called "Analog Color TV Standards Quiz" and is designed to test the knowledge of users about different analog color TV standards. It seems to be a multiple-choice quiz that assesses the user's understanding of various technical aspects related to analog color TV standards.</thinking>
-
 # Analog Color TV Standards Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your knowledge about different analog color TV standards. It will assess your understanding of various technical aspects related to analog color TV standards, specifically regarding standards such as NTSC, PAL, and SECAM.

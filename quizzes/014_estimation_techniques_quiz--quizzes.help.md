@@ -1,7 +1,3 @@
-<thinking>
-The Estimation Techniques Quiz form is designed to gauge a user's knowledge on estimation techniques. This quiz is intended for users familiar with estimation concepts and methods. Please ensure you have a basic understanding of estimation before proceeding. If you've already taken this quiz or have a duplicate entry, please do not continue as it may not accurately reflect your progress or experience.
-</thinking>
-
 # Estimation Techniques Quiz - Help Guide
 
 ## Purpose

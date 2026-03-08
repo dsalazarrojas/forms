@@ -1,11 +1,3 @@
-<thinking>
-This form is used for requesting a quotation for an edible oil filling machine. It is designed to collect general information, contact information, delivery details, quote information, shipping information, additional information, quote request, quote details, payment terms, and another quote request. 
-
-The form will likely be used by businesses or individuals looking to purchase or lease an edible oil filling machine. 
-
-Please ensure to only fill out the form if you are requesting a quotation for an edible oil filling machine. If you are looking for a different type of product or service, please do not fill out this form. This form was generated based on industry standards and publicly available information, but it may need to be reviewed and adjusted for internal use. 
-</thinking>
-
 # Edible Oil Filling Machine Quotation Request - Help Guide
 
 ## Purpose

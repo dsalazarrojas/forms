@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess an individual's growth mindset and preferences regarding learning and studying habits. The form is designed to collect information about the respondent's views on growth mindset, motivation, time management, and learning habits. The form is likely used in an educational or psychological context to gather data for research or to help individuals identify areas for personal development.
-
-Before proceeding, please ensure that you are answering the questions in a way that reflects your true thoughts and habits. If you have answered this form before, your answers will be stored, and answering the same questions again may not be necessary. If you are unsure about the purpose or relevance of any question, please feel free to ask for clarification.
-
-</thinking>
-
 # Growth Mindset Quiz prophets - Help Guide
 ## Purpose
 This form is designed to help you understand your growth mindset and preferences regarding learning and studying habits.

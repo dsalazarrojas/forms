@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Conditional Logic Quiz - Help Guide
 
 ## Purpose

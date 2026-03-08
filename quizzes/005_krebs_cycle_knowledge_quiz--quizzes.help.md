@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to create a comprehensive knowledge quiz on the Krebs Cycle, a series of complex biochemical reactions in cellular respiration. This form collects multiple-choice questions on various aspects of the Krebs Cycle, allowing the user to provide a detailed understanding of the process.
-This form has been created using a schema-driven approach, where each question is presented as a select_one or select_multiple field, making it easy to collect and analyze responses.
-
-The form is composed of 16 questions, each targeting different aspects of the Krebs Cycle. The questions range from simple "Yes/No" answers to multi-select questions allowing for multiple correct answers.
-
-The form's schema is designed to be flexible and adaptable, allowing for easy modification and addition of new questions as needed.
-</thinking>
-
 # Krebs Cycle Knowledge Quiz - Help Guide
 ## Purpose
 The Krebs Cycle Knowledge Quiz is a comprehensive form designed to assess users' knowledge on the Krebs Cycle, a series of complex biochemical reactions in cellular respiration. This form is composed of 16 questions, each targeting different aspects of the Krebs Cycle.

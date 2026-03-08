@@ -1,7 +1,3 @@
-<thinking>
-This form is an AI-generated quiz about Ancient Gaul, a region that corresponds to modern-day France, Belgium, Luxembourg, and parts of Switzerland, Germany, and Italy. The quiz tests the user's knowledge of the culture, people, and history of Ancient Gaul. The form has no affiliation with any form platform and is released under Creative Commons 4.0 license. This form was created using public metadata, and users are free to use, modify, and distribute it as they see fit.
-</thinking>
-
 # Ancient Gaul Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your knowledge of Ancient Gaul, a region that was inhabited by the Gauls, a Celtic people. The quiz consists of 12 questions that cover various aspects of Gaulish culture, people, and history.

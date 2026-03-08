@@ -1,14 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "Algebra Factorization Quiz" form, I will first provide a brief internal reasoning block to solidify the purpose and structure of the form, checking for potential duplication and irrelevance:
-
-* The form is designed to assess students' skills in factoring algebraic expressions.
-* The form has 20 questions, each asking students to factor a given quadratic or cubic expression.
-* Each question is designed to test different aspects of factoring, such as simple factoring, factoring by grouping, or factoring by difference of squares.
-* The form also collects demographic information about the students, including their name, ID number, class period, and time spent on the quiz.
-* The form does not have any duplicate questions or fields.
-
-</thinking>
-
 # Algebra Factorization Quiz - Help Guide
 ## Purpose
 The Algebra Factorization Quiz is designed to test your skills in factoring algebraic expressions. The quiz consists of 20 questions that will challenge your ability to factor quadratic and cubic expressions. By answering these questions, you will assess your understanding of the different factoring techniques used in algebra.

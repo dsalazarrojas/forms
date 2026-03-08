@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Listening Quiz - Help Guide
 ## Purpose
 The Listening Quiz form is designed to help users create and manage listening quizzes. A listening quiz is a type of quiz that tests users' listening skills by asking them to answer questions based on audio recordings.

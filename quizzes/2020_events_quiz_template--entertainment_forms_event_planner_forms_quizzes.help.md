@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to gather participant information and track their performance in a quiz about events that occurred in 2020. The form aims to assess the participant's knowledge of significant events that took place during that year, such as the COVID-19 pandemic, social distancing measures, and notable global news items. Please note that some questions may have multiple correct answers, and participants are allowed to choose all applicable options. Additionally, the form will ask participants whether they wish to receive future quizzes like this one.
-
-To confirm, the following events are included in this quiz:
-
-* COVID-19 pandemic
-* Widespread lockdowns
-* Twitter announcing work-from-home option
-* Netflix releasing "Tiger King"
-* Tokyo Olympics postponed
-* George Floyd protests in Minneapolis
-* Multiple event choices (global pandemic, major stock market crash, celebrity-led social campaigns, widespread transition to remote schooling, Mars rover landing)
-* National leader testing positive for COVID-19 (Boris Johnson)
-* Participant self-assessment of their knowledge of 2020 events
-
-Please fill out the form honestly and accurately, and provide any additional feedback or comments you may have.
-
-</thinking>
-
 # 2020 Events Quiz - Help Guide
 ## Purpose
 The 2020 Events Quiz is a survey designed to test your knowledge of significant events that occurred in 2020. The quiz aims to assess your understanding of global news, politics, and social changes that took place during that year.

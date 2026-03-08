@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect supplementary information from Police Chiefs to help assess their background and experience in the context of our organization's initiatives. The purpose of this form is to gather information on their leadership skills, background, and certifications. Please ensure that you are not completing this form if you have already done so in the past. If you have, please do not submit this form again.
-</thinking>
-
 # supplemental_questions_for_police_chief - Help Guide
 ## Purpose
 This form is designed to collect supplementary information from Police Chiefs to help our organization's initiatives.

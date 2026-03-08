@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to gather information about open defection in Nepal. Open defection is a sensitive topic, and the form is intended to help individuals provide feedback on their experiences and perceptions regarding this issue. The form is not affiliated with or endorsed by any form platform, and it is an original adaptation created using AI-generated metadata. It is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-Before proceeding, please take note of the following:
-
-- This form is a tool for gathering information and does not replace official surveys or assessments conducted by authorities.
-- Responses will be treated with confidentiality and care, and all data collected will be used for analytical purposes only.
-- If you're unsure about any question or field, please contact us at form@gic.mx for assistance.
-
-</thinking>
-
 # survey of reality check on open defection (nepal) - Help Guide
 ## Purpose
 The "Survey of Reality Check on Open Defection (Nepal)" is a form designed to gather information and feedback on open defection in Nepal. It is intended to help individuals provide their experiences and perceptions on this sensitive topic.

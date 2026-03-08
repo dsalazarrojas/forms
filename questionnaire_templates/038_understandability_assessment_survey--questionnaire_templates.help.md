@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Understandability Assessment Survey - Help Guide
 ## Purpose
 This guide provides a step-by-step walkthrough on how to complete the Understandability Assessment Survey form. The form is designed to gather feedback on the understandability of a document. It is meant to be filled out by a reviewer of a document who has reviewed the content and is being asked to provide their honest assessment of how easy or difficult it was to understand the document.

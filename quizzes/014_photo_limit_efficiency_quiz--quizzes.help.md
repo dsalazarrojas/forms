@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to assess photo limit efficiency, which is a measure of how efficiently a system can store and process photos. The goal is to determine how a user's preferences and system settings affect the efficiency of photo storage and upload. This form will help identify areas where improvement is needed to optimize photo storage and upload processes.
-
-This form will ask a series of questions about photo quality, storage efficiency, and system settings to provide a comprehensive picture of photo limit efficiency. 
-
-Please note that the form is not designed to be a comprehensive assessment tool. It's a simple quiz to help identify potential issues and areas of improvement.
-
-</thinking>
-
 # Photo Limit Efficiency Quiz - Help Guide
 ## Purpose
 This form is designed to help you assess your photo limit efficiency by asking a series of questions about photo quality, storage efficiency, and system settings.

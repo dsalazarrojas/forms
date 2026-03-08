@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from buyers about their needs and preferences when searching for a property. It aims to help real estate agents better understand their clients' requirements, making it easier to provide personalized services. The form is divided into several sections, covering essential details such as buyer contact information, budget, and property preferences. By filling out this form, buyers will be able to provide agents with a clear understanding of their needs, allowing for more effective communication and a more efficient search process. It's essential that this information is accurate and comprehensive to ensure the agent can cater to the buyer's needs and provide the most suitable properties for their budget and preferences. Please ensure that each field is filled as accurately as possible and only if it's relevant to your search, so the agent can tailor their services accordingly. 
-
-</thinking>
-
 # Buyers Questionnaire - Help Guide
 
 ## Purpose

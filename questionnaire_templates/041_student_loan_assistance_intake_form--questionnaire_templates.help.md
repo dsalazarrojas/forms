@@ -1,7 +1,3 @@
-<thinking>
-The Student Loan Assistance Intake Form is a tool used to collect information from students who are seeking assistance with their student loans. This form is designed to gather essential details about the student's loan status, employment status, income level, and other relevant factors. Before filling out this form, please ensure that you have not previously submitted a request for student loan assistance, as duplicate requests will not be processed. If you are unsure about any of the fields or have questions, please don't hesitate to reach out to our support team for clarification.
-</thinking>
-
 # Student Loan Assistance Intake Form - Help Guide
 ## Purpose
 The Student Loan Assistance Intake Form is a tool used to collect information from students who are seeking assistance with their student loans. This form is designed to gather essential details about the student's loan status, employment status, income level, and other relevant factors.

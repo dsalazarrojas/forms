@@ -3,16 +3,6 @@
 
 This form is designed to collect information from patients about their weight loss goals and medical history. The form helps healthcare providers understand the patient's motivation and expectations for weight loss, as well as any potential medical conditions that may affect their weight loss journey.
 
-<thinking>
-
-To be filled out by: Healthcare providers and patients
-To be used for: Weight loss consultations and planning
-Relevance: Weight management and wellness
-
-This form is intended to be used for weight loss consultations and planning. Please use it only for this purpose. Duplicate or outdated data may lead to incorrect information and poor patient care.
-
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

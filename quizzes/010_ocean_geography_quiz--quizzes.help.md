@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ocean Geography Quiz - Help Guide
 ## Purpose
 The Ocean Geography Quiz is a form designed to collect information from users about their knowledge of ocean geography. This quiz consists of 25 questions that test the user's understanding of various aspects of the ocean, including its geography, features, and processes. The form is intended for users who want to assess their knowledge on this topic and have fun learning about the ocean.

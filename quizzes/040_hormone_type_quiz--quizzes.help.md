@@ -1,5 +1,3 @@
-<thinking>...this is a form designed to collect user input about hormone imbalances, specifically asking about symptoms and providing a quiz completion option at the end...it seems to be collecting user input about their symptoms and then asking if they've completed the quiz...</thinking>
-
 # Hormone Type Quiz - Help Guide
 ## Purpose
 This form is designed to help users identify potential hormone imbalances by asking about their symptoms. It consists of a series of questions about symptoms and a final quiz completion confirmation.

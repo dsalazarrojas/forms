@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lower Limb Anatomy Quiz - Help Guide
 ## Purpose
 The Lower Limb Anatomy Quiz is designed to test your knowledge of the anatomy of the lower limb, specifically the bones, ligaments, nerves, and muscles that make up this region of the body. This quiz will help you identify and understand the different components of the lower limb and their functions.

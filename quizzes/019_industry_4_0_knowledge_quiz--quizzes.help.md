@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will now create a comprehensive help guide for the Industry 4.0 Knowledge Quiz form. This form aims to assess a person's knowledge on Industry 4.0 concepts, production environments, and other related topics.
 
 ## Purpose

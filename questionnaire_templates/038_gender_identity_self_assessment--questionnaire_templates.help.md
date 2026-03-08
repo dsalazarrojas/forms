@@ -1,5 +1,3 @@
-<thinking>... this form's purpose is to assess an individual's gender identity. It is not affiliated with, endorsed by, or derived from any specific form platform. The form asks for self-assessment of one's gender identity across 13 questions. These questions cover various aspects of gender identity, including options for gender, gender expression, and gender roles. The form is meant to provide a comprehensive assessment of one's gender identity. This form is a public adaptation of a generated form and is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it - just give credit. The form was created by a public survey topic metadata as inspiration... </thinking>
-
 # Gender Identity Self Assessment - Help Guide
 
 ## Purpose

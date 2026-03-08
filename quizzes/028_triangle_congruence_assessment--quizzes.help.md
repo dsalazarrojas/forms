@@ -1,26 +1,3 @@
-<thinking>
-This form is likely used to assess whether a given shape is congruent or not, specifically for triangles. I assume that the user needs to input some information or criteria for this assessment. The fields seem to be related to various aspects of the shape, such as its congruence status, select options, date, time, email, phone number, and some additional information.
-
-To confirm, let's go over the fields one by one:
-
-* Page 1: What Is Congruence Criteria - This page is likely the introduction or background information about what makes a triangle congruent or not. The required nature of this page suggests it's crucial for the assessment.
-
-* Page 2: Triangle Congruence Assessment - This page is asking users to confirm or deny the congruence status of the shape. This is likely the core of the assessment.
-
-* Page 3: Select Correct Option - This page presents options for users to select one correct answer out of several options. This could be related to the assessment criteria.
-
-* Page 4: Date - This page is for users to input a date, likely for recording when the assessment was performed or when the shape was created.
-
-* Page 5: Time - This page is similar to Page 4, for users to input a time.
-
-* Page 6: Email - This page is for users to input their email address. Given its optional nature, it may be for feedback or future contact purposes.
-
-* Page 7: Phone - This page is for users to input their phone number, likely for contact purposes.
-
-* Page 8: Additional Information - This page is for users to provide any extra details they think might be helpful for the assessment. This could be for any comments or observations they'd like to make.
-
-</thinking>
-
 # Triangle Congruence Assessment - Help Guide
 ## Purpose
 The Triangle Congruence Assessment form is designed to determine whether a given shape is congruent or not, by gathering information about its characteristics and user's input.

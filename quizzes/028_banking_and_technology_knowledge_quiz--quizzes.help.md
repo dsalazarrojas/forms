@@ -1,10 +1,3 @@
-<thinking> 
-This form is intended to assess the knowledge of participants on various banking and technology-related topics. It will help evaluate their understanding of concepts such as API, open banking, secure online transactions, two-factor authentication, ACH, digital payment platforms, blockchain technology, routing numbers, KYC, mobile banking, PCI DSS compliance, fintech companies, biometric authentication, cloud banking, real-time payments, and other related subjects. The form will provide an objective assessment of the participant's knowledge in these areas, which can be used for educational or certification purposes. 
-
-Please note that the form is designed to be neutral and not biased towards any particular institution or platform. It is also worth mentioning that the form's questions and answers are derived from publicly available information and might not reflect the specific practices or policies of any particular bank or institution.
-
-</thinking>
-
 # Banking And Technology Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate your knowledge on various banking and technology-related topics. It contains 15 questions that cover different aspects of banking technology, from APIs and open banking to mobile banking and real-time payments. The quiz is intended to be a helpful tool for participants to gauge their understanding of these concepts.

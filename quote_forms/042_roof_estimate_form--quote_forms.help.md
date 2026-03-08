@@ -1,7 +1,3 @@
-<thinking>
-This form is used for estimating the cost of a roofing project. The form is designed to gather information about a project's details, address, contact person and phone number, email, roof type, square footage, number of stories, roof condition, roof inspection report, estimated cost, payment terms, payment method, payment due date, payment status, and notes. The form is intended for internal use, and the information gathered will be used to generate an estimate for the project. This form is typically filled out by a project manager or estimator. This form does not have any specific security or compliance concerns.
-</thinking>
-
 # roof_estimate_form - Help Guide
 ## Purpose
 The roof_estimate_form is used to collect information about a roofing project to generate an estimate. This form is for internal use.

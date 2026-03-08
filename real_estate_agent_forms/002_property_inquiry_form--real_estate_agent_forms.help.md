@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll need to understand the purpose of the form and the information it intends to collect.
-
-The form is called "property_inquiry_form", and it seems to be a property inquiry form designed to collect information from users about a property they're interested in. The form is likely used by real estate agents to gather details about the property and the user's contact information.
-
-Based on the YAML schema, the form has multiple pages and fields. I'll focus on the fields that require user input. Each field is labeled with a clear and concise name, and some fields have options or hints that provide additional context.
-
-</thinking>
-
 # property_inquiry_form - Help Guide
 ## Purpose
 The "property_inquiry_form" is a form designed to gather information from users about a property they're interested in. This information will be used by real estate agents to help them better understand the user's needs and preferences.

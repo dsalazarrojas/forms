@@ -1,5 +1,3 @@
-<thinking>As I analyze the form, I understand that it's designed to assess the knowledge of employees on various cyber security concepts and practices. The form seems to cover a range of topics, from firewalls and passwords to encryption, patch management, and network security. It appears to be a mix of multiple-choice and open-ended questions, with some requiring the selection of multiple options. I also notice that most questions are not required, which might suggest that the form is meant to be exploratory or for educational purposes. I'll make sure to clarify the purpose and expectations of the form in the help guide below.</thinking>
-
 # Cyber Security Quiz For Employees - Help Guide
 ## Purpose
 

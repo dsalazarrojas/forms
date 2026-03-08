@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a patient's renal function exam. The form is intended to gather data on the patient's medical history, current medications, allergies, and laboratory testing results. The form should be completed by a healthcare professional, such as a doctor or a medical student, to collect information for diagnostic purposes.
-
-To confirm, this form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created by AI using public survey topic metadata as inspiration.
-
-The purpose of this form is to standardize the collection of renal function exam information, making it easier for healthcare professionals to access and analyze patient data.
-
-Please review the following guide to ensure you understand the form's purpose and how to complete it correctly.
-
-</thinking>
-
 # Renal Function Exam Intake Questionnaire - Help Guide
 
 ## Purpose

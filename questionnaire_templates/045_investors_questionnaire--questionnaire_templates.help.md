@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # investors_questionnaire - Help Guide
 ## Purpose
 The "Investors Questionnaire" form is designed to collect information from investors about their company, investment interests, and contact details. This form aims to gather relevant data for internal analysis and decision-making purposes. Please note that this form is not mandatory, and you can choose to fill it in at your discretion.

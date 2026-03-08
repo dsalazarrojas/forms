@@ -1,14 +1,3 @@
-<thinking>
-This help guide will cover the fields and functionality of the 'ugo_foscolo_knowledge_quiz' form, which is designed to collect information about a quiz or knowledge assessment. The form is used to gather various types of data, including text, date, time, and select options.
-
-To ensure that this help guide is relevant and not duplicated, we will cover the following key points:
-
-* The form's purpose is to collect data for a quiz or knowledge assessment.
-* Each field has a specific type and label that corresponds to its purpose.
-* Some fields are optional and can be skipped if not relevant.
-
-</thinking>
-
 # ugo_foscolo_knowledge_quiz - Help Guide
 ## Purpose
 The 'ugo_foscolo_knowledge_quiz' form is used to collect information about a quiz or knowledge assessment. This form is designed to gather data on various types, such as text, date, time, and select options.

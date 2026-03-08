@@ -1,5 +1,3 @@
-<thinking>...checking the provided YAML fields to ensure the form purpose and field explanations are accurate and relevant...</thinking>
-
 # Auto Quote Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to generate an auto quote request. It helps us understand your contact details, vehicle requirements, and personal information to provide a personalized quote for your auto insurance needs.

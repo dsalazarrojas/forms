@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the knowledge and experience of users in the field of agricultural mechanization, specifically in terms of best practices for tractor maintenance, proper tire pressure, safe procedures before repair, and fuel storage. This quiz will help to identify knowledge gaps and interest in further training for users. The questions are designed to be relevant and practical for users with varying levels of experience in mechanization. It is essential to note that the form is not a formal certification or evaluation tool but rather a tool for self-assessment and knowledge discovery.
-</thinking>
-
 # Agricultural Mechanization Quiz - Help Guide
 ## Purpose
 This quiz is designed to evaluate your knowledge and experience in agricultural mechanization, specifically in terms of best practices for tractor maintenance, proper tire pressure, safe procedures before repair, and fuel storage.

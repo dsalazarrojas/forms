@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from students for an English Grade 4 test. The test is intended to assess students' language skills and knowledge of general knowledge questions. It is not meant to be a comprehensive assessment of a student's English proficiency, but rather a tool to help teachers and educators understand students' strengths and weaknesses.
-
-This form should only be filled out once by each student, and responses should be unique for each student. Please ensure that you are filling out the form honestly and accurately, as the information provided will be used to inform instruction and tailor support to your needs.
-
-**If you have previously filled out this form, do not fill it out again.**
-
-</thinking>
-
 # English Grade 4 Test - Help Guide
 ## Purpose
 This form is designed to gather information from students for an English Grade 4 test. The test assesses students' language skills and knowledge of general knowledge questions.

@@ -1,16 +1,3 @@
-<thinking>Monat Hair Consultation Quiz is designed to gather information about a user's hair characteristics and preferences to provide personalized recommendations. This form is used by the Monat team to better understand customer needs and offer tailored suggestions for their hair care routine.
-
-To fill out this form, follow these steps:
-
-1.  Select the appropriate options for each question, making sure to provide detailed and accurate information about your hair type, color, and concerns.
-2.  Choose your age group to help us better understand your lifestyle and hair growth rate.
-3.  Indicate if you have used Monat products before, including Monat hair and Monat fusion, and share any other hair care products you have previously used.
-4.  Select the specific hair problems you are experiencing, such as frizzy hair, to help us provide targeted recommendations.
-5.  Answer yes or no questions about using Monat hair and sharing Monat hair with others.
-6.  Answer yes or no questions about using Monat fusion and sharing Monat fusion with others.
-
-</thinking>
-
 # Monat Hair Consultation Quiz - Help Guide
 ## Purpose
 The Monat Hair Consultation Quiz is designed to help us better understand your hair characteristics and preferences to provide personalized recommendations.

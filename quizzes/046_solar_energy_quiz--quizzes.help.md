@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on users' knowledge and completion status of a solar energy quiz. The form has two main parts: the questions, which cover various aspects of solar energy, and the user information and quiz completion status. The quiz is not mandatory, but users are asked to choose their energy types, renewable energy sources, and provide their feedback and score. The user's time spent on the quiz is also recorded. The form also asks for the user's score, quiz results, and completion status. The assigned tool and user information are optional fields. The form is meant to be completed by users who have taken the solar energy quiz.
-</thinking>
-
 # Solar Energy Quiz - Help Guide
 ## Purpose
 This form is designed to collect data on users' knowledge and completion status of a solar energy quiz.

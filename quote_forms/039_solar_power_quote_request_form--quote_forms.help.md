@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the user understands the purpose and context of this form. The form is for customers to request a quote for solar power installation. They will need to provide their information so that we can provide a tailored quote for their system. This form should not be used for duplicate requests. Please enter your information accurately and completely so that we can serve you better.
-</thinking>
-
 # Solar Power Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers interested in solar power installation. Please fill out the form completely and accurately so that we can provide a tailored quote for your system.

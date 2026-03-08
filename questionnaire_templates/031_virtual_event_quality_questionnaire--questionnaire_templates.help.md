@@ -1,21 +1,3 @@
-<thinking>Before creating the user-facing help guide for the "Virtual Event Quality Questionnaire", let's review the purpose and relevance of this form. The form is designed to collect feedback and quality ratings from attendees of virtual events. The purpose of this form is to gather insights on the overall quality and effectiveness of virtual events, specifically in areas such as presentation, materials, technology, and engagement. The form will help event organizers and organizers improve future virtual events.
-
-The form consists of 25 fields, including fields for event details, ratings, and comments. Some fields are optional, while others are required. The form is designed to be user-friendly and easy to complete, even on a mobile device.
-
-The fields are categorized into different sections to help users navigate through the form efficiently. The sections include event details, ratings, and comments. Each section is designed to gather specific information about the virtual event.
-
-The following sections are included:
-
-* Event Details: This section collects information about the event name, date, time, location, and speaker.
-* Ratings: This section collects ratings for different aspects of the virtual event, including presentation, materials, technology, organization, and overall experience.
-* Comments: This section allows users to provide additional comments about their experience.
-
-The form is designed to be flexible and adaptable to different types of virtual events. The ratings and comments sections can be used to identify areas of improvement and provide feedback to event organizers.
-
-The form is also designed to be accessible on different devices, including desktops, laptops, tablets, and mobile devices. The form is mobile-friendly and easy to navigate.
-
-The form is a valuable tool for event organizers to gather feedback and improve their virtual events. By providing a user-friendly and structured format for feedback, the form helps event organizers to collect actionable insights and improve the overall quality of their events.</thinking>
-
 # Virtual Event Quality Questionnaire - Help Guide
 ## Purpose
 The Virtual Event Quality Questionnaire is designed to collect feedback and quality ratings from attendees of virtual events. This form helps event organizers to improve their events by identifying areas of improvement and providing actionable insights.

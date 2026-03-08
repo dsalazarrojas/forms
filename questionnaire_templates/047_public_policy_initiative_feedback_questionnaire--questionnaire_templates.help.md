@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the public policy initiative feedback questionnaire. It's essential to provide accurate and relevant feedback to help shape the future of public policy initiatives. Please ensure you're only submitting feedback on initiatives that have been previously announced and shared with you, and not duplicating feedback for the same initiative. If you're unsure about whether you've already provided feedback on this initiative, check your previous submissions or contact the initiative owner for clarification. This form is designed to gather feedback on public policy initiatives, and your input is invaluable in helping us understand your thoughts and opinions.
-</thinking>
-
 # public_policy_initiative_feedback_questionnaire - Help Guide
 ## Purpose
 The public policy initiative feedback questionnaire is designed to collect feedback from individuals and organizations on public policy initiatives. Your input will help shape the future of these initiatives and ensure they align with the needs and expectations of the community.

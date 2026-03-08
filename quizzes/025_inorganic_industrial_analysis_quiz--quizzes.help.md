@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-**Internal Reasoning and Non-Duplication Check**
+> **Internal Reasoning and Non-Duplication Check**
 This form is designed to gather information for inorganic industrial analysis, which is a crucial aspect of various industrial processes and materials science. The form is meant to be used for analysis and identification of inorganic substances. The questions and fields are designed to collect relevant information from the user, and each field is carefully crafted to provide the necessary data for analysis. To ensure consistency and reduce duplication, each field is clearly labeled and explained. The form is meant to be used once per substance or analysis, so there is no need to fill it out multiple times.
 
 </thinking>

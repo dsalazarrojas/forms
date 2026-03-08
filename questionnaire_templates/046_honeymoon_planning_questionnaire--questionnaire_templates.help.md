@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for honeymoon planning purposes. It is intended for users who are planning a honeymoon and want to provide details about their trip, such as destination, travel dates, budget, and other relevant information. This form is likely to be used by travel agencies, wedding planners, or honeymoon specialists to gather information for personalized recommendations or to create a detailed plan for the couple's dream honeymoon.
-To ensure accuracy and relevance of the information, please review and confirm that you are planning a honeymoon.
-If you are not planning a honeymoon, please do not fill out this form. If you have already filled out this form but need to make changes, please contact our support team.
-</thinking>
-
 # honeymoon_planning_questionnaire - Help Guide
 ## Purpose
 The Honeymoon Planning Questionnaire is a form designed to collect information from couples planning a dream honeymoon. The form collects details about the couple's preferences and requirements for their trip, allowing planners to create a personalized plan tailored to their needs and interests.

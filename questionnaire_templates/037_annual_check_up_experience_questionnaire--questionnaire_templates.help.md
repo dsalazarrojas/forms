@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from patients about their annual check-up experience with a healthcare provider. It's essential to provide feedback that is accurate and representative of your overall experience. Please ensure that you're filling out this form for the correct visit and provider. If you're unsure about any of the fields, please ask your provider for clarification. If you're not providing feedback for your own visit, please do not complete this form.
-
-This guide is intended to help patients understand how to fill out the form correctly and what each field represents. Please take the time to carefully review each section and provide thoughtful feedback.
-
-</thinking>
-
 # Annual Check Up Experience Questionnaire - Help Guide
 
 ## Purpose

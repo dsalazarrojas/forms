@@ -1,10 +1,3 @@
-<thinking>
-The form "Personal Growth Intake Form" is designed to collect information from clients about their personal growth areas of focus, goals, challenges, and readiness for coaching. The form is meant to be a starting point for coaches and professionals to understand the client's needs and tailor their approach to support personal growth and development.
-
-To avoid duplication, please fill out this form only once for each client.
-
-</thinking>
-
 # Personal Growth Intake Form - Help Guide
 ## Purpose
 The Personal Growth Intake Form is a questionnaire designed to help coaches and professionals understand a client's personal growth areas of focus, goals, challenges, and readiness for coaching. This form serves as a starting point for the coaching process, allowing coaches to tailor their approach to each client's unique needs.

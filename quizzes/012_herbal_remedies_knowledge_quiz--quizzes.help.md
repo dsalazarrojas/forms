@@ -1,6 +1,3 @@
-<thinking>Herbal Remedies Knowledge Quiz - Help Guide
-This guide is intended for end-users who wish to complete the Herbal Remedies Knowledge Quiz. Please ensure you have a genuine interest in herbal remedies knowledge before starting the quiz. If you have already completed this quiz, please do not fill it out again as it may be considered duplicate data.</thinking>
-
 # Herbal Remedies Knowledge Quiz - Help Guide
 ## Purpose
 The Herbal Remedies Knowledge Quiz is designed to gauge your knowledge about herbal remedies. It is intended for individuals with interest in herbal remedies to self-assess their level of knowledge. The quiz will ask questions about your experience, knowledge, and practices related to herbal remedies.

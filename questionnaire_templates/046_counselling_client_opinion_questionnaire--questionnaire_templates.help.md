@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from clients who have received counselling services. The form will ask clients for their overall satisfaction with the therapy sessions and specific areas where they see room for improvement or areas where the therapy was effective. This will help the therapist understand the effectiveness of the therapy and provide targeted areas for growth. Ensure you are completing this form only once after your sessions and not during or between sessions. Also, ensure the information provided is specific and concrete to the therapy sessions you attended. This will ensure accurate and meaningful insights for the therapist...</thinking>
-
 # Counselling Client Opinion Questionnaire - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking> 
-This form is a quiz designed to assess the user's knowledge and understanding of Hiragana, a Japanese syllabary system. The form is meant to be completed by users who have some level of experience with Hiragana, and it is not intended for absolute beginners. The form is divided into multiple sections, each addressing a different aspect of Hiragana knowledge. The purpose of this form is to gather information on the user's familiarity with Hiragana characters, their level of proficiency, and their preferred methods of learning. This information will be used to identify areas where users may need additional practice or guidance. 
-
-Please note that this form is not a comprehensive test, but rather a survey to gather feedback and information. Each question is designed to be self-contained, and users are not required to answer all questions. 
-
-</thinking>
-
 # Hiragana Recognition Quiz - Help Guide
 ## Purpose
 This quiz is designed to assess your knowledge and understanding of Hiragana, a Japanese syllabary system. It is meant to be completed by users who have some level of experience with Hiragana.

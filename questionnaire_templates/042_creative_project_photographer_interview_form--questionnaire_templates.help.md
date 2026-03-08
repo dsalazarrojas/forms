@@ -1,6 +1,3 @@
-<thinking>
-Are we certain about creating a form for gathering photographer interviews? The purpose of this form is likely to gather information about a photographer's details, contact, location, portfolio, and experience. It seems that this form will ask about a project's type, location, date, description, and other relevant details. It's essential to review this information to ensure that it's not already being covered by other forms or processes within the project management system.</thinking>
-
 # Creative Project Photographer Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information about a photographer's details, contact, location, portfolio, and experience related to a specific project.

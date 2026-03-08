@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from users for a cross-country running quiz, which is likely used for a fun, educational, or research purpose. This form asks questions about various aspects of cross-country running, including the quiz questions, race distance, finish time, water stations, course map, race type, team size, course length, course type, race weather, finish line, water stop location, race surface, water stop frequency, team member, course slope, team size range, team age, team gender, team level, course elevation gain, race elevation loss, team name, course climate, and course surface.
-
-To ensure that the form is used correctly, please check that each field is filled out accurately and thoroughly. This guide will walk you through each field and its purpose.
-
-</thinking>
-
 # Cross Country Running Quiz - Help Guide
 
 ## Purpose

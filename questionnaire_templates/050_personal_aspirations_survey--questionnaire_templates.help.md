@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's personal aspirations, goals, and feelings of support. This form will help us understand what drives the user's motivation and what they are currently working on. Please make sure to complete this form only if you are an individual who is willing to share their personal thoughts and experiences. This form is not intended to be completed by multiple users at the same time. If you are unsure about any of the questions, please ask your administrator for clarification.
-</thinking>
-
 # Personal Aspirations Survey - Help Guide
 ## Purpose
 

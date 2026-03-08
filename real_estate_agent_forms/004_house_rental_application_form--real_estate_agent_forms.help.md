@@ -1,18 +1,3 @@
-<thinking>
-This form appears to be a general-purpose house rental application form used by landlords or property managers to collect information from potential renters. The form likely serves as a starting point for the rental application process, gathering basic contact and contact method information from the applicant, as well as their contact requests, rental preferences, and lease details.
-However, upon closer inspection, it seems that the form may be more suited for other purposes, such as:
-* Creating a survey or poll to gather opinions on different rental frequencies.
-* Gathering demographic information for marketing purposes.
-It would be beneficial to add more specific fields related to the house rental application process. For instance, including questions related to the applicant's income, employment status, rental history, or credit information to ensure accurate and thorough screening.
-To create a more comprehensive house rental application form, one should consider adding fields like:
-* Income and income source.
-* Employment status and duration.
-* Previous rental history and references.
-* Credit information or a credit score.
-Additionally, it would be essential to clearly define the "Contact Request" field, as the options provided seem to be unrelated to the usual contact methods used in rental applications. Perhaps, rephrasing the options or removing this field altogether would be more practical.
-Lastly, the form's layout could be improved by organizing the fields into sections or categories related to the applicant, contact, property, rental, and additional comments for better user experience and readability.
-</thinking>
-
 # House Rental Application Form - Help Guide
 ## Purpose
 The House Rental Application Form is a general-purpose form used by landlords or property managers to gather essential information from potential renters.

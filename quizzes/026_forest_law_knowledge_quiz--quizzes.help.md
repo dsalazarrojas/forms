@@ -1,5 +1,3 @@
-<thinking>...This form is designed to test the knowledge and understanding of users regarding general forest laws, multiple choice questions, and specific inputs related to email, phone number, select one integer, decimal input, and time select. The form is not required but rather a tool for assessment and evaluation. It's intended to be filled out by users who want to demonstrate their knowledge in the specified areas... </thinking>
-
 # Forest Law Knowledge Quiz - Help Guide
 
 ## Purpose

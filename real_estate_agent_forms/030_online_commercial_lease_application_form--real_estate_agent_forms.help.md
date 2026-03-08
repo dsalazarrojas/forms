@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online-commercial-lease-application-form - Help Guide
 ## Purpose
 This form is designed for agents to collect online commercial lease application information from clients. It is intended to be used during the commercial lease process, and it helps to streamline the application process by gathering essential details from both the landlord and the tenant.

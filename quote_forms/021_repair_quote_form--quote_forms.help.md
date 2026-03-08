@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide will cover the Repair Quote Form, a crucial tool for customers to submit their repair requests and receive quotes. To ensure accuracy and efficiency in the completion process, please review the following guidance:
-
-**Internal Reasoning Block**
-
-Before we dive into the guide, it's essential to understand the internal logic behind this form. The Repair Quote Form is designed to collect crucial information from customers regarding their repair requests. This form is used to capture details such as customer contact information, repair request specifics, and additional information required for the repair process. It helps in streamlining the repair process and ensures that customers receive accurate quotes and updates on their repair status.
-
-</thinking>
-
 # Repair Quote Form - Help Guide
 
 ## Purpose

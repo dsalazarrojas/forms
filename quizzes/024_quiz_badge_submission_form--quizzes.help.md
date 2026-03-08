@@ -1,8 +1,3 @@
-<thinking>
-To confirm the form purpose and ensure non-duplication of forms, we first need to clarify the form's intention and scope. The "Quiz Badge Submission Form" is designed to collect user data for the purposes of evaluating quiz completion and submission details. This form appears to be a tool for users to submit information about their quiz completion, including their name, score, and submission details. To prevent duplication of forms, it's essential to note that this form is AI-generated, not affiliated with any proprietary form platforms, and released under CC BY 4.0. This ensures that users can freely use, modify, and even sell forms derived from this original adaptation.
-
-</thinking>
-
 # Quiz Badge Submission Form - Help Guide
 ## Purpose
 The "Quiz Badge Submission Form" is designed to collect user data for the purposes of evaluating quiz completion and submission details.

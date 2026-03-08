@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Video Quote Request - Help Guide
 
 ## Purpose

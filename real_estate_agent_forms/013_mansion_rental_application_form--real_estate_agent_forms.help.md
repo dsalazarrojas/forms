@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process and store rental applications for mansions. It captures essential information about potential renters, their contact details, and the desired rental period. Please ensure you fill out the form accurately and completely to ensure your application is processed efficiently.
-</thinking>
-
 # Mansion Rental Application Form - Help Guide
 ## Purpose
 The Mansion Rental Application Form is a crucial document that helps us understand your interest in renting a mansion. By filling out this form, you will be able to express your requirements and provide necessary information about your rental needs. Please note that providing accurate and detailed information increases the chances of your application being processed efficiently.

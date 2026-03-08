@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic quote request form created using an AI model based on public survey topic metadata. Its purpose is to collect information from submitters, likely for quotes or proposals for moving-related services. The form does not require any specific business logic or affiliation with proprietary platforms, making it a unique and open-source creation. 
-</thinking>
-
 # Moving Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from submitters for quotes or proposals related to moving services. It will help you provide accurate quotes and serve your customers better.

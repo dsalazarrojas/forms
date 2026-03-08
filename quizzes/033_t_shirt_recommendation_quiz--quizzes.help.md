@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to recommend a T-shirt based on the user's preferences. The goal is to provide a tailored suggestion by asking a series of questions about the user's desired size, collar style, color, and other features. The form is not affiliated with any form platform and is a public domain adaptation.
-
-Before proceeding, please note that the following fields are optional and will not affect the accuracy of the recommendation. You can skip any question that does not apply to you or your preferences. 
-
-</thinking>
-
 # T Shirt Recommendation Quiz - Help Guide
 ## Purpose
 The purpose of this quiz is to help us suggest a T-shirt that matches your preferences. Our goal is to provide a personalized recommendation based on your answers.

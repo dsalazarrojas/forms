@@ -1,7 +1,3 @@
-<thinking>
-We need to determine if the form is being filled out correctly and that there's no duplication in the submitted data. This form should only be filled out after a workshop session has ended, and the participant is being asked about their experience. It's used to gather data about the participant's knowledge and score after a session. The fields should be filled out in the order of the workshop session, and the participant's name and email should be provided if they've completed the session. This form should only be filled out once per participant. It's also used to collect feedback from the participants.
-</thinking>
-
 # Workshop Knowledge Quiz - Help Guide
 ## Purpose
 The Workshop Knowledge Quiz form is used to gather data about a participant's experience after a workshop session. It's meant to be filled out once per participant after the session has ended.

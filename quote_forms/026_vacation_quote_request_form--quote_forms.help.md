@@ -1,7 +1,3 @@
-<thinking>
-This form is a generic vacation quote request form, likely used by travel agencies or hotels to request information from customers about their preferences and needs for an upcoming vacation. It's designed to gather relevant details to provide personalized quotes. 
-</thinking>
-
 # Vacation Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their vacation preferences and needs, allowing your company to provide personalized quotes for their trip.

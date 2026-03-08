@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to collect detailed information about a pre-market listing, helping real estate agents to gather essential data about the property being listed. This form is likely used by real estate professionals to provide accurate and up-to-date property listings.
-
-Before proceeding, please note that this form is not a substitute for any official government documentation required for property listing. This form is meant to supplement the official forms and ensure that the listing is as complete and accurate as possible.
-
-To ensure the form is filled out correctly, it's recommended to:
-
-- Review the property's current status, ownership type, and zoning status before proceeding.
-- Check if the property has any outstanding liens or encumbrances.
-- Verify the property's location and address accuracy.
-- Confirm the property type and subtype.
-- Double-check the property size and lot size.
-
-</thinking>
-
 # Pre Market Listing Questionnaire - Help Guide
 ## Purpose
 The Pre Market Listing Questionnaire is a comprehensive form to gather information about a pre-market listing. This form helps real estate agents collect accurate and up-to-date data about the property, ensuring that it is correctly listed in the market.

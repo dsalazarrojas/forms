@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for party bus rental requests. It is intended to be used by customers to provide details about their upcoming party celebrations. The purpose of this form is to gather essential information that will help the party bus rental company to prepare for the event.
-
-This form does not need to be filled out if the customer has already contacted the party bus rental company directly to make a reservation. In that case, the customer can proceed to the next step of the booking process.
-</thinking>
-
 # party_bus_quote_request_form - Help Guide
 ## Purpose
 The Party Bus Quote Request Form is designed to collect information from customers who are interested in renting a party bus for an event.

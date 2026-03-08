@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trivia Quiz - Help Guide
 
 ## Purpose

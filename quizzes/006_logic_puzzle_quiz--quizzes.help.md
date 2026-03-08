@@ -1,5 +1,3 @@
-<thinking>...This form is designed to be a simple 11-question logic puzzle quiz, where users are presented with a series of questions to test their logical reasoning and problem-solving skills. The quiz is meant to be completed by providing answers to each question, and there is no specific time limit or scoring system in place. Users can complete the quiz at their own pace and submit their answers when finished. The form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata. It is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit. Contact: form@gic.mx for more information.</thinking>
-
 # Logic Puzzle Quiz - Help Guide
 ## Purpose
 The Logic Puzzle Quiz is a 11-question form designed to test your logical reasoning and problem-solving skills. It is a self-paced quiz where you can complete it at your own speed.

@@ -1,7 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and usage of the "Courier Service Quotation Form". The form is meant to be used for clients to provide details about a service request for a courier service. It captures client information, service type, and other relevant details. The form is not designed to be a comprehensive document, but rather a brief request for services. Before proceeding, please ensure that you have read this guide to understand the form's purpose and usage correctly.
-</thinking>
-
 # Courier Service Quotation Form - Help Guide
 ## Purpose
 The "Courier Service Quotation Form" is designed to capture information from clients about their courier service requests. This form helps in providing a clear and concise overview of the client's requirements and allows the courier service provider to offer a suitable price quote.

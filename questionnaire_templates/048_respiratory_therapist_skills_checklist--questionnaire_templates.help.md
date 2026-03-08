@@ -1,14 +1,3 @@
-<thinking>
-To avoid redundancy and ensure clarity, we'll first review the form's purpose and fields to understand its intended use case. This form appears to be a comprehensive checklist for evaluating the skills and qualifications of a respiratory therapist. It's designed to assess various aspects of a respiratory therapist's abilities, such as their experience, licensure, and skills in specific areas. The form is likely used in hiring or credentialing processes to ensure that the therapist meets the necessary requirements for a particular role or position.
-
-Upon reviewing the fields, we notice that the form is divided into two main sections: "skills_and_equipment" and "experience_and_licensure". The "skills_and_equipment" section asks about the therapist's proficiency in various skills and equipment, while the "experience_and_licensure" section inquires about their experience and licensure. The "hiring_decisions" section appears to be a single-question field that asks whether the therapist is hired or not. The "first_page" section contains date and time fields, which might be used to capture additional information about the assessment or evaluation process.
-
-To complete this form, the user should start by reviewing the "skills_and_equipment" section, which asks about the therapist's proficiency in various skills and equipment. They should select "Yes" for each skill they possess and "No" for those they don't. The "experience_and_licensure" section requires the user to select "Yes" or "No" for their experience and licensure in specific areas. The "hiring_decisions" section asks for a single "Yes" or "No" answer, indicating whether the therapist is being hired or not. The "first_page" section contains date and time fields that need to be filled out.
-
-Each field has a specific label that indicates what it represents. For example, "skills_and_equipment" asks about the therapist's skills and equipment, while "experience_and_licensure" asks about their experience and licensure. The user should carefully read each label and select the correct answer based on their understanding of the question.
-
-</thinking>
-
 # Respiratory Therapist Skills Checklist - Help Guide
 ## Purpose
 The Respiratory Therapist Skills Checklist is a comprehensive evaluation tool used to assess the skills and qualifications of a respiratory therapist. This form is used to evaluate the therapist's proficiency in various skills and equipment, experience, and licensure, as well as make hiring decisions.

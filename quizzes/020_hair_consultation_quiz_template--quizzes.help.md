@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the "Hair Consultation Quiz Template" form. This form is designed to help individuals get personalized hair consultation results based on their hair characteristics and goals. It will help them find the best hair style, color, and cut that suits them. To ensure the form is used correctly, we need to clarify its purpose and usage.
-</thinking>
-
 # Hair Consultation Quiz Template - Help Guide
 ## Purpose
 The Hair Consultation Quiz Template is a tool designed to provide personalized hair consultation results based on individual's hair characteristics and goals. This form will help users find the best hair style, color, and cut that suits them.

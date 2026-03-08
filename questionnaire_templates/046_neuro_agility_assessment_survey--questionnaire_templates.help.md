@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for assessing a person's neuro agility, which is a measure of their adaptability, resilience, and ability to navigate complex systems. The form is designed to be completed by a person reflecting on their own thoughts, feelings, and behaviors in response to different scenarios. This form is not intended for individuals under 18 years old and is not a substitute for professional advice or diagnosis.
-</thinking>
-
 # Neuro Agility Assessment Survey - Help Guide
 ## Purpose
 The Neuro Agility Assessment Survey is a form used to measure a person's ability to adapt and respond to changing situations. It is a self-reporting tool that asks you to answer a series of questions and provide your thoughts, feelings, and behaviors in response to different scenarios.

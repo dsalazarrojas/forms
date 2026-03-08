@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect character knowledge quizzes, testing the user's ability to recall and analyze information about a character or story.
-The form is designed to be completed by participants in various contexts, such as in a game, story, or educational setting. To ensure relevance and non-duplication, please confirm that the context and participant align with the form's intended purpose.
-</thinking>
-
 # Character Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test the knowledge of users about a character or story, collecting their responses to a series of questions in a quiz format.

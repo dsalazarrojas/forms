@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Structural Fitter Skills Quiz form. This form is designed to assess the skills and experience of structural fitters in various areas such as knowledge, blueprint reading, safety awareness, hiring teams, training coordinators, construction supervisors, years of experience, blueprint reading skills, safety equipment, safety procedure, date, time, email, phone number, and notes.
-</thinking>
-
 # Structural Fitter Skills Quiz - Help Guide
 ## Purpose
 The Structural Fitter Skills Quiz is a comprehensive form designed to evaluate the skills and experience of structural fitters in various aspects of their profession. This form helps to assess their knowledge, blueprint reading, safety awareness, and other relevant skills.

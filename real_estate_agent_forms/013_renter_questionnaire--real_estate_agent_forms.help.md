@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from renters about their rental agreement, contact details, employment status, rent history, move-in and move-out dates, rent amount, and lease duration. This information is likely used to assess a renter's credibility and suitability as a tenant.
-Before filling out this form, please ensure you are providing accurate and truthful information. Duplicate entries will be removed.
-</thinking>
-
 # Renter Questionnaire - Help Guide
 ## Purpose
 The Renter Questionnaire is designed to collect relevant information from renters to assess their credibility and suitability as a tenant.

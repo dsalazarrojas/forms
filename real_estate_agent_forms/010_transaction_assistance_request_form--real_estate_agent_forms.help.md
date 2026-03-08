@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transaction Assistance Request Form - Help Guide
 ## Purpose
 This form is intended for real estate agents to request assistance with transactions. The form helps agents provide necessary information to facilitate the assistance process.

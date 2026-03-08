@@ -1,19 +1,3 @@
-<thinking>
-
-This form aims to assess an individual's sleep and stress levels. It is designed to be completed by a wide range of users, including individuals dealing with anxiety, insomnia, or other sleep-related issues. This form will help users understand their sleep patterns, stress levels, and overall well-being.
-
-To complete this form, please follow these steps:
-
-1.  Go through each question carefully and provide honest answers.
-
-2.  For questions with multiple options, choose the one that best describes your situation.
-
-3.  For open-ended questions, please provide as much detail as possible.
-
-4.  Please note that all answers will be kept confidential and will not affect your treatment or services received.
-
-</thinking>
-
 # Sleep And Stress Assessment - Help Guide
 ## Purpose
 

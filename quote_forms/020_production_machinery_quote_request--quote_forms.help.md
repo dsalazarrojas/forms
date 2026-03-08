@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from the user regarding a quote request for production machinery. 
-The purpose of this form is to provide a convenient and structured way for users to input their requirements and preferences for a quote request. 
-It's recommended to only fill out this form if you are looking for a quote for a specific production machinery request. 
-If you have filled out this form previously, please make sure to review the information you entered before submitting again to avoid duplication of effort.
-</thinking>
-
 # Production Machinery Quote Request - Help Guide
 ## Purpose
 This form is designed to collect information from users regarding a quote request for production machinery. It will guide you through the necessary steps to provide a detailed description of your request and gather relevant information for the quote.

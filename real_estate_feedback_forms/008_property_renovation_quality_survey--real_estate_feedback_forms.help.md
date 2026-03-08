@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the quality of a property renovation. The purpose of the form is to gather information about their experience with the property's renovation process, which can help the property management team to improve and optimize their services. This form is intended for internal use, and the data collected will be used to make data-driven decisions to enhance the customer experience. Before proceeding, ensure that this form is not already included in your existing feedback collection process to avoid redundancy.
-</thinking>
-
 # Property Renovation Quality Survey - Help Guide
 ## Purpose
 The Property Renovation Quality Survey is a form designed to collect feedback from users about the quality of a property renovation. The data collected will help the property management team make data-driven decisions to improve the customer experience.

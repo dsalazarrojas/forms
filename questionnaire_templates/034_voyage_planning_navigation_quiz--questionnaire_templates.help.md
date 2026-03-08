@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voyage Planning Navigation Quiz - Help Guide
 ## Purpose
 The Voyage Planning Navigation Quiz is a form designed to assess an individual's knowledge and understanding of navigation concepts related to voyage planning, navigation systems, and chart reading. It is intended to help evaluate the skills and abilities of sailors, boaters, or anyone interested in navigation.

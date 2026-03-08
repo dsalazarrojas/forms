@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "gaming_knowledge_quiz" form, we must consider the purpose of the form and ensure that it's not duplicated elsewhere. The form seems to be designed to gather information from users about their gaming habits, including their favorite game, favorite game genre, and other details. This form might be used for research, user profiling, or other purposes within a gaming-related organization. Before proceeding, we'll review the form structure and fields to provide a clear explanation of each field and its corresponding help guide.
-</thinking>
-
 # gaming_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to collect information from users about their gaming habits and preferences. It includes questions about their favorite games, game genres, and other related details.

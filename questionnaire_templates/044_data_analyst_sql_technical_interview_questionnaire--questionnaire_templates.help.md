@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a candidate's experience and knowledge in SQL, specifically in the context of data analysis and technical interviews. This form is designed to assess the candidate's understanding of various SQL concepts and their ability to apply them in real-world scenarios. The questions cover a range of topics, from basic SQL concepts to advanced data analysis and data governance. By providing clear and concise answers to these questions, candidates can demonstrate their skills and knowledge in a technical interview setting.
-
-When completing this form, please answer each question to the best of your ability, and feel free to provide examples or descriptions to support your answers. The form is divided into several sections, and each question has a specific label and type of input (e.g., text, select_one, select_multiple). Please answer each question according to the specified input type.
-
-Before you begin, take a moment to review the form and ensure you have all the necessary information to answer each question accurately. This will help you complete the form efficiently and effectively. If you have any questions or concerns, please don't hesitate to ask.
-
-</thinking>
-
 # Data Analyst SQL Technical Interview Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess your experience and knowledge in SQL, specifically in the context of data analysis and technical interviews.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Eye Anatomy Knowledge Quiz", is likely to be used by medical professionals or students to assess their knowledge of eye anatomy. The form may be used in a clinical setting or as a study aid for students in optometry, ophthalmology, or related fields.
-</thinking>
-
 # Eye Anatomy Knowledge Quiz - Help Guide
 ## Purpose
 The Eye Anatomy Knowledge Quiz is a tool to assess your knowledge of eye anatomy. It is designed to help you test your understanding of various aspects of eye anatomy.

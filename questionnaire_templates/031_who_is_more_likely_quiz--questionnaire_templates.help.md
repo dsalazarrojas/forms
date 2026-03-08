@@ -1,7 +1,3 @@
-<thinking>Internal reasoning block to check if the form purpose is correct and not duplicated.
-
-This form is designed to assess the user's likelihood of a certain character or team winning in a fictional scenario or game. The form appears to be a quiz-style assessment that gauges the user's perceptions and opinions on the subject, asking questions about their name, the character's attributes, and their own preferences and circumstances. The form is not explicitly designed for any specific business or internal use case, suggesting it's a public-facing form for general public users. The form seems to be a simple and straightforward assessment, with most fields not being required, and the majority of them being optional notes or text input fields.</thinking>
-
 # Who Is More Likely Quiz - Help Guide
 ## Purpose
 This guide will walk you through completing the "Who Is More Likely Quiz" form to assess your opinions on a fictional character or team in a game or scenario.

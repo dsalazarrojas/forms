@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Military Entrance Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals seeking to join the military or assess their readiness for military service. It aims to gather relevant details and insights to facilitate a smooth and accurate assessment process.

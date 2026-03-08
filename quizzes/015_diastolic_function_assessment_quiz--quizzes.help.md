@@ -1,6 +1,3 @@
-<thinking> 
-To assess the diastolic function of an individual, you need to understand that diastolic function refers to the ability of the heart to relax after a contraction, which is a crucial aspect of heart function. This quiz will help you evaluate different aspects of diastolic function in a more comprehensive and systematic manner. It seems that the quiz is not designed to be a comprehensive exam but rather a more casual assessment of diastolic function. There seems to be a mix of yes/no questions, single-answer questions, and some open-ended questions that may not be directly related to diastolic function.</thinking>
-
 # Diastolic Function Assessment Quiz - Help Guide
 ## Purpose
 The Diastolic Function Assessment Quiz is designed to help evaluate the overall diastolic function of an individual. This quiz is a systematic way to assess different aspects of diastolic function.

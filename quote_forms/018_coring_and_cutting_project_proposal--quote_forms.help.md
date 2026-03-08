@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coring and Cutting Project Proposal - Help Guide
 ## Purpose
 The Coring and Cutting Project Proposal form is a tool used to gather information for a project that involves coring and cutting activities. This form will guide you through the process of providing detailed information about your project, which will help us assess your project requirements and prepare for its execution.

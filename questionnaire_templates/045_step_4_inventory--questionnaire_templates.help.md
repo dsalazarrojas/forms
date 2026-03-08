@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information on various aspects of inventory, specifically resentment, fear, sexual harm, and other harm. The goal is to gather detailed descriptions of these elements to provide a comprehensive overview. This form is not affiliated with or derived from any specific form platform, and its creation is based on public survey topic metadata. Please ensure that you complete this form accurately and without duplication, as the information collected will be used for analysis and understanding of the subject matter.</thinking>
-
 # Step 4 Inventory - Help Guide
 ## Purpose
 The "Step 4 Inventory" form is designed to collect detailed descriptions of resentment, fear, sexual harm, and other harm. This information will help in creating a comprehensive overview of these aspects.

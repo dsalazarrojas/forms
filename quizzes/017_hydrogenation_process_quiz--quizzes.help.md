@@ -1,5 +1,3 @@
-<thinking>Is this form related to a chemical process? The hydrogenation process? I'm assuming it's not a chemistry-related topic, but more like a process optimization or a business process. If that's correct, I'll focus on explaining the form in a more general sense.</thinking>
-
 # Hydrogenation Process Quiz - Help Guide
 ## Purpose
 

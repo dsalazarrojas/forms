@@ -1,12 +1,3 @@
-<thinking>
-This form is for real estate agents to provide information about a house sale listing. It's used to capture key details about the listing, including listing information, contact information, status updates, and other relevant details. To ensure that the correct information is collected, please review the form carefully and fill it out as instructed.
-
-Please note that the form is designed to be flexible, with various sections for different types of information. The fields are optional, except where marked as required. The form is intended for both internal and external use, so please be accurate and thorough in your responses.
-
-Before proceeding, ensure that you have all the necessary information and permissions to fill out this form completely and accurately.
-
-</thinking>
-
 # house_seller_form - Help Guide
 ## Purpose
 This form is for real estate agents to provide information about a house sale listing.

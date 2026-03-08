@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user information for a Personalized Medicine Quiz, likely used for medical professionals or researchers to gather data on patient responses to certain questions or to identify specific characteristics of users. Before starting the quiz, let's confirm the form is being used in the appropriate context and not as a general form. It appears to be designed for medical purposes and might not be suitable for other use cases without further adaptation or modifications.
-</thinking>
-
 # Personalized Medicine Quiz - Help Guide
 ## Purpose
 This form is designed to collect user information for a Personalized Medicine Quiz, which is likely used by medical professionals or researchers to gather data on patient responses or user characteristics. 

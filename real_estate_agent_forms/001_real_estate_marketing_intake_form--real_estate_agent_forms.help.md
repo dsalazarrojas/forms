@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for real estate marketing purposes, likely for agents to record client and property details. It's likely intended to be used by real estate agents or brokers to gather information from clients or prospects. The form appears to be comprehensive, covering various aspects of the marketing strategy and follow-up processes. To ensure this form serves its intended purpose, it may be necessary to review and refine the questions to best fit the business's specific needs.
-
-</thinking>
-
 # Real Estate Marketing Intake Form - Help Guide
 ## Purpose
 This form is designed to assist real estate agents in gathering information from clients or prospects for marketing purposes.

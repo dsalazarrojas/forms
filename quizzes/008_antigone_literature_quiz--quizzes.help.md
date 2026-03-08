@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's quickly verify that the form is correctly understood and that I'll be explaining its purpose and usage correctly.</thinking>
-
 # Antigone Literature Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of the play Antigone by Sophocles. It consists of 12 multiple-choice questions that cover various aspects of the play, including its characters, plot, themes, and literary analysis.

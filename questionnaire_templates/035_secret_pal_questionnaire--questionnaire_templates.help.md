@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Secret Pal Questionnaire - Help Guide
 
 ## Purpose

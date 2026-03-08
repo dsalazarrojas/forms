@@ -1,13 +1,3 @@
-<thinking>
-
-The Neuroprotection Assessment Form is a comprehensive questionnaire designed to collect information about an individual's neuroprotective habits, symptoms, and follow-up details. This form is meant to be filled out by medical professionals to assess an individual's risk factors, symptoms, and overall neuroprotection status. The form is divided into several sections, each focused on a specific aspect of neuroprotection. It is not intended for use in emergency situations or for individuals seeking immediate medical attention.
-
-Please note that the form fields are designed to collect both quantitative and qualitative data. Some fields are required while others are optional. This form is intended to be used by medical professionals to assess and monitor an individual's neuroprotection status.
-
-Before starting, ensure that the individual being assessed is aware of the form's purpose and that their information is accurate and up-to-date.
-
-</thinking>
-
 # Neuroprotection Assessment Form - Help Guide
 
 ## Purpose

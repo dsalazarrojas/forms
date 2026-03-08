@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm, the form is used to gather information about a user's background, experience, and goals related to openGL (OpenGL, a computer graphics rendering engine).
-
-Before answering the following questions, please make sure you have enough information to provide accurate and honest responses. If you have already answered this form before, please note that some questions might be similar to the ones you answered before, but please answer them again for the purpose of this form.
-
-This form will help us to better understand your needs and goals, so please answer the questions as accurately as possible.
-
-</thinking>
-
 # openGL Knowledge Quiz - Help Guide
 ## Purpose
 The purpose of this form is to help us understand your background, experience, and goals related to openGL.

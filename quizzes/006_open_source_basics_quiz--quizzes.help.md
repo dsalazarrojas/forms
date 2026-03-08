@@ -1,5 +1,3 @@
-<thinking>...We should start by understanding the purpose of this form: the "Open Source Basics Quiz" is designed to assess the user's knowledge on open source software, its licensing, development process, communities, benefits, challenges, and adoption rate. This form should not be confused with other forms, such as the "Open Source Software Survey" which focuses on different aspects of open source software...</thinking>
-
 # Open Source Basics Quiz - Help Guide
 ## Purpose
 

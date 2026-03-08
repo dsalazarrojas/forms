@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help users categorize volunteers based on their award category. The purpose of this form is to gather information about a volunteer's experience and categorize them into one of several award categories. This form will be used to determine the category in which a volunteer's work will be recognized. The fields in this form are meant to gather specific information about the volunteer's experience and help determine the most suitable category for their award.
-
-To ensure accurate categorization, please provide the most accurate information possible. If you are unsure about any of the fields, please select "Other" as an option.
-
-Before submitting the form, please review all fields carefully to ensure that you have provided the most accurate information possible.
-
-</thinking>
-
 # Volunteer Award Category Quiz - Help Guide
 
 ## Purpose

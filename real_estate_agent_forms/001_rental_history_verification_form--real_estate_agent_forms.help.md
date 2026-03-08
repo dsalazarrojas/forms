@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about an applicant's rental history, including details about their current rental address, previous rental history, rental start and end dates, and rental duration. This information is used to verify the applicant's rental history and ensure they have accurate and up-to-date information. The form is designed to be completed by the applicant, and it's recommended that they provide as much detail as possible to ensure a smooth verification process.
-
-Before starting the form, please ensure that you have all the necessary information ready to be filled out. This form should only be completed once the applicant has been informed about the purpose of the form and its importance in the verification process. 
-</thinking>
-
 # Rental History Verification Form - Help Guide
 ## Purpose
 This form is used to collect information about an applicant's rental history.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from real estate agents to facilitate communication and collaboration with the client. It is designed to be a one-time entry, ensuring that all necessary details are captured in a single session. This form should not be used for ongoing communication or for agents to update their existing information.
-
-</thinking>
-
 # real_estate_client_information_form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from real estate agents to facilitate efficient communication and collaboration with the client. This information will be used to initiate the client relationship and to ensure that all necessary details are captured in a single session.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Retention Strategy Questionnaire - Help Guide
 
 ## Purpose

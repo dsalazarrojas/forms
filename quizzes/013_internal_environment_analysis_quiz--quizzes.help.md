@@ -1,5 +1,3 @@
-<thinking>Is this form used for internal environment analysis, such as assessing employee satisfaction and comfort levels within a department? Is it a duplicate of another form, or does it have a unique purpose? Are there any specific fields that require unique explanations or attention?</thinking>
-
 # Internal Environment Analysis Quiz - Help Guide
 ## Purpose
 The Internal Environment Analysis Quiz is a form designed to help departments assess their internal environment, including leader skills, communication with leaders, departmental strengths and weaknesses, resource availability, and overall comfort levels. This quiz aims to gather information to identify areas of improvement and provide a comprehensive understanding of the departmental climate.

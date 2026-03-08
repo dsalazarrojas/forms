@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a comprehensive overview form for a project, gathering various details and estimates related to the project's status and progress. Before proceeding, please verify that this form is relevant to your project and that you haven't already created a similar form for the same project. To avoid duplication, review the project's existing documentation and ensure that this form doesn't overlap with any existing forms.
-
-The form is composed of 25 fields, covering different aspects of the project. Each field is categorized into pages, but for the sake of this guide, we'll focus on providing a general understanding of each field's purpose and required fields.
-
-</thinking>
-
 # Project Estimate And Policy Overview Form - Help Guide
 ## Purpose
 This form is designed to collect and document project details, estimate, and policy information for project administrators and stakeholders. It's essential to fill out this form accurately to ensure that all project stakeholders are on the same page and can track project progress.

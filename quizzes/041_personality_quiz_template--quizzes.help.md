@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # personality_quiz_template - Help Guide
 ## Purpose
 This form is designed to assess your personality traits and preferences. It is a series of questions that will help you discover more about yourself, your interests, and your tendencies. Please answer the questions honestly, and don't worry about being too personal. This form is meant to be fun and enlightening, not intrusive or judgmental.

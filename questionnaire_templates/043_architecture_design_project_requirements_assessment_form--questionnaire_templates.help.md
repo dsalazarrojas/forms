@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's architecture design project requirements. The purpose of this form is to gather details about the project's scope, timeline, budget, and other essential aspects. This information will help the architect or designer understand the client's needs and expectations, ensuring a clear understanding of the project requirements and facilitating a more efficient design process. The form is divided into sections, each addressing a specific aspect of the project, making it easy to navigate and fill out. The required fields are marked as "true" in the YAML schema, ensuring that the client provides all necessary information for the architect or designer to begin work on the project. 
-
-</thinking>
-
 # Architecture Design Project Requirements Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a client's architecture design project requirements, including client information, project overview, project details, and project requirements.

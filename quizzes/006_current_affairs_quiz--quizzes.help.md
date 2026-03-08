@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the form with the given YAML structure. This form is likely for taking user's current affairs quiz and getting some basic info such as current affairs quiz question, date, etc. This form should be easy and straightforward to fill out. We will need to check if the form's purpose and content are not redundant or outdated.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is for taking users' current affairs quiz. It will help us get some basic information about the users regarding their current affairs quiz.

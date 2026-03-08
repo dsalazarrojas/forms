@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to test users' knowledge about moon phases. The purpose of this form is to gauge user understanding of the moon's phases, their frequency, and other related concepts. To ensure that the user has a clear understanding of the moon's cycle and its impact on our planet, the form requires minimal input from the user. Each question is designed to be self-explanatory, and the user will have the option to submit their answers in a simple and concise manner.</thinking>
-
 # Moon Phases Knowledge Quiz - Help Guide
 ## Purpose
 The Moon Phases Knowledge Quiz is designed to test your understanding of the moon's phases, their frequency, and other related concepts.

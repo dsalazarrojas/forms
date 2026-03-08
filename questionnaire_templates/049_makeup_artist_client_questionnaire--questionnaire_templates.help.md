@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for a makeup artist client questionnaire, likely used to collect information from clients for a makeup service business. This form will likely be used to gather details about the client, including their name, preferred contact method, email, phone number, address, occupation, education, availability, and services they require. The form will help the makeup artist to tailor their service to the client's needs.
-
-Before starting, make sure to review and provide any necessary information for each field. This will ensure that the form is filled out correctly and efficiently.
-
-Note: This form will be used to collect sensitive information about the client's contact details, services, and availability. Make sure to handle this information according to your business's data protection policies.
-
-</thinking>
-
 # Makeup Artist Client Questionnaire - Help Guide
 
 ## Purpose

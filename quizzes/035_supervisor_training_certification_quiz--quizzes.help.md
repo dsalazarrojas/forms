@@ -1,11 +1,3 @@
-<thinking>
-To prevent non-duplication and ensure that the form meets its intended purpose, it's essential to check whether the form is being used for its intended use. This form is designed to assess the knowledge and understanding of supervisors regarding their training certification. The form should only be filled out by supervisors who have taken the training course and are being evaluated on their knowledge.
-
-The form should only be used in a controlled environment, such as during the training program or after the training has been completed. Using this form in any other context may lead to inaccurate results.
-
-Before filling out this form, ensure that you have taken the supervisor training course and have a clear understanding of the material. If you're unsure about any of the questions, please refer back to your training materials for guidance.
-</thinking>
-
 # Supervisor Training Certification Quiz - Help Guide
 ## Purpose
 This form is designed to assess the knowledge and understanding of supervisors regarding their training certification. It should only be filled out by supervisors who have taken the training course and are being evaluated on their knowledge.

@@ -1,17 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Car Rental Request" form, I'll first analyze the form's purpose and potential issues that might arise. This form appears to be designed for customers to request a car rental, providing information about their needs and preferences. To avoid duplication and ensure accurate processing, the form requires the following fields:
-
-- Customer name, email, phone number, and driver's license number to verify identity
-- Rental dates (start and end) and time
-- Preferred car type (size)
-- Pickup and dropoff locations (city, state)
-- Additional features and drivers (if any)
-- Insurance and special requirements
-
-The form is likely used in a rental car service company, and users need to provide accurate information to ensure proper car allocation and service delivery.
-
-</thinking>
-
 # Car Rental Request - Help Guide
 ## Purpose
 This form is designed to help us better understand your car rental needs and preferences. Please fill out the form accurately to ensure we can provide you with the best possible service.

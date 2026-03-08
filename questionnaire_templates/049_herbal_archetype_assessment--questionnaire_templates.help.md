@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive questionnaire designed to assess an individual's herbal archetype. The purpose of this form is to gather information on various aspects of a person's life, including demographic details, wellness topics, physical and mental health status, relationships, work-life balance, financial status, social connections, self-care, overall satisfaction, and submission and review status. The form likely aims to provide a holistic understanding of an individual's life, potentially informing recommendations for improvement. To ensure consistency in responses, it would be best to review this form carefully before proceeding.
-</thinking>
-
 # Herbal Archetype Assessment - Help Guide
 ## Purpose
 The Herbal Archetype Assessment is a comprehensive questionnaire designed to gather information on various aspects of a person's life, including demographic details, wellness topics, physical and mental health status, relationships, work-life balance, financial status, social connections, self-care, overall satisfaction, and submission and review status.

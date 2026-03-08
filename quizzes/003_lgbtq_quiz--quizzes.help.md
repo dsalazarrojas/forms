@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their LGBTQ+ identity and experiences. The purpose of this form is to collect data about the user's self-identified LGBTQ+ community term(s) and their answers to various questions related to their identity and experiences. This form is meant to be completed by individuals who identify as LGBTQ+ and is not intended for non-LGBTQ+ individuals. Please ensure that you have the necessary permissions and understand the context in which you are completing this form.
-</thinking>
-
 # lgbtq_quiz - Help Guide
 ## Purpose
 This form is designed to collect information about your LGBTQ+ identity and experiences.

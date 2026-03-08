@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect referral information from customers or visitors to your business. The purpose of this form is to understand how a customer or visitor found out about your business, whether it was through a referral or other means. This information will help you track the effectiveness of your marketing efforts and identify potential areas for improvement.
-
-Please ensure that you are familiar with your business's referral program and understand how this form fits into it before completing it.
-
-Also, note that some fields in this form are optional, but filling them out will provide more detailed information about the referral source.
-
-</thinking>
-
 # monat_referral_form - Help Guide
 ## Purpose
 The monat_referral_form is a questionnaire designed to gather information about how customers or visitors found out about your business. This information helps you understand the effectiveness of your marketing efforts and make data-driven decisions.

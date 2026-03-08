@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to document the release of a security deposit for a rental property. This form is used to ensure that both the landlord and tenant understand their responsibilities and obligations regarding the return of the security deposit. By completing this form, the landlord can acknowledge the reason for the return of the security deposit, and the tenant can confirm that they have received the deposit back. This process helps to avoid disputes and ensures a smooth transition for both parties involved.
-
-When creating this form, please ensure that it is completed accurately and in accordance with the relevant laws and regulations. This form should only be used for genuine reasons, such as refunding a security deposit due to a tenant vacating the premises without notice or due to the return of keys.
-
-Before filling out this form, make sure to review the entire form carefully and ensure that you understand each field's purpose.
-
-Please note that this form is for the security deposit release, and any inaccuracies or missing information may lead to disputes or complications.
-
-</thinking>
-
 # security_deposit_release_form - Help Guide
 ## Purpose
 The purpose of this form is to document the return of a security deposit to a tenant.

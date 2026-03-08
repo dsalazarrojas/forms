@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from couples planning their wedding. It is meant to gather essential details about the couple, their preferences, and requirements for the wedding ceremony and reception. This form is not intended for general public use, and responses should only be submitted by couples who are planning their wedding and have a legitimate reason to fill this form. Please ensure that you are not duplicating efforts or submitting information that is already known to us.
-</thinking>
-
 # Bride And Groom Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from couples planning their wedding. It is meant to gather essential details about the couple, their preferences, and requirements for the wedding ceremony and reception.

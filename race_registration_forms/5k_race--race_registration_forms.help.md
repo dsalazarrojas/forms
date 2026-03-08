@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help clients outline their 90-day goals and objectives, providing a structured framework for them to define and achieve success. The form is meant to be used as an intake form for coaches, advisors, or other support personnel to guide clients towards setting and working towards their goals. By using this form, clients will be able to identify their primary goal, categorize it, and specify key milestones and metrics for success.
-</thinking>
-
 # 90 Day Action Plan Intake Form - Help Guide
 ## Purpose
 The 90 Day Action Plan Intake Form is a tool designed to help clients set and outline their goals and objectives, providing a clear framework for achieving success. This form is meant to be used as an intake tool for coaches, advisors, or other support personnel to guide clients in defining and working towards their goals.

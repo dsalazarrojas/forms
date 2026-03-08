@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lunar New Year Quiz - Help Guide
 ## Purpose
 The Lunar New Year Quiz is a form designed to gather information about the Lunar New Year traditions and practices of individuals. This form will help us better understand how people around the world celebrate this important cultural event.

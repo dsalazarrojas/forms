@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential tenants who are interested in renting a property. It captures personal identifiable information, employment status, income, and rental history and preferences. The goal of this form is to get a clear understanding of who is applying, their employment status, their income, and their rental experience. This information will be used to assess the credibility and feasibility of the applicant.
-</thinking>
-
 # Tenant Rental Application Form - Help Guide
 ## Purpose
 This form is intended to collect information from potential tenants who are interested in renting a property. The form will be used to gather personal identifiable information, employment status, income, and rental history and preferences to assess the credibility and feasibility of the applicant.

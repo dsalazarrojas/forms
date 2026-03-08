@@ -1,17 +1,3 @@
-<thinking>
-
-This form is for the "inservice_training_quiz" and is used to capture information for training purposes. It is designed to be completed by users to showcase their understanding of a particular topic or subject matter. The form includes fields for various aspects of the training, such as introduction, questions, confirm participation, additional comments, submission date, submission time, email, phone, and submission status. The form can be completed with varying degrees of requiredness, meaning some fields may be optional or required. 
-
-The form's purpose is to gather data that can be used for internal evaluation and assessment. It is intended for users to provide their thoughts, opinions, or feedback on the training material or experience. The form's fields are designed to collect relevant and accurate information, allowing for effective evaluation and improvement of the training content.
-
-The form is likely to be used by users with varying levels of knowledge and experience with the subject matter, and the questions and fields are designed to accommodate this diversity. The form may be used in conjunction with other evaluation methods, such as surveys, quizzes, or assessments, to provide a comprehensive understanding of the user's understanding and proficiency.
-
-The form's data will be used to evaluate and improve the training content, which will in turn benefit the users who complete the form. It is essential to complete the form honestly and accurately, as the information provided will be used for evaluation and improvement purposes.
-
-Please ensure that you read and understand the form's instructions and requirements before starting to fill out the form. If you have any questions or concerns, do not hesitate to reach out to the relevant authorities for assistance.
-
-</thinking>
-
 # inservice_training_quiz - Help Guide
 ## Purpose
 This form is used to capture information for training purposes and to evaluate a user's understanding of a particular topic or subject matter.

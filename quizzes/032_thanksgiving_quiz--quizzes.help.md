@@ -1,24 +1,3 @@
-<thinking>
-This form is designed for users to share their personal preferences and experiences on Thanksgiving. The purpose of this form is to gather information about users' favorite parts of the holiday, their habits, and traditions. This form will help collect data on how users spend their time on Thanksgiving and what activities they enjoy most.
-
-To prevent form duplication, users can only access this form within a specific time frame, and each user can only submit the form once.
-
-The form collects data on:
-• Favorite parts of the holiday
-• Activities with family on Thanksgiving
-• Favorite foods
-• Age on last Thanksgiving
-• Favorite holiday songs
-• Favorite movies to watch on Thanksgiving
-• Celebrating with a big dinner
-• Morning activities
-• Money spent on Thanksgiving
-• Favorite holiday activities
-• Memorable experiences on Thanksgiving
-• Favorite holiday movies
-
-</thinking>
-
 # thanksgiving_quiz - Help Guide
 ## Purpose
 This form is designed to collect users' preferences and experiences on Thanksgiving.

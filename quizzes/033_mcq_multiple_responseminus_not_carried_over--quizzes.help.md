@@ -1,13 +1,3 @@
-<thinking>
-
-To create a help guide for the MCQ (Multi-Choice Question) form, I'll analyze the form's purpose and structure based on the provided YAML definition. The form appears to be designed to elicit responses from users, potentially for research, feedback, or other purposes. Each page of the form represents a distinct step or question in the process. Let's assume the form's purpose is to gather demographic information and user preferences.
-
-The form has eight fields across six pages, including text fields for user input (pages 1, 4, 5, and 8), select options for multiple-choice answers (pages 2 and 3), and a submit button (page 4). Some fields are labeled as "required" or "optional," which means the user must fill in the required fields to continue or submit the form. The form also includes an email and phone number fields, which are likely intended to gather contact information for follow-up or communication purposes.
-
-Given this structure, the help guide should explain the form's purpose, guide users through the filling process, and provide clear explanations for each field.
-
-</thinking>
-
 # MCQ - Help Guide
 ## Purpose
 The MCQ form is designed to gather user preferences and demographic information for research or feedback purposes. Please fill out the form carefully to provide us with your input.

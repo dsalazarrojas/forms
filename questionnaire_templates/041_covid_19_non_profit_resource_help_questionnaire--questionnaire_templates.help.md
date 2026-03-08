@@ -1,11 +1,3 @@
-<thinking>
-
-Before creating this guide, let's consider the form's purpose and potential issues. This form is designed to collect information from individuals or households affected by COVID-19, specifically to gauge their needs and resources during the pandemic. The goal is to gather data on the impact of the pandemic on households, including their economic and social situations. It's likely that this form will be used to identify areas that need support and allocate resources effectively. To prevent duplicate efforts, it's essential to ensure that users provide accurate and complete information.
-
-To avoid duplication of forms, we can check if a user has already responded to this form in the past. We can store the user's ID and form submission in a database to track responses and prevent duplicate submissions.
-
-</thinking>
-
 # COVID 19 Non Profit Resource Help Questionnaire - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>... internal reasoning block to check for form purpose, relevance, and non-duplication ...
-</thinking>
-
 # Public Open House Feedback Form - Help Guide
 ## Purpose
 

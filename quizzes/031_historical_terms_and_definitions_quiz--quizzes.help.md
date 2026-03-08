@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Historical Terms And Definitions Quiz - Help Guide
 
 ## Purpose

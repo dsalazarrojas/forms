@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's food preferences and habits. The purpose of this form is to gather data that can help in understanding an individual's eating habits, dietary restrictions, and preferences. Please ensure that you answer the questions honestly, as your responses will be used to better understand your needs.
-
-Before proceeding, please note that some of these fields are optional. If you are unsure or do not have an answer for a particular question, please leave it blank or select "Other" as an option.
-
-Please fill out this form with care, as your input will help us improve our services.
-</thinking>
-
 # food-preference-questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's food preferences and habits.

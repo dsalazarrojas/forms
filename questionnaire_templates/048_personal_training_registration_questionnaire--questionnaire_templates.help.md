@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact and personal data from users who are interested in taking part in a personal training program. It will gather information on the user's contact details, health history, fitness goals, and personal data. This form is intended to be used by trainers or coaches who will be working with the users to create a personalized training plan. Please note that this form is for internal use only, and the data collected will be used solely for the purpose of providing training services.
-
-</thinking>
-
 # Personal Training Registration Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information from users who are interested in taking part in a personal training program. The collected data will be used to create a personalized training plan tailored to the user's needs.

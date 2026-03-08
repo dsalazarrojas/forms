@@ -1,5 +1,3 @@
-<thinking>...checking the form structure... it appears to be a form for calculating scores on an automated quiz. The form has multiple sections, including participant information, questions (both general knowledge and math), and scoring information. Each section is optional and required for different questions... it seems that most sections are not required but still provide additional context for participants... I'm thinking about how to break down the form into a simple step-by-step guide...</thinking>
-
 # Automated Quiz Score Calculator - Help Guide
 
 ## Purpose

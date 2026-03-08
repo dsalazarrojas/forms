@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a quiz that assesses the safety awareness of an individual in physical intervention scenarios. This form is likely used in training programs or assessments to evaluate an individual's understanding of safety protocols and procedures. It is not designed for any specific industry or location, so the questions and scenarios are general and applicable to a wide range of situations.
-</thinking>
-
 # Physical Intervention Safety Quiz - Help Guide
 ## Purpose
 This form is a safety awareness quiz designed to test your knowledge of physical intervention safety procedures. It consists of a series of questions and scenarios that cover different aspects of physical intervention safety.

@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be used for capturing information related to a fireplace specification submission. It includes fields for contact information of the home owner, designer, and submitter, as well as details about the project, such as location, type, and status. The form seems to be intended for use in a professional setting, possibly for a home design or construction project. The form also appears to be quite extensive, with multiple pages and various fields for different types of information.
-
-Before proceeding, let's ensure that this form is not a duplicate or unnecessary. If it is, we should review and revise it to ensure it serves a clear purpose and does not overlap with other forms.
-
-Assuming this form is necessary, let's proceed with creating a user-facing help guide to assist end-users in completing it correctly.</thinking>
-
 # Fireplace Specification Submission - Help Guide
 ## Purpose
 This form is used to capture information related to a fireplace specification submission. It is designed to gather details from the home owner, designer, and submitter, as well as project information such as location, type, and status.

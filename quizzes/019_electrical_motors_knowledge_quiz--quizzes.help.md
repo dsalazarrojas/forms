@@ -1,12 +1,3 @@
-<thinking>
-This is a help guide for the Electrical Motors Knowledge Quiz form. This form is designed to test users' knowledge on electrical motors, covering various aspects such as types, basic parts, working principles, and characteristics. The quiz is composed of multiple pages, each containing questions related to electrical motors. Users are required to provide answers to these questions to assess their understanding of electrical motors.
-
-Before proceeding, it is essential to check that this form is relevant to your field of expertise or interests. If you've already completed a similar quiz or have knowledge on the subject, please skip this guide and start the quiz directly. 
-
-This guide is designed to provide a clear understanding of each page and field in the form. Please read carefully and follow the instructions to complete the quiz successfully.
-
-</thinking>
-
 # Electrical Motors Knowledge Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to assess your knowledge on electrical motors. It consists of multiple pages that cover various aspects of electrical motors, including types, basic parts, working principles, and characteristics.

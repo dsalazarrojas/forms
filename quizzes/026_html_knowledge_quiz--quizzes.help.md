@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to assess the user's knowledge of HTML. It consists of multiple sections, each designed to gauge different aspects of their understanding. The form is divided into several pages, each with a specific set of questions or fields that require the user to demonstrate their skills and knowledge. This form is meant to be a comprehensive evaluation of the user's HTML expertise.
-The form will check for various characteristics, including the user's ability to recognize and differentiate between correct and incorrect answers, their speed and accuracy in completing the assessment, and their willingness to provide additional information about themselves. This form will serve as a benchmark for measuring the user's performance, and will help in identifying areas that need improvement.
-The form has been designed to be as objective and unbiased as possible, with clear and concise questions and instructions. The form's questions are carefully crafted to elicit specific responses that will help assess the user's skills accurately.
-</thinking>
-
 # html_knowledge_quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess your knowledge of HTML, covering various aspects of the markup language.

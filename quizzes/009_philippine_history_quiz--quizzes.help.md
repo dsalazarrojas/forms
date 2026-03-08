@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to test the user's knowledge on Philippine history, covering various aspects such as its presidency, capital, languages, religions, and independence status. The form consists of 25 questions, each with multiple-choice options. Users will be evaluated on their understanding of Philippine history, from its presidency to its languages and religions. To ensure accurate responses, it's essential that users complete the form attentively.
-  This form does not duplicate any question, and each question aims to test the user's knowledge in a unique aspect of Philippine history.
-</thinking>
-
 # philippine_history_quiz - Help Guide
 ## Purpose
 This form is designed to test the user's knowledge on Philippine history. It consists of 25 multiple-choice questions that cover various aspects of the country's past, from its presidency to its languages and religions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # House Appraisal Checklist Form - Help Guide
 
 ## Purpose

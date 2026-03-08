@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pre_meeting_questionnaire - Help Guide
 ## Purpose
 The "pre_meeting_questionnaire" form is used to collect information about upcoming meetings. It is recommended to be filled out before a meeting to ensure that all necessary details are documented and discussed. Please fill out this form if you have scheduled a meeting and want to gather relevant information to help facilitate a productive and efficient meeting.

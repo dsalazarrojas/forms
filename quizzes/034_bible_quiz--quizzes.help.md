@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess the participant's knowledge of the Bible. It includes a series of questions about various aspects of the Bible, such as its creation, books, and key figures. The form is intended to evaluate the participant's understanding of the Bible's content. It should be completed by providing answers to the questions, which will help to determine the participant's level of knowledge and understanding.
-
-This form does not require the participant to provide personal identifiable information (PII), such as email address or age group, which is typically used for demographic purposes. It is designed to focus solely on the participant's knowledge and understanding of the Bible.
-
-This is a one-time assessment form, and the participant should not have to complete it again if they have previously completed it. The form will be used to evaluate the participant's knowledge and understanding of the Bible.
-
-Please complete the form below to demonstrate your knowledge of the Bible.
-</thinking>
-
 # Bible Quiz - Help Guide
 ## Purpose
 The Bible Quiz is designed to assess your knowledge of the Bible. It consists of 15 questions that cover various aspects of the Bible, including its creation, books, and key figures.

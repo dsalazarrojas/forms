@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess a student's background and interests in motion and chemistry. It is meant to be used by administrators to evaluate students in a program or class. Before proceeding, please verify that the form is not duplicated or outdated, and that you are in the correct context to complete this form. If the form is meant for a specific group or purpose not intended for general use, please do not proceed. If you are unsure, contact your administrator for clarification.
-</thinking>
-
 # Motion And Chemistry Assessment - Help Guide
 ## Purpose
 The Motion And Chemistry Assessment form is designed to evaluate students' backgrounds and interests in motion and chemistry. It is used to gather information about students' knowledge and experience in these subjects.

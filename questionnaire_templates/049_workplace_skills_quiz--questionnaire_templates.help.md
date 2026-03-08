@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to assess the workplace skills of individuals in a team or organization. It is meant to evaluate their communication, collaboration, time management, and conflict resolution skills, among others. The purpose of this form is to help team members identify their strengths and weaknesses and provide a baseline for future development opportunities.
-</thinking>
-
 # Workplace Skills Quiz - Help Guide
 ## Purpose
 This form is designed to assess the workplace skills of individuals in a team or organization. It is meant to evaluate their communication, collaboration, time management, and conflict resolution skills, among others. The purpose of this form is to help team members identify their strengths and weaknesses and provide a baseline for future development opportunities.

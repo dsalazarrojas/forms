@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information for a dog-friendly meet and greet session. It's intended for users to input details about their pet, such as the pet's name, type, meet date, meet time, contact information, and more. The goal is to ensure that users have a smooth and enjoyable meet and greet experience with their pets. Before starting, please ensure that you've reviewed this help guide to understand the form's requirements and what's expected of you. If you've completed this form previously, please note that some of the information may still be populated from your last submission, so review carefully to avoid duplication of effort and potential errors.</thinking>
-
 # Doggie Meet & Greet Info Form - Help Guide
 ## Purpose
 This form is designed to gather information for a dog-friendly meet and greet session. It's intended for users to input details about their pet, ensuring a smooth and enjoyable meet and greet experience.

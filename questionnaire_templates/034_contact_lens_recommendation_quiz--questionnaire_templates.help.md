@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide information about their contact lens needs, allowing the system to recommend suitable lenses for their requirements. This form will likely be used in a retail or consulting setting, where customers can fill it out to get personalized recommendations from a sales representative or customer support agent. The form is designed to be brief and easy to complete, with questions that cover the essential aspects of contact lens selection.
-</thinking>
-
 # Contact Lens Recommendation Quiz - Help Guide
 ## Purpose
 This form is designed to help you get a personalized recommendation for contact lenses that suit your needs. Answer a few quick questions, and we'll provide you with tailored suggestions.

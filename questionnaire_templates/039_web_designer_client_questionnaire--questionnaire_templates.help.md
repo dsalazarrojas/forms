@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a web designer client's preferences and needs. The purpose of this form is to provide a quick and easy way for web designers to gather essential details about their clients, which will help them to tailor their services and deliver better results. 
-
-Please ensure that this form is completed only once per project. If you need to update the client's information, please delete the existing form and re-complete the form with the updated information.
-
-</thinking>
-
 # web_designer_client_questionnaire - Help Guide
 
 ## Purpose

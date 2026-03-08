@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rick and morty trivia - Help Guide
 ## Purpose
 This form is designed to test your knowledge about the popular animated series "Rick and Morty". It will ask you a series of questions about your favorite characters, the show's history, and more.

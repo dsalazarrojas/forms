@@ -1,9 +1,3 @@
-<thinking>
-The form, "staff_shift_questionnaire", is designed to collect information from staff members regarding their shifts, including start and end times, break durations and start and end times, any notes or suggestions, and the tool assigned to them during the shift. This form is crucial for staff members to report their work hours, breaks, and any issues they encounter during their shifts. It is essential to fill this form accurately and completely to help management track staff performance and provide a clear picture of their work patterns.
-
-Before completing this form, please ensure that you are not filling it out for the same shift period as another form. If you are unsure about which form to complete, contact your supervisor or HR representative for clarification.
-</thinking>
-
 # staff_shift_questionnaire - Help Guide
 ## Purpose
 The staff shift questionnaire is a form used to collect information from staff members about their shifts, including start and end times, breaks, and assigned tools.

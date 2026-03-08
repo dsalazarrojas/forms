@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Realtor Disclosure Form, I'll need to understand the purpose of the form and the fields it contains. Based on the provided YAML, the form seems to be for collecting information about real estate agents, including their name, contact details, and agency information. It's likely used for internal purposes within a real estate agency. I'll make sure to provide clear explanations for each field and make the guide concise and practical.
-
-</thinking>
-
 # Realtor Disclosure Form - Help Guide
 ## Purpose
 The Realtor Disclosure Form is used to collect information about real estate agents working within the agency. This form helps the agency keep track of agent details, including their name, contact information, and agency affiliation.

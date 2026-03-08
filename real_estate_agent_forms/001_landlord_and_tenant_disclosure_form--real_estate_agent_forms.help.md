@@ -1,6 +1,3 @@
-<thinking> 
-This form appears to be designed to gather information from landlords and tenants in a rental property transaction. It may be used to document the agreement between the parties, including details about the property, the rent, and the security deposit. Before proceeding, please review the form's fields to ensure that you understand what information is being requested and why. This form may be a duplicate of other forms used for similar purposes, so please verify that this is the correct form to use for your specific situation. Additionally, ensure that all required fields are completed accurately and thoroughly.</thinking>
-
 # Landlord And Tenant Disclosure Form - Help Guide
 ## Purpose
 This form is designed to document the agreement between landlords and tenants in a rental property transaction. It collects information about the property, the rent, and the security deposit, as well as other relevant details.

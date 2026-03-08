@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to guide the user in identifying their personal goals, motivations, strengths, and ideal coaching preferences. The form asks questions to help the user reflect on their growth goals, ideal coach-client relationship, coaching style, and coaching methods.
-This form does not collect or analyze any sensitive personal data. It is intended to provide a self-assessment tool for users to better understand their own preferences and goals.
-To the best of my knowledge, the form does not duplicate or copy any existing form templates or proprietary content.
-Please note that the form is a self-discovery tool and not a formal coaching questionnaire.
-</thinking>
-
 # self_discovery_questionnaire_template - Help Guide
 ## Purpose
 The self-discovery questionnaire template is a tool to help users understand their personal goals, motivations, strengths, and ideal coaching preferences. It guides users through a series of questions to identify their growth goals, ideal coach-client relationship, coaching style, and coaching methods.

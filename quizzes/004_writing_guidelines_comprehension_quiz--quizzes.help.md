@@ -1,5 +1,3 @@
-<thinking>As a quiz, the Writing Guidelines Comprehension Quiz is designed to test your understanding of the basics of writing. This quiz is a self-assessment tool that helps you gauge your knowledge on the fundamental aspects of writing, such as grammar, style, tone, content, and structure. It's a great way to evaluate your comprehension of writing guidelines and identify areas where you may need to improve.</thinking>
-
 # Writing Guidelines Comprehension Quiz - Help Guide
 ## Purpose
 The Writing Guidelines Comprehension Quiz is a self-assessment tool designed to test your understanding of the basics of writing.

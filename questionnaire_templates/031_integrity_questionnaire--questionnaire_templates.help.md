@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Integrity Questionnaire - Help Guide
 
 ## Purpose

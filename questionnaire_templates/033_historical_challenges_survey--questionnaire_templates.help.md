@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a survey designed to gather information about historical events from users. It seems to be used for academic or research purposes. The form collects data on various aspects of historical events, including their impact, importance, interest, and cultural significance. It is likely used to collect user opinions and experiences related to historical events. Before completing this form, please ensure that you have a clear understanding of the questions being asked and that you are providing informed responses. If you have already completed a similar form, you may not need to complete this one.</thinking>
-
 # Historical Challenges Survey - Help Guide
 
 ## Purpose

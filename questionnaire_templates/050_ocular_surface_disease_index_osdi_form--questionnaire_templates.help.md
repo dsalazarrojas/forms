@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect clinical data for patients suffering from ocular surface disease, a common condition affecting the surface of the eye. To determine the relevance of this form, you should confirm that the patient's symptoms and medical history are related to ocular surface disease. If the patient's condition is not related to ocular surface disease, there is no need to complete the form. Additionally, please ensure that you are not already using the OSDI form for another condition or patient.
-</thinking>
-
 # Ocular Surface Disease Index (OSDI) Form - Help Guide
 
 ## Purpose

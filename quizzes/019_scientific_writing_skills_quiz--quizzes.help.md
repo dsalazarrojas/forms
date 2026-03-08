@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # scientific_writing_skills_quiz - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Is this form being used to assess knowledge of regional literature and its associated authors, music, and movements? Is this form part of a larger quiz or assessment tool? Are the questions and options clear and concise? Please provide more context or clarification to ensure the help guide is tailored to the form's purpose and audience.</thinking>
-
 # Regional Literature Knowledge Quiz - Help Guide
 ## Purpose
 The Regional Literature Knowledge Quiz is designed to assess your knowledge of regional literature, music, and movements. The quiz covers a wide range of topics related to different regions of the United States, including their associated authors, music, and literary movements.

@@ -1,7 +1,3 @@
-<thinking>... internal reasoning block: This form is designed to gather information from participants of the Isle of 8 Histourally 2020 event. It is not intended for general public use, and participants are required to submit this form only once they have been invited or registered for the event. The form is divided into multiple pages, each containing different fields that require specific information. The form requires contact information, participant details, and medical information as a safety precaution. The purpose of this form is to ensure that participants have accurate contact details on file in case of an emergency. It also gathers information on medical conditions, treatments, and other relevant details to provide better support during the event. This form is only required from participants who have signed up for the event and have been specifically invited. 
-
-</thinking>
-
 # Isle Of 8 Histourally 2020 Registration Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and medical details from participants of the Isle of 8 Histourally 2020 event.

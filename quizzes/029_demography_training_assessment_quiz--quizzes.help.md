@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the Demography Training Assessment Quiz form. The form is designed to gauge users' knowledge and opinions on demographic changes in the world and their perceptions of current demographic trends. It is not intended for users to spend more than 10-15 minutes completing the form. The quiz is a simple assessment tool for training purposes, and users do not need to be a demography expert to complete it. Please ensure you have read this guide before proceeding to avoid any confusion or duplication of efforts.
-</thinking>
-
 # Demography Training Assessment Quiz - Help Guide
 ## Purpose
 This form is used to assess users' understanding and opinions on demographic changes and trends. It helps us evaluate your knowledge and perceptions on these topics.

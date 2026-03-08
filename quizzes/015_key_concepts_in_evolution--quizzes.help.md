@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Key Concepts In Evolution - Help Guide
 ## Purpose
 This form is designed to help you understand and learn about key concepts in evolution, a fundamental process that has shaped the diversity of life on Earth. By completing this form, you will be able to identify and describe the key concepts that drive evolution, including natural selection, variation, inheritance, mutation, genetic drift, and speciation.

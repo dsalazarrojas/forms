@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect financial information from clients in a structured and organized manner. The form includes fields for income, expenses, debt, and financial goals, which will help clients provide a clear picture of their financial situation. The form is meant to be completed by the client themselves, and the information collected will be used for financial planning and advisory purposes. This form should be filled out only once for each client, and it's not necessary to fill out this form again unless the client's financial situation changes significantly.
-</thinking>
-
 # Financial Budgeting Client Intake Form - Help Guide
 ## Purpose
 This form is meant to collect financial information from clients, including income, expenses, and debt details. It is designed to help clients provide a clear picture of their financial situation.

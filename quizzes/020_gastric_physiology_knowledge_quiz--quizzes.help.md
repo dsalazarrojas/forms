@@ -1,8 +1,3 @@
-<thinking>
-This guide is for the Gastric Physiology Knowledge Quiz form. This form is designed to assess the knowledge of individuals about gastric physiology, including gastric cells, hormones, and other related aspects. The form is not intended to be taken as a comprehensive evaluation of a user's expertise but rather as a tool to gauge their understanding of specific topics within the field. Please ensure you have read and understood the form's purpose before proceeding. If you have taken this form before, please refrain from completing it again to avoid duplication of effort.
-
-</thinking>
-
 # Gastric Physiology Knowledge Quiz - Help Guide
 ## Purpose
 The Gastric Physiology Knowledge Quiz form is designed to assess an individual's knowledge about gastric physiology.

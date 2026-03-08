@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information about language validation, which is an essential process in translation and content creation. It seems that this form is intended to be used by a reviewer or validator to provide feedback on language validation, possibly for a translation project or a content review process. The form is quite comprehensive, covering various fields related to language validation, such as language, validation status, comments, and reviewer information. It might also be used for tracking progress and assignment of tasks. To avoid duplication of effort, it's recommended to use this form as a template for similar language validation tasks.
-
-Please note that the form seems to be quite complex and may require adjustments based on specific business needs and requirements. The "Language Validation Form" appears to have 25 fields, which might be overwhelming for the end-user. However, each field has a specific label and type, making it easier to understand its purpose.
-</thinking>
-
 # Language Validation Form - Help Guide
 
 ## Purpose

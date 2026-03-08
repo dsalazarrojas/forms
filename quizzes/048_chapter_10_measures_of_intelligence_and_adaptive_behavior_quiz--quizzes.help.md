@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to test the user's understanding of measures of intelligence and adaptive behavior. It appears to be a multiple-choice quiz that assesses the user's knowledge on various topics related to intelligence, adaptive behavior, and assessment tools. The form has 12 questions with multiple-choice options and one field for the user to input their student ID number. However, it's worth noting that the student ID number is not required, which might be a mistake in the design. The form also includes questions about the purpose of standardized IQ tests, the definition of intellectual disability, and the impact of cultural bias in testing.
-
-Before proceeding, I would like to confirm that this form is not a duplicate of existing quizzes and that the user is aware of the form's purpose.
-
-</thinking>
-
 # Chapter 10 Measures Of Intelligence And Adaptive Behavior Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your understanding of measures of intelligence and adaptive behavior. Please answer all the questions to the best of your ability.

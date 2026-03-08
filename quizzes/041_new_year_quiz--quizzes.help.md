@@ -1,5 +1,3 @@
-<thinking>Internal note to the developer: This form is designed to be a New Year's quiz, where users are asked a series of questions on various topics, including geography, chemistry, and more. The form has multiple pages with a mix of single and multiple-select questions, as well as text, number, and date fields. The fields are labeled with clear and concise questions, and most of them are optional. I will base the explanation on this information and provide a clear and practical help guide for the end-user.</thinking>
-
 # New Year Quiz - Help Guide
 ## Purpose
 This form is a New Year's quiz that tests your knowledge on various topics such as geography, chemistry, and more. It has multiple pages with a mix of single and multiple-select questions, as well as text, number, and date fields.

@@ -1,7 +1,3 @@
-<thinking>
-Are you sure you want to use this form to assess your knowledge of scientific principles? Please make sure you are not using this form to assess your knowledge of scientific principles for a real-world application, such as a university course or professional certification. This form is intended for entertainment or general informational purposes only. Please be aware that this form may not accurately represent a comprehensive or rigorous assessment of scientific principles, and results should not be taken as authoritative or conclusive.
-</thinking>
-
 # Scientific Principles Quiz - Help Guide
 ## Purpose
 This form is designed to help you evaluate your knowledge of scientific principles. It consists of 25 questions that cover a range of scientific principles.

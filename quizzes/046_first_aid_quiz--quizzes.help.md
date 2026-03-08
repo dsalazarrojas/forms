@@ -1,5 +1,3 @@
-<thinking>This form was designed to assess knowledge and awareness about First Aid procedures. It contains questions related to various injuries and medical emergencies, such as cardiac issues, respiratory problems, bleeding, and more. This form helps users understand what actions to take in case of different types of injuries, and is intended for educational purposes only. Please note that this form does not replace professional medical training, advice, or emergency services.</thinking>
-
 # First Aid Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and awareness about First Aid procedures. It contains questions related to various injuries and medical emergencies, such as cardiac issues, respiratory problems, bleeding, and more. This form helps users understand what actions to take in case of different types of injuries, and is intended for educational purposes only.

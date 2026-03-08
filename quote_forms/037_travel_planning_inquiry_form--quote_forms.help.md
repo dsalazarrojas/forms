@@ -1,7 +1,3 @@
-<thinking>
-This help guide will assist users in understanding the purpose and usage of the travel planning inquiry form. Before creating this guide, I reviewed the form's internal schema and identified that the form is designed for travel planning inquires. I will provide a clear and concise guide to help end-users understand the form's purpose and how to complete it accurately.
-</thinking>
-
 # travel_planning_inquiry_form - Help Guide
 ## Purpose
 This travel planning inquiry form is designed to collect essential details from users for travel planning purposes. It covers various fields related to travel planning, including destination, dates, travel service provider, number of travelers, special requests, preferred language, contact information, travel agency details, and status.

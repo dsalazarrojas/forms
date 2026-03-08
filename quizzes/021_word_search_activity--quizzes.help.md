@@ -1,11 +1,3 @@
-<thinking>
-Form purpose: This form generates a word search activity based on a title and puzzle parameters. The form is used to create a word search puzzle with a specific grid size, color, shape, and orientation.
-
-To ensure that the output is meaningful and non-repetitive, this guide will help you fill out the form correctly and understand what each field does.
-
-Form parameters will be used to generate a word search puzzle that suits your needs.
-</thinking>
-
 # Word Search Activity - Help Guide
 ## Purpose
 The Word Search Activity form is designed to help you create a word search puzzle based on your specifications. Fill out this form to generate a unique word search puzzle that can be used for entertainment, education, or other purposes.

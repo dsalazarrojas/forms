@@ -1,6 +1,3 @@
-<thinking>
-We should check that the form is not a duplicate and that the user understands its purpose. We are creating a form to gauge client satisfaction with our SEO strategy. It's essential that we clearly communicate the form's purpose and requirements to ensure accurate and meaningful feedback. This form will be used to understand how well we're meeting the expectations of our SEO services and identify areas for improvement. Let's confirm that the client understands that the form is not an evaluation of their personal experience but rather an assessment of our services.</thinking>
-
 # SEO Strategy Satisfaction Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to gauge your satisfaction with our SEO strategy and services. Please answer the questions based on your experience with our team and the services we provided.

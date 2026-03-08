@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Herons Formula Math Quiz - Help Guide
 
 ## Purpose

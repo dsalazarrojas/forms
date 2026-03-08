@@ -1,14 +1,3 @@
-<thinking>
-What's a good example of a form that's both fun and educational? A form about transition words, of course! This quiz will test your understanding of transition words and their purpose in connecting ideas and sentences in writing.
-
-Before we begin, let's make sure you're not a seasoned writing pro already familiar with transition words. If that's the case, feel free to proceed with the quiz, but don't say I didn't warn you!
-
-To confirm, please consider this: do you have experience with writing, editing, or proofreading? If so, you may want to take this quiz to review and reinforce your skills.
-
-If you're still with us, let's dive into the Transition Words Quiz!
-
-</thinking>
-
 # Transition Words Quiz - Help Guide
 ## Purpose
 This quiz is designed to assess your understanding of transition words, which are words that connect ideas, sentences, and paragraphs in writing. You'll be tested on your ability to identify, use, and describe transition words effectively.

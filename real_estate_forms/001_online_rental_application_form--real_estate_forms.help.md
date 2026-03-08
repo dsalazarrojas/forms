@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an online rental application form, the purpose is to gather information from users about a rental property they are interested in, including details about the property type and category, description, and contact information. The form also aims to gather the user's contact and address details, such as date and time of the visit, and any additional comments they may have. The fields are designed to be filled out by users who want to inquire about or rent a property listed on the platform.
 
 This guide will walk you through each field of the form and provide explanations on how to complete it correctly.

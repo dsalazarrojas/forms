@@ -1,5 +1,3 @@
-<thinking>...Checking to see if the form is being used for the correct purpose and not duplicated...</thinking>
-
 # Stranger Connection Application - Help Guide
 ## Purpose
 This form is designed to collect information from strangers for connection and networking purposes. It is intended for individuals seeking to establish a connection with the application owner or a third party.

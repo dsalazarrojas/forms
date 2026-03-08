@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to assess an individual's exercise readiness, taking into account various factors such as their current fitness level, physical status, exercise frequency, and personal characteristics. This information is intended to help users understand their baseline physical condition and potential limitations or capabilities. To ensure the form is completed accurately, please answer honestly and avoid duplicating information already provided in other fields.
-
-For example, if you select "I am currently recovering from an injury or illness" in the "what_is_your_current_physical_status" field, you should not select "I am currently active and can perform physical activities without restrictions" in the same field.
-
-Similarly, if you select "Low" as your stress level, you should not select "High" as your motivation level. 
-
-The form's fields are designed to be completed in a logical and straightforward manner, with most fields being required for accurate assessment. However, some fields are optional and can be left blank if not applicable or relevant to your situation.
-
-Please provide accurate and honest answers to help us understand your exercise readiness more effectively.
-
-</thinking>
-
 # Exercise Readiness Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess your baseline physical condition, including your fitness level, physical status, and exercise frequency. Please answer each question to the best of your ability.

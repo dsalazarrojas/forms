@@ -1,7 +1,3 @@
-<thinking>
-The Physics Quiz Form is designed to assess users' understanding of basic physics concepts, particularly in the areas of speed of light and quantum mechanics. The form is composed of 12 fields, each with a specific label, hint, and type of input. To provide a clear understanding of how to complete this form and what each field represents, I'll break down each field in this help guide.
-</thinking>
-
 # Physics Quiz Form - Help Guide
 ## Purpose
 The Physics Quiz Form aims to evaluate users' grasp of fundamental physics concepts.

@@ -1,7 +1,3 @@
-<thinking>
-The Property Sentiment Survey is designed to gauge the sentiment and opinions of real estate agents on the current state of the property market. The form is meant to gather data on the opinions of experts in the field, providing valuable insights for the organization to make informed decisions. This form will not be used to solicit opinions from property owners, investors, or other external parties not affiliated with the organization.
-</thinking>
-
 # Property Sentiment Survey - Help Guide
 
 ## Purpose

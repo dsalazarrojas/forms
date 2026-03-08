@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Special Needs Questionnaire - Help Guide
 ## Purpose
 The Special Needs Questionnaire is a form designed to gather essential information about a patient's medical history, current medications, medical conditions, and other special needs. This form helps healthcare professionals assess the patient's medical status and plan for their care.

@@ -1,9 +1,3 @@
-<thinking>...checking the form purpose and relevance for non-duplication...
-
-The form is a "Housekeeping Quick Estimate Template" used for estimating the services required for housekeeping tasks, such as cleaning and maintenance. It's likely used by facility managers or property owners to quickly provide quotes for housekeeping services. The form asks for specific services, square footage, site visit details, and contact information to provide a comprehensive estimate. This template is likely used in a property management or maintenance context.
-
-</thinking>
-
 # Housekeeping Quick Estimate Template - Help Guide
 ## Purpose
 This template is used to quickly gather and estimate the services required for housekeeping tasks in a property.

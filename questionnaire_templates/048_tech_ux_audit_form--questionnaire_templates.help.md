@@ -1,11 +1,3 @@
-<thinking>
-The form's purpose is to gather feedback and ratings from users on a product's technical user experience (Tech UX) through an audit process. This process allows us to assess how well the product aligns with industry standards, identify areas for improvement, and provide actionable feedback.
-
-Before diving into the form, please ensure you understand what you're about to accomplish: 
-- We are not duplicating other audits or similar processes that might have already been completed. 
-- Your input will be reviewed internally to understand your perspective as an end user.
-
-</thinking>
 # Tech UX Audit Form - Help Guide
 ## Purpose
 The Tech UX Audit Form is a questionnaire designed to evaluate your experience with a specific product or service. Your input will help us identify areas where we can improve the product's user experience, ensuring it meets industry standards and expectations.

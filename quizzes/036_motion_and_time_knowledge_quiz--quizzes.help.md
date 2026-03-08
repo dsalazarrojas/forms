@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Motion And Time Knowledge Quiz - Help Guide
+> # Motion And Time Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge on motion and time concepts. It consists of several text fields where you can provide your thoughts on motion and time-related topics. You will have the option to select the type of quiz you would like to take and the time and date for which you are taking the quiz. Additionally, you can provide any additional notes or contact information if you'd like.
 

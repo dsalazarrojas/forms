@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to collect information about an individual's background and qualifications for a speech therapy job interview. The purpose of this form is to gather data about the candidate's education, experience, certification, practice type, and other relevant details to better understand their suitability for the position. It's crucial to ensure that this form is used consistently across all interviews to provide a fair and equal assessment. Please check with the hiring manager or HR department before using this form to confirm that it's up-to-date and relevant to your organization's needs.
-
-</thinking>
-
 # Speech Therapy Job Interview Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect relevant information about candidates during a speech therapy job interview. It covers essential areas such as education, experience, certification, and practice type to help evaluate their qualifications for the position.

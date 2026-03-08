@@ -1,11 +1,3 @@
-<thinking>
-The form "move_in_cost_payment_agreement_form" is used to collect payment agreement information from a renter or tenant when they move into a rental property. This form is used to ensure that the renter understands and agrees to the payment terms for their new residence. The form is divided into several pages, each with a specific set of questions or fields that require the renter's input. The purpose of this form is to gather essential information from the renter, including their agreement to pay for costs associated with their move-in, such as utility deposits, rent, and other charges. It is essential to fill out this form accurately to ensure a smooth and successful rental experience for both the renter and the landlord or property manager.
-
-The form is typically filled out by the renter or their representative and can be completed in one or more pages, depending on the number of fields required. The fields may include questions about the renter's agreement to pay for various costs, such as utility deposits, rent, and other charges. Some fields may be optional, allowing the renter to provide additional information voluntarily.
-
-This form is used to ensure that the renter understands and agrees to the payment terms and conditions of their new rental property. It is a critical document that should be reviewed and completed carefully to avoid any misunderstandings or disputes during the rental period.
-</thinking>
-
 # move_in_cost_payment_agreement_form - Help Guide
 ## Purpose
 The "move_in_cost_payment_agreement_form" is used to collect payment agreement information from a renter or tenant when they move into a rental property.

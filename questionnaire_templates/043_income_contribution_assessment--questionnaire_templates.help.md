@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Income Contribution Assessment - Help Guide
 
 ## Purpose

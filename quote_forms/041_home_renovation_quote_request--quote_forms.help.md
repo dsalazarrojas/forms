@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from homeowners or clients who are requesting a home renovation quote. The purpose of this form is to gather essential details about the project, including contact information, project details, and estimated budget. This form will help contractors or renovation companies to provide an accurate quote for the project. 
-
-To prevent duplication, this form should only be used for new project requests. If the user has already submitted a quote request, they should not submit another request through this form.
-
-</thinking>
-
 # Home Renovation Quote Request - Help Guide
 ## Purpose
 This form is used to collect information for home renovation quote requests. Please provide as much detail as possible to help us provide an accurate quote.

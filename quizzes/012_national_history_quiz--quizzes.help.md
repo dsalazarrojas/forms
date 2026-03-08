@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a user's national history, likely for the purpose of verifying identity or creating a record of historical events. This form is a simple, text-based input form with fields for user's name, age, country of birth, and date of birth. 
-
-The form will not be duplicated in our system, as the purpose is focused on user-specific data collection. 
-
-</thinking>
-
 # National History Quiz - Help Guide
 ## Purpose
 The National History Quiz form is used to collect personal information about a user's national history, including their name, age, country of birth, and date of birth.

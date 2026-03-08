@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is designed to collect client information for tax purposes. The form is split into several sections, including Personal Information, Income Information, Deductions, and Tax Credits. The form asks for the client's name, last four digits of their SSN, tax year, filing status, dependents' count, and various types of income, deductions, and tax credits. This form is intended to be completed by the client, and the answers will be used to guide the tax preparation process. Please make sure to review and update the form to avoid duplicating or missing information, as it may impact the accuracy of the tax return.</thinking>
-
 # Client Tax Questionnaire - Help Guide
 ## Purpose
 The Client Tax Questionnaire is designed to gather relevant information from clients to help prepare their taxes. The form is split into several sections to guide you through the process.

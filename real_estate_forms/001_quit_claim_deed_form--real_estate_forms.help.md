@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of filing a quit claim deed, which is a document that transfers ownership of a property from one person to another. The form is intended to help the property owner (grantor) to provide necessary information about the property and the transaction, including the grantee's name, consideration (monetary value), and other relevant details such as county and state taxes. The purpose of this form is to provide a clear and standardized template for submitting a quit claim deed.
-</thinking>
-
 # quit_claim_deed_form - Help Guide
 ## Purpose
 This form is intended to aid property owners in filing a quit claim deed, transferring property ownership to another party.

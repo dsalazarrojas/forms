@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about pest control services they require, including their customer information, preferences for pest control services, a description of the pest control issue, estimated cost of the treatment, payment details, and any additional notes or comments. This form will help the service provider understand the customer's needs and prepare a quote for their pest control services.
-
-To complete this form, customers should have a clear understanding of what they are submitting. The form is designed to be simple and straightforward, with most fields optional. 
-
-The form has several fields that need to be filled out, which are explained below.
-</thinking>
-
 # pest_control_quote_form - Help Guide
 ## Purpose
 This form is for customers to provide information about their pest control needs to the service provider.

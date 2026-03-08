@@ -1,9 +1,3 @@
-<thinking>
-This form is used by real estate agents to collect contact information from potential customers who are interested in buying, selling, or renting properties. It helps agents understand the customer's preferences, budget, and time frame for the property search. This form will help the agent personalize their communication and provide relevant information to the customer, increasing the chances of converting them into a lead.
-The form is divided into two main sections: "Personal Information" and "Real Estate Interests". The "Personal Information" section collects the customer's basic contact details such as name, email address, and phone number. The "Real Estate Interests" section collects information on the customer's preferences, such as the type of property they are looking for, their budget, and their preferred contact method.
-This form does not duplicate any existing forms and is designed to capture the necessary information for the agent to provide a smooth and personalized experience to the customer.
-</thinking>
-
 # Contact Information Collection Form - Help Guide
 
 ## Purpose

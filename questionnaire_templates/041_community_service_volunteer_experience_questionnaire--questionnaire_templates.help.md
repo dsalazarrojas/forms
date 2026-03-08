@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's volunteer experience, including their role, hours contributed, satisfaction ratings, and skills used. It is essential that the user understands the purpose of this form and is aware that it is not a duplicate of any other form. The user should fill out the form with their actual experiences and be honest about their feelings and perceptions. This form will help the organization to understand the individual's strengths, weaknesses, and areas for improvement.
-
-Please note that this form is a critical part of our evaluation process, and your input is greatly valued. Your feedback will help us to refine our volunteer program and make it more effective.
-
-</thinking>
-
 # Community Service Volunteer Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about your volunteer experience to help us evaluate our volunteer program.

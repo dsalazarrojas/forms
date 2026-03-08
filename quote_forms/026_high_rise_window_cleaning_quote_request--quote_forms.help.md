@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for a high-rise window cleaning quote request. This form helps customers provide their personal details and property information to allow the service provider to generate an accurate quote for the service. 
-
-Internal systems can use this form to ensure that the information is correctly categorized and routed to the right personnel.
-
-To prevent duplication, the form should not be used for multiple submissions from the same customer on the same property.
-
-</thinking>
-
 # High Rise Window Cleaning Quote Request - Help Guide
 ## Purpose
 ## How To Complete This Form

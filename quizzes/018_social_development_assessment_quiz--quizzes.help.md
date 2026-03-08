@@ -1,9 +1,3 @@
-<thinking>
-
-This form's internal purpose seems to be to create a social assessment quiz, likely for social services or support staff, that evaluates a person's social development. Given the fields included, it's designed to capture basic contact information (email and phone), as well as provide space for notes and follow-up instructions. The form doesn't seem to have any strict requirements for completion, except for possibly the "follow-up" field which could be a required field in certain contexts. This form appears to be a flexible tool for various social development assessments, and the provided fields are a good starting point.
-
-</thinking>
-
 # Social Development Assessment Quiz - Help Guide
 ## Purpose
 The Social Development Assessment Quiz is a tool designed to help social services or support staff assess an individual's social development. This form is used to gather information that can aid in providing support and guidance to those who need it.

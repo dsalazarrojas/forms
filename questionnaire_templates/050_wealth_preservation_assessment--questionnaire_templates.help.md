@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wealth Preservation Assessment - Help Guide
 
 ## Purpose

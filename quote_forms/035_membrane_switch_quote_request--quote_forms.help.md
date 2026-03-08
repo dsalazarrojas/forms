@@ -1,5 +1,3 @@
-<thinking>This form is a tool for users to request a quote for a custom membrane switch. The purpose of this form is to gather information from the user about their specific requirements and needs for the membrane switch. This information will be used to provide a quote for the custom product. The form is not intended to be a comprehensive sales form, but rather a starting point for the quote request process. To ensure that the quote process is efficient and accurate, please provide as much detail as possible. Please note that the form will not be used to store or process any sensitive or personal information.</thinking>
-
 # Membrane Switch Quote Request - Help Guide
 ## Purpose
 The Membrane Switch Quote Request form is designed to gather information from users about their specific requirements and needs for a custom membrane switch. This information will be used to provide a quote for the custom product.

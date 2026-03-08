@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form seems to be related to assessing a user's experience in game development, likely for a survey or evaluation purpose. I assume the form is designed to gather information about the user's background in game development, including their name, email, phone number (possibly for follow-up contact), and their answers to some game development-related questions. The "quiz_questions" field is likely a text area for users to provide additional comments or thoughts. The "submit" field seems to be a final check-in or confirmation step.
 
 # Game Development Quiz - Help Guide

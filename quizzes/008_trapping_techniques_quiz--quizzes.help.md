@@ -1,7 +1,3 @@
-<thinking>
-Are you certain you want me to create a user-facing help guide for an AI-generated form with no apparent business logic, proprietary content, or proprietary platform affiliation? I will do my best with what I have.
-</thinking>
-
 # Trapping Techniques Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about trapping techniques, specifically for a quiz.

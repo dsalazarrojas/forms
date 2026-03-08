@@ -1,13 +1,3 @@
-<thinking> 
-
-We are creating a help guide for the "Modal Forms Knowledge Quiz" form. The form is designed to assess users' knowledge about modal forms, which are an essential part of many software applications. This form will help users understand and reinforce their knowledge about modal forms, and it is intended for both training and testing purposes.
-
-We will make sure that the guide is clear, concise, and easy to follow, providing users with a step-by-step explanation of each field and its purpose. 
-
-We will also check that this guide does not include any unnecessary information, as per the provided YAML structure.
-
-</thinking>
-
 # Modal Forms Knowledge Quiz - Help Guide
 ## Purpose
 The "Modal Forms Knowledge Quiz" form is designed to evaluate your knowledge about modal forms in software applications. This form assesses your understanding of various concepts related to modal forms and helps you reinforce your knowledge through a series of questions and responses.

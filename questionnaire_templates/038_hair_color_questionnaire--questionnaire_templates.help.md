@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from customers to provide personalized hair styling recommendations. It will help stylists understand the customer's hair characteristics, preferences, and needs to make informed decisions about hair color and style. This form is intended to be filled out by customers before or after an in-salon consultation. Please make sure to fill it out carefully to provide accurate information.</thinking>
-
 # Hair Color Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from customers to provide personalized hair styling recommendations.

@@ -1,5 +1,3 @@
-<thinking>As a coach onboarding quiz, this form is designed to assess the knowledge and best practices of a coach. It is meant to ensure that coaches have the necessary understanding of coaching principles, techniques, and policies before they start working with clients. This quiz is part of the onboarding process to ensure coaches are familiar with the company's expectations and standards. It does not aim to be a comprehensive test of a coach's abilities, but rather a self-assessment tool to identify areas where they may need additional training or support.</thinking>
-
 # Coach Onboarding Quiz - Help Guide
 ## Purpose
 This quiz is part of the onboarding process for coaches to ensure they have the necessary knowledge and understanding of coaching principles, techniques, and policies.

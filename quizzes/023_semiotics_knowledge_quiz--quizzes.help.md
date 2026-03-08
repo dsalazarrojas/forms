@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # semiotics_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of semiotics, a branch of linguistics that deals with signs, symbols, and their meaning. It's a quiz that will assess your understanding of various aspects of semiotics, including signs, symbols, and their relationships.

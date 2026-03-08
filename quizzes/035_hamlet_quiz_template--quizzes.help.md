@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hamlet Quiz Template - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to take a set of quizzes related to vexillology (the science of flags) and flag-related trivia, as well as other topics such as clubs and class quizzes. The purpose of this form is to test the user's knowledge and understanding of these subjects. To determine if the form is suitable for your needs, ask yourself: Are you looking to gauge your knowledge on vexillology and flag-related trivia, or do you have specific questions about clubs and classes you'd like to be tested on? If so, this form may be a good fit.
-
-</thinking>
-
 # Flags And Vexillology Quiz - Help Guide
 
 ## Purpose

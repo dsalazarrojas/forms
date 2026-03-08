@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to help you create a comprehensive template for choosing writing services. It is designed to be completed by students, agencies, or providers to provide a clear and detailed overview of your needs and preferences. This form should not be filled out if you have already selected a service provider, as it is primarily intended for the purpose of searching for or selecting a new service provider.
-
-To complete this form, please ensure that you have read the provided instructions and examples carefully. If you are unsure about any of the fields, please feel free to ask for clarification. Each field is clearly labeled and has an optional hint for further explanation. Please provide as much information as possible to ensure the best possible match for your needs.
-
-Please note that this form is a template and may be modified based on your input to better suit your specific needs.
-</thinking>
-
 # Guide To Choosing Writing Services - Help Guide
 ## Purpose
 This guide provides a comprehensive template for students, agencies, and providers to select and match writing services.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from nonresident aliens visiting our institution. The purpose of this form is to verify the details of the nonresident alien's presence, including their identity, travel plans, and immigration status. 
-
-Please ensure that the form is completed accurately and thoroughly to avoid duplication of efforts. Nonresident aliens visiting our institution should only be asked to complete this form once, and their information should be up to date to ensure that they receive the correct services or assistance while on site.
-
-</thinking>
-
 # Nonresident Alien Information Survey - Help Guide
 
 ## Purpose

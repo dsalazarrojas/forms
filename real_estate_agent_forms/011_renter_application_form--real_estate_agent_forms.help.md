@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Renter Application Form - Help Guide
 
 ## Purpose

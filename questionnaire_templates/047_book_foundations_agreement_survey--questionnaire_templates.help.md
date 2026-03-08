@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about the clarity of a book's foundational concepts. It is designed to measure how clear the concepts are and whether the respondent agrees or disagrees with them. The form will ask about the level of clarity, agreement, and any potential suggested improvements. It is intended to be used to identify areas of improvement for the book's foundation.
-</thinking>
-
 # Book Foundations Agreement Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the clarity and agreement of a book's foundational concepts. It will help to identify areas that need improvement and provide insight into how well the concepts are understood.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assist users in understanding and completing the Row Echelon Form in Linear Algebra. The purpose of this form is to guide users through the steps involved in transforming a given matrix into its Row Echelon Form. This form is a structured and interactive way for users to practice and learn about the row operations involved in row reduction.
-To ensure that users have the most informative and relevant experience, we should verify that this form is not a duplication or variant of another form, and that the instructions and content are up-to-date and accurate. This form assumes that the user is familiar with the concept of Matrix Row Echelon Form, but it does provide a gentle learning curve to help users refresh their understanding.
-</thinking>
-
 # Row Echelon Form Worksheet - Help Guide
 
 ## Purpose

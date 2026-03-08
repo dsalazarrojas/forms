@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users to create a comprehensive profile of their background and experience. This form is typically filled out by individuals who are seeking to create a profile or apply for a job opportunity. The form is designed to collect data on the user's name, contact information, job history, experience, and work preferences. Please ensure that you are filling out this form correctly and that the information is up-to-date and accurate.
-</thinking>
-
 # profile_questionnaire_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test the user's understanding of weekly concepts. The purpose of this form is to assess the user's comprehension of a specific set of concepts that are relevant to the user's role or job function. This form will be used to evaluate the user's ability to understand and apply these concepts in a practical setting. This guide is intended to help users complete the form accurately and efficiently.
-</thinking>
-
 # Weekly Concepts Quiz - Help Guide
 ## Purpose
 The Weekly Concepts Quiz is a tool used to gauge your understanding of weekly concepts relevant to your role or job function. Completing this form will help you demonstrate your knowledge and application of these concepts in a practical setting.

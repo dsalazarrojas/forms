@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for students to take an Organic Chemistry Final Exam (Multiple Choice). The purpose of this form is to gather student responses to a series of multiple-choice questions related to organic chemistry. The form is intended to be completed by students who have taken an organic chemistry course and are looking to assess their knowledge of the subject. The form will collect information such as the student's name, email, and phone number, as well as their responses to a series of multiple-choice questions. The form is optional, meaning that students are not required to complete every question.
-
-</thinking>
-
 # Organic Chemistry Final Exam (Multiple Choice) - Help Guide
 ## Purpose
 This form is designed for students to take an Organic Chemistry Final Exam (Multiple Choice) to assess their knowledge of the subject.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning Readiness Quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess a user's readiness to learn and progress through a course or program. It is designed to help instructors and administrators gauge a learner's preparedness and identify potential areas of improvement.

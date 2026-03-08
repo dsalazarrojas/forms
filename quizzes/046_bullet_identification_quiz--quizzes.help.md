@@ -1,14 +1,3 @@
-<thinking>
-
-To ensure we're creating a comprehensive and user-friendly help guide for the "Bullet Identification Quiz" form, let's consider the following:
-
-- The form is designed to test the user's knowledge about bullets, focusing on various aspects such as type, caliber, casing material, weight, purpose, velocity, construction method, comparison, key identification feature, and safety practices.
-- The form has a mix of multiple-choice questions, select-one fields, and free-text fields.
-- The form's primary goal is to gauge the user's understanding and confidence in their answers.
-- Given the specific fields and options provided in the form's YAML schema, we can create a detailed and clear guide to help users navigate and complete the form accurately.
-
-</thinking>
-
 # Bullet Identification Quiz - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to assist students, educators, and administrators in understanding and completing the Academic Performance Questionnaire. The purpose of this form is to gather information about a student's academic performance, including their strengths, areas for improvement, and development actions to support their progress. It is used to track and monitor student progress, provide feedback and guidance, and facilitate communication between students, advisors, and instructors.
-
-Before filling out this form, please note that the following fields are marked as "required" or "optional" to ensure that you provide the necessary information for accurate assessment and follow-up.
-
-</thinking>
-
 # Academic Performance Questionnaire - Help Guide
 
 ## Purpose

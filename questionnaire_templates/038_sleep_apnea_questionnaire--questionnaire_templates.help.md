@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Sleep Apnea Questionnaire - Help Guide
 
 ## Purpose

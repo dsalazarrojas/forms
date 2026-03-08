@@ -1,7 +1,3 @@
-<thinking>
-This is a form to collect information about an element's ionization energy and electronegativity, likely for educational purposes. The form is designed to be filled out by a user who wants to assess the ionization energy and electronegativity of an element. I will now provide a user-facing help guide for this form.
-</thinking>
-
 # ionization_and_electronegativity_assessment - Help Guide
 ## Purpose
 This form is designed to collect information about an element's ionization energy and electronegativity. To complete this form, please select the element and its ionization energy, electronegativity, and provide any additional notes you'd like to make about the element.

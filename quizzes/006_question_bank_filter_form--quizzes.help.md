@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by educators and administrators to filter question banks in a learning management system. The form allows users to select specific criteria to narrow down the questions that appear in a question bank. This can be useful for creating targeted quizzes and assessments for students of various subject levels and instructional needs. The form is meant to be a quick and easy way to filter down the question bank to show only the most relevant questions for a particular use case. Before filling out this form, please ensure that the question bank has been populated with questions and quizzes have been created within it. Otherwise, the form will not return any results.
-</thinking>
-
 # Question Bank Filter Form - Help Guide
 ## Purpose
 The Question Bank Filter Form is designed to allow users to filter question banks based on various criteria such as subject, grade level, instructional needs, and more.

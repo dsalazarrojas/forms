@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Jigs And Fixtures Knowledge Quiz - Help Guide
 
 ## Purpose

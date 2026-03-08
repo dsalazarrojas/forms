@@ -1,6 +1,3 @@
-<thinking> 
-  To create a user-friendly help guide, we need to identify the purpose of this form, which is a navigation quiz for voyage planning. It appears to be assessing various aspects of planning and safety for navigation. The form is likely being used within a maritime or aviation context, where understanding these topics is crucial for safe navigation.
-</thinking>
 # Voyage Planning Navigation Quiz - Help Guide
 
 ## Purpose

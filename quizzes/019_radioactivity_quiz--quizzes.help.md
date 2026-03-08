@@ -1,5 +1,3 @@
-<thinking>...the form purpose and checks for relevance and non-duplication...</thinking>
-
 # Radioactivity Quiz - Help Guide
 ## Purpose
 The Radioactivity Quiz form is designed to collect user feedback and responses for the Radioactivity Quiz, which is a tool used to gauge users' understanding of radioactivity principles. This form is typically used to gather data from users who have taken the quiz.

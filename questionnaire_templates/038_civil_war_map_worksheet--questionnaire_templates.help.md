@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information from students for a Civil War Map Worksheet exercise. The purpose of this form is to guide students in analyzing the Civil War era by having them mark key battles on a map, analyze troop movements, and consider the effects of terrain on outcomes. It is likely used in a history or social studies class to assess students' understanding of the subject matter. The form appears to be part of a broader educational initiative to supplement traditional teaching methods with interactive and hands-on learning experiences. 
-
-The form consists of fields for students' personal information, such as their name and class period, as well as fields related to the Civil War, like the region studied, key battles, and sources used for the map. There may be optional fields for additional analysis and critical thinking, such as troop movements and terrain effects, as well as a field for the teacher's notes. 
-
-Before starting, ensure the form is being used in an educational setting and not for personal or commercial purposes. The form's fields should be filled out by students under the guidance of their instructors. This form is an original adaptation of public survey topic metadata and is intended for educational purposes only. Please review the form carefully before using it in your teaching activities.
-</thinking>
-
 # Civil War Map Worksheet - Help Guide
 ## Purpose
 This form is designed to guide students in analyzing the Civil War era by having them mark key battles on a map and consider the effects of troop movements and terrain on outcomes.

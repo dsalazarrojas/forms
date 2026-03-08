@@ -1,5 +1,3 @@
-<thinking>...This form is a questionnaire used for schema assessment. It is designed to collect metadata about a data schema, including information about data teams, stakeholders, schema type, scope, complexity, maturity, frequency, last updated date, version, status, change frequency, last updated by, last reviewed by, and comments...</thinking>
-
 # schema_assessment_questionnaire - Help Guide
 ## Purpose
 The schema_assessment_questionnaire is a form used to collect metadata about a data schema. This metadata is used to assess the schema's characteristics and track its evolution over time.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information from renters to understand their needs and preferences when searching for a new apartment. The goal is to ensure that the form is comprehensive, yet not overly burdensome, to collect relevant details about the user's situation. This form aims to avoid duplication and redundancy by asking only necessary questions, making it easier for users to provide accurate and helpful input. By following this guide, users will be able to provide their information effectively and efficiently...</thinking>
-
 # Apartment Hunting Checklist - Help Guide
 ## Purpose
 This form is designed to help us understand your needs and preferences when searching for a new apartment. Please answer all questions accurately and honestly, and don't hesitate to ask if you have any questions or concerns.

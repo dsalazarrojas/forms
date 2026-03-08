@@ -1,9 +1,3 @@
-<thinking>
-This form is for users to engage with a fun and informative quiz about Valentine's Day. The quiz will cover various aspects of the holiday, including its history, trivia, and modern-day traditions. Users will be presented with multiple-choice questions and will have the option to provide their answers.
-This form is designed to be user-friendly and adaptable, allowing users to answer at their own pace. However, it's essential to ensure that users understand each field's purpose, as it will impact the form's functionality and data collection. To avoid duplication, please note that this form is an original adaptation and not a copy of any other form platform.
-To ensure a smooth experience, it's crucial to provide clear instructions and explanations for each field. This will allow users to focus on enjoying the quiz without getting overwhelmed or confused.
-</thinking>
-
 # Valentines Quiz - Help Guide
 ## Purpose
 This is a fun and informative quiz about Valentine's Day, covering its history, trivia, and modern-day traditions.

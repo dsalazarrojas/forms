@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive tool for users to test their knowledge about Poland's geography. It appears to be a multiple-choice quiz that covers various aspects of Poland's geogrphy, such as its capital, official languages, bordering countries, largest city, location on the map, population, and GDP. This form might be used for educational or entertainment purposes, and its primary goal is likely to assess users' knowledge of Poland's geographical details. Before proceeding, ensure that you have a thorough understanding of Poland's geography, as this form seems to be designed for experts or those with a basic knowledge of the subject.
-</thinking>
-
 # Poland Geography Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to test your knowledge about Poland's geography.

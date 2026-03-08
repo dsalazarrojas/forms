@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for capturing information about a wedding event plan for a customer-facing application. The form should be filled out by an event planner or coordinator to provide details about the wedding event, including the date, location, package type, contact details, people to contact, wedding coordinator, family situations, and photography and logistics needs. It is essential that the form is filled out accurately and completely to ensure that the event planner has all the necessary information to plan the wedding event effectively.
-</thinking>
-
 # Wedding Event Plan Questionnaire - Help Guide
 ## Purpose
 This form is used to gather information about a wedding event plan for the purpose of planning and coordination.

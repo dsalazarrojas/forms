@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patriotism And National Identity Quiz - Help Guide
 ## Purpose
 This form is designed to gauge your thoughts and opinions on patriotism and national identity. It will ask you to provide responses to a series of questions, and you will be presented with options for select questions. Your feedback will help us better understand the perspectives on these topics.

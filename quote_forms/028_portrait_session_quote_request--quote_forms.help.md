@@ -1,13 +1,3 @@
-<thinking>
-
-To create an effective help guide for the "Portrait Session Quote Request" form, we should consider the following:
-
-* The form's purpose is to collect information from clients for a portrait session, including session details, contact information, and payment options.
-* The form should cater to both new and existing clients, making it easy to understand and fill out.
-* The form should be designed to be non-duplicative, ensuring that clients can only provide their information once.
-
-</thinking>
-
 # Portrait Session Quote Request - Help Guide
 ## Purpose
 The "Portrait Session Quote Request" form is a tool for clients to submit their quote requests for a portrait session. This form helps us to gather essential information about their session needs and preferences.

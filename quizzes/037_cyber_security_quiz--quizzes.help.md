@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that explains the purpose, how to complete the form, and each field in the "cyber_security_quiz" form. To start, the form is designed to test the user's knowledge of security fundamentals, and the user can expect to answer multiple-choice questions to assess their understanding.</thinking>
-
 # cyber_security_quiz - Help Guide
 ## Purpose
 The cyber security quiz is a form designed to evaluate a user's knowledge of security fundamentals.

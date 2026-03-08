@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I will ensure that the user-facing help guide for the Elevator Pitch Generator Form is clear, concise, and easy to understand. Before creating the guide, I will review the form schema and make sure that every field is well-documented. I will not invent any business logic, but rather provide explanations based on the provided YAML fields. I will also ensure that the guide follows the required Markdown structure and is easy to read.
-
-</thinking>
-
 # Elevator Pitch Generator Form - Help Guide
 ## Purpose
 The Elevator Pitch Generator Form is designed to help you create a compelling elevator pitch for your product or service. This form guides you through the key elements of a successful pitch, including the introduction, product, value proposition, unique solution, and more.

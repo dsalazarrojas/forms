@@ -1,8 +1,3 @@
-<thinking>
-The Military Program Interest Form is designed to capture information from individuals interested in pursuing a military career. This form will help the organization better understand the needs and requirements of potential candidates and provide them with relevant information and resources. To avoid duplication of efforts, please only fill out this form once. Please make sure to complete the form thoroughly and accurately, as any errors or inaccuracies may result in delays or disqualification of the candidate.
-
-</thinking>
-
 # Military Program Interest Form - Help Guide
 ## Purpose
 The Military Program Interest Form is a questionnaire designed to gather information from potential candidates interested in pursuing a military career. This form will help the organization understand their needs and provide them with relevant information and resources.

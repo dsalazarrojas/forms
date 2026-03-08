@@ -1,9 +1,3 @@
-<thinking>
-This form aims to gather feedback from developers regarding the technical API offerings provided by your organization. It is meant to understand the satisfaction and perception of these offerings from the developers' point of view. This form should only be accessed by developers who have been assigned to the corresponding role. Please ensure you have been assigned to the 'Developer' role before proceeding. If you've already completed this form, you won't see it again to avoid duplication of effort.
-
-This guide will walk you through the form sections and questions to help you understand how to complete it accurately and effectively.
-</thinking>
-
 # tech_api_offerings_developer_satisfaction_questionnaire - Help Guide
 ## Purpose
 This form is designed to gauge the satisfaction and usability of the technical API offerings provided by our organization from a developer's perspective. Your feedback will help us improve and refine our API services to better meet your needs.

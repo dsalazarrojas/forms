@@ -1,12 +1,3 @@
-<thinking>
-This form was created to assess an individual's formal communication skills, specifically in various areas such as active listening, verbal and written communication, adapting to change, communicating with diversity, conflict resolution, communication under stress, and communication skills for leaders. 
-
-The purpose of this form is to evaluate an individual's proficiency in these areas, enabling them to identify their strengths and weaknesses in formal communication. This assessment is useful for personal or professional development, such as in employee evaluations or performance reviews. 
-
-Please note that this form is not affiliated with any form platforms, but rather a custom-made form designed to help users understand their formal communication skills. 
-
-</thinking>
-
 # Formal Communication Skills Assessment - Help Guide
 ## Purpose
 This form is designed to assess your formal communication skills in various areas, including active listening, verbal and written communication, adapting to change, communicating with diversity, conflict resolution, communication under stress, and communication skills for leaders. It is a helpful tool for personal or professional development, such as employee evaluations or performance reviews.

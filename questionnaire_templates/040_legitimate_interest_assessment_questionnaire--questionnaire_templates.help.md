@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a questionnaire used for assessing legitimate interest, likely in the context of data protection or privacy regulations such as GDPR. Its purpose is to gather information from end-users about the basis for processing personal data, which is essential for ensuring that such processing complies with relevant regulations. This questionnaire will likely be used by data controllers to verify whether they can rely on legitimate interest as a basis for their data processing activities. The assessment is crucial for identifying potential risks and ensuring compliance with data protection regulations. Before proceeding, please ensure that you have the necessary authority and knowledge to complete this form accurately and honestly. Additionally, please be aware that providing false or incomplete information may lead to misidentification of risks and potential non-compliance with regulations.
-
-</thinking>
-
 # Legitimate Interest Assessment Questionnaire - Help Guide
 ## Purpose
 The Legitimate Interest Assessment Questionnaire is a tool used to evaluate whether a data controller can rely on legitimate interest as a basis for processing personal data. This questionnaire gathers information about the purposes for which personal data are being processed and assessed against the legitimate interest criteria to ensure that such processing is compliant with data protection regulations.

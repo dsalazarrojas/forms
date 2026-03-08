@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Portfolio Preparation Survey - Help Guide
 
 ## Purpose

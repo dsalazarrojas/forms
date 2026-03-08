@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fair Payment Code Compliance Self Assessment - Help Guide
 
 ## Purpose

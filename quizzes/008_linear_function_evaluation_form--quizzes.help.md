@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Linear Function Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to educate the end user about Earth's axial tilt and its relationship with seasons. The purpose of this quiz is to test the user's understanding of the tilt's effect on Earth's climate, geography, and other related phenomena. The quiz is composed of five questions that will be answered by selecting multiple-choice options from a list. To avoid duplication, this guide will provide clear explanations for each field to help users understand how to complete the form correctly. The form is not scored, so users can review their answers at their own pace and without fear of penalties. The questions are designed to be self-explanatory, so users should be able to answer them accurately without requiring external knowledge or resources. The form does not store any personal data and is purely educational in nature.
-</thinking>
-
 # Seasons And Axial Tilt Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your understanding of Earth's axial tilt and its effects on our planet.

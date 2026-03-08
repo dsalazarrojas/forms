@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # shopify_questionnaire - Help Guide
 ## Purpose
 The Shopify Questionnaire is designed to help you better understand a client's needs and goals in the e-commerce context. It's intended to gather information about their requirements, preferences, and expectations for their online presence.

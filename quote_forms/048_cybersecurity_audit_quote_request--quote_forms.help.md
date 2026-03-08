@@ -1,8 +1,3 @@
-<thinking>
-
-This form is intended for customers to request a quote for a cybersecurity audit. The purpose of this form is to gather necessary information about the customer's project, including company details, contact information, and service requirements. This form is meant to be used to assess the customer's needs and provide an accurate quote for the requested service. Please ensure that this form is not duplicated or sent to the wrong customer service representative to avoid confusion and miscommunication.
-
-</thinking>
 # Cybersecurity Audit Quote Request - Help Guide
 ## Purpose
 This form is used to collect information about your project and request a quote for our cybersecurity audit services. Please fill out the form below to help us better understand your needs and provide an accurate quote.

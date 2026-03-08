@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consulting Proposal - Help Guide
 ## Purpose
 The purpose of this form is to collect and present a consulting proposal to a client. It will guide the user to fill out a comprehensive proposal that outlines the scope, timeline, and costs associated with a proposed project, including terms and conditions.

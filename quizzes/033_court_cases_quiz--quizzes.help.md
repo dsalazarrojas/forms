@@ -1,9 +1,3 @@
-<thinking>
-This form is for users to provide information about court cases. It's designed to collect data on various aspects of a court case, including the question, answers, and details about the case. To confirm that the form is being used correctly, we check for the following:
-- The form is only filled out once for each unique court case.
-- The form is not filled out for cases that don't exist.
-</thinking>
-
 # court_cases_quiz - Help Guide
 ## Purpose
 This form is designed to collect information about court cases for data analysis and reporting.

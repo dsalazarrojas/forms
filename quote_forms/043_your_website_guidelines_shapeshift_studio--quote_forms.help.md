@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential information from users to create a website guidelines document for a project. The form includes details about the website, such as its name, URL, and email. It also collects project-specific information like budget, deadline, and priority. This form is intended to provide accurate and comprehensive guidelines for a project. Please ensure you fill out this form accurately to avoid errors and ensure the project's success. If you've filled out this form before, please review it carefully to see if there are any changes to be made.
-</thinking>
-
 # Your Website Guidelines Shapeshift Studio - Help Guide
 ## Purpose
 This form is used to collect essential information from users to create a website guidelines document for a project.

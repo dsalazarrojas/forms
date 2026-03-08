@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a quiz that tests the user's understanding of a particular concept or series of questions. It has multiple pages, each with its own set of questions or prompts. The user will be asked a series of yes/no questions, with some allowing multiple selections. The user must fill in the answers to these questions, which will be used to evaluate their knowledge or opinions.
-</thinking>
-
 # Fill In The Blanks Quiz - Help Guide
 ## Purpose
 This form is a quiz that tests the user's understanding of a particular concept or series of questions. It has multiple pages, each with its own set of questions or prompts.

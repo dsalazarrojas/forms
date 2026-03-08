@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from home buyers about their preferences and requirements for a new home. This information will be used to provide personalized recommendations and consultations to help them find the right property. To ensure that the form is filled out accurately and relevantly, please note that:
-* This form is intended for home buyers who are serious about purchasing a new property. If you're just browsing or have no intention of buying, the form might not be a good fit.
-* Please answer the questions based on your genuine preferences and needs.
-* If a question is not applicable to you, feel free to skip it or select "Other" as an option.
-* This form is meant to be completed by one person, so please do not fill it out multiple times.
-
-</thinking>
-
 # Home Buyer Consultation Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to gather information from home buyers about their preferences and requirements for a new home. The information collected will be used to provide personalized recommendations and consultations to help them find the right property.

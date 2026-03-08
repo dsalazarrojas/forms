@@ -1,11 +1,3 @@
-<thinking>
-
-The Genetics And Cell Division Quiz form appears to be a multiple-choice quiz designed to test understanding of cell division concepts, specifically mitotic and meiotic cell division. This form is likely intended for educational or research purposes, possibly for biology students, researchers, or healthcare professionals. The form's 18 questions cover various aspects of cell division, including the primary functions and processes involved in both mitotic and meiotic cell division.
-
-To avoid duplication and ensure accuracy, it's essential to review the form's content and instructions carefully before proceeding. This guide will help users understand the form's purpose, complete it correctly, and make the most of their time.
-
-</thinking>
-
 # Genetics And Cell Division Quiz - Help Guide
 ## Purpose
 The Genetics And Cell Division Quiz is designed to test your understanding of cell division concepts, specifically mitotic and meiotic cell division. This quiz will assess your knowledge of the primary functions, processes, and differences between these two types of cell division.

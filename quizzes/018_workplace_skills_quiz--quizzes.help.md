@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess an individual's skills in various aspects of workplace settings. The purpose of this form is to evaluate how you score in different skills that are essential for a successful career in the workplace. The form is divided into several sections, each representing a unique skillset. The form is not a test or a certification process, but rather a self-assessment tool to help individuals identify areas where they can improve.
-
-Before proceeding, ensure that you have reviewed the form carefully and understand the questions being asked. You can answer this form if you have experience in the workplace, even if you're not currently employed.
-
-Please note that the form is not a mandatory requirement for any specific purpose, and your responses will not affect your career prospects or any other external consequences. This form is a personal and internal tool for individual self-assessment.
-
-If you're unsure about any of the questions or need clarification, please ask your supervisor or HR representative for guidance.
-</thinking>
-
 # Workplace Skills Quiz - Help Guide
 ## Purpose
 The Workplace Skills Quiz is designed to help individuals assess their skills and abilities in different areas of the workplace. The quiz is a self-assessment tool that allows you to rate yourself on a scale of "Yes" and "No" for each skill.

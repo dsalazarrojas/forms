@@ -1,8 +1,3 @@
-<thinking>
-We're creating a form for the Diversity & Inclusion Advisory Panel Application, aiming to gather relevant information from individuals interested in joining or participating in the panel. This form is meant for self-identification and application purposes. To ensure we avoid duplication and irrelevant submissions, we kindly request that each individual only submits their own application.
-
-</thinking>
-
 # Diversity & Inclusion Advisory Panel Application - Help Guide
 ## Purpose
 This form is for collecting information from individuals interested in joining or participating in our Diversity & Inclusion Advisory Panel.

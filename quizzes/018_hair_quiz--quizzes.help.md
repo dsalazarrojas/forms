@@ -1,11 +1,3 @@
-<thinking>
-
-The "Hair Quiz" form is designed to collect information about a patient's hair condition, styling habits, and treatment history. It's intended for healthcare professionals to assess the patient's hair health and provide guidance on potential treatments. This form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation using public survey topic metadata.
-
-To ensure that this form is used correctly, please note that it's a one-time assessment tool and not a substitute for a comprehensive medical evaluation. If you're a healthcare professional, please use your professional judgment when reviewing the results.
-
-</thinking>
-
 # Hair Quiz - Help Guide
 ## Purpose
 The Hair Quiz form is a tool for healthcare professionals to collect information about a patient's hair condition, styling habits, and treatment history. It's intended to be used as a starting point for further evaluation and guidance.

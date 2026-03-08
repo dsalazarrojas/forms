@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool to gather demographic information from users to help us better understand and cater to their needs. It's essential to fill this form accurately to ensure we can provide the best possible experience for you. Please note that the information collected will be kept confidential and only used for internal purposes. If you have any questions or concerns, feel free to ask.
-</thinking>
-
 # AFC Demographic Questionnaire - Help Guide
 ## Purpose
 The AFC Demographic Questionnaire is a form designed to collect demographic information from users to help us better understand and cater to their needs.

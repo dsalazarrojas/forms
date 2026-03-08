@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to create a quiz that assesses students' understanding of statics equilibrium forces. The form's purpose is to collect information from students and evaluate their ability to answer questions related to statics equilibrium forces. This form is not affiliated with, endorsed by, or derived from any form platform, and it is released under a Creative Commons license. The form was generated using AI and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # Statics Equilibrium Forces Quiz - Help Guide
 ## Purpose
 This form is a self-assessment quiz designed to evaluate students' understanding of statics equilibrium forces.

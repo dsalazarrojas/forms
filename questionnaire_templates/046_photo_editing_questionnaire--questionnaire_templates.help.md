@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help gather user opinions on photo editing, specifically on different aspects such as favorite photo types, importance of image resolution, preferred image formats, color depth, preferred color mode, used photo editing software, used photo editing tools, favorite photo editing features, and user behavior on photo touch up. This form aims to provide insight into user preferences and habits in the field of photo editing.
-
-Before proceeding, please note that this form has been generated using AI and does not copy, extract, or use proprietary content from any form platform. You are free to use, modify, and sell forms derived from it, just give credit. This form is released under CC BY 4.0.
-
-To ensure that you're not duplicating an existing survey or wasting time on an irrelevant form, please review the following questions carefully and only answer what applies to you. Your input will help us better understand the photo editing industry and improve our services.
-
-This form has 12 questions in total, which can be completed at your leisure. Please answer each question according to your real-life experiences and preferences. We appreciate your time and input!
-
-</thinking>
-
 # Photo Editing Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather user opinions on photo editing, including preferences on different aspects of photo editing.

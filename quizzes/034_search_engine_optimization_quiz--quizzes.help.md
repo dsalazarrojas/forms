@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to help users assess their website's search engine optimization (SEO) strategy. The purpose of this form is to gather information on how well a website is optimized for search engines. The form is intended to be used by website owners, SEO professionals, or anyone interested in evaluating their website's SEO performance.
-
-The form will likely be used by individuals who want to:
-
-* Analyze their website's current SEO status
-* Identify areas for improvement
-* Make data-driven decisions to optimize their website's search engine ranking
-
-This form is not a survey, so it's unlikely you've filled it out before.
-
-</thinking>
-
 # search_engine_optimization_quiz - Help Guide
 ## Purpose
 This form is designed to help users evaluate their website's search engine optimization (SEO) strategy. Fill out this form to gather information on how well your website is optimized for search engines.

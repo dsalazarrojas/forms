@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # waiting_room_quiz - Help Guide
 ## Purpose
 This form is designed to gather information about patients' experiences in the waiting room. It aims to collect data on various aspects of their visit, including wait time, activities during the wait, mode of information, satisfaction, and demographics. The responses will help the healthcare provider to understand patient expectations, identify areas for improvement, and enhance the overall waiting room experience.

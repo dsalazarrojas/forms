@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate a participant's English language proficiency and skills in a business setting. It is designed to assess their listening, reading, writing, and speaking abilities, as well as their training goals. The form is intended to provide a self-assessment of one's English language proficiency and identify areas for improvement.
-Before starting this form, please ensure that you have not already taken it. If you are a returning user, you can access your previous results.
-</thinking>
-
 # Business English Placement Quiz - Help Guide
 ## Purpose
 The Business English Placement Quiz is designed to evaluate your English language proficiency and skills in a business setting. This form will help you assess your ability to understand, speak, read, and write in English.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a basic template for a survey or questionnaire. It has three pages, each with a text field. The form is intended to be used for collecting general feedback or information from users. It does not have any specific business logic or proprietary content. It is open-source and can be freely used, modified, or distributed.
-</thinking>
-
 # pom sq temp - Help Guide
 ## Purpose
 This form is a basic template for collecting feedback or information from users.

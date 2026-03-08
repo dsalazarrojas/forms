@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information on file note compliance, which is essential for maintaining accurate and up-to-date records of files and notes related to staff training and onboarding processes. It is intended for use by staff members who need to provide information on their understanding of the process, their onboarding status, and other relevant details. The form should not be used for other purposes, such as tracking employee performance or disciplinary actions. Ensure you complete this form carefully and accurately, as the information collected will be used to assess and improve the staff onboarding process. </thinking>
-
 # file_note_compliance_quiz - Help Guide
 ## Purpose
 This form is used to collect information on file note compliance, specifically for staff members who need to provide information on their understanding of the process, their onboarding status, and other relevant details.

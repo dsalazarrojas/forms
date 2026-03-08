@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # trauma_informed_care_assessment - Help Guide
 ## Purpose
 The Trauma-Informed Care Assessment form is designed to evaluate the level of trauma-informed care practices within an organization. This form helps staff assess their own practice and environment, as well as the overall facility and program, to identify areas where improvement is needed to create a trauma-informed environment.

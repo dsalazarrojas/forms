@@ -1,11 +1,3 @@
-<thinking>
-...This guide is for the internal use of a web application to assist in collecting feedback or data about puppy adoption process.
-It is meant for use with a Puppy Questionnaire form.
-We will assume this form is meant to be completed with a specific set of data about puppies and their respective owners.
-The fields in this form have been defined for a specific purpose and should be reviewed carefully to ensure the information collected is accurate and useful.
-We will provide explanations for each field in the following guide.
-</thinking>
-
 # Puppy Questionnaire - Help Guide
 ## Purpose
 The Puppy Questionnaire form is used to collect information about puppies and their owners. It helps in tracking and managing the adoption process.

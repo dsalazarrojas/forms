@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the MCQ Practice Submission Form, we need to consider the following:
-
-* The form is designed to collect practice submissions for multiple-choice (MCQ) quizzes.
-* Each submission should be unique, and there should be no duplicate submissions for the same course, student, and section.
-* To ensure data accuracy and consistency, it's essential to understand each field's purpose and how they're related to the form's overall functionality.
-
-</thinking>
-
 # MCQ Practice Submission Form - Help Guide
 ## Purpose
 The MCQ Practice Submission Form is designed to collect practice submissions for multiple-choice quizzes. This form is used to record student practice submissions for quizzes, allowing for the tracking of progress and performance.

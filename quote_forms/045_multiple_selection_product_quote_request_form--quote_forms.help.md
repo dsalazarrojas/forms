@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Multiple Selection Product Quote Request Form - Help Guide
 
 ## Purpose

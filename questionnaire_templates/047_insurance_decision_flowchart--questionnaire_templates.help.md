@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive help guide for the Insurance Decision Flowchart form. The purpose of this form is to gather information from users regarding their insurance preferences, risk factors, and contact details. This form will help insurance companies to assess the user's risk profile and provide personalized insurance coverage recommendations. Before proceeding, it is essential to check that the form is relevant to the user's needs and not a duplication of effort. If the user has already answered similar questions in the past, they should not be forced to do so again. If the form is not relevant or has already been completed, please refer to our main menu for alternative options.</thinking>
-
 # Insurance Decision Flowchart - Help Guide
 ## Purpose
 The Insurance Decision Flowchart form is designed to collect information about your insurance preferences, risk factors, and contact details. This data will help us provide you with personalized insurance coverage recommendations that fit your needs.

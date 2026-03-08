@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Project Evaluation Quiz - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Community Project Evaluation Quiz, a form designed to test your knowledge about community project evaluation. Please review the form carefully before starting, as it contains 15 questions that assess your understanding of various concepts related to project evaluation.

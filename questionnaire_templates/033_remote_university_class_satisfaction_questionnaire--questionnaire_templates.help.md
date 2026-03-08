@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive and user-friendly help guide for the "Remote University Class Satisfaction Questionnaire" form, we need to consider the following:
-
-* The form is designed to collect feedback and ratings from students about their experience with remote university classes, providing insights into the effectiveness and satisfaction of these classes.
-* The form is not intended for duplicate responses, as each student's experience is unique and valuable.
-* The form's structure and questions are designed to gather information about different aspects of the remote classes, including student name, course title, overall satisfaction, instruction quality, communication, content, interaction, feedback, and more.
-
-</thinking>
-
 # Remote University Class Satisfaction Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from students about their experience with remote university classes. Your responses will help us understand what works well and what can be improved.

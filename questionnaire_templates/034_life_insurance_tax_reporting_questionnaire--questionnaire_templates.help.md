@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect tax reporting information from policyholders and their insurers for life insurance policies. The form is likely used by tax professionals or accountants to gather necessary data for tax reporting purposes. The purpose of this form is to ensure that policyholders and insurers provide accurate and consistent information for tax reporting. This form likely helps in preventing data duplication and ensures that the information is up-to-date and accurate. The form is probably used for internal record-keeping and tax reporting purposes.
-
-</thinking>
-
 # Life Insurance Tax Reporting Questionnaire - Help Guide
 
 ## Purpose

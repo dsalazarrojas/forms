@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's characteristics and preferences, likely for the purpose of creating a digital representation or avatar of the user. The form asks for various physical attributes such as age, hair color, eye color, skin tone, nationality, race, occupation, hair type, body type, height, weight, shirt size, pant size, dress size, and shoe size. It also collects contact information (email and phone number) and scheduling information (date and time). The form may be used for marketing, research, or other purposes where a digital representation of a user is needed.
-
-The form is likely to be used in a variety of contexts, such as:
-
-* Creating a digital twin or avatar for marketing or research purposes
-* Generating a personal profile for a user
-* Collecting demographic information for market analysis
-
-To avoid duplicating or misrepresenting the user, it's recommended to use this form only for the intended purpose, and to ensure that the collected data is accurate and up-to-date.
-
-</thinking>
-
 # which_disney_character_are_you - Help Guide
 ## Purpose
 This form is designed to collect information about a user's characteristics and preferences to create a digital representation or avatar of the user.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and understanding of caregivers on key concepts such as patient safety, medication management, ethics, and documentation. The form is divided into three main modules: Patient Safety, Medication Management, and Ethics and Documentation. Each module covers essential topics and skills that caregivers need to demonstrate to ensure proper care. The form is intended to be completed by caregivers to gauge their understanding and application of these concepts. This guide is designed to help users understand the purpose and requirements of the form.
-</thinking>
-
 # Caregiver Training Quiz - Help Guide
 
 ## Purpose

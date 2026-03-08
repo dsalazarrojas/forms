@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and practices of individuals in the field of mineral science. The goal is to evaluate their understanding of various aspects of mineral science, including their background, approaches to teaching, methods of assessment, and engagement with the subject. This information will help in identifying areas of strength and weakness in their knowledge and practices. The form will help to:
-
-* Identify the level of understanding and application of mineral science concepts
-* Assess the effectiveness of their teaching methods and approaches
-* Evaluate their ability to engage students in mineral science
-* Identify areas where they may require additional support or training
-* Facilitate communication and collaboration among teachers, students, and the school administration
-
-Please ensure that you have answered all questions accurately and completely. If you have any doubts or concerns, please feel free to ask.
-</thinking>
-
 # Mineral Science Knowledge Assessment - Help Guide
 
 ## Purpose

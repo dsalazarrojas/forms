@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information on a dual representation assessment, where participants and trainers can provide responses, translations, and feedback in different languages. The form is used to assess the accuracy of translations and compare participant and trainer responses.</thinking>
-
 # Dual Representation Assessment Form - Help Guide
 ## Purpose
 This form is used to gather information on a dual representation assessment, where participants and trainers can provide responses, translations, and feedback in different languages.

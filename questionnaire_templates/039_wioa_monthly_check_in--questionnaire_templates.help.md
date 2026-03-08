@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information for the "Monthly Check In" process, which is a regular review of ongoing projects or tasks. The form is likely used to track progress, identify areas for improvement, and ensure that all necessary steps have been taken. 
-
-When filling out this form, please ensure that you are not duplicating existing records, and that the information you provide is accurate and up-to-date. If you are unsure about what information to provide or if you have any questions, please reach out to the relevant team or department for guidance.
-
-</thinking>
-
 # wioa_monthly_check_in - Help Guide
 ## Purpose
 

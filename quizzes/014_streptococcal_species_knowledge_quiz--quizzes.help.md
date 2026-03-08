@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to test the knowledge and understanding of users about streptococcal infections. It seems to be a series of quizzes with multiple-choice questions about the causes, symptoms, diagnosis, treatment, and management of streptococcal infections. The form will likely be used to assess the knowledge of healthcare professionals or students about the subject. To ensure the form is being used correctly, please consider the following:
-- Ensure the form is being used in a context where the subject is relevant, such as in a medical education setting.
-- Review the form to avoid any duplication of questions or answers that might lead to confusion.
-- Be aware that the questions might be designed to test the user's ability to apply their knowledge in a practical scenario.
-- Double-check the form's fields and options for accuracy and consistency.
-</thinking>
-
 # streptococcal_species_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to assess the knowledge and understanding of users about streptococcal infections. It consists of a series of multiple-choice questions that cover the causes, symptoms, diagnosis, treatment, and management of the infection.

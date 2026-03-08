@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help users answer a series of questions about their preferences and needs when it comes to choosing a rain coat. The answers to these questions will help to recommend a rain coat that best fits their requirements.
-This form has 11 fields, and users should only answer the fields that are relevant to their situation. The form has a mix of multiple-choice, single-choice, and number fields. 
-Users need to be honest about their preferences and answers to get accurate recommendations.
-</thinking>
-
 # Rain Coat Recommendation Quiz - Help Guide
 ## Purpose
 This help guide will explain each field in the rain coat recommendation form to assist users in completing it accurately.

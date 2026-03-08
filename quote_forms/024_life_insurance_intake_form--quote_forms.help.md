@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Life Insurance Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in obtaining a life insurance quote. It is intended to gather essential details about the customer and their insurance needs, which will be used to provide personalized quotes and services.

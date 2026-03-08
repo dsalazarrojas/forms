@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ELISA Techniques Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess users' knowledge and understanding of ELISA techniques in a quiz-like format. It is an interactive evaluation tool that allows users to test their skills in various ELISA-related areas such as ELISA, Western Blotting, ELISA Techniques, and Immunoassay.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a wedding dress quiz designed to help users determine their preferences and find the perfect wedding dress style based on their style and preferences. The form likely uses a combination of select_one and select_multiple fields to gather information about the user's style, neck line, neckline shape, sleeve type, wedding length, color, favorite features, overall feeling, and comfort level. The form's purpose is to provide a personalized recommendation for a wedding dress that suits the user's tastes and needs.
-</thinking>
-
 # wedding dress quiz - Help Guide
 ## Purpose
 

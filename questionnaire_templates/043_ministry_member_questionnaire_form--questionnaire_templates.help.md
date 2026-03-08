@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information from ministry members regarding their contact details, communication skills, music skills, and other relevant information. It is used to assess their abilities and qualifications for certain roles or projects within the ministry. This form is not intended to be used for any other purpose. Please ensure that you are completing this form for the correct purpose.
-</thinking>
-
 # ministry_member_questionnaire_form - Help Guide
 ## Purpose
 The Ministry Member Questionnaire Form is used to collect information from ministry members about their contact details, communication skills, music skills, and other relevant information. This form is meant to assess their abilities and qualifications for certain roles or projects within the ministry.

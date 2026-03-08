@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about your website's marketing strategy and performance. It is intended for website administrators or marketers to provide an overview of their website's current marketing channels, target audience, and performance metrics. This form should only be completed by authorized personnel with knowledge of the website's marketing strategy and performance. Completing this form will help us gather data to inform future marketing decisions and improve the website's overall performance.
 
 </thinking>

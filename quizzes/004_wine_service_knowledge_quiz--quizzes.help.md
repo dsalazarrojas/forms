@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and skills of wine service professionals in the hospitality industry. It's essential to understand the context and purpose of this form to ensure accurate completion and meaningful results. This form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation created using public survey topic metadata. Please ensure you are familiar with the wine service industry and the specific questions and options provided.
-</thinking>
-
 # Wine Service Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate the knowledge and skills of wine service professionals, covering various aspects of providing exceptional wine service. It's crucial to complete this form accurately to assess your expertise and identify areas for improvement.

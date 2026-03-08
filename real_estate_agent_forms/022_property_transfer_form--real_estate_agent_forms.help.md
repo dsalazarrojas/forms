@@ -1,7 +1,3 @@
-<thinking>
-This form is used for recording property transfer details. Property transfer is the process of moving ownership of a property from one division to another within the organization. This form ensures that all relevant information about the transfer is accurately captured. It's essential to fill out this form carefully and accurately to avoid any confusion or miscommunication.
-</thinking>
-
 # Property Transfer Form - Help Guide
 ## Purpose
 This form is used to record the details of a property transfer, ensuring that all relevant information is captured accurately and efficiently. It helps in tracking and verifying the status of properties within the organization.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # residential_move_in_experience_survey - Help Guide
 
 ## Purpose

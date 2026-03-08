@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is likely to test the user's knowledge about different types of punctuation marks. The questions will guide the user through various punctuation marks, such as commas, periods, semicolons, apostrophes, and others.
-</thinking>
-
 # Punctuation Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess the user's understanding of punctuation marks. It will cover various types of punctuation and their correct uses in sentences.

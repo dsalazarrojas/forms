@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Paper Supply Quote Form - Help Guide
 
 ## Purpose

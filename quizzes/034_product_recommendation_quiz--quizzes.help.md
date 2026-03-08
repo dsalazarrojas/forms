@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about users' preferences and demographics to provide personalized product recommendations. It is likely used in the context of a beauty product recommendation system. The form is divided into several pages, each with its own set of questions. The form does not seem to have any duplicate fields, and all fields are clearly labeled and easy to understand.
-</thinking>
-
 # product_recommendation_quiz - Help Guide
 ## Purpose
 This form is designed to collect information about users' preferences and demographics to provide personalized product recommendations in the context of beauty products.

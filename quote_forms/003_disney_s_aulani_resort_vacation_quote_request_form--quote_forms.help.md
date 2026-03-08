@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users to request a quote from Disney's Aulani Resort for a vacation. The form is likely to be used by travel agents or travel companies who want to book a trip for their clients. 
-The form includes various fields that require information about the traveler, such as first name, last name, email, phone, and arrival and departure dates. 
-Other fields ask for information about the type of room, the number of adults and children, and the number of rooms. 
-The form also includes fields for special requests, arrival time, checkin date, and checkout date. 
-Additionally, it includes fields for meal plan, parking, and other custom requests.
-</thinking>
-
 # disney_s_aulani_resort_vacation_quote_request_form - Help Guide
 ## Purpose
 This form is for requesting a quote from Disney's Aulani Resort for a vacation.

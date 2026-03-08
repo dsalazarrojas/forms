@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive questionnaire for individuals to reflect on their life planning, focusing on various aspects of their personal and professional lives, such as goals, priorities, relationships, finances, education, and career development. It helps users assess their current situation and plan for their future. It's essential to complete this form carefully and honestly to ensure accurate results.
-
-This guide is intended for end-users to understand the form's purpose, complete it correctly, and get the most out of the assessment.
-
-</thinking>
-
 # Life Planning Survey - Help Guide
 ## Purpose
 This form is a comprehensive questionnaire to help you reflect on your life goals, priorities, relationships, finances, education, and career development. It will provide you with valuable insights into your current situation and help you plan for your future.

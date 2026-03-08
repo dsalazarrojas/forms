@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fee Waiver Follow Up Questionnaire - Help Guide
 ## Purpose
 The Fee Waiver Follow Up Questionnaire is designed to gather information about the changes that have occurred in a student's financial situation after a fee waiver has been granted. This form helps to ensure that the waiver is still valid and that the student's financial circumstances have not changed significantly.

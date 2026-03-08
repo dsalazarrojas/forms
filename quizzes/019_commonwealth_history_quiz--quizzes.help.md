@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test the knowledge of users about Commonwealth history, focusing on key events, figures, and policies that characterized the period. It is intended for people who wish to assess their understanding of this historical period. Before starting the quiz, please note that the form will be checking for the accuracy of the answers provided, and it is recommended to take your time to read the instructions and questions carefully. This quiz is not meant to be a comprehensive history course, but rather a way to gauge your understanding of the Commonwealth period.
-</thinking>
-
 # Commonwealth History Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of the Commonwealth history, a period that began in 1649 and ended in 1660. The quiz covers key events, figures, and policies that shaped this period. The form is divided into five sections: Early History, Political Structure, Military Conflicts, Economy and Society, and Bonus Questions.

@@ -1,12 +1,3 @@
-<thinking>
-The Language Theories Quiz form is used for collecting information about a user's linguistic background, including their knowledge of various language theories and their proficiency in languages. The form is designed to collect data for research purposes.
-
-This form is not intended for users to submit multiple entries. Please submit one entry per user.
-
-This form is intended for users who have a basic understanding of language theories and linguistic concepts.
-
-</thinking>
-
 # Language Theories Quiz - Help Guide
 ## Purpose
 The Language Theories Quiz form is a research tool used to gather information about a user's knowledge of various language theories and their proficiency in languages. The form is not intended for users to submit multiple entries, but for users to submit one entry per user.

@@ -1,11 +1,3 @@
-<thinking>
-Engineering team members should only submit this form if they have been asked to do so by their team lead or project manager. 
-Please note that this form is meant to provide insights into the engineering team's performance and progress towards project goals. 
-If you're unsure whether you should fill out this form, please reach out to your team lead or project manager for guidance. 
-This form should not be used for general team feedback or complaints. 
-If you have any suggestions or improvements, please use the project manager's feedback channel or team's internal collaboration tool for that purpose.
-</thinking>
-
 # engineering_insights_collection - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your expertise areas, challenges, recommendations, and progress towards project goals. It helps to get a comprehensive overview of your team's performance and identify areas where improvements are needed.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather data on an online quiz competition. It's likely being used to collect information on participants in the competition, their scores, and various other details. To ensure that the form is used correctly, we need to verify that the user understands the purpose and requirements of each field. We will review the form fields to ensure that they are not redundant or conflicting, and that the user has a clear understanding of what each field means.
-
-The "Online Quiz Competition" form consists of several fields that require different types of input from the user. We will break down each field to explain its purpose and how to complete it correctly.
-
-</thinking>
-
 # Online Quiz Competition - Help Guide
 
 ## Purpose

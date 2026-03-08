@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to measure prosocial behavior, which refers to the ability or tendency of individuals to show empathy, cooperation, and altruism towards others. This behavior is essential in social interactions, as it fosters positive relationships and contributes to community well-being. To ensure this form is used correctly and effectively, please confirm that:
-* The form purpose aligns with your organizational goals and objectives.
-* This form will not be used as a substitute for other assessment methods.
-
-</thinking>
 # prosocial_behavior_quiz - Help Guide
 ## Purpose
 This form is designed to measure prosocial behavior, which includes cooperation, empathy, and altruism towards others.

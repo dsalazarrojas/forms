@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to help users assess their knowledge of the Scrum framework, a popular agile project management methodology. This form is designed to gauge the user's understanding of various aspects of Scrum, including its core values, team roles, phases, and framework roles. The form is intended to be completed by users who have experience with Scrum or are seeking to learn more about it.
-
-To avoid duplication of efforts and ensure accurate assessments, it is recommended that users complete the form only once.
-
-</thinking>
-
 # scrum_framework_knowledge_quiz - Help Guide
 ## Purpose
 The scrum_framework_knowledge_quiz form is designed to evaluate your knowledge of the Scrum framework, a popular agile project management methodology. It covers various aspects of Scrum, including its core values, team roles, phases, and framework roles.

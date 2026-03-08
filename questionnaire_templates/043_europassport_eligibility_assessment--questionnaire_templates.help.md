@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assess the eligibility of an individual for the EuroPassport program. It is a crucial component of the application process, and its accuracy will impact the outcome of the assessment. The form will be reviewed internally to verify the provided information and assess the individual's eligibility for the program. Please ensure that you complete this form accurately and truthfully. Note that this form is for information purposes only, and the final decision on EuroPassport eligibility will be made by the internal evaluation team. Before proceeding, please review the following fields carefully to ensure that you provide the necessary information accurately.
-
-</thinking>
-
 # EuroPassport Eligibility Assessment - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's drinking habits, specifically whether they consumed alcohol on a particular day and the details of that consumption. This form will help to gather data on a daily basis.
-</thinking>
-
 # Daily Drinking Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's drinking habits on a daily basis.

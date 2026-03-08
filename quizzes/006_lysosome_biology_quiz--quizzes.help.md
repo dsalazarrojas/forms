@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to test a user's knowledge of lysosome biology, a critical cellular process involved in the breakdown and recycling of cellular waste. It will help gauge a user's understanding of the lysosome's role in cellular waste management, its distinction from other cellular structures like vacuoles, and the process of acidification in lysosomal biogenesis. This form is meant to be an assessment tool for students and educators to evaluate their knowledge on the subject.
-
-Please note that the form's content and questions are based on publicly available information on lysosome biology and are not affiliated with any form platform or proprietary data. The questions are designed to be concise and easy to understand, with options that clearly correspond to the provided information.
-
-The following guide will walk the user through the form's completion, field by field, to ensure they understand each question and how to answer it accurately.
-
-</thinking>
-
 # Lysosome Biology Quiz - Help Guide
 ## Purpose
 The purpose of this form is to test your knowledge of lysosome biology, a crucial cellular process. It consists of a series of questions that will help assess your understanding of lysosomal function, its differences from vacuoles, and the process of acidification.

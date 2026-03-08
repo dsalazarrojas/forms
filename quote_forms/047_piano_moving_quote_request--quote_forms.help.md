@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to gather information from customers who are requesting a quote for a piano moving service. The form will collect the customer's first and last name, email address, phone number, and other relevant details such as the type of move, move date, move location, and estimated distance. The form also has options for additional notes and special instructions. It's intended to be used by customers who want to get a quote for moving their piano, but not necessarily for other items as well. This form should not be used to gather quotes for moving other items such as furniture or boxes. The goal of this form is to provide a straightforward and concise way to get a quote for piano moving services.
-
-To determine if this form has been submitted before, you can check the "form_submitted" field, which will be populated with the timestamp of the last time the form was submitted.
-
-Note that this form is designed for customers who are likely to be individuals or small businesses looking to move a single piano, rather than large organizations or businesses moving multiple items.
-
-</thinking>
-
 # piano_moving_quote_request - Help Guide
 ## Purpose
 This form is designed to gather information from customers who are requesting a quote for piano moving services. Please fill out the form with your details to get an estimate of the moving costs.

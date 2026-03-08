@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients regarding their legal compliance needs. It is meant to be filled out by clients who are requesting a quotation for legal services. The form has multiple fields that require the client's name, address, email, phone number, services they require, and other specific legal services they may need. The form is divided into multiple pages, but all the fields are accessible from the start, allowing the user to fill out the form in any order they prefer. This form does not have a submit button, as the user simply fills out the form and it will automatically be submitted when they are finished filling it out.
-</thinking>
-
 # Legal Compliance Quotation Form - Help Guide
 ## Purpose
 The Legal Compliance Quotation Form is used to collect information from clients about their legal compliance needs. This information is used to provide a quotation for the services they require.

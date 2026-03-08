@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect customer success stories, which are used to showcase examples of how our customers have achieved their goals using our product or service. The purpose of this form is to gather detailed information about the customer's experience, including their company and contact information, the story's start and end dates, and any other relevant details.
-
-Before filling out this form, please make sure that you haven't already provided a similar story in the past and that it's not a duplicate of an existing story. This will help us to keep our stories diverse and ensure that we're showcasing a range of customer experiences.
-
-The form is divided into multiple pages, and each page has a unique ID. Please make sure to fill out each page in order, as they are connected and dependent on each other.
-
-This help guide is designed to walk you through each field on the form, so you can easily understand what information is required and how to fill it out correctly.
-
-</thinking>
-
 # Customer Success Story Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect customer success stories, which are used to showcase examples of how our customers have achieved their goals using our product or service.

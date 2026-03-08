@@ -1,7 +1,3 @@
-<thinking>
-This form is a questionnaire template designed to collect information about a person's hair characteristics and preferences for a hair consultation. It will likely be used in a salon or hair stylist's office setting to gather input from clients before performing a haircut or providing hair advice. The form asks about hair length, texture, color, style, and preferred style/color, as well as the client's goals and problems with their hair. It also includes an open-ended field for any additional hair goals or concerns.
-</thinking>
-
 # Hair Consultation Quiz Template - Help Guide
 ## Purpose
 This form is a questionnaire template designed to collect information about a person's hair characteristics and preferences for a hair consultation.

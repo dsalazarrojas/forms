@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing help guide for the "Real Estate Data Privacy Opinion Survey" form. The purpose of this form is to collect opinions from users on the privacy of real estate data. The form is not a required form, and users are free to provide their opinions on a voluntary basis. The form contains four fields: Real Estate Data Privacy Opinion Survey, Consent, Risk Rating, Risk Description, and Risk Awareness. Each field is designed to gather specific information from users, and the form is meant to be completed in a straightforward and efficient manner.
-</thinking>
-
 # Real Estate Data Privacy Opinion Survey - Help Guide
 ## Purpose
 This form is a user-facing survey that gathers opinions on the privacy of real estate data. It is not a required form, and users can complete it on a voluntary basis. The information collected will help us understand users' perspectives on real estate data privacy.

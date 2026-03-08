@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Request A Free Estimate - Help Guide
 
 ## Purpose

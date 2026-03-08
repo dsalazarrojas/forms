@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge user preferences and characteristics. It's likely used to collect anonymous or personal data for market research, surveys, or personality tests. To prevent duplication, ensure that the form is not filled out by a single user more than once. If you're unsure which raptor suits you, this form can help.
-</thinking>
-
 # which_raptor_suits_you - Help Guide
 ## Purpose
 The form is a survey meant to help us learn more about what type of raptor you're interested in, based on your preferences and characteristics.

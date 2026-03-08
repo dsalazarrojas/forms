@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "digital_marketing_quiz_template" form is to collect information from users about their roles and experience in digital marketing. This form likely helps to gauge the target audience's familiarity with digital marketing concepts and determine their suitability for a related educational program, course, or resource.
-
-Before starting the form, ensure that you're not repeating the quiz on your platform. The form should only be completed once by each individual user.
-
-The form will guide the user through two sections: a brief introduction and two questions about their role and experience in digital marketing.
-
-</thinking>
-
 # digital_marketing_quiz_template - Help Guide
 ## Purpose
 The "digital_marketing_quiz_template" form is designed to collect information about your role and experience in digital marketing. This will help us understand your background and provide relevant educational content.

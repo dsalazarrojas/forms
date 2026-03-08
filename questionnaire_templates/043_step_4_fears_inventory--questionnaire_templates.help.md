@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for use in Step 4 of a survey or questionnaire. It's an inventory of fears, which might seem unusual, but it's used to gather information about the participants' anxieties or apprehensions related to specific aspects of a topic or industry. The purpose of this form is to collect data about the fears people have, which can be used to identify common concerns and areas for improvement. Before proceeding, it's essential to review the form and ensure that you're not duplicating existing data or answering questions you've already addressed in previous steps. This form is not affiliated with any form platform, and it's an original creation based on public survey topic metadata.</thinking>
-
 # Step 4 Fears Inventory - Help Guide
 ## Purpose
 The Step 4 Fears Inventory form is designed to collect information about your fears and anxieties related to the topic or industry being surveyed. It's a series of text fields that ask you to describe your concerns and worries.

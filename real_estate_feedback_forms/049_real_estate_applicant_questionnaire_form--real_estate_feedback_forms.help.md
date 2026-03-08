@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from home buyers who are applying for a real estate loan. The form asks for personal contact information, employment status and history, income and employment details, loan details, and other relevant information. This form aims to gather a comprehensive understanding of the applicant's background and financial stability to facilitate the loan application process. Please note that the form requires a minimum amount of information to be filled out completely. If the applicant's circumstances change, they may be contacted for further information. Ensure that you fill in the form accurately and completely.
-
-This guide is for users who are filling out this form. Please follow it carefully to ensure that you provide the required information and avoid any errors. If you have any issues or concerns, please contact our support team.
-</thinking>
-
 # real_estate_applicant_questionnaire_form - Help Guide
 ## Purpose
 This form is designed to collect information from home buyers who are applying for a real estate loan.

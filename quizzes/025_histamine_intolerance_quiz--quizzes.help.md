@@ -1,7 +1,3 @@
-<thinking>
-This form is used to help users identify whether they might be experiencing histamine intolerance, a condition where the body has trouble breaking down histamine, a chemical found in fermented foods. The form will help users determine if their symptoms match common signs of histamine intolerance. To avoid duplication, users should not fill out this form if they have already been diagnosed with histamine intolerance or have a doctor's diagnosis.
-</thinking>
-
 # Histamine Intolerance Quiz - Help Guide
 ## Purpose
 This form helps users identify whether they might be experiencing histamine intolerance, a condition characterized by symptoms like hives, stomach cramps, and fatigue after consuming certain foods.

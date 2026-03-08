@@ -1,10 +1,3 @@
-<thinking>...
-The purpose of this form is to assess an employee's retirement plans, benefits, and concerns in the public service. The form is designed to help employees understand their retirement options and make informed decisions about their retirement planning. To ensure accurate completion, please carefully review each field and select the relevant information. To avoid duplication, it's recommended to only provide information that is not already available in the system.
-
-Please note that this form is not intended to be a comprehensive guide to retirement planning, but rather a tool to gather specific information for the purpose of this assessment.
-
-</thinking>
-
 # Public Service Retirement Assessment - Help Guide
 
 ## Purpose

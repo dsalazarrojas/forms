@@ -1,7 +1,3 @@
-<thinking>
-This form is used for participants to register and provide information for a charity run tournament. The purpose of this form is to collect necessary details from participants, including their personal information, race information, and fundraising goals. This form should only be filled out by individuals who are registering for the charity run and are interested in participating. Please note that some fields are optional, and participants should only fill out what is required for their specific situation.
-</thinking>
-
 # Charity Run Tournament Entry Form - Help Guide
 ## Purpose
 This form is used to register and provide information for a charity run tournament.

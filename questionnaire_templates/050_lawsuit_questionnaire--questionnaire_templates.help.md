@@ -1,13 +1,3 @@
-<thinking>**Internal Reasoning Block**
-
-The Lawsuit Questionnaire form is designed to collect information about a lawsuit, including the plaintiff and defendant's contact information, case details, and medical information. This form is intended to be filled out by individuals involved in a lawsuit or their representatives. The purpose of this form is to gather all relevant details about the lawsuit in a structured and easily accessible way.
-
-The form is designed to be self-explanatory, but it's essential to note that some fields may require additional information or clarification. The required fields are identified as "required" in the form metadata, indicating that these fields must be completed for the form to be considered valid.
-
-Before completing the form, ensure that you have all necessary information and permissions to fill out the fields accurately and completely. If you're unsure about any field or require clarification, please contact the relevant authorities or the individual responsible for managing the form.
-
-</thinking>
-
 # Lawsuit Questionnaire - Help Guide
 ## Purpose
 The Lawsuit Questionnaire is a tool used to collect information about a lawsuit, including plaintiff and defendant details, case status, and medical information.

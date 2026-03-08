@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # house_painting_estimate_form - Help Guide
 ## Purpose
 This form is used to collect information for a house painting estimate. It is intended to gather details about the customer's job address, contact number, and painting services required. The form also asks for the estimate date, painter's name, and painting color. The estimate price and accepted status are included for finalization and confirmation.

@@ -1,14 +1,3 @@
-<thinking> 
-This form is designed to gather feedback from renters about their experience with a rental property. The form is intended to be completed by tenants who have rented or are currently renting a property, and it aims to collect their opinions and comments about their overall experience. The form will help landlords and property managers understand what they are doing well and where they may need to improve in order to provide better services and facilities to their tenants. It is recommended that this form be completed by tenants who have recently moved out or are about to move out of the property to provide the most accurate and up-to-date feedback. The form does not contain any duplicate fields, and each field is designed to collect specific and relevant information.
-
-This form consists of 25 fields, divided into different sections for different topics. Each field is carefully labeled and described, and the instructions provided should guide the tenant through the form completion process. Before starting to complete this form, please make sure to answer all questions based on your real experience with the property.
-
-Please ensure that you complete the form accurately and honestly, and do not leave any section blank unless you are unsure or have no opinion.
-
-It is recommended that you complete the form in one sitting, and take your time to read each question carefully before answering.
-
-</thinking>
-
 # Housing Survey - Help Guide
 ## Purpose
 

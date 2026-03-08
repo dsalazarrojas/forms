@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be an Interactive Learning Worksheet for students to engage with educational content. Its purpose is to provide a structured format for teachers to create a worksheet that includes lesson title, description, quiz questions, and space for students to submit their answers. The form can be used in various subjects, including Quizzes, Essays, and Projects, making it a versatile tool for educational settings.
-This help guide will cover the steps to complete the form and explain each field's purpose.
-</thinking>
-
 # Interactive Learning Worksheet - Help Guide
 ## Purpose
 The Interactive Learning Worksheet is a tool designed for students to interact with educational content in a structured format. It allows teachers to create a worksheet with lesson title, description, quiz questions, and space for students to submit their answers.

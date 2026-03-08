@@ -1,7 +1,3 @@
-<thinking>
-The jury qualification form is used to collect information about potential jurors, such as their name, contact details, and availability. This form is meant to be completed by individuals who are being considered for jury duty or have been selected for a specific case. It's essential to fill out the form accurately and completely to ensure that the information is up-to-date and relevant. Before proceeding, please ensure that you are not duplicating any existing records.
-</thinking>
-
 # Jury Qualification Form - Help Guide
 ## Purpose
 The jury qualification form is used to collect demographic and contact information from potential jurors. It helps to ensure that the information is accurate and up-to-date for the purposes of jury service.

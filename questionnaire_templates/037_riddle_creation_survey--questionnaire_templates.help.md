@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Riddle Creation Survey - Help Guide
 
 ## Purpose

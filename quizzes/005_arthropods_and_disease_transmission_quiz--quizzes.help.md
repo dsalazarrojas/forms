@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be designed to educate or test users about arthropods and disease transmission, specifically focusing on various aspects of arthropod-borne diseases, such as vectors, prevention methods, incubation periods, and climate change impacts. To ensure the form serves its intended purpose, I will verify its internal coherence and relevance to the specified category ("quizzes").
-
-The form's structure consists of 12 questions, each targeting different topics within the field of arthropod-borne diseases. The questions cover the definition of vectors, common diseases transmitted by mosquitoes, ticks, and other arthropods; prevention methods; incubation periods; and the role of climate change in disease transmission.
-
-Upon reviewing the form, I notice that some questions seem to be designed for educational purposes, while others may be more testing in nature. To create a comprehensive help guide, I will provide an overview of the form's purpose, step-by-step instructions, and explanations for each field. I will also highlight potential areas for clarification or refinement.
-
-</thinking>
-
 # Arthropods And Disease Transmission Quiz - Help Guide
 ## Purpose
 This quiz is designed to educate users about arthropod-borne diseases, covering vectors, prevention methods, incubation periods, and the impact of climate change on disease transmission. The quiz aims to promote awareness and understanding of the diseases transmitted by arthropods and the importance of preventing their spread.

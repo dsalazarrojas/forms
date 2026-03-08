@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to guide users through a series of questions related to threat modeling, a process used to identify and mitigate potential threats to a system or application. This form is likely part of a larger risk assessment process and is intended to help users evaluate their understanding of threat modeling concepts, practices, and methods. The form's structure suggests it is designed for educational or training purposes, possibly as a quiz or assessment tool.
-</thinking>
-
 # threat_modeling_quiz - Help Guide
 ## Purpose
 The threat modeling quiz is designed to test your understanding of threat modeling concepts, practices, and methods. It is intended to be a comprehensive assessment of your knowledge in this area.

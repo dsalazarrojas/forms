@@ -1,13 +1,3 @@
-<thinking>
-To create a helpful guide for the user-facing Polynomial Factoring Quiz form, I need to understand the form's purpose and requirements. Based on the provided YAML input schema, it appears that this form is designed to test users' knowledge on polynomial factoring.
-
-The form consists of 11 fields, including a text input for the user to enter their answer, multiple select options, and text inputs for the user's answers. The form seems to be focused on understanding how users factor polynomials and their properties.
-
-The purpose of this form is likely to evaluate the user's ability to factor polynomials, check for binomials and other methods, identify constants, and verify if the factored form equals the original polynomial. It also checks if the polynomial is a perfect square.
-
-To create a user-friendly guide, I will break down the form into sections and explain each field in a clear and concise manner.
-</thinking>
-
 # Polynomial Factoring Quiz - Help Guide
 ## Purpose
 The Polynomial Factoring Quiz is designed to test your knowledge on factoring polynomials. This quiz will guide you through a series of questions to assess your ability to factor polynomials and identify their properties.

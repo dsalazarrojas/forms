@@ -1,5 +1,3 @@
-<thinking>...thinking...</thinking>
-
 # Wallets Recommendation Quiz - Help Guide
 ## Purpose
 The Wallets Recommendation Quiz is designed to help you find the perfect wallet based on your preferences and needs. It's a 10-question form that will guide you through different aspects of a wallet, such as size, material, color, price, style, purpose, features, budget, and submission of your preferred wallet type. Answer the questions honestly, and our quiz will recommend a set of wallets that best match your requirements.

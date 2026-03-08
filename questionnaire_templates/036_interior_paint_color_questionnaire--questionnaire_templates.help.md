@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an interior paint color questionnaire. The purpose of this form is to gather specific details about the room and the desired paint color scheme. Please ensure that you are familiar with the terms and concepts used in this form, such as "Monochromatic", "Complimentary", "Analogous", and "Triadic" color schemes. If you are unsure about any of these terms, please refer to a relevant resource or contact the relevant authority for clarification. This form is for informational purposes only and does not imply any commitment or obligation. Please note that some fields are optional, and you can skip them if not applicable. This form should only be filled out once for each room and color scheme.
-</thinking>
-
 # Interior Paint Color Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information for an interior paint color questionnaire.

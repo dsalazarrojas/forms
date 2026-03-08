@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that the form is not being reused for non-relevant purposes. To achieve this, let's analyze the form fields to understand its actual purpose. 
-The form seems to be designed for assessing English language proficiency, including various aspects like speaking, reading, listening, grammar, and vocabulary. It's likely that this form is intended for evaluating language learners or students. The fields related to "User ID," "Date," "Time," and "Phone Number" might be added for administrative purposes or data collection. However, these fields are not directly related to language proficiency.
-
-To confirm, the form's "English Proficiency Mock Test Results" section and fields like "Listening," "Reading," "Writing," "Speaking," "Listening Comprehension," "Grammar," and "Vocabulary" seem to be the core part of the form. These fields are likely used to assess language skills.
-
-We should confirm that this form is not intended for other purposes or misused as a general contact form. If that's correct, we can proceed with creating the help guide.</thinking>
-
 # English Proficiency Mock Test - Help Guide
 ## Purpose
 This form is designed to assess English language proficiency in various aspects such as speaking, reading, writing, listening, and vocabulary.

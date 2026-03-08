@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about rhythmic gymnastics events. It appears to be a questionnaire for athletes, coaches, or judges to record their scores, event details, and any additional notes. The form seems to be designed for a competition or evaluation context, possibly for tracking progress or results.
-Before proceeding, let's ensure that this form doesn't exist already in our system. If it does, we may need to review and update its content accordingly.
-</thinking>
-
 # rhythmic_gymnastics_ribbon_quiz - Help Guide
 ## Purpose
 The rhythmic_gymnastics_ribbon_quiz form is designed to collect information from athletes, coaches, or judges about rhythmic gymnastics events. It's meant to be used for competition purposes, such as recording scores, events, and notes.

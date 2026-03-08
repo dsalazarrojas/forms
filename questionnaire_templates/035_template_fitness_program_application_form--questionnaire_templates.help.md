@@ -1,5 +1,3 @@
-<thinking>...this form is intended to gather information from applicants interested in joining a fitness program. The form aims to determine their current fitness level, preferred program type, contact information, and commitment to the program. This will help the program administrators to assess whether the applicant is a good fit for the program and allocate resources effectively. It's crucial to note that this form is not for existing program members, but for new applicants. Please fill out the form accurately to ensure a smooth application process.</thinking>
-
 # Template | Fitness Program Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants interested in joining a fitness program. It will help the program administrators to assess whether the applicant is a good fit for the program and allocate resources effectively.

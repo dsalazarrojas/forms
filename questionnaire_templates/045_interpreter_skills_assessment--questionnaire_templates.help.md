@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to evaluate the skills and qualifications of interpreters, specifically in areas such as language proficiency, technical skills, and certification status. The form is designed to assess the interpreter's ability to communicate effectively, understand different languages, and possess necessary certifications and training. It is essential to complete this form accurately to ensure that the interpreter's skills align with the requirements of the organization.
 
 # Interpreter Skills Assessment - Help Guide

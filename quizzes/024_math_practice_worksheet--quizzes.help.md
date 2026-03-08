@@ -1,10 +1,3 @@
-<thinking>
-This form is for creating a math practice worksheet tailored to a specific grade level and math topic, allowing students to gauge their understanding and confidence in various math concepts.
-The form collects information about the student's name, grade level, and math topic, as well as their attachments and written work. The student can also rate their confidence level in solving math problems related to the selected topic.
-This guide will help users fill out the form correctly and effectively.
-
-</thinking>
-
 # Math Practice Worksheet - Help Guide
 ## Purpose
 This form is designed to create a customized math practice worksheet for students to assess their skills and understanding in different math topics and grade levels.

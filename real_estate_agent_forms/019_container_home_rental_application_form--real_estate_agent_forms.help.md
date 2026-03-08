@@ -1,8 +1,3 @@
-<thinking>
-Please verify that the form purpose is to collect personal information and rental history from applicants for a container home rental application.
-Please ensure that the form fields and requirements are correctly mapped to the form's purpose and relevant to the target audience.
-</thinking>
-
 # Container Home Rental Application Form - Help Guide
 ## Purpose
 This form is designed to collect personal and employment information from applicants for a container home rental application. It's used to assess the suitability of potential renters for container home rentals.

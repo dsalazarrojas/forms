@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participant information and feedback on the Ancient Egypt Architecture Quiz. To ensure the form is filled out correctly, participants must provide their full name and select one of the options for the first question. The second question requires a short answer, and the third question asks participants to rate their confidence level on a scale of 1 to 5. The last two fields are optional and allow participants to provide additional comments or feedback.
-</thinking>
-
 # Ancient Egypt Architecture Quiz - Help Guide
 ## Purpose
 This form is designed to collect participant information and feedback on the Ancient Egypt Architecture Quiz.

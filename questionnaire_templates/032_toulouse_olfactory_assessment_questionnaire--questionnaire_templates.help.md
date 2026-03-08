@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to assess an individual's olfactory (smell) abilities and experiences. The purpose of the form is to gather information about the individual's olfactory abilities, nasal discharge, and other relevant factors that might affect their ability to smell. This form will help healthcare professionals evaluate the individual's olfactory status and provide guidance for any necessary actions or further evaluation. It is recommended to fill this form for individuals who may be experiencing difficulties with their sense of smell. It is not intended to be a comprehensive medical evaluation, but rather a tool for initial assessment and guidance. Please note that this form is not intended for self-assessment, and it is recommended that healthcare professionals fill it out. 
-
-</thinking>
-
 # Toulouse Olfactory Assessment Questionnaire - Help Guide
 ## Purpose
 This form is used to assess an individual's olfactory (smell) abilities and experiences, gathering information that may help healthcare professionals evaluate their olfactory status and provide guidance for further evaluation or actions.

@@ -1,7 +1,3 @@
-<thinking>
-The Kart Racing Registration Form is designed to collect information from participants for a kart racing event. This form ensures that all necessary details are provided to ensure a smooth and organized event. Please note that the form is not meant for event organizers or administrators; it's for actual participants. Ensure you're using this form to register for the event, not to manage registrations or event settings.
-</thinking>
-
 # Kart Racing Registration Form - Help Guide
 ## Purpose
 The Kart Racing Registration Form is a simple and straightforward form designed to collect information from participants for a kart racing event. It helps the event organizers to manage registrations and keep track of the participants' details.

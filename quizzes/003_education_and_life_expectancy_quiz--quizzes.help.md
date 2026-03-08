@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Education And Life Expectancy Quiz - Help Guide
 ## Purpose
 This form is designed to gather information about how education impacts life expectancy. It consists of a series of questions that aim to measure the relationship between education and different aspects of life.

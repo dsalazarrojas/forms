@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Phone Vocabulary Assessment form is designed to collect information about a person's phone-related vocabulary and experience. The form is intended to be a quick and easy way to gather data on phone-related topics, such as telecommunications types, frequency bands, network types, service providers, call quality, and emergency numbers. This form will help users provide a clear understanding of their phone-related knowledge and will likely be used in a research or educational setting.
 
 # Phone Vocabulary Assessment - Help Guide

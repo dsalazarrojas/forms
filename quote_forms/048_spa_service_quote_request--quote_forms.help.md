@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Spa Service Quote Request" form. This form is used to collect information from customers who are requesting a quote for spa services. The purpose of this form is to gather relevant details about the customer's visit, including their name, email, phone number, service interests, and estimated visit time. The form also includes options for the customer to select services they are interested in, and to specify their preferred visit date and time. Additionally, the form includes fields for the customer to provide comments and notes about their visit.</thinking>
-
 # Spa Service Quote Request - Help Guide
 ## Purpose
 This form is used to collect information from customers who are requesting a quote for spa services. It includes fields for name, email, phone number, service interests, estimated visit time, and other relevant details.

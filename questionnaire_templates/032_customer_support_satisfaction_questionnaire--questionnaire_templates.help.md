@@ -1,11 +1,3 @@
-<thinking>
-This guide will help you understand the Customer Support Satisfaction Questionnaire form and its purpose. The form is designed to gather feedback from customers about their experience with the support service provided by our organization.
-
-The form is structured to collect information on various aspects of the support service, including the interaction type (e.g., phone, email, in-person), the quality of service provided, and the resolution time. It also allows for rating the service quality, whether the issue was resolved or not, and providing additional feedback. The purpose of this form is to help us understand how we can improve our customer support service.
-
-Before filling out this form, please ensure that the information you provide is accurate and relevant to your experience. If you've already filled out a similar form, please note that this form should not be filled out again, as your input is already recorded. However, if you have additional feedback or updates regarding your previous submission, please feel free to provide those as well.
-</thinking>
-
 # Customer Support Satisfaction Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from customers about their experience with the support service provided by our organization.

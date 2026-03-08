@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess knowledge about water treaties, a legal agreement between countries on the management of water resources. It is used for educational and research purposes. Please ensure that this form is relevant to your area of expertise and has not been already completed. If you are unsure, please consult with the relevant department or authority.
-</thinking>
-
 # Water Treaty Knowledge Quiz - Help Guide
 ## Purpose
 The Water Treaty Knowledge Quiz is a form designed to evaluate your knowledge about water treaties, which are legal agreements between countries on the management of water resources.

@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to create a movie quiz template that allows users to select a movie category, input the released year, director, movie title, main actor, and other relevant details. 
-This template is likely used for quizzes or surveys on movies, and the information gathered can be used to evaluate user responses or opinions about movies. 
-Please confirm that the form is for creating a movie quiz and that the provided YAML fields are accurate. If there are any changes needed to be made, let me know so I can assist in creating the correct form.
-
-</thinking>
-
 # Movie Quiz Template - Help Guide
 ## Purpose
 The Movie Quiz Template is a form designed to create a quiz or survey about movies. It helps in gathering information about movies, such as category, release year, director, and other details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # public_law_knowledge_quiz - Help Guide
 ## Purpose
 The Public Law Knowledge Quiz is a form designed to test the general knowledge of individuals in the field of public law. This form is not intended to be used in real-world legal settings, but rather as a educational tool to gauge the understanding of public law concepts.

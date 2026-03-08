@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting location-related information from users. It is part of the "real_estate_agent_forms" category. The purpose of this form is to help the user provide details about a site, allowing for easy selection and management. This form is intended for both mandatory and optional fields.
-</thinking>
-
 # site_selection_form - Help Guide
 ## Purpose
 This form is used to collect location-related information from users, helping in the selection and management of sites.

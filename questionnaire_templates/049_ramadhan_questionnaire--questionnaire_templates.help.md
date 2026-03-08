@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding their Ramadhan celebrations. The form will be used to gather data on meal plans, food drives, programs, schools, mosques, and other relevant details. This information will help in organizing and executing a successful Ramadhan celebration event. Please ensure that you have all the necessary details before filling out the form. Note that this form is not intended for duplicate entries or incomplete submissions. Ensure that you have all the required information and fill out the form accurately.
-</thinking>
-
 # Ramadhan Questionnaire - Help Guide
 ## Purpose
 The Ramadhan Questionnaire is designed to gather information from users regarding their Ramadhan celebrations. This form will help in collecting data on various aspects of the celebration, including meal plans, food drives, programs, and other essential details.

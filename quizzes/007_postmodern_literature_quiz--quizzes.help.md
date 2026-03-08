@@ -1,13 +1,3 @@
-<thinking> 
-The purpose of this form is to assess the user's understanding of postmodern literature, a literary movement that emphasizes experimentation, playfulness, and subversion of traditional notions of truth and representation. The form is designed to elicit responses to specific questions related to the characteristics and features of postmodern literature.
-
-To ensure the user is not completing the form without adequate understanding, I'll check for any potential issues:
-
-- The form is not affiliated with any form platform, ensuring that the responses are not influenced by any particular platform.
-- The form is released under the Creative Commons Attribution 4.0 (CC-BY 4.0) license, allowing for modification and sharing of the form.
-
-</thinking>
-
 # Postmodern Literature Quiz - Help Guide
 ## Purpose
 This form is designed to test the user's understanding of postmodern literature, a literary movement that emphasizes experimentation, playfulness, and subversion of traditional notions of truth and representation.

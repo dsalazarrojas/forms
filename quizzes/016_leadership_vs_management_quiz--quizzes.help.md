@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Leadership Vs Management Quiz - Help Guide
 
 ## Purpose

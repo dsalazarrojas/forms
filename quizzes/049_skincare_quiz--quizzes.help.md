@@ -1,5 +1,3 @@
-<thinking>...checking the form's properties for relevance and avoiding duplication... the form seems to be a simple quiz with four fields: "introduction", "skin_type", "concerns", and "recommended products". The form does not ask for any personal data, it only asks for user preferences regarding their skin type and concerns. It also has no required fields, which means users can fill it out at their own pace... considering this, the help guide should provide a clear and concise explanation of each field's purpose... no need for extensive explanations as it's a simple quiz... the help guide is ready...</thinking>
-
 # Skincare Quiz - Help Guide
 ## Purpose
 The Skincare Quiz helps us understand your preferences and needs regarding skincare. Answer the following questions to get personalized recommendations for your skin type and concerns.

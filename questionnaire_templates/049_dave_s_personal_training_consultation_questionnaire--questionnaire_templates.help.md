@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a comprehensive questionnaire designed for a personal training consultation, likely for a martial arts or fitness training program. The fields cover various aspects of the individual's personal details, training habits, and medical conditions. It seems to be used to gather information about an individual's name, contact information, medical conditions, training experience, goals, emergency contact, and preferences for training and nutrition.
-The form does not appear to be redundant, but rather a thorough assessment of an individual's needs and requirements. It seems to be designed for a professional setting, such as a gym or martial arts school.
-</thinking>
-
 # Dave's Personal Training Consultation Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to gather information about you and your preferences for a personal training consultation. Please answer the questions honestly to ensure that we can tailor a training program that suits your needs and goals.

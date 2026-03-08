@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Meeting Sign In Form is used to capture details and status of meetings attended by employees. This form is designed to ensure accurate and up-to-date information about meeting attendance, which is crucial for tracking employee participation and productivity. To confirm that this form is relevant and not a duplication of efforts, please ensure that you are not using an existing form with similar functionality.
 
 # Meeting Sign In Form - Help Guide

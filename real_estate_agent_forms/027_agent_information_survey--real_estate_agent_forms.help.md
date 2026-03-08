@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive help guide for this form, I'll need to understand the purpose of the form, which appears to be for real estate agents to provide information about themselves. The form seems to be designed to gather data about the agent's professional experience, education, and marketing strategies.
-
-The form appears to be relevant to the real estate industry, and it's likely that it's used to create or update agent profiles. It's also possible that the form is used for marketing or promotion purposes.
-
-However, I couldn't find any clear indication that the form is being used for internal duplication or non-duplication checks. It's possible that the form is designed to be filled out by agents only once, but I couldn't find any explicit information to support this.
-
-I'll assume that the form is intended to be filled out by real estate agents and that it's meant to be a one-time submission.
-
-</thinking>
-
 # Agent Information Survey - Help Guide
 
 ## Purpose

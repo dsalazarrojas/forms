@@ -1,6 +1,3 @@
-<thinking>
-We need to determine whether the form was completed for the correct purpose. Please confirm that this form is intended to collect customer feedback and ratings, and that it is not a duplicate of another form. If it is, please provide the correct form ID to avoid duplication of effort.</thinking>
-
 # Customer Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect customer feedback and ratings on various aspects of your business, including customer service, packaging, customer experience, product quality, and overall experience. It will help us understand our customers' perceptions and opinions, allowing us to identify areas for improvement and make informed decisions to enhance our services.

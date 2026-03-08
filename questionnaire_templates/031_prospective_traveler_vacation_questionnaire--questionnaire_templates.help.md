@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from prospective travelers about their upcoming vacation plans. The form is meant to help travel agencies understand the traveler's preferences, budget, and other relevant details to provide personalized services. Before filling out this form, please ensure you have not completed it before, as it may lead to duplicate or outdated information. Please answer the questions as accurately and thoroughly as possible to ensure that the travel agency can provide the best possible experience for you.
-</thinking>
-
 # Prospective Traveler Vacation Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from prospective travelers about their upcoming vacation plans. The purpose of the form is to help travel agencies understand the traveler's preferences, budget, and other relevant details to provide personalized services.

@@ -1,7 +1,3 @@
-<thinking>
-To provide guidance on how to correctly fill out a Detailed Service Request form, we need to consider the internal purpose of this form. The purpose of this form is to gather specific information about a service request from the service requester. The form's goal is to collect relevant details about their service needs and preferences. Before proceeding, please review the form to ensure it's not already filled out for a duplicate service request. If you've previously submitted a request, please don't resubmit the same request.
-</thinking>
-
 # Detailed Service Request - Help Guide
 
 ## Purpose

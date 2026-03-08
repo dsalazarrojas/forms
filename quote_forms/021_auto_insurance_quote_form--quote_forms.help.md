@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: The form "Auto Insurance Quote Form" is designed to collect relevant information from users to provide them with an insurance quote. It gathers essential details such as contact information, driver and vehicle information, and coverage options. This form is not designed for existing customers, as indicated by the "currently_insured" field, which is used to determine the eligibility of the user for a new policy. The fields are structured to guide the user through the quote request process, making it easy to understand and fill out. The form's structure ensures that users provide required information, making it a straightforward and efficient way to obtain an insurance quote. No duplication of fields is intended, as each field serves a distinct purpose in the quote request process. ...</thinking>
-
 # Auto Insurance Quote Form - Help Guide
 ## Purpose
 The Auto Insurance Quote Form is designed to collect information from users to provide them with an insurance quote. This form is intended for individuals looking to obtain an insurance quote, not for existing customers who already have an active policy.

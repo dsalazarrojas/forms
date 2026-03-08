@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the sales readiness of a fitness business. It is used to collect information about the business's operational and management systems, sales and marketing strategies, and other relevant details. This form is meant to be completed by fitness business owners or managers. Please ensure that this form is only completed by authorized representatives of the business and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Fitness Business Sales Readiness Questionnaire - Help Guide
 ## Purpose
 This questionnaire aims to assess the sales readiness of your fitness business. It will help us understand your business's operational and management systems, sales and marketing strategies, and other relevant details.

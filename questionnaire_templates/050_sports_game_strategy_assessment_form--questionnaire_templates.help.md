@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to assess an individual's or a team's sports game strategy. The form is designed to gather information on various aspects of the game strategy, including team preparation, game adjustments, team communication, overall strategy, pre-game planning, coaching approach, player morale, game situation, strategy development, team workload, player performance, and coaches' involvement. This form is not affiliated with any form platform and is a public adaptation created using AI.
-
-Before proceeding, please note that this form is a public adaptation of a survey template and is intended for general use. If you have any doubts or concerns about the form's purpose or content, please feel free to contact me at form@gic.mx.
-
-To ensure the accuracy and completeness of the response, please carefully review the form before submitting it. If you need assistance or clarification on any of the questions or fields, don't hesitate to reach out.
-
-Below is a detailed guide on how to complete this form:
-</thinking>
-
 # sports_game_strategy_assessment_form - Help Guide
 ## Purpose
 This form is designed to help assess an individual's or a team's sports game strategy.

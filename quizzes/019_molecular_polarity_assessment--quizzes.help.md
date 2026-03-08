@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Molecular Polarity Assessment - Help Guide
 ## Purpose
 The Molecular Polarity Assessment form is designed to evaluate the molecular polarity of a given molecule. It consists of 25 questions that cover various aspects of molecular polarity, including the type of bond, the electronegativity of the atoms, and the molecular structure. The form is intended for users to assess the molecular polarity of a molecule, providing a comprehensive understanding of its properties.

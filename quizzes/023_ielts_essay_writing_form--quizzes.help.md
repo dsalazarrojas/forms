@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IELTS Essay Writing Form - Help Guide
 
 ## Purpose

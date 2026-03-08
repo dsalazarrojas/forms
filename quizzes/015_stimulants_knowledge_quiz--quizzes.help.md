@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stimulants Knowledge Quiz - Help Guide
 
 ## Purpose

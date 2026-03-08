@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to capture information from end users related to performance management quizzes. Its purpose is to collect data that can be used to evaluate and improve employee performance. The form has three sections: Section One, Section Two, Section Three. Section One is a note section for general information, Section Two is a date section for scheduling purposes, and Section Three is a select multiple section for multiple-choice questions.
-
-The form is not intended to be a comprehensive performance management tool, but rather a simplified quiz that can be used to gather some basic information from users. It is designed to be completed by individuals and does not require any specific permissions or authentication to access it.
-
-The form has been created using public survey topic metadata as inspiration, and it is not affiliated with or endorsed by any form platform. The form is released under CC BY 4.0 and can be used, modified, and even sold, as long as credit is given.
-
-To avoid duplication, this form should only be used for performance management quizzes that have not already been created or collected using this specific form. Users should not attempt to create or use a similar form with the same name or purpose without proper attribution.
-
-</thinking>
-
 # performance_management_quiz - Help Guide
 ## Purpose
 This form is designed to gather information related to performance management quizzes from end-users.

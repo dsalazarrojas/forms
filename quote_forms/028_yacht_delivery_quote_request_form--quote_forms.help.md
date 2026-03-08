@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to capture information for a quote request related to yacht delivery. The form will gather relevant details to provide a quote for the delivery of a yacht. This form is not affiliated with any form platform, but rather an original adaptation created using AI-generated form code. The form's purpose is to collect information for a yacht delivery quote, and it's not meant to be a complex or extensive form. It's designed to be straightforward and easy to fill out.
-
-</thinking>
-
 # yacht_delivery_quote_request_form - Help Guide
 ## Purpose
 This form is designed to capture the necessary information for a quote request related to the delivery of a yacht. It will help you provide a quote for the delivery of your yacht, and make sure you have all the details correct.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for quote requests from clients seeking album printing services. It is intended for businesses that offer photo printing services, such as photography studios or printing houses. The form should only be used for quote requests and not for other purposes. Before submitting the quote request, please ensure that you have checked with the relevant departments to avoid duplication of efforts. 
-</thinking>
-
 # Album Printing Quote Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for quote requests from clients seeking album printing services. It's a crucial tool to help us better understand your printing needs and provide a quote accordingly.

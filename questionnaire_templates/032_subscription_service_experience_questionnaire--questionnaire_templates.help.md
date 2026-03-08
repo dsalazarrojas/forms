@@ -1,21 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for this form, I will first analyze the form fields to understand their purpose and relevance. Upon reviewing the YAML structure, I notice that the form is designed to gather information about a user's subscription service experience, covering various aspects such as contact information, subscription details, satisfaction score, and payment methods. The form is likely used for customer feedback, surveys, or subscription management purposes.
-
-Upon analyzing the form fields, I notice that the form can be divided into the following sections:
-
-1. Introduction: This section is not required and serves as an introduction to the form.
-2. Contact Information: This section is required and asks for the user's contact information, likely for follow-up purposes.
-3. Subscription Details: This section is required and collects information about the user's subscription status, type, length, and start/end dates.
-4. Feedback: This section is required and asks for the user's feedback, likely to gauge their satisfaction with the subscription service.
-5. Additional Comments: This section is not required and allows the user to provide further comments.
-6. Follow-up Actions: This section is not required and asks if the user wants follow-up actions from the customer service.
-7. Next Steps: This section is not required and asks for the user's next steps or plans.
-8. Customer Service: This section is not required and collects the user's contact information for customer service purposes.
-9. Review: This section is required and asks if the user would like to review the subscription service.
-10. Additional Comments 2: This section is not required and allows the user to provide further comments.
-
-</thinking>
-
 # Subscription Service Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback and information from users about their subscription service experience. It collects data on contact information, subscription details, satisfaction score, and payment methods, which will help us understand your needs and preferences.

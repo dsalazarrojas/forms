@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students for a biology quiz on chromosomes. The form has 10 sections, each asking a question related to chromosomes, such as the composition of chromosomes, number of chromosomes in humans, and types of chromosome abnormalities. The form also collects student information, including name, email, and class section, as well as additional comments. This form is likely used for academic purposes, perhaps for a biology class or exam.
-</thinking>
-
 # Chromosomes Biology Quiz - Help Guide
 ## Purpose
 This is a quiz designed to test your knowledge on chromosomes. Please answer the questions carefully and accurately.

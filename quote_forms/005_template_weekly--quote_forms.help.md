@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Template Weekly form is designed to collect information from customers for quote requests. It is intended to be used for customers who are inquiring about a service. The form is not required for customers to complete, but it helps to gather relevant information that will be used to provide a quote for the service requested. This form is part of the quote_forms category, which suggests that it is a standard template used for generating quotes. It is likely used by sales or customer service teams to quickly and efficiently gather information from customers and provide quotes for the requested service.
 
 </thinking>

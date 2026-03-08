@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information about a real estate agent's ethics certification status. It is intended to help real estate agents apply for certification or demonstrate their current certification status. The form should only be used by real estate agents. If you are not a real estate agent, please do not use this form. If you have already submitted this form, please do not resubmit. The form is used to capture detailed information about the agent's license, contact details, certification status, agreement, real estate school, and other relevant details. Please ensure that you answer all required fields truthfully.
-</thinking>
-
 # real_estate_ethics_certification_application - Help Guide
 ## Purpose
 This form is used to collect information about a real estate agent's ethics certification status.

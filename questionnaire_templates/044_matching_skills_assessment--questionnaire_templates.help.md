@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help users assess their matching skills by gathering information about their personal details, such as name, contact information, and professional experience. This form is designed to be a simple and straightforward way to collect relevant information, and it is not intended for any specific business logic or decision-making process.
-</thinking>
-
 # Matching Skills Assessment - Help Guide
 ## Purpose
 The Matching Skills Assessment form is a tool to collect information about your personal details, including name, contact information, and professional experience, to help match your skills with relevant opportunities.

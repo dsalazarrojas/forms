@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register a party, which is likely a social party or an event. 
-The purpose of this form is to collect information from party attendees.
-Please make sure to complete all required fields.
-The party registration template is a standard template used to register party attendees.
-</thinking>
-
 # party_registration_template - Help Guide
 ## Purpose
 The party registration template is used to collect information from party attendees.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Branding And Marketing Inquiry - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your client's branding and marketing needs. By filling out this form, you will be able to clearly communicate your goals, objectives, and requirements to potential partners or service providers in the branding and marketing field. This will help you to find the best fit for your project and get started with your branding and marketing journey.

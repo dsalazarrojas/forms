@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a couple's prenuptial agreement. A prenuptial agreement is a contract between two individuals planning to enter into a legally binding union, typically before marriage, to clarify and divide their assets, debts, and other property in the event of a separation or divorce. This form is designed to gather detailed information about the couple's financial situations and assets to help facilitate the process of creating a comprehensive prenuptial agreement.
-This form is intended for use by couples planning to get married or in a domestic partnership and is not intended for use in other contexts. The information collected through this form is not intended to be used as a substitute for professional legal advice.
-This guide is intended to be used in conjunction with the provided form fields and should not be used as a standalone resource.
-</thinking>
-
 # Prenuptial Agreement Questionnaire - Help Guide
 ## Purpose
 The Prenuptial Agreement Questionnaire is a form designed to collect detailed information about a couple's financial situation and assets to facilitate the process of creating a comprehensive prenuptial agreement.

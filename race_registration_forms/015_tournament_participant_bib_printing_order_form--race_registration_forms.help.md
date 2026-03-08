@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants in a tournament to create their bib printing order. This form is designed to be completed by participants to provide their details and preferences for bib printing. The form is divided into three sections: Participant Information, Bib Printing Requirements, and Printing Details. This form is intended to be completed by tournament participants and is not intended for use by administrators or other staff members.
-</thinking>
-
 # Tournament Participant Bib Printing Order Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and preferences for bib printing in a tournament.

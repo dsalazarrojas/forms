@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Teaching Methods Knowledge Quiz form is designed to help users assess their knowledge and understanding of various teaching methods. This form is used to gather information about the user's experience with teaching methods, including the specific questions, options, and evaluation criteria they are familiar with. This knowledge can be used to provide insights into the user's teaching skills and areas for improvement.
 
 # Teaching Methods Knowledge Quiz - Help Guide

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information about an individual's call model, specifically their name, contact information, and experience in the field. This form is used to assess an individual's qualifications and experience in providing call model services. This form will likely be used by clients or clients' representatives to gather this information from modelers or service providers. 
-
-The form has been designed to be completed by the individual being assessed, and the fields are intended to be straightforward and easy to understand. Each field is clearly labeled and should be completed according to the provided instructions.
-
-</thinking>
-
 # model_call_questionnaire - Help Guide
 ## Purpose
 The model_call_questionnaire form is designed to gather information about an individual's call model, including their contact information, experience, and rate.

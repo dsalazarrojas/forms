@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for customers to request a quote for bathroom furniture, providing details about their needs and preferences. Before proceeding, please ensure you have reviewed and understood the following:
-
-* The form is for requesting a quote, not for making an actual purchase.
-* The form will only be submitted once, so please ensure all required fields are complete before submitting.
-* If you're unsure about any field, it's better to err on the side of caution and ask for clarification before proceeding.
-
-</thinking>
-
 # Bathroom Furniture Quote Request Form - Help Guide
 ## Purpose
 This form helps customers submit their bathroom furniture quote requests, providing essential details for our team to provide an accurate quote.

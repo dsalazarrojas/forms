@@ -1,14 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form, titled "real_estate_project_appointment_request", appears to be designed for requesting appointments or meetings for real estate projects. The purpose of the form is likely to collect contact information and schedule details from users who want to meet with real estate professionals or agents. This form might be used by real estate companies, agencies, or agents to manage their schedules and meet with potential clients or partners.
-
-To ensure the form is being used correctly, it's essential to verify that:
-
-* The form is only used for legitimate real estate-related activities, such as project meetings or consultations.
-* The form is not used for spamming or marketing purposes.
-* The form is not duplicated or copied for personal use without proper permission or attribution.
-
-</thinking>
 # real_estate_project_appointment_request - Help Guide
 ## Purpose
 The real_estate_project_appointment_request form is designed to gather information from users who want to schedule meetings or meetings with real estate professionals or agents.

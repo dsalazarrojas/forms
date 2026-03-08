@@ -1,14 +1,3 @@
-<thinking>
-This is the internal reasoning process:
-
-The RBAC Quiz form is designed to assess users' understanding of Role-Based Access Control (RBAC), a crucial aspect of IT security. The form is divided into several pages, with multiple-choice questions, true/false questions, and free-text fields. To complete this form, users will be presented with a series of questions that test their knowledge of RBAC concepts, its benefits, and implementation. The form's purpose is to evaluate users' understanding and ensure they can apply RBAC principles in real-world scenarios.
-
-The form will cover various aspects of RBAC, including its access control models, permission assignment, and benefits. Each question will be carefully crafted to assess users' ability to think critically about RBAC and its applications.
-
-Before starting the form, make sure to review the instructions and the fields below to ensure you understand what each question is asking and what information is expected from you.
-
-</thinking>
-
 # RBAC Quiz - Help Guide
 
 ## Purpose

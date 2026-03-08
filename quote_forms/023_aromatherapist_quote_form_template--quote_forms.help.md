@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture essential information from clients seeking aromatherapy services. The purpose of this form is to understand the client's needs, preferences, and scheduling requirements for an aromatherapy service. The form is divided into several sections, each focusing on a specific aspect of the client's needs. This form is intended for clients who are seeking aromatherapy services, whether for relaxation and stress relief, pain management, energy and vitality, sleep improvement, immune support, or emotional balance. The form should not be used for other purposes, and filling it out should be a straightforward process for clients. Please ensure that the information provided is accurate and complete to help the aromatherapist provide the best possible service.
-
-</thinking>
-
 # Aromatherapist Quote Form Template - Help Guide
 
 ## Purpose

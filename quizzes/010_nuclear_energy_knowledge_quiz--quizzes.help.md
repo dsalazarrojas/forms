@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for this form, I need to understand the purpose and context of the "Nuclear Energy Knowledge Quiz" form. Based on the provided YAML schema, it appears that this form is designed for users to participate in a quiz related to nuclear energy, likely for assessment or educational purposes.
-
-The first page is an "introduction" page, but since it's a "note" type, it's likely a static page that provides some background information or instructions for the user. The second page, "quiz questions," is a select multiple type where users can choose from multiple options. The third page, "feedback," is a text type where users can provide additional comments or answers.
-
-To confirm, I will create a help guide that explains each field in a concise and practical manner.
-
-</thinking>
-
 # Nuclear Energy Knowledge Quiz - Help Guide
 ## Purpose
 The "Nuclear Energy Knowledge Quiz" form is designed to assess users' knowledge on nuclear energy-related topics. This form is likely used for educational or assessment purposes to gauge users' understanding of the subject matter.

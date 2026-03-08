@@ -1,8 +1,3 @@
-<thinking>
-This form is for listing properties for sale or rent in a real estate context. It's likely used by agents to provide property information to potential clients. The form should not be used for other purposes, such as customer service requests or general inquiries. This guide is a general explanation and may not cover all possible use cases. Review the form carefully to ensure it's the right tool for your needs.
-
-</thinking>
-
 # Real Estate Listing Form - Help Guide
 
 ## Purpose

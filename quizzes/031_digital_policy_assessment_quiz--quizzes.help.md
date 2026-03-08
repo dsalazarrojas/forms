@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide assumes that the Digital Policy Assessment Quiz is used to gauge users' understanding and awareness of digital policy guidelines.
 
 Before proceeding, please ensure that you are not taking this quiz as part of a duplicate or redundant process, and that you have not completed it previously. Completing this form multiple times may lead to inconsistent results.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to assess the user's knowledge on the hospitality industry, specifically their level of proficiency in various categories such as Front Desk, Housekeeping, F&B, and Engineering. The form is designed to collect information from employees on their current role, assigned tools, score, comments, and other relevant details. This form is likely to be used by hospitality industry professionals for evaluation and feedback purposes.
-
-To ensure that users do not complete the form unnecessarily, the form will only ask users who have not submitted it previously. This way, the form can be used to collect feedback or information from users who have not yet completed it, while avoiding duplication of effort.
-
-</thinking>
-
 # hospitality_knowledge_assessment - Help Guide
 ## Purpose
 The hospitality_knowledge_assessment form is designed to evaluate the knowledge and proficiency of hospitality industry professionals in various categories.

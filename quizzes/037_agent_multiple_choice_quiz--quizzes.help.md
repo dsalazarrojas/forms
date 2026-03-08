@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to assess an agent's knowledge and understanding of specific agency practices and procedures, providing a standardized quiz with multiple-choice questions to evaluate their competence in various areas.
-The quiz is used to:
-- Evaluate an agent's adherence to standard agency practices and procedures.
-- Identify areas where an agent may need further training or support.
-- Track agent progress and knowledge over time.
-The form is designed for agents to fill out on their own, with questions that cover a range of topics related to agency practices and procedures.
-</thinking>
-
 # Agent Multiple Choice Quiz - Help Guide
 ## Purpose
 This form is designed to help evaluate an agent's knowledge and understanding of standard agency practices and procedures.

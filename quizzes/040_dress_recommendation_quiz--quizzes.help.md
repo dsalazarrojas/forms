@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dress Recommendation Quiz - Help Guide
 
 ## Purpose

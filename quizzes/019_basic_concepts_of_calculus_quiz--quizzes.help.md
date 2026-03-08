@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be a basic understanding assessment of calculus concepts, specifically for students. This form will test their knowledge of limits, derivatives, integrals, and their applications. The form is divided into six sections, each focusing on a specific aspect of calculus: Student Information, Limits, Derivatives, Integrals, Continuity, and Application Problems. The form requires students to demonstrate their understanding of basic calculus concepts, such as limits, derivatives, and integrals, and how they are applied in real-world scenarios.
-
-The form is intended to be a self-assessment tool for students to gauge their understanding of these fundamental concepts. It is not affiliated with any specific form platforms and is an original adaptation of public survey topic metadata. 
-
-Please note that the form is designed for internal use and should not be used as a final assessment for academic or professional purposes. 
-
-The form is released under the Creative Commons BY 4.0 license, allowing users to freely use, modify, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # Basic Concepts Of Calculus Quiz - Help Guide
 ## Purpose
 

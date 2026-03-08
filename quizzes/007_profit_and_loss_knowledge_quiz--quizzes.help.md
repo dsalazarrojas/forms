@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Profit And Loss Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about profit and loss, a fundamental concept in finance. It will ask you three questions to evaluate your understanding of the relationship between income and expenses.

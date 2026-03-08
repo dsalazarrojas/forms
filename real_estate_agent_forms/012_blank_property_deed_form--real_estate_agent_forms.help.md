@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Blank Property Deed Form - Help Guide
 
 ## Purpose

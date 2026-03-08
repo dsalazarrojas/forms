@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to generate leads for e-commerce businesses, allowing users to gather contact information and sales performance data from customers. This form aims to simplify the lead generation process, making it easier for businesses to identify potential customers and improve their sales strategies. To avoid duplication of work, users can use this form to quickly capture relevant information without having to manually collect it through other means.
-</thinking>
-
 # e_commerce_lead_generation_quiz - Help Guide
 ## Purpose
 The e_commerce_lead_generation_quiz form is designed to help e-commerce businesses collect lead information from customers, enabling them to improve their sales and marketing strategies.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal reasoning block for this task explains why this form exists and what it is used for: This form is used to document the details of an in-class quiz, including whether the quiz questions were completed in class and whether the student has submitted their quiz. This information is important for tracking student progress and ensuring that students are completing all assigned quizzes.
 
 </thinking>

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to capture information about a sustainable materials quote request from a client. The fields in this form are meant to gather details about the project, including its location, contacts, and material requests. This form is likely to be used by suppliers or sales teams within an organization to collect information from clients and track their quote requests. To ensure that this form is completed correctly, please follow the guidelines below.</thinking>
-
 # Sustainable Materials Quote Request - Help Guide
 ## Purpose
 This form is used to collect information from clients about their sustainable materials quote request. It includes fields for project details, contact information, material requests, and submission status.

@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to explain the form purpose and checks for relevance and non-duplication ...
-
-The form is designed to collect information from applicants for an Elementary School Entrance Exam Quiz. The purpose of the form is to gather relevant details about the applicant, their parents, and their educational background to assess their eligibility for the exam. The form is likely used by school administrators or admissions officers to evaluate applicants for entrance into elementary school.
-
-</thinking>
-
 # Elementary School Entrance Exam Quiz - Help Guide
 ## Purpose
 The Elementary School Entrance Exam Quiz is a form designed to collect information from applicants for elementary school entrance. The form is used to gather details about the applicant, their parents, and their educational background to determine their eligibility for admission.

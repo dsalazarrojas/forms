@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's executive functioning skills. Executive functioning is a set of high-level cognitive processes such as planning, organization, time management, and self-regulation that are essential for everyday life tasks and activities. This quiz is intended to evaluate the respondent's ability to perform tasks that require executive functioning skills, such as planning, organization, and self-regulation. The questions are designed to be neutral and not specific to any particular individual or situation, ensuring a fair and unbiased assessment. This form is meant to provide an estimate of the respondent's executive functioning skills, not an absolute measure. Please note that this is a hypothetical example and may not be a real form or quiz used in actual assessments or evaluations. This guide is meant to help users understand the form's purpose and complete it accurately.
-</thinking>
-
 # Executive Functioning Quiz - Help Guide
 ## Purpose
 This quiz is designed to assess an individual's executive functioning skills. Executive functioning is a set of high-level cognitive processes such as planning, organization, time management, and self-regulation that are essential for everyday life tasks and activities.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form help guide, let's break down the form's purpose and potential issues to consider for the end-user. This form is designed to evaluate language acquisition, which can include language learning, language development, or language proficiency, for students in different settings, including schools, districts, or other learning environments. The form aims to gather information on various aspects of language acquisition, such as methods, levels, and goals. The form's sections and questions seem to cover a range of factors, including student demographics, language learning methods, and evaluation criteria. It's essential to ensure that the end-user understands the form's purpose and how to use it effectively.</thinking>
-
 # Language Acquisition Evaluation Form - Help Guide
 ## Purpose
 The Language Acquisition Evaluation Form is designed to assess and evaluate language acquisition progress for students, covering various aspects such as school type, student ID, language acquisition method, parental involvement, language level, age, learning goals, language use, and evaluation comments.

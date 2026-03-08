@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information from tenants regarding financial hardship, business details, and government programs. This information will help us understand the financial situation and status of the tenant's business, including their financial aid requests and hardship determination dates. Please answer the questions accurately and thoroughly to ensure that we receive the most complete and helpful information. This form must not be completed by non-tenants or duplicate submissions from the same tenant.</thinking>
-
 # Tenant Hardship Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information from tenants about their financial hardship situation, including business details, financial aid requests, and government programs.

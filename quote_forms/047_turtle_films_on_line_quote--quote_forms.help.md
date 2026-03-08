@@ -1,8 +1,3 @@
-<thinking>
-To provide context, the Turtle Films On Line Quote form is likely used for customers or clients to request a quote for a film or video production. This form would likely be used by the customer support team to gather the necessary information to provide a quote for a custom order. The internal reasoning behind this form would be to ensure that customers can quickly and easily provide the necessary details to receive an estimate of the cost and timeline of a film project without having to manually ask the customer for information, thereby improving customer satisfaction and the overall customer journey.
-
-</thinking>
-
 # Turtle Films On Line Quote - Help Guide
 ## Purpose
 This form is used to request a quote for a custom film or video production. Customers can fill out this form to provide the necessary information for the production team to provide a quote for their project.

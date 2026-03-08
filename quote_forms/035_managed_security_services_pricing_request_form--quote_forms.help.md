@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients or customers who are interested in requesting a quote for the managed security services provided by the company. The purpose of this form is to gather relevant details about the client's request, including their name, email, phone number, preferred managed security services, and pricing request details. This information will be used to generate a quote for the client.
-The form is composed of 11 fields, each with its own specific purpose and required/optional status. To avoid duplication or miscommunication, it is essential to ensure that all relevant fields are filled out accurately and completely.
-</thinking>
-
 # Managed Security Services Pricing Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients or customers who are interested in requesting a quote for the managed security services provided by the company. This information will be used to generate a quote for the client.

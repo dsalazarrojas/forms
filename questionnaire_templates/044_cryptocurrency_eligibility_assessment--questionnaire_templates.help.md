@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cryptocurrency_eligibility_assessment - Help Guide
 
 ## Purpose

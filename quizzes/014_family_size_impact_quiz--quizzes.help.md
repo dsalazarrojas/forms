@@ -1,11 +1,3 @@
-<thinking> 
-  This form is intended to be completed by individuals or households to assess the impact of their family size on various aspects of their lives, such as environmental footprint, financial situation, and stress levels. 
-  The form is designed to gather data on household characteristics, including size, income, and type of housing, as well as habits related to energy consumption, transportation, and financial contributions. 
-  The information collected through this form will be used to analyze the relationship between family size and various social and environmental outcomes. 
-  To ensure accurate data, please fill out the form carefully and honestly, and avoid duplicates. 
-  If you have any questions or concerns, please feel free to reach out to us for assistance. 
-</thinking>
-
 # Family Size Impact Quiz - Help Guide
 
 ## Purpose

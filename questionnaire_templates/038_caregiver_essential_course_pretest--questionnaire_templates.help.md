@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Caregiver Essential Course Pretest - Help Guide
 ## Purpose
 This form is designed to gauge the knowledge, skills, and experience of caregivers before they start the Caregiver Essential Course. The purpose of this pretest is to help the course developers understand the starting level of the learners and tailor the course content and structure to their needs. It is essential to fill out this form honestly and thoroughly to ensure you get the most out of the course.

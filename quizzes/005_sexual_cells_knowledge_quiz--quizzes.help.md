@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about the user's knowledge of cellular biology, specifically regarding cell types, membranes, nuclei, structures, transport, growth, division, death, and cell cycle stages. To confirm, this form is intended for educational or informative purposes, and the user's responses will help the system assess their understanding of these fundamental biological concepts.
 
 </thinking>

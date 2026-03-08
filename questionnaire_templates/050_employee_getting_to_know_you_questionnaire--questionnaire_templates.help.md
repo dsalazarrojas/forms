@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Getting To Know You Questionnaire - Help Guide
 
 ## Purpose

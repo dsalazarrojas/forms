@@ -1,9 +1,3 @@
-<thinking>
-
-The form's purpose is to collect information from users about their awareness and understanding of frostbite and their prevention methods. The form will be used for educational purposes and will help users assess their knowledge on frostbite, including their risk level, training needs, and awareness on prevention methods. It is expected that users will provide accurate and honest information to fill out the form completely and correctly.
-
-</thinking>
-
 # frostbite-awareness-and-prevention-quiz - Help Guide
 
 ## Purpose

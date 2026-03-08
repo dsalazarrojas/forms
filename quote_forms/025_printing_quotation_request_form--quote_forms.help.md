@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to request a quotation for printing services. It's designed to gather information about the customer's requirements for the printing job, including paper size, orientation, quantity, color, and any additional notes or contact details. This form should be used for internal purposes only and not for external publication. To avoid duplication, please ensure that you're not creating multiple quotations for the same printing job.
-</thinking>
-
 # Printing Quotation Request Form - Help Guide
 ## Purpose
 The Printing Quotation Request Form is designed to collect information from customers about their printing needs. It's essential to understand their requirements to provide an accurate quotation.

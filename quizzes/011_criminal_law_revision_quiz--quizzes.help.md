@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to help users assess their knowledge of criminal law concepts. The form will present a series of multiple-choice questions and ask the user to select the correct answers for each question. The questions cover various topics related to criminal law, such as the existence or non-existence of a crime, the location of a crime, the timing of a crime, and the method by which a crime is committed. 
-
-This form will likely be used in a self-assessment or testing environment, perhaps as a quiz or a diagnostic tool for law students or professionals looking to gauge their understanding of criminal law concepts. Before filling out this form, the user may want to review the questions carefully to ensure they understand the intent behind each one.
-
-To avoid submitting duplicate or irrelevant answers, it's essential to carefully review each question and its corresponding options before proceeding.
-</thinking>
-
 # Criminal Law Revision Quiz - Help Guide
 ## Purpose
 This form is designed to help users test their knowledge of criminal law concepts, covering topics such as the existence, location, timing, and method of crimes.

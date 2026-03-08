@@ -1,15 +1,3 @@
-<thinking>... 
-
-The purpose of this form is to gather information from patients before an appointment, specifically focusing on their COVID-19 status and any related medical conditions, travel history, and contact details.
-
-To ensure you complete this form accurately and effectively, please follow the steps below:
-
-1.  Review the form's instructions and guidelines carefully to understand what information is required and how to provide it.
-2.  Ensure you have all necessary information and documents before starting to fill out the form.
-3.  Fill out the form clearly and legibly, using the provided fields and labels as a guide.
-4.  Review and verify your answers before submitting the form.
-
-</thinking>
 # Interim COVID 19 Pre Appointment Screening Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from patients before an appointment, specifically focusing on their COVID-19 status and any related medical conditions, travel history, and contact details.

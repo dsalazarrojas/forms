@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Geography Practice Exam - Help Guide
 
 ## Purpose

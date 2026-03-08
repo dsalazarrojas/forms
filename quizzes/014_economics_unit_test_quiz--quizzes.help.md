@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Economics Unit Test Quiz, we need to first understand the purpose and requirements of this form. The form is designed to administer a test quiz to assess students' knowledge of economics units. Each section of the quiz will ask a series of questions to test the student's understanding of a specific topic or concept within the field of economics. 
-
-The form will have multiple pages (sections) that cover different topics, and each question or section will have options for the student to select from. Some questions are multiple-choice, while others are multiple-select. Students will be able to answer each question by selecting the correct option(s).
-
-</thinking>
-
 # Economics Unit Test Quiz - Help Guide
 ## Purpose
 The Economics Unit Test Quiz is a form designed to assess students' knowledge of economics units by asking a series of questions on various topics within the field of economics.

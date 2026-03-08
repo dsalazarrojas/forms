@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to help owners (or clients) assess their trauma and identify the specific services they need to address it. The form is designed to be flexible, allowing the owner to choose the services they need help with, and it's meant for use during the initial consultation phase. This form should only be used for this specific purpose and context, and users should not duplicate or use it in any other situation without proper authorization.</thinking>
-
 # Owner Trauma Assessment Survey - Help Guide
 ## Purpose
 The Owner Trauma Assessment Survey is a tool used to help owners assess their trauma and identify the specific services they need to address it. This form is designed to gather information on the owner's reasons for seeking services and the types of services they require.

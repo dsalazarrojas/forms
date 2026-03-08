@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form "Good Vs Bad Debt Game" is filled out correctly to provide a comprehensive analysis of debt. The form consists of 19 fields, each with a specific purpose. To get the most out of this form, users should carefully read and understand each field's purpose and requirements. If users are unsure about any field, they can refer to this help guide for clarification.
-</thinking>
-
 # Good Vs Bad Debt Game - Help Guide
 ## Purpose
 The "Good Vs Bad Debt Game" form is designed to help users analyze debt by categorizing it as "good" or "bad" debt. This game-like approach makes it engaging and fun while providing valuable insights into debt types and management.

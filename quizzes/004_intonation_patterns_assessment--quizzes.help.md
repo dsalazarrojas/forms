@@ -1,5 +1,3 @@
-<thinking>Let's break down the form purpose and required information for this form. I'll be checking for relevance and non-duplication of explanations.</thinking>
-
 # Intonation Patterns Assessment - Help Guide
 ## Purpose
 The Intonation Patterns Assessment form is designed to gather information from users on their intonation patterns, which is crucial for assessing and identifying patterns in musical performances. This form is not a comprehensive music-related form and focuses specifically on assessing intonation patterns of users.

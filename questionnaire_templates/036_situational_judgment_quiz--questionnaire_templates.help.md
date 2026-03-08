@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Situational Judgment Quiz - Help Guide
 ## Purpose
 The Situational Judgment Quiz is designed to assess your ability to reason and respond effectively in various real-world scenarios. By completing this quiz, you will be presented with several hypothetical situations that test your decision-making skills, critical thinking, and problem-solving abilities.

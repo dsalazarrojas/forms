@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for quote requests related to auto body parts. The form is intended to be completed by customers who are seeking quotes for replacement parts for their vehicles. The form is divided into sections for customer information, vehicle information, part details, and additional comments. Each section has its own set of fields designed to gather specific information about the customer, their vehicle, and the part they are looking for.
-
-When completing this form, it is essential to ensure that all required fields are filled out accurately and completely. Required fields are marked with an asterisk (\*). The form should only be submitted once per quote request.
-
-To avoid duplication, customers can check the "Quote History" page on our system to see if a quote for the same vehicle has already been requested and is still valid. If a quote for the same vehicle is found, the customer will be directed to the original quote and given the opportunity to update or cancel it.
-
-This form is intended to be a quick and easy way for customers to request quotes for auto body parts. By following these steps, customers can ensure that their quote request is processed efficiently and accurately.
-
-</thinking>
-
 # Auto Body Part Quote Request - Help Guide
 ## Purpose
 The Auto Body Part Quote Request form is designed to collect information from customers for quote requests related to auto body parts. This form helps us to provide accurate and quick quotes for replacement parts.

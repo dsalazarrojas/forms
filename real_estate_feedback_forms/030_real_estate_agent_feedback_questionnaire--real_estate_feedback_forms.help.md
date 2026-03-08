@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect feedback from real estate agents about their experience with clients. The form is intended to help identify areas of improvement and ensure that the agent's performance meets the highest standards. It should not be used for duplicate or irrelevant feedback, such as for agents who have already provided feedback on the same issue or for issues not related to real estate transactions.
-</thinking>
-
 # real_estate_agent_feedback_questionnaire - Help Guide
 ## Purpose
 

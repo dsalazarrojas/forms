@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Residential Life Weekly Report - Help Guide
 ## Purpose
 This form is used to collect feedback from residents on their experience and satisfaction with residential life, including their living area and meal options. The feedback will help us identify areas of improvement and make informed decisions to enhance the resident's life.

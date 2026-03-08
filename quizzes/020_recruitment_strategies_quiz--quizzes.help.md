@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block to ensure this form is being used correctly and to prevent duplication or irrelevant submissions. This form is designed to be completed by job seekers who are interested in applying for a job opening. The purpose of this form is to collect relevant information about the job seeker's qualifications, experience, and preferences to help the hiring manager to assess their eligibility for the job. To prevent duplication or incorrect submissions, please make sure to fill out this form carefully and only once. If you have already applied for the same job, please do not submit this form again. If you are unsure about any of the information, please refer to the job posting for clarification. ...</thinking>
-
 # Recruitment Strategies Quiz - Help Guide
 ## Purpose
 This form is designed to help job seekers apply for a job opening by collecting relevant information about their qualifications, experience, and preferences.

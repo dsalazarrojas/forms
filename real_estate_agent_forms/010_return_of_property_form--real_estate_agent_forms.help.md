@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the return of a property. The purpose of this form is to collect information about the return of a property, including its current status, reason for return, and other relevant details. This form is designed to gather accurate and complete data for the return process.
-</thinking>
-
 # return_of_property_form - Help Guide
 ## Purpose
 The "return_of_property_form" is used to collect information about the return of a property. This form helps to gather accurate and complete data for the return process, ensuring that all necessary details are captured.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for trainers to gather information from clients about their current fitness goals, experience, and availability for a strength training workout plan. The purpose of this form is to help trainers understand the client's needs and preferences, so they can create a personalized workout plan that suits them. This form should not be filled out by clients unless they are interacting with a trainer in a one-on-one setting. If you're a trainer, please use this form only for your own clients or in a similar capacity.
-</thinking>
-
 # Strength Training Work Out Plan Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients about their current fitness goals, experience, and availability for a strength training workout plan.

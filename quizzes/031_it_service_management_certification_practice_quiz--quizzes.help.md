@@ -1,17 +1,3 @@
-<thinking>
-This form is for users to practice their IT service management certification exam by simulating a real-world scenario with a series of questions. The purpose of this form is to test users' knowledge and skills in IT service management, specifically in areas such as incident management, problem management, change management, and service level management. This form is designed to be a comprehensive assessment tool for users who are preparing for the IT service management certification exam.
-
-Before starting, please note that this form has 20 questions in total, and you are expected to answer all of them. Each question has a specific format and type, and you should answer accordingly.
-
-Also, please be aware that some questions might be more challenging than others, and you might need to think critically and apply your knowledge to answer them.
-
-It's recommended to review the form carefully before starting and make sure you understand each question and its format.
-
-This form is not intended to be a timed test, but rather a practice exercise to help you assess your knowledge and skills in IT service management.
-
-You are advised to answer all questions to the best of your ability and submit your answers when you finish.
-</thinking>
-
 # it_service_management_certification_practice_quiz - Help Guide
 
 ## Purpose

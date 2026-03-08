@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes the user is accessing the Skin Type Assessment Quiz form to better understand their skin type and potentially receive personalized product recommendations. The form is designed to be optional and non-intrusive, allowing users to share information about their skin type and concerns without requiring them to commit to any specific product or follow-up action. 
-</thinking>
-
 # Skin Type Assessment Quiz - Help Guide
 ## Purpose
 The Skin Type Assessment Quiz is a form designed to help users determine their skin type and potentially identify products that may be suitable for their skin. This quiz is intended to be a helpful resource for users interested in improving their skin health.

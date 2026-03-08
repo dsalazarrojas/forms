@@ -1,13 +1,3 @@
-<thinking>... 
-
-The Gifted Student Assessment Questionnaire is designed to gather information about a student's background and educational experiences. This form is typically filled out by educators, caregivers, or students themselves to provide insight into a student's abilities, strengths, and needs.
-
-Before filling out this form, it's essential to ensure that the information provided is accurate and up-to-date. If you're an educator or caregiver, you may have already provided information about this student in the past. In such cases, please review and update the existing information as needed.
-
-When filling out this form, please complete each section with the most accurate information possible. Some fields may have specific options or choices that require you to select from a list. If you're unsure about any of the fields or options, you can always refer to this help guide for clarification.
-
-</thinking>
-
 # Gifted Student Assessment Questionnaire - Help Guide
 ## Purpose
 The Gifted Student Assessment Questionnaire is designed to gather information about a student's background and educational experiences.

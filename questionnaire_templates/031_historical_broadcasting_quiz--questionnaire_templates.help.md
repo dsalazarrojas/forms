@@ -1,13 +1,3 @@
-<thinking>
-This form is likely to be used to collect feedback or information from users, possibly in the context of a historical or educational setting. It's possible that the form is intended for users to provide their answers or opinions on historical broadcasting topics. The form might be used by historians, researchers, or educators to gather data for their studies or projects. The form's structure suggests a sequential or questionnaire format, which is often used for educational or research purposes. It's also possible that the form is used for user engagement or entertainment purposes, such as a quiz game or interactive experience.
-
-Given the options provided in the form, it appears that the form is intended to be completed by a single user at a time. The form does not seem to be designed for multiple users to fill out simultaneously. The "historical_broadcating_quiz" label is likely a placeholder and could be changed to better reflect the actual purpose of the form.
-
-The form has a mix of single-select and multi-select options, which suggests that the form is asking users to provide either a single answer or multiple answers to a question. The "note" field is likely intended for users to provide any additional comments or thoughts they may have.
-
-The form does not have any complex conditional logic or dependencies between fields, which suggests that it is a relatively straightforward and simple form.
-</thinking>
-
 # Historical Broadcasting Quiz - Help Guide
 ## Purpose
 This form is designed to collect historical broadcasting information from users. It is intended to be a quiz that tests users' knowledge on a specific topic.

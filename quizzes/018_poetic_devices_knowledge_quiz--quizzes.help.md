@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the user's knowledge of poetic devices, which are literary elements used by poets to convey meaning and create a specific effect. The form is meant to be completed by users with a basic understanding of poetry and literary devices. This form will not be used for any other purpose and is intended for internal use only, so please do not submit this form if you are not familiar with the basics of poetry.
-</thinking>
-
 # Poetic Devices Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of poetic devices, which are literary elements used by poets to convey meaning and create a specific effect.

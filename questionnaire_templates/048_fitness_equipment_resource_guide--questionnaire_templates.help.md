@@ -1,13 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "fitness_equipment_resource_guide" form, let's consider the form's purpose and each field's role in that purpose. 
-
-The form likely aims to gather information about users' fitness goals, equipment space requirements, budget, equipment preferences, and purchasing method for fitness equipment. The fields seem to cover various aspects of fitness equipment selection, which is essential for users to find the right equipment for their needs. This form likely serves as a starting point for users to identify their requirements and narrow down the options for choosing the best equipment for them.
-
-To prevent duplication, it's essential to consider that users may be filling out this form for the first time, so the guidance should be clear and concise. The form appears to be a collection of fields that help users articulate their needs and preferences. 
-
-Given this, the form's purpose is to guide users in selecting the most suitable fitness equipment for their specific needs. With these considerations, let's create the help guide below.
-</thinking>
-
 # fitness_equipment_resource_guide - Help Guide
 ## Purpose
 The "fitness_equipment_resource_guide" form helps you select the perfect fitness equipment for your needs, preferences, and environment. Fill out this form to determine the best fit for your goals and requirements.

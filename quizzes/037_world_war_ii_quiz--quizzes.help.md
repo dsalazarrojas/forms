@@ -1,9 +1,3 @@
-<thinking>
-We're going to create a user-facing help guide for the "World War II Quiz" form, which appears to be a comprehensive survey or quiz on various aspects of World War II. Before we start, let's confirm that the form is intended for users to provide general knowledge, geographical, historical, and military-related information about World War II. We'll also check to see if the form has any specific requirements or restrictions for users. Based on the provided YAML, it seems the form is quite extensive, covering topics like geography, history, military organizations, leaders, battles, and more. It's likely that users will be asked to select or input information in various formats (text, select_one, select_multiple). The form has no specific requirements or restrictions for users, making it accessible to anyone interested in the subject.
-
-Let's proceed with creating the help guide, focusing on the form's purpose, how to complete it, and a field-by-field explanation.
-</thinking>
-
 # World War II Quiz - Help Guide
 ## Purpose
 The "World War II Quiz" is a comprehensive survey designed to collect information about the Second World War. This form asks users to provide general knowledge, geographical, historical, and military-related details about World War II.

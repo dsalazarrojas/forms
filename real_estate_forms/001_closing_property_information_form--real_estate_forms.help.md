@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect property closing information. To ensure the correct completion of this form, please confirm that you are the authorized representative of a real estate transaction. This form should only be filled out once for each closing transaction and not duplicated for other unrelated properties.
-The form gathers crucial data about the property, including address, sale price, seller's contact information, and closing date. Please be aware that some fields are required and others are optional. Optional fields, such as year built and square footage, are meant to provide additional information but are not mandatory.
-</thinking>
-
 # Closing Property Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a property during a closing transaction. It ensures that all relevant details are documented and verified for accurate record-keeping.

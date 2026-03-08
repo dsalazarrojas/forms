@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ocean-series-competitor-registration - Help Guide
 
 ## Purpose

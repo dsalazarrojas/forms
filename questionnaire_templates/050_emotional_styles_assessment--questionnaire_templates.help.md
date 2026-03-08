@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emotional Styles Assessment - Help Guide
 ## Purpose
 The Emotional Styles Assessment is a tool used to help individuals better understand their emotional styles, patterns, and levels. It's designed to provide insight into how people perceive and express their emotions, which can be useful for personal growth, team development, and organizational improvement.

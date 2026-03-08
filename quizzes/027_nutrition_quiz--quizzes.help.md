@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users to help them track their nutrition and health goals. It is intended for individuals who want to monitor their dietary habits, exercise frequency, and other health-related factors. This form is not intended for medical professionals or for individuals with severe medical conditions. Please ensure that you are filling out this form correctly and honestly, as the information will be used to provide personalized recommendations. If you have any medical conditions or concerns, please fill out the relevant fields accurately and seek professional medical advice if necessary.
-</thinking>
-
 # Nutrition Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about your nutrition and health goals.

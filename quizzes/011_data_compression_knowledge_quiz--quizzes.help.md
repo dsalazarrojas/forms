@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to assess a user's knowledge on data compression, specifically lossless and lossy compression methods. The form will ask a series of questions to gauge the user's understanding of various aspects of data compression, including the types of compression and methods used, as well as how they submit, share, and store data.
-
-The form is intended to be a quiz, and the questions will be multiple-choice or open-ended questions that require the user to provide a written answer.
-
-Before starting the quiz, please ensure that you have a good understanding of data compression concepts, including lossless and lossy compression methods, and that you are familiar with common tools and techniques used for data compression.
-
-Also, please note that this form is a self-assessment tool, and the answers provided will not be reviewed or graded by a teacher or instructor. The purpose of this form is to help you gauge your knowledge and understanding of data compression concepts, not to provide a formal assessment or evaluation.
-
-</thinking>
-
 # Data Compression Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge on data compression, specifically lossless and lossy compression methods.

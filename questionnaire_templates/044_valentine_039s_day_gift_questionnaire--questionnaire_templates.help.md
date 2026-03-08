@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Valentine's Day Gift Questionnaire - Help Guide
 ## Purpose
 This form is designed to help you gather information about your loved one's preferences for Valentine's Day gifts. By answering the questions below, you'll be able to suggest a thoughtful and personalized gift that will show your appreciation and love.

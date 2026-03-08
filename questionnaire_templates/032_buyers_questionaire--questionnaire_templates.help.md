@@ -1,15 +1,3 @@
-<thinking>
-We're going to assume that this form is part of a mortgage or real estate application process, and we'll provide an explanation for the form purpose and instructions on how to complete it.
-
-This form is likely used by buyers to provide information about their personal and property needs to real estate agents or lenders. It's designed to gather information about the buyer's background, financial situation, and property requirements.
-
-To avoid duplication, we'll check if a similar form has already been submitted by the same user. If a duplicate is detected, an error message will be displayed, and the user will be prompted to revisit the form.
-
-To ensure accurate and complete data, we'll provide step-by-step instructions on how to complete the form.
-
-
-</thinking>
-
 # Buyers Questionnaire - Help Guide
 ## Purpose
 This form is designed to help real estate agents or lenders understand your needs and provide a tailored experience for your home buying process. It will gather information about your personal details, financial situation, and property requirements.

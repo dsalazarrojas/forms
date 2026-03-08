@@ -1,12 +1,3 @@
-<thinking> 
-We'll need to create a help guide for a user-facing form that explains the Solow Growth Model Quiz. This form is used to assess the performance of an economic model, specifically the Solow Growth Model. The Solow Growth Model is a widely used model to study the behavior of output and employment in the long run. The quiz is designed to evaluate a user's understanding of the key concepts and mechanics of the model. 
-
-To avoid duplication, we'll assume that the user already has a basic understanding of the Solow Growth Model and its core concepts. 
-
-The form is divided into several pages, each with a set of questions that test the user's knowledge. The questions cover various aspects of the model, including its underlying assumptions, key parameters, and the relationships between different variables. 
-
-</thinking>
-
 # Solow Growth Model Quiz - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for interior design projects. It's likely being used by clients or users who are providing input on their design preferences. The form should not be completed by non-experts, and it's possible that it may be used in conjunction with other forms to collect more specific information. This form appears to be a comprehensive questionnaire covering various aspects of interior design projects, including personal details, project timelines, and design preferences.
-</thinking>
-
 # interior_design_questionnaire_form - Help Guide
 ## Purpose
 This form is designed to collect information for interior design projects.

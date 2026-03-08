@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # patriotism_and_national_identity_quiz - Help Guide
 ## Purpose
 This form is designed to collect opinions and thoughts on patriotism and national identity. It is intended to gather information on the values, responsibilities, and challenges associated with these topics.

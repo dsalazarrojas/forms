@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who want to inquire about hiring services. The form is likely used by delivery services to gather details about the client's needs, such as pickup address, delivery date and time, and other relevant information. This form should not be filled out if the client has already inquired about hiring services, as this would be a duplicate inquiry.
-</thinking>
-
 # Hire Inquiry Form - Help Guide
 ## Purpose
 The Hire Inquiry Form is a collection of fields that helps delivery services gather information from clients about their hiring needs. This form is designed to collect relevant details about the client's pickup address, delivery date and time, and other important information.

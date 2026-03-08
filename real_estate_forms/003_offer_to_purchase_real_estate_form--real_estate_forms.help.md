@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic real estate form designed to capture information from a buyer or potential buyer who is offering to purchase a property. The form likely serves as a template for real estate transactions, providing a structured way to collect relevant details. However, without further context, it's challenging to determine the specific purpose or intended use of this form within a particular business or organization. If you're unsure about the form's purpose or if it's a duplicate of an existing form, please review your organization's documentation or consult with the form's creator. Assuming this form is a custom adaptation, let's proceed with creating a user-facing help guide.
-</thinking>
-
 # Offer To Purchase Real Estate Form - Help Guide
 ## Purpose
 This form is designed to collect information from a buyer or potential buyer who is offering to purchase a property. It helps to gather essential details about the buyer and the property.

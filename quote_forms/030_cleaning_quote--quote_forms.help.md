@@ -1,5 +1,3 @@
-<thinking>...This form, named "Cleaning Quote," serves as a template for collecting information from customers about their cleaning needs. The purpose of this form is to gather details about the customer's preferences for cleaning services, including contact information, property specifics, desired cleaning frequency, and additional services. By collecting this information, the cleaning service can provide an accurate quote for the services requested... </thinking>
-
 # Cleaning Quote - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for end-users to complete a quiz on office laptop maintenance, which will test their knowledge on the correct maintenance practices for office laptops. This is a critical aspect of keeping office equipment in good working order and preventing technical issues. Please ensure you've completed all previous pages before submitting this form.
-</thinking>
-
 # Office Laptop Maintenance Quiz - Help Guide
 ## Purpose
 The Office Laptop Maintenance Quiz is designed to test your knowledge on the correct practices for maintaining office laptops. This quiz has multiple pages with a mix of multiple-choice and single-choice questions, and each question is crucial in keeping your office equipment in good working order.

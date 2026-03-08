@@ -1,9 +1,3 @@
-<thinking>
-We should check if there is a similar form in production to avoid duplication.
-Before we start, let's check if this form has been created before or if we have a similar form with a similar purpose. If it has, we can use that one instead.
-We are creating a form for users to take a training course, specifically the "learning_experience_personalization_survey". This form is designed to gather information about the user's learning experience, personalization preferences, and schedule availability. The form will be used to help us better understand the user's needs and provide a more personalized experience.
-</thinking>
-
 # learning_experience_personalization_survey - Help Guide
 ## Purpose
 The "learning_experience_personalization_survey" form is designed to gather information about your learning experience, personalization preferences, and schedule availability. This form will help us provide a more personalized experience for you.

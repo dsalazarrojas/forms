@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about Ischemic Heart Disease, a condition characterized by reduced blood flow to the heart muscle, leading to chest pain and other symptoms. This quiz aims to assess the user's understanding of the disease's causes, symptoms, risk factors, treatments, and impact on daily life. The form is designed to be completed by users who are likely healthcare professionals or students, providing a comprehensive overview of Ischemic Heart Disease.
-
-Before proceeding, please ensure that you have a basic understanding of the disease and its characteristics. If you have recently answered this form, please refrain from completing it again, as the answers will likely be identical.
-</thinking>
-
 # Ischemic Heart Disease Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge on Ischemic Heart Disease.

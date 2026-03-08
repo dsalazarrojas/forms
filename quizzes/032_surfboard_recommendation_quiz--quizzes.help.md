@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to help recommend a surfboard to a user based on their preferences and skills. This form is designed to collect information about the user's surfing experience, the type of waves they like to surf, and their personal preferences. The goal is to provide a personalized surfboard recommendation at the end of the form.
-The recommended questions cover various aspects of surfing, such as style, skill level, wave type, wave condition, wave height, wave speed, preferred board type, surf frequency, budget, surf area, recommended board type, size, speed, width, fin setup, fin size, leash type, leash size, wetsuit, booties, gloves, hoodie, and goggles. This form will help users find the best surfboard that suits their needs and preferences.
-It is essential to fill out the form accurately to receive an accurate recommendation.
-</thinking>
-
 # Surfboard Recommendation Quiz - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed for customers to provide details and information related to a repair estimation, allowing the customer to submit a quote request for the service. This form likely serves as a communication channel between the customer and the service provider, enabling the latter to gather necessary information to provide an accurate quote.
-
-Upon analyzing the provided YAML fields, it seems this form consists of three pages: "customer_details", "equipment_details", and "additional_details". The form does not require any specific formatting or conditional logic for page progression.
-
-Given this understanding, I'll create the help guide based on the provided fields.
-
-</thinking>
-
 # Repair Estimation Quote Form - Help Guide
 ## Purpose
 The Repair Estimation Quote Form is designed to collect information from customers for a repair estimation quote. This form helps us gather the necessary details to provide an accurate quote for the requested repair.

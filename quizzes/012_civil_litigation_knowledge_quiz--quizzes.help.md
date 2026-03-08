@@ -1,17 +1,3 @@
-<thinking>
-The internal reasoning block for this form is as follows:
-The Civil Litigation Knowledge Quiz is designed to test the knowledge of law students, paralegals, and lawyers in the field of civil litigation. This form aims to gauge their understanding of various topics related to civil procedure, including pleadings, motions, discovery, evidence, trial procedure, appeals, and alternative dispute resolution. The quiz consists of 15 multiple-choice questions that cover different aspects of civil litigation, such as the steps involved in civil litigation, the discovery process, and the role of various legal professionals. The questions are designed to be clear and concise, with each option carefully crafted to ensure that respondents can understand and accurately answer them.
-
-To complete this form, please follow the instructions below:
-
-1.  Select a suitable answer from the options for each question.
-2.  Make sure to review your answers carefully before submitting the form.
-3.  Take your time to answer each question accurately.
-4.  If you are unsure or have any doubts, please seek clarification or ask for help.
-5.  Submit the form once you have completed all the questions.
-
-</thinking>
-
 # Civil Litigation Knowledge Quiz - Help Guide
 ## Purpose
 The purpose of this form is to test your knowledge of civil litigation, a branch of law that deals with lawsuits between individuals or organizations. This quiz will assess your understanding of various aspects of civil procedure, including pleadings, motions, discovery, evidence, trial procedure, and alternative dispute resolution.

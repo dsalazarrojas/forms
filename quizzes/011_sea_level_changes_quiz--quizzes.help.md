@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users about sea level rise, its causes, impacts, and mitigation measures. The quiz is a series of questions that aim to gauge the user's understanding of sea level rise and its associated effects. The form will likely be used in an educational or awareness-raising context, possibly in conjunction with a workshop or a course on sea level rise. This form should not be used for any other purpose than its intended educational use.
-</thinking>
-
 # Sea Level Changes Quiz - Help Guide
 ## Purpose
 This guide provides step-by-step instructions on how to complete the Sea Level Changes Quiz form.

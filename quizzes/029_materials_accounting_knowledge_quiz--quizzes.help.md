@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Materials Accounting Knowledge Quiz - Help Guide
 
 ## Purpose

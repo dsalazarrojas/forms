@@ -1,11 +1,3 @@
-<thinking> This form is used to assess and document the potential risks to critical infrastructure sites. Critical infrastructure sites may include power plants, hospitals, transportation hubs, water treatment facilities, and other essential services that, if damaged or disabled, could have significant consequences on the safety and well-being of the public. The purpose of this form is to evaluate and document the potential risks to these sites and identify areas for improvement. 
-
-Before completing this form, please ensure that you have a clear understanding of the site and its associated risks. This form is not intended to be a comprehensive risk assessment, but rather a quick and focused assessment to gather information on specific risks. It is recommended to use this form for routine risk assessments and site reviews.
-
-The form consists of 25 fields, which can be divided into two main sections: General Information and Site-Specific Risks. General Information includes fields related to facility location, name, ID, and contact information. Site-Specific Risks include fields related to risk assessment date, frequency, status, and comments. The form also includes fields for security concerns, risk levels, and controls. Each field is described below for clarity and completeness.
-
-Please note that the form is not intended to be a one-time event, but rather a continuous process to monitor and update site information and risks. It is recommended to use this form regularly to stay up-to-date with changing site conditions and risks.</thinking>
-
 # Critical Infrastructure Security Risk Assessment Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to assess and document potential risks to critical infrastructure sites.

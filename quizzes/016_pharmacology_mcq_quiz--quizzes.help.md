@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a simple multiple-choice pharmacology quiz. This form is likely used for educational purposes to test users' knowledge on pharmacology-related topics.
-</thinking>
-
 # pharmacology_mcq_quiz - Help Guide
 ## Purpose
 The "pharmacology_mcq_quiz" form is designed to be a simple multiple-choice quiz for testing users' knowledge on pharmacology-related topics. It is not a critical or high-stakes assessment, and is intended for educational purposes only.

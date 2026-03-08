@@ -1,7 +1,3 @@
-<thinking>
-We'll assume this form is used for evaluating the reliability of AI diagnostic models in a clinical setting. The form will gather patient information, details about the AI model, the clinician's assessment, and metrics on the reliability of the AI's diagnostic output. The form is likely used to monitor the performance of AI models and improve their reliability over time.
-</thinking>
-
 # AI Diagnostic Reliability Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the reliability and performance of AI diagnostic models in a clinical setting. It collects information from patients, the AI model, the clinician's assessment, and metrics on the AI's output.

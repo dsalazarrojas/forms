@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to be a Football Trivia Quiz to test the knowledge of football fans and enthusiasts. It consists of 24 questions about various aspects of football, including teams, players, and events. The form is designed to be completed by users who are interested in football and want to assess their knowledge on the subject. 
-
-It's worth noting that the questions are not necessarily "required" in the classical sense, meaning that users can answer as many or as few questions as they like, and there's no obligation to complete all questions. However, it would be ideal for users to attempt to answer all questions for the sake of completion and fun.
-
-</thinking>
-
 # Football Trivia Quiz - Help Guide
 ## Purpose
 The Football Trivia Quiz is a fun test of your knowledge about football. It consists of 24 questions about teams, players, and events, and is designed to be completed by football fans.

@@ -1,7 +1,3 @@
-<thinking>
-This form aims to create a simple comparison quiz to test users' ability to identify the larger and smaller numbers among a set of options. It seems like the form is targeting users who are new to integer comparisons or need a refresher. The form is designed to be brief and to the point, with a clear structure and minimal instructions. I assume this form is intended for educational or assessment purposes, possibly in a school setting.
-</thinking>
-
 # Integer Comparison Quiz - Help Guide
 ## Purpose
 This form is designed to help you practice comparing integers by selecting the larger and smaller numbers among the given options.

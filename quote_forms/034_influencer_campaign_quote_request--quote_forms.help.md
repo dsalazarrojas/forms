@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information from influencers about their campaign quote requests.
-We will be checking for relevance and non-duplication of requests to ensure the most accurate and efficient processing of your quote.
-We encourage you to review this guide carefully to ensure you understand each field's purpose and how to complete the form correctly.
-</thinking>
-
 # Influencer Campaign Quote Request - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The AI Reading Comprehension Quiz form is designed to assess users' ability to comprehend and analyze written texts. The quiz consists of three questions that test reading comprehension, critical thinking, and analytical skills. Users are presented with a passage and are asked to choose the best answer to three different questions: Main Idea, Supporting Detail, and Author Tone. Additionally, users are prompted to provide a short answer explanation of their choice. This form is intended to help users develop their reading comprehension skills and provide feedback for the quiz creator.
-</thinking>
-
 # AI Reading Comprehension Quiz - Help Guide
 ## Purpose
 This form is designed to assess users' ability to read and analyze written texts, specifically their ability to identify main ideas, supporting details, and author tone. It helps users develop their reading comprehension skills and provide feedback for the quiz creator.

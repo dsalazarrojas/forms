@@ -1,9 +1,3 @@
-<thinking>
-We are considering generating a help guide for a form with 22 questions, all of which are multiple-choice questions with 4 possible answers (A, B, C, D). The form is titled "Long Division Skills Assessment" and seems to be designed to evaluate students' long division skills. The form has a unique structure with 23 fields in total, each with a name, label, and type. The fields include text fields (student_name, student_email), select_one fields (question_1_result to question_22_result), and email fields (student_email). 
-The purpose of this form is likely to assess students' skills in long division, and the fields are designed to collect data from students about their name, email, and answers to long division questions.
-This form seems to be a comprehensive assessment of students' long division skills, but it may be too long and cumbersome for some users. However, it is likely designed to be completed by students who need to demonstrate their skills in long division.
-</thinking>
-
 # Long Division Skills Assessment - Help Guide
 ## Purpose
 The Long Division Skills Assessment form is designed to evaluate students' skills in long division. This form collects data from students about their name, email, and answers to long division questions.

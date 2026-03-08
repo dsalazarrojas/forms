@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting information about a retail supplier. The purpose of this form is to capture details about the supplier's company and contact person in charge. This form should only be completed when interacting with a new retail supplier.
-</thinking>
-
 # retail_supplier_interview_form - Help Guide
 ## Purpose
 The retail_supplier_interview_form is a questionnaire used to collect information from retail suppliers. This form is intended for use with new retail suppliers or when updating information for an existing supplier.

@@ -1,8 +1,3 @@
-<thinking>
-The Monat Hair Consultation form is designed to gather information from users regarding their hair and hair care needs. The form collects data about personal information, contact details, hair preferences, and other relevant details. This form is meant to be used by hair care professionals to schedule appointments and gather information to better serve their clients. It is intended for individual users, not for business or company purposes. It does not collect any sensitive or sensitive personal information. 
-
-</thinking>
-
 # Monat Hair Consultation - Help Guide
 ## Purpose
 The Monat Hair Consultation form is a tool designed to collect information from users regarding their hair and hair care needs, allowing hair care professionals to gather essential details for scheduling appointments and providing better service.

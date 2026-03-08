@@ -1,5 +1,3 @@
-<thinking>...checking internal form purpose and avoiding duplication...</thinking>
-
 # Geometry Exercise Response Form - Help Guide
 ## Purpose
 This is a form designed to collect responses to geometry exercises, typically used in educational settings. It is intended for individuals to provide their answers to a series of geometry-related questions.

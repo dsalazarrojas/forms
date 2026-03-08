@@ -1,7 +1,3 @@
-<thinking> 
-Is the user filling out a form to participate in a Christmas trivia quiz? This form seems to be a quiz consisting of multiple rounds with questions about various Christmas-related themes. The form requires users to provide personal and quiz-specific information. This form is likely intended to help the quiz administrators or creators understand the user's demographic data and their performance in the quiz. It's possible that this form is part of a larger online platform or application that hosts the quiz.
-</thinking>
-
 # Christmas Trivia - Help Guide
 ## Purpose
 This form is designed to collect participant information and demographic data for a Christmas trivia quiz. Users will be asked to provide their name, email address, age group, and other personal details. They will also be asked to participate in a series of trivia questions, each with a specific theme related to Christmas.

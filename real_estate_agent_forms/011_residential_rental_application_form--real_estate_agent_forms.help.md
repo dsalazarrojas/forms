@@ -1,11 +1,3 @@
-<thinking>
-
-This form was created to help residential rental applicants provide necessary information to landlords or property managers to facilitate the rental application process. 
-
-The following guide will walk you through the process of filling out this form to ensure accurate and complete submission. Please review each field carefully to ensure you provide the required information.
-
-</thinking>
-
 # Residential Rental Application Form - Help Guide
 ## Purpose
 The Residential Rental Application Form is designed to collect information from potential tenants to help landlords or property managers evaluate their eligibility for a rental property.

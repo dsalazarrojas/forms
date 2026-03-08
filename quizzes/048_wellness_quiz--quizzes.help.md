@@ -1,9 +1,3 @@
-<thinking>Before we create the help guide, let's review the form's purpose and fields. The form is called "wellness_quiz" and it appears to be a quiz that assesses various aspects of a person's wellness, including their sleep habits, nutrition, exercise frequency, stress levels, emotional health, mental health, and overall wellness. The form has multiple pages, but all the relevant fields are located on the intro page and subsequent pages, with some fields repeated on multiple pages. Each field has a specific label, type, and hint that should be taken into account when explaining each field to the user.
-
-The required fields are: age (page 2), nutrition_habit (page 4), exercise_frequency (page 5), emotional_health (page 7), mental_health (page 7), physical_health (page 9), and overall_wellness (page 10). Some fields have multiple options, like select_one or select_multiple, while others are simple text inputs. The form also has a submit field at the end, which is not required but still important for the user to complete the form.
-
-The help guide should aim to explain each field in a clear and concise manner, without assuming the user has any prior knowledge of the form's purpose or the underlying business logic. The guide should also be easy to navigate, with each field explained on a separate page or section.</thinking>
-
 # wellness_quiz - Help Guide
 ## Purpose
 The wellness_quiz is a form that helps you assess your overall wellness by answering a series of questions about your habits and feelings. It's designed to provide you with a better understanding of your current wellness status and help you identify areas for improvement.

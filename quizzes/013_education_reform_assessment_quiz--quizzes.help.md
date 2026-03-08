@@ -1,5 +1,3 @@
-<thinking>Internal form purpose: This form was designed by an AI using public survey data as inspiration. It aims to assess an individual's level of experience and comfort with various aspects of education reform, including their role in education, level of experience, communication preferences, and comfort with technology.</thinking>
-
 # Education Reform Assessment Quiz - Help Guide
 ## Purpose
 This form is designed to assess your level of experience and comfort with various aspects of education reform. It is a self-assessment tool to help educators and stakeholders better understand their knowledge and skills in this field.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the event planning questionnaire in a clear and concise manner. The form is designed to collect relevant information about an event, including the type of event, location, date and time, number of attendees, event budget, and a brief description of the event. This information will be used to help in planning and organizing the event effectively.
-
-It is expected that users will be familiar with the type of events they are planning, and the form is intended to be used for general purposes, not for specific event planning scenarios. Users should ensure that the form is not duplicated or filled out for multiple events simultaneously.
-</thinking>
-
 # Event Planning Questionnaire - Help Guide
 ## Purpose
 The Event Planning Questionnaire is a form designed to collect information about an event to help in its planning and organization.

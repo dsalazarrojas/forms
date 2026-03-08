@@ -1,13 +1,3 @@
-<thinking>
-
-The Poster Design Quotation Form is a tool used to gather information from clients about their poster design requirements. It helps the design team to get a clear understanding of the client's needs, making it easier to provide an accurate quote for the design work.
-
-To ensure that this form is used correctly and efficiently, please review the form's purpose and requirements before proceeding.
-
-This form should only be used for clients to request a quote for a new poster design project, not for existing project revisions or other types of projects.
-
-</thinking>
-
 # Poster Design Quotation Form - Help Guide
 ## Purpose
 The Poster Design Quotation Form is a tool used to gather information from clients about their poster design requirements, helping the design team provide an accurate quote for the design work.

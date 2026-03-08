@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect user opinions and insights on the topics of exclusion and discrimination. It is intended to gather information on the user's thoughts and feelings related to these issues. The form asks multiple questions that aim to explore different aspects of exclusion and discrimination, such as the reasons for their occurrence, how to address them, and common examples. This form is a tool for understanding and discussing these important social issues.
-
-Before starting the form, please note that the questions are designed to be thought-provoking and open-ended. Answer them in a way that feels comfortable and natural for you.
-
-</thinking>
-
 # quiz_on_exclusion_and_discrimination - Help Guide
 ## Purpose
 This form is designed to collect opinions and insights on the topics of exclusion and discrimination. It aims to gather information on users' thoughts and feelings related to these issues.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from clients or customers who are interested in scheduling a newborn photography session. The purpose of this form is to gather essential details about the baby, parents' preferences, photography session, contact information, and other relevant details for the photography session. This form is likely used in a context where a photographer is booking clients for photo shoots.
-
-This form is likely to be used for internal administrative purposes, such as organizing and scheduling photography sessions and ensuring that all necessary information is collected from clients.
-
-This form appears to be part of a larger system or application, and there is no obvious indication that it is a duplicate of another form with the same name.
-
-</thinking>
-
 # Newborn photography questionnaire - Help Guide
 ## Purpose
 The Newborn photography questionnaire is a form designed to collect essential information from clients or customers interested in scheduling a newborn photography session. This form helps the photographer to gather all necessary details for a successful and personalized photo shoot.

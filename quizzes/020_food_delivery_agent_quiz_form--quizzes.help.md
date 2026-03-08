@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from food delivery agents about their experiences and preferences. The purpose of this form is to collect data that can be used to improve the food delivery service. To ensure the form is completed accurately, it's essential to understand the context and relevance of each question. The following guide will help food delivery agents complete the form correctly and provide valuable insights.
-</thinking>
-
 # Food Delivery Agent Quiz Form - Help Guide
 ## Purpose
 This form is designed to gather information from food delivery agents about their experiences and preferences to help improve our food delivery service.

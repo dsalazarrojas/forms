@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Coaching Philosophy Intake Form" that explains its purpose, how to complete it, and each field in detail. I'll ensure the guide is clear, concise, and practical, and I'll use the provided YAML fields as the basis for the explanation.</thinking>
-
 # Coaching Philosophy Intake Form - Help Guide
 ## Purpose
 The Coaching Philosophy Intake Form is designed to help coaches reflect on their personal coaching philosophy, values, and approaches. This form will help us understand your coaching style, goals, and priorities, ensuring we can work together effectively and find the best fit for you and our organization.

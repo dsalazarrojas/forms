@@ -1,9 +1,3 @@
-<thinking>
-To ensure this form is filled out correctly and accurately, let's verify that the purpose of the form is to gather information from real estate agents and their clients about their COVID-19 related safety protocols and liabilities. This form is designed to help real estate agents and their clients understand and acknowledge the risks associated with in-person meetings and property showings during the pandemic. It also aims to protect both parties by releasing liability and agreeing to follow safety precautions. 
-
-The form collects information on the disclosure date, agent and client identification, brokerage information, property details, transaction type, and COVID-19 related risks and liabilities. It's essential to fill out this form accurately and thoroughly to ensure a smooth and safe real estate transaction.
-</thinking>
-
 # COVID 19 Real Estate Disclosure Form - Help Guide
 ## Purpose
 This form is designed to gather information from real estate agents and their clients about their COVID-19 related safety protocols and liabilities.

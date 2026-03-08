@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be related to updating lease renewal information, perhaps for a property management or real estate management system. The form likely requires users to update information such as lease end date, lease start date, lease length, rent frequency, rent amount, and other relevant details. To determine the correct answers, I need to analyze the provided YAML fields and understand their purpose. The options for select_one and select_multiple types are usually for yes or no answers, while date fields are for date-specific information. The form might be used by property agents or managers to update lease renewal information for clients. This form should be designed for users who are familiar with the subject matter, possibly including real estate or property management professionals. I will proceed to create the help guide based on this analysis. </thinking>
-
 # Lease Renewal Information Update Form - Help Guide
 ## Purpose
 This form is designed to update lease renewal information for properties. It's used to collect updates on the lease end date, lease start date, lease length, rent frequency, and other relevant details.

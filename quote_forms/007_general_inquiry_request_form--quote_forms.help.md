@@ -1,15 +1,3 @@
-<thinking>
-This form is used to collect general inquiries from customers, allowing business users to respond and resolve the inquiry. The purpose of this form is to provide a centralized platform for customers to submit their inquiries, which can be reviewed and addressed by assigned users. This form should only be used for non-urgent and non-sensitive inquiries, and it's essential to ensure that customers understand the response times and expectations around resolution.
-
-Before using this form, please ensure that you have not already submitted a similar inquiry, and that your submission is not a repeat of a previously submitted inquiry.
-
-To avoid duplication, please check our <a href="https://example.com/inquiry-list">inquiry list</a> before submitting a new inquiry.
-
-If you are unsure about which type of inquiry to submit, please refer to the <a href="https://example.com/inquiry-types">inquiry types</a> documentation.
-
-Please note that the form has several fields that are required for proper handling and resolution, such as the inquiry type, assigned user, submitted at, submitted by, customer confirmation, and assigned status.
-</thinking>
-
 # generalInquiryRequestForm - Help Guide
 ## Purpose
 This form is used to collect general inquiries from customers, which can be reviewed and addressed by assigned users.

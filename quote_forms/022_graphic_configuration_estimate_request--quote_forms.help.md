@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a graphic configuration estimate request from a submitter. This form is used to gather details about the project, including the design type, estimated budget, and submission deadline. The submitter must provide accurate information about their department and title, as well as any relevant notes or comments about the project. This form is likely used by a design team or agency to assess the feasibility and requirements of a project.
-
-Before proceeding, ensure you are familiar with the project requirements and have the necessary permissions to fill out this form.
-
-</thinking>
-
 # Graphic Configuration Estimate Request - Help Guide
 ## Purpose
 This form is used to collect information about a graphic configuration estimate request from a submitter. It will help us understand the project requirements and feasibility.

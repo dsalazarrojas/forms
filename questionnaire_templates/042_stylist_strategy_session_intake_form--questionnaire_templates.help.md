@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stylist Strategy Session Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients who are interested in booking a stylist strategy session. The purpose of this form is to help the stylist understand the client's preferences, goals, and context for the session, ensuring that the client receives the best possible service. To ensure that every client has a unique experience, please note that the form will not be processed if it is a repeat submission.

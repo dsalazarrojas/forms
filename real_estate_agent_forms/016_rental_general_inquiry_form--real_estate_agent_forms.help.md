@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from potential renters about their rental needs and preferences. The form is likely used by property managers or real estate agents to assess and respond to inquiries about available properties. The form collects personal contact information (first name, last name, and email), property type and size, desired move-in and move-out dates, and a brief message from the renter. This form does not appear to be designed for repeated submissions, as the `attachments` field is optional and not required, suggesting it's meant for one-time inquiries. To ensure accuracy, please review each field carefully to provide the most relevant information.</thinking>
-
 # Rental General Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential renters about their rental needs and preferences.

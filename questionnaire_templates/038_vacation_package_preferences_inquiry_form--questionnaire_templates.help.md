@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to collect information about a traveler's preferences for a vacation package. The form is split into several pages, each with its own set of fields. The purpose of this form is to gather detailed information about the traveler, their travel dates, accommodation preferences, and payment details. This information will be used to tailor the vacation package to the traveler's needs and preferences.
-</thinking>
-
 # Vacation Package Preferences Inquiry Form - Help Guide
 ## Purpose
 This form is used to collect information about a traveler's preferences for a vacation package. The form is split into several pages, each with its own set of fields that will help us understand the traveler's needs and preferences.

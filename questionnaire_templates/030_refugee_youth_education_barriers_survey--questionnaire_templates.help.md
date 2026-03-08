@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from refugee youth about their barriers to education, which is crucial for providing targeted support services. The form aims to gather data on the participants' age, educational level, barriers to education, needed education support, contact person, school type, language, time spent on education, time period they are interested in studying, email, and phone number. This information will help organizations providing education services to better understand the needs of their target audience and tailor their services accordingly.
-
-Before starting, please note that this form is designed to be completed by the refugee youth themselves. If you are providing this form to someone else on their behalf, please ensure that the person completing the form is a representative of the refugee youth, or provide a clear explanation of the form's purpose and how the data will be used.
-
-Please ensure that you have the necessary permissions and approvals to complete this form, especially if you are providing the information on behalf of someone else.
-
-Please ensure that you answer these questions honestly and accurately, as the information collected will be used to improve education services for refugee youth.
-
-</thinking>
-
 # Refugee Youth Education Barriers Survey - Help Guide
 ## Purpose
 This form aims to collect data on the barriers faced by refugee youth in accessing education, which will help organizations providing education services to better understand their needs and provide targeted support.

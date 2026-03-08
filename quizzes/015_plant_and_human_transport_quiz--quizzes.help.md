@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information on the relationship between plant and human transportation. The purpose of this form is to collect data on whether transportation is used in plants and human transportation is used for education, tutoring, or homeschooling. This information will help in understanding the importance and prevalence of transportation in these contexts.
-</thinking>
-
 # plant_and_human_transport_quiz - Help Guide
 ## Purpose
 This form is used to collect data on the relationship between plant and human transportation, including whether transportation is used in plants and human transportation for education, tutoring, or homeschooling purposes.

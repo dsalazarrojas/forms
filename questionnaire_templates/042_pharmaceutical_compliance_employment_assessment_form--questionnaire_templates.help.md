@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The form purpose is to gather information about employees in the pharmaceutical industry. This is to assess their compliance with relevant regulations and guidelines.
 The information is not duplicated in other systems, so it's safe to provide it here.
 The form is designed to gather information that is essential for compliance and auditing purposes.

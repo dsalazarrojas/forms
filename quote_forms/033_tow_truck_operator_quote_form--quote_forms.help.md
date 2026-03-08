@@ -1,8 +1,3 @@
-<thinking>
-To create the help guide for the "tow_truck_operator_quote_form" form, we need to consider the form's purpose and required fields. The form appears to be designed to gather information from a tow truck operator to provide a quote for a service. The purpose of this form is to collect necessary details about the driver, vehicle, and services required, as well as any additional services and comments. The required fields indicate that the form is mandatory for the driver to complete, and the select_multiple field for services suggests that the operator may offer extra services that can be selected. The form also has fields for comments and assigned details, which may be optional.
-
-</thinking>
-
 # tow_truck_operator_quote_form - Help Guide
 ## Purpose
 This form is designed to gather information from a tow truck operator to provide a quote for a service. It is a mandatory form that requires completion of all fields to ensure accurate and complete information is captured.

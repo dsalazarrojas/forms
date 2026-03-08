@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create an assessment for exponential functions, likely for educational or testing purposes. This form is designed to test the understanding of exponential functions, and its questions will likely be related to this topic. It is an AI-generated form, using public survey topic metadata as inspiration. There is no indication that this form is affiliated with any specific platform or proprietary content.
-</thinking>
-
 # Exponential Functions Assessment - Help Guide
 ## Purpose
 This form is designed to assess knowledge and understanding of exponential functions. The questions are meant to gauge your familiarity with the concept and its application.

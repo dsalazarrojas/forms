@@ -1,11 +1,3 @@
-<thinking>
-
-We need to create a user-facing help guide for a form with a total of 14 fields. This form is called the "Real Estate Offer Questionnaire Form" and is used for real estate offers. The form is split into two main parts: address and contact information. The form asks for a contact method, whether the offer is confirmed or declined, and a few other details. 
-
-To create this guide, we will follow the provided YAML structure and explain each field in a concise and practical manner.
-
-</thinking>
-
 # Real Estate Offer Questionnaire Form - Help Guide
 ## Purpose
 The Real Estate Offer Questionnaire Form is used to gather information about real estate offers, including address details and contact information.

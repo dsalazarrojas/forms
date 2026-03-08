@@ -1,7 +1,3 @@
-<thinking>
-This guide should help users understand the purpose and requirements of the Jeans Style Awareness Quiz form. The form aims to assess users' knowledge about jeans, specifically in terms of their style, fabric, care, and maintenance. The form should help identify knowledge gaps and provide a score based on the user's answers. It's essential to ensure that users understand the correct answers and the reasoning behind them, as this will help them learn and improve their knowledge about jeans.
-</thinking>
-
 # Jeans Style Awareness Quiz - Help Guide
 ## Purpose
 The Jeans Style Awareness Quiz is designed to test your knowledge about jeans, covering various aspects such as their styles, fabric components, care, and maintenance. Completing this quiz will help you gauge your understanding of jeans and identify areas where you may need more information.

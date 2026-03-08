@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to be a self-assessment tool for employees to evaluate their knowledge on food safety practices. Its purpose is to ensure that users understand the importance of proper food handling and preparation, safe cooking temperatures, accurate food labeling, correct food storage, and proper reheating procedures to prevent foodborne illnesses. This form will help users identify areas where they may need additional training or review.
-
-To complete this form, follow these steps:
-
-1. Review each page of the form carefully.
-2. Read each question carefully and respond with a brief answer.
-3. Be honest about your knowledge and understanding of each food safety practice.
-4. Submit your completed form.
-</thinking>
-
 # Food Safety Quiz - Help Guide
 
 ## Purpose

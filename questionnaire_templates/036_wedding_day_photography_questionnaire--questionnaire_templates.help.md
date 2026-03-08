@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to be a user-facing guide for the "Wedding Day Photography Questionnaire" form. The purpose of this form is to collect information from clients about their wedding day photography needs and requirements. It is likely to be used by photography services or studios to tailor their services to the client's needs.
-
-This form is not affiliated with any specific form platforms or services, and its content is based solely on public survey topic metadata. It is an original adaptation, created using AI, and is released under CC BY 4.0. The form can be used, modified, and even sold by anyone, as long as credit is given.
-
-Before proceeding, please ensure that you are not duplicating this form and that it aligns with your organization's specific needs. If you have any questions or concerns, feel free to contact us at form@gic.mx.
-
-</thinking>
-
 # Wedding Day Photography Questionnaire - Help Guide
 ## Purpose
 The Wedding Day Photography Questionnaire is designed to collect essential information from clients about their wedding day photography requirements. This form is intended to be used by photography services or studios to tailor their services to the client's needs.

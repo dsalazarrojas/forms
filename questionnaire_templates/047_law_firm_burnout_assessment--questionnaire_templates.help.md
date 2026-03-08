@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a questionnaire designed to assess burnout among law firms. It seems to cover various aspects of firm characteristics, such as size and type, location, practice area, and stress levels of employees. The form is quite comprehensive, with multiple pages and fields to collect detailed information.
-The form does not seem to be a duplicate or non-relevant to the provided context. It is focused on assessing burnout among law firms, which aligns with the category "questionnaire_templates".
-Upon reviewing the form, it seems that some of the fields may be redundant or have similar options. For example, "Firm Type" and "Firm Type B" have similar options, and "Stress Questions" and "Stress Questions B" also have similar options. However, these similarities may be intentional for redundancy or to allow users to select multiple answers.
-</thinking>
-
 # Law Firm Burnout Assessment - Help Guide
 ## Purpose
 The Law Firm Burnout Assessment is a questionnaire designed to gauge the burnout levels among law firms. It aims to collect information about firm characteristics and employee stress levels to help firms identify areas of burnout and take necessary steps to address them.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers who are requesting a visa quotation. The visa quotation is a document that outlines the costs and requirements for obtaining a visa. This form is designed to ensure that the customer provides all necessary information to facilitate a smooth and accurate visa quotation process.
-Before filling out this form, please ensure that you are only filling it out once for each visa quotation request. Duplicating the form can cause unnecessary delays in the visa quotation process.
-</thinking>
-
 # Visa Quotation Request Form - Help Guide
 ## Purpose
 This form is used to gather information for a visa quotation request. It is essential to fill out this form accurately and completely to help us provide an efficient and accurate quotation.

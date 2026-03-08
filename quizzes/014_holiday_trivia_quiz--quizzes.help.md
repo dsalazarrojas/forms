@@ -1,5 +1,3 @@
-<thinking>This form is a holiday-themed quiz that asks users to answer a series of questions about various holidays and dates. It is designed to be a fun and interactive way to learn about holidays and their associated dates. The form is composed of multiple pages, each containing questions or fields for users to fill out. To get the most out of this form, please make sure to answer the questions in the correct format and do not skip any pages. If you are unsure about any of the questions, you can refer to the form's explanations or seek additional information online.</thinking>
-
 # Holiday Trivia Quiz - Help Guide
 ## Purpose
 This form is designed to be a fun and interactive way to learn about holidays and their associated dates.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from landlords and renters for a room rental application process. The purpose of this form is to gather essential details from both parties involved in the rental agreement, ensuring a smooth and secure transaction. This form will not be used for any other purpose than the intended room rental application.
-</thinking>
-
 # Room Rental Application Form - Help Guide
 ## Purpose
 This form is designed for landlords and renters to collaborate on the terms of a room rental agreement. It gathers necessary information to establish a mutual understanding between both parties.

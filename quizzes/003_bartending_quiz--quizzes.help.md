@@ -1,5 +1,3 @@
-<thinking>...The Bartending Quiz form is used to test the knowledge of bartending enthusiasts, bartenders, or those interested in mixology. This quiz covers various aspects of bartending, including cocktail ingredients, preparation methods, and safety standards. It's a self-contained quiz that helps users assess their understanding of fundamental bartending concepts. The form consists of a series of questions that cover topics such as drink ingredients, preparation techniques, and safety best practices.</thinking>
-
 # Bartending Quiz - Help Guide
 ## Purpose
 The Bartending Quiz is designed to test your knowledge of mixology and bartending concepts.

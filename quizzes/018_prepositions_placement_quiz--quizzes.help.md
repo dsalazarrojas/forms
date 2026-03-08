@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prepositions Placement Quiz - Help Guide
 
 ## Purpose

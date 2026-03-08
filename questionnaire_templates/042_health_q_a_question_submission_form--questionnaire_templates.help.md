@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for collecting health-related question submissions from users. It's crucial to use this form correctly to ensure that all required information is provided, and to avoid submitting duplicate questions. Please review the form fields carefully before proceeding.
-</thinking>
-
 # Health Q&A Question Submission Form - Help Guide
 
 ## Purpose

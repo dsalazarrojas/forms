@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who want to submit a digital management proposal. This form will help us to gather details about the individual's contact information, proposal title, and other relevant details.
-The form is used in an internal process to manage and track proposals submitted by individuals. This form serves as a standardized way to collect information that will later be used for internal management and reporting purposes.
-We kindly ask that you provide accurate and complete information to ensure that we can properly manage your proposal in our system.
-Please note that this form is only to be filled out by those who are submitting proposals, not for general inquiries or other purposes.
-</thinking>
-
 # Digital Management Proposal Submission - Help Guide
 
 ## Purpose

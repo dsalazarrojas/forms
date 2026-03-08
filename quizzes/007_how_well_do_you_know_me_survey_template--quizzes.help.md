@@ -1,15 +1,3 @@
-<thinking>
-
-This help guide is intended for users who are filling out the "how_well_do_you_know_me_survey_template" form. This form is designed to gather information about users' relationships with various aspects of their lives, such as their friends, family, favorite colors, hobbies, and more.
-
-Before filling out this form, please review the fields below to ensure you understand their purpose and relevance to your own experiences.
-
-After completing this form, you can use the data collected to analyze your relationships and potentially identify areas for improvement in your personal and professional connections.
-
-Please note that some fields are optional, so you may choose not to answer them if you feel they are not applicable to your situation.
-
-</thinking>
-
 # how_well_do_you_know_me_survey_template - Help Guide
 ## Purpose
 This form is designed to help you assess your relationships with various aspects of your life, such as friends, family, favorite colors, hobbies, and more. It's a self-assessment tool to help you identify areas where you may need to improve or nurture your connections.

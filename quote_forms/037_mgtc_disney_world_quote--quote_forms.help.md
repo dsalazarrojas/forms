@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block will provide a brief internal reasoning block to explain the purpose and context of the form.
 The form is used to capture visitor information for planning purposes, allowing staff to prepare for the number of guests and plan accordingly. This form is likely to be used for events and gatherings at Disney World, and the purpose is to obtain accurate visitor data to provide better service.
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Heath Challenge Feedback Form - Help Guide
 
 ## Purpose

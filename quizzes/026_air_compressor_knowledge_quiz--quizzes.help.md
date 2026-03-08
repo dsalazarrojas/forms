@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the user's knowledge on air compressor maintenance, safety procedures, and operational awareness. The form is designed to evaluate the user's understanding of key concepts related to air compressors, such as regular maintenance, pressure relief valves, correct shutdown procedures, and signs of air leaks. The user's responses will be used to estimate their knowledge score.
-</thinking>
-
 # Air Compressor Knowledge Quiz - Help Guide
 ## Purpose
 This guide will walk you through the completion of the Air Compressor Knowledge Quiz form, providing an explanation of each field to help you understand what to expect and how to complete it accurately.

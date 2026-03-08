@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a small estate affidavit, which is a document used to establish the legitimacy of an estate or will. This form is likely used in a legal or administrative context to verify the details of an estate, such as the name of the estate, the address of the estate, and the relationship between the estate's executors and beneficiaries. Before proceeding, please ensure that this form is relevant to your situation and not a duplicate of a similar form you may have already filled out. If you're unsure, please consult with a legal professional or relevant authorities.
-</thinking>
-
 # Small Estate Affidavit Form - Help Guide
 ## Purpose
 This form collects information for a small estate affidavit, which is used to verify the details of an estate or will in a legal or administrative context.

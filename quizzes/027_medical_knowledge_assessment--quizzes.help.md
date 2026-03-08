@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is meant to assess the medical knowledge of students or healthcare staff. The questions and options are customizable, allowing administrators to tailor the evaluation to their specific needs. This form can be used to evaluate the knowledge of individuals in various medical categories, such as anatomy, pharmacology, or patient care. 
 
 </thinking>

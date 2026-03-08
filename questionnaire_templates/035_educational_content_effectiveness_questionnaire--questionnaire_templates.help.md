@@ -1,11 +1,3 @@
-<thinking>
-To ensure that this form is used correctly and to prevent non-duplication, please make sure that:
-* Each user only accesses this form once per session.
-* The form is completed by a single user at a time.
-* All fields are filled out thoroughly and accurately.
-* The form is submitted only after all required fields are filled out.
-</thinking>
-
 # educational_content_effectiveness_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and opinions from users about educational materials, which will be used to improve the effectiveness of the educational content provided. 

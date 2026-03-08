@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for students to take a statistics exam. It will be used to assess their knowledge and understanding of statistical concepts. The form is a series of questions that test their ability to apply statistical principles to real-world scenarios.
-The form is likely to be used by students who are enrolled in a statistics course or have a background in statistics. It is not intended for casual or general users.
-To avoid duplication, this form will only be used for statistical exams.
-</thinking>
-
 # Statistics Exam Quiz - Help Guide
 ## Purpose
 This form is designed for students to take a statistics exam, assessing their knowledge and understanding of statistical concepts.

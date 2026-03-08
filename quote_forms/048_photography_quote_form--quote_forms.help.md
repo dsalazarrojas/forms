@@ -1,5 +1,3 @@
-<thinking>Photography Quote Form is a tool used to generate a quote for photography services. This form is designed to gather information about the client's company, the services they are interested in, prices, event details, client details, and the quote. This form was created based on public metadata from various sources in the photography industry, and its purpose is to assist photographers in generating quotes for their clients. Please note that this form is an original adaptation and not a copy of any existing form or platform. Before proceeding, ensure that the information in this guide is relevant to your specific use case and that you have not already created a similar form.</thinking>
-
 # Photography Quote Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients for generating quotes for photography services. It guides you through the process of collecting details about the client's company, services, prices, event details, and personal details.

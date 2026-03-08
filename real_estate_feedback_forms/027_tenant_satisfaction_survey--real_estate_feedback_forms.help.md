@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from tenants about their experiences with the rental property. This form is designed to collect information on various aspects of the tenant's satisfaction, including their satisfaction level with the property, the quality of the building and its amenities, and the effectiveness of the property management team. The form is intended to help landlords and property managers identify areas of improvement and make data-driven decisions to enhance the overall living experience for tenants.
-
-</thinking>
-
 # Tenant Satisfaction Survey - Help Guide
 ## Purpose
 The Tenant Satisfaction Survey is a collection of questions designed to gather feedback from tenants about their experiences with the rental property. The survey is intended to help landlords and property managers understand tenant satisfaction and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to test the knowledge of users about common chemicals in everyday life. It is meant to be a fun and interactive way to learn about the chemical composition of various substances used in daily life, such as food, cleaning products, and personal care items. The form contains 20 questions that cover a range of topics from food and drink to personal care and cleaning. It is not affiliated with any specific form platform and is an original creation.
 
 # Chemicals In Daily Life Quiz - Help Guide

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from subcontractors for services offered on a platform. The form is used to provide an initial estimate or bid for a service project. The form's structure allows users to fill out general information about themselves, select a service type, and estimate the time required for each service. This will help project administrators to get a quick understanding of a subcontractor's capabilities and availability.
-This form should not be filled out by anyone other than a subcontractor. It is intended to be used as a first step in the project initiation process, and will likely be followed by more detailed discussions and interviews.
-The fields on this form are designed to be completed by a single user, with the option to add more information as needed.
-The fields are organized in a logical manner, with the general information section first, followed by specific service details, and finally, a timeline section.
-The form does not include any validation or error checking, it is assumed that the information will be filled out correctly. 
-</thinking>
 # Subcontractor Service Quote Form - Help Guide
 ## Purpose
 This form is used to collect information from subcontractors about their service offers on a platform.

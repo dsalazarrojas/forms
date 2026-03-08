@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect scene analysis information from literature students or enthusiasts. The purpose of this form is to gather details about a specific scene from a literary work, including its description, character names, location, era, actors involved, date, time, and any additional notes or contact information. This form might be used by instructors or researchers to collect data for various studies or analyses.
-</thinking>
-
 # Literature Quiz On Scene Analysis - Help Guide
 ## Purpose
 This form is designed to collect scene analysis information from literature students or enthusiasts.

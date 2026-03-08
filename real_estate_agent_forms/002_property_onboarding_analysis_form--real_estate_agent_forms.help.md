@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect detailed information about a property, including its current status, condition, and relevant details. This form will help us analyze and provide insights on the property's onboarding process. 
-To ensure accuracy, please review the following fields and their explanations to understand what information is required and how to complete them correctly.
-
-Before starting, please make sure that you have all the necessary information about the property ready to input into the form.
-</thinking>
-
 # property-onboarding-analysis-form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a property to assist in its onboarding process. It gathers data on the property's current status, condition, and other relevant details.

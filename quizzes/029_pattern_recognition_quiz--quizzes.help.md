@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test the user's ability to recognize patterns in different types of data. The purpose of this form is to assess the user's pattern recognition skills by presenting them with a series of questions that require them to identify patterns in various formats. The form is divided into several sections, each focusing on a different aspect of pattern recognition. The user will be presented with options to choose from, and their answers will be recorded and analyzed. This form is intended for educational or research purposes, and its results will help identify strengths and weaknesses in pattern recognition abilities. Please note that this form is not intended for commercial use and is for internal purposes only.
-</thinking>
-
 # pattern_recognition_quiz - Help Guide
 ## Purpose
 The pattern_recognition_quiz form is a test of pattern recognition skills. It assesses a user's ability to identify patterns in different types of data, such as text and date/time formats.

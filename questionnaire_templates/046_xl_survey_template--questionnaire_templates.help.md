@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback, opinions, or information through a series of questions. It was designed using an AI-generated template, which means it's an original creation that's not affiliated with or derived from any existing form platform. You can freely use, modify, and even sell this form, as long as you give credit to its creators.
-
-Before proceeding, please note that this form is not affiliated with or sponsored by any form platform. It's a unique, AI-generated template released under the Creative Commons BY 4.0 license. If you're unsure about the form's relevance or find a similar one online, you can contact us at form@gic.mx for further assistance.
-</thinking>
-
 # XL Survey Template - Help Guide
 ## Purpose
 This form is designed to collect user feedback, opinions, or information through a series of questions.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess the knowledge of the respondents on the subject of Management Information Systems (MIS). It's intended to gauge their understanding of key concepts such as system development, system lifecycle, and database management. This form is not affiliated with, endorsed by, or derived from any form platforms. It's a generated adaptation using public survey data as inspiration, released under a Creative Commons BY 4.0 license. You are free to use, modify, and even sell forms derived from this original adaptation. Contact form@gic.mx for any inquiries. This form has been created to be a tool for assessing knowledge on MIS, and it's meant to be used for educational purposes only. By completing this form, you'll be able to demonstrate your understanding of MIS-related concepts.</thinking>
-
 # Management Information Systems Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your knowledge of Management Information Systems (MIS) concepts, including system development, lifecycle, and database management. It's an assessment tool for educational purposes only.

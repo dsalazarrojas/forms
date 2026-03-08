@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to collect user information...checking for relevance and non-duplication...</thinking>
-
 # Openings Knowledge Quiz - Help Guide
 
 ## Purpose

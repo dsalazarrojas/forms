@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "travel_agent_quote_template" form, which is used for generating travel agency quotes. The form collects information about the customer, their travel plans, and the travel details. To ensure the form is completed correctly and efficiently, we need to provide clear instructions and field explanations for each section. This will help travel agents provide accurate quotes and avoid errors in the process.
-
-Form purpose:
-The form is used to create quotes for travel agencies, which will be used to communicate with customers about the estimated cost of their trips. 
-
-To complete this form, travel agents should follow the steps outlined below:
-
-</thinking>
 # travel_agent_quote_template - Help Guide
 ## Purpose
 The "travel_agent_quote_template" form is used to create quotes for travel agencies to communicate with customers about the estimated cost of their trips.

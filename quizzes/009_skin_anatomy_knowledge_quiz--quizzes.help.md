@@ -1,8 +1,3 @@
-<thinking>
-The form "skin_anatomy_knowledge_quiz" is designed to assess the knowledge of skin anatomy in users. This form is intended to be used by medical professionals, students, or anyone interested in learning about the skin's structure and functions. The purpose of this form is to test the user's understanding of the skin's layers, their functions, and the relationships between them. This form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata.
-Before starting the form, ensure that you are familiar with the basic concepts of skin anatomy. If you have any doubts or questions, it's recommended to review the relevant literature or seek guidance from a medical professional.
-</thinking>
-
 # skin_anatomy_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to assess the knowledge of skin anatomy in users.

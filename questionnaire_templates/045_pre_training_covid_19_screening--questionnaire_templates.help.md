@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to screen for individuals who have been exposed to or are experiencing COVID-19 symptoms or other health concerns. It helps determine if they need to take any precautions or actions to ensure their health and safety. The form is designed to be completed by individuals who plan to travel or attend events in the next 30 days. It is not intended to be a comprehensive medical assessment, but rather a quick and simple tool to help identify potential risks.
-
-To confirm, this form is not intended to be used in situations where a more thorough medical evaluation is necessary, such as in emergency situations or when a person has a high-risk medical condition. It is solely intended for general screening and travel planning purposes.
-
-Before you start, please make sure you have not filled out this form in the past 30 days. If you have any concerns or questions, please reach out to our support team for assistance.</thinking>
-
 # pre-training-covid-19-screening - Help Guide
 ## Purpose
 The pre-training Covid-19 screening form is used to identify potential risks and take necessary precautions to ensure your health and safety before attending events or traveling.

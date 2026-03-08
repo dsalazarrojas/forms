@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from users for a home insurance quote, specifically the main address, type of home, email and phone number (if provided), home value, coverage type, policy period, contact person and number (if applicable), policy type, date and time of birth (if applicable), and any additional note. This form is likely used by insurance agents or brokers to gather information before generating a quote for the user. It is crucial to ensure that the user provides accurate and complete information to receive a precise quote.
-
-Before completing this form, please ensure you are not duplicating a request that was previously submitted. This form should not be used for new users, instead, please reach out to our support team to request a new quote.
-</thinking>
-
 # Home Insurance Quote - Help Guide
 ## Purpose
 

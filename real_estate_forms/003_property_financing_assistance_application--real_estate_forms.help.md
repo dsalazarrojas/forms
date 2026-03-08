@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals seeking property financing assistance. The purpose of this form is to collect contact details and property information from applicants. It will help financial institutions or organizations to provide relevant assistance to those in need. This form will not be used to collect sensitive financial information, nor is it intended for marketing or promotional purposes. Please ensure that all fields are filled out correctly to ensure a smooth and efficient review process.
-</thinking>
-
 # Property Financing Assistance Application - Help Guide
 ## Purpose
 The Property Financing Assistance Application form is designed to collect contact information and property details from individuals seeking financing assistance. This information will be used to provide relevant assistance to those in need.

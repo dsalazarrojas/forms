@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for wedding day planning and preparation purposes, allowing couples or event planners to document and organize details about a wedding day. The goal is to help ensure that all necessary information is gathered and considered while minimizing potential misunderstandings or miscommunications during the wedding planning process. This form template aims to provide a comprehensive outline of key aspects related to a wedding event, helping to streamline the planning process and enhance overall wedding day experiences.
-
-</thinking>
-
 # Wedding Day Questionnaire Template - Help Guide
 
 ## Purpose

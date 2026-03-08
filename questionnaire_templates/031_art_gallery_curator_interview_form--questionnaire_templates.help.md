@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Art Gallery Curator Interview Form - Help Guide
 ## Purpose
 The Art Gallery Curator Interview Form is designed to assess a candidate's suitability for a curator position in an art gallery. The form gathers information about the candidate's background, experience, and expertise, as well as their ability to develop a compelling exhibition narrative, manage artist relationships, and oversee budgets.

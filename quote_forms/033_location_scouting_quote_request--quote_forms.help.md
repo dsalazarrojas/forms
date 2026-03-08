@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Location Scouting Quote Request - Help Guide
 ## Purpose
 This form is used to gather information for a location scouting quote request. It's essential for our team to understand your needs and requirements for location scouting services. Please fill out this form if you're interested in requesting a quote for location scouting services.

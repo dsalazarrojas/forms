@@ -1,11 +1,3 @@
-<thinking>
-
-This internal reasoning block will explain the purpose of the form and check for relevance and non-duplication.
-
-The Risk Consultant Quote Form is designed to collect information from clients seeking risk consultant services. The form is meant to provide a standardized way of gathering data from clients, ensuring consistency in the data collected and reducing the likelihood of errors. It's essential to fill out this form accurately, as it will be used to generate a quote for the risk consultant services. If you're not sure about any of the fields, please refer to this guide for clarification.
-
-</thinking>
-
 # Risk Consultant Quote Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Animated Series Trivia Quiz form. It appears that this form is designed to test users' knowledge on various animated series. The form is likely used to assess users' familiarity with different animated TV shows. Each section of the form is meant to gather information and answers related to these series. By filling out the form, users can demonstrate their knowledge on animated TV shows and potentially identify their favorite series.
-</thinking>
-
 # Animated Series Trivia Quiz - Help Guide
 ## Purpose
 The Animated Series Trivia Quiz is designed to test your knowledge on various animated TV shows. The form is divided into multiple sections, each focusing on a different series or concept.

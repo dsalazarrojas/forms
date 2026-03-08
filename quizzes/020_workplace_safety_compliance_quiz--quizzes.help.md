@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess an employee's knowledge and understanding of workplace safety compliance. It is likely intended for new hires or existing employees to take as part of the onboarding process or regular safety training. The form's purpose is to evaluate an individual's understanding of workplace safety protocols and procedures. The form's sections cover various aspects of workplace safety, including department, name, job title, and location, as well as questions about safety knowledge and action items related to specific areas of safety compliance. The form's design suggests a focus on assessing the employee's understanding of safety protocols and procedures, rather than simply collecting demographic information.
-
-This guide is meant to help users understand each field's purpose and how to complete the form accurately and efficiently.
-
-</thinking>
-
 # Workplace Safety Compliance Quiz - Help Guide
 ## Purpose
 The Workplace Safety Compliance Quiz is designed to assess an employee's knowledge and understanding of workplace safety compliance. This quiz is meant to be taken by new hires or existing employees as part of the onboarding process or regular safety training.

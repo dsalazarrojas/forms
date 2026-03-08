@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and understanding of users regarding materials constraints knowledge. It will help to evaluate the proficiency of individuals in this subject area.
-
-Before proceeding, please ensure that you have read and understand the purpose of this form. You should only attempt to complete this form if you have relevant knowledge and experience in materials constraints. If you are not familiar with this subject area, please do not complete this form.
-
-To avoid duplicating your efforts, please ensure that you have not already completed this form.
-
-</thinking>
-
 # Materials Constraints Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge and understanding of materials constraints knowledge. It will help to evaluate your proficiency in this subject area.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their preferences and requirements for a property matching service. The form is intended to be used by real estate agents to understand their clients' needs and match them with suitable properties. The form is not intended for internal use only, and the submitted data will be used to provide personalized property recommendations.
-
-To ensure that the form is being used correctly, please review the following guidelines:
-
-- This form should not be filled out by users if they are searching for a specific property that is already being used.
-- The form should not be filled out multiple times by the same user. Each form submission is a new request.
-
-If you have any further questions or concerns, please don't hesitate to reach out.
-</thinking>
-
 # Home Matching Request Form - Help Guide
 ## Purpose
 The Home Matching Request Form is designed to collect your personal details, property preferences, budget, and other relevant information to help us find your dream home.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess respondents' experience, knowledge, and preferences regarding biostatistics. It's essential to understand that this form is intended for respondents who work in fields related to biostatistics, such as public health, medicine, biology, epidemiology, pharmacology, genetics, and environmental science. The form aims to gather information on their biostatistics experience, knowledge, and skills, as well as their training needs and preferences. This data will help in understanding the current state of biostatistics education and training needs in these fields.
-</thinking>
-
 # Biostatistics Assessment Survey - Help Guide
 ## Purpose
 This survey aims to assess your experience, knowledge, and preferences regarding biostatistics in your field of work. It's designed to help us understand the current state of biostatistics education and training needs.

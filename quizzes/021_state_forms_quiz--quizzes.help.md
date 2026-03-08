@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a state-specific quiz, assessing the user's understanding of their state's regulations, laws, and codes. It is intended for users who are familiar with the state's jurisdiction and are looking for a quick assessment of their knowledge. The form consists of a series of questions that cover various aspects of the state's laws and regulations. Each question is multiple-choice and allows the user to select the correct answer from a limited set of options. The form does not require registration or login, making it accessible to anyone with a basic understanding of the state's laws and regulations.
-
-To avoid duplication and ensure accurate assessment, users should not attempt to answer the same question multiple times. Each question is designed to be unique and will result in a different answer each time. The user's answers will be stored for their convenience, allowing them to track their progress and identify areas where they need improvement.
-
-This form is intended for general information and educational purposes only. It is not a substitute for professional legal advice, and users should not rely solely on this form for making important decisions or taking actions that may have legal consequences.
-</thinking>
-
 # state_forms_quiz - Help Guide
 ## Purpose
 This form is a state-specific quiz designed to assess the user's understanding of their state's regulations, laws, and codes.

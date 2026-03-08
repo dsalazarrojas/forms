@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Interior Design Intake Questionnaire - Help Guide
 =====================================
 

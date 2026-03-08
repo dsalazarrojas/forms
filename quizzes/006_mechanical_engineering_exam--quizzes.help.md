@@ -1,5 +1,3 @@
-<thinking>...I understand that the purpose of this form is to collect information about a Mechanical Engineering Exam. The form appears to be a general examination of a student's knowledge in mechanical engineering, including various aspects such as placement exams, exam details, and results. To ensure accuracy, I'll verify the form's purpose and check for non-duplication of fields. Based on the provided YAML, the form has 15 fields in total, which seems excessive for a simple exam form. I'll focus on explaining each field in a clear and concise manner... </thinking>
-
 # Mechanical Engineering Exam - Help Guide
 ## Purpose
 The Mechanical Engineering Exam form is designed to collect information about a student's knowledge in mechanical engineering. This form aims to assess a student's understanding of various topics, including mechanical systems, components, problem-solving, and more.

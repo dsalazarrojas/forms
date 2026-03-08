@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting quotation information from clients for corporate governance. It should only be used for this specific purpose, and not for other types of quotations. The form has 9 fields, but some are optional, so please fill them in according to your needs.
-</thinking>
-
 # corporate_governance_quotation_form - Help Guide
 
 ## Purpose

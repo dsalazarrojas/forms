@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather information about a person's spousal details for purposes of spousal sponsorship, such as verifying spousal identity, determining spousal address, and evaluating spousal income and education level. This information is used for internal record keeping and administrative purposes. Please ensure that you have all required and relevant information before completing this form.
-</thinking>
 # Spousal Sponsorship Questionnaire - Help Guide
 ## Purpose
 The Spousal Sponsorship Questionnaire is a form used to gather spousal details for various purposes such as verification and evaluation.

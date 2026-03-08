@@ -1,5 +1,3 @@
-<thinking>As a quiz creator, you are likely familiar with the concept of creating engaging and educational content for your audience. This form is designed to help you create a Liquid Knowledge Quiz, a digital platform for creating interactive and immersive learning experiences. By filling out this form, you will be able to customize your quiz with relevant details such as category, title, description, and more. Please ensure you have the necessary permissions to submit this form and that you have a clear understanding of the requirements for creating a quiz.</thinking>
-
 # Liquid Knowledge Quiz - Help Guide
 ## Purpose
 The Liquid Knowledge Quiz form is designed to allow you to create a quiz that can be used in a variety of settings, including educational, corporate, and other environments. By filling out this form, you can provide details such as category, title, description, and more to customize your quiz and make it more engaging for your audience.

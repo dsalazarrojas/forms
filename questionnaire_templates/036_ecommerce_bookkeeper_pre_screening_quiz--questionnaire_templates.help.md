@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the ecommerce-bookkeeper-pre-screening-quiz form, and ensure that it is being used in the correct context.
-This form is designed to pre-screen potential candidates for bookkeeping roles in an e-commerce setting. It is meant to gather relevant information about the candidate's background, work experience, and availability, which will help the bookkeeping team assess their qualification and fit for the job.
-Before proceeding, please ensure that you are in the correct context and not duplicating efforts elsewhere in the process.
-</thinking>
-
 # ecommerce-bookkeeper-pre-screening-quiz - Help Guide
 ## Purpose
 The ecommerce-bookkeeper-pre-screening-quiz form is designed to gather information from potential candidates to assess their qualification and fit for a bookkeeping role in an e-commerce setting. The form will ask a series of questions to gather details about the candidate's current salary, bonuses, work experience, availability, and other relevant information.

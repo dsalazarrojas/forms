@@ -1,12 +1,3 @@
-<thinking>
-To begin with, let's clarify the purpose and relevance of this form. The COVID-19 Health Screening Questionnaire is designed to assess the health status of individuals, particularly in the context of the COVID-19 pandemic. The form helps identify potential risks and exposures, and its results can inform decision-making regarding entry or clearance for various settings such as workplaces, events, or facilities. 
-
-This form is intended for individuals who are being or have been in close contact with others, and whose health status is being evaluated for potential COVID-19 exposure. The goal is to gather information on symptoms, medical history, and vaccination status to determine the level of risk.
-
-To avoid duplication of effort, ensure that this form is completed only once for each individual and for each instance of screening.
-
-</thinking>
-
 # COVID-19 Health Screening Questionnaire - Help Guide
 
 ## Purpose

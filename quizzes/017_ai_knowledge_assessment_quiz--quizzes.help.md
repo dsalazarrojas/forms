@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AI Knowledge Assessment Quiz - Help Guide
 
 ## Purpose

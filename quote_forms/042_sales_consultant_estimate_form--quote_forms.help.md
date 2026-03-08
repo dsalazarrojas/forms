@@ -1,16 +1,3 @@
-<thinking>
-This form is used to gather information for sales consultants to provide estimates for potential clients. The purpose of this form is to help consultants create a comprehensive estimate based on the project details and goals of the client. To ensure accurate and thorough estimates, it's essential to complete this form thoroughly and accurately.
-
-Before starting, please make sure to:
-
-* You have the necessary information about the client and project.
-* You are familiar with the services offered by the sales consultants and their estimated costs.
-* You have a clear understanding of the project goals.
-
-This form is used to gather information for multiple projects, so please ensure that you are completing the form for the correct project and client.
-
-</thinking>
-
 # Sales Consultant Estimate Form - Help Guide
 ## Purpose
 The Sales Consultant Estimate Form is used to provide an estimate for a sales consultant project. This form will guide you through the necessary information to create a comprehensive estimate for your project.

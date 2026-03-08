@@ -1,9 +1,3 @@
-<thinking>
-
-This guide helps users understand how to complete the "Video Game Quiz" form, which is a tool designed to gather information about players' gaming preferences. This form should only be filled out by players who have played or have an interest in video games. If a player has already filled out this form, please do not attempt to fill it out again.
-
-</thinking>
-
 # Video Game Quiz - Help Guide
 ## Purpose
 The "Video Game Quiz" form is designed to gather information about your gaming preferences and habits. Please answer the following questions to help us better understand what you like about video games.

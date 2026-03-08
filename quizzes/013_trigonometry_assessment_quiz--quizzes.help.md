@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-To create a comprehensive user-facing help guide for the Trigonometry Assessment Quiz form, I will follow these steps:
+> To create a comprehensive user-facing help guide for the Trigonometry Assessment Quiz form, I will follow these steps:
 
 1.  Describe the form's purpose and relevance in the introduction section.
 2.  Explain how to complete the form in the "How To Complete This Form" section.

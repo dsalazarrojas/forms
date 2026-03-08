@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Continuity Assessment - Help Guide
 ## Purpose
 

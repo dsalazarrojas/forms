@@ -1,7 +1,3 @@
-<thinking>
-We are considering introducing this form to determine if a residency card can be renewed. This form is used to gather relevant information to assess if a person is eligible for a residency card renewal. Please review the form carefully and ensure that the information provided is accurate and complete. Note that the form will ask for various personal and contact information, including date of birth, address, phone number, and email address. The form will also ask about dependent and spouse status, which is optional. Please provide the correct dates for card renewal, issue date, and verification date. A letter of verification is also required. Please ensure that all fields are filled in correctly to avoid any issues with the residency card renewal process.
-</thinking>
-
 # Residency Card Renewal Eligibility Questionnaire - Help Guide
 ## Purpose
 This form is used to assess if you are eligible for a residency card renewal. Please review the form carefully and ensure that all information is accurate and complete.

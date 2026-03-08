@@ -1,5 +1,3 @@
-<thinking>Assessing the provided YAML, it appears that the form is designed to be a quiz for individuals to test their understanding of contraception and endometriosis. This form has multiple sections, each with different questions and fields, which are intended to gauge the user's knowledge and confidence in discussing these topics with a healthcare provider. To confirm, this form is not intended for collecting sensitive or medical information, but rather for educational purposes. There is no duplication of fields or sections. The form's purpose is to provide a self-assessment tool for users to evaluate their understanding of endometriosis management and contraception.</thinking>
-
 # Contraception And Endometriosis Quiz - Help Guide
 ## Purpose
 This quiz is designed to assess your understanding of contraception and endometriosis management. It consists of multiple sections and questions that aim to gauge your knowledge and confidence in discussing these topics with a healthcare provider.

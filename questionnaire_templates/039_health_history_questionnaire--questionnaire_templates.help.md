@@ -1,10 +1,3 @@
-<thinking>
-The Health History Questionnaire form is designed to collect information from users about their medical history, including their current medical condition, prescription medications, and supplements. This form is intended for users to provide a comprehensive overview of their health status, which can be used for various purposes such as medical research, health screenings, or medical consultation.
-The form is not affiliated with any form platform and is an original adaptation created using AI. It does not copy or use proprietary content from any form creation or data collection platforms.
-
-Before completing this form, please ensure that you have the necessary permissions and consent to share your medical history. The information collected will be treated with confidentiality and used for the intended purpose only.
-</thinking>
-
 # Health History Questionnaire - Help Guide
 ## Purpose
 The Health History Questionnaire is a form designed to collect information about your medical history, including your current medical condition, prescription medications, and supplements.

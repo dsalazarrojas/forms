@@ -1,7 +1,3 @@
-<thinking>
-This form is a Sight Word Assessment Quiz. Its purpose is to collect data on students' performance in reading sight words, which are basic words that are essential for reading comprehension. This form is intended for students to report their own experiences, providing answers on a scale of True or False for certain items.
-</thinking>
-
 # Sight Word Assessment Quiz - Help Guide
 ## Purpose
 This form is a tool to help assess students' performance with sight words. It collects information on the student's name, grade level, experience with sight words, and time spent reading sight words. This data will help identify areas of improvement for reading skills.

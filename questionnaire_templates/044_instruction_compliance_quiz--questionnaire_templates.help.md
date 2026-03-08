@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information about participants' instruction compliance, likely for a course or training program. The form likely aims to gather data on participants' roles, instructor names, course details, and other relevant information. To avoid duplication, please ensure that the form is filled out for each participant only once. The quiz likely uses this data to evaluate compliance with instructions or standards. Please fill out this form accurately and completely...</thinking>
-
 # Instruction Compliance Quiz - Help Guide
 ## Purpose
 

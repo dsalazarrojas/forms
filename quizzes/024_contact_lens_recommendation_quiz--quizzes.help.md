@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for individuals to provide their personal preferences and characteristics to help them find the most suitable contact lens options for their needs. The form asks a series of questions to gather information on their current vision correction method, contact lens experience, intended usage, and personal preferences. This data will be used to provide personalized recommendations for contact lenses that fit their specific needs and lifestyle.
-
-To ensure accuracy, please complete this form carefully and honestly. 
-
-Please note that this form will be used to recommend contact lenses that are suitable for your needs, but not to diagnose any eye conditions. If you have any existing eye conditions or concerns, please consult an eye care professional before using this form.
-</thinking>
-
 # Contact Lens Recommendation Quiz - Help Guide
 ## Purpose
 This form is designed to help you find the perfect contact lenses for your needs by gathering information about your personal preferences and characteristics.

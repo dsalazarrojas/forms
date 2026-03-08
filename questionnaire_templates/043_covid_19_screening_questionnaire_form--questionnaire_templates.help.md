@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid 19 Screening Questionnaire Form - Help Guide
 ## Purpose
 

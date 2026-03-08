@@ -1,8 +1,3 @@
-<thinking>
-This form was created using AI and is not affiliated with any form platform. The form is an original adaptation of public survey topic metadata and does not copy or use proprietary content from any form creation, data collection, or survey platform. This form is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, as long as you give credit.
-The form, titled "Granny Flat Regulations Quiz", is designed to collect information related to granny flats, which are small, self-contained housing units, often built on residential properties. The form appears to be focused on collecting user input on various aspects of granny flat regulations, such as zones, floor area, and height.
-</thinking>
-
 # Granny Flat Regulations Quiz - Help Guide
 ## Purpose
 The "Granny Flat Regulations Quiz" is a form designed to collect information on various aspects of granny flat regulations. The form aims to gather user input on topics such as zones, floor area, and height of granny flats.

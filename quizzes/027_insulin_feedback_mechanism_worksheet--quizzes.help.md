@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback on insulin regulation mechanisms from users. The form has multiple fields that ask about various aspects of insulin regulation, including effects, sensitivity, dosage, and adherence. The purpose of this form is to gather information on how users regulate their insulin, which is crucial for understanding and improving the insulin feedback mechanism.
-</thinking>
-
 # Insulin Feedback Mechanism Worksheet - Help Guide
 ## Purpose
 This form is designed to collect feedback on insulin regulation mechanisms from users. It helps us understand how individuals regulate their insulin, which is essential for improving the feedback mechanism.

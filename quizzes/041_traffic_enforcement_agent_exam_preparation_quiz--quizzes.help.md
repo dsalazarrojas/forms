@@ -1,8 +1,3 @@
-<thinking>... 
-
-This form is designed to help traffic enforcement agents prepare for their exams by testing their knowledge of traffic laws, enforcement, violations, fines, and crashes and investigations. The form consists of multiple sections, each focusing on a specific topic related to traffic enforcement. The exam preparation quiz is intended to be a helpful tool for agents to assess their knowledge and identify areas where they need improvement.
-
-</thinking>
 # Traffic Enforcement Agent Exam Preparation Quiz - Help Guide
 ## Purpose
 

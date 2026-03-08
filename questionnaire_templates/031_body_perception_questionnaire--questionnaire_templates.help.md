@@ -1,12 +1,3 @@
-<thinking>
-To confirm, this form is a questionnaire designed to assess individuals' body awareness, which is the ability to notice and perceive physical sensations, changes, and sensations within their body. 
-This form will not be used to diagnose any mental health issues. 
-Please answer these questions in accordance with your genuine experiences and perceptions. 
-The form is not a medical or psychological evaluation, and results should not be used as a substitute for medical diagnosis or treatment. 
-This form is part of our research and not intended for commercial use. 
-
-</thinking>
-
 # Body Perception Questionnaire - Help Guide
 
 ## Purpose

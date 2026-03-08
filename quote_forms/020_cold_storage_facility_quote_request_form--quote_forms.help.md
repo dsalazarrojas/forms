@@ -1,9 +1,3 @@
-<thinking>
-To ensure the form is used correctly and efficiently, please make sure you understand the purpose and requirements before proceeding.
-- The form is for requesting a quote for a cold storage facility.
-- Please do not duplicate requests. If you have already submitted a quote request, please do not submit another.
-</thinking>
-
 # Cold Storage Facility Quote Request Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for electrical services price list. It is intended for internal use within the organization and should only be filled out by authorized personnel. 
-To ensure accurate pricing data, please do not fill out this form multiple times, as it may lead to duplicate or outdated information. 
-</thinking>
-
 # Electrical Services Price List - Help Guide
 ## Purpose
 The Electrical Services Price List form is a tool to gather relevant information for electrical services, including service requests, schedule preferences, contact details, service type, pricing inquiries, schedule start and end dates, service price, additional notes, and assigned contact. This information helps in creating an up-to-date price list for electrical services.

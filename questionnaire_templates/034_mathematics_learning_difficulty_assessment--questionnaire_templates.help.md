@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the difficulty of mathematics concepts for students. It's intended to be used by educators to evaluate and track the learning progress of their students. The form is meant to be filled out by educators to provide a clear and objective assessment of the difficulty level of various math concepts. This form should not be filled out by students. It's essential to ensure that the form is filled out accurately and truthfully to provide a reliable assessment.
-</thinking>
-
 # mathematics_learning_difficulty_assessment - Help Guide
 ## Purpose
 The purpose of this form is to help educators assess the difficulty of various mathematics concepts for students, providing a clear and objective measure of the concepts' complexity.

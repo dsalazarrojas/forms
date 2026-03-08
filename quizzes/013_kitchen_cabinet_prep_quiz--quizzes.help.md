@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users assess a client's readiness and confidence when it comes to kitchen cabinet prep, a critical task that requires attention to safety and precision. The form is designed to gather information about the client's needs and preferences, ensuring that the user is properly equipped and prepared for the task at hand. It's essential to complete this form accurately to avoid misunderstandings and ensure a smooth experience for both the user and the client.
-</thinking>
-
 # Kitchen Cabinet Prep Quiz - Help Guide
 ## Purpose
 The Kitchen Cabinet Prep Quiz is a tool used to determine a client's readiness and confidence when it comes to kitchen cabinet prep. It helps users assess the client's needs and preferences, ensuring a smooth experience for both the user and the client.

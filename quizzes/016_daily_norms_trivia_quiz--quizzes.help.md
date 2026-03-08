@@ -1,10 +1,3 @@
-<thinking>... internal reasoning block ...
-The form "daily-norms-trivia-quiz" is designed to be a fun, engaging, and educational experience for users. It's intended to help users test their knowledge and skills in a specific area, likely related to trivia or general knowledge. The form consists of 25 fields, each with a specific type and purpose. To ensure accurate and helpful guidance, I will review each field to provide clear explanations and instructions for users. I will also check for duplication of effort and provide a concise, practical, and user-friendly guide.
-
-The form seems to be a series of questions and screens, with some screens having multiple options to select from. The fields appear to be designed to gather various types of information, including multiple-choice answers, free-text responses, and date/time inputs.
-
-To avoid duplication, I will focus on providing a comprehensive guide for the most critical fields, ensuring that users understand the purpose and requirements of each field. I will also provide tips and best practices to make the user experience more enjoyable and efficient. ...</thinking>
-
 # daily-norms-trivia-quiz - Help Guide
 ## Purpose
 The "daily-norms-trivia-quiz" form is designed to test your knowledge and skills in a fun and engaging way. It consists of multiple questions and screens, each with specific options to choose from. The form is intended to be a self-assessment tool, helping you evaluate your understanding in a particular area.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a landlord from a user. This form is likely to be used for internal purposes such as verifying the identity of a landlord or for administrative tasks. Please ensure that you are filling out this form for the correct purpose and not duplicating information already available.
-</thinking>
-
 # Landlord Questionnaire - Help Guide
 ## Purpose
 This form is used to collect contact and property information from a landlord for internal administrative purposes.

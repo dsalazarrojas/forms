@@ -1,7 +1,3 @@
-<thinking>
-This form is a "property_exit_inspection_form" used to gather information about a property's details, condition, and potential damages or repairs. It appears to be used in a real estate context, likely for insurance, appraisal, or other property-related purposes. The form has 9 fields, all optional, with a mix of text, select multiple, and number data types. The fields are: Property Details, Property Status, Condition, Damage Report, Repair Status, Property Damage, Repair Cost, Property Damage Photos, and Property Damage Description. This form does not require any specific business logic or external data sources, so the field explanations will be based on the provided YAML fields.
-</thinking>
-
 # property_exit_inspection_form - Help Guide
 ## Purpose
 This form is used to gather information about a property's details, condition, and potential damages or repairs.

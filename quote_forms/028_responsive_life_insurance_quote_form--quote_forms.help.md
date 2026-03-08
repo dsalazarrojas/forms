@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in obtaining a life insurance quote. The form is divided into two sections: the policyholder's personal information and the life insurance quote details. This guide will walk you through each field's purpose and requirements.
-
-</thinking>
-
 # Responsive Life Insurance Quote Form - Help Guide
 ## Purpose
 The Responsive Life Insurance Quote Form is designed to collect essential details from individuals interested in obtaining a life insurance quote. This form is intended to provide a comprehensive overview of the policyholder's information, including their type of life insurance, insurance amount, and personal details, to generate an accurate quote.

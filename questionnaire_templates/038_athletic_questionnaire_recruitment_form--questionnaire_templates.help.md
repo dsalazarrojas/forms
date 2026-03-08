@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's quickly review the form's purpose and ensure we're not duplicating any existing documentation. This form is intended to collect information from potential recruits interested in the athletic program at a specific school. The form aims to gather detailed information about the athlete, including personal details, academic and athletic achievements, and their interest in the program. It seems like we're covering all the required fields, and some fields are optional. Now that we've checked for relevance and non-duplication, let's create the help guide.</thinking>
-
 # Athletic Questionnaire Recruitment Form - Help Guide
 
 ## Purpose

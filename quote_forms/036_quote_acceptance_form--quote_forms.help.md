@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to obtain a client's acceptance of a quote. This form ensures that the client's acceptance is recorded and that all required information is provided.
 
 ## quote_acceptance_form - Help Guide

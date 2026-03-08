@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to help real estate agents gather information from potential home buyers about their needs and preferences. This form can be used to identify the most likely candidates for a property, helping the agent to better understand the buyer's requirements and tailor their sales strategy accordingly. This information can also be used for lead generation and to follow up with the buyers for further discussions. 
-
-However, before creating this form, the real estate agents should first check if similar information is not already stored in the CRM (Customer Relationship Management) system. This way, they can avoid duplicating information and wasting the buyer's time. 
-</thinking>
-
 # House Buyers Need Analysis Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential home buyers about their preferences and requirements for a house purchase. The data gathered through this form can aid real estate agents in identifying the most suitable properties for each buyer and tailor their sales strategy to meet their needs.

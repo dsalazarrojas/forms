@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information from patients about their sleep quality, duration, schedule, latency, and other sleep-related aspects. It is designed to help healthcare professionals understand the patient's sleep habits and provide personalized recommendations. To ensure data accuracy, please complete the form in its entirety. Note that some fields are not required, but providing accurate information will help in making informed decisions. Before starting, consider the following:
-- This form is not a replacement for professional medical advice.
-- Answer truthfully, as it will help in providing accurate recommendations.
-- If you have any questions or concerns, feel free to ask your healthcare professional.
-</thinking>
-
 # sleep_consultation_form - Help Guide
 
 ## Purpose

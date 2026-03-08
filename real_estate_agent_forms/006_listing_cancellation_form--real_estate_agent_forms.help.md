@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to cancel a listing, which is a crucial process in various real estate contexts. This form is used to collect information about the listing cancellation, ensuring that the cancellation is properly documented and communicated to the relevant parties. It's essential to complete this form accurately to avoid any potential issues or misunderstandings. Before proceeding, please ensure that the listing cancellation is justified and not a duplicate request.
-</thinking>
-
 # Listing Cancellation Form - Help Guide
 ## Purpose
 The Listing Cancellation Form is used to cancel a listing, providing a structured process for documenting and communicating the cancellation details.

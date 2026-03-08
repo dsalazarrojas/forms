@@ -1,8 +1,3 @@
-<thinking> 
-We are checking if the form is relevant to our context. This form is a quiz that tests knowledge about the male reproductive system. It has various fields to gather information about the category, description, assigned tool, output files, form IDs, categories, and tools. The form is designed to collect data for a specific purpose, likely for educational or research purposes. We will review each field to ensure that the explanations are clear and concise. 
-
-</thinking>
-
 # Male Reproductive System Quiz - Help Guide
 ## Purpose
 The Male Reproductive System Quiz is a tool to test knowledge about the male reproductive system. It consists of multiple fields to gather information about the category, description, assigned tool, output files, form IDs, categories, and tools.

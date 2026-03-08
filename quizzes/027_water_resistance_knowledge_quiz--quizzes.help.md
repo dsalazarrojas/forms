@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help teachers evaluate student performance and understanding on water resistance, a physics concept. The form asks students to rate their confidence in their answers to various questions related to water resistance, and then asks for feedback and other additional information. This form is likely to be used in a educational setting, possibly in a science or physics class.
-The form has multiple fields that are used to gather data, and it is not immediately clear what each field is used for without further explanation. I will make sure to clearly explain each field below.
-</thinking>
-
 # water_resistance_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to help teachers evaluate student performance and understanding of water resistance, a physics concept. It includes questions and rating fields that assess student knowledge and confidence in their answers.

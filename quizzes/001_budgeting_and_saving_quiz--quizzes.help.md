@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users evaluate their current financial habits and knowledge, and to provide personalized feedback on areas for improvement. The goal is to assist users in identifying their financial strengths and weaknesses, and to suggest targeted strategies for achieving their financial goals.
-</thinking>
-
 # Budgeting And Saving Quiz - Help Guide
 ## Purpose
 This quiz is designed to assess your current financial habits and knowledge, and provide you with personalized feedback on areas where you can improve your financial well-being.

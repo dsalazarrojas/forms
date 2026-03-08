@@ -1,9 +1,3 @@
-<thinking>
-...this is a form used for gathering information about patient history related to substance use, and its purpose is to assess the patient's past experiences and history with substances...
-...it is intended to be used as a reference for healthcare professionals to better understand the patient's situation and provide accurate medical care...
-...this form is not affiliated with or derived from any form platform, but rather a creation of AI using public metadata from the "questionnaire_templates" category...
-</thinking>
-
 # Substance Use Assessment Questionnaire - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking> 
-This guide provides a brief explanation of the internal reasoning behind the questionnaire, as well as its purpose. The purpose of this questionnaire is to collect user feedback on their experience with the website's navigation, which will help to identify areas for improvement and optimize the user experience. 
-
-To avoid duplication, it's essential to check if a similar questionnaire has been filled out by the same user before. This will help to prevent users from filling out the same form multiple times.
-
-The questionnaire is designed to gather data on various aspects of the website's navigation, such as the user's homepage experience, navigation menu, and other features like search, breadcrumbs, contact, accessibility, device experience, visitor type, and feedback. Each section is designed to gather specific information that will help to improve the website's user experience.
-
-</thinking>
-
 # Website Navigation Experience Questionnaire - Help Guide
 ## Purpose
 The purpose of this questionnaire is to collect user feedback on your experience with our website's navigation. This will help us to identify areas for improvement and optimize the user experience.

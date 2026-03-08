@@ -1,5 +1,3 @@
-<thinking>...checking for form purpose and non-duplication...</thinking>
-
 # Geometric Design Patterns Quiz - Help Guide
 
 ## Purpose

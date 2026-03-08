@@ -1,13 +1,3 @@
-<thinking>Meat Composition Knowledge Quiz - Help Guide
-
-This form, "Meat Composition Knowledge Quiz", is designed for participants to assess their knowledge on meat composition. The form is intended for individuals interested in the nutritional and scientific aspects of meat, such as educators, trainers, and researchers. However, it is also accessible to anyone who wants to test their understanding of meat composition.
-
-Before proceeding with the quiz, let's ensure that you are not duplicating efforts or filling in the wrong form. Please note that this form is not intended for general public use, but for specific educational or research purposes.
-
-If you are not a part of the intended audience (educators, trainers, or researchers), please do not fill this form. You may be interested in our other quizzes or surveys that cater to your needs. 
-
-</thinking>
-
 # Meat Composition Knowledge Quiz - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is to assist users in completing the unpaid_sellers_remedies_quiz form. The form is intended to gather information on unpaid seller remedies, which are measures taken by sellers to address losses or issues that may affect their sales or revenue. This includes options such as loss of sale, loss of profit, loss of interest, or other revenue-related issues. The form also includes fields for users to provide example answers or questions related to these topics. It's essential to complete this form accurately to ensure the collected data is helpful for the form's purpose.
-
-Before starting, please ensure you are not submitting duplicate or irrelevant information. If you're unsure about the form's purpose or have questions, feel free to contact us at form@gic.mx.
-
-</thinking>
-
 # Unpaid Sellers Remedies Quiz - Help Guide
 ## Purpose
 This form is designed to help sellers identify potential reasons for losses or issues affecting their sales or revenue.

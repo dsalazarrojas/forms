@@ -1,13 +1,3 @@
-<thinking>
-
-To provide a comprehensive help guide for the "Content Strategy Assessment" form, let's analyze the form's purpose and requirements.
-
-This form is designed to help content strategists and marketing teams assess their current content marketing practices, identify areas of improvement, and provide valuable insights for informed decision-making.
-
-To ensure that the form is completed accurately and thoroughly, the following sections will guide the user through the form fields and explanations.
-
-</thinking>
-
 # Content Strategy Assessment - Help Guide
 
 ## Purpose

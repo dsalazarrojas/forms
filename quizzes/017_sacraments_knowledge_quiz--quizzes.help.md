@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess users' knowledge on the sacraments, a key part of various faith traditions, particularly in the Catholic faith. The quiz aims to evaluate users' understanding of the sacraments, their characteristics, and their role in religious practices. By completing this form, users can demonstrate their knowledge of the sacraments and how they are performed in different contexts.
-
-To ensure accurate and meaningful responses, the form is designed to be clear, concise, and easy to understand. Each field is carefully crafted to guide users through the process, and the explanations provided here will help users navigate the form efficiently.
-
-Before answering, please note that some fields may have limited options or require users to select a specific response. Make sure to read each field's label carefully to ensure you provide the correct answer.
-
-</thinking>
-
 # Sacraments Knowledge Quiz - Help Guide
 ## Purpose
 

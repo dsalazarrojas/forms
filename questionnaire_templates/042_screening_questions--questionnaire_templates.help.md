@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose of the "Screening Questions" form and how to complete it. The form is designed to gather information from users about their marine screening questions. 
-
-Please ensure you are reading this guide to complete the correct form and not a duplicate or outdated version. Before proceeding, please review the form's purpose and fields to understand their relevance to your specific context.
-
-This guide is intended for users who need to complete the "Screening Questions" form. 
-
-</thinking>
-
 # Screening Questions - Help Guide
 ## Purpose
 The "Screening Questions" form is a tool used to gather information about marine screening questions. This form is designed to help users provide detailed answers to a series of questions related to marine screening.

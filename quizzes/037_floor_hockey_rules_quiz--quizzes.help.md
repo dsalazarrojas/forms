@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block to check if the form purpose and fields are valid. Form purpose: To collect information about floor hockey game rules. Fields: The form has 25 fields, including input fields for game start time, game duration, score board, game stop time, referee signal, game officials, scorekeepers, and other game-related information. Each field is designed to collect specific data for a floor hockey game. The form requires certain fields to be filled, while others are optional. For example, game start date and game stop date are required, while game stop time is not required. The game officials and scorekeepers fields are required to be multiple selections, but the options are not explicitly defined in the YAML. To ensure the form is used correctly, a user should fill in the required fields and use their best judgment for the optional fields. If there are any doubts or inconsistencies in the form, please refer to the game rules documentation.</thinking>
-
 # Floor Hockey Rules Quiz - Help Guide
 
 ## Purpose

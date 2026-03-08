@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # SELLERS_PRODUCT_EVALUATION_QUESTIONNAIRE - Help Guide
 ## Purpose
 The Sellers Product Evaluation Questionnaire is designed to collect information about a product and its seller. This form helps evaluate the product's features, quality, and overall satisfaction.

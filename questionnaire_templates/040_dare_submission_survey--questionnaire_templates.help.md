@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who have submitted Dares, which are likely a type of dare or challenge. The form is designed to gather data about the submitters, including their contact information and the specific details of the Dare they have submitted. This form is likely used for internal purposes, such as tracking and managing Dares, rather than for public display. Before completing this form, please ensure that you have permission to submit a Dare and that you are not duplicating an already submitted form.
-</thinking>
-
 # Dare Submission Survey - Help Guide
 ## Purpose
 This form is intended to collect information from individuals who have submitted Dares, such as their contact information and the specific details of the Dare they have submitted.

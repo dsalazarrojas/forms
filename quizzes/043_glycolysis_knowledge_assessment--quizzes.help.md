@@ -1,9 +1,3 @@
-<thinking>
-The form "glycolysis_knowledge_assessment" is used to collect information about glycolysis, a process of cellular respiration in which glucose is converted into energy for the cell. This form is likely used in an educational setting, such as a biology course, to assess students' knowledge about glycolysis.
-To determine the relevance of this form, I will assume that it is intended for educational purposes and is used to evaluate students' understanding of glycolysis. 
-No other specific information is available, so I will not check for duplication.
-</thinking>
-
 # glycolysis_knowledge_assessment - Help Guide
 ## Purpose
 

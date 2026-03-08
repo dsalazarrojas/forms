@@ -1,16 +1,3 @@
-<thinking> 
-We need to create a help guide for the "PC Quote Form" that explains its purpose, how to complete it, and provides a field-by-field explanation for each field. 
-
-The form is likely a quote request form for customers, and its purpose is to gather information from customers about their product needs and preferences. The form may be used by sales employees to generate quotes for products such as computers, hardware, and software. The form is not a standard form, so it's possible that some fields may not be applicable to every quote request.
-
-To complete this form, the customer will need to fill out their personal details (name, email, address, phone, city, state, zip, and country) as well as information about the product they are interested in (product type, quantity, and cost). They will also need to provide any customer notes and terms they would like to include in the quote. Additionally, they will need to confirm their signature and possibly provide a date and time for the quote.
-
-We will need to carefully review the provided YAML fields to ensure that we understand the correct information to include in each field explanation. We will also need to be aware of any potential ambiguities or inconsistencies in the form.
-
-After reviewing the YAML fields, we can start creating the guide.
-
-</thinking>
-
 # PC Quote Form - Help Guide
 
 ## Purpose

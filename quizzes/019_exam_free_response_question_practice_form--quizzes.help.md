@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # exam_free_response_question_practice_form - Help Guide
 ## Purpose
 This form is designed to collect user information and preferences for practice purposes. It will ask a variety of questions to gather data on demographics, habits, and interests.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a knowledge quiz intended to test users' understanding of remittance advice. Remittance advice is a critical concept in finance, particularly in account receivable and payable processes. It involves the documentation and communication of payment instructions between businesses. The form will likely be used in an educational or training setting to assess users' familiarity with remittance advice concepts. To ensure the form is not being completed for non-relevant or non-educational purposes, we will need to verify the purpose of the form with the form owner or stakeholders before providing the user-facing help guide.
-</thinking>
-
 # Remittance Advice Knowledge Quiz - Help Guide
 ## Purpose
 The Remittance Advice Knowledge Quiz is a tool designed to test your understanding of remittance advice concepts. This quiz will assess your knowledge of remittance advice, its types, and its application in financial transactions.

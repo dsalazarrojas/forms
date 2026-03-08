@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to submit their score predictions for sports events. It is meant to be completed by users who want to provide their forecasts for the outcome of a game or match. The form will ask for general information from the user, such as their name and email address, but also for more specific details like their score predictions and job title. The form is designed to be simple and straightforward, with a focus on gathering accurate and relevant information from the user.
-
-</thinking>
-
 # score-prediction-quiz - Help Guide
 ## Purpose
 This form is designed to collect score predictions from users for sports events. It is meant to be completed by users who want to provide their forecasts for the outcome of a game or match.

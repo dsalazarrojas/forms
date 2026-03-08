@@ -1,7 +1,3 @@
-<thinking>
-To create a user-friendly help guide for this "Property Inquiry Form", I will first analyze the provided YAML fields to understand the form's purpose, required fields, and field explanations.
-</thinking>
-
 # Property Inquiry Form - Help Guide
 ## Purpose
 The Property Inquiry Form is a text-based form used to gather information about a property inquiry. It is designed to collect contact details and property-related information from users, enabling real estate agents or property managers to respond to their inquiries efficiently.

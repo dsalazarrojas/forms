@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Receptor Biology Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge on receptor biology basics and advanced concepts.

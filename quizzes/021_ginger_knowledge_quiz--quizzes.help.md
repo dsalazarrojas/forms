@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ginger Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to help test your knowledge on a set of questions. It allows you to create a quiz with up to 8 questions, each with 2 possible answers and a feedback field for users to provide comments. The quiz title, category, and description can also be customized.

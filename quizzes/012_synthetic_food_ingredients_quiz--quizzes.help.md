@@ -1,15 +1,3 @@
-<thinking>
-
-To create a help guide for the "Synthetic Food Ingredients Quiz" form, I will analyze the provided YAML fields to understand the form's purpose, how to complete it, and what each field means.
-
-The form appears to be designed to assess users' knowledge and perceptions about synthetic food ingredients, covering various aspects such as general knowledge, safety concerns, health effects, regulatory guidelines, educational impact, assessment strategy, evaluation and reporting, additional questions, review and appeal, and feedback and comments.
-
-The form has a total of 11 pages (or sections), each with different types of questions such as text input, multiple-select, select one, and note fields. Some fields are optional while others are required, but it seems that no specific rules are in place regarding the order of questions or the minimum required answers.
-
-Based on the structure, the form likely aims to gauge users' understanding and opinions on synthetic food ingredients across different dimensions.
-
-</thinking>
-
 # Synthetic Food Ingredients Quiz - Help Guide
 ## Purpose
 The Synthetic Food Ingredients Quiz is designed to test your knowledge and opinions on various aspects of synthetic food ingredients, including general knowledge, safety concerns, health effects, regulatory guidelines, and more. This quiz will help us understand your perceptions and understanding of these topics.

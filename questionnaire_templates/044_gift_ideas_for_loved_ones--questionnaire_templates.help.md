@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gift Ideas For Loved Ones - Help Guide
 ## Purpose
 This form is designed to help you generate gift ideas for loved ones by collecting information about the recipient, their interests, and the occasion. Fill out this form to receive a list of thoughtful gift ideas tailored to your loved one's preferences.

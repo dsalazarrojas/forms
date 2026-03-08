@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test users' knowledge of beer-related topics, covering various aspects of brewing and beer styles. The Cicerone Discourse Quiz form has 10 questions that aim to assess the user's understanding of beer brewing and terminology. The form is divided into two sections: one for the questions and another for feedback and additional comments. Each section has a distinct label and purpose, guiding the user through the form.
-</thinking>
-
 # Cicerone Discourse Quiz - Help Guide
 ## Purpose
 This form aims to evaluate users' knowledge of various beer-related topics, including brewing processes, styles, and terminology.

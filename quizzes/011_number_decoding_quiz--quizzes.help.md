@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to be a Number Decoding Quiz, a tool to test and improve number decoding skills in students. The form is likely used in an educational setting to gauge the student's ability to decode numbers correctly. It's probably intended for students to answer a series of questions or perform some task related to number decoding. The form may be used to evaluate student progress, identify areas of improvement, or track student performance over time. This form might be part of a larger assessment or survey to gather data on student's number decoding skills.
-
-Please ensure that the form is only completed once per student and that the student's name and other identifying information is accurate.
-
-The form is likely used by teachers, educators, or administrators to record student performance, so it's essential to keep sensitive data secure and confidential.
-
-Before completing the form, review each section carefully to ensure you have all the necessary information.
-
-Please note that some fields are optional, but providing accurate and complete information will help provide more accurate results.
-
-Before submitting the form, review all your answers carefully to ensure accuracy.
-
-</thinking>
-
 # Number Decoding Quiz - Help Guide
 ## Purpose
 This form is designed to assess a student's number decoding skills. It is intended for educational purposes only.

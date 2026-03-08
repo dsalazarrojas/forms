@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animation Fundamentals Quiz - Help Guide
 ## Purpose
 This form is designed to test the understanding of animation fundamentals, specifically the 12 principles of animation defined by Disney. It is intended for students or professionals who want to evaluate their knowledge on this subject.

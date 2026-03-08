@@ -1,10 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Gaming Modding Knowledge Quiz" form, which aims to gauge users' knowledge and experience in modding games. This form is designed to be a comprehensive tool for assessing their understanding of modding concepts, tools, and practices. By providing clear instructions and explanations, we can ensure that users can navigate the form effectively and obtain accurate results. To prevent duplication and ensure relevance, we'll focus on providing a unique and engaging user experience.
-
-The target audience for this guide is users who have not worked with modding tools before, as well as experienced modders looking to assess their knowledge. We'll cover the form's purpose, completion instructions, and field-by-field explanations to cater to both groups.
-
-</thinking>
-
 # Gaming Modding Knowledge Quiz - Help Guide
 ## Purpose
 The "Gaming Modding Knowledge Quiz" form is designed to test your knowledge and experience in modding games. It will assess your understanding of modding concepts, tools, and practices.

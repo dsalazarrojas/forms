@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from educators about their sociolinguistics and pragmatics quiz, specifically regarding their institution, quiz type, and other relevant details. This form aims to gather accurate and reliable data for the quiz creators or administrators. To confirm, are there any specific requirements or restrictions that should be noted? 
-
-Is the institution URL supposed to be a public URL, a private one, or something else entirely? Should the quiz type be mutually exclusive or can an educator provide multiple quiz types in their response?
-
-</thinking>
-
 # Sociolinguistics And Pragmatics Quiz - Help Guide
 ## Purpose
 This form is intended to collect information from educators about their sociolinguistics and pragmatics quiz. The collected data will be used for creating and managing quizzes.

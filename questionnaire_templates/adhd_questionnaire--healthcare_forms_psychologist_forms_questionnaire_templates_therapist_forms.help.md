@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-The purpose of this form is to gather information about a patient's demographics and symptoms related to Attention Deficit Hyperactivity Disorder (ADHD). This form will help us understand their personal details, such as name, date of birth, contact information, and medical history. Additionally, it will help us assess the frequency and severity of their ADHD symptoms, as well as any previous diagnoses or family history of mental health conditions.
+# The purpose of this form is to gather information about a patient's demographics and symptoms related to Attention Deficit Hyperactivity Disorder (ADHD). This form will help us understand their personal details, such as name, date of birth, contact information, and medical history. Additionally, it will help us assess the frequency and severity of their ADHD symptoms, as well as any previous diagnoses or family history of mental health conditions.
 
 This form should only be completed by the patient themselves, and the information provided will be kept confidential.
 

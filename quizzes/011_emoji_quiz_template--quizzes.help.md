@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emoji Quiz Template - Help Guide
 ## Purpose
 This form is designed to help you create an Emoji Quiz Template, a fun and interactive way to share your knowledge or create a quiz for your audience. You can add your own emojis, customize the appearance, and share it with others.

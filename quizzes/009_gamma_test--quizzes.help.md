@@ -1,5 +1,3 @@
-<thinking>Understanding the form purpose and context is crucial for users to navigate the form effectively. The "Gamma Test" form is a tool designed to assess various aspects of an individual's gamma function, a cognitive ability crucial for processing and storing information in short-term memory. The form is composed of three text input fields, each representing a different page of a multi-page test. This guide will walk you through the process of completing the form, explaining each field and providing tips for a smooth experience.</thinking>
-
 # Gamma Test - Help Guide
 ## Purpose
 The Gamma Test is a cognitive assessment tool that evaluates an individual's gamma function, a mental process essential for retaining and retrieving information from working memory. This form is designed to be completed in multiple pages, each focusing on specific aspects of gamma function.

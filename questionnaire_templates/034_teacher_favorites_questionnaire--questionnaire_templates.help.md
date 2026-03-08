@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form, "teacher_favorites_questionnaire," is to collect information about a teacher's favorite subjects, activities, hobbies, interests, and preferences. This form is designed to be a quick and efficient way to gather data on a teacher's favorite things, which can be useful for various purposes, such as creating a teacher profile or conducting surveys.
-
-Please note that the form is intended for teachers who have a strong preference for certain subjects, activities, hobbies, interests, and preferences. If you're unsure about any of the options, please select the one that best reflects your personal preference.
-
-Before proceeding, ensure that you have not already completed this form, as duplicate entries can cause confusion and skew the data.
-
-</thinking>
-
 # teacher_favorites_questionnaire - Help Guide
 ## Purpose
 The teacher_favorites_questionnaire form is designed to collect a teacher's favorite subjects, activities, hobbies, interests, and preferences.

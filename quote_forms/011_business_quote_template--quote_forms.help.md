@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Business Quote Template form, we must first consider its purpose. This form appears to be designed for creating business quotes or estimates for specific projects or services, gathering information such as quote numbers, client details, project descriptions, prices, and payment terms. To ensure that users understand the form's purpose and usage correctly, we should check that the form is being used for its intended purpose and not duplicating any other forms or features that serve similar purposes. If this form is meant to be used for multiple types of quotes or projects, the instructions should be clear and concise enough to guide users through each type of usage correctly.
-
-The Business Quote Template form has 23 fields, including unique identifiers, dates, client information, project details, pricing, and payment terms. To make the most of this form, users should be guided through each field with a clear understanding of its purpose and requiredness.
-
-</thinking>
-
 # Business Quote Template - Help Guide
 ## Purpose
 The Business Quote Template is designed to create a comprehensive quote or estimate for a specific project or service, gathering essential information from clients and detailing prices, terms, and conditions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Cake Quote Form" that is designed to gather information from customers to provide personalized quotes for cake orders. The form is likely used by bakeries or cake decorators to collect customer preferences and requirements for custom cake designs. The form fields are divided into several sections, including customer information, event details, and cake specifics. To fill out the form, customers will provide their name, company name, email address, phone number, and quote date. They will also specify the event date, type, and number of people to serve. Additionally, customers will choose the cake shape, flavor, frosting type, and any dietary requirements. The form also asks about delivery and setup requirements, as well as the validity of the quote. Customers can also provide additional notes if needed.
-</thinking>
-
 # Cake Quote Form - Help Guide
 ## Purpose
 The Cake Quote Form is designed to gather information from customers to provide personalized quotes for custom cake orders.

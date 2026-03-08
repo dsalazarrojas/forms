@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist in classifying independent contractors by gathering information about their business structure, ownership, payment terms, and other relevant details. The form is intended for use by administrators or HR personnel to accurately classify contractors and ensure compliance with relevant laws and regulations. Please ensure that you only complete this form for individuals or businesses that are genuinely independent contractors and not employees of the company. This form should not be used for internal employees or for purposes other than classification of independent contractors.
-</thinking>
-
 # Independent Contractor Classification Questionnaire - Help Guide
 ## Purpose
 The Independent Contractor Classification Questionnaire is a tool used to gather information about independent contractors, their business structure, ownership, and payment terms to ensure accurate classification and compliance with relevant laws and regulations.

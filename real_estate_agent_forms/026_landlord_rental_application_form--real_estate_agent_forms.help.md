@@ -1,12 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Landlord Rental Application Form", we first need to understand its purpose. This form is likely used to collect information from landlords who are interested in renting their properties through a specific platform or service. The form is designed to gather essential details about the landlord, such as their name, contact information, and agreement to terms and conditions. 
-
-We also need to check if the form is not duplicating or unnecessary fields, ensuring that all required fields are actually necessary for the process and that there are no redundant fields. Based on the YAML provided, most fields seem to be optional, which might indicate that they could be used as defaults or have a specific requirement not explicitly stated.
-
-The fields are categorized into general information (first name, last name, email, phone), property-related fields (property address, rent start date, rent end date), agreement fields (rent period, rent frequency, move-in status, lease agreement, rental agreement), and status fields (landlord agreement and rental agreement).
-
-Before we proceed, let's assume that we're going to cover all the fields and their possible uses to the user. This will help us create a comprehensive user-facing help guide. </thinking>
-
 # Landlord Rental Application Form - Help Guide
 
 ## Purpose

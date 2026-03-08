@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide a comprehensive guide to completing the postpartum health evaluation form, it's essential to consider that this form is designed to collect information from new mothers to assess their postpartum health, focusing on various aspects of recovery, medical history, and complications that may arise. It's crucial that this form is filled out by a medical professional, such as a healthcare provider, and not by the mother herself. This form will help healthcare providers evaluate the mother's postpartum status and provide targeted care and support.
 
 The purpose of this form is to collect and record information about the mother's postpartum health, including any medical history, medication allergies, breastfeeding support, and any complications or issues that may have arisen during the postpartum period.

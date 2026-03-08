@@ -1,15 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the "Primary Care Knowledge Quiz" form. Before proceeding, please take a moment to review the form's objectives and ensure that you have a clear understanding of its purpose. This guide will walk you through the form's structure and each field's requirements, helping you to complete it accurately and efficiently.
-
-To confirm relevance and non-duplication, please review the following:
-
-* Form title: "Primary Care Knowledge Quiz"
-* Form purpose: This form is designed to assess users' knowledge and understanding of primary care topics.
-* Form fields: The form includes 13 fields, including text input fields, select options, date fields, time fields, notes, and email fields.
-
-If you have any questions or concerns, please let us know and we will be happy to assist you.
-</thinking>
-
 # Primary Care Knowledge Quiz - Help Guide
 ## Purpose
 The "Primary Care Knowledge Quiz" form is designed to assess users' knowledge and understanding of primary care topics. It is a comprehensive tool for evaluating your knowledge in this area, helping you gauge your proficiency and identify areas for improvement.

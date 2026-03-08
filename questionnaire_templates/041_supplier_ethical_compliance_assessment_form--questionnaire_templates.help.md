@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a supplier's ethical compliance in the context of your business. The form should only be used to collect information from suppliers that you have an existing relationship with or are considering partnering with. The form's purpose is to gather relevant information about the supplier's business practices, policies, and procedures related to ethical compliance. Please ensure that this form is not used to collect redundant or unnecessary information from suppliers.
-</thinking>
-
 # Supplier Ethical Compliance Assessment Form - Help Guide
 ## Purpose
 The Supplier Ethical Compliance Assessment Form is a questionnaire designed to gather information about a supplier's business practices, policies, and procedures related to ethical compliance. This form helps you assess the supplier's ability to meet your company's ethical standards and requirements.

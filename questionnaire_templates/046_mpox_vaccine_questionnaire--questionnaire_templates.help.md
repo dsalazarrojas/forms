@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from individuals about their vaccination status, medical history, and other relevant details for an Mpox vaccine. The goal is to ensure that individuals receive accurate and efficient information for vaccine administration. This guide will walk you through the completion of the Mpox Vaccine Questionnaire, field by field, to help you understand what is required and expected from each section.</thinking>
-
 # Mpox Vaccine Questionnaire - Help Guide
 ## Purpose
 

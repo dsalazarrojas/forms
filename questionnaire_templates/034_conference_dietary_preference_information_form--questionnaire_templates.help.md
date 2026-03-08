@@ -1,15 +1,3 @@
-<thinking>
-
-To help you understand the purpose and requirements of this form, let's take a moment to clarify its intent and relevance.
-
-This form is designed to collect dietary preference information from attendees of a conference. It's essential to provide accurate and complete information to ensure that we can cater to your needs and preferences during the event. 
-
-This form is not meant to be a duplicate of any existing form, nor is it affiliated with any form creation platform. It's an original adaptation, built using only public metadata, and released under the Creative Commons BY 4.0 license.
-
-Before filling out this form, please ensure you're providing accurate and honest information about your dietary needs, so we can take the necessary steps to ensure your comfort and safety during the conference.
-
-</thinking>
-
 # Conference Dietary Preference Information Form - Help Guide
 ## Purpose
 This form is designed to collect dietary preference information from conference attendees to ensure we can cater to their needs and preferences during the event.

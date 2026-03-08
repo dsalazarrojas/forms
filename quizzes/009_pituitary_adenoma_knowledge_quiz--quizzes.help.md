@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to test the user's knowledge about pituitary adenoma, which is a type of tumor that affects the pituitary gland. The form is designed to assess the user's understanding of the symptoms, risk factors, diagnosis, treatment, and follow-up options for pituitary adenoma. It is expected to be completed by healthcare professionals or medical students who require guidance on this topic.
-</thinking>
-
 # Pituitary Adenoma Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about pituitary adenoma. It consists of six questions that cover symptoms, risk factors, diagnosis, treatment, and follow-up options.

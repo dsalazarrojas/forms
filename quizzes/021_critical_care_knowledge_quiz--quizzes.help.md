@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Critical Care Knowledge Quiz - Help Guide
 
 ## Purpose

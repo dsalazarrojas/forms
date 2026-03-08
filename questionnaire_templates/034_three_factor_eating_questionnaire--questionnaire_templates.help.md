@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's eating habits, including their eating frequency, portion size, hunger level, and other related factors. This information will help us understand how individuals manage their eating habits and identify potential areas for improvement.
-We have taken care to ensure that each question is clear and concise. Please complete the form carefully to provide accurate information.
-</thinking>
-
 # Three Factor Eating Questionnaire - Help Guide
 ## Purpose
 The Three Factor Eating Questionnaire is a tool to gather data about an individual's eating habits and behavior.

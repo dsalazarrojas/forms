@@ -1,15 +1,3 @@
-<thinking>Internal Regulations Quiz - Help Guide
-
-This guide is intended for users who need to fill out the Internal Regulations Quiz form. The purpose of this form is to assess knowledge and understanding of internal regulations. Please read this guide carefully and ensure you have understood each field before proceeding.
-
-This guide is not intended to be a comprehensive resource for the form. If you have any doubts or concerns about a particular field, please reach out to your supervisor or the form administrator for clarification.
-
-Before proceeding, ensure that you have read and understood the internal regulations and policies relevant to your role and responsibilities. This quiz is designed to test your knowledge and understanding, not to train you on the regulations.
-
-Please note that the answers provided will be used for informational purposes only and will not affect your actual job or performance evaluation.
-
-</thinking>
-
 # Internal Regulations Quiz - Help Guide
 
 ## Purpose

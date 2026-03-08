@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our vehicle recommendation quiz is being used for its intended purpose and that users are not duplicating their responses. This guide will help users understand what the form is for and how to use it correctly.
-</thinking>
-
 # vehicle_recommendation_quiz - Help Guide
 ## Purpose
 The vehicle recommendation quiz is designed to help us understand your vehicle preferences and needs. Your responses will help us tailor our recommendations to provide you with the best possible solutions.

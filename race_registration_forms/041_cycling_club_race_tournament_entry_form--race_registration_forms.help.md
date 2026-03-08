@@ -1,15 +1,3 @@
-<thinking>
-The Cycling Club Race Tournament Entry Form is designed for users to register their participation in a cycling club race tournament. This form helps to collect information about the participant, including their name, email, phone number, category preferences, bike type, team members, and race details (day and start/finish time). The form will be used to manage the participant's registration for the tournament. It's essential to complete the form accurately to ensure a smooth registration process.
-
-To ensure the form is filled out correctly, we will check for:
-- Unique participant names, emails, and phone numbers.
-- Valid category selections that match the available options.
-- Correct bike type and team size selections.
-- Correct race day and start/finish time selections.
-
-The form's fields are designed to guide the user through the registration process, and this guide will help users understand each field's purpose and requirements.
-</thinking>
-
 # Cycling Club Race Tournament Entry Form - Help Guide
 ## Purpose
 This form is designed to collect participant information for the Cycling Club Race Tournament.

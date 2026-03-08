@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Proportional Detector Understanding Quiz - Help Guide
 ## Purpose
 This form is designed to assess your understanding of a Proportional Detector. A Proportional Detector is a device used to detect and measure the characteristics of particles or substances. The questions in this form will test your knowledge of its principles, applications, and limitations.

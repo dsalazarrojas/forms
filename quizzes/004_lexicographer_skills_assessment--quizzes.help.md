@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the skills of a lexicographer, a person who compiles and edits dictionaries. The purpose of this form is to provide a comprehensive evaluation of the lexicographer's abilities in various areas such as vocabulary, grammar, and linguistic expertise. The form is likely to be used by clients or employers seeking to gauge a lexicographer's qualifications for a project or role.
-</thinking>
-
 # Lexicographer Skills Assessment - Help Guide
 
 ## Purpose

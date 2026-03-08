@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Evidence Destruction Form - Help Guide
 
 ## Purpose

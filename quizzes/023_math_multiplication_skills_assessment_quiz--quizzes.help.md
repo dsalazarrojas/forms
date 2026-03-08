@@ -1,8 +1,3 @@
-<thinking>
-# Check if the form is being used as intended.
-This form is intended to be used as a math multiplication skills assessment quiz for students. The form is used to gather data on the student's math multiplication skills, which is then reviewed and rated by the teacher.
-</thinking>
-
 # Math Multiplication Skills Assessment Quiz - Help Guide
 ## Purpose
 The Math Multiplication Skills Assessment Quiz is a form used to evaluate a student's math multiplication skills. The form captures information about the student, including their name, email, phone number, grade, age, and attendance, as well as the date of the quiz. The teacher can provide feedback and ratings for the student, and the student can also provide feedback and comments.

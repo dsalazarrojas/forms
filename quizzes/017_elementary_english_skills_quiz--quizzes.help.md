@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Elementary English Skills Quiz - Help Guide
 ## Purpose
 This form is designed to assess the user's knowledge of elementary English skills such as reading, writing, and comprehension. It consists of multiple-choice questions that evaluate the user's understanding of basic English concepts.

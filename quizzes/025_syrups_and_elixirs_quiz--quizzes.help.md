@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Syrups And Elixirs Quiz - Help Guide
 
 ## Purpose

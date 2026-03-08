@@ -1,7 +1,3 @@
-<thinking>
-To be completed by the user.
-</thinking>
-
 # Life History Questionnaire - Help Guide
 ## Purpose
 The Life History Questionnaire is a form designed to collect information about the respondent's early life, occupation, education, family and employment status. It is intended to be used to gather data on a person's life history to help inform research or decision-making processes.

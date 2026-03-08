@@ -1,26 +1,3 @@
-<thinking>
-The purpose of this form is to request a quote for a project in the context of Parkland Development. This form allows users to provide project details, client information, and other relevant data to facilitate the quote process. It's essential to ensure that the project details are accurate and complete to generate a reliable quote. To prevent duplication, users should not submit the same project for multiple quotes.
-
-This form is designed to collect data for internal use, and the submitted information will be used to generate a quote for the project. Please note that some fields are optional, but providing accurate and complete data will help ensure the most accurate quote possible.
-
-The form is divided into sections, each representing a part of the project information. The sections are:
-
-* Project Details
-* Client Info
-* Project Location
-* Project Description
-* Project Budget
-* Project Contact
-* Project Start Date
-* Project Completion Date
-* Project Manager
-* Project Status
-* Project Notes
-* Contract Value
-
-Each section has a specific set of fields that require user input. Please review the following section to understand what information is required and recommended for each field.
-</thinking>
-
 # Parkland Development Quote Request - Help Guide
 ## Purpose
 The Parkland Development Quote Request form is designed to collect project information for the purpose of generating a quote. This form is used to gather details about a project, including its location, description, budget, and other relevant information.

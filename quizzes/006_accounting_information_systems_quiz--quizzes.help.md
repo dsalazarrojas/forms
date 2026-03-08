@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accounting Information Systems Quiz - Help Guide
 ## Purpose
 This quiz is designed to assess your knowledge and understanding of Accounting Information Systems (AIS). It will help you evaluate your understanding of various aspects of AIS, including its purpose, components, and best practices.

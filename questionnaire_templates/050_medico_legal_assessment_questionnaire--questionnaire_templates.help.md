@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a comprehensive Medico Legal Assessment Questionnaire designed for capturing essential details about medical assessments. The purpose of this form is to provide a structured framework for healthcare professionals to collect and document information about patient assessments. This includes medico-legal details, consent statuses, assessment dates and times, patient and assessor names, and assessment reasons and outcomes. The form is meant to be user-friendly and efficient, ensuring that necessary data is gathered in a clear and concise manner. Please use this form when you need to gather and record medico-legal information for assessments.
-
-</thinking>
-
 # medico_legal_assessment_questionnaire - Help Guide
 ## Purpose
 This form is designed for healthcare professionals to gather and document medico-legal details about patient assessments.

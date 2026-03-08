@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for real estate agents to facilitate payment processing and management. The form allows them to input payment details for a specific property. This includes information on the payment amount, method, agent's name, client's name, transaction date, property address, payment status, and any additional notes. The form has 10 fields that need to be completed to accurately capture this information.
-</thinking>
-
 # real_estate_agent_payment_portal - Help Guide
 ## Purpose
 The real_estate_agent_payment_portal form is designed for real estate agents to manage payments for properties. It captures essential information such as payment amount, method, and status to provide a clear overview of financial transactions.

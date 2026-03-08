@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to submit a friend request, providing information about themselves and their preferences. The form is likely used by a user to gauge their compatibility with another person, likely a friend or potential friend. The form asks for personal details like name, age, interests, and personality traits to assess compatibility. Some fields are optional, and the form has a mix of text, select-one, and date fields. This form is likely used in a casual, social context, such as a friend-finding app or website.
-</thinking>
-
 # Bestie!!! - Help Guide
 ## Purpose
 This form is designed for users to submit a friend request, providing information about themselves and their preferences to gauge compatibility with another person.

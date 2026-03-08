@@ -1,6 +1,3 @@
-<thinking>
-This form is used for users to request quotes from the Rehab Solutions team. The form is designed to collect information about the user's therapy needs and preferences. The form will guide the user through a series of questions that will help the team generate an accurate quote. This form should not be submitted multiple times for the same individual. If the user has already submitted a quote request, they can review and edit their previous submissions or contact the team if they need to make changes.</thinking>
-
 # Rehab Solutions Quote Request Form - Help Guide
 ## Purpose
 The Rehab Solutions Quote Request Form is designed for individuals to request quotes from our team for various therapy services. This form helps us understand your needs and preferences so we can provide the best possible services for you.

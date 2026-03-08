@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Internal Reasoning Block**
 This form is designed to help users assess and improve their marketing strategy by evaluating their company's mix of marketing activities, including product, price, place, promotion, people, and process. It is intended to be completed by marketing teams to identify strengths and weaknesses in their marketing efforts and make data-driven decisions. This form is not meant to be used for external customers or users. 
 

@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide for the Quiz Leaderboard Submission Form, I will make sure to understand the form's purpose and the context it's being used in. This form seems to be used for tracking quiz participant information, such as their name, email, and performance details. It might be used for internal tracking, analytics, or competition management. To avoid duplication, it's essential to ensure that users understand the form's purpose and usage correctly.</thinking>
-
 # Quiz Leaderboard Submission Form - Help Guide
 ## Purpose
 The Quiz Leaderboard Submission Form is used to submit participant information for a quiz competition. This form helps track participant performance, such as name, email, competition details, and result information. Please complete this form to submit your participation details accurately.

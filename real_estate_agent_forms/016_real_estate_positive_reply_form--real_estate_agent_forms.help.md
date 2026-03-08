@@ -1,7 +1,3 @@
-<thinking>
-This form is used for real estate agents to provide positive responses to customer inquiries or comments about a property. This form should only be used for properties that have not been previously replied to. 
-</thinking>
-
 # Real Estate Positive Reply Form - Help Guide
 ## Purpose
 This form is designed to be used in response to customer inquiries or comments about properties. Use it when you want to acknowledge and address the customer's concerns or provide updates on a property that has not been previously replied to.

@@ -1,10 +1,3 @@
-<thinking>
-The "Resume 'tune up' questionnaire" is designed to help users fill out their resumes by guiding them through the most essential information they should include in their resume. By answering the questions in this form, users can ensure their resume is complete and up-to-date, making it more appealing to potential employers. This form is part of the "questionnaire_templates" category, and its purpose is to help users create well-rounded resumes.
-
-Before proceeding, please note that this form is a public adaptation of a form created using AI, inspired by public survey topic metadata, and not associated with any proprietary form platforms. You are free to modify it for your use.
-
-</thinking>
-
 # Resume 'tune up' questionnaire - Help Guide
 ## Purpose
 This guide will walk you through the process of filling out the "Resume 'tune up' questionnaire" form.

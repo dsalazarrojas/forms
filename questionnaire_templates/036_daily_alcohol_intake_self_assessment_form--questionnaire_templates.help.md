@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Alcohol Intake Self Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess your daily alcohol intake. It helps track the amount of beer, wine, and spirits consumed. Please complete this form to provide accurate information about your consumption.

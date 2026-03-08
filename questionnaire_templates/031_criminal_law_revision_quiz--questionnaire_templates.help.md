@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess their knowledge of criminal law by asking a series of questions. The form consists of multiple questions with various types of input fields, including text, select_one, select_multiple, date, time, and note. Users are expected to provide their responses in the corresponding format for each question. It is recommended to review the form carefully and answer each question to the best of their ability. Please note that this form is not intended for official use and is for internal purposes only.
-</thinking>
-
 # Criminal Law Revision Quiz - Help Guide
 ## Purpose
 This form is designed to help users assess their knowledge of criminal law by asking a series of questions.

@@ -1,14 +1,3 @@
-<thinking>
-This form is meant to be a quiz on dental histology, focusing on various aspects of tooth structure, anatomy, and related topics. The form will ask the user to select or enter information about different types of tissues, organs, and materials related to the dental field. 
-
-This form appears to have multiple pages or sections, each with a set of questions or fields that are either select_one or select_multiple types, as well as text fields. The user is expected to select or enter the relevant information for each field and then submit the form. 
-
-Please note that some fields appear to be redundant or have unclear labels, which may lead to user confusion. For instance, "tooth_anatomy_2" through "tooth_anatomy_12" seem to be similar in nature, and some of the options in "dental_organ" and "tissue_type" fields seem to overlap with other options. A more careful review of the form design and options may be necessary to ensure clarity and accuracy.
-
-Assuming the form is meant to cover a wide range of dental histology topics, I will provide a help guide for the form based on the provided YAML fields.
-
-</thinking>
-
 # Dental Histology Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of various aspects of dental histology, including tooth structure, anatomy, and related topics.

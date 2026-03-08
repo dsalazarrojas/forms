@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a yoga student's readiness for an upcoming session. It is intended to collect information on the student's flexibility, any physical injuries or conditions they may have, their level of yoga experience, if they are prepared for class, their availability, and their emergency contact information. This information will help the instructor tailor the session to the student's needs. To ensure the form is completed correctly, please check that the fields are filled in according to the student's true situation and that the options chosen are accurate. If a field is not applicable or not relevant, please leave it blank. This form is an original adaptation of a public survey topic and is not affiliated with any form creation or survey platform. You are free to use, modify, and even sell forms derived from it, just give credit.
-</thinking>
-
 # Yoga Student Pre Session Readiness Check In - Help Guide
 
 ## Purpose

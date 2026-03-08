@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a couple's relationship dynamics, health status, and overall satisfaction. It is meant to be completed by a couple, either in person or in a remote setting. The goal of this questionnaire is to assess the couple's relationship quality and areas where they may need improvement or support. To avoid duplication of efforts, please ensure that both partners complete the form separately and with their individual perspectives. This form should not be used as a diagnostic tool for any specific medical condition or psychological issue, but rather as a tool for general relationship assessment and support. Please ensure that both partners have a chance to review and discuss the results together to foster open communication and understanding.
-</thinking>
-
 # Couple Health Questionnaire - Help Guide
 ## Purpose
 The Couple Health Questionnaire is designed to help couples assess their relationship dynamics, health status, and overall satisfaction. By completing this form, you and your partner will gain insights into your relationship's strengths and weaknesses, which can be used to identify areas for improvement and support.

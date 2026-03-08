@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a vehicle driver's history, vehicle information, and other relevant details. The form is designed to be completed by drivers who have had accidents or other incidents involving their vehicle. The purpose of this form is to gather accurate and consistent data on the vehicle's history, including its condition, type, and registration status. This form is used to ensure that the driver's vehicle meets the necessary requirements for operation and safety.
-</thinking>
-
 # vehicle_driver_questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about a vehicle driver's history, vehicle information, and other relevant details.

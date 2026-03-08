@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Mystical Visions Knowledge Quiz - Help Guide
 
 ## Purpose

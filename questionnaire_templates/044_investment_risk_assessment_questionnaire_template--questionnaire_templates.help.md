@@ -1,13 +1,3 @@
-<thinking>... 
-
-This help guide is intended to provide users with a clear understanding of the Investment Risk Assessment Questionnaire Template. Before diving into the form itself, it's essential to clarify the purpose of this template: this questionnaire aims to help users assess their investment risk tolerance and preferences, guiding them in making informed decisions about their investment strategy. 
-
-This template serves as a comprehensive tool to gather information about a user's risk appetite, investment goals, and preferences, ensuring a tailored approach to investment planning.
-
-To avoid duplication and ensure relevance, users are advised to answer each question carefully, selecting the options that best reflect their actual situation and goals.
-
-</thinking>
-
 # Investment Risk Assessment Questionnaire Template - Help Guide
 ## Purpose
 The Investment Risk Assessment Questionnaire Template is designed to help users understand and assess their investment risk tolerance and preferences. By filling out this form, users will be able to create a comprehensive investment strategy that aligns with their goals and risk comfort level.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are filling out the Bar Event Questionnaire. The purpose of this form is to gather feedback and opinions from attendees on their experience at a bar event. This form is designed to help us understand what attendees enjoyed most about the event, what they would do differently, and areas of improvement for future events. Please take a few minutes to answer these questions honestly and thoroughly, as your feedback is invaluable to us. Before submitting, make sure to review all fields carefully and fill out all required fields.
-</thinking>
-
 # Bar Event Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from attendees on their experience at a bar event.

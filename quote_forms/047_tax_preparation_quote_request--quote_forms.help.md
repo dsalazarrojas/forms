@@ -1,14 +1,3 @@
-<thinking>
-This form was created to aid businesses in requesting quotes for tax preparation services. It is designed to gather essential information from clients to provide accurate and timely quotes. To ensure the most accurate and efficient service quote, please review the form carefully before submitting it.
-
-Before filling out this form, please note that you should only complete it for your own business purposes. This form is not intended for personal use or for sharing with third parties without explicit client consent.
-
-Please ensure that you have all the necessary information and documentation ready before proceeding. This will help you in providing the most accurate and comprehensive quote for your client's needs.
-
-This form is divided into several sections, each designed to collect specific details that will aid in providing the best possible quote. Please follow the instructions below to ensure a smooth and efficient completion of the form.
-
-</thinking>
-
 # Tax Preparation Quote Request - Help Guide
 ## Purpose
 This form is designed for businesses to request quotes for tax preparation services from their clients. It is intended to gather essential information to provide accurate and timely quotes.

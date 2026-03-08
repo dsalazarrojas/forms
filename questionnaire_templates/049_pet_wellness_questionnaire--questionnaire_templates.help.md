@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a pet's wellness and medical history. The goal is to gather data that can help identify potential health risks and provide a comprehensive understanding of the pet's overall well-being. It is essential to complete this form accurately and thoroughly to ensure that the pet's needs are met. This form should not be duplicated for the same pet, as it is meant to collect new or updated information. Please make sure to review the form carefully and provide as much information as possible to ensure the best possible outcomes for your pet. If you need to fill out this form for another pet, please make sure to start a new submission.
-</thinking>
-
 # Pet Wellness Questionnaire - Help Guide
 ## Purpose
 The Pet Wellness Questionnaire is designed to gather vital information about your pet's medical history, current status, and owner contact details. This information will help us provide the best possible care and services for your pet.

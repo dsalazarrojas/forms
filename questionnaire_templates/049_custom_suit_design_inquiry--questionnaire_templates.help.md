@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Custom Suit Design Inquiry - Help Guide
 ## Purpose
 This form is designed to help us understand your preferences for custom suit design. Please provide your input to ensure we create a well-fitted and stylish suit tailored to your needs. We'll use the information collected here to guide our design process and create a perfect suit for you.

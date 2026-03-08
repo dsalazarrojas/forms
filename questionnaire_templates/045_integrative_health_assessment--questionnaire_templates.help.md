@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals to assess their integrative health practices, covering various aspects of their wellness and health status.
-</thinking>
-
 # Integrative Health Assessment - Help Guide
 
 ## Purpose

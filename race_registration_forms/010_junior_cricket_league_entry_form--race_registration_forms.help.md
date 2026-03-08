@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for the Junior Cricket League, a platform for cricket players to participate in a series of matches. The purpose of this form is to gather essential details from teams and players, ensuring accurate and efficient registration for the tournament. This information is crucial for organizing the competition, allocating teams, and maintaining fairness in play. 
-
-The form is designed to be completed in multiple pages, each focusing on a specific aspect of team information. This includes club details, team names, team managers, league type, match date, match time, comments, category, description, categories, assigned tool, and form IDs. Each page is designed to be self-explanatory, with clear labels and instructions to guide users through the completion process.
-
-To ensure accuracy and consistency in data entry, it's essential to follow the instructions carefully. If you have any questions or need clarification on any field, do not hesitate to reach out for support.
-
-</thinking>
-
 # Junior Cricket League Entry Form - Help Guide
 ## Purpose
 The Junior Cricket League Entry Form is a tool to collect essential information from teams participating in the Junior Cricket League. This form is designed to be completed in multiple pages, each focusing on a specific aspect of team details.

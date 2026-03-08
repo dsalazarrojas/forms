@@ -1,11 +1,3 @@
-<thinking>
-A survey about ordinal numbers is intended to assess the respondent's knowledge of ordinal numbers.
-The survey is used for educational purposes and to test the understanding of
-ordinal numbers in a sequence. The questions are designed to be simple and
-straightforward. The form is not affiliated with any particular platform,
-but rather an original adaptation of the survey topic and industry.
-</thinking>
-
 # Ordinal Numbers Knowledge Survey - Help Guide
 ## Purpose
 The Ordinal Numbers Knowledge Survey is a simple survey aimed at testing your understanding of ordinal numbers. The survey consists of 10 questions that ask you to select the correct ordinal number in a sequence.

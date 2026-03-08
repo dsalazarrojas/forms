@@ -1,5 +1,3 @@
-<thinking>Is this form intended for users to receive quotes or estimates for painting services? It seems this form is meant to gather information from users about a particular project that they may be interested in getting painting quotes or estimates for. This form does not ask for any payment or order information, so it's likely not for actual orders or sales. Is this form a lead generator or a form to collect general feedback or information? If the form is meant for quotes or estimates, it's likely not a duplicate of other forms as it's designed to collect specific project details. Please let me know if any of this reasoning is off the mark.</thinking>
-
 # Painting, Quote And Estimation Form - Help Guide
 ## Purpose
 This form is designed to collect information from users interested in getting painting quotes or estimates for a specific project. It helps us understand their needs and preferences, which enables us to provide accurate quotes or estimates.

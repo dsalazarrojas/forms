@@ -1,6 +1,4 @@
-> <thinking>...this form is designed to be a quiz on human bone anatomy. It is likely used for educational or testing purposes to gauge understanding of the human body's systems and their functions... no other internal reasoning or duplication checks are required, the form's purpose is clear.</thinking>
-
-# Human Bone Anatomy Quiz - Help Guide
+> # Human Bone Anatomy Quiz - Help Guide
 ## Purpose
 This form is a 12-question quiz that tests your knowledge of the human body's systems, their functions, and their components, with a focus on bone anatomy.
 

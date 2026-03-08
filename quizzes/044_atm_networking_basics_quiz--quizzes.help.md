@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll make sure to carefully review the provided YAML fields to ensure that I accurately understand the form's purpose and the fields it contains. I'll also check for any potential duplication or redundancy in the form fields to avoid confusion.</thinking>
-
 # ATM Networking Basics Quiz - Help Guide
 ## Purpose
 The ATM Networking Basics Quiz is designed to test your knowledge of the fundamentals of ATM (Asynchronous Transfer Mode) networking technology. This quiz covers various topics related to ATM networks, including terminology, protocols, and services.

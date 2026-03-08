@@ -1,20 +1,3 @@
-<thinking>... internal reasoning block ...
-This form is a "Stereochemistry Knowledge Assessment" form, which is used to evaluate the user's knowledge in the field of stereochemistry. The form collects information about the user, such as their name and email, and also assesses their understanding of stereochemistry through a few fields. The purpose of this form is to gather data for research and educational purposes.
-
-The form has a simple and straightforward design, with fields for the user's name, email, category selection, score input, and note input.
-
-This form is not a complex form, and most of the fields have clear labels and instructions, making it easy to fill out for most users.
-
-The "Category" field has a select_one type, where the user can choose from three options: Chemistry, Physics, or Biology.
-
-The "Score" field is a number input field, where the user can input their score out of a certain amount.
-
-The "Note" field is a note text input field, where the user can input any relevant information or comments.
-
-The form does not have any conditional logic or complex validation, making it a simple and easy-to-use form.
-
-</thinking>
-
 # Stereochemistry Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to assess your knowledge in the field of stereochemistry. Please answer the questions to the best of your ability.

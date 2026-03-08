@@ -1,7 +1,3 @@
-<thinking>
-This form is a questionnaire template designed to collect feedback from participants in a program related to transformers for weight loss. The form is intended to explore participants' weight loss commitment, goals, support systems, and progress. It may be used internally to identify trends and areas for improvement in the program. However, please note that this form should only be filled out by participants who have actually completed the program or have relevant information to provide. If a participant has not completed the program, their feedback should be taken from a different source.
-</thinking>
-
 # transformers_team_coach_explore - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants in the transformers program related to weight loss. It will help us understand their weight loss commitment, goals, and progress, and identify areas for improvement in the program.

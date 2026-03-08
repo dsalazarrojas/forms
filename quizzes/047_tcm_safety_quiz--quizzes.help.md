@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's quickly review the form's purpose and contents to ensure we're on the same page. The form is called "TCM Safety Quiz" and is designed to gather information about a user's safety knowledge and experience with Traditional Chinese Medicine (TCM). It appears to be a comprehensive form with questions about the user's profession, frequency of using TCM, age group, health conditions, TCM-related experiences, and more. We should make sure to clearly explain each field and its relevance to the user. Let's proceed to create a concise and practical help guide.</thinking>
-
 # TCM Safety Quiz - Help Guide
 ## Purpose
 This form is designed to help us understand your safety knowledge and experience with Traditional Chinese Medicine (TCM). Please answer the questions honestly to provide us with accurate information.

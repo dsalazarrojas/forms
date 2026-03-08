@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Sign Production Quote Request form is to capture essential information necessary for quote creation or proposal generation, primarily for industries related to sign-making or sign-related products/services, such as sign manufacturing, sign installation, or graphic design services. This form is designed to help companies or organizations obtain the required details to create accurate quotes or proposals for potential clients. The form's design is based on common industry standards and best practices in the industry, aiming to streamline the quote generation process.
-
-Before proceeding, please note that this form has been generated using a combination of public data and AI algorithms. It does not contain any proprietary or copyrighted content from other form platforms.
-
-</thinking>
-
 # Sign Production Quote Request - Help Guide
 
 ## Purpose

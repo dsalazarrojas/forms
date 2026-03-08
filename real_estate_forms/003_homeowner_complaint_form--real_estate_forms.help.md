@@ -1,10 +1,3 @@
-<thinking>
-The "Homeowner Complaint Form" is designed to collect information about issues or complaints reported by homeowners. This form is intended for use by homeowners to report problems, concerns, or issues related to their property. By completing this form, homeowners can provide a detailed account of the issue, including the date it occurred, its location, and a description of the problem. The form will also help track the status of the issue and provide a resolution or follow-up information.
-This form is not intended to be used for commercial purposes or as a substitute for professional advice. The form's design and content are intended to be user-friendly and easy to understand, ensuring that homeowners can provide accurate and relevant information about their complaints.
-Before filling out the form, please ensure that you have read and understand the purpose of this form and the information it collects. If you have any doubts or concerns, please contact the form's creators.
-Please note that some fields are required, while others are optional. Be sure to complete all required fields to ensure that your complaint is properly processed.
-</thinking>
-
 # Homeowner Complaint Form - Help Guide
 ## Purpose
 

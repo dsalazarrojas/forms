@@ -3,14 +3,6 @@
 
 This form is used to assess the tiering of a service, which is a process to categorize services into different levels of priority and criticality. The assessment helps determine the importance and urgency of a service and informs decisions on resource allocation and maintenance.
 
-<thinking>
-
-To ensure the accuracy and relevance of your assessment, please review the service's criticality level and support needs before completing this form.
-
-Please note that this form is a duplicate of a previous assessment, and some fields may have already been filled out. You can update the existing answers if necessary.
-
-</thinking>
-
 ## How To Complete This Form
 
 1. Review the service's criticality level and support needs to ensure the assessment is accurate.

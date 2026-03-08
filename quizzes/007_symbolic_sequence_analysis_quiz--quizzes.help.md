@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Symbolic Sequence Analysis Quiz - Help Guide
 ## Purpose
 This form is designed to collect data for symbolic sequence analysis, a research methodology used to study and understand complex symbolic sequences. The primary goal of this form is to gather information from participants about their experiences with a specific symbolic sequence.

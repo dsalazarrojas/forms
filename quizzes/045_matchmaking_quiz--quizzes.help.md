@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I will provide a comprehensive help guide for the "Matchmaking Quiz" form based on the provided YAML fields.
 
 </thinking>

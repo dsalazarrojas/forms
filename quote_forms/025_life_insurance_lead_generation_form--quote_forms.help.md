@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect lead information for life insurance generation. This form will be used by insurance agents to gather details about a potential customer's interest in life insurance, including their contact information, policy details, insurance policies they may already have, and more. The form is not intended to be used for actual policy applications or sales, but rather to gauge interest and collect relevant information to follow up with potential customers. 
-</thinking>
-
 # Life Insurance Lead Generation Form - Help Guide
 
 ## Purpose

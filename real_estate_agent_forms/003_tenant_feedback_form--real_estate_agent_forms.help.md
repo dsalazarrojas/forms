@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be designed to collect feedback from tenants about their experience with a real estate agency. The form has several sections that ask for feedback on various aspects of the tenant's experience, including what they like most, what they dislike, and their overall satisfaction rating. Each field is designed to be easy to understand and complete. The form will help the agency to better understand the tenant's perception and improve their services.
-</thinking>
-
 # Tenant Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from tenants about their experience with a real estate agency. It will help the agency to better understand the tenant's perception and improve their services.

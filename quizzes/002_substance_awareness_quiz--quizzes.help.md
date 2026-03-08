@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # substance awareness quiz - Help Guide
 
 ## Purpose

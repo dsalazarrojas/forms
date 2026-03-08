@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect and process inquiries about a property. The purpose of this form is to gather essential information to determine the status and features of a particular property. This form is likely to be used for real estate-related inquiries. 
-Please ensure that you are using the correct form for your specific use case, as this form is designed for general property inquiries.
-
-When filling out this form, please be aware that some fields are optional and others are required to ensure accurate processing.
-
-Before proceeding, please make sure you have all the necessary information required for the form fields.
-</thinking>
-
 # property_inquiry_form - Help Guide
 ## Purpose
 The property inquiry form is used to collect and process inquiries about properties. It helps to determine the status and features of a specific property.

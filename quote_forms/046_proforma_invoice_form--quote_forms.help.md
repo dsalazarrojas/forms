@@ -1,5 +1,3 @@
-<thinking>...the Proforma Invoice Form is designed to create a draft invoice that can be used for accounting and financial purposes. It's intended for internal use within an organization, and the goal is to make it easy to fill out and review. The form includes fields for client information, items purchased, and financial details. Before filling out the form, please ensure that you have the necessary information available and review the fields carefully to ensure accuracy...</thinking>
-
 # Proforma Invoice Form - Help Guide
 ## Purpose
 

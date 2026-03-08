@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from potential clients (buyers or renters) about their properties and viewing preferences. This form is likely used by real estate agents to screen potential clients for property viewings. The form collects information such as name, contact details, and preferred viewing times. The form is not used for internal purposes, as it does not contain any sensitive information. Therefore, it's safe to share the form with clients. I have reviewed the form's fields and determined that all fields are properly labeled for clarity. However, some field labels could be improved for better clarity. For example, "Preferred Contact Time" could be changed to "Available Viewing Times" to better match the field type and options. Similarly, "Preferred View Date" and "Preferred View Time" could be combined into "Preferred Viewing Time" for consistency.
-</thinking>
-
 # Property Viewing Screening Form - Help Guide
 
 ## Purpose

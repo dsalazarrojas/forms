@@ -1,7 +1,3 @@
-<thinking>
-The "moving-items-information-form" form is designed to collect essential information about items being moved, such as their type, description, weight, dimensions, and status. This form is typically used for internal purposes, like tracking and inventory management. Please ensure that you're not already aware of the purpose and content of this form, as this guide will assume you are familiar with it. 
-</thinking>
-
 # moving-items-information-form - Help Guide
 
 ## Purpose

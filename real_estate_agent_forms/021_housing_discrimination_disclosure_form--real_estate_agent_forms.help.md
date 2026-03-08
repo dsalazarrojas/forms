@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for collecting information for housing discrimination purposes. It seems to be part of a larger system for monitoring and addressing housing-related discrimination. The form fields cover various aspects of the tenant's or applicant's status, including their employment status, discrimination status, housing status, reason for moving, and signature. This form likely aims to identify potential areas of discrimination and facilitate fair housing practices. It is not affiliated with or derived from any other form platform, and its content is released under a Creative Commons Attribution 4.0 license. This form appears to be a generic template and may require customization based on specific business needs or regional regulations. Please ensure that the form is reviewed and approved by relevant authorities before use. The provided form schema includes fields for tenant information, status, discrimination status, housing status, reason for moving, housing disclosure details, signature, and date. This form is designed to be completed by the tenant or applicant, and the fields should be filled in accordingly. To complete this form, follow the next section.
-</thinking>
-
 # Housing Discrimination Disclosure Form - Help Guide
 ## Purpose
 

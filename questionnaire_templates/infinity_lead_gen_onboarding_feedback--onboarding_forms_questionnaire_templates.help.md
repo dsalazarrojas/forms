@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, please ensure that you have read and understood the form's purpose: the (INFINITY LEAD GEN) Onboarding Feedback form is designed to collect information from new hires about their onboarding experience. This form will help us evaluate the effectiveness of our onboarding program and identify areas for improvement.</thinking>
-
 # (INFINITY LEAD GEN) Onboarding Feedback - Help Guide
 ## Purpose
 The (INFINITY LEAD GEN) Onboarding Feedback form is designed to collect feedback from new hires about their onboarding experience. This form will help us evaluate the effectiveness of our onboarding program and identify areas for improvement.

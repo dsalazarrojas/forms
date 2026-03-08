@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # welcome_to_our_scentsy_party - Help Guide
 ## Purpose
 This form is designed to collect information from our customers who are interested in attending our Scentsy party. Please complete this form to help us understand your preferences and requirements.

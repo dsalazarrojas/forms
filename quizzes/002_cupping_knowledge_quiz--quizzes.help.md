@@ -1,9 +1,3 @@
-<thinking>
-The form "Cupping Knowledge Quiz" is designed to gather information about cupping treatments, their frequency, goals, and knowledge related to cupping. The form likely aims to assess users' understanding of cupping treatments, their benefits, and potential contraindications.
-To the best of my knowledge, there is no duplication of this form within the provided context.
-
-</thinking>
-
 # Cupping Knowledge Quiz - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the "Cupping Knowledge Quiz" form.

@@ -1,6 +1,3 @@
-<thinking> 
-The form is designed to create a quiz that assesses the user's knowledge on the topic of Rule of Law. The purpose of this form is to gauge the user's understanding of the concept, its purposes, and how it operates in the legal system. This form is an AI-generated tool, and its responses should not be considered as expert advice or a replacement for formal educational resources. It is essential to review the form questions carefully to ensure you are providing accurate answers based on your understanding of the topic. If you are unsure about any question, it is okay to ask for clarification or seek additional resources. Please note that this form is not affiliated with or endorsed by any platform for form creation or surveying. It is designed to be a free and open-source tool for education and awareness purposes only.</thinking>
-
 # Rule Of Law Awareness Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge on the concept of Rule of Law, its purposes, and how it operates in the legal system. The quiz consists of 11 questions that cover various aspects of the topic.

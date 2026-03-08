@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess the security risk of a member within an organization. It is intended to capture detailed information about the member's job role, department, and security-related factors. This form is used to identify potential security risks and provide a basis for targeted training and awareness programs. 
-
-The form consists of 9 pages, but for the purpose of this help guide, we will focus on the fields that are relevant to the security risk assessment. 
-
-Please note that the fields are categorized into several sections, including member's information, job and department, security readiness, security awareness, and other security-related factors. 
-
-This guide will walk you through each field and provide explanations for each.
-
-</thinking>
-
 # Member Information Security Risk Assessment - Help Guide
 ## Purpose
 This form is used to assess the security risk of a member within an organization. It is intended to capture detailed information about the member's job role, department, and security-related factors.

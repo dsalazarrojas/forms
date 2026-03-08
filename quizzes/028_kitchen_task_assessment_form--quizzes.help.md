@@ -1,6 +1,3 @@
-<thinking>
-The form "kitchen_task_assessment_form" is used to assess the performance of kitchen staff in various aspects of their work. The purpose of this form is to evaluate their level of proficiency in different areas such as knife skills, food quality, and team work. This form is typically used by kitchen managers or supervisors to evaluate employee performance and provide feedback for improvement. Please ensure this is not already covered in your existing documentation before proceeding to fill this form.</thinking>
-
 # kitchen_task_assessment_form - Help Guide
 ## Purpose
 The kitchen_task_assessment_form is used to assess the performance of kitchen staff in various aspects of their work. It helps kitchen managers or supervisors evaluate employee performance and provide feedback for improvement.

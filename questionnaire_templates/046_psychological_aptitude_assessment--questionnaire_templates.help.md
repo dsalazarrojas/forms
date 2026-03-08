@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess the psychological aptitude of individuals, covering various personality traits, emotional intelligence, and demographic information. The assessment aims to provide a comprehensive understanding of the respondent's tendencies, strengths, and weaknesses in these areas. This form will help identify the respondent's level of conscientiousness, anxiety, openness, agreeableness, and emotional intelligence, including their emotional awareness, social awareness, empathy, self-motivation, self-actualization, and bio-physical characteristics.
-
-Before proceeding, please note that this form is not intended for diagnostic or professional use. The results should not be used as a substitute for professional advice or counseling. The assessment is for personal development and understanding purposes only.
-
-To proceed, please answer the following questions truthfully and according to your genuine experiences and feelings.
-</thinking>
-
 # Psychological Aptitude Assessment - Help Guide
 ## Purpose
 The purpose of this form is to provide a comprehensive assessment of an individual's psychological aptitude, covering personality traits and emotional intelligence.

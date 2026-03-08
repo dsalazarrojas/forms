@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Energy Drinks" form. I will start by providing a brief internal reasoning block that explains the form's purpose and checks for relevance and non-duplication.</thinking>
-
 # Energy Drinks - Help Guide
 ## Purpose
 This form is designed to collect information about the frequency, purpose, and location of energy drink consumption. It is intended to help us better understand the habits and behavior of individuals who consume energy drinks. Please note that this form is meant for individuals who consume energy drinks and are 18 years or older.

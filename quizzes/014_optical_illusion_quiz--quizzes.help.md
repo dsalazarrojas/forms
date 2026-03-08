@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and data from users through a series of questions and a text input field. The form is designed to be accessible and user-friendly, with an option to submit their feedback and name/email for further correspondence. Each question allows the user to select one of the available options, and the "Feedback" field is a free-text input for any additional comments or suggestions.
-</thinking>
-
 # optical_illusion_quiz - Help Guide
 ## Purpose
 This form is designed for users to provide feedback and data through a series of questions and a text input field. The form is intended to be user-friendly and accessible.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for assessing a food hygiene course, and it is likely used in a food-related industry or environment where food safety is crucial. However, to prevent duplication, please ensure you have not already completed this form or a similar assessment in the past few days. If you're not sure, it's always a good idea to consult with your supervisor or someone in charge to confirm.
-</thinking>
-
 # Food Hygiene Course Assessment Form - Help Guide
 
 ## Purpose

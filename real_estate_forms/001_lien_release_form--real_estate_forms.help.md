@@ -1,7 +1,3 @@
-<thinking>
-The form is used to document a lien release in a real estate transaction. A lien release is a formal agreement where a lender or lienholder agrees to release their lien on a property, allowing the property owner to transfer or sell the property without any outstanding liens or debts. This form is used to record the essential details of the lien release, including the borrower's name, lienholder's name, date of the lien, amount paid, and date of payment. Before completing this form, please ensure that you have all necessary documents and information available and that the lien release is accurate and complete. Please review and verify the details carefully to avoid errors or discrepancies. This form is not for use in other scenarios, such as tax purposes or other unrelated transactions.
-</thinking>
-
 # Lien Release Form - Help Guide
 ## Purpose
 The Lien Release Form is used to document a lien release in a real estate transaction, ensuring that the property can be sold or transferred without outstanding liens or debts.

@@ -1,5 +1,3 @@
-<thinking>... This form is intended to assess the user's understanding of rational numbers, a fundamental concept in mathematics. The form appears to be designed to collect information from students, potentially for educational or assessment purposes. It seems to be a straightforward form with a large number of fields asking for various rational numbers, a time, and other demographic information. I will provide a clear and concise help guide for the user to complete the form correctly.</thinking>
-
 # Rational Numbers Quiz - Help Guide
 ## Purpose
 The Rational Numbers Quiz is designed to test your understanding of rational numbers. Please answer the questions to the best of your ability.

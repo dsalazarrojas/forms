@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that explains the purpose and usage of the "initial_lifestyle_advisor_questionnaire" form in a way that is easy to understand and follows the provided instructions. I will carefully review the form fields and labels to provide accurate and concrete explanations.</thinking>
-
 # initial_lifestyle_advisor_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's initial lifestyle details, which will be used to create a comprehensive profile for [insert purpose or context]. The form will help us understand your background, work history, education, and emergency contact information.

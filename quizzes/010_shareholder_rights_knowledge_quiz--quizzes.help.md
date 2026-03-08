@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to assess the knowledge of an individual about the rights and responsibilities of shareholders in a company. The form is designed to be a simple self-assessment tool for users to evaluate their understanding of shareholder rights, which is essential for investors and professionals working with companies. The form is not a certification or evaluation tool, but rather a guide for users to gauge their knowledge in this domain. To ensure that the form is completed correctly, it is recommended that users read the form carefully and answer all the questions truthfully. Please do not submit the form if you are unsure about the purpose or meaning of a particular question.
-
-</thinking>
-
 # Shareholder Rights Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge about the rights and responsibilities of shareholders in a company. It will guide you through several questions that cover key aspects of shareholder rights, helping you evaluate your understanding of this domain.

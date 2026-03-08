@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for use by real estate agents or property managers to create a lease agreement template for house rental properties. This form provides a comprehensive template for capturing essential details about the property and the tenant's terms and conditions. The form includes fields for collecting tenant information (name, email, and signature date), lease terms (start and end dates, rent frequency, and duration), payment details (rent amount, due date, and frequency), property information (address, city, and province), and additional details such as security deposit, move-in and move-out dates, and pet status. The form is designed to be flexible and adaptable to various rental scenarios, allowing users to tailor it to their specific needs.
-
-To avoid duplication, the form fields are organized into logical sections, and the labels and hints are provided to guide users through the process.
-
-The following sections should be covered in the user guide to ensure end-users understand how to properly fill out the form:
-- Tenant information (Section 1)
-- Lease terms (Section 2)
-- Payment details (Section 3)
-- Property details (Section 4)
-- Additional terms and conditions (Section 5)
-</thinking>
-
 # House Rental Lease Agreement Template - Help Guide
 ## Purpose
 This form is designed to create a comprehensive lease agreement template for house rental properties. It captures essential details about the property and the tenant's terms and conditions.

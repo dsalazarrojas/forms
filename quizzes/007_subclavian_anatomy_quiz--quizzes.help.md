@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Subclavian Anatomy Quiz - Help Guide
 ## Purpose
 The Subclavian Anatomy Quiz is a brief survey designed to test your knowledge of subclavian anatomy. It consists of a few simple questions and answers to help you evaluate your understanding of the region's anatomy.

@@ -1,7 +1,3 @@
-<thinking>
-To create this user-facing help guide, I'll need to first analyze the form's purpose and the fields included in the "Fatigue And Alcohol Assessment" form. This form is intended to gauge a person's level of fatigue and assess their alcohol use, medication use, work environment, and other related factors. The form's purpose is likely to help healthcare professionals or researchers understand the individual's fatigue and alcohol use habits, which may be relevant for medical diagnosis, treatment, or studies. I'll need to review the form fields to ensure they are correctly explained in the help guide.
-</thinking>
-
 # Fatigue And Alcohol Assessment - Help Guide
 ## Purpose
 The "Fatigue And Alcohol Assessment" form is a tool used to measure a person's level of fatigue and assess their alcohol use, medication use, work environment, and other related factors. This form is likely used by healthcare professionals or researchers to understand an individual's habits and habits.

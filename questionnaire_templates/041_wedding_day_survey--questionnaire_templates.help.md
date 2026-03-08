@@ -1,14 +1,3 @@
-<thinking>
-To create this user-facing help guide for the "wedding_day_survey" form, we need to understand the form's purpose, how to complete it, and provide explanations for each field. 
-
-The purpose of the "wedding_day_survey" form seems to be for recording details about a wedding event, such as dates, venues, attire, and other related aspects. Given the fields, it's likely used for reporting or planning purposes.
-
-Before proceeding, I will check for potential duplication or non-relevance and ensure that the guide is practical and concrete.
-
-Upon reviewing the form, it's clear that the form is designed to collect information about a wedding event. Each field seems relevant and necessary for recording the specific details of the wedding. No duplication or non-relevance issues were found, making this guide a valuable resource for end-users.
-
-With that said, let's proceed with creating the user-facing help guide.</thinking>
-
 # wedding_day_survey - Help Guide
 ## Purpose
 The wedding_day_survey form is designed to collect detailed information about a wedding event. This form helps in recording dates, venues, attire, and other related aspects, making it a valuable resource for planning and reporting.

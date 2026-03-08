@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a home loan application. The purpose of this form is to gather essential details about the borrower and the property being purchased. The form is divided into several sections, each covering different aspects of the loan application process. It's essential to complete the form accurately to ensure a smooth and efficient loan processing experience.
-
-The form's purpose is to collect data that will help lenders assess the borrower's creditworthiness and provide a suitable loan offer. The fields in this form are designed to gather specific information that will help lenders make an informed decision.
-
-To avoid any duplication of effort, please ensure that you have all the required documents and information before starting the application process. This form is not intended for duplicate applications; each submission is considered a new application.
-
-</thinking>
-
 # Home Loan Application - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Document Compatibility Assessment - Help Guide
 
 ## Purpose

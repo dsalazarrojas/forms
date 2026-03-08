@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for real estate agents to request a pre-approval for a home sale. The form will likely be used by agents to facilitate the pre-approval process and gather relevant information for the seller or client.
-
-**Internal Reasoning Check:**
-
-*   To check for non-duplication, we can store the form ID and use it to prevent multiple submissions from the same user.
-*   To check for relevance, we can validate that all required fields are filled out.
-*   To check for invalid data, we can validate that the input is within the specified ranges or formats.
-
-</thinking>
-
 # Home Sale Pre-Approval Request Form - Help Guide
 ## Purpose
 

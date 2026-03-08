@@ -1,5 +1,3 @@
-<thinking>As a forms expert and technical writer, I'll create a user-facing help guide for the "file_note_compliance_quiz" form, which appears to be a form for tracking file-related data. The form purpose is to gather information about files, including their compliance status, location, type, and review status. The form is divided into several pages, each with a specific set of fields. I'll focus on the provided YAML fields to create a concise and practical guide for end-users.</thinking>
-
 # file_note_compliance_quiz - Help Guide
 ## Purpose
 The "file_note_compliance_quiz" form is used to record information about files, such as their compliance status, location, type, and review status.

@@ -1,12 +1,3 @@
-<thinking>
-The "Quiz On Verb Tenses" form is designed to help users identify and understand the correct usage of verb tenses in different contexts. This form is meant to be a learning tool for users to assess their knowledge on verb tenses, particularly on the uses of "will" and the past perfect tense. The form should not be filled out more than once, as it is a quiz and the purpose is to check the user's understanding.
-
-This form contains 12 questions with multiple-choice options related to verb tenses. Users are required to select the correct answer for each question, and then provide a textual explanation for each question in the corresponding "Answer" field.
-
-Please note that this form is designed for educational purposes only, and it is not meant to be a comprehensive assessment of a user's knowledge on the subject matter. 
-
-</thinking>
-
 # Quiz On Verb Tenses - Help Guide
 
 ## Purpose

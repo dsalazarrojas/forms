@@ -1,12 +1,3 @@
-<thinking>
-This form is a tool for evaluating an individual's knowledge on advertising, designed to test their understanding of various advertising-related concepts. It's a self-assessment quiz aimed at gauging a participant's level of knowledge and interest in learning more about advertising.
-
-Before creating this form, I considered existing advertising knowledge surveys and quizzes. However, it's essential to note that this form is an AI-generated adaptation and does not copy or use content from any proprietary platforms. The form's purpose is to assess an individual's understanding of advertising concepts and identify areas where they may need additional education or resources to improve their knowledge.
-
-This form is designed to be a helpful tool for those interested in or working with advertising. It is released under CC BY 4.0, allowing users to modify and distribute it freely while giving credit where due.
-
-If you're unsure about any of the questions or need clarification, please refer to the field-by-field explanation below.</thinking>
-
 # Advertising Quiz Template - Help Guide
 
 ## Purpose

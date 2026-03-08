@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather information from clients who are planning a wedding and require services from a wedding planner or organizer. The form is meant to collect basic contact and wedding details, as well as specific services needed for the event. The goal is to provide the client with a quote for the services they require.
-
-The form has several sections:
-
-*   The "Couple Info" section is where the client can provide general information about themselves and their partner.
-*   The "Contact Details" section is where the client can provide their contact information, such as phone number and email.
-*   The "Wedding Details" section is where the client can provide more specific information about their wedding, including the date and location.
-*   The "Wedding Services" section is where the client can select the specific services they require for their wedding, such as ceremony and reception venue selection, wedding party coordination, and wedding day coordination.
-*   The "Vendors" section is where the client can select the specific vendors they require for their wedding, such as venue, caterer, photographer, and wedding planner.
-*   The "Budget" section is where the client can provide a rough estimate of their budget for the wedding.
-*   The "Payment Terms" section is where the client can discuss any specific payment terms or conditions that they require.
-
-The form is designed to be a starting point for the client to provide information and is not meant to be a comprehensive wedding planning tool.</thinking>
-
 # Wedding Organizing Quote Form - Help Guide
 ## Purpose
 

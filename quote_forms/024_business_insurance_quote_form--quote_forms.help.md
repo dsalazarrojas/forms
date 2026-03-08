@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to gather information from customers to create a business insurance quote. This form is used to collect relevant data about the customer's business, their contact information, and the coverage they require. The goal is to provide accurate and relevant data to the customer service team to generate a quote that meets their needs.
- 
-This form is likely to be used by sales team to understand customer requirements and generate accurate quotes.
- 
-Please do not submit duplicate forms for the same business or customer.
-</thinking>
-
 # Business Insurance Quote Form - Help Guide
 ## Purpose
 The business insurance quote form is designed to collect information from customers to provide an accurate and relevant insurance quote for their business.

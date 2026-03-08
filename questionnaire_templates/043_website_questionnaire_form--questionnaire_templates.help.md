@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is used correctly, we need to verify that it is being used as intended and not duplicated. This form is designed for collecting feedback from users about a website, which would help to understand their experience, preferences, and ratings. This form should only be used for this specific purpose and not for any other type of feedback or inquiry.
-</thinking>
-
 # Website Questionnaire Form - Help Guide
 ## Purpose
 The Website Questionnaire Form is designed to collect feedback from users about a specific website. It is meant to gather information about the user's experience, preferences, and ratings of the website. By filling out this form, users can provide valuable insights that can help us improve and better serve them in the future.

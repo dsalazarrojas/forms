@@ -1,13 +1,3 @@
-<thinking>
-The "fact_find_questionnaire" form is designed to gather information from users about their experiences, opinions, and demographic details. This form is likely used to collect feedback, insights, or data for research or analysis purposes. However, to ensure the form's relevance and effectiveness, we need to verify that it's being used for its intended purpose and not for any other use case.
-
-Let's assume that the form is being used for a legitimate reason, such as collecting feedback from users to improve a product or service. In this case, the form's purpose is to gather specific and detailed information from users about their experiences and opinions.
-
-Before proceeding, please note that the form is designed to be completed by individual users, and each section is meant to be filled out by a single person. If you're using this form for group feedback, please ensure that each user completes the form independently to provide accurate and reliable data.
-
-Also, be aware that the form has multiple questions with different types (text, select, date, time, email, phone, and others), so please make sure to complete each question accurately and according to its type.
-
-</thinking>
 # fact_find_questionnaire - Help Guide
 
 ## Purpose

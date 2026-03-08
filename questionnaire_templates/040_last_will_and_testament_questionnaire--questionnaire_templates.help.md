@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information for the Last Will And Testament, a legal document that outlines a person's wishes for the distribution of their assets after death. This form aims to collect relevant details about the individual's personal information, emergency contacts, assets, and executors. It is crucial to understand the purpose and requirements of this form to ensure that it is completed accurately and thoroughly.
-
-This form's purpose is to help individuals create a comprehensive and clear Last Will And Testament document. It is essential for those who wish to have control over how their assets are distributed after their passing, ensuring that their wishes are respected and executed according to their preferences. This form is not a substitute for consulting a legal expert, and it is recommended to have a lawyer review the document before signing.
-
-This form should only be used for personal use and not for commercial or business purposes. Please be aware that the information provided here is for general understanding and is not a substitute for professional legal advice. It is also essential to note that the form is designed to be used by an individual making their own will, not for organizations or institutions.
-
-</thinking>
-
 # Last Will And Testament Questionnaire - Help Guide
 
 ## Purpose

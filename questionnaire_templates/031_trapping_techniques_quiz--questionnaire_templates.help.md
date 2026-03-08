@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trapping Techniques Quiz - Help Guide
 ## Purpose
 The Trapping Techniques Quiz is a tool designed to evaluate your knowledge and understanding of trapping techniques, an important aspect of safety protocols in various industries such as pest control, agriculture, and more. This quiz is meant to be a quick and easy way to assess your understanding of trapping methods and identify areas where you need improvement.

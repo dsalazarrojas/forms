@@ -1,7 +1,3 @@
-<thinking>
-We'll use the provided form fields to create a help guide that explains the purpose and requirements of the Women's Clothing Questionnaire. This guide will aim to provide an intuitive understanding of the form's intent, while staying neutral on the business logic behind it, assuming only the most logical explanations based on the fields presented.
-</thinking>
-
 # Women Clothing Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your body measurements and personal preferences for clothing. This will help us better understand your requirements for a custom fit, so we can create the perfect fit for you. Please answer these questions to help us provide you with a more personalized experience.

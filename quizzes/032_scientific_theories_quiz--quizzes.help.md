@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their knowledge and understanding of scientific theories. It's a multi-page form with four pages that will ask users to provide input on different aspects of scientific theories. The form is not affiliated with any form platform and is an original adaptation created by an AI.
-
-The form will only be used for general knowledge collection and is not affiliated with any specific institution or organization. It's released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit.
-
-This form will be suitable for users who are familiar with scientific theories and can provide detailed input on the topics presented. Users who are not familiar with the subject matter may find it challenging to complete the form accurately.
-
-To ensure accurate and consistent data collection, please review the form carefully before starting to fill it out.
-
-</thinking>
-
 # scientific_theories_quiz - Help Guide
 ## Purpose
 This form is designed to collect information on scientific theories from users who are familiar with the subject matter. It's a multi-page form that will ask users to provide input on different aspects of scientific theories.

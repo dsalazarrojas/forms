@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Empowerment Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about a youth empowerment program, which aims to provide support and resources to young people. The purpose of this form is to assess the program's effectiveness and identify areas for improvement. The assessment consists of a series of questions that cover various aspects of the program, including school survey, youth participation, services provided, assessment outcomes, and demographic information.

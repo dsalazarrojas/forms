@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to help consultants and companies assess their storage needs, particularly with regards to data and physical storage requirements. The form is divided into sections that ask for the company's name, storage types required, approximate volume, access frequency, and security requirements. This form will provide users with a better understanding of their storage needs and help them make informed decisions about their storage solutions.
-</thinking>
-
 # Consulting Company Storage Questionnaire - Help Guide
 ## Purpose
 This form is designed to help consulting companies assess their storage needs, providing an overview of their physical and data storage requirements.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a person's mental health knowledge and awareness in their community. This form is designed to be a self-reporting instrument, where the individual is able to provide their level of understanding and confidence in their ability to help others with mental health conditions. This form can be used to identify areas where individuals may need more support or training to improve their mental health knowledge and skills. It's essential to use this form in an informed and non-biased way, without leading questions or answers that might influence responses or skew results.
-
-To avoid any potential duplication or relevance concerns, ensure that this form is used in an appropriate context, such as in a mental health setting or in educational institutions, and that it's clear what questions are being asked and why.
-
-</thinking>
-
 # Mental Health Knowledge Questionnaire - Help Guide
 ## Purpose
 The Mental Health Knowledge Questionnaire is designed to gather information about your mental health awareness, knowledge, and confidence in helping others with mental health conditions. This form is intended to be a self-reporting instrument to help identify areas where you may need more support or training.

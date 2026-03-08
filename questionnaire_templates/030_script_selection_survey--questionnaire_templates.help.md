@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a Script Selection Survey, which is designed to gather user input on various preferences and opinions. The purpose of this form is likely to collect data for marketing, research, or other business purposes. The survey asks users to select their preferences from a series of questions covering different topics, including favorite movies, transportation methods, food, drinks, music, and more. The form has a mix of single-select questions, multiple-select questions, and questions that require numerical inputs. The form is well-structured with a clear layout, making it easy to understand. However, some questions may be redundant or have overlapping content, which could be improved upon.
-
-To confirm, this form appears to be suitable for users with varying levels of technical expertise. The language used is clear and concise, and the form does not require any special skills or knowledge to complete. However, some questions may require additional explanations or clarifications for users who are not familiar with the topic or have limited understanding of the options provided.
-
-Before proceeding, please review the form carefully to ensure it meets your specific needs and requirements.
-
-Please note that this form is for general purpose and might need adjustments to fit your specific business use case.</thinking>
-
 # Script Selection Survey - Help Guide
 ## Purpose
 This form, called "Script Selection Survey", is designed to gather user input on various preferences and opinions. Its purpose is to collect data for marketing, research, or other business purposes.

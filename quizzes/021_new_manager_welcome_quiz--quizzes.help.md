@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about a new manager's details. The goal is to gather necessary data to onboard a new manager, making sure that all required fields are accurately filled out to ensure a smooth transition. Please make sure you are filling out this form only once for each new manager. If you've already filled out this form, do not fill it out again.
-</thinking>
-
 # New Manager Welcome Quiz - Help Guide
 ## Purpose
 The New Manager Welcome Quiz is a tool to help onboard new managers by gathering crucial information to ensure a smooth transition and a successful tenure in the team.

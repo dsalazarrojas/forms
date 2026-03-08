@@ -1,9 +1,3 @@
-<thinking>
-This form is a quiz that attempts to determine which Joker Portrayal a user identifies with. It has multiple questions that gather information about the user's preferences and choices in various contexts related to the Joker. The purpose of the form is to provide a fun and engaging experience for the user while also collecting data on their personality and preferences.
-The form has several fields, each with a specific question or statement related to the Joker. Some fields are select_one, while others are text inputs. The form does not require any specific input for completion. 
-The fields are designed to be easy to fill out and are self-explanatory. However, if a user is unsure about any of the fields, they can refer to this help guide for clarification.
-</thinking>
-
 # Which Joker Portrayal Are You? - Help Guide
 ## Purpose
 This form is a quiz that asks you a series of questions about the Joker and its various portrayals. It's meant to be a fun and engaging experience while also gathering information about your personality and preferences.

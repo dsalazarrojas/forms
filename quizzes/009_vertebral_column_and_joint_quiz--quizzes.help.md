@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about vertebral column and joint anatomy. It appears to be a quiz designed to test knowledge about the vertebral column and joints, with questions asking users to respond to select one or multiple choice options and provide short text answers.
-
-This form is likely used in a medical or anatomy-related context, and the questions are aimed at assessing a user's understanding of the subject matter.
-
-The form has two main sections: "joint 1" and "joint 2", which seem to be focused on specific joints, and an "anatomy" section with multiple questions about the vertebral column and joints.
-
-The form's purpose is to collect data and potentially be used for educational or research purposes.
-
-To avoid duplication, we'll ensure that each user completes the form only once.
-</thinking>
-
 # Vertebral Column And Joint Quiz - Help Guide
 
 ## Purpose

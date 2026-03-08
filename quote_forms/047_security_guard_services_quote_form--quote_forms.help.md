@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a template for creating a quote for security guard services. It seems to be designed to be used by multiple people across different pages, likely in a sales or customer service context. The form likely aims to collect information from the customer or potential customer on their security needs, such as type of security guard services required, number of guards needed, and other relevant details. I will proceed with the assumption that this form is for collecting information for sales purposes.
-
-</thinking>
-
 # Security Guard Services Quote Form - Help Guide
 ## Purpose
 This form is designed to collect information for a quote on security guard services. It has multiple pages, each serving a different purpose in gathering the necessary details for a comprehensive quote.

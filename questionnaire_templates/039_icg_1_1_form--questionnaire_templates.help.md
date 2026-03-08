@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ICG 1 1 Form - Help Guide
 ## Purpose
 The ICG 1 1 Form is a questionnaire designed to collect information about one-to-one meetings, calls, or meetings with calls. This form will help users provide essential details about the type of meeting, location, participants, and duration to facilitate smooth and effective communication.

@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate quotes, we will not accept multiple quote requests for the same project. If you have already submitted a quote request for this project, we will let you know and guide you through the next steps in the process.
-</thinking>
-
 # Software Development Quote Request - Help Guide
 ## Purpose
 This form is used to submit a quote request for a software development project. It will guide you through the necessary information needed to provide a comprehensive quote.

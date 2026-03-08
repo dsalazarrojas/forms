@@ -1,7 +1,3 @@
-<thinking>
-This form is a Real Estate Marketing Strategy Questionnaire designed to help users assess their current marketing approach, desired marketing outcomes, and preferred marketing channels, messages, and frequency. The questionnaire is intended to gather information on the user's current marketing practices and goals, as well as their preferred methods of communication. This form is meant to be a starting point for understanding the user's marketing needs and preferences.
-</thinking>
-
 # real_estate_marketing_strategy_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information on your current marketing approach, desired marketing outcomes, and preferred marketing channels, messages, and frequency. It will help you assess your current marketing practices and preferences, and provide a starting point for understanding your marketing needs.

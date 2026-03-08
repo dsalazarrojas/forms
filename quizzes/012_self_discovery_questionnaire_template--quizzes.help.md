@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to help individuals explore their goals, motivations, and self-awareness skills. It's meant to provide a comprehensive framework for understanding personal development and growth.
-</thinking>
-
 # Self Discovery Questionnaire Template - Help Guide
 ## Purpose
 This self-discovery questionnaire is a tool for personal growth and development. It guides users through a series of questions to help them identify their goals, motivations, and self-awareness skills.

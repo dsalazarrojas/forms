@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from individuals living with chronic illnesses. It assesses the participant's demographics, chronic condition, treatment, lifestyle habits, support system, and self-management practices. The form is intended to be completed by individuals with chronic illnesses to provide insight into their daily lives and challenges. This form should not be completed by people without a chronic condition. It is not intended for use with minors or in emergency situations. Please complete this form honestly and thoroughly, as it will help healthcare professionals better understand your needs and develop more effective support programs. Please ensure you have the necessary time and privacy to complete this form without interruptions. Before proceeding, ensure you have not already filled out this form previously. If you are unsure or have any questions, please contact form@gic.mx... </thinking>
-
 # Chronic Illness Lifestyle Support Evaluation Form - Help Guide
 
 ## Purpose

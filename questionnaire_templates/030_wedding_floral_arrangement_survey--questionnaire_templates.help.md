@@ -1,9 +1,3 @@
-<thinking>
-To create this form, we will be using the Wedding Floral Arrangement Survey form in the questionnaire_templates category. This form is used to collect information about the couple's preferences for their wedding floral arrangement. The form has several fields that cover various aspects of wedding planning, including the couple's style preferences, color palette, arrangement needs, number of guests attending, budget, venue type, contact methods for the venue and florist, and any additional notes for the planner.
-
-To avoid duplication, we will make sure that all required fields are marked as required. This will help ensure that the form is not too long and that respondents can focus on the most important aspects of their preferences.
-</thinking>
-
 # Wedding Floral Arrangement Survey - Help Guide
 ## Purpose
 The Wedding Floral Arrangement Survey is a form used to collect information about the couple's preferences for their wedding floral arrangement. The form is designed to help the planner understand the couple's style and needs, making it easier to create a beautiful and meaningful wedding arrangement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data related to various fluid characteristics. It is used to record and analyze information about the physical properties of fluids such as blood, urine, or other bodily fluids. This form is likely used in medical or laboratory settings to track and monitor patient data.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect data related to various fluid characteristics.

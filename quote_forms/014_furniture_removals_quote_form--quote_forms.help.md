@@ -1,10 +1,3 @@
-<thinking>
-This form is used to create quotes for furniture removals, allowing customers to provide their address information, specify removal services, and request extra services if needed. This form is typically used by removal companies to gather the necessary details for a quote.
-
-Before filling out the form, please ensure that you are not creating multiple quotes for the same address. 
-
-</thinking>
-
 # Furniture Removals Quote Form - Help Guide
 ## Purpose
 The Furniture Removals Quote Form is used to create quotes for customers who require furniture removal services.

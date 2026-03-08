@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_virtual_tour_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule virtual tours for potential clients. It helps real estate agents to manage their schedule and keep track of clients who have shown interest in a property.

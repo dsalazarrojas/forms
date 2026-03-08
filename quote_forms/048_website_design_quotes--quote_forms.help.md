@@ -1,10 +1,3 @@
-<thinking>
-**Form Purpose:**
-This form is designed to facilitate quote requests for website design projects. It captures relevant information to help designers create a quote for their services.
-**Form Non-Duplication:**
-To prevent duplication of quotes for the same project, we recommend verifying that a quote has not been created for this project before submitting a new quote request.
-</thinking>
-
 # website_design_quotes - Help Guide
 ## Purpose
 The website design quotes form is used to capture project details and quote information for website design projects.

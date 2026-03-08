@@ -1,15 +1,3 @@
-<thinking>
-
-**Internal reasoning block to check for form purpose, non-duplication, and relevance**
-
-This form is designed to be a knowledge quiz on historical camps, aiming to test users' knowledge about historical events, dates, and places. It seems to cover general knowledge questions and facts, rather than requiring a specific historical event or camp. The form structure is designed to accommodate multiple questions, allowing users to demonstrate their understanding of various historical facts. 
-
-The provided schema indicates that the form is composed of multiple fields with different types: text, select_multiple, date, time, note, number, and email. The "first" and "second" naming conventions in the schema suggest that the form is intended to be a sequential quiz, with multiple questions and answers. However, the exact purpose and expected outcome of this form may require further context and clarification. 
-
-Given the diversity of fields and questions, it's essential to provide clear and concise explanations for end-users to understand the form's purpose and each field's relevance. 
-
-</thinking>
-
 # Historical Camps Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about historical camps and events. It consists of multiple questions, each with specific types of answers, such as text, select options, dates, times, and notes.

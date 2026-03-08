@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the information processing skills of an individual. The purpose of this form is to collect detailed responses from users regarding their experiences, thoughts, and opinions on a given topic. This form will help in understanding how well an individual can process and interpret information.
-The assessment will cover various aspects, such as their contact details, age, confidence level, and specific answers to questions.
-Please ensure that the form is filled out accurately and completely. The questions are designed to gather information without being invasive or sensitive.
-Before proceeding, please take a moment to review the form and understand the instructions clearly.
-</thinking>
-
 # Information Processing Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the information processing skills of an individual. It is designed to collect detailed responses from users regarding their experiences, thoughts, and opinions on a given topic.

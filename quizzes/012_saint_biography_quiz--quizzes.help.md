@@ -1,5 +1,3 @@
-<thinking>This form is used to collect biographical information about a saint. It is designed to gather data in multiple pages, with a focus on comprehensive and detailed answers. This form aims to cover various aspects of the saint's life, including their name, contact details, and biographical attributes. Each page will provide a structured and focused approach to collecting the necessary data. By completing this form, users will be able to submit a complete and accurate biography of the saint, which will be stored and used for further reference. This form has multiple fields, some of which are required, while others are optional, allowing users to provide as much information as they have available. Please ensure that you have the necessary permissions and information before completing this form, and that you do not duplicate an existing entry for the same saint.</thinking>
-
 # Saint Biography Quiz - Help Guide
 ## Purpose
 The Saint Biography Quiz is a comprehensive form designed to collect biographical information about a saint. It aims to gather detailed data about the saint's life, including their personal attributes and characteristics.

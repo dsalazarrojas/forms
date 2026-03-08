@@ -1,15 +1,3 @@
-<thinking>
-This form is used to collect quotation information for HR consulting services. The form is intended to capture client details, job specifics, and quotation-related data such as status, date, time, and currency. The form is designed to be completed by HR consultants to provide a comprehensive quotation for clients. Ensure that you are only using this form for HR consulting quotations and not for other purposes to avoid duplication of work and maintain data consistency.
-
-Please note that this form is meant to be used internally and not for external client communication. Client-facing communication should be conducted through other means such as email or phone calls.
-
-Before filling out this form, please ensure that you have all necessary information about the client and the job details at hand.
-
-Also, please make sure to select the correct quotation status, date, and time according to your consultation schedule.
-
-Finally, please be mindful of the quotation currency and terms accepted when filling out this form.
-</thinking>
-
 # HR Consulting Quotation Form - Help Guide
 ## Purpose
 This form is used to collect and document HR consulting quotations for clients.

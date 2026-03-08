@@ -1,16 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the Skin Consultation Form, which will help users understand its purpose, how to complete it, and what each field means. To start, let's analyze the form's structure and content. The form appears to be a skin consultation form, likely used to gather information about a person's skin concerns and preferences. Each field is a multiple-choice question, with some fields having text options. The form is divided into several sections, each with its own set of questions. We will use the provided YAML fields to create a clear and concise help guide.
-
-The form's purpose is to gather information about a person's skin concerns and preferences, likely for a skincare consultation or advice.
-
-The form has 25 fields in total, with some fields being multiple-choice questions and others being text fields. We will group the fields into sections based on their purpose.
-
-To complete the form, users will need to answer each question truthfully, selecting the options that best describe their skin concerns and preferences.
-
-Each field will be explained in detail below, with a clear and concise explanation of what each field means and how to complete it.
-
-</thinking>
-
 # Skin Consultation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a person's skin concerns and preferences, likely for a skincare consultation or advice.

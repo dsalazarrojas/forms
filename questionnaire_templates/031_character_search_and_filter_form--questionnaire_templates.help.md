@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help users search and filter characters based on various criteria. The form is intended to be a comprehensive tool for users to find specific characters from a database or collection of characters. The form includes filters for different aspects of a character, such as name, role, status, alignment, traits, power level, origin, story arc, and results sorting preference. The purpose of this form is to provide users with a user-friendly interface to input their search parameters and receive relevant results.
-
-To ensure that users don't have to recreate their search parameters multiple times, the form includes a "Confirmation of Search Criteria" field, which allows users to confirm their search parameters before submitting their search. This way, users can review and adjust their search criteria before executing the search.
-
-The form also includes fields for users to specify additional search comments and to choose how they would like to be notified of new matching characters.
-
-</thinking>
-
 # Character Search And Filter Form - Help Guide
 ## Purpose
 This form is designed to help users search and filter characters based on various criteria.

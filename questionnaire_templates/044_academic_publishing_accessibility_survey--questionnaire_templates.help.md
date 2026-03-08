@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form, "Academic Publishing Accessibility Survey," is to collect information from individuals involved in the publishing process, such as authors, editors, reviewers, and librarians. This form aims to understand their experiences and challenges in ensuring accessibility in academic publishing. Specifically, the form seeks to identify areas where accessibility practices need improvement and gauge interest in accessibility training. The information collected will help inform initiatives to enhance accessibility in academic publishing.
-This form should only be completed by individuals who have direct involvement in the publishing process. Respondents should only complete the form once, to prevent duplicate data collection.
-</thinking>
-
 # Academic Publishing Accessibility Survey - Help Guide
 ## Purpose
 The Academic Publishing Accessibility Survey is designed to gather information from individuals involved in the publishing process about their experiences, challenges, and suggestions for improving accessibility in academic publishing.

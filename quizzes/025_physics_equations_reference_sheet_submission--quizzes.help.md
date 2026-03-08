@@ -1,20 +1,3 @@
-<thinking>
-We're designing a form for users to submit reference sheets for physics equations. This form is used to gather data from users about their physics reference sheets, which are essential tools for solving problems and understanding concepts in physics. To ensure data quality, we'll check for duplication and relevance before accepting submissions.
-
-We aim to collect the following information:
-- **Equation type**: We want to know if the submitted equation is relevant or not (Yes/No).
-- **Equation description**: A brief summary of the equation and its relevance to physics problems (text field).
-- **Equation itself**: The actual equation to be submitted (text field).
-- **Source**: Where the user found the equation (text field).
-- **User type**: Whether the user is a student, teacher, or other (Yes/No).
-- **User name**: The name of the user submitting the equation (text field).
-- **User affiliation**: The user's educational affiliation (text field).
-- **User email**: The user's email address (email field).
-
-This form is designed to be simple and easy to use. Please provide accurate information to help us improve our physics reference sheets.
-
-</thinking>
-
 # Physics Equations Reference Sheet Submission - Help Guide
 
 ## Purpose

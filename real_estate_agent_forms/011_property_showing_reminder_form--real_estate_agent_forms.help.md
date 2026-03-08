@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a property showing, which is an event where a real estate agent shows a property to a potential buyer. The form should ask for details such as the date and time of the showing, the property address, the contact person responsible for the showing, the property type, and any additional property details. The purpose of this form is to facilitate communication and organization among real estate agents and stakeholders regarding property showings. This form should be used by real estate agents to record and track property showings, ensuring that all relevant information is captured in a single, easily accessible location. Please ensure this form is used for its intended purpose and do not create duplicate forms for similar tasks.
-</thinking>
-
 # Property Showing Reminder Form - Help Guide
 ## Purpose
 The Property Showing Reminder Form is designed to record and track property showings, providing a centralized location for real estate agents to capture and share information about upcoming showings.

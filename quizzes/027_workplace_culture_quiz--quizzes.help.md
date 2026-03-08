@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an employee's perception of their workplace culture. It collects information about the employee's job title, department, years of service, and feedback on their supervisor and team. The form also asks for their manager's approval, assessment of team leadership, communication, trust, decision-making, time management, problem-solving, adaptability, work-life balance, innovation, results ownership, collaboration, and overall performance. This form is intended to provide a comprehensive view of the employee's work environment and help identify areas for improvement.
-</thinking>
-
 # Workplace Culture Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about employee perception of their workplace culture.

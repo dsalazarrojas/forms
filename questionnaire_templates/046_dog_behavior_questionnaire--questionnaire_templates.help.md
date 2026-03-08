@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a dog's behavior and medical history. It's crucial that you fill out this form accurately to provide the best possible care for your dog. Before filling out this form, please note that it is not a duplicate of any other form in our system. This form should only be used once for each dog. 
-</thinking>
-
 # Dog Behavior Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a dog's behavior and medical history to provide the best possible care for your pet.

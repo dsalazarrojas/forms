@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess the clarity and conciseness of your writing. The quiz focuses on various aspects of clear and concise writing, such as sentence structure, active voice, word choice, and grammar. The questions are meant to test your understanding of what makes writing clear and concise, and identify areas where you can improve.
-
-This form is not a test of your general writing ability, but rather a focused assessment of your ability to recognize and apply principles of clear and concise writing. Please answer each question with the option that best demonstrates clarity and conciseness.
-
-This guide will walk you through each question and explain what makes each option correct or incorrect.
-
-</thinking>
-
 # Clarity And Conciseness Quiz - Help Guide
 ## Purpose
 This form is designed to assess your understanding of principles of clear and concise writing.

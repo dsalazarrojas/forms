@@ -1,13 +1,3 @@
-<thinking> 
-The Military Regulations Assessment form is designed to evaluate an individual's adherence to military regulations and procedures. It is intended for use by service members to self-report on their compliance with relevant military policies and procedures. This form helps identify areas where service members may need additional training or review to ensure they are meeting military standards.
-
-To confirm that this form is being used as intended, we will periodically review the submission data for the following:
-- Ensure that the form is being submitted as required.
-- Validate the accuracy of the submission data, ensuring that each field is filled out as expected.
-- Prevent duplicate submissions from the same submitter.
-
-</thinking>
-
 # Military Regulations Assessment - Help Guide
 ## Purpose
 The Military Regulations Assessment form is a self-reporting tool for service members to assess their adherence to military regulations and procedures. It helps identify areas where service members may need additional training or review to ensure they are meeting military standards.

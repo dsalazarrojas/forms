@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about their experience with a sports club. The purpose of this form is to gather overall satisfaction ratings, comments, and specific feedback on satisfaction level, sports club membership, sports club name, email address, and contact number. This form will help the sports club management to understand the overall experience of its members and identify areas for improvement.
-</thinking>
-
 # sports_club_membership_survey - Help Guide
 ## Purpose
 The sports club membership survey is designed to gather feedback from users about their experience with the sports club. This information will help the management to identify areas of satisfaction and areas that need improvement.

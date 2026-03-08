@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect eating habits questionnaire data. It seems to be a mix of personal preferences and behavioral questions, covering topics like eating frequency, food preferences, and specific habits. I'll assume this form is meant for users to provide their personal habits and choices related to eating. To ensure the form is being filled out correctly, I'll provide a clear and concise help guide for each field.
-</thinking>
-
 # Eating Habits Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your eating habits and preferences. Please answer the questions honestly to help us better understand your habits.

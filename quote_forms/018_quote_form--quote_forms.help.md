@@ -1,7 +1,3 @@
-<thinking>...This is a form that captures quotes from customers, used in the context of a service or product inquiry. Its purpose is to collect and store quotes from customers in an organized and efficient manner. To use this form, follow these steps:
-
-</thinking>
-
 # Quote Form - Help Guide
 ## Purpose
 The Quote Form is a tool used to collect quotes from customers. It is typically used when a customer requests information on a service or product. The form gathers the necessary details to process the quote and provide an accurate response to the customer.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help healthcare professionals assess the liver health of patients. The form is divided into multiple sections, each focusing on different aspects of liver health. It is meant to be completed in conjunction with a medical professional.
-</thinking>
-
 # Liver Quiz - Help Guide
 ## Purpose
 The Liver Quiz is a tool used by healthcare professionals to assess a patient's liver health by asking a series of questions and selecting the most appropriate options. It is used to gather information about a patient's liver symptoms, conditions, and test results.

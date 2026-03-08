@@ -1,19 +1,3 @@
-<thinking>
-This form appears to be a quiz on biological polymers, designed for students to test their knowledge on the topic. Each question is multiple-choice and covers various aspects of biological polymers, such as their types, functions, and properties. The form is likely intended for students in a high school or introductory college biology course.
-
-To ensure that this form is not used for any other purpose, I will only be using information provided in the inputSchema.
-
-The "Student Information" page is probably for students to provide their personal details, including full name, class period, and date. This page is not necessarily related to the topic of biological polymers, but it's a standard practice in most quizzes.
-
-Each question in the "Quiz Questions" section seems to be testing students' understanding of different aspects of biological polymers, such as their types, properties, and functions. The options provided are multiple-choice and cover the main categories of biological polymers (carbohydrates, proteins, nucleic acids, etc.).
-
-The "Bonus Question" is likely for students to provide a more in-depth explanation or answer that may not fit within the multiple-choice options.
-
-The "Confidence Level" and "Academic Honesty" questions are likely for students to reflect on their understanding of the material and confirm that their work is original.
-
-This form's purpose is to assess students' knowledge on biological polymers, likely for educational purposes.
-</thinking>
-
 # Biological Polymers Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your understanding of biological polymers, covering their types, properties, and functions.

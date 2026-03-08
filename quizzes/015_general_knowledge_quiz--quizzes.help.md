@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the General Knowledge Quiz form is to gather information from users about their general knowledge and understanding of various subjects. This form is likely used in an educational or testing context to assess users' abilities in different areas of knowledge. Before proceeding, ensure you have completed this form before, as it will be skipped if you have already done so to avoid duplicating efforts.
 
 </thinking>

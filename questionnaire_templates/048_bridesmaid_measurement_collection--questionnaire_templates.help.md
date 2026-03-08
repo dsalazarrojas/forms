@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bridesmaid Measurement Collection - Help Guide
 
 ## Purpose

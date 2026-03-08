@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Docker Knowledge Quiz - Help Guide
 
 ## Purpose

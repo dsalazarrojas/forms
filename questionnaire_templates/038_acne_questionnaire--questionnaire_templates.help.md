@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Acne Questionnaire - Help Guide
 
 ## Purpose

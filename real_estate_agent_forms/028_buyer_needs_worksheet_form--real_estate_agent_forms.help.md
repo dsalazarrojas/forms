@@ -1,5 +1,3 @@
-<thinking>... This form is a crucial tool for real estate agents to gather essential information from potential buyers, helping them understand the buyer's needs and preferences. It's designed to streamline the buying process and improve the agent's ability to provide personalized services. To ensure that this form is completed accurately and effectively, it's essential to understand its purpose and each field's significance. The form is intended for use with buyers who are serious about purchasing a property, and it's crucial that the information provided is as comprehensive as possible. Before starting, please review the fields carefully and provide as much detail as possible... </thinking>
-
 # Buyer Needs Worksheet Form - Help Guide
 ## Purpose
 The Buyer Needs Worksheet Form is a comprehensive tool designed to gather essential information about a potential buyer's needs and preferences. It's a crucial document that helps real estate agents understand the buyer's requirements, enabling them to provide personalized services and find the best-suited property for the buyer.

@@ -1,5 +1,3 @@
-<thinking>Before we start, let's review the purpose and requirements of this form. The form is called "Remodel Furnace Relocation" and is likely used for scheduling home visits or appointments for a furnace relocation service. The form has multiple fields with various types of input, including text, date, time, and select options. Each field has a label and hint to help guide the user through the process. We will make sure to cover each field in detail to ensure the user understands what is expected of them.</thinking>
-
 # Remodel Furnace Relocation - Help Guide
 ## Purpose
 The Remodel Furnace Relocation form is designed to collect information for scheduling home visits or appointments for a furnace relocation service. This form is used to gather relevant details to ensure a smooth and efficient visit.

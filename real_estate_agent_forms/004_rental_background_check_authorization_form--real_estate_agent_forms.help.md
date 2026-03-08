@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rental Background Check Authorization Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information from tenants and property owners to perform a rental background check. It ensures that all relevant parties are aware of and agree to the process, providing a smooth and secure experience for all parties involved.

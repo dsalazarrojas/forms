@@ -1,7 +1,3 @@
-<thinking>
-This form is used to withdraw a listing from the system. To confirm that the form is relevant and not a duplicate, the form is only accessible to authorized agents who can withdraw listings within their agency's jurisdiction. The form is used for internal purposes only, and the information collected will be used to update the listing status in the system.
-</thinking>
-
 # Listing Withdrawal Form - Help Guide
 ## Purpose
 The purpose of this form is to withdraw a listing from the system. This form is used to notify the system that a listing is no longer active and update its status accordingly.

@@ -1,13 +1,3 @@
-<thinking>
-This form is used by project managers to input information about a project, 
-including its title, description, contact information, deadline, start time, 
-required materials, budget, assigned tools, and category. This form helps 
-ensure consistency and accuracy of project data, and is primarily used 
-internally within the company. It's essential that only the correct 
-assigned tool is selected for each project.
-
-</thinking>
-
 # Lareddeingenieria - Help Guide
 ## Purpose
 This form is used to collect project information and assign the correct tool for each project.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about the user's personal and product usage preferences. The purpose of this form is to collect data that will help us better understand our customers' needs and provide a more personalized experience. This form is intended to be completed by end-users, and the information collected will be used for internal analysis and improvement purposes only.
-
-Before proceeding, please make sure you have not completed this form previously. If you have any doubts or concerns, feel free to reach out to us for clarification.
-
-Please note that this form is not intended for production data entry, it's a testing and development tool.
-
-</thinking>
-
 # Sizing Form - Help Guide
 ## Purpose
 This form is designed to gather information about the user's personal and product usage preferences.

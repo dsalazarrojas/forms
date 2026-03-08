@@ -1,5 +1,3 @@
-<thinking>... internal reasoning and validation checks will be performed on the submission data to ensure it's complete and correct. This form is designed to be filled out by real estate agents who want to join our referral network. To prevent duplication, we will not allow submissions with the same email address. If a submission is incomplete, we will not process it until the necessary information is provided. ...</thinking>
-
 # Real Estate Referral Network Signup - Help Guide
 
 ## Purpose

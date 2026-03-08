@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end users who will be completing the "promoter_and_business_partner_quiz" form. The purpose of this form is to educate users about the concept of a promoter and a business partner, including how they earn money, the promotion process, and the benefits of being a promoter. This form is part of a series of quizzes created using AI-generated form technology, and its primary goal is to provide a clear and concise understanding of the topic.
-
-Before completing this form, please ensure that you have not previously completed this quiz, as it is intended to be a learning experience for new users. If you have any questions or concerns, feel free to ask.
-
-This guide will walk you through each section of the form, explaining each field and its purpose.
-
-</thinking>
-
 # promoter_and_business_partner_quiz - Help Guide
 ## Purpose
 This form is designed to educate users about the concept of a promoter and a business partner, including how they earn money, the promotion process, and the benefits of being a promoter.

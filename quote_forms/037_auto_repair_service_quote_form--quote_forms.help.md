@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for an auto repair service quote. The form aims to gather essential details about the customer, their vehicle, and the requested services. This guide will walk you through the process of completing this form, ensuring that you provide accurate and sufficient information for the repair quote.
-
-To ensure the effectiveness of this form, please review the following:
-
-*   Ensure you have the necessary permissions to complete this form on behalf of the requestor (customer).
-*   The customer's information is accurate and up-to-date.
-*   The customer's vehicle information is correct.
-*   The requested services and symptoms are properly listed.
-
-If you are unsure about any of the above, please consult the requestor directly before proceeding.
-
-</thinking>
-
 # Auto Repair Service Quote Form - Help Guide
 =====================================
 

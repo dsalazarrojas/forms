@@ -1,7 +1,3 @@
-<thinking>
-This form is used to waive the security deposit for a rental property. The purpose of this form is to provide a clear and concise way for tenants to acknowledge that they are waiving their right to a security deposit, usually in exchange for a discount on rent or other benefits. This form should only be used for residential properties and is intended for tenants who are already established with the landlord or property manager. It's essential to ensure that the tenant understands the implications of waiving their security deposit and that they are doing so voluntarily. Please review the fields below to ensure you complete this form accurately and thoroughly.
-</thinking>
-
 # Security Deposit Waiver Form - Help Guide
 ## Purpose
 The Security Deposit Waiver Form is a document that allows tenants to waive their right to a security deposit for a rental property. This form is usually used in residential settings to offer incentives such as rent discounts or other benefits to tenants in exchange for waiving their security deposit.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # itsm-platform-skills-assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess your skills and proficiency level in the ITSM (IT Service Management) platform. This form is used to evaluate your expertise and understanding of the platform's features, functionality, and best practices. By completing this form, you will be able to demonstrate your skills and knowledge in areas such as platform proficiency, training, and skills.

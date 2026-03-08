@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to measure the quality of relationships, likely for personal or professional settings where assessing partner satisfaction, communication, and conflict resolution are important considerations. It appears to be a standardized template with several sections, each with its own set of options. To ensure relevance, it would be used in contexts where relationships are a crucial aspect, such as in counseling, team management, or partner evaluations. Non-duplication of similar questions is not a concern here as the form seems to be designed to gather a comprehensive overview rather than a specific, detailed analysis.
-
-</thinking>
-
 # Relationship Quality Test Form Template - Help Guide
 ## Purpose
 The Relationship Quality Test Form Template is designed to assess the quality of relationships, helping users evaluate partner satisfaction, communication, and conflict resolution. It is a standardized template with multiple sections, each focusing on a specific aspect of relationships.

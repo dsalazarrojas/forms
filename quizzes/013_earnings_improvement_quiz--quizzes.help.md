@@ -1,11 +1,3 @@
-<thinking>
-
-We have designed this form to help users gauge their current earnings improvement status and identify areas for potential growth. The form assesses various aspects of income, including income goals, financial readiness, income level, and sources of income. By completing this form, users will be able to evaluate their current situation, set realistic goals, and make informed decisions to achieve their desired income level.
-
-We aim to minimize redundancy and ensure that users are not duplicating effort or answering questions that are not relevant to their current state. This form is intended to be a comprehensive assessment tool, providing users with actionable insights to improve their earnings.
-
-</thinking>
-
 # Earnings Improvement Quiz - Help Guide
 ## Purpose
 The Earnings Improvement Quiz is designed to help users assess their current earnings situation, identify areas for improvement, and set realistic goals for achieving their desired income level.

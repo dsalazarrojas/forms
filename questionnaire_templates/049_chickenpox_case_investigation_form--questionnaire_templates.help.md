@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to document a case of chickenpox (varicella) investigation. The form captures information about the patient's symptoms, medical history, and exposure to the virus. The goal is to identify potential risks and take necessary precautions to prevent the spread of the virus.
-
-To avoid duplication, ensure that each case of chickenpox is investigated thoroughly and accurately.
-
-</thinking>
-
 # Chickenpox Case Investigation Form - Help Guide
 ## Purpose
 The purpose of this form is to document a case of chickenpox (varicella) investigation, gathering information about the patient's symptoms, medical history, and exposure to the virus.

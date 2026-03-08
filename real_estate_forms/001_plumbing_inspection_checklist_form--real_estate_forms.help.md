@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to provide an inspection checklist for plumbing systems in residential or commercial buildings. This form will help inspectors and clients to systematically review and document the condition of various plumbing systems, note any issues found, and make recommendations for necessary repairs or maintenance.
-
-The form is designed for both inspectors and clients, and it should not be used as a legal document for official purposes. However, it can serve as a starting point for inspectors to gather information and create a report for clients after a thorough inspection. 
-
-This form is not a one-time use, and it can be used for multiple inspections and reports. Therefore, ensure that any data entered into this form is accurate and up-to-date.
-
-Before proceeding, ensure that you have the relevant permissions and rights to inspect the location. This form is meant to be used for personal or professional use only. 
-
-Please read the following instructions carefully and fill out the form according to your needs.
-</thinking>
-
 # plumbing_inspection_checklist_form - Help Guide
 ## Purpose
 

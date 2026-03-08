@@ -1,9 +1,3 @@
-<thinking>As this form is designed to assess the user's vocabulary, we need to ensure that it is relevant and not duplicated. We should consider the following:
-
-* The form should be used for users who need to demonstrate their vocabulary skills.
-* The form should not be used for users who are not familiar with the terminology or need to be assessed on a different topic.
-* The form should be reviewed to ensure that it is not duplicated with other forms used for similar purposes.</thinking>
-
 # phone_vocabulary_assessment - Help Guide
 ## Purpose
 The phone_vocabulary_assessment form is designed to evaluate a user's vocabulary skills, specifically their ability to recognize and use correct phone terminology.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect user opinions and preferences, asking questions on a wide range of topics. It's meant to be a fun, interactive way to gather information on the user's habits, interests, and behaviors. The form has 17 questions, each covering a different aspect of the user's life.
-
-To ensure the form is completed correctly, let's review its purpose and the required fields. This form is for collecting user feedback and opinions, and all questions are required, meaning the user must answer every question.
-
-</thinking>
-
 # Quiz Form With A Calculated Number Of Correct Answers - Help Guide
 ## Purpose
 This form is designed to gather user opinions and preferences on various topics. All answers are required.

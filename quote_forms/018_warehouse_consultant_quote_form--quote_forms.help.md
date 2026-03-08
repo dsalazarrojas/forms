@@ -1,7 +1,3 @@
-<thinking>
-This form is for generating a quote for warehouse consulting services. It captures the essential details of the quote, including services offered, costs involved, and terms of service. The form is designed to be completed by the client, and the submitted quote can be used as a starting point for further discussions and negotiations. To ensure consistency in quotes generated through this form, it's essential to understand and use it correctly. Please note that this guide will not be a substitute for actual business knowledge and expertise required to complete a quote accurately. Please review the form carefully and only use it for the intended purpose.
-</thinking>
-
 # Warehouse Consultant Quote Form - Help Guide
 ## Purpose
 The Warehouse Consultant Quote Form is designed to generate a quote for warehouse consulting services. It collects information about the services offered, costs involved, and terms of service to provide a comprehensive quote.

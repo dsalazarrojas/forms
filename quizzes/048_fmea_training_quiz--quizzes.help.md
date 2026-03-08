@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the FMEA (Failure Mode and Effects Analysis) Training Quiz form. The purpose of this form is to evaluate a user's knowledge of FMEA principles and procedures. By completing this form, users can assess their understanding of effective ways to identify potential hazards, and receive feedback on their performance. Before proceeding, please ensure that you have a basic understanding of FMEA concepts and terminology. 
-</thinking>
-
 # FMEA Training Quiz - Help Guide
 ## Purpose
 The FMEA Training Quiz is designed to test your knowledge of FMEA principles and procedures. This quiz will help you gauge your understanding of effective ways to identify potential hazards and assess your performance.

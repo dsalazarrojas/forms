@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lifespan Development Knowledge Quiz - Help Guide
 ## Purpose
 This form, the Lifespan Development Knowledge Quiz, is designed to test your knowledge about the different stages of human development across a person's lifespan. The quiz covers various stages from infancy to adulthood, asking you to identify the correct age ranges associated with each stage. 

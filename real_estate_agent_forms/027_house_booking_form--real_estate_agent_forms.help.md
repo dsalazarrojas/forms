@@ -1,8 +1,3 @@
-<thinking>
-The House Booking Form is intended to help users reserve a property for a specific booking duration. The form is designed to collect relevant information from the user, such as property details and guest's contact information. This form is meant to be used by real estate agents to manage property bookings efficiently. It is recommended to review this form carefully before providing any information to avoid duplication or miscommunication. It is also a good idea to ensure that all the required fields are filled correctly to ensure smooth processing of the booking request.
-
-</thinking>
-
 # House Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their property booking requests. The form helps real estate agents to manage and process booking requests efficiently.

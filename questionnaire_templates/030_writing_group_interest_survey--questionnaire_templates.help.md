@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from potential members of a writing group, gathering their interests and preferences to facilitate a collaborative and effective writing group experience. The purpose of this form is to ensure that the group's dynamics and settings align with the needs and expectations of its members. To avoid duplication of effort, it is recommended to fill out this form only once, unless you have significantly changed your interests or circumstances since the last time you filled it out.
-
-The form has ten fields in total, and users can skip fields if they are not applicable or not relevant to their situation.</thinking>
-
 # Writing Group Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect information from potential members of a writing group, gathering their interests and preferences to facilitate a collaborative and effective writing group experience.

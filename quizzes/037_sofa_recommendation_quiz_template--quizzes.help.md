@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sofas Recommendation Quiz Template - Help Guide
 
 ## Purpose

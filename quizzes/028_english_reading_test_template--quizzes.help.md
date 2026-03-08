@@ -1,7 +1,3 @@
-<thinking>
-To create an internal reasoning block to ensure the form is relevant and not a duplicate, we need to analyze the input schema to identify its main category and purpose. Here, the category is "quizzes" and the purpose is to test English reading comprehension.
-</thinking>
-
 # english_reading_test_template - Help Guide
 ## Purpose
 The English reading test template is designed to assess an individual's English reading comprehension skills. It consists of multiple questions that evaluate their ability to understand and interpret text-based materials.

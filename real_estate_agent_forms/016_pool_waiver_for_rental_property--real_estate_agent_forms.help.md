@@ -1,16 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Pool Waiver For Rental Property" form, we first need to understand its purpose and relevance. This form is designed to gather information related to a rental property, specifically the ownership and contact details of the property, as well as emergency contact information. It is likely used for administrative, legal, or insurance purposes.
-
-Upon examining the form fields, we can see that they cover:
-
-*   Rental property details (title and address)
-*   Owner contact information (name, phone number, and contact details)
-*   Emergency contact information (name and contact number)
-
-This form does not appear to be related to any other form we have created before, so it is not a duplication of any existing form.
-
-</thinking>
-
 # Pool Waiver For Rental Property - Help Guide
 ## Purpose
 The "Pool Waiver For Rental Property" form is designed to gather information about a rental property, including the ownership and contact details of the property, as well as emergency contact information. This form is likely used for administrative, legal, or insurance purposes.

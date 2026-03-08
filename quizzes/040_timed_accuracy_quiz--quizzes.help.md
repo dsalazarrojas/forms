@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used to gauge a user's understanding of a particular set of topics or subjects. The goal of the Timed Accuracy Quiz is to test a user's ability to accurately complete a series of questions within a set time frame.
-This form is likely to be used in a training or educational setting to assess a user's knowledge in a particular subject area.
-The form is divided into multiple pages, each with a series of questions that require the user to select a response from a set of options. The questions are likely to be multiple-choice questions.
-</thinking>
-
 # Timed Accuracy Quiz - Help Guide
 ## Purpose
 The Timed Accuracy Quiz is designed to assess a user's understanding of a particular set of topics or subjects within a set time frame.

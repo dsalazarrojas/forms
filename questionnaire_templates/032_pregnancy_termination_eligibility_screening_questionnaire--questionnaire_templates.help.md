@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for screening patients for pregnancy termination eligibility. The purpose of this form is to gather information about the patient's medical history, family history, and contact details in order to assess their eligibility for pregnancy termination. 
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using only public survey topic metadata. It is released under CC BY 4.0 and can be used, modified, and even sold with proper credit given.
-
-This form is intended for use in medical settings only, and the information collected will be used for patient care and assessment purposes.
-
-Please note that some information may be sensitive or private, and filling out this form implies consent to use this information for medical purposes.
-
-</thinking>
-
 # Pregnancy Termination Eligibility Screening Questionnaire - Help Guide
 ## Purpose
 

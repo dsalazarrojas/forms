@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mold Exposure Assessment - Help Guide
 ## Purpose
 The Mold Exposure Assessment form is designed to collect relevant information about a specific property to help assess the level of mold exposure present. This form is intended to be used by occupants, property owners, or inspectors to provide a comprehensive picture of the property's condition.

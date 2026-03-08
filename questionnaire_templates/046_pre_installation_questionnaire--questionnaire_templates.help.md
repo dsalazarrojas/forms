@@ -1,7 +1,3 @@
-<thinking>
-To determine whether the user understands the purpose and can complete the form correctly, it's essential to explain how this form is used to gather information that will be helpful for the installation team to prepare and execute the installation process smoothly and correctly. This form should not be filled out multiple times, as each submission will help the installation team have a comprehensive picture of the client's requirements and constraints.
-</thinking>
-
 # Pre Installation Questionnaire - Help Guide
 ## Purpose
 The Pre-Installation Questionnaire is a form designed to collect crucial information from the client before the installation process commences. This form is used to gather details such as contact information, installation site specifics, required equipment, and other important details that will aid the installation team in preparing for and executing the installation process accurately.

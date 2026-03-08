@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a comprehensive quiz designed to assess the skills and knowledge of personal support workers. The purpose of this form is to evaluate a personal support worker's understanding of their role, responsibilities, and approaches to supporting individuals with diverse needs and circumstances. This quiz may be used in training or assessment contexts to gauge a personal support worker's competencies in areas such as empathy, person-centered care, trauma-informed practice, and more.
-
-Before proceeding, it is essential to note that this form has been generated using AI, and while it is not affiliated with or endorsed by any proprietary form platforms, it is an original adaptation of publicly available metadata. 
-
-The form consists of 25 questions, all of which are text input fields. Each question is meant to elicit specific information or thoughts from the personal support worker, allowing for a thorough evaluation of their abilities and understanding.
-
-</thinking>
-
 # Personal Support Worker Quiz - Help Guide
 ## Purpose
 

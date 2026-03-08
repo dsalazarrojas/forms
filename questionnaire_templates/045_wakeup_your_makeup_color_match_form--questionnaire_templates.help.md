@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wakeup Your Makeup Color Match Form - Help Guide
 ## Purpose
 The Wakeup Your Makeup Color Match Form is designed to help match your makeup preferences with suggested products. The form collects information about your skin tone, hair color, eye color, and other personal characteristics to generate a personalized color match score.

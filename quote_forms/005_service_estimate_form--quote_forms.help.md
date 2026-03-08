@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive user-facing help guide for the "Service Estimate Form". The form's purpose is to help users gather essential information for services offered by the company. The form is used to estimate costs, services, and other relevant details for customers. It seems reasonable to assume that this form is used for businesses that offer services with varying options and prices. The form fields are designed to collect information about the customer, the service type, estimate date, estimate details, services included, cost, tax rate, and total cost. The form fields are a mix of text, email, phone number, select options, and dates. This form is likely used for internal purposes within the company, and the fields are well-structured for that purpose. It is assumed that the form is used for both customers and employees of the company.</thinking>
-
 # Service Estimate Form - Help Guide
 
 ## Purpose

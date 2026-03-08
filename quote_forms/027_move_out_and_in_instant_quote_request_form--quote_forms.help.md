@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to ensure that the "Move Out And In Instant Quote Request Form" is completed correctly and accurately. Please ensure that this form is only completed once for a specific move out and in request, and that the provided information is relevant to the specific move. If you need to request multiple moves, please fill out this form multiple times.
-</thinking>
-
 # Move Out And In Instant Quote Request Form - Help Guide
 ## Purpose
 The Move Out And In Instant Quote Request Form is used to request a quote for a move out and in service. This form helps us gather necessary information to provide an accurate quote and schedule the move.

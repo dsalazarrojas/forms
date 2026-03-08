@@ -1,21 +1,3 @@
-<thinking>
-
-The purpose of this form is to help users evaluate and refine their global business strategies by answering a series of questions. These questions are designed to assess the user's understanding of various business concepts and strategies. The form is meant to be completed by individuals in a business setting, such as business owners, managers, or professionals, to help them better understand their own business practices and identify areas for improvement.
-
-This form is not intended for general public use, and the answers will likely be used internally within the organization to inform business decisions. 
-
-The form consists of 12 questions, each with multiple-choice options, and is designed to be completed by a single user. 
-
-The questions are focused on the user's current business practices and strategies, and the answers will likely influence the development of business plans and policies within the organization. 
-
-There is no time limit for completion, and users can complete the form at their own pace. 
-
-The form does not have a minimum or maximum time limit for completion, and there is no scoring system in place. 
-
-The data collected will be used to provide feedback to the users and to help the organization improve its business practices.
-
-</thinking>
-
 # Global Business Strategies Quiz - Help Guide
 ## Purpose
 The Global Business Strategies Quiz is designed to help users evaluate and refine their business strategies by assessing their current practices against best practices in the industry.

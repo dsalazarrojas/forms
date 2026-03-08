@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Domestic Violence Submission Form - Help Guide
 ## Purpose
 The domestic violence submission form is a tool used to collect data on incidents of domestic violence. This form helps identify and document incidents of domestic violence, providing valuable insights for support and intervention. **Please note that this form should only be used for genuine incidents of domestic violence and not for other purposes. If you have previously submitted an incident, please do not resubmit. Duplicate submissions can cause confusion and may lead to unnecessary investigations.**

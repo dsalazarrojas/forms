@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers who are interested in purchasing a dining table product. The purpose of this form is to gather contact details and any specific requirements the customer may have for the product. The form will be used by the sales team to follow up on the inquiry and provide further assistance.
-</thinking>
-
 # Dining Table Product Inquiry Form - Help Guide
 ## Purpose
 This form is used to collect inquiries from customers interested in buying a dining table product.

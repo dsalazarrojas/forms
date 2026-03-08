@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to help users prepare for an examination by assessing their understanding of a certain topic or subject. It is likely used in an academic or educational setting to gauge the readiness of students or professionals to take an examination. This form is not intended for general public use, so users should not be concerned about privacy or security. Please ensure you have the necessary clearance to access and submit this form.</thinking>
-
 # Examination Preparation Quiz - Help Guide
 ## Purpose
 This form is designed to assess your understanding of a specific topic or subject, helping you prepare for an examination.

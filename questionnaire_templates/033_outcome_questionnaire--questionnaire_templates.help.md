@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to capture information from the user to help them reflect on outcomes related to specific areas and identify potential target areas to focus on. This form is designed to help users evaluate and report on their progress, outcomes, and target areas in a clear and structured manner. 
-
-Before proceeding, please ensure that you have read and understood the purpose of this form and that you are not duplicating work that has already been done. This will help us avoid unnecessary duplication of efforts and ensure that your input is accurate and relevant.
-
-</thinking>
-
 # Outcome Questionnaire - Help Guide
 ## Purpose
 This form is designed to help you evaluate and report on your outcomes and progress in a structured manner. It's essential to provide accurate and relevant information to help you and your team focus on the right areas and make informed decisions.

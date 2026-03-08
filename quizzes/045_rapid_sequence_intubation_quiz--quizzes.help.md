@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information from medical professionals for the Rapid Sequence Intubation (RSI) Quiz, which is used to assess their knowledge and skills in performing RSI. The form collects demographic information (First Name, Email Address, and Phone Number), RSI knowledge, simulation experience, and course completion status.
 
 To complete this form, you will need to provide the following information:

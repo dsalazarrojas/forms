@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## memorial_planning_survey - Help Guide
 
 ### Purpose

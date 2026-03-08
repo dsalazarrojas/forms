@@ -1,7 +1,3 @@
-<thinking> 
-I will create a help guide for the Latin Noun Declension Quiz form. Before I start, let me clarify that the form seems to be a comprehensive quiz on Latin noun declension, which is a part of Latin grammar dealing with the changing forms of nouns in different grammatical cases. Each field is a question or option related to Latin noun declension. The form seems to be designed to test the respondent's knowledge on the declension of Latin nouns. I assume that the form is meant to be filled out by someone with a basic knowledge of Latin grammar. Is this understanding correct? Should I clarify anything else regarding the form's purpose or the respondent's background?
-</thinking>
-
 # Latin Noun Declension Quiz - Help Guide
 ## Purpose
 The Latin Noun Declension Quiz is a test of your knowledge on Latin noun declension. You will be presented with a series of questions related to the changing forms of Latin nouns in different grammatical cases.

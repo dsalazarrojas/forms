@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a skin test, specifically for patients and healthcare professionals. The form was generated to mimic the functionality of traditional skin test surveys, with the goal of gathering relevant and useful information. Please note that this form is not affiliated with, endorsed by, or derived from any form platform. Its purpose is to assist in collecting skin test data and is an original adaptation using public survey metadata.
-</thinking>
-
 # tb_skin_test_questionnaire - Help Guide
 ## Purpose
 The tb_skin_test_questionnaire form is designed to collect patient information, test results, treatment plans, and contact details for skin testing purposes. The form consists of five pages, each with a distinct set of fields.

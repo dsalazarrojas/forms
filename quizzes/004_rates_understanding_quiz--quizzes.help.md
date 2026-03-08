@@ -1,10 +1,3 @@
-<thinking>
-# This form was designed to help users understand rates and units, a fundamental concept in various fields, including chemistry, physics, and economics. 
-It appears that the form is intended for educational purposes, possibly for a quiz or assessment in a classroom setting. 
-Before proceeding, please ensure that you have the correct information and understanding of the concept of rates and units. 
-If you've taken a similar quiz or form before, please answer the questions with your previous answers to compare your understanding.
-</thinking>
-
 # rates_understanding_quiz - Help Guide
 ## Purpose
 This form aims to test your understanding of rates and units. Please provide answers to the questions in the form to assess your knowledge.

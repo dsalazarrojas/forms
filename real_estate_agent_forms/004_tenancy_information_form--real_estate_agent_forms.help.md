@@ -1,8 +1,3 @@
-<thinking> 
-The form is designed to collect information related to a tenancy agreement, covering various aspects such as contact details, property information, move-in and move-out details, maintenance requests, and other relevant terms. It is intended for use in real estate agent contexts, likely for collecting information from tenants and agents involved in a tenancy agreement. The form's purpose is to gather data in a structured and organized manner, facilitating efficient communication and record-keeping. This form appears to be a comprehensive guide for real estate agents, covering all aspects of tenancy agreements. The form's sections cover contact information, property details, move-in and move-out information, maintenance requests, and other relevant terms. It is likely used to ensure that all necessary information is collected and recorded accurately and efficiently.
-
-</thinking>
-
 # Tenancy Information Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information related to tenancy agreements, ensuring accurate and efficient communication and record-keeping for real estate agents.

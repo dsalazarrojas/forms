@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Monat Hair Quiz UBB" form. The form purpose is to gather information from users related to their hair, likely for a hair-related service or product. I will review the form structure and identify the key fields that require explanation. I will then create a clear and concise help guide using Markdown format.</thinking>
-
 # Monat Hair Quiz UBB - Help Guide
 
 ## Purpose

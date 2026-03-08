@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose, completion, and explanation of each field for the "Laboratory Management Trends Quiz" form.
-</thinking>
-
 # Laboratory Management Trends Quiz - Help Guide
 ## Purpose
 The purpose of this form is to collect information about laboratory management trends and best practices from laboratory professionals. The form will help gather insights into current laboratory roles, key trends, and challenges in laboratory management, as well as hospital size, type, technology adoption, and other relevant factors.

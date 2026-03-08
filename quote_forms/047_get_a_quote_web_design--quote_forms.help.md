@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Get A Quote Web Design - Help Guide
 
 ## Purpose

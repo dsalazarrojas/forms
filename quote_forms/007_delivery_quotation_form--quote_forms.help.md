@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Delivery Quotation Form - Help Guide
 ## Purpose
 The Delivery Quotation Form is a tool used to generate a quotation for delivery purposes. This form is designed to collect information from users about the products they want to order, the quantity they need, and other relevant details.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for rent payment processing, and it is likely intended for tenants or authorized agents to provide their contact and payment information to rent property or services. It should not be used for other purposes as it contains sensitive information. 
-Ensure that you have the necessary permissions and authorizations to access and process this form before proceeding.
-</thinking>
-
 # ECheck.Net Rent Payment Form - Help Guide
 ## Purpose
 This form collects contact and payment information for rent payments. It is used to process rent payments for properties or services.

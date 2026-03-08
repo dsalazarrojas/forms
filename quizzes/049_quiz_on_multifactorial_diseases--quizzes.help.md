@@ -1,9 +1,3 @@
-<thinking>
-The form "quiz_on_multifactorial_diseases" is designed to educate users about multifactorial diseases, which are health conditions that have multiple risk factors contributing to their development. This form will help users understand the definitions, risk factors, and consequences of such diseases.
-The form will guide users through a series of text-based questions, allowing them to learn about multifactorial diseases in a self-directed and interactive way. It is intended for users who want to gain basic knowledge about this topic.
-Please note that this form was created to provide general information and is not intended for professional medical advice or diagnosis. If you have concerns about your health, please consult a qualified healthcare professional.
-</thinking>
-
 # quiz_on_multifactorial_diseases - Help Guide
 ## Purpose
 This form is designed to educate users about multifactorial diseases, their definitions, risk factors, and consequences.

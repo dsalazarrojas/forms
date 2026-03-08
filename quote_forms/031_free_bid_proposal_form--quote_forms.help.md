@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a project's bid proposal, including project date, scope of work, estimated cost, and more. This form helps contractors or bid teams gather necessary data from clients before submitting their proposal. This form is not intended for use by clients, but rather for the internal use of the bid team to collect and review project details. There is no redundancy in the form fields as each one is unique and serves a specific purpose in the proposal process.
-</thinking>
-
 # Free Bid Proposal Form - Help Guide
 ## Purpose
 This form is used by the bid team to collect and review project details from clients before submitting their proposal. It helps gather essential information about the project's date, scope, estimated cost, and other relevant details.

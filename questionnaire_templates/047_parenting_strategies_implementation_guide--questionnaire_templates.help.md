@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to help parents and careproviders (individuals providing care to the child) develop a comprehensive plan for implementing effective parenting strategies. The form guides them through a series of questions to gather information about their child's age, relationship with the careprovider, goals and expectations, implementation plan, progress tracking, reflection, and interaction with the child.
-
-The form is intended to be a helpful tool for parents and careproviders to:
-
-- Understand the child's needs and develop tailored strategies for their care
-- Establish clear goals and expectations for themselves and the child
-- Plan effective implementation and progress tracking
-- Reflect on their care and interaction with the child
-- Improve their parent-child relationship
-
-Please ensure that you are completing the form for the right purpose and do not duplicate effort. This form is designed to be a one-time use case.</thinking>
-
 # Parenting Strategies Implementation Guide - Help Guide
 ## Purpose
 This guide is designed to help parents and careproviders develop effective parenting strategies for their child's care.

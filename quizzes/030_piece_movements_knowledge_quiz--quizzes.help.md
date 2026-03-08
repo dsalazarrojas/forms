@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is what I came up with:
 # Piece Movements Knowledge Quiz - Help Guide
 ## Purpose

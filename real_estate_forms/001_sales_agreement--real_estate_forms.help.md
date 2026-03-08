@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information related to a sales agreement between a buyer and a seller. The form aims to gather essential details, payment terms, and acknowledgments from both parties involved in the sale. The goal is to ensure a smooth and efficient sales process. The form should only be used for sales agreements, and any duplicate or outdated forms should be removed before use.
-</thinking>
-
 # Sales Agreement - Help Guide
 ## Purpose
 This form is used to document the terms and details of a sales agreement, ensuring both the buyer and seller are on the same page. It helps to clarify payment terms and acknowledgments, promoting transparency and a successful sales process.

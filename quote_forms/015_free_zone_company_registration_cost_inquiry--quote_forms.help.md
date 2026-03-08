@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to inquire about the cost of registering a company in a free zone. It is likely used by entrepreneurs or business owners who want to know the cost associated with registering their company in a specific free zone. The form is meant to gather information about the company's characteristics and the desired free zone to provide a tailored quote or estimate for the registration process.
-</thinking>
-
 # Free Zone Company Registration Cost Inquiry - Help Guide
 ## Purpose
 This form is intended to help entrepreneurs and business owners estimate the cost of registering their company in a free zone. It collects information about the company and its preferences to provide a detailed quote or estimate for the registration process.

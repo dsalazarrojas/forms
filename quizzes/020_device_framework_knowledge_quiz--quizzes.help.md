@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Device Framework Knowledge Quiz - Help Guide
 ## Purpose
 This form aims to assess users' knowledge on device frameworks by presenting a series of questions with multiple-choice options. The form's primary goal is to evaluate users' understanding of device-related concepts.

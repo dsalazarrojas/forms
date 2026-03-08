@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a person's exercise habits, specifically their frequency, duration, and intensity of physical activity. The form is intended to be a general survey tool for assessing an individual's physical activity levels and habits. The questions are focused on understanding how often, how long, and how intense an individual exercises, as well as the type of exercises they typically do. This form should only be completed by individuals who are 18 years or older, and it's recommended that they answer questions based on their typical weekly habits, not their one-time activities. Please ensure that you have permission from participants to collect this type of data and that you're in compliance with applicable laws and regulations regarding data collection, such as GDPR and CCPA. 
-</thinking>
-
 # PAR Q Template - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to complete an Art History Quiz, testing their knowledge on various art periods and styles. The questions cover the 19th and 20th centuries, covering Impressionism, Post-Impressionism, Cubism, and Pop Art, among others. The form is divided into three sections: Ancient and Renaissance Art, Impressionism and Modernism, and Contemporary Art. Each section is dedicated to a specific period or style.
-</thinking>
-
 # Art History Quiz - Help Guide
 ## Purpose
 

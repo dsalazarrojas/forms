@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure this form is used correctly, and for the right purpose. Easter Quizzes are meant to be a fun and engaging way for people to test their knowledge and creativity about Easter and springtime. This form is designed for users to create and customize their own quizzes, with various options to suit their needs. We want to avoid duplication, so please fill out this form carefully and only use it for its intended purpose.
-
-</thinking>
-
 # Easter Quiz - Help Guide
 ## Purpose
 This form allows you to create a customized Easter-themed quiz for you and your audience. It's a fun way to test your knowledge and creativity about Easter and springtime.

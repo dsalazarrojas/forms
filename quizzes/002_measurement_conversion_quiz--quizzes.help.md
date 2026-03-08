@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help users test their conversion skills between different units of measurement, such as feet, yards, and inches. This quiz will help users assess their understanding of conversion rules between these units.
-</thinking>
-
 # Measurement Conversion Quiz - Help Guide
 ## Purpose
 This form is a self-assessment quiz to test your knowledge on measurement conversion between feet, yards, and inches. Answering these questions will help you gauge your understanding of how to convert between these units.

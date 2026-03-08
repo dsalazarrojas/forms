@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient, including their identification, medical history, test scores, and assessment details. This form is typically used by psychologists or medical professionals to gather data for research or clinical purposes. To ensure that you are using the correct form for your needs, please check that the "Patient Identification" field is filled in with accurate information and that the "Test Scores" field is filled in with one of the provided options. If you are unsure about any of the fields, please contact a medical professional for clarification.
-</thinking>
-
 # psychology_questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about a patient, including their identification, medical history, test scores, and assessment details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect relevant information from real estate agents regarding lead-based paint disclosures in residential properties. The purpose of this form is to gather data for regulatory compliance and ensure that real estate agents are aware of the potential risks associated with lead-based paint. This form is not intended to be a comprehensive guide to lead-based paint safety, but rather a means to document and report on lead-based paint disclosures in real estate transactions. Before starting, ensure that you are aware of the specific regulations and guidelines related to lead-based paint disclosures in your area and jurisdiction. This form may need to be reviewed and updated according to local regulations and best practices.
-</thinking>
-
 # Lead Based Paint Disclosure Form - Help Guide
 ## Purpose
 The Lead Based Paint Disclosure Form is designed to help real estate agents collect and document information about lead-based paint disclosures in residential properties. This form is a crucial tool to ensure that real estate agents are aware of the potential risks associated with lead-based paint and comply with local regulations.

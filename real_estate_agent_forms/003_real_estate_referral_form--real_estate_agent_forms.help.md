@@ -1,5 +1,3 @@
-<thinking> This form is intended to capture information about real estate agent referrals, including contact information, referral details, and follow-up status. The form is used to manage referrals from agents, real estate companies, or other sources. It is designed to be a comprehensive and structured way to collect and track referral data. To ensure accurate and complete data entry, it is recommended to fill out the form carefully and thoroughly. </thinking>
-
 # real_estate_referral_form - Help Guide
 ## Purpose
 The real_estate_referral_form is a tool for capturing and managing real estate agent referrals.

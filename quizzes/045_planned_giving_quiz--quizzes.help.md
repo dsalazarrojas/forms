@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about planned giving options from donors. Planned giving is a method of charitable gifting that allows donors to make a gift now and receive an income stream over time. This form is intended to understand the donor's interest in planned giving, their gifting preferences, and any other information that may be relevant to their charitable giving decisions.
-
-This form does not collect sensitive or financial information, and all information collected will be treated as confidential. By completing this form, you are providing non-binding indications of interest in planned giving options.
-
-To ensure that the data collected is meaningful and useful, please complete the form with as much detail as possible. If you are unsure about any of the fields, please feel free to contact the organization for clarification.
-</thinking>
-
 # Planned Giving Quiz - Help Guide
 ## Purpose
 This guide will walk you through the Planned Giving Quiz form to help you understand the purpose and questions asked in each field.

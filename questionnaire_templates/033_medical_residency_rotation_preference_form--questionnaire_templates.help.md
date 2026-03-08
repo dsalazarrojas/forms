@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather medical residency rotation preferences from a user, 
-allowing them to select their choices from a series of options. 
-Please ensure that the user has the necessary permissions to access this form.
-</thinking>
-
 # prophets_form - Help Guide
 ## Purpose
 The "prophets_form" is a form designed to collect medical residency rotation preferences from users. This form is used to gather information about the user's rotation choices, which can be used for administrative purposes.

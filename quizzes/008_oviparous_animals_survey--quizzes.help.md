@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about oviparous animals, which lay eggs as a method of reproduction. This form is designed to gather data about the species, frequency, and habits of oviparous animals. To ensure the collected data is accurate and comprehensive, please fill out the form carefully and truthfully.
-</thinking>
-
 # Oviparous Animals Survey - Help Guide
 ## Purpose
 The Oviparous Animals Survey is designed to collect information about oviparous animals, which lay eggs as a method of reproduction. This form will help us gather data about the species, frequency, and habits of these animals.

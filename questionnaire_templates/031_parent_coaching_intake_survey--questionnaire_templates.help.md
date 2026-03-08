@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll help guide you through the Parent Coaching Intake Survey form. This form is designed to help parents share information about their goals, support systems, and parenting strategies, which will be used to create a personalized coaching plan for their child's development. By filling out this form, parents will be able to identify areas of improvement and develop a tailored plan to achieve their goals. Before you start, please make sure to answer the questions honestly and thoroughly, and avoid duplication or irrelevant information. This will help ensure that you get the most out of the coaching process.</thinking>
-
 # Parent Coaching Intake Survey - Help Guide
 ## Purpose
 The Parent Coaching Intake Survey is a comprehensive form designed to gather information about your parenting goals, support systems, and strategies. By filling out this form, you'll be able to identify areas of improvement and develop a tailored plan to achieve your goals for your child's development.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from students about their knowledge and understanding of the graduate program they are interested in. The form asks for student identification (name and email) and then a series of multiple-choice questions, some of which are about yes/no answers and some about selecting between multiple options. Finally, the form ends with a submit button to allow students to submit their answers.
 
 ## Purpose

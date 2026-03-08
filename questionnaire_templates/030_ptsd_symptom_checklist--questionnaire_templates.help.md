@@ -1,7 +1,3 @@
-<thinking>
-We need to consider that this form is designed to measure symptoms related to post-traumatic stress disorder (PTSD) in individuals. This form is used to help healthcare professionals assess the severity of PTSD symptoms and guide further treatment. The form asks users to respond to each of the listed symptoms with either "True", "False", or "unsure". This helps to identify patterns and areas of concern that may be addressed in therapy or treatment. It is crucial that the form is filled out honestly and with the help of a healthcare professional if necessary.
-</thinking>
-
 # PTSD Symptom Checklist - Help Guide
 ## Purpose
 The PTSD Symptom Checklist is designed to measure symptoms related to post-traumatic stress disorder (PTSD) in individuals. This form asks users to respond to each of the listed symptoms with either "True", "False", or "unsure" to help healthcare professionals assess the severity of PTSD symptoms.

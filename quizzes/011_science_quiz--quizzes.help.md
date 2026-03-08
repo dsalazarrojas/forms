@@ -1,20 +1,3 @@
-<thinking>Before generating the help guide, I will review the form's purpose, required fields, and field-by-field explanation to ensure accuracy and clarity.
-
-The form "science_quiz" appears to be a quiz form for collecting user responses to various questions. The form includes a selection of questions with text input fields for the corresponding answers.
-
-Required fields are:
-- Quiz Type: This field allows the user to select the type of quiz they are completing.
-- Time Allowed: This field requires the user to enter a time limit in minutes.
-- Date Taken: This field asks for the date the quiz was taken.
-- Score: This field is where the user enters their score.
-- Questions: This field is a selection of multiple questions where the user must choose their answer.
-
-The questions are:
-- Question 1 to 20: These are text input fields for the user to answer each question.
-
-I will now generate the help guide in Markdown format.
-
-</thinking>
 # science_quiz - Help Guide
 ## Purpose
 The science_quiz form is a collection of questions designed to gauge the user's knowledge or understanding of a subject.

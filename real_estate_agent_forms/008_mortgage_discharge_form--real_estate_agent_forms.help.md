@@ -1,6 +1,3 @@
-<thinking>
-This is a form for creating a mortgage discharge, which is the process of canceling or discharging a mortgage loan. This form will help you gather the necessary information to initiate the mortgage discharge process. Please ensure that you have the authority to fill out this form before proceeding. Also, note that some fields may be irrelevant to your specific situation, so be sure to review and fill out only the fields that apply to you.</thinking>
-
 # mortgage_discharge_form - Help Guide
 ## Purpose
 The mortgage_discharge_form is a document used to initiate the mortgage discharge process. This form is used to gather information about the property and loan details to facilitate the mortgage discharge process.

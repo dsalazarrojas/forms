@@ -1,11 +1,3 @@
-<thinking>
-This help guide will be used by end users to understand the purpose and completion of the "Metals And Non Metals Quiz" form.
-The purpose of the form is to assess the user's knowledge on the difference between metals and non-metals.
-The form is designed to be completed by selecting answers to 4 questions, with options for yes and no for each question.
-Each question will ask about a specific aspect of metals and non-metals.
-The form does not require any personal or sensitive information.
-</thinking>
-
 # Metals And Non Metals Quiz - Help Guide
 ## Purpose
 This is a quiz form to test your knowledge on metals and non-metals. It is not required for any specific reason.

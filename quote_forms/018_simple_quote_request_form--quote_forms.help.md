@@ -1,13 +1,3 @@
-<thinking>
-What are we building here? We're creating a simple quote request form, which seems to be a straightforward form for users to submit information about a quote request. The form likely serves as a contact or inquiry form for users to reach out to a business or service provider, providing a way to get a quote for a service or product. This form should be easy to fill out and understand.
-
-Let's assume that the fields are for basic information gathering: name, company name, email, and phone number. We want to make sure users understand what each field is for, so we'll include a field-by-field explanation below.
-
-Before we dive into the explanation, note that the form is divided into pages, but only one page is defined here. If more pages are added, we can update this help guide accordingly.
-
-Is this form for internal use within your organization, or is it for external customers or visitors? Is there a specific business logic or requirement that this form needs to follow?
-</thinking>
-
 # Simple Quote Request Form - Help Guide
 
 ## Purpose

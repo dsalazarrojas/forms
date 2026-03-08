@@ -1,7 +1,3 @@
-<thinking>
-The form is meant to collect information from real estate clients. It appears to be used for registering and tracking client information, including contact and follow-up details. The form likely serves as a template for agents to capture essential client data, which can be used for marketing, communication, and relationship management purposes. Before using this form, ensure you are not duplicating the client's information in your system, as this could lead to data redundancy and inconsistencies. This form's purpose and functionality should be carefully reviewed to avoid unnecessary or redundant data collection.
-</thinking>
-
 # Real Estate Client Registration Form Template - Help Guide
 ## Purpose
 This form is designed to gather essential information from real estate clients, enabling agents to manage their client relationships effectively. It collects data on client demographics, contact preferences, and follow-up details.

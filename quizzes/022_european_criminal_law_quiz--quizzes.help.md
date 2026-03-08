@@ -1,9 +1,3 @@
-<thinking>
-
-The form's purpose is to assess users' knowledge on European criminal law by asking a series of questions and checking their understanding and agreement. This form is used for educational purposes, and users are not bound by their responses. The form is not a legal document and does not constitute legal advice. Please ensure you are not using the form for any purpose other than educational or personal interest. If you have any concerns or questions, please contact your legal advisor or relevant authorities. If you have already completed this form, please do not submit it again.
-
-</thinking>
-
 # European Criminal Law Quiz - Help Guide
 ## Purpose
 This form is a knowledge assessment tool designed to gauge your understanding of European criminal law. It is used for educational purposes only and does not constitute legal advice.

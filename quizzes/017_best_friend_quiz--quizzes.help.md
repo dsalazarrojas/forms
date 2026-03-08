@@ -1,9 +1,3 @@
-<thinking>
-This form is for users to answer questions about their best friend, and the purpose of the form is to assess the user's knowledge about their friend's preferences, habits, and characteristics. This form is not a survey about the user themselves. 
-To confirm, the form is not a test about the user's own preferences or habits. Please fill out the form with information about your best friend.
-Please note that this is not a duplicate form, you can answer the form as many times as you'd like.
-</thinking>
-
 # Best Friend Quiz - Help Guide
 ## Purpose
 This form is for users to answer questions about their best friend, to assess the user's knowledge about their friend's preferences, habits, and characteristics.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's global food culture preferences. The purpose of this form is to gather data on how users perceive and interact with different types of food from various parts of the world. The form is part of a larger research project aimed at understanding global food habits and cultural differences.
-
-To ensure the collected data is valid and relevant, we're asking you to carefully read and follow the instructions below.
-
-</thinking>
-
 # Global Food Culture Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about your global food culture preferences, including your views on the country of origin, cuisine type, and your interaction with specific food items.

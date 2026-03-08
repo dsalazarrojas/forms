@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or entities applying for a mortgage. The purpose of this form is to gather all necessary details about the client, loan, and agreement status in a single, concise document. 
-
-To determine if this form is relevant, consider the following: 
-* If you are an individual or entity seeking a mortgage, this form is intended to provide the necessary information to your financial institution or mortgage provider.
-* If you are a financial institution or mortgage provider, this form can be used to collect client information and track loan applications.
-* If you have already collected this information through another means, please do not duplicate efforts and use this form to supplement your existing data collection processes.
-</thinking>
-
 # Mortgage Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or entities applying for a mortgage. It is meant to be completed by those applying for a mortgage to provide the necessary details for a smooth and efficient loan process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # self-motivation-questionnaire - Help Guide
 ## Purpose
 The self-motivation-questionnaire is a form designed to help users assess their motivation levels and self-awareness. This form is typically used for internal or personal purposes, such as team-building, self-improvement, or research studies.

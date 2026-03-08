@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and feedback from users, likely for research or educational purposes. The form is called "Science And Literature Quiz" which suggests it is related to science and literature topics. The fields collected include user inputs with no specific labels, indicating a general collection of free-text responses. The form seems to be created for anonymous or casual users, as none of the fields have specific constraints or requirements. This form does not collect sensitive or personal information, and it does not seem to have any dependencies on other forms or data. Given these characteristics, it's likely this form is used to collect open-ended responses or comments from users.
-
-Before completing this form, please ensure you are aware of the terms of use and the permissions required to use this form. This form does not collect any sensitive information, but it's always a good practice to respect the privacy and security of any platform or service used.
-
-Please note that this form might not be suitable for all purposes, and you are free to use it at your own discretion. As an open-source form, you are also free to modify it according to your needs.
-
-Before using this form, consider the following:
-
-- Are you using this form for a research or educational purpose?
-- Do you have the necessary permissions to use this form?
-- Are you aware of the terms of use associated with this form?
-
-If you answered "yes" to these questions, you can proceed to complete the form.
-</thinking>
-
 # Science And Literature Quiz - Help Guide
 ## Purpose
 The purpose of this form is to collect user responses to questions related to science and literature topics.

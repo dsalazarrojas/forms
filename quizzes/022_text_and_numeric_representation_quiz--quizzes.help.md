@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect various types of data from users, including text inputs, numeric inputs, select one and multiple options, date and time inputs, and email and phone inputs. This form is likely used for a quiz or survey that requires users to provide information in different formats.
-</thinking>
-
 # Text And Numeric Representation Quiz - Help Guide
 ## Purpose
 The Text And Numeric Representation Quiz form is a comprehensive tool to collect diverse types of data from users. It is intended to be used for quizzes or surveys that require users to provide information in various formats.

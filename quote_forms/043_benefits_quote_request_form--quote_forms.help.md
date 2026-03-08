@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals requesting quotes for benefits, such as health, dental, and life insurance, as well as other types of benefits. This information will be used to provide relevant quotes and assist in the sales process. 
-
-When filling out this form, please ensure that all required fields are completed accurately and thoroughly. This form is a one-time submission, and you will not receive any further communications about your request without your consent.
-
-Before filling out this form, you may want to review the following:
-- If you have an existing relationship with a broker, please select "True" for the "Existing Broker" field.
-- If you have requested quotes before, please select "True" for the "Have You Requested Quotes Before" field.
-- Please ensure you select all relevant options for "Type of Benefits Interested In" and "Coverage Type Needed" that apply to your request.
-
-</thinking>
-
 # Benefits Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information about your benefits requests.

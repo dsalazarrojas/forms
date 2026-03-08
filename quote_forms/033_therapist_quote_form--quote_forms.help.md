@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide for the Therapist Quote Form, the primary objective is to provide a clear and concise explanation of the form's purpose and fields to ensure end-users understand how to fill it out correctly. The form's purpose is to gather information from clients to determine their preferences and requirements for a session with a therapist. This includes client information, session details, scheduling, payment, and contact information. The form's fields should be filled out in the order they appear, and each field should be carefully considered to ensure accurate and complete information is provided.</thinking>
-
 # Therapist Quote Form - Help Guide
 ## Purpose
 The Therapist Quote Form is used to gather information from clients to determine their preferences and requirements for a session with a therapist. This form helps therapists to better understand client needs and provide the best possible service.

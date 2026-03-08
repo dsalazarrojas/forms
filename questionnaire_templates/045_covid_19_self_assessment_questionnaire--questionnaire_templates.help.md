@@ -1,9 +1,3 @@
-<thinking>
-
-To determine whether this form is suitable for use, let's consider its purpose and context. This form is designed to gather information about an individual's health status in relation to COVID-19. It's meant for users who need to assess their eligibility for the vaccine, likely for health care workers, individuals with compromised immune systems, or those who have previously had the virus. The form aims to collect relevant information about the individual's health, medical history, and vaccine experiences.
-
-</thinking>
-
 # COVID 19 Self Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to help individuals assess their eligibility for the COVID-19 vaccine based on their health status. It is used to determine whether an individual has a medical reason that would prevent or defer vaccination.

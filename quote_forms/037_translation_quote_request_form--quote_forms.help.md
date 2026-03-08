@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for a form, we first need to understand its purpose. This "Translation Quote Request Form" is designed to collect essential information from clients who are requesting translations, including project details, client information, quote details, and other relevant details.
-
-Upon analyzing the form's structure and fields, we see that it's intended to gather data on:
-
-1.  Project details (ID: 1) - A brief overview of the project.
-2.  Client information (ID: 2) - Essential contact information for the client.
-3.  Translation requirements (ID: 3) - A brief explanation of what needs to be translated.
-4.  Quote details (ID: 4) - Information about the quote, including date and price.
-5.  Contact information (ID: 5) - The client's contact details.
-6.  File attachment (ID: 6) - An optional field for attaching a file.
-7.  Submission status (ID: 25) - The status of the submission.
-</thinking>
-
 # Translation Quote Request Form - Help Guide
 ## Purpose
 This form is used to collect information from clients who are requesting translations. It gathers essential details such as project requirements, quote details, and client contact information to ensure accurate translation services can be provided.

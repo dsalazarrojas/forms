@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Women In Sports History Quiz - Help Guide
 ## Purpose
 This form is designed to collect participant information and record their progress in a quiz about women's sports history. The quiz is meant to be a fun and educational experience that tests the participant's knowledge on the subject.

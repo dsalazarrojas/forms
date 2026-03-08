@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect information from potential tenants to screen them for eligibility to rent a property. This form should only be used for residential or commercial rental applications, and is not intended for other types of forms or applications. Ensure that the form is not used in duplicate, as it may cause confusion and lead to inaccurate results. The form's fields should only be filled with accurate and honest information to ensure the best possible screening process.
-</thinking>
-
 # Tenant Screening Form - Help Guide
 ## Purpose
 The Tenant Screening Form is designed to collect relevant information from potential tenants to screen them for eligibility to rent a property. This form is intended for residential or commercial rental applications and should only be used for this purpose.

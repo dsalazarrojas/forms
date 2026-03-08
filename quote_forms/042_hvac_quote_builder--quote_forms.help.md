@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to HVAC (heating, ventilation, and air conditioning) job quotes. The form allows users to provide details about the quote type, job type, job date, start and finish times, job location, contact information, payment terms, job notes, quote due date, quote amount, estimate, payment schedule, contact phone, job address, equipment list, equipment serial number, job address (if different from the main address), contact title, and job status reason.
-To ensure that the form is being used correctly, it is recommended that the user reviews the options provided for each field to ensure they are selecting the most accurate information. This form may not be suitable for all types of HVAC jobs, but it should be suitable for most common scenarios.
-</thinking>
-
 # hvac_quote_builder - Help Guide
 ## Purpose
 The HVAC Quote Builder form is a tool for collecting information related to HVAC jobs, including quote type, job type, and other relevant details.

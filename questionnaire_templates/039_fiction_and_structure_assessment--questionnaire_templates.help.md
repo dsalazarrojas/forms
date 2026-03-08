@@ -1,9 +1,3 @@
-<thinking>
-
-The "Fiction and Structure Assessment" form is designed to collect feedback on the structure and story quality of submitted content, such as short stories, novels, and other forms of writing. This form serves as a tool for editors and reviewers to provide constructive feedback to authors and creators, helping them to improve their work. 
-
-</thinking>
-
 # fiction_and_structure_assessment - Help Guide
 ## Purpose
 This form is used to collect feedback on the structure and story quality of submitted content.

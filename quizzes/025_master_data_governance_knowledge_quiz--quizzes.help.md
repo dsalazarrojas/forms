@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # master_data_governance_knowledge_quiz - Help Guide
 ## Purpose
 The master_data_governance_knowledge_quiz form is designed for knowledge assessments of data governance practices within an organization. It helps evaluate an individual's understanding of data governance principles, challenges, and best practices. This form is typically used during onboarding, training, or internal knowledge checks.

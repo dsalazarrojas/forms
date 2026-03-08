@@ -1,14 +1,3 @@
-<thinking>
-The "us_states_quiz" form is intended to collect user input on their state(s) of origin and destination. The form is not a critical part of the business process, so it's optional and only used for testing purposes. Please ensure that you're filling out this form to gather information and not for any other reason. This form will not impact any business processes or decisions. 
-
-To fill out this form, you'll go through each page, and for each page, follow the instructions. 
-
-Please ensure that you're only filling out this form once. 
-
-If you're not sure what a field is for, feel free to ask for help.
-
-</thinking>
-
 # us_states_quiz - Help Guide
 ## Purpose
 The "us_states_quiz" form is an optional testing tool used to collect user input on their state(s) of origin and destination.

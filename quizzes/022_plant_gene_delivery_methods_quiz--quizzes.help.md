@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to provide information about plant gene delivery methods, which is a crucial aspect of plant biotechnology. The quiz aims to gather data on various methods of plant gene delivery, including gene transfer methods, gene expression patterns, and gene inactivation methods. To ensure that the data collected is accurate and comprehensive, the form is structured to collect input from users on a variety of methods, allowing for a detailed understanding of the subject matter. 
-
-However, before proceeding, we need to clarify that the form is not a comprehensive survey on the topic, but rather a simple quiz to gauge users' familiarity with the different methods. Thus, users are not expected to provide detailed descriptions or explanations, but rather binary responses (e.g., yes/no) to each question.
-</thinking>
-
 # Plant Gene Delivery Methods Quiz - Help Guide
 
 ## Purpose

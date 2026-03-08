@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess the understanding of accounting and VAT concepts by the user. It consists of multiple-choice questions, select-one questions, and text fields that cover various topics related to accounting basics, VAT definitions, and financial statements. The form is intended for students, accountants, business owners, finance professionals, and tax specialists, but is also open to anyone interested in learning about accounting and VAT concepts. To complete this form, users will need to answer all the questions, select the correct options, and provide additional feedback and comments if desired.</thinking>
-
 # Accounting And VAT Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge on accounting and VAT concepts, including double-entry bookkeeping, financial statements, VAT definitions, and more.

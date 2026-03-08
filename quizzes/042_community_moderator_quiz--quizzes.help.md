@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Moderator Quiz - Help Guide
 ## Purpose
 The purpose of this form is to collect information from community moderators to assess their suitability for moderation duties. The questions and fields in this form are designed to evaluate their experience, approach, and qualifications for moderation.

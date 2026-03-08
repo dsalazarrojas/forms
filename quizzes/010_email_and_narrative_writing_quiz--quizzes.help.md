@@ -1,28 +1,3 @@
-<thinking>
-The form is designed to assess the quality of email and narrative writing, providing feedback on the tone, style, and purpose of the writing. It is meant to be completed by instructors, peer-reviewers, or other individuals who are familiar with the basics of email and narrative writing.
-
-To complete this form, the user will be asked to evaluate the email and narrative writing samples provided, providing feedback on various aspects such as tone, style, and purpose. The form is structured to collect detailed and specific feedback on the writing, making it an essential tool for improving writing skills and providing constructive criticism.
-
-The form consists of multiple sections, each focusing on a different aspect of email and narrative writing. The sections include:
-- Email Format (Formal/Informal)
-- Writing Style (Formal, Informal, Semi-formal)
-- Purpose (Personal, Professional, Both)
-- Audience (Peer, Instructor, Both)
-- Tone Level (Formal, Informal, Semi-formal)
-- Narrative Writing (Formal, Informal, Semi-formal)
-- Feedback Writing (Formal, Informal, Semi-formal)
-- Email and Narrative Score (High, Medium, Low)
-- Email and Narrative Comments
-- Email and Narrative Attachment
-- Email and Narrative Additional Comments
-- Email and Narrative Additional Attachment
-- Email and Narrative Additional Narrative
-
-Each section has specific options for the user to choose from, and some sections require multiple selections. The form is designed to be comprehensive and thorough, allowing users to provide detailed and constructive feedback on the email and narrative writing samples.
-
-The form is a valuable tool for improving writing skills and providing feedback, and it is expected to be completed by individuals who are familiar with the basics of email and narrative writing.
-</thinking>
-
 # Email and Narrative Writing Quiz - Help Guide
 ## Purpose
 This form is designed to assess the quality of email and narrative writing, providing feedback on the tone, style, and purpose of the writing.

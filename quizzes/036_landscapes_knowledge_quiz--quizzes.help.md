@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information from participants about their knowledge on landscapes, likely for research or educational purposes. This quiz will likely be used to assess a participant's familiarity with landscapes, possibly for academic, research, or educational projects. It's essential to ensure the participant's data is accurate and complete to provide a fair and reliable assessment. To avoid duplicating existing participant data, the form should not allow multiple submissions with the same participant name and email. This will be checked internally to prevent duplicate entries.
 
 # Landscapes Knowledge Quiz - Help Guide

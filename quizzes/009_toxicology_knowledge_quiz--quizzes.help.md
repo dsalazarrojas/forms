@@ -1,8 +1,3 @@
-<thinking>
-We are creating this form to evaluate the end user's knowledge on various topics related to toxicology, a field of study that deals with the properties, effects, and detection of toxic substances. This form aims to assess the user's ability to identify and evaluate the risks associated with toxic substances in the workplace and other environments. The form will be used to provide feedback to the user on their knowledge level and suggest areas for improvement.
-We need to ensure that we are not duplicating any similar forms, and this form should be used for this specific purpose only.
-</thinking>
-
 # Toxicology Knowledge Quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess your knowledge on topics related to toxicology, such as identifying and evaluating the risks associated with toxic substances in the workplace and other environments.

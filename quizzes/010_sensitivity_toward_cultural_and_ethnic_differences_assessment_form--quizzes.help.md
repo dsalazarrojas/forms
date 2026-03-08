@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assess an individual's sensitivity toward cultural and ethnic differences. It is designed to gauge their awareness, understanding, and skills in this area. This form is likely to be used in educational or professional settings to gauge cultural competence. Please note that this form is not a definitive assessment tool and results should be interpreted with caution.
-
-</thinking>
-
 # sensitivity_toward_cultural_and_ethnic_differences_assessment_form - Help Guide
 ## Purpose
 This form is used to assess an individual's sensitivity toward cultural and ethnic differences. It is a self-assessment tool that helps gauge their awareness, understanding, and skills in this area.

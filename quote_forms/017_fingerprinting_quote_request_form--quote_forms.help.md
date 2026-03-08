@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended to gather information from users who want to request quotes for individual or group inquiries, schedule preferences, and service details. It's crucial to ensure that users understand the purpose of this form to provide accurate and relevant information. Before starting, please review the form to avoid duplicating requests or submitting incomplete information.
-</thinking>
-
 # Fingerprinting Quote Request Form - Help Guide
 ## Purpose
 The Fingerprinting Quote Request Form is designed to collect information from users for individual or group inquiries, allowing us to provide quotes for their specific needs. This form helps us understand their requirements and preferences, enabling us to offer tailored services.

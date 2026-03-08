@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Corporate Vehicle Rental Quote Request" form, which aims to gather information for a quote request, likely for a corporate vehicle rental. This form appears to be a standard quote request form used for business purposes, typically used by clients or customers to inquire about renting vehicles. Before creating the guide, let's verify that this form is not a duplication of an existing form and that its purpose is well-defined within the organization.
-</thinking>
-
 # Corporate Vehicle Rental Quote Request - Help Guide
 
 ## Purpose

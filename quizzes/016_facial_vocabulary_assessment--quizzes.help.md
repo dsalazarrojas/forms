@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facial Vocabulary Assessment - Help Guide
 ## Purpose
 The Facial Vocabulary Assessment form is designed to collect information about students' preferences, habits, and characteristics. It is intended to be used by educators or administrators to gauge students' knowledge and understanding of facial expressions, emotions, and personal details. The form is usually completed by students as part of a class assignment, project, or assessment.

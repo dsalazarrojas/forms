@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Opera Knowledge Quiz", is to assess a user's knowledge and understanding of opera-related concepts, such as starting points, musical styles, periods, interests, and familiarity levels. This guide will walk you through each field in the form to help you navigate and complete it efficiently.
-</thinking>
-
 # Opera Knowledge Quiz - Help Guide
 ## Purpose
 The Opera Knowledge Quiz is designed to evaluate your knowledge of opera-related concepts, covering starting points, musical styles, periods, and interests.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chemical Carcinogenesis Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge on the topic of chemical carcinogenesis, a process by which chemicals can cause cancer. The quiz consists of 15 questions that cover various aspects of chemical carcinogenesis, including its definition, carcinogens, initiation, promotion, and progression phases, and more.

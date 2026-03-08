@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect references from individuals who have had personal or professional interactions with an applicant, typically for a job or volunteer opportunity. The form asks the referencer to provide their name, relationship to the applicant, and their level of experience with the applicant. Additionally, the form collects feedback on the applicant's personal traits, such as compassion, patience, and reliability, as well as their suitability for working in a pediatric health environment. The form also asks for an overall recommendation and any additional comments or concerns. The form is designed to gather detailed and specific feedback from individuals who have had direct interaction with the applicant, to aid in the hiring or volunteer placement process.
-</thinking>
-
 # Camp Ronald McDonald Reference Request - Help Guide
 ## Purpose
 This form is designed to collect references from individuals who have had personal or professional interactions with an applicant, typically for a job or volunteer opportunity.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Investor Biography Form - Help Guide
 ## Purpose
 The Real Estate Investor Biography Form is designed to gather information about real estate investors. This form is used for [INSERT PRACTICAL USE CASE, e.g., investment reports, marketing materials, or investor directory]. The fields included in this form help us understand the investor's characteristics, such as their investment history, business operations, and personal details.

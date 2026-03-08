@@ -1,18 +1,3 @@
-<thinking>
-This form is used to capture information about a company's Corporate Social Responsibility (CSR) quotation request. The CSR quotation form is used by the procurement team to gather details about a company's requirements, such as contact information, quotation details, and terms and conditions.
-
-This form is designed to be completed by the company representative who is responsible for requesting the quotation. It is intended to be used for internal purposes only and is not intended for external use.
-
-To avoid duplication, please ensure that the form is not completed by multiple users simultaneously. If the form is intended for the same purpose, please use the last saved version.
-
-The form can be completed in sections, and each section should be filled out completely to ensure accurate and complete information is captured.
-
-Please note that some fields are not required, and you can choose to fill them out or leave them blank if they are not applicable.
-
-After completing the form, please review it carefully for accuracy and completeness before submitting it.
-
-</thinking>
-
 # Corporate Social Responsibility Quotation Form - Help Guide
 ## Purpose
 This form is used to capture information about a company's CSR quotation request.

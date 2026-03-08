@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # multiple_choice_test_template - Help Guide
 ## Purpose
 The "multiple_choice_test_template" form is designed for testing multiple choice questions. It allows users to create a template to evaluate their own questions with multiple options and answers to be selected. 

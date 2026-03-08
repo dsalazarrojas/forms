@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help users test their knowledge about historical events and figures related to the Protestant Reformation, a significant movement in European history. The form consists of 25 questions about various aspects of the Reformation, including its key figures, events, and impact on society.
-To complete the form, users will be asked to provide a short text response for each question. Each question is related to a specific topic within the Protestant Reformation, such as the Reformation in different European countries (e.g., Germany, England, Sweden) or notable figures (e.g., Martin Luther, John Calvin).
-To ensure the form is completed accurately and consistently, please follow these guidelines:
-* Each response should be a brief, short answer, ideally in a few words or short sentence.
-* For multiple-choice questions with no options provided, please type in your response. If you are unsure, feel free to type a brief explanation of your answer.
-* If you have any difficulties or need help, please refer to the "Tips" section below.
-
-</thinking>
-
 # Reformation And Humanism Quiz - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This is a crucial part of the process where we need to ensure that the form purpose and content align with our business goals and client expectations. We want to create a comprehensive questionnaire that captures the necessary information for effective lawn care and landscaping services. By following this help guide, users will be able to navigate the form with ease, making it easier for them to provide accurate and meaningful input. Please review the form's purpose and content carefully to avoid duplication of effort or irrelevant questions.
-</thinking>
-
 # Lawn Care Landscaping New Client Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about new clients seeking lawn care and landscaping services. By filling out this form, you will help us better understand your lawn's needs, preferences, and budget, enabling us to provide tailored solutions that meet your expectations.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect demographic and social network information for users. The form is used to gather data on a user's personal characteristics, such as their category and description, as well as information about their social network, including their output file and assigned tool version. The form's output file option is a critical field, as it allows users to select the format in which they would like to receive their data. The form is not mandatory, but it is recommended that users complete it in order to provide the most accurate and helpful data for analysis and research purposes.
-
-</thinking>
-
 # Demographic And Social Network Questionnaire - Help Guide
 ## Purpose
 

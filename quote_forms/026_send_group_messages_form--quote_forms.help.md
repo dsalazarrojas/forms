@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # send_group_messages_form - Help Guide
 ## Purpose
 The send_group_messages_form is a simple form designed to help you send messages to groups of users. This form has 4 fields to gather necessary information for sending group messages.

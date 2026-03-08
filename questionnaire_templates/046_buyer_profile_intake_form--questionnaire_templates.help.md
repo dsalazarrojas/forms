@@ -1,12 +1,3 @@
-<thinking>
-The "Buyer Profile Intake Form" is a crucial step in the home buying process, and its purpose is to collect information from buyers about their preferences and needs. This form helps the sales team to get to know the buyer better, understand their requirements, and guide them in finding the right property that suits their needs.
-
-To ensure that the form is completed accurately and comprehensively, it is essential to review it with the sales team to confirm that all fields are correctly completed and that there are no duplicates or missing information. This form is typically completed by the sales team before meeting with the buyer in person or over the phone.
-
-The form will be used to guide the sales team in their conversation with the buyer, and it will also help the buyer to think critically about their needs, preferences, and expectations from the property.
-
-</thinking>
-
 # Buyer Profile Intake Form - Help Guide
 ## Purpose
 The Buyer Profile Intake Form is a crucial tool for the sales team to gather information about the buyer's preferences, needs, and expectations from the property.

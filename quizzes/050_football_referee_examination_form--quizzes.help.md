@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the skills and knowledge of football referees, specifically their decision-making skills, knowledge about the game, game situations, referee skills, and performance parameters. This form is likely used by coaches, trainers, or administrators to assess the effectiveness of referees in their roles.
-
-This form likely exists to provide an objective evaluation of referees, possibly for promotions, evaluations, or certifications. The form's content and purpose are likely specific to the football referee context, so it's reasonable to assume it's part of a larger system used within a specific organization or league.
-
-It's unlikely that this form is used for general knowledge or demographic collection, given the specificity of its content.
-</thinking>
-
 # Football Referee Examination Form - Help Guide
 ## Purpose
 The Football Referee Examination Form is a tool used to evaluate the skills and knowledge of football referees. This form helps assess their effectiveness in their roles, likely for promotions, evaluations, or certifications.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assess users' understanding of units and dimensions in a scientific or engineering context. It is intended to be completed by those who need to demonstrate their knowledge of units and dimensions for various physical quantities, such as length, mass, time, temperature, etc. The form is used to evaluate the user's ability to apply unit conversion rules, understand scientific notation, and demonstrate their familiarity with derived units, relationships between units, and other relevant concepts. Please make sure to answer all questions accurately and provide explanations for your answers where possible. This form will be used to assess your knowledge and help identify areas where you may need further training or practice.</thinking>
-
 # Units And Dimensions Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess your understanding of units and dimensions in a scientific or engineering context.

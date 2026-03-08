@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to guide the user through a quiz about the role of the legislative and executive branches in government. This quiz helps users understand the main differences between the two branches, their powers, and functions. It is designed to be a self-assessment tool, where users can test their knowledge and understanding of the subject matter by completing a series of questions.
-</thinking>
-
 # Legislature Vs Executive Quiz - Help Guide
 ## Purpose
 This quiz is designed to educate users about the role and powers of the legislative and executive branches in government. It is a self-assessment tool to help users test their knowledge and understanding of the subject matter.

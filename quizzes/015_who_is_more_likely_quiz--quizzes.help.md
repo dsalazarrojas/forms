@@ -1,12 +1,3 @@
-<thinking>
-**Form Purpose and Relevance Check**
-
-This form is designed to help users answer the question "Who is more likely?" with multiple choices for different scenarios. Before filling out this form, please consider the context and question being asked. This form is not a survey or a poll, but rather a quiz with specific options and answers.
-
-This guide will walk you through each step to complete the "Who Is More Likely Quiz" form. Please follow the instructions carefully to ensure you answer the question correctly.
-
-</thinking>
-
 # Who Is More Likely Quiz - Help Guide
 ## Purpose
 The "Who Is More Likely Quiz" is designed to help you decide who is more likely to achieve a specific outcome or scenario. The form consists of multiple questions that allow you to choose the most probable option.

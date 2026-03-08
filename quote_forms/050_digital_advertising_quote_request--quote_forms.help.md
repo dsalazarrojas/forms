@@ -1,13 +1,3 @@
-<thinking>
-
-The form is intended for users to request a quote for digital advertising services from an internal agency. The form is likely used for customers or external parties to provide information about their advertising needs, such as their campaign type, start and end dates, budget, and other relevant details, so the agency can provide a quote for their services.
-
-Before filling out this form, ensure that you have all the necessary information required for a comprehensive quote request. The form will help the agency understand your requirements and provide a more accurate quote for their services.
-
-Also, please note that some fields are marked as required, meaning they must be filled in order to submit the form.
-
-</thinking>
-
 # Digital Advertising Quote Request - Help Guide
 ## Purpose
 This form is for customers to request quotes for digital advertising services from our agency. Please provide accurate and detailed information to help us understand your needs and provide a comprehensive quote.

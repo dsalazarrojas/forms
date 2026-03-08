@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Air Currents Knowledge Quiz - Help Guide
 
 ## Purpose

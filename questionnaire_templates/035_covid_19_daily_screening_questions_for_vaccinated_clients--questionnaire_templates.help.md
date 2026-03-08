@@ -1,6 +1,3 @@
-<thinking>
-To determine if this form was generated correctly, I will review the provided YAML structure.
-</thinking>
 # COVID 19 Daily Screening Questions For Vaccinated Clients - Help Guide
 ## Purpose
 This form is designed for vaccinated clients to report their health status on a daily basis, providing essential information to healthcare providers for timely interventions and monitoring.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Study Results Validity Assessment Form is designed to help assess the validity of study results. This form is used by researchers and peer reviewers to evaluate the quality and reliability of a study's outcome. To complete this form, you will be guided through a series of questions that will help you provide a comprehensive assessment of the study's validity.
 
 # Study Results Validity Assessment Form - Help Guide

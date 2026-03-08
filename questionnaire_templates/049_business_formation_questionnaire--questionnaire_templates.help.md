@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information about a business idea or concept from its founder(s). It is meant to be used during the initial stages of starting a new business. This form should not be filled out if you are looking for detailed legal or accounting information. Please answer all required fields to provide a solid foundation for further discussion and planning.
-
-</thinking>
-
 # Business Formation Questionnaire - Help Guide
 ## Purpose
 This form helps gather essential information about a business concept, including founder information, business idea, target market, and financial planning.

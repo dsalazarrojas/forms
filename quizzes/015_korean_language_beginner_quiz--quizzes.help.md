@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Korean Language Beginner Quiz - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect information from clients or users for quote requests related to creative services. This form is intended to be used by internal teams or external partners to collect necessary details about a project, allowing them to better understand the client's needs and preferences. By submitting this form, the client can specify their project name, description, budget allocation, expected delivery date, estimated time, project files, contact information, and other relevant details. 
 
 The form is likely to be used by creative services teams to generate quotes, proposals, or other relevant documentation for the project.

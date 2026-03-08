@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to take a Romanticism Knowledge Quiz, aiming to test their understanding of the English Romantic Movement.
-It's essential to have a clear and accurate comprehension of the key aspects, characteristics, and time frame of this movement to achieve a score.
-Please ensure you are taking this form to learn or test your knowledge, and not to cheat or seek an unfair advantage.
-</thinking>
-
 # Romanticism Knowledge Quiz - Help Guide
 ## Purpose
 

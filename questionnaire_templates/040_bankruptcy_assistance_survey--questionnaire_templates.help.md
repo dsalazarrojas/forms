@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals who are considering or have filed for bankruptcy. The purpose of this form is to gather relevant details about the respondent's financial situation, bankruptcy type, and preferences for assistance. This information will help us better understand the needs and challenges of individuals in financial distress and provide tailored support and guidance. Before completing this form, please ensure that you have not already filled it out for the same purpose in the past 8 years to avoid duplication.
-
-</thinking>
-
 # Bankruptcy Assistance Survey - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who are considering or have filed for bankruptcy. The purpose of this form is to gather relevant details about the respondent's financial situation, bankruptcy type, and preferences for assistance.

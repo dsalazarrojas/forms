@@ -1,5 +1,3 @@
-<thinking>... internal logic: This form is designed to assess knowledge about ear anatomy and diseases. It's not intended to be a medical diagnostic tool, but rather a knowledge test. Users should answer questions to the best of their abilities based on their understanding of the subject matter. The form is not meant to collect personal health information or provide medical advice. By completing this form, users are agreeing to share their knowledge and participate in a non-clinical assessment of their understanding of ear anatomy and diseases. If you're not comfortable sharing your knowledge on this subject, please do not proceed. If you're unsure about any question, try your best or skip it. Your responses will be treated as non-personal data and will not be shared with any third party. If you have concerns about your actual health, please consult a medical professional...</thinking>
-
 # ear_anatomy_knowledge_quiz - Help Guide
 ## Purpose
 This form is a quiz about ear anatomy and diseases. It tests your knowledge on the subject matter.

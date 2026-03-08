@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Knowledge Quiz - Help Guide
 ## Purpose
 The Data Knowledge Quiz is designed to assess your understanding of various data-related concepts, including data, data warehouse, database, SQL, data model, and more. This quiz is meant to be a fun and engaging way to test your knowledge and learn more about the world of data.

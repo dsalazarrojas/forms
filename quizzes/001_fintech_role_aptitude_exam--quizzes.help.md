@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the "Fintech Role Aptitude Exam" form, which is designed to assess the aptitude of users in the fintech industry. The form is meant to gauge the user's understanding of various fintech-related concepts and skills.
-The form consists of five pages: "intro", "questions", "name", "email", and "submit". This guide will walk you through each page and its corresponding field.
-</thinking>
-
 # Fintech Role Aptitude Exam - Help Guide
 ## Purpose
 The Fintech Role Aptitude Exam is a self-assessment tool designed to evaluate the knowledge and skills of individuals in the fintech industry. It covers various aspects of fintech, including concepts, skills, and best practices.

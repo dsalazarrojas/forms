@@ -1,12 +1,3 @@
-<thinking>
-This form is for creating a commercial cleaning quote for a business. To ensure relevance and non-duplication, we need to consider the following:
-
-* The form is designed to collect essential information from the customer, including contact details, premises type, square footage, services required, preferred start date, service frequency, and special instructions.
-* The form aims to provide a comprehensive quote for the commercial cleaning services, taking into account the customer's needs and preferences.
-
-The following help guide is designed to walk the end-users through the form and explain each field in a concise and practical manner.
-</thinking>
-
 # Commercial Cleaning Quote - Help Guide
 ## Purpose
 This form is for creating a commercial cleaning quote for a business. It helps to collect essential information from the customer to provide an accurate and comprehensive quote for the services.

@@ -1,7 +1,3 @@
-<thinking>
-The "Government Council Knowledge Quiz" form is designed to record the completion status of quizzes for students. It's likely intended to track student progress and quiz completion metrics. This form is likely used by educators or administrators to monitor student engagement and quiz performance. To avoid duplication, this form should only be used for this specific purpose, and users should not use it for other purposes such as general data collection or surveys.
-</thinking>
-
 # Government Council Knowledge Quiz - Help Guide
 ## Purpose
 The Government Council Knowledge Quiz form is a tool for tracking student completion of quizzes. It captures essential information about the quiz, including start and end times, duration, and scores. The form helps educators monitor student progress and quiz performance.

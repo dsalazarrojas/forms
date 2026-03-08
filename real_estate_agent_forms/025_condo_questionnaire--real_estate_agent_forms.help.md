@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect detailed information about a condominium property, including its address, unit number, owner's contact details, financial information, and amenities. The form serves as a comprehensive questionnaire for real estate agents to gather essential data about the condo. This form should only be filled out by authorized real estate agents for the purpose of providing accurate and up-to-date information. To avoid duplication, please ensure that all necessary fields are filled out accurately and completely.
-</thinking>
-
 # Condo Questionnaire - Help Guide
 ## Purpose
 This form is used to collect comprehensive details about a condominium property, including its address, unit number, owner's contact information, financial details, and amenities. It is designed to be completed by real estate agents to gather essential data for their clients.

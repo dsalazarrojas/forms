@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess an SEO strategy for an existing website or project. The form is intended to help users evaluate the current state of their website's search engine optimization, identify areas for improvement, and provide a plan for next steps to enhance the website's search engine visibility. 
-
-The form is structured into several sections, each addressing a different aspect of SEO strategy, including keyword research, current search engine visibility, discovery details, performance metrics, recommended strategy, next steps, final review, and additional notes. 
-
-The goal of this form is to collect comprehensive information about a website's SEO status and provide actionable recommendations for improvement.
-
-</thinking>
-
 # SEO Strategy Assessment Form - Help Guide
 ## Purpose
 The SEO Strategy Assessment Form is designed to evaluate and assess the current SEO status of a website or project. It provides an opportunity to identify areas for improvement and create a strategy for enhancing search engine visibility.

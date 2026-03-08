@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals to gather information about a patient's medical history, allergies, medications, medical conditions, surgical procedures, family history, social history, emergency contact, medical provider, and medical tests. It is intended for use in clinical settings where patients are being evaluated for treatment or diagnosis. The form is not intended to be used for billing or payment purposes.
-</thinking>
-
 # Healthcare Patient Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medical history and relevant details.

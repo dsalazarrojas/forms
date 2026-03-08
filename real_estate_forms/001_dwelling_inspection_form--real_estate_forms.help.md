@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for dwelling inspection purposes, such as evaluating the condition, maintenance, and safety features of a residential property.
-To ensure accurate and comprehensive inspection, it's crucial that users understand what each field represents.
-</thinking>
-
 # Dwelling Inspection Form - Help Guide
 ## Purpose
 The "Dwelling Inspection Form" is a tool used to inspect and evaluate various aspects of a residential property, including its exterior condition, structural integrity, and safety features.

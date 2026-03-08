@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gather information about a student's performance in an ecumenical councils quiz. The form asks for the instructor's name, student's name, school name, quiz date, start time, finish time, assessment, feedback, and comments. The form has multiple sections, but it primarily focuses on collecting data from students and instructors.
-
-The form seems to be focused on assessing student performance in ecumenical councils and providing feedback. The "ecumenical_councils_quiz_questions" field is a multiple-choice question where the student can select multiple options. The "assessment" field is also a select-one field, which might indicate a score or grade. The "instructor_name" and "student_name" fields are text fields for collecting names. The "school_name" field is also a text field for collecting the school name.
-
-The "quiz_date" and "start_time" fields are date and time fields for scheduling purposes. The "finish_time" field, although required, seems to be optional, which might indicate that it's not always necessary to complete it. The "comments" fields are free-form text fields for additional comments or remarks. The "email" and "phone" fields are not required but might be useful for contact information.
-
-Please make sure to review the form carefully and fill it in accurately to ensure that the data collected is correct and consistent.
-</thinking>
-
 # ecumenical_councils_quiz - Help Guide
 ## Purpose
 This form is designed to gather information about a student's performance in an ecumenical councils quiz, including instructor and student details, quiz scheduling, and assessment and feedback.

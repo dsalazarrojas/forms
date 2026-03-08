@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to test the knowledge of users on Indian Independence History Quiz. The quiz form is intended for users who want to assess their understanding of the key events and figures related to Indian independence. The form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata.
-
-The form has a total of 10 questions, each focusing on a specific aspect of Indian independence history. Users are expected to answer these questions accurately to demonstrate their knowledge.
-
-Before proceeding, ensure that you have a good understanding of the historical events and figures covered in this form. This quiz is not meant to be a trivial or casual exercise, but rather a serious test of your knowledge.
-
-If you have any doubts or questions, please clarify them before proceeding to answer the questions. This guide will walk you through each question and help you understand what is expected of you.
-
-</thinking>
-
 # Indian Independence History Quiz - Help Guide
 ## Purpose
 The purpose of this form is to test your knowledge on Indian Independence History Quiz. This quiz covers key events and figures from the Indian independence movement.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Hotel Check In Eligibility Questionnaire accurately and efficiently captures essential guest information to facilitate smooth check-in processes. This form should not be duplicated for the same guest, and its results should be reviewed for accuracy and relevance to avoid confusion. We will use this form to collect critical guest data for a seamless check-in experience.
-</thinking>
-
 # Hotel Check In Eligibility Questionnaire - Help Guide
 ## Purpose
 The Hotel Check In Eligibility Questionnaire is a mandatory form designed to gather essential guest information for a smooth check-in experience. Please complete this form accurately to ensure timely and efficient processing.

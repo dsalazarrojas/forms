@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for an engagement shoot. Engagement shoots are photo sessions typically held during an engagement, usually 6-8 months prior to the wedding. This form aims to capture details about the shoot, such as location, date, and timing, as well as the number of guests and the duration of the session. This information will help photographers prepare for the shoot and ensure everything runs smoothly. It's essential to fill out this form accurately to avoid any last-minute confusion or miscommunication.
-</thinking>
-
 # Engagement Shoot Questionnaire Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential details for a successful engagement shoot. Please fill out the form accurately to ensure that the photographer has a clear understanding of your requirements and expectations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Classmates Knowledge Quiz - Help Guide
 ## Purpose
 The Classmates Knowledge Quiz is designed to assess your knowledge on various subjects, including history, geography, science, and literature. It's a 15-question quiz that tests your understanding of different subjects, and you will be required to answer all questions to the best of your knowledge.

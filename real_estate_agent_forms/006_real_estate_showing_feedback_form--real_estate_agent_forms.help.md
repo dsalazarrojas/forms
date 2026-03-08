@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from real estate agents about their experiences with showings, allowing the company to identify areas for improvement and provide better services to clients. This form is meant for real estate agents to provide feedback on the showing process, including rating their experience and providing comments. To avoid duplication of effort, agents are only asked to fill out this form for showings they have actually participated in.
-</thinking>
-
 # real_estate_showing_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from real estate agents about their experiences with showings, helping the company to improve the showing process and provide better services to clients.

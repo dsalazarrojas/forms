@@ -1,7 +1,3 @@
-<thinking>
-The form is used for the election of a new Community Manager, where members of the community can cast their votes for one of three candidates. The form is a crucial part of the democratic process, allowing each member to express their opinion and preference for the next leader of the community. To ensure the integrity of the election, the form includes fields that verify the voter's eligibility and signature. The form should only be filled out by eligible members, and the voting process should be kept confidential to maintain the trust and anonymity of each member. This form is designed to be completed by one person per member of the community, and it's essential to fill it out accurately and honestly to ensure the election's legitimacy. Please make sure to review the form carefully and only submit it if you are an eligible member of the community. If you have any doubts or concerns, please reach out to the election committee for clarification.
-</thinking>
-
 # Community Manager Election Form - Help Guide
 ## Purpose
 The Community Manager Election Form is a democratic tool that allows eligible members of the community to elect a new leader. This form enables each member to express their opinion and preference for the next Community Manager.

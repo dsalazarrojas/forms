@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients about their hair salon experiences. The fields include questions about personal details (name and email), hair preferences (hair color and favorite hair product), and visit frequency and time. The form also includes a section for notes, which can be used by salon staff to jot down any additional information they think is relevant.
-</thinking>
-
 # Hair Salon Client Questionnaire - Help Guide
 ## Purpose
 This form is designed to help hair salon staff gather valuable insights about clients' preferences, visit habits, and experiences. The information collected will aid the salon in providing better services and building stronger relationships with clients.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form, the "travel_preferences_questionnaire", is designed to gather information about an individual's travel preferences. The form is intended to collect data about the user's general travel preferences, such as destinations, frequency, time of year, travel style, budget, duration, travel mode, and preferred travel style. This form will help the user identify their personal preferences and provide a comprehensive overview of their travel habits.
-
-The form is composed of several pages, each with its own set of questions or fields. The purpose of this guide is to walk you through each field and explain its meaning and how to complete it.
-
-</thinking>
-
 # travel_preferences_questionnaire - Help Guide
 ## Purpose
 The "travel_preferences_questionnaire" form is designed to collect information about your travel preferences. This information will help us understand your habits and provide better services.

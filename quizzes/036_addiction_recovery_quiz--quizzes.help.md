@@ -1,5 +1,3 @@
-<thinking>As a form expert and technical writer, I'll provide you with a user-facing help guide for the "Addiction Recovery Quiz" form. This guide will ensure that end-users understand the form's purpose, how to complete it, and what each field means, making it easier for them to navigate the form and gather accurate information.</thinking>
-
 # Addiction Recovery Quiz - Help Guide
 ## Purpose
 

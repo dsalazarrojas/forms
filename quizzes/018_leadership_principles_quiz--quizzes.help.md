@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's understanding of leadership principles. It's designed to gauge their knowledge and application of these principles in a leadership context, likely for personal or professional development purposes. This type of form is commonly used in HR, organizational development, or educational settings. There might be some overlap with other forms, but the provided YAML metadata does not indicate any direct relation with existing forms. This form has 16 fields.
-</thinking>
-
 # Leadership Principles Quiz - Help Guide
 ## Purpose
 The Leadership Principles Quiz is a form designed to evaluate an individual's understanding and application of leadership principles. It is likely used for personal or professional development, HR, or organizational development purposes.

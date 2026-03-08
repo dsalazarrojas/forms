@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a questionnaire designed to elicit responses about a person's feelings and experiences related to their life, relationships, and mental health. It may be used in a clinical or therapeutic setting to help understand an individual's emotional state and potentially identify areas for support or intervention. To ensure accuracy, it is essential to review the form carefully before completion to avoid any potential issues.
-The form contains a series of open-ended questions that ask about feelings of worthlessness, inadequacy, and how these feelings affect relationships, physical health, and thoughts. The questions seem to be designed to explore the emotional and psychological well-being of the individual. It is crucial to approach this form with sensitivity and understanding.
-Before filling out this form, please make sure that you are in a comfortable and private space. Ensure that you have the necessary time and mental energy to answer the questions honestly and thoroughly.
-</thinking>
-
 # step_ten_daily_inventory - Help Guide
 ## Purpose
 The "step ten daily inventory" form is designed to help individuals explore their feelings and experiences related to their life, relationships, and mental health. This form is not a medical or psychological evaluation, but rather a tool to facilitate self-reflection and understanding.

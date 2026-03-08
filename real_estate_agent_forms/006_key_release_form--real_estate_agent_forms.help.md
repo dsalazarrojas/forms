@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to document the key release process for real estate agents, providing a clear and concise way to record key release information. This form is likely used in real estate transactions to ensure accuracy and consistency in key release activities. To avoid duplication, users should ensure that only one key release form is submitted per property, as each form is intended to capture specific details relevant to that particular property. 
-
-</thinking>
-
 # Key Release Form - Help Guide
 ## Purpose
 The Key Release Form is used to document the key release process for real estate agents, ensuring accuracy and consistency in key release activities. This form captures specific details relevant to each property, avoiding duplication and ensuring that only one form is submitted per property.

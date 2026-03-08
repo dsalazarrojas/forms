@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for itemizing and deducting security deposits in a rental property scenario. The form captures information about the security deposit, including the date received, amount deducted, and reason for deduction. It also includes sections for landlord and tenant signatures, comments, and the status of the form. This form is probably used by property management or leasing companies to track and record security deposit information.
-</thinking>
-
 # Security Deposit Itemized Deduction Form - Help Guide
 ## Purpose
 This form is used to record and track security deposit itemizations and deductions for rental properties.

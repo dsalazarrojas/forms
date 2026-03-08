@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Get To Know You Questionnaire - Help Guide
 
 ## Purpose

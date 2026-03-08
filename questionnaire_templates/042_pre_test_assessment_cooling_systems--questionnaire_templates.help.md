@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to gauge the level of experience and certification a user has with cooling systems. It is used to assess the pre-test qualification of potential candidates or users who will be participating in a cooling systems test. The form aims to capture information about their years of experience, types of experience, and certifications held. This information will help in determining their suitability for the test and provide a baseline for comparison with others. 
-Please ensure this form is not filled out by those who have already taken the test before, or have taken this form in the past.
-</thinking>
-
 # Pre Test Assessment: Cooling Systems - Help Guide
 
 ## Purpose

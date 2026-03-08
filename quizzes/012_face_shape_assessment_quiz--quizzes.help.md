@@ -1,5 +1,3 @@
-<thinking>Is this form designed to assess the face shape of a person, and it asks various questions to determine the different characteristics of a person's face, such as face shape type, cheek bone structure, skin type, facial features, face hair, face makeup, facial hair coverage, facial features 2, face mustache, face beard, face bald, face eyebrow/brow, face lip/eyes, face nose/skin, face ear shape, and face chin. It is an assessment form that requires selecting the best description of a face's characteristics, and it is designed to be used in various contexts, such as in medical, beauty, or other fields. This form is an original creation and does not copy or use proprietary content from other form platforms, and it is released under CC BY 4.0 license, which allows users to use, modify, and even sell the form, as long as credit is given.</thinking>
-
 # Face Shape Assessment Quiz - Help Guide
 ## Purpose
 The Face Shape Assessment Quiz is a form designed to assess the face shape of a person, and it asks various questions to determine the different characteristics of a person's face.

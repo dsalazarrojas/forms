@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information from pet owners who are interested in requesting a quote for pet treat services. The form is intended to be completed by pet owners who wish to schedule a visit for their pet to receive treats. The form will guide the user through a series of questions that will help the pet service team determine the best course of action for their pet's needs.
-
-The form should not be completed by users who are looking to schedule a general consultation or appointment, as that would require a different form. The purpose of this form is specific to requesting quotes for pet treat services, so users should only fill out this form if they are interested in receiving a quote for these services.
-
-If a user is unsure about what type of pet they have or the type of treat they are interested in, they can select "other" from the options to indicate that the information is not listed.
-
-The form will be reviewed and checked for duplication to ensure that users are not requesting duplicate quotes for the same pet.
-
-Each field in the form is explained below.
-</thinking>
-
 # Pet Treat Quotation Request Form - Help Guide
 ## Purpose
 The Pet Treat Quotation Request Form is designed to gather information from pet owners who are interested in requesting a quote for pet treat services. This form is intended to be completed by pet owners who wish to schedule a visit for their pet to receive treats.

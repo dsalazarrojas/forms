@@ -1,9 +1,3 @@
-<thinking>
-This guide helps ensure the "primary-stage-letter-recognition-quiz" form is used correctly by its users. The form is designed to gather information about various aspects of the quiz, including stages, letter recognition, reading quizzes, scores, completion status, start and end times, and duration. To complete the form, users must select all the relevant fields and fill in the necessary information.
-
-The form is not intended for users to fill out all fields. The "required" fields are those that are necessary for the form to function correctly and for the user to provide the necessary data. This guide will help ensure that users understand what is expected of them and can complete the form accurately and efficiently.
-</thinking>
-
 # primary-stage-letter-recognition-quiz - Help Guide
 ## Purpose
 This guide explains the primary-stage-letter-recognition-quiz form in detail, including its purpose, how to fill it out correctly, and a field-by-field explanation of each section.

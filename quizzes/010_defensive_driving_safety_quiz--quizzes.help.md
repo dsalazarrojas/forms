@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended for end-users who will be completing the defensive_driving_safety_quiz form. The purpose of this form is to assess the user's knowledge and understanding of defensive driving principles and concepts. 
-
-The form is designed to be a comprehensive assessment of the user's ability to identify the most critical factors in determining the risk of a crash, the primary purpose of a defensive driver, and other key elements of defensive driving. By completing this form, the user will be able to evaluate their understanding of defensive driving principles and identify areas for improvement.
-
-Before proceeding, ensure that you have read and understood the instructions and the questions asked. Please complete the form carefully and accurately to the best of your ability.
-
-</thinking>
-
 # defensive_driving_safety_quiz - Help Guide
 ## Purpose
 The defensive_driving_safety_quiz is a comprehensive assessment of your knowledge and understanding of defensive driving principles and concepts. It is designed to evaluate your ability to identify the most critical factors in determining the risk of a crash, the primary purpose of a defensive driver, and other key elements of defensive driving.

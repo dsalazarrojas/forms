@@ -1,14 +1,3 @@
-<thinking> 
-This form is designed to gather information about an individual's health beliefs and medical history. It is used to assess their understanding of certain health-related concepts and their experiences with diseases. Please ensure that you have filled out this form only once. If you have already filled out this form, please do not submit it again. If you are unsure about what questions are on this form or how to answer them, please seek clarification from a healthcare professional. 
-
-Please note that this form is not a diagnostic tool and is intended for information gathering purposes only. The information collected on this form will be used to better understand the relationship between health beliefs and medical history. 
-
-This form is divided into the following sections: General Information, Symptoms, Personal History, Medical History, Health Beliefs, Disease Risk, Illness, Disease Causess, Self Remedy, Professional Help, Disease Symptoms, Disease Duration, Disease Relevance, Test Used, Test Results, Test Results Description, Test Date, Test Time, Test Result Value, Test Result Unit, and Test Result Interpretation. 
-
-Each section is further divided into questions that are related to the respective topic. Please answer each question accurately and truthfully. 
-
-</thinking>
-
 # health_belief_model_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's health beliefs and medical history.

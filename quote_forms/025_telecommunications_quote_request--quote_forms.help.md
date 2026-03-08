@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect information from customers who are requesting quotes for telecommunication services. It is likely used to generate quotes for businesses or organizations that provide telecommunication services. This form will help the customer provide their contact information, location, and service details, which will be used to create a quote for the requested services. To prevent duplication, customers may be restricted from submitting multiple quotes for the same location and service type. ...</thinking>
-
 # Telecommunications Quote Request - Help Guide
 ## Purpose
 The Telecommunications Quote Request form is designed to collect information from customers for quote generation purposes.

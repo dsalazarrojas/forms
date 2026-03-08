@@ -1,8 +1,3 @@
-<thinking>
-The "roofing_inspection_form" form is likely used by roofing professionals or property owners to gather information about the condition and characteristics of a roof. This form could be used in various contexts, such as during a property transaction or a regular maintenance check. The form's fields seem to focus on the chimney's condition, structure, and venting system. It's essential to ensure that the form is used correctly to avoid confusion and misinterpretation of its results. To guarantee the form's effectiveness, review and validate the answers to ensure they align with the actual conditions. This form should not be used as a standalone tool; it's crucial to consider combining it with other assessment methods and expert opinions for comprehensive evaluation.
-
-</thinking>
-
 # roofing_inspection_form - Help Guide
 ## Purpose
 The Roofing Inspection Form is designed to collect information about the condition, structure, and venting system of a roof's chimney. This form helps roofing professionals or property owners record observations and notes during a roof inspection.

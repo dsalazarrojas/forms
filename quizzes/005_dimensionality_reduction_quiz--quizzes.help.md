@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dimensionality Reduction Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your understanding of dimensionality reduction, a crucial concept in data science and machine learning. Dimensionality reduction is a process of simplifying complex data by reducing its dimensionality, typically by selecting a subset of the most relevant features.

@@ -1,5 +1,3 @@
-<thinking>This survey form is designed to collect personal book collection data from users. The form will capture information such as first name, last name, contact details, number of books read, genres, book titles, authors, publishers, and publication years. This data will help to identify the users' preferences and reading habits. Please ensure that each field is filled in accurately and correctly to ensure reliable data for analysis. Note that this form is for personal collection purposes only and will not be shared with any external parties. Please do not submit duplicate data, as it will be considered invalid. If a user has already submitted their data, please do not submit the same data again.</thinking>
-
 # Personal Book Collection Survey - Help Guide
 ## Purpose
 This form is designed to collect personal data about your book collection, including your name, contact information, reading habits, and favorite books.

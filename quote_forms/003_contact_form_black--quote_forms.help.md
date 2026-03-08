@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Contact Form Black", I'll provide an explanation of the form's purpose and instructions on how to complete it, as well as a field-by-field explanation of each field. This will help ensure that end-users understand the form's intent and can fill it out correctly.
-
-</thinking>
-
 # Contact Form Black - Help Guide
 ## Purpose
 The Contact Form Black is designed to collect information from clients or customers who are requesting a quote for a project. The form is meant to gather essential details about the project, including the contact person's name, contact information, project description, and estimated budget. By providing this information, the quote team can better understand the project requirements and create an accurate quote.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to determine the best foundation shade for a person's skin tone and preferences.
-It is designed to be completed by a user looking for a matching foundation, and the form asks multiple questions to determine their natural skin tone, undertone, skin type, and preferred finish.
-This form is not intended for internal use within the company. All questions are optional and are intended to help match the user to a suitable foundation shade.
-This form does not ask for sensitive information and is designed to be completed by a user on their own.
-</thinking>
-
 # foundation_shade_quiz - Help Guide
 ## Purpose
 The foundation_shade_quiz form is used to determine the best foundation shade for a person's skin tone and preferences.

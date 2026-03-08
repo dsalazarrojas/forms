@@ -1,7 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for the "Spain Knowledge Quiz" form, aiming to educate users on its purpose, how to complete it, and what each field means. This form is part of a larger series of quizzes, designed to test users' knowledge on various aspects of Spain, including its geography, culture, tradition, history, and more. The form will help users gauge their understanding of Spain's diverse regions, traditions, and cultural practices. It's essential to note that this form is designed to be completed at the user's own pace, and it's not a test of their knowledge under time pressure. Each field in the form has been carefully crafted to cater to different aspects of Spanish culture, ensuring users can explore their interests and knowledge in a relaxed environment.
-</thinking>
-
 # Spain Knowledge Quiz - Help Guide
 ## Purpose
 The Spain Knowledge Quiz is a series of interactive questions designed to test your knowledge about Spain, covering its geography, culture, history, and more. This form is part of an educational exercise aimed at assessing your understanding of various aspects of Spain.

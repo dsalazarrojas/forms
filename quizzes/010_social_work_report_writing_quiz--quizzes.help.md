@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess a user's ability to write a social work report based on given scenarios and questions. The purpose of the quiz is to evaluate the user's understanding of key concepts and principles in social work, such as identifying relevant information, analyzing situations, and applying knowledge to real-world scenarios. The quiz should not be used as a standalone assessment tool, but rather as a formative tool to help users develop their skills and knowledge in social work report writing.
-
-To avoid duplication, we will ensure that each user can only take the quiz once. If the user has already taken the quiz, they will not be able to access it again.
-</thinking>
-
 # Social Work Report Writing Quiz - Help Guide
 ## Purpose
 The Social Work Report Writing Quiz is designed to assess your ability to write a social work report based on given scenarios and questions. It helps you develop your skills and knowledge in social work report writing by evaluating your understanding of key concepts and principles.

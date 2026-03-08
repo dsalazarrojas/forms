@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Field Quote Information Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the applicant and their rental experience. This form is likely used by property managers or landlords to collect reviews and feedback from tenants or applicants. It's used to collect details such as the applicant's name, contact information, and rental address. This form is not meant to be used for official rental applications or other real-estate related processes, so it's likely that this form is used for internal purposes such as monitoring tenant satisfaction or for marketing purposes.
-
-To confirm, this form is not meant for official rental agreements, but rather for reviews and feedback. It's possible that the form is used in conjunction with other forms for official rental processes, but its primary purpose is to collect reviews.
-
-The form appears to be quite simple, with no conditional logic or complex fields, suggesting that it's meant to be a basic feedback mechanism.
-
-Given this understanding, the form is likely used to collect information about the rental experience, such as the applicant's satisfaction with the rental property, their experience with the landlord or property manager, and any comments or ratings they may have. This information can be used to improve the rental property or service provided by the landlord or property manager.
-
-</thinking>
-
 # Rental Review Form - Help Guide
 ## Purpose
 The Rental Review Form is a tool used to collect feedback and reviews from applicants about their rental experience. This form helps property managers or landlords understand how their properties or services are perceived by applicants, allowing them to identify areas for improvement and provide better services.

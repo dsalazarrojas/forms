@@ -1,7 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Disneyland Quote Request Form". This form is designed to collect information from users about their trip plans to Disneyland, allowing our team to provide personalized quotes for their travel needs. The form is crucial for accurate pricing and service offerings, so it's essential to complete it accurately. Please take a moment to review this guide and ensure you're filling out the form correctly to avoid any issues. If you have any doubts or concerns, feel free to reach out to our support team.
-</thinking>
-
 # Disneyland Quote Request Form - Help Guide
 
 ## Purpose

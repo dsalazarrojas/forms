@@ -1,11 +1,3 @@
-<thinking> 
-This form aims to gather genetic reproduction information for a specific purpose, which could be for medical or research purposes. 
-Before proceeding, ensure that you are not duplicating an existing record. 
-This form is designed to collect information about family history, medical conditions, genetic testing, and other related topics. 
-It is intended to be used for individuals who have had genetic testing or are considering it. 
-Please note that this form may not be suitable for everyone, and it's essential to review the information carefully before filling it out. 
-</thinking>
-
 # Genetic Reproduction Information Form - Help Guide
 ## Purpose
 This form is designed to gather genetic reproduction information for medical or research purposes. 

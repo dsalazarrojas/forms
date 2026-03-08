@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended for developers who want to assess their own development knowledge and experience. However, to ensure that the guide is helpful to end users, we need to double-check that the information provided is accurate and relevant to their use case. This guide should not be used to gather information on developers with little to no development experience. If you're not sure about your development knowledge, please consider other resources for guidance.
-
-</thinking>
-
 # Development Knowledge Assessment - Help Guide
 ## Purpose
 The Development Knowledge Assessment is a questionnaire designed to gauge your development knowledge and experience. It covers various aspects of development, including programming languages, development environments, testing approaches, code quality, time management, collaboration tools, and more.

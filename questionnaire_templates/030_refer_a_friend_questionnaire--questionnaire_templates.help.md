@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a friend or acquaintance. The purpose of this form is to provide an opportunity for the user to refer someone they know, and the data collected will be used for internal purposes, such as marketing or networking. Before proceeding, please ensure that you are not duplicating any existing records or submitting any irrelevant information. This form is not intended for general feedback or support queries.
-</thinking>
-
 # refer a friend questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a friend or acquaintance for internal purposes, such as marketing or networking.

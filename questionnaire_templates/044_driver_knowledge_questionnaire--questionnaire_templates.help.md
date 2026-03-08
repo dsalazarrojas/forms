@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's briefly explain the purpose of this form: the Driver Knowledge Questionnaire is designed to assess the knowledge of drivers on traffic rules, road signs, and safe driving practices. It's essential to ensure that drivers understand and apply these concepts correctly to reduce the risk of accidents and improve road safety. This form is not affiliated with, endorsed by, or derived from any form creation platforms, and its purpose is to gather feedback for driver knowledge evaluation. Please note that the form fields might seem repetitive, but each one is designed to assess specific aspects of driver knowledge, and completing them will help you gauge your understanding of traffic rules and safety practices.</thinking>
-
 # Driver Knowledge Questionnaire - Help Guide
 ## Purpose
 

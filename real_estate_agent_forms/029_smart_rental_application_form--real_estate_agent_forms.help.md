@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a Smart Rental Application Form, likely used by landlords, property managers, or owners to collect information from tenants, applicants, or guarantors for rental applications. The form may be used for internal purposes, such as evaluating rental applications, maintaining property records, or generating reports. Before proceeding, ensure that this form is relevant to your specific use case and doesn't duplicate any existing forms or processes in your organization.
-</thinking>
-
 # Smart Rental Application Form - Help Guide
 
 ## Purpose

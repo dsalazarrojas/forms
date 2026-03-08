@@ -1,24 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their housing preferences and experiences. This data will be used to improve the service's understanding of customer needs and inform future development. It is essential to ensure that the form's purpose is aligned with the business goals and that it does not overlap with other forms. The form's content and design should be clear, concise, and easy to understand to ensure that users provide accurate and relevant information.
-
-The form is part of the "real_estate_forms" category, which implies that it is related to real estate services. However, the form's specific focus on housing preferences and experiences suggests that it might be used in various contexts, such as market research, customer feedback, or lead generation. To avoid duplication, it is crucial to review existing forms in the "real_estate_forms" category and ensure that this form's purpose and content are distinct.
-
-The form's structure consists of 8 input fields, each with a label, name, hint, type, and options (if applicable). The fields are divided into several sections, although not explicitly labeled as such. A clear and concise explanation of each field's purpose and expectations will help users understand how to complete the form correctly.
-
-The form's fields are:
-- first_name: First name of the user
-- last_name: Last name of the user
-- address: User's address
-- email: User's email address
-- phone_number: User's phone number
-- experience: User's housing experience (select one option)
-- prophets_name: Prophets name (this field seems unusual; if it's not a typo, it's unclear what it represents)
-- comments: Optional comments from the user
-
-The form's design should prioritize user experience, making it easy to read and fill out, with clear instructions and concise explanations for each field.
-
-</thinking>
-
 # Housing Survey - Help Guide
 
 ## Purpose

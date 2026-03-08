@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Landman Project Questionnaire - Help Guide
 
 ## Purpose

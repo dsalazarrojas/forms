@@ -1,5 +1,3 @@
-<thinking>...This form is designed to help users find matches based on their personal characteristics. It collects information about the user's profile, interests, preferences, and availability. The form is divided into three sections: Participant Profile, Interests and Preferences, and Availability and Consent. The user must provide accurate and complete information to increase the chances of finding a suitable match. The form should not be filled out more than once by the same user, as this can create duplicate entries and affect the matching process...</thinking>
-
 # Automated Matching Form - Help Guide
 ## Purpose
 The Automated Matching Form is designed to collect information about your personal profile, interests, and preferences to help find suitable matches.

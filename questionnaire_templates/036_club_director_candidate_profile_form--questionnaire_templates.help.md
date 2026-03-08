@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from potential candidates for the position of Club Director. It is crucial to ensure that each candidate provides a complete and accurate profile, which will be reviewed by the selection committee to determine the suitability of each candidate for the role. Please do not submit duplicates or incomplete profiles, as this can cause confusion and may result in missed opportunities for other qualified candidates.
-
-The following fields are part of this form, and each one is designed to gather relevant information to help the selection committee assess the candidate's qualifications and suitability for the position.
-
-</thinking>
 # Club Director Candidate Profile Form - Help Guide
 
 ## Purpose

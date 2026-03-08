@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to provide clear and concise guidance for end-users to complete the Regional Integration Challenges Quiz form. The form is designed to assess the integration challenges faced by regions and is an essential part of the regional integration process. The fields in the form are carefully crafted to gather relevant information, and this guide will walk users through each field's purpose and requirements.
-
-The form's fields and sections are designed to elicit specific information about the regional integration process, including challenges, obstacles, training programs, and additional information.
-
-Upon completion, the user will have a clear understanding of what to expect from the form and how to accurately fill it out.
-
-The following guide is structured to follow a logical flow of the form's sections and fields.
-
-</thinking>
-
 # Regional Integration Challenges Quiz - Help Guide
 
 ## Purpose

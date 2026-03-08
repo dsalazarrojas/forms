@@ -1,5 +1,3 @@
-<thinking>This form is a quiz designed to test users' understanding of various hashing concepts. Hashing is a process of converting data into a fixed-size string of characters. It's used in many applications, such as password storage and data encryption. The form should only be completed by users who are familiar with hashing concepts and want to assess their knowledge. Please fill out this form if you are a student, professional, or enthusiast looking to evaluate your understanding of hashing concepts.</thinking>
-
 # Hashing Concepts Quiz - Help Guide
 ## Purpose
 This form is designed to test your understanding of various hashing concepts. It is intended for users who are familiar with hashing and want to assess their knowledge.

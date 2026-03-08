@@ -1,9 +1,3 @@
-<thinking>This form is likely a survey or quiz designed to gather information about users' familiarity or preference for various fantasy series. This form likely aims to collect data on whether users have watched or read specific fantasy series, such as A Song of Ice and Fire, The Wheel of Time, The Lord of the Rings, The Kingkiller, The Malazan, and A Dance with Dragons. The form may also ask users about their participation in or interest in these series.
-
-To prevent duplication, the form is likely designed to be filled out by users who have not previously completed it.
-
-To determine the form's purpose and structure, I will now create a detailed help guide:</thinking>
-
 # Fantasy Series Quiz - Help Guide
 
 ## Purpose

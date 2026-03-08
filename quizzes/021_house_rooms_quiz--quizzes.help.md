@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect detailed information about a house room. The purpose of this form is to gather specifics about the room's characteristics, such as its size, shape, orientation, and features. The form is designed to be completed by a user who has intimate knowledge of the room in question.
-Before attempting to complete this form, please ensure that you are familiar with the room's details and that the information you provide is accurate. If you are unsure about any of the fields, please do not hesitate to seek additional information or clarification.
-Please note that some fields in this form are required and must be completed in order to provide a complete and accurate description of the room.
-</thinking>
-
 # House Rooms Quiz - Help Guide
 
 ## Purpose

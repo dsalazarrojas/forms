@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a clear and concise user-facing help guide for this Chemistry Electron Configuration Quiz form. The form is intended to assess users' knowledge of electron configurations and energy levels, covering topics such as atomic orbitals, electron occupation, and valence electrons. This quiz will be a valuable tool for students and educators to gauge their understanding of chemistry concepts.</thinking>
-
 # Chemistry Electron Configuration Quiz - Help Guide
 ## Purpose
 The Chemistry Electron Configuration Quiz is designed to test your knowledge of electron configurations and energy levels. It consists of 12 questions that cover various topics in chemistry, including atomic orbitals, electron occupation, and valence electrons.

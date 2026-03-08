@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to help individuals assess their relationship skills, including conflict resolution, effective communication, and healthy relationship patterns. It will likely be used in a therapeutic or coaching setting to provide insight into an individual's relationship dynamics and identify areas for improvement. To prevent duplication, ensure you are not taking this quiz unless you have not already completed it. If you suspect you've already taken it, please contact the form administrator (form@gic.mx) for further information.</thinking>
-
 # Healthy Relationship Skills Quiz - Help Guide
 ## Purpose
 The Healthy Relationship Skills Quiz is designed to help you assess your relationship skills, identify areas of improvement, and gain a deeper understanding of your relationship dynamics.

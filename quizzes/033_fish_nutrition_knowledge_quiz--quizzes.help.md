@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fish Nutrition Knowledge Quiz - Help Guide
 ## Purpose
 The Fish Nutrition Knowledge Quiz is a form designed to test users' knowledge of fish nutrition. It is intended for use in aquaculture training, fast data collection, and organized form submissions.

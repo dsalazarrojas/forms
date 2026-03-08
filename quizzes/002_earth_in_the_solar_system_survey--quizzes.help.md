@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their knowledge of the Earth in the Solar System. The form is designed to gather user responses to a series of questions and demographic information such as email and phone numbers. This form likely serves as a tool for educational institutions or organizations to conduct research or gather feedback from students or enthusiasts about the Solar System.
-Please ensure that you are filling the form for the intended purpose and not duplicating an existing form with similar goals. If you are unsure, you can contact the administrator to clarify the form's purpose.
-</thinking>
-
 # Earth In The Solar System Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect your knowledge and opinions about the Earth in the Solar System. It is designed to gather your responses to a series of questions and demographic information to help us better understand your views and experiences.

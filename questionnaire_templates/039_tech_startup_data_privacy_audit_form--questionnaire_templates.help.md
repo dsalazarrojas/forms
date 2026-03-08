@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a data privacy audit for tech startups. The form is designed to gather information about the startup's data collection, retention, sharing, and protection practices. By filling out this form, tech startups can identify potential vulnerabilities and take steps to improve their data privacy practices. This form is not affiliated with or endorsed by any form platform, but rather a custom-made adaptation created using AI-generated metadata.
-
-</thinking>
-
 # Tech Startup Data Privacy Audit Form - Help Guide
 ## Purpose
 This form is intended for tech startups to conduct a data privacy audit and identify areas for improvement. It covers various aspects of data privacy, including data collection, retention, sharing, and protection practices.

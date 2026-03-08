@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by housing agents or administrators to cancel a housing lease for a tenant. The form is likely to be used in a situation where the tenant is terminating the lease early or the landlord is cancelling the lease due to non-payment of rent or other lease violations. To ensure that this form is used correctly, please review the following guide carefully.
-</thinking>
-
 # Housing Cancellation Form - Help Guide
 
 ## Purpose

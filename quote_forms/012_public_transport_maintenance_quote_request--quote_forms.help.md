@@ -1,5 +1,3 @@
-<thinking>...this form is for customers to request a public transport maintenance quote. To ensure that we don't receive duplicate requests from the same customer, we check for existing records with the same email address. This prevents unnecessary work and ensures that customers only receive relevant and accurate quotes. Please fill out the form carefully to provide your quote request information, and we will get back to you with a quote as soon as possible...</thinking>
-
 # Public Transport Maintenance Quote Request - Help Guide
 ## Purpose
 This form is a quote request form for public transport maintenance services. Fill out the form to submit your quote request, and our team will respond with a quote as soon as possible.

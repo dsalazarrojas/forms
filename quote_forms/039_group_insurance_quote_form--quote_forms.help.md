@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from insurance agents to provide quotes for group insurance. 
-The fields are designed to capture relevant details about the agent and the customer, the quote, and the quote's status. 
-It's likely that this form will be used by insurance agents to provide quotes and by administrators to review and manage the quotes.
-</thinking>
-
 # Group Insurance Quote Form - Help Guide
 
 ## Purpose

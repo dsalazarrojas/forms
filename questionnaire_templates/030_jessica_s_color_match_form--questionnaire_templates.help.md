@@ -1,7 +1,3 @@
-<thinking>
-This guide will explain the Jessicas Color Match Form, a form designed to gather user information and color preferences. This form is part of the questionnaire_templates category and is primarily used for users to express their favorite colors and provide additional contact information.
-</thinking>
-
 # Jessicas Color Match Form - Help Guide
 ## Purpose
 The Jessicas Color Match Form is a simple, user-facing form that collects user information and color preferences. It's designed to be easy to complete and understand.

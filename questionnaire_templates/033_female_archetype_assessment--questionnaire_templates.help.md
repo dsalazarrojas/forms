@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Female Archetype Assessment - Help Guide
 ## Purpose
 This form is designed to assess the female archetypes, a set of hypothetical female prototypes used to describe the characteristics and tendencies of women across various life stages and experiences. This assessment is intended to provide a comprehensive overview of the female individual's life, interests, and circumstances.

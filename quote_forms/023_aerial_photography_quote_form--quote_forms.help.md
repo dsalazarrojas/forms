@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form for aerial photography quotes, which is a critical part of our business process. The form will help us understand the client's needs and requirements for their aerial photography project.
-</thinking>
-
 # Aerial Photography Quote Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients for aerial photography projects. It ensures that we understand their project requirements, location, and intended usage of the photos, making it easier for us to provide accurate quotes and deliverables.

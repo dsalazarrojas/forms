@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a knowledge quiz for formulators to test their knowledge of paint formulations. It is not a functional application form, but rather a tool to assess the knowledge of paint formulations. The form is likely used by paint formulators, engineers, or researchers in the paint industry.
-
-This form should not be filled out if you are not a paint formulator or do not have experience with paint formulations. It is intended for experienced professionals only, and the information provided is for educational purposes only.</thinking>
-
 # paint_formulation_knowledge_quiz - Help Guide
 ## Purpose
 This form is a knowledge quiz for paint formulators to test their knowledge of paint formulations.

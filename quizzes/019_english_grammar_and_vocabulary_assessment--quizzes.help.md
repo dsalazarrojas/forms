@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by students who are taking an English Grammar And Vocabulary Assessment, likely as part of an educational evaluation process. The form collects various types of information, including multiple-choice options, text fields for learner and school details, and fields for submission status and notes. The goal is to understand the student's progress in English language skills and assess their vocabulary knowledge.
-
-Before filling this form, ensure that you have all the necessary details at hand. 
-
-</thinking>
-
 # English Grammar And Vocabulary Assessment - Help Guide
 ## Purpose
 This form is designed to assess the student's English language skills and vocabulary knowledge.

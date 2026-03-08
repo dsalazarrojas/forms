@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Plant Preference Quiz - Help Guide
 ## Purpose
 The Plant Preference Quiz is designed to help users determine their preferences for plants, including their preferred plant type, size, color, and frequency of use. It will also collect user information such as email, phone number, and other details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data from users about their houses, specifically regarding the presence of quiz questions and answers, score, time spent, date, and additional notes or contact information. The form is likely used for research or survey purposes. To avoid duplication, please ensure that you are not filling out this form if you have already completed it before.
-</thinking>
-
 # House Rooms Quiz - Help Guide
 
 ## Purpose

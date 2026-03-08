@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Match Maker Form - Help Guide
 
 ## Purpose

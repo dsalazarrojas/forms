@@ -1,5 +1,3 @@
-<thinking>...The form "Imaging Techniques Assessment" is designed to evaluate the effectiveness and applicability of various imaging techniques in a particular setting. This form is used to assess whether a set of imaging techniques are suitable for a specific task or project. The form is divided into sections that focus on different aspects of imaging techniques. Each section asks the user to choose whether they use a particular imaging technique. The form does not require any personal or identifying information, and it is meant to be completed by experts or professionals in the field of imaging. The form will help to identify whether a set of imaging techniques are effective and applicable for a specific project or task. The results of this form will be used to inform future projects or initiatives related to imaging techniques...</thinking>
-
 # Imaging Techniques Assessment - Help Guide
 ## Purpose
 The "Imaging Techniques Assessment" form is used to evaluate the effectiveness and applicability of various imaging techniques in a particular setting.

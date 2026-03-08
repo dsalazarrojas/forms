@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a hospice agency, including its contact person, address, phone number, email, and a range of services offered. This information will help us understand the agency's capabilities and services, ensuring that we are able to provide the best support and resources for our users. This form is designed to be completed by the agency's representative, and it is not intended to be a certification or evaluation form. Please answer these questions as accurately and thoroughly as possible, but do not feel obligated to provide sensitive or confidential information. This form will be reviewed and verified by our team before any further action is taken.
-</thinking>
-
 # Hospice Agency Questionnaire Form - Help Guide
 ## Purpose
 This form collects information about a hospice agency to better understand its services and capabilities.

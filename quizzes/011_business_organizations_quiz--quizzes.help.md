@@ -1,19 +1,3 @@
-<thinking>
-
-To ensure that this guide is helpful, I'll review the form purpose and relevance to determine if it's ready for use. 
-
-This form is designed to assess the knowledge of business organizations, which is a crucial topic in business and management studies. However, to confirm its relevance and purpose, I'll analyze the input schema and ensure that the questions are clear and concise.
-
-Upon reviewing the input schema, I notice that the form covers various aspects of business organizations, including sole proprietorships, partnerships, limited liability companies, corporations, franchises, and non-profit organizations. Each question is aimed at testing the user's understanding of these concepts. 
-
-The form appears to be a quiz, which means it's intended to be a self-assessment tool for individuals, possibly students, or professionals interested in business management. Therefore, the purpose of this form is to gauge the user's knowledge of business organizations, and the relevance is high.
-
-To prevent duplication, I'll ensure that the questions are unique and don't overlap with each other. Upon reviewing the schema, I found no duplicates or redundant questions, so the form's purpose and relevance are solid.
-
-After confirming the form's purpose and relevance, I'm ready to create the user-facing help guide.
-
-</thinking>
-
 # Business Organizations Quiz - Help Guide
 ## Purpose
 This quiz is designed to test your knowledge of business organizations, including sole proprietorships, partnerships, limited liability companies, corporations, franchises, and non-profit organizations. Each question is meant to assess your understanding of the key concepts and terminology related to these business structures.

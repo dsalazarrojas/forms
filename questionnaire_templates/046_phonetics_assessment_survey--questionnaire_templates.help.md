@@ -1,9 +1,3 @@
-<thinking>
-This form seems to be part of a language assessment or evaluation process. The purpose of this form is likely to collect information about a speaker's phonetics, which is a crucial aspect of language skills. The form asks about the background and language proficiency of the speaker, their pronunciation and audio samples, and possibly other relevant details. To ensure that the form is filled out correctly, let's break down the process of completing it.
-
-It's worth noting that the form fields appear to cover a wide range of phonetics-related information. Some fields might be redundant or unnecessary, and the form might be a work in progress or under development. If you're unsure about any part of this process, feel free to reach out to your colleagues or the form's creators.
-</thinking>
-
 # phonetics_assessment_survey - Help Guide
 ## Purpose
 This form is designed to collect phonetics-related information from speakers to assess their language skills.

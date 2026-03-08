@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a questionnaire for gathering information related to workers' compensation claims. The purpose of this form is to collect details about incidents, employer and worker information, and medical certifications. The form is likely to be used by HR or insurance representatives to process claims efficiently.
-</thinking>
-
 # Workers Comp Questionnaire - Help Guide
 ## Purpose
 The Workers Comp Questionnaire is designed to gather information about work-related incidents, including details about the incident, the employer, the worker, and medical certifications. This information is crucial for processing workers' compensation claims.

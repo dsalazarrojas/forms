@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from the wedding client about their preferences for the event. This includes their vendor choice, event date and time, name, email, phone number, and if they will be working with a planner or not. The purpose of this form is to gather the necessary details to better understand the client's requirements and provide an optimal experience for them.
-</thinking>
-
 # Wedding Client Preference Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect information from the wedding clients about their preferences for their event.

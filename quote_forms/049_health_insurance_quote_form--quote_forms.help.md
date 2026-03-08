@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is designed for users to submit a health insurance quote form, which includes various personal and business information. The form is likely used in a B2B or B2C setting where users need to provide details for quoting health insurance options. The form requires some personal info like name and contact details, business-specific info like job title, company name, and address, and insurance specifics such as type and coverage. The form is likely a multi-page form as indicated by the multiple pages listed in the inputSchema.</thinking>
-
 # Health Insurance Quote Form - Help Guide
 ## Purpose
 The Health Insurance Quote Form is a form designed to collect relevant information for quoting health insurance options.

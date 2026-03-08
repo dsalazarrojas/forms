@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for landscaping or concrete services. The form is likely used for customers to request or inquire about these services. The form may be used by landscapers, concrete contractors, or other service providers to gather necessary information from customers.
-</thinking>
-
 # Landscaping Or Concrete Form - Help Guide
 ## Purpose
 This form is used to collect information for landscaping or concrete services from customers.

@@ -1,9 +1,3 @@
-<thinking>Here's a guide on how to complete the "Product Design Questionnaire" form. 
-
-This form is designed to collect information about a product from the perspective of its users. It's intended to gather feedback and insights on the product's design, features, and other aspects that can help improve the product development process. Please make sure you're filling out this form for the right purpose and not duplicating existing information.
-
-</thinking>
-
 # Product Design Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about a product from the perspective of its users. It will help us gather feedback and insights on the product's design, features, and other aspects that can help improve the product development process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Hiring Personality Assessment Questionnaire is designed to help assess an individual's personality traits and characteristics, and how they align with our company's values and culture. This guide will walk you through each section of the form to help you complete it accurately and effectively.
 
 # Hiring Personality Assessment Questionnaire - Help Guide

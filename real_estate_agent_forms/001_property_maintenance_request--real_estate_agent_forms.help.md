@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "property_maintenance_request" form, I will consider the form's purpose, completion steps, and field explanations. The form appears to be a maintenance request form for real estate agents, where users can submit a request for maintenance work on a property. The form is likely used by property managers to track and manage maintenance requests.
-
-The form has 25 fields, including text, date, email, phone number, select_one, select_multiple, and note fields. The required fields indicate that the form is comprehensive, covering various aspects of the maintenance request.
-
-</thinking>
-
 # property_maintenance_request - Help Guide
 ## Purpose
 The property_maintenance_request form is used by property managers to track and manage maintenance requests from real estate agents. Agents can submit a request for maintenance work on a property, providing details such as the property address, issue date, repair cost, and more. The form helps property managers to prioritize and assign maintenance tasks effectively.

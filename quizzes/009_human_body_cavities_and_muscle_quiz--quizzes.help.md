@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to test the knowledge of users on human body cavities and muscle functions. It appears to be a comprehensive quiz with 18 questions, covering various aspects of human anatomy, including the cavities and muscle types. Each question requires the user to select one or multiple options from a list, indicating their understanding of the subject matter. The form seems to be well-structured and covers a range of topics, from the cavities in the thoracic, abdominal, and pelvic regions to the functions and locations of different muscle types. The form's purpose is to assess the user's knowledge on human anatomy, specifically on the cavities and muscles. I will now provide a detailed help guide for this form.
-
-</thinking>
-
 # human_body_cavities_and_muscle_quiz - Help Guide
 
 ## Purpose

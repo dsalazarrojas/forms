@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you complete the "home_dietetics_support_assessment" form, which is designed to assess the support needs of individuals with dietary restrictions or requirements. The form is used to gather information on various aspects of a person's health, medical history, and lifestyle, to provide personalized recommendations for support.
-</thinking>
-
 # home_dietetics_support_assessment - Help Guide
 ## Purpose
 This form is designed to gather information on your health, medical history, and lifestyle to provide personalized recommendations for support.

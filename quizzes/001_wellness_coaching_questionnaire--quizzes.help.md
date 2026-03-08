@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wellness Coaching Questionnaire - Help Guide
 
 ## Purpose

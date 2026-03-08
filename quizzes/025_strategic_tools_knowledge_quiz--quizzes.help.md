@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block)
-
-To create a user-facing help guide that is clear and concise, we need to consider how users will interact with the form and what information we need to convey to support them in completing it effectively. The form is a "Strategic Tools Knowledge Quiz", designed to assess users' knowledge and expertise in specific tools and frameworks. To make the help guide accessible, we should avoid technical jargon and focus on providing concrete and practical explanations of each form field, assuming that users are not familiar with the topic. We should also consider that users may not be experts in the field, so we need to provide explanations that are helpful and not too complex.
-
-</thinking>
-
 # Strategic Tools Knowledge Quiz - Help Guide
 ## Purpose
 The Strategic Tools Knowledge Quiz is designed to test your knowledge and expertise in specific tools and frameworks used in strategic planning and decision-making. The quiz will ask you to provide information about your experience, skills, and knowledge in these areas. Your responses will help us understand your current level of proficiency and identify areas where you may need additional training or support.

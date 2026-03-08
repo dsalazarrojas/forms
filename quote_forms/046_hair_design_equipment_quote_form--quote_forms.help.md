@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about the hair design equipment, its condition, and other relevant details. The fields in this form are intended to be filled out by users who are providing quote requests for hair design equipment. This form may not be applicable to all users, so please check with your supervisor or team lead before using it. There might be other forms in the organization that serve the same purpose.
-</thinking>
-
 # Hair Design Equipment Quote Form - Help Guide
 ## Purpose
 This form is used to gather information about the hair design equipment, its condition, and other relevant details to assist in providing quote requests for hair design equipment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Synonym Quiz - Help Guide
 ## Purpose
 This form is designed to help you assess your understanding of synonyms and test your knowledge in identifying alternative words or phrases. By completing this quiz, you'll have the opportunity to showcase your vocabulary skills and provide feedback on the questions asked.

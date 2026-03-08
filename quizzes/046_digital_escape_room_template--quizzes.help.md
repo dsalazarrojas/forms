@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used to create a digital escape room, which is an interactive game or puzzle that challenges players to solve a series of puzzles to "escape" a virtual environment. The form is designed to provide a basic structure for creating a digital escape room experience, allowing users to input their game title, description, and background story. The form's purpose is to collect the necessary information to create a cohesive and engaging escape room experience.
-
-Before starting, it's worth checking that the form hasn't been filled out already and that the information is accurate and complete. This will save time and effort in the future when reviewing or updating the form.
-
-</thinking>
-
 # Digital Escape Room Template - Help Guide
 ## Purpose
 This form is used to create a digital escape room experience by inputting the title, description, and background story of the game.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from customers for IT helpdesk quotations. It is designed to gather essential details for providing quotes on various services and products. 
-- Ensure that the form is only used for its intended purpose and not for other internal or external purposes.
-- Make sure that the customer information is accurate and up-to-date.
-- Check that the quote form is completed for each service request.
-
-</thinking>
-
 # IT Helpdesk Quotation Form - Help Guide
 
 ## Purpose

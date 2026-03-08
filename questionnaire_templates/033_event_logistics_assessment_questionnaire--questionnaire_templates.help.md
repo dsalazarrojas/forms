@@ -1,29 +1,3 @@
-<thinking>
-To create this help guide, I will follow the provided YAML fields and use them to construct a concise and practical help document for the user.
-
-This form is a "Event Logistics Assessment Questionnaire" and has 25 fields. I assume that this form is designed to assess event logistics, which refers to the management and organization of events, conferences, meetings, or other similar events. The purpose of this form is likely to gather information about event details, such as dates, times, venues, and other logistical aspects.
-
-Given the large number of identical fields, I will make educated guesses about the intent behind each field. However, please note that without further context, these explanations are speculative.
-
-Before we begin, please note that this form has 25 fields, all of which are text fields. The "required" attribute is not consistently applied across the form, but I will assume that none of the fields are required unless explicitly marked as such.
-
-Now, let us create the help guide.
-
-# Event Logistics Assessment Questionnaire - Help Guide
-## Purpose
-This form is designed to assess event logistics, which involves the management and organization of events, conferences, meetings, or other similar events.
-
-## How To Complete This Form
-To complete this form, simply answer each question by typing in the corresponding field. Make sure to fill out all relevant information, but be cautious not to fill out fields that are not required if you are unsure about the requirement status of a field.
-
-## Field-by-Field Explanation
-* **Event Logistics Assessment Questionnaire 1** (id: 1, `event_logistics_assessment_questionnaire_1`): Provide a brief description of the event.
-* **Event Logistics Assessment Questionnaire 2** (id: 2, `event_logistics_assessment_questionnaire_2`): Enter details about the event, such as date, time, or location.
-* **Event Logistics Assessment Questionnaire 3** (id: 3, `event_logistics_assessment_questionnaire_3`): Add any additional information about the event that you think is relevant.
-* ...
-* **Event Logistics Assessment Questionnaire 25** (id: 25, `event_logistics_assessment_questionnaire_25`): Provide a final note or comment about the event.
-</thinking>
-
 However, I must point out that this format is not very practical for 25 identical fields. A more effective way to present the information would be to group them into categories, such as "General Event Details" and "Event Logistics". This way, the user can quickly understand the purpose of each group of questions.
 
 Let me try this alternative format:

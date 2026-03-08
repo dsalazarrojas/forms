@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about graduate students, specifically their personal details and their experience in a program. The purpose of this form is to gather data that can be used to improve the student experience and satisfaction with the program. This form should not be used for other purposes, such as for administrative tasks or for gathering information about students for non-academic reasons.
-
-It is assumed that the data collected will be used to improve the program and its services, and not for any other purpose.
-
-This form is intended to be filled out by graduate students, and it is expected that the information provided will be accurate and up-to-date.
-
-Please review the form carefully and answer the questions honestly, and if you have any questions or concerns, contact the designated authority.
-
-</thinking>
-
 # Graduate Student Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about graduate students, specifically their personal details and their experience in a program. The data collected will be used to improve the program and its services.

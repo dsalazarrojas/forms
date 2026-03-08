@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # simple_quiz_template - Help Guide
 ## Purpose
 This form is designed to create a simple quiz template. It allows users to input a title, introduction, and questions, as well as specify correct answers and scoring settings. The form can be used to create a basic quiz with multiple-choice questions and scoring options.

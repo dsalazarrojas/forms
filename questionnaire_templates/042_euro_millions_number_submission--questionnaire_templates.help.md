@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect participant information and their preferences for the Euro Millions project. The form is intended for participants who have won or are interested in winning a significant cash prize. The form will help to collect and process their contact information and preferences.
 
 This form is not intended to be used for general contact information or as a replacement for other forms. Please make sure that you have the necessary approvals and rights before submitting this form.

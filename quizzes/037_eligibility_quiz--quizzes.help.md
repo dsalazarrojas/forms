@@ -1,5 +1,3 @@
-<thinking>...This form is designed to assess the eligibility of an individual or entity for a specific program or opportunity. The form is divided into multiple pages, each with different types of questions or fields. The purpose of this form is to gather relevant information from the user to determine their eligibility. To ensure that this form is completed accurately and efficiently, the user should carefully review the explanations for each field below...</thinking>
-
 # Eligibility Quiz - Help Guide
 
 ## Purpose

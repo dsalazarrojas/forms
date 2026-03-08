@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physics Practice Quiz - Help Guide
 ## Purpose
 The Physics Practice Quiz is a form designed to collect information from students about their physics practice quiz submissions. This includes details about the student's name, quiz topic, question, and answer, as well as submission information such as date, time, location, and status. The form helps instructors to keep track of student submissions and gather data for assessment and evaluation purposes.

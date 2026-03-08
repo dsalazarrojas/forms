@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from property management survey respondents about their experience with a real estate property management company. The form will help the company gather information on various aspects of their services, including community management, property management, and communication. This form will help the company identify areas of improvement and better serve their clients. Please note that this form is not intended for real-time critical decision-making, and the responses will be used for internal analysis and improvement.
-</thinking>
-
 # property_management_survey - Help Guide
 ## Purpose
 The property management survey is designed to collect feedback from clients about their experience with the property management company. This form will help the company understand their strengths and weaknesses, and use this information to improve their services.

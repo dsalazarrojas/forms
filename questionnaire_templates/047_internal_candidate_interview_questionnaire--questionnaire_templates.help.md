@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's consider the purpose of this form. The Internal Candidate Interview Questionnaire is designed to collect information from interviewers and evaluators about internal candidates going through the interview process. This form aims to streamline the evaluation process, gather feedback, and provide a structured approach to assessing candidates. It's likely that this form will be used by HR representatives, managers, and other stakeholders involved in the candidate evaluation process. This guide will cover the purpose, how to complete the form, and a field-by-field explanation of each section.</thinking>
-
 # Internal Candidate Interview Questionnaire - Help Guide
 ## Purpose
 The Internal Candidate Interview Questionnaire is a structured form used to collect feedback and evaluation from interviewers and evaluators about internal candidates. This form helps to standardize the evaluation process, gather comprehensive feedback, and make informed decisions about candidate advancement within the organization.

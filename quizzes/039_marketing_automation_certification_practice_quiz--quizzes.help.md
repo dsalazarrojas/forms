@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals seeking to evaluate their knowledge on Marketing Automation practices. It is not affiliated with any specific form platform, and its content is generated based on public data. The form aims to assess the understanding of lead scoring, lead nurturing, lead conversion, lead qualification, and lead enrichment concepts within marketing automation. By answering the questions in each section, users can gauge their proficiency in these key areas and identify areas for improvement.
-</thinking>
-
 # Marketing Automation Certification Practice Quiz - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Marketing Automation Certification Practice Quiz form.

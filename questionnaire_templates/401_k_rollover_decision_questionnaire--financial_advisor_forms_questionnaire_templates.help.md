@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # 401(k) Rollover Decision Questionnaire - Help Guide
 ## Purpose
 This form is designed to help you make an informed decision about your 401(k) rollover options. It will guide you through a series of questions to determine your needs and preferences for a successful transition.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from customers about their interest in our solar power system services. This form is designed to guide them through the process of enquiring about our services, which can include installation, maintenance, or other related inquiries. This is a straightforward form with minimal fields, indicating that it's likely used for general customer inquiries or to capture basic contact information. To the best of my knowledge, it's not meant to be a highly technical or in-depth form. I'm assuming it's a simple customer support tool...</thinking>
-
 # Solar Power System Service Enquiry Form - Help Guide
 ## Purpose
 This form is for customers who want to inquire about our solar power system services. They can choose to enquire about installation, maintenance, or other related services.

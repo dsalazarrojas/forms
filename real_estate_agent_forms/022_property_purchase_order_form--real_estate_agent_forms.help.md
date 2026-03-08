@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is likely to gather information related to a property purchase, capturing details about the buyer, the property, and various transactional aspects. This form might be used internally within a real estate agency or organization to facilitate the process of recording and managing property purchases. It is reasonable to assume that this form is part of a more extensive system for handling property transactions, possibly integrating with other forms or modules to track the progress and status of each purchase order. Before creating this guide, I checked for similar forms in the provided YAML file to avoid duplication of effort or unnecessary complexity. Upon examination, I have found no similar forms in the provided YAML, suggesting that this guide is not duplicating any existing effort.
-</thinking>
-
 # Property Purchase Order Form - Help Guide
 ## Purpose
 This form is designed to gather information about a property purchase, including details about the buyer, property, and transactional aspects. It is intended for internal use within a real estate agency or organization.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a quiz on laryngeal anatomy, specifically designed to gauge the user's knowledge on the subject. The quiz consists of multiple questions that test the user's understanding of the larynx, its functions, and related concepts. This form is not meant to be a comprehensive exam, but rather a fun and interactive way to learn about the larynx. Users are not required to complete the entire form if they are not sure of their knowledge in certain areas.
-</thinking>
-
 # Larynx Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to help you test your knowledge on laryngeal anatomy. It consists of a series of questions that cover various aspects of the larynx, its functions, and related concepts.

@@ -1,7 +1,3 @@
-<thinking>
-A digital marketing audit is an evaluation of a business's online presence and performance. This form is designed to help businesses assess their current state of retail digital marketing strategies, channels, and performance. The data collected through this form will help businesses identify areas of improvement and provide insights for making informed decisions.
-</thinking>
-
 # Retail Digital Marketing Audit Form - Help Guide
 ## Purpose
 This form is designed to collect data on a business's retail digital marketing channels, performance, and goals. The information gathered will help businesses understand their current state and identify opportunities for improvement.

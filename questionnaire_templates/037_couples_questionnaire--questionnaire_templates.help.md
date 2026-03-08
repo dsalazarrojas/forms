@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a couple's relationship. It is intended to be completed by two individuals who are in a romantic relationship, such as a married couple or a couple in a long-term partnership. The form will help users understand their relationship dynamics, communication styles, and potential areas for improvement.
-</thinking>
-
 # couples_questionnaire - Help Guide
 ## Purpose
 This form collects information about a couple's relationship to help users understand their dynamics and identify areas for improvement.

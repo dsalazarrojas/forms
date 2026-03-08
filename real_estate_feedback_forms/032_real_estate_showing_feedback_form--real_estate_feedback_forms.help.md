@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from real estate agents or brokers about a showing of a property. This form is used to document the showing of a property in various stages of the buying or selling process. 
-
-Form fields are designed to capture specific information to make it easier to track and manage feedback on property showings. The form should only be used for this specific purpose and not for other types of feedback. 
-
-</thinking>
-
 # real_estate_showing_feedback_form - Help Guide
 ## Purpose
 This form is used to collect feedback from real estate agents or brokers about a showing of a property.

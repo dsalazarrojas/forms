@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Carl Rogers Theory Quiz form, I will first analyze the form's purpose and identify potential areas of confusion for the user. This form is designed to test a user's understanding of Carl Rogers' theory of humanistic psychology, specifically his ideas on person-centered therapy. To avoid duplication, I will ensure that the guide addresses the most critical information and provides clear explanations for the fields.
-
-The form is divided into several sections:
-1.  Participant Identification (sections 1-2)
-2.  Core concepts (sections 3-5)
-3.  Quiz questions (sections 6-9)
-4.  Human Potential and Self-Actualization (sections 10-11)
-5.  Quiz feedback (sections 12-15)
-6.  Final Declaration (sections 16-22)
-
-This guide will address each section, providing an overview and field-by-field explanations to help users understand the purpose and requirements of each field.
-
-</thinking>
-
 # Carl Rogers Theory Quiz - Help Guide
 
 ## Purpose

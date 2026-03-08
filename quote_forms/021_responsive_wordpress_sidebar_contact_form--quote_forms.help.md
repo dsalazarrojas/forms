@@ -1,10 +1,3 @@
-<thinking>
-This form is used for the users to send a contact request to the website administrator.
-It is a simple form for contact information submission.
-The purpose of this form is to provide an easy way for the visitors to get in touch with the website administrator.
-Please make sure the form is not a duplicate of any other form on the website.
-</thinking>
-
 # Responsive Wordpress Sidebar Contact Form - Help Guide
 ## Purpose
 This form is used for visitors to contact the website administrator with their inquiries and messages.

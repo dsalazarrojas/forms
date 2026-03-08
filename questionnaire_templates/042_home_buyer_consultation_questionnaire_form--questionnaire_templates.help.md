@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a home buyer consultation questionnaire form. Its purpose is to gather information from home buyers about their preferences and needs regarding their home buying experience. This information will be used to provide personalized guidance and support throughout the home buying process. Before proceeding, please ensure you have not already completed this form. If you have any questions or concerns, feel free to ask.
-</thinking>
-
 # home_buyer_consultation_questionnaire_form - Help Guide
 ## Purpose
 

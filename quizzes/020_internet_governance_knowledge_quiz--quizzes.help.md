@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to test users' knowledge on internet governance-related topics, specifically DNS (Domain Name System) and net neutrality. The form is designed to be completed by users who wish to assess their understanding of these critical concepts in the digital landscape. The purpose of this form is to evaluate user comprehension and knowledge in these areas. Please note that this form was not created using any proprietary platforms or content, but rather as an original adaptation of public survey topic metadata. Therefore, it does not require any affiliation, endorsement, or derivation from any specific form platform. It is released under the Creative Commons BY 4.0 license, allowing for free use, modification, and even commercial use, with proper credit given. Contact information for the form creators can be found at "form@gic.mx".
-
-</thinking>
-
 # internet-governance-knowledge-quiz - Help Guide
 ## Purpose
 This form is intended to test your knowledge on internet governance-related topics, specifically DNS and net neutrality.

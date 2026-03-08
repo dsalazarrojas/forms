@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from teachers and educators about their awareness and usage of Information and Communication Technology (ICT) in education. This quiz aims to assess their understanding of the importance, usage, and challenges related to ICT in their teaching practices.</thinking>
-
 # ICT In Education Awareness Quiz - Help Guide
 ## Purpose
 This form is designed to gather information from teachers and educators about their awareness and usage of Information and Communication Technology (ICT) in education.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for creating price quotes, likely for sales or estimation purposes within a company. The form is likely used to collect information from customers or clients to provide a quote for a specific product or service. It's essential to ensure that the form is filled out accurately and thoroughly to generate a valid quote. Please ensure this is the correct form for your intended use case. 
-
-If you're not sure which form to use, please refer to your organization's guidelines or consult with a colleague. 
-
-Before proceeding, please review this form carefully to ensure you have all the necessary information to complete it accurately. 
-
-The following is a step-by-step guide to help you fill out this form correctly:
-
-</thinking>
-
 # price_quote_kf - Help Guide
 ## Purpose
 The price_quote_kf form is designed to collect information for creating price quotes. It includes sections for quote details, contact information, and quote terms acceptance. This form helps to ensure accurate and clear communication between the sales team and the customer.

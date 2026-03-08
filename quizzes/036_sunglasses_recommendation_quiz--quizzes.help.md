@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a Sunglasses Recommendation Quiz that helps users identify their ideal sunglasses style based on their preferences. It's a simple, text-based input form with no predefined options or validation rules. The form's purpose is to gather user input to provide a personalized recommendation.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It's a public adaptation of a survey topic, created using a combination of metadata from public sources.
-
-Before proceeding, check that you're not duplicating the form, and ensure that you're not using proprietary content. Feel free to use, modify, and even sell forms derived from this, just give credit.
-</thinking>
-
 # Sunglasses Recommendation Quiz - Help Guide
 ## Purpose
 This form is designed to be used as a Sunglasses Recommendation Quiz to help users identify their ideal sunglasses style based on their preferences.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect basic information from customers or clients about their insurance needs, medical history, and other relevant details. The purpose of this form is to gather data that can be used to assess their risk factors and provide relevant insurance quotes or recommendations. The form is composed of 10 pages, each with a unique name, label, and type (text). The following is a step-by-step guide on how to complete the Insurance Form Questionnaire.
-
-</thinking>
-
 # Insurance Form Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about your insurance needs and medical history for the purpose of assessing risk factors and providing relevant insurance quotes or recommendations.

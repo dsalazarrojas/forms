@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect property information for real estate agents to record and manage properties. The form should only be completed for properties that are currently active or under sale. It's essential to fill out the form accurately to avoid duplication and ensure correct property information is recorded.
-
-</thinking>
-
 # Property Information Form - Help Guide
 ## Purpose
 This form is used to collect and record property information for real estate agents. Complete this form for properties that are currently active or under sale.

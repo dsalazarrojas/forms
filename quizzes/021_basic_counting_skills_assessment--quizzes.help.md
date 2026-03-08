@@ -1,31 +1,3 @@
-<thinking>Let's break down the form purpose and structure to create a comprehensive help guide for end users.
-
-The purpose of this form is to assess a student's basic counting skills, including their ability to count from 1 to 5, 1 to 10, count objects, and recognize numerals. The form is divided into six sections: Student Information, Counting to 5, Counting to 10, Counting Objects, Number Recognition, and Overall Assessment. Each section assesses different aspects of the student's counting skills, providing a comprehensive evaluation of their abilities.
-
-The form requires the following information from the student:
-* Student name
-* Student age
-* Grade level
-* Assessment date
-* Teacher name
-* Counting to 5:
-	+ Can the student count from 1 to 5?
-	+ Are the numbers in correct order?
-* Counting to 10:
-	+ Can the student count from 1 to 10?
-	+ Counting accuracy for 1-10
-* Counting Objects:
-	+ Can the student count 5 objects correctly?
-	+ Can the student count 10 objects correctly?
-* Number Recognition:
-	+ Recognizes numerals 1-5?
-	+ Recognizes numerals 1-10?
-* Overall Assessment:
-	+ Student strengths in counting
-	+ Areas for development
-	+ Overall counting skill level
-	+ Recommendations for practice</thinking>
-
 # Basic Counting Skills Assessment - Help Guide
 ## Purpose
 This form is designed to assess a student's basic counting skills, including counting from 1 to 5, 1 to 10, counting objects, and recognizing numerals. The form provides a comprehensive evaluation of the student's abilities and identifies areas for improvement.

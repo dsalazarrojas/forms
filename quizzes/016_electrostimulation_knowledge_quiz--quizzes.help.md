@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help users understand their knowledge about electrosimulation devices. Electrostimulation devices are used in various medical and non-medical settings, and this form aims to assess the user's familiarity with different aspects of electrosimulation technology.
-The purpose of this form is to evaluate the user's understanding of electrosimulation devices, their usage, safety risks, medical conditions, usage frequency, electrosimulation device type, correct usage, and usage duration.
-The form will be useful for users who want to improve their knowledge about electrosimulation devices and their applications.
-</thinking>
-
 # Electrostimulation Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge about electrosimulation devices. It is intended for users who want to evaluate their understanding of electrosimulation technology and its various aspects.

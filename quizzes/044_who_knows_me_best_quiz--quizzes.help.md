@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users assess their relationships with their friends. It is meant to be a fun, interactive way for users to determine who knows them best among their friends. To complete the form, users will be presented with a series of questions that ask about their relationships with their friends. The form is not intended to be a serious assessment of one's friendships, but rather a lighthearted way to explore and discuss relationships.
-
-This form is designed to be user-friendly and easy to complete, with clear instructions and labels for each field. However, if the user is unsure about any part of the form, it may be helpful to read the help guide for further clarification.
-
-</thinking>
-
 # Who Knows Me Best Quiz - Help Guide
 ## Purpose
 The "Who Knows Me Best Quiz" form is a fun and interactive tool designed to help you assess your relationships with your friends. It presents a series of questions that ask about your friendships, and provides you with a lighthearted way to explore and discuss your relationships.

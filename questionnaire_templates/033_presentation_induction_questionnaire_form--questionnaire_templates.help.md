@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather essential information from presenters and attendees about presentations during induction sessions. This form is likely used for tracking and record-keeping purposes within the organization. To confirm, you can check if this form is already filled out by looking for a unique identifier (ID) or timestamp in the form name. If not, please ensure you are not filling out the same form that is still active.
 
 # Presentation Induction Questionnaire Form - Help Guide

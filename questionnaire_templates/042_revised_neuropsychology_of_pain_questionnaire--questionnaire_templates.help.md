@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient's experiences with pain, including their pain scales, pain history, medical history, neuropsychological history, pain scores, medication, and characteristics of their pain. 
-
-We expect patients to fill out this form to help clinicians better understand their pain experiences and develop an accurate treatment plan. 
-
-Before proceeding, please ensure this is the correct form for your use case and that you have not already filled out this form for the same patient. If you are unsure, please contact your clinician or supervisor.
-</thinking>
-
 # revised_neuropsychology_of_pain_questionnaire - Help Guide
 ## Purpose
 The revised neuropsychology of pain questionnaire is a tool used to collect patient information about their pain experiences. This form will help clinicians understand patients' pain scales, history, and characteristics to develop an effective treatment plan.

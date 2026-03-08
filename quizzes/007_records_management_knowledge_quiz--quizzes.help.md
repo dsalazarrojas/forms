@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Records Management Knowledge Quiz - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients for the digital discovery process. This process aims to identify and mitigate potential issues or risks that may affect the client's business or organization. The form is designed to gather essential details from clients about their goals, challenges, and expectations for the digital transformation project.
-</thinking>
-
 # Digital Discovery Client Questionnaire - Help Guide
 ## Purpose
 The Digital Discovery Client Questionnaire is a crucial step in the digital transformation process, helping us understand your business needs and challenges. This form will guide you through a series of questions to ensure we have a clear understanding of your requirements. Please answer the questions as accurately as possible, as this information will help us provide effective solutions for your project.

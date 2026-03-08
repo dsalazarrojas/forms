@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, I'd like to clarify that this form is designed to test office software shortcuts, which are often used by office workers to improve their productivity. It's a fun and interactive way to assess one's knowledge of these shortcuts, which can be useful in real-world office settings. This form is not intended to be a comprehensive guide to office software shortcuts, but rather a quick assessment of one's familiarity with common ones. I'll make sure to keep this in mind while writing the guide to ensure it's clear and concise.</thinking>
-
 # Office Software Shortcuts Quiz - Help Guide
 ## Purpose
 The Office Software Shortcuts Quiz is a fun and interactive assessment designed to test your knowledge of common office software shortcuts. This quiz aims to evaluate your familiarity with shortcuts used in various office software applications, such as Microsoft Office and Google Docs.

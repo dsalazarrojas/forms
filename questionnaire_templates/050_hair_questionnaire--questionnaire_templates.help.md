@@ -1,9 +1,3 @@
-<thinking>
-I will assume the form is used for collecting information from clients or customers about their hair, likely for services such as hair salons or spas. The form asks for details about their hair length, color, type, condition, dryness, and damage. Additionally, it gathers information about their interests in specific products and treatments. This form seems to be primarily used for consultation purposes, helping stylists or consultants create a customized plan for the client's hair needs.
-
-I do not see any obvious overlap with other forms in this context, so this form is likely a standalone tool for collecting client hair information.
-</thinking>
-
 # Hair Questionnaire - Help Guide
 ## Purpose
 This form is designed to help our stylists and consultants understand your hair needs, preferences, and requirements. Please answer the questions accordingly, and we will create a personalized plan tailored to your hair type and needs.

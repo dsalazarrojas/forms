@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, the form is meant to be filled out by users who need to assess their physical activity readiness, particularly for exercise or sports participation. This form is used to determine if a person has any physical limitations or restrictions that may prevent them from engaging in certain activities. 
-</thinking>
-
 # Physical Activity Readiness Questionnaire (PAR Q) - Help Guide
 ## Purpose
 The Physical Activity Readiness Questionnaire (PAR Q) is designed to help individuals self-assess their physical activity readiness. It is meant to be filled out by users who need to determine if they have any physical limitations or restrictions that may prevent them from engaging in exercise or sports participation.

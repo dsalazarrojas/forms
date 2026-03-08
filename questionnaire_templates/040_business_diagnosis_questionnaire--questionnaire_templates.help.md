@@ -1,21 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand the Business Diagnosis Questionnaire form, which is used to gather essential information about a business's current state and outlook. The form is designed to help businesses identify areas of improvement and make informed decisions about their operations and strategy. This guide will walk you through each section and field, explaining what information is being collected and why it's important.
-
-Before filling out the form, please note that the answers provided should reflect the current state of your business. If there have been recent changes or significant events, such as mergers or acquisitions, that may impact your responses, please consider these factors when answering the questions.
-
-The form is divided into several sections, each exploring a different aspect of your business. The following sections will be covered in this guide:
-
-* Business Overview
-* Financials
-* Operational Performance
-* Market and Competition
-* Customer and Product
-
-This guide will cover each field in these sections, explaining what information is being collected and its relevance to your business's diagnosis.
-
-</thinking>
-
 # Business Diagnosis Questionnaire - Help Guide
 
 ## Purpose

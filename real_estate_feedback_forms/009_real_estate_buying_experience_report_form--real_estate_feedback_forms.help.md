@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their real estate buying experience. This feedback will help us evaluate our services and make improvements for future customers. The form is designed to be completed by customers who have purchased a property and would like to share their thoughts and opinions about their experience. To ensure accurate feedback, please ensure that you have actually purchased a property through our agency. If you have any questions or concerns, please reach out to us directly.
-</thinking>
-
 # Real Estate Buying Experience Report Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their real estate buying experience. Please take a few minutes to complete this form and share your thoughts on your recent purchase.

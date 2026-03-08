@@ -1,13 +1,3 @@
-<thinking>
-
-The "Exercise Metabolism Quiz" form is designed to help users understand their metabolic rate based on their exercise habits, fitness goals, and other relevant health and lifestyle factors. This form is intended for individuals looking to estimate their basal metabolic rate (BMR) and understand their energy expenditure. The quiz is not a medical evaluation, and the results should not be considered as a substitute for professional medical advice.
-
-Before proceeding, please ensure that you have not filled out this form previously, as the results may not be accurate if your previous responses are still stored in the system.
-
-After completing this form, you will have a better understanding of your metabolic rate and energy expenditure. This knowledge can help you set realistic goals, track your progress, and make informed decisions about your exercise routine and nutrition.
-
-</thinking>
-
 # Exercise Metabolism Quiz - Help Guide
 ## Purpose
 This form helps you estimate your basal metabolic rate (BMR) and understand your energy expenditure based on your exercise habits, fitness goals, and other relevant health and lifestyle factors.

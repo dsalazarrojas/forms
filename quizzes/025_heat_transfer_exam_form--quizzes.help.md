@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to collect information about the user's response to the heat transfer process, specifically asking multiple choice and free-form questions about their experiences and perceptions. This form is not to be filled in duplicate. Please ensure you fill this form only once and report any issues with the heat transfer process you encountered.</thinking>
-
 # heat_transfer_exam_form - Help Guide
 ## Purpose
 The heat transfer exam form is a tool used to gather user feedback about their experiences with the heat transfer process. This form aims to collect detailed information on various aspects of the process, including questions and free-form answers.

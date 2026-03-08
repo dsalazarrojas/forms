@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback or answers from users on a weekly science-related topic. The form consists of a single page with two main fields: "questions" and "answers". The "questions" field is a multi-select field that allows users to choose one or multiple options from a list of three options. The "answers" field is a single-select field that allows users to choose one option from a list of three options. There is also a "submit" field, which is not actually a field for collecting data but rather a placeholder for the form's completion button. This form does not collect any user data and is likely a placeholder for a more complex form structure.
-</thinking>
-
 # Weekly Science Quiz - Help Guide
 ## Purpose
 This form is designed to collect user feedback or answers on a weekly science-related topic.

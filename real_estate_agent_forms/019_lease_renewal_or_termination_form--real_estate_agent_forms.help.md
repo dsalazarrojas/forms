@@ -1,7 +1,3 @@
-<thinking>
-We should verify that the form is being used for its intended purpose and not for other similar forms, such as lease applications or lease agreements. We should also be cautious of duplication of effort by ensuring that users fill out all required fields and avoid unnecessary information.
-</thinking>
-
 # Lease Renewal Or Termination Form - Help Guide
 ## Purpose
 The Lease Renewal Or Termination Form is a form used to manage the renewal or termination of a lease. It helps you to document the details of the lease end date, renewal request, and any termination reason. This form is essential for landlords and tenants to communicate and agree on lease terms.

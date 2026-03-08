@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a rental property reference request. It is intended for real estate professionals and property owners to provide details about a rental property that a potential tenant or renter is inquiring about. The form is not meant to be a comprehensive rental agreement or contract, but rather a tool to facilitate communication and gather relevant information about the property. This form does not duplicate or copy content from any other form creation platform, but rather uses public metadata as inspiration.
-
-</thinking>
-
 # Rental Reference Request - Help Guide
 ## Purpose
 The Rental Reference Request form is designed to collect information from real estate professionals and property owners to provide details about a rental property that a potential tenant or renter is inquiring about.

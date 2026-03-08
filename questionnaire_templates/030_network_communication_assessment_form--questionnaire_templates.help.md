@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to assess the network communication practices and effectiveness of a team or organization. It is meant to be completed by team members or stakeholders to gather information about their communication habits, collaboration frequency, and communication channels. The form will be used to identify areas of improvement and provide insights for enhancing team communication and collaboration.
-
-To complete this form, follow the steps below:
-
-1.  Review each page to ensure you have all the necessary information before submitting the form.
-2.  Answer each question or select an option that best describes your team's or organization's practices.
-3.  Provide additional comments or feedback where necessary.
-4.  Submit the form once you have completed all the sections.
-
-This form is for internal use only, please do not submit this form if you are not affiliated with the organization.
-
-</thinking>
-
 # Network Communication Assessment Form - Help Guide
 ## Purpose
 The Network Communication Assessment Form is designed to help teams and organizations evaluate their communication practices, collaboration frequency, and communication channels.

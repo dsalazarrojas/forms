@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating a quiz related to the European Monetary System (EMS). The EMS is a framework for economic policy that regulates economic and financial relations among member countries. This form will guide users through the process of creating a quiz that covers this topic.
-</thinking>
-
 # European Monetary System Quiz - Help Guide
 ## Purpose
 This form is designed to help users create a quiz related to the European Monetary System (EMS). The quiz will cover the EMS framework and its applications.

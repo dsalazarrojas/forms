@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Selling Questionnaire - Help Guide
 
 ## Purpose

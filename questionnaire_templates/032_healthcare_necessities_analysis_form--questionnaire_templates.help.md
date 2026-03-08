@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information about a patient's health necessities and context. It is likely used by healthcare providers to conduct a thorough analysis of a patient's needs and requirements. 
-
-The form is likely used in conjunction with other healthcare-related forms and data to ensure that patients receive the necessary care and attention.
-
-Before proceeding, please ensure that you have access to the relevant information and context. You may need to consult with other healthcare staff or review existing patient records to complete this form accurately. 
-
-</thinking>
-
 # Healthcare Necessities Analysis Form - Help Guide
 ## Purpose
 The Healthcare Necessities Analysis Form is designed to gather essential information about a patient's health context and necessities. This form helps healthcare providers assess the patient's needs and plan appropriate care.

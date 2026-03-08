@@ -1,5 +1,3 @@
-<thinking>...I will create a user-facing help guide for the "pre_qualification_questionnaire" form...</thinking>
-
 # pre_qualification_questionnaire - Help Guide
 ## Purpose
 The pre-qualification questionnaire is a form used to gather information about a candidate's background and qualifications. This form is intended to help evaluate a candidate's suitability for a position or program and is typically used in the initial stages of the hiring process.

@@ -1,8 +1,3 @@
-<thinking>
-We will be creating a help guide for the "Cybersecurity Client Security Inquiry Form". This form is designed to gather information from clients about their security concerns and potential risks. The form aims to identify and address these risks to improve the client's overall security posture.
-We should check that this form is not being used in a context where it would be redundant or unnecessary. For example, if the client has already completed a similar form in the past, we may not need to have them fill out this form again. However, in most cases, this form will be useful in helping us understand the client's security needs and take steps to address them.
-</thinking>
-
 # Cybersecurity Client Security Inquiry Form - Help Guide
 ## Purpose
 The Cybersecurity Client Security Inquiry Form is designed to help us understand the client's security concerns and identify potential risks. It is a simple and straightforward form that asks for basic information about the client and their security inquiry. Please take a few minutes to fill it out and let us know how we can assist you.

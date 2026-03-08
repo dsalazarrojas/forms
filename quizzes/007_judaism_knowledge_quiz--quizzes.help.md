@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for collecting information about a quiz related to Judaism, specifically for tracking the performance of students in a class. 
-The form should not be used for other purposes.
-The form has multiple pages, but only the first page is being filled out by the user. The purpose of this page is to gather basic student information and their class type and name.
-</thinking>
-
 # Judaism Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about a quiz related to Judaism, specifically for tracking the performance of students in a class. It is not intended for any other purpose.

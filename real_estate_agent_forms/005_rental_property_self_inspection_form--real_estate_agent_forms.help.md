@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information for self-inspection of rental properties. 
-It is used by real estate agents to document their findings on the condition of a property. 
-The form may be used by the agent for internal purposes, for instance, for quality control, or it may be used as a basis for communication with the property owner or tenant.
-</thinking>
-
 # Rental Property Self Inspection Form - Help Guide
 ## Purpose
 This form is used to gather information about the condition and status of a rental property after inspection. 

@@ -1,7 +1,3 @@
-<thinking>
-The "Real Estate Counter Offer Form" is designed to gather information from real estate agents regarding their counter offers or counter acceptance on a property. This form helps in tracking and organizing such offers to ensure accurate and timely follow-up actions.
-</thinking>
-
 # Real Estate Counter Offer Form - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-To prevent duplication and ensure relevance, we need to verify that the form is being used for its intended purpose and not for other purposes that could potentially lead to misinformed answers or actions.
-
-This form is designed to educate and inform healthcare professionals about the best practices for preventing central line infections. The form is meant to assess a user's knowledge and understanding of central line infection prevention and management.
-
-To prevent duplication, we should ensure that users are not taking the quiz multiple times.
-
-</thinking>
-
 # Central Line Infection Quiz - Help Guide
 ## Purpose
 This form is designed to educate and inform healthcare professionals about the best practices for preventing central line infections. It assesses a user's knowledge and understanding of central line infection prevention and management.

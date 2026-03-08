@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form, "prosocial_behavior_quiz", is likely to gather information about the social behavior of individuals working or interacting with different groups or categories, such as educators, students, parents, teachers, trainers, admins, and others. This form seems to aim at collecting responses from various groups, possibly for survey or research purposes.
-
-To avoid duplication and ensure consistency, I will assume that the form is designed to collect responses from each group once, with the option to select all applicable categories. This will help the user understand the form's purpose and navigate through it effectively.
-
-</thinking>
-
 # prosocial_behavior_quiz - Help Guide
 ## Purpose
 This form is designed to collect information about the social behavior of different groups, including educators, students, parents, teachers, trainers, admins, and others. It helps gather data for research or survey purposes.

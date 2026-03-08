@@ -1,11 +1,3 @@
-<thinking>
-This form is a quiz that helps identify the type of sentence. It has six questions that ask the user to select the correct type of sentence among four options: Declarative, Interrogative, Imperative, or Exclamatory. The form is designed to assess the user's understanding of sentence types and their characteristics. To ensure the user understands the purpose and content of this form, this guide has been prepared to provide clear instructions and explanations.
-
-This form does not duplicate or copy any existing form from other platforms, and it's an original adaptation created using AI. It's released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it while giving credit.
-
-Please read on for more information on how to use this form and each field explanation.
-</thinking>
-
 # Sentence Type Identification Quiz - Help Guide
 
 ## Purpose

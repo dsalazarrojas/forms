@@ -1,5 +1,3 @@
-<thinking>... I understand the form is a tool for creating RPG characters within a game or other role-playing context. I see that the form includes fields for basic character details, background, and player involvement. To ensure that each form submission is unique and relevant, I'm thinking about how to guide the user through the fields in a way that encourages them to complete the form correctly and thoroughly. I want to explain each field in a way that's clear and easy to understand, even for users who might not be familiar with RPG character creation. I'll also consider any special requirements or hints that might help the user complete the form correctly. Now, let's output the help guide in Markdown... </thinking>
-
 # RPG Character Background Form - Help Guide
 ## Purpose
 This form is designed to help you create a detailed and immersive character background for your RPG game or story. Please fill out this form to provide the essential details about your character, including their name, race, class, backstory, and level of involvement in the game world.

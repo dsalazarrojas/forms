@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from clients who are seeking safety consulting services from a safety consultant. The form is designed to gather essential details about the client, including their name, email, and physical address. It also aims to capture the client's quote for the consultant's services, which will likely involve a description of the work required or a fee for the services. Additionally, the form includes a dropdown menu to select the type of consultant services requested, such as safety audit and compliance, risk assessment, training and development, or other services. This form is not affiliated with any specific form platform and is an original creation, adapted using public survey topic metadata. It is released under the Creative Commons Attribution 4.0 license, allowing users to modify and even sell derived forms while giving credit.
-
-</thinking>
-
 # Safety Consultant Quote Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients who are seeking safety consulting services. It will help you gather details about the client, including their contact information, services required, and any additional comments or requests.

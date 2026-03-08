@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The following is an internal reasoning block to check for relevance and non-duplication:
 
 This form is designed to gather information from new homeowners in a community, likely for administrative or organizational purposes. The form appears to be a comprehensive guide for new residents to understand the community's rules, regulations, and contact information. It may also be used for orientation or onboarding purposes to ensure new homeowners are well-acquainted with the community's policies and guidelines. The fields provided cover various aspects of community living, including emergency contact information, property details, and rules and regulations. Reviewing the form structure reveals that it's likely not a traditional survey or transactional form but rather a document used for community management and communication with residents.

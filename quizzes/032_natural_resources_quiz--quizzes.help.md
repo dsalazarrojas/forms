@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Natural Resources Quiz - Help Guide
 ## Purpose
 The Natural Resources Quiz is designed to gauge your understanding of natural resources, conservation practices, and sustainable management methods. This quiz aims to assess your knowledge in these critical areas to help identify potential knowledge gaps and provide insights for further learning.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from a property owner or tenant regarding the property's address, rent amount, type, and other relevant details. The form also collects personal information from the property owner or tenant, such as their name, contact details, and employment history. Additionally, the form includes fields for sensitive information like criminal record status and description. Please note that this form is not for general public consumption; it is intended for internal use within the real estate industry or for specific business purposes.
-</thinking>
-
 # Property And Tenant Information Form - Help Guide
 ## Purpose
 This form is designed to gather essential details about a property and its owner or tenant. It will help the relevant parties to understand the property's characteristics, the rent amount, and other relevant information.

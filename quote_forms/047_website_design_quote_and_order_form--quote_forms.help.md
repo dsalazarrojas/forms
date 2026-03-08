@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Website Design Quote And Order Form". This form is designed to collect information from users about their website design needs, including their name, contact details, services required, and any additional quote or message. The form is used to provide quotes and orders for website design services. It is intended to be simple and easy to use, with clear instructions and field explanations to help users complete it successfully. We will follow the provided YAML structure and fields to create a concrete, concise, and practical help guide.
-
-</thinking>
-
 # Website Design Quote And Order Form - Help Guide
 ## Purpose
 The Website Design Quote And Order Form is designed to collect information about your website design needs. Please fill out this form to get a quote or order for our website design services.

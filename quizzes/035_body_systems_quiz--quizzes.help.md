@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended to assess the user's knowledge of human anatomy and physiology, specifically related to the body systems, such as circulatory, respiratory, and skeletal systems. It appears to be a quiz that requires multiple-choice answers to questions related to various body systems and their functions. I'm assuming the form is meant to be completed by individuals who are likely students or healthcare professionals looking to test their knowledge. To avoid duplication of answers, I'll focus on providing a concise and practical help guide.
-</thinking>
-
 # Body Systems Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of human anatomy and physiology by asking a series of multiple-choice questions related to the body systems. Each question is intended to assess your understanding of the specific system's functions and components.

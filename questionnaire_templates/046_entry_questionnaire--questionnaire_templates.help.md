@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Entry Questionnaire" form, I'll first consider the form's purpose and the fields included in the YAML definition. The form appears to be designed for collecting data related to entry or intake processes, possibly for programs or initiatives. The fields suggest collecting information about the program name, date of intake, reason for entry, staff member involved, entry location, contact email, and contact phone numbers. The fields are primarily text or date fields, indicating the form is likely used for collecting free-formatted responses or specific dates.
-
-To avoid duplication and ensure the form is used correctly, the help guide will cover the form's purpose, the step-by-step process for completing it, and an explanation of each field to help users understand their significance and expected inputs.
-
-</thinking>
-
 # Entry Questionnaire - Help Guide
 ## Purpose
 The "Entry Questionnaire" form is designed to collect information about entry or intake processes, including program details, dates, staff involvement, and contact information. This form helps ensure accurate and complete data collection for subsequent processing or analysis.

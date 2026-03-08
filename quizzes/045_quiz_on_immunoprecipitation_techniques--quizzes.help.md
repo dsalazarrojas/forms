@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their knowledge and experience with immunoprecipitation techniques. The form is intended for users who have worked with immunoprecipitation methods and want to share their insights or take the quiz to test their knowledge. This form should only be filled out by users who have actual experience or knowledge on the topic, as it's meant to be a serious assessment of immunoprecipitation techniques.</thinking>
-
 # Quiz On Immunoprecipitation Techniques - Help Guide
 ## Purpose
 

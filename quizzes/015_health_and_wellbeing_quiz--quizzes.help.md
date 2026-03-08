@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's overall health and wellbeing. It is not intended for individuals who have experienced severe trauma or stress, as it may not be suitable for them. Please note that this form is for general purposes only and is not a substitute for professional medical advice. If you have concerns about your health, please consult a medical professional.
-</thinking>
-
 # Health And Wellbeing Quiz - Help Guide
 ## Purpose
 The Health And Wellbeing Quiz is a short, self-assessment tool designed to provide an initial indication of an individual's overall wellbeing. It helps identify potential areas that may benefit from attention or support.

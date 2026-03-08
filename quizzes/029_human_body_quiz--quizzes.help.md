@@ -1,9 +1,3 @@
-<thinking>
-This form design task aims to create a user-facing help guide for the "Human Body Quiz" form. The form is designed to collect information from users about their knowledge of human body anatomy. It seems to be a simple quiz that asks users to identify and select various parts of the human body. The goal is to ensure that users understand the purpose and requirements of the form, as well as how to complete it accurately.
-The form has 8 fields, each with a label, type, and optional or required status. The fields include text input, multiple select options, select one options, date input, and number input. The form is likely used for educational or educational-related purposes.
-Before creating the help guide, I need to ensure that the form's purpose and requirements are clear and concise. I also need to verify that the form's design and functionality are well-suited for its intended use.
-</thinking>
-
 # Human Body Quiz - Help Guide
 ## Purpose
 The Human Body Quiz is a form designed to test your knowledge of the human body. It consists of a series of questions that ask you to identify different parts of the human body.

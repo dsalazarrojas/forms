@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Publishing Experience Feedback Questionnaire - Help Guide
 
 ## Purpose

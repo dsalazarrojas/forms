@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skin Type Assessment Quiz - Help Guide
 ## Purpose
 This form is designed to assess the skin type of individuals. The form consists of questions that help to categorize your skin type into one of the two main categories: 'Yes' or 'No' responses to skin concerns, and a final review section for additional comments.

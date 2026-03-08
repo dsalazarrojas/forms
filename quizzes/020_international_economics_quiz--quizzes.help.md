@@ -1,10 +1,3 @@
-<thinking>
-The form, titled "international_economics_quiz", is designed to collect user data for international economics-related quizzes. This form is likely used for educational or research purposes. To ensure that the form is completed accurately and efficiently, it's essential to understand its purpose and how to navigate through it. This guide will walk you through the form's purpose, how to complete it, and explain each field to help users fill it out correctly.
-
-This form has 25 fields, covering a variety of question types, including text, email, date, time, note, and select_one/select_multiple options. Some fields are optional, while others are required, depending on their type and id.
-
-</thinking>
-
 # international_economics_quiz - Help Guide
 ## Purpose
 The "international_economics_quiz" form is designed to collect user data for international economics-related quizzes. This form is intended for educational or research purposes.

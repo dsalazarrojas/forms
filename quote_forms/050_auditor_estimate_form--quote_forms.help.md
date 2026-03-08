@@ -1,7 +1,3 @@
-<thinking>
-The Auditor Estimate Form is a crucial tool for clients to provide their auditor selection preferences and expectations. This form helps our firm understand the client's needs, ensuring that we can provide the best possible services and meet their expectations. It's essential to complete this form accurately to help us serve you better. Please review the fields below and fill them out carefully.
-</thinking>
-
 # Auditor Estimate Form - Help Guide
 
 ## Purpose

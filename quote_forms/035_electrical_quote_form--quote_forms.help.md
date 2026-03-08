@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a basic electrical quote form, likely used by sales or technical teams in an electrical services or contracting company. This form aims to collect information about customers, their site visits, and job details to facilitate quote generation and other administrative tasks. The form should be easily understandable by both internal users and end-users. It seems like the form is intended for customers or potential customers to provide their contact information, site details, and job specifics. The form fields are straightforward and cover the necessary aspects of the job. The form does not seem to be highly specialized or complex, which means it should be easily accessible and fillable by a wide range of users.
-</thinking>
-
 # Electrical Quote Form - Help Guide
 ## Purpose
 This form is designed to collect information about customers and their job details for quote generation and other administrative tasks.

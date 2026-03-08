@@ -1,9 +1,3 @@
-<thinking>
-The Handyman Quote Request Form is designed to allow users to quickly and efficiently request a quote for handyman services. This form ensures that users provide necessary information to help us better understand their needs and provide accurate quotes.
-This form is not a general inquiry form, rather, it's a specific form designed to gather essential details for a quote. Please fill out this form carefully and thoroughly, and do not submit duplicate requests.
-Before filling out the form, please make sure that you have all the required information ready, such as your home address, email, and phone number.
-</thinking>
-
 # Handyman Quote Request Form - Help Guide
 ## Purpose
 The Handyman Quote Request Form is designed to collect essential information from you so that we can provide an accurate quote for our services. This form is not for general inquiries, but rather for specific quote requests.

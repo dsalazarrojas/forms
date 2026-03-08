@@ -1,6 +1,4 @@
-> <thinking> This form is a setup form for the Math Alarm System, designed to allow users to configure their math application settings. The form is used to select the type of math problem or challenge, choose the level of difficulty, select the type of alarm to receive, and set the time interval and time of day for notifications. The form also allows users to choose the language and timezone for the math application, select the type of math challenge, and set the interval and duration for math challenges. The form is optional, and users can choose to save or not save their changes to apply them to the math application. </thinking>
-
-# Math Alarm Setup Form - Help Guide
+> # Math Alarm Setup Form - Help Guide
 ## Purpose
 The Math Alarm Setup Form is a configuration tool for the math application, allowing users to customize their settings for notifications and challenges.
 

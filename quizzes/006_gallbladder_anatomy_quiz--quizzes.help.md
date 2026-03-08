@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, I need to understand the form's purpose and the context in which it will be used. The form appears to be a quiz on gallbladder anatomy, specifically focused on various structures, conditions, and processes related to the gallbladder. However, I need to clarify the form's purpose and target audience to ensure the help guide is accurate and relevant. If the form is intended for medical professionals, students, or a general audience, this will impact the tone and content of the help guide.</thinking>
-
 # Gallbladder Anatomy Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to test your knowledge of gallbladder anatomy. It is intended to be a self-assessment tool for medical professionals, students, or anyone interested in the anatomy of the gallbladder.

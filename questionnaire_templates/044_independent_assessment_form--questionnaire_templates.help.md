@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather independent assessment information from evaluators about a project. It is used to record the evaluation process, including the project name, evaluator name, score, comments, and other relevant details. This form is used for tracking and management purposes, and the information collected will be used to make informed decisions about project progress and evaluation outcomes.
-</thinking>
-
 # Independent Assessment Form - Help Guide
 ## Purpose
 This form is used to collect and record information from evaluators about the assessment of a project.

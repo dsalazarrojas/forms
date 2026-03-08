@@ -1,5 +1,3 @@
-<thinking>...This form is intended for real estate sellers to report any potential hazards and disclose relevant property information to potential buyers. The purpose of this form is to ensure transparency and provide buyers with a clear understanding of any issues that may affect the property. The form will be reviewed and processed internally, and the results will be shared with the buyer. Please ensure that the form is completed accurately and thoroughly, as it is a critical part of the buying process.</thinking>
-
 # Seller Disclosure Form - Help Guide
 
 ## Purpose

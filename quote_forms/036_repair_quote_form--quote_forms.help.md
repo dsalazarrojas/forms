@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a quote request form for customers who are interested in getting some kind of repair services. It might be used to gather information about customers' contact information, repair specifics, and payment terms. 
-</thinking>
-
 # Repair Quote Form - Help Guide
 ## Purpose
 The Repair Quote Form is designed to gather information from customers who are interested in getting some kind of repair services. This form will be used to create a quote for the customer based on the information provided.

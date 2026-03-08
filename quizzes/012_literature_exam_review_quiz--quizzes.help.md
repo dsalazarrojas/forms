@@ -1,18 +1,3 @@
-<thinking>
-This form is a Literature Exam Review Quiz. Its purpose is to assess a user's knowledge of literature-related topics. The form is a series of multiple-choice questions, allowing the user to select multiple answers for each question. This form is designed to be completed by individuals who have taken an exam or course on literature and want to review their knowledge.
-
-The form has 25 questions, each with multiple answer options. The user can select one or more answers for each question.
-
-The form is used to review and assess knowledge, so it is assumed that the user has already taken the exam or course and is familiar with the material.
-
-To complete the form, the user will select one or more answers for each question, and submit their responses.
-
-Each question on the form is an opportunity to review and reinforce one's knowledge of literature-related topics. The user is encouraged to take their time and select the answers that best match their understanding of the material.
-
-This guide will help you navigate the form and complete it effectively.
-
-</thinking>
-
 # Literature Exam Review Quiz - Help Guide
 ## Purpose
 This form is a literature exam review quiz designed to assess your knowledge of literature-related topics.

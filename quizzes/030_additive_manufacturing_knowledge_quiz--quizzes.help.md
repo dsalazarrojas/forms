@@ -1,14 +1,3 @@
-<thinking>
-This form design is used to assess knowledge on additive manufacturing, a type of 3D printing technology.
-This form is intended to be completed by participants, who will be asked to choose their answers to several questions on various aspects of additive manufacturing.
-Each question is designed to test the participant's knowledge on different aspects of additive manufacturing, such as materials, processes, and safety concerns.
-The form will record the participant's answers and display a total score at the end.
-It is recommended that participants answer each question carefully, as their answers will affect their final score.
-The questions are designed to be clear and concise, with multiple-choice options for each question.
-The "Participant name" field is required for scoring and feedback purposes.
-The "Email" field is optional, but recommended for participants who want to receive results and feedback.
-</thinking>
-
 # Additive Manufacturing Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge on additive manufacturing, a type of 3D printing technology.

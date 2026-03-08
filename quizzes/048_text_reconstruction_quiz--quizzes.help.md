@@ -1,10 +1,3 @@
-<thinking>
-This form is likely designed for a text reconstruction quiz, where users are presented with multiple sentences and asked to select the correct sentence or sentences that match the original text. The form's purpose is to test users' ability to identify and reconstruct sentences from a given text. Given the large number of fields with similar labels and options, it appears that the form may be testing users' attention to detail and ability to distinguish between correct and incorrect sentences. The fields with "correct_answer" labels are likely used to collect feedback or answers to the reconstruction task. The form's structure suggests that it is designed for educational or research purposes, possibly for assessing students' language processing skills.
-
-Please ensure that users understand the form's purpose and expectations before proceeding.
-
-</thinking>
-
 # text_reconstruction_quiz - Help Guide
 ## Purpose
 This form is designed for a text reconstruction quiz, testing users' ability to identify and reconstruct sentences from a given text.

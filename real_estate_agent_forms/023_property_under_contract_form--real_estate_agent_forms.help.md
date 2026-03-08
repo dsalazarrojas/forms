@@ -1,11 +1,3 @@
-<thinking>
-This form is used to record the details of a property under contract. The purpose of this form is to gather information about the property, its status, type, price, and buyer details. This form is likely used by real estate agents to keep track of properties that are currently under contract, and the information provided will help them to manage and analyze this data.
-
-Please note that the form fields are designed to be filled out by the user, but some fields are optional and do not require input. It's essential to review the form carefully and fill out all required fields to ensure that the data is complete and accurate.
-
-Before proceeding, let's ensure that this form is not being duplicated in the system and that all relevant fields are filled out.
-</thinking>
-
 # Property Under Contract Form - Help Guide
 ## Purpose
 This form is used to record the details of a property under contract, including its status, type, price, and buyer information. It helps real estate agents to track and manage properties that are currently under contract.

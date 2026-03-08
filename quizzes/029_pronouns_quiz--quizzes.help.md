@@ -1,10 +1,3 @@
-<thinking>
-The provided form is a "Pronouns Quiz" which is designed to test the user's knowledge and understanding of pronouns. The purpose of this form is to assess the user's ability to identify and use pronouns correctly in sentences.
-
-Before filling out this form, ensure that you have read and understood the instructions and guidelines provided below.
-
-</thinking>
-
 # Pronouns Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge and understanding of pronouns. It consists of multiple sections that require you to select the correct answers based on the provided sentences.

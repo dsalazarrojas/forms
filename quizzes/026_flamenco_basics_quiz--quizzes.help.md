@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "flamenco_basics_quiz" form, I will first analyze the provided YAML fields to understand the form's purpose and the required information to be collected.
-
-The form appears to be a quiz designed to gather basic information about a student's or teacher's experience with Flamenco, a dance style. The purpose of the form seems to be to collect demographic data and assess the respondent's familiarity with Flamenco. 
-
-The form has 12 fields, which can be categorized into three main sections: introductory questions, demographic information, and quiz questions. The required fields are: "name", "student_info", "student_phone", "teacher_info", "school_info", "school_name", "teacher_name", and "student_level", as well as "submit". 
-
-The form will be completed by providing the required information in the specified fields, and the user can select "Yes" or "No" to indicate whether they have experience with Flamenco.
-</thinking>
-
 # flamenco_basics_quiz - Help Guide
 ## Purpose
 The flamenco_basics_quiz form is designed to collect basic information about a student's or teacher's experience with Flamenco, a traditional dance style from Spain.

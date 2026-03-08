@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # math_and_teamwork_assessment - Help Guide
 ## Purpose
 This form is designed to assess a student's math skills and teamwork abilities. It is intended to evaluate their understanding of mathematical concepts and their ability to collaborate with others in problem-solving situations.

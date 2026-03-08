@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # issue-allocation-assessment-quiz - Help Guide
 ## Purpose
 The issue-allocation-assessment-quiz form is used to assess the skills and expertise of team members in various areas and scenarios. This quiz helps identify individual and collective strengths and weaknesses, aiding in the development and implementation of team projects and resource allocation.

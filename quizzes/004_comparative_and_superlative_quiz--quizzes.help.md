@@ -1,12 +1,3 @@
-<thinking>
-This form is a "Comparative And Superlative Quiz" designed to test the user's understanding of comparative and superlative forms of adjectives. The purpose of this quiz is to assess the user's ability to identify the correct form of adjectives to describe comparisons and superlatives. The quiz will evaluate the user's knowledge of comparative (e.g., bigger, more big) and superlative (e.g., tallest, most interesting) forms.
-
-This form is likely to be used in an educational setting, such as a language arts class, to check for understanding of grammar rules and usage.
-
-To prevent duplication, this quiz will only be taken once by each user.
-
-</thinking>
-
 # Comparative And Superlative Quiz - Help Guide
 
 ## Purpose

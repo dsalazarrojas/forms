@@ -1,5 +1,3 @@
-<thinking>This form is designed to evaluate performance and attention metrics in various contexts. It appears to be used for professionals in HR, education, and healthcare to assess their current role, performance, and attention requirements. This form may be used to gather feedback and track progress over time. To ensure accuracy, please note that each field has a specific purpose and should be filled out accordingly.</thinking>
-
 # Performance And Attention Evaluation - Help Guide
 
 ## Purpose

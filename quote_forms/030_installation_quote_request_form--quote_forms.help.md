@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information necessary for installation quotes, allowing customers to request a quote for a specific installation job. This form is likely used by sales teams to gather details about the job, contact information, and other relevant details to provide an accurate quote to the customer. The form might be used in various contexts, such as construction, home improvement, or other industries where installations are a crucial part of the business. It's essential to ensure that the form is filled out correctly to prevent duplication of effort and to provide the most accurate information for the quote.
-</thinking>
-
 # installation_quote_request_form - Help Guide
 ## Purpose
 The installation quote request form is designed to collect necessary information for installation quotes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Metamorphosis Assessment - Help Guide
 
 ## Purpose

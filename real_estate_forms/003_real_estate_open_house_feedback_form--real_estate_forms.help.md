@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect feedback from real estate agents, clients, or customers on an open house event. The feedback form should only be filled out by individuals who have attended an open house event. The form is not a duplicate if the user has already filled it out in the past 30 days. The real_estate_open_house_feedback_form is used to collect ratings, comments, and feedback on the event from the attendees. The form is required for the following fields: visitor_details, date, and agent.
-</thinking>
-
 # real_estate_open_house_feedback_form - Help Guide
 ## Purpose
 The real_estate_open_house_feedback_form is used to collect feedback from attendees on open house events. The form is used to gather information about the event, including the agent who conducted the open house, the date and time of the event, and any comments or ratings the attendee wants to provide.

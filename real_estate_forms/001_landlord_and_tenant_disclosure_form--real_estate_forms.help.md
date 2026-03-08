@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about a rental property, specifically regarding the landlord and tenant(s) involved. The purpose of this form is to gather details about the landlord's and tenant's contact information, occupancy status, and any other relevant information such as rental agreement terms. This form might be used in a rental setting to ensure clear communication and record-keeping between landlords and tenants. It's also possible that this form is intended for use in legal or compliance contexts, such as in tenant-landlord disputes or property management records.
-Checking the form's structure, it seems that it consists of 9 sections, all of which are text fields except for the "landlord_tenants" and "tenant_tenants" which are select multiple fields. The "landlord_tenants" and "tenant_tenants" fields allow users to select multiple tenants from a predefined list, while the remaining fields are open-ended text fields for users to input their information. The form does not require any of the fields to be filled out.
-The internal reasoning suggests that this form was created using AI, based on public survey topic metadata, and is released under a creative commons license.
-</thinking>
-
 # Landlord And Tenant Disclosure Form - Help Guide
 ## Purpose
 The Landlord And Tenant Disclosure Form is designed to collect information about a rental property, including landlord and tenant details.
