@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tournament Entry Fee Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gauge your opinion on the fairness and value of the entry fee associated with a tournament. Your input will help us understand how we can improve the overall experience and make necessary changes to the entry fee structure.

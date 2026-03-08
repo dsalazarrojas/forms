@@ -1,7 +1,3 @@
-<thinking>
-This guide will provide an overview of the Class 3 Consent Form, ensuring that end-users understand its purpose, how to complete it, and what each field represents.
-</thinking>
-
 # Class 3 Consent Form - Help Guide
 ## Purpose
 This form is used to gather essential information from parents or guardians for their child to participate in school activities, including field trips, classroom parties, and special projects. It's a critical document that requires careful completion to ensure the child's safety and well-being.

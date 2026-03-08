@@ -1,12 +1,3 @@
-<thinking>
-The seint_color_match_southern_glam form is designed to help clients find their perfect Southern Glamour match. This form is likely used in a beauty or spa setting to help stylists and colorists understand the client's preferences for their hair color. The form is divided into two main sections: one for color matching and another for service details.
-
-To ensure accurate color matching, the form asks the client to select their preferred color options, which will guide the stylist in making the correct selection for the hair color treatment. The client's preferences should be accurate to ensure the best possible results.
-
-Before filling out this form, please note that some fields are optional, but providing accurate information will help the stylist better understand your needs.
-
-</thinking>
-
 # seint_color_match_southern_glam - Help Guide
 ## Purpose
 The seint_color_match_southern_glam form is designed to help clients find their perfect Southern Glamour match. This form helps stylists and colorists understand the client's preferences for their hair color.

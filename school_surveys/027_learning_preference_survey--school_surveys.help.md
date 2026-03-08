@@ -1,13 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive user-facing help guide for the "Learning Preference Survey" form.
-
-This form is designed to gather information about a student's learning preferences and habits. The purpose of this form is to help educators and administrators understand how students prefer to learn and what factors influence their learning process.
-
-The form is divided into several sections, each representing different aspects of a student's learning experience. The form is intended to be completed by students, but it may also be useful for teachers, parents, or other stakeholders to gain insights into a student's preferences and habits.
-
-Before starting, please note that some fields are optional, and you can skip them if you're not comfortable providing information or if you're unsure about the answer. If you have any questions or concerns, feel free to ask your teacher or school administrator for assistance.
-
-</thinking>
-
 # Learning Preference Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your learning preferences and habits. Your responses will help us understand how you learn best and what factors influence your learning process.

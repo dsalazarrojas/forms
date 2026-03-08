@@ -1,5 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from tenants regarding their experiences with the property management team's resolution of their complaints. It will help us understand whether the tenants' issues have been adequately addressed and identify areas for improvement in our process. This form should only be filled out once per complaint resolution. Please note that if a complaint resolution is still active, this form may be incomplete, as the tenant may need to revisit their answers after the resolution has been finalized. Please answer each question truthfully and thoroughly, as your input will help us provide better service to our tenants.</thinking>
 # Tenant Complaint Resolution Survey - Help Guide
 ## Purpose
 ## How To Complete This Form

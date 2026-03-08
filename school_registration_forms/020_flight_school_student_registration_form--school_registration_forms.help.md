@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students to register for a flight school program. It collects information necessary for the school's administrative purposes, such as student name, contact information, and educational background. This form should only be filled out once and by the student themselves, as it is the student's responsibility to ensure the accuracy of their information.
-</thinking>
-
 # Flight School Student Registration Form - Help Guide
 ## Purpose
 This form collects personal and contact information from students registering for a flight school program.

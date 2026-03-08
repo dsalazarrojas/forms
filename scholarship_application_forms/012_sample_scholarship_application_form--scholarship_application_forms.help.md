@@ -1,20 +1,3 @@
-<thinking>
-The AI-generated scholarship application form is designed to collect information from applicants, helping them provide a complete and accurate submission. 
-This form is meant for scholarship applicants to showcase their qualifications, background, and experiences. 
-It is a one-page form. 
-The following fields will be used to gather necessary information: 
-applicant_info, 
-applicant_details, 
-scholarship_details, 
-contact_info, 
-education_history, 
-employment_history, 
-personal_references. 
-Please review the form carefully to ensure you provide accurate and complete information. 
-Do not duplicate or submit multiple applications. 
-Ensure you submit only one application per applicant. 
-</thinking>
-
 # Sample Scholarship Application Form - Help Guide
 ## Purpose
 This form is designed for scholarship applicants to submit their applications for review.

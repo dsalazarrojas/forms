@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and process of the makeup_pre_procedure_questionnaire form. 
-
-It is meant to gather information for a makeup procedure-related activity, likely for a salon or spa setting. The form appears to be a simple form for collecting customer information. It does not contain any complex or sensitive questions. There is no indication that this form has been duplicated elsewhere in the system, and its purpose is clear. 
-
-</thinking>
-
 # makeup_pre_procedure_questionnaire - Help Guide
 ## Purpose
 This form is used to collect customer information for a makeup-related procedure. It includes fields for first name, last name, email, and phone number.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about school lunches and their impact on students. This information will help schools and parents understand what students like and dislike about their lunches, how they feel about their hunger levels, and what their favorite foods are. This form should not be filled out by students who are not directly involved in the school lunch program or by parents who do not have children in the school.
-</thinking>
-
 # Packing School Lunch Survey - Help Guide
 ## Purpose
 The Packing School Lunch Survey is a tool designed to gather information about school lunches and their impact on students. This survey aims to understand what students like and dislike about their lunches, how they feel about their hunger levels, and what their favorite foods are.

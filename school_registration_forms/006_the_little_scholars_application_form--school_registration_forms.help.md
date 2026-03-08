@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents or guardians about their child's educational background and contact details. This form helps the school administration to verify the identity of students enrolling in the school and ensures that all necessary documents are up-to-date. It is crucial that parents/guardians provide accurate and honest information as it will be used to create the student's account.
-</thinking>
-
 # The Little Scholars Application Form - Help Guide
 ## Purpose
 The Little Scholars Application Form is designed to collect essential information from students and their parents or guardians. This form is crucial for the school administration to verify the identity of new students and ensure they have all the necessary details to create a student account.

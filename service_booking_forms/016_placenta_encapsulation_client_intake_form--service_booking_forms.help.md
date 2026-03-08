@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for placentas encapsulation services. The form gathers medical information, birth details, and payment preferences to ensure proper and safe service delivery. Ensure that the form fields are accurately filled out and all required information is provided to avoid delays or complications. Please review the form carefully before submission to ensure all fields are filled out correctly. 
-
-</thinking>
-
 # Placenta Encapsulation Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients for placentas encapsulation services. It aims to gather medical and birth-related details to provide safe and proper service delivery.

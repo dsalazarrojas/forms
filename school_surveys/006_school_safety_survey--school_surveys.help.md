@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form is used effectively, and that users understand its purpose and usage. To that end, let's review the form's purpose and ensure it's not duplicating any existing forms or data collection efforts.
-The form is designed to collect information about school safety, and its purpose is to gather feedback from users about their experiences and perceptions of safety in a school setting. This form is likely intended for school administrators, teachers, or students to provide insights on safety concerns and areas for improvement.
-Before starting the form, please ensure that it's not already being used in your school or district, and that the collected data is not duplicating any existing efforts.
-</thinking>
-
 # School Safety Survey - Help Guide
 ## Purpose
 This form is designed to collect information about school safety, allowing you to provide insights on safety concerns and areas for improvement in your school or district. Your feedback is invaluable in helping us understand your experiences and perceptions of safety.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluations from students about their experience in a Bachelor's program. The form asks for demographic information such as student name, ID number, and email, as well as specific feedback on various aspects of the program, including curriculum quality, faculty quality, academic support, career preparation, and more. The goal is to gather honest and detailed feedback that can be used to improve the program. Please ensure that you provide accurate and constructive comments, and that you only complete the form if you have had a direct experience with the program.
-</thinking>
-
 # Bachelor Program Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluations from students about their experience in a Bachelor's program.

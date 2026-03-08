@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for releasing academic records of a student, possibly for transfer or verification purposes. The form requires information from both the student and the authorized recipient. This form may be used by school administrators or authorized personnel to verify student information and release records to authorized individuals. Before proceeding, ensure this form is not a duplicate or a repeat request from the same recipient. Please review your records or internal systems to confirm the authenticity of this request.
-</thinking>
-
 # release of academic records form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Reschedule Date Preferences - Help Guide**
 
 ## Purpose

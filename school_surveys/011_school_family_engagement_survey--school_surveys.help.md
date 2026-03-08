@@ -1,38 +1,3 @@
-<thinking>
-This form appears to be a School Family Engagement Survey, designed to collect feedback and opinions from students, families, and staff members about various aspects of a school environment. The form has multiple sections, including student feedback, family feedback, school staffing, parent involvement, and school support. Each section has a text field for respondents to provide their thoughts and opinions. The form also includes several note fields for respondents to provide additional comments or feedback. 
-
-The form is likely used to gather data on areas such as teacher involvement, parent education, school environment, and communication between school staff and parents. 
-
-This form should be completed by school staff, parents, and students to provide feedback on the school's performance and help identify areas for improvement. The form's fields and sections are designed to elicit specific types of feedback, such as student feedback, family feedback, and school support. 
-
-The form's fields are:
-- Student Feedback: This section is for students to provide feedback on their school experience.
-- Family Feedback: This section is for parents to provide feedback on their experience with the school.
-- School Staffing: This section is for staff members to provide feedback on the school's staffing levels.
-- Parent Involvement: This section is for parents to provide feedback on their involvement in their child's education.
-- School Environment: This section is for staff members to provide feedback on the school's environment.
-- Communication: This section is for staff members to provide feedback on communication between school staff and parents.
-- Teacher Involvement: This section is for teachers to provide feedback on their involvement with students.
-- Prophets: This section is for staff members to provide feedback on prophets.
-- Parent Education: This section is for parents to provide feedback on educational programs for parents.
-- School Support: This section is for staff members to provide feedback on school support services.
-- Student Survey Note: This section is for students to provide additional comments on their survey.
-- Family Survey Note: This section is for families to provide additional comments on their survey.
-- School Support 2: This section is for staff members to select multiple options for school support services.
-- Help: This section is for staff members to provide additional comments or feedback.
-- Parent Involvement Note: This section is for parents to provide additional comments on their involvement in their child's education.
-- Communication Note: This section is for staff members to provide additional comments on communication between school staff and parents.
-- Help 2: This section is for staff members to provide additional comments or feedback.
-- School Staffing Note: This section is for staff members to provide additional comments on staffing levels.
-- School Support Note: This section is for staff members to provide additional comments on school support services.
-- Very Satisfied: This section is for staff members to provide feedback on their satisfaction.
-- Prophets Note: This section is for staff members to provide additional comments on prophets.
-- School Environment Note: This section is for staff members to provide additional comments on the school environment.
-- Help 3: This section is for staff members to provide additional comments or feedback.
-- Help 4: This section is for staff members to provide additional comments or feedback.
-
-</thinking>
-
 # School Family Engagement Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from students, families, and staff members about various aspects of a school environment. The goal is to help the school identify areas for improvement and provide better services to its students and families.

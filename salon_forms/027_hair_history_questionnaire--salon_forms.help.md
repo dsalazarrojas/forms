@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair History Questionnaire - Help Guide
 
 ## Purpose

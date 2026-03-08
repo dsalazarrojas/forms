@@ -1,7 +1,3 @@
-<thinking>
-This form is used for booking a sorter service. The form is designed to collect information from users to book a sorter for a specific date and time. The form will likely be used by clients or customers who want to book a sorter service for a particular date and time. This form should only be used for booking a sorter service, and not for other purposes. Before filling out this form, please ensure that you have not already booked a sorter service for the same date and time. If you have any questions or concerns, please contact the relevant authorities.
-</thinking>
-
 # Sorter Booking Form - Help Guide
 ## Purpose
 This form is designed to book a sorter service for a specific date and time.

@@ -1,8 +1,3 @@
-<thinking> 
-The Massage Intake Form is used to collect information from patients before their massage appointment. This form will guide you through the required and optional fields that need to be completed for a successful massage appointment. Please ensure that the form is filled out accurately and thoroughly to provide the best possible experience for the patient.
-
-</thinking>
-
 # Massage Intake Form - Help Guide
 ## Purpose
 The Massage Intake Form is a tool used to collect necessary information from patients before their massage appointments. This information includes contact details, appointment date, and massage preferences to ensure a smooth and enjoyable experience.

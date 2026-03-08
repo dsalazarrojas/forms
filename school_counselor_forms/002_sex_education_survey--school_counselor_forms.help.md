@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect feedback and comments about sex education from schools. It is intended to help schools assess their sex education program's effectiveness and identify areas for improvement. This guide is to ensure that the form is filled out accurately and thoroughly.
-
-</thinking>
-
 # Sex Education Survey - Help Guide
 
 ## Purpose

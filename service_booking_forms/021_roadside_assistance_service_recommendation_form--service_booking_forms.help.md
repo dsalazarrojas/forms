@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their service needs and preferences for roadside assistance services. The purpose of this form is to determine the best service recommendation for a customer based on their specific requirements. It is essential to ensure that each customer is matched with the most suitable service provider and type to meet their needs. To avoid duplication of services, it's crucial that customers provide accurate and complete information in this form.
-</thinking>
-
 # Roadside Assistance Service Recommendation Form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their roadside assistance service needs and preferences. The goal is to recommend the best service provider and type to meet their requirements.

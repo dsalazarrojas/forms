@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students about their food needs and preferences for the upcoming month. This includes choosing meal options, special requests, and providing contact information such as email and phone number. It's a form designed to help school counselors efficiently manage and communicate with students' dietary needs.
-</thinking>
-
 # Student Monthly Food Order Form - Help Guide
 ## Purpose
 The Student Monthly Food Order Form is a form used to gather information from students about their meal preferences and special requests for the upcoming month. This information will be used to provide catering services to students.

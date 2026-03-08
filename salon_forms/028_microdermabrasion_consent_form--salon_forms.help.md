@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Microdermabrasion Consent Form - Help Guide
 ## Purpose
 The Microdermabrasion Consent Form is a document that requires a patient's consent before performing a microdermabrasion procedure. This form is used to ensure that the patient understands the treatment and its risks, and to obtain their consent for the procedure.

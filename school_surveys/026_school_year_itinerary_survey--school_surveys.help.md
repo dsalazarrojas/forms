@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the School Year Itinerary Survey form, which aims to gather information from students about their school year plans, interests, and accomplishments. The form is designed to be completed by students to provide an overview of their goals, activities, and goals for the upcoming school year. This guide will walk through each field of the form, providing explanations and tips to help students complete it accurately and effectively.
-
-</thinking>
-
 # School Year Itinerary Survey - Help Guide
 
 ## Purpose

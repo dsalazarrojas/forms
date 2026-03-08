@@ -1,7 +1,3 @@
-<thinking>
-The "Letter Request Form" is used to collect information from end users to generate a formal letter. It is designed for non-repetitive usage and should be filled in once per request. Please note that some fields have been set to "required: false" which means they do not have to be filled in but it's best practice to do so for accuracy and completeness. This form will be used by the Secretary team to create a custom letter for the end user.
-</thinking>
-
 # letter_request_form - Help Guide
 ## Purpose
 The letter request form is used to collect information to generate a formal letter for end users.

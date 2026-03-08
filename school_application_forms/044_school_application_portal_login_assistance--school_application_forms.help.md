@@ -1,9 +1,3 @@
-<thinking>
-To ensure that the form is used correctly and efficiently, please review the form purpose, fields, and instructions below. This form is used to assist users with accessing the school portal, and it is intended to help the support team to provide effective assistance. 
-This form should only be used by school applicants who are unable to access the portal or have issues with it. 
-Please fill out the form with as much detail as possible. If a field is optional, but you think it will aid in the resolution of your issue, please include the information. 
-</thinking>
-
 # School Application Portal Login Assistance - Help Guide
 
 ## Purpose

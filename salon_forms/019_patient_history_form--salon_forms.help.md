@@ -1,6 +1,3 @@
-<thinking> 
-This form was likely generated from a public survey topic or metadata about patient history, likely for healthcare professionals to collect and document patient information. The form is designed to be completed over 25 pages, with each page asking a series of text-based questions. There might be some overlap in the questions across pages, but the form is designed to collect comprehensive patient history information. Before completing this form, please ensure that you have the necessary permissions to access and collect this information, and that the patient has given their informed consent. Also, be aware that some information might be duplicated or redundant due to the form's design. Please review the form carefully and fill out the required fields accurately. </thinking>
-
 # Patient History Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Microblading Consent Form Template - Help Guide
 ## Purpose
 The Microblading Consent Form Template is a form used to obtain client consent for microblading services. It is intended to be used by salons to ensure clients understand and agree to the terms and conditions of the microblading process. This form is not meant to be a substitute for a thorough consultation with a medical professional, but rather a way to document client information and consent in a clear and concise manner.

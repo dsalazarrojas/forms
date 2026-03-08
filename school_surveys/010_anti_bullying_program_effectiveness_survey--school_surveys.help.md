@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anti Bullying Program Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the effectiveness of an anti-bullying program in schools. The survey aims to gather feedback from various stakeholders, including students, parents, teachers, and staff, to assess the program's impact, identify areas for improvement, and inform future development and implementation.

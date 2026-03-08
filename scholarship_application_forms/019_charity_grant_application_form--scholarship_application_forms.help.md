@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Charity Grant Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from applicants for a charity grant. The form is designed to help us understand your background, financial needs, and educational goals. Please fill out this form completely and honestly to increase your chances of receiving a grant.

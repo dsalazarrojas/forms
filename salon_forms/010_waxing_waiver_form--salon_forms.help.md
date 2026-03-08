@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive user-facing help guide for the Waxing Waiver Form, ensuring that end-users understand its purpose, how to complete it, and what each field means. To begin with, let's consider the purpose of the form: The Waxing Waiver Form is designed to collect essential information from clients about their waxing experience. This form is likely used in a salon setting to gather details about the client's previous waxing history, any allergies or sensitivities, and their willingness to sign a waiver for specific services. This is a crucial document for both the client and the salon staff to ensure a safe and pleasant experience. I will now create the help guide using the provided YAML fields.</thinking>
-
 # Waxing Waiver Form - Help Guide
 
 ## Purpose

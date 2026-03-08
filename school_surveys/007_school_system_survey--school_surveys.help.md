@@ -1,8 +1,3 @@
-<thinking>
-The form is for school surveys. It is used to collect information about schools and their systems. The purpose of this form is to gather data that can be used to evaluate and improve school systems. The form includes various fields such as questions, comments, and important ratings. The user is expected to provide their school's survey questions, comments, and ratings for each of the five important categories. Additionally, the form includes fields for collecting email, phone number, date, and time of the survey, as well as additional information about the school system. This form is designed for school administrators, teachers, or other school staff to fill out. It is not intended for students.
-
-</thinking>
-
 # School_System_Survey - Help Guide
 ## Purpose
 This form is designed to collect information about schools and their systems to help evaluate and improve them.

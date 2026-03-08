@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding and completing the "Government Satisfaction Survey" form. This form is intended to collect feedback and satisfaction data from users regarding their experiences with the government. It is crucial to complete this form to provide valuable insights that will aid in improving the services provided by the government.
-
-Before proceeding, please ensure that you have not already completed this form. Duplication of submissions may lead to inaccuracies and unnecessary data redundancy. If you are unsure about any aspect of this form, kindly ask your supervisor or support team for clarification.
-
-This form consists of several fields that are divided into different pages. Each field has a specific purpose, and understanding these will help you provide accurate and informative responses.
-
-</thinking>
-
 # Government Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect user feedback and satisfaction data about the government's services. By providing your input, you will be contributing to the improvement of government services and helping us better understand your needs.

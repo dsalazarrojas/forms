@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect client health information and confirm their understanding of COVID-19 safety protocols before providing services at the salon. This form will help identify potential health risks and ensure that the client is aware of the necessary precautions to take during their visit. 
-This form is mandatory for all clients visiting the salon due to the COVID-19 pandemic. If you're unsure about any information, please answer the questions accurately, and if you're unsure or have concerns, contact the salon staff for guidance.
-
-</thinking>
 # COVID 19 Client Health Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect health information from clients before providing services at the salon, ensuring a safe and healthy environment for both clients and staff.

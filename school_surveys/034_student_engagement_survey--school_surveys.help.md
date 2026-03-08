@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on student engagement and satisfaction with a course or subject matter. Its purpose is to help instructors and educators understand how to improve student engagement and overall learning experience. This form is not intended to be a comprehensive or exhaustive assessment, but rather a starting point for further discussions and improvements. Please note that this form is part of a broader effort to gather feedback and data on student engagement, and responses will be kept anonymous to ensure candid and honest feedback.
-</thinking>
-
 # Student Engagement Survey - Help Guide
 ## Purpose
 The Student Engagement Survey is designed to gather information on student engagement and satisfaction with a course or subject matter. It is meant to help instructors and educators understand how to improve student engagement and overall learning experience.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for users to provide feedback and express their opinions about our library. The purpose of this form is to gather data on user satisfaction and experiences with our library services, which will help us improve our services and resources.
-
-When filling out this form, please consider providing concrete examples or specific details whenever possible. This will ensure that your feedback is clear and actionable for us. 
-
-Please note that the form is not intended to be a comprehensive survey, and users can fill it out at their convenience. There might be sections where you may not have an opinion or experience, and that's okay. Just skip those sections and move on to the next one.
-
-We will not be able to review and respond to incomplete forms. We encourage you to fill out all fields if you have an opinion or experience, even if it's just to let us know that you haven't had a particular experience or don't have an opinion about a question.
-</thinking>
-
 # Library Satisfaction Survey - Help Guide
 
 ## Purpose

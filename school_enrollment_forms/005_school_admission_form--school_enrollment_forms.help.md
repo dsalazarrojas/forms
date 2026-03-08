@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we first need to understand its purpose and how it should be completed. This form is designed for students to be admitted to a school, likely for enrollment purposes. The fields are divided into various sections, such as personal details (name, date of birth, email, phone), demographic details (grade level, program interest), and additional information (additional comments, why admitted, what to expect from the program).
-</thinking>
-
 # School Admission Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from prospective students to be admitted to a school.

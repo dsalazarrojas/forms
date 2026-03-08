@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the "Nurse Satisfaction Survey" form effectively. The form's purpose is to collect feedback from nurses about their satisfaction with various aspects of their work, including their workload, supervisors, colleagues, workplace, job security, training, equipment, and more. This guide will walk users through each field to help them understand what information is being collected and how to provide accurate and helpful feedback.
-
-Before proceeding, please ensure that you have not completed this form before, as the questions and answers will be stored in a database for analysis and improvement. If you have previously completed this form, please do not resubmit. Otherwise, please follow the steps below to complete the form:
-
-</thinking>
-
 # Nurse Satisfaction Survey - Help Guide
 ## Purpose
 The "Nurse Satisfaction Survey" is designed to collect feedback from nurses on their satisfaction with various aspects of their work. Your input will help us understand what we do well and where we can improve.

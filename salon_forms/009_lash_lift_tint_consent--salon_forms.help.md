@@ -1,7 +1,3 @@
-<thinking>
-A Lash Lift & Tint Consent form is intended for clients who are interested in receiving a Lash Lift & Tint treatment, which is a type of beauty treatment that combines a chemical lift with tinting to enhance the appearance of their eyelashes. This form will help you understand their preferences and expectations for the treatment. To ensure accuracy and consistency in processing client requests, it's essential to review this guide before completing the form.
-</thinking>
-
 # Lash Lift & Tint Consent - Help Guide
 ## Purpose
 The Lash Lift & Tint Consent form is designed to gather information from clients about their interest in receiving a Lash Lift & Tint treatment. This form helps us understand their preferences and expectations for the treatment, ensuring that we can provide the best possible experience for them.

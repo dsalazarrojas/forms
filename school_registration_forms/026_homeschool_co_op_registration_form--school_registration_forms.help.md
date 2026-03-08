@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for homeschool co-op registration. The purpose of this form is to gather necessary details from parents or guardians to facilitate the registration process for their child in a homeschool co-op. This form is intended for parents/guardians who are interested in enrolling their child in the co-op and want to provide the required information. This form is not meant for co-op administrators or staff to use, so there's no need to worry about duplication or non-relevant information being collected.
-</thinking>
-
 # Homeschool Co Op Registration Form - Help Guide
 ## Purpose
 This form is used to register a child in a homeschool co-op. It gathers essential information from parents/guardians to ensure that their child can participate in the co-op's activities and programs.

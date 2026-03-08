@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the Open Education Resource Grant application process. This form is intended for individuals or institutions seeking financial support for their educational projects. To ensure a successful submission, please review each field carefully and make sure to complete it accurately. Please note that the form fields are optional, but completing them will help us better understand your project's needs and increase your chances of receiving the grant.
-</thinking>
-
 # Open Education Resource Grant Application Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for the Open Education Resource Grant application process. It will help us understand your project's details and evaluate its eligibility for funding.

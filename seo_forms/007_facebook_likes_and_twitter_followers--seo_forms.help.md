@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facebook Likes And Twitter Followers - Help Guide
 ## Purpose
 This form is used to track and report Facebook likes and Twitter followers for a product. It gathers information on the number of likes and followers for Facebook and Twitter, as well as the date and time of actions taken on these social media platforms.

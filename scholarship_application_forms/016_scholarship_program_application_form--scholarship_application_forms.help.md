@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a scholarship program. The purpose of this form is to gather essential details from applicants, ensuring they can be fairly and efficiently evaluated. The information collected will be used to assess applicants' eligibility and qualifications for the scholarship. To avoid duplication of effort, please ensure that the required fields are filled in completely and accurately. Incomplete or inaccurate data may lead to application rejection.
-</thinking>
-
 # scholarship_program_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential details from applicants for the scholarship program, ensuring a fair and efficient evaluation process.

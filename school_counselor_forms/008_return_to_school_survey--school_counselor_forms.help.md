@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians about their child's attendance to school. The form aims to gather data on whether the child attended school today, yesterday, or tomorrow, and the reason for any absences. The form also asks for comments and contact information. It's intended for use in schools to track student attendance and communicate with parents. 
-
-The form is part of a larger system for school counselors to monitor attendance and stay in touch with families. This form is meant to be filled out once a day, ideally at the end of each school day. It ensures that parents or guardians provide accurate and consistent information, making it easier for school administrators to understand attendance patterns and address any issues that may arise. This form is not meant to be filled out multiple times a day or for the same day multiple times. 
-
-This guide is intended to be a comprehensive resource for users to understand the form's purpose and how to complete it accurately and efficiently. It covers each field in detail, explaining its purpose and any relevant options. 
-
-Please note that some fields might seem repetitive, but they serve a specific purpose in the system. For example, fields like "Will child attend tomorrow tomorrow" might seem unnecessary, but they are designed to capture different scenarios and provide more detailed information. 
-
-This form is a crucial tool for school administrators to gather attendance data and communicate with parents. By completing this form correctly, users can ensure that their input is accurate and helpful to the school. 
-
-Please read through this guide carefully to understand each field and its requirements. If you're unsure about any field or have further questions, feel free to reach out to the school administration. They will be happy to clarify any doubts. 
-</thinking>
-
 # Return To School Survey - Help Guide
 ## Purpose
 The Return To School Survey form is designed to collect information from parents or guardians about their child's attendance to school. The form helps school administrators track attendance patterns and communicate effectively with families.

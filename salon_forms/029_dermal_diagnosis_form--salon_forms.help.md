@@ -1,16 +1,3 @@
-<thinking>
-The form, "dermal_diagnosis_form", is designed to collect information from clients about their skin conditions, symptoms, and treatment plans. This form is intended to be completed by clients, not medical professionals, to provide a general understanding of their skin health.
-
-To avoid duplication, clients should not fill out this form if they have already done so in the past 30 days.
-
-The form is divided into several sections that cater to various aspects of skin health. Each field is designed to gather specific information that will help healthcare professionals provide the best possible care.
-
-After reviewing the form, it is essential to ensure that all required fields have been filled out accurately and completely.
-
-This form will be used by healthcare professionals to gain a better understanding of the client's skin condition and create a treatment plan tailored to their needs.
-
-</thinking>
-
 # dermal_diagnosis_form - Help Guide
 ## Purpose
 The "dermal_diagnosis_form" is a client-facing form designed to collect information about their skin conditions, symptoms, and treatment plans. This form is intended to provide a general understanding of the client's skin health, which will aid healthcare professionals in creating a tailored treatment plan.

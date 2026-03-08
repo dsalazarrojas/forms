@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning behind the form is to collect information about a field trip from students and teachers. This form is likely used for event planning and evaluation purposes.
-The form is likely to be filled out by both students and teachers involved in the field trip. To avoid duplication of efforts, it's essential to ensure that the form is only filled out once per participant. This form is designed to collect various aspects of the field trip, including event details, participant feedback, and overall experience.
-</thinking>
-
 # Field Trip Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and information from students and teachers about a field trip.

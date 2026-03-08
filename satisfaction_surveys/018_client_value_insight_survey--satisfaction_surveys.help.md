@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather insights on the client's perception of the value they receive from our services. It aims to capture their satisfaction and expectations, as well as their experience with our products and services.
-The form consists of several sections that ask about the client's relationship with our company, their perception of the value we provide, and their satisfaction with our services. Each section has its own set of questions, but most questions are optional.
-Before starting, please make sure to have the client's permission to collect their feedback.
-</thinking>
-
 # Client Value Insight Survey - Help Guide
 ## Purpose
 This form is designed to gather insights on the client's perception of the value they receive from our services.

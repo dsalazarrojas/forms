@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the relevance of search results to the user's query. This form is designed to gather feedback on the search experience, including the search satisfaction, result clarity, and search time. The form will help us identify areas for improvement and make data-driven decisions to enhance our search functionality. Please ensure that you complete the form only once for each search query, and that you do not repeat any submissions for the same query.
-</thinking>
-
 # Search Relevance Evaluation Survey - Help Guide
 ## Purpose
 This form is used to gather feedback on search results to improve their relevance and usefulness.

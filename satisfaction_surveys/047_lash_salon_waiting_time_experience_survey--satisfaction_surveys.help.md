@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the waiting time experience at a Lash Salon. It is a satisfaction survey that asks clients about their experience with the friendliness of the staff, the waiting time, appointment time, communication with the technician, overall experience, and their rating of the salon. This form should be used to collect feedback from clients, helping the salon to identify areas of improvement and areas of strength. It should only be used after a client has visited the salon and had an appointment, to ensure that the survey is relevant to their experience. It should not be used for general feedback or as a replacement for existing feedback mechanisms. It is a one-time survey, and the information collected will be used to improve future client experiences.
-</thinking>
-
 # Lash Salon Waiting Time Experience Survey - Help Guide
 ## Purpose
 The purpose of this survey is to help us understand your experience with our salon, specifically regarding the waiting time. Your feedback will help us to identify areas of improvement and to ensure that we provide the best possible experience for you and other clients.

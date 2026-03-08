@@ -1,6 +1,3 @@
-<thinking>
-The form "Counselor Transfer Request Form" is designed to collect information from school counselors to request a transfer for a teacher. It's a simple text-based form that aims to streamline the process of requesting a transfer. This form should be used when a teacher wants to transfer to a different school. The purpose of this form is to ensure that the request is properly documented and can be processed efficiently.
-</thinking>
 # Counselor Transfer Request Form - Help Guide
 ## Purpose
 The Counselor Transfer Request Form is designed to collect information from school counselors for the purpose of requesting a teacher's transfer. This form ensures that the request is properly documented and can be processed efficiently.

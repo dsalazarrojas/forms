@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # learning_center_registration_form - Help Guide
 
 ## Purpose

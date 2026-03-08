@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate communication between students and their teachers/instructors about a student's progress in a course. The form is intended to be used by instructors to provide feedback and updates on a student's performance, and by students to communicate their own progress and goals. It is essential to fill out this form accurately and completely to ensure that both parties are on the same page and that the student receives the most relevant and helpful feedback.
-</thinking>
-
 # Student Progress Communication Form - Help Guide
 
 ## Purpose

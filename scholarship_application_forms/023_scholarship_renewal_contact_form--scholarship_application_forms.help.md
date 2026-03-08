@@ -1,11 +1,3 @@
-<thinking>
-This form is for students to renew their existing scholarship applications. The form allows students to provide updates on their academic and financial status, as well as other relevant information. To complete this form, students should have their student ID number, name, and email address readily available.
-
-Before proceeding, please ensure that the scholarship ID is correct and not duplicated. Duplicated submissions may cause confusion and delay the processing of the scholarship renewal.
-
-This form is intended for students who have already been awarded a scholarship and need to update their information to maintain their eligibility. If a student is unsure about their eligibility, they should contact the scholarship administrator for guidance.
-</thinking>
-
 # Scholarship Renewal Contact Form - Help Guide
 ## Purpose
 The scholarship renewal contact form is a crucial document for students to communicate their updated academic and financial status to the scholarship administrator. It ensures that the student's eligibility for the scholarship is maintained and that their application is processed efficiently.

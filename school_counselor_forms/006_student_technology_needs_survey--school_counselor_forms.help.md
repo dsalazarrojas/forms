@@ -1,7 +1,3 @@
-<thinking>
-We are providing a form for students to express their needs and expectations for technology support. This form is designed to gather insights from students on their technology needs, teacher support, technology access, and their own needs. We will review the responses to ensure that no duplicate or irrelevant answers are submitted. Please fill out this form carefully to provide accurate and helpful feedback.
-</thinking>
-
 # Student Technology Needs Survey - Help Guide
 ## Purpose
 This form is designed to gather insights from students on their technology needs, teacher support, technology access, and their own needs. Your responses will help us better understand how to support you with technology.

@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to gather information from clients for a brow lamination and tint procedure. It is designed to ensure that clients have a clear understanding of the process and their medical history, and that they are aware of the aftercare instructions. The form also serves as a waiver, where clients confirm their consent for the procedure. 
-
-To prevent duplication, the form should not be filled out by clients who have already completed it. 
-
-This form is intended for use by stylists or technicians in the beauty industry. 
-
-Please note that the form fields are self-explanatory and should be filled out accordingly. 
-
-This guide will walk through each field to ensure that clients understand what is expected of them. 
-
-</thinking>
-
 # Brow Lamination Tint Information And Waiver Form - Help Guide
 
 ## Purpose

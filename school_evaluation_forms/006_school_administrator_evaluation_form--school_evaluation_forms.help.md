@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the performance of a school administrator, assessing their overall performance, communication skills, leadership skills, teamwork, professionalism, decision-making skills, problem-solving skills, time management, adaptability, accountability, parent-teacher relationship, student-administrator relationship, and teacher-administrator relationship. The form is meant to provide an objective evaluation of the administrator's strengths and weaknesses, helping to identify areas of improvement and providing a comprehensive picture of their overall effectiveness.
-
-To prevent duplication of effort, it is essential to use this form as a standardized tool for consistent and fair evaluation. Please ensure that you have reviewed the form's purpose and instructions before proceeding with the evaluation.
-
-To avoid any potential conflicts of interest or bias, it is recommended that the evaluator be someone familiar with the school's policies, procedures, and goals.
-
-To ensure the accuracy and fairness of the evaluation, it is crucial to follow the instructions and guidelines provided in this document.
-
-</thinking>
-
 # School Administrator Evaluation Form - Help Guide
 ## Purpose
 

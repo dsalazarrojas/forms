@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from middle school teachers applying for a position or program. The form should only be used for this specific purpose and not for any other type of application or form. Please make sure you are filling out this form for a middle school teacher application. If you are not, you may be filling out the wrong form.
-</thinking>
-
 # Middle School Teacher Application Form - Help Guide
 ## Purpose
 This form is designed to collect application information from middle school teachers. It is not intended for other types of applications or forms.

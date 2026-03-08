@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we should first clarify the purpose and relevance of the form. This form is intended for tracking the isolation and absence of students in a school setting. It likely serves as a tool for teachers and administrators to monitor and document instances of student isolation or absence. This form should be used to minimize duplication of effort and ensure consistent data collection.
-
-When completing this form, please note that the fields marked as "required" are essential for accurate tracking and reporting. Some fields may be optional, but they can provide additional context or help with tracking specific details.
-
-</thinking>
-
 # Isolation And Absence Tracking Form - Help Guide
 ## Purpose
 The Isolation And Absence Tracking Form is used to document instances of student isolation or absence in a school setting. This form helps teachers and administrators track and monitor these instances accurately.

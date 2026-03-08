@@ -1,12 +1,3 @@
-<thinking>
-Please note that the form is designed to collect information from parents or guardians about their child. The purpose of this form is to gather relevant data about the student, including their contact information, school interests, emergency contact, and relationships with teachers and parents. This form is likely to be used by schools or educational institutions to gather data for administrative purposes.
-
-To ensure that the data collected is accurate and complete, please review each field carefully and provide the required information. Some fields are optional, but providing the correct information will help the school to better understand and support your child's needs.
-
-Before proceeding, please note that some fields may require you to select from a list of options. If you don't see an option that matches your situation, please select "Other" and provide a brief explanation in the corresponding field.
-
-Please complete the form carefully, and if you have any questions or concerns, feel free to reach out to the school for assistance.</thinking>
-
 # Online Parent Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians about their child, including contact details, interests, and relationships. Please fill in the form with the required and optional fields below.

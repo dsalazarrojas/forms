@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to assess clients' satisfaction with our products and services. Its primary purpose is to collect feedback on various aspects of our offerings, including product quality, service timeliness, customer support, and overall satisfaction. This data will help us identify areas of improvement and provide a basis for future development and refinement of our services.
-
-Before filling out this form, please note that it is essential to answer all required fields (marked as "required" in the form). Required fields ensure that we receive the necessary information to analyze and improve our services. If a required field is left blank, it may affect the reliability and accuracy of the feedback.
-
-This form is part of our ongoing efforts to engage with clients and understand their experiences. Your input is valuable, and we appreciate your time in sharing your thoughts and suggestions.
-
-Please proceed to the next section for a step-by-step guide on how to complete this form.
-
-</thinking>
-
 # Client Satisfaction Audit - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience with our products and services. It will help us identify areas of improvement and make data-driven decisions to enhance your experience.

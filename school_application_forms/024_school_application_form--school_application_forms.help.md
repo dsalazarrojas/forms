@@ -1,26 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, let's first understand what the form is for and its purpose. From the provided YAML, it appears that the form is called "School Application Form" and is likely used for students to provide information for a school application process.
-
-The form has several fields that the user needs to fill in, which include:
-- Applicant Information (page 1)
-- Student Details (page 2)
-- Guardian Contact Information (page 3)
-- Academic History (page 4)
-- Upload Documents (page 5)
-- Student Statement (page 6)
-
-Each field has a label and a type, and some fields have a hint, but no other metadata like description, options, or validation rules are provided.
-
-This form might be used for a variety of purposes, such as:
-* Admissions to a school or program
-* Scholarships or financial aid applications
-* Special requests or appeals to the school administration
-or any other process that requires a comprehensive student application
-
-It's worth noting that the form's purpose and structure might be more complex than what the YAML suggests, and there could be other fields or sections not visible here that would be required or optional depending on the specific school or application process.
-
-</thinking>
-
 # School Application Form - Help Guide
 ## Purpose
 The School Application Form is designed to gather information from students applying to a school or program. This form is typically used for students to provide their personal and academic information to support their application.

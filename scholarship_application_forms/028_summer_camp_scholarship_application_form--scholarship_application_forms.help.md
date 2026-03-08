@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to help parents or guardians apply for a summer camp scholarship for their child. The form is designed to collect information that will help the scholarship committee evaluate the application and make a decision. Please ensure that you are completing this form for your own child, and not for someone else. Also, be aware that the application process may be repetitive or require additional information not included in this form. If you have any doubts or concerns, please contact the form creator or the scholarship committee.
-
-</thinking>
-
 # Summer Camp Scholarship Application Form - Help Guide
 
 ## Purpose

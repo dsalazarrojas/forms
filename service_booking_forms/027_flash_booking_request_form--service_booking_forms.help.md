@@ -1,9 +1,3 @@
-<thinking>
-  The Flash Booking Request Form is designed to allow service staff to request a booking for a specific service. This form helps service staff to provide essential details such as the service type, preferred booking times, contact information, and additional comments.
-  Before submitting a form, please ensure that you have a valid reason for the booking and that it's not a duplicate request.
-  This form is intended for service staff to request a flash service and provide necessary information for the service team to manage the booking efficiently.
-</thinking>
-
 # Flash Booking Request Form - Help Guide
 ## Purpose
 The Flash Booking Request Form is used by service staff to request a booking for a specific service, allowing the service team to efficiently manage the booking.

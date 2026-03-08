@@ -1,8 +1,3 @@
-<thinking>
-This is the "Student Interest Form" help guide.
-To complete this form, please ensure you are a legitimate user and not a duplicate. If you're unsure, please contact the relevant authority for confirmation. This form helps gather student information for better academic support and guidance.
-</thinking>
-
 # Student Interest Form - Help Guide
 ## Purpose
 The Student Interest Form is a tool used to gather relevant student information for academic support and guidance. It helps counselors and administrators understand students' interests, strengths, and areas of concern. By filling out this form, students can help their school better understand their needs and provide tailored support.

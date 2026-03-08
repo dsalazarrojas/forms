@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students and parents for music school enrollment. The form is designed to gather essential details such as student and parent contact information, instrument preference, and practice time commitment. This data will help the music school staff to process student applications, assign teachers, and schedule practice sessions. Please review the form carefully and ensure that all required fields are filled in for a smooth enrollment process.
-</thinking>
-
 # music_school_enrollment_form - Help Guide
 ## Purpose
 The music school enrollment form is designed to collect essential information from students and parents for enrollment purposes.

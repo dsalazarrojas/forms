@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data from schools on their current state of data-driven decision making practices. The form will help the school administrators understand the prevalence and challenges of data-driven decision making in their schools. It is intended to be completed by school administrators or other relevant personnel. Please ensure that you are authorized to complete this form on behalf of your school. If you have already completed this form, please do not submit it again, as it is designed to be a one-time survey.
-</thinking>
-
 # Data Driven Decision Making In Schools Survey - Help Guide
 ## Purpose
 This form is designed to gather information on the current state of data-driven decision making practices in schools. It will help the school administrators understand the prevalence and challenges of data-driven decision making in their schools.

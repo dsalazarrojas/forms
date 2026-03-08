@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # school_admission_form - Help Guide
 ## Purpose
 The school admission form is a crucial document used for student registration and admission to a school. It is used to gather essential information about the student, such as their personal details, contact information, and demographic data. This form is typically filled out by students or their parents/guardians and is a necessary step in the admission process.

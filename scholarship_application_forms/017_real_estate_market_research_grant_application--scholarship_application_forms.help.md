@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for applicants to apply for a grant for real estate market research. The form is part of a larger application process, and the information collected will be used to evaluate the eligibility and feasibility of the project. The form is likely to be reviewed and assessed by a panel of experts in the real estate market. To ensure that your application is complete and accurate, please review the fields carefully and provide all required information. If you have any questions or concerns, please contact us for clarification. This form should not be used for any other purpose than submitting a real estate market research grant application.
-</thinking>
-
 # real_estate_market_research_grant_application - Help Guide
 
 ## Purpose

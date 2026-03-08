@@ -1,9 +1,3 @@
-<thinking>...
-
-The microdermabrasion consultation form is intended to collect necessary information about a client's medical background, medical history, treatment preferences, and payment information to provide accurate and tailored services. The form is likely to be used in a medical setting to ensure the best possible treatment outcomes. This form is used to gather details from each client, and it should be completed only once per client, per visit. Completing the form is essential for medical professionals to perform the microdermabrasion treatment effectively.
-
-</thinking>
-
 # Microdermabrasion Consultation Form - Help Guide
 ## Purpose
 This form is used to collect information about a client's medical background, history, and preferences to provide safe and effective microdermabrasion treatment.

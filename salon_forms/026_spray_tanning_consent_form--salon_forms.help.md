@@ -1,7 +1,3 @@
-<thinking>
-The Spray Tanning Consent Form is a document that is used to gather information from clients before undergoing a spray tanning session. This form is designed to inform clients of the potential side effects and risks associated with spray tanning, and to obtain their consent for the session. The form should only be used for clients who are 18 years or older.
-</thinking>
-
 # Spray Tanning Consent Form - Help Guide
 ## Purpose
 The Spray Tanning Consent Form is a document used to gather information from clients before undergoing a spray tanning session. This form informs clients of potential side effects and risks and obtains their consent.

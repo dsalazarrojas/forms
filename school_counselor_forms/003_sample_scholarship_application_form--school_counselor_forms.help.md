@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for the "Sample Scholarship Application Form" used for school counselors to gather information from applicants for a scholarship award. The form is used to collect personal and financial information from applicants, which will be reviewed for a scholarship award.
-Please ensure that this form is relevant and accurate in your context, and avoid duplicating effort by using this template for multiple scholarships or purposes. This guide is a general explanation and may need to be tailored to specific requirements or rules.
-</thinking>
-
 # Sample Scholarship Application Form - Help Guide
 ## Purpose
 This form is used to collect application information from students to determine eligibility for a scholarship award.

@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I reviewed the field names and labels. They all seem to be related to the digital care communication experience, which suggests that this form is intended to gather feedback and opinions on the effectiveness and usability of digital care communication channels and services. This form will likely be used to identify areas for improvement and provide insights to inform future development and refinement of digital care communication.
-
-To ensure that this form is not duplicated with others, I checked the field names and labels, and they seem to be unique. However, some questions appear to be similar, such as "how would you rate digital care services" and "how would you rate digital care services reminders." These could be condensed into a single question or combined into a more specific question that addresses both aspects.
-
-</thinking>
-
 # Digital Care Communication Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the effectiveness and usability of digital care communication channels and services. It asks you about your preferences, opinions, and experiences with digital care communication, including your rating of its satisfactoryness and how you would rate various aspects of digital care services.

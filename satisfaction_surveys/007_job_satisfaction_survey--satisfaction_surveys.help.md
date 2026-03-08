@@ -1,8 +1,3 @@
-<thinking>
-This form was designed using AI to generate a job satisfaction survey. Its purpose is to collect feedback from employees on various aspects of their job experience. The survey aims to gauge employees' perceptions of their job satisfaction, morale, and various aspects of the company culture and policies. Before providing this help guide, we'll assume that you are a potential survey participant or a person who needs to complete it. To ensure that you can effectively fill out the survey and provide honest feedback, we'll walk you through each question and its intended meaning.
-
-</thinking>
-
 # Job Satisfaction Survey - Help Guide
 ## Purpose
 The **Job Satisfaction Survey** is designed to gather your feedback on your job experience at the company. Your input will help us understand your thoughts and feelings about various aspects of your job and company culture, enabling us to make informed decisions to improve your work environment. Please answer these questions honestly, and your responses will remain anonymous.

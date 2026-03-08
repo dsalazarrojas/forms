@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information for a music education scholarship application. The purpose of this form is to gather relevant details from applicants for the scholarship program. Please ensure the information provided is accurate and true to the best of your knowledge. You must upload supporting documents to strengthen your application. 
-
-Before proceeding, please note that the following fields are not required, but it would be beneficial to provide as much information as possible.
-
-</thinking>
-
 # Music Education Scholarship Application - Help Guide
 ## Purpose
 The Music Education Scholarship Application form is designed to collect relevant information from applicants for the music education scholarship program. This form will help us assess your eligibility and potential for the scholarship.

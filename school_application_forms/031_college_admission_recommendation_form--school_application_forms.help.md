@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is for the College Admission Recommendation Form, which is a crucial document used in the college admission process. The form aims to help recommenders (e.g., teachers, counselors, coaches) provide a thorough and honest assessment of a student's qualifications, abilities, and potential. To ensure accuracy and fairness, please read this guide carefully before submitting your recommendations.
 
 ## College Admission Recommendation Form - Help Guide

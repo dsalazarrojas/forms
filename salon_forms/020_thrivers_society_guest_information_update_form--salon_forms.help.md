@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thrivers Society Guest Information Update Form - Help Guide
 ## Purpose
 This form is designed to collect and update guest information for Thrivers Society. It is intended for guests who have been invited to events or programs hosted by Thrivers Society. The information collected in this form will be used to communicate with the guest and provide a better experience.

@@ -1,12 +1,3 @@
-<thinking>
-To ensure the form's purpose and relevance are correctly understood, I will review the provided YAML structure and create a comprehensive help guide that meets the requirements.
-
-This form is a "Botulinum Toxin Treatment Consent Form", which likely aims to gather information from clients about their understanding and consent for botulinum toxin treatment. The form appears to be a critical document for the medical professional to verify that the client has been properly informed and consents to the treatment.
-
-To confirm the form's relevance and accuracy, I will review the YAML structure and provide a detailed help guide to assist end-users in understanding each section and field.
-
-</thinking>
-
 # Botulinum Toxin Treatment Consent Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients about their understanding and consent for botulinum toxin treatment. It ensures that clients are aware of the procedure, risks, and benefits associated with the treatment and voluntarily consent to proceed.

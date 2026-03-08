@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals seeking dermal filler procedures. It asks for general questions, type of dermal filler, location of the procedure, status of consent, consent date, if consent has been submitted, and more general questions.
-</thinking>
-
 # Dermal Filler Consent Form - Help Guide
 ## Purpose
 This form is intended to be completed by individuals seeking dermal filler procedures. It collects information on their preferences, procedure details, and consent status.

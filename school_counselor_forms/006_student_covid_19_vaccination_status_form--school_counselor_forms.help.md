@@ -1,11 +1,3 @@
-<thinking>
-This form aims to collect information about a student's COVID-19 vaccination status. The purpose of this form is to gather relevant details such as vaccine information, dosage, manufacturer, date of vaccination, and the student's current vaccination status. To prevent duplication, only update this form if the student's vaccination status changes.
-
-Before completing this form, please ensure that the student's vaccination status has changed and that you are the authorized person to submit this form.
-
-This form consists of 6 fields. The fields are explained below.
-</thinking>
-
 # Student COVID 19 Vaccination Status Form - Help Guide
 ## Purpose
 The Student COVID-19 Vaccination Status Form is used to collect and update a student's COVID-19 vaccination status.

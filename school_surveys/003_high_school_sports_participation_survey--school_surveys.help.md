@@ -1,12 +1,3 @@
-<thinking>
-This help guide will be used to provide end users with clear and concise instructions on how to complete the High School Sports Participation Survey form. 
-
-The form is designed to gather general information about sports participation from high school students. However, it's essential to note that this form may not be relevant to all students, and some sections might be optional or have limited options.
-
-Upon reviewing the provided form YAML, we can see that there are several sections with different types (text, select_multiple, note, email, text, number). This guide will break down each section to help users understand what to expect.
-
-</thinking>
-
 # High School Sports Participation Survey - Help Guide
 ## Purpose
 The High School Sports Participation Survey is designed to gather information about sports participation from high school students. The survey aims to understand students' current and future sports interests and any potential barriers to participation.

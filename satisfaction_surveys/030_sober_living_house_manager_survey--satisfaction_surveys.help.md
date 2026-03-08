@@ -1,15 +1,3 @@
-<thinking>
-This form is used to gather information from sober living house managers to track their progress and experiences. It's essential to ensure that the form is completed accurately and truthfully to provide valuable insights into the managers' lives.
-
-The form should only be completed by the sober living house manager who is being surveyed.
-
-Before starting this form, please make sure you have not completed it before. If you have already completed this form, there's no need to repeat it.
-
-Please answer all the questions truthfully and to the best of your knowledge. If you're unsure about any question or have any additional comments, please use the "Comments" field to provide more information.
-
-This form is confidential and will only be used for research and improvement purposes.
-</thinking>
-
 # Sober Living House Manager Survey - Help Guide
 ## Purpose
 The Sober Living House Manager Survey is designed to gather information from sober living house managers to track their progress and experiences. This form helps us better understand the challenges and needs of house managers, allowing us to provide more effective support and resources.

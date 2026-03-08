@@ -1,11 +1,3 @@
-<thinking>
-
-The School Attendance Survey form is a data collection tool used to track student attendance data. It is designed to be completed by teachers and administrators to report student attendance information for a particular school. The form collects detailed information about the student, including their name, grade level, and last attendance date, as well as additional details such as the school code, teacher code, and survey completion status.
-
-To ensure accurate data collection, please ensure that you have the necessary permissions and authority to access and input student data. Additionally, please review the form for any duplicate or outdated entries to avoid data inconsistencies. If you are unsure about any field or have any questions, please reach out to the relevant personnel for guidance.
-
-</thinking>
-
 # School Attendance Survey - Help Guide
 ## Purpose
 

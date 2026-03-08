@@ -1,7 +1,3 @@
-<thinking>
-This is a form for registering students at a Sunday school, gathering necessary information such as contact details, school and class information, and emergency contacts. Before filling out this form, please make sure you have all the necessary information ready. Please do not register students multiple times.
-</thinking>
-
 # Sunday School Registration Form - Help Guide
 ## Purpose
 The Sunday School Registration Form is designed to collect information from students and their parents/guardians for the purpose of registration. This form will help us keep track of student's details, school information, and emergency contacts.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # English Level Assessment Form - Help Guide
 
 ## Purpose

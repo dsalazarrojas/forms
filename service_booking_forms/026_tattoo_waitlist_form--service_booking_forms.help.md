@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to manage the tattoo waitlist, which is likely used to keep track of clients who are waiting for an appointment with a tattoo artist. This form likely serves as a centralized system for organizing and prioritizing clients based on their position on the waitlist. It's crucial to ensure the form is filled out correctly to maintain accuracy and prevent errors. Double-checking that you are using the correct information and filling out the form for the intended client will prevent duplication of effort and ensure the right client receives the correct information. Please review the fields below to understand what information is being requested for each client.
-</thinking>
-
 # Tattoo Waitlist Form - Help Guide
 ## Purpose
 The "Tattoo Waitlist Form" is used to add new clients to the waitlist. This form helps manage client information to ensure accurate and efficient appointment scheduling.

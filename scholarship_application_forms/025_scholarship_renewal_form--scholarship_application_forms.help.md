@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form is designed for students to renew their scholarship applications, which means it's used to update their current information and circumstances that were provided during their initial application. This form is likely to be used during the middle or end of a program, depending on the scholarship terms. To avoid duplication of effort, the student is not expected to fill out this form if they are applying for a new scholarship or if their circumstances have not changed since their initial application. This form should only be filled out when the student has experienced significant changes in their academic or financial status.
-</thinking>
-
 # Scholarship Renewal Form - Help Guide
 ## Purpose
 The Scholarship Renewal Form is used by students to update their information and circumstances after their initial scholarship application. This form is necessary for students who are continuing their studies and have experienced changes in their academic or financial status that may affect their eligibility for the scholarship.

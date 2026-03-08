@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from students about their beliefs, goals, aspirations, values, behaviors, purpose, school experience, attitudes, interests, hobbies, and career goals. The form's title, "Student Manifesto Form," suggests that it is meant to capture a comprehensive overview of a student's identity, interests, and career aspirations. The form has 12 fields, each with a specific type (e.g., text, select_one, select_multiple) and options that correspond to different areas of a student's life. 
-
-To avoid redundant or irrelevant information collection, it's essential to understand the form's purpose and the context in which it will be used. The form's fields can be divided into several themes: beliefs and attitudes (fields 1-2, 8-9), goals and aspirations (fields 3, 4), values and behaviors (fields 5, 6), and interests and hobbies (fields 7, 11). This structure can help ensure that the collected data is relevant and comprehensive.
-</thinking>
-
 # Student Manifesto Form - Help Guide
 ## Purpose
 The Student Manifesto Form is designed to gather information about a student's beliefs, goals, and aspirations, as well as their values, behaviors, and interests. The form's 12 fields cover various aspects of a student's life, from their emotional state to their career objectives.

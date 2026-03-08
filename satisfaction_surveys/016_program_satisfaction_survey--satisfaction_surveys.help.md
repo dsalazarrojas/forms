@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to measure user satisfaction with a program. It consists of multiple questions that ask about the user's experience and feelings towards the program. The form is likely used for feedback and evaluation purposes, and the data collected will be used to improve the program. To ensure that the form is completed correctly, please make sure that you answer each question in the way that best reflects your true feelings and experiences. If you are unsure about a question, please try to answer in a way that is honest and accurate. This form is not intended to be taken lightly, and your input is valuable in helping us improve the program.
-
-Before filling out the form, please make sure that you are answering the questions based on your actual experience with the program. If you have not used the program, please do not complete the form.
-
-</thinking>
-
 # Program Satisfaction Survey - Help Guide
 ## Purpose
 This guide is to help you understand how to complete the "Program Satisfaction Survey" form, which is designed to measure user satisfaction with the program.

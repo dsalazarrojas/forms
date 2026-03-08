@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Salon New Client Consent Form - Help Guide
 
 ## Purpose

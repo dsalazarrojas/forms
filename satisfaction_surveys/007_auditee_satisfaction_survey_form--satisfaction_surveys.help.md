@@ -1,5 +1,3 @@
-<thinking>As a satisfaction survey form, the purpose of this form is to gather feedback from auditees about their experience with the audit process. This form is designed to measure various aspects of the audit, including the professionalism of the auditor, the competence and expertise of the audit team, the fairness of the audit process, and overall satisfaction with the audit. The form will help to identify areas of improvement and provide suggestions for future audits.</thinking>
-
 # Auditee Satisfaction Survey Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from auditees about their experience with the audit process.

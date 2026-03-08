@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a student's profile, including their name, date of birth, student ID, email, contact number, and emergency contact details. This form is typically used in educational settings to create or update student records.
-
-To ensure that the form is filled out correctly, please review the fields below.
-
-</thinking>
-
 # Student Profile Form Template - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a student's profile. Please fill out the form accurately and thoroughly.

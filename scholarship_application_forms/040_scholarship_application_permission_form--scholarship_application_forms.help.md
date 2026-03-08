@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information from applicants seeking scholarships. The form is designed to collect details about the applicant's name, email, phone number, application date and time, and any additional notes they may have. It also asks for the applicant's permission to share their information with specific individuals or organizations. This form is intended to ensure that the applicant understands and agrees to share their information with relevant parties.
-
-Before starting, please note that some questions are required and others are optional. You may not need to fill out all the fields, but it's crucial to complete the required ones. If you're not sure about a specific field, please ask your supervisor or administrator for clarification.
-</thinking>
-
 # scholarship_application_permission_form - Help Guide
 ## Purpose
 The scholarship application permission form is used to gather essential information from applicants to ensure that their data is shared correctly with relevant parties. This form helps applicants understand what their information will be shared with and gives them control over their data.

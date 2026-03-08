@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on compassionate behavior from individuals who have experienced or witnessed it within an organization or setting. The purpose of this form is to gather information on the impact of compassion on individuals, identify areas where compassionate behavior is already present, and provide opportunities for growth and improvement. This form is meant to be completed by those who have experienced or witnessed compassionate behavior, whether as a recipient or as a witness.
-
-Internal stakeholders may use this form to:
-
-- Identify organizations or settings where compassionate behavior is more likely to happen
-- Develop targeted strategies for promoting and fostering compassion within these organizations or settings
-- Provide feedback to staff or management on areas where they can improve compassionate behavior
-
-To avoid duplication, internal stakeholders will ensure that this form is only completed by individuals who have not already submitted feedback on the same experience.
-
-</thinking>
-
 # Compassion Feedback Form - Help Guide
 ## Purpose
 The Compassion Feedback Form is a tool used to collect feedback on compassionate behavior from individuals who have experienced or witnessed it within an organization or setting. This form helps to identify areas where compassionate behavior is more likely to happen and provides opportunities for growth and improvement.

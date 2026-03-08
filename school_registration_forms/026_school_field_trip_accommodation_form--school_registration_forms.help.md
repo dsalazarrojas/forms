@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Field Trip Accommodation Form - Help Guide
 ## Purpose
 The School Field Trip Accommodation Form is designed to help school staff plan and manage field trips by providing a structured format to collect essential information about the trip, including details about the accommodation, contact persons, and other relevant details.

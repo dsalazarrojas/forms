@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from students who are inquiring about a study abroad scholarship. The purpose of this form is to collect the necessary details from the student to assess their eligibility and progress their application. 
-</thinking>
-
 # study_abroad_scholarship_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect information from students who are interested in applying for a study abroad scholarship. The information collected will be used to assess their eligibility and guide them through the scholarship application process.

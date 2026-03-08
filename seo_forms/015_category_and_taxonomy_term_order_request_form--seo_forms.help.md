@@ -1,5 +1,3 @@
-<thinking>As this form is designed to gather information for category and taxonomy term order requests, it's essential to ensure that users understand its purpose and how to complete it correctly. This form is intended for users who wish to make changes to their website's category and taxonomy structures. The form's fields cover various aspects of the request, including the requester's information, the affected taxonomy type, and the specifics of the changes they're requesting. It's crucial to note that some fields may be optional, and users should only fill out the ones relevant to their request. Additionally, the form's fields should be filled out in a way that makes sense for the requester's specific use case, so providing clear and concise explanations will help users navigate the form efficiently.</thinking>
-
 # Category and Taxonomy Term Order Request Form - Help Guide
 ## Purpose
 This form is for users to request changes to their website's category and taxonomy structures. Fill out this form to submit a request for changes to your site's taxonomy terms.

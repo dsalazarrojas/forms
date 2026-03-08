@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on employee satisfaction, which will be used to gauge employee morale and identify areas for improvement in the organization. This form is not intended for real-time feedback or urgent concerns, but rather for regular, anonymous surveys to help management understand the broader sentiment of the staff. To ensure accuracy, employees are encouraged to be honest and thorough in their responses. This form should not be used to report specific incidents or events; for those, please use the "incident report form". Before proceeding, ensure that you have not previously submitted an employee satisfaction survey, as this will help prevent duplicate data from being collected.
-</thinking>
-
 # employee_satisfaction_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees on their satisfaction with their job, manager, and overall work environment.

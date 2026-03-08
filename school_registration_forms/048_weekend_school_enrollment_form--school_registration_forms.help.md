@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekend School Enrollment Form - Help Guide
 ## Purpose
 This form is designed to facilitate the enrollment process for students in our weekend school program. It collects essential information from parents and students to register them for the program. Please note that only one form submission is allowed per student.

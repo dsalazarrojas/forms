@@ -1,11 +1,3 @@
-<thinking>
-We need to create a help guide for users to understand the purpose and requirements of the Academic Records Request Form. This form is used for requesting official academic records, such as transcripts and proof of enrollment, for students or alumni. To fill out the form, users will need to provide personal and contact information, select the type of records they are requesting, and specify the delivery method and rush processing requirements. Each field on the form has specific requirements and implications, so it's essential to understand what information is needed for a successful submission.
-
-The form has several sections, including Requestor Information, Record Details, Delivery Method, and Processing Information. Users will need to provide a full name, date of birth, contact email address, phone number, and graduation status of the student or alumni. They will also need to select the type of records they are requesting, specify the number of copies required, and choose the delivery method.
-
-Users will need to fill out the form with the correct information to ensure that their records request is processed correctly and efficiently. Rush processing may be selected for an additional fee, and users should be aware of the implications of this choice. Special instructions can also be provided for specific requests.
-</thinking>
-
 # Academic Records Request Form - Help Guide
 ## Purpose
 The Academic Records Request Form is used for requesting official academic records, such as transcripts and proof of enrollment, for students or alumni.

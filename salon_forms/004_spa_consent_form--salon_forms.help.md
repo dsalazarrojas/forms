@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for a spa-related business. The purpose of this form is to gather client data for the services offered by the spa, including client contact information, details about the services provided, and authorization for procedures. This form is meant to be used in a spa setting, where clients may require consent and authorization for certain treatments or services. To ensure that this form is completed accurately and efficiently, please review the following guide on how to complete it.
-</thinking>
-
 # spa_consent_form - Help Guide
 ## Purpose
 This form is designed to collect client information and authorization for services offered by the spa.

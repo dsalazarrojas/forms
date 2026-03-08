@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Butler Service Request Form - Help Guide
 
 ## Purpose

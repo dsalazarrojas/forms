@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their experiences with a product or service. The form is designed to collect feedback and ratings from users, helping the procurement team to identify areas of improvement and make informed decisions about future purchases. This form is not intended for internal use within the organization, but rather for external users who have interacted with the organization's products or services.
-
-Before filling out this form, please ensure that you are providing feedback for a specific product or service and not duplicating your response. If you have already submitted feedback for the same product or service, please do not resubmit.
-
-The form consists of eight sections, each designed to collect specific information from you. Please follow the instructions below to complete the form accurately and effectively.</thinking>
-
 # Procurement Survey - Help Guide
 ## Purpose
 This form is designed to gather information from users about their experiences with a product or service. Your feedback will help the procurement team to identify areas of improvement and make informed decisions about future purchases.

@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to collect information from high school students who are applying for scholarships. The form is meant to gather relevant details from students to determine their eligibility for the scholarship. Each field is designed to collect specific information that will help the scholarship committee review and evaluate the application.
-  To ensure that you complete the form correctly, please read each field's explanation carefully. This will help you understand what information is required and how to provide accurate and relevant details.
-  Before starting, please note that some fields are optional, but it's crucial to fill out the required fields to avoid any delays or issues with your application.
-</thinking>
-
 # High School Scholarship Application Form 2012 2013 - Help Guide
 ## Purpose
 This form is designed to collect information from high school students who are applying for the 2012-2013 scholarship. The form will be used to evaluate each applicant's eligibility for the scholarship.

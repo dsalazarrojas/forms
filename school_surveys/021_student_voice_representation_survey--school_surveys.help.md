@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a collection of various surveys related to student voice representation, with multiple sections and fields for different surveys. The form likely aims to gather feedback and opinions from students on various aspects of their school experience. It is not clear if this form is intended for specific schools or for general student feedback. To ensure accuracy, it would be best to confirm with the form's creator or stakeholders that the form is correctly configured and that each section and field is relevant to its intended purpose.
-
-To provide a helpful guide, I will assume that each section is meant to gather specific feedback on different aspects of the student experience. I will explain each section and field in a way that is clear and practical for the end-user.
-
-</thinking>
-
 # Student Voice Representation Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and opinions from students on various aspects of their school experience. Please answer the questions as honestly and thoroughly as possible to help us understand your thoughts and suggestions.

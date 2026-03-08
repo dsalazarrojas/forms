@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from students about their preferences, concerns, and experiences as they return to school. This data will help the school administration better understand the needs and sentiment of the student body. Please ensure that you've completed any necessary surveys from the previous school year to avoid duplication.
-</thinking>
-
 # Back To School Student Survey - Help Guide
 ## Purpose
 The Back To School Student Survey is a tool for the school administration to understand your thoughts, preferences, and concerns as you return to school. Your responses will help us tailor our services and support to better meet your needs.

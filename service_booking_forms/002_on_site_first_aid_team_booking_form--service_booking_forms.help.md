@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to book an on-site first aid team for a specific event. The form collects necessary details about the event and the services required. 
-It seems this form is not designed for real-time critical events. Therefore, booking an on-site first aid team should be done with enough time in advance to ensure availability.
-This form is not designed for emergency situations, so users do not need to fill it out in real-time.
-
-</thinking>
-
 # On Site First Aid Team Booking Form - Help Guide
 ## Purpose
 This form is used to book an on-site first aid team for a specific event. It collects necessary details such as event description, services required, scheduled date, scheduled time, scheduled location, and contact number. This form is designed to be filled out in advance of the event.

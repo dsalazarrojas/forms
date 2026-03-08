@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from customers on their overall satisfaction with the service desk experience. This form is designed to be completed by customers who have interacted with the service desk team and can provide insights on their experience.
- 
-</thinking>
-
 # Service Desk Satisfaction Survey - Help Guide
 ## Purpose
 The Service Desk Satisfaction Survey is a form used to gather feedback from customers on their overall satisfaction with the service desk experience. Completing this form will provide valuable insights to the team to improve their service.

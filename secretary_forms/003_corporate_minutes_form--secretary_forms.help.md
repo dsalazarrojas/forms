@@ -1,17 +1,3 @@
-<thinking> 
-This form is a crucial tool for recording and documenting the activities of company meetings, allowing secretaries to accurately and comprehensively report on the meetings. It's essential to ensure that all relevant information, including meeting dates, attendance, and outcomes, is accurately and concisely recorded to avoid duplication of efforts and errors in documentation.
-
-To confirm that you are using this form correctly, please review the form carefully and ensure that:
-
-* You are using the correct meeting date.
-* You are including all relevant meeting attendees.
-* You are accurately documenting meeting outcomes.
-* You are checking the meeting approval status.
-
-If you are unsure about any part of this form, please refer to this guide for further assistance.
-
-</thinking>
-
 # Corporate Minutes Form - Help Guide
 
 ## Purpose

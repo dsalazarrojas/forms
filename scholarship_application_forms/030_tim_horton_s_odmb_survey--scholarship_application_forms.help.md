@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form for users to submit their applications for the Tim Hortons ODMB (Optimization and Data Management Business) scholarship. The form will be reviewed and considered for eligibility, but please note that only applications that meet all required fields will be processed.
 
 **Required fields** are marked as "true" in the form, and failure to complete these fields may result in your application being rejected.

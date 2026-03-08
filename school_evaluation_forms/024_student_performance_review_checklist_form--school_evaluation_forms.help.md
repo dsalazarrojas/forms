@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Performance Review Checklist Form - Help Guide
 ## Purpose
 This form is designed to provide a structured way to evaluate student performance during the school term. It aims to capture relevant information about the student, their school term, and their performance in various areas. The goal is to help teachers and evaluators conduct a thorough and fair assessment of the student's progress.

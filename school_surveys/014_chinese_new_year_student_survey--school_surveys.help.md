@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block)
-
-The Chinese New Year Student Survey is designed to collect information from students about their knowledge, interests, and experiences related to Chinese New Year. The form aims to understand how familiar students are with Chinese New Year, what they know about the holiday, and how they would like to learn more about it. This survey will help teachers and administrators gauge student interest in celebrating Chinese New Year and gather ideas for organizing meaningful and engaging activities. To avoid duplication and confusion, please complete this survey carefully and honestly. 
-
-</thinking>
-
 # Chinese New Year Student Survey - Help Guide
 ## Purpose
 This survey is designed to collect information from students about their knowledge, interests, and experiences related to Chinese New Year.

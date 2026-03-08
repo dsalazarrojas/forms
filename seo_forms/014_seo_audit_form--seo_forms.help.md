@@ -1,10 +1,3 @@
-<thinking>
-This form has been designed to help website owners and SEO professionals gather and review website's search engine optimization (SEO) data.
-The form will collect information about the website, such as its title, URL, and description, as well as meta-author, meta-keywords, and meta-description tags.
-The form is intended to provide a comprehensive review of the website's SEO status, including its current URL, target keyword, and alt tags.
-The form's data will be used to analyze and improve the website's search engine ranking.
-</thinking>
-
 # seo_audit_form - Help Guide
 ## Purpose
 The seo_audit_form is a tool designed to help website owners and SEO professionals analyze and improve a website's search engine optimization (SEO) status.

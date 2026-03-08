@@ -1,20 +1,3 @@
-<thinking>
-This form is used to allow users to opt-in to receive free email updates. The purpose of this form is to gather information from users about their preferences for receiving email updates. By filling out this form, users can choose to receive email updates from specific companies (e.g., Google, Amazon), choose the frequency of the updates (e.g., weekly, daily, monthly), and choose the type of updates (e.g., newsletter, mailing list). This form is designed to be used by users who are interested in receiving email updates but do not want to provide their email address unless they explicitly opt-in. The form is not intended to be used for users who have already opted-in or have been automatically opted-in through other means.
-
-The form should not be used to collect email addresses from users who have not explicitly opted-in, as this would be a violation of the General Data Protection Regulation (GDPR) and other data protection regulations.
-
-Before starting, please note that the form is split into 7 fields:
-
-*   Subscribe
-*   Email
-*   Mailing List
-*   Company
-*   Organization
-*   Newsletter
-*   Mailing Lists
-
-</thinking>
-
 # opt_in_form_get_free_email_updates - Help Guide
 ## Purpose
 This form is designed to allow users to opt-in to receive free email updates from specific companies and choose the frequency and type of updates they are interested in receiving.

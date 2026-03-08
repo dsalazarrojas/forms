@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians about their child's enrollment in a preschool program. The form will help staff at the preschool understand important details about the child and their family, including contact information, child's name and birthdate, and payment details.
-</thinking>
-
 # Preschool Enrollment Form - Help Guide
 
 ## Purpose

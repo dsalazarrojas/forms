@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cosmetology Kit Survey - Help Guide
 
 ## Purpose

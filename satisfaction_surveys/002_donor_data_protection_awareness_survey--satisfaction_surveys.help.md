@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gauge donors' awareness and understanding of data protection and collection practices within the organization. This form aims to collect information from donors about their knowledge and attitudes towards data protection and collection. The goal is to evaluate the effectiveness of the organization's data protection and collection practices and make informed decisions for future improvements. 
-
-This form should only be completed by donors, not employees of the organization. If a donor has previously completed this survey, please refrain from completing it again.
-
-</thinking>
-
 # Donor Data Protection Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information from donors about their knowledge and attitudes towards data protection and collection practices within our organization. Your input will help us understand where we stand and make informed decisions to better serve you.

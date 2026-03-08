@@ -1,13 +1,3 @@
-<thinking>
-The primary purpose of this form is to facilitate the upload and tracking of documents related to Dropbox Scholarships. Users must confirm whether they have any documents to upload before proceeding with the actual upload process.
-
-This form will ensure that users only upload necessary documents and provide clear information about their uploaded files. The form also collects metadata about the uploaded documents, such as their type, size, and timestamp.
-
-By using this form, the scholarship application process will become more efficient and organized. The form will guide users through a series of questions to ensure that they have all necessary information for their application.
-
-This form has been designed to avoid duplication of effort by asking only for information that is relevant to the upload process.
-</thinking>
-
 # Dropbox Scholarship Document Upload Form - Help Guide
 ## Purpose
 The Dropbox Scholarship Document Upload Form is a tool used to upload and track documents related to scholarships. This form is intended for users to confirm whether they have any documents to upload and to provide clear information about their uploaded files.

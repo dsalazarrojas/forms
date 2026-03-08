@@ -1,8 +1,4 @@
-> <thinking>
-This form is used to gather feedback from users about their satisfaction with different tiers and intervals. It's designed to be completed by users who are part of a team or organization that is structured into different tiers (e.g. team members, departmental teams, etc.) and intervals (e.g. monthly, quarterly, annually). The form is meant to be completed by a single user, and it's optional to provide their email address and phone number.
-</thinking>
-
-# Tier And Interval Survey - Help Guide
+> # Tier And Interval Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their satisfaction with different tiers and intervals. It will ask you to select the tiers and intervals that are relevant to you, and provide any comments or feedback you may have about each tier and interval.
 

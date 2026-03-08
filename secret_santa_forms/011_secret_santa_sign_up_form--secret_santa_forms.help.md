@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the Secret Santa gift exchange. The purpose of this form is to determine whether participants want to be part of the gift exchange and to collect their name and gift preferences. This form is not meant to be filled out by participants who do not plan to give or receive gifts. Please ensure that each participant has filled out this form only once.
-</thinking>
-
 # Secret Santa Sign Up Form - Help Guide
 ## Purpose
 The Secret Santa Sign Up Form is used to collect information from participants in the Secret Santa gift exchange. This form is used to determine whether participants want to be part of the gift exchange and to collect their name and gift preferences.

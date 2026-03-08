@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students and faculty about their experience and satisfaction at their school. The information collected will help us understand your thoughts and suggestions, which will be used to improve our services and provide a better environment for students and staff.

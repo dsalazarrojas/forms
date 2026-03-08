@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to measure the client's success in partnership with our organization. The purpose is to gauge the client's satisfaction with our services, overall experience, and areas for improvement. This form will help us understand the client's engagement level, relationship health, and value delivered, which will enable us to refine our services and provide better support.
-
-Please note that the form is designed to be completed by the client themselves, and the responses will be used to improve our partnership and services. This is not a duplicate or redundant form, and the information provided will be used to inform our future actions and decisions.
-
-</thinking>
-
 # Client Success Measurement Survey - Help Guide
 ## Purpose
 The Client Success Measurement Survey is designed to measure the client's success in partnership with our organization. It aims to understand their satisfaction, engagement, and relationship with our services.

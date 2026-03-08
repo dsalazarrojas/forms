@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive guide for patients to provide informed consent before undergoing laser hair removal treatment. It will help you understand the form's purpose, how to complete it, and what each field means.
-
-The form is designed to gather essential information from patients, including their personal details, treatment specifics, medical history, allergies, and contact information. This guide will walk you through each field, ensuring you provide accurate and complete information.
-
-Before we dive into the form explanation, please note that the form's structure and content are based on publicly available metadata and are not affiliated with any specific platform. This form was created using AI and is released under a Creative Commons Attribution 4.0 license, allowing you to use, modify, and share it freely.
-
-</thinking>
-
 # Laser Hair Removal Consent Form - Help Guide
 ## Purpose
 The Laser Hair Removal Consent Form is a document that you, as a patient, will be required to sign before undergoing laser hair removal treatment. This form is essential to ensure you understand the treatment process, potential risks, and your role in the treatment.

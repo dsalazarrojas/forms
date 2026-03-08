@@ -1,7 +1,3 @@
-<thinking>
-The Foreign Conflict Awareness Survey is a form designed to gauge users' awareness and perceptions of foreign conflicts, including their knowledge, feelings, and opinions on the subject. This form is intended to be a general assessment tool for users to provide their honest feedback on foreign conflicts. It is essential to note that the information collected through this form will be used to better understand users' attitudes and opinions on foreign conflicts. Please ensure that you have a genuine understanding of the conflicts mentioned in the form before proceeding.
-</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect users' perceptions, knowledge, and opinions on foreign conflicts. It will help us understand their awareness and attitudes towards these conflicts.

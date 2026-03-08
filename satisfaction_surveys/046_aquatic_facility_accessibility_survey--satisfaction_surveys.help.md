@@ -1,19 +1,3 @@
-<thinking>
-
-This form is intended to be an accessible survey for people visiting aquatic facilities. It gathers data on respondents' experiences and perceptions of the facility's accessibility features. 
-
-This form aims to collect information on:
-- Visitation frequency
-- Disability or mobility status
-- Accessibility features such as parking, entrance, restrooms, seating, signage, and staff assistance
-- Overall satisfaction
-
-This form is designed to be simple and easy to use, allowing respondents to provide feedback on their experiences without being too intrusive. 
-
-Please note that the form has been created to be as generic as possible, without any affiliation or derivation from any specific aquatic facility.
-
-</thinking>
-
 # Aquatic Facility Accessibility Survey - Help Guide
 
 ## Purpose

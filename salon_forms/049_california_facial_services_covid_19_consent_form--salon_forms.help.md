@@ -1,9 +1,3 @@
-<thinking>
-  This form is a COVID-19 consent form for a salon in California. It gathers essential information from clients about their health status, travel history, and understanding of the salon's policies to minimize the risk of COVID-19 transmission.
-  This form ensures that the client is aware of the risks associated with visiting a salon during the pandemic and agrees to abide by the salon's policies, including wearing a mask, temperature screening, hand sanitization, and social distancing.
-  Before filling out this form, please review each field carefully to ensure you understand its purpose and implications.
-</thinking>
-
 # California Facial Services COVID 19 Consent Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients about their health status, travel history, and understanding of the salon's COVID-19 policies to ensure a safe and healthy environment for all clients and staff.

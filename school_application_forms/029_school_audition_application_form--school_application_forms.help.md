@@ -1,7 +1,3 @@
-<thinking>
-This form, "Application_Form," is designed to collect contact information and audition details from applicants. It is intended for individuals who want to apply for a specific audition or event, such as a school or performance audition. This form is typically used by applicants to provide their contact details and schedule information for the audition. To avoid duplication, please ensure that you have not already submitted an application for this audition before filling out this form.
-</thinking>
-
 # Application_Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and audition details from applicants for a specific audition or event.

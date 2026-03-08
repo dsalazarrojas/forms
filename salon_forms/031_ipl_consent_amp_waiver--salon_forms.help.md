@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this "ipl_consent_amp_waiver" form, we need to understand its purpose and ensure that users understand how to complete it correctly. Based on the form's structure, it appears to be for collecting client information and consent for intellectual property (IP) purposes. This form might be used in various contexts, such as in a law firm or in an IP-related service company, where users (representatives) need to gather client data and get consent for specific projects. It's essential to ensure that users complete this form accurately and correctly to maintain the required level of non-duplication and relevance.
-</thinking>
-
 # ipl_consent_amp_waiver - Help Guide
 ## Purpose
 The "ipl_consent_amp_waiver" form is designed to collect client information and IP consent for specific projects. This includes gathering client name, contact information, IP lawyer details, and IP consent. The form is crucial for ensuring accurate record-keeping and maintaining clear communication with clients.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey designed to collect feedback and satisfaction data about marketing campaigns. It is likely intended to gauge the effectiveness and success of marketing initiatives. I will now create a user-facing help guide based on this form's properties.
-</thinking>
-
 # Marketing Campaign Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and satisfaction data about marketing campaigns. It aims to assess the effectiveness and success of marketing initiatives.

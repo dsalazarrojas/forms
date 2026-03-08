@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for school counselors and administrators to request additional score reports for students. It is used to gather information for the delivery of score reports to the requesting party. 
-
-To ensure accurate and efficient processing, please ensure this form is only used for legitimate requests and that duplicates are not submitted. If you have previously submitted a request for scores, please do not submit this form again. 
-
-Additionally, please note that the delivery method and urgency level may impact processing time and costs associated with the request. 
-
-Please fill out the form carefully, and if you have any questions, do not hesitate to reach out to us.
-
-</thinking>
-
 # Additional Score Report Request Form - Help Guide
 ## Purpose
 The Additional Score Report Request Form is used to request additional score reports for students from school counselors and administrators.

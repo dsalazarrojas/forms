@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by school administrators or authorized personnel to grant field trip permission to students. It allows users to input the necessary information for the trip, including the student's name, contact information (email and phone), date, time, and any additional notes or instructions. Selecting "yes" or "no" to "Select One" or "Select Multiple" options is required, while "note", "decimal", and "integer" fields are optional. This form aims to streamline the process of obtaining required permissions and provide a clear, standardized way to request field trip permission from students.
-</thinking>
-
 # SMV4A Field Trip Permission Form (Stripe) - Help Guide
 ## Purpose
 The SMV4A Field Trip Permission Form (Stripe) is a standardized form used to grant field trip permission to students. It collects necessary contact information, trip details, and any relevant notes or instructions.

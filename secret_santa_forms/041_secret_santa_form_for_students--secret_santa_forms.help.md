@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from students about their Secret Santa preferences. It's essential to fill out this form accurately to ensure that the Secret Santa pairing process runs smoothly. Please review this form carefully and ensure you haven't completed it in the past. This form is only for students, and the information collected will be used exclusively for the Secret Santa gift exchange within the student body.</thinking>
-
 # Secret Santa Form For Students - Help Guide
 ## Purpose
 The Secret Santa Form For Students is designed to gather information about each student's preferences and requirements for the Secret Santa gift exchange. This form helps the Secret Santa organizers understand who to pair with whom, what to expect for gift-giving, and how to tailor gifts accordingly.

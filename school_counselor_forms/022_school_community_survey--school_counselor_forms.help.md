@@ -1,12 +1,3 @@
-<thinking>
-This form is likely used in educational settings to gather feedback from various stakeholders (teachers, students, parents) about the school's community or atmosphere. The form's purpose is to collect suggestions, comments, or opinions on how the school could improve, which could be used to inform decision-making and foster a more positive school environment.
-
-The form seems to be designed to be completed by multiple groups with separate sections for each group's feedback, allowing for a comprehensive understanding of their perspectives. This structure may facilitate comparison and analysis of feedback across different groups, enabling the school to identify areas of improvement.
-
-Before proceeding, it's essential to ensure that this form doesn't duplicate any existing similar forms in your institution. If you're unsure, consider checking with your school's administration or reviewing your school's survey repository.
-
-</thinking>
-
 # school-community-survey - Help Guide
 ## Purpose
 The school-community-survey form is designed to collect feedback from various stakeholders about the school's community or atmosphere, allowing for a more comprehensive understanding of their perspectives and informing decision-making to improve the school environment.

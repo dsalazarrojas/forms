@@ -1,21 +1,3 @@
-<thinking> 
-
-To create a user-facing help guide for the Veterinary Client Satisfaction Benchmark Survey form, we need to consider the purpose of the form and how it can be completed efficiently. This form aims to gather feedback from clients on their experience at the veterinary clinic, including satisfaction with the service provided, interactions with staff, and overall rating of the clinic. 
-
-This form has been designed to collect detailed and concrete information, allowing clinics to assess their performance and make data-driven decisions. The form is divided into multiple sections, covering various aspects of the client's experience. We can categorize these sections into the following areas:
-
-- Client Information (Clinic Name, Contact Information, Date of Visit)
-- Service Provided (Service Provided)
-- Staff Interactions (Staff Interactions)
-- Satisfaction (Overall Satisfaction, Likely Recommend)
-- Rating (Overall Clinic Rating, Overall Clinic Rating Why Other)
-
-Each section has specific fields that require clients to provide detailed feedback, such as text inputs for comments and open-ended questions, and selection inputs for rating and recommendation. 
-
-Before filling out this form, please ensure that you have all the necessary information ready, especially for fields like Clinic Name, Contact Information, Date of Visit, and Overall Clinic Rating. 
-
-</thinking>
-
 # Veterinary Client Satisfaction Benchmark Survey - Help Guide
 ## Purpose
 This guide is designed to help you complete the Veterinary Client Satisfaction Benchmark Survey form efficiently and effectively.

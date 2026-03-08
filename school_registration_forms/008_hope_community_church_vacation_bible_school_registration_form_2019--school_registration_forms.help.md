@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from students and their parents for the Hope Community Church Vacation Bible School. This form is required for all students who wish to attend the school, and it serves as the primary means of gathering essential contact and demographic data.
-To avoid duplication of effort, please ensure that you have all necessary information before starting the form. This includes:
-* The student's registration date
-* The student's name and grade level
-* The student's allergies and medical conditions
-* The parent's name and contact information
-</thinking>
-
 # Hope Community Church Vacation Bible School Registration Form 2019 - Help Guide
 ## Purpose
 The Hope Community Church Vacation Bible School Registration Form is used to collect registration information from students and their parents. This form is mandatory for all students attending the school.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering students for the Intermediate Honors String Ensemble program. It is designed to collect information from students and parents about the student's contact details, musical instrument of choice, rehearsal and practice schedule, and other relevant information. 
-The purpose of this form is to ensure that all necessary information is collected accurately, and to facilitate communication between students, parents, and teachers. 
-</thinking>
 # Intermediate Honors String Ensemble Registration - Help Guide
 ## Purpose
 

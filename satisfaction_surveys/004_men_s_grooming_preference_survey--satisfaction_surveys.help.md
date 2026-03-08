@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on men's grooming preferences, including haircuts, skincare habits, and other related habits. It is intended to be completed by individuals who frequent men's grooming establishments. The data collected will help in better understanding men's grooming habits and preferences which will be useful for businesses to improve their services.
-</thinking>
-
 # men_s_grooming_preference_survey - Help Guide
 ## Purpose
 This survey aims to gather information about your men's grooming habits and preferences. Your responses will help us understand your needs and provide better services to you.

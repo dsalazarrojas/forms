@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about student interactions, allowing teachers and administrators to track student progress and provide support as needed. The form should be used to collect data that will not be duplicated in other forms, avoiding redundancy and ensuring accurate and comprehensive records.
-</thinking>
-
 # Student Interaction Form - Help Guide
 ## Purpose
 The Student Interaction Form is designed to facilitate communication and collaboration between teachers and students. By completing this form, teachers and students can exchange information about student progress, concerns, and needs.

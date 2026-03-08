@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Mask Usage Frequency Survey - Help Guide
 ## Purpose
 This form is a survey designed to collect information about your habits and satisfaction level with using hair masks. The goal is to gather data on how often you use hair masks and your level of satisfaction with them. This will help us understand your preferences and habits.

@@ -1,7 +1,3 @@
-<thinking> 
-This form appears to be a Course Transfer Application Form used by schools to collect information from students or parents about the process of transferring a student to another course. The form may be used to collect contact details, transfer information, and get a signature from a school counselor, indicating that the student or their parent is aware of and agrees to the transfer process. Before filling out this form, ensure that the information being submitted is accurate and relevant to the student's situation. This form should not be used for multiple applications or submissions, as it is intended for a single transfer request. 
-</thinking>
-
 # Course Transfer Application Form - Help Guide
 ## Purpose
 The Course Transfer Application Form is a document that helps school counselors and administrators manage the process of transferring students to another course. It collects information from students or parents about the transfer request, allowing the school to process the request efficiently.

@@ -1,5 +1,3 @@
-<thinking>...This form is used to record and track student time-off requests from teachers. The purpose of this form is to streamline the process of handling time-off requests, making it easier for teachers to keep track of their schedule and communicate with parents or students. This form should be used when a teacher wants to request a time off from school. Before filling out this form, please ensure that you have not submitted a time-off request in the past 2 weeks, and that your request is not for the same date as another previously submitted request. If you have any questions or concerns, please reach out to the school administration... </thinking>
-
 # School Registration Time Off Form - Help Guide
 ## Purpose
 The School Registration Time Off Form is used to record and track student time-off requests from teachers.

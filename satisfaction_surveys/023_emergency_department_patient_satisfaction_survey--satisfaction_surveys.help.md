@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML form structure, I notice that this form is designed to collect feedback and satisfaction data from patients who have visited the Emergency Department. The purpose of this form is to gather information on the patient's experience, including their satisfaction with various aspects of their care, such as nurse interaction, doctor interaction, wait time, overall experience, and more. This form appears to be comprehensive, covering multiple facets of the patient's visit. I will assume that this form is intended to be completed by patients who have recently visited the Emergency Department.</thinking>
-
 # Emergency Department Patient Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and satisfaction data from patients who have visited the Emergency Department. Your responses will help us improve our services and provide better care for future patients.

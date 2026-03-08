@@ -1,7 +1,3 @@
-<thinking>
-This form is for researchers who wish to apply for a scholarship to support their curriculum transformation research projects. The purpose of this form is to gather information about the applicant, their research proposal, and their budget. Please ensure that you are eligible to apply for this scholarship before completing this form. Additionally, ensure that you are not duplicating an application that has already been submitted. If you are unsure about your eligibility or have already submitted an application, please contact the scholarship committee for clarification.
-</thinking>
-
 # Curriculum Transformation Research Application Form - Help Guide
 ## Purpose
 The Curriculum Transformation Research Application Form is used to collect information from researchers who wish to apply for a scholarship to support their curriculum transformation research projects.

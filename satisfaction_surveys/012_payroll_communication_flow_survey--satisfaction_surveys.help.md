@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees on the communication flow of the payroll process. The purpose of this form is to help management understand how often employees receive information on payroll channels, the clarity of the information, and areas of improvement.
-</thinking>
-
 # Payroll Communication Flow Survey - Help Guide
 ## Purpose
 This form is intended to gather feedback from employees on the communication flow of the payroll process. It will help management understand how often employees receive information on payroll channels, the clarity of the information, and areas of improvement.

@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that end-users understand the purpose and requirements of the Christmas Photography Session Form, and that the form doesn't get duplicated or used for unintended purposes. This form will help collect necessary information to book a Christmas photography session, and it's essential to fill it out accurately. We also need to make sure that end-users understand each field's purpose and requirements.
-
-</thinking>
-
 # Christmas Photography Session Form - Help Guide
 
 ## Purpose

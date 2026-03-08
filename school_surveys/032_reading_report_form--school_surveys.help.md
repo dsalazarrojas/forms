@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to capture information from students about their reading progress, level, and other details. To ensure that this form is filled out correctly, please make sure you are a student or have permission from the student to fill out this form. This form is not meant to be filled out by teachers or staff members as they will likely already have access to student information.
-
-</thinking>
-
 # Reading Report Form - Help Guide
 ## Purpose
 The Reading Report Form is used to collect information from students about their reading progress, level, and other relevant details.

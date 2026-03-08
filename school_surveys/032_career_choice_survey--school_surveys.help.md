@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help students reflect on their career aspirations and goals, gathering valuable insights into their interests, motivations, and support needs. The purpose of this form is to inform the development of career counseling services that will support students in making informed decisions about their future careers. To avoid duplication of survey responses, please ensure that each student completes the survey individually.
-</thinking>
-
 # Career Choice Survey - Help Guide
 ## Purpose
 This form is designed to gather information about students' career aspirations and goals, helping to inform the development of career counseling services that cater to their needs.

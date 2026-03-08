@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a survey used to gather feedback from travelers about their experience with a travel service. The form likely aims to measure the level of satisfaction with the travel service, overall experience, and potential areas for improvement. It might also collect contact information for follow-up purposes and details about the survey completion time and date. Before proceeding, ensure that this form is not a duplicate and that the feedback gathered will be relevant and useful to the travel service provider.
-
-</thinking>
-
 # Travel Service Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from travelers about their experience with a travel service. The goal is to gauge overall satisfaction and identify areas for improvement.

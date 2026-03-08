@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to allow users to place an online order for a laundry service. The form will guide users through selecting pickup and delivery dates, locations, order types, items to be laundered, and other relevant information. This form does not require authentication or login, making it accessible to anyone who wants to place an order. 
-
-This form is designed for general public use, so it's essential to ensure that users understand how to complete it correctly. The fields are straightforward, but some might be unfamiliar to users who are not familiar with online forms. The goal is to walk users through the process in a clear and concise manner, so they can easily place their order with the laundry service.
-</thinking>
-
 # Laundry Service Online Order Form - Help Guide
 ## Purpose
 This form is designed for the general public to place online orders for the laundry service. It guides you through selecting relevant information to ensure your order is processed correctly.

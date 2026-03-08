@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate communication between parents and teachers during parent-teacher conferences. It is intended to help teachers gather information from parents about a student's progress, behavior, and attendance, while also allowing teachers to share their own observations and feedback. The form is not affiliated with any specific platform or company, and its purpose is to provide a neutral and helpful tool for parents and teachers to have a productive conversation.
-
-</thinking>
-
 # Parent Teacher Conference Form - Help Guide
 
 ## Purpose

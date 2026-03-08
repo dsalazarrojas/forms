@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to register a student for a preschool package. The form captures information about the student, their parents, and their preferences. The goal is to create a comprehensive profile for the student's registration.
-
-This form is intended for parents to provide their child's details, including their name, contact information, and preferences. The form also asks for the student's age, school, and class information. Additionally, the form captures the parent's contact information, such as email and phone number.
-
-To ensure accuracy and consistency, it's essential to complete the form carefully and attentively. Please review each field to ensure you've provided the correct information before submitting the form.
-
-</thinking>
-
 # Preschool Package Registration Form - Help Guide
 ## Purpose
 This form is used to register a student for a preschool package, capturing essential details about the student and their parent.

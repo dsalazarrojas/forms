@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from individuals who are interested in pursuing an MBA degree. It is intended to help the admissions committee assess the qualifications and suitability of each applicant. The form collects background information, academic record, work experience, education background, and other relevant details that will be used to evaluate the applicant's eligibility for the MBA program.
-
-Before filling out this form, please ensure that you have reviewed the program's admission requirements and that you have a clear understanding of what is being asked.
-
-</thinking>
-
 # MBA Qualifying Survey - Help Guide
 ## Purpose
 The MBA Qualifying Survey is a form designed to gather information from individuals who are interested in pursuing an MBA degree. The form helps the admissions committee assess the qualifications and suitability of each applicant.

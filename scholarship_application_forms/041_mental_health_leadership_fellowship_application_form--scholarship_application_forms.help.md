@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to be used by applicants for the Mental Health Leadership Fellowship program. This is a comprehensive application form designed to gather information about each applicant's background, education, and experience in mental health leadership. 
-
-The form is used to evaluate the applicant's eligibility for the fellowship and will help the program administrators to assess their qualifications and make informed decisions. 
-
-Please review the form carefully and fill it out accurately to ensure that your application is complete and error-free.
-
-</thinking>
-
 # Mental Health Leadership Fellowship Application Form - Help Guide
 ## Purpose
 The Mental Health Leadership Fellowship Application Form is used to gather information about each applicant's background, education, and experience in mental health leadership. This information will be used to evaluate your eligibility for the Mental Health Leadership Fellowship program.

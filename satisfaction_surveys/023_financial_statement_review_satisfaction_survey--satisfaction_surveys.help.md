@@ -1,7 +1,3 @@
-<thinking>
-This is a form to collect feedback from clients and reviewers regarding their experience with financial institutions' review processes. It's essential to understand that this form is not meant to be completed by clients, but rather by the reviewers who have conducted reviews of the financial institutions. The purpose of this form is to gather information about the reviewer's experience, including the date and time of the review, the institution they reviewed, and their overall rating of the review process. It's also meant to collect any comments or notes the reviewer may have about the process. The form will be used to improve the review process and ensure it meets the needs of both the clients and the reviewers.
-</thinking>
-
 # Financial Statement Review Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from reviewers about their experience with financial institution reviews. It will help us understand areas for improvement and ensure that our review process meets your needs.

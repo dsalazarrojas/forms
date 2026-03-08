@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about the efficiency of the Finance Department. The survey is designed to assess the performance of the finance department, its strengths and weaknesses, and areas for improvement. It is intended for use by the finance team and other stakeholders to gather insights and identify areas where the department can improve its performance.
-Before filling out this form, please ensure you have not already completed it in the past. This will help prevent duplicate submissions and ensure that your feedback is recorded accurately.
-</thinking>
-
 # Finance Department Efficiency Survey - Help Guide
 
 ## Purpose

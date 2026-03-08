@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students who participate in a Career Day event, which is an opportunity for them to explore various career paths and interact with exhibitors. The purpose of this form is to understand their experience, opinions, and suggestions for improvement. This form should only be filled out by students who attended the Career Day event, and it is not intended to be filled out by multiple people with the same name. If a student has already filled out this form, there is no need to fill it out again.
-</thinking>
-
 # Career Day Survey - Help Guide
 ## Purpose
 The Career Day Survey is a form designed to gather feedback from students who participate in a Career Day event. The form is used to understand their experience, opinions, and suggestions for improvement.

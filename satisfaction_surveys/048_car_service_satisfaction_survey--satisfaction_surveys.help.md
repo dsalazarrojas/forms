@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data from customers about their experience with our car service. The goal is to gather feedback on various aspects of our service, such as staff friendliness, service quality, and overall satisfaction. This form will help us understand what we're doing well and where we can improve. Please fill out this form only once you have completed the car service and are able to provide honest and detailed feedback.
-
-</thinking>
-
 # Car Service Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our car service. Your responses will help us understand what we're doing well and where we can improve.

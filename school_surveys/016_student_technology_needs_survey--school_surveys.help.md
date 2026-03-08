@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Technology Needs Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the technology needs of students, teachers, and schools. It is intended to gather data on what technology devices and tools are required to support students' learning and teaching needs.

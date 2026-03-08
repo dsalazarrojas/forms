@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Form - Help Guide
 ## Purpose
 The Student Form is used to collect student information for registration or verification purposes. This form should only be completed by students to provide their personal details, including name, email, phone number, birthday, and address.

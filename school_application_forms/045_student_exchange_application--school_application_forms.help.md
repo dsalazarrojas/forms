@@ -1,8 +1,3 @@
-<thinking>
-The Student Exchange Application form is intended to collect information from students applying for exchange programs. This form ensures that students provide their basic contact information, school affiliations, and program preferences. The form is crucial in helping the exchange program administrators make informed decisions about student placements.
-We have to check that the form is not duplicated in the system before we create a new instance of it. If a duplicate form is detected, the system will prevent us from creating a new instance of it.
-</thinking>
-
 # Student Exchange Application - Help Guide
 ## Purpose
 The Student Exchange Application form is designed to collect information from students applying for exchange programs. This form is used to gather basic contact information, school affiliations, and program preferences of the students.

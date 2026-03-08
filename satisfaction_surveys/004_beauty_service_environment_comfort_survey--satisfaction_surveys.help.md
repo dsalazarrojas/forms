@@ -1,14 +1,3 @@
-<thinking>
-The form "Beauty Service Environment Comfort Survey" is a tool designed to gauge the comfort and satisfaction of clients with their beauty services experience. This form is intended to collect specific information about the cleanliness, temperature, lighting, music, noise level, and overall environment of the salon, as well as the friendliness of the staff and the client's likelihood to return. By answering these questions, clients can provide valuable feedback that helps the salon understand areas for improvement and make necessary changes to create a more comfortable and satisfying experience.
-
-This form is designed to be completed by clients who have recently received a beauty service at the salon. The answers provided will be used to evaluate the overall comfort and satisfaction of the client's experience and identify areas that need to be improved.
-
-The questions are designed to be simple and easy to understand, with multiple-choice options for most of the questions. This makes it easy for clients to provide their feedback in a quick and efficient manner.
-
-Before starting the form, make sure you have recently received a beauty service at the salon and are willing to provide honest feedback about your experience.
-
-</thinking>
-
 # Beauty Service Environment Comfort Survey - Help Guide
 ## Purpose
 This guide is designed to help you complete the Beauty Service Environment Comfort Survey form. The form is used to collect feedback about your experience at the salon, and your input is greatly appreciated.

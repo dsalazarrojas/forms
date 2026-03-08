@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning:
-This help guide is intended to support users in completing the "Long Distance Relationship Survey" form. The form aims to gather information about the experiences, habits, and satisfaction levels of individuals in long distance relationships. It collects data on relationship status, frequency and type of communication, emotional intimacy, conflict resolution, and other aspects relevant to the relationship.
-
-This guide will provide a clear and concise explanation of each field in the form, ensuring users understand the purpose and requirements of each section, thereby facilitating accurate and complete completion of the form.
-
-</thinking>
-
 # Long Distance Relationship Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences and feelings in a long distance relationship. It will help us better understand the challenges and successes of relationships that are physically apart. Your input will be valuable for us to improve our services.

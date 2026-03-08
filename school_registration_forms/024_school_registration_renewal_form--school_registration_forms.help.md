@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Registration Renewal Form - Help Guide
 
 ## Purpose

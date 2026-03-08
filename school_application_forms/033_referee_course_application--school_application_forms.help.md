@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the referee course application form, we need to understand the context in which this form is being used. This form is likely used in an educational setting, such as a school or university, where students are applying to participate in a referee course. The form is designed to collect information from students about their name, school, and course preferences. It also requires information about the referee course details, such as start and end dates, duration, and time slots. Additionally, the form might be used to collect feedback or comments from students, which is why the "Referee Course Notes" field is present.
-
-Before proceeding, ensure that you are using this form for its intended purpose and not duplicating any other existing forms. If you are unsure, please check with your supervisor or the form's administrator.
-</thinking>
-
 # Referee Course Application - Help Guide
 ## Purpose
 

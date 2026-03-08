@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data on the usage and satisfaction of nail polish drying devices. The form is intended for users who have experience with these devices and can provide valuable insights on their usage frequency, satisfaction levels, and any issues they encounter. The form will help to understand which devices are more popular, which brands are preferred, and what issues users commonly face.
-
-Please ensure that you have used a nail polish drying device before answering this form, as it's designed to gather experiences from actual users.
-
-Before starting, ensure you understand the context and purpose of this form. If you've used multiple devices, please answer according to your most recent experience.
-
-</thinking>
-
 # Nail Polish Drying Device Usage Survey - Help Guide
 ## Purpose
 This form is designed to collect data on the usage and satisfaction of nail polish drying devices. It's intended for users who have experience with these devices and can provide valuable insights on their usage frequency, satisfaction levels, and any issues they encounter.

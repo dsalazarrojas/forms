@@ -1,8 +1,3 @@
-<thinking>
-This form is a parent feedback survey for school extracurricular activities. Its purpose is to gather information from parents about their experiences and opinions on the school's extracurricular activities. The form is used to gauge parent satisfaction and identify areas for improvement. Before providing feedback, please ensure that you have completed the entire survey to avoid duplication of effort and provide a comprehensive understanding of your experience.
-
-</thinking>
-
 # School Extracurricular Activities Parent Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather your feedback and opinions on your child's school extracurricular activities. Your input will help us identify areas of improvement and provide better services to our students and parents.

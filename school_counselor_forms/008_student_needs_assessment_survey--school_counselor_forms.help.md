@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for a school counselor to assess the needs of students. The form could be used to gather information from students about their academic, social, and personal needs, such as academic support, emotional support, and extracurricular activities. The form might be used to identify areas of support or intervention needed by students. However, this form is generated without access to proprietary content, so its specific purpose and functionality are unclear. It's possible the form is a generic or sample template.
-</thinking>
-
 # student_needs_assessment_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students about their needs, but its specific purpose and functionality are unclear.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information for summer school applications. This form should only be used for legitimate applications and not for test purposes or other non-application uses.
-
-Please ensure that you are using the correct information in each field to avoid mistakes and ensure that your application is processed correctly. If you are unsure about any field, you can refer to this guide to understand the required information.
-
-</thinking>
-
 # Summer School Application Form - Help Guide
 ## Purpose
 

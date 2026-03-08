@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_overall_satisfaction_survey_form - Help Guide
 
 ## Purpose

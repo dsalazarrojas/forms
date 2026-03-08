@@ -1,7 +1,3 @@
-<thinking>
-This form is for school counselors to obtain consent from students for various aspects of their educational records and activities. This form is designed to be used in a school setting, possibly by a school counselor or administrator. To ensure relevance, only school-related fields should be filled out, and this form should not be used for any other purpose. To avoid duplication, only one Ferpa Consent Form should be filled out per student.
-</thinking>
-
 # Ferpa Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain consent from students for various aspects of their educational records and activities.

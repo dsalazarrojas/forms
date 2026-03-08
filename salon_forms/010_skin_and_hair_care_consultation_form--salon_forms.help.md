@@ -1,12 +1,3 @@
-<thinking>
-We should start by explaining the purpose of this form to the user. This form is designed to collect information from clients about their skin and hair care needs and preferences. The form will help practitioners understand the client's skin type, condition, and treatment history, as well as their hair condition, treatment, and care habits. This information will help the practitioner provide more effective and personalized care to the client. We will also need to check if this form has been filled out before to prevent duplication of effort.
-
-The form consists of several sections, each with its own field. The first section is about the client's skin and hair type, condition, and treatment history. The second section is about the client's medical conditions, medications, and allergies. The third section is about the client's hair treatment and care habits.
-
-We should also note that some fields are required and some are not. Required fields are marked as such in the form and must be filled out for the form to be submitted.
-
-</thinking>
-
 # Skin And Hair Care Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients about their skin and hair care needs and preferences. This information will help practitioners provide more effective and personalized care to the client.

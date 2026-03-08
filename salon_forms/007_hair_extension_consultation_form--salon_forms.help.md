@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the Hair Extension Consultation Form, we need to ensure that end-users understand the purpose of the form, how to complete it, and what each field means. Let's break it down:
-
-The purpose of this form is to gather information from clients regarding their hair extension needs, preferences, and details. It will help stylists understand the client's requirements and provide the best possible experience.
-
-Before we begin, please note that this form is designed to be completed by clients, so it's essential to be accurate and honest with your answers.
-
-</thinking>
-
 # Hair Extension Consultation Form - Help Guide
 ## Purpose
 The Hair Extension Consultation Form is designed to gather information about your hair extension needs, preferences, and details. This information will help our stylists understand your requirements and provide the best possible experience for you.

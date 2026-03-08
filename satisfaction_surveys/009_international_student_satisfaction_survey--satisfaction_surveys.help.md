@@ -1,11 +1,3 @@
-<thinking>
-
-We designed this form to gather feedback from international students on their experience at our institution. This survey will help us understand their satisfaction levels and gather more information on their visit. Please note that this form does not track individual student data and all responses will be used anonymously and for general improvement purposes only.
-
-To ensure that your feedback is useful and actionable, please make sure to answer each question truthfully and to the best of your ability.
-
-</thinking>
-
 # International Student Satisfaction Survey - Help Guide
 ## Purpose
 

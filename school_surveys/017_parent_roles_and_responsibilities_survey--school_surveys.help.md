@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the "Parent Roles And Responsibilities Survey" form is filled out accurately and effectively, we need to confirm that it's being used correctly. This form is used to collect information about the level of involvement and engagement parents have with their children's school attendance, communication with the school, and overall performance. It's essential that this form is filled out for each parent/guardian in the household, as it will be used to create a comprehensive picture of parent roles and responsibilities. Please ensure that this form is not filled out multiple times for the same parent/guardian.
-</thinking>
-
 # Parent Roles And Responsibilities Survey - Help Guide
 ## Purpose
 This survey aims to gather information about the parent/guardian's level of involvement and engagement in their child's education. It will help the school understand the strengths and challenges of each parent/guardian, ultimately contributing to a more personalized and supportive educational experience for the child.

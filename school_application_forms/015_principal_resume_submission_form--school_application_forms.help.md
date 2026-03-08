@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from school principals to support their application process. It is not a substitute for an official school application form. Please ensure you are submitting this form for the correct purpose and context.
-</thinking>
-
 # Principal Resume Submission Form - Help Guide
 ## Purpose
 The Principal Resume Submission Form is a document that allows school principals to submit their personal and professional information to support their application process. This form is designed to gather relevant details about the principal's background, experience, and qualifications.

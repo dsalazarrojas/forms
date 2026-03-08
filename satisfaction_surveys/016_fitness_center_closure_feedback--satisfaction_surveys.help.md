@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Center Closure Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the impact of your fitness center's closure. It aims to help us understand how the closure affected your experience and help us improve our services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Packaging Innovation Grant Application Form - Help Guide
 
 ## Purpose

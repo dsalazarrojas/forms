@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential client information and obtain their consent for treatment at a salon or spa facility. This form will help collect details about the client's medical history, allergies, and skin health, as well as their contact information and any medical notes that are relevant to their treatment. The form will also ask for the client's signature to acknowledge that they have read and understood the provided information and will provide accurate and truthful answers.
-
-To avoid duplication of efforts, please ensure that this form is not used in conjunction with other forms that serve the same purpose or have similar requirements. If you are unsure, please review the form carefully and contact the form creators at form@gic.mx.
-</thinking>
-
 # Facial Client Intake And Consent Form - Help Guide
 
 ## Purpose

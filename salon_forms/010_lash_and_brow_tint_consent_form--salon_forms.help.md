@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining client consent for lash and brow tinting services. It gathers information about the client's understanding of the treatment process, allergies, medical history, and previous allergies. The form also asks for a list of medications the client is currently taking. 
-</thinking>
-
 # Lash And Brow Tint Consent Form - Help Guide
 ## Purpose
 This form is a consent form for clients undergoing lash and brow tinting services. It ensures that clients understand the process and risks involved with the treatment, as well as any allergies or medical conditions that may impact their safety.

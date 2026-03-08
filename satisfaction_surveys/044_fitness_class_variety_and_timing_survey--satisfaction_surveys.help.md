@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for evaluating the fitness class variety and timing. The goal is to assess whether a fitness program offers a diverse range of classes at different times of the day to cater to different user needs. This form should not be filled out if the user has already completed it before, as duplicate responses are not necessary or useful.
-</thinking>
-
 # Fitness Class Variety And Timing Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the fitness classes offered at our facility. We want to know about the diversity of classes, their timing, and what you like or dislike about them. This will help us improve our class offerings to better serve our members.

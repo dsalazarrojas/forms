@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to gauge the performance of users in speedcubing events. This information will help us evaluate our cubing community's skill level and identify areas for improvement.
-The form is part of a larger effort to collect data on user engagement and performance. By analyzing these survey results, we can refine our cubing platform to better serve our users.
-Before proceeding, ensure that you have filled out the form accurately and honestly. Your input is invaluable in helping us understand your experience with our platform.
-</thinking>
 # Cubing Performance Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data on your speedcubing performance. This information will be used to evaluate the overall skill level of our cubing community and identify areas for improvement.

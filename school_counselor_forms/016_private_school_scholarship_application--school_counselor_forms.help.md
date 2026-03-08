@@ -1,7 +1,3 @@
-<thinking>
-This form is a private school scholarship application form designed for students to submit their applications and supporting information to potential scholarship providers. This form will help students present their academic and personal details, providing scholarship providers with the necessary information to evaluate their applications. To prevent duplication, please only submit one application per student.
-</thinking>
-
 # private_school_scholarship_application - Help Guide
 ## Purpose
 The private_school_scholarship_application form is a tool for students to gather and submit their information for private school scholarships.

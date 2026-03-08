@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Camper Satisfaction Survey Form - Help Guide
 ## Purpose
 

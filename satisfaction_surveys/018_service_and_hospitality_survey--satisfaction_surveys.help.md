@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service And Hospitality Survey - Help Guide
 
 ## Purpose

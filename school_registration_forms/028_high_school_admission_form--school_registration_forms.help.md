@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for high school admission purposes, and its purpose is to collect relevant information from students and their parents. The form is designed to capture personal details of both the student and their contact/guardian information. It is likely used by school administrators to process high school admission applications. 
-
-The form does not allow for any fields to be skipped, ensuring that essential details are collected for each applicant.
-
-The form is structured in a linear fashion with no branching or conditional logic, implying it is a straightforward form meant to collect basic information for processing.
-
-Given its structure and required fields, it seems the form is intended for a physical or paper-based application process, with no electronic verification methods.
-
-</thinking>
-
 # High School Admission Form - Help Guide
 ## Purpose
 This form is used to collect personal information from students and their parents for high school admission processing.

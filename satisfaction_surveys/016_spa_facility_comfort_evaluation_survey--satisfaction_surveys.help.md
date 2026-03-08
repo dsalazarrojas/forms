@@ -1,5 +1,3 @@
-<thinking>This form is intended to gather feedback on the comfort level of a spa facility, allowing the spa's management to evaluate and improve their services. The form should only be completed by the guests who have actually experienced the spa's facilities and services. Please do not complete this form if you have not visited the spa recently or if you are not a real guest. If you have already filled out this form for the same spa, please do not complete it again unless there have been significant changes to the facilities or services since your last visit. This form will help the spa improve its comfort levels and provide better services to its guests.</thinking>
-
 # Spa Facility Comfort Evaluation Survey - Help Guide
 ## Purpose
 The Spa Facility Comfort Evaluation Survey is a form designed to gather feedback on the comfort level of a spa facility. It asks guests to rate their experience in various areas, providing the spa management with valuable insights to improve their services.

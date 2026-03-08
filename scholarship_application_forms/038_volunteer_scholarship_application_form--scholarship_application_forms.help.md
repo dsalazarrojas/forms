@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for applicants to submit their applications for scholarships offered by a volunteer organization. The purpose of the form is to collect information from applicants about their volunteer hours, school information, and other relevant details. This form is intended to be filled out by applicants who are interested in receiving a scholarship. It's recommended that applicants only submit one application per academic term. If an application is incomplete, it may be rejected. Please check the fields to ensure they are accurate and complete before submitting the form.
-
-</thinking>
-
 # Volunteer Scholarship Application Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for volunteer scholarships.

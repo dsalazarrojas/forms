@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect client information for dermal filler procedures. The form will be used to gather essential details about the client, including their name, contact information, and appointment schedule. This information will be used to prepare for the client's appointment and to communicate with them effectively.
-To avoid duplication, ensure that the client's details are not already stored in the system before submitting this form.
-</thinking>
-
 # Dermal Filler Client Intake Form - Help Guide
 ## Purpose
 The Dermal Filler Client Intake Form is designed to collect client information for dermal filler procedures. This form helps to gather essential details about the client, including their name, contact information, and appointment schedule, to prepare for their appointment and facilitate effective communication.

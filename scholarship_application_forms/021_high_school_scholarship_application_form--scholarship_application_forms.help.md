@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 This form is designed for high school students who wish to apply for a scholarship. The purpose of this form is to collect information from students about their academic and extracurricular activities, as well as contact and personal information. Please ensure that you provide accurate and honest information to increase your chances of being selected.
  
 # High School Scholarship Application Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from new clients who are seeking doula services for their childbirth experience. The form is intended to gather details about the client's medical history, birth preferences, and logistics for the doula's support. The purpose of this form is to ensure that the doula service provider has a comprehensive understanding of the client's needs and can provide personalized support throughout the client's pregnancy, labor, and postpartum period. This form should only be filled out by new clients who are seeking the services of a doula. It is not meant to be completed by clients who have already worked with a doula before.
-</thinking>
-
 # Birth Doula New Client Intake - Help Guide
 ## Purpose
 This form is designed to collect information from new clients who are seeking doula services for their childbirth experience.

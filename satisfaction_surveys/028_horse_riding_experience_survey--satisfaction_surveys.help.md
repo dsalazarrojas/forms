@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Horse Riding Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their horse riding experience. The survey includes various fields that ask about the quality and rating of their tour, instructor, and other aspects of their visit. The goal is to gather information that can be used to improve the riding school's services and ensure customer satisfaction.

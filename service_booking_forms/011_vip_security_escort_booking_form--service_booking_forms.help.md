@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for booking and managing VIP security escorts, where the user needs to provide personal and contact information to request or confirm a security escort service. This form might be used by a security company or a government agency that provides security services for high-profile individuals or events. The purpose of this form is to collect relevant information from the submitter, such as their name, contact details, and the services they require, which will be used to assign the escort and communicate relevant details.
-</thinking>
-
 # VIP Security Escort Booking Form - Help Guide
 ## Purpose
 The VIP Security Escort Booking Form is used to request or confirm a security escort service for high-profile individuals or events. You will need to provide personal and contact information to submit a request for a security escort.

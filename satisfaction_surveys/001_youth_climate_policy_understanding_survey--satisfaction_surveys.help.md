@@ -1,10 +1,3 @@
-<thinking>
-This help guide is to assist users in understanding the purpose and usage of the Youth Climate Policy Understanding Survey form. The form is designed to gather insights on climate policy understanding among youth, and the provided YAML fields are used to determine the structure and content of the form. To the best of my knowledge, there is no existing form with the same title and category, so this guide will provide a thorough explanation of each field for users to complete the form accurately.
-
-Please note that this form is AI-generated and not affiliated with any form platform. It is an original adaptation of public survey topic metadata.
-
-</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 
 ## Purpose

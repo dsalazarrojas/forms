@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a client's health status, medical history, and other relevant details. The purpose of this form is to provide a comprehensive health check-in process for clients visiting a salon or spa, ensuring their safety and well-being during treatments. By using this form, salons can gather essential information to tailor their services accordingly and make informed decisions about clients' treatments.
-</thinking>
-
 # Salon Client Health Check In Form - Help Guide
 ## Purpose
 This form is designed to collect information about a client's health status, medical history, and other relevant details to ensure their safety and well-being during salon treatments.

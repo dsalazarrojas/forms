@@ -1,7 +1,3 @@
-<thinking>
-This is the Student Development Plan Form, used to track the progress and goals of students in a school setting. This form is designed to ensure that students receive consistent support and guidance from teachers to achieve their academic and personal goals. To avoid duplication of effort, this form should not be filled out by multiple people at the same time. Please fill out the form carefully and accurately, and make sure to keep the student's progress up-to-date. Please make sure to have the student's permission before sharing any information with others.
-</thinking>
-
 # Student Development Plan Form - Help Guide
 ## Purpose
 The Student Development Plan Form is used to track the progress and goals of students in a school setting.

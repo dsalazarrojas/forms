@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for math students to register for various math courses, providing essential information about their student and course details. The form aims to gather data that will help the school administration and math department to efficiently manage and support students in their math courses. It is recommended to fill out this form to ensure accurate and up-to-date information.
-
-This guide will help you fill out the form correctly to avoid any issues during the registration process.
-</thinking>
-
 # Math Student Registration Form - Help Guide
 ## Purpose
 The Math Student Registration Form is designed to collect information from math students to help the school administration and math department provide necessary support and resources for their math courses.

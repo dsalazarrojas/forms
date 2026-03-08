@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for auditing schools and gathering information about the school's status, progress, or other relevant details. The form is likely used for internal purposes within an organization, such as a government agency or educational institution. The fields on this form are designed to collect basic information about the school, its category, and any additional details that might be relevant to the audit.
-
-Before starting the form, ensure that you are familiar with the school's category and the purpose of the audit. This will help you provide accurate and relevant information when completing the form.
-
-</thinking>
-
 # School Audit Form - Help Guide
 ## Purpose
 This form is designed to collect information about a school's status, progress, or other relevant details for internal use within an organization.

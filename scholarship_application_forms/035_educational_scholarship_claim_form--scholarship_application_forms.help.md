@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for students to claim a scholarship for their educational expenses. It is essential to fill out the form accurately to ensure that your claim is processed correctly. Please make sure you are a valid student and that the information provided is up-to-date and correct. You will need to upload required documents to support your claim.
-</thinking>
-
 # Educational Scholarship Claim Form - Help Guide
 ## Purpose
 This form is for students to claim a scholarship for their educational expenses. Please fill out the form accurately to ensure your claim is processed correctly.

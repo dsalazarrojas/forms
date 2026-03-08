@@ -1,9 +1,3 @@
-<thinking>
-This form, "Student Demographics Survey", is designed to collect essential demographic information from students to better understand the diversity of our student body. The form is intended to be completed by students, and its purpose is to gather data on their age group, gender identity, academic level, field of study, ethnicity/racial background, living situation, work status, and any additional comments about their background or experiences at the school. It is a crucial tool to help the school administration and faculty understand the student community's demographics, which can inform decisions and policies aimed at supporting and improving student services, diversity, equity, and inclusion.
-
-This form was created using publicly available information about survey topics, categories, and industry best practices. It is an original adaptation and does not copy or use proprietary content from any form creation, data collection, or survey platform.
-</thinking>
-
 # Student Demographics Survey - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for school staff or administrators who are assisting students or individuals with enrolling in the School Counselor Certification Program. 
-The purpose of this form is to gather information and data from applicants for the certification program. 
-</thinking>
-
 # School Counselor Certification Program Enrollment Form - Help Guide
 ## Purpose
 This form is used to collect applicant information and enrollment data for the School Counselor Certification Program.

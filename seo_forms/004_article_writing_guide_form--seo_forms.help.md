@@ -1,7 +1,3 @@
-<thinking>
-This form is used to guide writers in creating articles for our content team. The purpose of this form is to provide a structured approach to article writing, ensuring that all necessary information is collected for the writing process. This includes details about the article's purpose, target audience, and content requirements. The form ensures consistency in article writing and helps in maintaining quality content.
-</thinking>
-
 # Article Writing Guide Form - Help Guide
 ## Purpose
 

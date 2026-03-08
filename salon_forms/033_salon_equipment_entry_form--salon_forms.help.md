@@ -1,8 +1,3 @@
-<thinking>
-The form appears to be a data entry form for salon equipment. Its purpose is likely to record information about different salon equipment, such as hairdryers, towel warmers, and hair trimmers. The form seems to be designed to collect detailed data about each equipment item, including its type, brand, model, condition, serial number, last inspection date, price, status, and last updated time. This form may be used by salon management or staff to keep track of their equipment inventory and ensure that it is up-to-date and accurate.
-The form appears to be split into multiple pages, which makes it easier to manage large amounts of data. Each page contains a different set of fields, which are likely organized logically by category. However, to avoid duplication of effort and ensure accuracy, the form should be reviewed for any potential overlap or inconsistencies in fields.
-</thinking>
-
 # Salon Equipment Entry Form - Help Guide
 ## Purpose
 The Salon Equipment Entry Form is a data collection tool used to record information about salon equipment, such as hairdryers, towel warmers, and hair trimmers.

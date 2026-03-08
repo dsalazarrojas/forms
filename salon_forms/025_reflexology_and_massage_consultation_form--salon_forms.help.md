@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients for reflexology and massage consultations. The goal is to understand the client's needs, preferences, and medical history to provide personalized services. This form will help the practitioner tailor the session to the client's requirements and ensure a safe and effective experience.
-</thinking>
-
 # Reflexology And Massage Consultation Form - Help Guide
 ## Purpose
 This form is used to gather information from clients for reflexology and massage consultations. It helps the practitioner to understand the client's needs, preferences, and medical history to provide personalized services.

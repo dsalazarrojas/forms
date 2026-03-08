@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for users to collect site-specific information about a customer's location where a dishwasher will be installed. The purpose of this form is to gather data about the site where the installation will take place, including the site's address, contact details, and any necessary logistical information for the installation appointment. This form is designed to be completed by customers or their representatives to ensure a smooth and efficient installation process.
-
-To avoid duplication of efforts, please ensure that this form is only completed once per site location.
-
-This information will help us better understand the site requirements and plan the installation accordingly.
-</thinking>
-
 # Dishwasher Installation Site Survey - Help Guide
 ## Purpose
 This form is used to collect information about a customer's site where a dishwasher will be installed. It is necessary for our team to understand the site's requirements, address, and contact details to ensure a smooth installation process.

@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication of the form purpose and fields...
-
-Upon reviewing the provided YAML, the form "Property Energy Audit Feedback Survey" appears to be a survey designed to gather feedback from property owners or managers on their energy audits. The form is likely used to assess the effectiveness of energy audits conducted on properties, and to gather additional comments or ratings from respondents. The form seems to be a straightforward and structured way to collect relevant information, with fields for demographic data (property address, name, contact email and phone), rating and comments (property energy rating, rating comments, and general comments), and survey completion information (energy audits conducted, energy audits completed, date submitted, and time submitted).
-
-The form does not seem to duplicate any existing form purposes, and its fields are all unique and relevant to the topic of property energy audits. The purpose and fields of the form appear to be well-defined and easy to understand.
-
-</thinking>
-
 # Property Energy Audit Feedback Survey - Help Guide
 ## Purpose
 The Property Energy Audit Feedback Survey is a form designed to gather feedback from property owners or managers on their energy audits. This survey helps assess the effectiveness of energy audits conducted on properties and gather additional comments or ratings from respondents.

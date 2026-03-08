@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential students applying to the evening school program. It seems to be a general application form that captures personal details and academic background of the applicants. Before proceeding, ensure you're eligible to apply and haven't submitted this form before to avoid duplication. Please follow the instructions carefully.
-</thinking>
-
 # evening_school_application_form - Help Guide
 ## Purpose
 This form is intended for students who want to enroll in the evening school program at [Institution Name]. It collects essential details to assess your eligibility and tailor the program to your needs.

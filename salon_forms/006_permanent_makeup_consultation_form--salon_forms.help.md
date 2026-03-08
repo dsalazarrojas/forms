@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a permanent makeup consultation. This form is likely to be used by a professional in the beauty industry, such as a permanent makeup artist, to assess the client's medical history, appointment preferences, and payment details.
-</thinking>
-
 # Permanent Makeup Consultation Form - Help Guide
 ## Purpose
 The Permanent Makeup Consultation Form is designed to help the permanent makeup artist understand the client's medical history, appointment preferences, and payment details. This information will be used to create a personalized consultation plan and schedule the appointment accordingly.

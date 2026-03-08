@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to provide an overview of the Hydromassage Liability Waiver form, including its purpose, the steps to complete it, and a detailed explanation of each field. The form is used to collect information from clients and providers for hydromassage treatments, and is a crucial document to ensure that both parties are aware of their responsibilities and liabilities.</thinking>
-
 # Hydromassage Liability Waiver - Help Guide
 ## Purpose
 The Hydromassage Liability Waiver form is a document that outlines the terms and conditions of a hydromassage treatment. It ensures that both the client and the provider are aware of their responsibilities and liabilities before, during, and after the treatment.

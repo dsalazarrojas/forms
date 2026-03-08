@@ -1,17 +1,3 @@
-<thinking>
-To be honest, the form purpose is not entirely clear from the provided YAML. However, based on the fields included, it appears to be some sort of member facility satisfaction report form for evaluating facilities. It might be for members of a gym or a sports club, or perhaps for customers of a hotel or resort.
-
-The form has 25 fields with a mix of select, text, date, email, and note fields. It seems to be asking for information about the member facility, including the facility's ID, name, address, and manager's contact details. There are also fields for rating and commenting on the facility's service, facilities, and overall experience.
-
-To confirm, I will try to infer the form purpose based on the fields:
-* The presence of `member_facility_id` and other member facility fields suggests that the form is for members to report their experiences with facilities.
-* The `rating_of_service`, `staff_attendance`, `facilities`, and `facility_facility_rating` fields imply that the form is for assessing the quality of service and facilities provided by the member facility.
-* The `comments` and `facility_facility_comments` fields suggest that the form allows members to provide feedback and comments about their experiences.
-
-If my inference is correct, here is the help guide for the form:
-
-</thinking>
-
 # Member Facility Satisfaction Report Form - Help Guide
 ## Purpose
 The purpose of this form is to allow members to report their experiences and satisfaction with the facilities they have visited. This form is used to evaluate the quality of service and facilities provided by member facilities.

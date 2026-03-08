@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly to avoid confusion and miscommunication with the customer. The form is for customers to request carpet cleaning services, and we want to make sure they understand what information is required and what the different fields mean. This will help us provide the best possible service to our customers.
-The form is designed to collect contact information, service details, and other relevant data that will help us tailor our services to the customer's needs.
-</thinking>
-
 # Carpet Cleaning Request Form - Help Guide
 ## Purpose
 This form is designed for customers to request carpet cleaning services, providing us with necessary contact and service details to tailor our services to their needs.

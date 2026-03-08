@@ -1,9 +1,3 @@
-<thinking>
-This form is used to reschedule studio access for various reasons. 
-It is recommended to complete this form only when a studio access reschedule is needed.
-Please fill out this form only if you have not already done so in the past 24 hours. 
-</thinking>
-
 # Studio Access Reschedule Request Form - Help Guide
 ## Purpose
 This form is used to request rescheduling of studio access. Please fill it out to inform us of your new preferred date and time for studio access.

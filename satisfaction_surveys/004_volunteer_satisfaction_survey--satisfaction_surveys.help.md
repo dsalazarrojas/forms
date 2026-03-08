@@ -1,5 +1,3 @@
-<thinking>...The Volunteer Satisfaction Survey form is designed to gather information about the experiences, satisfaction, and future participation of volunteers in a specific project. This form aims to collect feedback on communication, project efficiency, and volunteer engagement. By filling out this form, volunteers will be able to express their opinions and provide suggestions for improvement. This guide will help you understand the purpose and structure of the form, and explain each field in detail.</thinking>
-
 # Volunteer Satisfaction Survey - Help Guide
 ## Purpose
 The Volunteer Satisfaction Survey is designed to collect feedback and opinions from volunteers about their experiences and satisfaction with the project.

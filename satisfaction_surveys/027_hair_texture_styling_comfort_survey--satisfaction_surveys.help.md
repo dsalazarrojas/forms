@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who will be completing the Hair Texture Styling Comfort Survey, a form designed to gather information about their hair texture and styling habits. Before proceeding, please ensure that you are completing the form for a valid reason and not as a repetitive exercise. This guide will walk you through each field in the form to help you understand its purpose and required information.
-</thinking>
-
 # Hair Texture Styling Comfort Survey - Help Guide
 ## Purpose
 The Hair Texture Styling Comfort Survey aims to gather your input on your hair texture and comfort level when undergoing hair styling. Your responses will be used to better understand the comfort and preferences associated with different hair textures and styling frequencies.

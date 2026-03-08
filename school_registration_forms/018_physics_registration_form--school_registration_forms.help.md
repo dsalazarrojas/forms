@@ -1,10 +1,3 @@
-<thinking>
-  * The form is designed to collect information from students, teachers, or staff members related to physics registration.
-  * The purpose of this form is to gather essential details such as names, contact information, and academic data.
-  * This form will likely be used by school administration or physics department staff to manage student registrations, assignments, or other related administrative tasks.
-  * Ensure this form is not used for any other purpose that is not intended.
-</thinking>
-
 # Physics Registration Form - Help Guide
 ## Purpose
 The Physics Registration Form is designed to collect information from students, teachers, or staff members related to physics registration. This form aims to gather essential details such as names, contact information, and academic data.

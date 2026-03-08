@@ -1,5 +1,3 @@
-<thinking>As a designer and writer, we should consider the purpose and intent behind this form. This form is designed to gather feedback from theme park visitors, understanding their satisfaction with the attractions, their demographic information (age), and how they heard about the park. This is crucial information that can help us improve our services, attractions, and marketing strategies. We should ensure that this form is not duplicated, and the collected data is not misused. This form will be completed by visitors after visiting the park, and the gathered data will be used for internal analysis and improvement.</thinking>
-
 # Theme Park Attraction Satisfaction Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from theme park visitors, helping us to understand their satisfaction with our attractions, improve our services, and better understand our target audience.

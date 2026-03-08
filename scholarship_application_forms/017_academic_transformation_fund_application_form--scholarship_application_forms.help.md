@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Academic Transformation Fund Application Form", we must first understand the purpose of the form and the requirements for completing it. The form is designed to support applicants seeking funding for academic transformation projects. It is essential that applicants provide accurate and complete information to facilitate a smooth review process. Before starting, please note that the form has two main sections: Applicant Information and Project Details. Ensure you have approval from your department head before submitting this application. Ensure you have all necessary supporting documents ready for upload before submitting. 
-</thinking>
-
 # Academic Transformation Fund Application Form - Help Guide
 ## Purpose
 This form is designed to support applicants seeking funding for academic transformation projects. The purpose of the form is to gather essential information about the applicant and their proposed project.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Equipment Testing Booking Form - Help Guide
 
 ## Purpose

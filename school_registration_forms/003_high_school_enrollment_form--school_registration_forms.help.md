@@ -1,11 +1,3 @@
-<thinking>
-The High School Enrollment Form is designed to collect information from new students enrolling in a high school program. The form is used to gather demographic and enrollment details from students and their parents/guardians. The form is an essential part of the enrollment process, as it helps the school administration to verify student information and ensure that students are enrolled correctly. It is recommended that this form be filled out by the student and their parent/guardian together to ensure accuracy.
-
-This form is not a mandatory form and is not required for all students. However, it is highly recommended that students and their parents/guardians fill out this form to avoid any issues during the enrollment process.
-
-The form will be used for both online and offline submissions. Therefore, it is essential that the form is filled out correctly and accurately to prevent errors and ensure a smooth enrollment process.
-
-</thinking>
 # High School Enrollment Form - Help Guide
 
 ## Purpose

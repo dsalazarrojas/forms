@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by salon staff to record client agreements, financial responsibilities, and other relevant details for each client. It helps ensure consistency and clarity in communication, making it easier for salon staff to provide excellent service and resolve any potential issues. This form is likely to be used when a client is new to the salon, but may also be used for regular clients to confirm their understanding of policies and agreements.
-
-</thinking>
-
 # office_policy_template - Help Guide
 ## Purpose
 The **office_policy_template** form is used to record essential information from clients, including their agreements, financial responsibilities, and contact details. This helps salon staff ensure accurate and up-to-date client information, promoting seamless service delivery and effective communication.

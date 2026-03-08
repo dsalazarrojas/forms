@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help beauty salons match clients with the best possible hair or makeup color recommendations. The form collects information about the client's skin tone, undertone, eye color, hair color, and other relevant details to provide personalized suggestions. This form is intended for salons to use with their clients, and the collected data may help them better understand the client's needs and preferences.
-</thinking>
-
 # Beauty Color Match Form - Help Guide
 
 ## Purpose

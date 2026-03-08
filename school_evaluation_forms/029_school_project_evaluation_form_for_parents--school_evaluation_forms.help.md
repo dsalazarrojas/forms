@@ -1,8 +1,3 @@
-<thinking>
-The School Project Evaluation Form for Parents is used to gather feedback and ratings from parents about a specific project undertaken by the school. This form is an essential tool for the school administration to gauge the effectiveness and feasibility of the project. To ensure that the form is completed accurately and thoroughly, we will outline the steps and explanations for each field.
-
-</thinking>
-
 # School Project Evaluation Form For Parents - Help Guide
 
 ## Purpose

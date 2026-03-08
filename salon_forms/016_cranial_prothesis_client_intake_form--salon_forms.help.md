@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a client who is scheduled to undergo a cranial prosthesis, a surgical implant used to replace a missing or damaged part of the skull. The form collects data on the client's identity, appointment schedule, and other relevant details. 
-</thinking>
-
 # cranial_prothesis_client_intake_form - Help Guide
 ## Purpose
 This form is used to collect information about clients who are undergoing a cranial prosthesis procedure. The purpose of this form is to ensure that all necessary data is collected to provide the best possible care and treatment for the client.

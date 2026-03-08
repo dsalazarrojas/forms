@@ -1,7 +1,3 @@
-<thinking>
-The form "Product Satisfaction Questionnaire" is used to measure the satisfaction level of customers with a product. This form collects numerical ratings and comments from the customer regarding their overall and product satisfaction. The form has no specific requirements to complete it, and it can be filled out as many times as needed. The goal of this form is to gather data that can be used to improve the product and enhance customer experience. Please make sure to fill out the form correctly to ensure that the data collected is accurate and helpful for our team to analyze.
-</thinking>
-
 # Product Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Product Satisfaction Questionnaire is a tool used to measure the satisfaction level of customers with a product. It helps us gather data that can be used to improve the product and enhance customer experience.

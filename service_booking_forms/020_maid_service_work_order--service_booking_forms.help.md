@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maid Service Work Order - Help Guide
 ## Purpose
 

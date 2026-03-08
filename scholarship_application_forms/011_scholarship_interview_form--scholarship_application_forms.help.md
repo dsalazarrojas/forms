@@ -1,14 +1,3 @@
-<thinking> 
-  This form is used for the evaluation and recommendation of candidates for a scholarship. 
-  It is intended to collect information from interviewers about their evaluation and decision-making process. 
-  Before filling out this form, please review the instructions carefully to ensure that you are providing accurate and complete information. 
-  Please do not duplicate efforts by filling out this form if you have already evaluated and recommended a candidate. 
-
-  The form is divided into several sections, including Candidate Information, Interview Details, Evaluation Criteria, Evaluation Method, Evaluation Scale, Evaluation Comments, Evaluation Result, Interview Duration, Interview Date, Interview Location, Evaluation Notes, Evaluation Score, Evaluation Rationale, Evaluation Decision, Evaluation Recommendation, Evaluation Comments Recommendation, Evaluation Score Recommendation, Evaluation Rationale Recommendation, Evaluation Decision Recommendation, Evaluation Scale Recommendation, Evaluation Result Recommendation, Evaluation Notes Recommendation, Evaluation Score Recommendation 2, Evaluation Rationale Recommendation 2, Evaluation Decision Recommendation 2. 
-  Each section has a specific set of questions and instructions that must be followed. 
-  Please follow the instructions for each section carefully. 
-</thinking> 
-
 # Scholarship Interview Form - Help Guide
 
 ## Purpose

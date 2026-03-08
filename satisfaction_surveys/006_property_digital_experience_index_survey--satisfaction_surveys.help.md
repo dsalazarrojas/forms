@@ -1,11 +1,3 @@
-<thinking>
-The Property Digital Experience Index Survey form is used to collect feedback on the property's digital experience. This form allows customers to provide their opinions on their experience with the property, including their satisfaction with various aspects of the property's digital presence, such as the website, online communication, and overall digital experience. The form collects ratings and comments from customers, which can be used to identify areas for improvement and make data-driven decisions to enhance the property's digital experience.
-
-This form is designed to be completed by customers who have visited or interacted with the property's digital presence, and is intended to provide an unbiased and honest assessment of their experience. The form should only be completed once per property visit or interaction.
-
-Please note that the form is not designed to collect personal identifiable information, but rather to gather feedback on the property's digital experience.
-</thinking>
-
 # Property Digital Experience Index Survey - Help Guide
 ## Purpose
 The Property Digital Experience Index Survey is designed to collect feedback on the property's digital experience, allowing us to identify areas for improvement and make data-driven decisions to enhance the property's digital presence.

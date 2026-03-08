@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for end-users to provide feedback on the IT service quality and suggest areas for improvement. The purpose of this form is to collect data to help the IT service team to better understand their customers' needs and satisfaction levels. This form should only be filled out by users who are familiar with the IT service provided.
-</thinking>
-
 # IT Service Satisfaction Survey - Help Guide
 ## Purpose
 The IT Service Satisfaction Survey is designed to gather end-user feedback on the quality of the IT service. This survey aims to understand your satisfaction levels, how often you contact the IT service, and your preferences for improvement.

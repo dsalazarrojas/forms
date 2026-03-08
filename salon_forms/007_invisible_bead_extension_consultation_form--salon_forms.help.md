@@ -1,8 +1,3 @@
-<thinking>
-To ensure that the form is used correctly and consistently, we'll check for any duplication of information and make sure that the required fields are filled out correctly.
-The "invisible_bead_extension_consultation_form" is a consultation form designed for salons to gather information from clients regarding their hair extension needs. This form will help the salon's staff to better understand the client's preferences and make informed decisions about their extensions.
-</thinking>
-
 # invisible_bead_extension_consultation_form - Help Guide
 ## Purpose
 The invisible_bead_extension_consultation_form is a consultation form used to gather information from clients about their hair extension needs. This form helps the salon's staff to understand the client's preferences and make informed decisions about their extensions.

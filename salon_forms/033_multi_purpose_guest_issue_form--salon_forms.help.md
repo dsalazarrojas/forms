@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from guests who have had an issue with their visit to the salon. This form is designed to be multi-purpose, allowing guests to specify which area(s) of their visit were unsatisfactory (associate, service, facility). The goal is to identify areas of improvement and ensure that guests' concerns are addressed. This form should only be used by guests who have visited the salon and are reporting an issue. Repeating this form for the same issue will not provide any additional value.
-
-</thinking>
 # Multi Purpose Guest Issue Form - Help Guide
 
 ## Purpose

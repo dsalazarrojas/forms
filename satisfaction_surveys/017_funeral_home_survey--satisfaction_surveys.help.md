@@ -1,5 +1,3 @@
-<thinking>... We are creating a help guide for a user-facing form called "Funeral Home Survey" in the category "satisfaction_surveys". The form is designed to collect feedback from users about their experience with a funeral home. It is not required to complete. The form is divided into several fields, each representing different aspects of the funeral home experience. Below is a step-by-step guide to help users complete the form accurately and provide valuable feedback. ...</thinking>
-
 # Funeral Home Survey - Help Guide
 ## Purpose
 The Funeral Home Survey is designed to gather information about your experience with our funeral home. Your feedback is crucial in helping us improve our services and provide the best possible care for our families in need. This survey is completely anonymous, and we value your opinions and suggestions.

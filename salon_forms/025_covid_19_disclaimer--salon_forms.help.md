@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of this form and that it's only used once. This form is a COVID-19 Disclaimer, designed to gather information about a client's health status, particularly regarding COVID-19 symptoms and vaccination. This information is crucial for the salon's safety protocols. To avoid duplication, we should only show this form once to a client when they first arrive at the salon, and not repeat it for subsequent visits.
-</thinking>
-
 # COVID 19 Disclaimer - Help Guide
 ## Purpose
 The COVID 19 Disclaimer form is a mandatory health screening tool used to assess a client's health status, especially concerning COVID-19 symptoms and vaccination. This form helps the salon take necessary safety measures to prevent the transmission of the virus.

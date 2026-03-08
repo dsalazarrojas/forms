@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information related to a "Spell Survey" in an educational context. This survey likely aims to collect data on student perceptions, experiences, or opinions about a particular spell or topic. However, without further context, it's hard to provide a more specific explanation of the form's purpose.
-</thinking>
-
 # Spell Survey - Help Guide
 ## Purpose
 The Spell Survey is a form intended to gather information from users about their experiences or perceptions related to a specific spell. It is used to collect data and feedback from users.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for an office referral, allowing users to provide details about a student's situation and the services required. This form likely serves as a tool for school counselors or administrators to collect data on student referrals, which can help them make informed decisions or assign necessary resources. It's essential to ensure that users fill out the form accurately and comprehensively, as the information gathered will influence the services provided to the student. Please verify that you are in the appropriate context to fill out this form, and that you are not duplicating efforts by using this form when a similar request has already been made.
-</thinking>
-
 # Office Referral Form - Help Guide
 ## Purpose
 The Office Referral Form is designed to provide a structured way for school administrators or counselors to document and track referrals for students who require support or interventions. This form helps to ensure that all necessary details are captured, enabling the school to provide the most suitable assistance to the student.

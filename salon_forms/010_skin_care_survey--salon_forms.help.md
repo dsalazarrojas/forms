@@ -1,13 +1,3 @@
-<thinking>
-
-We designed this "Skin Care Survey" form to collect user feedback and insights on their skin care habits, concerns, and preferences. This data will help our team better understand user expectations and needs related to skin care, allowing us to tailor our services and recommendations to meet those needs.
-
-The form is divided into several sections, each with multiple questions or options. We've included instructions on how to complete each section, as well as explanations of each field to ensure users understand what they need to do.
-
-Please note that the form questions are designed to be self-explanatory, with minimal hints and no unnecessary fields. We've aimed to create a user-friendly experience while still gathering valuable information for our team.
-
-</thinking>
-
 # Skin Care Survey - Help Guide
 ## Purpose
 The Skin Care Survey is a set of questions designed to collect information about your skin care habits, concerns, and preferences. Please take a few minutes to answer these questions to help us better understand your needs.

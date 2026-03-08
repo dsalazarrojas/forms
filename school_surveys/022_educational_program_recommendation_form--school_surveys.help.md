@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # educational-program-recommendation-form - Help Guide
 ## Purpose
 The "Educational Program Recommendation Form" is designed to gather feedback and suggestions on the effectiveness and quality of our educational programs. The purpose of this form is to help us identify areas of improvement and make informed decisions about our programs.

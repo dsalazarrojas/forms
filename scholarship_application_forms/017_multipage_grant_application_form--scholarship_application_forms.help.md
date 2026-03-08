@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # multipage_grant_application_form - Help Guide
 ## Purpose
 The "multipage_grant_application_form" is a comprehensive form designed for applicants seeking grants. This form is intended to collect personal, work, educational, and review information from applicants. Please fill out the form accurately and completely to increase your chances of a successful grant application.

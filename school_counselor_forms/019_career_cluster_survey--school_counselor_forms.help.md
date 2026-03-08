@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help students identify their career interests and preferences. It is meant to be a self-assessment tool for students to reflect on their potential career paths. This form asks students to rate their interest levels in various clusters, such as Agriculture, Architecture, Business, Education, and more. By providing this information, students can gain insights into their strengths, weaknesses, and areas of interest. It's essential to complete this form truthfully to get an accurate idea of one's career aspirations.
-</thinking>
-
 # Career Cluster Survey - Help Guide
 ## Purpose
 

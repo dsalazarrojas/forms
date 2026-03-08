@@ -1,5 +1,3 @@
-<thinking>As a technical writer, it's essential to create a user-friendly and informative help guide that addresses the needs of end users. The goal of this guide is to ensure users understand the purpose, requirements, and field explanations for the Classroom Observation Survey form. This form is designed to capture essential data on classroom observations, providing valuable insights into teacher performance, student engagement, and classroom environment.</thinking>
-
 # Classroom Observation Survey - Help Guide
 
 ## Purpose

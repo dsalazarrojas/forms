@@ -1,10 +1,3 @@
-<thinking>
-To prevent duplication of effort, we will first check if there is a similar form already available. If so, this form will be marked as a "New" version. If not, it will be created as a brand new form.
-
-This form is designed to collect client information for the purpose of creating a comprehensive health profile for the client. This will help us in providing personalized skincare services to the client. 
-
-</thinking>
-
 # Skincare Client Agreement Form - Help Guide
 ## Purpose
 The purpose of this form is to collect client information and health profile for providing personalized skincare services.

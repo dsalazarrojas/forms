@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Permanent Makeup Client Intake Form - Help Guide
 
 ## Purpose

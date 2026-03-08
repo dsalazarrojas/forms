@@ -1,6 +1,3 @@
-<thinking>
-This form is for students applying to the PEARLS (Programs, Education, Art and Science) scholarship. Please ensure you are eligible to apply and have not previously submitted an application to the same program. If you are unsure, check your eligibility or contact the program administrator.
-</thinking>
 # pearls_scholarship_app - Help Guide
 ## Purpose
 The PEARLS scholarship application form is designed to collect information from students who want to apply to the PEARLS program. The form helps us understand your background, academic status, and other relevant details to assess your eligibility for the scholarship.

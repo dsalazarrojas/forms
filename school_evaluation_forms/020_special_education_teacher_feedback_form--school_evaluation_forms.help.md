@@ -1,7 +1,3 @@
-<thinking>
-We are checking for relevance and non-duplication here. The form appears to be a tool for gathering feedback from special education teachers, likely for internal evaluation and improvement purposes. This form should be completed by teachers to provide their feedback on specific aspects of their work, such as their teaching methods, student engagement, and school environment. This feedback will help administrators and school leaders understand the strengths and weaknesses of the special education program and make informed decisions to enhance the overall learning experience for students with special needs.
-</thinking>
-
 # Special Education Teacher Feedback Form - Help Guide
 
 ## Purpose

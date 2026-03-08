@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is to gather feedback from parents about their child's program or service. This form will ask parents for their rating of the program and whether or not they will recommend the program to others. It aims to gauge the level of satisfaction and provide valuable input to the program administrators to make improvements. This form should only be used for new participants and after their completion of the program. Please ensure this form is not completed by program staff or other non-parents.
-</thinking>
-
 # Parent Satisfaction Survey - Help Guide
 ## Purpose
 The Parent Satisfaction Survey is a tool used to gather feedback from parents about their child's program or service, providing valuable input to program administrators to make improvements.

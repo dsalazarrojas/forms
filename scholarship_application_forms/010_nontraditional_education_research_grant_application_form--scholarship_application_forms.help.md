@@ -1,38 +1,3 @@
-<thinking>
-The "Nontraditional Education Research Grant Application Form" is a form designed to collect information from applicants seeking funding for non-traditional education research. This form is intended to gather details about the applicant's background, research topic, grant amount, funding agency, review committee, review process, grant period, submission deadline, review timeline, submission guidelines, submission form, submission attachment, reviewer comments, reviewer suggestions, reviewer feedback, review results, applicant signature, grant manager signature, reviewer signature, research question, research question 2, research question 3, research question 4, research question 5, and research question 6. This form is required for all applicants to provide accurate and complete information to facilitate the review and approval process.
-
-Before starting, please ensure you have all the necessary information and attachments ready. To prevent duplication, please do not submit multiple applications. If you have any questions or concerns, please contact the grant manager or review committee for assistance.
-
-This form is divided into the following sections:
-1. Applicant Info (page 1)
-2. Research Topic (page 2)
-3. Grant Amount (page 3)
-4. Funding Agency (page 4)
-5. Review Committee (page 5)
-6. Review Process (page 6)
-7. Grant Period (page 7)
-8. Submission Deadline (page 8)
-9. Review Timeline (page 9)
-10. Submission Guidelines (page 10)
-11. Submission Form (page 11)
-12. Submission Attachment (page 12)
-13. Reviewer Comments (page 13)
-14. Reviewer Suggestions (page 14)
-15. Reviewer Feedback (page 15)
-16. Review Results (page 16)
-17. Applicant Signature (page 17)
-18. Grant Manager Signature (page 18)
-19. Reviewer Signature (page 19)
-20. Research Question 1 (page 20)
-21. Research Question 2 (page 22)
-22. Research Question 3 (page 23)
-23. Research Question 4 (page 24)
-24. Research Question 5 (page 25)
-25. Research Question 6 (page 26)
-
-Please answer all fields truthfully and accurately, as your submission will be reviewed based on the information provided.
-</thinking>
-
 # Nontraditional Education Research Grant Application Form - Help Guide
 
 ## Purpose

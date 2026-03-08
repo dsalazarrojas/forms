@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and satisfaction data from customers about their e-commerce retail service experience. The form is intended for customers to provide their contact information and share their opinions about the service. The fields in this form are meant to be self-explanatory, but in case of any doubt, this help guide will clarify each field's purpose.
-
-Before starting, please ensure that you have not already submitted this survey. Duplicate submissions will be discarded, and the system will not process them.
-
-To complete this form, simply follow the step-by-step instructions below.
-
-</thinking>
-
 # e_commerce_retail_service_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and satisfaction data from customers about their e-commerce retail service experience.

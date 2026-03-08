@@ -1,10 +1,3 @@
-<thinking>
-We are using a Daycare Feedback Form to collect feedback from parents and caregivers about their experience with our daycare center. 
-The form is designed to gather specific information that helps us identify areas of improvement and make data-driven decisions. 
-Please ensure you are submitting feedback that is relevant to your experience and not duplicating existing feedback. 
-Please complete the form honestly and accurately, and do not provide any sensitive or confidential information. 
-</thinking>
-
 # Daycare Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from parents and caregivers about their experience with our daycare center. The feedback will help us identify areas of improvement and make data-driven decisions to enhance our services.

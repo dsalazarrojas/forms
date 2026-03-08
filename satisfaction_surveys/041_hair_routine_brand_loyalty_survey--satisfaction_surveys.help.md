@@ -1,15 +1,3 @@
-<thinking>
-This form is a Hair Routine Brand Loyalty Survey. It is used to gather information from customers about their hair care habits, brand loyalty, and purchasing behavior. The goal of this form is to understand customer preferences and experiences with hair care products. This form should only be used by customers who have purchased products from our brand and have a valid email address on file.
-
-Before completing this form, please ensure that you have already purchased a product from our brand and have a valid email address on file. If you are unsure, please contact our customer service team to confirm.
-
-This form is designed to be completed by one customer per response. If you are completing this form on behalf of another customer, please do not submit it.
-
-Please note that all answers will be kept confidential and will only be used for internal analysis and improvement of our services.
-
-To complete this form, please follow the instructions below.
-</thinking>
-
 # Hair Routine Brand Loyalty Survey - Help Guide
 ## Purpose
 This form is used to gather information from customers about their hair care habits, brand loyalty, and purchasing behavior.

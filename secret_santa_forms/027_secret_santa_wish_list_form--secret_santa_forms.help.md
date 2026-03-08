@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help individuals in a Secret Santa gift exchange process to share their wishes and preferences with their group members. Each field aims to provide a better understanding of the individual's personality and interests, making it easier for the Secret Santa participants to gift them something they will truly enjoy. This form will be used to collect data from multiple participants, ensuring that the information is not duplicated or outdated. Please note that not all fields are required, and the participant can choose to fill in as much or as little information as they like.</thinking>
-
 # Secret Santa Wish List Form - Help Guide
 ## Purpose
 The purpose of this form is to collect your interests, preferences, and personality traits to help your Secret Santa participants gift you something you'll truly enjoy.

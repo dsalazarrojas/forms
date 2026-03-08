@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians of students applying to a Dual Language Program. The form is used to gather necessary details about the student, their parent/guardian, and the program they are applying to. This form is not intended for students to apply directly, but rather for the parent/guardian to fill out on their behalf. This helps to streamline the application process and ensure that all required information is submitted in a structured and organized manner.
-</thinking>
-
 # Dual Language Program Application - Help Guide
 ## Purpose
 

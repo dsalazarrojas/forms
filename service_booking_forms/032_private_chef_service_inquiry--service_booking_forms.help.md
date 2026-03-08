@@ -1,12 +1,3 @@
-<thinking>
-The Private Chef Service Inquiry form is designed to collect information from clients who are interested in booking a private chef service. The form is used to gather details about the client's preferences, including their name, contact information, service requirements, and payment methods. The form is intended to be completed by clients who are seeking personalized culinary services for events or occasions.
-
-When completing this form, ensure that all required fields are filled out correctly. The form will ask for contact information, service details, and payment preferences. Some fields are optional, but providing accurate information will help ensure that the private chef service provider can tailor the services to meet your needs.
-
-When submitting the form, please ensure that all required fields are filled out, and make sure to proofread your responses for accuracy and completeness.
-
-</thinking>
-
 # Private Chef Service Inquiry - Help Guide
 ## Purpose
 The Private Chef Service Inquiry form is designed to collect information from clients who are interested in booking a private chef service. The form is used to gather details about the client's preferences, including their name, contact information, service requirements, and payment methods.

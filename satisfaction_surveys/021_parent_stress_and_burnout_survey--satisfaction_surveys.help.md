@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about parent stress and burnout levels, coping strategies, self-care habits, support systems, and burnout symptoms. The survey is used to help parents manage their stress and maintain their mental well-being. 
-
-It is essential that the form is filled out by parents who are directly affected by the stress and burnout levels in question, so the data collected will be accurate and relevant. 
-Please note that this form is not meant to be filled out by non-parents or individuals who do not experience stress and burnout. Please ensure you are in the correct demographic before filling out this form.
-</thinking>
-
 # Parent Stress And Burnout Survey - Help Guide
 ## Purpose
 The Parent Stress And Burnout Survey is designed to collect information about parent stress and burnout levels, coping strategies, self-care habits, support systems, and burnout symptoms.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "STEM Trip Passport Information Form", we need to understand that this form is designed to collect information from participants on a STEM-related trip, likely for travel, education, or research purposes. This form might be used by schools, organizations, or institutions to gather details about participants, including contact and emergency contact information, participant's details, and more. The fields are likely required for the organizer to track participants effectively and ensure their safety during the trip.
-
-To avoid duplication and ensure relevance, this guide will provide a detailed explanation of each field to help users complete the form accurately and efficiently.
-
-</thinking>
-
 # STEM Trip Passport Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from participants on a STEM-related trip, including contact and emergency contact details, participant's details, and more. This information will help the trip organizer ensure the participant's safety and provide a smooth experience.

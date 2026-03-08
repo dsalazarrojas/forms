@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about students' interests and engagement in math classes. This form is designed to help school counselors and teachers understand student preferences and tailor their teaching approach to better meet individual needs.
-</thinking>
-
 # Math Interest Survey - Help Guide
 ## Purpose
 

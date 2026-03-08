@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed for customers to request service and maintenance for their garden ponds. The form likely serves as a means to capture essential information from customers, including scheduling an appointment, providing details about their pond, contact information, the type of service required, and the preferred date and time for the service.
-The form might be used by a company or organization offering pond cleaning and maintenance services to clients with garden ponds.
-The form's design and fields suggest that it caters to a specific industry (garden ponds) and service providers (companies or individuals offering services for these ponds).
-The form's purpose is to collect relevant information from customers to facilitate efficient scheduling and service delivery.
-</thinking>
-
 # Garden Pond Cleaning Request Form - Help Guide
 ## Purpose
 The Garden Pond Cleaning Request Form is designed for customers to request service and maintenance for their garden ponds. It helps service providers collect necessary information to schedule and deliver efficient services.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information for a Secret Santa gift exchange. 
-The form is used for employees at the end of the year and is intended for a fun gift exchange. 
-We have tried to avoid duplicating any information that may already exist in our database, 
-so please ensure that the data you provide here will not conflict with any existing records.
-</thinking>
-
 # secretSantaIdeaForm - Help Guide
 ## Purpose
 This form is used to submit ideas for the Secret Santa gift exchange. You will be asked to input information about yourself and ideas for gifts. 

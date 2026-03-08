@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # the_ron_settles_memorial_foundation_scholarship_application - Help Guide
 ## Purpose
 The Ron Settles Memorial Foundation Scholarship Application form is designed to collect information from applicants for the scholarship fund established in memory of Ron Settles. This form is used to gather essential details about the applicant, their education history, academic background, contact information, and other relevant data required for the scholarship assessment process.

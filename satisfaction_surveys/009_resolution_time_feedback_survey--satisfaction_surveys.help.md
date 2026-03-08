@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Resolution Time Feedback Survey - Help Guide
 
 ## Purpose

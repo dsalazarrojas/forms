@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Equipment Maintenance Satisfaction Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for nominating a student representative for a school event or activity. The purpose of this form is to gather information about the student nominator and nominee, including their school class, year, and type. This information will help the event organizers understand the nominee's context and qualifications. Please fill out the form carefully, ensuring that you are eligible to nominate someone and that the nominee is not already nominated. This will help us prevent duplicate nominations and ensure that we get a representative from a diverse group of students.
-</thinking>
-
 # Student Representative Nomination Form - Help Guide
 ## Purpose
 This form is for nominating a student representative for a school event or activity.

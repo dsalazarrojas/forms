@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Outstanding Citizen Scholarship Application - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine the form's purpose, let's review its fields. The form collects personal and family information (Contact Info, Family Info, Student Info), academic history and transcript (Transcript, Academic History, Select One, Select Multiple), and school information (School Info). It also requests additional information (Additional Info), contact information (Email, Phone), and uploadable documents (Upload File). Lastly, it includes fields for dates and times (Select Date, Select Time, Date, Time, Select Date 2, Select Time 2), and fields for numerical values (Decimal, Integer).
 
 The form seems to be for a private school scholarship application, likely used by potential students to apply for financial aid to attend a private school.

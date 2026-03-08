@@ -1,12 +1,3 @@
-<thinking>
-The "Second Amendment Opinion Survey" form aims to collect opinions on various aspects of gun rights and related policies. This form is part of the "satisfaction_surveys" category. 
-
-To determine if the form is relevant and not duplicating any existing form, please consider the following factors:
-- The form is focused on collecting opinions on gun rights, which is a sensitive and debated topic.
-- The form collects demographic information such as age group and region to contextualize the opinions.
-- The form includes questions about gun ownership, policy, and education level, which are related to gun rights.
-</thinking>
-
 # Second Amendment Opinion Survey - Help Guide
 ## Purpose
 The Second Amendment Opinion Survey is designed to collect opinions on various aspects of gun rights and related policies. The form aims to gather demographic information and opinions on specific topics, allowing users to express their views in a structured and systematic way.

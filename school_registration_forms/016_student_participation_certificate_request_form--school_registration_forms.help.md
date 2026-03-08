@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students about their participation in a school program. The purpose of this form is to request a participation certificate, which is typically required for students to demonstrate their involvement in a particular course or program. When filling out this form, please ensure that you have a clear understanding of the requested information and that you are providing accurate data. This form is intended for students, and it is expected that the information will be completed by the students themselves or their authorized representatives. Before starting, make sure that you have the required permissions to submit the form and that you are not duplicating any existing requests. 
-
-Please note that some fields are optional, but filling out as much information as possible will help to process your request efficiently. The form consists of the following fields that will be explained below.
-
-</thinking>
-
 # Student Participation Certificate Request Form - Help Guide
 ## Purpose
 This form is used to request a participation certificate for a student, typically for courses or programs attended.

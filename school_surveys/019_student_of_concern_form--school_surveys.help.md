@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document concerns or incidents involving students that may impact their academic success or well-being. It should only be completed when a legitimate concern is identified and not for frivolous reasons. Duplicate submissions for the same concern are discouraged to prevent unnecessary administrative burden.
-</thinking>
-
 # Student Of Concern Form - Help Guide
 ## Purpose
 The Student Of Concern Form is used to document and report incidents or concerns that may affect a student's academic success or well-being.

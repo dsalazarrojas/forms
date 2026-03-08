@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain a client's consent for services provided at a salon, taking into account the COVID-19 pandemic. The form ensures that the client is aware of and agrees to the terms and conditions of the services they are receiving. The fields included are designed to gather essential information about the client's consent, the services provided, and the client's name. This form is intended for salons to use to ensure compliance with health and safety guidelines related to COVID-19.
-</thinking>
-
 # Facial Consent For COVID 19 - Help Guide
 ## Purpose
 This form is used to obtain a client's consent for services provided at a salon, taking into account the COVID-19 pandemic.

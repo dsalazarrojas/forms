@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the teaching experience and satisfaction of school teachers. This form will help the school administration understand the workload and job satisfaction of teachers, which is essential for making informed decisions about staff development and resources allocation. The survey is designed to be completed by teachers themselves, and the data collected will be used to improve the working conditions and support for teachers.
-</thinking>
 # Teaching Survey - Help Guide
 
 ## Purpose

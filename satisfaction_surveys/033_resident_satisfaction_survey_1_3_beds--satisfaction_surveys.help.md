@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to be used by residents to provide feedback on their satisfaction with their living experience in a 1-3 bed property. Before starting, please ensure that you have read and understood the guide to avoid any confusion or duplication of effort. If you have already completed a resident satisfaction survey for this property, you may not need to complete this form again.
-
-</thinking>
-
 # resident_satisfaction_survey_1_3_beds - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from residents on their satisfaction with their living experience in a 1-3 bed property. This information will be used to identify areas of improvement and ensure that residents are satisfied with their living conditions.

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for users who are not familiar with the concept of electives or the options available on this form. Please read through this guide carefully to understand the purpose of the form and how to complete it correctly.
-This form is used to help school administrators and counselors determine which electives to offer to students. The purpose of the form is to gather information about the student's preferences and abilities in order to provide relevant and engaging elective courses. Each question on the form asks the student to select from a list of options that best represent their interests and skills. The student's selections will help the school administrator make informed decisions about which electives to offer in the upcoming academic year.
-The form is designed to be completed in collaboration between the student and the school counselor. The student is expected to provide honest and thoughtful responses to each question, while the counselor will review and guide the student in making their selections.
-Please ensure that you read the entire form carefully before beginning to complete it. Each section is designed to provide you with the best possible choices for your elective courses.
-</thinking>
-
 # General Electives Survey - Help Guide
 ## Purpose
 

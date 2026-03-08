@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for the Anchor Class Registration Form, which is used to collect information from parents or guardians about their child's registration for the Anchor Class program. The purpose of this form is to gather necessary details about the student's registration status, academic information, medical needs, contact details, and other relevant information to ensure a smooth registration process.
-This form is designed to be completed by parents or guardians and should only be filled out once per student. Please ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # Anchor Class Registration Form - Help Guide
 ## Purpose
 The Anchor Class Registration Form is used to collect information from parents or guardians about their child's registration for the Anchor Class program. The form is designed to gather necessary details about the student's registration status, academic information, medical needs, contact details, and other relevant information.

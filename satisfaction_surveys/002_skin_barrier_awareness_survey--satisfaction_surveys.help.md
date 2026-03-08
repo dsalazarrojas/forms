@@ -1,9 +1,3 @@
-<thinking>
-
-As a skin health survey form, this tool aims to gather information from users on their skin type, concerns, knowledge level, habits, and preferences. This survey helps to better understand how individuals perceive skin health and what factors influence their purchasing decisions. It's essential to ensure that this form is completed by individuals who are familiar with the skin barrier and its concerns. If you're not sure about the skin barrier or skin health, it's recommended to complete this survey after gaining a better understanding of the topic.
-
-</thinking>
-
 # Skin Barrier Awareness Survey - Help Guide
 ## Purpose
 This form, titled "Skin Barrier Awareness Survey", is designed to collect information about individuals' skin types, concerns, habits, and preferences related to skin health.

@@ -1,10 +1,3 @@
-<thinking>
-We are designing a help guide for a "Math Survey" form to be used by end users. The form is intended to collect information from students regarding their favorite math subjects, comments about math-related topics, and other relevant details. We will review the form's purpose and fields to ensure it meets the requirements and avoid duplication of information. 
-
-Form fields seem to be well-structured, and all fields have clear labels, which will aid in easy understanding for end users.
-
-</thinking>
-
 # Math Survey - Help Guide
 ## Purpose
 This Math Survey form is designed to collect information from students about their favorite math subjects, comments, and other related details.

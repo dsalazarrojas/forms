@@ -1,12 +1,3 @@
-<thinking>
-This form is a user-facing help guide for the "Treasury Satisfaction Benchmark Survey" form. The purpose of this form is to measure the overall satisfaction of the treasury department's performance, including their awareness of the finance department's activities, communication effectiveness, technical skills, and team collaboration. This form is designed to help the user provide feedback on these aspects of the treasury department's performance. 
-
-It's worth noting that this form is not meant to be a one-time use case, but rather a recurring survey that can be filled out by multiple users. The goal is to track changes in perception over time and identify areas of improvement for the treasury department. 
-
-Before proceeding, it's essential to review the form to ensure you have all the required fields filled out. This guide will walk you through each field to ensure you understand what's expected of you.
-
-</thinking>
-
 # Treasury Satisfaction Benchmark Survey - Help Guide
 ## Purpose
 This form is a survey designed to measure your satisfaction with the treasury department's performance. It will help us identify areas of improvement and provide valuable insights for future development.

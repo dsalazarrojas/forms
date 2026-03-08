@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect emergency contact information for students at a school. This information is crucial in case of an emergency, allowing the school administration to quickly and efficiently reach out to the emergency contacts for any student. It is essential to ensure that this form is filled out accurately and completely, as this information may be used in critical situations.
-
-</thinking>
-
 # School Emergency Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect emergency contact information for students at a school. This information will be used in case of an emergency.

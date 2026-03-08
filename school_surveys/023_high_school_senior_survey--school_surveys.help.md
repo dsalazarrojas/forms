@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from high school seniors about their academic and extracurricular experiences, interests, and plans after graduation. It is intended to help schools understand the strengths, challenges, and interests of their students. Before filling out this form, please ensure you haven't already completed a similar survey for this school. This will help us avoid data duplication and ensure that your responses are accurate and relevant.
-</thinking>
-
 # High School Senior Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential applicants for the Educational Research Startup Grant. The grant is meant to support innovative research projects in education. This form will be used to assess whether an applicant is eligible for the grant and to understand their project details. Please note that this form must be filled out by the applicant, not by someone else on their behalf. Also, ensure that you are not submitting duplicate applications, as this may be considered a waste of resources and time.
-</thinking>
-
 # Educational Research Startup Grant Application - Help Guide
 ## Purpose
 This form is designed to gather information from potential applicants for the Educational Research Startup Grant. The grant is meant to support innovative research projects in education.

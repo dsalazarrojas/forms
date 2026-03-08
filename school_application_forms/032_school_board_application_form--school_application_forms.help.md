@@ -1,7 +1,3 @@
-<thinking>
-The School Board Application Form is used to collect and store information about a school's board of directors application. This form is typically used by the school staff to submit applications for the school board's review. To ensure that the form is completed accurately and correctly, it's essential to understand the purpose and process of filling it out. This form will be evaluated for completeness and accuracy before being submitted.
-</thinking>
-
 # School Board Application Form - Help Guide
 ## Purpose
 The School Board Application Form is used to collect and store information about a school's board of directors application. This form is typically used by the school staff to submit applications for the school board's review.

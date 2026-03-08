@@ -1,17 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-This form is designed to collect feedback from school stakeholders on their current and preferred communication channels, the effectiveness of school communication, and any additional comments or suggestions they may have. The form aims to gather data to improve internal communication within the school. The purpose of this form is to:
-
-*   Understand the current communication channels being used by school stakeholders (e.g., email, phone, in-person, etc.)
-*   Identify the preferred communication channels for school stakeholders
-*   Assess the effectiveness of school communication
-*   Collect any feedback or suggestions from school stakeholders
-
-This form is intended for school staff, students, and other stakeholders who want to provide their opinions on school communication. Please answer the questions accurately and provide any additional feedback or comments you may have.
-
-</thinking>
-
 # School Communication Feedback Form - Help Guide
 ## Purpose
 

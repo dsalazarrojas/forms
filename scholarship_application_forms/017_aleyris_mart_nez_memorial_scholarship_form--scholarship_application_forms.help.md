@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for the Aleyris Martinez Memorial Scholarship, which aims to support deserving students in their academic journey. This guide will walk you through the required fields to fill out the form accurately and completely. Please ensure that you have attached all required documents, including a transcript and recommendation letters. If you are unsure about any field, please refer to the explanations below.
-</thinking>
-
 # Aleyris Martinez Memorial Scholarship Form - Help Guide
 ## Purpose
 The Aleyris Martinez Memorial Scholarship Form is a comprehensive application form designed to gather essential information about you, the applicant, to determine your eligibility for the scholarship. It is crucial that you fill out the form accurately and completely to ensure a fair evaluation process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to submit links, and it's crucial that they understand how to fill it out correctly. To prevent errors, we should ensure that users are aware of the form's purpose and the required fields. We should also check if the form is being filled out correctly before allowing submission.
-</thinking>
-
 # Link Submission Form - Help Guide
 ## Purpose
 The Link Submission Form is designed for users to submit links to be reviewed or approved by our team. It's essential to fill out the form accurately to ensure that your link is reviewed correctly.

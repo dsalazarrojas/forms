@@ -1,22 +1,3 @@
-<thinking>
-
-The Nail Client Booking Form is designed to collect essential information from clients for their nail services appointment bookings. This form is crucial for the salon to schedule and prepare for the appointment, ensuring that the client's needs are met and the service is delivered efficiently. 
-
-The form will be used by clients to provide their personal details, appointment preferences, and any specific requirements they may have. The collected data will be used to create a smooth and enjoyable experience for the client during their visit.
-
-The form is divided into multiple fields that cater to different aspects of the appointment. Each field is carefully crafted to gather necessary information without being too intrusive or time-consuming. The fields are categorized into several sections:
-
-*   First Name and Last Name: Collects client's name and title information for identification.
-*   Email and Phone: Obtains client's contact information for further communication.
-*   Appointment Time and Date: Allows the client to choose a convenient appointment time and date for their service.
-*   Service Type: Determines the type of service the client requires, such as nail trimming, toenail care, or a manicure.
-*   Note: Provides an optional field for any additional comments or requests from the client.
-*   Service Duration: Collects the estimated time required for the service.
-*   Assigned Tool: Selects the preferred tool or equipment to be used during the service.
-*   Comments: A field for any additional comments or feedback from the client.
-
-</thinking>
-
 # Nail Client Booking Form - Help Guide
 
 ## Purpose

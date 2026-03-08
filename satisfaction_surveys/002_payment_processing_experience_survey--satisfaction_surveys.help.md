@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the form's purpose, we'll analyze the provided YAML fields. The form appears to be a survey designed to gather feedback or opinions from users about their payment processing experience. It includes questions that assess their satisfaction, ease of payment, payment methods, and any issues encountered during the process. This form might be used to identify areas of improvement for the organization's payment processing system.
-
-To ensure non-duplication, we'll make sure that each field is clearly explained, and the form's purpose and instructions are concise and easy to understand.
-
-</thinking>
-
 # payment_processing_experience_survey - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback about your payment processing experience. Your input will help us identify areas of improvement for our payment processing system.

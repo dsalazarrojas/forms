@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from clients for pedicure services, including the client's name, email, phone number, date and time of service, and other relevant details. The form is likely used in a salon setting to collect consent and provide a clear understanding of the service being performed. This form should only be used for pedicure services, and not for other types of services. Please ensure that the correct category is selected to avoid confusion.
-</thinking>
-
 # pedicure_service_consent_form - Help Guide
 ## Purpose
 This form is a pedicure service consent form used in salons to gather information from clients and ensure they understand the service being performed.

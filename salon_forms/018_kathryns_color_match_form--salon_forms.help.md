@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # kathryns_color_match_form - Help Guide
 ## Purpose
 The kathryns_color_match_form is a form designed to help users identify their perfect color match. It consists of a series of questions and fields that guide the user through the process of determining their ideal color scheme.

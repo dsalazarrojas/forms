@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Power Layout Feedback Survey is to collect feedback from end-users on their overall satisfaction with the layout of a specific system or application. The survey aims to understand how end-users use the layout, what they like or dislike, and what improvements they would suggest. This information will help the development team to make data-driven decisions on how to improve the layout to better meet the needs of the end-users.
-
-Before completing this form, please note that you have already taken this survey previously. If you have not, please fill out this form to provide your feedback. If you have already provided feedback on a similar survey, your responses will be taken into consideration but please feel free to update your feedback if necessary.
-</thinking>
-
 # Power Layout Feedback Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback on the power layout of a specific system or application. Please take a few minutes to complete this form and provide your honest feedback.

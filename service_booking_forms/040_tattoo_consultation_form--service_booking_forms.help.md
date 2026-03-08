@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tattoo Consultation Form - Help Guide
 ## Purpose
 The Tattoo Consultation Form is a tool used to gather information from potential clients about their tattoo consultation requirements. This form helps to streamline the consultation process and provides a convenient way for clients to provide detailed information about their needs and preferences.

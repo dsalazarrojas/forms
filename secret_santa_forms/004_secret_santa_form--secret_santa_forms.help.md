@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Secret Santa Form - Help Guide
 ## Purpose
 The Secret Santa Form is used to collect information from participants to organize a Secret Santa gift exchange. It gathers data on individual contributors, such as first and last names, and their preferences for the gift exchange.

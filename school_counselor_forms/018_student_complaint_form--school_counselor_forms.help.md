@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students who have experienced incidents or complaints related to their school environment. It's essential to complete this form to report any incidents, accidents, or concerns that may have occurred on school premises or during school activities. Please ensure that you're not submitting duplicate reports, and only report incidents that haven't been addressed by your school administrators or counselors yet.
-</thinking>
-
 # Student Complaint Form - Help Guide
 ## Purpose
 The Student Complaint Form is used to report incidents or complaints that students have experienced within the school environment. This form helps school administrators and counselors understand the issues and address them promptly.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form, the "provider_satisfaction_survey", is designed to collect feedback from users about their experience with the service provider. It is used to measure the overall satisfaction of users with the provider's services. This form is meant to be completed by users who have had a recent interaction with the provider and are willing to share their thoughts on what they liked or disliked about the experience. The goal is to gather valuable insights to help the provider improve its services in the future.
-
-</thinking>
-
 # provider_satisfaction_survey - Help Guide
 ## Purpose
 The "provider_satisfaction_survey" form is designed to collect feedback from users about their experience with the service provider. This feedback will help the provider to improve its services and better meet the needs of its customers.

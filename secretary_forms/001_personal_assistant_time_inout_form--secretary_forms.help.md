@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help users report their time in and out of the office or workspace. It's meant to be a simple and straightforward way to log hours worked or time spent on tasks. The purpose of this form is to collect relevant information about time in and out of the office for reporting and analysis.
-
-The form is divided into multiple pages, each with a single text input field. This design allows users to enter their time in and out of the office for each relevant day or period.
-
-Before using this form, it's essential to understand that it's not a formal time tracking tool. It's intended for general time logging purposes only.
-
-</thinking>
-
 # Personal Assistant Time InOut Form - Help Guide
 ## Purpose
 The Personal Assistant Time InOut Form is designed to collect information about time worked or logged for the purpose of reporting and analysis.

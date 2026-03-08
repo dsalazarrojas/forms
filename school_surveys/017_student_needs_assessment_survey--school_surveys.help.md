@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Needs Assessment Survey - Help Guide
 ## Purpose
 This form is designed to gather information about students' needs and experiences at school. By completing this form, you will help your school better understand what you require and need to support you in your academic and personal development.

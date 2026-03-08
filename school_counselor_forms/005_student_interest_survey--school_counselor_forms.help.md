@@ -1,6 +1,3 @@
-<thinking>
-To ensure the Student Interest Survey form is completed correctly and accurately captures the student's interests, we need to consider the form's purpose and potential overlap with existing information. This form is designed to collect data on students' interests, preferences, and expectations from their school year. The main goals of this form are to identify areas where the school can provide support, resources, or accommodations to meet individual students' needs. To prevent duplication of effort, we should ensure that the information collected here is not already available from other sources, such as student information systems or previous surveys.</thinking>
-
 # Student Interest Survey - Help Guide
 ## Purpose
 This form is designed to gather information about students' interests, preferences, and expectations from their school year. This data will help school administrators and counselors understand students' needs and provide support, resources, or accommodations accordingly.

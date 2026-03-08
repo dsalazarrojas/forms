@@ -1,7 +1,3 @@
-<thinking>
-We're creating a survey to better understand how people perceive E-Numbers. E-Numbers are a series of numbers that appear on products to inform consumers about potential allergens or health concerns. This survey will help us gather insights into how familiar people are with E-Numbers, their level of awareness, concerns, and behaviors when they see them on product labels. We'll also collect demographic information like country of residence and age to ensure we're gathering data from a diverse group of individuals. Please note that some fields are required to collect accurate and complete data. Make sure to answer them carefully. 
-</thinking>
-
 # Decode E Numbers Survey - Help Guide
 ## Purpose
 This form is a survey aimed at gathering information about how you perceive and interact with E-Numbers on products.

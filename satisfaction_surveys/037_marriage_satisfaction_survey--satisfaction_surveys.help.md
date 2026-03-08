@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to measure a couple's satisfaction with their marriage. The purpose of this form is to gather information about how satisfied individuals are with their partner, communication, conflict resolution, and overall relationship health. This form should be filled out by couples who are in a committed relationship and are looking to gain insights into their relationship dynamics. Please note that this form is meant to be a tool for personal reflection and growth, not a diagnostic or evaluative tool.
-
-Before filling out this form, make sure you and your partner are both on the same page and are willing to have an open and honest discussion about your relationship. This form should not be used as a replacement for professional counseling or therapy.
-
-</thinking>
-
 # Marriage Satisfaction Survey - Help Guide
 ## Purpose
 The Marriage Satisfaction Survey is a self-reporting tool designed to help couples gain insights into their relationship dynamics. This form is meant to be a starting point for couples to have open and honest discussions about their satisfaction with their partner, communication, conflict resolution, and overall relationship health.

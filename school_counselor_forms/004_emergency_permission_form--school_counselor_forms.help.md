@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Emergency Permission Form" is to gather information from the student's legal guardian or emergency contact in case of an emergency situation that may require the attention of school staff or administrators. This form is intended to be completed by the student's emergency contact, providing them with a means to provide consent for emergency medical or other services. The form should only be completed if an emergency situation has arisen or is anticipated, and not for general information purposes.
-</thinking>
-
 # Emergency Permission Form - Help Guide
 ## Purpose
 The Emergency Permission Form is a critical document that helps the school to contact the student's emergency contact in case of an emergency.

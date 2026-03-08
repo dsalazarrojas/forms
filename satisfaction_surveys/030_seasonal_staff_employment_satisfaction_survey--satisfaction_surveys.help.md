@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback from seasonal staff regarding their employment experience with the company. The purpose is to gather data on the effectiveness of the company's seasonal staff programs and identify areas for improvement.
-The form asks for information on the seasonal employer's details, job title, employment dates, hours worked, employment rate, overall satisfaction, and recommendation. The overall satisfaction question is a single-select question allowing the user to choose from four options, while the recommend question is a multi-select question allowing the user to choose multiple options.
-The form's fields are designed to be as straightforward as possible, but some fields could be considered unclear. For example, the "Seasonal Employment Rate" field is not immediately clear what it represents. This field is likely intended to represent the hourly wage or rate of pay for the seasonal employment.
-</thinking>
-
 # Seasonal Staff Employment Satisfaction Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from seasonal staff regarding their employment experience with the company. The goal is to gather data on the effectiveness of the company's seasonal staff programs and identify areas for improvement.

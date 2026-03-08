@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to measure the level of trust, accountability, and support within an organization. It's intended for employees or team members to assess their perceptions of their workplace environment. The form is not affiliated with any specific form platform and is an original creation based on public survey topic metadata. This guide is meant to help users understand the purpose and completion process of the form.
-</thinking>
-
 # Organizational Trust And Accountability Survey - Help Guide
 ## Purpose
 The Organizational Trust And Accountability Survey is designed to gather information about how employees perceive their workplace environment, specifically regarding trust, transparency, and support. This survey is meant to be completed by employees or team members to provide insights into the organizational culture and identify areas for improvement.

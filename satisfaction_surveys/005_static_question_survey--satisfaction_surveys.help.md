@@ -1,9 +1,3 @@
-<thinking>...the form is used to collect feedback and suggestions from users on our services, product features, and overall experience. It helps us understand how users perceive our services and product offerings. This feedback is crucial for us to make data-driven decisions and continuously improve the quality of our products and services.
-
-Please note that this form may collect similar information from users who complete it multiple times. To avoid duplication, we kindly request that users provide feedback only once and not on subsequent visits.
-
-</thinking>
-
 # Static Question Survey - Help Guide
 ## Purpose
 This guide helps you complete the "Static Question Survey" form, which collects feedback and suggestions from users on our services and product features.

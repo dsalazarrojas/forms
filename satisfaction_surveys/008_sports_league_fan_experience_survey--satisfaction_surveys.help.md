@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect feedback from sports league fans to gauge their overall experience at a game day event. The goal is to gather information on various aspects of the event, such as game day food and beverages, concession stands, ticket cost, and overall satisfaction. This data will help us improve the fan experience for future events.
-
-Before completing this form, please ensure that you have not already provided feedback on this survey. If you have, your responses will not be recorded.
-
-The form has several pages with multiple fields for each page. Please review each field carefully and provide your honest feedback.
-
-</thinking>
-
 # Sports League Fan Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from sports league fans to improve the fan experience.

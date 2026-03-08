@@ -1,7 +1,3 @@
-<thinking>
-This lip flushing intake form template is designed for clients to provide essential information about their lip flushing treatment process. Its purpose is to collect client details, medical history, treatment information, and consent. This form ensures a smooth and efficient experience for both the client and the treatment provider.
-</thinking>
-
 # Lip Blushing Intake Form Template - Help Guide
 ## Purpose
 The Lip Blushing Intake Form Template is a comprehensive form designed to collect necessary information from clients before undergoing a lip flushing treatment. This form helps treatment providers to gather client details, medical history, treatment information, and consent, ensuring a thorough understanding of the client's situation.

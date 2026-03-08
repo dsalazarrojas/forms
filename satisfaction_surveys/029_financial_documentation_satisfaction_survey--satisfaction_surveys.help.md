@@ -1,14 +1,3 @@
-<thinking>
-To create a help guide that effectively communicates the purpose and requirements of this form to end-users, I need to first understand the form's context and the user's goals. This Financial Documentation Satisfaction Survey form aims to collect feedback from users about their experience with the financial documentation process. The form is likely used by financial professionals or employees to gauge the effectiveness and clarity of reports and financial documentation in their organization.
-
-The form contains multiple fields with various types (text, select_one, select_multiple, date), indicating a mix of qualitative and quantitative feedback. The fields are designed to elicit detailed responses from users, which will help in identifying areas of improvement.
-
-The form's sections seem to cover various aspects of the financial documentation process, including report type, report date, documentation satisfaction, and overall satisfaction. Some fields are marked as 'required', suggesting that they are essential for the survey's purpose.
-
-To create a clear and concise help guide, I will focus on explaining each field's purpose and requirements in a way that is straightforward and easy to understand.
-
-</thinking>
-
 # Financial Documentation Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with financial documentation. The goal is to gauge the effectiveness, clarity, and overall satisfaction with financial reports and documentation.

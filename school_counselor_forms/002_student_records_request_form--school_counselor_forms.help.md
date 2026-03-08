@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and records about students from school counselors. The form is meant to gather data on student performance, results, and other relevant details. 
-
-It's essential to understand that this form should only be used for authorized and legitimate purposes. 
-
-Before filling out the form, please ensure that you have the necessary permissions and clearance to do so. If you're not sure about the form's purpose or if you've already submitted similar information, please refrain from using it to avoid duplication of effort. 
-
-This form is intended for school counselors who need to keep track of student records. 
-
-If you're a parent or guardian, please note that this form is not meant for your use. 
-
-Please fill out this form carefully and accurately, as it will be used to inform decisions and actions that affect students' academic progress. 
-
-</thinking>
-
 # Student Records Request Form - Help Guide
 ## Purpose
 The Student Records Request Form is used by school counselors to collect and maintain records about students. This form helps to track student performance, progress, and other relevant details.

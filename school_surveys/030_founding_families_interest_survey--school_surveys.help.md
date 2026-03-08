@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the interests and preferences of families that are interested in being founding families to a school or educational institution. This form will help the school administration understand the level of interest and involvement of these families in the school's programs and activities. By using this form, the school can tailor its services and programs to better meet the needs of its founding families. 
-
-The form is designed to be simple and straightforward, with a minimal number of fields to ensure ease of completion. The fields are divided into two sections: contact details and preferences. The contact details section collects the family's email address and phone number for future communication. The preferences section asks if the family is interested in being a founding family, their level of involvement, and their involvement preferences.
-
-This form will be used by school administration to track and follow up on the interest of families in being founding families. Therefore, please ensure that the information provided is accurate and up-to-date.
-
-Before proceeding, please check if you have already submitted this form. If you have, please do not complete it again.
-</thinking>
-
 # Founding Families Interest Survey - Help Guide
 ## Purpose
 The Founding Families Interest Survey is a form designed to collect information about families interested in being founding families to a school or educational institution.

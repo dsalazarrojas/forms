@@ -1,12 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Returning Student Ambassador Application Form, the following internal reasoning block explains its purpose and checks for relevance and non-duplication:
-
-The purpose of this form is to gather information from students who are re-applying to be ambassadors for the school. It is essential to ensure that the form is completed correctly to avoid errors and confusion. The form fields are designed to collect specific details about the student's application, including contact information, graduation date, major and minor, returning ambassador role, previous ambassador experience, student ID, school year, and statements to support their application.
-
-Before proceeding, it is crucial to check if the form is relevant to the student's re-application and if they are not already an ambassador. This guide will help users fill out the form accurately and efficiently.
-
-</thinking>
-
 # Returning Student Ambassador Application Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information from students who are re-applying to be ambassadors for the school. Completing this form ensures that you are eligible to re-apply and provides the required details for the selection process.

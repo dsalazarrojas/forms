@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and satisfaction information from partners about their experience with our organization. It is meant to be a subjective assessment of their satisfaction level and any areas that need improvement. This form is not required, as it is intended to be a voluntary effort for feedback purposes. Please ensure that you only access and answer this form if you are a partner and have received a notification to complete it. 
-</thinking>
-
 # Partner Satisfaction Survey - Help Guide
 ## Purpose
 The Partner Satisfaction Survey is designed to help our organization understand the level of satisfaction our partners experience in working with us. This survey is meant to be a helpful tool for us to identify areas for improvement and provide a better service to our partners. 

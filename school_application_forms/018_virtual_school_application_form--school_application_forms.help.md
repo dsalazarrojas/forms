@@ -1,9 +1,3 @@
-<thinking>
-The "Virtual School Application Form" is designed to collect information from students and their parents/guardians for school-related purposes. The form is used to gather details such as contact information, educational background, and school-related specifics. 
-It's essential to fill out the form accurately to ensure that the school receives the necessary information to process your application efficiently. Please note that some fields are required, marked as such, so make sure to provide valid information in those fields.
-
-</thinking>
-
 # Virtual School Application Form - Help Guide
 ## Purpose
 The Virtual School Application Form is a tool used to gather information from students and their parents/guardians for school-related purposes. It helps the school to collect and process application data efficiently.

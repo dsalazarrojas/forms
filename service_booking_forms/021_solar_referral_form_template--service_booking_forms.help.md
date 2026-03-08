@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from users for referrals. It seems to be part of a service booking system, allowing users to provide details about a referral, such as the referral form, name, phone number, email, date, time, note, service requested, assigned tool, and service booked status.
-To avoid duplication of effort, this form is intended to be used for referrals only, and its fields should only be filled out when referring someone for a service.
-</thinking>
-
 # solar_referral_form_template - Help Guide
 ## Purpose
 This form is used to gather information from users for referrals, allowing service teams to efficiently manage referrals and provide the best possible support.

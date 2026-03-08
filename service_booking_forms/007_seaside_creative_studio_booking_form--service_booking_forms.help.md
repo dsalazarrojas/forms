@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seaside Creative Studio Booking Form - Help Guide
 ## Purpose
 This form is used to book a studio session at Seaside Creative Studio. It collects relevant information about the project, booking details, and contact information for communication and coordination.

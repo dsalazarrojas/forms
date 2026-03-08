@@ -1,5 +1,3 @@
-<thinking>...checking the provided YAML fields for relevance and non-duplication...this form appears to be a comprehensive assessment tool for evaluating the instructional technology needs of a school or educational institution. It is likely intended to help administrators, teachers, or other stakeholders identify areas of improvement and provide a framework for planning and resource allocation. The form includes a range of questions and fields that cover various aspects of instructional technology, including classroom settings, device accessibility, teacher training, technical support, and more...this form may be used to gather data for strategic planning, budgeting, or other administrative purposes...no obvious duplication or redundancy is noted...</thinking>
-
 # Instructional Technology Needs Assessment Form - Help Guide
 ## Purpose
 The Instructional Technology Needs Assessment Form is a tool designed to help identify the instructional technology needs of a school or educational institution. This form will help administrators, teachers, or other stakeholders assess their current situation and plan for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-As a form designer and technical writer, I need to create a user-facing help guide for the Farmer Degree Application Form. This guide will walk users through the form's purpose, completion process, and field explanations to ensure they understand what information is required and what they need to do to complete the form correctly. The guide will be in Markdown format and cover the following sections: Purpose, How To Complete This Form, and Field-by-Field Explanation.
-</thinking>
-
 # Farmer Degree Application Form - Help Guide
 ## Purpose
 The Farmer Degree Application Form is a document intended for farmers or individuals interested in pursuing a degree in agriculture or farming-related fields. This form collects basic contact information and specifics about the applicant's farm and background. Completers of this form will be evaluated for eligibility for our degree programs.

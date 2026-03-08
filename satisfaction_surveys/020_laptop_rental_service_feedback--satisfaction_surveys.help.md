@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to ensure users understand the purpose of the form and how to complete it efficiently. The form, "Laptop Rental Service Feedback", is intended to gather feedback from users about their experience with the laptop rental service. This form is not meant to be completed by users who have not rented a laptop from the service, or if the user has not had any interaction with the service at all. Users should only proceed to complete this form if they have rented a laptop and have an opinion or experience to share.
-
-The purpose of this form is to gather feedback on various aspects of the laptop rental service, including the condition of the laptop, the quality of support provided, the overall rental experience, and any suggestions or comments the user may have. Users will be able to provide feedback on a scale of 1-10 for the importance of each of these aspects, as well as select multiple options for their support experience.
-
-To complete this form, users will navigate through several pages, each with a unique set of fields. The fields will be explained in detail below.
-
-</thinking>
-
 # Laptop Rental Service Feedback - Help Guide
 ## Purpose
 The Laptop Rental Service Feedback form is designed to gather user feedback on their experience with the laptop rental service. This form is intended for users who have rented a laptop from the service and have an opinion or experience to share.

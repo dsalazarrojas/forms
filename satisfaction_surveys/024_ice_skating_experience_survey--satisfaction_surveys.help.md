@@ -1,21 +1,3 @@
-<thinking>
-This form is intended to gather feedback from customers about their ice skating experience. It's essential to ensure that the questions are clear, concise, and easy to understand, reducing the likelihood of duplicate responses. To confirm the form's purpose, I will review the provided YAML fields.
-
-The form is called "Ice Skating Experience Survey" which suggests it's focused on assessing customers' experiences, satisfaction, and goals related to ice skating. 
-
-There are several select options, select multiple options, and text fields that cover various aspects of the skating experience.
-
-The "skater_type" field is a required select multiple option, indicating that customers are expected to choose one or more types of skaters they are. This implies that the form aims to gather information about the diversity of skaters who participate in the survey.
-
-The required "what_are_your_goals_for_skating" field, which is a select multiple option, suggests that the form is interested in understanding the motivations or objectives of the customers while ice skating.
-
-The "email", "phone", and "name" fields seem to be for general contact information, likely for further follow-up or communication purposes.
-
-Given this analysis, the form's purpose is to gather feedback about the ice skating experience, focusing on customers' satisfaction, frequency, and goals related to ice skating. 
-
-This form will likely be used to improve the overall experience for customers, providing a better understanding of their needs and preferences.
-</thinking>
-
 # Ice Skating Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their ice skating experience, aiming to improve the overall experience for customers.

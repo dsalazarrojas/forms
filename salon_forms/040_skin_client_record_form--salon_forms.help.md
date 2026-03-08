@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Skin Client Record Form", I will first provide an internal explanation for the form's purpose and relevance, followed by the actual help guide.
-</thinking>
-
 # Skin Client Record Form - Help Guide
 ## Purpose
 The "Skin Client Record Form" is a tool designed to collect and store information about skin-related clients. This form captures various details about the client's skin condition, visits, services, and recommendations. It aims to create a comprehensive record for skin care professionals, ensuring accurate and up-to-date information about each client.

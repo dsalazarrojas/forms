@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for degree verification, which means it is intended for school counselors to verify the degree completion status of students. This form will be used to collect relevant information from the student, such as their category of degree completion (e.g., "School Counselor Forms" or "Other"), a brief description of the degree, the form's ID, and details about the assigned tool. The purpose of this form is to ensure that degree verification is done accurately and consistently across the board. Please ensure that you understand your role in filling out this form and the relevance to your work before proceeding.
-</thinking>
-
 # degree_verification_form - Help Guide
 ## Purpose
 The degree verification form is used to verify the completion status of student degrees.

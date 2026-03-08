@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the multiple intelligences of the user, which is a concept introduced by Howard Gardner that refers to a range of abilities and skills that individuals can possess. The form is meant to be completed by students, educators, or anyone interested in understanding their strengths and weaknesses. It will not be used to create a final product or deliverable, rather it is a tool for self-reflection and development.
-
-</thinking>
-
 # multiple_intelligence_survey - Help Guide
 ## Purpose
 

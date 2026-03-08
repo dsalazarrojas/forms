@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # school_counseling_progress_note - Help Guide
 ## Purpose
 This form is used by school counselors to record the progress of students in the school counseling process. The form captures essential details about each student, including their name, progress date, location, and other relevant information. 

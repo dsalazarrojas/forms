@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block for form purpose and relevance checks ...
-
-The purpose of this form is to collect information from students who are applying to senior high school. The form is likely used by schools to gather essential details about the student's background, educational history, and contact information. The form is designed for the school's administration to use in their decision-making process.
-
-... </thinking>
-
 # Senior High School Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who are applying to senior high school. It is used by school administrators to gather essential details about the student's background, educational history, and contact information.

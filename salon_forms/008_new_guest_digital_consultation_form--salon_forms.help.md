@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from new guests for digital consultations. This form should only be filled out by new guests, and it's essential to ensure that the form is not filled out by existing or returning guests to maintain the integrity of the guest list. To prevent duplication, a check should be implemented to verify if the guest has already filled out the form in the past. The form should be used to collect the guest's name, email, phone number, service preferences, and scheduling information to ensure a smooth and efficient digital consultation experience.
-</thinking>
-
 # New Guest Digital Consultation Form - Help Guide
 ## Purpose
 The New Guest Digital Consultation Form is designed to collect information from new guests for digital consultations. This form helps the salon to understand the guest's preferences, schedule appointments, and provide personalized services.

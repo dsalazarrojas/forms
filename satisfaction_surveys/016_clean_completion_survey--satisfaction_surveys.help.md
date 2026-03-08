@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from clients on their experience with the cleaning service provided by the company. The form is meant to be filled out by clients after the service has been completed, and it aims to collect information on various aspects of the service, including the quality of the service, the punctuality of the cleaner, and the overall satisfaction of the client. This form is not meant to be filled out by non-clients or for other purposes, so please ensure that you are filling out this form as a genuine client of the company. Please note that some fields may be required or optional, but all required fields must be filled out to ensure that your feedback is complete and useful for the company.
-</thinking>
-
 # Clean Completion Survey - Help Guide
 ## Purpose
 

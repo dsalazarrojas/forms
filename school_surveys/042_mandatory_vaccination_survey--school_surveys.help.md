@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mandatory Vaccination Survey - Help Guide
 ## Purpose
 This form is used to collect information about patient vaccinations.

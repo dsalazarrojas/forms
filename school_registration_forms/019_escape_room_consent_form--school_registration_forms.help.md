@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Escape Room Consent Form - Help Guide
 
 ## Purpose

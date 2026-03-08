@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's ensure that the form is being used for its intended purpose and not duplicated. This form is designed for enrolling students into the performing arts school, gathering relevant information such as contact details, student and parent info, and emergency contact details. It's essential to fill this form out carefully to ensure accurate and complete information is captured.</thinking>
-
 # Performing Arts School Enrollment Form - Help Guide
 
 ## Purpose

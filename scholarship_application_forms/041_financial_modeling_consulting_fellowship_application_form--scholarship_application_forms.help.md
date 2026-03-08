@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential applicants for a Financial Modeling Consulting Fellowship. The form is designed to gather personal and professional details, financial information, and other relevant data to evaluate applicants for the fellowship. This guide will walk you through the form's purpose, the steps to complete it, and an explanation of each field to ensure a smooth and efficient submission process.
-</thinking>
-
 # Financial Modeling Consulting Fellowship Application Form - Help Guide
 ## Purpose
 The Financial Modeling Consulting Fellowship Application Form is designed to collect information from potential applicants for a Financial Modeling Consulting Fellowship. The form is intended to gather relevant data to evaluate applicants for the fellowship.

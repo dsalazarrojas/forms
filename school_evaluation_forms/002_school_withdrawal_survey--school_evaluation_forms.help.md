@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather student feedback and opinions about their school experience. This survey is designed to understand the student's satisfaction level, reasons for leaving, and any comments or suggestions they may have. It is likely used by school administrators to assess the overall experience of students and make necessary improvements.
-
-To ensure that each student's feedback is valid and relevant, it is crucial to review the form's purpose and instructions before completing it. This form should not be duplicated or filled out by students if they have already provided similar feedback in the past.
-
-</thinking>
-
 # school_withdrawal_survey - Help Guide
 
 ## Purpose

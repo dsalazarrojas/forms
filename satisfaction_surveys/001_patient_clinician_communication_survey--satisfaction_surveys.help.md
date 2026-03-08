@@ -1,13 +1,3 @@
-<thinking>
-To provide clarity and ensure consistency, let's quickly review the purpose and relevance of this form: 
-The form is intended to collect feedback and opinions from patients and clinicians on their communication experiences. The form will help healthcare providers understand areas for improvement and provide a basis for further analysis and action. The fields provided should be carefully chosen to gather relevant data without duplicating existing information.
-
-The form has been designed to collect information on various aspects of communication, including patient and clinician categorization, communication channels, frequency of communication, satisfaction levels, areas for improvement, and other relevant details.
-
-Let's ensure that the explanation below aligns with these goals and doesn't introduce any duplication or unnecessary information. Let's move on to the help guide for the users.
-
-</thinking>
-
 # Patient Clinician Communication Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from patients and clinicians on their communication experiences in the healthcare setting.

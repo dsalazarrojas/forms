@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will first analyze the form purpose and structure to create a clear and concise user-facing help guide. The "food_service_satisfaction_survey" form seems to be designed to collect feedback on the quality and overall satisfaction of a food service experience. The form asks users to rate various aspects of their experience, including the overall rating, food service quality, food price, food portion, food appearance, service friendliness, and overall satisfaction. The form is likely used to gather valuable insights to improve the food service experience and make informed decisions.</thinking>
-
 # food_service_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the quality and overall satisfaction of a food service experience.

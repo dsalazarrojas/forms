@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect information related to student placement requests, likely for school district or departmental purposes. The form asks for a student's basic contact and placement information, including their name, grade level, and school name. Additionally, it requests details about the student's request such as the subject area they wish to be placed and the date of the placement request. The form may be used for planning, coordination, or record-keeping within the educational institution.
-
-This form is likely used by school counselors, teachers, or administrators to gather information and make informed decisions about student placements. To complete this form, please read the instructions carefully, and follow the steps outlined below.
-
-Please note that not all fields are mandatory, and you can skip any that do not apply to your specific situation.
-</thinking>
-
 # Student Placement Request Form Template - Help Guide
 ## Purpose
 The Student Placement Request Form Template is a tool used to collect information related to student placement requests.

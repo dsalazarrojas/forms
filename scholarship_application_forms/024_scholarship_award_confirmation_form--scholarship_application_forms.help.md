@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scholarship Award Confirmation Form - Help Guide
 ## Purpose
 This form is for confirming the receipt of a scholarship award. It helps ensure that the award recipient acknowledges and confirms their scholarship details.

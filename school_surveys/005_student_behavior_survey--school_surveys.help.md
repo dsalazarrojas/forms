@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose:**
-The purpose of this form is to collect information from students about their behavior and experiences at school. This form is designed to gather data about student behavior, which will be used to identify trends and patterns that can inform school administrators and educators in making decisions.
-</thinking>
-
 # Student Behavior Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students about their behavior and experiences at school. This data will be used to identify trends and patterns that can inform school administrators and educators in making decisions.

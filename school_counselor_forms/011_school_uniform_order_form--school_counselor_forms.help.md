@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form, "School Uniform Order Form", is to allow students to submit their uniform ordering information. The form collects demographic data, including name, school ID, date of birth, and contact information, as well as ordering preferences such as uniform sizes and colors. The form is designed to be completed by students, and it is intended to be used by school administrators to efficiently process uniform orders.
-This form is intended to serve as a standardization tool, ensuring uniformity across the school in the ordering and processing process. To avoid duplication of effort, it's recommended that schools use this form as a template or guide for creating their own uniform order forms.
-</thinking>
-
 # School Uniform Order Form - Help Guide
 ## Purpose
 The School Uniform Order Form is designed to collect information from students to process uniform orders efficiently.

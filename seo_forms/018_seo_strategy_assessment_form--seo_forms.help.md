@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the search engine optimization (SEO) strategy assessment of a website. The form is used to collect data on various aspects of the website's performance, including keyword research, technical audits, content audits, and other factors that impact SEO. This information will be used to identify areas of improvement and provide recommendations for enhancing the website's search engine rankings.</thinking>
-
 # seo_strategy_assessment_form - Help Guide
 ## Purpose
 The form is designed to collect data on the SEO strategy assessment of a website, including keyword research, technical audits, content audits, and other factors that impact SEO.

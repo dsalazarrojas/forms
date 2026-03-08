@@ -1,12 +1,3 @@
-<thinking>
-To ensure that this form is filled out correctly, let's review its purpose and requirements. This form is designed to collect feedback and experiences from users about changes they have undergone, whether it's related to personal or professional development, training, or other types of growth. The "Category" field is meant to help categorize these experiences, and the "Program" field allows users to select the specific programs they've been involved with. The "Coach" field is used to attribute credit to the coaches who have contributed to their change, and the "HR Team" field might be used to acknowledge the support or involvement of HR departments. The "Date" and "Time" fields are for recording the timing of the change, while the "Note" field provides an opportunity for users to add any additional comments or observations. The "Email" and "Phone" fields are for contacting users if needed, and the "Form Submission URL" field might be used for tracking or sharing submissions. The "Submission Status" field is used to mark the status of the submission, and the "Submission Date" and "Submission Time" fields record when it was submitted. The "Coach Rating" field is for evaluating the effectiveness of the coaches, the "Coach Comments" field is for additional feedback about the coaches, the "Program Rating" field is for evaluating the effectiveness of the programs, and the "Program Comments" field is for more feedback about the programs. This form seems to have a comprehensive approach to collecting and understanding change experiences in various contexts and roles.
-
-Please ensure that you are filling out the correct fields based on your actual experiences and the specific requirements for the form. Make sure you don't duplicate your submissions if you have already filled out this form.
-
-If you're unsure about any of the fields, please reach out to the relevant personnel for clarification. This form is a tool for growth and improvement, and any feedback you provide is valuable to us.
-
-</thinking>
-
 # Share Your Change Experiences - Help Guide
 
 ## Purpose

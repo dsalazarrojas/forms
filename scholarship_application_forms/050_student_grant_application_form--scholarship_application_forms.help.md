@@ -1,28 +1,3 @@
-<thinking>
-The form purpose is to gather information for student grant applications, which include various details such as student information, grant type, grant amount, grant start and end dates, grant frequency, grant period, grant status, grant comment, grant application, grant decision, financial aid, grant funding, grant payment term, grant payment method, grant payment status, grant repayment status, and grant repayment term. This form helps to ensure that all necessary information is collected and organized for further review and evaluation.
-To complete this form, follow these steps:
-
-1.  Fill out the student information section, including name, date of birth, and other relevant details.
-2.  Select the grant type that you are applying for from the provided options.
-3.  Enter the grant amount and select the grant start and end dates.
-4.  Choose the grant frequency and period from the provided options.
-5.  Select the grant status, which could be active, inactive or pending.
-6.  Provide a comment about your grant, if desired.
-7.  Select the grant application methods.
-8.  Choose the grant decision, which is the outcome of your application.
-9.  Choose the financial aid that you are applying for.
-10. Choose the grant funding method.
-11. Choose the payment term for the grant.
-12. Select the grant payment method.
-13. Choose the grant payment status.
-14. Select the grant repayment status.
-15. Choose the grant repayment term.
-16. Sign and date the form with your student signature.
-17. Sign and date the form with the grantor's signature.
-18. Click the submit button to complete the application.
-
-</thinking>
-
 # Student Grant Application Form - Help Guide
 ## Purpose
 The Student Grant Application Form is designed to collect all necessary information for student grant applications. This includes student details, grant type, amount, start and end dates, frequency, period, status, comment, application methods, decision, financial aid, funding, payment term, payment method, payment status, repayment status, and repayment term. This ensures that the application process is thorough and helps to avoid missing crucial details.

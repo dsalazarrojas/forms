@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Higher Education Leadership Fellowship Application Form - Help Guide
 
 ## Purpose

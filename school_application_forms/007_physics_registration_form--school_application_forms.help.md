@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to collect information from students registering for the physics course. It should only be filled out by students who have already expressed interest in the physics course and have been provided with the necessary information and guidance. Please do not fill out this form if you are not a student, as it may not accurately capture your information. If you have filled out this form previously, please do not fill it out again, as this will cause redundant data entry.</thinking>
-
 # Physics Registration Form - Help Guide
 ## Purpose
 

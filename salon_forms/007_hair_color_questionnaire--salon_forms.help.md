@@ -1,12 +1,3 @@
-<thinking>
-We need to create a help guide that explains the Hair Color Questionnaire form to end-users. The purpose of this form is to gather information from users about their hair color preferences, face shape and length, and other related features to provide personalized advice on which hair color would suit them best.
-
-The form consists of several sections with different fields that ask for specific information. Before creating the guide, we need to review the form schema and check for any duplication or inconsistencies. Upon reviewing, it seems that the form has several sections with similar questions, which can be confusing for end-users.
-
-We will group the similar questions together and provide a clear explanation for each field, making it easier to understand and complete the form.
-
-</thinking>
-
 # Hair Color Questionnaire - Help Guide
 ## Purpose
 This form is designed to help you find the best hair color that suits your face shape, length, and color preferences. Please answer the questions honestly, and the form will provide you with personalized recommendations.

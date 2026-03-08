@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect basic user information and specific requirements for a sample collection. It is intended to be completed by end-users of the system, and each field is designed to elicit a specific type of information. 
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The <string> form is used to collect information from users regarding a sample collection. This includes their basic contact information (First Name, Last Name, and Email) and specific details about their sample requirements (Sample Request Date, Sample Request Time, Color Request, Number of Samples, Follow-up Request, and Notes).

@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the Before and After School Care Registration Form. The form is designed to gather essential information from parents or guardians to ensure that their child's care needs are met during school hours. It is crucial to fill out this form accurately and completely to provide the necessary details for efficient and secure care.
-
-Before starting the form, please ensure that you have all the required information and documents at hand, such as your child's medical records and emergency contact details. If you are unsure about any part of the form, do not hesitate to reach out to the relevant authorities for clarification.
-
-Please note that some fields are marked as "required," which means you must fill out this information for the form to be complete and valid.
-
-</thinking>
-
 # Before And After School Care Registration Form - Help Guide
 ## Purpose
 The Before and After School Care Registration Form is designed to gather essential information from parents or guardians for the efficient and secure care of their child during school hours. It is used to ensure that the program meets the child's specific needs and provides a safe and enjoyable experience.

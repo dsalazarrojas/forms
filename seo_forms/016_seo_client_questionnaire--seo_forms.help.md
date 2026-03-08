@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise explanation of the "seo_client_questionnaire" form, which is used to gather information from clients about their SEO needs and website requirements. To ensure that the guide is relevant and helpful, the purpose of the form will be reviewed and explained.
-
-This form is designed to collect information from clients about their website and SEO needs. It will help the client understand what kind of information is needed to better serve them. The form will help us to better understand their website and SEO needs to provide them with accurate and personalized services.
-
-Before you begin, please make sure you have all necessary information at hand, and you don't need to answer these questions more than once, as this information is only collected once.
-
-</thinking>
-
 # seo_client_questionnaire - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the SEO Client Questionnaire form, which is designed to gather information from clients about their website and SEO needs.

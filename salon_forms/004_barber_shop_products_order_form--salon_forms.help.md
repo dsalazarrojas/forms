@@ -1,5 +1,3 @@
-<thinking>...This form is for placing orders for products from a barber shop, such as premium pomade, hair gel, beard oil, shaving cream, aftershave lotion, hair spray, conditioner, shampoo, neck strips, cape, clipper blades, and disinfectant solution. The form requires information such as order date, shop name, contact person, phone number, email address, shipping address, city, state, ZIP code, quantity of each product, shipping method, payment method, and special instructions or promo code. The form does not require a promo code to be filled, but it is available for users to input if they have one. This form is likely to be used by a barber shop's staff or management to process orders for products. The form's fields are well-structured and clear, making it easy for the staff to understand and fill out the form accurately.</thinking>
-
 # Barber Shop Products Order Form - Help Guide
 ## Purpose
 

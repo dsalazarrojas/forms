@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the essential information for catering orders from students, ensuring that the event planners and catering services can efficiently process and fulfill student requests. The form's fields are carefully crafted to provide a seamless and user-friendly experience for students. It's worth noting that the purpose of this form is not to create a generic catering order form but to provide a specific tool for students to order food for events within educational institutions.
-</thinking>
-
 # Student Catering Order Form - Help Guide
 ## Purpose
 This form is designed for students to order catering services for events at their school. It helps event planners and catering services process and fulfill student requests efficiently.

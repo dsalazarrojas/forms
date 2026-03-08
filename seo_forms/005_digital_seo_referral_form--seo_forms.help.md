@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about referrals from partners and clients. The purpose of this form is to gather relevant details about the project, partner, and client, and to track the status of the referrals. This form should only be used for legitimate referrals, and not for testing or demonstration purposes.
-</thinking>
-
 # digital_seo_referral_form - Help Guide
 ## Purpose
 The digital_seo_referral_form is used to collect information from partners and clients about SEO referrals.

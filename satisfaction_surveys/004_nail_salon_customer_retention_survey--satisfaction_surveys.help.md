@@ -1,14 +1,4 @@
-# <thinking>
-
-To create a comprehensive user-facing help guide for this form, we'll first need to understand the form's purpose and ensure it's not being duplicated. The purpose of this form is to gather feedback from customers about their experience at the nail salon, specifically regarding customer retention, satisfaction, and services provided. This data will help the salon to improve and better serve its clients.
-
-Before creating the help guide, let's check if there are any similar forms that can be linked to, or if this form is part of a larger process. After a quick review, it appears that this form is a standalone survey for gathering feedback from customers, and there are no similar forms to link to.
-
-Now, let's focus on creating the user-facing help guide.
-
-</thinking>
-
-# Nail Salon Customer Retention Survey - Help Guide
+# # Nail Salon Customer Retention Survey - Help Guide
 
 ## Purpose
 The purpose of this form is to gather feedback from customers about their experience at our nail salon. Your input will help us improve and better serve you and our community.

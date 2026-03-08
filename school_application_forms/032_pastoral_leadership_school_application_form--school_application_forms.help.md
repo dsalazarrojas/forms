@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is completed correctly to avoid duplication and miscommunication. This form is for the Pastoral Leadership School Application, and it's essential to understand its purpose to ensure accurate and relevant information is provided. It's crucial to review each field carefully to provide the correct information. The form is not meant to be a comprehensive guide on Pastoral Leadership, but rather a supporting document for school applications.
-</thinking>
-
 # Pastoral Leadership School Application Form - Help Guide
 ## Purpose
 This form is designed to help applicants for the Pastoral Leadership School provide necessary information for the application process.

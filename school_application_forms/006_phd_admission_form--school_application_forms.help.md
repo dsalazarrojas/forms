@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from potential PhD applicants. Its purpose is to gather data required for PhD admission process, including contact details, academic background, research interests, and other relevant information. The form is divided into several sections to ensure that applicants provide all necessary information to be considered for admission. This form is not meant to be a comprehensive, lengthy document but rather a concise way to gather relevant details for the admission process.
-</thinking>
-
 # Phd Admission Form - Help Guide
 ## Purpose
 The Phd Admission Form is a document designed to collect essential information from potential PhD applicants for the admission process.

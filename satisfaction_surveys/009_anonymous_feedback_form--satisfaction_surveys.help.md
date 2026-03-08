@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anonymous Feedback Form - Help Guide
 
 ## Purpose

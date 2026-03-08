@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for parents to provide feedback on their experience at the school or institution. The form is meant to gather anonymous and honest feedback from parents, providing an opportunity for the school to improve its services. It is not a required form for all parents. If you have already completed this form, please do not submit it again. 
-</thinking>
-
 # parent_feedback_form - Help Guide
 ## Purpose
 This form is for parents to give their feedback on the school or institution they are involved with. It is a way for the school to receive feedback and suggestions from parents to improve their services.

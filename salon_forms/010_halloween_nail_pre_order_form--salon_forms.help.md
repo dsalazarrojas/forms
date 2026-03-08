@@ -1,7 +1,3 @@
-<thinking>
-This form is a Halloween-themed nail pre-order form designed to collect information from clients who want to pre-order their Halloween nail designs. The form is likely intended for use by a salon or nail technician to collect contact information and nail design preferences from clients. It's possible that the form is used to gauge interest in specific nail designs or to collect contact information for follow-up marketing efforts. I will assume that the form is intended for use by a salon or nail technician to collect relevant information from clients. If this assumption is incorrect, please let me know and I will modify the guide accordingly.
-</thinking>
-
 # Halloween Nail Pre Order Form - Help Guide
 ## Purpose
 The Halloween Nail Pre Order Form is a tool used by salons or nail technicians to collect information from clients interested in pre-ordering nail designs for the Halloween holiday. This form helps to gauge interest and collect contact information for follow-up marketing efforts.

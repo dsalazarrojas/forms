@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Availability Survey For Observances" form. This form is designed to gather information from employees regarding their availability to work on specific holidays or observances. By providing their availability status, preferred shifts, and other details, employees can help management to better understand their needs and make informed decisions about holiday scheduling.
-
-To ensure that this form is completed correctly, we should check if there are any existing records for the employee in our system before proceeding. If a record already exists, we can update the employee's information without requiring them to re-complete the entire form. This will help to reduce unnecessary work for the employee and ensure that their data is up-to-date.
-
-After verifying that there is no existing record, the employee can proceed with completing the form. They should follow the instructions below to complete the form correctly.
-</thinking>
-
 # Availability Survey For Observances - Help Guide
 ## Purpose
 

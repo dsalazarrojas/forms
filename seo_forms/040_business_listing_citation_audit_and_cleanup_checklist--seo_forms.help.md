@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to gather information for a business listing citation audit and cleanup. This audit is intended to identify and address any issues with a business's online listings on various platforms, such as Google My Business, Yelp, and Facebook, to ensure accuracy and consistency. The form will be used to collect data on the number of duplicate listings found, any inconsistent information across listings, suggested corrections, and priority items that need to be addressed first. The output will help the business owner or administrator identify areas that require attention and prioritize actions to correct these issues. This form should not be filled out if the business already has a similar form or audit in progress, as it may duplicate efforts and lead to unnecessary work. Please fill out the form carefully and thoroughly to ensure accurate and complete results.
-</thinking>
-
 # Business Listing Citation Audit And Cleanup Checklist - Help Guide
 ## Purpose
 This form is designed to help businesses identify and address inaccuracies and inconsistencies in their online listings across various platforms. It will guide you through a checklist of key areas to review and correct.

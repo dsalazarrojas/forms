@@ -1,5 +1,3 @@
-<thinking>Is this form intended to assess the English proficiency level of individuals, gathering information about their language abilities, background, and usage patterns? Does it aim to identify native English speakers, language proficiency levels, and other language-related aspects? Are there any fields that could be considered sensitive or personal in nature?</thinking>
-
 # English Survey - Help Guide
 ## Purpose
 This form is designed to assess your English proficiency level and gather information about your language abilities, background, and usage patterns. It will help us understand your strengths and weaknesses in understanding, speaking, writing, and reading English, as well as your native language and language usage habits.

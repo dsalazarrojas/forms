@@ -1,5 +1,3 @@
-<thinking>...This form is used to request equipment repair for maintenance or maintenance-related issues. It is designed to capture essential information from the customer, including the equipment ID, repair type, and description of the issue. The form will help the maintenance team to efficiently process the repair request and provide timely service to the customer. To ensure accurate information and avoid duplication, please review the form carefully and only submit it once you have all the necessary information... </thinking>
-
 # Equipment Repair Request Form - Help Guide
 ## Purpose
 The Equipment Repair Request Form is used to submit a request for equipment repair to the maintenance team.

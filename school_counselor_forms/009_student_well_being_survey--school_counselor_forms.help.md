@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from students about their well-being and experiences at school. The form is used to gather data that will help school counselors understand the needs and concerns of their students. This form will help identify areas where students are facing challenges and provide insight for the counselors to offer support and guidance. This form will only collect data for internal use and will not be shared publicly. Please ensure that you are filling out this form in an honest and accurate manner.
-</thinking>
-
 # Student Well Being Survey - Help Guide
 
 ## Purpose

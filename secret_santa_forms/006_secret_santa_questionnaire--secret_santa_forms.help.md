@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for Secret Santa gifting within an organization or group of friends. The purpose of this form is to collect information about recipients and senders to facilitate the Secret Santa gift exchange. This form is not affiliated with any specific platform and is released under CC BY 4.0 license. The form is intended for personal use and should not be used for commercial purposes without proper attribution.
-Please ensure that this form is used within a closed group where participants have a clear understanding of the Secret Santa rules and expectations. This form does not collect or store any sensitive information.
-</thinking>
-
 # Secret Santa Questionnaire - Help Guide
 ## Purpose
 This form is designed for Secret Santa gifting within an organization or group of friends. It helps participants collect information about themselves and recipients to facilitate the Secret Santa gift exchange.

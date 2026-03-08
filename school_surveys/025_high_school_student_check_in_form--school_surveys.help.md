@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from high school students, likely for administrative purposes, attendance tracking, or surveying student experiences. The purpose of this form is to gather details about each student, including their ID, name, grade level, school name, teacher name (if applicable), location, status (on-campus or off-campus), and additional information that may be necessary for school administrators or teachers to keep track of student activities and progress.
-The form includes various fields such as Student ID, name, grade level, current school name, teacher name, teacher ID, location, status, date, time, student notes, student phone number, student email, and additional free-text fields for students to provide any other relevant information.
-Please ensure that the fields are filled in accurately and consistently to facilitate smooth processing and analysis of the collected data.
-</thinking>
-
 # High School Student Check In Form - Help Guide
 ## Purpose
 The High School Student Check In Form is designed to collect information from students to aid school administrators and teachers in tracking student activity, attendance, and progress.

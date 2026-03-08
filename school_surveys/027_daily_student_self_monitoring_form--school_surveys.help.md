@@ -1,6 +1,3 @@
-<thinking>
-A form is a tool used to collect information from students. This form is used for self-monitoring, likely for attendance or activity tracking. The fields are straightforward and should be easy to fill out. There's no apparent duplication of fields between the internal logic and form layout. A brief description of the form fields will ensure users understand their purpose and complete the form correctly. This form will likely be used in an educational institution to keep track of student activities, attendance, and interactions with teachers. A teacher can use this form to monitor student progress, note any issues or areas for improvement, and have a record of their student's performance and engagement. This information will help in understanding the students' behavior, provide feedback and support when needed, and make informed decisions about their education. The form fields are likely to be simple, yet informative and comprehensive enough to cover essential student details.</thinking>
-
 # Daily Student Self Monitoring Form - Help Guide
 ## Purpose
 

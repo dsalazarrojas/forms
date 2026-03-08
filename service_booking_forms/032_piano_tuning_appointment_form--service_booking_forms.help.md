@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for the "Piano Tuning Appointment Form" to ensure that end-users understand its purpose, how to complete it, and what each field means. The form is intended for customers to book a piano tuning service with a technician. The form's purpose is to collect essential information from customers, including their contact details, service preferences, and technician's notes. This guide will cover each field in detail, providing clear explanations for a smooth and successful form completion process.
-
-The form is divided into two pages, with the first page gathering general information and the second page collecting more specific details. Each field is carefully crafted to ensure that customers can easily understand what is required and how to provide the necessary information.
-
-</thinking>
-
 # Piano Tuning Appointment Form - Help Guide
 ## Purpose
 The Piano Tuning Appointment Form is designed for customers to book a piano tuning service with a technician. To complete this form, please follow the step-by-step guide below.

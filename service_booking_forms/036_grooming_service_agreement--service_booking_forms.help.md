@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to provide a platform for clients to schedule and pay for a grooming service for their pets. The client will be able to provide their details, select a service type, and choose their appointment preferences and payment method. This form will help the service provider to prepare for the appointment and ensure a smooth experience for both the client and their pet.
-This form will be used by pet owners to schedule and book a grooming service for their pets. It will be used to collect relevant information about the client and their pet, and the service they require. The form will be used by service providers to prepare for the appointment, and ensure that the client and their pet receive the best service possible.
-This form will only be used for one-time use, and will not be used to collect ongoing information or subscription details.
-</thinking>
-
 # Grooming Service Agreement - Help Guide
 ## Purpose
 This form is designed to be used by pet owners to schedule and book a grooming service for their pets. The service provider will use this form to collect relevant information from the client and their pet, and to prepare for the appointment.

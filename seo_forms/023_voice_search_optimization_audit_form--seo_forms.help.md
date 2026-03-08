@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to help website owners and developers assess and improve the voice search optimization of their websites. Voice search optimization is crucial for ensuring that users can easily find and interact with a website using voice-activated search platforms like Google Assistant, Siri, and Amazon Alexa. By filling out this form, you can provide essential information about your website's current state, goals, and target audience, which will help us understand your needs and provide more accurate and effective assistance with your voice search optimization efforts.
-
-To avoid duplication, please make sure to fill out this form only once, and please do not provide unnecessary information. If you are unsure about any of the fields, please do not hesitate to reach out to us for clarification.
-
-</thinking>
-
 # Voice Search Optimization Audit Form - Help Guide
 ## Purpose
 

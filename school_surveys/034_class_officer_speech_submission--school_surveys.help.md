@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from students who are interested in running for class officer positions. The purpose of this form is to gather relevant details about the candidate, including their contact information, position sought, and campaign speech. This form is used to help facilitate the election process by providing a standardized way to collect information from candidates. It is expected that students will only submit one form per candidate. Duplicate submissions will not be accepted.
-
-This form will be reviewed by school officials before sharing the submitted speeches and information with the school community.
-
-The form has two main sections: Candidate Information and Campaign Information.
-
-The Candidate Information section includes fields for the candidate's full name, student ID number, grade level, email address, and other contact information.
-
-The Campaign Information section includes fields for the position the candidate is seeking, their previous leadership experience, and their campaign speech. This section also includes fields for the candidate to provide additional campaign materials or links, and to agree to follow school election policies and conduct rules.
-
-The form will help ensure that all candidates are held to the same standard and that their submissions are reviewed equally.
-
-</thinking>
-
 # Class Officer Speech Submission - Help Guide
 
 ## Purpose

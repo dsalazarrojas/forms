@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Internal reasoning block:**
 This form aims to poll students about their interests in various school extracurricular activities. It is designed to understand the students' preferences and help the school administration to organize relevant activities. The form is not intended to be a mandatory requirement, but rather a way to gather information for better decision-making. Please ensure that you complete the form only once to avoid duplication of responses.
 

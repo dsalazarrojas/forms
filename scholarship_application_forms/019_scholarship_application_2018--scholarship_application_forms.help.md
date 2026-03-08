@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information for scholarship applications in 2018. It includes fields for category, description, contact information (email, phone), date and time of application, criteria for the scholarship, additional information, and information about who submitted the application. The form is likely used by a scholarship committee or office to gather data from applicants. This form is likely used to streamline the application process and make it easier for committee members to review and evaluate applications.
-</thinking>
-
 # Scholarship Application 2018 - Help Guide
 ## Purpose
 The purpose of this form is to collect information for scholarship applications in 2018. It is used to gather data from applicants and streamline the review and evaluation process.

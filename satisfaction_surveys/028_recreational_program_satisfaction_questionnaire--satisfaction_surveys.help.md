@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on a recreational program. The purpose of this form is to gauge the satisfaction of participants and their likelihood of recommending the program. The questions aim to gather information on the program's quality, usability, and potential improvements. Please note that this form is not intended to be a comprehensive survey, and responses are optional.
-</thinking>
-
 # ประกcreational Program Satisfaction Questionnaire - Help Guide
 ## Purpose
 The "Recreational Program Satisfaction Questionnaire" is a form designed to collect feedback on a recreational program. It aims to gauge the participant's satisfaction level and their likelihood of recommending the program to others.

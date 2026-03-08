@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect booking information for voiceover studio sessions. The purpose of this form is to facilitate the process of booking a voiceover session with a voice actor. It captures essential details from both the client and the studio, ensuring a smooth and efficient booking process. This form is meant to be used by clients to book a voiceover studio session, providing all necessary information for the session, including dates, times, voice actors, and other relevant details.
-
-</thinking>
-
 # Voiceover Studio Session Booking Form - Help Guide
 ## Purpose
 

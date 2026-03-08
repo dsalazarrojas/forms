@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help applicants provide a comprehensive background and motivation for their application to a school or academic program. The form is meant to gather information about the applicant's personal history, academic background, and career goals, as well as their reasons for applying to the program. By providing this information, the applicant can demonstrate their suitability for the program and help the admissions committee make informed decisions about their application.
-
-Before starting the form, please ensure that you have the necessary information and consent from any emergency contact you list. This form should not be submitted multiple times by the same applicant.
-
-Please note that some sections are optional, but the required fields are marked as such. Make sure to fill out all required fields before submitting the form.
-
-</thinking>
-
 # Admission Reason Form - Help Guide
 
 ## Purpose

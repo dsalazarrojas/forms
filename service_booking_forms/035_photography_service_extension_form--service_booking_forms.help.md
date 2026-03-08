@@ -1,7 +1,3 @@
-<thinking>Internal reasoning block to understand the form purpose and fields.
-
-The form is designed to collect information for photography service extension requests. It seems to be used in an internal system for managing service bookings. The form asks for essential details such as service category, name, description, client information, and other relevant details like service booking notes and form ID. The fields are a mix of text, select_one, select_multiple, and date types, indicating various data types are expected. The form's purpose is likely to provide a structured way to request and manage photography services, possibly for internal use within an organization or business.</thinking>
-
 # Photography Service Extension Form - Help Guide
 ## Purpose
 The Photography Service Extension Form is used to collect and manage information for photography service extension requests. This form helps gather essential details to process and track such requests effectively.

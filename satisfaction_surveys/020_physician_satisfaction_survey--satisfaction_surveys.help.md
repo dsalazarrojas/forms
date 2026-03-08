@@ -1,13 +1,3 @@
-<thinking>
-We've reviewed the form structure and extracted relevant information to create a clear and concise help guide for the end-user. This form is designed to capture feedback and satisfaction from physicians on various aspects of their work experience. 
-
-The form is structured in a way that allows for easy navigation through its 7 fields. It is not a mandatory form, which means users have the flexibility to choose which information they want to provide.
-
-The form's objective is to gauge physicians' satisfaction with their job, work-life balance, and experience with the hospital rating, while also allowing them to provide any additional comments and feedback. The form will help us better understand the physicians' needs and concerns, enabling us to make informed decisions to improve their work environment.
-
-The form is not intended to duplicate any other survey, and its focus is on providing a comprehensive feedback platform for physicians.
-</thinking>
-
 # Physician Satisfaction Survey - Help Guide
 ## Purpose
 The Physician Satisfaction Survey is a tool designed to collect feedback and satisfaction from physicians to improve their work experience. The form is not a mandatory form, allowing users to fill out the parts they feel are relevant to their situation.

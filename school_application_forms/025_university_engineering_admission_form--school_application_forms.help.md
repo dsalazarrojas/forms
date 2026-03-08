@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from students who are applying to the University's Engineering program. The purpose of this form is to provide the necessary data to evaluate a student's eligibility for admission. The form is not a replacement for official admissions processes, but rather a supporting document to aid the admissions committee in making informed decisions. 
-
-This form will be filled out by prospective students, and the information collected will be used by the admissions committee to assess the student's qualifications and fit for the program. 
-
-To ensure accurate and complete information, please review the fields below carefully and provide all required information. 
-
-Duplicate or incomplete entries may lead to delays or rejection of the application. 
-
-Please note that all fields are optional, but providing accurate and complete information will help ensure that your application is processed efficiently and effectively.
-</thinking>
-
 # University Engineering Admission Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who are applying to the University's Engineering program. The data collected will be used by the admissions committee to evaluate a student's eligibility for admission.

@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form's purpose and fields to ensure I provide clear and concise explanations. This School Quality Survey form appears to be a student feedback form that assesses various aspects of a school's quality, including teacher quality, facilities, and overall satisfaction. It's designed to gather opinions on different aspects of the school life, helping school administrators to understand student experiences and improve the school's performance. To confirm, I'll proceed with the help guide.</thinking>
-
 # School Quality Survey - Help Guide
 ## Purpose
 The School Quality Survey is designed to gather feedback from students about their experiences at your school. This survey aims to help school administrators understand your opinions on various aspects of the school's quality, such as teacher performance, facilities, and overall satisfaction. Your feedback is invaluable in helping the school identify areas for improvement.

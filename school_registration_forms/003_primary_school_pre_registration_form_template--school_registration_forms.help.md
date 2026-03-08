@@ -1,7 +1,3 @@
-<thinking>
-A primary school pre-registration form is used to collect vital information about students who are about to start school for the first time. This form is essential for ensuring that the school has all the necessary details about a student to provide a smooth and safe learning environment.
-</thinking>
-
 # Primary School Pre Registration Form Template - Help Guide
 ## Purpose
 This guide is designed to help you complete the Primary School Pre Registration Form Template efficiently and effectively.

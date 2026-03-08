@@ -1,7 +1,3 @@
-<thinking>
-We will use this form to collect information from applicants for the Culinary Scholarship. This form is intended to gather data on the applicant's background, qualifications, and goals. Please note that this form is a required part of the scholarship application process, and incomplete or duplicate submissions will not be accepted. If you have already submitted an application, please do not resubmit. Each field is designed to help us get to know you better and evaluate your eligibility for the scholarship. Please make sure to fill in all required fields accurately and completely.
-</thinking>
-
 # Culinary Scholarship Application Submission Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for the Culinary Scholarship. It is a required part of the scholarship application process.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information about orders for spirit wear, a type of merchandise that shows school spirit or school pride. The form is designed to be used by school counselors to order spirit wear for their school, likely for events, games, or other school activities. The form appears to be a comprehensive collection of fields for various information related to spirit wear orders, including options, date, and text fields.
-
-To ensure that this explanation is not duplicated in the help guide, I'm assuming that the form design is based on a previous version of the form and that the intention is to update or add new features.
-
-Please note that this form design seems to be quite extensive and might be intended for a specific purpose or event. It's possible that some fields might not be relevant or necessary for general spirit wear orders. 
-
-</thinking>
-
 # Spirit Wear Order Form - Help Guide
 ## Purpose
 The Spirit Wear Order Form is designed to collect information about orders for spirit wear, a type of merchandise that shows school spirit or school pride. School counselors use this form to place orders for spirit wear for events, games, or other school activities.

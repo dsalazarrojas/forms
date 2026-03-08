@@ -1,10 +1,3 @@
-<thinking>
-This form is a COVID-19 liability waiver for a salon providing makeup, lashes, and brow services. The purpose of this form is to inform clients of the risks associated with these services during the pandemic and to obtain their consent to proceed with the services.
-
-Before filling out this form, please ensure that it is relevant to your needs and that you haven't already completed it. If you have any doubts or concerns, please contact the salon staff for clarification.
-
-</thinking>
-
 # Makeup, Lashes And Brow Services COVID 19 Liability Waiver - Help Guide
 ## Purpose
 This form is a COVID-19 liability waiver for clients undergoing makeup, lashes, and brow services at our salon. It is essential to read and understand the terms before signing.

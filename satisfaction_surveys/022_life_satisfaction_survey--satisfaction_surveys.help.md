@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Life Satisfaction Survey - Help Guide
 
 ## Purpose

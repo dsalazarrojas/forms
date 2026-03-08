@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for a Secret Santa gift exchange among adults, where participants submit their name, email, and other relevant details. The form's purpose is to collect information about the participants and set boundaries for the gift exchange, such as gift price and currency limits. The form will be used to determine pairing and gift price calculation. It is essential to complete this form carefully to ensure a successful and enjoyable gift exchange. 
-
-Please note that this form is for a general purpose Secret Santa and no specific business logic will be inferred from this explanation.
-
-This form is part of the Secret Santa Form For Adults category.
-</thinking>
-
 # Secret Santa Form For Adults - Help Guide
 ## Purpose
 This form is designed for a Secret Santa gift exchange among adults, where participants submit their name and other relevant details to collect information about each other.

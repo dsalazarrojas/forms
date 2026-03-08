@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, the purpose of this form is to assess a user's digital carbon footprint in a concise and comprehensive manner, taking into account various aspects of their digital habits and behaviors. This form should help us understand how users engage with digital tools, the frequency and type of devices they use, and the impact of their digital habits on the environment. The form's primary purpose is to provide a clear picture of a user's digital footprint, allowing us to identify areas where improvements can be made to reduce their carbon footprint.
 
 </thinking>

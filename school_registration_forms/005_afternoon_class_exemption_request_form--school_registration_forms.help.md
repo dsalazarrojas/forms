@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to facilitate students' requests for exemption from afternoon classes. This form helps students, or in their behalf by parents/guardians, to submit a formal request for exemption citing a reason. The form aims to standardize the process of requesting exemptions, ensuring that all necessary information is gathered and processed efficiently. Before filling out this form, please make sure you have not already submitted a similar request or exemption form for the same class. To avoid duplication of work, only submit the form once.
-</thinking>
-
 # Afternoon Class Exemption Request Form - Help Guide
 ## Purpose
 

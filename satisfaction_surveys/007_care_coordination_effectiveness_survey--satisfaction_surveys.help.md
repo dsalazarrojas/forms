@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Care Coordination Effectiveness Survey - Help Guide
 ## Purpose
 This survey is designed to evaluate the effectiveness of care coordination services. It is meant to be completed by individuals who have received care coordination services, such as patients, family members, caregivers, and healthcare providers. The survey aims to gather feedback on various aspects of care coordination, including communication between providers, appointment scheduling, medication management, and patient education. This information will help us identify areas of strength and opportunities for improvement in our care coordination programs.

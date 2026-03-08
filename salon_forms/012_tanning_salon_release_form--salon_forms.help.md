@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients visiting a tanning salon. It is intended to be completed by the client, but it may be filled out by salon staff in certain cases. Please ensure that this form is not duplicated, as it is meant to capture unique client release information. 
-</thinking>
-
 # Tanning Salon Release Form - Help Guide
 
 ## Purpose

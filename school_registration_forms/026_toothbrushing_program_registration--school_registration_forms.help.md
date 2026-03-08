@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Toothbrushing Program Registration - Help Guide
 ## Purpose
 The Toothbrushing Program Registration form is used to collect information from students and their parents to register them for the Toothbrushing Program. This program is intended to promote oral health and hygiene among students, and the form is used to gather necessary details to provide a smooth and efficient experience for participants.

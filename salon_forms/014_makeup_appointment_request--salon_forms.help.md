@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the "Makeup Appointment Request" form. The form is designed to collect information from clients for a makeup session, including their name, email, phone number, date, time, location, preferred services, and the artist assigned to them. The form is not intended for multiple clients at once, as each client's information is collected on separate pages.
-</thinking>
-
 # Makeup Appointment Request - Help Guide
 ## Purpose
 The "Makeup Appointment Request" form is used to collect information from clients for a makeup session. This form is used to gather the client's name, email, phone number, and other relevant details to provide personalized service.

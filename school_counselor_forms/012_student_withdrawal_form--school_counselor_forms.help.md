@@ -1,8 +1,3 @@
-<thinking>
-This form is for students to withdraw from a course. The purpose of this form is to collect information about the student's reasons for withdrawal, which can be used by school administrators to track and understand student engagement and course satisfaction. To fill out this form, please follow these steps:
-
-</thinking>
-
 # student_withdrawal_form - Help Guide
 ## Purpose
 This form is used to facilitate a student's withdrawal from a course. It allows students to provide their reason for withdrawal, which can be used to understand their perspective and make necessary adjustments.

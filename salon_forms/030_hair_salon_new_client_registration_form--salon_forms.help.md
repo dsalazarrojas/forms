@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to register new clients for a hair salon. The form is intended to collect contact information and preferences of the client for future appointments. 
-
-</thinking>
-
 # hair_salon_new_client_registration_form - Help Guide
 ## Purpose
 This form is used to register new clients for a hair salon. Fill out the form with your contact information and preferred services to help our team better serve you for future appointments.

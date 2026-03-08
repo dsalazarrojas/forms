@@ -1,23 +1,3 @@
-<thinking>
-This is a form designed to gather feedback and suggestions from participants after an event. Before creating this guide, let's review the form's purpose and ensure we're not duplicating effort elsewhere. 
-
-The form is used to assess the participant's experience and satisfaction with the event, and to collect potential improvements and suggestions. It's essential to understand that the form is part of a broader feedback loop, and its primary purpose is to gather qualitative insights from participants.
-
-Let's review the fields:
-
-- **Participant Score**: This field likely aims to gauge the participant's overall satisfaction with the event on a numerical scale.
-- **Location Rating**: This field asks the participant to rate the event location, suggesting it's evaluating the venue's quality or ambiance.
-- **Feedback**: This open-ended field allows participants to provide detailed feedback about their experience.
-- **Improvement Suggestion**: This field seeks specific ideas or suggestions from participants on how the event could be improved.
-- **Participant Suggestion**: Another open-ended field for general participant feedback or ideas.
-- **Email**: This field is likely used for communication purposes, such as follow-up or to provide event updates.
-- **Phone**: A field to gather the participant's contact information for phone-based communication.
-- **Event Location**: This field might be used to note the physical address or details of the event location.
-
-Considering these insights, it seems that most fields are open-ended or seek general information. There's no clear indication of redundant fields or areas that require special attention.
-
-</thinking>
-
 # HYROX Event Feedback Survey - Help Guide
 
 ## Purpose

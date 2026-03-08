@@ -1,8 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the Nail Salon Consent Form, explaining its purpose, how to complete it, and what each field means.
-The purpose of this form is to gather information from clients visiting a nail salon, including their contact information and consent for treatment details. The form likely aims to ensure that clients are aware of and agree to the treatment process, including any potential risks or side effects. This form might be used by salons to maintain client records and ensure informed consent.
-</thinking>
-
 # Nail Salon Consent Form - Help Guide
 
 ## Purpose

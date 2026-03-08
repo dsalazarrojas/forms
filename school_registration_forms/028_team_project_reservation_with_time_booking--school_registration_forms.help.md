@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for team project reservation with time booking, aiming to collect information about team projects, including their titles, descriptions, start and end dates, team names, team members, booking times, dates, and status. It's possible that a user may already have similar projects in their database, but this form is designed to be a comprehensive registration process to ensure all relevant details are collected.
-</thinking>
-
 # Team Project Reservation With Time Booking - Help Guide
 ## Purpose
 This form is designed to collect information about team projects, including their titles, descriptions, start and end dates, team names, team members, booking times, dates, and status. It is intended to be a comprehensive registration process for team projects.

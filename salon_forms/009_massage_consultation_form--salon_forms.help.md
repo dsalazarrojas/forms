@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a massage consultation. The purpose of this form is to gather essential details about the client, including their personal information, medical history, and massage goals. This form will help the massage therapist understand the client's needs and preferences for their massage therapy session.
-</thinking>
-
 # Massage Consultation Form - Help Guide
 ## Purpose
 The Massage Consultation Form is designed to collect essential information from clients before their massage therapy session. This information will help the massage therapist create a tailored treatment plan that meets the client's specific needs and goals.

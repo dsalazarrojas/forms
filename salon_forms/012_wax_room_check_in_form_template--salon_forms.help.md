@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on the condition of wax equipment and chemicals at a salon. It appears that this form is designed to assess the condition of equipment and chemicals after each use, with multiple pages for different aspects of the assessment. This is likely intended to help salon staff track and maintain inventory, identify potential issues, or perform other related tasks. It's also possible that this form is used as a quality control mechanism to ensure that the salon meets certain standards. The presence of multiple fields suggests a comprehensive assessment, but it's unclear without further context. To avoid duplication and ensure accurate completion, it's recommended that staff members review the form carefully and complete each field only once.
-</thinking>
-
 # Wax Room Check In Form Template - Help Guide
 
 ## Purpose

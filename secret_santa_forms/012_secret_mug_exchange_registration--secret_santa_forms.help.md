@@ -1,7 +1,3 @@
-<thinking>
-We'll use this form to collect information from participants in a secret mug exchange. This form is meant to be submitted by participants of the Secret Mug Exchange, and each participant will provide their personal details and preferences. Before starting, ensure you are registered for the Secret Mug Exchange and that you haven't already submitted your information. If you're not sure, check with the organizers or refer to the previous year's form responses.
-</thinking>
-
 # Secret Mug Exchange Registration - Help Guide
 
 ## Purpose

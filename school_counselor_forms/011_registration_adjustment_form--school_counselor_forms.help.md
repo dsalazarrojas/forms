@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for school counselors to adjust registration information for students. It is designed to collect and store relevant data about each student. To complete this form, the user should be a school counselor or authorized personnel. The form should not be used for general inquiries or to obtain sensitive student data without proper clearance. Ensure you only submit this form when it is absolutely necessary and for the student's best interest. Please do not submit duplicate forms for the same student.</thinking>
-
 # Registration Adjustment Form - Help Guide
 ## Purpose
 The Registration Adjustment Form is a tool used by school counselors to collect and store important information about each student. It helps to keep student records up-to-date and ensures that necessary adjustments are made to their registration.

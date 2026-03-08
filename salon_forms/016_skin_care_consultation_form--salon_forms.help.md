@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a skin care consultation. It is intended for individuals who want to schedule a consultation with a medical professional. The form should only be filled out if you have a skin condition that requires professional advice.
-The form is not intended for general skin care advice or routine inquiries. If you are unsure about the purpose of this form, please do not fill it out.
-</thinking>
-
 # skin_care_consultation_form - Help Guide
 ## Purpose
 This form is designed to collect information for a skin care consultation with a medical professional. It is intended for individuals who want to schedule a consultation.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Botulinum Toxin Medical History Form - Help Guide
 ### Purpose
 

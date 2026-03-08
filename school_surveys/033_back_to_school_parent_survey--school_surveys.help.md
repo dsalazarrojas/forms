@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Back To School Parent Survey" form, we'll start by identifying the form's purpose. This form is designed to gather information from parents to understand their thoughts, concerns, and expectations for the upcoming school year. It's essential to ensure that the information collected is relevant, accurate, and doesn't duplicate existing data. 
-
-The goal is to gather feedback on various aspects of the school experience, including remote learning, child readiness, parent readiness, learning concerns, school safety, health protocols, communication preferences, involvement levels, support availability, technology access, internet reliability, biggest challenges, and opinions on school reopening. By understanding these factors, the school can tailor its approach to better serve its students and parents.
-
-The form is divided into several sections, each addressing a specific area of concern. We'll break down each section and field to ensure that users understand what information is being collected and how to provide accurate input.
-
-</thinking>
-
 # Back To School Parent Survey - Help Guide
 ## Purpose
 The "Back To School Parent Survey" is designed to gather your thoughts, concerns, and expectations for the upcoming school year. This information will help us understand your needs and provide a better experience for your child.

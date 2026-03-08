@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from new clients about their hair salon preferences and requirements. The purpose of this form is to help the salon staff prepare for the client's visit and ensure that their needs are met. The form should only be used by new clients who have not previously been to the salon, to avoid duplication of effort.
-
-The form is divided into several sections, each addressing a specific aspect of the client's preferences and requirements. Some sections are mandatory, marked as "required" in the YAML, while others are optional.
-
-Before submitting the form, please ensure that all required fields have been filled in.
-
-</thinking>
-
 # Hair Salon New Client Consultation Form - Help Guide
 
 ## Purpose

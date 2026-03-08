@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about teachers' preferences and practices related to learning modalities, which are approaches to teaching that take into account different learning styles and abilities. The form includes a mix of open-ended and multiple-choice questions that aim to understand how teachers perceive and implement learning modalities in their classrooms. This information can help in identifying areas of improvement and providing support to teachers. It's essential to complete this form if you're a teacher who uses or is interested in learning modalities. Please note that this form is a one-time survey, and responses will be treated confidentially. You are not expected to complete the form multiple times. If you're unsure about any question, please feel free to consult with your supervisor or contact us for guidance.
-</thinking>
-
 # Learning Modality Survey - Help Guide
 
 ## Purpose

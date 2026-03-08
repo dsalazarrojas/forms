@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # educational_leadership_culture_survey - Help Guide
 ## Purpose
 The "educational_leadership_culture_survey" form is designed to assess the leadership culture and climate of a school. It is used to gather feedback on how teachers perceive their school's leadership, communication, and decision-making processes. This form is not required for all users, and responses are not tracked individually.

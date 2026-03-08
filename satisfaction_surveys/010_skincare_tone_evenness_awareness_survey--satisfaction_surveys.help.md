@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Tone Evenness Awareness Survey - Help Guide
 ## Purpose
 The Skincare Tone Evenness Awareness Survey is designed to help users understand their skin tone evenness concerns and preferences. This survey gathers information about users' current skin tone concerns, skincare habits, and awareness of skincare products. The survey's goal is to identify areas of improvement for users and provide personalized recommendations for achieving even skin tone.

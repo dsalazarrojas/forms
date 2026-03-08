@@ -1,22 +1,3 @@
-<thinking>
-The purpose of this form is to gather informed consent from individuals before undergoing a dermal filler procedure. This form is typically used in a medical setting to ensure that the patient is aware of the risks and benefits associated with the treatment, as well as any potential contraindications or allergies that may impact the procedure. The form is designed to be completed by the patient and should be reviewed and signed by the healthcare provider before the procedure can take place.
-
-Before proceeding, please ensure that this form is not being used to gather information that is already documented elsewhere in the patient's medical records. Review the form carefully to confirm that it is being used for its intended purpose.
-
-This form is designed to collect the following information from the patient:
-
-*   Product information
-*   Procedure details
-*   Risks and benefits
-*   Contrainications
-*   Allergies
-*   Medications
-*   Medical conditions
-
-Please review the form carefully and complete all required sections before proceeding with the procedure.
-
-</thinking>
-
 # Dermal Filler Consent Form - Help Guide
 ## Purpose
 The Dermal Filler Consent Form is used to gather informed consent from individuals before undergoing a dermal filler procedure.

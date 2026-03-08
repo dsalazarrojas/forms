@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a chemical release form designed for salons, likely for employees or clients to report any chemical exposure incidents. The form collects various pieces of information, including personal details, chemical usage, and safety procedures. It's likely that this form is used to ensure that the salon is compliant with safety regulations and procedures, and to track chemical usage and potential incidents. 
-
-Before proceeding, please note that this form has a high degree of personal and sensitive information. Ensure that all necessary precautions are taken to protect the data and users' privacy. 
-
-Also, consider reviewing the form's layout and questions to ensure that they are clear and relevant, and that they align with the salon's specific needs and regulations.
-
-</thinking>
-
 # Salon Chemical Release Form - Help Guide
 ## Purpose
 This form is designed to collect information about chemical exposure incidents, ensure compliance with safety regulations, and track chemical usage in the salon.

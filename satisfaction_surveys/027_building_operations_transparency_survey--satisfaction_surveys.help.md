@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Building Operations Transparency Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences and perceptions regarding building operations, management, and communication. Your feedback will help us understand how we can improve transparency and communication in our building operations, ensuring that you have a better experience as a tenant or occupant.

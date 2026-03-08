@@ -1,5 +1,3 @@
-<thinking>As we aim to understand the digital learning experience of our students, this form is designed to gather valuable insights about the teaching styles, engagement, and feedback of our school's online courses. It is essential to ensure that each user completes the form only once to prevent duplication of responses. Please take a few minutes to carefully fill out this survey, providing honest feedback on your experiences. Your input will greatly contribute to the improvement of our digital learning platform.</thinking>
-
 # Digital Learning Experience Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback about your digital learning experience in our online courses. Your responses will help us understand what works well and what areas need improvement.

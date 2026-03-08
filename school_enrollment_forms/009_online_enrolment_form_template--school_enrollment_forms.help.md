@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Enrolment Form Template - Help Guide
 ## Purpose
 This form is designed to collect online student enrollment information. It is intended to be used by schools to collect relevant details from students and their parents, including student identification, contact information, and supporting documents.

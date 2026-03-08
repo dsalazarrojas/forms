@@ -1,5 +1,3 @@
-<thinking>Internal use case: This form is part of a larger project management system, and it's used to gather information about new projects and clients. The form is intended to be completed by project managers or team members when a new project is initiated or a new client is onboarding. The form should be filled out once for each new project or client. It's not intended for internal use within the company, but rather for external communication with clients or stakeholders.</thinking>
-
 # SEO Intake Form - Help Guide
 ## Purpose
 This form is used to gather information about new projects and clients for the purpose of onboarding, tracking, and communication. Please fill out this form thoroughly to ensure that all necessary details are captured.

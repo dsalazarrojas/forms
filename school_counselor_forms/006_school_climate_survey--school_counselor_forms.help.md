@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect feedback and data from students, teachers, and administrators to better understand the social climate of the school. This includes gathering information about the current social atmosphere, support for students, and potential areas for improvement. By using this form, the school can gain valuable insights to make informed decisions about creating a more positive and inclusive environment.</thinking>
-
 # school_climate_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from students, teachers, and administrators about the current social climate of the school. This information will help the school identify areas of improvement and make data-driven decisions to create a more positive and inclusive environment.

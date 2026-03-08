@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to provide clear instructions for users to fill out the "Parent Agreement Form" form. The form is designed to collect information from parents regarding emergency procedures, daily schedules, health and safety policies, payment terms, billing schedules, additional fees, and signatures. This form is likely to be used in educational or childcare settings, such as schools or daycare centers, where parents need to acknowledge and agree to certain policies and procedures. It does not duplicate any existing forms in the provided YAML specification, and its purpose is to provide a comprehensive understanding of the parent's rights, responsibilities, and obligations.
-</thinking>
-
 # Parent Agreement Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents regarding emergency procedures, daily schedules, health and safety policies, payment terms, billing schedules, additional fees, and signatures. It is intended to be used in educational or childcare settings, such as schools or daycare centers.

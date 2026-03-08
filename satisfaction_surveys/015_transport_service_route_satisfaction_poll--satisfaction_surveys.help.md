@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from passengers about their experiences with a particular transport service route. The purpose of this form is to gauge the overall satisfaction of passengers with the route, identify areas of improvement, and gather suggestions for enhancements. Before completing this form, please ensure you have used the route recently and have a clear understanding of your experience. If you have already provided feedback on this route, please refrain from submitting duplicate responses.
-</thinking>
-
 # Transport Service Route Satisfaction Poll - Help Guide
 ## Purpose
 This form collects feedback from passengers about their experiences with a particular transport service route. It aims to gauge overall passenger satisfaction, identify areas for improvement, and gather suggestions for enhancements.

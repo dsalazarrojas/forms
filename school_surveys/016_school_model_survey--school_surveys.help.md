@@ -1,5 +1,3 @@
-<thinking>... (Internal reasoning block: The School Model Survey form is designed to gather information from school stakeholders (parents/guardians) about their preferences and feedback for a school's model or model version. This form is meant to be used internally by the school administration to understand the needs and expectations of the school community, and to inform decisions about future school models or revisions. The form collects various details such as parent preferences, learning methods, school types, locations, and school levels, which will help the school administration to make informed decisions. It's essential to fill out the form accurately and thoroughly to provide valuable feedback. This form does not require a submission of personal identifiable information, so it's safe to fill out without fear of sharing personal details. ...</thinking>
-
 # School Model Survey - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the "Faith Based Youth Engagement Survey" form is filled out for its intended purpose and not duplicated. This form aims to gather feedback from youth about their relationship with their faith, how they use their faith to guide their lives, and their level of engagement with our ministry. We want to understand how youth perceive their current relationship with God, how they express their faith, and how often they participate in church activities. This information will help us better understand our youth's needs and tailor our outreach efforts accordingly.
-
-</thinking>
-
 # Faith Based Youth Engagement Survey - Help Guide
 ## Purpose
 The "Faith Based Youth Engagement Survey" is a survey designed to gather feedback from youth about their relationship with their faith, their engagement with our ministry, and their participation in church activities.

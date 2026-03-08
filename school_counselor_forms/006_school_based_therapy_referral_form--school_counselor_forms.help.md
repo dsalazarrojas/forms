@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather information for school-based therapy referrals. It appears to be designed for educators or school staff to collect details about students who may need additional support or therapy services. The purpose of this form is to provide a standardized and efficient way to identify students who may benefit from therapy, ensuring that the necessary support services are offered in a timely and effective manner.
-
-The form consists of seven pages, each with a specific section for collecting different types of information. The sections seem to cover various aspects of the student's needs and circumstances, such as their personal details, the support staff involved, referral information, services required, parental involvement, and additional comments.
-
-Before filling out this form, it is essential to understand that the information collected will be used to provide support services for the students. Ensure that you have the necessary authorization and clearance to complete this form, and be aware that the data provided will be kept confidential and handled according to your school's policies and regulations.
-
-Please review the instructions below to complete the form accurately and effectively.
-
-</thinking>
-
 # School Based Therapy Referral Form - Help Guide
 ## Purpose
 The School Based Therapy Referral Form is designed to gather information for school-based therapy referrals. This form helps educators and school staff identify students who require additional support or therapy services, ensuring that necessary support is provided in a timely and effective manner.

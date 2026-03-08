@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # school_climate_survey_template - Help Guide
 ## Purpose
 The School Climate Survey is designed to gather insights on the school environment from students, staff, and parents. This survey aims to understand their satisfaction, sense of belonging, perception of the learning environment, and suggestions for improvement.

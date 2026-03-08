@@ -1,8 +1,3 @@
-<thinking>
-We're creating a form to collect information from potential employees about their personal assistant applications. This form helps us gather relevant details about the candidate's background, skills, and availability to match them with suitable job postings.
-To ensure we get accurate and comprehensive information from applicants, we'll review each field carefully and check for completeness before proceeding.
-Please note that this form will not be used for any other purpose other than evaluating potential candidates for personal assistant positions.
-</thinking>
 # Personal Assistant Application Form - Help Guide
 
 ## Purpose

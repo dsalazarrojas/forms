@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Teacher Empowerment Grant Application Form - Help Guide
 ## Purpose
 The Teacher Empowerment Grant Application Form is designed to help schools and teachers apply for a grant that aims to empower teachers in their profession. This form collects information about the teachers and schools applying for the grant, including their contact information, roles, and departments, to ensure that the grant is distributed fairly and efficiently.

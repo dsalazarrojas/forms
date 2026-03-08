@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information from users to filter and sort students based on their preferences for class and teacher selection. The form is designed to be completed by parents, guardians, or other authorized representatives of students. It allows them to provide personal information about the student, including name, ID number, current grade level, and other relevant details. The form also inquires about the student's learning style, preferred class size, classroom environment, and teacher preferences. Furthermore, it addresses special needs, accommodations, and any other considerations, such as scheduling preferences or peer group requests. By using this form, users can provide a comprehensive picture of the student's needs and preferences, making it easier to place them in an appropriate class and pair them with a suitable teacher.
-
-The form is divided into several sections, each focusing on a specific aspect of the student's needs and preferences. The first section is for student information, which includes fields for student name, ID number, and current grade level. The next section is for enrollment type, which asks if the student is a new, returning, or transfer student. The following section is for class preferences, where users can specify their preferred class size and section. The next section is for teacher preferences, where users can indicate if they have a preferred teacher or specific teacher qualities. The final section is for special needs and accommodations, where users can report if the student has special needs or an Individualized Education Plan (IEP). Other sections cover scheduling preferences, peer grouping requests, and additional information or requests.
-
-This form helps to ensure that students are placed in classes and paired with teachers that meet their specific needs and preferences, promoting a more inclusive and personalized learning environment.
-</thinking>
-
 # Class And Teacher Filter Form - Help Guide
 ## Purpose
 This form is designed to gather information from students' parents, guardians, or authorized representatives to help filter and sort students in a class and pair them with suitable teachers based on their preferences and needs.

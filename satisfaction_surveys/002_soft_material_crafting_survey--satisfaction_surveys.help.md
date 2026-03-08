@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed to gather feedback and data about users' experiences with soft materials in various projects. To ensure that you are in the right place, check if you have been instructed to complete this form by your supervisor or team lead. If you're not sure, please ask for clarification. This form may be part of a larger process to improve the production and supply chain of soft materials, so your response will help inform future decisions. Please ensure that this form is not duplicated by checking the form ID with your team.
 
 </thinking>

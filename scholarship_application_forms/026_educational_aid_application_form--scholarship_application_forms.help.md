@@ -1,15 +1,3 @@
-<thinking>
-
-This help guide is intended to assist students in completing the Educational Aid Application Form. The form is designed to collect relevant information about the student's academic background, financial status, and supporting documents to determine their eligibility for educational aid. 
-
-The form is not intended for internal use within the organization; it is meant for external users, specifically students applying for educational aid. 
-
-Before starting the application process, please review the form carefully to ensure you have all the required information and supporting documents. 
-
-The form consists of multiple fields that need to be filled out, each with specific requirements and explanations. 
-
-</thinking>
-
 # Educational Aid Application Form - Help Guide
 ## Purpose
 The Educational Aid Application Form is designed to collect information about students applying for educational aid. This form helps the organization to assess the student's eligibility for aid and determine the amount of support they can receive.

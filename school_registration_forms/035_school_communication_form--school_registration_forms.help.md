@@ -1,10 +1,3 @@
-<thinking>
-The School Communication Form is used to facilitate communication between parents, teachers, and school staff. 
-This form is an essential tool for sharing important updates, feedback, and concerns between parties. 
-The form ensures that all relevant information is collected and documented in one place, reducing the likelihood of misunderstandings or missed messages. 
-Before proceeding, ensure this form is not already being used for a similar purpose or that you have the necessary permissions to complete it. Please use this form only for its intended purpose and avoid duplication of efforts.
-</thinking>
-
 # School Communication Form - Help Guide
 ## Purpose
 The School Communication Form is a tool for exchanging information between parents, teachers, and school staff. It helps keep everyone updated on important events, feedback, and concerns.

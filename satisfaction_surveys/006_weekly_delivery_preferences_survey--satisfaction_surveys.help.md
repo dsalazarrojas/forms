@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Delivery Preferences Survey - Help Guide
 
 ## Purpose

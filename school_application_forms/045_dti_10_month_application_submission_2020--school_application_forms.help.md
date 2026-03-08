@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are submitting applications for a 10-month program. The purpose of this form is to gather essential details about the applicant, their educational background, work experience, and skills. The form is intended to be used by both internal and external applicants.
- 
-The form is divided into two sections: 
-1. Personal Information
-2. Education and Work Experience
- 
-Please fill out the form carefully and accurately, as your submission will be reviewed and considered for the program. If you have any issues or need help, contact our support team at [support email].
- 
-Before submitting the form, please review the following:
-- Ensure you have attached all required documents.
-- Double-check the accuracy of your submitted information.
- 
-Please do not submit duplicate applications.
-</thinking>
-
 # dti-10-month-application-submission-2020 - Help Guide
 ## Purpose
 This form is for submitting applications for a 10-month program. Please fill it out accurately to ensure your application is considered.

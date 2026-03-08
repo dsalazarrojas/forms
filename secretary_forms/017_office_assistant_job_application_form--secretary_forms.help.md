@@ -1,12 +1,3 @@
-<thinking>
-I'll create a user-facing help guide for this office-assistant-job-application-form. To ensure that I'm creating a relevant and non-duplication guide, I'll consider the form's purpose, fields, and options.
-
-The form is intended to collect contact information, work experience, education, skills, and availability from applicants. It's likely designed for hiring personnel to gather data for potential office assistants.
-
-Given that the form is not affiliated with any form platform and is a public adaptation, I won't assume any proprietary business logic or requirements. Instead, I'll focus on providing clear and concise explanations for end-users.
-
-</thinking>
-
 # office-assistant-job-application-form - Help Guide
 ## Purpose
 This form is designed for applicants to provide their contact information, work experience, education, skills, and availability for office assistant positions.

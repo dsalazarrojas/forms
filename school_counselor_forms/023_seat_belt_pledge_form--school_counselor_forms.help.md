@@ -1,5 +1,3 @@
-<thinking> This form is intended to collect information from school administrators and students regarding seat belt safety practices. It is used to track and verify seat belt usage on school buses. Each field is designed to gather specific information to aid in this tracking and verification process. Please ensure that all required fields are completed accurately and truthfully. </thinking>
-
 # Seat Belt Pledge Form - Help Guide
 ## Purpose
 The Seat Belt Pledge Form is designed to collect information from school administrators and students about seat belt usage on school buses. This form aims to track and verify seat belt usage practices within the school community.

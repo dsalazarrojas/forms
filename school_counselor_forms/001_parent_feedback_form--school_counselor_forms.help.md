@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect feedback from parents. The purpose of this form is to gather information on a parent's experience, suggestions, and comments on how the school or educational institution can improve. The form has 5 fields that need to be filled out. 
 
 </thinking>

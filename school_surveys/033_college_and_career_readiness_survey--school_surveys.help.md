@@ -1,12 +1,3 @@
-<thinking>Internal Note:
-To ensure the accuracy and relevance of the form, the following questions are included to assess the college and career readiness of students. The form aims to gather information on students' post-graduation plans, application status, academic performance, and support needs. It is essential to complete this form accurately to help students and educators understand their readiness for college and career opportunities.
-
-This form should not be duplicated or misinterpreted. Each question is designed to provide valuable insights into students' strengths, weaknesses, and areas for improvement. By answering these questions honestly, students can gain a better understanding of their college and career readiness, and educators can provide targeted support to help them succeed.
-
-Before completing this form, please review the instructions and questions carefully to ensure that you understand what is being asked. If you have any questions or concerns, please don't hesitate to reach out to your guidance counselor or academic advisor.
-
-</thinking>
-
 # College And Career Readiness Survey - Help Guide
 ## Purpose
 The College And Career Readiness Survey is designed to help students assess their current level of college and career readiness. This survey asks students to provide information about their post-graduation plans, academic performance, and support needs. The survey is a valuable tool for students to gain a better understanding of their strengths and weaknesses, and for educators to provide targeted support to help them succeed.

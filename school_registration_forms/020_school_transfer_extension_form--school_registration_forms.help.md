@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture student transfer extension information for schools. It is intended for use in cases where a student's transfer to another school is not complete or requires further documentation. The form should only be used for students who are currently in school or have been in school in the past. It is not intended for new student admissions.
-The School Transfer Extension Form is used to update or extend the school transfer process for a student. It is a companion form to the main school transfer form and should be used to add or modify existing student information. If a student has not been previously transferred to the school, they should not use this form.
-When using this form, please ensure that you are providing accurate and complete information about the student and their current school situation.
-</thinking>
-
 # School Transfer Extension Form - Help Guide
 
 ## Purpose

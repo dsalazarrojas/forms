@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for students, parents, teachers, staff, and other school community members to assess their overall readiness and expectations for the upcoming school year. It helps to collect data on their preparedness for school supplies, technology, schedule, and academics, as well as their expectations for social interactions and academic performance. The form also seeks to identify potential concerns and areas for improvement within the school community. By analyzing this data, the school can better understand the needs and concerns of its members and make informed decisions to create a more supportive and effective educational environment.
-
-</thinking>
-
 # Back To School Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your school year preparations, expectations, and concerns. It will help the school administration better understand the needs and needs of the school community and make informed decisions to create a more supportive and effective educational environment.

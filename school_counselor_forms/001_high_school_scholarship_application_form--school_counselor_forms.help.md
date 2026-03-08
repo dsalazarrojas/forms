@@ -1,10 +1,3 @@
-<thinking>
-**Purpose:** 
-This form is for high school students to apply for a scholarship to support their education. It is used to gather information about the student's academic achievements, extracurricular activities, community service, awards, financial need, references, academic history, and personal statement. The form is designed to help the scholarship committee evaluate the applicants' qualifications and make informed decisions.
-**Relevance:** This form is intended for students who are applying for a high school scholarship. It is not for students who are applying for other types of scholarships or financial aid.
-**Non-Duplication:** To ensure that the form is not filled out by students who are already receiving the same scholarship, the form will be reviewed and verified by the scholarship committee before being submitted for consideration.
-</thinking>
-
 # high_school_scholarship_application_form - Help Guide
 ## Purpose
 This form is for high school students to apply for a scholarship to support their education.

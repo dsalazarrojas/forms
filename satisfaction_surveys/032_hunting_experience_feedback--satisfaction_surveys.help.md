@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hunting Experience Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their hunting experience with a guide. The purpose of this form is to collect feedback on various aspects of the guide's performance, such as their attitude, communication, and overall experience. The information collected will help us improve our services and ensure that our customers have a positive experience with our guides.

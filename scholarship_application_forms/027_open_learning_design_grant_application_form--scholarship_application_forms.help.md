@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for the Open Learning Design Grant. It is essential to fill out the form accurately and completely to ensure that the application is considered for review. Please review the form carefully before submitting it to avoid any issues during the review process. This form will be used to assess the applicant's eligibility and fit for the grant. Please ensure that the information provided is correct and up-to-date. If you are unsure about any part of the form, please consult the provided guidance or contact the relevant authorities.
-
-Before submitting the form, please ensure that you have reviewed the eligibility criteria and that your application meets all the requirements. If you have any questions or concerns about the form or the application process, please don't hesitate to reach out to us.
-
-This form will be reviewed internally to assess the applicant's fit for the grant. Please note that incomplete or inaccurate submissions may lead to delays or rejection of the application.
-</thinking>
-
 # Open Learning Design Grant Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for the Open Learning Design Grant. The purpose of the form is to assess the applicant's eligibility and fit for the grant.

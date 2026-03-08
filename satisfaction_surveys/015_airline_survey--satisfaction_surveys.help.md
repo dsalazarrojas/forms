@@ -1,9 +1,3 @@
-<thinking>
-This guide will walk you through how to complete the Airline Survey form. Before we get started, let's take a look at the reasoning behind this form.
-
-The Airline Survey form is designed to gather feedback from passengers about their experiences with an airline. This form helps us understand passengers' satisfaction with various aspects of the airline's services, such as booking process, in-flight experience, and overall satisfaction. The goal is to identify areas of improvement and provide valuable insights for the airline to enhance its services.
-
-</thinking>
 # Airline Survey - Help Guide
 ## Purpose
 This form collects feedback from passengers about their experiences with our airline, covering aspects such as booking process, in-flight experience, and overall satisfaction. Your responses will help us identify areas of improvement and enhance our services.

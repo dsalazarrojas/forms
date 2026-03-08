@@ -1,9 +1,3 @@
-<thinking>
-
-We have generated a form that can be used for Preschool Enrollment, which is a form designed for parents or guardians to provide information about themselves and their child's enrollment in the preschool program. The form can be used by any individual responsible for the care and welfare of the child and should not be confused with other forms that require similar information. This form is an original creation using public survey topic metadata and is not affiliated with, endorsed by, or derived from any form platform or proprietary data collection tools. It is released under Creative Commons BY 4.0 and can be freely used, modified, and distributed as long as credit is given. If you have any questions or would like to contribute to this project, please contact [form@gic.mx](mailto:form@gic.mx).
-
-</thinking>
-
 # Preschool Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from parents or guardians about their child's enrollment in our preschool program. Please fill out this form to ensure a smooth and successful enrollment process for your child.

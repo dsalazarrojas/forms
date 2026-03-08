@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information about the availability of products in shades of color. This form is part of a larger process to ensure that products are accessible and inclusive to a diverse range of customers. By completing this form, you will be contributing to the improvement of our product offerings to better serve customers with different preferences.
 
 Before proceeding, please note that this form is designed to be completed by one person per response. If you are part of a team or group, please ensure that each person provides their own response. This will help us gather accurate and individual feedback.

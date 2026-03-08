@@ -1,12 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "Retail Product Delivery Satisfaction Survey" form. This guide will help end-users understand the purpose of the form, how to complete it, and what each field means.
-
-The form is designed to gather feedback from customers about their experience with the retail product delivery process. It helps us understand their satisfaction with the product, delivery time, communication, packaging, and other aspects of the delivery process. This feedback is crucial in identifying areas for improvement and ensuring that our delivery process meets the needs and expectations of our customers.
-
-Before starting the survey, please ensure that you have not already submitted a survey for this delivery. If you have, please do not submit another one to avoid duplication.
-
-</thinking>
-
 # Retail Product Delivery Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from customers about their experience with the retail product delivery process. Your input will help us improve and refine our delivery process to better meet your needs.

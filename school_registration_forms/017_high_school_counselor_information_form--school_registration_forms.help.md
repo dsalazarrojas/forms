@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from high school students and their families about their goals, objectives, and other relevant details. This information will be used to better understand the students' needs and provide support and guidance as needed. Please ensure that you are filling out this form for your own child/student. If you are filling out the form for another student, you must have their consent to do so.
-</thinking>
-
 # high_school_counselor_information_form - Help Guide
 ## Purpose
 The high school counselor information form is used to collect information about high school students and their families. This information will be used to provide support and guidance as needed.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the "Parent Roles And Responsibilities Survey" form, a tool designed to gather information about parents' involvement in their children's education and well-being.
-To determine the relevance and non-duplication of this form, we'll consider that the fields provided are all text-based and lack a clear structure for categorizing responses, such as categories or dropdown menus. This suggests that the form is intended to collect detailed descriptions or open-ended answers from parents. Given the simplicity and lack of specificity in field labels, it appears that the form is intended for general, qualitative data collection rather than quantitative or highly structured data collection.
-</thinking>
-
 # Parent Roles And Responsibilities Survey - Help Guide
 ## Purpose
 The "Parent Roles And Responsibilities Survey" is designed to gather information about the roles and responsibilities parents take on in their children's education and well-being. This form is intended to collect detailed descriptions or open-ended answers from parents about their involvement, their children's skills, knowledge, and abilities, as well as their communication skills and responsibilities.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used for booking services in a daycare setting, likely for children or adults with disabilities. The form's purpose is to collect information from parents or caregivers to understand their needs and preferences for the services offered. The form is designed to be completed by a parent or caregiver, and the collected data will be used to allocate resources and provide personalized care.
-
-Before completing this form, ensure that you have the necessary information and consent to book the service. If you're unsure about any of the information, please reach out to the service provider for clarification.
-
-Please note that this form is not intended for emergency services. If you need immediate assistance, please contact the service provider directly.
-
-</thinking>
-
 # Daycare Service Booking Form - Help Guide
 ## Purpose
 The Daycare Service Booking Form is used to book services in a daycare setting for children or adults with disabilities. Please complete this form to provide your child's details and preferences for the services offered.

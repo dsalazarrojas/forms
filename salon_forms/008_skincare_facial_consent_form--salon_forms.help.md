@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are going to receive a facial treatment at a salon. The form aims to gather necessary details such as the client's name, visit schedule, and services offered. It also includes fields for medical history and consent statement, which are essential for the safety and well-being of the client. 
-The form is not intended to be affiliated with or copied from any other form platform, and it's an original creation using public metadata. This form is released under the Creative Commons Attribution 4.0 license, allowing users to modify or use it for their own purposes while giving credit.
-</thinking>
-
 # Skincare Facial Consent Form - Help Guide
 ## Purpose
 This form is used by salons to collect information from clients before providing a facial treatment.

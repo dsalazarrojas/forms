@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Preschool Graduation Questionnaire - Help Guide
 
 ## Purpose

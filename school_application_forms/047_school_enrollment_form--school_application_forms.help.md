@@ -1,7 +1,3 @@
-<thinking>**Form Purpose and Relevance Check:**
-
-Before proceeding, please confirm that you are enrolling in a school program and not re-enrolling. This form is intended for new enrollments only. If you have previously enrolled, please do not fill out this form. Also, this form is for school programs that do not require a separate admission process. If your school program has a specific admission process, you may be directed to a different form.</thinking>
-
 # School Enrollment Form - Help Guide
 ## Purpose
 This form is a school enrollment form used to collect required information for new students enrolling in a school program.

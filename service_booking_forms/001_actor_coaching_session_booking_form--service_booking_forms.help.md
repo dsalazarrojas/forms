@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is intended for users to book an acting coaching session with a professional coach. The form will gather personal and contact information from the user, as well as specifics about the coaching session they want to book, such as type, duration, and goals. The form will help the coach understand the user's needs and prepare for the session accordingly. This form is likely to be used by acting professionals or individuals looking for guidance in their acting career.
-</thinking>
-
 # Actor Coaching Session Booking Form - Help Guide
 ## Purpose
 

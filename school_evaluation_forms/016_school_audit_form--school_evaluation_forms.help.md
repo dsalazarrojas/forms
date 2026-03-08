@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by schools and educational institutions to conduct internal audits and evaluations. It is intended to help assess the overall functioning and efficiency of the school's operations, providing a framework to identify areas for improvement and continuous growth. This form can be used by school administrators, teachers, and other relevant personnel to collect data and insights that can inform decision-making and resource allocation.
-This form is not intended for external use or submission to external parties. It is recommended to fill out this form only within the school's internal network, and it is not recommended to share any data or information collected through this form with external entities.
-Please note that this form is a general template and might need to be adapted and customized to fit the specific needs and requirements of each school or institution.
-</thinking>
-
 # School Audit Form - Help Guide
 
 ## Purpose

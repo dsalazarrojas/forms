@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather essential information from clients to ensure their safety and satisfaction with hair services provided by the salon. It is crucial to collect accurate contact information, medical history, and service preferences to tailor the service according to their needs and comfort level. The form also serves as a liability release, obtaining the client's consent for services performed. By having clients complete this form, the salon can provide personalized care while minimizing risks associated with hair services.
-</thinking>
-
 # Client Release Form For Hair Services - Help Guide
 
 ## Purpose

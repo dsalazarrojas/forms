@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wealth Club Feedback Survey - Help Guide
 ## Purpose
 The "Wealth Club Feedback Survey" is a form designed to gather feedback from users about their experience with the Wealth Club program. This survey aims to understand the level of satisfaction and engagement with the program and provide valuable insights to improve it.

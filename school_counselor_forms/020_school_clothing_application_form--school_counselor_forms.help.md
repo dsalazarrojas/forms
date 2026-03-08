@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <delays for internal review and discussion: 
 * Form purpose: 
   - The form is intended for students to apply for school clothing. 

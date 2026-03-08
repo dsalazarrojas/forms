@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from parents or guardians for a school trip. The purpose of this form is to gather essential details, including the student's name, contact information, and consent for the trip. The form is used to ensure that school administrators have the necessary permissions and details to facilitate a smooth and safe trip experience for students. This form should only be filled out for a specific school trip, and it's not a general form for any kind of trip or activity.
-
-</thinking>
-
 # school_trip_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information and consent from parents or guardians for a school trip.

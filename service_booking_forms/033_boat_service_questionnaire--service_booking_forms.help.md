@@ -1,8 +1,3 @@
-<thinking>
-This form is a Boat Service Questionnaire designed to gather information about a boat and its maintenance needs. The form is intended for boat owners to provide details about their vessel, including its name, type, and history, as well as their preferred service date and storage location. The form also asks about the current service needs and any issues the boat may be experiencing. This form is used to facilitate the service and maintenance process for the boat.
-
-This form should not be used for other purposes or for non-boat-related services. The form fields are designed to be completed by the boat owner and should not be used for duplicate or redundant services.</thinking>
-
 # Boat Service Questionnaire - Help Guide
 ## Purpose
 The Boat Service Questionnaire is a form designed to gather essential information about your boat and its maintenance needs. This information will help us provide you with the best possible service experience.

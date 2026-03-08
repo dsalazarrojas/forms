@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Preschool Graduation Questionnaire - Help Guide
 ## Purpose
 The Preschool Graduation Questionnaire is designed to collect feedback and survey information from teachers and parents regarding a child's preschool graduation. This form is meant to capture the child's readiness for formal education, their social and emotional development, and other relevant aspects of their preschool experience.

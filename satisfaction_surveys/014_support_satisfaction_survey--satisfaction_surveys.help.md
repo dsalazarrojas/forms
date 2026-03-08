@@ -1,13 +1,3 @@
-<thinking>
-This help guide will explain how to use the Support Satisfaction Survey form. The form is used to collect feedback from customers regarding their experience with the support team. This will help the support team understand what they are doing well and where they need to improve.
-
-Before starting the form, please take a moment to consider whether the following conditions apply:
-- You have received support services recently.
-- You have not already completed this survey.
-
-Please fill out the form only if the above conditions apply.
-</thinking>
-
 # Support Satisfaction Survey - Help Guide
 ## Purpose
 The Support Satisfaction Survey form is designed to collect feedback from customers about their experience with the support team. This feedback helps us understand what we're doing well and where we need to improve.

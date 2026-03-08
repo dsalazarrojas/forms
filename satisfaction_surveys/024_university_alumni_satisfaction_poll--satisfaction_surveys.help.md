@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "University Alumni Satisfaction Poll", is to collect data on the overall satisfaction of university alumni with their alma mater. This form is designed to gather information on the graduates' experiences, including their name, email, university name, academic program, graduation year, and satisfaction with various aspects of their university experience such as faculty, administrative support, academic support, and resources. This data will be used to help the university improve its services and better understand the needs and expectations of its alumni.
-</thinking>
-
 # University Alumni Satisfaction Poll - Help Guide
 ## Purpose
 The University Alumni Satisfaction Poll is a form designed to collect data on the overall satisfaction of university alumni with their alma mater.

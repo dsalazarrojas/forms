@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from teenagers about their feelings, expectations, and future plans. This form is designed to gather data that can be used to support school counselors and other stakeholders in understanding the needs and goals of the teenagers they work with. The form is not intended to be a formal assessment or evaluation tool, but rather a means of gathering qualitative feedback and insights to inform support and guidance efforts.
-
-Before filling out this form, please ensure that you have not already completed it. If you have, this will help prevent duplicate submissions and maintain data accuracy.
-</thinking>
-
 # Teens Survey - Help Guide
 ## Purpose
 The Teens Survey form is designed to collect information from teenagers about their feelings, expectations, and future plans. This form is meant to gather qualitative feedback and insights to support school counselors and other stakeholders in understanding the needs and goals of the teenagers they work with.

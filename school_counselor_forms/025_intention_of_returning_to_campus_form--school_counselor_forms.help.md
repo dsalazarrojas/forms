@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Intention of Returning to Campus Form - Help Guide
 ## Purpose
 This form is designed to gather information about your intention of returning to campus for school. It will help us understand your preferences and expectations regarding remote and face-to-face learning, campus safety, and your commitment to returning to campus if possible.

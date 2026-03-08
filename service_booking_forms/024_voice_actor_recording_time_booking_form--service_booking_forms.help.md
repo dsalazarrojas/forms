@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for voice actors to book sessions for recording voiceover, live, or audiobooks. The form will help them choose the best time and location for their recording session. To ensure that the form serves its purpose and is not filled out unnecessarily, it's crucial to clearly explain what each field means and how to complete it. The form should be easy to understand and accessible to all users, regardless of their experience in the recording industry. It's also essential to note that the form is not a commitment to a specific project or service, but rather a way to gather essential information for booking a session.
-</thinking>
-
 # Voice Actor Recording Time Booking Form - Help Guide
 
 ## Purpose

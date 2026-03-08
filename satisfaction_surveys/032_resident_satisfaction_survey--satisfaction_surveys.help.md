@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on resident satisfaction. This form is used to gauge the satisfaction of residents in various aspects such as quality of service, facilities, and overall living experience. It is essential to ensure that residents have a positive experience in their living environment. This survey helps administrators and decision-makers make data-driven decisions to improve the quality of life for residents.
-
-Before proceeding, please ensure that you have not completed this survey in the past 30 days. If you have, please do not submit another response as it may skew the results.
-
-This form consists of multiple pages with various fields that require different types of information from residents. Please review each field carefully and follow the instructions below.
-</thinking>
-
 # Resident Satisfaction Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form aims to collect information from graduates on their career paths and experiences. Before proceeding, please note that this form is designed for gathering insights to inform future academic programs and student support. Ensure that the responses will not be shared or used for any purpose other than improving educational outcomes.
-
-</thinking>
-
 # post_graduation_career_outcome_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to collect insights from graduates on their career paths and experiences after graduation. This will help to inform future academic programs and student support.

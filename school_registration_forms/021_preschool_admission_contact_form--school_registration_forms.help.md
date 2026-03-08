@@ -1,7 +1,3 @@
-<thinking>
-This form is for parents or guardians to provide contact information and preferences for their child's potential enrollment in the preschool program. The form is intended to gather essential details about the child and the parent's contact information, which will be used to facilitate communication and ensure a smooth admission process. Before starting, please ensure that you are submitting the form on behalf of the correct child and that you are providing accurate information. It is also recommended to complete the form only once per child to avoid any potential duplicates.
-</thinking>
-
 # Preschool Admission Contact Form - Help Guide
 ## Purpose
 The Preschool Admission Contact Form is designed to collect essential information from parents or guardians of children interested in enrolling in the preschool program.

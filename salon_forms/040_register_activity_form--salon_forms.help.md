@@ -1,10 +1,3 @@
-<thinking>
-The "Register Activity Form" is designed for salon staff to register activities, events, or updates with the company. This form is meant to be used when a staff member wants to inform the management team about a shift start, a change in shift, or other notable activities. 
-This form ensures that all important information is captured and communicated clearly to the management. 
-The goal is to keep records up-to-date and ensure that all employees are aware of any changes or new events. 
-To avoid duplication, please ensure that you only submit one "Register Activity Form" per activity.
-</thinking>
-
 # Register Activity Form - Help Guide
 
 ## Purpose

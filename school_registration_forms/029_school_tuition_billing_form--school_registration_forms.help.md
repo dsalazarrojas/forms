@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information about school tuition billing from schools, which can be used for various purposes such as financial management, record keeping, and reporting. This form helps schools to efficiently capture details like category, description, and other relevant information. The form's output can be used for further processing, reporting, or integration with other systems.
-
-The form's design and content should not be duplicated or used without permission from the original creator. The form's purpose and content are original and not affiliated with any form platform.
-
-</thinking>
-
 # School Tuition Billing Form - Help Guide
 ## Purpose
 

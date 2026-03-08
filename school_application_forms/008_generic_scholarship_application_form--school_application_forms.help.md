@@ -1,9 +1,3 @@
-<thinking>
-To prevent duplicate applications from being submitted, please ensure that each student submits only one application per scholarship. 
-This form is meant to collect information from students about their academic background, financial information, and other relevant details required for the scholarship application process. 
-Please note that some fields might be optional or have specific options, but please provide accurate and detailed information to increase the chances of getting selected.
-</thinking>
-
 # Generic Scholarship Application Form - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a survey designed to gather feedback from homeowners or clients about their satisfaction with soundproofing services provided by contractors. The purpose of this form is to collect data on the quality of service, the contractor's performance, and any issues or areas for improvement. This form does not appear to be a duplicate of any existing surveys, and its content is relevant to the soundproofing industry. The survey is likely used to measure customer satisfaction, identify areas for improvement, and potentially inform future service offerings or marketing efforts.</thinking>
-
 # Residential Soundproofing Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from homeowners or clients about their satisfaction with soundproofing services provided by contractors. Your input will help us improve our services and provide better experiences for future clients.

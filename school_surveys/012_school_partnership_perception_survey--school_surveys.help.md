@@ -1,8 +1,3 @@
-<thinking>
-The "School Partnership Perception Survey" is designed to help users gauge the perception of schools and their partnership relationships. This form is meant to collect information from various aspects of the partnership, including satisfaction, quality, involvement, awareness, communication, and participation. It's essential to fill out this form accurately to provide a comprehensive understanding of the school's partnership dynamics. 
-Please ensure that you're filling out this form when you have a genuine interest in providing an honest assessment of the school's partnership. If you've already filled out this form in the past, please refrain from repeating your answers to avoid duplication.
-</thinking>
-
 # School Partnership Perception Survey - Help Guide
 
 ## Purpose

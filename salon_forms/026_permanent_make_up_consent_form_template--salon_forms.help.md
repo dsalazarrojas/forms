@@ -1,13 +1,3 @@
-<thinking>
-This form is meant to be used for permanent makeup procedures. The client is asked to provide their personal information and give their consent to the procedure. This form will help ensure that the client has provided accurate and up-to-date information, and that they have understood the terms of the procedure. The form should be used to obtain a signed consent from the client, which will serve as proof of their understanding and agreement to the procedure. 
-
-This form should not be used for other purposes such as for general customer contact information or for internal purposes such as for reporting or tracking. 
-
-The fields should be filled out in a way that is clear and legible, and that the client understands the purpose of each field. 
-
-This form is a critical document that requires accurate and complete information. 
-</thinking>
-
 # Permanent Make Up Consent Form Template - Help Guide
 
 ## Purpose

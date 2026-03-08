@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Gym Accessibility For Disabled Members Survey - Help Guide
 
 ### Purpose

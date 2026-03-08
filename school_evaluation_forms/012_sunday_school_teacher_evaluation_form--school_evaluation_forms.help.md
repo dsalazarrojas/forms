@@ -1,11 +1,3 @@
-<thinking>
-
-To evaluate the effectiveness of Sunday School teachers, our Sunday School Teacher Evaluation Form is designed to collect feedback from students, parents, and teachers about their experiences and perceptions of the teacher's performance. This form is used to assess the teacher's lesson plan, classroom management, communication, and other aspects that contribute to a positive and safe learning environment.
-
-The form is divided into several sections, each focusing on a specific area of concern. We ask for your honest and constructive feedback, which will help us to improve our Sunday School programs and provide better support to our teachers and students.
-
-</thinking>
-
 # Sunday School Teacher Evaluation Form - Help Guide
 
 ## Purpose

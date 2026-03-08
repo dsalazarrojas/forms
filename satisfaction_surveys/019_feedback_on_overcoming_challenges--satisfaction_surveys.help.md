@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on challenges that individuals have overcome, with the aim of understanding how different strategies and approaches can be used to address these challenges. The form is intended for individuals who have participated in programs or coaching sessions to provide insight into their experiences and outcomes. The fields included are designed to gather information on the reflective story, strategies used, advice received, contact information, program evaluation, coaching or organisation, impact, improvement areas, comments, assigned tool, other program evaluation, date of submission, time of submission, and timezone of submission.
-
-Before filling out this form, please ensure that you have not already completed it, as this form is not intended for duplication or repeated submissions. The form is designed to collect unique feedback from each individual, so please be honest and concise in your responses.
-
-</thinking>
-
 # feedback_on_overcoming_challenges - Help Guide
 ## Purpose
 This form is designed to collect feedback on challenges that individuals have overcome, with the aim of understanding how different strategies and approaches can be used to address these challenges.

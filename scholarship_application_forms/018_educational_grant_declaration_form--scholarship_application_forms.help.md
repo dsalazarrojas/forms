@@ -1,11 +1,3 @@
-<thinking>
-To ensure the Educational Grant Declaration Form is filled out correctly and accurately, please note that this form is to be used for students to declare their intention to enroll in a program at an institution. This form is not intended for any other purpose. 
-
-Before filling out the form, please check with your institution's administration to ensure you are not duplicating any existing declaration. This form is to be filled out by the student themselves or the representative of the student. Please provide accurate information as you will be required to update the form as your program's status changes. 
-
-This form is divided into multiple pages. Please ensure that you are completing the correct page for your situation before proceeding.
-</thinking>
-
 # Educational Grant Declaration Form - Help Guide
 ## Purpose
 The Educational Grant Declaration Form is a document used by students to declare their intention to enroll in a program at an institution. This form helps the institution track student progress and ensures that the student is aware of their obligations and responsibilities.

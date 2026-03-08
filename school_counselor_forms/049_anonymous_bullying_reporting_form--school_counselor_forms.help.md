@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to allow students to report incidents of bullying anonymously, providing a safe and confidential way for them to share their experiences. This form is designed to gather essential information about the incident, such as the type of bullying, date, time, and location, as well as details about the person being bullied and the individuals involved. The form also allows students to provide additional context and evidence if available. The goal is to support the student's well-being and ensure a safe and supportive school environment.
-
-Before completing this form, please note that:
-
-* The form is completely anonymous, and your identity will not be shared with anyone.
-* You can stop filling out the form at any time and save your progress for later.
-* If you have already reported a similar incident before, please indicate this in the "Previous Reports" field.
-* If you are unsure about any of the questions or fields, please ask for help or clarification.
-
-Please review the following help guide carefully before starting to fill out the form.
-</thinking>
-
 # Anonymous Bullying Reporting Form - Help Guide
 ## Purpose
 The purpose of this form is to report incidents of bullying in a safe and anonymous way. This form will gather information about the incident, the person being bullied, and the desired outcome.

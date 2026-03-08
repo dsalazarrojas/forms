@@ -1,7 +1,3 @@
-<thinking>
-The "Hair Salon Client Questionnaire" form is designed to collect information from clients visiting the salon. The form is intended to be completed by the client to provide their personal details, service preferences, and any special requests or concerns they may have. It is likely used to inform the salon staff about the client's needs and preferences, allowing them to provide a more personalized experience. This form does not seem to have any specific business logic that would dictate how the fields are structured or how the data is used, so it appears to be a straightforward client information form.
-</thinking>
-
 # Hair Salon Client Questionnaire - Help Guide
 ## Purpose
 The "Hair Salon Client Questionnaire" is a form used to collect information from clients visiting the salon. It is intended to be completed by the client to provide their personal details, service preferences, and any special requests or concerns they may have.

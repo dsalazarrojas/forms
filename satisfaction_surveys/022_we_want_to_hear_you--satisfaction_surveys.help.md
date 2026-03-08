@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from end-users related to a satisfaction survey. The form has multiple pages with various fields that ask for specific information such as category, description, satisfaction rating, attachments, feedback, phone number, email, name, and organization. This form is likely used for gathering data from various stakeholders, including schools, non-profit organizations, and businesses. Before filling out this form, please ensure that you have a valid reason for submitting this information and that you are not duplicating an existing entry.
-</thinking>
-
 # we_want_to_hear_you - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from end-users related to a satisfaction survey.

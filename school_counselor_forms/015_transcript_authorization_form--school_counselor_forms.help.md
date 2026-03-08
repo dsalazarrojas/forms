@@ -1,5 +1,3 @@
-<thinking>Transcript Authorization Form is used to verify the authenticity of a student's transcript. It is typically completed by a school administrator or counselor to confirm that the student has been enrolled in the school for a certain period of time. This form is used to provide official verification that a student's transcript is accurate and genuine.</thinking>
-
 # transcript_authorization_form - Help Guide
 ## Purpose
 This form is used to verify the authenticity of a student's transcript.

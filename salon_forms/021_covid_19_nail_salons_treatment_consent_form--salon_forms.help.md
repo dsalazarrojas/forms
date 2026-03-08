@@ -1,8 +1,3 @@
-<thinking>
-This guide is designed to help users understand the purpose and structure of the COVID-19 Nail Salons Treatment Consent Form, ensuring that they can navigate it effectively. This form is meant to collect client information, including their personal details, health screening, and consent to receive specific nail treatments. Before proceeding, ensure that you're not already a part of a similar process or that the form hasn't been previously completed. 
-
-</thinking>
-
 # COVID 19 Nail Salons Treatment Consent Form - Help Guide
 
 ## Purpose

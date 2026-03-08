@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gauge the understanding and awareness of climate policy among school-going youth. It seems that the form's purpose is to collect data on the respondents' beliefs, attitudes, and concerns regarding climate change and policies related to it. This form will likely be distributed within schools to gather feedback from students, teachers, or other school staff. The form appears to be comprehensive, covering various aspects of climate policy, including the respondents' level of agreement or disagreement with climate policies, their perception of the impact of climate policy, and their awareness of climate change.
-
-To avoid duplication, it's essential to ensure that each field is clearly explained and easily understood by the respondents. The form's questions cover various topics, such as climate policy, education, school type, and level. Each field's label should be rewritten to accurately reflect the question's intent. 
-
-Please note that some of the field labels seem to be duplicates. For instance, "climate_policy_influence" is repeated multiple times. It's essential to review the form's schema to ensure that each field is unique and not redundant. 
-
-The field "survey_title" seems to be missing in the provided YAML data. It's crucial to ensure that the form's title is properly labeled and included in the help guide.
-
-The "hint" field seems to be missing or not used in most fields. If it's meant to provide additional information or guidance, it's recommended to utilize it for each field.
-
-The form's structure, including the number of fields and their organization, might be adjusted for better usability and clarity. The goal is to make the form easy to understand and navigate for the respondents.
-
-</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 ## Purpose
 This survey aims to collect information about your understanding and awareness of climate policy. Your responses will help us better understand your thoughts, attitudes, and concerns related to climate change and policies.

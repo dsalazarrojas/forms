@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form aims to gather feedback from policyholders about their satisfaction with the services provided by the organization. It is meant to measure the quality of service, communication, product features, and overall satisfaction. The form will help the organization to identify areas of improvement and make informed decisions.
-The form will be used to collect feedback from policyholders, and it is crucial to understand the correct way to fill it out.
-</thinking>
-
 # Policyholder Satisfaction Assessment Form - Help Guide
 
 ## Purpose

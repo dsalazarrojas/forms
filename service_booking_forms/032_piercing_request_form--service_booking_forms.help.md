@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block: This form is intended to gather information from clients who have requested a piercing service. The form is designed to collect client-specific details such as their ID, name, contact information, and preferences for the piercing service. By filling out this form, clients can ensure that their requests are accurately processed and that they receive the desired service on their preferred date and time. The form is not intended for internal use, but rather for external clients who will be interacting with the service directly.
-</thinking>
-
 # piercing_request_form - Help Guide
 ## Purpose
 This form is used to gather information from clients who have requested a piercing service.

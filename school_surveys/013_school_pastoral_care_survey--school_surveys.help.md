@@ -1,15 +1,3 @@
-<thinking>
-We need to ensure that the School Pastoral Care Survey form serves its intended purpose: gathering accurate and timely data on the wellbeing support for students, parents, and staff in schools. This form will help schools evaluate their current state of wellbeing support and identify areas for improvement. To avoid duplication of effort, let's review our current processes and procedures to determine if any similar surveys or forms are already in place.
-
-To determine relevance, we need to consider the following:
-- Who is the target audience for this form?
-- What are the specific areas of wellbeing that we want to focus on?
-- How often will the data be collected and analyzed?
-- How will each form submission be managed?
-
-After reviewing our current processes and procedures, we believe this form will effectively help us gather the necessary data to improve wellbeing support in our schools. Therefore, we can proceed with creating the user-facing help guide.
-</thinking>
-
 # School Pastoral Care Survey - Help Guide
 ## Purpose
 The School Pastoral Care Survey is a form designed to gather data on the wellbeing support for students, parents, and staff in schools. This data will help schools evaluate their current state of wellbeing support and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Learning Research Fellowship Application - Help Guide
 ## Purpose
 This form is designed to help applicants apply for an Online Learning Research Fellowship. The purpose of this form is to gather essential information about the applicant's background, research interests, and goals. By filling out this form, applicants can provide a comprehensive overview of their qualifications and research objectives, which will be evaluated by the selection committee for the fellowship award.

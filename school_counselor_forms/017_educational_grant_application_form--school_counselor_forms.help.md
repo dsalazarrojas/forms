@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Grant Application Form - Help Guide
 ## Purpose
 The purpose of this form is to apply for an educational grant to support a student's education. The form collects information from the school counselor and is used to evaluate the student's eligibility for the grant.

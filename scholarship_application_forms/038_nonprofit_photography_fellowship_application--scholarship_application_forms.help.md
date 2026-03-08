@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for applicants to apply for a Nonprofit Photography Fellowship. It's meant for individuals seeking funding or support for a specific project or proposal. Before proceeding, ensure this form is relevant to your application and that you're not duplicating an already submitted application. This form has been designed to guide you through the submission process. Please review each field carefully to ensure accuracy.
-
-</thinking>
-
 # Nonprofit Photography Fellowship Application - Help Guide
 ## Purpose
 The Nonprofit Photography Fellowship Application form is used to gather information from applicants to evaluate their eligibility for the fellowship program. This form is for individuals seeking funding or support for a specific project or proposal.

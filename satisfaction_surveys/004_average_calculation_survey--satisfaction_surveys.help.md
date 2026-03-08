@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the respondent's preferences and satisfaction with the survey tool. It is meant to be completed by various types of respondents, including students, teachers, researchers, team members, managers, and others. The survey will ask for demographic information, such as respondent type and organization name, and collect numerical values for data points. It will also ask about the type of calculation needed, whether outliers should be included, the decimal precision of the results, the respondent's satisfaction with the tool, and their ease of use experience. Finally, it will collect any feature requests and additional comments.
-The form is designed to be filled out by one person, and most fields are optional. The purpose of this form is to collect feedback and improve the survey tool.
-</thinking>
-
 # Average Calculation Survey - Help Guide
 ## Purpose
 The Average Calculation Survey is designed to collect feedback and preferences from respondents. 

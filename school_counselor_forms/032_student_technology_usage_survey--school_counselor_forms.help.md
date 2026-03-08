@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about students' technology usage, access, and learning experiences. The form has 25 fields that cover various aspects of technology usage in schools, including student access to technology, technology familiarity, and teacher training. This form is intended to gather data on how students use technology in their learning process, what devices they use, and how they utilize technology for different purposes. 
-
-To ensure that the form is completed accurately, it's essential to understand each field's purpose and what information is being collected.
-
-</thinking>
-
 # Student Technology Usage Survey - Help Guide
 ## Purpose
 The Student Technology Usage Survey is designed to collect information about students' technology usage, access, and learning experiences in schools.

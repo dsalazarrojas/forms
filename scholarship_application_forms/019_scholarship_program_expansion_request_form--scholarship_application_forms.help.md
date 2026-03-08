@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request an expansion of an existing scholarship program. This form is typically used when a program has reached its capacity or has new, compelling reasons for expansion. The form helps stakeholders identify and propose new opportunities for growth. This form should not be used for minor adjustments or routine requests. To ensure accurate processing and consideration of your request, please ensure you have the necessary approvals and information before submitting this form.
-
-Please review this form carefully and submit only once you have completed all required fields. If you are unsure or have questions, please contact us for guidance.
-
-Form fields should match the current program's details as much as possible, especially if the request is for an existing program's expansion.
-
-</thinking>
-
 # Scholarship Program Expansion Request Form - Help Guide
 ## Purpose
 This form is designed to help stakeholders request an expansion of an existing scholarship program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge public awareness and perceptions about sustainable tourism. It is likely used to inform tourism industry stakeholders about the attitudes and behaviors of potential customers. The form is structured to collect demographic information and opinions on sustainable tourism, travel habits, and preferences. It's recommended that users fill out the form only if they have some basic knowledge of sustainable tourism and are willing to share their honest opinions and experiences.
-</thinking>
-
 # public_awareness_of_sustainable_tourism_survey - Help Guide
 
 ## Purpose

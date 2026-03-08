@@ -1,7 +1,3 @@
-<thinking>
-This form is used for applicants to submit their research proposals for the music industry research grant. The grant is designed to support innovative research projects that have the potential to make a significant impact on the music industry. The form is divided into multiple sections, each with its own specific purpose. It is recommended that applicants carefully read the guidelines and instructions before filling out the form to ensure they are submitting the most accurate and complete information.
-</thinking>
-
 # Music Industry Research Grant Application Form - Help Guide
 ## Purpose
 The Music Industry Research Grant Application Form is designed to support innovative research projects that have the potential to make a significant impact on the music industry.

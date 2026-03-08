@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents and guardians who need to create or access their parent portal accounts. The form is a crucial part of our school's communication and information management system, ensuring that we have accurate and up-to-date contact details for all stakeholders. It's essential to fill this form out correctly to ensure that your account is properly configured and you can access the resources you need.
-</thinking>
-
 # Parent Portal Account Information Form - Help Guide
 ## Purpose
 This form is used to create or access a parent portal account. Please fill out the form accurately and completely to ensure that your account is properly configured.

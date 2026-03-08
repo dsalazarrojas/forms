@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from clients for semi-permanent brow consultations. The form will ask for basic salon information, intake forms, and details specific to the semi-permanent brow consultation. The purpose of the form is to ensure that the client has the necessary information for a thorough consultation.
-</thinking>
-
 # semi-permanent_brows_consultation_form - Help Guide
 ## Purpose
 This form is used to collect information from clients for semi-permanent brow consultations.

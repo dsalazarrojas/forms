@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from speakers who will be presenting or participating in an event. The purpose of this form is to capture essential details about the speaker, including their name, contact information, presentation details, and background information. This form is likely to be used by event organizers or administrators to manage speaker registrations.
-
-Please note that this form is a general template and the specific use case may vary depending on the event's requirements and the context in which it's being used. Reviewing the form carefully will help ensure accurate and relevant information is captured for the speaker.
-
-Also, it's worth checking if a similar form exists or if any fields can be removed or modified to avoid duplication of effort or unnecessary information collection.
-
-Form fields should be filled in with accurate and relevant information to help the speaker management process run smoothly.
-
-</thinking>
-
 # Speaker Registration Form - Help Guide
 ## Purpose
 The Speaker Registration Form is designed to collect essential details from speakers who will be presenting or participating in an event.

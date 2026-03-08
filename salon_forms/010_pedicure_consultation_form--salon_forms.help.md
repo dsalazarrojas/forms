@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for a pedicure consultation. It will help the salon staff understand the client's nail condition, preferred nail shape and color, and other services they might need during their visit. This form aims to ensure that the client's needs are met efficiently and effectively. The form is divided into several sections, each focusing on different aspects of the client's preferences. The fields are designed to be as concise and user-friendly as possible, ensuring that the process is straightforward and quick. By filling out this form, clients can help the salon staff provide better services.
-</thinking>
-
 # Pedicure Consultation Form - Help Guide
 ## Purpose
 This guide provides an overview of the Pedicure Consultation Form, its sections, and fields. It helps clients understand how to complete the form correctly and efficiently, ensuring their needs are met during their visit.

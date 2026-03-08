@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from students interested in applying to a High School Gifted Program. The form collects contact and demographic information from the student and their guardian, including their name, email, phone number, address, and other relevant details. This form is likely used by educators or administrators in charge of reviewing and managing student applications.
-</thinking>
-
 # High School Gifted Program Application - Help Guide
 ## Purpose
 The High School Gifted Program Application form is designed to collect information from students interested in joining the High School Gifted Program.

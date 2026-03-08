@@ -1,7 +1,3 @@
-<thinking>
-The form, music_school_application_form, is designed to collect information from students applying to the music school. This form is likely to be used in an academic setting, such as a music institution or program. It is essential to understand that this form is not intended to be a comprehensive application process but rather a preliminary step in the process. The form is intended to gather general information from students to help them get started with their application process. 
-</thinking>
-
 # music_school_application_form - Help Guide
 ## Purpose
 The music school application form is designed to collect essential information from students applying to the music school. This form helps the school's administration to get an initial overview of the applicant's details and interests.

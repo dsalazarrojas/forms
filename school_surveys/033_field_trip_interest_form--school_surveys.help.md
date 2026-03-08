@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and not for non-educational activities. The form is intended for students to express their interest in field trips, which are educational events that take place outside the school environment. To prevent duplication, we need to check that students are not submitting multiple interests and that the trip date is not earlier than the current date. This will help us maintain accurate records and prevent any confusion.
-</thinking>
-
 # Field Trip Interest Form - Help Guide
 ## Purpose
 The Field Trip Interest Form is designed to allow students to express their interest in field trips. This form will help the school staff keep track of students who are interested in attending field trips, ensuring that everyone is properly registered and informed about the trip details.

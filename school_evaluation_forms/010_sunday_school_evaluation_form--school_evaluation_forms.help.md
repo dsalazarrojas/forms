@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Sunday School Evaluation Form", is to gather data on the student's experience and performance in their Sunday school class. This form is designed to collect feedback from both the student and parent, as well as information on the teacher's availability and overall satisfaction with the class. It will help teachers to better understand the student's perspective and make adjustments to the curriculum and teaching style as needed. Please ensure that this form is only filled out by the intended user, either the student or parent, to maintain accuracy and avoid duplication of effort.
-</thinking>
-
 # Sunday School Evaluation Form - Help Guide
 ## Purpose
 The Sunday School Evaluation Form is a tool to gather data on the student's experience and performance in their Sunday school class.

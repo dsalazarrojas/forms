@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for applications to the Marine Research Fellowship program, which likely aims to support and foster research in the field of marine sciences. The form gathers information from applicants, including their contact details, research interests and objectives, CV, references, and other relevant details. To ensure that you are using this form correctly, please make sure that you are a genuine applicant and that your research interests align with the fellowship's focus. Note that some fields are optional, and you should only fill them out if applicable to your situation.
-</thinking>
-
 # Marine Research Fellowship Application Form - Help Guide
 
 ## Purpose

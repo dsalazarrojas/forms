@@ -1,7 +1,3 @@
-<thinking>
-The form "property_sustainability_awareness_survey" is designed to gauge the level of awareness and interest in sustainability features and barriers related to properties. To ensure accuracy, please note that this survey is meant for properties with a specific set of features and barriers. If you're unsure or have already taken this survey, please do not attempt to complete it again. This will help prevent redundant responses and ensure the data collected is accurate and representative.
-</thinking>
-
 # property_sustainability_awareness_survey - Help Guide
 
 ## Purpose

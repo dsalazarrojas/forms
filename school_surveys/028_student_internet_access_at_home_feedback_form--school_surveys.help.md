@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to gather information about students' home internet access and its impact on their daily lives.
-The form aims to collect data on students' access to the internet at home, their feelings about it, and their parents' involvement in providing internet access.
-The form is likely to be completed by students, and the data collected will be used to understand their experiences and challenges related to internet access at home.
-Please note that this form is likely to be used by students of different ages and abilities, so the explanations should be clear and concise.
-
-The form has 10 fields, which can be broadly categorized into 3 sections: Access, Experiences, and Parental Support.
-</thinking>
 # Student Internet Access At Home Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather information about students' home internet access and its impact on their daily lives.

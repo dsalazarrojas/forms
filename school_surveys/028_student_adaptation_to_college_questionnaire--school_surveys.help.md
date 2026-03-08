@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for gathering information about students' demographics and adaptation to college life. This form will be used to collect data on students' personal details and their experiences during the initial stages of college life. It's crucial to fill out this form accurately and thoroughly to help the institution better understand the needs and challenges faced by its students.
-</thinking>
-
 # Student Adaptation To College Questionnaire - Help Guide
 ## Purpose
 The Student Adaptation To College Questionnaire is designed to collect demographic information and experiences of students during their initial stages of college life. This helps the institution understand student needs and challenges, enabling them to provide better support and services.

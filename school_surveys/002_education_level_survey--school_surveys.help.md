@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect demographic information from students about their education level, background, and other relevant details. This guide will walk you through each section of the form, explaining what information to provide and how to fill it out correctly.
-
-</thinking>
-
 # Education Level Survey - Help Guide
 ## Purpose
 The Education Level Survey is designed to gather data about students' education levels, background information, and other relevant details to help us better understand your experiences and needs.

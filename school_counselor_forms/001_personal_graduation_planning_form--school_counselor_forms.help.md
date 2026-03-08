@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Graduation Planning Form - Help Guide
 ## Purpose
 This form is designed to help students, parents, teachers, and school administrators plan and track student graduation goals, progress, and information. It gathers essential details about the student's graduation date, goals, and personal statement, as well as parent and teacher input. The form aims to facilitate open communication and collaboration between all parties involved in the graduation process.

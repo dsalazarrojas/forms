@@ -1,15 +1,3 @@
-<thinking>
-# This form is intended to gather insights from clients regarding their satisfaction with the enterprise healthcare services. 
-The form will help us understand the client's satisfaction level, improvement ideas, and referral intentions. 
-The form will be used to identify areas of improvement and provide better services to our clients. 
-This form will help us to:
-- Identify areas where we need to improve our services
-- Understand why clients are satisfied or not with our services
-- Gather information on potential improvements
-- Understand who clients refer to us and why
-
-</thinking>
-
 # Enterprise Healthcare Client Insights Survey - Help Guide
 ## Purpose
 This form is designed to gather insights from clients regarding their satisfaction with the enterprise healthcare services. We want to understand what you think about our services so that we can improve them to better serve you.

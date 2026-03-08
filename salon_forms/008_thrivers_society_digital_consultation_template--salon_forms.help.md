@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate submission, please ensure that each user submits this form only once per session. This form is intended for salon employees to gather feedback from clients about their experience at the salon. The form will help us improve our services and provide better experiences for clients in the future.
-</thinking>
-
 # thrivers_society_digital_consultation_template - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from clients about their experience at the salon.

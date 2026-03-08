@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect suggestions for content ideas from users. The form is meant to be a tool for users to submit their ideas for blog posts, videos, podcasts, infographics, case studies, or other types of content. The form will help the content team evaluate and decide which ideas to pursue. To ensure that the form is used effectively, please do not submit the same idea twice. If you have already submitted a similar idea, please do not submit another duplicate submission.
-</thinking>
-
 # Content Idea Suggestion Form - Help Guide
 ## Purpose
 This form is designed to collect suggestions for content ideas from users. The form will help the content team evaluate and decide which ideas to pursue.

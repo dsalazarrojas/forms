@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather feedback from students on their experiences with the school, including their likes and dislikes about the curriculum, materials, facilities, and online presence. It is a crucial tool for the school administration to understand student sentiment and identify areas for improvement. Before filling out the form, please note that some questions are marked as "required," which means you must answer them. If you have any suggestions or comments, feel free to express them in the provided text fields.
 
 # Student Survey - Help Guide

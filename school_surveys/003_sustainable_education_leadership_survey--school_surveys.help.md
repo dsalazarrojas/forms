@@ -1,11 +1,3 @@
-<thinking>
-
-The Sustainable Education Leadership Survey form is designed to gather information on school sustainability practices and policies. The form will be used to collect data from various schools across the region to assess their level of sustainability implementation. This data will be used to provide insights and support for schools to improve their sustainability practices.
-
-The form is divided into multiple pages, and users will be required to complete each page before proceeding to the next. 
-
-</thinking>
-
 # Sustainable Education Leadership Survey - Help Guide
 ## Purpose
 The Sustainable Education Leadership Survey is a questionnaire designed to gather information on school sustainability practices, policies, and challenges. This data will be used to support schools in improving their sustainability efforts and provide insights for better decision-making.

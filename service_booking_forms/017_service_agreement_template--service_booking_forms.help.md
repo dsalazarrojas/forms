@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information related to service agreements between a business or organization (service provider) and its clients or customers. This form template is designed to be a basic framework for capturing the essential details of a service agreement. The following is a step-by-step guide on how to complete this form and what each field is intended to capture.
-</thinking>
-
 # Service Agreement Template - Help Guide
 ## Purpose
 This form template is designed to provide a structured way to document the terms of a service agreement between a service provider and a client. It ensures that all necessary information is captured, making it a useful tool for both the service provider and the client.

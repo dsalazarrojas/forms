@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning block to check for form purpose and avoid duplication)
-
-This form is designed to collect information from teachers to schedule a visit to the class media center. The form is likely intended for teachers to provide details about their class, such as the class name, number of students, and purpose of the visit, as well as any special requests or needs they may have. This form is probably used to manage the media center's schedule and resources effectively, ensuring that the teachers receive the necessary support for their classes.
-
-</thinking>
-
 # Class Media Center Visit Schedule - Help Guide
 ## Purpose
 

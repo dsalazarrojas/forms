@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a school's spotlight submissions, which can be used to highlight and share the achievements and stories of schools. This form is likely to be used by school administrators or educators to provide details about their school, such as its name, location, and achievements. To ensure that the form is completed correctly, please review the following instructions carefully. Before submitting this form, check if you have already submitted a spotlight for this school. If you have, it will not be necessary to resubmit the same information. Also, make sure to fill in all the required fields to avoid any errors during the submission process.
-</thinking>
-
 # School Spotlight Submission Form - Help Guide
 
 ## Purpose

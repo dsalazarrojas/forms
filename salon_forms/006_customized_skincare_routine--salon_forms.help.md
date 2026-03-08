@@ -1,15 +1,3 @@
-<thinking>
-Form purpose: 
-The "Customized Skincare Routine" form is designed to collect information from clients about their individual skincare preferences, skin type, and any allergies or medical conditions that may affect their skincare routine. This information will be used to provide personalized skincare recommendations for the client.
- 
-To ensure that the form is filled out accurately and efficiently, please ensure that you have all the necessary information about the client before starting the form.
- 
-This form should only be used for clients who have not previously filled out this form. To check if a client has previously filled out this form, you can check the "Medical History" section. If the client has filled out this form before, please do not ask them to fill it out again.
- 
-Please ensure that the client understands that the form is for informational purposes only and that they can always ask their skincare professional for further clarification or guidance if needed.
- 
-</thinking>
-
 # Customized Skincare Routine - Help Guide
 ## Purpose
 The "Customized Skincare Routine" form is designed to collect information from clients about their individual skincare preferences, skin type, and any allergies or medical conditions that may affect their skincare routine. This information will be used to provide personalized skincare recommendations for the client.

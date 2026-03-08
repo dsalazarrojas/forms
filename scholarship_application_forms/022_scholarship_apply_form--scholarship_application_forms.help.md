@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning is that this form is intended to collect demographic and contact information from applicants for a scholarship program, to help the scholarship committee assess their eligibility and application quality. The fields should be completed by each applicant, and no information should be duplicated or repeated across the form.
-</thinking>
-
 # Scholarship Apply Form - Help Guide
 ## Purpose
 This form is used to collect demographic and contact information from applicants for a scholarship program. Please provide accurate and truthful information to help the scholarship committee assess your eligibility and application quality.

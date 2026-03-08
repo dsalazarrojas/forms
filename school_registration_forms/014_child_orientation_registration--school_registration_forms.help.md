@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Orientation Registration - Help Guide
 
 ## Purpose

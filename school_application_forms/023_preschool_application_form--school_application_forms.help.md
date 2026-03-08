@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents and guardians of children seeking admission to a preschool program. It's essential to fill out this form accurately and truthfully to ensure that we can provide the best support and resources for your child's early education. Please note that this form is not a commitment or an application for admission. It's a preliminary form to gather information about your family and child, and our team will review it to determine the suitability of our preschool program for your child. If you've already submitted an application, please do not fill out this form again. We'll use the information provided to create an application form with the necessary details for the admission process.
-</thinking>
 # Preschool Application Form - Help Guide
 ## Purpose
 The Preschool Application Form is designed to collect essential information from parents and guardians to support their child's admission to our preschool program.

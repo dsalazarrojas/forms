@@ -1,9 +1,3 @@
-<thinking>
-
-To create a help guide for this form, I'll first review the provided YAML fields to understand the form's purpose and structure. The form is called "facilitator_evaluation_form" and it falls under the category "satisfaction_surveys". It contains 25 fields, including text, date, time, number, and select_one/select_multiple fields. Based on this information, I'll create a guide that explains the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # facilitator_evaluation_form - Help Guide
 ## Purpose
 The "facilitator_evaluation_form" is a satisfaction survey used to evaluate the performance of facilitators in events, meetings, or workshops. This form helps assess the facilitator's communication skills, overall satisfaction, and other aspects of their performance.

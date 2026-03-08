@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students and their guardians for re-enrollment in the educational institution. This form is typically used to verify a student's details and understand their reason for re-enrollment. 
-It is crucial to ensure that all necessary fields are filled accurately to prevent errors and miscommunication. Before proceeding, review the form carefully and ensure that you are not re-enrolling a student who is already enrolled. If you are re-enrolling a student for the same grade or year, make sure to select the correct option for the "Student Grade" field.
-</thinking>
-
 # Student Re Enrollment Form - Help Guide
 ## Purpose
 The Student Re Enrollment Form is used to collect information from students and their guardians for re-enrollment in the educational institution.

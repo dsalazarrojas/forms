@@ -1,7 +1,3 @@
-<thinking>
-We have to ensure we're being clear and concise in explaining each field's purpose and requirements to avoid confusion. We should also consider the specific needs of the end-users who will be filling out this form. Given that this form is for school trips, we want to make it easy for parents to provide necessary information and consent for their children to participate. We should also be mindful of the fact that the form is optional for trip date and trip length, but required for parent consent.
-</thinking>
-
 # School Trip Waiver Form - Help Guide
 ## Purpose
 The School Trip Waiver Form is designed to gather essential information from parents regarding their child's participation in a school trip. This form is used to obtain waiver and consent from parents for their child to attend school trips.

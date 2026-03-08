@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Salon Eco Product Interest Survey - Help Guide
 
 ## Purpose

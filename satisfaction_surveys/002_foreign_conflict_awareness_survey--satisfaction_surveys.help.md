@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's awareness and perception of foreign conflicts. The purpose of this form is to gather data on how well-informed users are about foreign conflicts, what sources they use for information, and their level of concern and confidence regarding these conflicts. This form is likely to be used by researchers, analysts, or policymakers interested in understanding public opinion on foreign conflicts. It is not intended to be a comprehensive survey, but rather a tool to gather general insights on user's perceptions and awareness. It is expected that users with experience in international relations, politics, or social sciences may be more likely to complete this form accurately. Please ensure that you are completing this form truthfully and to the best of your knowledge.
-
-Please note that this form is not intended for users under 18 years old, as it deals with sensitive and complex topics.
-
-If you have already completed a similar form, please do not complete this one. The information collected through this form will be used solely for research and analysis purposes and will not be used to target or contact you in any way.
-</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 ## Purpose
 This guide will walk you through the Foreign Conflict Awareness Survey, a form designed to collect information about your awareness and perception of foreign conflicts.

@@ -1,5 +1,3 @@
-<thinking>This form is used to gather information about a user's experiences with the discovery learning method. It's essential to provide honest and constructive feedback that will help us improve this learning approach. Please take a few minutes to fill out this form, and we'll use your input to refine the discovery learning method for better results.</thinking>
-
 # Survey On Discovery Learning - Help Guide
 ## Purpose
 The Survey On Discovery Learning form is designed to collect feedback from users about their experiences with the discovery learning method. This form will help us understand how well the method is working for you and where we can improve it.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students applying to a university. The form is intended to be filled out by students who are interested in applying to the university, and it will be used by the admissions office to review and process applications. The purpose of this form is to gather relevant information about the student's personal background, education, SAT scores, activities, and submission details. 
-
-Before filling out this form, please make sure you have not already submitted an application for this university. This form is designed to be a one-time submission, and duplicate submissions will not be accepted.
-
-</thinking>
-
 # University Application Form - Help Guide
 ## Purpose
 The University Application Form is a tool designed to gather information from students applying to the university. It will be used by the admissions office to review and process applications.

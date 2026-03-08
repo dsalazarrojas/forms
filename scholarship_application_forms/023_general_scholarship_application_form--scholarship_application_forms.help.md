@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # General Scholarship Application Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>Before creating the help guide for the Catholic Funeral Planning Form, let's consider the purpose of this form and ensure it's relevant to the target audience. The form is designed to collect information about a deceased person's details, family contact information, service preferences, and burial details. This form will likely be used by funeral directors, clergy, or family members planning a funeral service.
-
-To prevent duplication, we can add a note or section at the beginning of the form asking if the user has already completed the form. This will help prevent unnecessary repetitions and ensure that the user has a clear understanding of the form's purpose and content.
-
-The form is divided into sections, each with a distinct set of fields. We can focus on explaining each section and its corresponding fields in detail.
-
-</thinking>
-
 # Catholic Funeral Planning Form - Help Guide
 ## Purpose
 The Catholic Funeral Planning Form is designed to help funeral directors, clergy, and family members collect necessary information for planning a deceased person's funeral service. This form will guide you through the process of gathering details about the deceased, their family contact information, service preferences, and burial details.

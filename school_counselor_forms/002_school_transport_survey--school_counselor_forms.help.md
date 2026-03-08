@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information about school transport surveys. The purpose of this form is to gather data on the school's transport services, including the school's category, description, admin's name, email, phone number, transport availability, transport frequency, transport cost, comments, survey date, survey time, survey comments, vehicle count, vehicle details, and the status of the survey.
-
-Before filling out the form, please ensure that you are not duplicating any existing survey. If you are unsure about any of the information, please refer to your school's transport administration office.
-
-The form consists of multiple sections, including:
-* School category and description
-* Admin's contact information
-* Transport services information
-* Survey details
-* Survey status
-
-Please fill out each section carefully and accurately.
-</thinking>
-
 # School Transport Survey - Help Guide
 ## Purpose
 The School Transport Survey is designed to collect information about the school's transport services, including the category, description, admin's name, email, phone number, transport availability, transport frequency, transport cost, comments, survey date, survey time, survey comments, vehicle count, vehicle details, and the status of the survey.

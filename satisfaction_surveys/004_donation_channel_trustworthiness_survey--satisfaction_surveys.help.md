@@ -1,6 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Donation Channel Trustworthiness Survey" form. This form is used to assess the trustworthiness of donation channels. The purpose of this form is to gather information about the user's perception of the trustworthiness of different donation channels. This form is not intended to be used for other purposes, such as tracking user behavior or demographic information. To ensure accuracy, please only complete this form if you are familiar with the donation channels being surveyed.</thinking>
-
 # Donation Channel Trustworthiness Survey - Help Guide
 
 ## Purpose

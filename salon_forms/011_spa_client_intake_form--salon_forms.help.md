@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients for a spa or wellness center visit, including their personal details, medical history, and preferences for their therapy session. This form should only be filled out by clients who have not already completed a similar form in the past to avoid duplication of effort and ensure accurate data is captured. 
-
-Form fields are designed to be filled out by the client, and the provided information will help the spa staff prepare for the upcoming session. Each field has been carefully crafted to make it easy to understand and complete. 
-
-The "payment_type" field is meant to capture how the client intends to pay for their session, and the "assigned_tool" field is for the staff to select a tool or device to be used during the session. 
-
-The "therapy_session" field allows clients to choose the duration of their session, and the "medical_procedures" field is for selecting any medical procedures they have undergone. 
-
-This form is designed to be completed in a step-by-step manner, with clear labels and descriptions to guide the client through the process.
-</thinking>
-
 # spa_client_intake_form - Help Guide
 ## Purpose
 The spa client intake form is used to gather personal and medical information from clients prior to their visit to a spa or wellness center. This information helps the staff prepare for the client's therapy session and ensures a smooth and safe experience.

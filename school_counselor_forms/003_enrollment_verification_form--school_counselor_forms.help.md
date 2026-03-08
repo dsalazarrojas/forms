@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by school counselors to verify student enrollment information. The purpose of the form is to collect relevant details about a student's enrollment, including their grade level, school name, and contact information. This form is not intended for general user completion; only authorized school personnel will use it to confirm student enrollment status.
-
-</thinking>
-
 # Enrollment Verification Form - Help Guide
 ## Purpose
 This form is used by school counselors to verify student enrollment information for administrative purposes.

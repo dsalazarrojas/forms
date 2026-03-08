@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information from customers who are requesting window tint installation services. The form likely belongs to a window tint installation business or a company that offers window tint installation as part of its services. This form is intended to gather the necessary details to schedule an appointment and fulfill the customer's preferences.
-</thinking>
-
 # Window Tint Installation Request Form - Help Guide
 ## Purpose
 The Window Tint Installation Request Form is a tool used by customers to request window tint installation services. This form gathers essential details to schedule an appointment and tailor the services to their preferences.

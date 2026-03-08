@@ -1,12 +1,3 @@
-<thinking>
-The "top_refugee_support_nomination_form" is used to collect information about organizations and individuals who have made significant contributions to support refugees. 
-This form will help us gather data on the organization's and individual's role in supporting refugees, including their contact information and a brief description of their work. 
-We will use this data for reporting and recognition purposes to highlight the important work being done to support refugees. 
-Please fill out this form with the relevant information for the organization and individual you wish to nominate. 
-Please note that only one organization and one individual should be nominated per submission. 
-If you have already submitted a nomination for the same organization and individual, you will not be able to submit again.
-</thinking>
-
 # top_refugee_support_nomination_form - Help Guide
 ## Purpose
 The top_refugee_support_nomination_form is used to collect information about organizations and individuals who have made significant contributions to support refugees.

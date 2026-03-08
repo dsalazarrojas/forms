@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Fragrance Free Preference Survey - Help Guide
 
 ## Purpose

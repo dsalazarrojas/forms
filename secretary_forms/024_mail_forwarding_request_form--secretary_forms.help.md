@@ -1,8 +1,3 @@
-<thinking>
-The Mail Forwarding Request Form is used to request mail forwarding services, a process that allows users to redirect their postal mail to a different address. This form is often used by individuals who have moved to a new location but still need to receive mail at their old address.
-This form helps the user to provide necessary information for the mail forwarding request, including their current address, the recipient's address, the start and end dates of the forwarding service, and the frequency of mail forwarding. To avoid duplication and ensure accurate processing, users are encouraged to review the form carefully and only submit it if they have all the necessary information.
-</thinking>
-
 # Mail Forwarding Request Form - Help Guide
 
 ## Purpose

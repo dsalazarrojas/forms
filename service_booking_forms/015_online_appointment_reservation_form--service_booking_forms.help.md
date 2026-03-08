@@ -1,10 +1,3 @@
-<thinking>
-- This form is intended for customers to schedule an appointment with our service team.
-- The form is designed to collect client information, service request, and appointment details.
-- The form is a multi-page form, but it's best to complete it in the following order: First Page > Client Information > Service Request and Additional Details.
-- Please ensure that each field is filled out accurately and completely.
-</thinking>
-
 # Online Appointment Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients to schedule an appointment with our service team. It is best to complete the form in the following order: First Page > Client Information > Service Request and Additional Details.

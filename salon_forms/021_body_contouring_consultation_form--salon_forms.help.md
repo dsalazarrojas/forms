@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for clients to provide information about themselves and their bodies contouring concerns. It's used to gather information about the client's primary concern and desired timeline for results. The fields are divided into three sections: client information (full name, email, phone number, date of birth, address, and how the client heard about the clinic), medical information (date of birth, medical history, current medications, allergies), and treatment information (primary concern, problem areas, desired outcome, procedure interest, downtime tolerance). 
-
-Before filling this form, it's recommended to review and understand the content of each field to ensure the correct information is entered.
-
-</thinking>
-
 # Body Contouring Consultation Form - Help Guide
 ## Purpose
 The Body Contouring Consultation Form is used to gather information about the client's body contouring concerns and preferences for treatment. This form helps the client communicate their needs and expectations to the medical staff and helps in creating a personalized treatment plan.

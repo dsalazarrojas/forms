@@ -1,13 +1,3 @@
-<thinking>
-  This form was created to facilitate the intake process for a hair salon's clients, 
-  gathering essential information from clients such as their contact preference, 
-  schedule appointment details, and any additional notes or comments. 
-  This form is designed to be completed by clients before or during their visit 
-  to the salon, allowing the salon staff to better prepare for their needs. 
-  Please ensure that you are using this form in the context of a hair salon business, 
-  as its design and fields are tailored to meet the specific needs of this industry.
-</thinking>
-
 # Hair Salon Client Intake Form - Help Guide
 ## Purpose
 The Hair Salon Client Intake Form is designed to collect information from clients before or during their visit to the salon. This form helps the salon staff to better understand the client's needs and preferences, ensuring a more personalized and efficient service.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate a student's academic achievement and gather feedback from teachers and parents. The form should be used to collect data on individual students, but it's not a duplicate or redundant form for the same student. The fields on this form are intended to capture various aspects of a student's performance, such as their name, ID, and grade level, as well as their attendance and progress, parent response, and evaluation date. This form is likely used by teachers to document their observations and provide feedback to parents or administrators.
-</thinking>
-
 # Student Academic Achievement Evaluation Form - Help Guide
 ## Purpose
 The Student Academic Achievement Evaluation Form is used to evaluate a student's academic performance and gather feedback from teachers and parents.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Homelessness Stigma Awareness Survey - Help Guide
 ## Purpose
 The Homelessness Stigma Awareness Survey is a tool designed to gauge people's perceptions and attitudes towards individuals experiencing homelessness. The survey aims to understand how respondents feel about discussing homelessness and how they perceive the likelihood of others speaking to a police officer or social worker about someone experiencing homelessness. This information will help to create a more comprehensive and empathetic approach to addressing homelessness-related issues in your organization.

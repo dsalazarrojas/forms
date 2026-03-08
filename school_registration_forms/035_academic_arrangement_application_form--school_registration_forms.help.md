@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive user-facing help guide for the "Academic Arrangement Application Form". This form is designed to collect information from students who are seeking to make an academic arrangement, such as an exchange program, study abroad, or joint degree program. The form is crucial for the university to assess the student's eligibility for the arrangement and to provide necessary information for the application process. Before diving into the guide, I will ensure that the form is relevant and does not duplicate any existing process. The form has several sections, including Personal Information, Academic Background, and Arrangement Details. Each section has a specific set of fields that need to be filled out.</thinking>
-
 # Academic Arrangement Application Form - Help Guide
 ## Purpose
 This guide will walk you through the Academic Arrangement Application Form, a crucial step in the process of applying for academic arrangements such as exchange programs, study abroad, or joint degree programs.

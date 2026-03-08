@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect data about the language proficiency of a student, including their mother tongue, father's language, and other related information from their family background. To avoid duplication and ensure accuracy, please review the fields carefully before submitting the form. Ensure you have all necessary information before starting, and try to fill in the form in one session to minimize errors. If you are unsure about any field, please refer to the explanations below.
-</thinking>
-
 # Home Language Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your language background, including your mother tongue and language proficiency. Please answer the questions accurately to help us better understand your language situation.

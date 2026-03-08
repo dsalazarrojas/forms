@@ -1,8 +1,3 @@
-<thinking> 
-We have a checklist for content optimization. This form is intended to assess the quality of a given page's content and suggest improvements to make it more search engine friendly. It's designed to help our team identify areas that need attention and prioritize the work required for improvement. The checklist covers essential aspects such as keyword usage, meta tags, internal linking, image optimization, readability, and mobile responsiveness. 
-
-</thinking>
-
 # Content Optimization Checklist - Help Guide
 ## Purpose
 The Content Optimization Checklist is a tool used to evaluate the quality of a content page and suggest areas for improvement in terms of SEO and overall user experience.

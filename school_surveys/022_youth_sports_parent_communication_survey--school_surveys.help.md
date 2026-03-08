@@ -1,12 +1,3 @@
-<thinking>
-**Internal reasoning:**
-
-This form is designed to collect feedback from parents about the communication quality and preferences of the youth sports team. The form has several fields that ask parents to rate the overall communication quality, preferred channel for communication, and areas for improvement in communication. It also asks for additional feedback and preferred types of information to be communicated. The form is likely used to gauge parent satisfaction and identify areas for improvement in team communication. 
-
-**Form purpose:** This form is for parents to provide feedback on the communication quality and preferences of the youth sports team, helping the team to better understand their needs and improve communication. 
-
-</thinking>
-
 # Youth Sports Parent Communication Survey - Help Guide
 ## Purpose
 This form is for parents to provide feedback on the communication quality and preferences of the youth sports team, helping the team to better understand their needs and improve communication.

@@ -1,7 +1,3 @@
-<thinking>
-This form was created by AI using a process that analyzes public survey data on SEO services. It is an original adaptation of that data, and its purpose is to gather information about a user's SEO service needs. The form aims to collect details from both the service provider and the client, ensuring accurate and efficient service booking processes.
-</thinking>
-
 # seo_service_booking_form - Help Guide
 ## Purpose
 This form is designed to gather information about your SEO service needs and preferences. Please fill it out accurately to ensure a smooth service booking process.

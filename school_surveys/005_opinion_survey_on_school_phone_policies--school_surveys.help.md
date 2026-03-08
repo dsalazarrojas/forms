@@ -1,7 +1,3 @@
-<thinking>
-This form aims to collect opinions on school phone policies from various users. It is essential to fill out the form with accurate and honest responses to provide valuable insights. Please ensure you are filling out this form for the first time and not duplicating your response. Your input will help us improve our school's policies and services. If you need help or have questions, please contact us.
-</thinking>
-
 # Opinion Survey On School Phone Policies - Help Guide
 ## Purpose
 This form is designed to gather your opinions on the school's phone policies. Your responses will help us understand your thoughts, suggestions, and feedback on the current policies.

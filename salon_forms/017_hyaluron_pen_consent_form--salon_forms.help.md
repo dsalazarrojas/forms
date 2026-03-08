@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hyaluron Pen Consent Form - Help Guide
 
 ## Purpose

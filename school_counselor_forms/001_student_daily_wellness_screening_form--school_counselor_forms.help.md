@@ -1,7 +1,3 @@
-<thinking>
-This form is used by school administrators to gather information about a student's health and well-being. The goal is to quickly assess whether a student needs attention from a school nurse or other medical professional. The form should only be filled out for each student once per day.
-</thinking>
-
 # Student Daily Wellness Screening Form - Help Guide
 ## Purpose
 The Student Daily Wellness Screening Form is designed to help school administrators identify students who may need attention from a school nurse or other medical professional. This form helps you quickly assess a student's health and well-being and determine if they require any assistance.

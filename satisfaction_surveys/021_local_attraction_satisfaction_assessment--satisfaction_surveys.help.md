@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Local Attraction Satisfaction Assessment - Help Guide
 
 ## Purpose

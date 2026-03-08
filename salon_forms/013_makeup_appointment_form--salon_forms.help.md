@@ -1,16 +1,3 @@
-<thinking>
-  This form is intended to facilitate the creation of a makeup appointment in a salon.
-  The form is designed to allow users to specify the type of makeup service they want,
-  the time slot for the appointment, and the client's contact information.
-  The fields provided are:
-  - **Makeup Type**: selects the type of makeup service required.
-  - **Time**: selects the time slot for the appointment.
-  - **Client Name**: requests the client's name.
-  - **Contact Number**: requests the client's contact number.
-  - **Email**: requests the client's email.
-  This form is not a mandatory form and all the fields are optional.
-</thinking>
-
 # makeup_appointment_form - Help Guide
 ## Purpose
 The makeup_appointment_form is used to create a makeup appointment in a salon.

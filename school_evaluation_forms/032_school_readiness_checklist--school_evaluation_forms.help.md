@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Readiness Checklist - Help Guide
 ## Purpose
 The School Readiness Checklist is a form designed to help schools assess and evaluate students' readiness to learn. It covers various aspects of a student's ability, including Language, Math, Reading, Science, Writing, Social-Emotional, Communication, Critical Thinking, and Problem Solving. The goal is to identify areas where a student may need additional support or resources to prepare them for the academic challenges they will face.

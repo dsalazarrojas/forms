@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to send a fax request to a specified fax number. The form is designed to collect contact details and communication preferences of the user, including contact information, message, and fax number. To ensure that the fax request is sent correctly, it's essential to fill out this form accurately and completely. Please fill out this form only once for each fax request, and avoid submitting duplicate forms.
 
 # fax_request_form - Help Guide

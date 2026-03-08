@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from students applying for a band scholarship. The form is likely used by school administrators or band program staff to collect relevant data from applicants, which will be reviewed for eligibility and consideration. This form is not intended for internal use within the school or band program, and it's unlikely that users would need to fill out the form multiple times. It's assumed that the form is used for a one-time application process.
-</thinking>
-
 # Band Scholarship Application Form - Help Guide
 
 ## Purpose

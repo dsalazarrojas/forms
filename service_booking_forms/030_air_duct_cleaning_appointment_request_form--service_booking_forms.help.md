@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect information from customers requesting an air duct cleaning service. The form will be used to schedule an appointment for the customer, and the collected data will be used to provide the customer with a confirmation of the appointment, as well as for the service team to prepare and perform the service.
-
-To prevent duplication, the form is designed to be used for a single appointment request per customer. 
-
-</thinking>
-
 # Air Duct Cleaning Appointment Request Form - Help Guide
 ## Purpose
 This form is used to request an air duct cleaning service appointment with our company. Fill out the form with your information to schedule a suitable time for our team to visit your location.

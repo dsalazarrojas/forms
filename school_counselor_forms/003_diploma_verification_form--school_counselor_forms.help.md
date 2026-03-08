@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify the authenticity of a diploma. The purpose of this form is to gather information about the applicant, their education history, and the verification process. It will be used to confirm whether the applicant's diploma is genuine or not. This form should only be filled out by authorized personnel. Please ensure that you have the necessary permissions to fill out this form before proceeding.
-</thinking>
-
 # Diploma Verification Form - Help Guide
 ## Purpose
 The Diploma Verification Form is used to confirm the authenticity of a diploma. This form is intended for authorized personnel to verify the details of a student's educational background.

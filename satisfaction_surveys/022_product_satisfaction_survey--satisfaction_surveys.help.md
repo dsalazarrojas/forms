@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their satisfaction with a product. The form is part of a larger effort to improve customer experience and product development. Before completing the form, ensure you have a clear understanding of the product you are reviewing and be honest in your feedback. The form should not be filled out more than once for the same product.
-
-This guide will walk you through each section of the form, what to expect, and how to fill it out accurately.
-</thinking>
-
 # Product Satisfaction Survey - Help Guide
 ## Purpose
 The "Product Satisfaction Survey" is designed to collect feedback from customers about their satisfaction with a product. This information will help us improve customer experience and product development.

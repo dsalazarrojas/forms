@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Non Renewal Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who are not renewing their service. The purpose of this form is to understand the reasons behind their decision and provide an opportunity for them to share their thoughts and concerns.

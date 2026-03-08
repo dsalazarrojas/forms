@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is only used for its intended purpose, which is to gather feedback and comments from school staff regarding extracurricular activities. To avoid duplication, we must verify that this form is not used for other purposes such as creating new student accounts or updating existing student information.
-</thinking>
-
 # Extracurricular Stipend Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and comments from school staff regarding extracurricular activities. It should be used to provide insights on which activities are valuable and worth continuing, and to identify areas for improvement.

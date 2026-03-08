@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to support end users in completing the Skincare Product Layering Survey form, which is used to gather information on individual's skincare routines, product preferences, and experiences.
-The purpose of this form is to help us better understand individual's skincare needs and preferences. To ensure that your responses are valid and relevant, please only answer questions that apply to your current skincare routine.
-Please note that some questions may not apply to everyone, so feel free to skip questions that do not pertain to your routine or experiences.
-</thinking>
-
 # Skincare Product Layering Survey - Help Guide
 ## Purpose
 This form is designed to gather information on your skincare routine and preferences. It will help us better understand your individual needs and provide you with personalized recommendations.

@@ -1,8 +1,3 @@
-<thinking>
-The Self Awareness Questionnaire is a tool designed to help individuals gain a deeper understanding of their own self-awareness levels. It is meant to be completed by individuals who are looking to assess and improve their personal growth, relationships, career, and overall well-being. This form is not meant to be used as a diagnostic tool, but rather as a self-reflection exercise to aid in personal development and self-improvement. 
-If you are unsure about what self-awareness is or how to complete this form, please take a few minutes to read through this help guide carefully.
-</thinking>
-
 # Self Awareness Questionnaire - Help Guide
 ## Purpose
 The Self Awareness Questionnaire is a tool designed to help individuals gain a better understanding of their own self-awareness levels. It is meant to be completed by individuals who are looking to assess and improve their personal growth, relationships, career, and overall well-being.

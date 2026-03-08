@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Interdisciplinary Learning Satisfaction Survey - Help Guide
 
 ## Purpose

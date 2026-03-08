@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gauge users' awareness and opinions on light pollution in their surroundings. The purpose of this form is to collect information from users to help researchers understand the extent of light pollution and its impact on users' daily lives. The form will collect information on the brightness of nighttime lighting, the perception of sky glow, and the energy use associated with lighting. The data collected will help in developing effective strategies to address light pollution. This form is intended for general use and is not intended for any specific organization or location. It's recommended to fill out the form carefully to ensure accurate information is collected.</thinking>
-
 # Light Pollution Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gauge users' awareness and opinions on light pollution in their surroundings. The purpose of this form is to collect information from users to help researchers understand the extent of light pollution and its impact on users' daily lives.

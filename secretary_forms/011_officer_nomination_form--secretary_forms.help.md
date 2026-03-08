@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to facilitate the nomination of officers within an organization or community. The purpose of this form is to provide a structured way to collect information from voters about the nominees they wish to nominate. This form is suitable for use in various contexts, such as employee nominating committees, community organizations, or school boards.
-
-When filling out this form, ensure that you are not nominating someone you have a personal relationship with or have conflicts of interest with. Also, make sure to follow the required and optional sections as per the form's instructions.
-
-</thinking>
-
 # Officer Nomination Form - Help Guide
 ## Purpose
 This form is designed to collect information about an officer nomination from a voter.

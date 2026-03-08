@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by clients who are interested in undergoing a patch test, also known as an allergy patch test. This form is used to collect necessary information from the client, including their salutation, name, contact details, and consent for the patch test. The form also requires the client to indicate their consent and provide a signature. The form will be used to gather information for the patch test and to provide a record of the client's consent and test results.
-</thinking>
-
 # Patch Test Consent Form - Help Guide
 ## Purpose
 The Patch Test Consent Form is a form used to collect necessary information and consent from clients before undergoing a patch test.

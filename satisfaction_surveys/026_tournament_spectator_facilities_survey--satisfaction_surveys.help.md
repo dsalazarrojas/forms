@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tournament Spectator Facilities Survey - Help Guide
 ## Purpose
 This form is designed to assess the quality of facilities and services provided during a sports tournament event. The feedback collected will help event organizers understand what to improve to enhance the overall spectator experience. Please ensure you're filling out the form for the specific event you attended.

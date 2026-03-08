@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a simple help guide for the Registration Adjustment Form, designed for school registrants to provide adjustments to their registration information.
 
 ## Registration Adjustment Form - Help Guide

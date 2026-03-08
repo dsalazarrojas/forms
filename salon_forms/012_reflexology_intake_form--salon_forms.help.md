@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to be used by clients or patients to schedule an appointment for reflexology treatment. It's intended to collect the necessary information for the practitioner to provide the best possible service. Before we proceed, we'll review the form's purpose and fields to avoid duplication and ensure relevance. 
-We'll review the form fields: 
-    - Schedule An Appointment 
-    - Name 
-    - Phone 
-    - Email 
-    - Select Date 
-    - Select Time 
-    - Reason for Visit 
-    - Health Insurance 
-    - Medical History 
-The form is not intended for general inquiries or marketing purposes. It's a specific intake form for reflexology services. 
-No field is intended to be a duplicate or unnecessary. We'll make sure to provide a clear and concise help guide for end-users. 
-</thinking>
-
 # Reflexology Intake Form - Help Guide
 ## Purpose
 This form is designed to be used by clients or patients to schedule an appointment for reflexology treatment. The goal is to collect the necessary information for the practitioner to provide the best possible service.

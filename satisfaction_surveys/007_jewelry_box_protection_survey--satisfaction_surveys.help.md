@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and satisfaction data from end users about their jewelry boxes. It is used to gather information on various aspects of the jewelry box, including storage habits, protection features, customer satisfaction, product teams, storage commissioner, other issues, design, and value for money. To ensure data quality and relevance, please fill out the form only if you have used or intend to use a jewelry box in the past or plan to use one in the future. Please note that the form is not affiliated with or endorsed by any form platform and is an AI-generated adaptation of public survey topic metadata.
-</thinking>
-
 # Jewelry Box Protection Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and satisfaction data from end users about their jewelry boxes. It helps us understand your experiences and preferences regarding jewelry box storage habits, protection features, customer satisfaction, and other aspects of your jewelry box.

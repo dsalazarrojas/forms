@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Sign Out Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...This form is designed for users to input their skin type, sensitivities, habits, and products used, as well as their treatment goals. This information will help professionals in the beauty industry provide personalized advice and recommendations. The form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation created by AI using public survey topic metadata. It is released under CC BY 4.0 and can be used, modified, and even sold with proper credit given...</thinking>
-
 # Skin Analysis Questionnaire - Help Guide
 ## Purpose
 The Skin Analysis Questionnaire is a tool used to gather information about your skin type, sensitivities, habits, and products used. This data will help professionals in the beauty industry provide personalized advice and recommendations to help you achieve your desired skin care goals.

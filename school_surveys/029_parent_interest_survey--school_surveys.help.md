@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from parents about their child's interests and experiences in school settings. The form will help us understand what interests their child is involved in, why they are involved, and what extracurricular activities they enjoy. This will aid in creating a more comprehensive profile of each student. We need to ensure that this data is accurate and not duplicated. We should also be aware that some parents may not want to share this information with us, so we'll make sure to be sensitive to their concerns.
-</thinking>
-
 # Parent Interest Survey - Help Guide
 ## Purpose
 This form is intended to collect information from parents about their child's interests, extracurricular activities, and contact details. The data collected will help us create a more comprehensive profile of each student, enabling us to better understand their needs and provide tailored support.

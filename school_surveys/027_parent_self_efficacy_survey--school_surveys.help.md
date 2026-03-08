@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents or guardians about their self-efficacy, confidence, and support systems. The form is likely used in an educational setting to assess the effectiveness of support systems for parents and children. It's possible that this form is used to identify areas where parents may need additional support or resources to help their children succeed academically or personally. The form is likely designed to be completed by parents or guardians who are directly involved in their child's education.
-</thinking>
-
 # Parent Self Efficacy Survey - Help Guide
 
 ## Purpose

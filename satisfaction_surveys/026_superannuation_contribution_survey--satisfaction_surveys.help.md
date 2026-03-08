@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Superannuation Contribution Survey - Help Guide
 ## Purpose
 The Superannuation Contribution Survey is used to gather information about superannuation contributions from employers. This form is intended to provide insights into the level of superannuation contributions made by different employers in order to identify areas for improvement and optimize superannuation benefits for employees.

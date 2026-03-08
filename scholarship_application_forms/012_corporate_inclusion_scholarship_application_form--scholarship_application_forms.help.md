@@ -1,5 +1,3 @@
-<thinking>Before diving into the guide, let's break down the form's purpose and fields. This form is for the Corporate Inclusion Scholarship Application Form. It appears to be a form designed for students to apply for a scholarship, with fields for contact information, education, motivation, and field of study. The form seems to be relatively simple and straightforward, with most fields being optional.</thinking>
-
 # Corporate Inclusion Scholarship Application Form - Help Guide
 ## Purpose
 This form is designed for students to apply for a scholarship offered by the corporation. It collects contact information, educational background, and motivation to support the application.

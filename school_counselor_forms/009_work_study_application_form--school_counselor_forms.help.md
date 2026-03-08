@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from students to apply for work study programs. The form is intended to gather details such as student and school names, contact information, academic grades, and work study hours and duration. This form will be used to evaluate student eligibility and schedule work study placements accordingly. Before filling out this form, please make sure to read the form carefully to ensure you are submitting accurate information and avoid duplication of efforts. This form is meant to provide a smooth and efficient way to manage work study applications.
-</thinking>
-
 # Work Study Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students to apply for work study programs. The form is used to evaluate student eligibility and schedule work study placements accordingly.

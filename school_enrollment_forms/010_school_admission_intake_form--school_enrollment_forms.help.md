@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather information from students and their parents/guardians for the purposes of school admission. It is not intended for general inquiries or other types of requests. Please ensure that the form is filled out accurately and thoroughly, as it will be reviewed for the admission process.
-
-This form is divided into several sections, each of which corresponds to different fields that require specific information. Please read each field carefully and provide accurate details.
-
-Before filling out the form, note that some fields have specific requirements for completion. The required fields must be filled out, while optional fields are not mandatory.
-
-</thinking>
-
 # School Admission Intake Form - Help Guide
 ## Purpose
 

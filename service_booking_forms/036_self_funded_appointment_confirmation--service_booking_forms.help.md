@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Self Funded Appointment Confirmation - Help Guide
 ## Purpose
 The Self Funded Appointment Confirmation form is designed to gather patient information and appointment details for self-funded appointments. It is intended to be used by patients or their representatives to confirm their appointment schedules and payment arrangements. This form helps to streamline the communication process and ensures that all necessary details are captured accurately.

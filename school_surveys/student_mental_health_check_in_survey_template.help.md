@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help students self-report on their mental well-being, identify areas that need support, and provide valuable feedback to the school on how to improve mental health resources. It's intended to be a brief and non-intrusive tool for students to share their feelings and experiences, with the aim of promoting a culture of support and care within the school community. This form is not meant to be a diagnostic tool or a substitute for professional mental health evaluation. By answering this form, students can help school administrators understand their needs and provide more effective support. 
-</thinking>
-
 # student_mental_health_check_in_survey_template - Help Guide
 ## Purpose
 The **Student mental health check-in survey** is a self-assessment tool designed to help students share their current mental well-being, identify areas that need support, and provide feedback to the school on how to improve mental health resources.

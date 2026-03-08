@@ -1,11 +1,3 @@
-<thinking>
-This form is used by veterinary supply chain stakeholders to gather information about the satisfaction of veterinary suppliers in the supply chain. To avoid duplication, users should only complete this form if they have not recently filled out a similar form for the same purpose.
-
-The goal of this form is to collect data about the satisfaction of veterinary suppliers, which will help inform future business decisions and improve the overall supply chain experience.
-
-This form should be completed by veterinary supply chain stakeholders who have interacted with a veterinary supplier recently.
-</thinking>
-
 # Veterinary Supply Chain Satisfaction Survey - Help Guide
 ## Purpose
 The Veterinary Supply Chain Satisfaction Survey is used to gather information about the satisfaction of veterinary suppliers. It aims to collect feedback from users about their experiences with these suppliers, which will be used to identify areas of improvement and make informed decisions.

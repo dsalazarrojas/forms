@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a consultation questionnaire for a consulting or advisory service.
-The purpose of this form is to gather information from potential clients about their personal details, consultation preferences, and goals for a consultation.
-The fields are categorized into two main sections: Personal Information and Consultation Details.
-The form asks for the client's personal details such as full name, email address, phone number, and preferred consultation date and time.
-The client is also asked to select their service of interest, specify their primary goal for the consultation, and provide additional information about their current challenges.
-The form also includes fields for the client to mention how they heard about the service and provide additional comments.
-</thinking>
-
 # Consultation Questionnaire - Help Guide
 ## Purpose
 The Consultation Questionnaire is a form designed to gather information about you and your requirements for a consultation with our expert advisors. By completing this form, you will be helping us understand your needs and preferences, which will enable us to tailor our advice to suit your specific goals and challenges.

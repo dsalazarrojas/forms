@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for requesting deferral of school admission. It collects information from students and schools to facilitate the process. This form will not be used for other purposes, such as creating student records or tracking student attendance. Please ensure that you are filling out this form for the correct purpose.
-</thinking>
-
 # School Admission Deferral Request Form - Help Guide
 ## Purpose
 The School Admission Deferral Request Form is designed to collect information from students and schools to facilitate the deferral process of school admission. This form is used to gather relevant details for successful and smooth deferral handling.

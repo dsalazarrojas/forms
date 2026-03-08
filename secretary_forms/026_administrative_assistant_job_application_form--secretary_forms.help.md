@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential administrative assistants who are applying for a job within the organization. This form is designed to gather relevant details about the applicant's personal and professional background, skills, and availability. By filling out this form, the applicant can showcase their qualifications and express their interest in the position they are applying for.
-
-Before filling out this form, please ensure that you have all the necessary information and documents ready. Some fields require specific details that may not be easily accessible, so be prepared to provide accurate and truthful information.
-
-To prevent duplication of efforts, we recommend that each applicant fills out this form only once. Multiple submissions may lead to unnecessary processing and confusion.
-
-Please note that some fields are marked as "optional" or "required". Required fields are those that are marked as "true" in the "required" property of the form, while optional fields are marked as "false". Required fields are necessary to complete the form, while optional fields are additional information that can be provided for better evaluation of the candidate.
-
-</thinking>
-
 # Administrative Assistant Job Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential administrative assistants who are applying for a job within the organization. This form is designed to gather relevant details about the applicant's personal and professional background, skills, and availability.

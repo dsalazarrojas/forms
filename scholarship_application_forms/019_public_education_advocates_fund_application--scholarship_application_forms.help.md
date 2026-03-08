@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Education Advocates Fund Application - Help Guide
 
 ## Purpose

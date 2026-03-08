@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to provide a comprehensive application for the Digital Classroom Innovation Grant. It is intended for applicants to submit their project proposals, providing detailed information about their project ideas, budget, and funding requirements. This form helps the granting committee to evaluate and review the applications, ensuring that all necessary information is collected to make informed decisions about the grant awards.
-
-Before proceeding, please ensure that you are applying for a new project and not resubmitting an existing one. This form is designed to guide you through the process, so please carefully read and follow the instructions below.
-
-Please note that this form is divided into the following sections: Application Form, Applicant Information, Technology Information, Project Details, Budget, Supporting Documents, Submission Information, Review Status, Submission History, Review Comments, Grant Amount, Grant Currency, Grant Start Date, Grant End Date, Grant Total, Grant Recipient, Grant Category, Grant Type, Grant Funding, Grant Status, Grant Comments, Grant Decision Date, Grant Funding Amount, and Grant Currency Symbol.
-
-</thinking>
-
 # Digital Classroom Innovation Grant Application - Help Guide
 ## Purpose
 The purpose of this form is to provide a comprehensive application for the Digital Classroom Innovation Grant. It is intended for applicants to submit their project proposals, providing detailed information about their project ideas, budget, and funding requirements.

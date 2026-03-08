@@ -1,21 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the form "Data Privacy Awareness In Schools Survey" is necessary to ensure that end users understand the form's purpose, how to complete it, and what each field means. The form's purpose is to gather information on data privacy and security best practices within schools, aiming to educate staff, students, and parents on these critical aspects.
-
-The form's design suggests it is intended for a variety of audiences, including staff, students, and parents, which may indicate that the form's purpose is to collect opinions and insights from different perspectives.
-
-Before creating the user-facing help guide, I'll review the form's fields to understand their purpose and requirements:
-
-* The form has 25 questions, with most of them being multiple-choice questions.
-* The questions are grouped into categories, such as "Staff Question 1", "Staff Question 2", etc.
-* Many questions have options that seem to revolve around data collection, storage, security, and access within schools.
-* Some questions seem to address specific aspects of data privacy and security, like consequences for data mishandling or misuse.
-* The questions for "Staff" and "Student" categories suggest that these groups are expected to respond to different sets of questions.
-* The "Parent Question 1" and "Other Question 1" categories have similar questions, indicating that parents and other stakeholders may be expected to respond to similar questions.
-* There are many "Other Question" fields, which could be used for additional information or comments.
-
-</thinking>
-
 # Data Privacy Awareness In Schools Survey - Help Guide
 ## Purpose
 This form aims to gather insights and opinions from staff, students, and parents on data privacy and security best practices within schools. It is designed to understand how data is collected, stored, and used in schools, as well as to identify areas for improvement in data protection.

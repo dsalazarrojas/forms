@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from participants regarding their satisfaction with a habilitation program. This form will help us understand their opinions on the instructor's teaching quality, facilities, overall satisfaction, program content, and other feedback they might have. Before completing this form, please check that it is not already being filled out by another user, or that you haven't already provided feedback on this topic. If you are unsure, please contact your administrator or program leader to clarify.
-</thinking>
-
 # habilitation_program_satisfaction_survey - Help Guide
 ## Purpose
 This form is used to collect satisfaction feedback from participants about our habilitation program. Please provide your honest opinion on the quality of our program.

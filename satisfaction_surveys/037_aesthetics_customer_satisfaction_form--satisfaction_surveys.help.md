@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience at a clinic or medical aesthetic facility. The form is meant to gather information about the customer's visit, including visit details, satisfaction with treatments and services, and overall experience. This form helps the clinic to assess their performance and identify areas for improvement. Before providing feedback, please make sure you have not already completed a similar form for this visit.
-</thinking>
-
 # Aesthetics Customer Satisfaction Form - Help Guide
 ## Purpose
 This form is designed to collect your feedback about your recent visit to our clinic. Your input will help us understand how we can improve our services and provide better experiences for our customers.

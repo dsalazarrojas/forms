@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for users to book a consulting service with a consultant. Its purpose is to collect booking details from clients who require consulting services. The form will be used by internal teams to track and confirm bookings.
 
 ## Consultant Booking System - Help Guide

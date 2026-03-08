@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather feedback from users about their experience in a nursery school at the end of the year. The form is intended for parents or guardians of students in the nursery school. The form is divided into several sections, each addressing a different aspect of the school experience. The purpose of this form is to gather information that will help the school improve its services and provide better care for its students. Please ensure that you have answered the form questions honestly and thoroughly, as your feedback is valuable to us.</thinking>
-
 # nursery_year_end_feedback_survey - Help Guide
 ## Purpose
 The nursery year end feedback survey is designed to gather your feedback about your experience in our nursery school. Your input will help us improve our services and better care for our students.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Classic Hair and Beauty COVID-19 Salon Services Consent Form - Help Guide
 
 ## Purpose

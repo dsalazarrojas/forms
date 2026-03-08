@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to assess the satisfaction and usability of compliance documentation within an organization. It is intended to gather feedback from employees on the clarity, completeness, and overall usefulness of the documentation. The form should be completed by employees to provide their honest opinions on the current state of compliance documentation and suggest areas for improvement.
-
-The following questions aim to gather information on the ease of finding and understanding the documentation, the relevance and accuracy of the content, and the overall user experience. The goal is to identify areas that need improvement and to gather feedback for future development and updates.
-
-This form should only be completed by employees who are familiar with the compliance documentation and have had experience using it. If this is not the case, please do not proceed.
-
-This form is not meant to be a formal evaluation or assessment, but rather a way to gather feedback and suggestions for improvement.
-
-Please note that all feedback and suggestions will be reviewed and taken into consideration.
-
-</thinking>
-
 # Compliance Documentation Satisfaction Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback on the compliance documentation used within our organization. Your input will help us understand your experiences and provide suggestions for improvement.

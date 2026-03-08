@@ -1,9 +1,3 @@
-<thinking>
-This form is for customers to place custom nail orders. It's a one-page form designed to collect relevant information for salon staff to create a unique nail design for each customer.
-The form is designed to be completed by a customer, who will select options for their custom nail order, including nail color, type, size, and quantity, as well as any additional notes they'd like to provide. 
-This form is meant to be filled out by a customer in a salon setting.
-</thinking>
-
 # custom_nail_order_form - Help Guide
 ## Purpose
 The custom_nail_order_form is a one-page form used by customers to place custom nail orders in a salon setting. This form helps the salon staff create a unique nail design tailored to each customer's preferences.

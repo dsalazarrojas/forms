@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teacher Weekly Plan Form Template - Help Guide
 ## Purpose
 This form template is designed to help teachers plan their weekly activities, meetings, and tasks. The form is intended to be a concise and organized guide for teachers to outline their weekly goals, meetings with students, and any other important tasks they need to accomplish. The form is meant to help teachers stay on top of their tasks and ensure they are effectively managing their time.

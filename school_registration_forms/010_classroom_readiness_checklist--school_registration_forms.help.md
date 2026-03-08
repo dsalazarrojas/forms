@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help teachers ensure that their classroom is ready for the first day of school by checking off a set of critical tasks and items needed to be completed before the school year begins. 
-
-The form is used by teachers to verify that the classroom is in an overall state of readiness, including physical environment, teaching materials, technology, safety, and more. Each field is designed to help the teacher check off their progress and identify any areas that still need attention. 
-
-This form should not be used for duplicate tasks or to reiterate information already collected through other means. It is intended to be a comprehensive checklist for classroom preparation. 
-
-The form is divided into several sections, each representing a critical aspect of classroom readiness: Physical Environment, Teaching and Learning, Technology, Safety, and Overall Readiness.
-
-</thinking>
-
 # Classroom Readiness Checklist - Help Guide
 ## Purpose
 This guide is intended to walk you through the completion of the Classroom Readiness Checklist form. This form is designed to help teachers ensure that their classroom is ready for the first day of school by checking off a series of critical tasks and items needed to be completed before the school year begins.

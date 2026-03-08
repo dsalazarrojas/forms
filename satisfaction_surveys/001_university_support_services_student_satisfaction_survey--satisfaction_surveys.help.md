@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist students in providing feedback on their experiences with university support services. It is essential to complete this form to help the university understand the quality of services provided and identify areas for improvement.
-</thinking>
-
 # University Support Services Student Satisfaction Survey - Help Guide
 ## Purpose
 This survey aims to gather your feedback on the support services provided by the university. Your input will help us understand what we are doing well and where we can improve. Please take a few minutes to complete this survey and share your thoughts.

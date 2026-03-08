@@ -1,12 +1,3 @@
-<thinking>
-We are introducing the Star Rating Feedback Form, a tool designed to gather feedback from users on their experience with our product or service. This form is intended for users who wish to share their opinions and suggestions with us. To ensure we receive valuable and relevant feedback, we ask that users only submit feedback that pertains to the provided form fields.
-
-Before filling out the form, please review the required fields as some sections are marked as obligatory. Please note that providing accurate contact information is also required. This form consists of multiple sections, and each section is described below.
-
-The form will be evaluated for duplicate submissions, and repeated entries might not be taken into account.
-
-</thinking>
-
 # Star Rating Feedback Form - Help Guide
 ## Purpose
 The Star Rating Feedback Form is designed to gather your opinions and suggestions about your experience with our product or service.

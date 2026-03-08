@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cosmetology Client Consultation Form - Help Guide
 
 ## Purpose

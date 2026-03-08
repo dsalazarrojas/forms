@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: to collect event information from school leads for event lead generation.
-The form is intended to collect information about upcoming events, including event name, date, time, location, and contact details. This form is designed to generate leads for schools, allowing them to track and follow up on interested leads. To avoid duplication, this form should not be filled out multiple times for the same event.
-</thinking>
 # School Event Lead Generation Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # return_to_school_survey - Help Guide
 ## Purpose
 The "return_to_school_survey" form is designed to collect information from students and parents regarding their return to school plans and concerns. This form is meant to help schools prepare for the return of students and staff, ensuring a safe and healthy environment for everyone.

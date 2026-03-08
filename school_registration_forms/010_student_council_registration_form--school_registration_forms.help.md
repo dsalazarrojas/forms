@@ -1,7 +1,3 @@
-<thinking>
-This form is for student registration, and it's used for administrative purposes only. It is not intended for student use, but rather for school administrators to collect and store student information. This form should not be used for external student applications or other purposes that require student authentication.
-</thinking>
-
 # Student Council Registration Form - Help Guide
 ## Purpose
 The Student Council Registration Form is used by school administrators to collect and store student information for administrative purposes.

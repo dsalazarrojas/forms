@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about the educational technology needs of educational institutions. The purpose of this form is to collect data on the types of educational technology that schools may require for their operations, such as hardware, software, or other tools. This data can be used to inform purchasing decisions or to identify areas where schools may need additional support or resources.
-
-To complete this form, please follow the instructions below:
-
-</thinking>
-
 # educational_technology_needs_survey - Help Guide
 ## Purpose
 The educational technology needs survey is designed to gather information about the educational technology requirements of educational institutions.

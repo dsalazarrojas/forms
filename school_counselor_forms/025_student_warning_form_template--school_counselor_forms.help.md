@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Warning Form Template - Help Guide
 ## Purpose
 The Student Warning Form Template is a tool used by school counselors to document and address behavioral issues or concerns related to students. This form helps school counselors communicate their expectations, document incidents, and provide clear guidance to students in a structured and organized way.

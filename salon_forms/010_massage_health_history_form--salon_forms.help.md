@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Massage Health History Form - Help Guide
 
 ## Purpose

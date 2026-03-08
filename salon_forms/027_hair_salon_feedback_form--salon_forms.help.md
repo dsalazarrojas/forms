@@ -1,5 +1,3 @@
-<thinking>...checking for redundancy and ensuring the form purpose is clear... thinking about the best way to present the information in a user-friendly manner... considering the variety of fields and their potential complexity...</thinking>
-
 # Hair Salon Feedback Form - Help Guide
 ## Purpose
 The Hair Salon Feedback Form is designed to gather information about your experience at our salon. Your feedback will help us understand what we're doing well and where we can improve to provide the best service for you.

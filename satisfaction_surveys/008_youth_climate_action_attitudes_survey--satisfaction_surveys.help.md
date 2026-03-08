@@ -1,8 +1,3 @@
-<thinking>
-We're about to create a help guide for a "Youth Climate Action Attitudes Survey" form. This form is designed to collect opinions and attitudes of young people towards climate action. It's essential to understand the purpose and structure of the form to provide accurate and relevant information.
-Before starting, please ensure that you are eligible to participate in this survey and that you haven't completed it before. If you've already taken the survey, your responses will not be recorded.
-</thinking>
-
 # Youth Climate Action Attitudes Survey - Help Guide
 ## Purpose
 The "Youth Climate Action Attitudes Survey" is designed to gather opinions and attitudes of young people towards climate action. Your responses will help us understand your perspectives on climate change and inform efforts to promote climate action.

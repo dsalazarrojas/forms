@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from students regarding the educational benefits they have received or will be receiving. The purpose of this form is to gather details about the student's educational journey, such as their current or past involvement with schools and institutions. 
-Before proceeding, please ensure that this form is relevant to your situation. If you're unsure or have already submitted similar information, it's best to avoid duplicating your efforts. 
-Please note that this form was generated using AI and doesn't rely on any specific proprietary content from form platforms. It's an open-source adaptation for educational use, and you're free to modify or use it as you see fit.
-</thinking>
-
 # Educational Benefit Form - Help Guide
 ## Purpose
 This form is used to collect information about a student's educational journey, including details about their involvement with schools and institutions.

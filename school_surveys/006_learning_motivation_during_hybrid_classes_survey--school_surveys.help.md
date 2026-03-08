@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clear and the form is not being filled out unnecessarily. This is a survey about learning motivation during hybrid classes, so only students who have participated in or are currently participating in hybrid classes should fill out this form. Additionally, we should check if a student has already filled out this form before, to avoid duplication of effort and unnecessary data collection. If a student has already filled out this form, they should not be able to fill it out again, and if they try to do so, an error message should be displayed.
-</thinking>
-
 # Learning Motivation During Hybrid Classes Survey - Help Guide
 ## Purpose
 This form is for students who have participated in or are currently participating in hybrid classes. It aims to understand their motivation levels and reasons for their motivation, as well as gather feedback from teachers and parents.

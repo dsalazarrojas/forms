@@ -1,15 +1,3 @@
-<thinking>
-**Form Purpose**
-The purpose of this survey is to gather information about urban tree planting awareness in your community. The survey aims to understand your perspective on tree planting, its frequency, and the factors that influence it.
-
-**Form Relevance**
-Please note that this survey is part of a larger effort to better understand the community's perception and engagement with urban tree planting. Your participation will help inform future initiatives and policies.
-
-**Form Duplication**
-If you have already completed a similar survey, please do not fill out this form again. Your responses will be kept anonymous and used solely for research purposes.
-
-</thinking>
-
 # urban_tree_planting_awareness_survey - Help Guide
 ## Purpose
 This survey aims to gather information about urban tree planting awareness in your community.

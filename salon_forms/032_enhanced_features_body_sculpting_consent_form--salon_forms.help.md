@@ -1,11 +1,3 @@
-<thinking>
-Form purpose: The Enhanced Features Body Sculpting Consent Form is used to collect information from clients regarding their consent to undergo body sculpting procedures. This form aims to gather essential details for the treatment process, including the client's body sculpting preferences, contact information, and medical history.
-Form purpose relevance check: 
-- Ensure that the form is relevant to the body sculpting process.
-- Verify that there are no duplicate forms used for similar purposes.
-- Confirm that the form meets the required standards and regulations for body sculpting procedures.
-</thinking>
-
 # Enhanced Features Body Sculpting Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from clients regarding their consent to undergo body sculpting procedures. It is essential to provide accurate and up-to-date information about the client's preferences and medical history to ensure a safe and successful treatment process.

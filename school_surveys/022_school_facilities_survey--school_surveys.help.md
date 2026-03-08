@@ -1,5 +1,3 @@
-<thinking> This form is likely used for a school facilities survey to gather data about the condition and equipment of school facilities. It appears to be a comprehensive form with questions about various aspects of school facilities, including their condition, safety, accessibility, maintenance, equipment, furniture, lighting, and temperature. The form seems to be designed for collecting information from school staff or administrators. </thinking>
-
 # School Facilities Survey - Help Guide
 ## Purpose
 This form is used to collect information about the condition and equipment of school facilities. The goal is to gather data on various aspects of facilities, including their condition, safety, accessibility, maintenance, and more.

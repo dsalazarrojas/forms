@@ -1,7 +1,3 @@
-<thinking>
-The "Student Retention Survey" form is designed to gather information from students about their reasons for considering leaving school or their educational background. The form is used to help the school administration understand the needs and concerns of students, which can inform decisions to improve student retention and support. This form should be used only by students who are currently enrolled or have been enrolled in the past. Please do not submit the form if you are not a student or an authorized representative of the student.
-</thinking>
-
 # Student Retention Survey - Help Guide
 ## Purpose
 The Student Retention Survey is a form used to gather information from students about their reasons for considering leaving school or their educational background. The survey helps the school administration understand the needs and concerns of students, which can inform decisions to improve student retention and support.

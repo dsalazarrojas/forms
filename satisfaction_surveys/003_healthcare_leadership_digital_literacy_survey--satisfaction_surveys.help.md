@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this survey is to assess the digital literacy level of healthcare leadership, identify areas of improvement, and gather suggestions for promoting digital skills within the organization. This form should only be filled out by healthcare leadership, such as CEOs, directors, and other executives.
-
-To prevent duplication of efforts, please ensure that you have not already completed this survey. If you are unsure or have questions, please reach out to the survey administrator for clarification.
-
-Please fill out the form below, following the instructions for each section.
-
-</thinking>
-
 # Healthcare Leadership Digital Literacy Survey - Help Guide
 ## Purpose
 The Healthcare Leadership Digital Literacy Survey is designed to assess the digital literacy level of healthcare leadership and gather suggestions for promoting digital skills within the organization.

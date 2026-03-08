@@ -1,8 +1,3 @@
-<thinking>
-The Student Stress Survey form is designed to collect information on various aspects of student life, including demographic information, academic pressures, school climate, and overall stress levels. This form is intended to gather data that can help schools understand the stress levels and well-being of their students, which can inform initiatives to improve student support and resources. This form is meant to be completed by students, and the answers should reflect their personal experiences and perceptions.
-Before completing this form, please ensure that you have not already responded to it, as duplicate responses can skew the results. If you are unsure about any of the fields or have questions, please feel free to reach out to the administrators.
-</thinking>
-
 # Student Stress Survey - Help Guide
 ## Purpose
 The Student Stress Survey is designed to gather information on various aspects of student life, including demographic information, academic pressures, school climate, and overall stress levels. This data will help schools understand student stress levels and inform initiatives to improve student support and resources.

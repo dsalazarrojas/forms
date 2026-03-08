@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to vote for different fundraising activities for a school. The form will likely be used by teachers, staff, or parents to suggest and vote on various activities that can be organized to raise funds for the school. The purpose of this form is to gather information on the different activities and the number of votes they received. This form does not appear to be related to any other form. It is assumed that users will only access this form for the purpose of voting for fundraising activities.
-</thinking>
-
 # School Fundraising Activity Voting Form - Help Guide
 ## Purpose
 The School Fundraising Activity Voting Form is designed to gather votes on different fundraising activities that can be organized for the school. This form helps to determine which activities are most popular and can be used to inform decisions on which activities to prioritize.

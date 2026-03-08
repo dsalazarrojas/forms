@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Admission Form - Help Guide
 ## Purpose
 The University Admission Form is a tool for students to provide their personal and academic information to the admissions committee. This form helps the committee assess eligibility and evaluate student applications for admission to the university.

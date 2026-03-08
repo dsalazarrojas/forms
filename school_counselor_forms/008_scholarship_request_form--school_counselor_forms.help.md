@@ -1,5 +1,3 @@
-<thinking>As a school counselor, this form is designed to be filled out by students who are requesting a scholarship to support their educational goals. The form is intended to gather information about the student's identity, contact details, and career aspirations. It is crucial to provide accurate and complete information to ensure that the scholarship process runs smoothly and efficiently. Please make sure to submit the form only once, as duplicates may cause confusion and lead to delays in the processing of your request.</thinking>
-
 # Scholarship Request Form - Help Guide
 ## Purpose
 The Scholarship Request Form is a document used to collect information from students who are applying for a scholarship to support their educational goals.

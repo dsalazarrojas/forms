@@ -1,9 +1,3 @@
-<thinking>
-This is a form for applicants to the Global Teaching Strategies Project, likely a research or educational initiative. The purpose of this form is to gather information from applicants about their background, experience, and qualifications for the project. This form is likely being used to evaluate applicants based on their project title, name, email, date of birth, date of application, school attended, degree program, teaching area, teaching level, experience, and project proposal. It is crucial to complete this form accurately and thoroughly to ensure the best chance of being accepted into the project.
-
-Please note that this form appears to be a comprehensive application form, and all fields are required, with the exception of the CV attachment, which is not necessary but could be helpful in supporting the application.
-</thinking>
-
 # Global Teaching Strategies Project Application Form - Help Guide
 ## Purpose
 The Global Teaching Strategies Project application form is designed to collect information from applicants about their background, experience, and qualifications for the project. Please follow the instructions below to complete the form accurately.

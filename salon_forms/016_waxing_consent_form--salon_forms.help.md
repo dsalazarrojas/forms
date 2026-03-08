@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Waxing Consent Form - Help Guide
 
 ## Purpose

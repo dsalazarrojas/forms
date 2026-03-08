@@ -1,15 +1,3 @@
-<thinking>
-
-The "Childhood Celebration Survey" is a form designed to collect information about your experiences and memories of celebrations during your childhood. This form is intended for individuals to reflect on their past celebrations and share their thoughts and feelings about them. The survey is used to gather data for research purposes, and responses will be used to identify trends and patterns in how children experience and enjoy celebrations.
-
-Please note that this survey is only intended for individuals who are comfortable sharing their personal experiences and memories. If you are under 18 or do not wish to participate, please do not complete this form.
-
-Also, please be aware that this survey is not a duplicate of any other similar survey. Each question is designed to gather unique information and insights, so your responses will be valuable to the research goals.
-
-Before you start, make sure to answer honestly and from your perspective, and feel free to share as much as you like about your childhood celebrations.
-
-</thinking>
-
 # Childhood Celebration Survey - Help Guide
 ## Purpose
 The Childhood Celebration Survey is designed to collect memories and reflections about your childhood celebrations. Your responses will help us understand how children experience and enjoy celebrations, and inform ways to create more enjoyable and meaningful celebrations for children.

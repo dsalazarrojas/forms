@@ -1,8 +1,3 @@
-<thinking>
-This guide is designed to accompany the Scalp Micro Pigmentation Consent Form, which is meant to capture a client's consent for the Scalp Micro-Pigmentation treatment. This form is crucial for the client's safety, as it outlines their understanding of the potential risks and side effects of the treatment. Ensure that you only use this form within the scope of Scalp Micro Pigmentation treatments.
-
-</thinking>
-
 # Scalp Micro Pigmentation Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect a client's informed consent for the Scalp Micro Pigmentation treatment.

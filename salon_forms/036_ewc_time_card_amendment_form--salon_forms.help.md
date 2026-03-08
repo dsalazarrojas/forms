@@ -1,11 +1,3 @@
-<thinking>
-This form is used for amending time cards in the salon management system. It's a critical process for maintaining accurate and up-to-date information about clients, their appointments, and the services provided. The form is intended to be completed by authorized personnel, typically the submitter, to update or correct time card entries. 
-
-The form fields are designed to collect relevant information, such as the submitter's details, the date and time of submission, and any additional comments or notes. The fields are divided into two main categories: submitter information and time card details. The submitter information section captures the submitter's salutation, name, email, phone number, job title, and department, while the time card details section includes the date, time, and any notes associated with the time card. This form ensures that all relevant details are captured accurately and efficiently, making it an essential tool for salon management. 
-
-Before filling out this form, please ensure that you are an authorized submitter. If you're unsure, contact your supervisor or system administrator for guidance. 
-</thinking>
-
 # ewc_time_card_amendment_form - Help Guide
 ## Purpose
 The "ewc_time_card_amendment_form" is a form used for amending time cards in the salon management system. It's designed to collect accurate and up-to-date information from authorized personnel, typically the submitter, to update or correct time card entries.

@@ -1,5 +1,3 @@
-<thinking>...this form is intended for users to provide their interest in various financial topics and workshops. This is a crucial step in understanding the audience's needs and preferences for the Financial Series. This form will help us gauge the level of interest in different types of workshops and financial topics, which will aid us in tailoring our content and programming to better serve our audience. To ensure accuracy, users should only fill out this form once. If users have already completed a similar form, they can safely skip this one, as their previous responses will be taken into account in our analysis. If a user is unsure about their previous responses, they can check their email for the confirmation email sent by our team after their previous submission. ...</thinking>
-
 # Financial Series Interest Survey - Help Guide
 
 ## Purpose

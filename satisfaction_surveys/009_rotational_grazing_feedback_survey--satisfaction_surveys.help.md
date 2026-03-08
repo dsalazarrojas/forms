@@ -1,5 +1,3 @@
-<thinking>... This form is meant to capture feedback from end-users on their experience with rotational grazing feedback surveys in a specific research program. It's meant to gather information on what they found beneficial, what challenges they faced, and their level of satisfaction with the program. This form will help us understand where we can improve the program to better support future end-users. This is an optional form and it's meant to be filled out by those who are interested in providing feedback. ...</thinking>
-
 # rotational_grazing_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from end-users on their experience with the rotational grazing feedback surveys in a specific research program.

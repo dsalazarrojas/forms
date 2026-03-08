@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Before And Afterschool Care Registration - Help Guide
 ## Purpose
 This form is used to collect information from parents or guardians to register their child for before and after-school care. The form asks for personal details, medical history, and emergency contact information to ensure the well-being and safety of the student. It also collects schedule and pickup information to plan for the child's care.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ambulance Service Request Form - Help Guide
 
 ## Purpose

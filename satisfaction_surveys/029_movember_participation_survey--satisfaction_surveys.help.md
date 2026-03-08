@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to be used by end-users to provide clear and concrete instructions on how to complete the "Movember Participation Survey" form. This guide aims to ensure that users understand the purpose of the form and each field's requirements and functionality. It is assumed that the form is designed to collect participation information from individuals for Movember, a popular cultural and fundraising event. The form should not be attempted by those who do not intend to participate in or provide genuine feedback about Movember. Duplicate submissions might lead to unnecessary data redundancy, so please fill in the form only once.
-
-The following guide is designed to provide step-by-step instructions on how to navigate through the form and fill out each field correctly.
-
-</thinking>
-
 # Movember Participation Survey - Help Guide
 ## Purpose
 This form is designed to gather information from participants on their motivations, expectations, and feedback about Movember. It is essential to fill out the form accurately and honestly to help us better understand our community's interests and needs.

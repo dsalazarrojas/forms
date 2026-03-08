@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information for online scholarship applications. It is intended for students or individuals applying for scholarships related to different programs or levels of education. The form will help us understand your background, interests, and qualifications for the scholarship program you are applying for. Please note that this form is not a substitute for the official application process, and all required documents should be attached separately. Also, please ensure that you only submit one application per scholarship program.
-
-</thinking>
-
 # Online Scholarship Application Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information for online scholarship applications. It covers details about the applicant's name, contact information, academic background, and qualifications relevant to the scholarship program.

@@ -1,11 +1,3 @@
-<thinking> 
-This form is for clients to book an appointment at a salon. 
-The form is used to collect client information, 
-schedule an appointment, and provide details about the service required. 
-To avoid duplication of effort, we will only accept one form submission per client. 
-
-</thinking>
-
 # Appointment Form Zy - Help Guide
 ## Purpose
 This form is used to book an appointment at a salon. It collects client information, schedules an appointment, and provides details about the service required.

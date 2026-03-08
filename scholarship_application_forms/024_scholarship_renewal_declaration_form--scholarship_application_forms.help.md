@@ -1,7 +1,3 @@
-<thinking>
-This form is used by students to declare their intention to renew a scholarship. This is a form used internally by the institution to verify the student's scholarship renewal request. The form is used to gather information about the student's current scholarship, including their name, student ID, program name, start and end dates, reason for renewal, and any additional comments. This form is used to ensure that the student's scholarship is up-to-date and compliant with institution policies. Before filling out this form, ensure that your scholarship is eligible for renewal and you are not requesting a duplicate scholarship renewal.
-
-</thinking>
 # Scholarship Renewal Declaration Form - Help Guide
 
 ## Purpose

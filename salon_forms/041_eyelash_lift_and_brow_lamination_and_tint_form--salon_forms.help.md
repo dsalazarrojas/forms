@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information for an eyelash lift, brow lamination, and tinting services at a salon. The form is not intended for sensitive medical use, but rather for administrative purposes to gather relevant client information. It is not a medical history form, but rather a form to collect contact information, procedure selection, and other relevant details.
-
-To avoid duplication of effort and ensure accurate information, please review the following help guide to understand each field's purpose and required information.
-
-</thinking>
-
 # Eyelash Lift And Brow Lamination And Tint Form - Help Guide
 ## Purpose
 This form is used to collect information from clients for eyelash lift, brow lamination, and tinting services at the salon. Please complete this form to provide essential details for your procedure.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Retention Effectiveness Survey - Help Guide
 ## Purpose
 The Client Retention Effectiveness Survey is designed to gather your feedback on your experience with our company, helping us understand how we're doing in areas such as service quality, relationship strength, and overall satisfaction.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about student clubs at the school, including details about their name, meeting schedule, advisor information, and status. This form will help the school administration to better understand and manage the student clubs on campus.
-
-Before proceeding, please ensure that you are filling out this form for the correct purpose and that you are not duplicating information. This form is intended for student clubs, not other types of groups or organizations.
-
-To ensure accurate and complete data, please fill out this form carefully and thoroughly. If you are unsure about any field, please refer to the field-by-field explanation below.
-
-</thinking>
-
 # Student Clubs Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about student clubs at the school, including details about their name, meeting schedule, advisor information, and status.

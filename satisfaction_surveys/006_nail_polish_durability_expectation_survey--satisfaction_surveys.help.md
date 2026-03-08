@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Polish Durability Expectation Survey - Help Guide
 
 ## Purpose

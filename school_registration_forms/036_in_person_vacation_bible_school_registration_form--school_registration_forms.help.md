@@ -1,7 +1,3 @@
-<thinking>
-This form is used for in-person registration for Vacation Bible School (VBS) programs. The form is intended to collect demographic information from students and their emergency contacts. This guide is intended to help end-users complete the form correctly and understand the purpose and requirements of each field. The form is designed to be used by students, parents, or guardians to register for VBS programs.
-</thinking>
-
 # In Person Vacation Bible School Registration Form - Help Guide
 ## Purpose
 The In-Person Vacation Bible School Registration Form is used to register students and their emergency contacts for VBS programs. This guide will walk you through how to complete the form correctly and provide explanations for each field.

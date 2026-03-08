@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information about a candidate's experience and skills in digital marketing, specifically in the areas of SEO, marketing channels, communication style, team experience, and response to scenario-based questions. The form is intended to help the user better understand the candidate's fit and potential for a digital marketing role. This form should not be used for any other purpose other than as an interview evaluation tool.
-
-To complete the form, the candidate is asked to provide their response to each of the 19 questions, which are all open-ended and allow the candidate to express their thoughts and opinions. There are no right or wrong answers, and the responses should be genuine and honest.
-
-Each question is designed to elicit specific information and help the user assess the candidate's experience and fit for the role. The questions cover a range of topics, from basic skills and experience to more complex scenario-based questions that test the candidate's problem-solving and communication skills.
-
-The form does not require the candidate to select from predefined options, but rather to provide their own responses, which will be reviewed and assessed by the user.
-</thinking>
-
 # Digital Marketing SEO Interview Form - Help Guide
 ## Purpose
 

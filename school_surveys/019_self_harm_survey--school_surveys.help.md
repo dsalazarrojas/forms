@@ -1,9 +1,3 @@
-<thinking>
-This form is a sensitive and crucial instrument for assessing individuals who may be at risk of self-harm. Before completing this form, please take a moment to understand its purpose and ensure you are in a stable state of mind. This form is not intended to be a substitute for professional medical or psychological help. If you are in immediate danger, please contact emergency services or a crisis helpline.
-
-Please ensure you have not already completed this form previously, as each response is unique and requires careful consideration.
-</thinking>
-
 # Self Harm Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences with self-harm, with the aim of providing support and resources to help you address this issue.

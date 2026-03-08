@@ -1,19 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly for students to register with their relevant information. To do this, let's review the fields to understand what each field means and how it should be filled in. 
-
-The form is for student registration, and it seems to be asking for basic student information such as name, contact details, date, and select options for other relevant information. However, some fields are optional, which may cause confusion. To avoid this, let's ensure that the instructions are clear and specific. 
-
-Upon further review, I see that fields with the "_default" suffix seem to be intended to have default options or values. However, it would be more clear if these fields were marked as "default" in their labels. 
-
-Also, some fields like "nationality" and "country" seem to be missing from the form. They might have been overlooked or are not intended for this form. Let's make sure to add them or remove them accordingly. 
-
-The date fields, "Birthdate" and "Date of birth", seem to be duplicates. Let's remove or merge them into one field. 
-
-Finally, we should review the select_one and select_multiple fields for consistency in their options and labels. The options for these fields are currently not very descriptive. Let's make sure they are clear and concise. 
-
-Upon review, it seems that the form is mostly complete and ready for use, but a few minor adjustments are needed to avoid confusion. Let's make these adjustments and proceed with creating the help guide. 
-</thinking>
-
 # liti_student_application - Help Guide
 ## Purpose
 This form is for student registration, and it should be used to collect students' basic information such as name, contact details, and other relevant data. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals seeking support or funding for a scholarship. It's designed to collect essential information from applicants, including their personal details, contact information, and financial history. The form helps the review committee assess the applicant's eligibility for the scholarship fund. The form is not intended for repeat submissions; only new applications will be considered. Please ensure you've reviewed the form carefully before submitting.
-</thinking>
-
 # Scholarship Fund Request Form - Help Guide
 ## Purpose
 The Scholarship Fund Request Form is used to collect information from applicants seeking support or funding through the scholarship program. The form helps the review committee evaluate each applicant's eligibility and make informed decisions.

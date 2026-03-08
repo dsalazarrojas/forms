@@ -1,5 +1,3 @@
-<thinking>...This guide will help you navigate the Permanent Makeup Client Information Form, which is a crucial part of the salon management process...</thinking>
-
 # Permanent Makeup Client Information Form - Help Guide
 ## Purpose
 The Permanent Makeup Client Information Form is used to collect essential details about your clients, including their personal and medical information, appointment scheduling, and payment arrangements. This form ensures that the salon has accurate and complete information to provide the best possible service and to establish a professional relationship with the client.

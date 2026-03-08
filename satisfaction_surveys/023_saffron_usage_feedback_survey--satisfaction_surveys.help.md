@@ -1,7 +1,3 @@
-<thinking> 
-This form appears to be a survey designed to gather feedback from users about their experience with Saffron, a culinary spice. It seems to be used to understand user behavior, preferences, and pain points related to Saffron. The form includes questions about usage frequency, benefits, satisfaction, challenges, and purchasing habits. I'll assume that this form is intended to help businesses or organizations understand their target audience's behavior and preferences regarding Saffron. There might be other purposes or contexts that I'm not aware of, and if that's the case, please let me know so I can adjust the guide accordingly. 
-</thinking>
-
 # Saffron Usage Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experiences and opinions on Saffron. Your input will help us better understand your usage patterns, preferences, and challenges. Please take a few minutes to complete this survey, and thank you for your time and feedback.

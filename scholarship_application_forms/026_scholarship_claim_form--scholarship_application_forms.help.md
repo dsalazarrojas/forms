@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help applicants claim their scholarships. The form is divided into multiple pages, each with its own set of questions. To ensure that your claim is processed correctly and efficiently, please make sure that all required fields have valid information and that you've uploaded any necessary attachments.
-</thinking>
-
 # Scholarship Claim Form - Help Guide
 
 ## Purpose

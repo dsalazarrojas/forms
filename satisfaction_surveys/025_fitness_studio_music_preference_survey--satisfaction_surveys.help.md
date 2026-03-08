@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, the "fitness_studio_music_preference_survey", is to gather information about users' music preferences and habits. This information will help us understand their music tastes and preferences, which can be used to improve our music selection and recommendations for users. This form will only need to be filled out once.
-</thinking>
-
 # fitness_studio_music_preference_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your music preferences and habits, so we can better understand your tastes and provide more suitable music recommendations.

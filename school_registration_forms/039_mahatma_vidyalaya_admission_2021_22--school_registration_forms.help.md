@@ -1,7 +1,3 @@
-<thinking>...this form is designed to collect student registration information for the Mahatma Vidyalaya school for the 2021-22 academic year. The form aims to gather necessary details about the student, including their contact information, academic background, and parental information. The form fields are designed to be completed by the student or their parent/guardian. Before filling out this form, ensure that the student and their family have the necessary documents and information readily available. This form is not intended for use by anyone other than the student or their family. Please ensure the form is completed accurately and in its entirety to ensure a smooth and efficient registration process. 
-
-</thinking>
-
 # mahatma-vidyalaya-admission-2021-22 - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from students applying to Mahatma Vidyalaya for the 2021-22 academic year.

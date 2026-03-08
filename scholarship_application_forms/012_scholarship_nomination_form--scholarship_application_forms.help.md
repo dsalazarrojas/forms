@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scholarship Nomination Form - Help Guide
 ## Purpose
 The Scholarship Nomination Form is designed to facilitate the nomination of outstanding individuals for academic scholarships. This form helps identify and recognize students, faculty, or staff who excel in their field and deserve to be awarded scholarships to support their continued education and professional development.

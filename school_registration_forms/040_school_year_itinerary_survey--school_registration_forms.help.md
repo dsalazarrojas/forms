@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information about students' plans and activities during the school year. The purpose of the form is to gather details about the student's academic and extracurricular activities, such as their academic plans, course selections, and extracurricular activities. This form will be used by school administrators to get an overview of the student's activities and plans for the school year. 
-</thinking>
-
 # School Year Itinerary Survey - Help Guide
 ## Purpose
 The School Year Itinerary Survey is designed to collect information about students' plans and activities during the school year. This form will help school administrators get an overview of the students' academic and extracurricular activities.

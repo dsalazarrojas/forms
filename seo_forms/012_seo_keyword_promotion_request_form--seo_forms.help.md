@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for SEO keyword promotion requests. It's crucial to fill it out accurately to ensure that the request is processed efficiently. Please ensure that you're completing this form for a valid reason and not duplicating an existing request. If you're unsure about any field, please review the field descriptions below for clarification.
-</thinking>
-
 # seo_keyword_promotion_request_form - Help Guide
 ## Purpose
 The purpose of this form is to submit a request for SEO keyword promotion. Please fill out the form completely and accurately to expedite the process.

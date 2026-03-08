@@ -1,9 +1,3 @@
-<thinking>
-
-The "Scholarship Program Approval Form" is a tool designed to collect and verify information from applicants to the scholarship program. This form aims to ensure that the application process runs smoothly and efficiently. Before proceeding, please make sure that you have all the necessary information and that your application has not been previously submitted.
-
-</thinking>
-
 # Scholarship Program Approval Form - Help Guide
 ## Purpose
 The Scholarship Program Approval Form is a document that collects and verifies information from applicants to the scholarship program. It is essential for the application process and should be completed with attention to detail.

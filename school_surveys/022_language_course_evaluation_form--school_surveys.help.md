@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluations from students, teachers, and parents about a language course. It is essential to fill out this form to help us improve our language courses and provide better services to our students.
-
-To ensure that we receive accurate and relevant feedback, please make sure to fill out this form carefully and truthfully. If you have already filled out this form in the past, please note that we will not be able to save your progress, and you will need to fill it out again.
-
-This form is intended for students, teachers, and parents to evaluate a language course. Please select the correct category (Student, Teacher, or Parent) that best describes who is filling out this form.
-</thinking>
-
 # Language Course Evaluation Form - Help Guide
 ## Purpose
 The Language Course Evaluation Form is designed to collect feedback and evaluations from students, teachers, and parents about a language course. It helps us to improve our language courses and provide better services to our students.

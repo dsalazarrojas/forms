@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential students or their parents/guardians to register them in a music school. This form will help the music school to gather basic details about the student, such as their name, age, contact information, and preferences for music lessons. The form will also help to identify if the student is already a member of the music school, if they have experience in music school, and how many music lessons they want to take. This is a standard registration form and is not intended for other purposes.
-</thinking>
-
 # Music School Registration Form - Help Guide
 ## Purpose
 The Music School Registration Form is a standard form used to collect information from potential students or their parents/guardians for the purpose of registering them in a music school.

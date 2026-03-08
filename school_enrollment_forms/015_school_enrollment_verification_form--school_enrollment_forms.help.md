@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to verify student enrollment information. It is intended for school administrators to validate or correct student data. Please ensure that this form is only filled out by the authorized personnel. If there are any discrepancies or doubts, do not fill this form. This form is not meant for general public or parents to fill out. This is for internal school use only.
-</thinking>
-
 # School Enrollment Verification Form - Help Guide
 ## Purpose
 The School Enrollment Verification Form is a document used by school administrators to verify and update student enrollment information. This form helps to ensure accuracy and consistency of student records.

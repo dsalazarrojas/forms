@@ -1,7 +1,3 @@
-<thinking>
-We've designed this form to gather essential information from clients before scheduling an appointment for microblading, cosmetic tattoos, brow lamination, or correction services. This form is a crucial part of the intake process to ensure that our team has a clear understanding of each client's needs and requirements. Please ensure that you answer these questions carefully and accurately to help us provide the best possible service. This form will be used to assess your suitability for the desired service, discuss potential risks and concerns, and guide us in creating a personalized treatment plan for you.
-</thinking>
-
 # BrowTab Pre Appointment Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients before their appointment for microblading, cosmetic tattoos, brow lamination, or correction services. This form helps us understand your needs and requirements, ensuring that we provide the best possible service.

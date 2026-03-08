@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of this form is to collect feedback from students, parents, and educators on the effectiveness and quality of the school's curriculum. The information collected will help the school administration to identify areas of improvement, make informed decisions, and provide feedback to teachers and staff. This form should only be filled out by those who have direct experience with the curriculum and have an opinion on its effectiveness. Please only fill out this form if you have a genuine interest in providing constructive feedback. 
-</thinking>
-
 # School Curriculum Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback on the effectiveness and quality of the school's curriculum. Your input will help the school administration understand what works well and what can be improved.

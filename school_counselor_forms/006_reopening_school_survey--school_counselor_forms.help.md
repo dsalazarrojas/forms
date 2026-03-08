@@ -1,7 +1,3 @@
-<thinking>
-We are implementing a form to collect feedback from school counselors regarding the reopening of schools. This form will allow us to gauge the readiness and concerns of the school counselors as we prepare for the school reopening. The form is designed to be completed by school counselors and will help us understand their thoughts on the following topics: whether they are ready to reopen, their preferred reopening date, the number of days they need to prepare, their availability to work, and several other relevant questions. To ensure accurate and relevant responses, please fill out the form completely and honestly.
-</thinking>
-
 # Reopening School Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from school counselors on the reopening of schools. Your input will help us understand their readiness and concerns, ensuring a successful and smooth reopening process.

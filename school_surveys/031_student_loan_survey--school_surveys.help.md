@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from students regarding their experience with student loans. It will help the financial aid office understand student satisfaction and preferences regarding loan types, financial aid, and other relevant details. This form is intended for students to report their own experiences or for financial aid officers to provide feedback. To ensure accuracy, please fill out the form carefully and truthfully. This guide will walk you through each field to help you complete the form correctly.
-
-</thinking>
-
 # Student Loan Survey - Help Guide
 
 ## Purpose

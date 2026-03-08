@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a patient's demographics, medical history, and other relevant details to provide a comprehensive understanding of their developmental needs. It is intended for use in a school counseling context, where the counselor will use this information to tailor their guidance and support to the individual student's needs.
-
-This form is meant to be completed by the student or their guardian/parent, and is part of the school's effort to provide a safe and supportive environment for all students.
-
-Please review each section carefully to ensure that you are providing the most accurate and relevant information.
-
-</thinking>
-
 # Developmental Counseling Form - Help Guide
 ## Purpose
 

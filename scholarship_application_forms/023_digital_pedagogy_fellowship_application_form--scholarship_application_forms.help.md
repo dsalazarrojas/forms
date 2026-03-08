@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential applicants for the Digital Pedagogy Fellowship. The form is designed to gather details about the applicant's background, education, research interests, and teaching experiences. This guide will walk you through the completion process and explain what each field represents.
-</thinking>
-
 # digital_pedagogy_fellowship_application_form - Help Guide
 ## Purpose
 The Digital Pedagogy Fellowship application form is designed for potential applicants to share their background, research interests, and teaching experiences to be considered for the fellowship. Please ensure that the information you provide accurately represents your experiences and interests.

@@ -1,11 +1,3 @@
-<thinking>
-
-To determine relevance and avoid duplication, let's start by understanding what this form is intended for. Based on the name and fields, this form seems to be designed for academic settings, focusing on measuring employee satisfaction, transparency, and accountability within institutions. The "Academic Transparency And Accountability Survey" likely aims to gather opinions from individuals in these settings, specifically regarding decision-making processes, resource allocation, and whistleblower protection.
-
-The fields appear to cover a range of topics, from role identification and department affiliation to satisfaction with transparency, decision-making, and resource allocation. This guide will explain each field in a concrete, concise manner to help users complete the form accurately.
-
-</thinking>
-
 # Academic Transparency And Accountability Survey - Help Guide
 ## Purpose
 The Academic Transparency And Accountability Survey is a tool designed to gather feedback from individuals in academic settings, focusing on measuring transparency, accountability, and satisfaction with decision-making processes. This guide will walk you through each section and field to help you complete the form effectively.

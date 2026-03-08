@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from prospective students' parents or guardians to gather necessary details for enrollment into the Montessori School. The form aims to ensure that the school has the required data to provide quality education and support to the students. By filling out this form, parents/guardians provide their consent for the child to attend the school and also provide contact information, medical conditions, and previous school details. It's essential to review and update the form as necessary to ensure accuracy and completeness. Please make sure to fill out the form only once for each child applying to the school.
-</thinking>
-
 # Montessori School Application Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from prospective students' parents or guardians to facilitate their enrollment into the Montessori School.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # YoniVaginal Steam Intake Form - Help Guide
 
 ## Purpose

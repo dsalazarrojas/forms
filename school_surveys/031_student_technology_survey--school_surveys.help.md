@@ -1,8 +1,3 @@
-<thinking>
-This form is likely being used by students to report on their use and preferences regarding technology outside of the school environment, including social media, devices, and online platforms. The goal is to gather data about students' technology habits and preferences for educational or other purposes. It is essential to ensure this form is filled out only once and by the correct students.
-
-</thinking>
-
 # Student Technology Survey - Help Guide
 ## Purpose
 The Student Technology Survey aims to gather information about your technology habits, preferences, and usage outside of school.

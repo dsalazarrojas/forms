@@ -1,12 +1,3 @@
-<thinking>
-The School Leadership Evaluation Form is a tool used to assess the performance and competencies of school leaders. This form is typically completed by school administrators or HR personnel to evaluate the effectiveness of school leaders and provide feedback for growth and development. Before proceeding, please ensure that you understand the purpose and context of this form and that the data is accurate and relevant to the evaluation process.
-
-The form is designed to gather information on various aspects of school leadership, including leader performance, competencies, evaluation methodology, evaluation criteria, and follow-up plans. The data collected will be used to generate a comprehensive evaluation report for the school leader.
-
-Before starting to fill out this form, please review the following guidelines to ensure you complete the form correctly and effectively.
-
-</thinking>
-
 # School Leadership Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance and competencies of school leaders and provide feedback for growth and development.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Satisfaction Survey - Help Guide
 
 ## Purpose

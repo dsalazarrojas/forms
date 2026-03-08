@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Statement Clarity Survey - Help Guide
 ## Purpose
 This form is designed to gauge the clarity of financial statements provided to team leaders and finance team members. The survey is used to gather feedback on the quality of financial information presented, allowing for improvement and refinement in the financial reporting process.

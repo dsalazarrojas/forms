@@ -1,10 +1,3 @@
-<thinking>
-This guide is to explain the Hair Salon Waiver Form to end-users in a clear and concise manner. To ensure that this guide is accurate and relevant, let's review the form's structure and purpose. The form is a "Hair Salon Waiver Form" and consists of multiple fields that require user input. The form is designed to collect client information, service type, waiver agreement, emergency contact, and other relevant details.
-
-This guide will cover three main sections: "Purpose", "How To Complete This Form", and "Field-by-Field Explanation". The purpose of the guide is to assist end-users in understanding the form's requirements and completing it correctly.
-
-</thinking>
-
 # Hair Salon Waiver Form - Help Guide
 ## Purpose
 The Hair Salon Waiver Form is a necessary document that clients must fill out before receiving any hair salon services. This form collects important information about the client, such as their name, contact details, and emergency contact information. It also includes a field for the waiver agreement, which ensures that the client understands and agrees to the salon's policies and procedures.

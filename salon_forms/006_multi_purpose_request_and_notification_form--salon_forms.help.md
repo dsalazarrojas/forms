@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information about various requests and notifications from users. It's intended to be a multi-purpose form, allowing users to input different types of requests such as multi-purpose requests, wax supply requests, facility maintenance requests, and in-center delivery notifications. This form is useful for collecting information in a structured and organized manner, making it easier to track and manage different types of requests.
-
-The form has 5 fields:
-- **Multi-Purpose Request** (text field, optional): This field is for users to describe their multi-purpose requests in detail.
-- **Waxer Supply Request** (text field, optional): This field is for users to specify their waxer supply requests, if any.
-- **Facility Maintenance Request** (text field, optional): This field is for users to describe their facility maintenance requests.
-- **Wax Room Maintenance Request** (text field, optional): This field is for users to specify their wax room maintenance requests, if any.
-- **In-Center Delivery Notification** (text field, optional): This field is for users to provide any in-center delivery notifications.
-
-Please note that this form does not have any required fields, so users can input information as needed for each type of request/notification.
-</thinking>
-
 # multi_purpose_request_and_notification_form - Help Guide
 ## Purpose
 This form is designed to collect information about various requests and notifications from users. It's intended to be a multi-purpose form, allowing users to input different types of requests such as multi-purpose requests, wax supply requests, facility maintenance requests, and in-center delivery notifications.

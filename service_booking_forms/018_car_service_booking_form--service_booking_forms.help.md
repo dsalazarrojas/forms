@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from customers for the service booking purpose. This form will help us in identifying the service required by the customer's vehicle. It will also help us to schedule a service slot at the preferred time and date for the customer. We will check for duplication of customer's information before processing the form.
-
-</thinking>
-
 # Car Service Booking Form - Help Guide
 ## Purpose
 The Car Service Booking Form is used to book a service for your vehicle. Please fill out the form with your details and preferences for the service.

@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and non-duplication...</thinking>
-
 # Receiving Management Survey - Help Guide
 ## Purpose
 The Receiving Management Survey is a form used to gather information about the efficiency and effectiveness of receiving management processes within the organization. It helps management identify areas of improvement and make informed decisions to optimize these processes.

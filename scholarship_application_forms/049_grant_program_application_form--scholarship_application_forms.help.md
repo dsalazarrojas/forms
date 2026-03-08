@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information and data related to grant programs, including grant amounts, applicant contact information, and terms and conditions of the grant. This form is likely used by administrators or officials within an organization to manage and track grant applications.
-
-Before starting, please ensure that you are submitting this form for the correct purpose and not duplicating an existing application. 
-
-</thinking>
-
 # grant_program_application_form - Help Guide
 ## Purpose
 The grant program application form is used to collect and manage information related to grant programs, including grant amounts, applicant contact information, and terms and conditions of the grant.

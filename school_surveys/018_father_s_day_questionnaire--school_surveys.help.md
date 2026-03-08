@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Father's Day Questionnaire - Help Guide
 
 ## Purpose

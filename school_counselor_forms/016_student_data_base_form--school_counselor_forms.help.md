@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the school's administrative process, and its purpose is to collect student data for internal use. The form is designed to gather essential information about each student, including their name, contact details, and educational level. This form will not be used for public disclosure or external purposes.
-</thinking>
-
 # Student Data Base Form - Help Guide
 ## Purpose
 This form is used to collect and store student data for internal administrative purposes.

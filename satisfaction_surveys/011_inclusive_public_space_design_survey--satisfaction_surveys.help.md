@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inclusive Public Space Design Survey - Help Guide
 ## Purpose
 The Inclusive Public Space Design Survey is designed to gather information about the design and accessibility features of public spaces. This survey helps to identify areas for improvement in making public spaces more inclusive and accessible for all individuals, including those with disabilities. Please ensure that you have reviewed the survey questions carefully before responding to provide accurate and helpful feedback.

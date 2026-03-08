@@ -1,7 +1,3 @@
-<thinking>
-The Massage Consultation Form is a crucial part of our salon's operations, as it allows clients to provide essential information about themselves, including their name, contact details, and preferred appointment time. This data enables our staff to prepare for the client's visit, ensuring a smooth and personalized experience. It's essential to complete this form accurately to help us better serve you during your visit. Please note that this form is not a reservation or appointment confirmation form; it's a consultation form to gather information prior to scheduling an appointment.
-</thinking>
-
 # Massage Consultation Form - Help Guide
 ## Purpose
 The Massage Consultation Form is a necessary step in preparing for your visit to our salon. It allows us to gather essential information about you, which helps us tailor our services to your needs.

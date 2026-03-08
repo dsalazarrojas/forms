@@ -1,8 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for this form, I'll need to analyze the form's purpose, structure, and requirements. Based on the provided YAML fields, it appears that this form is designed for clients to book a barbershop service, providing information about their preferences, services, and contact details. The form aims to capture essential data for efficient scheduling and communication with the clients. This guide will aim to break down the form into manageable sections for a seamless user experience.
-
-</thinking>
-
 # Barbershop Service Request - Help Guide
 ## Purpose
 

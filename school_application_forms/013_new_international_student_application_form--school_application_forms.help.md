@@ -1,6 +1,3 @@
-<thinking> 
-This form is for international students to submit their applications to your school. Before you start, please ensure that you are a legitimate user and not a spammer. If you are a returning user, you may be able to access your saved applications, but this feature might not be supported in this version of the form.</thinking>
-
 # new_international_student_application_form - Help Guide
 ## Purpose
 The new international student application form is designed to gather information from students applying to your school as international students. The form includes fields to input personal details, contact information, and upload relevant files.

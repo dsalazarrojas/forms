@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for students to submit queries or concerns to the school's administration or counselors. It appears to be a comprehensive form covering various aspects of the student experience, including contact information, query details, and concerns. Before proceeding, ensure that the form is not being used for duplicate submissions or as a replacement for any existing process.
-
-To avoid unnecessary duplication, consider implementing a mechanism to prevent multiple submissions with the same student ID or email address within a certain time period.
-
-</thinking>
-
 # Student Query Form - Help Guide
 ## Purpose
 

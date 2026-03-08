@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a crucial tool for schools to assess and track student well-being on a daily basis. It helps teachers and other school staff to quickly gather and record vital information about individual students' well-being, allowing them to provide targeted support and care. This form is an essential component of the school's overall student support system. To avoid duplication, please use this form only for genuine student wellness assessments and not for other purposes such as scheduling appointments, sharing student information with external parties or for creating fake accounts.
 
 # student daily wellness assessment form - Help Guide

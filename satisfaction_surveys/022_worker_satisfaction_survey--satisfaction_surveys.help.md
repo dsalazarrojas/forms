@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and opinions from workers on their job satisfaction, work-life balance, and suggestions for improvement. This form is designed to be completed by employees to provide their honest feedback on their work experience. The form is not meant to be a comprehensive assessment tool, but rather a way to gather anecdotal and qualitative feedback that can be used to identify areas of improvement and make data-driven decisions.
-</thinking>
-
 # Worker Satisfaction Survey - Help Guide
 ## Purpose
 The Worker Satisfaction Survey is a form designed to gather feedback and opinions from workers on their job satisfaction, work-life balance, and suggestions for improvement.

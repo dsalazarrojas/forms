@@ -1,5 +1,3 @@
-<thinking>Is the goal to create a user-facing help guide for a Christmas Raffle Ticket Form? The form appears to be for purchasing raffle tickets for a Christmas event. The form has multiple sections: purchaser information, ticket selection, prize information, payment, and delivery. The form likely aims to collect user details for prize selection and payment processing. Before proceeding, let's review the form's fields for clarity and consistency. Each field should be explained briefly and concisely for end users to understand what to enter and how to complete the form correctly. After reviewing the form, I'll create the user-facing help guide as requested.</thinking>
-
 # Christmas Raffle Ticket Form - Help Guide
 ## Purpose
 This form is for purchasing raffle tickets for the Christmas event. Please provide your information to select your tickets and proceed with your purchase.

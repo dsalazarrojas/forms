@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by employees to book remote work accommodations for themselves while working from home or in other non-office locations. It should only be used for work-related purposes and not for personal or non-work-related bookings. This form is intended to be used only by employees, not for external visitors or clients. Please make sure to fill it out accurately and completely to ensure that your booking request is processed efficiently.
-</thinking>
-
 # Remote Work Accommodation Booking - Help Guide
 ## Purpose
 The purpose of this form is to book remote work accommodations for work-related purposes. This form helps managers and administrators process requests for remote work arrangements such as booking office space or hotel rooms for work projects or meetings.

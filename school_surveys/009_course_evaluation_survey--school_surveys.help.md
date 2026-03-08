@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect feedback from students about their experience in a particular course. The form is divided into multiple pages, each focusing on a different aspect of the course. The goal is to gather honest and constructive feedback from students to help improve the quality of courses offered.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is intended for students to share their experiences and opinions about a course they have taken. By providing feedback, students help the instructors and course administrators to identify areas of improvement and make data-driven decisions to enhance the learning experience.

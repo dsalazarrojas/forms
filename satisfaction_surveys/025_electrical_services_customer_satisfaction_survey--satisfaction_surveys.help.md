@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback on the electrical services provided by the company. The purpose of this form is to gather information on the customer's experience with the service request, including the date of the survey, customer details, service request details, and customer satisfaction ratings. The survey aims to assess the overall satisfaction of the customer and provide an opportunity for the customer to provide comments and feedback.
-</thinking>
-
 # Electrical Services Customer Satisfaction Survey - Help Guide
 ## Purpose
 The Electrical Services Customer Satisfaction Survey is a form designed to collect customer feedback on the electrical services provided by the company. It aims to gather information on the customer's experience with the service request, allowing us to identify areas of improvement and provide better services in the future.

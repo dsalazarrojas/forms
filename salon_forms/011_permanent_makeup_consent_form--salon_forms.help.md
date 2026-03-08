@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by a client who is interested in permanent makeup services. The form will ask questions regarding the client's category of interest, a brief description of the desired service, a description of the procedure, and the client's medical history. It is also asking for the client's skin tone and potential skin conditions. Additionally, the form will ask if the client has any allergies and for their contact information. The client's medical clearance is also required and the form will ask if the client has it and if not, a waiver is required. The purpose of this form is to ensure that the client has provided all necessary information for safe and effective treatment. The form should not be filled by clients with permanent makeup services for other purposes than what is described on this form.
-</thinking>
-
 # permanent_makeup_consent_form - Help Guide
 ## Purpose
 This form is designed to help permanent makeup clients provide information about their desired services and medical history, as well as their skin tone and allergies, to ensure safe and effective treatment.

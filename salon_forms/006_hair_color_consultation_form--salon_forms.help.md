@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather information from customers for a hair color consultation. The form is designed to collect data on the customer's hair color options, length, type, condition, texture, density, face shape, skin tone, desired hair hue, and other relevant details. This information will be used by the stylists to provide personalized hair color recommendations. The form is divided into several sections, each asking for different information such as hair color options, hair length, hair type, etc. Some fields are mandatory, marked as "required: true", while others are optional. The form also asks for contact information, appointment time and date, and the customer's preferences for services.
-</thinking>
-
 # Hair Color Consultation Form - Help Guide
 ## Purpose
 This form is used to gather information from customers for a hair color consultation. The information collected will be used by the stylists to provide personalized hair color recommendations.

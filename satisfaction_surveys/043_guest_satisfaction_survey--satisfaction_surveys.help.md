@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gather information from guests about their experience at an event, including details about the event, their overall experience, satisfaction level, and contact information in case they'd like to reach out.
 
 This form does not collect sensitive or personally identifiable data and therefore does not require any additional security or compliance measures that would typically be needed for more sensitive forms. No duplicate entries are allowed. 

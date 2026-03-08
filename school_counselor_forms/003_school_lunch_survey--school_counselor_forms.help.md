@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for school staff to gather feedback from parents and students about the school lunch program. The form will help us understand their opinions and suggestions on how to improve the school lunch program. 
-
-We've included a variety of questions to gather quantitative and qualitative feedback, including multiple-choice questions, free-text comments, and numerical ratings. This will help us understand both the positive and negative aspects of the program and identify areas for improvement.
-
-This form is intended for parents and students to provide their honest and constructive feedback. We value their opinions and will use them to inform future decisions about the school lunch program.
-
-</thinking>
-
 # School Lunch Survey - Help Guide
 ## Purpose
 The School Lunch Survey is designed to gather feedback from parents and students about the school lunch program. Your input is invaluable in helping us understand what we're doing well and where we can improve.

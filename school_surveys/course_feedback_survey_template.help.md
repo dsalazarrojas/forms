@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users who have taken a course, allowing instructors and administrators to gauge the effectiveness of the course content and overall experience. The form is a simple and structured way to gather feedback on various aspects of the course, including course content, organization, instructor performance, workload, and likelihood of recommendation. To ensure that your feedback is as valuable and informative as possible, please review the form carefully before providing your responses.
-</thinking>
-
 # course_feedback_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback on the course experience, including the content, organization, instructor, and overall satisfaction. Your responses will help improve the course and provide valuable insights for future students.

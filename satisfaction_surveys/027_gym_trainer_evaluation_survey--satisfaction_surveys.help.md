@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help evaluate the quality of service provided by the trainers. This form will be used to collect feedback from participants about their experiences with the trainers, specifically their level of professionalism, communication, motivation, overall satisfaction, availability, and any additional feedback they might have. This form aims to gather concrete and quantitative data to help improve the training services offered. Before proceeding, please ensure that you have not filled this form previously, as it is intended to collect feedback for a specific trainer and session. Please make sure to answer honestly and thoroughly, as your responses will help us understand areas of improvement for our training services.
-</thinking>
-
 # Gym Trainer Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback about your experience with a trainer, specifically on their level of professionalism, communication, motivation, overall satisfaction, and availability. Your input will help us improve our training services.

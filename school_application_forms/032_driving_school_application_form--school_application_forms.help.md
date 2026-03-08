@@ -1,11 +1,3 @@
-<thinking>
-This form is used by individuals who want to apply to a driving school or program. The form is meant to collect information about the applicant, their preferred driving school, and other relevant details to facilitate the application process. 
-The form is designed to be completed by an individual who is interested in enrolling in a driving school program. 
-The form does not require an internal ID or other identifying information, so the purpose is to make it accessible to as many users as possible. 
-The form is intended to collect contact information for follow-up and does not require any sensitive information. 
-This form is a general application form and does not have any conditional logic or dependencies. 
-</thinking>
-
 # driving_school_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to apply to a driving school or program. It helps the driving school to gather necessary details about the applicant and facilitate the application process.

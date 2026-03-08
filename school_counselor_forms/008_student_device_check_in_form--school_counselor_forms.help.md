@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help school counselors track and manage student devices during check-in/check-out events, ensuring accurate and efficient inventory management, and minimizing device-related issues. This form is used to gather essential information regarding students' devices, including their configuration status, availability, and check-in/check-out times.
-
-To avoid duplication and ensure accuracy, please use the following guide to fill out this form:
-
-Please refer to the provided guide for correct completion.
-</thinking>
-
 # Student Device Check In Form - Help Guide
 ## Purpose
 The Student Device Check In Form is used by school counselors to check-in/check-out students' devices during events. This form collects information to track device configuration, status, and check-in/check-out times, facilitating efficient inventory management and minimizing issues.

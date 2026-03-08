@@ -1,7 +1,3 @@
-<thinking>
-This form is for salon customers to schedule a re-booking or make an inquiry about an existing appointment. The form is designed to collect basic contact information and a message or notes from the customer. This form is intended to be used for internal purposes, and the information collected will be used by the salon staff to process the customer's request.
-</thinking>
-
 # Slicks-Back-To-Salon-Form - Help Guide
 ## Purpose
 The Slicks-Back-To-Salon-Form is used to collect information from customers to facilitate re-booking or inquiries about existing appointments.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about a client's skin concerns and medical history to help an esthetician provide a personalized chemical peel consultation. This form will help the esthetician understand the client's skin type, medical conditions, and treatment goals to make informed decisions about the type of peel to recommend and the number of sessions required.
-
-Before starting the form, the esthetician should first review the client's medical conditions and ensure that they are not a contraindication for a chemical peel treatment.
-
-</thinking>
-
 # Chemical Peel Consultation Form - Help Guide
 ## Purpose
 This form is designed to help an esthetician provide a personalized chemical peel consultation for a client. It asks for information about the client's skin type, medical history, and treatment goals to make informed decisions about the type of peel to recommend and the number of sessions required.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Human Rights Awareness Survey - Help Guide
 
 ## Purpose

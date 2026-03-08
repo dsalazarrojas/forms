@@ -1,11 +1,3 @@
-<thinking>
-This form is used to record and track student submissions for homework assignments. The form is intended to be filled out by the teacher or staff member who is submitting the work on behalf of a student. The purpose of this form is to capture essential details about the student's submission, including their name, the submission date, the assignment title, and any additional comments or notes that may be relevant. 
-The form is meant to be used to record each student's submission individually, so it is essential to fill out a new form for each student's work. 
-Please note that some fields are optional, but those fields are usually meant to capture additional information that may be helpful to understand the context of the submission. 
-For this form to be completed correctly, the teacher or staff member will need to be able to select the assignment type (whether it is true or false), provide the student's name, the submission date, the assignment title, and the due date of the assignment. 
-Some fields have been included to allow for additional comments or notes to be made, but these are not required. 
-</thinking>
-
 # homework submission form - Help Guide
 ## Purpose
 The homework submission form is used to record and track student submissions for homework assignments.

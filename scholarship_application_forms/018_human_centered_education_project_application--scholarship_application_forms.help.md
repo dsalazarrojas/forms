@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Human Centered Education Project Application - Help Guide
 
 ## Purpose

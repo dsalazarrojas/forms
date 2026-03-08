@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Operations Transformation Feedback Survey - Help Guide
 ## Purpose
 The Operations Transformation Feedback Survey is designed to gather feedback from employees on the operations transformation process. This survey aims to collect suggestions, challenges, and outcomes experienced by employees during the transformation process. The survey will help identify areas of improvement and provide insights for future transformations.

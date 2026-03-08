@@ -1,7 +1,3 @@
-<thinking>
-Dermal Filler Treatment Record Form helps healthcare professionals collect and store client information and treatment records for dermal filler treatments. This form can be used in various settings, including medical spas, clinics, or private practices. By filling out this form, you'll be able to track client data, such as their first and last names, dates of birth, and treatment dates. You'll also be able to record details about the treatment, including the type of dermal filler used and the next scheduled visit or follow-up appointment. Ensure that you're collecting only the necessary information for the form and not duplicating any data entry.
-</thinking>
-
 # Dermal Filler Treatment Record Form - Help Guide
 ## Purpose
 This form helps healthcare professionals collect and store client information and treatment records for dermal filler treatments.

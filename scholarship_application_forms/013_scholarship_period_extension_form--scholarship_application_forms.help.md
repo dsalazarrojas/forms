@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used by students to request an extension to the scholarship period for their academic program. The form is used to collect necessary information from the student to evaluate their request. The fields in this form are designed to gather specific details about the student's situation, such as their name, email address, reason for extension, and academic program. It is essential to ensure that the student's request is legitimate and not a duplicate, so please review the fields carefully before submitting the form.</thinking>
-
 # Scholarship Period Extension Form - Help Guide
 ## Purpose
 The Scholarship Period Extension Form is a form designed to help students request an extension to their scholarship period. This form is used to gather information about the student's situation and ensure that their request is legitimate.

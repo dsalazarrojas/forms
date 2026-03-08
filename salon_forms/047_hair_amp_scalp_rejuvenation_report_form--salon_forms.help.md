@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the hair and scalp rejuvenation process. It is intended for use by individuals who have undergone treatment and are providing feedback on their experience. The form is not intended for use by those who have not undergone treatment. To ensure accurate and helpful feedback, please answer the form questions honestly and thoroughly. If you are unsure about any of the questions, please consult with the treatment provider or seek guidance from a qualified professional.
-</thinking>
-
 # Hair & Scalp Rejuvenation Report Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your experience with hair and scalp rejuvenation treatments. This form will help us to better understand the effectiveness of the treatments and identify areas for improvement.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess the level of confidence users have in the financial governance of the organization. The form is likely designed to gather opinions on the transparency, accountability, and effectiveness of financial decision-making processes. It is essential to ensure that the form is completed by relevant users and not duplicated, as it may lead to incorrect or biased data. 
-It's also worth noting that the form's design is extensive, with multiple pages and fields, which could be overwhelming for users. To make the form more user-friendly, consider breaking it down into smaller sections or providing additional guidance or examples for users to follow.
-</thinking>
-
 # Financial Governance Confidence Survey - Help Guide
 ## Purpose
 The Financial Governance Confidence Survey is a series of questions designed to gauge the level of confidence users have in the financial governance of the organization. This survey aims to gather opinions on various aspects of financial decision-making processes.

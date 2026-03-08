@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from prospective families interested in exploring the school as an option for their child(ren). The purpose of this form is to collect relevant details about the family's inquiry, such as their contact preferences and scheduling interests. By filling out this form, the family will be able to provide their contact information and specify their preferences for communication and scheduling. This form helps the school to understand the family's needs and tailor their approach to provide the best possible experience for them.
-</thinking>
-
 # School Exploration Inquiry Form - Help Guide
 ## Purpose
 The School Exploration Inquiry Form is designed to gather information from prospective families interested in exploring the school as an option for their child(ren). The form is used to collect relevant details about the family's inquiry, such as their contact preferences and scheduling interests.

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used by international students applying to a program or institution. It is likely used in the context of international education, such as admissions offices or language schools. The form is meant to gather information about the student's background, contact information, passport details, medical data, qualifications, motivation, and supporting documents. 
-The form may be used for multiple purposes, and the purpose is not explicitly stated in the YAML definition. It is possible that the form is for initial applications, but it could also be used for ongoing or follow-up applications.
-
-To ensure this form's purpose aligns with your organization's requirements, verify the form's intended use and audience with the stakeholders or the relevant department.
-
-</thinking>
-
 # International Student Application Form - Help Guide
 
 ## Purpose

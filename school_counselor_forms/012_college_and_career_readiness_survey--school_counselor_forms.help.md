@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # College And Career Readiness Survey - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a survey designed for teachers to provide information about their use of technology in the classroom. The purpose of this form is to gather data about the technology used by teachers in different schools, such as desktop computers, smartphones, laptops, and interactive whiteboards. The form aims to collect information about the technology needed for teachers to perform their tasks, their level of knowledge required to use the technology, and any other comments or feedback they may have.
-
-This form is part of a larger effort to understand and improve the technology infrastructure in schools.
-
-</thinking>
-
 # Teacher Technology Survey - Help Guide
 ## Purpose
 This form is a survey designed for teachers to provide information about their use of technology in the classroom.

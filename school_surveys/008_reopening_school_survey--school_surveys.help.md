@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from parents or guardians regarding their child's potential return to school after a school closure. The form asks three questions: 1) whether the child's parent would like their child to attend school, 2) how many days a week they would prefer their child to attend, and 3) whether they would like their child to attend school on holidays. This form is designed to gather information to support school reopening decisions. Please ensure you only submit one response per household. If you've already submitted this form, please do not resubmit. Please complete this form accurately and honestly, as your responses will help inform school policies.</thinking>
-
 # Reopening School Survey - Help Guide
 ## Purpose
 This form is intended to gather feedback from parents or guardians on their preference for their child's school attendance after a closure.

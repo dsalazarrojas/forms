@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a website's search engine optimization (SEO) analysis. The purpose of this form is to gather input on various aspects of a website's SEO, including its performance, metadata, content, and tags. This information will help SEO analysts evaluate and improve a website's visibility and ranking on search engines. To avoid duplication, please ensure that you're submitting only one report per website.
-</thinking>
-
 # SEO Analysis Report Form - Help Guide
 ## Purpose
 

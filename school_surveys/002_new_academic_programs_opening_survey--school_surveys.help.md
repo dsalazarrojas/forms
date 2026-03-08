@@ -1,5 +1,3 @@
-<thinking>Form "compose" is used for gathering information about individual schools or educational institutions. It is designed to collect relevant details about the course of study, expected start date, contact information, school name, and other related data. This form will help in maintaining a comprehensive database of schools for future reference.</thinking>
-
 # compose - Help Guide
 ## Purpose
 The "compose" form is a tool used to collect information about individual schools or educational institutions. It is intended to provide a structured way to gather and store data about various aspects of a school's characteristics and contact details.

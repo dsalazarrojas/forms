@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to assess the quality and effectiveness of teaching at a school, gathering opinions and ratings on various aspects of the faculty and course materials. Its main objectives are to:
-
-* Evaluate the teaching quality and effectiveness of individual teachers
-* Assess the overall satisfaction and effectiveness of departmental teaching
-* Gather feedback on course materials and course evaluations
-* Identify areas of improvement for both faculty and departments
-
-Before filling this form, please ensure that you have reviewed all questions carefully and answered based on your actual experiences and opinions.
-
-To avoid duplication and ensure relevance, please do not submit this form unless you have direct experience or involvement with the course or faculty being evaluated.
-</thinking>
-
 # Faculty Evaluation Form - Help Guide
 ## Purpose
 This guide is intended to help users fill out the Faculty Evaluation Form accurately and effectively.

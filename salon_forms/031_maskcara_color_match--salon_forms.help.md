@@ -1,10 +1,3 @@
-<thinking>
-The form, "Maskcara Color Match," is likely designed for users to match a color name with specific details. To determine the form's purpose and context, consider the following:
-- The form requires customer name, color name, and other details like date and time, but not address or other typical customer information like ID or order number.
-- The form has specific fields for color and its match, implying a focus on color-related services like color consulting or product matching.
-- This form likely serves as a starting point for customer communication or inquiry, allowing the business to gather information about the customer's color preferences and needs.
-</thinking>
-
 # Maskcara Color Match - Help Guide
 ## Purpose
 The Maskcara Color Match form is designed to gather information from customers about their color preferences and needs. This form helps the business understand the customer's color type (natural or unnatural) and the type of color match they are looking for (exact or similar). The form also captures the customer's name, color name, and other relevant details to facilitate effective communication.

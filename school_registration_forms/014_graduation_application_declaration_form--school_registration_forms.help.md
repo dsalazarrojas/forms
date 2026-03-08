@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students regarding their graduation application. It is likely used for administrative purposes, such as tracking student progress or planning graduation ceremonies. This form should only be used for its intended purpose and not for any other reason. Ensure that you have the necessary permissions and approvals to complete this form.
-</thinking>
-
 # Graduation Application Declaration Form - Help Guide
 ## Purpose
 This form is used for students to declare their intention to graduate and provide essential details about their graduation.

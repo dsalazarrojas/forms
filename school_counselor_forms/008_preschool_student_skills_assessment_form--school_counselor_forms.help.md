@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Preschool Student Skills Assessment Form - Help Guide
 
 ## Purpose

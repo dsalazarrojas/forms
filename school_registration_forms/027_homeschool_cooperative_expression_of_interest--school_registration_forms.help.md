@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from families interested in joining a homeschool cooperative. The purpose of this form is to gather data about the family's homeschooling philosophy, goals, and interests. By completing this form, families can express their interest in joining the cooperative and provide essential information about their homeschooling approach, family demographics, and commitment level. This form serves as a starting point for the co-op application process. Please ensure that you have read and understood the guidelines and requirements before proceeding. 
-
-This is a one-time application process and once submitted, it will be reviewed by the co-op administrators. Please note that some fields are required to ensure that your application can be processed correctly.
-</thinking>
-
 # Homeschool Cooperative Expression Of Interest - Help Guide
 ## Purpose
 The Homeschool Cooperative Expression Of Interest form is designed to gather information from families interested in joining a homeschool cooperative. By completing this form, you will be able to express your family's interest in joining the co-op and provide the necessary information for the application process.

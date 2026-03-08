@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for schools to collect attendance information for student trips. It is used to track student participation in school-organized trips, which may include outings, excursions, or field trips. The form is designed to be completed by school administrators or teachers to quickly gather necessary details about the trip, including student demographics, trip dates, and attendance status.
-</thinking>
-
 # School Trip Attendance Form - Help Guide
 ## Purpose
 The School Trip Attendance Form is a tool for schools to monitor student participation in organized trips. By completing this form, you will be able to quickly track student demographics, trip details, and attendance information.

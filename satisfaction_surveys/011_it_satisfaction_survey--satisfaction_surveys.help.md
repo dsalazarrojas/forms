@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IT Satisfaction Survey - Help Guide
 
 ## Purpose

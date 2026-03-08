@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information about a sustainable farming fellowship, which is a program that provides support and resources to farmers and farming communities to help them develop and implement sustainable farming practices. The form is used to collect application information from interested individuals or organizations. To complete this form, you should carefully read the instructions and ensure that you have all the necessary information before starting. Please note that some fields are required, marked as "true" in the form, and some are optional. Ensure that you fill out all the required fields to increase your chances of a successful application. If you're not sure about any field, please ask for clarification or clarification...</thinking>
-
 # Sustainable Farming Fellowship Application Form - Help Guide
 
 ## Purpose

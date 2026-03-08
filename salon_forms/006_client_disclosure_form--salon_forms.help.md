@@ -1,6 +1,3 @@
-<thinking> 
-This form is a crucial part of our pre-service procedure. It ensures that clients are aware of and acknowledge our terms, including our service date, liability for clothing damage, and photo releases. This form helps us protect ourselves and our clients by clarifying expectations and ensuring informed consent. By completing this form, clients agree to our 24-hour cancellation policy and acknowledge our liability for clothing damage, which is a standard practice in the industry. The form also allows us to obtain a client's emergency contact information and obtain their consent for photo releases, which helps us share beautiful moments from their service on social media. It's essential that clients understand and sign this form before receiving services.</thinking>
-
 # Client Disclosure Form - Help Guide
 ## Purpose
 The Client Disclosure Form is a necessary step before receiving services. It outlines important information, including our liability for clothing damage, 24-hour cancellation policy, and photo release consent. This form ensures that both you and us are on the same page, protecting you and our team.

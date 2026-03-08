@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for gathering information from junior high students, teachers, or parents about their elective preferences and other relevant details. The form might be used for planning and organization purposes, such as scheduling electives or tracking student enrollment. It's possible that this form is used within a specific school or district. Before completing this form, double-check that it's not already filled out for the same student, and that you're filling it out for the correct purpose.
-</thinking>
-
 # Junior High Electives Survey - Help Guide
 ## Purpose
 The Junior High Electives Survey is a form used to gather information from junior high students, teachers, or parents about their elective preferences and other relevant details. This form helps the school administration and teachers plan and organize electives for the upcoming semester.

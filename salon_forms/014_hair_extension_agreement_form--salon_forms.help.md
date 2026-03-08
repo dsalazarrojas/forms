@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about a client's hair extension appointment. The form will likely be used by a salon to collect client's personal details and hair service preferences. This information will be used to prepare for the appointment and ensure that the client receives the best possible service. This form should only be used for hair extension services and not for other salon services. Please ensure that this form is not used for any other purpose.
-</thinking>
-
 # Hair Extension Agreement Form - Help Guide
 ## Purpose
 The Hair Extension Agreement Form is a document designed to collect information from clients who are interested in hair extension services at the salon. This form helps the salon staff to prepare for the appointment and provide the best possible service to the client.

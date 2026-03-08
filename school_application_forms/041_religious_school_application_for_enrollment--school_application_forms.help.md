@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect enrollment information from parents or guardians of students who wish to enroll in a religious school. The purpose of the form is to gather essential details about the student and their family, including contact information, academic background, and demographic data. 
-
-To ensure that the information provided is accurate and complete, please review the guidelines below.
-
-This form has 8 fields in 1 page. Each field is explained in detail in the "Field-by-Field Explanation" section of this guide. 
-
-Please ensure that you are submitting a new application for each student and that you are not duplicating an existing application by providing unique information for each child. 
-
-If you have any issues or concerns with filling out this form, or if you need assistance, please reach out to our support team.
-
-</thinking>
-
 # Religious School Application for Enrollment - Help Guide
 ## Purpose
 This form is designed to collect enrollment information from parents or guardians of students who wish to enroll in a religious school. The purpose of the form is to gather essential details about the student and their family, including contact information, academic background, and demographic data.

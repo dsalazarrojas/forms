@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with vendor invoices. It aims to collect information on various aspects of the invoice process, including satisfaction with the quality of invoices, payment terms, payment amounts, communication with the vendor team, and overall experience.
-The form is used to understand the strengths and weaknesses of the current vendor invoice process and identify areas for improvement. It is not a formal, contractual document but rather a tool to help the vendor company better serve its customers.
-Please make sure to submit your honest feedback to help us improve our services!
-</thinking>
-
 # Vendor Invoice Experience Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback from customers about their experience with vendor invoices. Your input will help us improve our services and better meet your needs.

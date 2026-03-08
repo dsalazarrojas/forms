@@ -1,14 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly, with a clear understanding of its purpose and how to complete it. This Marketing Quest Form is designed to collect marketing-related information for our team to better understand our customers' needs and preferences. Before filling out this form, please review each field carefully to provide accurate and relevant information.
-
-To avoid duplication, please check our database to see if a similar form has already been submitted. If you're unsure, feel free to ask your team member for guidance.
-
-The form is divided into multiple pages, each with its own set of fields. Please fill out each page sequentially, making sure to provide as much detail as possible.
-
-The form includes fields for various types of input, including text, numbers, selects, and email. Some fields are optional, but it's recommended to fill them out whenever possible to ensure we have a complete picture of your marketing quest.
-
-Now, let's go through each field and its purpose:</thinking>
-
 # Marketing Quest Form - Help Guide
 
 ## Purpose

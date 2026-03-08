@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Wellbeing Space Survey - Help Guide
 
 ## Purpose

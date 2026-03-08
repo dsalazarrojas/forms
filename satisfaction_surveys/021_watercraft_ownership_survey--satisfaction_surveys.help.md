@@ -1,6 +1,4 @@
-# <thinking> ... </thinking>
-
-This form is used to gather information about watercraft ownership. The purpose of this form is to gather data on various aspects of watercraft ownership, such as usage frequency, insurance coverage, and registration status. This information will help us understand the demographics of watercraft owners and provide valuable insights for future decision-making.
+# This form is used to gather information about watercraft ownership. The purpose of this form is to gather data on various aspects of watercraft ownership, such as usage frequency, insurance coverage, and registration status. This information will help us understand the demographics of watercraft owners and provide valuable insights for future decision-making.
 
 The form is designed to be completed by watercraft owners, and it consists of 25 questions that cover different aspects of watercraft ownership. The form includes questions on usage frequency, insurance coverage, boat characteristics, and owner information.
 

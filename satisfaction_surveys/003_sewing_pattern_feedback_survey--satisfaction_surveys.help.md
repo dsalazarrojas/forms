@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sewing Pattern Feedback Survey - Help Guide
 
 ## Purpose

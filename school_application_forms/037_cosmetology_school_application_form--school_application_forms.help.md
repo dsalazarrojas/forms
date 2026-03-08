@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for individuals seeking admission to a cosmetology school. The purpose of this form is to gather information from applicants about their background, education, and personal details to assess their eligibility for admission. The form collects data for the following: applicant information, contact information, payment method and details, cosmetology background, academic history, education background, personal info, address, social security number, date of birth, email, phone, high school graduation, graduation year, high school information, cosmetology school experience, current cosmetology status, education history, license information, state license number, state license type, certification information, and other information. This form is not intended for duplicate submissions; each applicant should fill it out only once. </thinking>
-
 # Cosmetology School Application Form - Help Guide
 ## Purpose
 The Cosmetology School Application Form is a collection of questions designed to gather necessary information from applicants seeking admission to a cosmetology school. The form is divided into sections that cover various aspects of an applicant's background, education, and personal details.

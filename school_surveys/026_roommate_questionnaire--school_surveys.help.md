@@ -1,8 +1,3 @@
-<thinking>
-The Roommate Questionnaire form is designed to gather information about individuals, specifically their personal details and preferences. The form is likely used in a school setting to gather information about students or staff members, or in a shared living environment to understand the characteristics and expectations of potential roommates. It is a collection of fields that allow users to input their name, age, height, interests, and other personal details. To ensure the form is properly filled out, users should only complete it if they are relevant to the intended use case, and not duplicate efforts by providing duplicate information.
-
-</thinking>
-
 # Roommate Questionnaire - Help Guide
 ## Purpose
 The Roommate Questionnaire is a form designed to gather information about individuals in a school or shared living environment. Its purpose is to help understand the characteristics, preferences, and needs of potential roommates.

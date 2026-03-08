@@ -1,16 +1,3 @@
-<thinking>
-The PMU Client Intake Form is designed to collect essential information from clients about their needs and preferences. This form helps to understand a client's personal details, contact information, and scheduling preferences. It also allows clients to provide any additional notes or comments. The purpose of this form is to create a comprehensive client profile, making it easier for our salon staff to provide personalized service.
-
-To determine relevance, we have considered the following:
-
-- This form is intended for use in a salon setting.
-- The form fields cover basic personal information, contact details, and scheduling preferences.
-- There is no clear indication that this form will be used for other purposes.
-
-To avoid duplication, we will not cover fields that are not included in the form.
-
-</thinking>
-
 # PMU Client Intake Form - Help Guide
 ## Purpose
 The PMU Client Intake Form is a crucial tool for our salon staff to gather essential information from clients. This form helps us understand clients' needs, preferences, and contact details, ensuring we provide personalized services.

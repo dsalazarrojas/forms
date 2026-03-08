@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the relevance of a school curriculum to the educational goals and needs of students. The form should not be completed for the same curriculum or by the same user multiple times. This form aims to collect feedback on the curriculum's alignment with educational goals, its effectiveness, and any additional comments or suggestions.
-</thinking>
-
 # School Curriculum Relevance Evaluation Form - Help Guide
 ## Purpose
 The School Curriculum Relevance Evaluation Form is intended to gather feedback from users on the relevance and effectiveness of a school's curriculum. This form helps the school administration to understand the strengths and weaknesses of their curriculum and make informed decisions about future changes and updates.

@@ -1,10 +1,3 @@
-<thinking>
-This help guide will be designed to provide users with a clear understanding of the form's purpose, how to complete it, and an in-depth explanation of each field. Given the form fields, the form appears to be a parent involvement survey for schools or educational institutions. It seems to be a general survey, not specific to any particular school or institution, which means that it may be applicable to a wide range of schools or educational settings.
-The purpose of this form seems to be to collect information from parents or guardians about their involvement in their child's education. This could be useful for schools to gain insights into the level of parent involvement and to tailor their communication and engagement strategies accordingly.
-However, there are a few fields that may be confusing or unclear without further context. For example, fields like 'parent_involvement_method' and 'parent_involvement_comments' may require additional information about what these fields are intended to capture. It's also worth noting that the form does not appear to be designed for any specific school or institution, which may make it difficult to tailor the questions and fields to the needs of specific schools.
-Overall, the form seems to be designed to collect general information about parent involvement, but more context would help to clarify its purpose and make it more effective for schools or educational institutions to use it.
-</thinking>
-
 # Parent Involvement Survey - Help Guide
 ## Purpose
 The Parent Involvement Survey is designed to collect information from parents or guardians about their involvement in their child's education. This survey aims to help schools or educational institutions gain insights into the level of parent involvement and tailor their communication and engagement strategies accordingly.

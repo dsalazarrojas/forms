@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is completed accurately and relevantly, please note that the purpose of this form is to gather information about visitors' experiences and perceptions of the wildlife reserve. This form is not intended to be filled out by non-visitor individuals. Before proceeding, please verify that you are a valid wildlife reserve visitor and that you have not already completed this form.
-</thinking>
-
 # Wildlife Reserve Visitor Impact Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and insights from visitors about their experiences at the wildlife reserve. Your input will help us understand how the reserve's efforts are impacting the visitor experience and inform future improvements.

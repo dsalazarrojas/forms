@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from guests attending a pool party. This form will be used to gather essential details such as guest name, phone number, email, and reservation time and date, to ensure that the party is a success and to facilitate communication with guests.
-This form is designed to be completed by guests themselves, and it will be available online.
-There is no need to create a separate instance for this form as it's meant to be used multiple times with different pool party settings.</thinking>
-
 # Pool Party Registration Form - Help Guide
 ## Purpose
 The Pool Party Registration Form is designed to collect registration information from guests attending a pool party.

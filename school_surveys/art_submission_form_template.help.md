@@ -1,10 +1,3 @@
-<thinking>
-This form was designed to gather feedback on the school's art submission process. The form is meant to be used by art submission form users to provide their honest opinion on their experience with the form. This form is an original creation and not affiliated with any other form platforms. It is released under the Creative Commons BY 4.0 license, allowing users to modify and even sell forms derived from it, provided credit is given. 
-
-Please ensure that the user has read and understood the form's purpose before proceeding. Also, check if the user has already submitted the form to avoid duplication. If this is the case, kindly direct them to the existing submission for updates or revisions.
-
-</thinking>
-
 # art_submission_form_template - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The form is used to gather feedback from users after a presentation has been delivered. This form is intended to measure the level of satisfaction with the presentation. The feedback collected will help identify areas of improvement.
-The form is designed to be simple and straightforward, making it easy for users to provide their feedback. The form consists of a series of fields that gather information about the user's experience with the presentation. The fields are: Survey Form, Questions, Comments, Rating, Email, Phone Number, Date, Time, and Additional Notes.
-The feedback form is not intended to be filled out by non-users of the system, so the "required" fields are optional. The form will only be visible to authorized personnel.
-</thinking>
-
 # post_presentation_survey - Help Guide
 ## Purpose
 This form is used to gather feedback from users after a presentation has been delivered. It helps identify areas of improvement for future presentations.

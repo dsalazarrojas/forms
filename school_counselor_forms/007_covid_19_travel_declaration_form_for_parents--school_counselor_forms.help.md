@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Travel Declaration Form For Parents - Help Guide
 ## Purpose
 This form is designed for parents or guardians to declare their child's travel plans, health status, and other essential information related to COVID-19. The form ensures that the school is informed about the student's travel and takes necessary precautions to protect the student and the school community.

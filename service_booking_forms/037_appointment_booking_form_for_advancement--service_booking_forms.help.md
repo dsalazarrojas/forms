@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from clients for an advancement consultation or coaching session. The form is used to gather relevant details about the client's current role, career goals, and areas for advancement, as well as their preferred appointment date, time, and meeting format.
-
-Before filling out this form, please ensure that you have not already submitted a similar form for the same purpose. This will help prevent duplicate submissions and ensure that your request is processed efficiently.
-
-</thinking>
-
 # Appointment Booking Form For Advancement - Help Guide
 ## Purpose
 This form is designed to collect information about your advancement goals and preferences for a consultation or coaching session. Please fill out the form carefully to ensure that your needs are accurately represented.

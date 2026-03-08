@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for booking and organizing creative collaboration meetings. It collects information about the meeting details, attendees, and other relevant data to facilitate efficient and organized meetings. This form is used by employees to create and manage meeting bookings, and the information provided will be used to keep track of meeting schedules and progress. Please ensure that you are using this form for its intended purpose and that the information you provide is accurate and up-to-date.
-
-</thinking>
-
 # Creative Collaboration Meeting Booking Form - Help Guide
 ## Purpose
 This form is used to book and organize creative collaboration meetings. It is intended for employees to provide information about meeting details, attendees, and other relevant data to facilitate efficient and organized meetings.

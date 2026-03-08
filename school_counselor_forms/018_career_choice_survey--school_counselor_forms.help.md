@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help students explore and identify their career interests, goals, and aspirations. It is meant to gather information about their current thoughts on career exploration, interests, and preferences. This form is not meant to be a comprehensive career assessment, but rather a starting point for students to reflect on their thoughts and identify potential areas of interest.
-</thinking>
-
 # Career Choice Survey - Help Guide
 ## Purpose
 This form is a tool to help students explore and identify their career interests, goals, and aspirations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Strength Serum Testing Survey - Help Guide
 
 ## Purpose

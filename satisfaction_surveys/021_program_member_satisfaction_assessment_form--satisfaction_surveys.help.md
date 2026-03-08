@@ -1,6 +1,3 @@
-<thinking>
-We need to check if this form is relevant and not a duplication before creating the help guide. This form is used to gather data from program members to assess their satisfaction with our program. It contains questions such as how often they interact with us, their level of satisfaction, and suggestions for improvement. The purpose of this form is to collect feedback from program members to improve our services.</thinking>
-
 # Program Member Satisfaction Assessment Form - Help Guide
 ## Purpose
 This form is used to collect feedback from program members to assess their satisfaction with our program. The goal is to understand how often they interact with us, their level of satisfaction, and gather suggestions for improvement.

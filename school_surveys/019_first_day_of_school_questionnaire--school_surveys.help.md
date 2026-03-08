@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # First Day Of School Questionnaire - Help Guide
 
 ## Purpose

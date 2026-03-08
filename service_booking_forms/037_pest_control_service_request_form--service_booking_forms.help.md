@@ -1,10 +1,3 @@
-<thinking>
-The form is used for customers to request pest control services. To ensure the form is completed accurately and consistently, it's crucial that we have a clear and concise user guide.
-The form is designed to collect relevant information from customers, which will be used to schedule and provide effective pest control services. This guide will help users understand the form's purpose and each field's significance.
-
-The following guide will help users complete the form with ease and precision.
-</thinking>
-
 # pest_control_service_request_form - Help Guide
 ## Purpose
 This form is used to request pest control services. Customers can fill out this form to provide the required information for the pest control service.

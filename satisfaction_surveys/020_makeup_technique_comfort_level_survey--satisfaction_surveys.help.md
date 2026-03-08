@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Makeup Technique Comfort Level Survey - Help Guide
 
 ## Purpose

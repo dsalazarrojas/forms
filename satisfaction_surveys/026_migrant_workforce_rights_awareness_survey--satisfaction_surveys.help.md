@@ -1,10 +1,3 @@
-<thinking>
-To create a helpful guide for users to complete the "Migrant Workforce Rights Awareness Survey", we should first understand the purpose and context of this form. This form is likely created to assess the awareness and understanding of migrant workers' rights in a specific workplace or industry. The survey aims to gather information about the workers' knowledge and experiences related to their rights, which can help identify potential issues or areas for improvement in the implementation of those rights.
-
-Before creating the guide, let's ensure this form is not a duplicate or unnecessary addition. This guide will help users understand the purpose and content of the form, ensuring they can complete it correctly and provide valuable insights.
-
-</thinking>
-
 # Migrant Workforce Rights Awareness Survey - Help Guide
 ## Purpose
 The Migrant Workforce Rights Awareness Survey is designed to gather information about your understanding and experiences related to your rights as a migrant worker. This survey is a tool to help us better understand your needs and identify areas for improvement in the implementation of your rights.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Emergency Contact Desk Booking Form is designed to allow users to schedule emergency contact desk services with various locations, emergency types, and time slots. This form should only be filled out for genuine emergency situations that require immediate attention. To ensure that users are not booking non-urgent matters, users will be asked to indicate a valid email address and provide a contact phone number.
 
 After reviewing the form's fields, it appears that there will be three sections: Location, Emergency Type, and Time slots. The Location field will allow users to select one of the available locations from the provided options. The Emergency Type field will ask users to choose one or more emergency types from the given options. The Time slots section will allow users to select a start and end time for their booked slot.

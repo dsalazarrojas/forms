@@ -1,8 +1,3 @@
-<thinking>
-This form is used for students and parents to register for a virtual summer school program. 
-Before starting, please ensure that you or your parent/guardian has not already submitted another registration form.
-</thinking>
-
 # Virtual Summer School Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students and parents to register for a virtual summer school program. The information collected will be used to create a personalized schedule and provide relevant resources and support during the program.

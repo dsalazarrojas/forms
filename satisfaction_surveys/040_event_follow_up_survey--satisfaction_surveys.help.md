@@ -1,7 +1,3 @@
-<thinking>
-Is this form for follow-up questions related to an event, and will it help us assess the satisfaction of the respondents regarding the same? The form is likely to gather qualitative feedback or answers to specific questions about the event that has happened. It seems like the form is meant for multiple choice questions with some text fields for more in-depth answers. It's good that the form is flexible, with the ability to have multiple pages and sections. I'll make sure to double-check that there are no duplicate questions or pages. I see that all questions are optional, which might be a good idea if the goal is to gather as much data as possible, but might also mean that respondents may not be motivated to answer all questions. I'll review the form structure and content to ensure it makes sense for the purpose.
-</thinking>
-
 # event_follow_up_survey - Help Guide
 ## Purpose
 

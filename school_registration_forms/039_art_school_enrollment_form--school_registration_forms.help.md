@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to collect information from students interested in enrolling in an art school program. The form includes a range of fields to gather essential details about the student, their interests, and background. It's essential to ensure that the student has all necessary information and understands the enrollment process. Before completing this form, please review the instructions carefully to avoid any confusion or duplication of effort.
-</thinking>
-
 # Art School Enrollment Form - Help Guide
 ## Purpose
 The Art School Enrollment Form is designed to collect essential information from students interested in enrolling in our art school program. This form will help us understand your background, interests, and needs to provide a smooth and effective enrollment process.

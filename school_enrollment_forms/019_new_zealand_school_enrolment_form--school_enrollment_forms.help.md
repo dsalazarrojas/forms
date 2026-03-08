@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a tool for schools in New Zealand to collect information from students and parents for school enrollment purposes. The form is designed to be simple and easy to use, with fields for student and parent details, date of birth, and contact address. Before completing this form, please ensure that you have the necessary permissions and authority to do so, and that you are not duplicating existing records. This form is not affiliated with any form platforms and is an original adaptation created by AI using public survey metadata.
-</thinking>
-
 # New Zealand School Enrolment Form - Help Guide
 ## Purpose
 The New Zealand School Enrolment Form is designed to collect essential information from students and parents for the purpose of school enrollment.

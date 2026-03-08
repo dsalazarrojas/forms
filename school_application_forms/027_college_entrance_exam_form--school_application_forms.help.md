@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from candidates applying for college entrance exams. It seems to be a standardized form for collecting data on students who are preparing for exams like the SAT, ACT, GRE, GMAT, LSAT, and other exams. The form is likely used by a college or university to assess the qualifications and preferences of potential applicants.
-</thinking>
-
 # College Entrance Exam Form - Help Guide
 ## Purpose
 The College Entrance Exam Form is a tool used by colleges and universities to gather information from students who are applying for entrance exams. This form helps the institution to understand the candidate's qualifications, preferences, and requirements for the exam.

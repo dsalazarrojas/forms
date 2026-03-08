@@ -1,7 +1,3 @@
-<thinking>
-The form "Return To In Person Learning Survey" is designed to collect data on the context and conditions of in-person learning environments in schools. This includes information on school context, in-person interactions, teacher support, teacher interaction frequency, student interaction, class size, peer help, teacher availability, teacher support quality, student support, student learning outcome, and student engagement. This form is intended to be completed by educators, researchers, or other stakeholders interested in gathering insights on the effectiveness and challenges of in-person learning. To ensure accurate and meaningful responses, please ensure that you have relevant knowledge and experience related to in-person learning settings.
-</thinking>
-
 # Return To In Person Learning Survey - Help Guide
 
 ## Purpose

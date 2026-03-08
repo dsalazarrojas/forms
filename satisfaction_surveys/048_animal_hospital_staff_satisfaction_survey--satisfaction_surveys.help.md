@@ -1,11 +1,3 @@
-<thinking>
-To create a well-structured and user-friendly help guide for the Animal Hospital Staff Satisfaction Survey, I'll consider the following points:
-- The form is designed to collect feedback from hospital staff on various aspects of their work experience, including job satisfaction, work environment, management support, and more.
-- The survey has a mix of multiple-choice and open-ended questions to gather both numerical and qualitative data.
-- The purpose of the survey is to help the hospital's management improve the work environment and overall staff satisfaction.
-
-</thinking>
-
 # Animal Hospital Staff Satisfaction Survey - Help Guide
 ## Purpose
 The Animal Hospital Staff Satisfaction Survey is designed to collect feedback from staff members on their experience working at the hospital. Your responses will help us improve the work environment and make your workplace better.

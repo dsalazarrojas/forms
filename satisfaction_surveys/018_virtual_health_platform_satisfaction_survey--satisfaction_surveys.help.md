@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and satisfaction data on the Virtual Health Platform. The purpose of this form is to gather information on how users find the platform meets their needs, and to identify areas for improvement. The form is structured to gather demographic information, user satisfaction, and feedback. It is essential that users provide accurate and honest feedback to help us better serve them.
-
-Before starting the form, please ensure that the information you are providing is accurate and up-to-date. The form consists of 25 fields, each designed to collect specific information.
-
-</thinking>
-
 # Virtual Health Platform Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback and satisfaction data on the Virtual Health Platform.

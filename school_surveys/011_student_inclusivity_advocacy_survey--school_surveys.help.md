@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students on the inclusivity and well-being of their campus environment. The purpose of this form is to identify areas where the campus can improve in supporting students' needs and create a more inclusive and safe space. The questions cover various aspects of student life, including climate, discrimination, and resources available on campus.
-</thinking>
-
 # Student Inclusivity Advocacy Survey - Help Guide
 ## Purpose
 This form helps to gather information about the student's experience on campus and identify areas where the campus can improve to create a more inclusive and safe space.

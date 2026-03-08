@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather student feedback and comments from teachers and students in order to improve the teaching experience and student engagement. This form will help teachers and students provide their thoughts and suggestions on various aspects of the class, including the class environment, teacher feedback, and student suggestions.
-We want to ensure that the information collected is valid and useful, so please fill out the form carefully and accurately. You can skip any questions that do not apply to you or your situation.
-</thinking>
-
 # Student Experience Survey - Help Guide
 
 ## Purpose

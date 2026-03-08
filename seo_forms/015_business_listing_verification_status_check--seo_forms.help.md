@@ -1,7 +1,3 @@
-<thinking>...
-To avoid duplication and ensure accuracy, this guide is intended for users who are not familiar with online business listing verification. Please read carefully before proceeding.
-</thinking>
-
 # Business Listing Verification Status Check - Help Guide
 ## Purpose
 This form is designed to help business owners verify their online presence across various directories. It's a crucial step in maintaining a strong online reputation and ensuring accurate representation of your business. 

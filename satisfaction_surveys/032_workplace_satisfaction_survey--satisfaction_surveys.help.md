@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to gauge employee satisfaction with various aspects of their workplace experience. It is meant to be completed by employees to provide their feedback and opinions on different aspects of their job and work environment. The form is not intended for use in any other context, and its results will be used internally to inform organizational development and improvements.
-</thinking>
-
 # Workplace Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to measure employee satisfaction with various aspects of their workplace experience, including overall job satisfaction, work-life balance, team collaboration, and more.

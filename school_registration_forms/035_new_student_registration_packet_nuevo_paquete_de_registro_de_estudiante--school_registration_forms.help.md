@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: A new student registration packet is designed for students, parents, or guardians to provide necessary information for student registration at a school. The form typically includes personal, contact, and medical information, ensuring a student's safety and academic success.
-This form should not be used for duplicate or non-matching students.
-</thinking>
-
 # New Student Registration Packet - Help Guide
 ## Purpose
 The new student registration packet is a form used to gather information for students registering at a school.

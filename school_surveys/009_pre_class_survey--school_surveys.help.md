@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Class Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This guide explains the purpose and requirements for the "Payroll System Performance Survey" form, ensuring end-users understand its intended use and how to fill it out accurately.
-</thinking>
-
 # Payroll System Performance Survey - Help Guide
 ## Purpose
 The "Payroll System Performance Survey" form is designed to gather feedback on the usability and performance of the payroll system. This form helps us understand how often you access payroll data, how you use the payroll system, and which features are most important to you. Your feedback is essential in helping us improve the payroll system for better performance and user experience.

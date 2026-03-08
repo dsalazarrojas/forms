@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide for the "patch_test_form", let's consider the purpose and relevance of the form. The form is likely used for medical testing and evaluation, and it seems to be a comprehensive form that collects various patient information and test results. To ensure the form's purpose and relevance, let's assume it's designed for medical professionals to collect and store data for patients undergoing tests or evaluations. The form likely helps streamline the testing process and ensures accurate record-keeping. The form's content appears to be well-structured and comprehensive, but it's essential to double-check each field to ensure clarity and accuracy. After a quick review, the form seems suitable for its intended purpose.</thinking>
-
 # patch_test_form - Help Guide
 ## Purpose
 The "patch_test_form" is a comprehensive form designed for medical professionals to collect and store data for patients undergoing tests or evaluations. It helps streamline the testing process and ensures accurate record-keeping.

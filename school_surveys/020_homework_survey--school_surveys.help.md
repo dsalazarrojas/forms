@@ -1,11 +1,3 @@
-<thinking>
-We are checking to see if this form is relevant and not duplicated. 
-
-The form was created using AI to generate a form based on public metadata about homework surveys. It is intended to be used for collecting feedback and comments from students about their homework assignments. The purpose of this form is to gather information about the quality and effectiveness of homework as a learning tool. The form asks about different homework assignments, their descriptions, types, and detailed feedback. It is a multiple-page form, where users can provide feedback for each homework assignment.
-
-If you are a student, use this form to give your honest feedback about your homework assignments. If you are a teacher, use this form to get valuable insights from your students about their homework experience.
-</thinking>
-
 # Homework Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and comments from students about their homework assignments. This feedback can help teachers identify areas of improvement and provide a better learning experience for students.

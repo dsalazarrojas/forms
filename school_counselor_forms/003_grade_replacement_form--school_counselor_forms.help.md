@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Grade Replacement Form" is to request a replacement for a student's grade in a specific subject or subject group. This form is used by school administrators or teachers to document and process grade replacement requests.
-To complete this form, follow these steps:
-</thinking>
-
 # Grade Replacement Form - Help Guide
 
 ## Purpose

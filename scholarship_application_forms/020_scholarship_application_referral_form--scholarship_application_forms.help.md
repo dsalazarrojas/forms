@@ -1,12 +1,3 @@
-<thinking>
-This form is used for referral purposes, to collect information about a student or researcher who is being referred for a scholarship application. The form is designed to gather relevant details about the referree (the person being referred) and their background, research experience, and achievements. The purpose of this form is to provide a complete and accurate picture of the referree, which will be used to evaluate their eligibility and suitability for a scholarship.
-
-Before filling out this form, please note that it is intended for referrals from institutions or mentors who have a personal relationship with the referree. If you are not a representative of the referree, please do not fill out this form. Also, please do not submit duplicate referrals for the same person.
-
-This form has multiple pages, each with its own set of fields. Please fill out the fields accurately and completely, and make sure to submit the form at the end of each page.
-
-</thinking>
-
 # scholarship-application-referral-form - Help Guide
 ## Purpose
 This form is used for referral purposes, to collect information about a student or researcher who is being referred for a scholarship application.

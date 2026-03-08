@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to be used by teachers, administrators, or parents to evaluate the performance of Sunday school teachers, gather feedback, and record any comments or suggestions. It's likely used in educational settings, possibly in religious institutions, to assess the effectiveness of Sunday school programs. The form is not affiliated with or derived from any form platform, and it's released under the Creative Commons BY 4.0 license, allowing for modification and commercial use with proper attribution.
-</thinking>
-
 # Sunday School Evaluation Form - Help Guide
 ## Purpose
 This form is designed to be filled out by teachers, administrators, or parents to assess the performance of Sunday school teachers, gather feedback, and record comments or suggestions.

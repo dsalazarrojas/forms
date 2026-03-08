@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide that provides a clear and concise explanation of the College Counselor Recommendation Form's purpose, how to complete it, and what each field means.
-The form is designed to collect information from a college counselor about their relationship with a student, including their academic performance, personal characteristics, leadership potential, and overall recommendation. This form will help the student's application for college or other academic opportunities.
-</thinking>
-
 # College Counselor Recommendation Form - Help Guide
 ## Purpose
 This form is for college counselors to provide their professional recommendation about a student's academic and personal qualifications. Please provide accurate and honest information to help the student's application.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting personal styling and fitting information from clients. It is likely used by a fashion or clothing brand to gather details about a client's body measurements, style preferences, and other relevant information to provide them with tailored clothing recommendations. This form should only be filled out once by a client and not repeatedly, as it captures their specific details for styling and fitting purposes.
-</thinking>
-
 # Personal Styling And Fitting Information Form - Help Guide
 ## Purpose
 This form is designed to collect personal styling and fitting information from clients. Please fill out this form to provide our stylists and tailors with the necessary details to create a custom fit just for you.

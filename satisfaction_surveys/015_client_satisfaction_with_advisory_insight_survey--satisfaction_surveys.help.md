@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from clients regarding their satisfaction with our advisory services. It is meant to measure various aspects of the firm's performance, including quality of service, level of engagement, and overall value provided. The responses will help us understand areas where we excel and where we may need to improve our services. Please answer the questions honestly and thoroughly.
-</thinking>
-
 # Client Satisfaction With Advisory Insight Survey - Help Guide
 
 ## Purpose

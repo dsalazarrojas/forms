@@ -1,9 +1,3 @@
-<thinking>
-
-**This form is designed to collect information about dermal filler treatments performed on a patient, typically in a medical or aesthetic setting. It appears to be a comprehensive form with multiple pages, but its purpose is not explicitly stated. To provide the most accurate help guide, I will assume that this form is intended to record and document the details of dermal filler injections or treatments, including patient data, treatment specifics, and aftercare instructions. Please note that this form may not be suitable for all settings or use cases, and it's recommended to review and validate it with medical professionals before use.**
-
-</thinking>
-
 # **dermal_filler_treatment_record_form - Help Guide**
 ## **Purpose**
 This form is designed to collect and document information about dermal filler treatments performed on patients, ensuring accurate and comprehensive records of treatment details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # website_redesign_seo_checklist_form - Help Guide
 ## Purpose
 This form is designed to collect information about a website redesign project, specifically for Search Engine Optimization (SEO) purposes. The goal is to gather relevant data to identify areas that need improvement and prioritize tasks for the redesign process.

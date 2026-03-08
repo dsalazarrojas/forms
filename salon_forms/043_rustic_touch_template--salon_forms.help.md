@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a "Rustic Touch Template" for a salonn-related service. The purpose of this form is to collect salonn-related information from customers. The form is likely used in a salon setting to gather data for a specific service or appointment.
-</thinking>
-
 # Rustic Touch Template - Help Guide
 ## Purpose
 

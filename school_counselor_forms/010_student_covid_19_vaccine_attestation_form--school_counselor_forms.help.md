@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form purpose is understood by the end users, we first verify that the form is being used correctly and not being duplicated.
-</thinking>
-
 # Student COVID 19 Vaccine Attestation Form - Help Guide
 ## Purpose
 The Student COVID 19 Vaccine Attestation Form is used to gather information about a student's interest and vaccination status, as well as provide a space for them to provide a reason if they are not vaccinated. This form also captures information about who has submitted the form and when it was submitted.

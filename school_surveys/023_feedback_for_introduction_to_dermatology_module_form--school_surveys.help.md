@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Feedback for Introduction to Dermatology Module Form - Help Guide
 
 ## Purpose

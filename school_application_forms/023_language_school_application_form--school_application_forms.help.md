@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users who are applying to a language school to learn a new language. The form is designed to be completed by the user, and the fields should be filled in accordingly. The form does not have any specific business logic or rules that would require a strict validation of the input, but rather it collects general information about the user such as their name, email, language of interest, and study schedule. The fields are mostly optional, but a valid email address and phone number are required fields. The purpose of this form is to facilitate the process of signing up for language lessons, therefore, the information collected will be used to contact and schedule lessons with the user. It is essential for the user to provide accurate and up-to-date contact information to facilitate smooth communication and scheduling.
-
-</thinking>
-
 # Language School Application Form - Help Guide
 ## Purpose
 The Language School Application Form is designed to collect information from users who want to learn a new language at our school. The form is used to gather details about the user's language preferences and study schedule to facilitate the process of signing up for language lessons.

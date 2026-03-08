@@ -1,9 +1,3 @@
-<thinking>
-This help guide should provide clear, concise explanations for end users who will be filling out the Sustainable Healthcare Operations Survey.
-The form is meant to gather information from healthcare organizations on their sustainability initiatives and practices.
-It seems that the form has multiple pages, each with distinct purposes, such as asking about sustainability initiatives, success stories, challenges, and staff feedback.
-</thinking>
-
 # Sustainable Healthcare Operations Survey - Help Guide
 ## Purpose
 The Sustainable Healthcare Operations Survey aims to collect information from healthcare organizations about their sustainability practices and experiences. This data will help us understand the current state of sustainability in the healthcare sector and identify areas for improvement.

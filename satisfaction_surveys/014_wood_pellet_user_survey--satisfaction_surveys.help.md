@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback and satisfaction data related to wood pellets, a type of heating fuel. This data will help us understand user behavior and preferences when it comes to wood pellets, including their usage habits, purchasing habits, and satisfaction with different aspects of wood pellets. This information will be used to improve our products and services. Please make sure to fill out the form only once and do not duplicate your responses.
-</thinking>
-
 # Wood Pellet User Survey - Help Guide
 ## Purpose
 The Wood Pellet User Survey is designed to collect information about your experiences and opinions on wood pellets.

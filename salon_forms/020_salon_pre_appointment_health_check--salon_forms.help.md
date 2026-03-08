@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential information from clients before their appointment at a salon. It's crucial to ensure that we have accurate and up-to-date information about our clients. Before filling out this form, please note that you must have completed the "Client Registration Form" (not included here) to be eligible to book an appointment. Also, please ensure that the information provided is accurate and complete, as it will be used to contact you and confirm your appointment.
-</thinking>
-
 # Salon Pre Appointment Health Check - Help Guide
 ## Purpose
 This form is used to collect essential information from clients before their appointment at a salon. This information will be used to contact the client and confirm their appointment, as well as to ensure that we have accurate and up-to-date information about the client.

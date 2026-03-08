@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for a scholarship reference submission. A referee is someone who has known the applicant for a certain period of time and can vouch for their character and abilities. This form is used by the referee to provide information about their relationship with the applicant and their qualifications for the scholarship. To ensure accurate and relevant submissions, referees should only complete this form if they have a strong relationship with the applicant and can provide honest and detailed information about the applicant's character and abilities.
-
-Before completing this form, please ensure that:
-
-* You have a strong relationship with the applicant and can vouch for their character and abilities.
-* You are not completing this form to duplicate or replicate an existing submission.
-* You have the necessary permission from the applicant to submit this form on their behalf.
-
-</thinking>
-
 # Scholarship Reference Submission - Help Guide
 ## Purpose
 The scholarship reference submission form is used by referees to provide information about their relationship with the applicant and their qualifications for the scholarship. The form is used to gather detailed information about the referee's relationship with the applicant, their character, and abilities.

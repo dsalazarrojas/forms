@@ -1,19 +1,3 @@
-<thinking>... internal reasoning block to check for form relevance and non-duplication ...
-
-This form was created to collect feedback on the effectiveness of training programs. The purpose of this form is to help us understand the level of satisfaction among trainees with the training content, materials, and overall experience. 
-
-Before completing this form, please ensure that you are providing honest and accurate feedback, as it will help us to improve the quality of our training programs. 
-
-This form is not affiliated with or endorsed by any form platform and is an original adaptation of publicly available survey topics.
-
-You can use this form for training satisfaction surveys, but please do not use it for other purposes without proper adaptation and modification.
-
-The form is released under CC BY 4.0, allowing you to use, modify, and share it freely, just give credit.
-
-If you need to contact us, please use form@gic.mx
-
-</thinking>
-
 # Training Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the effectiveness of training programs, aiming to improve the quality of our training content, materials, and overall experience.

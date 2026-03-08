@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ridgewood_behavior_incident_documentation_form - Help Guide
 ## Purpose
 The Ridgewood Behavior Incident Documentation Form is used to report and document incidents that have occurred at Ridgewood, allowing staff and administration to track and respond to incidents in a timely and accurate manner.

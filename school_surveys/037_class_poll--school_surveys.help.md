@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from students on various topics related to their class experience. The form is divided into several sections, each with its own purpose. This guide will walk you through each field, explaining its meaning and how to complete it.
-
-Before proceeding, ensure that the form is relevant to your role and purpose. If you're unsure, consider whether you're in the right context to fill out this form. If you've filled this form before, you may want to revisit your answers to see if they still apply or if your views have changed.
-
-This guide assumes that you're filling out the form for your own class experience. If you're filling it out on behalf of someone else, be sure to have their permission before providing information.
-
-Please follow the instructions carefully to ensure accurate and helpful feedback.
-
-</thinking>
-
 # Class Poll - Help Guide
 ## Purpose
 The Class Poll form is designed to collect feedback and suggestions from students on their experiences, opinions, and preferences related to their class. This form helps the instructor understand the students' perspectives, allowing for improvements and adjustments to be made to the class.

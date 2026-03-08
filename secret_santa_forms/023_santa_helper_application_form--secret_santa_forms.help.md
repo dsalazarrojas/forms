@@ -1,12 +1,3 @@
-<thinking>
-This is a secret_santa_forms form, specifically the Santa Helper Application Form. The purpose of this form is to gather contact information and skills of potential helpers for the Secret Santa gift-giving process. It's used to collect data from individuals who wish to participate in the process as helpers. 
-
-The form will be filled out by individuals who have been selected to be part of the Secret Santa pool, and will be used to match them with recipients. Each field is optional, and users can provide as much information as they want, but providing some fields may help the matching process.
-
-Please note that some fields might be optional, but providing accurate and complete information will increase the chances of being matched.
-
-</thinking>
-
 # Santa Helper Application Form - Help Guide
 ## Purpose
 The Santa Helper Application Form is used to collect contact information and skills of potential helpers for the Secret Santa gift-giving process.

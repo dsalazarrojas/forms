@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Customization Survey - Help Guide
 
 ## Purpose

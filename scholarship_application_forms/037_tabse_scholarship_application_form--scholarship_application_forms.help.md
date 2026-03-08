@@ -1,10 +1,3 @@
-<thinking>
-This form, the TABSE Scholarship Application Form, is designed for individuals to submit an application for the TABSE scholarship. The form gathers information about the applicant's educational background, work experience, and personal references. The purpose of this form is to evaluate applicants' qualifications and suitability for the scholarship. 
-
-Before starting the application process, it is essential to ensure that the applicant is eligible for the scholarship and has not already submitted an application. This form is intended to collect detailed information about the applicant's background and experiences, which will be reviewed by the scholarship committee. Please ensure that all fields are filled accurately and thoroughly, as incomplete or inaccurate information may lead to application rejection.
-
-</thinking>
-
 # TABSE Scholarship Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about your educational background, work experience, and personal references to evaluate your eligibility for the TABSE scholarship.

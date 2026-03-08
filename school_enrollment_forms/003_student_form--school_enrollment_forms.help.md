@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to ensure that the Student Form is filled out correctly, accurately, and without duplication, as this form will serve as the primary data collection tool for student enrollment information. This form will be used to gather essential details about students, such as their name, academic year, contact information, and other relevant data.
-</thinking>
-
 # Student Form - Help Guide
 
 ## Purpose

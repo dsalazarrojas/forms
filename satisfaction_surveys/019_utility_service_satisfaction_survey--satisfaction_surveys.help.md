@@ -1,8 +1,3 @@
-<thinking>Internal reasoning to ensure the form is relevant and not duplicated:
-The "Utility Service Satisfaction Survey" is designed to gauge customer satisfaction with the utility services provided. This form is meant to be completed by customers who have interacted with the utility service to capture their feedback on the quality, reliability, and overall satisfaction of the service. The form is intended to collect information on specific aspects of the service, such as service quality, reliability, and overall satisfaction, as well as any suggestions or improvement areas identified by the customer. The form also collects contact information, including email, phone number, and address, to facilitate follow-up contact. The form is not intended for internal use and is designed to be completed by customers.
-
-</thinking>
-
 # Utility Service Satisfaction Survey - Help Guide
 ## Purpose
 The "Utility Service Satisfaction Survey" is designed to gather feedback from customers on their satisfaction with the utility service provided.

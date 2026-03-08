@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Sign Off Form - Help Guide
 
 ## Purpose

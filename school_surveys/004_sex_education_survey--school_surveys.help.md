@@ -1,11 +1,3 @@
-<thinking>
-This is a crucial survey form to collect feedback from various categories of personnel (students, teachers, parents, health professionals, and counselors) to improve sex education in schools. This form should only be completed once per school year and by authorized personnel to avoid duplication. It is also recommended to review the completed survey forms carefully before submission to ensure accuracy and honesty. 
-
-The form contains fields to collect feedback on the sex education provided, and the responses will be treated as confidential and used to make informed decisions about the school's sex education program. 
-
-Please ensure that only authorized personnel complete this form to prevent duplication and unauthorized access.
-</thinking>
-
 # Sex Education Survey - Help Guide
 ## Purpose
 The Sex Education Survey is a form designed to collect feedback from various categories of personnel (students, teachers, parents, health professionals, and counselors) about the sex education provided in schools. This survey aims to improve the sex education program by gathering honest and informed feedback from those directly involved.

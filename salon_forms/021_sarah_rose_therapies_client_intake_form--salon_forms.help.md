@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect client intake information for Sarah Rose Therapies, a healthcare service provider. This form is designed to gather essential details from clients, including their personal and contact information. The fields included in this form are intended to facilitate smooth and effective communication between the client and the therapist, ensuring that the client's needs are met during their therapy sessions.
-
-This form is intended for new clients and is not a duplicate for existing clients. Existing clients may have already completed this form previously and do not need to do so again.
-
-</thinking>
-
 # sarah_rose_therapies_client_intake_form - Help Guide
 ## Purpose
 The sarah_rose_therapies_client_intake_form is a form designed to collect essential information from clients for the purpose of their therapy sessions.

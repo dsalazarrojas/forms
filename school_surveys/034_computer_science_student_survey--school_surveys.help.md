@@ -1,14 +1,3 @@
-<thinking>
-To create this help guide, I'll review the form fields and provide a brief internal reasoning block to ensure the form's purpose and relevance are clear. This will help me understand the form's context and make the help guide more accurate and helpful.
-
-The form "Computer Science Student Survey" is designed to collect feedback and ratings from students about their experiences with a computer science course. The form has a mix of demographic questions (student name, email address, major), questions about course specifics (course name, instructor name, semester), and evaluation questions (rating of course content, instructor effectiveness, difficulty, and pace).
-
-The form is meant to gather information about the course's strengths and weaknesses from students' perspectives. This data can be used by instructors and course administrators to identify areas for improvement and make informed decisions about course development.
-
-Before completing this form, please make sure you have taken the course in question and have a clear understanding of your experiences with it.
-
-</thinking>
-
 # Computer Science Student Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and ratings from students about their computer science course experiences. This data will help instructors and course administrators understand student perspectives and make improvements to the course.

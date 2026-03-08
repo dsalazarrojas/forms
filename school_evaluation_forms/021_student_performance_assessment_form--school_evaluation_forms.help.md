@@ -1,7 +1,3 @@
-<thinking>
-We are providing an internal reasoning block to confirm the purpose and non-duplication of this form.
-</thinking>
-
 # Student Performance Assessment Form - Help Guide
 ## Purpose
 The Student Performance Assessment Form is a comprehensive form used to assess a student's performance, attendance, and behavior. It helps teachers, administrators, or other educational professionals to monitor and evaluate a student's progress in school. The form can be used for various purposes such as monitoring student attendance, evaluating student behavior, and assessing student performance in different subjects.

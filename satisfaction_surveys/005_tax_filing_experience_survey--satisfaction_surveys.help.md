@@ -1,9 +1,3 @@
-<thinking>
-
-This form is part of the "satisfaction_surveys" category and its purpose is to gather feedback from users about their experience with the tax filing process. The goal is to identify areas of improvement for the tax firm and to understand what went well. This form should be filled out by people who have recently gone through the tax filing process. It's essential to complete this form only once per person to avoid duplication and ensure that your feedback is valuable.
-
-</thinking>
-
 # Tax Filing Experience Survey - Help Guide
 ## Purpose
 

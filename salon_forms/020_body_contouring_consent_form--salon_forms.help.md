@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to obtain informed consent from patients prior to undergoing body contouring procedures. This form will help you understand the process and ensure that you have all necessary information before proceeding. Please answer all questions honestly and accurately to provide a complete picture of your situation. If you have any doubts or concerns, please discuss them with the healthcare provider before completing this form. 
-</thinking>
-
 # Body Contouring Consent Form - Help Guide
 ## Purpose
 The Body Contouring Consent Form is a document that ensures you have a clear understanding of the body contouring procedure and its associated risks, benefits, and expectations. Completing this form will help you make an informed decision about whether to proceed with the procedure.

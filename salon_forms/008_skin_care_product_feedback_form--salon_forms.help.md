@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers on our skin care products. It is designed to gather information about the customer's name, the product they are providing feedback on, their rating, and any additional comments or suggestions they may have. The form is divided into several sections, each with its own label and hint to guide the user through the process. Before completing the form, the customer is asked to confirm that they are providing feedback on a skin care product. This form is not intended for duplicate entries from the same customer, and we will not use your information for any purpose other than to contact you to follow up on your feedback.
-</thinking>
-
 # skin_care_product_feedback_form - Help Guide
 ## Purpose
 The skin care product feedback form is designed to collect information from customers about their experiences with our skin care products. This form will help us understand how our products are performing in the field and provide better products and services to our customers.

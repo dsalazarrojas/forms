@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about clients' behavior and satisfaction with hair extension maintenance, including their habits, frequency of visiting the salon, satisfaction with the care they receive, their satisfaction with the brand, and other related aspects. This data will help the salon to better understand the needs and preferences of their clients, identify areas of improvement, and provide a more personalized experience.
-
-Please ensure that you are not duplicating this survey for the same client within a short period of time, as the responses may not accurately reflect the client's current feelings or behavior.
-
-This form is intended to be completed by clients, and it is recommended that only one person per client should complete it.
-
-Before starting, please make sure you have all the necessary information and permissions required to complete this form accurately.
-</thinking>
-
 # Hair Extension Maintenance Behavior Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your behavior and satisfaction with hair extensions maintenance. Your responses will help us understand your needs and preferences, allowing us to provide a better experience for you.

@@ -1,11 +1,3 @@
-<thinking>...checking for redundancy and relevance...
-
-Given the provided YAML form definition, this is a complex form with multiple pages and fields, likely used for gathering client feedback and improvement suggestions. The purpose of this form is to collect data from clients to improve the haircare consultation process.
-
-To avoid duplication, I will focus on creating a helpful and concise guide for end-users.
-
-...</thinking>
-
 # Haircare Consultation Improvement Survey - Help Guide
 
 ## Purpose

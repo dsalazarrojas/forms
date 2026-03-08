@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to apply for a single parent grant. The form is intended to collect information from a single parent who is applying for financial assistance or support funding to help with their child's needs. The purpose of this form is to gather relevant details about the applicant's identity, address, grant amount and type, and other supporting information. This form may be used by single parents who are in need of financial assistance or support to help with their child's education, housing, or other expenses. To be eligible for the grant, the applicant must be a single parent with a valid address and a clear understanding of the grant type and amount.
-
-</thinking>
-
 # Single Parent Grant Application - Help Guide
 ## Purpose
 

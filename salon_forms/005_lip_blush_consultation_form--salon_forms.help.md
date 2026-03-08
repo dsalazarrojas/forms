@@ -1,8 +1,3 @@
-<thinking>
-This is a form designed to collect client information and medical history for a lip blush consultation. The form is intended to gather details about the client's medical conditions, allergies, medications, and contact information. The form is likely to be used by estheticians or beauty professionals to assess the client's suitability for certain treatments or services.
-The form's purpose is to gather comprehensive medical information, but it's unclear if it's intended for medical professionals or not. The form has a mix of multiple-choice and text input fields, which might be confusing. Additionally, some fields seem to be duplicates or have unclear labels. For example, "Medical Notes 1" through "Medical Notes 8" seem to be unnecessary and might be removed or merged. "Medical License" and "Client Signature" fields are also unclear in their purpose.
-</thinking>
-
 # Lip Blush Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect client information and medical history for a lip blush consultation. It's intended to help beauty professionals assess the client's suitability for certain treatments or services.

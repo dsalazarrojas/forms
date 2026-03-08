@@ -1,7 +1,3 @@
-<thinking>
-This form was created to collect information from individuals applying for a scholarship. The information collected will be used to assess the applicant's qualifications and eligibility for the scholarship. Please ensure that you answer the questions accurately and thoroughly. The form is divided into multiple sections, each focused on a different aspect of your application.
-</thinking>
-
 # Scholarship Application - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying for a scholarship. It helps us understand your qualifications, financial needs, and other relevant details to assess your eligibility for the scholarship.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information related to school activities and student absences. It appears to be used in a school setting to record absences from school activities, allowing administrators to track attendance and communicate with parents or guardians. The form should only be used in the context of school activities, and not for general absence recording. 
-
-Before completing this form, ensure you have the correct school ID and activity details. This form is intended to be used for each school activity separately, so duplicate entries should not be necessary. 
-
-This form may be used by teachers, administrators, or parents/guardians to provide necessary information for school activities absences. Ensure that you are authorized to use this form and provide accurate information.
-
-</thinking>
-
 # school_activity_absence_form - Help Guide
 ## Purpose
 The school activity absence form is used to record student absences from school activities. This form helps administrators track attendance and communicate with parents or guardians.

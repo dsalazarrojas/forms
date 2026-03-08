@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from youth athletes who are applying for a grant to support their athletic pursuits. The purpose of this form is to gather details about the athlete's background, achievements, financial need, and other relevant information that can be used to assess their eligibility for the grant. This form is intended for youth athletes who are seeking funding to support their participation in sports. To ensure accuracy and fairness, we do not accept duplicate applications from the same athlete. If you have already submitted an application, please do not resubmit.
-</thinking>
-
 # Youth Athlete Grant Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from youth athletes who are applying for a grant to support their athletic pursuits.

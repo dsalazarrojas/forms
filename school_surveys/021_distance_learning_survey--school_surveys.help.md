@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather feedback from students about their distance learning experience. This guide is to ensure that end-users understand the purpose and requirements of the form, and how to complete it accurately. 
-To avoid confusion and duplication, please read this guide carefully before proceeding. 
-
-If you have already completed this form, please do not resubmit. Your feedback is valuable and helps us improve the distance learning experience.
-
-</thinking>
-
 # distance_learning_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their distance learning experience. Your responses will help us understand what works well and what needs improvement, allowing us to create a more engaging and effective online learning environment.

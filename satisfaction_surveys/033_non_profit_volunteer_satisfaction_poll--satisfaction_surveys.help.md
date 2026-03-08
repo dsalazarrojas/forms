@@ -1,8 +1,3 @@
-<thinking>
-Non-profit organizations often rely on volunteers to help them achieve their goals and make a positive impact in their communities. To ensure that volunteers feel valued and engaged, it's essential to regularly solicit their feedback. This form is designed to gather information about volunteers' satisfaction levels, allowing the non-profit to identify areas of improvement and make informed decisions about how to better support their volunteers.
-The purpose of this form is to collect anonymous and non-attributional feedback from volunteers about their experiences and perceptions of the non-profit organization.
-</thinking>
-
 # Non Profit Volunteer Satisfaction Poll - Help Guide
 ## Purpose
 The Non Profit Volunteer Satisfaction Poll is a survey designed to collect feedback from non-profit volunteers about their experiences and perceptions. The survey is anonymous and non-attributional, ensuring that volunteers can provide honest and unbiased responses.

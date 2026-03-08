@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the satisfaction of users with the newsletter provided by the company. The goal is to collect feedback on the content, format, and frequency of the newsletter. The survey is not mandatory, and users can provide answers for all or some of the questions. The questions in this survey are not intended to be answered by all users, and users can skip questions that do not apply to them. The survey is designed to be completed by users who are familiar with the company's newsletter, and it's expected that the answers will provide valuable insights for future improvements.
-</thinking>
-
 # Newsletter Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on the company's newsletter to ensure it meets the needs and preferences of its users. This information will help the company to improve and adjust the newsletter content and format for better engagement and satisfaction.

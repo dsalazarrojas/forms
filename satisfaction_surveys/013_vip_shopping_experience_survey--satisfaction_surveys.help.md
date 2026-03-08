@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the form is to collect feedback from customers about their shopping experience at our store. This will help us identify areas for improvement and provide better service to our customers in the future. This form is designed to be completed by customers who have visited our store and made a purchase. We want to understand their experience and what they thought of our store and products.
-
-To avoid duplicates, this form should only be filled out by customers who have not already completed this survey in the past.
-
-</thinking>
-
 # VIP Shopping Experience Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect feedback from customers about their experience at our store. Your input will help us improve our services and products to better meet your needs.

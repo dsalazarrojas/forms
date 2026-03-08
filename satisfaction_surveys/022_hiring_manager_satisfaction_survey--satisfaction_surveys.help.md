@@ -1,14 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Hiring Manager Satisfaction Survey" form. This form aims to gauge the satisfaction levels of hiring managers regarding their overall experience with the hiring process, their satisfaction with the job title, communication, support, training, job satisfaction, work environment, knowledge, and role satisfaction. 
-
-We need to confirm if this form is a new form and not a revision of an existing one to avoid duplication of effort.
-
-Form type is "satisfaction_surveys" which is not a standard or well-defined form type. We will need to clarify its purpose and intended usage. 
-
-Assuming this is a new form, we will create a comprehensive help guide to ensure end-users understand its purpose and how to complete it effectively.
-
-</thinking>
-
 # Hiring Manager Satisfaction Survey - Help Guide
 ## Purpose
 The Hiring Manager Satisfaction Survey is designed to collect feedback from hiring managers on their overall satisfaction levels with various aspects of the hiring process. This survey helps us understand the strengths and weaknesses of our hiring practices and identify areas for improvement.

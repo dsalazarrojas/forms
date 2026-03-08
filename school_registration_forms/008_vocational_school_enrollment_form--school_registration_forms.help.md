@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect vital information from students who are enrolling in a vocational school program. The form is divided into multiple sections, each focusing on a different aspect of the student's information. This form is intended for students who need to provide details about their personal and academic background. It's essential that the student fills out this form accurately and completely to ensure a smooth enrollment process.
-
-Before you start filling out this form, ensure that you have all the necessary information ready. The form is divided into 24 fields, so take your time to fill it out carefully. If you are unsure about any field, please contact the vocational school administration for clarification.
-</thinking>
-
 # Vocational School Enrollment Form - Help Guide
 ## Purpose
 The Vocational School Enrollment Form is designed to collect essential information from students who are enrolling in a vocational school program. This form helps the school administrators to understand the student's background, interests, and needs, which in turn, enables them to provide better services and support throughout the student's academic journey.

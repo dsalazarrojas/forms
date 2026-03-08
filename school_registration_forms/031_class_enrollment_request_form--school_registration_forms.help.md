@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Class Enrollment Request Form - Help Guide
+> # Class Enrollment Request Form - Help Guide
 
 ## Purpose
 This Class Enrollment Request Form is designed to gather information from students who wish to enroll in a class or program at our institution. Please complete this form to provide us with essential details about your identity, contact information, enrollment preferences, and academic background. This information will help us understand your needs and prepare you for your academic journey.

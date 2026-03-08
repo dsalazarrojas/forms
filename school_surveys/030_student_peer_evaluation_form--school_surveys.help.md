@@ -1,8 +1,3 @@
-<thinking>
-This form is used for students to evaluate their peers, providing a rating score and feedback for each student in the class. The form is meant to help instructors assess the performance and behavior of students in a class. Each field in the form has a specific purpose, as detailed below.
-
-</thinking>
-
 # Student Peer Evaluation Form - Help Guide
 ## Purpose
 The Student Peer Evaluation Form is designed to allow students to rate and provide feedback on their peers' performance and behavior in a class. The form is typically filled out at the end of the semester or academic year.

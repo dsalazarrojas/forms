@@ -1,5 +1,3 @@
-<thinking>As the form is designed to collect information about students' basic needs, the purpose of this form is to gather data on students' demographics, preferences, and needs related to their school experience. This information can be used to better understand students' circumstances and provide targeted support to help them succeed academically and personally. To avoid duplication of data, please only fill out this form once and do not submit multiple times. Please make sure to answer the questions honestly and accurately, as this information will help inform decisions that impact your school experience.</thinking>
-
 # Student Basic Needs Survey - Help Guide
 ## Purpose
 

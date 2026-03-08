@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to subscribe to a list, which can be a mailing list or newsletter. The purpose of this form is to collect basic information from users such as their first name, email, company, website, phone number, and description. The form should only be filled out by users who are interested in receiving updates or promotions from the company.
-</thinking>
-
 # Subscribe To My List - Help Guide
 ## Purpose
 The Subscribe To My List form is used to collect your personal information for our mailing list or newsletter. You can use this form to provide us with your contact information and description about yourself, which will help us better understand your interest and tailor our communication to your needs.

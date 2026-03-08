@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we need to understand that the form purpose is to collect information for private school license application. The fields are likely related to the school's information, license status, and submission details. 
-
-Based on the form fields, it seems that the school is applying for a private school license, and the form is designed to collect necessary details such as school name, type, and license status. The submitted date and time fields might be used for tracking when the application was submitted. The form also includes fields for school address, phone number, and email, which might be used for communication or verification purposes.
-
-To avoid duplication, we will ensure that the form fields are explained in a way that makes sense to the user.
-
-</thinking>
-
 # private_school_license_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from a private school applying for a license. It is meant to gather necessary details about the school, including its name, type, and license status.

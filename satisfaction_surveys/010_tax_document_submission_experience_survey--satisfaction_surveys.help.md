@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect user feedback and experience regarding the tax document submission process. It ensures that users are satisfied with the process and provides valuable insights to improve it. This form is intended for internal use only, and responses will not be publicly visible. To prevent duplication, please do not fill out this form if you have already done so in the past.
-</thinking>
-
 # tax_document_submission_experience_survey - Help Guide
 ## Purpose
 The tax_document_submission_experience_survey form is designed to gather feedback on the tax document submission process. This form helps us understand your experience and opinions to improve the process for future users.

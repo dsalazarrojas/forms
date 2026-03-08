@@ -1,7 +1,3 @@
-<thinking>
-The relationship_satisfaction_survey form is designed to collect feedback about the relationship between individuals in a given context, such as colleagues, friends, or family members. This form should not be completed by people who do not have relationships with the individuals being surveyed.
-</thinking>
-
 # relationship_satisfaction_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the relationship between you and another person, such as a coworker, family member, or friend.

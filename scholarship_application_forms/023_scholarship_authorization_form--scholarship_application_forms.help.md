@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from an applicant, student, or parent/guardian, and it includes fields for their personal details, contact information, academic background, and scholarship details. The form's purpose is to collect the necessary data for scholarship authorization. The form is not intended to be used for commercial purposes or to collect sensitive information. 
-
-Please note that this form is an AI-generated adaptation of a public survey topic in the "scholarship application forms" category and industry. It is not affiliated with, endorsed by, or derived from any form platform, and it is released under the Creative Commons BY 4.0 license. 
-
-If you are unsure about the form's purpose or usage, please refer to the form's metadata or contact the form's creators at form@gic.mx. 
-
-</thinking>
-
 # Scholarship Authorization Form - Help Guide
 ## Purpose
 The Scholarship Authorization Form is a document that allows applicants, students, or parents/guardians to provide necessary information for scholarship authorization. This form is designed to collect relevant details, including personal, contact, academic, and scholarship-related information.

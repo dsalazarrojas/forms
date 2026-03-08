@@ -1,8 +1,3 @@
-<thinking>
-This form is used to screen clients for services. It is meant to collect basic information about the client's appointment, phone number, and other relevant details. The form should not be used for other purposes.
-The form has several fields that are not required, but users should only use it for its intended purpose to avoid duplication and errors.
-</thinking>
-
 # oha_client_screening - Help Guide
 ## Purpose
 The oha_client_screening form is used to collect information about clients for services.

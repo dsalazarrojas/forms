@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Graphic Inquiry Form, intended to collect information from users to better understand their needs and preferences for graphic services. The form is designed to gather details about the user's project requirements, including services needed, budget, project deadline, and other relevant information. This form is not affiliated with any form creation platform and was generated using AI-powered insights from public survey topic metadata.
-
-</thinking>
-
 # Graphic Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from users to better understand their needs and preferences for graphic services.

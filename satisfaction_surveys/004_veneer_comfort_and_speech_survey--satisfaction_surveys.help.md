@@ -1,7 +1,3 @@
-<thinking>
-Are we sure this form is designed for evaluating the comfort and speech outcomes of veneer treatments? It seems to be used to collect data on patient experiences and comfort levels during and after the treatment. This form is likely used by dentists to gauge the effectiveness of their treatments and identify areas for improvement. To confirm, are there any specific requirements or constraints for this form's usage, such as which department it should be used in or any particular data collection goals?
-</thinking>
-
 # veneer_comfort_and_speech_survey - Help Guide
 ## Purpose
 This form is designed to evaluate the comfort and speech outcomes of veneer treatments. It is used by dentists to gauge the effectiveness of their treatments and identify areas for improvement.

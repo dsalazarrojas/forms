@@ -1,8 +1,3 @@
-<thinking>
-To confirm, I am creating a 20-page form for a "Dormitory Preference Survey" within the "school_surveys" category. This form has no specific field types, options, or validation, implying it might be a general survey or questionnaire. I will create a comprehensive guide to help users understand the purpose and usage of this form.
-
-</thinking>
-
 # Dormitory Preference Survey - Help Guide
 ## Purpose
 This guide will help you complete the Dormitory Preference Survey, a series of questions designed to gather information about your dormitory preferences.

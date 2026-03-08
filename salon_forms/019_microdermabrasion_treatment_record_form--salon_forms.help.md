@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Microdermabrasion Treatment Record Form - Help Guide
 ## Purpose
 This form is designed to record information about a microdermabrasion treatment given to a client. The form is used to document the treatment type, date administered, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is likely to collect feedback and ratings from clients or customers after a spa service appointment. It's used to gauge customer satisfaction and identify areas for improvement. To avoid duplication, this form should not be filled out if the client has already completed one after the same service appointment.
-</thinking>
-
 # Spa Service Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from clients or customers after a spa service appointment. It helps us to understand our services better and improve our performance.

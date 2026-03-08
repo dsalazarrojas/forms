@@ -1,14 +1,3 @@
-<thinking>
-We're creating a help guide for the "Student Adaptation To College Questionnaire" form. This form is used to gather information about a student's adaptation to college, including their background, parental involvement, and other relevant details.
-
-To ensure that we're creating an accurate and effective help guide, let's review the form fields one by one and determine their purpose, relevance, and any potential duplication or overlap in the information collected.
-
-The form appears to be a comprehensive questionnaire that covers various aspects of a student's adaptation to college. Some fields seem to be duplicates or have similar purposes, such as "student_adaptation_3" and "student_adaptation_2", which might be combined or rephrased for clarity. Similarly, "school_email" and "email" fields seem to collect the same information. 
-
-We'll review each field and provide a concise explanation for end-users to understand what's expected of them.
-
-</thinking>
-
 # Student Adaptation To College Questionnaire - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians for the second term of a childcare program. It will be used to gather essential details about the child's family, address, emergency contact, medical history, payment terms, and agreement to the program's terms and conditions. This form is a crucial part of the registration process, and it's essential to fill it out accurately and thoroughly. Please ensure that you are eligible to enroll a child in the program before proceeding with the registration.
-</thinking>
-
 # Second Term Childcare Program Registration Form - Help Guide
 ## Purpose
 The Second Term Childcare Program Registration Form is a required document that needs to be completed for the enrollment of a child in the second term of our program. It is essential to complete this form accurately and thoroughly to ensure that we have the necessary information to provide the best possible care for your child.

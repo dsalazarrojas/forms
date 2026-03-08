@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Student Manifesto Form - Help Guide
 ## Purpose
 The Student Manifesto Form is a document that outlines the student's goals, aspirations, and personal information, as well as their relationships with parents, guardians, and teachers. This form is designed to help students take ownership of their learning and development, and to provide guidance for school staff to support students' success.

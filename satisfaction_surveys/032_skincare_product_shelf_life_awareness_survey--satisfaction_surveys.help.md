@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the user's experience with skincare products, specifically their awareness of the shelf life of the products they use. This form will help us understand how users perceive the shelf life of skincare products, identify potential risk factors, and gather feedback on their habits and concerns related to product usage. This information will be used to improve our product development and provide better guidance to our customers.
-
-This form will collect data from users who have used skincare products, making sure that the form is only filled out by those who have actual experience with the products. To ensure that this form is not duplicated, we will be using this form as a follow-up survey for users who have previously interacted with our skincare product line.
-
-Before filling out this form, please make sure you have used a skincare product in the past and are familiar with the concept of shelf life.
-
-</thinking>
-
 # Skincare Product Shelf Life Awareness Survey - Help Guide
 ## Purpose
 This survey aims to understand your experience with skincare products, specifically your awareness of their shelf life.

@@ -1,18 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Marketing Service Order Form", I will first analyze the provided form structure and fields to understand the form's purpose and the expected user behavior.
-
-This form is designed to capture detailed information related to marketing services, including customer details, service specifics, and billing information. It appears to be a structured form that guides users through the process of creating a marketing service order.
-
-To confirm that this form is relevant and not duplicated, I'll consider the following:
-
-* The form has a wide range of fields, suggesting it's a comprehensive form for capturing marketing service details.
-* Each field has a clear label and type (e.g., text, date, select_one), indicating a well-defined structure.
-* The required fields are marked as true, implying that users need to provide essential information.
-
-Given this analysis, I conclude that the form is likely used for marketing service orders, and users need guidance on how to complete it accurately.
-
-</thinking>
-
 # Marketing Service Order Form - Help Guide
 ## Purpose
 The Marketing Service Order Form is designed to capture detailed information related to marketing services, including customer details, service specifics, and billing information. This form helps ensure that marketing services are properly ordered and managed.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's skin type, concerns, and skincare habits. The form is used to collect data for the purpose of providing personalized skincare recommendations. The fields in this form are intended to elicit information about the user's skin type, any skin concerns or issues they are experiencing, and their current skincare habits.
-</thinking>
-
 # Skincare Questionnaire - Help Guide
 ## Purpose
 This form is intended to gather information about your skin type, concerns, and skincare habits to provide personalized skincare recommendations.

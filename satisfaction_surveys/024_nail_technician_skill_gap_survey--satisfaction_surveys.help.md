@@ -1,26 +1,3 @@
-<thinking>
-
-This form is intended to gauge the skill gaps of nail technicians, helping us understand their current level of proficiency, training needs, and usage of nail products. This information will be used to create targeted training programs and materials to support the development of nail technicians' skills.
-
-We will be collecting data on the following fields:
-* How long have you been practicing nails?
-* Confidence level in performing nail services
-* What is your biggest need to improve your skills?
-* What is your level of experience with nail services?
-* What type of training have you had?
-* Confidence level in performing nail services
-* Which nail technique do you most frequently use?
-* Which nail products do you most frequently use?
-* Time management skills for nail technicians?
-* Communication skills for nail technicians?
-* Problem solving skills for nail technicians?
-* Nail proficiency for nail technicians?
-* Usage of additional nail products
-
-Please ensure that all required fields are filled out accurately, and that each field reflects your honest assessment of your current skills and experience.
-
-</thinking>
-
 # Nail Technician Skill Gap Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on the current skills and proficiency level of nail technicians. This information will be used to create targeted training programs and materials to support your development as a nail technician.

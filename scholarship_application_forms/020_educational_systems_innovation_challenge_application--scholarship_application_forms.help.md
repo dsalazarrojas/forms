@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or teams interested in participating in the Educational Systems Innovation Challenge, a competition that promotes innovative solutions for educational systems. The purpose of this form is to gather project ideas, impact descriptions, supporting documents, and team member information from applicants. To ensure that the form is being used correctly, it's essential to verify that it is not affiliated with any form platforms and that it was created using AI to adapt public survey topic metadata.
-
-Before proceeding, please note that the form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, provided they give credit.
-
-</thinking>
-
 # Educational-Systems-Innovation-Challenge-Application - Help Guide
 ## Purpose
 The Educational-Systems-Innovation-Challenge-Application form is designed to collect project ideas, impact descriptions, supporting documents, and team member information from individuals or teams interested in participating in the Educational Systems Innovation Challenge.

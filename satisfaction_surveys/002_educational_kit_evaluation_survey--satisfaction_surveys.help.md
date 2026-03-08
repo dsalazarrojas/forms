@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on educational kits from users, allowing them to provide their opinions and ratings on the usefulness, content quality, ease of use, and other aspects of the kit. This form ensures that the feedback is captured accurately and effectively, providing valuable insights to improve the kits in the future.
-</thinking>
-
 # Educational Kit Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on educational kits, helping us understand how well they meet your needs and expectations.

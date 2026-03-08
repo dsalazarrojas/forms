@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow students to submit a leave application for school, providing relevant details about their leave, such as the type of leave, start and end dates, and reason for leave. This form is intended to be filled out by students to request leave from school, and will be reviewed by school administrators.
-The form is not intended for use by staff members or other non-students, as it is primarily focused on student leave requests. It is recommended that staff members use a separate form for their own leave requests.
-</thinking>
-
 # Leave Application Form For School - Help Guide
 ## Purpose
 The Leave Application Form For School is used by students to request leave from school. It is a simple, multi-page form that collects necessary details about the student's leave.

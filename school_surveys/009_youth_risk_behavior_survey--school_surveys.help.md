@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about youth risk behavior in a school setting. This form is designed to be completed by a parent or guardian on behalf of a student. It's crucial to ensure that the form is filled out accurately and thoroughly to provide valuable insights into the student's behavior. To avoid duplication and ensure the form's purpose is met, please ensure that you have read and understood the form's purpose before proceeding.
-</thinking>
-
 # Youth Risk Behavior Survey - Help Guide
 ## Purpose
 The Youth Risk Behavior Survey is a tool designed to collect information from parents or guardians about their child's behavior in school. This survey aims to identify potential risks and issues that may affect the student's well-being and educational performance.

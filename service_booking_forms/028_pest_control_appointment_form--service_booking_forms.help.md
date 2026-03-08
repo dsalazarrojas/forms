@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to book a pest control service with the company. The form collects necessary information to schedule an appointment, including customer details, service preferences, and contact information. To ensure accurate completion, please review each field carefully and provide the required details. 
-Please note that all fields are optional, except for those marked as required.
-</thinking>
-
 # Pest Control Appointment Form - Help Guide
 ## Purpose
 The Pest Control Appointment Form is designed to help customers book a pest control service with our company. This form collects essential information to schedule an appointment tailored to the customer's needs.

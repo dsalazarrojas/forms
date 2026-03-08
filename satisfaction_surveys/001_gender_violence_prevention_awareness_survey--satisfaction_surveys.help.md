@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Gender Violence Prevention Awareness Survey", we need to understand the purpose of this form and the fields it contains. Based on the provided YAML fields, it appears that this form is designed to collect information about an individual's experiences with gender violence, including their relationships and community. The form consists of 11 questions, each with select options that aim to gauge the frequency and presence of gender violence. The purpose of this form is likely to gather data to raise awareness, educate, or support victims of gender violence.
-
-To ensure that this form is not duplicated or irrelevant, we should check if there are similar forms in our organization or if this form is relevant to our current goals and objectives.
-
-Assuming this form is new and relevant, let's proceed with creating the user-facing help guide.
-
-</thinking>
-
 # Gender Violence Prevention Awareness Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your experiences with gender violence, including your relationships and community. This data will help us raise awareness, educate, and support individuals affected by gender violence.

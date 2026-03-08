@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a simple request form for customers to book a service visit for roller shutter services. It should only be filled out by customers, not for internal staff, and should only be filled out once per service visit. The service types listed in the "Service Type" field should correspond to the different services offered by the company, such as repair, maintenance, and installation. When completing this form, please ensure that you have chosen the correct service type and provided accurate information in the other fields.
-</thinking>
-
 # Roller Shutter Service Request - Help Guide
 ## Purpose
 The purpose of this form is for customers to request a service visit for their roller shutter systems. Please complete this form to submit a new service request.

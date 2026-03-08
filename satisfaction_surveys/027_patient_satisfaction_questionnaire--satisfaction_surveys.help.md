@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I've analyzed the provided YAML fields for the "patient_satisfaction_questionnaire" form and have crafted a user-facing help guide to explain its purpose, completion process, and field-by-field explanation. This guide follows the required Markdown structure and provides concrete, concise explanations for each field.</thinking>
-
 # patient_satisfaction_questionnaire - Help Guide
 ## Purpose
 The "patient_satisfaction_questionnaire" form is designed to collect feedback from patients about their experience with the healthcare provider. This form helps us understand how satisfied patients are with the care they received, their likelihood of recommending the healthcare provider, and areas for improvement. Please answer the questions honestly to provide valuable insights.

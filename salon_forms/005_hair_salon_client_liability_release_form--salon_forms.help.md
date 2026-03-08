@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect essential information from clients before they undergo any treatment or service at the salon. This includes acknowledging and accepting the risks associated with the treatment, providing contact and emergency contact information, and disclosing any medical conditions, allergies, or medications. The form also requires clients to indicate their agreement to accept all risks and to provide insurance information (if applicable). Finally, the form serves as a document for the client and salon staff to sign, confirming the client's understanding and consent.
-</thinking>
-
 # Hair Salon Client Liability Release Form - Help Guide
 ## Purpose
 The Hair Salon Client Liability Release Form is a document that you need to complete before undergoing any treatment or service at our salon. It's essential to read and understand the contents of this form carefully before signing it.

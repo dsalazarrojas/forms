@@ -1,11 +1,3 @@
-<thinking>
-We need to check if this form is being filled out by someone who has actually purchased headphones. If they haven't, we don't want to bother them with a survey. We also want to ensure that this form isn't being used to game the system or collect fake data. Let's verify that the user has purchased headphones and isn't trying to submit a fake survey. If the user hasn't purchased headphones, they'll be asked to start over. If the user has purchased headphones but wants to submit fake data, we'll detect this and ask them to review their answers carefully.
-
-Once we're sure the user has purchased headphones and intends to submit real data, they'll be allowed to fill out the form. We want to make sure they understand what each field is for and how to complete it correctly. This way, we can get high-quality feedback from our users that will help us improve our products.
-
-This form has six questions that help us get feedback on the sound quality of the headphones, overall satisfaction, and other important details about the purchasing experience.
-</thinking>
-
 # Headphone Purchase Feedback - Help Guide
 ## Purpose
 This form is a quick and easy way for you to give us feedback about your recent headphones purchase. We value your feedback and would like to know how we can improve our products and services to better meet your needs.

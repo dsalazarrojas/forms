@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # High School Student Climate Change Awareness Survey - Help Guide
 
 ## Purpose

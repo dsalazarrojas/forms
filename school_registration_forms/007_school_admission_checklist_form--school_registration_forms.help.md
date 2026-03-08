@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from students and their families during the school admission process. It is intended to be used by school administrators to collect relevant details about each student, including their personal and family information, medical history, educational background, and other relevant aspects. This form helps the school to make informed decisions about student admission and placement.
-
-Before proceeding, please ensure that this form is not being used for any other purpose than its intended use as a school admission checklist. Duplicate or shared information can lead to errors or misinterpretation. This form was generated using AI technology and is not affiliated with any specific form platform.
-</thinking>
-
 # School Admission Checklist Form - Help Guide
 ## Purpose
 The School Admission Checklist Form is a collection of information required for student admission into a school. It gathers details about the student's personal and family background, medical history, educational past, and other relevant aspects to make informed decisions about admission and placement.

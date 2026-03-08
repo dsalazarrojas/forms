@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # seo-agreement-extension-form - Help Guide
 ## Purpose
 This form is used to manage and track agreements with clients, including extension requests, approvals, and other related information.

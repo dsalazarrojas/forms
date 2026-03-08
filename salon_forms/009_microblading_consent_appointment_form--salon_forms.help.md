@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for microblading services. It's meant for salons to gather customer details, appointment requests, and consent. This form is likely used by salons to streamline their operations, ensure clients are aware of the services offered, and obtain necessary consent and contact information.
-</thinking>
-
 # microblading_consent_appointment_form - Help Guide
 ## Purpose
 This form is used by salons to collect information from clients for microblading services. It is designed to gather customer details, appointment requests, and consent.

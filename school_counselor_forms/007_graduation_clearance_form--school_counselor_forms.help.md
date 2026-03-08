@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graduation Clearance Form - Help Guide
 ## Purpose
 The Graduation Clearance Form is used to collect information from students, counselors, and schools for graduation clearance purposes. This form helps to ensure that all necessary clearances are in place before a student graduates.

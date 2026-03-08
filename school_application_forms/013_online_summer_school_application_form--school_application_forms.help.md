@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from school administrators to create an application for online summer school enrollment. The form will collect student demographics, contact details, and other relevant information to facilitate the application process. This form is designed to be completed by school administrators to gather data for the school's online summer school program. It's crucial to ensure the form is completed accurately and thoroughly, as the submitted information will be used to create a successful and effective online summer school experience.
-
-</thinking>
 # Online Summer School Application Form - Help Guide
 ## Purpose
 This form is designed to collect student information and contact details to create an application for the online summer school program. It's intended for school administrators to gather data for the program.

@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a school application form designed for students or their guardians to submit their application to an academy. The purpose of this form is likely to gather necessary information from applicants, including personal and academic details. Before proceeding, please ensure you've read the form carefully and understand its content. If you're a guardian submitting on behalf of a minor, please note that some fields are only required for applicants under 18.
-
-</thinking>
-
 # Academy Application Form - Help Guide
 ## Purpose
 This form is used for students or their guardians to submit an application to the academy. 

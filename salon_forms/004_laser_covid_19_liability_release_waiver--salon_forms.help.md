@@ -1,10 +1,3 @@
-<thinking>
-Please note that the form is designed for a salon context, likely related to laser treatments or other medical-like services offered by the salon. It is crucial for the end-user to understand the implications of signing this form, as it involves liability releases related to COVID-19. The form likely requires clients to confirm their consent, medical history, and contact information. This form aims to ensure that clients understand the terms and conditions of their treatment and consent to the sharing of their information. 
-
-This guide will explain each section of the form, ensuring that end-users understand their purpose and the implications of their choices.
-
-</thinking>
-
 # Laser Covid 19 Liability Release Waiver - Help Guide
 ## Purpose
 The Laser Covid 19 Liability Release Waiver form is designed to ensure that clients understand their rights and responsibilities when receiving laser treatments at the salon. It covers medical history, contact information, and consent for treatment, photography, and sharing of client information.

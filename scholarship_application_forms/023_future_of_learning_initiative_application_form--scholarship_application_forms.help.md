@@ -1,15 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to collect information from individuals interested in the "Future of Learning" initiative, which aims to support and promote innovative learning practices and technologies. This form is used to gather basic contact information, backgrounds, and interests of applicants, as well as their consent to the terms and conditions of the initiative.
-
-Before filling out this form, please note that:
-
-*   This form is not a formal application for a scholarship or funding. The "Future of Learning" initiative is a platform for supporting learning innovation, not a funding opportunity.
-*   If you are interested in applying for funding, you should look for other available opportunities.
-
-Please ensure that you are filling out this form for the right reason and purpose.
-
-</thinking>
 # Future Of Learning Initiative Application Form - Help Guide
 ## Purpose
 The "Future of Learning" initiative aims to support and promote innovative learning practices and technologies. This form is used to gather information from individuals interested in participating in or contributing to the initiative.

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for parents or guardians to register their child for a Second Term Childcare Program. The form will be used to collect information necessary for the program's administration and communication. Please ensure that all required fields are filled out accurately to avoid delays in processing the registration.
-
-To determine the relevance of this form, consider the following:
-- Is the user a parent or guardian of a child in need of childcare services?
-- Has the user previously registered their child for this program or a similar program?
-
-If the user answers "yes" to either question, it is likely that this form is relevant to them. If not, it may not be necessary to proceed.
-</thinking>
-
 # Second Term Childcare Program Registration Form - Help Guide
 ## Purpose
 This form is used to register your child for the Second Term Childcare Program. Please fill out the form accurately and completely to ensure your child's registration is processed efficiently.

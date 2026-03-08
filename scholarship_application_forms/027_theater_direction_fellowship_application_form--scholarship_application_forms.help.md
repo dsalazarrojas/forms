@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Theater Direction Fellowship Application Form", I'll first analyze the form's purpose and requirements.
-
-The form is intended to gather information for the "Theater Direction Fellowship" program. This program likely aims to provide financial support and guidance to individuals seeking to develop their skills and careers in the theater direction field. The form collects general contact information (Email and Phone Number), fellowship-specific data (Fellowship Category, Amount, Duration, and Dates), and notes or additional details about the applicant's background and goals. The form is required, implying that providing all requested information is a condition for eligibility or consideration.
-
-</thinking>
-
 # Theater Direction Fellowship Application Form - Help Guide
 
 ## Purpose

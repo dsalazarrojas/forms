@@ -1,14 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Pre Kindergarten Registration Program" form, I'll analyze the provided YAML fields and explain the purpose, how to complete it, and each field's purpose.
-
-The form is intended for registering information related to a pre-kindergarten student, including basic contact details, emergency contact, and medical information. Each field will be explained in detail below.
-
-After ensuring that all fields are properly filled out and necessary, users will be able to submit their information, which will be reviewed by the school or program representatives.
-
-The form's main goal is to collect essential data for the student's pre-kindergarten program enrollment. Users are expected to fill out the form as accurately and thoroughly as possible to ensure a smooth onboarding process.
-
-</thinking>
-
 # Pre Kindergarten Registration Program - Help Guide
 ## Purpose
 The Pre Kindergarten Registration Program is designed to collect essential information about a student to ensure a smooth onboarding process for the pre-kindergarten program. Please fill out the form carefully, following the provided instructions below.

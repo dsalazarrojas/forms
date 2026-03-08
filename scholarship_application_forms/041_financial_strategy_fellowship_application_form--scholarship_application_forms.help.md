@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying for a Financial Strategy Fellowship. The purpose of this form is to gather general information, financial background, education, work experience, skills and certifications, personal questions, and allow applicants to upload files related to their application. This form does not have any specific requirements for submission, so applicants can fill it out as much or as little as they need to. The form was generated using a machine learning algorithm, and its purpose is to serve as an example or a starting point for real-world applications.
-
-</thinking>
-
 # Financial Strategy Fellowship Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying for a Financial Strategy Fellowship. The form is meant to gather general information about the applicant, their financial background, education, work experience, skills and certifications, and personal questions relevant to the fellowship. The form also allows applicants to upload files related to their application.

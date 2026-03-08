@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is used for its intended purpose and to prevent duplication of effort, we need to clarify that this form is designed for users to gauge their awareness of different lash glue ingredients and their reactions to them. The form is meant to collect information on the types of ingredients users are aware of, their common reactions to these ingredients, where they typically source this information, and their contact details for follow-up or further clarification. This form is not intended for users to report incidents or issues with lash glue products, but rather to provide a snapshot of their current awareness and knowledge. Please fill out the form carefully and accurately to provide valuable insights for the intended purpose.
-</thinking>
-
 # Lash Glue Ingredient Awareness Survey - Help Guide
 ## Purpose
 The Lash Glue Ingredient Awareness Survey is designed to gauge your awareness of different lash glue ingredients and their reactions to them. This survey aims to understand where you typically source information about these ingredients and gather your contact details for follow-up or further clarification.

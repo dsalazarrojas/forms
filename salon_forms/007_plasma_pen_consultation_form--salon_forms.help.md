@@ -1,12 +1,3 @@
-<thinking>
-Plasma Pen Consultation Form is used for collecting information from clients to better understand their needs and schedule for plasma pen treatment. This form will help in ensuring that the treatment is tailored to the client's requirements and that the client is aware of the next steps involved in the process. The form should only be filled out by clients who are interested in receiving plasma pen treatment, and not by clients who are simply browsing the site. This form will help in reducing the number of phone calls and emails received by the clinic due to incorrect information. It is recommended that the form should only be filled out once the client has been pre-qualified or has scheduled an appointment for plasma pen treatment.
-
-The form will be used by clinic staff to:
-* Assess the client's needs and medical conditions
-* Determine the client's availability for treatment
-* Create a plan for the client's treatment
-</thinking>
-
 # plasma_pen_consultation_form - Help Guide
 ## Purpose
 The Plasma Pen Consultation Form is used to collect information from clients to better understand their needs and schedule for plasma pen treatment.

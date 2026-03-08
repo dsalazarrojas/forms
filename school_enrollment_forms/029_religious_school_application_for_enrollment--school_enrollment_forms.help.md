@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information from students or their parents/guardians for the purpose of enrolling a student in a religious school. The form is designed to collect personal details such as name, contact information, and school id. It is assumed that the school's administrative system will use this form to process and verify the information provided. This form should only be filled out once for each student. 
-</thinking>
-
 # Religious School Application For Enrollment - Help Guide
 ## Purpose
 This form is used to gather information from students or their parents/guardians for the purpose of enrolling a student in the religious school.

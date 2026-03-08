@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Cheating Survey - Help Guide
 ## Purpose
 This form is designed to gather information from students about their experiences with cheating in schools. It aims to understand the frequency and nature of cheating behavior among students. This information will be used to inform strategies to prevent and address cheating in educational settings.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students to request a transcript. It is not a form for school staff to use for administrative purposes. To avoid duplication, the school's IT department will not process duplicate transcript requests from the same student within a 6-month period. If a transcript request is cancelled, it will not be resubmitted. This form will only be available to students and will not be shared with school staff.
-</thinking>
-
 # Student Transcript Request Form - Help Guide
 ## Purpose
 This form is designed to allow students to request a transcript from the school. Please follow the instructions below to complete the form correctly.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to provide a check-in for pest control services. It captures essential information to streamline the service process and ensure efficient communication between the pest control company and the customer. This form should not be used for other purposes as it is designed to be specific to pest control services. Please ensure that you have the correct information and permissions before filling out this form. This form is not meant to be duplicated or used for any other purpose without proper authorization.</thinking>
-
 # Pest Control Service Check In Form - Help Guide
 ## Purpose
 This form is designed to gather information for pest control services. It ensures that all relevant details are captured and communicated effectively with the pest control company.

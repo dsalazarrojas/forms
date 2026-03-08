@@ -1,9 +1,3 @@
-<thinking> 
-
-To be eligible for the Global Exchange Fellowship, you will need to complete this application form. This form is to gather information about yourself and your referee as part of the application process. Please ensure you answer these questions honestly and thoroughly. 
-
-</thinking>
-
 # Global Exchange Fellowship Application - Help Guide
 ## Purpose
 This form is designed to collect information about yourself and your referee as part of the Global Exchange Fellowship application process. Please complete this form to provide us with necessary details.

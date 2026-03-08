@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for booking backstage services (Hair and Makeup) for events such as birthday parties, weddings, or photoshoots. It allows end-users to select the service type (Hair, Makeup, or both), specify the time of the service, provide customer contact information (Name, Email, Phone), and choose the type of event (optional). The form is intended for service providers to easily collect necessary information from customers. The purpose of the form is to streamline the booking process and reduce administrative tasks for service providers.
-
-</thinking>
-
 # Hair & Makeup Backstage Booking Form - Help Guide
 ## Purpose
 This form is designed for booking backstage services for events such as birthday parties, weddings, or photoshoots. It allows you to easily collect necessary information from customers, streamlining the booking process and reducing administrative tasks for service providers.

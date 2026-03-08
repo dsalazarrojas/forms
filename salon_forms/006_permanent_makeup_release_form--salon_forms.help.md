@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a "Permanent Makeup Release Form" used in the salon industry. The purpose of this form is to obtain the necessary permissions and releases from clients for the use of their photographs and videos taken by the salon. The form likely aims to inform clients about the intended use of their images and how they will be used, and to gather information about their preferences for contact and communication. It is possible that this form is used to manage client relationships and consent for the use of images. However, the lack of specificity in the field labels suggests that this form might need further refinement. I'll assume that the fields are self-explanatory based on their labels.
-
-</thinking>
-
 # Permanent Makeup Release Form - Help Guide
 ## Purpose
 The Permanent Makeup Release Form is a document that helps you, the client, to decide how your photographs and videos taken by our salon can be used. This form is essential for us to understand your preferences and ensure that we respect your wishes regarding the use of your images.

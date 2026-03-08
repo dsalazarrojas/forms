@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Note:**
-Before proceeding with this help guide, I would like to check if the form "student_support_team_referral_form" is not a duplication or misnomer. It seems there is a large number of fields with identical labels but different names, which might indicate a design flaw. I will attempt to create a help guide assuming these fields are intended to be used in a specific context, but please double-check the form's purpose and functionality with the development team.
-
-</thinking>
-
 # student_support_team_referral_form - Help Guide
 ## Purpose
 The student support team referral form is designed to facilitate referrals for students who require support from the school's student support team. This form helps in documenting student referrals and their related information for efficient tracking and follow-up.

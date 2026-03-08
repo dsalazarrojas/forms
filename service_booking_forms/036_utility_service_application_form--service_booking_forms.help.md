@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are requesting utility services such as electricity, water, or gas. The form is intended to gather details about the customer's service request, including the type of service requested, contact information, and additional information if needed. The form is also designed to collect a signature from the customer, which may be required for service agreement or verification purposes.
-</thinking>
-
 # Utility Service Application Form - Help Guide
 ## Purpose
 The Utility Service Application Form is used to collect information from customers who are requesting utility services such as electricity, water, or gas.

@@ -1,25 +1,3 @@
-<thinking>
-This form is intended to gather information from participants in a Secret Santa gift exchange, a popular holiday tradition where people exchange small gifts with each other. The form aims to capture the interests, likes, and dislikess of each participant, as well as any specific preferences or dislikes they may have for their gift.
-
-The form is designed to be completed by the individual who will be receiving the gift, and its purpose is to help the person who will be buying the gift understand what the recipient would enjoy or appreciate.
-
-The form will be used to create a more personalized and thoughtful gift, and to avoid any potential gift-related conflicts or issues.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and is a unique creation using AI-generated form design principles.
-
-The form has a total of 8 fields:
-- gift_recipient (page 1)
-- recipient_interests (page 1)
-- likes (page 1)
-- dislikes (page 1)
-- preferences (page 1)
-- specific_likes_dislikes (page 1)
-- gift_budget (page 2)
-- gift_frequency (page 2)
-
-Before proceeding, please ensure that you have completed the form only once. If you need to complete it multiple times, please use a different instance of the form or contact the form administrator.
-</thinking>
-
 # Secret Santa Likes And Dislikes Form - Help Guide
 
 ## Purpose

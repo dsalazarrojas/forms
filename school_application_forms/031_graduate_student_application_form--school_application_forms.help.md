@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form purpose and relevance. The Graduate Student Application Form is designed to collect information from students who are applying to a graduate program. This form helps the admissions committee review and evaluate each applicant's qualifications and background. To ensure accurate and complete responses, please review the form carefully and provide the necessary information.</thinking>
-
 # Graduate Student Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who are applying to a graduate program. Please provide the requested information accurately and thoroughly to ensure a successful application.

@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for assessing the functional behaviors of a student, likely for special education or counseling purposes. The form is divided into various sections that cover different aspects of the student's behavior, including social interaction, emotional regulation, communication skills, self-care, social skills, adaptive and maladaptive behaviors, risk factors, and more. The form requires input from both the student and the assessor, with fields such as student name, student ID, date and time of assessment, behavioral data points, and more.
-To avoid duplication and ensure accurate completion, it's essential to understand the purpose and intent behind each section. This guide will walk you through each section to help users complete the form accurately and effectively.
-
-</thinking>
-
 # Functional Behavior Assessment Form - Help Guide
 
 ## Purpose

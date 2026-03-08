@@ -1,15 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide, I'll analyze the form's purpose and fields as per the provided YAML. 
-
-The form "Post Update Satisfaction Check In" is likely a post-launch survey designed to gather feedback from players, developers, and stakeholders about the update. The purpose of this form is to collect information about the update's success, player feedback, and the developer's satisfaction with the update. It might also help in identifying areas for improvement and fixing issues quickly.
-
-The form has two required fields: `player_feedback`, `rating`, `satisfaction_trend`, and `fix_priority`. The `player_feedback` field is a text field for players to share their thoughts about the update, `rating` is a numerical field for rating the update on a scale of 1-5, `satisfaction_trend` is a dropdown field for indicating whether the update was satisfactory or not, and `fix_priority` is a dropdown field for setting the priority of fixes required post-update.
-
-The other fields, `release_notes` and `player_notes`, are optional and might be used for additional context or notes about the update.
-
-</thinking>
-
 # Post Update Satisfaction Check In - Help Guide
 ## Purpose
 The Post Update Satisfaction Check In form is a survey designed to gather feedback about the update's success and identify areas for improvement.

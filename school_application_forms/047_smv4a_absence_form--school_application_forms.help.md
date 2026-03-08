@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # SMV4A Absence Form - Help Guide
 
 ## Purpose

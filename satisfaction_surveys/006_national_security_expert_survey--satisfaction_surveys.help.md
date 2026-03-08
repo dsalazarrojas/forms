@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from security industry experts regarding their primary role, contact frequency, contact preferences, and customer interaction habits. This form will help to gather insights on how security experts operate and interact with their customers. 
-
-Please ensure you have not completed this form previously before answering the questions.
-
-This form has 12 fields in total, with most of them optional. Please make sure you fill in all the required fields and follow the provided instructions for each field type.
-
-</thinking>
-
 # National Security Expert Survey - Help Guide
 
 ## Purpose

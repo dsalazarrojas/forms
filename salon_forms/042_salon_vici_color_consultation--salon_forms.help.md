@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to gather information about a person's hair characteristics, specifically about their hair color, length, type, condition, and texture. The form is divided into five sections, each asking for details about a different aspect of hair.
-
-The form has 25 fields in total, but most of them are optional, which suggests that the form is intended to be a comprehensive but not exhaustive survey. 
-
-The fields are mostly multiple-choice options, and some are note fields where users can enter any additional comments or information.
-
-It seems that the form is designed to be completed by a person who wants to share their hair characteristics with a stylist or a hair expert for color consultation purposes.
-
-The options for hair color are standard categories and do not suggest any specific shade or color tone.
-
-The options for hair length and hair type are standard categories as well.
-
-The options for hair condition and hair texture also seem to be standard categories.
-
-The notes fields are open-ended and allow users to provide any additional information they might find relevant.
-
-</thinking>
-
 # Salon Vici Color Consultation - Help Guide
 ## Purpose
 This form is designed to gather information about a person's hair characteristics for color consultation purposes. Please fill out the form to help our expert stylists understand your hair better.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Work Satisfaction Survey - Help Guide
 ## Purpose
 The Work Satisfaction Survey is designed to gather information about your current job satisfaction. It helps us understand your overall level of satisfaction with various aspects of your work, enabling us to identify areas for improvement and enhance your work experience.

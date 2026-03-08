@@ -1,7 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the "Pre Plan Funeral Form", which is used for pre-planning funeral services. The form is designed to collect relevant information about the deceased, including name, date and time, location, time zone, service type, and contact details. This form will help clients or family members gather information and make necessary arrangements for the funeral. This guide will ensure that users understand the purpose of the form and can fill it out correctly.
-</thinking>
-
 # Pre Plan Funeral Form - Help Guide
 ## Purpose
 The Pre Plan Funeral Form is designed to help clients or family members gather information and make necessary arrangements for the funeral of a loved one. This form collects details such as name, date and time, location, time zone, service type, and contact information to facilitate planning and preparation.

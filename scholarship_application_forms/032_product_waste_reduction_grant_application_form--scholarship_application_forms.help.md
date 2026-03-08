@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the Product Waste Reduction Grant Application. It's crucial to ensure that only relevant and unique applications are submitted to support the grant program. Please review the form carefully before filling it out to avoid duplication of effort and potential disqualification.
-
-</thinking>
-
 # Product Waste Reduction Grant Application Form - Help Guide
 ## Purpose
 The Product Waste Reduction Grant Application Form is a tool to support the grant program for product waste reduction. This application form collects project information, budget details, contact data, and other relevant details for evaluation and consideration by the grant committee.

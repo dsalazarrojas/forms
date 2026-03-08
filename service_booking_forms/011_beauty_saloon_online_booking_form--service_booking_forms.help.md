@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beauty Saloon Online Booking Form - Help Guide
 
 ## Purpose

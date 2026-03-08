@@ -1,8 +1,3 @@
-<thinking>
-The School Fee Payment Form is a document used by schools to collect information from respondents about their payments for school fees. This form is designed to gather payment details and other relevant information to facilitate efficient and accurate processing of payments. The following help guide will assist users in understanding the form's purpose, how to complete it, and what each field represents.
-
-</thinking>
-
 # School Fee Payment Form - Help Guide
 
 ## Purpose

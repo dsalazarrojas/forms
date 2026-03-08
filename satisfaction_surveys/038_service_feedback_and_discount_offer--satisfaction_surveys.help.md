@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback and suggestions from customers about the service they received, with the option to offer a discount or promotion as a token of appreciation for their input. This form is used to gauge customer satisfaction and identify areas for improvement in the service provided. 
 
 The form is designed to be filled out by customers after they have received service from your company. It's a way for us to understand what we're doing well and what we can do better. 

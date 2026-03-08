@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users on their experience with the Academic Library. It is intended to gather information on various aspects of the library's services and resources, including user status, frequency of visits, primary purpose for using the library, overall satisfaction, physical space, quiet study areas, collaborative spaces, technology resources, staff assistance, digital resources, book collection, online catalog, library hours suitability, additional services desired, biggest challenge, and suggestions for improvement. This form will help the library understand its strengths and weaknesses, identify areas for improvement, and make data-driven decisions to enhance the user experience.
-</thinking>
-
 # Academic Library Survey - Help Guide
 ## Purpose
 The Academic Library Survey is designed to gather feedback from users on their experience with the library's services and resources. The survey will help the library understand areas of strength and weakness, and inform decisions to enhance the user experience.

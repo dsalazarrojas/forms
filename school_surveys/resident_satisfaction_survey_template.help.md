@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from residents to improve their living experience within the school community. The goal is to collect data on various aspects of their satisfaction, including their overall living experience, the quality of school facilities, their sense of belonging, and their participation in school activities. By understanding these factors, the school can identify areas for improvement and implement changes to create a more positive and supportive environment for residents. This form is intended to be a tool for the school to gauge the effectiveness of their services and programs, and to inform future initiatives. Please ensure that you have completed this form with the intention of providing constructive feedback and honest responses. 
-</thinking>
-
 # Resident satisfaction survey template - Help Guide
 
 ## Purpose

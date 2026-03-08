@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information for a wedding hair and makeup service. It is intended to be completed by the person responsible for the event, typically the wedding planner or coordinator. The purpose of this form is to gather details about the wedding party, including hair style, makeup questions, eye type, lip color, wedding date and time, notes, email contact information, and other relevant details. This information is used to ensure that the hair and makeup service provides the best possible experience for the wedding party.
-
-Note: This form is not intended for public-facing documentation. Ensure you have the necessary permissions and context to access this information. If you are not the intended recipient of this information, please do not proceed.
-</thinking>
-
 # Wedding Hair And Makeup Questionnaire - Help Guide
 ## Purpose
 This form collects details about the wedding party to provide an exceptional hair and makeup experience. Please fill out the form below to help us prepare for your special day.

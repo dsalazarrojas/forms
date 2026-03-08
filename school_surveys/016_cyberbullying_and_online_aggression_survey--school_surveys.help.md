@@ -1,12 +1,3 @@
-<thinking>
-This help guide will cover the purpose and requirements for completing the "Cyberbullying And Online Aggression Survey" form, a crucial tool for assessing and addressing cyberbullying and online aggression in educational settings.
-
-The form is intended to gather information from students on their experiences and perceptions of bullying and online aggression, aiming to understand its prevalence, severity, and consequences. The data collected will help educators and administrators develop targeted strategies to prevent and address cyberbullying and online aggression.
-
-Before proceeding, ensure you're completing the form in a genuine and honest manner. If you've already completed this form, please do not duplicate your responses. This guide is designed to help you understand the form's purpose and requirements to ensure you provide valuable and accurate information.
-
-</thinking>
-
 # Cyberbullying And Online Aggression Survey - Help Guide
 ## Purpose
 The Cyberbullying And Online Aggression Survey is designed to gather information from students about their experiences and perceptions of bullying and online aggression, aiming to help educators and administrators develop targeted strategies to prevent and address these issues.

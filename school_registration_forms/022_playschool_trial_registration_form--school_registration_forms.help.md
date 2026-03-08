@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents or guardians regarding their child's trial visit to the school. The form is used to gather details about the child's information, parent's information, emergency contact, consent, visit date and time, contact details, address, email, phone number, child's name, age, emergency contact relation, consent form, notes, and trial type and payment status. The form is likely used for administrative purposes to ensure that all necessary information is collected in a single document.
-
-To avoid duplication of information and ensure consistency, it is essential to review the form carefully before completing it and to ensure that all required fields are filled in accurately.
-
-</thinking>
-
 # Playschool Trial Registration Form - Help Guide
 ## Purpose
 

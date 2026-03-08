@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Counseling Intake Form - Help Guide
 
 ## Purpose

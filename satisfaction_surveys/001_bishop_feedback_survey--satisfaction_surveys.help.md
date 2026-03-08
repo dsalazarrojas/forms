@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Bishop Feedback Survey" form, we must first understand the internal reasoning and purpose behind it. This form is designed to collect feedback from the faithful about their experience with their bishop, specifically in the areas of leadership, communication, homily quality, pastoral visits, community engagement, transparency, and overall satisfaction. The purpose is to gauge the effectiveness of the bishop's leadership, communication, and pastoral care, and to identify areas for improvement.
-
-</thinking>
-
 # Bishop Feedback Survey - Help Guide
 ## Purpose
 The Bishop Feedback Survey is designed to collect feedback from the faithful about their experience with their bishop, providing valuable insights into their leadership, communication, and pastoral care.

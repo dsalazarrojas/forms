@@ -1,9 +1,3 @@
-<thinking>...The School Superintendent Evaluation Form is a tool used to assess the performance of school superintendents. This form is designed to provide a structured evaluation process, ensuring that superintendents receive comprehensive feedback on their key performance areas. This guide will help you understand the form's purpose and provide clear instructions on how to complete it.
-
-The primary goal of this form is to collect information on key aspects of a school superintendent's performance, including communication skills, leadership ability, decision-making, problem-solving, interpersonal skills, and school administration. By completing this form, you will be providing valuable feedback to superintendents, helping them identify areas of improvement and develop their skills accordingly.
-
-This form is not meant to replace official school evaluation processes or procedures, but rather supplement them. Make sure to check with your school's HR or personnel department to confirm whether this form is an officially approved evaluation tool.</thinking>
-
 # School Superintendent Evaluation Form - Help Guide
 ## Purpose
 The School Superintendent Evaluation Form is a tool used to assess the performance of school superintendents. It provides a structured evaluation process to help superintendents identify areas of strength and weakness, and to develop their skills and knowledge accordingly.

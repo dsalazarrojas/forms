@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bioinformatics In Medicine Fellowship Application Form - Help Guide
 ## Purpose
 The Bioinformatics In Medicine Fellowship Application Form is designed to collect information from applicants for the Bioinformatics In Medicine fellowship program. This form is a part of the application process for the fellowship, which is aimed at supporting researchers and professionals in the field of bioinformatics and its applications in medicine. This form should be filled out carefully and accurately to help the selection committee evaluate your application.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # local_business_review_request - Help Guide
 ## Purpose
 This form is designed to collect local business reviews from customers and users. It is meant to gather feedback about a specific business and its services. The form includes questions that help us understand the customer's experience and satisfaction with the business.

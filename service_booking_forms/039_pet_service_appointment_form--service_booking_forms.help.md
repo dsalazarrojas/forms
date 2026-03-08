@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect user information for pet service appointments. This form is used to gather essential details about the user and their pet for the service provider to schedule and prepare for the appointment.
-</thinking>
-
 # Pet Service Appointment Form - Help Guide
 ## Purpose
 This form collects user information for pet service appointments to ensure the provider has all necessary details for scheduling and preparation.

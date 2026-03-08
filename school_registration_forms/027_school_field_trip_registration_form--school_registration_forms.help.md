@@ -1,21 +1,3 @@
-<thinking>Before creating this form, consider the following:
-
-*   The form is used for school field trip registration.
-*   The form is likely used by school administrators to collect information from students and teachers for field trips.
-*   The fields in this form are designed to collect relevant information about students, teachers, and payment details.
-*   Review the fields to ensure you are capturing all necessary information.
-*   Ensure the form's fields and instructions are clear and easy to understand.
-*   The form's fields and structure may require adjustments to accommodate the specific needs of the school.
-*   Review and test the form's fields and structure to ensure they are working as expected.
-*   Make sure to include any necessary validation or formatting for date fields, if needed.
-*   The form's fields should be accessible and usable on different devices.
-*   Review the form's fields to ensure they align with the school's policies and regulations.
-*   The form's fields and structure may require adjustments to accommodate students with disabilities.
-*   Review the form's fields to ensure they are in compliance with the school's policies and regulations.
-*   Ensure the form's fields are easy to read and understand for students with visual or cognitive disabilities.
-*   Review the form's fields to ensure they are in compliance with the school's policies and regulations.
-*   The form's fields and structure should be tested for usability and accessibility.</thinking>
-
 # School Field Trip Registration Form - Help Guide
 ## Purpose
 The School Field Trip Registration Form is a tool used by school administrators to collect information from students and teachers for field trips. This form helps gather essential details such as student contact information, teacher consent, and payment details, ensuring a smooth and organized trip experience.

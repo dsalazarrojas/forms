@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to be used by clients or customers to book a towing service. The form collects information about the job details, vehicle details, contact information, towing location, and towing time. This information is necessary to process the booking request and ensure a smooth towing operation.
 
 </thinking>

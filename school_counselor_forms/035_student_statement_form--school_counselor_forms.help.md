@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from students about their personal details, educational background, and any other relevant information that may be required for administrative or support purposes. The form should only be filled out by the student themselves, and it is essential to ensure that the student's personal information is accurate and up-to-date. To avoid duplication, please ensure that you only fill out this form once for each student.</thinking>
-
 # Student Statement Form - Help Guide
 ## Purpose
 The Student Statement Form is a crucial document that captures essential information about students, including their name, identification details, contact information, and any other relevant personal details. This form is used to gather accurate and up-to-date information about students, ensuring that we can provide the best possible support and services.

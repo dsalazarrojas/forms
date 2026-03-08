@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on botulinum toxin injection procedures, including treatment information, product details, injection sites, and patient reactions. It seems that the form is intended for medical professionals to record and document botulinum toxin injection procedures, ensuring accurate tracking and reporting of treatments and patient outcomes. The form appears to be comprehensive, covering all relevant aspects of the procedure, including treatment details, product information, injection sites, and patient comfort and reactions. 
-
-</thinking>
-
 # Botulinum Toxin Injection Site Record Form - Help Guide
 ## Purpose
 This form is designed for medical professionals to record and document botulinum toxin injection procedures. It helps to track treatment information, product details, and patient reactions, ensuring accurate reporting and follow-up.

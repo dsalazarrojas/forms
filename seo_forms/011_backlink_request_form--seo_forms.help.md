@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect information from users seeking backlinks from a website to another website. It is essential to fill in the form accurately to ensure that your request is successfully processed. Please do not submit duplicate requests for the same website. This form is used to understand the context and purpose of the backlink request, ensuring that it is a genuine and valid request... </thinking>
-
 # Backlink Request Form - Help Guide
 ## Purpose
 This form is used to request backlinks from a website to another website. It helps us understand the context and purpose of your request, ensuring that it is a genuine and valid request.

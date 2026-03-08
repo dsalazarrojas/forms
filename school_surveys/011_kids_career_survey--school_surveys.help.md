@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the career aspirations and preferences of students. It will help us understand their career choices, interests, and satisfaction levels in various aspects of their job. To ensure accurate and relevant data, please only complete this form if you have a genuine interest in exploring your future career options. If you are unsure about your future, please do not complete this form.
-
-</thinking>
 # kids_career_survey - Help Guide
 ## Purpose
 The kids_career_survey form is designed to collect information about the career aspirations and preferences of students. It will help us understand their career choices, interests, and satisfaction levels in various aspects of their job.

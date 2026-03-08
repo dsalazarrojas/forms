@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and insights from kindergarten children about their experiences with the remote learning program. This form will help us better understand how often they participate in remote learning sessions, their preferred communication channel with the teacher, and their overall thoughts on the program. The feedback will also help us identify any challenges they might be facing, which will aid in improving the program's effectiveness.
-
-This form is designed to be completed by kindergarten children, so it's essential to be clear and concise in the instructions and explanations. To avoid confusion, each field should be filled out in a straightforward manner, following the provided options. 
-
-To prevent duplication of answers and ensure accurate data, please fill out each question carefully and only once.</thinking>
-
 # Remote Learning Survey For Kindergarten Kids - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from kindergarten children about their experiences with the remote learning program. It will help us understand how they participate in remote learning sessions, their preferred communication channel, and their overall thoughts on the program.

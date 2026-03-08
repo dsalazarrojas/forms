@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from users about their overall satisfaction with a sports facility. This feedback will help the management of the facility to identify areas of improvement and better serve the users. It is essential to provide honest and constructive feedback to ensure the quality of the facility and the services it provides.
-
-To ensure that each user provides a unique and helpful feedback, please do not repeat a submission with the same content. 
-
-</thinking>
-
 # Sports Facility User Satisfaction Feedback Evaluation Form - Help Guide
 
 ## Purpose

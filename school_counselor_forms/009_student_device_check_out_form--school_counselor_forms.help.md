@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for students to request a check-out of school devices, such as laptops or tablets, for use outside of the regular school hours. The form is designed to capture information about the student's device type preferences and details about the device check-out period. This form should only be used for students to request a device check-out, not for teachers to submit device check-outs on behalf of students.
-
-It is essential to understand that this form is only for students, and any submissions from non-students will be considered invalid.
-
-</thinking>
-
 # Student Device Check Out Form - Help Guide
 ## Purpose
 The Student Device Check Out Form is used by students to request a device check-out for use outside of regular school hours. This form is used to capture information about the type of device the student is requesting, their student and teacher details, and the dates for the device check-out period.

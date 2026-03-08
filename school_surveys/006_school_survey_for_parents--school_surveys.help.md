@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information from parents about their relationship with their child's school. The purpose of this form is to collect data that will help the school administrators to understand the level of involvement and satisfaction of parents, as well as their ability to communicate with teachers, their level of support from the school, and their overall satisfaction with the school. This form is intended for parents who have children enrolled in the school.
-
-Please note that this form is not intended for parents who do not have children enrolled in the school.
-
-This form will ask questions about the frequency of visits to the school, the level of knowledge about the child's teacher, the methods used to communicate with the school, the level of support received from the school, the satisfaction with the school's programs and events, and other relevant questions.
-
-Please answer all the questions honestly and thoroughly, as the data collected will help the school to make informed decisions about how to improve the school's services and programs.
-
-</thinking>
-
 # School Survey For Parents - Help Guide
 
 ## Purpose

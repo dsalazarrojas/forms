@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for customers to book appointments for window cleaning services. The form will guide customers to provide necessary details to schedule a window cleaning service. The form includes sections for client details, service request, schedule visit, preferred visit time, service duration, service type, appointment status, notes, and submission information.
-The fields are mostly optional and allow customers to provide information based on their preferences and needs.
-</thinking>
-
 # Window Cleaning Appointment Form - Help Guide
 ## Purpose
 This form is intended to book an appointment for window cleaning services. It gathers essential details from the client to schedule the service.

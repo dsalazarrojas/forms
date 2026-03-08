@@ -1,12 +1,3 @@
-<thinking>
-This form is likely a part of a larger system used to manage service bookings, such as appointments or consultations, for Search Engine Optimization (SEO) services. The form may be used by customers or users to book a service, provide details about the service requested, and communicate their preferences. The form's internal logic and purpose should be understood by the form designer and developers working on it. However, this guide will focus on making it accessible and easy to use for end-users.
-
-To confirm the form's purpose and relevance, consider the following questions:
-* Is the form used for customers or internal staff?
-* What services are being booked?
-* What information is required for the booking process?
-</thinking>
-
 # SEO Service Booking Form - Help Guide
 ## Purpose
 This form is used for clients to book SEO services, providing essential details to ensure a smooth and efficient service experience.

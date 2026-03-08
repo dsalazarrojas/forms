@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students to provide their personal details for school applications. The form will be used to collect demographic information about students, including their Student ID, name, contact email, parent email, and educational background. The purpose of this form is to gather accurate and up-to-date information for administrative and academic purposes. Please ensure that the provided information is accurate and truthful to prevent duplication and redundancy of efforts in the school's system.
-</thinking>
-
 # Student Application Form - Help Guide
 ## Purpose
 The Student Application Form is designed to collect demographic information about students for administrative and academic purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a "Work Secret Santa" gift-giving activity. The form will be used to assign participants to a secret gift-giver group, ensuring a fun and anonymous gift exchange. To avoid confusion and ensure proper pairing, it is essential to complete the form accurately. Please review each field carefully to provide the necessary details.
-
-</thinking>
 # Work Secret Santa Form - Help Guide
 ## Purpose
 The Work Secret Santa Form is designed to collect information from participants to assign them to a secret gift-giver group for a fun and anonymous gift exchange.

@@ -1,8 +1,3 @@
-<thinking>
-To confirm, you would like me to create a user-facing help guide for a form with the title "Covid 19 Salon Services Consent Form" and the provided YAML structure. The form appears to be for collecting information about a person's recent travel history, contact with individuals with COVID-19, and the type of services they wish to receive at a salon. I will use this understanding to create a comprehensive help guide.
-
-</thinking>
-
 # Covid 19 Salon Services Consent Form - Help Guide
 ## Purpose
 This form is used to collect information about your recent travel history, contact with individuals with COVID-19, and the type of services you wish to receive at the salon. This information helps us ensure your safety and provide you with the best possible experience.

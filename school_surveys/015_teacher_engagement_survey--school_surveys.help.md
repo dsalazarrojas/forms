@@ -1,7 +1,3 @@
-<thinking>...
-This form is intended to gauge the engagement level and satisfaction of teachers with the school. It will gather feedback on the overall rating of the teacher and provide an opportunity for students to provide comments and feedback on their experiences with the teacher. This form should only be filled out by students who have had interactions with the teacher, and should not be filled out if the teacher is being evaluated on other criteria not directly related to their teaching.
-...</thinking>
-
 # Teacher Engagement Survey - Help Guide
 ## Purpose
 The Teacher Engagement Survey is designed to collect feedback and ratings from students about their experiences with a teacher. This feedback will help us evaluate the performance of the teachers and identify areas for improvement.

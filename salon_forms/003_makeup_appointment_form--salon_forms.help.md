@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a user-facing help guide for the "Makeup-Appointment-Form" form. The purpose of this form is to collect information from users for scheduling appointments at a salon. The form is likely to be used by customers who want to book a makeup appointment at the salon. The form has various fields for scheduling the appointment, including selecting a service type, choosing a date and time, and providing contact information. The form also allows for any additional notes to be provided by the customer. To confirm, this form is primarily used for customer-facing operations and is not intended for internal use within the organization.
-</thinking>
-
 # Makeup-Appointment-Form - Help Guide
 ## Purpose
 The Makeup-Appointment-Form is a form used for customers to schedule appointments at a salon.

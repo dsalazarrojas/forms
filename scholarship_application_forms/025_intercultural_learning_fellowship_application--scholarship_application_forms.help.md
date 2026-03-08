@@ -1,15 +1,3 @@
-<thinking>
-
-To ensure that we provide the best possible guidance for the Intercultural Learning Fellowship Application form, let's take a moment to reflect on its purpose and requirements before proceeding. 
-
-This form is designed to collect information from individuals who are interested in applying for the Intercultural Learning Fellowship. The form is meant to gather essential details about the applicants, including their user information, contact information, motivations, education background, research interests, professional experience, references, language skills, personal statement, and language proficiency. It is crucial that the applicants provide accurate and detailed information to increase their chances of being selected.
-
-The form's structure is divided into several sections, each focusing on a specific aspect of the applicant's background and qualifications. The sections include user information, contact information, motivations, education background, research interests, professional experience, references, language skills, personal statement, and attachments for CV, motivations, education background, research interests, professional experience, references, personal statement, language skills, and user information. Each section is designed to be completed by the applicant, and the attachments are meant to provide supporting documents for the information provided.
-
-To ensure that the form is completed accurately and efficiently, let's go through each section and provide explanations for each field.
-
-</thinking>
-
 # Intercultural Learning Fellowship Application - Help Guide
 ## Purpose
 The Intercultural Learning Fellowship Application form is designed to collect information from individuals interested in applying for the Intercultural Learning Fellowship. This form is used to gather essential details about the applicants, including their background, qualifications, and supporting documents.

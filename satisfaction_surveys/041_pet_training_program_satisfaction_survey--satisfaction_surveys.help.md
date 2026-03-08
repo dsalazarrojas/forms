@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback and satisfaction data from individuals who have participated in our pet training program. This form helps us understand what aspects of the program are working well and where we can improve. It's essential that you take a few minutes to complete this form to provide us with valuable insights that will help us refine our program for future participants.
-
-Before filling out this form, please make sure you have not already submitted a review or feedback form for this program. Your input is crucial in helping us identify areas of improvement and ensure that we're providing the best possible experience for all our participants.
-
-</thinking>
-
 # Pet Training Program Satisfaction Survey - Help Guide
 ## Purpose
 The Pet Training Program Satisfaction Survey is designed to collect feedback and satisfaction data from individuals who have participated in our pet training program. Your input will help us understand what aspects of the program you enjoyed and where we can improve.

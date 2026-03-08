@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sports Event Parking Satisfaction Survey - Help Guide
 
 ## Purpose

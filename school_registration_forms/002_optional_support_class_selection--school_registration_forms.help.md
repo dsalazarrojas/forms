@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students to select their interests, grade level, preferred times, session days, and other relevant information to better support their learning experience. It is intended to help teachers and support staff understand the needs of students and provide tailored assistance. The form is not meant to be a mandatory requirement, but rather an optional way for students to share their preferences.
-</thinking>
-
 # Optional Support Class Selection - Help Guide
 ## Purpose
 This form allows students to select their interests, grade level, and preferred times for support classes. It is an optional tool to help teachers and support staff better understand students' needs.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather patient satisfaction survey responses, likely for internal use in healthcare settings. This form will collect general information and feedback from patients, allowing administrators to monitor and improve patient experiences.
-
-Before filling out this form, ensure that you've completed it for the right purpose and not as a redundant or unnecessary task. If you've previously filled out this form, your answers will be considered as already covered.
-
-To ensure data quality, try to answer all questions accurately and completely.
-</thinking>
-
 # Patient Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather patient feedback and satisfaction ratings on various aspects of their visit. Your responses will help healthcare providers understand their patients' needs and improve their services.

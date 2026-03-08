@@ -1,16 +1,3 @@
-<thinking>
-The form is designed to collect information from employees about their committee preferences and suitability for committee service. The form is not intended to be a comprehensive assessment of an individual's qualifications, but rather a way to gauge their interest, availability, and willingness to participate in committee work. The form should only be completed by employees who are genuinely interested in serving on a committee, and should not be used to solicit volunteers for a specific committee or project.
-
-Before starting this form, please ensure that you are familiar with the committee's purpose, scope, and any relevant background information. This form is not a substitute for actual committee service, and it's essential to understand that serving on a committee requires a significant commitment of time and energy.
-
-Please note that this form is a self-service form, and it's up to each employee to decide which committees they would like to participate in. If you're unsure about any part of the form, please don't hesitate to ask for clarification or support.
-
-Also, please be mindful of the form's length and the information required. The form is designed to be concise and easy to complete, but some questions may require more time to answer thoroughly.
-
-Finally, please respect the confidentiality and integrity of the data collected through this form. All information provided will be treated as confidential and used only for the purpose of committee formation and management.
-
-</thinking>
-
 # Committee Preference Form - Help Guide
 ## Purpose
 The Committee Preference Form is designed to help employees express their interest and availability for serving on various committees. It's a self-service form that allows employees to provide information about their preferences, skills, and experiences.

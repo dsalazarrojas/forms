@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dermal_filler_treatment_medical_consent_form - Help Guide
 ## Purpose
 The dermal_filler_treatment_medical_consent_form is a medical consent form for dermal filler treatments. This form is used to gather information about the client's medical history, allergies, and current medications before undergoing a dermal filler treatment. The form helps the healthcare provider to assess the client's suitability for the treatment and ensure their safety during the procedure.

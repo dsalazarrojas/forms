@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scholarship Application Checklist Form - Help Guide
 
 ## Purpose

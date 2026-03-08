@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed for registering clients for a chair massage session. It is used to collect information about the client, their preferences, and the details of the massage appointment. The form is typically filled out online or on a physical sheet of paper by the client themselves. The information collected will be used to assign a massage therapist and schedule the appointment.
 
 # Chair Massage Registration Form - Help Guide

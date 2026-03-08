@@ -1,7 +1,3 @@
-<thinking>
-To start with, let's ensure we have a clear understanding of this form's purpose and ensure it's not duplicating any other form. This form is designed for applicants to the ESG Impact Strategy Fellowship, which likely stands for Environmental, Social, and Governance (ESG) Impact Strategy Fellowship. The purpose of this form is to gather relevant information from potential fellows about their contact details, research experience, research goals, motivation, availability for the fellowship, and their time commitment. It's essential to double-check that the information is not already available through other means, such as a separate application form or existing database entry.
-</thinking>
-
 # ESG Impact Strategy Fellowship Application Form - Help Guide
 ## Purpose
 The ESG Impact Strategy Fellowship Application Form is designed to gather information from potential fellows about their contact details, research experience, research goals, motivation, and other relevant aspects of their application.

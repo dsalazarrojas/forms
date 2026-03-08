@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about the divine attributes of a spiritual experience or service. The purpose of this form is to collect data on how users perceive the quality of the attributes of a divine experience, such as spiritual growth, guidance, and evaluations. This form is intended to be used by individuals who have attended a spiritual event or received spiritual guidance and are providing feedback on their experience. Please note that this form is not intended to be used for general comments or open-ended feedback. If you have already completed this form, please be sure to review the submission date and time fields for accuracy.
-</thinking>
-
 # Divine Attributes Feedback Form - Help Guide
 ## Purpose
 The Divine Attributes Feedback Form is a tool used to collect feedback on the divine attributes of a spiritual experience or service. This form helps us understand how users perceive the quality of these attributes, such as spiritual growth, guidance, and evaluations.

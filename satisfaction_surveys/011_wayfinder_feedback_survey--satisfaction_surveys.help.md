@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about their experience with the Wayfinder system, which is a navigation system used to facilitate wayfinding (the process of finding one's way around a physical or virtual environment). The goal of this form is to gather information about how users perceive their navigation experience, and to understand what they like or dislike about the system. 
-
-Before starting, please note that this form is only accessible to users who have been invited to participate. Your feedback is valuable to us, and it will help us improve the Wayfinder system.
-
-</thinking>
-
 # Wayfinder Feedback Survey - Help Guide
 
 ## Purpose

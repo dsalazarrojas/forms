@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to enable customers to book a product demo session with a technician. The form is intended to be used by customers who want to schedule a product demo at a specific location, and it collects relevant information about the demo such as the customer's name, email, phone number, and the demo details like start and end time, date, and location. The form is likely to be used by customers who want to learn about specific products or services offered by the company. The goal is to ensure that the technician is well-prepared and informed about the customer's needs and preferences before the demo session.
-The form is designed to be completed by customers who have a specific product demo ID. This ID is likely to be provided by the sales team or customer service representative after an initial consultation.
-To prevent duplication, the form should be completed only once per product demo ID. If a customer attempts to book another demo with the same product demo ID, the system should alert the administrator or the booking system that a duplicate request has been made.
-The purpose of this form is to collect relevant information from the customer and provide the necessary details to the technician so that the demo session can be conducted smoothly and effectively.
-</thinking>
 # Product Demo Technician Booking Form - Help Guide
 ## Purpose
 The Product Demo Technician Booking Form is designed to enable customers to book a product demo session with a technician. This form collects relevant information about the demo session, including the customer's name, email, phone number, and demo details like start and end time, date, location, and product demo ID.

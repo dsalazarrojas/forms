@@ -1,7 +1,3 @@
-<thinking>
-This form is used for high school students to apply for scholarships. The form is designed to collect information about the student's personal details, education history, family background, academic achievements, and interests. It's essential to fill out the form carefully and accurately to increase the chances of being selected for a scholarship. Please note that this form is not associated with any specific scholarship program, and its fields may not align perfectly with the requirements of every scholarship. It's recommended to review the scholarship's specific requirements before filling out this form.
-</thinking>
-
 # High School Student Scholarship Application Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to collect data on cyberbullying and online aggression, likely for educational or research purposes. Please ensure you're filling out this form with the correct context and information. If you've already filled out a similar form, please review the content carefully and provide any new or updated information. This form will help us understand your experiences and perceptions related to cyberbullying and online aggression. Please fill out this form accurately and honestly, and feel free to reach out if you have any questions or concerns.
-</thinking>
-
 # Cyberbullying And Online Aggression Survey - Help Guide
 ## Purpose
 

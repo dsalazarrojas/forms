@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the quality of applicants for the Health Professions Scholarship. The purpose of this form is to assess the applicant's potential for success in the health professions program based on their rating scale scores and reviewer feedback.
-</thinking>
-
 # Health Professions Scholarship Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the quality of applicants for the Health Professions Scholarship. The form is used to assess the applicant's potential for success in the health professions program based on their rating scale scores and reviewer feedback.

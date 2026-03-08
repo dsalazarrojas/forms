@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request a deferral of a student's admission to a school, typically due to unforeseen circumstances. The form will be reviewed by the school's admissions team and will require approval. This form is not a substitute for the standard admission process, and the student's application will still be considered for admission after the deferral period. Please note that the school's decision on the deferral request will be based on the information provided in this form. 
-
-To ensure that you submit the form with the correct information, please carefully review each field to ensure that it is filled out correctly. If you have any doubts or questions, please contact the school's admissions department.
-
-This guide is intended to be a step-by-step guide for completing this form. 
-
-</thinking>
-
 # School Admission Deferral Request Form - Help Guide
 ## Purpose
 The School Admission Deferral Request Form is used to request a delay in the admission process for a student. This may be due to various reasons such as health issues, family emergencies, or other unforeseen circumstances. 

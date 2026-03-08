@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the behavior of individuals who do not show up for appointments at a salon. It aims to understand the reasons behind missed appointments, the likelihood of rescheduling, and other factors that may influence appointment attendance. This form is meant to be completed by customers who have missed appointments at the salon.
-</thinking>
-
 # Salon Appointment No Show Behavior Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand the reasons behind missed appointments at the salon and identify areas where we can improve our operations and customer communication.

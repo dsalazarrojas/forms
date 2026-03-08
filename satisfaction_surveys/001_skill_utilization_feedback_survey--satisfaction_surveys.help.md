@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to be a tool for employees to provide feedback on their skill utilization in the workplace. It is meant to be a one-time use survey, likely for an HR department or manager. The form will help assess how often and how important employees find utilizing their skills in their daily work. The questions aim to collect data on employee perspectives on their skill utilization, which can be used by the organization to better understand the needs of its workforce.
-
-The form consists of 7 fields, each with its own label, type, and options. The fields are:
-1. Employee Name: This is a text field where the employee will enter their name.
-2. Job Title: This is a text field where the employee will enter their job title.
-3. Job Description: This is a text field where the employee will enter a brief description of their job duties.
-4. Skill Utilization: This is a select multiple field where the employee will select how their skills are utilized in their job. Options include Managerially-oriented, Data-driven, Analytical, Creative, Collaborative, and Adaptable.
-5. How Often Do You Utilize Your Skills: This is a select one field where the employee will select how often they utilize their skills in their daily work. Options include Daily, Weekly, Monthly, and Rarely.
-6. How Important is Skill Utilization to Your Job: This is a select one field where the employee will select the importance of skill utilization in their job. Options include Very Important, Somewhat Important, Not Very Important, and Not at All Important.
-</thinking>
-
 # Skill Utilization Feedback Survey - Help Guide
 ## Purpose
 The Skill Utilization Feedback Survey is a tool for employees to provide feedback on their skill utilization in the workplace. The survey is designed to help assess how often and how important employees find utilizing their skills in their daily work.

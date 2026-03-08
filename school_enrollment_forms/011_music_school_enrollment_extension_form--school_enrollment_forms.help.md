@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # music_school_enrollment_extension_form - Help Guide
 
 ## Purpose

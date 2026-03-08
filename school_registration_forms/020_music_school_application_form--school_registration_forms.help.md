@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in applying to a music school. This form is designed to gather essential details about the applicant, their musical interests, and their background in music. By filling out this form, applicants can showcase their motivation for applying to the music school and demonstrate their suitability for the program.
-
-To prevent duplication, we will not accept multiple applications from the same person. To ensure relevance, we only ask for information that is necessary to assess the applicant's fit for the music school program.
-
-Please note that the form may not be suitable for every applicant, but it's designed to cater to the needs of most applicants. If you have any questions or concerns about the form, please don't hesitate to reach out to us.
-
-</thinking>
-
 # Music School Application Form - Help Guide
 ## Purpose
 The Music School Application Form is designed to collect information from individuals interested in applying to the music school. This form helps us assess your suitability for the program and gather essential details about your musical interests, background, and qualifications.

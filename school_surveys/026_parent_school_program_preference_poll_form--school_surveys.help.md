@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent School Program Preference Poll Form - Help Guide
 
 ## Purpose

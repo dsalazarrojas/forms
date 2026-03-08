@@ -1,17 +1,3 @@
-<thinking> 
-Please note that the provided YAML describes a form with several fields, which will be used as a starting point for creating this user-facing help guide.
-
-To create this help guide, I will follow these steps:
-
-1.  Identify the purpose of the form and any internal reasoning for relevance and non-duplication checks.
-2.  Use the provided YAML to generate a Markdown-based help guide with the required sections: Purpose, How To Complete This Form, Field-by-Field Explanation, and Tips.
-
-The purpose of the form is to provide access to a scholarship application portal. The form is used to collect demographic information, financial information, and other relevant details from applicants.
-
-For the internal reasoning block, I will assume that the form is used to verify the identity and eligibility of applicants before granting access to the scholarship application portal.
-
-</thinking>
-
 # Scholarship Application Portal Access Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants for access to the scholarship application portal. Please ensure you are eligible and provide accurate information to expedite the review process.

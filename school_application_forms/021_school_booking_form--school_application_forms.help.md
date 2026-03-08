@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to make a booking request, providing details about the booking, facilities, and contact information. The form will be used by school administrators to manage and process booking requests from various stakeholders. The following help guide will explain the purpose and functionality of each field in the form, ensuring that users complete the form accurately and efficiently.
-</thinking>
-
 # school_booking_form - Help Guide
 ## Purpose
 This form is designed for users to submit a booking request to the school. It captures essential details such as the request type, date, time, and facilities required, as well as contact information for the person making the request.

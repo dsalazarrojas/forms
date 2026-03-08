@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be filled out by parents or guardians of a child who is applying to a preschool program. The form gathers information about the child's identity, contact and medical information, and other relevant details to ensure a smooth and safe experience for the child during their time at the preschool. This form is intended to be filled out by one parent or guardian per child, and it's essential to complete it thoroughly and accurately to provide the necessary information for the preschool staff. If you've already submitted this form for the same child, you may not need to complete it again. Please review the form carefully to determine if you've already filled it out previously.
-
-Note: Please ensure that you're filling out the correct form, as this form is specifically designed for preschool applications. If you're unsure, you can check with the preschool staff or administration.
-</thinking>
-
 # Preschool Initial Application Form - Help Guide
 ## Purpose
 The Preschool Initial Application Form is a necessary step in the enrollment process for children applying to a preschool program. It gathers essential information about the child and their parents/guardians to ensure a smooth and safe experience for the child during their time at the preschool.

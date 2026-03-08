@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience with our private jet grooming service. We want to know how well you were satisfied with the cleanliness of our jet, as well as any comments or suggestions you may have. We will only ask for this information if you are not a repeat customer or if it's been more than 6 months since your last visit. Please fill out the form below to help us improve our service.
-</thinking>
-
 # private_jet_grooming_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our private jet grooming service, to help us improve the cleanliness of our jets and overall service.

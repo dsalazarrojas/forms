@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback and memories from users about their experiences with our organization. This form is designed to gather detailed information about each experience, including the title of the feedback and memories section, the experience date and time, a description of the experience, photos, event and community names, organization names, and the status of sharing. The form also includes fields for feedback, testimonial, sharing consents, and IDs to ensure that all relevant details are captured.
-
-The form is divided into two parts, with the first part asking for basic information and the second part asking for more detailed feedback and memories. Each part has several fields that are explained below.
-
-</thinking>
-
 # feedback_and_memories_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and memories from users about their experiences with our organization.

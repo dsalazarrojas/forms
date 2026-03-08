@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for assessing the level of financial operation transparency within an organization. It aims to collect feedback from stakeholders about the financial reporting policies and procedures that are currently in place, as well as their preferences for the frequency and type of feedback they receive. The form will gather information on the current financial reporting policies, feedback frequency, and type, and allow stakeholders to provide any comments or suggestions. This form is not intended for collecting sensitive or personal information.
-
-</thinking>
-
 # Financial Operation Transparency Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from stakeholders about the financial operation transparency within an organization.

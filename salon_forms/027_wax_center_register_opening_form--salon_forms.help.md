@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the opening and closing times, total transactions, total revenue, and other relevant details of a salon. This form is likely used by management or staff to record and report on the performance of individual salons. The form is likely used for tracking purposes and may be used for quality control, performance analysis, or other similar uses.
-
-Before filling out this form, please ensure that you are completing it for a single salon and that the information provided is accurate. The form is likely to be filled out on a daily or weekly basis, depending on the frequency of salon operations.
-
-To complete this form, please refer to the following sections:</thinking>
-
 # Wax Center Register Opening Form - Help Guide
 ## Purpose
 The Wax Center Register Opening Form is used to gather information about the opening and closing times, total transactions, total revenue, and other relevant details of a salon.

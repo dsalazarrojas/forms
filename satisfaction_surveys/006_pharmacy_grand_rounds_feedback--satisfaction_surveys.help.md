@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect feedback and ratings from pharmacists regarding their experiences during the "Pharmacy Grand Rounds" sessions. The form is designed to be completed by the pharmacists themselves, and it's meant to be a quick and straightforward way to gather their opinions and ratings. The purpose of this form is to help the organizers of the "Pharmacy Grand Rounds" session to understand the overall quality and effectiveness of the session, and to identify areas of improvement.
-
-It's essential to ensure that each form is filled out only once, so please make sure to fill out the form once you've completed the "Pharmacy Grand Rounds" session and not before or after.
-
-Before filling out this form, make sure to have your "Session ID" and "Pharmacist Name" ready, as they are required fields. Also, be sure to provide a valid email address, in case we need to contact you for further discussion.
-
-When filling out this form, please be honest and provide your true feedback and ratings. Your input is valuable, and it will help us to improve the "Pharmacy Grand Rounds" session.
-</thinking>
-
 # Pharmacy Grand Rounds Feedback - Help Guide
 ## Purpose
 This form is used to gather feedback and ratings from pharmacists regarding their experiences during the "Pharmacy Grand Rounds" sessions. It's designed to be completed by the pharmacists themselves, and it's meant to be a quick and straightforward way to collect their opinions and ratings.

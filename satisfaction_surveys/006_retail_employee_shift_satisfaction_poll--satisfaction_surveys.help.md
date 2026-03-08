@@ -1,13 +1,3 @@
-<thinking>
-
-To provide a well-structured and user-friendly help guide for this form, let's first analyze the form's purpose and fields. The form is designed to collect feedback from retail employees about their shift experiences. It appears to be a satisfaction survey aimed at understanding employee experiences and gathering information about their work shifts. 
-
-The form includes various fields for collecting data about the shift, such as shift length, break length, and start and end times. It also includes fields for manager information, team member suggestions, and employee suggestions. The form seems to be focused on gathering feedback from employees about their shift experiences, including their satisfaction and any potential suggestions or comments.
-
-To create an effective help guide, we need to break down each field and explain its purpose, expected input, and any specific requirements.
-
-</thinking>
-
 # Retail Employee Shift Satisfaction Poll - Help Guide
 ## Purpose
 This form is a satisfaction survey for retail employees to share their experiences about their shifts. It aims to gather feedback on shift length, break times, and manager interactions. Your input will help us understand your shift experiences and improve our services.

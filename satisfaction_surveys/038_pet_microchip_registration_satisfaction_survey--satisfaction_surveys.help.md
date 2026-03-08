@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with the microchip registration process. The form is meant to gauge the user's overall satisfaction, clarity, and communication during the registration process. It also allows users to provide additional comments and rate the quality of the microchip registration service received. This form will be used internally to improve the microchip registration process and provide valuable feedback to the team.
-</thinking>
-
 # Pet Microchip Registration Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with the microchip registration process.

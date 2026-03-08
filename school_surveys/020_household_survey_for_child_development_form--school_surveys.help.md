@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about households and their children, with a focus on assessing their safety and well-being. The purpose of the form is to help identify households that may be in need of support or resources to ensure their children's safety and development. It will be used by staff at a school to identify areas where additional support is needed. Please check that you are reading this guide and have not read it before. It is assumed that you are familiar with the basics of form completion and will be using the guidance below to understand the specific requirements of this form.</thinking>
-
 # household_survey_for_child_development_form - Help Guide
 ## Purpose
 The "household_survey_for_child_development_form" is used to gather information about households and their children to assess their safety and well-being.

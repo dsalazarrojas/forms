@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are interested in or have already scheduled a microdermabrasion procedure. The form is used to gather demographic and medical information, including client contact information, medical history, skin type and concerns, practice goals, and medical procedures. This form is not intended for general public access, but rather for clients who are already aware of and have scheduled an appointment with the practitioner. 
-
-The information collected will be used to assess the client's suitability for the procedure and to create a tailored treatment plan. The form includes fields for the client's contact information, medical history, and skin type and concerns. The "Practice Goals" field is used to understand what the client hopes to achieve with the microdermabrasion procedure. The "Medical Procedure" field is used to determine if the client has any medical conditions or procedures that may affect the treatment plan. 
-
-This form is a requirement for all clients who are scheduled for the microdermabrasion procedure.
-</thinking>
-
 # Microdermabrasion Client Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients who are interested in or have scheduled a microdermabrasion procedure. The collected information will be used to create a tailored treatment plan and assess the client's suitability for the procedure.

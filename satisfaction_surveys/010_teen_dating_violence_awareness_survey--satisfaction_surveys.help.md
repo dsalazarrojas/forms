@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teen Dating Violence Awareness Survey - Help Guide
 ## Purpose
 The Teen Dating Violence Awareness Survey is designed to collect information about your experiences with dating violence. This survey is intended to help understand the prevalence and impact of dating violence on teenagers and young adults. Your responses will help us better understand the needs and concerns of individuals affected by dating violence.

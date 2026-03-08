@@ -1,7 +1,3 @@
-<thinking>
-We will create a comprehensive help guide for the "Bike Registration Form" to ensure end-users understand its purpose, requirements, and each field's significance. This form is used to register bikes for students and staff at the school campus, gathering essential information such as student details, bike type, and parking preferences. The form aims to streamline the registration process, ensuring accurate and complete records. By filling out the form correctly, students and staff can register their bikes and gain access to campus bike facilities. We will not duplicate this information and will ensure all required fields are filled out.
-</thinking>
-
 # Bike Registration Form - Help Guide
 ## Purpose
 The Bike Registration Form is used to register bikes for students and staff at the school campus. This form helps to gather essential information about the bike and its owner to ensure accurate and complete records.

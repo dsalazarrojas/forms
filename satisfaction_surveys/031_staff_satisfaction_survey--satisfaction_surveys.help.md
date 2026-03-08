@@ -1,10 +1,3 @@
-<thinking>
-We are creating a staff satisfaction survey to gather feedback from employees about their experience at the company. This survey aims to collect information about their overall satisfaction, management team, and areas for improvement. Please note that this survey is designed to be a confidential and anonymous process, and all answers will be treated as such. Your participation is voluntary, and your responses will help us understand your needs and concerns. Please answer the questions honestly, and remember that all feedback is valuable to us.
-
-This guide will walk you through each section of the survey, explaining the purpose of each field and what you need to do to complete it successfully.
-
-</thinking>
-
 # Staff Satisfaction Survey - Help Guide
 
 ## Purpose

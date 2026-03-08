@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from vendors who have provided equipment for events. The purpose of this form is to gauge the satisfaction of the vendor with the event and the support team. The form asks for information such as the vendor's name, contact information, and ratings of their experience with the event and the support team. This information will help us understand the vendor's overall satisfaction and identify areas for improvement.
-
-</thinking>
-
 # Event Equipment Vendor Satisfaction Survey - Help Guide
 
 ## Purpose

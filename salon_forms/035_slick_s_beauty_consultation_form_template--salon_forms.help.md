@@ -1,7 +1,3 @@
-<thinking>
-This form, named "Slicks_beauty_consultation_form_template", is intended to gather information from clients for beauty salon services. The purpose of this form is to collect details about the client's preferences, appointment schedule, and payment information. This form likely serves as a template for staff to take notes and assign tasks to team members while interacting with clients. It's possible that this form will be used for both internal and external use, such as sharing with clients or for reporting purposes. Before proceeding, please review the form's fields and instructions to ensure you understand its intended use and purpose.
-</thinking>
-
 # Slicks_beauty_consultation_form_template - Help Guide
 ## Purpose
 The Slicks_beauty_consultation_form_template is used to collect information from clients for beauty salon services. It serves as a template for staff to take notes and assign tasks while interacting with clients.

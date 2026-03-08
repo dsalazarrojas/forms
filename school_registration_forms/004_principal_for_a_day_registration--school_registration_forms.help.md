@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a clear and concise user-facing help guide for the "Principal For A Day Registration" form. To ensure the guide is relevant and up-to-date, I'll analyze the provided YAML fields and consider the form's purpose and context.</thinking>
-
 # Principal For A Day Registration - Help Guide
 ## Purpose
 The "Principal For A Day Registration" form is designed to gather information from schools interested in participating in the "Principal For A Day" program. This program allows students to take on the role of principal for a day, providing a unique opportunity for them to experience leadership and administrative tasks. This form helps schools register their interest and provide necessary contact and program-related information.

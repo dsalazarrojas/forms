@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "what_if_101_idea_journal_2021_2022", is designed to help individuals keep track of their ideas and projects in a structured and organized manner. Its primary purpose is to facilitate idea journaling, a practice that involves regularly recording and reflecting on one's thoughts and ideas, particularly for students and professionals working on projects. This form is relevant for those who need to document and track their ideas, especially in the context of school or class projects, personal projects, or other types of endeavors. By using this form, users can ensure that they capture and store their ideas effectively, making it easier to review and reflect on them later.
-
-</thinking>
-
 # what_if_101_idea_journal_2021_2022 - Help Guide
 ## Purpose
 The what_if_101_idea_journal_2021_2022 form is designed to help you keep track of your ideas and projects in a structured and organized manner.

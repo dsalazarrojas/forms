@@ -1,13 +1,3 @@
-<thinking>
-Compensation Satisfaction Drivers Survey: 
-This form aims to gauge employee satisfaction with their compensation package, understanding what they value most and what areas they'd like to see improvement in. This survey is meant to be a one-time assessment, and results will not be repeated or compared over time. 
-
-The form is part of a compensation satisfaction tracking program, ensuring that HR and management have a clear understanding of employee needs and preferences regarding compensation. It's essential to provide honest and accurate responses to get valuable insights.
-
-Please fill out this form only if you're an employee. This survey should only be completed once by each employee.
-
-</thinking>
-
 # Compensation Satisfaction Drivers Survey - Help Guide
 ## Purpose
 

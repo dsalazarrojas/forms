@@ -1,5 +1,3 @@
-<thinking>This form is intended to help content creators optimize their YouTube videos for search engines and increase their visibility. It captures information about the video's title, description, and categories, as well as other details like video URLs, image URLs, and social media links. The form aims to collect data to be used for improving YouTube SEO strategies. This form is not affiliated with, endorsed by, or derived from any form platform, but rather a public adaptation using survey topic metadata. Please use it as-is, or modify and sell it under CC BY 4.0. Contact form@gic.mx for any feedback or concerns.</thinking>
-
 # YouTube SEO Form - Help Guide
 ## Purpose
 This form is designed to collect data for optimizing YouTube video titles, descriptions, and categories to improve search engine rankings.

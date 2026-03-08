@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Music Mixing Review Booking Form - Help Guide
 ## Purpose
 The Music Mixing Review Booking Form is a tool to book a music mixing review session. This form collects information to schedule a review of a mix, including the date and time of the review, details about the session, and other relevant information.

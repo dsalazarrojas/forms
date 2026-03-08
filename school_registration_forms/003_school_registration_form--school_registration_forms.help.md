@@ -1,9 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the School Registration Form that is easy to understand and follow. The main goal of this form is to collect information from students and parents to register them in a school. This form should be used to gather basic details about the student and their parents, including name, contact information, and class selection. To avoid duplication, we should check if a student is already registered in the system before allowing them to register again.
-
-The form will be filled out by students and parents, and the information collected will be stored in the system for future reference. The form should be designed to be clear and concise, with each field having a clear label and explanation.
-</thinking>
-
 # School Registration Form - Help Guide
 ## Purpose
 The School Registration Form is designed to collect basic information from students and parents to register them in a school. This form is used to gather details such as name, contact information, class selection, and dates of birth and start/end dates.

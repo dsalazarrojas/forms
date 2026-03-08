@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Satisfaction Form - Help Guide
 ## Purpose
 The "Client Satisfaction Form" is a crucial tool for gathering valuable feedback from our clients about their experiences with our services. This form will help us identify areas of improvement and measure the overall satisfaction level of our clients, allowing us to refine our processes and provide better services in the future.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help the school administration gather necessary information from applicants for the on-site elementary school teacher position. The form is meant to be completed by potential candidates who are applying for the position, and it will be reviewed by the school administration to evaluate their suitability for the role. This guide is to ensure that the applicant understands what information is required and how to complete the form accurately.
-</thinking>
-
 # Junior On Site Elementary School Teacher Application Form - Help Guide
 ## Purpose
 This form is for the Junior On Site Elementary School Teacher position. The school administration will use the information provided in this form to evaluate your suitability for the position.

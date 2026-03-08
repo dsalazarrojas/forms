@@ -1,9 +1,3 @@
-<thinking>
-We're creating a form to gather feedback from sports event catering clients. This form is designed to measure their satisfaction with the quality of food, beverages, and service provided during the event. We want to ensure that our clients have a positive experience with our sports event catering services. To avoid duplication of effort, please note that this form is not intended for clients who did not attend the event or are not satisfied with the service.
-
-Before proceeding, ensure that you have attended the sports event and are providing feedback based on your genuine experience.
-</thinking>
-
 # Sports Event Catering Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from sports event catering clients about their satisfaction with the quality of food, beverages, and service provided during the event.

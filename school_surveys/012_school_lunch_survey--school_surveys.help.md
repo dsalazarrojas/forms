@@ -1,6 +1,3 @@
-<thinking>
-This form is for students to share their experiences and opinions about school lunch surveys. The purpose of this form is to collect data on student satisfaction and feedback on the school's lunch offerings. It's essential to complete this form honestly, and please ensure you don't submit duplicate forms if you've already taken this survey previously.</thinking>
-
 # School Lunch Survey - Help Guide
 ## Purpose
 

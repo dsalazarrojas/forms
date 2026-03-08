@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that the form is for a school counselor job application, and that end users are not trying to apply for a different type of job. We should also verify that the form fields are not duplicated across multiple pages. Let's review the form's properties to ensure that each field is used correctly.
-</thinking>
-
 # School Counselor Job Application Form - Help Guide
 ## Purpose
 The School Counselor Job Application Form is designed to collect information from candidates applying for a school counselor position. This form is typically used by school administrators to gather necessary details about potential candidates, such as contact information, work experience, and education history.

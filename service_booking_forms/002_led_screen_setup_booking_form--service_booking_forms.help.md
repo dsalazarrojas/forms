@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to book a LED screen installation, allowing users to provide essential details such as event name, date, and contact information. This form helps in coordinating with the installation team and ensuring a smooth setup process.
-</thinking>
-
 # Led Screen Setup Booking Form - Help Guide
 ## Purpose
 

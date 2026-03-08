@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # DIY Beauty Practice Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your beauty practices, including your routine frequency, product usage, and satisfaction levels. Please answer the questions honestly, and do not hesitate to describe any challenges you have faced with your routine if you choose to do so.

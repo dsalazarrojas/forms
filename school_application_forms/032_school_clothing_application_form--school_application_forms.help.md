@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect information from parents or guardians about their child's clothing needs for school. The purpose of this form is to gather essential details such as student's name, student ID, parent contact information, and clothing preferences. 
-
-This form is intended for parents or guardians to provide information about their child's clothing requirements for school. It is not a duplicate form for other purposes.
-
-Before filling out this form, please ensure you have all the required information readily available. 
-
-This form will ask for personal and demographic information, which will be treated as confidential and used only for the intended purpose.
-
-Please fill out this form accurately and completely to ensure your child receives the necessary clothing.
-
-</thinking>
-
 # School Clothing Application Form - Help Guide
 ## Purpose
 The School Clothing Application Form is used to collect information from parents or guardians about their child's clothing needs for school.

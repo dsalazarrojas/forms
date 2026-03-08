@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Legal Service Quality Feedback - Help Guide
 
 ## Purpose

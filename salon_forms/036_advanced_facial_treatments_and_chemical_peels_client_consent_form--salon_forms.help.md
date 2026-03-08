@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining client consent for advanced facial treatments and chemical peels. The purpose of this form is to gather necessary information from the client regarding their consent for the treatment, which includes their name, contact phone number, selected treatment, allergies and sensitivities, current medications, review of contraindications, expected results and risks, and aftercare instructions. The form aims to ensure the client understands the procedures and potential risks associated with the treatment, and provides a clear record of their consent. It is essential that the form is completed accurately and thoroughly to ensure a smooth and safe treatment experience.
-</thinking>
-
 # Advanced Facial Treatments And Chemical Peels Client Consent Form - Help Guide
 ## Purpose
 This form is used to obtain client consent for advanced facial treatments and chemical peels. It gathers information about the client's name, contact phone number, treatment selection, allergies and sensitivities, medications, review of contraindications, expected results and risks, and aftercare instructions.

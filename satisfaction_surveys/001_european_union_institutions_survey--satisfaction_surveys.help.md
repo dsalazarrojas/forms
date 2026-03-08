@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # european_union_institutions_survey - Help Guide
 
 ## Purpose

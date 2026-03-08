@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information about a patient's aesthetic medical history, which is crucial for healthcare professionals to assess the patient's suitability for various aesthetic treatments. This form is designed to be completed by patients, and its data will be reviewed by medical professionals to ensure the patient's safety.
-
-The form is divided into three main sections: Patient Information, Medical History, and Consent. Each section requires certain information to be filled out, and the user needs to answer each question as accurately as possible. Some fields are required while others are optional. If the user has any doubt or concern about a field, they should contact the healthcare professional responsible for their treatment.
-
-</thinking>
-
 # Aesthetic Medical History Form - Help Guide
 
 ## Purpose

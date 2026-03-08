@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals applying for the Social Innovation in Education Fellowship. The form is designed to gather basic contact information, educational background, and project proposal details from applicants. Please ensure that you have reviewed the form carefully and provide accurate and complete information. Note that each field is optional unless specified otherwise. This form should not be duplicated for any other purpose.
-</thinking>
-
 # social_innovation_in_education_fellowship_application_form - Help Guide
 ## Purpose
 This form is for the Social Innovation in Education Fellowship application process.

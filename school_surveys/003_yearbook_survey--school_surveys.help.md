@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students, teachers, and schools to create a yearbook, which is an annual publication that celebrates the achievements and memories of a school year. This form is intended to gather contact information, demographic data, and other relevant details from students and their teachers. It's essential to fill out this form accurately and completely to ensure that the yearbook is published correctly and includes all necessary information. Please note that this form is not a duplicate of any other form, and the information collected will be used solely for the purpose of creating the yearbook. Fill out the form carefully, and if you have any questions or concerns, please contact the relevant authorities. 
-</thinking>
-
 # Yearbook Survey - Help Guide
 ## Purpose
 The Yearbook Survey is a form designed to collect information from students and teachers to create a yearbook, which is an annual publication that celebrates the achievements and memories of a school year.

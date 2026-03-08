@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow clients to book an appointment at a salon. This form should only be used for clients who have an account with the salon. It should not be used for new clients or for services that are not offered by the salon. To ensure that the form is used correctly, please review the fields below.
-</thinking>
-
 # Salon Appointment Form - Help Guide
 ## Purpose
 This form is for booking appointments at the salon for existing clients. If you're a new client, please contact the salon directly to inquire about services and availability.

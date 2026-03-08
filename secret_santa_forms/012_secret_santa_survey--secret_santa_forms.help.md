@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Secret Santa Survey - Help Guide
 
 ## Purpose

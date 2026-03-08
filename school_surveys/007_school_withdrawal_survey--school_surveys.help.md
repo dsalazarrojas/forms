@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Withdrawal Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from students who are withdrawing from school due to various reasons. The purpose of this survey is to understand the reasons for withdrawal and to gather suggestions for improvement to prevent future withdrawals.

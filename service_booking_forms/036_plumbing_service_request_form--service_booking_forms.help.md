@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from clients or customers for a plumbing service request. This form will likely be used by a plumbing company or service provider to understand the client's needs and schedule the necessary service visits. The form should only be completed by individuals requiring plumbing services. 
-</thinking>
-
 # Plumbing Service Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients or customers for a plumbing service request. It will help the plumbing company understand the client's needs and schedule the necessary service visits.

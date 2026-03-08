@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crew Uniform Fitting Booking Form - Help Guide
 
 ## Purpose

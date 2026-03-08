@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to ensure that users understand the purpose and functionality of the "University Preferences Survey" form. Before proceeding, it's essential to confirm whether you've already completed a similar survey or have strong opinions about university preferences. If so, please don't spend too much time on this survey, as it's intended to be a brief and informative tool. However, if you're new to university preferences or would like to provide feedback, please take the time to complete this survey to help us better understand your views. 
-</thinking>
-
 # University Preferences Survey - Help Guide
 ## Purpose
 This guide will walk you through the University Preferences Survey, a brief questionnaire designed to gather your opinions and preferences regarding universities.

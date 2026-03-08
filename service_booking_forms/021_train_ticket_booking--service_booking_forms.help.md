@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of booking a train ticket. It is intended for passengers who wish to reserve a seat on a train and is not intended for any other purpose. Please ensure that you are using this form for its intended purpose to avoid any confusion or misinterpretation. This form is created using AI and is not affiliated with any form platforms or companies. It is released under a Creative Commons license and can be used, modified, and distributed freely, but please give credit when using it.
-</thinking>
-
 # Train Ticket Booking - Help Guide
 ## Purpose
 This form is used to book a train ticket for passengers who wish to reserve a seat on a train.

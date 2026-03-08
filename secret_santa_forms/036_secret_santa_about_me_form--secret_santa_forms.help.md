@@ -1,9 +1,3 @@
-<thinking>Before we start, let's break down the form's purpose and relevance.
-
-This "secret_santa_about_me_form" is likely used for users to share personal information such as name, email, phone number, address, interests, and other details. It's possible that this form is used for Secret Santa gift exchange or other internal purposes where users need to share their contact details and preferences.
-
-We should check if there's any internal logic or rules that we should follow. In this case, we don't have any additional information about the form's usage or restrictions. If there are any specific requirements or constraints that should guide our explanations, we'll need to make sure we follow them.</thinking>
-
 # secret_santa_about_me_form - Help Guide
 ## Purpose
 This form is used to collect personal information from users for Secret Santa gift exchange or internal purposes.

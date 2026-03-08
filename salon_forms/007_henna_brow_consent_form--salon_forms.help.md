@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from patients for henna brow procedures. This form is used to gather information about the patient and the procedure, as well as to obtain their agreement to proceed with the treatment. It's essential to ensure that the patient understands the procedure, its risks, and the benefits before proceeding. This form helps in maintaining transparency and accountability in the treatment process.
-</thinking>
-
 # Henna Brow Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain consent from patients for henna brow procedures. It's a mandatory step to ensure that patients understand and agree to the treatment process.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on student retention, which is crucial for schools to understand the reasons behind student departures and improve their policies to retain students. The form is designed to gather information on both student and teacher perspectives, including reasons for leaving, support systems, comments, and relevant dates. This data will help schools identify patterns and areas for improvement.
-
-The form is designed to be completed by teachers and school administrators, and it is essential to ensure that the information collected is accurate and reliable. To achieve this, the form has been structured to minimize errors and provide clear instructions for users.
-
-To complete the form correctly, please follow the instructions below.
-
-This form is divided into several sections, each with its own set of questions. Please answer all questions in the relevant sections.
-
-</thinking>
-
 # Student Retention Survey - Help Guide
 ## Purpose
 The Student Retention Survey is designed to collect data on student retention, including reasons for leaving, support systems, and relevant dates. This data will help schools understand the reasons behind student departures and identify areas for improvement.

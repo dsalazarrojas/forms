@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from students. It is likely used for administrative or statistical purposes within the school. The fields are self-explanatory and should not require additional explanation. 
-
-This form does not require any specific business logic for completion, so no additional internal validation checks are required.
-
-</thinking>
-
 # Student Information Request Form - Help Guide
 ## Purpose
 The Student Information Request Form is used to collect general information from students, allowing school administrators to access and manage student data.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for measuring user satisfaction and preferences regarding daily transportation fees. Before we begin, let's ensure that the form's purpose and structure are clear and relevant to our goals. We are trying to collect data on daily transportation costs, frequencies, preferences, and satisfaction levels. The form is divided into several sections that cover various aspects of transportation, such as commute costs, travel frequency, and mode of transportation. We are not looking for duplicate or unnecessary information, so please make sure to answer each question carefully and honestly.
-
-</thinking>
-
 # Daily_TransportationFeeSurvey - Help Guide
 ## Purpose
 This form is designed to collect information about your daily transportation habits and preferences. It will help us understand your experiences and concerns regarding transportation costs and modes of transportation.

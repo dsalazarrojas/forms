@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students, teachers, and staff about the school climate, environment, and leadership characteristics. The data collected will help the school administration identify areas of improvement and implement changes to create a more positive and supportive school environment.
-To ensure the collected data is valid and accurate, please review each field carefully and provide clear and concise answers.
-</thinking>
-
 # School Climate Survey - Help Guide
 
 ## Purpose

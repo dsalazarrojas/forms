@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to gather information about the end user's awareness, knowledge, and opinions about microfinance, including their interest, benefits, and limitations of microfinance, as well as their demographic information. The form's goal is to collect data for research and analysis.
-
-The form has 25 questions, ranging from multiple-choice questions to text fields for demographic information. The questions cover various aspects of microfinance, such as how the user knows about microfinance, their interest in it, the benefits and limitations of microfinance, and their opinions about it. The form also collects demographic information, including the user's location, gender, age, education level, occupation, income, household income, family size, and how they heard about microfinance.
-
-The form is designed to be completed by individuals who are interested in or have experience with microfinance, and the data collected will be used to improve and develop microfinance programs and services.
-
-</thinking>
-
 # Microfinance Awareness Survey - Help Guide
 ## Purpose
 The Microfinance Awareness Survey is designed to collect information about your knowledge, opinions, and experiences with microfinance. Your responses will help us better understand how to improve and develop microfinance programs and services.

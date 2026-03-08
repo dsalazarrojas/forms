@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parental Consent And Release Form - Help Guide
 ## Purpose
 

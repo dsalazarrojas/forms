@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact information and specific details related to a makeup service, allowing the person submitting the form to request a custom makeup service appointment. It is intended for individuals looking to book an appointment and have a personalized makeup service experience. It is assumed that the user is interested in booking a makeup appointment for themselves, but there's no indication that multiple users can be added or that this form is meant for business or professional use. It is also unclear if the form is for general inquiries or actual bookings.
-
-</thinking>
-
 # Makeup Service Order Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and specific details related to a makeup service. It will help the service provider understand the client's needs and preferences for a custom makeup service experience.

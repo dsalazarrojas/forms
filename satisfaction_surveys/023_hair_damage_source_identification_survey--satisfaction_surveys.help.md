@@ -1,9 +1,3 @@
-<thinking>
-This help guide is being created to assist users in understanding the purpose and completion of the "Hair Damage Source Identification Survey" form. The form is designed to gather information on the sources of hair damage and is likely used in the beauty or hair care industry to analyze customer feedback. This guide will ensure that users can complete the form accurately and efficiently, reducing any confusion or mistakes.
-
-The form is divided into various sections, which will be explained in detail below.
-
-</thinking>
 # Hair Damage Source Identification Survey - Help Guide
 
 ## Purpose

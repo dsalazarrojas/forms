@@ -1,7 +1,3 @@
-<thinking>
-We need to determine if the form is being used in the correct context and not duplicated before providing the help guide.
-</thinking>
-
 # Course Withdrawal Form - Help Guide
 ## Purpose
 The Course Withdrawal Form is used to document the withdrawal of a student from a course. This form is typically used by the student to provide a reason for withdrawal and the withdrawal date.

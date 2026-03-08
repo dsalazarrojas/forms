@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting information from users, likely for customer service or feedback purposes. It appears to be a simple form with multiple pages, asking for personal and demographic information, and a favorite food preference. The form does not have any complex business logic or rules, so I will assume that each field is straightforward and self-explanatory. To create the help guide, I will use the provided YAML fields to explain each field clearly and concisely.
-</thinking>
-
 # georgie-lemon-bomb - Help Guide
 ## Purpose
 This form collects information from users, and its purpose is to gather personal and demographic data, as well as favorite food preferences.

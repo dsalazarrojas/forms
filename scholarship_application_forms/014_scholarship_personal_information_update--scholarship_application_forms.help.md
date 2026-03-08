@@ -1,5 +1,3 @@
-<thinking>This form is used to update the personal information of a student applying for a scholarship. It is crucial to ensure the accuracy and completeness of the information provided as it will be used to assess the student's eligibility and award the scholarship. Please check the fields to ensure you are updating the correct information and that you have all the necessary data to complete the form.</thinking>
-
 # scholarship_personal_information_update - Help Guide
 ## Purpose
 The scholarship_personal_information_update form is used to collect and update the personal information of a student applying for a scholarship. This form gathers crucial details such as contact information, student background, and family details to assess the student's eligibility for the scholarship.

@@ -1,6 +1,3 @@
-<thinking>...
-</thinking>
-
 # School Meal Survey - Help Guide
 
 ## Purpose

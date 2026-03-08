@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive application form for potential students to apply to the Bible University. It collects personal, contact, educational, spiritual, and program-specific information. It seems to be a general application form for students from various backgrounds, with sections dedicated to personal details, contact information, educational history, spiritual background, and program selection. The form also includes an essay section for a statement of purpose and additional information. To ensure that each section is filled out correctly, we will review each field individually, making sure that end-users understand its purpose and how to fill it out.
-</thinking>
-
 # Bible University Application Form - Help Guide
 ## Purpose
 The Bible University Application Form is a comprehensive application form designed for prospective students to apply to the Bible University. It collects essential information about personal details, contact information, educational background, spiritual background, and program selection. Each section is designed to help the admissions team get to know you better and assess your eligibility for the programs offered at the Bible University.

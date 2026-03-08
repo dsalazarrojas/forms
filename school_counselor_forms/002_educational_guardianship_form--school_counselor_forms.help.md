@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture information about a student's educational guardian, including their contact details, relationship to the student, and other relevant information. The form should only be completed if the student is under the age of 18 and requires a guardian's consent or approval. The form's purpose is to ensure accurate and up-to-date guardian information, and to maintain a record of the student's guardianship status.
-
-</thinking>
-
 # Educational Guardianship Form - Help Guide
 ## Purpose
 The Educational Guardianship Form is used to collect information from students' educational guardians, ensuring that their consent is captured and recorded in a secure and efficient manner.

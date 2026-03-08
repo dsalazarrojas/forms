@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess student engagement in a school setting, gathering various information from both the student and teacher perspectives. 
-
-The goal of this form is to gather insights on how well-structured and engaging the school is in its educational programs, and to identify areas that need improvement. This form will be used in conjunction with other data to inform decisions and make necessary changes.
-
-To avoid duplication of effort, please ensure that you complete this form only if you have not already provided feedback on student engagement. If you have already submitted feedback, your responses will be considered as an update or revision of your previous submission.
-
-Please note that the information collected will be treated with confidentiality and handled by authorized personnel only.
-
-</thinking>
-
 # Student Engagement Survey - Help Guide
 ## Purpose
 The student engagement survey is designed to gather feedback from students and teachers on the effectiveness of the school's educational programs. This feedback will help us identify areas of improvement and make data-driven decisions to enhance student engagement.

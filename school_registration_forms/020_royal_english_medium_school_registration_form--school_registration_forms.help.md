@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential information from students and their parents for the Royal English Medium School. It will be used to register students for the school's programs and services. Please ensure you have all the required information before filling out this form. This form should only be filled out once for each student. 
-</thinking>
-
 # Royal English Medium School Registration Form - Help Guide
 ## Purpose
 The Royal English Medium School Registration Form is designed to collect essential information from students and their parents for the school's programs and services.

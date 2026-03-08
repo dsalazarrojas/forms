@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended for gathering feedback from customers about their experience with the checkout process on a given shop. The goal is to understand how easy or difficult the checkout process was, how satisfied the customer was with the available payment options, and how quickly the checkout process was completed. Additionally, this form will ask if the customer experienced any technical errors, what they were, and if they would like to be contacted for further information. The form also has a section for any additional comments or suggestions customers may have. By completing this form, customers can provide valuable feedback that will help improve the shop's checkout process for future customers. This form is meant to be a quick and easy way for customers to share their thoughts and opinions, and all fields are clearly labeled for ease of understanding. To ensure accurate and relevant responses, please complete the form only for the shop from which you just made a purchase, and only if you are a real customer of that shop. If you are unsure about any field, please don't hesitate to reach out to the shop's customer support for clarification.
-
-</thinking>
-
 # Checkout Process Shopper Satisfaction Questionnaire - Help Guide
 ## Purpose
 

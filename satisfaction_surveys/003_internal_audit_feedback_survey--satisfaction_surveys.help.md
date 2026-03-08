@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from internal auditors on their experiences and opinions regarding the audit process. The goal of this survey is to identify areas of improvement and enhance the overall quality of the audit process. Before starting, please make sure to review the form carefully and answer each question to the best of your ability.
-</thinking>
-
 # Internal Audit Feedback Survey - Help Guide
 ## Purpose
 The Internal Audit Feedback Survey is designed to collect opinions and experiences of internal auditors on the current audit process. The survey aims to identify areas that require improvement and enhance the overall quality of the audit process.

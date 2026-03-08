@@ -1,7 +1,3 @@
-<thinking>
-This is an internal validation block to check for relevance and non-duplication of this form guide.
-</thinking>
-
 # School Bus Registration Form - Help Guide
 ## Purpose
 The School Bus Registration Form is designed to collect information about school bus trips, including trip details, bus specifications, and student information. This form is essential for organizing and managing school bus trips efficiently.

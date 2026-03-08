@@ -1,11 +1,3 @@
-<thinking>
-To provide a helpful and user-centered experience, let's consider the following:
-
-* The form is likely used to collect feedback from students about their experiences at the school.
-* To avoid redundancy, this survey should not be sent to students multiple times, but rather, it's a one-time opportunity for them to share their thoughts.
-* It would be ideal to have a clear explanation of each field's purpose to help students understand the context of their input.
-</thinking>
-
 # Student Satisfaction Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from students about their overall experience at the school.

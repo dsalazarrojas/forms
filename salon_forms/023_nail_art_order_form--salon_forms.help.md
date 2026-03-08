@@ -1,8 +1,3 @@
-<thinking> 
-The following is a step-by-step guide for users to understand the purpose and usage of the Nail Art Order Form.
-This form is designed to collect information from clients for nail art services. It helps to record and confirm the details of the order for the service technician.
-</thinking>
-
 # Nail Art Order Form - Help Guide
 ## Purpose
 The Nail Art Order Form is used to collect information from clients for nail art services. This form helps to record and confirm the details of the order for the service technician.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Promise Fulfillment Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients or patients for a skin consultation. The purpose of this form is to gather relevant data about the client's skin concerns, medical history, and other related information. This information will be used by the dermatologist or skin specialist to provide accurate and effective consultation. Before filling out this form, please ensure that you have not already filled it out previously. 
-
-</thinking>
-
 # Sknlogic Skin Consultation Form - Help Guide
 ## Purpose
 The Sknlogic Skin Consultation Form is designed to collect information from clients or patients for skin consultation purposes.

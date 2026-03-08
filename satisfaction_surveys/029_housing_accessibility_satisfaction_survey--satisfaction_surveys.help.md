@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Housing Accessibility Satisfaction Survey - Help Guide
 
 ## Purpose

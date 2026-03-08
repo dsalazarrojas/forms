@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, I will inspect the form's category and title. The category "satisfaction_surveys" suggests that this form is related to employee satisfaction, and the title "Employee Satisfaction Drivers Survey" explicitly indicates that it is a survey to gauge employee satisfaction drivers. This form likely aims to collect feedback on factors that drive employee satisfaction, which is a crucial aspect of employee engagement and well-being.
-
-Next, I will analyze the form fields to ensure that they are not duplicated or redundant. Upon inspection, I notice that the form has multiple fields with similar labels (e.g., "question_1" to "question_20"). However, each field has a unique id and name, which suggests that they are intended to collect different types of feedback or opinions. I also notice that the fields are primarily text or select fields, which suggests that the form is designed to collect free-form or multiple-choice feedback.
-
-The form also includes fields for "submission" and "submitted_by," which implies that the form is intended to track who submitted the form and the submission status. This form is likely used for internal purposes, such as performance monitoring or employee feedback analysis.
-
-Given this analysis, I believe that the form is intended to collect employee feedback and opinions on various aspects of their job or work environment.
-
-</thinking>
-
 # Employee Satisfaction Drivers Survey - Help Guide
 
 ## Purpose

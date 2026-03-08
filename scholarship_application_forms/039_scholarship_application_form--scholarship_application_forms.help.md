@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning:
-The purpose of this form is to collect applicant information for a scholarship program. 
-The form includes fields for first name, last name, email, phone number, date of birth, date of application, address, city, state, and zip code. 
-The form will be used to gather contact and demographic information from applicants.
-</thinking>
-
 # scholarship_application_form - Help Guide
 ## Purpose
 The scholarship application form is designed to collect contact and demographic information from applicants for a scholarship program. This form will help us to review and evaluate applicant applications.

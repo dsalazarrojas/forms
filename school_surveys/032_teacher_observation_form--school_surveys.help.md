@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for teachers to record their observations about other teachers or assistants in the classroom. This form is used to gather data on the effectiveness of teaching assistants and other teachers. The form should only be used for teachers who have observed a class, and not for teachers who are being observed themselves. If you are a teacher who has been observed, please fill out the "Teacher Observation Form" for the observer, not this form.
-</thinking>
-
 # Teacher Observation Form - Help Guide
 ## Purpose
 The Teacher Observation Form is a tool for teachers to record their observations about other teachers or teaching assistants in the classroom. This form helps to gather data on the effectiveness of teaching assistants and other teachers.

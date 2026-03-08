@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from a referrer (individual who is referring a student to the private school) about the student and their school. This form captures the student's basic information, school details, and referrer's contact information. The form is designed for private school referrals, where the referrer is recommending a student to the school.
-</thinking>
-
 # Private School Referral Form - Help Guide
 ## Purpose
 This guide will walk you through the private school referral form to ensure you complete it accurately.

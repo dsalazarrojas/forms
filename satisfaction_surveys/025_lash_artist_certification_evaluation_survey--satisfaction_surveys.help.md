@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to evaluate the quality of a course taught by a lash artist. It seems to be a subjective assessment of the course's performance in terms of instructor performance, course materials, support, duration, confidence, and other related aspects. I am assuming that this form is meant to gather feedback from students who have taken the course. I am not sure what the specific use cases are, but it might be for course evaluation purposes or to improve future course content and instruction.
-Please note that I'm making an assumption that most of the fields are required to be filled by the user, as it's not explicitly stated otherwise in the YAML schema. If this is incorrect, please let me know and I'll make the necessary adjustments.
-</thinking>
-
 # Lash Artist Certification Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about the quality of a course taught by a lash artist. It helps to evaluate the performance of the instructor, course materials, support, and other aspects of the course.

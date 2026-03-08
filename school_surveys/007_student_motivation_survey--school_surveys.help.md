@@ -1,5 +1,3 @@
-<thinking> This form is designed for students and their parents or guardians to report on students' motivation, engagement, and support levels. The information collected through this form will help educators better understand the needs and strengths of students, enabling them to provide targeted support and guidance. This form should not be duplicated or filled out multiple times for the same student. Only one survey per student should be completed. </thinking>
-
 # Student Motivation Survey - Help Guide
 ## Purpose
 The Student Motivation Survey is a tool for collecting information about a student's motivation, engagement, and support levels. This form helps educators understand the student's needs and strengths, enabling them to provide targeted support and guidance.

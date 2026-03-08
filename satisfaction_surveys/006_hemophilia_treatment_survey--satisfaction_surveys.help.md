@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for a survey form like this, we need to understand its purpose and how it can be completed. This form is designed to collect information about the treatment and satisfaction of individuals with hemophilia. It has multiple fields that ask for data on treatment regimens, bleeding frequencies, symptoms, and overall satisfaction. The form seems to be a comprehensive tool for gathering information on the hemophilia treatment experience.
-
-</thinking>
-
 # Hemophilia Treatment Survey - Help Guide
 ## Purpose
 This survey aims to collect information on the treatment and satisfaction of individuals with hemophilia. It covers various aspects of their treatment regimens, bleeding frequencies, symptoms, and overall satisfaction.

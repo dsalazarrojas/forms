@@ -1,5 +1,3 @@
-<thinking>How did you hear about Kandi? (select_one) is likely to be a question to help us understand where our users are coming from, but before we dive into that, let's take a moment to consider that this form is likely intended to collect feedback on the Kandi product, which means the "How did you hear about Kandi?" question might actually be redundant with the "How did you find Kandi?" question (select_one) later in the form. To avoid duplication, we'll focus on the latter question, and consider removing the former. That being said, if the two questions are truly distinct (e.g., one is about initial exposure and the other about current usage), we'll leave both in the form for now.</thinking>
-
 # kandi_product_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experiences with Kandi. The goal is to understand how you use Kandi and how we can improve it for you.

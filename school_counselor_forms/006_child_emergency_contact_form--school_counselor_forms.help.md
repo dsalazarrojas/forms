@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form fields to understand their purpose and ensure there's no duplication or overlap in the explanation.</thinking>
-
 # Child Emergency Contact Form - Help Guide
 ## Purpose
 

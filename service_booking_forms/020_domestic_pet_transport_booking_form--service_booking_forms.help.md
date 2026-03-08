@@ -1,9 +1,3 @@
-<thinking>
-This form is used to book domestic pet transport services. The form is divided into several sections and fields that need to be filled out to provide information about the pet, its transport, and the owner's contact details. The form is designed to be completed by the owner of the pet to book the transport service.
-The form is intended to be used for both pets that are being transported and pets that are being picked up. It is meant to gather information that will help the transport service providers to better understand the pet's needs and to make the transport process easier and more efficient.
-This form does not collect sensitive information such as payment details or personal identification numbers. Therefore, it can be safely filled out by anyone booking the transport service.
-</thinking>
-
 # Domestic Pet Transport Booking Form - Help Guide
 ## Purpose
 This form is used to book domestic pet transport services.

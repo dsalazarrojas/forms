@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from schools about the extracurricular stipends they provide to their students. The purpose of this form is to gather data on the availability and details of these stipends, which will help the organization understand the types of extracurricular activities and advisors that schools support. This form should only be filled out by authorized school representatives, and if the school has already completed this form for the current survey cycle, please do not submit this form again.
-</thinking>
-
 # Extracurricular Stipend Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from students or their parents/guardians for school enrollment purposes. It should only be used for this specific purpose and not for any other reason. Each field is designed to gather relevant data for the school's administrative and educational needs.
-</thinking>
-
 # School Enrollment Form - Help Guide
 
 ## Purpose

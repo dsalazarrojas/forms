@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Feedback Channel Survey - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for international students to submit their application to attend our school. It's recommended that you fill out this form with accurate and truthful information. Please ensure that you have all necessary documents and supporting materials ready before starting the application process.
-
-Before proceeding, please ensure you haven't filled out this form before. If you have already submitted a form, you may not be able to complete this new application. In such case, you can withdraw your previous application or contact us for further assistance.
-
-</thinking>
-
 # International School Application Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This form is used to register students for the second term of the Childcare Program. The form collects information about the student, including their name, address, date of birth, phone number, and email. It also collects information about the program they are registering for, such as the program type and start date. The form also includes fields for emergency contacts, medical history, and special needs. This information is used to ensure that the student is registered correctly and that they have the necessary support and resources.
-
-Please note that the form is not meant to be a comprehensive medical questionnaire, but rather a brief overview of any medical conditions or allergies that the student may have.
-
-Before filling out this form, please ensure that you have the necessary information and documentation to complete it accurately. If you are unsure about any of the questions, please contact the relevant authorities or the school for guidance.
-
-The form has been designed to be easy to fill out and complete, but if you have any difficulties or need assistance, please do not hesitate to ask.
-
-</thinking>
 # Second Term Childcare Program Registration Form - Help Guide
 ## Purpose
 This form is used to register students for the second term of the Childcare Program.

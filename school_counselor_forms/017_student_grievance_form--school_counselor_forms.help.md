@@ -1,17 +1,3 @@
-<thinking>
-The Student Grievance Form is a document used to report incidents or issues that require attention from school administrators or faculty. It is a means for students to express their concerns or grievances in a clear and structured manner, ensuring that all relevant information is documented and addressed.
-
-To ensure the form is used correctly, please note that:
-
-* If a student reports an incident, the form should only be filled out by the student involved in the incident or an authorized representative (e.g., a parent or guardian).
-* If a faculty member or staff member reports an incident, they should only report their own involvement in the incident.
-* Duplicate reports should be avoided to prevent multiple investigations and confusion.
-
-This form captures information about the incident, including details about the student's name, the type of grievance, a description of the incident, and relevant supporting information. It also captures information about any witness(es) to the incident, including their name(s) and contact information. The form further includes sections for reporting incidents at specific locations, times, and dates.
-
-By filling out this form accurately and completely, you will help our school administration resolve grievances and maintain a safe and respectful environment for all students.
-</thinking>
-
 # Student Grievance Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from customers for service requests and check-in purposes. It is meant to be completed by the RV owner or customer before or after visiting a service center. The form helps the service center to understand the owner's requirements and preferences for the service. The owner can select from a list of service requests, provide details about their vehicle, and sign the form digitally. The form is not meant to be a comprehensive service request form but rather a quick check-in form to gather essential information for processing and scheduling services.
-
-</thinking>
-
 # RV Service Check In Form - Help Guide
 ## Purpose
 The RV Service Check In Form is used to collect information from customers for service requests and check-in purposes. It helps the service center understand the owner's requirements and preferences for service.

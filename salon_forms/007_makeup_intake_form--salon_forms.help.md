@@ -1,13 +1,3 @@
-<thinking>
-We are creating a help guide for the "Makeup Intake Form" which is used for clients to submit their preferences and information for their upcoming makeup services. This form is designed to ensure that the service provider has all the necessary information to deliver the best possible experience for the client. 
-
-The form collects personal details such as the client's name, phone number, and email address. It also gathers information about the type of service the client is interested in, their hair type, color scheme, and preferred makeup style. Additionally, the client can provide any additional comments or notes that they would like to share with the service provider.
-
-To avoid duplication of services or miscommunication, please fill out the form carefully and accurately. If you need to book multiple services, please create a new submission for each service. 
-
-The goal of this form is to streamline the process of providing makeup services to clients. By providing clear and concise information, the service provider can efficiently deliver the services that the client is interested in.
-</thinking>
-
 # Makeup Intake Form - Help Guide
 ## Purpose
 This form is used to gather information from clients for their upcoming makeup services. It collects personal details, service preferences, and other relevant information to ensure that the service provider has a clear understanding of the client's needs.

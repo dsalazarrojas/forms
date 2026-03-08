@@ -1,5 +1,3 @@
-<thinking>...The Teacher Of The Year Nomination Form is used to identify and recognize an educator who has made significant contributions to their school or department. This form is designed to collect information from colleagues to nominate someone who deserves this recognition. To ensure fairness and equity, please note that nominators should not self-nominate and that the same individual cannot be nominated multiple times. Please make sure that you are nominating a colleague in good standing within the school or department. If the person you wish to nominate has already been recognized with this award, please do not resubmit their nomination... </thinking>
-
 # Teacher Of The Year Nomination Form - Help Guide
 ## Purpose
 The Teacher Of The Year Nomination Form is used to identify and recognize an educator who has made significant contributions to their school or department.

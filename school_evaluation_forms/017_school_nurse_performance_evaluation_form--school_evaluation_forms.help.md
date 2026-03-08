@@ -1,14 +1,3 @@
-<thinking>
-This form is for evaluating the performance of school staff members, including teachers, school nurses, and school principals. The main objective is to provide a structured process for assessing individual performance and identifying areas of improvement for growth and development. This form will be used by the school administration to collect feedback from various stakeholders and make informed decisions about staff development and support.
-
-It's essential to ensure that this form is filled out accurately and thoroughly, as it will help in making data-driven decisions about staff performance. Please review each section carefully and provide detailed feedback where necessary.
-
-The school evaluation form is designed to gather information on various aspects of school staff performance, including overall ratings, comments, areas for improvement, and recommended actions. It is crucial to be honest and objective when filling out this form, as it will help in creating a comprehensive picture of each staff member's strengths and weaknesses.
-
-Please note that this form will be reviewed and acted upon by the school administration, and the feedback provided will be used to support staff development and growth.
-
-</thinking>
-
 # School Nurse Performance Evaluation Form - Help Guide
 ## Purpose
 The School Nurse Performance Evaluation Form is a tool for assessing the performance of school nurses, with the ultimate goal of providing them with feedback and recommendations for growth and development.

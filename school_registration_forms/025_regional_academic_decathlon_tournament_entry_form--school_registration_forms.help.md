@@ -1,24 +1,3 @@
-<thinking>
-The form is designed for regional academic decathlon tournament entry. It's intended for schools to register their teams for the competition. This form will ask for general information about the school and team, including school name, team name, school code, school address, team motto, and team division (yes/no). It will also ask for the school type (yes/no), school phone number, school email, team members, team coach, coach phone number, coach email, team score, team ranking (yes/no), division 1 name, division 1 score, division 2 name, division 2 score, division 3 name, division 3 score, division 4 name, division 4 score, division 5 name, and division 5 score.
-
-To avoid duplicate registrations, a check will be performed on the school name and phone number to ensure only unique values are accepted.
-
-Note: The following fields are optional, but the required fields are marked as such in this guide:
-
-- division_1_name
-- division_1_score
-- division_2_name
-- division_2_score
-- division_3_name
-- division_3_score
-- division_4_name
-- division_4_score
-- division_5_name
-- division_5_score
-
-This form will be used to gather all necessary information for the regional tournament. All fields marked as required must be filled in for the form to be successfully submitted.
-</thinking>
-
 # Regional Academic Decathlon Tournament Entry Form - Help Guide
 
 ## Purpose

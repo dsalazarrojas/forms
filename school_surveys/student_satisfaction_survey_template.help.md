@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students to improve their overall experience at the school. This survey is an original adaptation created by AI using public survey topic metadata as inspiration, and it is not affiliated with or derived from any form platform. The form is meant to collect opinions and suggestions from students to help the school identify areas of improvement.
-
-Before proceeding, ensure that the form is not a duplicate effort and that you are not already collecting similar feedback using other means. The form's questions and categories are designed to be clear and concise, but feel free to modify them to fit your specific needs.
-</thinking>
-
 # student_satisfaction_survey_template - Help Guide
 ## Purpose
 The student satisfaction survey template is designed to collect feedback from students to improve their overall experience at the school. This form will help the school identify areas of improvement and make data-driven decisions to enhance the student experience.

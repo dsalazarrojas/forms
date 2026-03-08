@@ -1,8 +1,3 @@
-<thinking>
-This form is used for verifying the enrollment status of a student in a school. The purpose of this form is to gather information about a student's enrollment details, such as their name, date of enrollment, school affiliation, and verification status. This form is typically used by school administrators to keep track of student enrollment records and to verify the authenticity of student enrollment information.
-The form is divided into several sections, each focusing on different aspects of student enrollment information. To complete this form accurately and efficiently, it's essential to understand the meaning and purpose of each field. 
-</thinking>
-
 # Enrollment Verification Form - Help Guide
 ## Purpose
 The Enrollment Verification Form is used to gather and verify student enrollment information for school administration purposes.

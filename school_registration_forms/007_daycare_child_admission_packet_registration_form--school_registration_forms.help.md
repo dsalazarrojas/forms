@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect registration information from parents for their child to attend a daycare. The form will ask for basic details such as registration information, parent details, child details, and medical information. It also includes sections for allergies, emergency contact, and payment details. The form will allow parents to indicate whether they need to review or finalize their submission. The fields are designed to be straightforward and easy to understand, and the optional fields are clearly marked. This form is not intended for use in high-security applications and will be used in a daycare setting, where children's information will be kept confidential.
-
-</thinking>
-
 # Daycare Child Admission Packet Registration Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information for a child's admission to the daycare. Please complete the form accurately to help us better understand your child's needs and provide the best services for them.

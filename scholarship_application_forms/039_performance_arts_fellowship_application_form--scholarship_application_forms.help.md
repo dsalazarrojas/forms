@@ -1,10 +1,3 @@
-<thinking>
-We have a Performance Arts Fellowship Application Form designed to help artists and creatives apply for a performance arts fellowship. This form is meant to gather essential information about the applicant's background, project proposal, budget, and contact details. The purpose of this form is to evaluate applicants' qualifications and suitability for the fellowship.
-
-The form consists of 12 fields that need to be completed by the applicant. Each field is essential for the evaluation process. Please ensure you fill out all required fields to ensure a complete and accurate submission.
-
-</thinking>
-
 # Performance Arts Fellowship Application Form - Help Guide
 ## Purpose
 The Performance Arts Fellowship Application Form is designed to gather information about applicants' backgrounds, project proposals, and contact details to evaluate their suitability for the fellowship.

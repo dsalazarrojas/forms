@@ -1,9 +1,3 @@
-<thinking>
-
-The "Early Admission Application Form" is a document used to gather information from students who are interested in enrolling in the school. This form is meant for students who want to get early admission into the school and does not require them to provide all documents at once. It's a simplified version of the general application form. This form is intended to be used by students who are looking for an opportunity to get admitted before the regular application period.
-
-</thinking>
-
 # Early Admission Application Form - Help Guide
 ## Purpose
 The Early Admission Application Form is a simplified version of the general application form designed for students who want to get early admission into the school. It's a document used to gather information from students before they apply for regular admission.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect data from participants for the Country Week event. The form is used to gather information about the participant's availability, country focus, and activity participation. The user will be presented with multiple pages of questions, and each page will ask a different set of questions. The form will be saved as multiple submissions, each representing a participant's information. This form is meant to be completed by a participant, not an administrator.
-
-Before starting, ensure that this form has not been previously filled out for you to avoid duplication of effort. If you are a school administrator, please note that this form is intended for participant submission, not for administrative purposes.
-
-</thinking>
-
 # Country Week Participation Form - Help Guide
 
 ## Purpose

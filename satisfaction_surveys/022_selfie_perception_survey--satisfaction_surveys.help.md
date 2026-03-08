@@ -1,9 +1,3 @@
-<thinking>
-The Selfie Perception Survey is designed to gather information about your selfie-taking habits, motivations, and perceptions. This survey aims to understand how you view and interact with selfies, as well as the frequency and frequency of your selfie-taking activities. The survey will collect data on your preferences, attitudes, and behaviors related to selfies, which will help us better understand the selfie culture and its impact on individuals. This survey should only be taken once.
-
-Before filling out this survey, please make sure that you haven't taken it before. This will help us to get accurate and diverse responses from participants.
-</thinking>
-
 # Selfie Perception Survey - Help Guide
 
 ## Purpose

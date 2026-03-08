@@ -1,32 +1,3 @@
-<thinking>
-We are creating this help guide to ensure that users understand the purpose of the "Designer Satisfaction Survey" form and how to complete it effectively. This form is designed to gather feedback and opinions from designers about their experience working on a project. The purpose of this form is to collect data that can be used to improve the project management process and overall design process.
-
-The form contains 25 fields that are divided into several sections:
-
-*   Introduction: A brief text field where designers can provide a short introduction or comment about their experience.
-*   Feedback: A text field where designers can provide detailed feedback about their experience.
-*   Rating: A numerical field where designers can rate their overall satisfaction with the project.
-*   Design Process: A text field where designers can describe the design process that took place during the project.
-*   Overall Satisfaction: A dropdown menu where designers can select their overall satisfaction level with the project.
-*   Suggestion: A text field where designers can provide suggestions for improvement.
-*   Contact Information: Text fields for designer contact information, including email, phone number, and contact info.
-*   Submission Confirmation: A dropdown menu where designers can confirm whether or not they have submitted their feedback.
-*   Submission Comments: A note field where designers can add additional comments about their submission.
-*   Submission Date and Time: Date and time fields where designers can enter the date and time they submitted their feedback.
-*   Submission IP: A text field where designers can enter their IP address.
-*   Submission Region: A text field where designers can enter their region.
-*   Submission City: A text field where designers can enter their city.
-*   Submission Street: A text field where designers can enter their street.
-*   Submission Postal Code: A text field where designers can enter their postal code.
-*   Submission Comments: A text field where designers can add additional comments.
-*   Submission Latitude: A text field where designers can enter their latitude.
-*   Submission Longitude: A text field where designers can enter their longitude.
-*   Submission Accuracy: A numerical field where designers can enter their accuracy.
-*   Submission Zip: A text field where designers can enter their zip code.
-
-This help guide will cover each of these sections and fields in detail, ensuring that designers understand what is expected of them and how to complete the form effectively.
-</thinking>
-
 # Designer Satisfaction Survey - Help Guide
 ## Purpose
 The Designer Satisfaction Survey form is designed to gather feedback and opinions from designers about their experience working on a project. This form is used to collect data that can be used to improve the project management process and overall design process.

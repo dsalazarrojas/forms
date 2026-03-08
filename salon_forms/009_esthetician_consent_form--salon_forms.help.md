@@ -1,7 +1,3 @@
-<thinking>
-The Esthetician Consent Form is a document that requires a series of information from the esthetician (person providing services) to be filled out prior to the esthetician's appointment. This form is used for informational and consent purposes, to gather details and confirmations about the esthetician's identity, services, and equipment usage. This form is not intended for payment or financial purposes. Please ensure that the form is not being filled out for any other purpose, and that all required fields are completed accurately and thoroughly. This form is designed to be completed by the esthetician themselves, and it is essential that the fields below are filled out correctly to ensure accurate and successful execution of the appointment.
-</thinking>
-
 # Esthetician Consent Form - Help Guide
 
 ## Purpose

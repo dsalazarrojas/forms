@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from internet service providers, allowing them to register for a service. This form is meant to be used by internet service providers to create a new registration, and the collected information will be used to process their registration. Before starting, please make sure you are an authorized representative of your internet service provider and not a regular user.
-</thinking>
-
 # Internet Registration Form - Help Guide
 ## Purpose
 This form is for internet service providers to register their services.

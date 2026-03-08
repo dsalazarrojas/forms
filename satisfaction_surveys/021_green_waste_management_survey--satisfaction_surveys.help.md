@@ -1,12 +1,3 @@
-<thinking>
-We're creating a help guide for the "Green Waste Management Survey" form. The purpose of this form is to collect information about recycling practices, organic waste management, and waste collection and recycling efforts. This form is likely used to gather data for internal analysis or reporting purposes. We should check that there aren't any duplicate forms or surveys being sent out, especially if they are being used for similar purposes.
-
-The form has eight fields in total, with three fields for numerical data and five fields for text or select input.
-
-Before we dive into the field-by-field explanations, let's note that "select_one" input types typically represent a single-choice question, where the user selects one of the options provided.
-
-</thinking>
-
 # Green Waste Management Survey - Help Guide
 ## Purpose
 The Green Waste Management Survey collects information on recycling practices, organic waste management, and waste collection and recycling efforts. This data will be used for internal analysis or reporting purposes.

@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed for collecting application information from individuals or groups applying to an institute related to informatics or a similar field. However, the form's purpose and requirements might be specific to a particular institution, event, or program, so it's essential to verify this information with the relevant authority.
-
-Before creating this guide, it's also good to check if there are any existing guides or documentation that cover the same form and purpose, to avoid duplication of effort and ensure consistency.
-
-Assuming the form's purpose is to collect general application information for the informatics institute, let's proceed with the guide.
-
-</thinking>
-
 # informatics_institute_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants who are interested in applying to the informatics institute. It covers essential details such as contact information, education background, and upload requirements.

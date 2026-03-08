@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from school administrators who are interested in applying for a position within the school. The purpose of this form is to gather relevant details about the applicant's background, experience, and qualifications. It is intended for internal use only and should not be shared with external parties. Please ensure that you complete this form accurately and thoroughly to ensure that your application is considered fairly and without errors.
-
-</thinking>
-
 # School Administrator Application Form - Help Guide
 ## Purpose
 The School Administrator Application Form is a tool used to collect information from school administrators who are interested in applying for a position within the school.

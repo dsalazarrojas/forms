@@ -1,12 +1,3 @@
-<thinking>
-The form "Undergraduate Application CV Submission" is designed for students to apply to an undergraduate program. The purpose of this form is to collect information about the student's personal details, academic background, and other relevant information. This form is not a formal application form, but rather a supplementary form to be filled by students who wish to apply to the undergraduate program.
-
-To ensure that this form is filled out accurately and without duplication, please note that this form should only be filled out by students who have not yet applied to the undergraduate program or have not been previously accepted. If you have already applied or been accepted, please do not fill out this form.
-
-Also, please be aware that some fields in this form may require additional explanations or context that may not be immediately apparent. If you are unsure about any field, please reach out to the relevant authority for clarification.
-
-</thinking>
-
 # Undergraduate Application CV Submission - Help Guide
 ## Purpose
 The "Undergraduate Application CV Submission" form is designed to collect information about your personal details, academic background, and other relevant information for the undergraduate application process.

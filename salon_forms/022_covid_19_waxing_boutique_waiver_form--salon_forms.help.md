@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain a waiver from clients before they receive services at the salon. This form ensures that clients are aware of and agree to the terms and conditions of service, including any risks associated with the treatments they are about to receive, particularly in the context of COVID-19. Before proceeding, ensure that this form is relevant and non-duplicative, as its purpose is to serve as a waiver of liability. If the form is used for other purposes, please review the form's intent and make necessary adjustments accordingly.
-</thinking>
-
 # Covid 19 Waxing Boutique Waiver Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Resident Visitation Booking Request Form - Help Guide
 
 ## Purpose

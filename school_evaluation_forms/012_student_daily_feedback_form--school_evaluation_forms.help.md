@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the Student Daily Feedback Form, ensuring that end-users can easily complete the form and understand its purpose and requirements.
-The form is designed to collect feedback from students on a daily basis, which will be used by educators to track student progress and identify areas for improvement. This guide will cover the purpose of the form, how to complete it step-by-step, and provide explanations for each field.
-</thinking>
-
 # Student Daily Feedback Form - Help Guide
 
 ## Purpose

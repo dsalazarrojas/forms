@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Community Sports Satisfaction Survey form. The purpose of this form is to gather feedback from participants on various aspects of the sports program they attended, with the goal of understanding their satisfaction with the program, identifying areas of improvement, and informing future program development.
-
-This form is not intended for general public access, and the responses will be used internally to evaluate the program's effectiveness and make necessary adjustments.
-
-Before proceeding, please ensure you have not already completed this survey to avoid duplication of effort.
-
-</thinking>
-
 # Community Sports Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather your feedback on your experience with the Community Sports program. Your input is invaluable in helping us understand what we do well and what we can improve.

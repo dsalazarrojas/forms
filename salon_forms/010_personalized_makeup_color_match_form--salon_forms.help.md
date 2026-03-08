@@ -1,15 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the "Personalized Makeup Color Match Form". The form is designed to help users match their makeup color preferences with a personalized color palette. It will ask users to select their skin tone, preferred style, and color preferences, and will then suggest a color match based on their input.
-
-This form has 12 fields in total, and users are not required to fill out all of them. Each field has a specific purpose and will be explained in detail below.
-
-This guide will cover the following:
-
-- How to complete the form
-- Field-by-field explanation of each form field
-
-</thinking>
-
 # Personalized Makeup Color Match Form - Help Guide
 ## Purpose
 This form is designed to match your personal makeup color preferences with a personalized color palette.

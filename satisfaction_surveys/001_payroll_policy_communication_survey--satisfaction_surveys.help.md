@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about their experience with the organization's payroll policy communication. The purpose of this form is to understand how well the policy is being conveyed to employees, whether the information is clear and effective, and where improvements are needed. This form is intended to gather data without being too lengthy or intrusive. It is not a duplicate of any other similar form within the organization. The information collected will help in making informed decisions and adjustments to the payroll policy communication process.
-
-</thinking>
-
 # Payroll Policy Communication Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the effectiveness of the payroll policy communication process. Your input will help us understand how clear and effective our communication is and where we can improve.

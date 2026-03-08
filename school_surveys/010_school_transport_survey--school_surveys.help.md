@@ -1,7 +1,3 @@
-<thinking>
-  This help guide is designed to assist end-users in understanding the purpose and usage of the School Transport Survey form. The form is used to collect information about school transportation services. It is essential to complete the form accurately to ensure the data collected is reliable and consistent. Please review the form carefully before submitting it to avoid duplication or errors.
-</thinking>
-
 # School Transport Survey - Help Guide
 ## Purpose
 The School Transport Survey is a form used to collect information about school transportation services. It helps in understanding the availability and effectiveness of these services.

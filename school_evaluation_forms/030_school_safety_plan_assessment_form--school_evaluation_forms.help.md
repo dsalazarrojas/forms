@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Safety Plan Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to assess and document the school's safety plan, which is a critical component of the school's overall emergency response and crisis management strategy. This form helps school administrators and staff to identify potential risks and vulnerabilities, and to develop and refine their safety protocols.

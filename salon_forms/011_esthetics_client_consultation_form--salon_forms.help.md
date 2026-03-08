@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the "esthetics_client_consultation_form" form. The form is designed to collect information from clients about their skincare needs and preferences. This form will help the aesthetician understand the client's skin type, any medical history, and their current skincare products and procedures. By completing this form, the client can provide valuable information to the aesthetician to tailor their services to their specific needs.
 
 </thinking>
