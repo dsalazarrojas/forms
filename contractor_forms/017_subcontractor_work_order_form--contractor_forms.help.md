@@ -1,0 +1,116 @@
+<thinking>
+The Subcontractor Work Order Form is used to collect information about work orders submitted by contractors or subcontractors for review and approval. This form is meant to gather essential details about the work order, including the work order type, client information, and subcontractor contact details. To ensure accurate and efficient processing, it's crucial that all required fields are completed correctly. Please note that this form does not appear to be a duplicate of any other form in our system, and its purpose is to support the work order process for our company.
+
+</thinking>
+
+# Subcontractor Work Order Form - Help Guide
+## Purpose
+The Subcontractor Work Order Form is used to collect and store information about work orders submitted by contractors or subcontractors for review and approval purposes.
+
+## How To Complete This Form
+1. Fill out the form with accurate and complete information as required or requested in the fields below.
+2. Ensure all fields are completed correctly to avoid any potential issues with processing.
+
+## Field-by-Field Explanation
+- **Form ID (1)**: A unique identifier for the work order form.
+  - Type: Number
+  - Required: No
+  - Description: An identifier for the form that is automatically generated and unique for each form submission.
+- **Subcontractor Info (2)**: Enter any relevant information about the subcontractor.
+  - Type: Text
+  - Required: No
+  - Description: Enter any additional information about the subcontractor that is relevant to the work order.
+- **Work Order Type (4)**: Select the type of work order from the provided options.
+  - Type: Select One
+  - Required: No
+  - Description: Choose the type of work order from the options provided.
+- **Date (5)**: Enter the date of the work order submission.
+  - Type: Date
+  - Required: No
+  - Description: Enter the date when the work order was submitted.
+- **Description (6)**: Enter a brief description of the work order.
+  - Type: Text
+  - Required: No
+  - Description: Provide a short description of the work order.
+- **Client Name (7)**: Enter the name of the client.
+  - Type: Text
+  - Required: No
+  - Description: Enter the name of the client associated with the work order.
+- **Client Contact Info (8)**: Enter any relevant contact information for the client.
+  - Type: Text
+  - Required: No
+  - Description: Enter any additional contact information for the client.
+- **Subcontractor Name (9)**: Enter the name of the subcontractor.
+  - Type: Text
+  - Required: No
+  - Description: Enter the name of the subcontractor who submitted the work order.
+- **Date Submitted (10)**: Enter the date when the work order was submitted.
+  - Type: Date
+  - Required: No
+  - Description: Enter the date when the work order was submitted.
+- **Date Expected Complete (11)**: Enter the expected completion date for the work order.
+  - Type: Date
+  - Required: No
+  - Description: Enter the expected completion date for the work order.
+- **Submitted By (12)**: Select who submitted the form from the provided options.
+  - Type: Select One
+  - Required: No
+  - Description: Choose who submitted the form.
+- **Status (13)**: Select the current status of the work order from the provided options.
+  - Type: Select One
+  - Required: No
+  - Description: Choose the status of the work order.
+- **Notes (14)**: Enter any additional notes or comments about the work order.
+  - Type: Text
+  - Required: No
+  - Description: Enter any additional notes or comments about the work order.
+- **Work Order Notes (15)**: Enter any additional notes or comments about the work order.
+  - Type: Text
+  - Required: No
+  - Description: Enter any additional notes or comments about the work order.
+- **Company (16)**: Enter the name of the company associated with the work order.
+  - Type: Text
+  - Required: No
+  - Description: Enter the name of the company associated with the work order.
+- **Subcontractor Type (17)**: Select whether the subcontractor is active or inactive.
+  - Type: Select One
+  - Required: No
+  - Description: Choose whether the subcontractor is active or inactive.
+- **Subcontractor Name 2 (18)**: Enter the name of the subcontractor 2.
+  - Type: Text
+  - Required: No
+  - Description: Enter the name of the subcontractor 2.
+- **Subcontractor Contact Info (19)**: Enter any relevant contact information for the subcontractor.
+  - Type: Text
+  - Required: No
+  - Description: Enter any additional contact information for the subcontractor.
+- **Client Subcontractor Info (20)**: Enter any relevant information about the client and subcontractor.
+  - Type: Text
+  - Required: No
+  - Description: Enter any relevant information about the client and subcontractor.
+- **Email (21)**: Enter the email of the subcontractor.
+  - Type: Text
+  - Required: No
+  - Description: Enter the email of the subcontractor.
+- **Phone (22)**: Enter the phone number of the subcontractor.
+  - Type: Text
+  - Required: No
+  - Description: Enter the phone number of the subcontractor.
+- **Address (23)**: Enter the address of the subcontractor.
+  - Type: Text
+  - Required: No
+  - Description: Enter the address of the subcontractor.
+- **Work Order Number (24)**: Enter the work order number.
+  - Type: Text
+  - Required: No
+  - Description: Enter the work order number.
+- **Contract Start Date (25)**: Enter the start date of the contract.
+  - Type: Date
+  - Required: No
+  - Description: Enter the start date of the contract.
+
+## Tips
+- Please ensure all fields are completed correctly to ensure accurate and efficient processing.
+- If you have any questions or need assistance, please contact our support team.
+- This form will be used to support the work order process for your company.
+- If you need to make any changes to your submission, please contact your administrator.
