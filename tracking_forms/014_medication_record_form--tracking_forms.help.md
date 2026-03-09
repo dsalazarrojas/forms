@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the purpose and usage of the medication_record_form form.
-</thinking>
-
 # medication_record_form - Help Guide
 ## Purpose
 The purpose of this form is to record information about the medications you have taken. This includes tracking the medications you have taken, the dosages, the number of days you have taken them, and any additional notes regarding your medication intake.

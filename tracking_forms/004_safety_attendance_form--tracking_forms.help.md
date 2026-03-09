@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to track and record attendance at safety meetings. The form should only be completed by authorized personnel and is intended to ensure accurate and efficient tracking of meeting attendance. This guide is to be used by users to understand how to complete and fill out this form correctly. Please ensure that the form is filled out accurately and completely before submission. The form fields are designed to be easy to understand and should not be duplicated or filled out with incorrect information.</thinking>
-
 # Safety Attendance Form - Help Guide
 ## Purpose
 The Safety Attendance Form is designed to track and record attendance at safety meetings. The form is intended to be completed by authorized personnel to ensure accurate and efficient tracking of meeting attendance.

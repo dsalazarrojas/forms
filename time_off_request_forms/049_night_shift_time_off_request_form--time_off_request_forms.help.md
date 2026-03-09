@@ -1,13 +1,3 @@
-<thinking>
-
-This form was created to support the request of time off from employees, especially those who work on night shifts. It's a tool for managers to approve or reject time-off requests, and for employees to provide relevant information and reasons for their absences. 
-
-Before completing this form, please make sure you have the necessary permissions and approvals from your HR department or supervisor. If you've already submitted a time-off request, please do not submit another one until your previous request is resolved.
-
-Please make sure that the information you enter in the form is accurate and up-to-date.
-
-</thinking>
-
 # Night Shift Time Off Request Form - Help Guide
 ## Purpose
 The Night Shift Time Off Request Form is used to request time off from night shifts for various reasons such as vacation, sick leave, or holidays. It helps managers to approve or reject these requests and for employees to provide relevant information and reasons for their absences.

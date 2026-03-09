@@ -1,5 +1,3 @@
-<thinking>Professional Development Leave Request form is used to request time off for professional development. This form is only accessible to users who need to take time off for training, workshops, or other professional development activities. Users with this form will be asked to provide details about the training they are attending, such as start and end dates, and whether their manager and team lead have approved the request. The form also includes fields for training facilitators and their contact information. This form helps managers and team leads track and approve requests for professional development time off. To avoid duplicating requests, users can only submit one request at a time. Before filling out this form, make sure you have discussed and received approval for your time off request with your manager and team lead.</thinking>
-
 # Professional Development Leave Request - Help Guide
 ## Purpose
 This form is used to request time off for professional development activities, such as training, workshops, or conferences. It is intended for users who need to take time off for learning and development opportunities that will benefit their work.

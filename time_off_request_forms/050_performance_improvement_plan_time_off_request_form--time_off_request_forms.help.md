@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Improvement Plan Time Off Request Form - Help Guide
 
 ## Purpose

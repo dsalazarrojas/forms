@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for scheduling appointments for school tours. The purpose of this form is to collect information from users (parents or students) to schedule a tour at a school. The form collects various fields such as school name, tour type, start and end times, contact email and phone number, tour guide, tour capacity, tour frequency, and any additional note. This form is likely used for internal scheduling purposes within a school system.
-
-Before proceeding, please check that you are filling out this form for the correct tour and that you have not already submitted a form for the same tour.
-
-This form is used to gather information for internal scheduling purposes within the school system.
-
-Please fill out the form carefully to ensure accurate information is collected.
-
-</thinking>
-
 # School Tour Appointment Form - Help Guide
 ## Purpose
 The School Tour Appointment Form is a tool used to schedule appointments for school tours. It collects information from users to ensure a smooth and efficient tour process.

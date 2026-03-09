@@ -1,9 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "F1 Grand Prix Ticket Booking" form, I'll first outline the internal reasoning behind the form's purpose and potential relevance and non-duplication checks.
-The purpose of this form is to book tickets for the F1 Grand Prix event, which is likely a popular event with a large number of attendees and ticket holders. This form is designed to gather necessary information from users who want to purchase tickets, including their personal details and preferences for the event.
-To prevent duplication, the form might be used to check if the user already has a ticket or has been flagged as a duplicate entry. This would reduce the risk of users trying to book multiple tickets under different names or attempting to access restricted areas of the event.
-</thinking>
-
 # F1 Grand Prix Ticket Booking - Help Guide
 ## Purpose
 This form is designed to help you book your tickets for the F1 Grand Prix event. Please fill out the form with your personal details and preferences to ensure a smooth and enjoyable experience at the event.

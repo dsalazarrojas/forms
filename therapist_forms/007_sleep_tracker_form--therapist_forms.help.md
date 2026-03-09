@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for tracking sleep patterns and providing feedback to therapists. It's likely part of a larger application or system for monitoring and improving sleep health. Please verify that the form's purpose and fields align with your needs before proceeding. This guide will cover the form's usage, each field's purpose, and additional tips to ensure accurate completion.
-</thinking>
-
 # sleep_tracker_form - Help Guide
 ## Purpose
 This form is designed to track individual sleep patterns, including sleep dates, hours slept, wake times, bed times, sleep quality, wake frequency, sleep stages, and additional comments. It will be used in conjunction with a therapist's notes to provide comprehensive feedback and guidance.

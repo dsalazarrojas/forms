@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the Employee Timesheet Template form. I'll make sure to follow the required structure and guidelines, using the provided YAML fields as a basis for the explanations. This guide will help end users understand the form's purpose, how to complete it, and what each field means, ensuring they can fill out the form accurately and efficiently.</thinking>
-
 # Employee Timesheet Template - Help Guide
 ## Purpose
 The Employee Timesheet Template is a form used to track employee work hours, work dates, and other relevant information for the week. It collects data for the employee, manager, and supervisor review and approval.

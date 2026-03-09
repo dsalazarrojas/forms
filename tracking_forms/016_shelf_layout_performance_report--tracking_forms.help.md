@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shelf Layout Performance Report - Help Guide
 
 ## Purpose

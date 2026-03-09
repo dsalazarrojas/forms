@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chair Massage Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients about their massage preferences, medical conditions, and other relevant details for a safe and effective chair massage experience. Please fill out this form to ensure that our therapists are well-prepared to provide you with the best possible service.

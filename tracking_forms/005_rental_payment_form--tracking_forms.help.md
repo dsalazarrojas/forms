@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information for tracking rental payments from tenants to landlords. 
-The purpose is to record the method of payment, payment date, and other relevant details. 
-This will be used to monitor payment status and facilitate communication between the landlord and tenant. 
-This form will likely be used in a residential or commercial rental context. 
-Please ensure the form is not used for any other purpose to maintain accurate and relevant tracking information.</thinking>
-
 # Rental Payment Form - Help Guide
 ## Purpose
 The Rental Payment Form is designed to record and track rental payments made by tenants to their landlords. It is used to gather information about payment methods, dates, and other essential details for accurate and efficient tracking.

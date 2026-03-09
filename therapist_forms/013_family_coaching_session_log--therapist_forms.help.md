@@ -1,9 +1,3 @@
-<thinking>
-The "Family Coaching Session Log" form is a tool used by coaches to record and track progress of family coaching sessions. It is designed to gather information about the session's details, including the family's name, the coach's name, the date and duration of the session, the focus areas addressed, and any action items or feedback from the family. To ensure accurate and consistent use, it's essential to complete this form carefully and thoroughly.
-
-This form is not designed to be a duplicate effort, and each entry should capture a new, unique session's details. If you need to update an existing entry, please use the edit function to revise the existing record instead of creating a new one.
-</thinking>
-
 # Family Coaching Session Log - Help Guide
 ## Purpose
 The Family Coaching Session Log form is a tool to record and track family coaching sessions. It captures key details about each session to provide a clear picture of progress and facilitate future planning.

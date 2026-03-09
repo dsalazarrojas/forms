@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Vibrational Sound Therapy Form" is used to collect information about a session of vibrational sound therapy, which is likely a type of sound-based healing practice. The form appears to be used for tracking details about the session, including the client's and therapist's information, session duration, and any notes taken during the session. This form does not appear to be used for any other purpose, and it is not clear whether the "client" and "therapist" fields are intended to select from a specific list or if they are open-ended text fields. Therefore, it is assumed that these fields are intended to be filled with the actual names of the client and therapist participating in the session.
 
 # Vibrational Sound Therapy Form - Help Guide

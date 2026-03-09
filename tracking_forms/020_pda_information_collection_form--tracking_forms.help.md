@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for collecting information about a PDA (Personal Digital Assistants), a device that can provide users with important health-related information and support. This form will guide the user in collecting necessary details about the PDA, including its functionality, usage, and performance. The form is intended for users to provide feedback on PDAs they have used, with the purpose of tracking usage patterns, preferences, and any issues encountered while using the device.
-
-To avoid duplication of effort and ensure accurate feedback, please ensure you have reviewed any previous submissions before filling out this form.
-
-The PDA Information Collection Form is meant to be completed by individuals who have used a PDA and wish to provide feedback on their experience. If you have not used a PDA before, please do not submit this form. If you are unsure about any information required in this form, please refer to the provided guidance.
-
-Please note that some fields in this form may be optional and not all fields are required.
-
-</thinking>
-
 # PDA Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information about your experience with a PDA (Personal Digital Assistant), helping us understand your device usage, preferences, and any issues encountered while using the device. Your feedback is essential in shaping our future product development and improvement.

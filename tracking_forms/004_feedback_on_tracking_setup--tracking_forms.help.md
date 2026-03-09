@@ -1,5 +1,3 @@
-<thinking>This form, "feedback_on_tracking_setup", is intended to collect information about the setup of tracking on websites or web pages. It seems that the purpose is to get insights into how tracking is set up and being used on a particular page or website. This form will guide users through the process of filling out the form.</thinking>
-
 # feedback_on_tracking_setup - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the setup of tracking on websites or web pages. This form is designed to gather details about how tracking is configured and being used on a specific page or website.

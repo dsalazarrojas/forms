@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the hiring procedure for a new employee. It ensures that all necessary steps are completed before onboarding a new hire. The purpose of this form is to verify that the hiring process is followed consistently and accurately. This form is intended to be used by hiring managers and HR personnel.
-</thinking>
-
 # Hiring Procedure Checklist - Help Guide
 
 ## Purpose

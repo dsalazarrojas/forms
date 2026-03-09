@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be filling out the neurosomatic_breath_client_evaluation_form form. It is crucial to understand that this form is designed to gather information about a client's respiratory system and their breathing patterns. This guide is provided to ensure that users understand the purpose of the form and how to complete it accurately and effectively.
-</thinking>
-
 # neurosomatic_breath_client_evaluation_form - Help Guide
 ## Purpose
 The neurosomatic_breath_client_evaluation_form is designed to collect information about a client's respiratory system and their breathing patterns. This includes details about the client's respiratory system, breathing difficulties, treatment plans, progress, goals, and other relevant information.

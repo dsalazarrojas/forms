@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Project Expense Reimbursement Form", I will follow the provided instructions to ensure the guide is concrete, concise, and practical. The form seems to be used for tracking project expenses, and its fields are designed to capture relevant information about each expense. I will carefully examine each field to provide clear explanations for end users.
-</thinking>
-
 # Project Expense Reimbursement Form - Help Guide
 ## Purpose
 The Project Expense Reimbursement Form is a tool used to track and record project expenses, making it easier to manage and process reimbursements for approved project expenses.

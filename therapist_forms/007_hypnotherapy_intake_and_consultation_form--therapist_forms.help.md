@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for collecting intake and consultation information from clients for hypnotherapy sessions. The form is likely to be used by therapists or their assistants to gather necessary information from clients before or after a session. It's essential to ensure that the client information is accurate and up-to-date, as this will help the therapist tailor the session to the client's needs and preferences.
 
 Before starting, please note that this form is for general information purposes only. If you have any questions or concerns, please contact your therapist directly.

@@ -1,7 +1,3 @@
-<thinking>
-The "Massage Intake Form" is designed to gather essential information from clients before they book a massage appointment. This form helps the massage therapist to tailor the massage experience to the client's needs and preferences. The form asks clients to choose a massage type, select the duration and frequency of the massage, provide any additional comments or notes, and optionally enter their contact information (email and phone number). By collecting this information, the massage therapist can better understand the client's needs and provide a more effective and enjoyable massage experience.
-</thinking>
-
 # Massage Intake Form - Help Guide
 ## Purpose
 This form is used to gather information from clients before booking a massage appointment. It helps the massage therapist to tailor the massage experience to the client's needs and preferences.

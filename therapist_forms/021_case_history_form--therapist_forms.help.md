@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect comprehensive patient history, including demographic information, chief complaint, medical history, and mental status examination. The purpose of the form is to gather accurate and detailed information about the patient's medical and psychological condition, which will be used to guide treatment planning and decision-making. This information will be reviewed and evaluated by the treating clinician to ensure that the patient receives appropriate care and treatment. Please note that some fields are marked as "required" and are essential for accurate diagnosis and treatment planning. Please ensure that all required fields are filled in accurately and completely. If any fields are marked as "optional", please fill them out if you have relevant information. Please do not duplicate information in any of the fields, as this can lead to confusion and inaccuracy.
-</thinking>
-
 # Case History Form - Help Guide
 ## Purpose
 The Case History Form is a comprehensive document used to gather information about a patient's medical and mental health history. This form is used to guide treatment planning and decision-making by the clinician.

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose and context should be clear, and we need to ensure this form is not duplicated by other teams or for other purposes.
-This form is designed for employee time certification, specifically for tracking employee work hours, certification status, and feedback. It is intended to be used by employees to provide accurate information about their work hours and certification status.
-The form fields should be self-explanatory, but a clear explanation will be provided to ensure end-users understand the context and purpose of each field.
-</thinking>
-
 # Time Certification Survey - Help Guide
 
 ## Purpose

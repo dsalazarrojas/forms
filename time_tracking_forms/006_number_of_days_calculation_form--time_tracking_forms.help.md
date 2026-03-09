@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to calculate the number of days between two dates. The user is expected to input the start and end dates to receive the result of the calculation. This form is meant to be a simple and straightforward tool for users to quickly determine the number of days between two dates. It is not meant to be used for complex date calculations or for any other purpose than calculating the number of days between two dates.
-</thinking>
-
 # Number of Days Calculation Form - Help Guide
 ## Purpose
 This form is designed to calculate the number of days between two dates. The user inputs the start and end dates, and the form outputs the result of the calculation.

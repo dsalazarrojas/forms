@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Ca Hong Kong Logins - Help Guide
 
 ## Purpose

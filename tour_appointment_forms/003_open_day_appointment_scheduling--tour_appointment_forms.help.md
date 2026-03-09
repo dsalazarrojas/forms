@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block:
-This form is designed for scheduling an open day appointment. The form is required for the following fields: guest name, guest email, tour id, event date, event time, and guest phone. These fields are crucial for identifying the guest and their schedule. The optional fields include first page, campus, and event notes. The time slot field is not required but is recommended for specifying a preferred time slot for the appointment. The form is intended for end-users to provide information about their open day appointment schedule.
-</thinking>
-
 # open_day_appointment_scheduling - Help Guide
 ## Purpose
 This form is for scheduling an open day appointment.

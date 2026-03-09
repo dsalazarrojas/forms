@@ -1,17 +1,3 @@
-<thinking>
-  This form is designed to collect passenger information and itinerary details 
-  for bus ticket booking. It will ask for passenger details such as name, 
-  email, phone number, and full address. Additionally, it will gather 
-  travel information like departure and destination cities, date of travel, 
-  number of passengers, ticket class, seat location preference, and 
-  payment method. Please ensure that the information provided is accurate 
-  and up-to-date, and that you are booking for yourself or someone 
-  else, as this form is not intended for corporate or group bookings. 
-  Please note that some fields are required and must be filled in. 
-  Promotional codes and payment methods are optional but can be used to 
-  receive discounts or to pay securely.
-</thinking>
-
 # Bus Ticket Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information for bus ticket booking. It will 

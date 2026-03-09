@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and report progress on a weekly basis. It is designed to capture information on daily work and working hours for two different tasks or projects. The form is intended to help managers and team leads monitor and evaluate team performance and progress. It is not intended to be used for any other purpose. Please make sure you understand the purpose and scope of this form before proceeding.
-</thinking>
-
 # Weekly Timesheet And Progress Report Form - Help Guide
 ## Purpose
 This form is used to track and report progress on a weekly basis. It is designed to capture information on daily work and working hours for two different tasks or projects.

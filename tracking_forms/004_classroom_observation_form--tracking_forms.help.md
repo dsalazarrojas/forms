@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Classroom Observation Form - Help Guide
 ## Purpose
 The Classroom Observation Form is a tool used to gather information about the classroom environment, teaching practices, and student engagement during a lesson. This form helps observers assess the quality of instruction and provide feedback to teachers. It is intended for teachers, instructional coaches, or external evaluators to use during classroom observations.

@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for users to provide their consent to participate in the Occupational Therapy Innovation Feature. This form is used to collect relevant information from users, such as their email address, phone number, date, time, and notes. The form also includes a select multiple and select one field, which allows users to choose options from a list.
-
-The form is not intended to collect sensitive or protected health information, but rather to gather demographic and contact information. Users are encouraged to provide accurate and up-to-date information to facilitate the innovation feature's functionality.
-
-To ensure the form is not completed multiple times, users should only submit the form once. If a user has already completed the form, they will be notified and will not be able to resubmit the form.
-
-The form will be used to provide users with a more personalized experience in the Occupational Therapy Innovation Feature. By providing their consent, users will be able to access and interact with the innovation feature in a more streamlined and efficient way.
-
-</thinking>
-
 # Occupational Therapy Innovation Feature Consent Form - Help Guide
 ## Purpose
 This form is intended for users to provide their consent to participate in the Occupational Therapy Innovation Feature. It is used to collect demographic and contact information from users to facilitate the innovation feature's functionality.

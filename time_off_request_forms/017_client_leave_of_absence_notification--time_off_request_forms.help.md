@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to notify clients of their leave of absence, ensuring they are aware of the dates and details of their absence. This form is to be filled out by clients to provide notice to their advisor and other relevant parties. It's crucial to fill this form accurately to avoid any confusion or miscommunication. Please note that this form should only be filled out once for each separate leave of absence. If a client has multiple leaves, please create a new form for each one.
-</thinking>
 # Client Leave Of Absence Notification - Help Guide
 ## Purpose
 This form is used to notify clients of their leave of absence. It's a crucial step in ensuring that clients are aware of their absence and any necessary preparations or arrangements can be made.

@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML form, I notice that it appears to be a form used for creating or managing trades, possibly in a business or professional context. The form is divided into several sections with various fields, including text fields, select_one and select_multiple fields, date fields, time fields, and note fields. Each field has its own specific label and hint, which will be used to create a user-facing help guide.</thinking>
-
 # Trade Planning Form - Help Guide
 ## Purpose
 The Trade Planning Form is used to document and manage trades, providing detailed information about each trade. This form is crucial for tracking and evaluating trades, ensuring that all relevant details are captured accurately and consistently.

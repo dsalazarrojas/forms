@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a user story item entry form, which is used to capture information about individual user stories. The form likely collects data for tracking and monitoring purposes. Before proceeding, it's essential to ensure that you're not duplicating an existing entry. If you're unsure, check the internal database to verify the existence of a similar entry.
-</thinking>
-
 # user_story_item_entry_form - Help Guide
 ## Purpose
 This form is used to create or edit a user story item. It collects information about the item's type, status, priority, description, progress, due date, notes, email, phone number, and comments.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Therapy Booking Form - Help Guide
 
 ## Purpose

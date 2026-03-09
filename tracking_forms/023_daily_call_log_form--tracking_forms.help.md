@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Call Log Form - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to help therapists and counselors assess an individual's anger management skills, patterns, and motivations for change. The Anger Management Evaluation Form is used to gather information about the client's anger frequency, duration, intensity, and triggers, as well as their physical and behavioral responses to anger. The form also explores the client's relationships, work or school impact, and legal issues related to anger. Additionally, it examines the client's coping methods, family history of anger issues, substance use, motivation for change, and goals for anger management. This form is meant to be completed in conjunction with a professional evaluation and treatment plan.
-
-This form is intended for internal use within a therapeutic setting and should not be filled out by individuals without professional guidance. If you're not a licensed therapist or counselor, please do not complete this form.
-
-To avoid duplication of effort, please ensure you have not completed this form previously and are not aware of any similar assessments or evaluations being conducted concurrently.
-
-Please complete this form in a quiet, private setting and be as honest as possible. The answers provided will help the therapist or counselor understand your anger patterns and develop an effective treatment plan.
-
-Please note that this form is not a diagnostic tool and should not be used for diagnostic purposes. It is intended to provide a comprehensive understanding of your anger management needs and behaviors.
-
-</thinking>
-
 # Anger Management Evaluation Form - Help Guide
 ## Purpose
 This form helps therapists and counselors assess an individual's anger management skills, patterns, and motivations for change.

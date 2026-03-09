@@ -1,5 +1,3 @@
-<thinking>...This form is part of a larger system for tracking inventory. It allows users to select items, enter product names, quantities, and locations. The goal is to gather information about items in inventory and provide a way to track their status. This form does not require authentication, so it is intended for internal use only. It should not be used for any other purpose other than tracking inventory... </thinking>
-
 # Inventory Form - Help Guide
 ## Purpose
 The Inventory Form is used to gather information about items in inventory. It allows users to select items, enter product names, quantities, and locations to track their status.

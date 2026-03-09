@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Before diving into the help guide, let's quickly review the form purpose and context. This form is designed to collect preferences and settings related to emergency services, likely for a specific organization or business. The goal is to provide a clear understanding of the form's purpose and usage.
 
 # Emergency Services Schedule Preference - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...the form is designed for tracking work hours and tasks within projects. It is intended for project managers and team members to log and record progress. The form is meant to be used for tracking start dates, end dates, estimated hours, actual hours worked, and task descriptions. This form should only be used for projects that are not part of the standard business operations. To avoid duplication, project managers should not use this form for standard business operations projects. This form is for tracking extra work that is not part of the day-to-day operations...</thinking>
-
 # Project Timesheet Form - Help Guide
 ## Purpose
 The Project Timesheet Form is designed for project managers and team members to track and record progress on non-standard business operations projects.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect daily performance reports, likely for monitoring and tracking purposes in an Indonesian context. The form should only be used for genuine reporting and not for duplicate or redundant submissions. Ensure you have a genuine reason for filling out this form and avoid submitting the same report multiple times.
-</thinking>
-
 # daily performance report form in indonesian - Help Guide
 ## Purpose
 This form is used to gather information about your daily performance reports in Indonesian. By submitting this form, you will be providing valuable insights about your daily activities and progress.

@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to collect information about a ride, including trip details, vehicle information, and driver information. This is for use by fleet managers to track and monitor rides made by company vehicles and drivers. It is not intended for general public use and access will be restricted to authorized personnel only. 
-
-The form is likely used within a company's internal operations management system. The fields are designed to be completed by the driver or fleet manager to record and report on specific ride details.
-
-</thinking>
-
 # Ride Tracking Log Form - Help Guide
 ## Purpose
 This form is designed to collect and track information about company-owned vehicle rides. Authorized personnel use this form to monitor and record details about each ride, including start and end times, vehicle and driver information, and other relevant data.

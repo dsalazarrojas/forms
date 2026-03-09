@@ -1,10 +1,3 @@
-<thinking>
-The Guardian Task Management Form is designed to collect and manage information about tasks assigned to guardians of children or vulnerable individuals. This form is intended to be used by guardians to provide necessary details about their assigned tasks, such as due dates and statuses, and to record any relevant notes. This form is meant to streamline the task management process and ensure that all necessary information is collected in an organized and easy-to-read format.
-
-Before filling out this form, ensure that you are using it for the purpose it was intended and not duplicating any existing task management processes.
-
-</thinking>
-
 # Guardian Task Management Form - Help Guide
 ## Purpose
 The Guardian Task Management Form is a tool used to collect and track information about tasks assigned to guardians of children or vulnerable individuals.

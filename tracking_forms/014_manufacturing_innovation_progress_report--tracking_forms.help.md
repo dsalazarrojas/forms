@@ -1,7 +1,3 @@
-<thinking>
-The Manufacturing Innovation Progress Report form is designed to track the progress of manufacturing projects, gathering information on project status, milestones achieved, challenges encountered, and comments from project managers and other teams. This form helps to ensure that all stakeholders are aware of the project's current state and can make informed decisions about next steps. To complete this form, please note that it is not required to fill in all fields, but providing accurate and relevant information will help the project team make the most of this report.
-</thinking>
-
 # Manufacturing Innovation Progress Report - Help Guide
 ## Purpose
 The Manufacturing Innovation Progress Report form is used to track the progress of manufacturing projects and gather information on project status, milestones achieved, and challenges encountered. This report helps stakeholders make informed decisions about next steps.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather data from users about the current site conditions, hazards, and sustainability metrics. It's intended to be completed by site managers or team members who are responsible for tracking and reporting environmental performance. The form's fields are designed to capture specific information about the site's status, including any hazards present, sustainability metrics, and notes or comments about the site. The form is likely used by facility management, operations, or maintenance teams to record and monitor environmental performance on a regular basis, possibly weekly.
-
-</thinking>
-
 # Weekly Environmental Assessment - Help Guide
 ## Purpose
 The purpose of this form is to track and report on environmental conditions and performance at a site or facility.

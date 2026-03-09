@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for tracking flight arrivals, including details about the flight's status, aircraft code, flight number, arrival time, and assigned personnel. The form is likely to be used by airport staff or ground handling teams to report on flight arrivals and provide updates to relevant personnel. It is possible that this form will be used to report on flights that have landed and are now requiring ground handling services, and that the information collected here will help in coordinating these services. It is also possible that the form will be used to report on flights that are delayed or cancelled. Given the variety of fields on the form, it seems to be designed to be a comprehensive report for ground handling services. It is not possible to infer a specific business process without further information. I will create a help guide that covers all the fields and their intended uses.</thinking>
-
 # Flight Arrival Report Form - Help Guide
 ## Purpose
 The Flight Arrival Report Form is used to collect and report on flight arrival details for ground handling and coordination purposes.

@@ -1,11 +1,3 @@
-<thinking>
-
-We're creating this guide to help users understand and navigate the "Aquarium Tour Inquiry Contact Form" efficiently. This form is designed to gather essential information from users who want to inquire about tours at an aquarium. To confirm, the form is intended for users who are seeking to book a tour or gather more information about the aquarium's tour offerings. 
-
-Before proceeding, we need to ensure that the user hasn't already inquired about a tour, which would make the form redundant. This guide will cover the form's purpose, how to fill it out, and a detailed explanation of each field to help users provide accurate and relevant information.
-
-</thinking>
-
 # Aquarium Tour Inquiry Contact Form - Help Guide
 ## Purpose
 

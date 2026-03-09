@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users about their projects, specifically their titles, descriptions, estimated and actual start and end dates, statuses, and categories. It is meant to be used by project managers or teams to track and manage projects' progress and timeline. The form's purpose is to provide a simple and straightforward way to input data about projects, making it easier to have a unified view of all ongoing and completed projects.
-
-To confirm, the form's purpose is to:
-
-* Track project titles and descriptions
-* Record start and end dates (both estimated and actual)
-* Monitor project status and category
-
-This form is meant to be a straightforward tool to input and track project data, without any complex functionalities or conditional logic. It is designed to be completed by project team members or managers to ensure accurate and up-to-date information about ongoing projects.
-
-</thinking>
-
 # Project Timesheet Form - Help Guide
 ## Purpose
 The Project Timesheet Form is a simple tool used to track and manage projects. It gathers information about project titles, descriptions, estimated and actual start and end dates, project status, and categories.

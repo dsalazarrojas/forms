@@ -1,11 +1,3 @@
-<thinking>
-
-The Virtual Reality Therapy Evaluation Consent Form is used to gather essential information from clients before starting virtual reality therapy sessions. This form aims to ensure that clients understand the treatment process, their role in it, and provide their consent for the therapy. The form helps therapists assess the client's suitability for virtual reality therapy and ensures they are aware of the potential risks and benefits of the treatment.
-
-Before filling out this form, please ensure you have not completed it in the past, and it is not a duplicate form.
-
-</thinking>
-
 # Virtual Reality Therapy Evaluation Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect client information, ensure they understand the therapy process, and obtain their consent for virtual reality therapy sessions.

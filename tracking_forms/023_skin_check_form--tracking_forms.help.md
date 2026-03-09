@@ -1,5 +1,3 @@
-<thinking>This form is intended to track and collect information related to skin checks, including skin concerns, medical history, current medications, skin condition risk factors, skin condition history, medical treatment, family history, allergies, medical history, social history, skin check results, treatment plans, next steps, follow-up plans, and patient/doctor signatures. It is designed for use in healthcare settings, possibly in dermatology clinics or hospitals. The form is not affiliated with any proprietary form platforms, but rather an original creation using public survey topic metadata as inspiration. The form is released under CC BY 4.0, allowing for modification and use for free or commercial purposes with proper credit.</thinking>
-
 # Skin Check Form - Help Guide
 ## Purpose
 The Skin Check Form is a tool used to collect and track information related to skin checks in a healthcare setting.

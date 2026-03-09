@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Asset Handover Form - Help Guide
 
 ## Purpose

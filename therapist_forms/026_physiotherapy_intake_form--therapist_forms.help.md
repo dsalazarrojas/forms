@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a patient's medical history, treatment goals, and progress, and to gather data for physiotherapy treatment planning.
-The form appears to be designed for patients to report their medical history, including any allergies, conditions, and surgeries, as well as their physiotherapy goals and progress.
-However, some fields seem to be redundant or have unclear labels, which may lead to confusion. For example, "Physiotherapy Goals 2" and "Physiotherapy Goals 3" seem to be similar to "Physiotherapy Goals", and "Physiotherapy Treatment Progress 2" and "Physiotherapy Treatment Progress 3" seem to be similar to "Physiotherapy Treatment Progress".
-</thinking>
-
 # Physiotherapy Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medical history, treatment goals, and progress, and to gather data for physiotherapy treatment planning.

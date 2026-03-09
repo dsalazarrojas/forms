@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track property management activities and maintenance tasks. It is designed to capture relevant information about a property, including its name, the date of the activity, the type of activity, and other details such as maintenance descriptions and assigned personnel. The form also includes fields for tracking priority and status.
-</thinking>
-
 # Property Management Log - Help Guide
 
 ## Purpose

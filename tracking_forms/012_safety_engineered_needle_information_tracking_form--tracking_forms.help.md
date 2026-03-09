@@ -1,17 +1,3 @@
-<thinking>
-This form is used to track information related to safety-engineered needles, such as their type, manufacturer, handling information, safety engineering status, storage location, special handling instructions, expiration date, next due date, and last updated date. 
-
-Before starting, ensure that you are filling out a legitimate need, and that the information you are collecting is relevant and up-to-date. 
-
-Also, note that some fields may have specific requirements depending on the selected options or answers to other fields. 
-
-Please make sure to review each field carefully and fill out the required fields accurately. 
-
-If you're unsure about any field, please contact the responsible personnel for assistance. 
-
-Please refer to the provided fields below for a detailed explanation of each field's purpose and requirements. 
-</thinking>
-
 # safety_engineered_needle_information_tracking_form - Help Guide
 ## Purpose
 This form is designed to provide a structured way of tracking essential details related to safety-engineered needles. 

@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect information on greenhouse gas emissions tracking, likely for environmental or scientific research, and its purpose is to gather relevant data on emissions input, reduction actions, and supporting reports. This form should be relevant to organizations, researchers, or individuals tracking environmental impact, and it does not duplicate any other form. No proprietary content is used, and it is an AI-generated adaptation of general survey topics...</thinking>
-
 # Greenhouse Emission Tracking Report Form - Help Guide
 ## Purpose
 The Greenhouse Emission Tracking Report Form is designed to collect data on greenhouse gas emissions, reduction actions, and supporting reports for environmental or scientific research. This form helps organizations, researchers, or individuals track and analyze environmental impact.

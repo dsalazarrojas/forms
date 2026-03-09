@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm this form is intended to collect credit memo requests from users, and to prevent duplication of efforts, please let me know if this form is meant for a new request or an update to an existing one. 
-
-This form is designed to collect details about a credit memo request, including the reason for the request, the amount of credit to be issued, and other relevant information. 
-
-Please confirm that this form will be filled out by someone other than the user who will be reviewing/approving the request, or if this form is meant for self-service.
-
-Also, let me know if you need any additional fields or modifications to this form for it to be effective and user-friendly.</thinking>
-
 # credit_memo_request_form - Help Guide
 ## Purpose
 The credit memo request form is used to collect and track credit memo requests for your account. 

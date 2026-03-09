@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended for therapists and healthcare professionals to provide feedback on patient interactions. It's essential to ensure that the patient's medical record is accurately updated and any potential issues are documented. This form should only be completed once after each interaction with a patient. Please check that a similar form has not been completed recently before submitting this one. 
-</thinking>
-
 # Psychiatry Feedback Form - Help Guide
 ## Purpose
 The Psychiatry Feedback Form is used by therapists and healthcare professionals to provide feedback on patient interactions. This form ensures that a patient's medical record is accurately updated and any potential issues are documented.

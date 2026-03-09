@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a museum ticket order. Its purpose is to gather details about the customer's visit, including the order details and contact information. 
-
-To complete this form, the user needs to fill out the three text fields: "order_details", "ticket_info", and "contact_details". These fields are not required, but the user can provide any relevant information to help the museum staff process their ticket order.
-
-This form is meant to be a simple and straightforward way to collect necessary details for the museum ticket order process. The user can enter any additional information they deem necessary in the provided text fields.
-
-</thinking>
-
 # Museum Ticket Form - Help Guide
 ## Purpose
 This form is intended to collect information about a museum ticket order, making it easier for the museum staff to process the order and provide the best possible experience for the customer.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help track office supplies inventory. This will prevent stockouts and ensure the office always has the necessary supplies. The form should be used to log the quantity of each item on hand and the quantity to be ordered. This will help the approver to easily determine what items are low and need to be ordered.
-</thinking>
-
 # office_supplies_inventory_form - Help Guide
 ## Purpose
 This form is used to track office supplies inventory. It helps to prevent stockouts and ensures that the office always has the necessary supplies.

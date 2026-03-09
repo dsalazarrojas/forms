@@ -1,9 +1,3 @@
-<thinking>
-This form is a comprehensive tool designed to gather information about a couple's relationship dynamics, satisfaction, and goals. It's intended to be used in a professional setting, such as therapy or counseling. The form is composed of various questions that cover different aspects of relationships, from relationship status and satisfaction to communication styles and expectations.
-The form can be used to identify areas of strength and weakness in a relationship, helping couples gain a better understanding of each other's needs and concerns. By filling out this form, couples can work together to build a stronger, more fulfilling relationship.
-This form is part of a larger collection of forms that can be used to assess individual and couple's progress over time. Please ensure that you are not duplicating efforts by checking with your supervisor or the form's administrator before using this form.
-</thinking>
-
 # Couples Questionnaire - Help Guide
 ## Purpose
 The Couples Questionnaire is a tool designed to gather information about a couple's relationship dynamics, satisfaction, and goals. It's intended to be used in a professional setting, such as therapy or counseling, to help couples better understand each other's needs and concerns.

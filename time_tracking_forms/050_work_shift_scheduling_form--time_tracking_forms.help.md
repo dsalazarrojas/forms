@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be a work shift scheduling form for employees to report their working hours and other relevant information. The purpose of this form is to gather detailed information about an employee's shift schedule, including their start and end dates, shift times, employee details, team members, and other relevant notes. This form likely aims to improve the management and coordination of employee shifts, ensuring that all relevant information is documented accurately and efficiently.
 
 # Work Shift Scheduling Form - Help Guide

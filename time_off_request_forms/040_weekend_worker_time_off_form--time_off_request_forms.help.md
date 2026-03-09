@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will walk you through the Weekend Worker Time Off Form, helping you understand its purpose, how to fill it out, and what each field represents.
 
 # Weekend Worker Time Off Form - Help Guide

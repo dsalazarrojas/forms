@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning check: This form is a Music Therapy Research Grant Application, used to gather information for research studies. It is intended for individuals or organizations seeking funding for research projects related to music therapy. The form will likely be reviewed by a committee or panel to assess the proposal. The form is not a duplicate of other forms used for grant applications in the same organization or institution, as it has a distinct focus on music therapy research. Internal consistency and accuracy are crucial to ensure a fair review process... </thinking>
-
 # Music Therapy Research Grant Application - Help Guide
 ## Purpose
 This form is designed to collect information for research studies focused on music therapy. It is used to gather details about your research proposal, budget, and supporting documents for evaluation by a committee or panel.

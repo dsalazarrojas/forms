@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for tracking the condition and maintenance of fire extinguishers. The form will help users to keep track of fire extinguisher locations, types, conditions, and other relevant details. It's essential to have accurate and up-to-date information to ensure the safety and compliance with fire protection regulations. This form should not be used for reporting actual incidents or emergencies, but rather for planned maintenance and regular inspections.
-</thinking>
-
 # Fire Extinguisher Checklist - Help Guide
 ## Purpose
 This form is used to collect information about fire extinguishers, including their locations, conditions, types, and other relevant details. It helps with scheduled maintenance and tracking of fire extinguishers to ensure they are ready for use in case of an emergency.

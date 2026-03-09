@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users to book a ferry ticket. It will likely be used by customers or website visitors to book a ferry ticket for travel. This form will collect various details such as passenger information, travel dates, time, class, and payment method. It's essential to ensure that the user understands the purpose of the form and how to fill it out correctly.
-</thinking>
-
 # Ferry Ticket Reservation Form - Help Guide
 ## Purpose
 The Ferry Ticket Reservation Form is designed to collect information for booking a ferry ticket. Please fill out the form with your details to complete the booking process.

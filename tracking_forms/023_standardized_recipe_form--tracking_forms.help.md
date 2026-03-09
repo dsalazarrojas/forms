@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll provide you with a user-facing help guide for the "Standardized Recipe Form" that is clear, concise, and easy to understand.</thinking>
-
 # Standardized Recipe Form - Help Guide
 ## Purpose
 The Standardized Recipe Form is designed to collect information from users about their recipes, including ingredients, instructions, and additional notes. This form helps to standardize the way recipes are collected, making it easier to manage and compare different recipes.

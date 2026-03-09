@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be related to tracking job-related information. It seems to be collecting data on jobs, including job titles, descriptions, staff names, task titles, start and end times, staff descriptions, materials used, files uploaded, job dates, and completion dates. The fields are mostly text-based, with some fields like start and end times likely being dates in a different format. I will make sure to provide an explanation that matches this context.
-</thinking>
-
 # Job Form - Help Guide
 ## Purpose
 The Job Form is a document used to track and record job-related information, including job titles, descriptions, staff names, task titles, start and end times, staff descriptions, materials used, files uploaded, job dates, and completion dates.

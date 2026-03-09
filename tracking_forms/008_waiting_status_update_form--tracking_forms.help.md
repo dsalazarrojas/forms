@@ -1,16 +1,3 @@
-<thinking>
-This form is used to track the status of a request, allowing users to update the status of their waiting requests in a clear and concise manner. The form is divided into multiple pages, each containing fields that correspond to different aspects of the request's status. This form aims to reduce errors and miscommunications by providing a structured and standardized way for users to report on the status of their requests.
-
-When filling out this form, please make sure to accurately and completely fill out all required fields, as the information collected is crucial for proper request tracking and handling.
-
-To complete this form, please follow these steps:
-
-1. Ensure you have a valid reason for the update, as indicated in the form's hint for each field.
-2. For each field, provide accurate and complete information as requested.
-3. Review your entries carefully before submitting to ensure accuracy and consistency.
-
-</thinking>
-
 # Waiting Status Update Form - Help Guide
 ## Purpose
 The Waiting Status Update Form is used to track the status of a request, allowing users to provide regular updates on the status of their waiting requests in a standardized and structured way.

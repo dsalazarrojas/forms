@@ -1,14 +1,3 @@
-<thinking>
-This form is meant to collect information from users about a product for tracking purposes. The goal is to gather essential details such as the product ID, name, price, category, and notes, while also capturing the user's name, email, and company. The tracking status and comments can also be included. This form aims to simplify the process of registering products for tracking and providing a clear record of the submitted data.
-
-The form will be used to register a product only once, to avoid duplication. If the user already has a product registered, they will not be able to submit another form for the same product.
-
-The form will be filled out by the user, and the data will be reviewed and approved by the relevant personnel before being added to the tracking system.
-
-Please note that all fields with the "required: true" flag will need to be filled out.
-
-</thinking>
-
 # Product Registration For Tracking - Help Guide
 ## Purpose
 This form is designed to collect product information for tracking purposes, ensuring that all relevant details are captured and recorded for easy reference and management.

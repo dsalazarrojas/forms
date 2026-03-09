@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be a general template for collecting patient and next of kin information, as well as obtaining consent and other relevant details for online therapy sessions. 
-This form is designed to be filled out by patients and next of kin for online therapy purposes, and it's crucial to ensure that the information provided is accurate and comprehensive to facilitate smooth communication with the doctor. 
-It is assumed that the end user is a patient or next of kin.
-</thinking>
-
 # Online Therapy Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect patient and next of kin information, obtain consent, and other details necessary for online therapy sessions.

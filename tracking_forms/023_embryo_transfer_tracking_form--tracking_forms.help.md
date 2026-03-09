@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the transfer of embryos in a medical setting, likely for fertility treatments or reproductive purposes. The form aims to collect essential information related to the patient's details, procedure information, and other relevant data. Before proceeding, ensure that the information in this form is not already being tracked or recorded in another medium, and that it is accurate and up-to-date. The form is intended for use within the specified industry (fertility/reproductive) and category (tracking), so it is essential to use it for its intended purpose and context. Please review the form carefully to ensure it meets your specific needs.
-</thinking>
-
 # Embryo Transfer Tracking Form - Help Guide
 
 ## Purpose

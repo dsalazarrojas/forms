@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to allow attendees, organizers, and stakeholders to provide feedback, inquiries, and reports related to the town festival. The form is divided into multiple pages, each with a specific purpose:
-- Page 1: Contact Us (input fields for name, email, phone, and message)
-- Page 2: Feedback and Lost and Found (selective field for feedback, lost and found, and volunteer options)
-
-This form is intended to be completed by anyone who wants to get in touch with the festival organizers, report a lost item, provide feedback, or express interest in volunteering. The form is not a replacement for other communication channels, and users are encouraged to use it only for the intended purposes.
-
-Please fill out this form only if you have a genuine reason to contact the festival organizers. Do not use this form for spamming, promotion, or other non-relevant purposes.
-</thinking>
-
 # Town Festival Contact Form Template - Help Guide
 ## Purpose
 The Town Festival Contact Form Template is designed to allow attendees, organizers, and stakeholders to provide feedback, inquiries, and reports related to the town festival. It is intended to facilitate communication and gather valuable information for the festival organizers.

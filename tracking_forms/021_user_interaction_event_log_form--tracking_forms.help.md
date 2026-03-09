@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the User Interaction Event Log Form is to collect detailed information about user interactions with products or services. This form is used to track events such as user feedback, issues, or other relevant interactions that may impact product development, customer support, or other business processes. 
-
-Before completing this form, please ensure that you are providing information about a specific user interaction that occurred on a particular date. If you have already submitted an event for the same date and user, please do not duplicate the entry. Each entry should be unique and capture a distinct interaction.
-
-</thinking>
-
 # User Interaction Event Log Form - Help Guide
 ## Purpose
 The User Interaction Event Log Form is used to collect and document user interactions with products or services. This includes feedback, issues, or other relevant events that may impact product development, customer support, or other business processes.

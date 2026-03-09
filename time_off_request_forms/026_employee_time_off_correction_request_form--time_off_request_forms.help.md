@@ -1,7 +1,3 @@
-<thinking>
-The "Employee Time Off Correction Request Form" is a document used to request corrections to previously submitted time off requests, allowing employees to make adjustments or rectify errors made during the initial submission process. This form is not meant to be used for new or initial time off requests. To ensure accuracy, please review your previous time off request to see if the correction can be made directly through the original form. If the form is not applicable or you have questions, contact the HR department for guidance.
-</thinking>
-
 # Employee Time Off Correction Request Form - Help Guide
 ## Purpose
 This form is intended for employees to submit corrections to their previously submitted time off requests. If you need to adjust the dates or details of a pre-existing time off request, please fill out this form.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Day Wristband Printing Order Form - Help Guide
 
 ## Purpose

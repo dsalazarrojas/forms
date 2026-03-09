@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AI Inventory Tracking Pilot Application - Help Guide
 ## Purpose
 The AI Inventory Tracking Pilot Application is a form designed to gather information from organizations interested in evaluating the feasibility and effectiveness of AI-powered inventory tracking solutions. The form asks for basic details about the applying entity, such as name and contact information, and more in-depth information about their current inventory management practices and pain points. It also asks about their desired AI features and the expected outcomes of a pilot program.

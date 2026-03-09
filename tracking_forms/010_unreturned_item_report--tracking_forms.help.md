@@ -1,5 +1,3 @@
-<thinking>As an AI-generated form, this form aims to track items not returned to their office or facility. It captures the details of the item, borrower, and the reasons for return. This form is intended to help facilities or offices keep track of their borrowed items and ensure their safe return. It can be used by administrators or asset managers to maintain accurate records and communicate with borrowers. This form may be part of an asset management system or used as a standalone tool. It's crucial to fill out this form accurately to maintain up-to-date records.</thinking>
-
 # Unreturned Item Report - Help Guide
 ## Purpose
 The Unreturned Item Report form is designed to collect information about items that have not been returned to the office or facility. It helps administrators or asset managers track the status of borrowed items, including the reason for return, borrower details, and follow-up activities.

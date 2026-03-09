@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to track client interactions and provide an overview of client information. The purpose of this form is to facilitate data collection and analysis for business use. It should only be used for clients that the company has interacted with, and not for general public submission. 
-
-This form will help the user understand how the client's status and interactions are being tracked and noted. 
-
-</thinking>
-
 # online_client_tracking_form - Help Guide
 ## Purpose
 This form is used to track and manage client interactions and information for business use. It should only be filled out for clients that the company has interacted with.

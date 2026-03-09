@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information for the Holistic Therapy Podcast Interview, which is a platform that explores various topics related to mental health and wellness. This form is meant to be filled out by clients who are participating in an interview for the podcast, and it will be used to gather essential details such as contact information, interview preferences, and consent. 
-
-This form will be used to ensure that we have the necessary information to facilitate a smooth and enjoyable experience for both the client and the therapist. The form is designed to be completed by the client prior to the interview, and it will be reviewed and verified by the podcast team to ensure that all necessary information is collected.
-
-To avoid duplication of effort, please check if you have already filled out this form before proceeding.
-
-</thinking>
-
 # Holistic Therapy Podcast Interview Consent Form - Help Guide
 ## Purpose
 The Holistic Therapy Podcast Interview Consent Form is a crucial document that helps us prepare for our conversation. It provides us with essential information about you and your preferences for the interview.

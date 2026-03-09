@@ -1,13 +1,3 @@
-<thinking>Form purpose is to track student and instructor attendance for virtual classes. This form ensures accurate recording of attendance status, student comments, and instructor comments. It's crucial to fill out the form correctly to maintain accurate records and facilitate communication between instructors and students.
-
-Before filling out this form, ensure you have the necessary information and permissions to do so. If you have any doubts or questions, please reach out to the relevant authorities for clarification.
-
-This form is for virtual classes, so be sure to use the correct attendance status for the corresponding class. If you're unsure about the attendance status, please use the options provided in the select fields.
-
-Please note that the student and instructor comments fields are for personal notes and feedback. Be respectful and professional in your comments to maintain a positive and constructive environment.
-
-Also, please ensure that the student attendance IDs are accurate and up-to-date, as this information will be used to track attendance records.</thinking>
-
 # Virtual Class Attendance Form - Help Guide
 ## Purpose
 

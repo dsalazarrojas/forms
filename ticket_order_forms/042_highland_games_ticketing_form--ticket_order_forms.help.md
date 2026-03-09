@@ -1,14 +1,3 @@
-<thinking> 
-  This form is for ticketing purposes, likely for an event or game management system. 
-  It appears to be used for users to submit information about tickets, such as 
-  customer details, ticket types, dates and times of events, prices, and status. 
-  Users will need to select ticket types, enter customer details, event dates and 
-  times, and other relevant information. Some fields are for note-taking and status 
-  management. The form does not seem to have any complex logic or conditional 
-  fields, and most fields are self-explanatory. The purpose of this form is to 
-  collect and manage ticketing information for an event or game.
-</thinking>
-
 # Highland Games Ticketing Form - Help Guide
 ## Purpose
 This form is used to submit ticketing information for an event or game.

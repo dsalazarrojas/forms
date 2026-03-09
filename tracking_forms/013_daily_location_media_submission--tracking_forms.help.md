@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect daily location data from users, likely for the purpose of tracking changes in media presence in a particular location over time. The form is likely intended for use by field observers or researchers who need to record their observations in a standardized format. To determine if this form is relevant and non-duplicitous, I will assume that it is being used to collect data for a specific project or study with a clear goal in mind.
-
-</thinking>
-
 # daily_location_media_submission - Help Guide
 ## Purpose
 The purpose of this form is to collect daily data on media presence in a specific location, allowing users to track changes over time.

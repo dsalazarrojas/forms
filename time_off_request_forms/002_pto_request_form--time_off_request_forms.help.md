@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning block to determine the form purpose and prevent duplication:
-This form is used to request time off for personal or professional reasons. The purpose of this form is to allow employees to submit a request for time off, such as vacation, sick leave, or other personal events. The form will be reviewed and approved or denied by the manager based on the company's policy and available information.
-To prevent duplication, we can track the employee ID to ensure that only one request per employee is processed at a time.
-</thinking>
-
 # PTO Request Form - Help Guide
 
 ## Purpose

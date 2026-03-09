@@ -1,8 +1,3 @@
-<thinking>
-Form Purpose: The "key_stage_lesson_plan_form" is designed to track and record important information related to lesson plans for key stages of a curriculum. This form helps teachers collect data on teacher's name, email, school name, subject area, and other relevant details for key stage lesson planning.
-Form fields are divided into different pages for ease of use and clarity. Each page corresponds to a specific aspect of the lesson planning process.
-</thinking>
-
 # key_stage_lesson_plan_form - Help Guide
 ## Purpose
 The "key_stage_lesson_plan_form" is a crucial tool for tracking and recording lesson plans for key stages of a curriculum. It helps teachers gather essential information for efficient planning and execution.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to track health and safety incidents. To avoid duplication, please do not fill out this form for the same incident more than once. If you need to update an existing entry, use the "Follow Up" field to add additional information.
-
-</thinking>
-
 # Health And Safety Indicator Log - Help Guide
 ## Purpose
 The Health And Safety Indicator Log is used to track and record incidents that occur within the organization's health and safety department. This form helps to document incidents, their types, locations, and status, ensuring that all relevant information is gathered and recorded for future reference.

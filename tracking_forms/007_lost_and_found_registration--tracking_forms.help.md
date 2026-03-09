@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register a lost and found item. Before filling out this form, please ensure that the item has not already been registered, and that it is indeed lost and not abandoned or discarded. To prevent duplicate registrations, please only register items that are truly lost and have not been found before. If an item is found to be a duplicate registration, it will be removed from the database.
-
-The purpose of this form is to gather information about the lost item, including its description, location, and any contact information of the person who found it. This information will help identify and reunite the item with its rightful owner.
-
-To complete this form, please follow the instructions below.</thinking>
-
 # Lost And Found Registration - Help Guide
 ## Purpose
 This form is used to register a lost and found item.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to track the duration of various activities. It appears to be used to record the time spent on tasks or projects, possibly for administrative, billing, or reporting purposes. This form will likely be used by employees or team members to log their working hours and breaks. To ensure accurate tracking, it's essential to fill out the form carefully and consistently. Please review the form carefully to confirm it's relevant to your needs and to avoid duplicating existing records.</thinking>
-
 # Duration Tracking Survey - Help Guide
 ## Purpose
 The **Duration Tracking Survey** is a form used to record the duration of various activities, such as work hours and breaks, for administrative, billing, or reporting purposes.

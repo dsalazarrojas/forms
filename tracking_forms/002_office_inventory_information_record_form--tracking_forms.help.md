@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about office inventory items, including their category, description, quantity, and other relevant details. Before proceeding, please ensure that the same information has not already been recorded in the system.
-
-This form is used for tracking purposes and will help in maintaining an accurate inventory of office items. Please fill out this form carefully and accurately to ensure that the records are up-to-date and reliable.
-</thinking>
-
 # Office Inventory Information Record Form - Help Guide
 ## Purpose
 This form is designed to collect and record information about office inventory items for tracking and maintenance purposes.

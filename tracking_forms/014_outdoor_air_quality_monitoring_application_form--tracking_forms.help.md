@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a part of a larger system for monitoring and tracking outdoor air quality. It's likely used for collecting information about monitoring projects, including contact information, locations, and details about sampling instruments and methods. The form seems to be part of a broader monitoring system, potentially used by government agencies, research institutions, or environmental organizations.
-
-Given the large number of fields, it's possible that this form is being used for multiple monitoring projects with different parameters. I'll make sure to provide clear explanations for each field to help end-users navigate the form accurately.
-
-</thinking>
-
 # Outdoor Air Quality Monitoring Application Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about outdoor air quality monitoring projects. It is intended for use by individuals or organizations conducting research or monitoring air quality in various locations.

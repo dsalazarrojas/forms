@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for users to book a tour at a spiritual center. The purpose of the form is to collect information from users regarding their preferred dates and times for the tour, as well as their payment preferences and any additional notes they may have. It seems to be a simple form with no complex logic or dependencies between fields. I will provide a detailed explanation of each field to ensure users understand what is expected from them.
-</thinking>
-
 # Spiritual Center Tour Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from users regarding their tour preferences at a spiritual center. It includes fields for user information, preferred dates and times, payment methods, and any additional notes.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from users requesting a month-to-month park pass. The purpose of this form is to gather essential details about the user's contact information, vehicle details, and date preferences to facilitate the processing of their park pass request. 
-Before completing this form, please ensure that you've checked if you've already submitted a similar request or have any existing passes. 
-Please fill out the form accurately and completely to ensure your request is processed efficiently. 
-</thinking>
-
 # Month To Month Park Pass Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users requesting a month-to-month park pass. It's used to gather essential details about the users' contact information, vehicle details, and date preferences to process their park pass request efficiently.

@@ -1,12 +1,3 @@
-<thinking>
-To ensure the form is completed correctly, let's first check that we're on the right page. 
-
-The main goal of this form is to collect information from users for a cinema ticket order.
-
-We should not fill out the form multiple times or use it for any other purpose than ordering cinema tickets.
-
-</thinking>
-
 # Cinema Ticket Order Form - Help Guide
 ## Purpose
 The Cinema Ticket Order Form is designed to collect information from users for cinema ticket orders. This form helps us get the ticket details and payment information needed for the transaction.

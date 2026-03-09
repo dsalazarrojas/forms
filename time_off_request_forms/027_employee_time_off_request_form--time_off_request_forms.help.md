@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees to request time off, which will be reviewed and approved by the designated approver. This form should only be filled out by employees, not approvers or other employees in different departments. To ensure accurate and prompt processing of time off requests, please fill out this form accurately and thoroughly. If you need help or clarification on any of the fields, please contact your supervisor or HR representative. Please make sure to save a copy of this form for your records before submitting it to your approver.
-</thinking>
-
 # Employee Time Off Request Form - Help Guide
 ## Purpose
 The Employee Time Off Request Form is used to submit a time off request to your approver for review and approval. This form will help your approver understand your request and make an informed decision.

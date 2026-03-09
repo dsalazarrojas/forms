@@ -1,12 +1,3 @@
-<thinking>
-This form is used to track team member call logs for Team Point Zero 26. The purpose of this form is to provide a structured and organized way for team members to record their interactions with clients, including the date and time of the call, the client's name, and any relevant details about the discussion. The form is used for internal tracking and reporting purposes, and is not intended for external client-facing use.
-
-The form is designed to be completed by team members after each call, and is meant to be a quick and easy way to log the necessary information. Each field is carefully selected to provide a clear and concise way to track the key details of each call.
-
-Before completing this form, ensure that you have reviewed the relevant client information and any relevant business logic. If you have any questions or concerns about the form, please reach out to your supervisor or team lead for guidance.
-
-</thinking>
-
 # Call Tracker Team Point Zero 26 - Help Guide
 ## Purpose
 This form is used for team members to log and track their interactions with clients, including calls, meetings, and other discussions. It helps the team to keep a record of all interactions, which can be useful for reporting, analysis, and performance tracking.

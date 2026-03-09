@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I analyzed the YAML input schema, which suggests it's for processing warranty claims. The form seems to be designed for customers to submit claims related to their products, with fields for customer information, product details, and claim status. The form likely serves as a centralized hub for processing and managing warranty claims, ensuring customers can easily report issues with their products and track the status of their claims. This form might also help customers communicate with assigned staff members, providing a channel for resolution.
-
-Before completing the form, ensure that you're filling it out for a legitimate warranty claim and that you're not duplicating an existing claim. If you're unsure, contact the relevant department for guidance.
-
-</thinking>
-
 # Warranty Claim Form - Help Guide
 ## Purpose
 The Warranty Claim Form is designed for customers to report issues with their products. This form allows customers to submit claims, provide detailed descriptions of the problems, and track the status of their claims. It also enables customers to communicate with assigned staff members for resolution.

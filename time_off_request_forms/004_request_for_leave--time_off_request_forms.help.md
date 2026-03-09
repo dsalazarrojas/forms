@@ -1,5 +1,3 @@
-<thinking>As an employee, it's crucial to have a clear understanding of the Request For Leave form's purpose, which is to provide a formal request for time off, allowing employees to communicate their leave dates, reason, and other essential details to the relevant stakeholders. This form helps to centralize leave requests, ensuring that everyone involved knows what's happening and when. Before proceeding, ensure you've checked that this form is not a duplicate of another request, and that the dates you input are correct and realistic.</thinking>
-
 # Request For Leave - Help Guide
 ## Purpose
 

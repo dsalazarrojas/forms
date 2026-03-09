@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track details about a to-do item, including its title, description, assigned user, start and end dates, due date, priority, and completion status. The form is designed to provide a structured way to capture essential information about a task, making it easier to manage and prioritize tasks across the organization. Before filling out this form, please ensure you have a clear understanding of the task's requirements and have selected the correct options for the "assigned_to" field, as this will affect which users can see and edit the task. Additionally, be aware that some fields are not required, so you can fill out as much or as little information as needed.
-</thinking>
-
 # To Do Details Form - Help Guide
 
 ## Purpose

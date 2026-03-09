@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Verses Read Tracking Form - Help Guide
 ## Purpose
 The Verses Read Tracking Form is designed to record and track the reader's progress in reading verses. This form helps keep a record of the date verses are read and the number of verses completed. Users can enter their user ID and date to track progress, and provide a reflection or note for each verse read.

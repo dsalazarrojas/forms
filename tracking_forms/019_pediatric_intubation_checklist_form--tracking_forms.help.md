@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to pediatric intubation, which is the process of inserting a tube into a patient's airway to assist with breathing. This form is used to gather relevant details about the patient, their medical history, vital signs, intubation specifics, and medication administration. The form is not affiliated with any specific platform and is an original adaptation created by AI using public survey topic metadata.
-</thinking>
-
 # Pediatric Intubation Checklist Form - Help Guide
 ## Purpose
 The Pediatric Intubation Checklist Form is designed to collect necessary information for pediatric patients undergoing intubation. It helps healthcare professionals gather relevant data in a structured and efficient manner.

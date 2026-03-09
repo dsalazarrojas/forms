@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # student_records_request_form - Help Guide
 
 ## Purpose

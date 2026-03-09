@@ -1,12 +1,3 @@
-<thinking>
-The form, Asset Inventory Information Record Form, is used to create an accurate and comprehensive inventory of assets within an organization. This form ensures that all assets are properly tracked, managed, and maintained for the organization. 
-
-This form should only be completed for assets that have not been previously recorded or updated. If you are updating an existing asset, please use the corresponding asset's record instead of creating a new one. 
-
-Please note that this form is not intended to be used for assets that have no monetary value or are not owned by the organization.
-
-</thinking>
-
 # Asset Inventory Information Record Form - Help Guide
 ## Purpose
 The Asset Inventory Information Record Form is used to create a comprehensive record of assets within the organization, including their details, condition, and maintenance schedules. This form helps ensure accurate tracking, management, and maintenance of assets for the organization.

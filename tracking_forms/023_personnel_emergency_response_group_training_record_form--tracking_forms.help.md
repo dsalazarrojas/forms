@@ -1,5 +1,3 @@
-<thinking>This form is for tracking and recording the training status and details of members of the emergency response group. It is intended for use by personnel within the group to update their own training information, ensuring that their status and training specifics are up-to-date and easily accessible. This form should not be used for other purposes, such as general contact or communication between personnel. To avoid confusion, please do not duplicate efforts by using this form for purposes other than updating training status and details.</thinking>
-
 # personnel_emergency_response_group_training_record_form - Help Guide
 ## Purpose
 The personnel emergency response group training record form is designed to track and record the training status and details of members of the emergency response group. This form helps ensure that personnel within the group have up-to-date information about their own training status and specifics.

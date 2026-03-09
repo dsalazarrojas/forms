@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers interested in purchasing insurance policies. The form asks for basic customer contact information, insurance policy details, and additional notes. The purpose of this form is to gather data for internal use within the insurance company.
-</thinking>
-
 # Insurance Selling Lead Form - Help Guide
 ## Purpose
 This form is used to collect information from customers interested in purchasing insurance policies.

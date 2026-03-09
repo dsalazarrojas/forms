@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to allow users to report their donations to a Fundraiser For Elementary School PTA. It is crucial to ensure that all required fields are filled in correctly to avoid any issues with the submission. Please do not submit duplicate or incomplete entries. If you're not sure about any information, please don't hesitate to contact the PTA representative for assistance.
-
-</thinking>
-
 # Fundraiser For Elementary School PTA - Help Guide
 ## Purpose
 This form is used to report donations made to the Elementary School PTA fundraiser. Fill in the form accurately to ensure that your donation is recorded correctly.

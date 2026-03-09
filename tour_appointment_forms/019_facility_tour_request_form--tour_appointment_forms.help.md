@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users requesting a facility tour. It's essential that users understand the purpose and requirements of the form to provide accurate and relevant information. To ensure that you're using this form correctly, please review each field carefully and follow the instructions below.
-
-Before starting, please note that this form is for requesting a facility tour, not for actual tour scheduling or confirmation. If you're unsure about the form's purpose or have questions, please contact the facility management team.
-
-</thinking>
-
 # Facility Tour Request Form - Help Guide
 ## Purpose
 The Facility Tour Request Form is designed to collect information from users who want to visit a facility. This form will help us understand your needs and requirements for the tour.

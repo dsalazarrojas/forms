@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed to collect general notes from users. It is intended for non-technical users to provide information that is not necessarily related to a specific project or task. This form is meant to be a catch-all for any additional information that doesn't fit into other more specific forms. Before filling out this form, please ensure that you do not have any other form that suits your purpose already available, and you are not duplicating information across multiple forms.
 
 <# General Notes Collection Form - Help Guide

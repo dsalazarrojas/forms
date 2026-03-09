@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users place orders for tickets in a controlled environment. The form should only be filled out by users who have the necessary permissions and are authorized to purchase tickets. Please ensure that you have the correct permissions and are aware of any restrictions before filling out this form. To prevent duplicate orders, please check the "Available Tickets" field for any restrictions before submitting your order.
-</thinking>
-
 # Purchase Tickets Form - Help Guide
 ## Purpose
 The Purchase Tickets Form is a tool designed to help users purchase tickets in a controlled environment. It is meant for users with the necessary permissions and authority to place orders.

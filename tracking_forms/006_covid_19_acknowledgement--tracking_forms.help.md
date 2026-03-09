@@ -1,10 +1,3 @@
-<thinking>
-This form is likely being used to track and acknowledge vaccination administration events in a medical setting. The form likely aims to record details about the patient, the vaccination process, and the administering medical staff. This form might be used in conjunction with other systems or databases to maintain patient records and monitor vaccination progress.
-
-Before proceeding, please ensure that you are authorized to complete this form. Double-check that you have not already submitted the same information or vaccination event.
-
-</thinking>
-
 # Covid 19 Acknowledgement - Help Guide
 ## Purpose
 This form is used to document the administration of COVID-19 vaccines. It captures information about the patient, the vaccine type, and the administering medical staff.

@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for tracking performance and other relevant information.
-
-This form consists of several sections, each with different fields that provide various data points. 
-
-- "Tracking Performance" is the first section.
-- "Attendance" is a section that asks the user to select multiple options.
-- "Behavior" is a section where the user can provide a note.
-- "Signature" is the last section where the user can input their signature.
-
-The form requires a title, and three other sections: "Tracking Performance", "Attendance", "Behavior", and "Signature". Each of these sections has different fields with their own labels and types.
-
-The "Tracking Performance" section is required. The "Attendance" section is optional, but the user needs to select at least one option. The "Behavior" section is required, and it is a note field where the user can provide text input. The "Signature" section is required, and it is a text field where the user can input their name or any other type of text.
-
-The form's fields are designed to collect specific types of information. The "Tracking Performance" field is a text field, and the "Attendance" field is a select multiple field where the user can select one or multiple options. The "Behavior" field is a note field where the user can provide a free-text input. The "Signature" field is a text field where the user can input their name or any other type of text.
-
-</thinking>
-
 # cumulative_record_collection_form_template - Help Guide
 ## Purpose
 This form is designed to collect data for tracking performance and other relevant information.

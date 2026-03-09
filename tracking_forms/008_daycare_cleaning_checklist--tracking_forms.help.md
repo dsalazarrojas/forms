@@ -1,11 +1,3 @@
-<thinking>
-The form "daycare_cleaning_checklist" is used to track the cleaning status of various areas in a daycare facility. This form is designed to help facility managers and staff efficiently manage cleaning tasks and schedules. To ensure data consistency and accuracy, it's crucial to understand each field's purpose and requirements.
-
-This form is meant to be filled out by facility staff or managers to report the cleanliness of different areas. It's essential to note that some fields are required, while others are optional. The form's purpose is to provide a comprehensive overview of the cleaning status, allowing for targeted cleaning efforts and better maintenance planning.
-
-To avoid duplication and ensure accuracy, please review the form carefully and fill it out methodically. If you're unsure about any field or its purpose, refer to this guide for guidance.
-</thinking>
-
 # daycare_cleaning_checklist - Help Guide
 
 ## Purpose

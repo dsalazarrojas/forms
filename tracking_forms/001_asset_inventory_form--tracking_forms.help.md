@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Asset Inventory Form - Help Guide
 
 ## Purpose

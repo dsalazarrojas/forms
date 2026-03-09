@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track items that have been found. It's designed to be completed by someone who has discovered an item, likely in a work or school environment. The form is not designed to be completed by the person who lost the item. The fields are organized to gather the most essential information: where the item was found, what the item is, who found it, and any other relevant details. This form should not be used to report items that have already been found or are no longer missing. It's best to complete this form only when an item has been discovered.
-</thinking>
-
 # Item Found Submission Form - Help Guide
 ## Purpose
 This form is used to report items that have been found in the workplace or school environment.

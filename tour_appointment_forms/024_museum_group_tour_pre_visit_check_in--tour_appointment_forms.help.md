@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from tour leaders and group organizers for pre-visit checks before a tour group visits the museum. It collects essential details about the group, tour leader, and their arrival and departure times. This form likely aims to ensure that the museum is prepared for the group's visit and can provide a smooth experience for both the tour group and the museum staff. It is possible that this form is a part of the museum's visitor service and operations management.
-</thinking>
-
 # Museum Group Tour Pre Visit Check In - Help Guide
 ## Purpose
 This form is designed to gather information from tour leaders and group organizers to ensure a smooth and enjoyable visit experience for both the tour group and the museum staff.

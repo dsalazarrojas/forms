@@ -1,5 +1,3 @@
-<thinking>...checking if this form is meant to track a daily routine for a specific individual... and if it's not a duplicate of the morning meditation and relaxation methods form... and if this form is meant to be used in a clinical setting... and if the fields are meant to gather information on sleep patterns, exercise, relaxation, and self-care activities...</thinking>
-
 # Daily Subconscious Tracker Form - Help Guide
 ## Purpose
 The Daily Subconscious Tracker Form is designed to collect data on a daily basis to help individuals track their habits, activities, and emotional state. This form is meant to provide a comprehensive overview of an individual's daily routine, allowing them to identify patterns and make informed decisions about their well-being.

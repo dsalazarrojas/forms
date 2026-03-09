@@ -1,10 +1,3 @@
-<thinking>
-We will first analyze the form purpose and fields to understand the user needs and provide a helpful guide.
-This form is designed to record VSM (Visual System Management) items, which is a method for visualizing and managing complex systems. The form likely serves as an inventory or database for these items, allowing users to record and track various details about each item.
-Upon examining the form fields, we notice that it includes a mix of text, select, number, and date fields. This suggests that the form will capture various types of data, including descriptive text, categorization, numerical values, and dates. The "record_items" field is a select multiple field, indicating that users can select multiple items from a list of options. 
-We will create a user-facing help guide that is clear, concise, and practical, explaining each field's purpose and how to complete the form.
-</thinking>
-
 # VSM Item Record Form - Help Guide
 ## Purpose
 This form is used to record and track VSM (Visual System Management) items, allowing users to capture and store various details about each item.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a specific time period, including project details, team and team lead information, and submitter details. The form is intended to be used for tracking and managing projects. It is expected that the submitter will be a person who has authority to submit this information, and the form will be used to record and verify the accuracy of the submission.
-
-To ensure that the submitted information is accurate and valid, the form has built-in validation to check for required fields and correct formatting. This form is part of a larger system for tracking and managing time periods.
-
-Before filling out this form, please make sure you have all the necessary information and that it is accurate. If you're unsure about any field, please contact your team lead or project manager for clarification.
-
-</thinking>
-
 # Time Period Information Form - Help Guide
 ## Purpose
 The Time Period Information Form is a tool used for tracking and managing projects. It helps to gather essential information about a project, including its time period status, project status, and other relevant details.

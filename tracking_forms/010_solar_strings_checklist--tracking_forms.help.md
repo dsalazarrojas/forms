@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and record various types of data related to solar strings, which are essential components of solar panels. This guide will help you understand what each field is used for and how to complete it correctly. Please note that some fields may be optional, and you can leave them blank if not applicable.
-</thinking>
-
 # Solar Strings Checklist - Help Guide
 ## Purpose
 The Solar Strings Checklist is a form used to track and record information about solar strings. It is essential to provide accurate and detailed data to ensure proper handling and maintenance of solar panels.

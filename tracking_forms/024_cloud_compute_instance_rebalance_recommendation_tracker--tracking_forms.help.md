@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track recommendations for rebalancing cloud compute instances, which is a process to optimize resource usage and costs. The form captures information on the recommendation's details, such as the instance ID, provider, region, current utilization, and recommended action. It also includes fields for ownership and assignment, tracking status and timeline, and notes. This form should be used by cloud administrators or managers to identify and prioritize rebalancing opportunities, and track progress towards implementation.
-</thinking>
-
 # Cloud Compute Instance Rebalance Recommendation Tracker - Help Guide
 ## Purpose
 

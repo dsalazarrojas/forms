@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Outcome Questionnaire - Help Guide
 ## Purpose
 The Outcome Questionnaire is used to track client outcomes and feedback for program evaluation and improvement.

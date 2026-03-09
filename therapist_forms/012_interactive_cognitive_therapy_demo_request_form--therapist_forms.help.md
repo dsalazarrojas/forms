@@ -1,8 +1,3 @@
-<thinking>
-This form, "interactive_cognitive_therapy_demo_request_form", is designed to collect contact information and any specific messages or inquiries from potential customers or users who wish to learn more about interactive cognitive therapy. The purpose of this form is to facilitate communication between the form submitter and the therapy provider. To ensure the form is completed correctly, it is essential to fill out all required fields. Please note that this form may be used for demo purposes, so please do not submit personal or sensitive data unless you are certain it will not be shared outside of a controlled environment.
-
-</thinking>
-
 # interactive_cognitive_therapy_demo_request_form - Help Guide
 ## Purpose
 This form is for those interested in learning more about interactive cognitive therapy and is designed to collect contact information and any specific messages or inquiries.

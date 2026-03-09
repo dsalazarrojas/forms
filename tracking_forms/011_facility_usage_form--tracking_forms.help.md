@@ -1,9 +1,3 @@
-<thinking>
-This form seems to be for tracking usage of facilities within an organization. The purpose of this form is to gather information about which facilities are being used, by whom, and for what purpose. It's likely used by facility managers or administrators to keep track of usage and ensure that facilities are being used efficiently. This form might also help identify potential conflicts or issues with facility usage.
-To confirm, this form appears to be a straightforward, simple form with a clear structure and purpose. There's no indication that it's part of a larger process or system, so it likely serves a single, self-contained use case.
-Before filling out this form, make sure to have all required information ready. The form is divided into sections based on the provided fields. This guide will help clarify each field's purpose.
-</thinking>
-
 # Facility Usage Form - Help Guide
 
 ## Purpose

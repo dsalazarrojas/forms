@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record equipment inventory details in a company or organization. The form is meant to capture the essential information about the equipment, including its status, location, maintenance schedule, serial number, and other relevant details. This guide will walk you through the process of filling out this form accurately and efficiently.
-</thinking>
-
 # Equipment Inventory Record Form - Help Guide
 ## Purpose
 This form is used to record and track equipment inventory details. It is essential to maintain accurate and up-to-date records for efficient management and maintenance of equipment.

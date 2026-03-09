@@ -1,5 +1,3 @@
-<thinking>As a therapist, a conference leave of absence request is an essential part of your work-life balance. This form allows you to inform your supervisor and team about your absence during a specific period. Please ensure that you've filled in the form correctly as it may affect your work schedule and availability. Please avoid submitting duplicate requests or requests that haven't been discussed with your team/supervisor before. Ensure you're providing accurate details, especially the dates and reason for your absence. This will help maintain a smooth workflow and prevent any confusion.</thinking>
-
 # Therapist Conference Leave Of Absence Request - Help Guide
 ## Purpose
 The Therapist Conference Leave Of Absence Request form is used to inform your supervisor and team about your absence during a specific period. This form helps maintain a smooth workflow and ensures that your work responsibilities are covered during your absence.

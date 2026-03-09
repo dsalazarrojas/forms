@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to track employee expenses, making it easier to monitor and report on company spendings. 
-  It is recommended that users should not fill out this form if they have already reported the same expense previously.
-</thinking>
-
 # expense_tracking_form - Help Guide
 ## Purpose
 The expense tracking form is a tool for employees to report their expenses, helping management keep track of company spendings and make informed decisions.

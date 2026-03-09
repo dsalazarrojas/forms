@@ -1,26 +1,3 @@
-<thinking>
-This form seems to be designed for creating a quick reference guide, likely for a business or organizational use case. The purpose of this form is to gather information for creating a quick reference guide, possibly for employees or stakeholders. I'll assume this form is used to collect data for staff training, onboarding, or other similar use cases.
-
-To ensure accuracy, I'll review the form's structure and content to confirm this understanding. The form appears to have 8 sections:
-
-*   Process Guide
-*   Guide Instructions
-*   Instructions for Staff
-*   Staff Contact
-*   Contact Info
-*   Additional Notes
-*   Form Builder Used
-*   Submission Management
-
-These sections suggest the form is collecting information related to creating and managing quick reference guides for staff or stakeholders.
-
-The form's fields are all text boxes, which implies they are meant to collect free-text responses. Given this, the form likely doesn't have any conditional or conditional logic, which would suggest a more complex structure.
-
-The form appears to be well-suited for creating quick reference guides for a variety of use cases, including staff training, onboarding, or process documentation.
-
-I'll create a help guide based on this understanding, making sure to break down each field's purpose and intended use.
-</thinking>
-
 # Quick Reference Guide Form - Help Guide
 ## Purpose
 This form is designed to help you create a quick reference guide for your organization or business. A quick reference guide is a document that provides essential information for staff or stakeholders to quickly reference during a process or task.

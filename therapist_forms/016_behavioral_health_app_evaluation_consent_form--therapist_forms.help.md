@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to evaluate the behavioral health app being used for the participant's consent and understanding of the evaluation process. The participant is being asked to provide their demographic information, including their name, date of birth, contact information, and details about the app being used. The form also asks about the participant's prior experience with the app and their understanding of the consent and data collection process.
-
-Before proceeding with the form, please ensure that:
-- The participant's personal details are accurate and up-to-date.
-- The participant has not filled out this form in the past.
-- The participant's contact information is complete and correct.
-- The participant has understood the purpose, data collection, and other relevant aspects of the form.
-</thinking>
-
 # Behavioral Health App Evaluation Consent Form - Help Guide
 ## Purpose
 The Behavioral Health App Evaluation Consent Form is used to gather information from participants about the app they are using, their demographics, and their understanding of the evaluation process. This form is essential for evaluating the app and its effectiveness.

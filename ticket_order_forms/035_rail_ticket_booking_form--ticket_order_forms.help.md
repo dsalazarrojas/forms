@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to collect information for rail ticket bookings. Users will be prompted to provide the following:
-* The date of the reservation
-* Departure station
-* Arrival station
-* Travel class (First Class, Second Class, Third Class)
-* Departure time
-* Arrival time
-* Passenger name
-* Passenger email
-* Passenger phone number
-* Booking status (Booked or Cancelled)
-* Passenger notes
-
-The form will be used by rail staff to process and manage bookings efficiently. To ensure accuracy, please review each field carefully.
-
-</thinking>
-
 # Rail Ticket Booking Form - Help Guide
 ## Purpose
 The Rail Ticket Booking Form is designed to collect essential information for rail ticket bookings. This form helps rail staff to quickly and efficiently process and manage bookings.

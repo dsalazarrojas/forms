@@ -1,8 +1,4 @@
-> <thinking>
-This form is used to track contact history and locations related to Mpox, a self-screening questionnaire likely used in public health contexts. The form's purpose is to gather information on a person's contacts, which is crucial for tracking and managing public health outbreaks. This form does not require any specific authentication or user login, as it is designed for self-completion. It's essential to complete this form carefully and accurately, as the information collected will be used for public health purposes.
-</thinking>
-
-# Mpox Self Screening Questionnaire - Help Guide
+> # Mpox Self Screening Questionnaire - Help Guide
 ## Purpose
 The Mpox Self Screening Questionnaire is a tool used to track contact history and locations related to Mpox. Completing this form helps public health officials gather information on your contacts, which is essential for tracking and managing public health outbreaks.
 

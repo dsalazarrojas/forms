@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting time off for industry conference attendance. It is used for requesting a specific duration of time off for a known conference. To ensure relevance, please note that only conferences approved by management are valid reasons for time off. Duplicate requests for the same conference will not be accepted. This form is only for requesting time off for industry conferences.
-</thinking>
-
 # Industry Conference Time Off Form - Help Guide
 ## Purpose
 This form is used to request time off for attending an industry conference. Please use this form to request a specific duration of time off for a known conference.

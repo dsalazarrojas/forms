@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the arrival and departure times of employees in the office, allowing management to monitor work hours and attendance. It is not meant for tracking external meetings or appointments. To complete this form, please make sure you are filling it out for internal time in and out events. If you are tracking external events, please use the "Events" form.
-</thinking>
-
 # Personal Assistant Time InOut Form - Help Guide
 ## Purpose
 The Personal Assistant Time InOut Form is used to track the arrival and departure times of employees in the office. This form helps management to monitor work hours and attendance for internal time in and out events.

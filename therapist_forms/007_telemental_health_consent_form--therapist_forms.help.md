@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for patients to provide consent for telemental health services. The form is designed to be completed by patients, with a focus on obtaining informed consent for telemental health services. I will assume that the form will be used in a legitimate healthcare context, and that the fields are relevant and necessary for the patient's well-being.
-
-I will also assume that the "Telemental Health Consent Form" title and category ("therapist_forms") provide sufficient context for the form's purpose. The fields on the form appear to be focused on obtaining patient information and consent for services, which aligns with the purpose.
-
-To confirm, I will review the form schema and provide a help guide that assumes the form's purpose and fields are relevant and suitable for the intended use case.</thinking>
-
 # Telemental Health Consent Form - Help Guide
 ## Purpose
 The Telemental Health Consent Form is designed to obtain informed consent from patients for telemental health services. This form helps ensure that patients understand the services they are receiving and agree to participate in the program.

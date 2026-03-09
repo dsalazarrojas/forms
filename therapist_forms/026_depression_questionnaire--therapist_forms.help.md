@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect user information for the purpose of assessing and monitoring depression symptoms, scales, and notes. It is essential to fill out this form accurately and completely to ensure that the collected data is relevant and useful. Please note that this form is a duplicate of a previous form and is intended for users who have already filled out the first form. If you have filled out the first form, you do not need to fill out this one. Otherwise, please make sure to fill out this form only once.
-
-</thinking>
-
 # Depression Questionnaire - Help Guide
 ## Purpose
 The Depression Questionnaire is a form designed to collect user information for the purpose of assessing and monitoring depression symptoms, scales, and notes. It is essential to fill out this form accurately and completely to ensure that the collected data is relevant and useful.

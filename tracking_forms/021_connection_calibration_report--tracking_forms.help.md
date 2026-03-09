@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Connection Calibration Report - Help Guide
 ## Purpose
 This form is used to record the results of a connection calibration. It captures essential information about the equipment used in the calibration process, including the date, technician involved, and overall result of the calibration. The form also captures details about the calibration procedure, measurement points, and uncertainty values. This report is essential for maintaining accurate records of equipment calibrations and for scheduling future calibrations.

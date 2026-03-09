@@ -1,5 +1,3 @@
-<thinking>As a seasoned form designer, I will create a comprehensive help guide for the Stock Inventory Form, taking into account the provided YAML fields. This guide will be concise, practical, and easy to follow.</thinking>
-
 # Stock Inventory Form - Help Guide
 ## Purpose
 The Stock Inventory Form is used to track and manage the inventory of items in your stores. This form helps you to store and manage data about each item, including its description, price, quantity, and status. The form is an essential tool for retailers and inventory managers to keep their stock up-to-date and organized.

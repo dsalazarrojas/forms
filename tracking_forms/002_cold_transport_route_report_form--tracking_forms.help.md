@@ -1,7 +1,3 @@
-<thinking>Internal Note: This form is used to track and report on the details of a cold transport route, including the date and time of the route, the details of the driver and vehicle involved, the cargo being transported, the route's start and end points, and any incidents or issues that occurred during the trip. The form is designed to collect accurate and comprehensive information to ensure the smooth execution and monitoring of the transport operations.
-
-</thinking>
-
 # Cold Transport Route Report Form - Help Guide
 ## Purpose
 The Cold Transport Route Report Form is used to record the details of a cold transport route, including the date and time of the route, the driver and vehicle information, cargo details, route start and end points, and any incidents or issues that occurred during the trip.

@@ -1,8 +1,3 @@
-<thinking>
-This is a form to track and view the CO2 impact of dishes. The purpose of this form is to collect information about a dish, including its name, type, size, ingredients, cooking method, serving size, and CO2 impact. This form is used to track and view the CO2 impact of dishes, which is a critical component of environmental sustainability and carbon footprint analysis.
-This form is only accessible to authorized personnel, and users should not use it for any other purpose.
-</thinking>
-
 # search_dish_and_view_co2_impact - Help Guide
 ## Purpose
 This form is designed to track and view the CO2 impact of dishes, including their name, type, size, ingredients, cooking method, serving size, and other relevant information.

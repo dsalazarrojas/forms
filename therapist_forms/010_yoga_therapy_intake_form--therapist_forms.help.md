@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive intake form for yoga therapy sessions. Its purpose is to collect client information, medical history, and other relevant details to ensure the client and therapist have a clear understanding of the therapy approach and any necessary precautions or considerations.
-
-This form will be used by yoga therapists to guide conversations with clients and help identify potential risks or complications that may arise during or after the therapy sessions.
-
-To complete the form, please follow the instructions below. Please note that this form is not a formal medical document and is intended for informational purposes only.
-
-</thinking>
-
 # Yoga Therapy Intake Form - Help Guide
 ## Purpose
 The Yoga Therapy Intake Form is designed to collect client information, medical history, and other relevant details to guide conversations and identify potential risks or complications during or after yoga therapy sessions.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information about a child's ticket request for an event. The purpose of this form is to gather essential details from the parent or guardian to process the ticket order efficiently. It's essential to fill out this form accurately to ensure that the requested tickets are delivered correctly and that any special requirements are met. Please note that the form is designed for a specific type of event and is not intended for general ticket inquiries.
-
-</thinking>
-
 # Child Ticket Information Request - Help Guide
 ## Purpose
 This form is used to request tickets for children attending an event. It's designed to collect information about the child's age category, number of tickets, and specific needs to process the order correctly.

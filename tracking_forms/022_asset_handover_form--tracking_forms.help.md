@@ -1,5 +1,3 @@
-<thinking>As we review this form, we notice that it's designed to track the transfer of assets between employees, including details such as the asset type, condition, and any existing damage. The form appears to be used for a variety of scenarios, including employee onboarding, role changes, and asset upgrades. It's essential to understand the form's purpose and usage to complete it accurately and efficiently.</thinking>
-
 # Asset Handover Form - Help Guide
 
 ## Purpose

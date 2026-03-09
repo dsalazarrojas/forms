@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to track plasma donations, including the collection site where the plasma was collected, the donor's ID, the payment date and method, and the payment amount received. This form is likely used in a laboratory setting to record and track payments made for plasma donations, ensuring accurate and organized records. Before proceeding, ensure that the form is relevant to your specific use case and that you are not duplicating data entry tasks.
-
-</thinking>
-
 # Plasma Donation Payment Tracker - Help Guide
 ## Purpose
 The Plasma Donation Payment Tracker is a form designed to record and track payments received for plasma donations. This form is used to document the collection site, donor information, payment details, and administrator contact information.

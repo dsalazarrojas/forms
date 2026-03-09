@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended for end-users who are required to fill out a progress note form to keep track of employee and employer updates, project status, and other relevant notes. The goal of this form is to ensure that all relevant information is documented for reference and follow-up purposes. Before starting, ensure that you are not duplicating any information and that the updates are relevant to the current progress.
-
-</thinking>
-
 # Progress Note Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track task completion status. It's essential to ensure that each field is filled out correctly to maintain an accurate record of tasks. Please note that the form has two pages, but they are not explicitly defined in this YAML. However, the fields are structured in a way that suggests the form will be filled out in a linear fashion, and each field builds upon the previous one.
-</thinking>
-
 # Task Log Form - Help Guide
 ## Purpose
 This form is used to track task completion status. It helps in keeping a record of tasks and their respective completion status.

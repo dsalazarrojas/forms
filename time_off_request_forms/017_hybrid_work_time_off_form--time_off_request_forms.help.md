@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to capture information for hybrid work time off requests, allowing employees to submit their time off requests with details such as the date, reason, and duration of the off-period. The form is meant to be filled out by employees to request time off for both personal and business reasons. The fields included in the form cover various aspects of the request, such as the employee's and manager's details, the request type, status, and comments. This form aims to streamline the process of submitting and approving time off requests.
-
-To avoid duplication of requests, the system should check for existing requests from the same employee and date range before allowing submission of new requests.
-
-This guide is meant to assist end-users in filling out the form correctly and efficiently.
-</thinking>
-
 # Hybrid Work Time Off Form - Help Guide
 ## Purpose
 The Hybrid Work Time Off Form is designed to capture information for hybrid work time off requests, allowing employees to submit their time off requests with details such as date, reason, and duration of the off-period.

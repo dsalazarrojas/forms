@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I will design a help guide for the Virtual Counseling Experience Survey form. The survey aims to collect feedback from clients on their virtual counseling experience, focusing on the effectiveness of the counseling session, technology used, and areas for improvement. This guide will cover the purpose, completion instructions, and detailed explanations for each field. I will assume that the form is used to gather feedback on a specific counseling session, and the answers will be used to improve the services offered.</thinking>
-
 # Virtual Counseling Experience Survey - Help Guide
 
 ## Purpose

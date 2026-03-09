@@ -1,11 +1,3 @@
-<thinking>
-This help guide is designed for users who will be completing the Sleep Quality Survey form. The purpose of this form is to collect information about a user's sleep habits, environment, and quality. This data will be used to help us better understand and improve sleep-related services.
-
-Please note that this form is intended for users who have been diagnosed with sleep issues and are looking to track their progress over time. If you are not experiencing sleep issues, you may not need to complete this form.
-
-Before completing this form, please review the following sections carefully to ensure you understand what is expected of you.
-</thinking>
-
 # Sleep Quality Survey - Help Guide
 
 ## Purpose

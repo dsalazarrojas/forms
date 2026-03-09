@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to track the progress of a focus session, which is a period of time spent on a specific topic or task. The purpose of this form is to gather information about the session, including the date, start and end times, duration, and other relevant details. This form is likely used by individuals who need to keep track of their productivity and time management, such as students, employees, or freelancers. Before completing this form, the user should ensure that the session date is accurate and the session topic is clear and concise. The form should not be used to record multiple focus sessions on the same date, as this would lead to data duplication.
-</thinking>
-
 # Focus Session Log Form - Help Guide
 ## Purpose
 This form is designed to track the progress of a focus session, a period of time spent on a specific topic or task. It helps users keep accurate records of their session details, which can be useful for productivity tracking and time management.

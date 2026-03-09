@@ -1,7 +1,3 @@
-<thinking>
-The Employee Daily Report Form is a crucial tool for employees to submit their daily reports, which are used to track progress, identify areas of improvement, and facilitate effective communication within the team. This form should be filled out by each employee on a daily basis, ensuring that their daily activities, productivity, and communication with colleagues are documented accurately. To ensure that this form is completed correctly and on time, make sure to review this help guide before submitting the form.
-</thinking>
-
 # Employee Daily Report Form - Help Guide
 ## Purpose
 The Employee Daily Report Form is used to track employee progress, productivity, and communication on a daily basis.

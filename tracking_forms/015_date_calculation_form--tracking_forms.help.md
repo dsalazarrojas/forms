@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to calculate dates based on user input, allowing users to calculate the number of days between two dates and adjust the result by adding or subtracting days. This form is primarily used for internal purposes, so it's unlikely that users will be interacting with it frequently. Therefore, we can assume a moderate level of technical expertise on the part of the user. The form should be easy to navigate and understand, with clear explanations of each field to minimize confusion.
-</thinking>
-
 # Date Calculation Form - Help Guide
 ## Purpose
 This form is designed to calculate dates based on user input, allowing users to calculate the number of days between two dates and adjust the result by adding or subtracting days.

@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "notes_and_bookmarks_collection" form, which is used to collect and track notes and bookmarks. This form is likely used by users to organize and categorize their notes and bookmarks, making it easier to access and manage them. To ensure that users complete the form correctly, we should explain each field in a clear and concise manner, highlighting its purpose and any specific requirements.
-
-We should also double-check that the form is being used for its intended purpose and not for non-relevant tasks. Additionally, we should avoid duplication of work by ensuring that users understand that the form is intended to be used for its original purpose, rather than being used as a catch-all for other information.
-
-With the provided YAML fields, we can see that the form has a variety of fields including text boxes for notes and bookmarks, a select_multiple field for categorizing, a date and time field for tracking, a note field for long-form text, and a select_one field for assigning users. We will focus on explaining each field in a way that is concrete, concise, and practical.
-
-</thinking>
-
 # notes_and_bookmarks_collection - Help Guide
 ## Purpose
 The "notes_and_bookmarks_collection" form is used to collect and track notes and bookmarks. It is intended to help users organize and categorize their notes and bookmarks, making it easier to access and manage them.

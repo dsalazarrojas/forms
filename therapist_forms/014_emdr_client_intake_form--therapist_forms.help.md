@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from clients for the EMDR therapy sessions. The purpose of this form is to collect client data, consent, and session details, which will help the therapists understand the client's needs and provide a personalized experience. This form is not intended for emergency situations or urgent matters. Please ensure that you have the necessary consent from the client before sharing this information with the therapist.
-</thinking>
-
 # EMDR Client Intake Form - Help Guide
 ## Purpose
 The EMDR Client Intake Form is a comprehensive form designed to collect information from clients to prepare for EMDR therapy sessions. This form helps the therapist understand the client's background, provide a safe and comfortable environment, and tailor the session to their specific needs.

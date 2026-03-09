@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track and record HR issues within the organization. The purpose of this form is to collect relevant information about the issues, including employee details, problem description, investigation department, and resolution status. This form helps in maintaining an organized and centralized record of all HR issues.
-Please ensure that the information provided is accurate and relevant to the issue at hand, and avoid duplicating issues that have already been reported. Reporting duplicate issues may lead to confusion and miscommunication among team members.
-</thinking>
-
 # HR Issue Tracking Form - Help Guide
 ## Purpose
 The HR Issue Tracking Form is a tool used to record and track HR issues within the organization. It helps in maintaining an organized and centralized record of all HR issues.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wrist Strap Compliance Survey - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking> 
-This form is used to track instructional hours for employees within an organization. To ensure accuracy and consistency, please review the following instructions carefully before completing this form. 
-The form is divided into two parts: employee information and submission details. 
-Make sure to provide accurate and up-to-date information about the employee and their submission. 
-Please note that this form is used for tracking and reporting purposes only, and the information entered here will not affect the employee's actual hours worked or pay. 
-Also, ensure that the submission details are accurate and reflect the actual time spent on instructional hours. 
-Before proceeding, please review the employee information section and ensure that it matches the actual employee data in the HR system. 
-This form is intended to be used for internal tracking and reporting purposes, so please do not share this form with external parties without permission. 
-</thinking>
-
 # Employee Instructional Hours Form - Help Guide
 
 ## Purpose

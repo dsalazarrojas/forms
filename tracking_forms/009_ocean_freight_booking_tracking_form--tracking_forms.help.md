@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to track the status and details of ocean freight bookings. The form is used to input and update the status of shipments, track the shipper's contact information, and store notes related to the shipment. The fields are organized in a logical order, making it easy to follow the flow of information.
-
-This form has the following sections:
-
-1. **Booking Number**: This is a unique identifier for the shipment.
-2. **Shipper Information**: This section collects the shipper's contact details, such as their name, company, and phone number.
-3. **Shipment Details**: This section captures the shipment's date, freight forwarder, and container status.
-4. **Notes**: This section allows the shipper and freight forwarder to leave notes about the shipment.
-5. **Tracking Information**: This section captures the tracking number and shipper's email.
-
-The form is used by both shippers and freight forwarders to communicate and update the status of ocean freight bookings. The form's design ensures that all necessary information is collected and organized in a clear and concise manner.
-
-</thinking>
-
 # Ocean Freight Booking Tracking Form - Help Guide
 ## Purpose
 The Ocean Freight Booking Tracking Form is a tool used to track and update the status of ocean freight bookings. It captures essential information from both shippers and freight forwarders to ensure smooth communication and efficient tracking of shipments.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Freight Route Optimization Report Form - Help Guide
 ## Purpose
 This form is designed to collect data for freight route optimization reports. It's used to gather information about routes, their characteristics, and any issues that may be affecting them. The data collected will help optimize and improve freight routes, making them more efficient and reliable.

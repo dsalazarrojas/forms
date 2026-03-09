@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help facilities track and manage their waste reduction plans. It's meant for facilities to submit information about their waste reduction projects, including project details, progress, and goals. Ensure that you have all necessary information before completing this form, and review previous submissions if you're updating an existing project.
-</thinking>
-
 # Facility Waste Reduction Plan Request Form - Help Guide
 ## Purpose
 

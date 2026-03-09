@@ -1,7 +1,3 @@
-<thinking>
-The Standard Work Log Template is used for tracking work hours and activities performed on a project. This template is a general-purpose form to be filled out by employees for recording their work done on a daily or weekly basis. The form is designed to be simple and easy to use, with fields for basic information about the work performed, such as date, hours worked, and project details.
-</thinking>
-
 # Standard Work Log Template - Help Guide
 ## Purpose
 The Standard Work Log Template is a form used for tracking work hours and activities performed on a project.

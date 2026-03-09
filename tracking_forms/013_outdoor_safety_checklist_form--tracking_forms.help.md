@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track outdoor safety checklists. It is intended for use in environments where workers are exposed to potential hazards. The form's purpose is to identify hazards and take corrective actions. It is not intended to be used in emergency situations or to record incidents. The form is divided into sections that cover different aspects of outdoor safety, including hazard identification and corrective actions. This form should be completed by the person who identifies a hazard, providing details about the hazard, the action taken, and other relevant information. The form will be used to track and record outdoor safety checklists.
-</thinking>
-
 # Outdoor Safety Checklist Form - Help Guide
 ## Purpose
 The Outdoor Safety Checklist Form is designed to identify and track hazards and take corrective actions in outdoor settings.

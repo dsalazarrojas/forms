@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to help users track various aspects of their subscriptions, including service types, renewal dates, and statuses. This form is designed to be used for tracking and analyzing subscription-related data. 
-</thinking>
-
 # Subscription Tracker Worksheet - Help Guide
 ## Purpose
 This form is used for tracking and analyzing subscription-related data. It includes various fields for capturing information about services, renewal dates, and statuses.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture information related to real estate listings, likely used by real estate agents or property managers to list properties for sale or rent. The form is composed of three text fields, each with a unique label. Given the lack of hints or descriptions for each field, it's assumed that the form fields are intended to collect basic information such as listing title, description, or other relevant details. The form does not require any of the fields to be filled out, suggesting that it's a basic template for users to customize as needed. There's no obvious indication of a specific submission process or review process for the form data, so it's possible that the form is intended for internal use within the organization or for testing purposes.
-
-</thinking>
-
 # Listing Transaction Form - Help Guide
 ## Purpose
 The Listing Transaction Form is a tool used by real estate agents or property managers to list properties for sale or rent. It provides a simple structure to capture essential information about each listing.

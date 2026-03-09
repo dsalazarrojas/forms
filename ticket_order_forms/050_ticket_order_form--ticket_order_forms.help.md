@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect event ticket order information from users. This form is intended for users to provide details about the event they wish to order tickets for, including the event package, quantity, and other relevant details. 
-
-The form should only be completed once per event ticket order. 
-
-The form fields are designed to be filled in consecutively. 
-
-</thinking>
-
 # ticket_order_form - Help Guide
 ## Purpose
 The ticket_order_form is a form used to collect event ticket order information from users.

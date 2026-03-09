@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "group_therapy_interest_survey" form is to gather information about a potential group therapy participant's details, interests, and preferences. This form will help the therapist understand the individual's goals, current issues, and previous therapy experience, as well as gather emergency contact information. The form is designed to be completed by the participant, providing a comprehensive overview of their needs and preferences for group therapy sessions.
-</thinking>
-
 # group_therapy_interest_survey - Help Guide
 ## Purpose
 The "group_therapy_interest_survey" form is designed to collect information about a potential group therapy participant's details, interests, and preferences.

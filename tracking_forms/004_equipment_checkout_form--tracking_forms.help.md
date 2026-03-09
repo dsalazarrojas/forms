@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equipment Checkout Form - Help Guide
 ## Purpose
 This form is used for tracking equipment checkouts. It helps to record important information about the equipment being checked out, including the company name, technician name, start and end dates, status, description, and other relevant details.

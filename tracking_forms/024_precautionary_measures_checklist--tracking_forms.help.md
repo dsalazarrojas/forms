@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to ensure that electrical work is performed safely by following a set of guidelines. This form is typically used in industries such as construction, electrical work, or any other field where electrical work is being performed. It's essential to follow these precautions to avoid accidents and injuries.
-
-Before filling out this form, review the guidelines and ensure you understand the purpose of each section. The form is divided into several sections, each covering a specific aspect of electrical safety. Completing this form correctly will help identify potential hazards and ensure that necessary precautions are taken.
-
-The following instructions and explanations will help you navigate the form efficiently and effectively.
-
-</thinking>
-
 # Precautionary Measures Checklist - Help Guide
 ## Purpose
 The Precautionary Measures Checklist is a form used to gather information on the safety measures taken during electrical work. It helps identify potential hazards and ensures that necessary precautions are taken to prevent accidents and injuries.

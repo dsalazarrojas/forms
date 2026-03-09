@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Rehabilitation Initial Documentation - Help Guide
 
 ## Purpose

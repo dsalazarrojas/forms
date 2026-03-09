@@ -1,6 +1,3 @@
-<thinking>
-The form appears to be designed for recording client session information, likely for tracking and documenting therapy or counseling sessions. This form aims to collect details such as client name, session date and time, session duration, presenting concerns, therapist name, client's emotional state, progress towards treatment goals, interventions used, and more. Each field is structured to provide a comprehensive overview of the client's progress and the session's details. Before starting, ensure this form is relevant to your organization's specific use case and doesn't already exist within your system. If you're unsure or have questions, consult with your team or supervisor.</thinking>
-
 # Client Session Record - Help Guide
 ## Purpose
 This form is designed to record and document client session information for therapy or counseling sessions.

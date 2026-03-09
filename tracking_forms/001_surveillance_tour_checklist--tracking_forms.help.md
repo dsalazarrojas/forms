@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to track the details of a surveillance tour, which is a critical component of security and risk management protocols. The purpose of this form is to gather information about the tour, including patrol details, incidents, checkpoints, comments, and other relevant information. This form should only be used for tracking surveillance tours and not for any other purpose. It is essential to ensure that each field is filled out accurately and completely to provide valuable insights for future reference.
-
-The form is divided into several sections, each with its own set of fields. The following is a step-by-step guide to filling out this form:
-
-</thinking>
-
 # Surveillance Tour Checklist - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and document the intubation process for patients, including patient information, pre-intubation assessment, intubation procedure, post-intubation monitoring, and clinical notes. This form ensures that all relevant information is collected in a structured and standardized manner, helping healthcare professionals to ensure that the intubation process is properly and safely executed. To avoid duplication and ensure accuracy, please review the patient's existing medical records before filling out this form. If the patient's information is already documented, please do not repeat the entries.
-</thinking>
-
 # COVID 19 Intubation Checklist Form - Help Guide
 ## Purpose
 The COVID-19 Intubation Checklist Form is a standardized document designed to guide healthcare professionals through the intubation process, ensuring that all necessary information is collected and recorded accurately and efficiently.

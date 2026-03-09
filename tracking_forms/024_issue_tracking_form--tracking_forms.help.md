@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The issue tracking form is intended for recording and tracking issues in a project. This form should be used for documenting bugs, feature requests, and other issues that need to be addressed. To confirm, the form does not require a title and should not be used for other purposes. Please ensure this form is used correctly and only for the intended purpose to avoid confusion and duplication of effort.
 
 # Issue Tracking Form - Help Guide

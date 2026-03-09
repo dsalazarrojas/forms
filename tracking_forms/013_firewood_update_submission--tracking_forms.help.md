@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to explain the form purpose and checks for relevance and non-duplication ...
-
-The form "Firewood Update Submission" is used to track updates of firewood inventory levels. This form is designed to collect information about the type, quantity, status, and photo URL of firewood updates. It is intended for use by authorized personnel to record updates in real-time.
-
-Before proceeding, please ensure that you are submitting an update that is not already recorded. To do this, you can check the latest updates on the firewood inventory dashboard or consult with the relevant team members to confirm the most current information.
-
-</thinking>
-
 # Firewood Update Submission - Help Guide
 
 ## Purpose

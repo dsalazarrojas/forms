@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the Telecommunications Complaint Status Tracker form, I need to understand the form's purpose and ensure that the user can easily navigate and complete it. The form appears to be designed for tracking the status of telecommunications complaints, including customer information, technician assignment, resolution details, and follow-up activities.
 
 Here's the user-facing help guide in Markdown structure:

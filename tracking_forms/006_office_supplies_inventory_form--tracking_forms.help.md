@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Supplies Inventory Form - Help Guide
 ## Purpose
 This form is used to track office supplies inventory, including item numbers, names, categories, quantities, and other relevant details.

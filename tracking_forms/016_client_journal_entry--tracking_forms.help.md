@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users track and reflect on their client's progress, mood, and experiences over time. The form captures essential information such as client name, journal entry date, overall mood, primary focus or goal, biggest challenge faced, something to be grateful for, progress on long-term goals, insights or realizations, and current energy level. 
-The purpose of this form is to provide a structured and consistent way for clients to document their experiences and emotions, which can aid in tracking progress, identifying patterns, and facilitating a more effective therapeutic relationship. 
-It is essential to complete the form regularly, ideally at the same time each day, to ensure accuracy and consistency in tracking progress. 
-Please ensure you do not duplicate entries as this may cause confusion and skew the data.
-</thinking>
-
 # Client Journal Entry - Help Guide
 ## Purpose
 The purpose of this form is to track and reflect on the client's progress, mood, and experiences over time.

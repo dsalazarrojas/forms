@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global People And Class Search - Help Guide
 
 ## Purpose

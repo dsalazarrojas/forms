@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the daily routines of users, specifically their health and wellness activities such as eating, exercise, medication, and social media usage. The form ensures that users report on their daily routines accurately, which helps in maintaining a healthy lifestyle. This form is part of a larger system used for tracking and monitoring user health and wellness activities over time. It is recommended to fill out the form daily.
-</thinking>
-
 # Daily Routine Checklist Form - Help Guide
 ## Purpose
 The "Daily Routine Checklist Form" is designed to track daily routines and activities that contribute to overall health and wellness.

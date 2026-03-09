@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for wildlife research logistics support requests. The form is intended to gather details about a project, including its category, location, start and end dates, team members, team lead email and phone, research institution, project description, study area, field support requirements, field crew size, equipment needs, and other specific requirements. The form does not have any specific validation or submission validation checks, so users can fill it out without any checks or restrictions.
-
-</thinking>
-
 # Wildlife Research Logistics Support Request - Help Guide
 ## Purpose
 The Wildlife Research Logistics Support Request form is used to submit requests for support with wildlife research projects. This form is used to gather information about the project, including its category, location, team members, and specific requirements for field support.

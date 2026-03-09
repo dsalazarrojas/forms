@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users report any malfunctions or issues they experience with the Trace System. The form is meant to be completed by users who have encountered a problem with the system and are looking to report it for further analysis and rectification. Please ensure that you are filling out the report to report a genuine issue and not a duplicate report. This is a user-facing form, so it's essential to provide as much detail as possible to help the support team understand the problem better.
-</thinking>
-
 # Trace System Malfunction Report Form - Help Guide
 ## Purpose
 The Trace System Malfunction Report Form is a form used to report any malfunctions or issues encountered with the Trace System. Please use this form to report any problems you have experienced with the system, and we will do our best to assist you in resolving them.

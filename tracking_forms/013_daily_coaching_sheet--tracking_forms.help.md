@@ -1,7 +1,3 @@
-<thinking>
-This form is used for tracking and recording student progress, lessons, and feedback within a coaching environment. It is intended to be filled out daily by coaches to keep track of their coaching activities and student progress. This form is not meant to be filled out by students directly. The form is divided into several sections for recording lessons completed, lessons planned, student attendance, student progress, teacher comments, student comments, student questions, and student feedback.
-</thinking>
-
 # Daily Coaching Sheet - Help Guide
 ## Purpose
 The Daily Coaching Sheet is designed to help coaches track and record their coaching activities, student progress, and feedback on a daily basis. It is an essential tool for maintaining accurate records and providing valuable insights for future coaching sessions.

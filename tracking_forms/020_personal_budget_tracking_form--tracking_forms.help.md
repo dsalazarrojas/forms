@@ -1,7 +1,3 @@
-<thinking>
-This guide will be a simple, user-friendly help guide to assist users in filling out the Personal Budget Tracking Form. It will cover the form's purpose, step-by-step instructions, and detailed explanations of each field. Before we begin, let's assume that the form is designed to help users track their personal income and expenses over a specified period, allowing them to set and monitor their income and expense goals. This form is not intended for any other use and should only be filled out once a month for accurate tracking.
-</thinking>
-
 # Personal Budget Tracking Form - Help Guide
 ## Purpose
 This form is designed to help you track your personal income and expenses over a specified period. It will help you set and monitor your income and expense goals, providing you with accurate financial insights.

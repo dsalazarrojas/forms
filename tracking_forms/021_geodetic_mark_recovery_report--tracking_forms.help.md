@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and data related to geodetic mark recovery. Geodetic marks are used for various purposes such as marking boundaries, surveying, and tracking. The form is designed to be completed by surveyors or individuals responsible for recovering marks, and it requires them to provide details about the mark's status, recovery location, and other relevant information. The form's purpose is to ensure that the recovery process is accurate, efficient, and recorded correctly.
-</thinking>
-
 # Geodetic Mark Recovery Report - Help Guide
 ## Purpose
 

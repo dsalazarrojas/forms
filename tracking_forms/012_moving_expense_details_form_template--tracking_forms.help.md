@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect detailed information about moving expenses related to a particular move. It's intended for users to input specific dates and costs associated with the move-in and move-out periods, including rent and other expenses. Before proceeding, ensure you have all relevant information available. To avoid errors, double-check that you're completing the form for a single move only. If you're unsure about any field, please reach out for assistance.
-</thinking>
-
 # moving_expense_details_form_template - Help Guide
 ## Purpose
 This form is designed to collect detailed information about moving expenses related to a specific move. It's intended to gather data on specific dates and costs associated with both the move-in and move-out periods, including rent and other expenses.

@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Restraining Order Service Status Form, let's break down the form's purpose and how to complete it.
-
-The form is designed to gather information about the status of a restraining order service. The purpose of this form is to track and update the status of various restraining orders, allowing for accurate and efficient management of these sensitive cases. To complete this form, users will need to provide details regarding the service's status, including when it began and ended, its current status, and other relevant information.
-
-</thinking>
-
 # Restraining Order Service Status Form - Help Guide
 ## Purpose
 This form is used to track and update the status of a restraining order service.

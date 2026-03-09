@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Radio Message Log Form - Help Guide
 
 ## Purpose

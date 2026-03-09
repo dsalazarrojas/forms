@@ -1,10 +1,3 @@
-<thinking>
-This form is likely being used by maintenance or operations staff to record the results of sensor calibrations, tracking details such as sensor type, serial number, model, and reading date/time, value, and any relevant notes or comments.
-The sensor type and equipment type fields are likely using a predefined select_one or select_multiple options to ensure data consistency and reduce errors. 
-The form may be used for both calibration and routine checks, but the "calibration_status" and "calibration_result_status" fields suggest it's focused on calibration specifically. 
-This form does not seem to be for public access, given the "technician_signature" and "department_signature" fields.
-</thinking>
-
 # Smart Sensor Calibration Report Form - Help Guide
 
 ## Purpose

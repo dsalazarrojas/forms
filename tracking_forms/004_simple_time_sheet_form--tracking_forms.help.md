@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow employees to log their work hours and break times for a given period. The purpose of this form is to track the time spent on work and breaks, helping to provide an accurate record of employee work hours. The form will be used to calculate the total hours worked.
-
-</thinking>
-
 # simple_time_sheet_form - Help Guide
 ## Purpose
 The simple time sheet form is used to track the time an employee works and takes breaks. It is used to record the start and end times of work and breaks, and to calculate the total hours worked.

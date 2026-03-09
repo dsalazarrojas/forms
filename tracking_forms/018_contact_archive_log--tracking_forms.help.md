@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and record important information about contacts with customers, vendors, partners, internal employees, potential leads, and others. It helps to maintain a centralized database of contacts, making it easier to follow up on communication and actions needed. This form can be used by various teams across the organization to standardize the tracking process and improve customer relationships. To avoid duplication of records, ensure that each contact is entered only once in the archive log.
-</thinking>
-
 # Contact Archive Log - Help Guide
 ## Purpose
 The Contact Archive Log is a centralized database for recording contacts with various individuals and organizations. It helps in maintaining a structured record of communication and actions taken, ensuring that no important details are missed and follow-up tasks are assigned correctly.

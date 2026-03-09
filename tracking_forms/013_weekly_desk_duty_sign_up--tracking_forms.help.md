@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Desk Duty Sign Up - Help Guide
 ## Purpose
 This form is used to sign up users for weekly desk duty. It collects contact information, preferred weeks, time slots, and other details to ensure accurate scheduling and efficient desk management.

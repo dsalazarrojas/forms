@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about kites that have suffered damage or have been involved in incidents. The purpose of this form is to gather essential details about the incident, including user information, incident date and time, equipment type, description of damage, witness names, and other relevant details. To ensure accurate and consistent data collection, please complete each field according to the guidelines below. Ensure that all required fields are filled out before submitting the form to prevent errors.
-</thinking>
-
 # Kite Damage Report Form - Help Guide
 ## Purpose
 The Kite Damage Report Form is used to document and report damages sustained by kites, allowing for thorough analysis, assessment, and resolution of the incidents.

@@ -1,7 +1,3 @@
-<thinking>
-The Client Consent Form is designed to collect essential information from clients, including their personal details, medical history, and consent to treatment. This form ensures that clients understand and agree to the terms of their therapy services, including confidentiality policies, session recording, and payment responsibilities.
-</thinking>
-
 # Client Consent Form - Help Guide
 ## Purpose
 The Client Consent Form is a crucial document that requires clients to provide their consent and understanding of the therapy services they will receive. This form is used to ensure that clients are aware of their rights and responsibilities during the treatment process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Attendance Tracking Form - Help Guide
 
 ## Purpose

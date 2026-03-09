@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking recruiting activities, likely for human resources or HR purposes. It's used to gather information about recruiting-related tasks, such as number of dials made and persons interviewed. This form likely helps in keeping track of progress and metrics related to recruiting efforts. There's no indication that this form is used for any other purpose or context, so it's assumed that it's for internal tracking within an organization or department. It's also possible that this form might be used by external recruiters or agencies, but it's not directly indicated in the metadata. Given the form's design and structure, it's likely that it's a basic form for tracking and reporting, and not for complex or sensitive data collection.
-</thinking>
-
 # Recruiting Activity Report Form - Help Guide
 ## Purpose
 This form is designed to help track and record recruiting activities, such as dials made and persons interviewed. It's used to gather information on recruiting progress and metrics.

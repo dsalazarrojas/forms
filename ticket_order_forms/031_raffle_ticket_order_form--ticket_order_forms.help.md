@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # raffle_ticket_order_form - Help Guide
 ## Purpose
 The **Raffle Ticket Order Form** is a form designed to collect information for raffle tickets. This form is used to place orders for raffle tickets, which are used to raise funds for charity or other causes.

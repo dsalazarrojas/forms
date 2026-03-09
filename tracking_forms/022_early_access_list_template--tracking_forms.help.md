@@ -1,7 +1,3 @@
-<thinking>
-The Early Access List Template is a form used to track and document customer interactions, providing a structured approach to gathering essential information and customer insights. This form helps ensure that the customer's needs, interests, and comments are captured and stored for future reference. It is designed to be used in conjunction with the Early Access process, allowing team members to efficiently track and manage customer access lists. Before using this form, ensure that the information is not already available in existing records or systems, and that the form is not being used for any other purpose.
-</thinking>
-
 # Early Access List Template - Help Guide
 ## Purpose
 The Early Access List Template is a form used to track and document customer interactions, providing a structured approach to gathering essential information and customer insights.

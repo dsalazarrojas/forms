@@ -3,8 +3,6 @@
 
 The Healthcare Professional Time Tracking form is used to record and track time spent on various healthcare professional-related activities, such as shifts, roles, units, and more. This form helps healthcare professionals manage their time efficiently and report their activities accurately.
 
-<thinking>Before completing the form, please ensure you have a valid reason to submit this form. Review your current shifts, roles, units, and other relevant activities to ensure accuracy and completeness.</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

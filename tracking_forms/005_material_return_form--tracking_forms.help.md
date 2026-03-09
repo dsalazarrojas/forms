@@ -1,18 +1,3 @@
-<thinking>
-Form purpose is to track material returns from customers, allowing companies to monitor their material return process, identify potential issues, and maintain an accurate record of returned materials.
-This form aims to gather information about the returned material, including the date received, reason for return, condition of material, and other relevant details.
-The form is designed to be user-friendly and easy to fill out, ensuring that customers can provide the necessary information accurately and efficiently.
-To prevent duplication, the form is intended to be used once per material return, and its purpose is to serve as a centralized record of returns.
-
-The form is divided into the following sections:
-1. General Information: This section includes fields for the material return form title, date received, description, reason for return, and material returned.
-2. Customer Details: This section contains fields for the customer's contact number, email, and signature.
-3. Material Information: This section includes fields for the condition of material, material type, and material returned at.
-4. Return Status: This section provides a dropdown menu to select the status of the returned material (Available, In Process, Returned).
-5. Company Information: This section includes fields for the company's name, contact number, and address.
-
-</thinking>
-
 # Material Return Form - Help Guide
 ## Purpose
 The Material Return Form is designed to track material returns from customers, providing a centralized record of returned materials and aiding in the management of the return process.

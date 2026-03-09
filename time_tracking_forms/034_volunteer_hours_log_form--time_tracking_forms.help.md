@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Hours Log Form - Help Guide
 
 ## Purpose

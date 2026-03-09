@@ -1,8 +1,3 @@
-<thinking>
-This form is used to track and log information about property maintenance weighbridges. The form likely exists to ensure accurate and thorough documentation of maintenance activities. Before proceeding, ensure that this form is not a duplicate of an existing entry in the database. If you are unsure, check with the relevant personnel or consult the database.
-
-</thinking>
-
 # Property Maintenance Weighbridge Log - Help Guide
 ## Purpose
 This form is used to record and track information about property maintenance weighbridges. It helps to ensure that all relevant details are documented accurately and thoroughly.

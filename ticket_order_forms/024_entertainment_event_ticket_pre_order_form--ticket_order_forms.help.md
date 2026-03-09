@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze its properties:
-- It is named "Entertainment Event Ticket Pre Order Form", which already hints at its purpose.
-- The form has several fields related to concert details, show details, ticket type, seat selection, date and time, number of tickets, contact information (email and phone), event details, and ticket price.
-- Given the fields, it appears to be a pre-order form for a concert event, allowing users to provide their details and preferences related to the event.
-- There is no indication of duplication or overlap with existing forms.
-</thinking>
-
 # Entertainment Event Ticket Pre Order Form - Help Guide
 ## Purpose
 The Entertainment Event Ticket Pre Order Form is a pre-order form for a concert event. It asks users for their details and preferences to facilitate the event ticket pre-ordering process.

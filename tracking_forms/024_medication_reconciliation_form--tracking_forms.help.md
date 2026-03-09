@@ -1,6 +1,3 @@
-<thinking>
-This form is a "medication_reconciliation_form" used for tracking medications. It's intended for healthcare professionals to collect information about patients' medications. The form is likely used in a healthcare setting, such as a clinic or hospital, to ensure patients are taking their medications correctly and to identify potential issues with medication management. This form should not be used for other purposes, and its data entry should be accurate and complete. Each field should be filled out according to the patient's actual condition and medication list.</thinking>
-
 # medication_reconciliation_form - Help Guide
 ## Purpose
 The medication_reconciliation_form is used to track medications for healthcare patients.

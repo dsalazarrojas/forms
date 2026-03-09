@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ticket Form LL 2021 - Help Guide
 
 ## Purpose

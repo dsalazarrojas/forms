@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # equipment_inventory_form - Help Guide
 
 ## Purpose

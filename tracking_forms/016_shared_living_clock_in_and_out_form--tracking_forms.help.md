@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track employee clock-in and clock-out activities in a shared space. It ensures that employees accurately log their clock-in and clock-out times, providing an accurate record of their work hours. The form is designed to be simple and easy to use, allowing employees to quickly and efficiently record their clock-in and clock-out activities. The purpose of this form is to maintain accurate records and facilitate time tracking for employees.
-</thinking>
-
 # Shared Living Clock In And Out Form - Help Guide
 ## Purpose
 The Shared Living Clock In And Out Form is used to track employee clock-in and clock-out activities in a shared space.

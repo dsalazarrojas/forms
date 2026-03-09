@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track time tracking for clock in and clock out activities, including clock in and clock out form submissions, clock out dates, clock in times, clock out times, clock out reasons, driver IDs, statuses, clock in form driver IDs, shift IDs, clock in dates, start times, end times, clock in form statuses, clock in form notes, clock out form statuses 2, and clock out form notes. To avoid confusion, it is essential to understand the purpose of each field before submitting the form. This guide will walk you through the form's purpose, how to complete it, and an explanation of each field.
-</thinking>
-
 # Shared Living Clock In And Out Form - Help Guide
 ## Purpose
 The Shared Living Clock In And Out Form is used to track clock in and clock out activities, allowing users to record their clock in and clock out times, dates, and reasons. This form is meant to be used for tracking time spent working or performing specific tasks.

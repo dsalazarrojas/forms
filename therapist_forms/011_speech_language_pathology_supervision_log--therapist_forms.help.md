@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this help guide is to assist users in understanding the Speech Language Pathology Supervision Log form. This form is used to record details about supervisees, sessions, and interactions between supervisors and supervisees in speech language pathology settings. The form helps supervisors gather information to provide effective supervision and support to their supervisees. 
 
 The form is designed to collect information about supervisees, including their details, session information, activities, and feedback. It also allows supervisors to record their own notes and receive feedback from supervisees.

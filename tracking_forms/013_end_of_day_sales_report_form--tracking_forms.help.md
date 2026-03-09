@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used for sales teams to report their daily sales activities. The form likely tracks sales performance at the end of each day. The sales report form is probably used by sales representatives to report their sales progress to management or supervisors. It might be used to identify sales trends, performance metrics, or potential issues that require attention. To complete the form, the user must provide the following information. The form is probably meant to be completed on a daily basis, so having clear instructions and field explanations will help users understand their responsibilities and report sales activities accurately.</thinking>
-
 # End Of Day Sales Report Form - Help Guide
 ## Purpose
 The End Of Day Sales Report Form is used to record sales activities and progress at the end of each trading day. This form helps sales teams to track their performance, identify trends, and provide accurate sales data to management or supervisors.

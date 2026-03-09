@@ -1,7 +1,3 @@
-<thinking>...
-The form purpose is to verify work hours of an employee. This form is used to record the start and end times, along with other relevant details such as submitted and verified by status, dates, and comments. The form is designed to track and validate the accuracy of employee work hours.
-</thinking>
-
 # work_hours_tracking_verification_form - Help Guide
 ## Purpose
 This form is used to verify the work hours of an employee, ensuring that the reported hours are accurate and complete.

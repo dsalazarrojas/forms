@@ -1,9 +1,3 @@
-<thinking>
-
-The Late Paperwork Submission Form is used to track and manage late paperwork submissions within an organization. This form is used to report and verify overdue documents, ensuring timely submission and proper authorization. To prevent duplication of efforts, please ensure that you are submitting paperwork for the correct employee and document type. Only submit forms for paperwork that are not already active or submitted.
-
-</thinking>
-
 # Late Paperwork Submission Form - Help Guide
 ## Purpose
 The Late Paperwork Submission Form is a crucial tool for tracking and managing late paperwork submissions. Its primary goal is to provide a standardized platform for reporting and verifying overdue documents, ensuring that all necessary paperwork is submitted on time and properly authorized.

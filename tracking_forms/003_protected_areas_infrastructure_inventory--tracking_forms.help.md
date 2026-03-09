@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to track the presence and conditions of infrastructure assets within protected areas, such as parks, wildlife reserves, or other conservation areas. This form is designed to be completed by users who need to report on the status of infrastructure within these areas, including the availability of certain assets and the conditions they are in.
-
-The form collects information from multiple pages, each with its own specific set of fields. The form is not required, indicating that users are not obligated to complete it.
-
-Before starting, consider that this form is meant for tracking specific information about protected areas infrastructure, and you should ensure that you are completing it for the correct purpose and area.
-</thinking>
-
 # Protected Areas Infrastructure Inventory - Help Guide
 ## Purpose
 The Protected Areas Infrastructure Inventory form is used to track the presence and conditions of infrastructure assets within protected areas, such as parks, wildlife reserves, or other conservation areas.

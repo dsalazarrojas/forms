@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive user-facing help guide for the "Chair Massage Release Form" to ensure end-users understand its purpose, how to complete it, and what each field means. This guide will be based on the provided YAML fields and will be written in Markdown format.</thinking>
-
 # Chair Massage Release Form - Help Guide
 ## Purpose
 The Chair Massage Release Form is designed to gather essential information from clients before they receive a chair massage service. This form helps the massage therapist understand the client's medical history, allergies, and expectations from the massage, ensuring a safe and effective treatment experience.

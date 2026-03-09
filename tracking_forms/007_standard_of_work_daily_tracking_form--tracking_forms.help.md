@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to track the standard of work for a daily basis, allowing users to record their progress, update their tasks, and provide measurements of productivity. This form is intended for individuals to input their daily activities, which will aid them in staying organized and on track with their tasks. 
-
-This form is designed to be a general tracking form for daily operations. It does not require a specific template to be filled, but rather serves as a general guide to track daily activities.
-
-Before proceeding, make sure that you have completed this form for the relevant date. If you have already filled out the form for the current date, do not fill it out again. 
-</thinking>
-
 # Standard Of Work Daily Tracking Form - Help Guide
 ## Purpose
 This form is designed to track your daily activities and provide a record of your progress.

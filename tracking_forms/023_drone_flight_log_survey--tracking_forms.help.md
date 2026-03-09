@@ -1,6 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Drone Flight Log Survey form. This guide should explain the purpose of the form, how to complete it, and what each field means. The form seems to be used for tracking drone flight information, likely for safety and regulatory purposes. It might be used by drone operators or managers to record details about a flight, including the drone model, flight time, location, weather conditions, and incident details if anything went wrong. We should ensure that the guide clearly explains each field's purpose and requirements, and highlight any fields that are required or have specific instructions.</thinking>
-
 # Drone Flight Log Survey - Help Guide
 ## Purpose
 The Drone Flight Log Survey form is used to record and track flight information for safe and regulatory compliance purposes. It is intended for drone operators or managers to document details about a flight, including drone model, flight time, location, weather conditions, and incident details if applicable.

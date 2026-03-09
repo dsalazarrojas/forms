@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking employee expenses. It is used to record and manage employee's expenses for company records and financial purposes. Please note that this form will ask you for information about a specific expense you've encountered. Ensure that you are only submitting one expense request per form.
-</thinking>
-
 # Expense Request Form - Help Guide
 ## Purpose
 This form is for tracking employee expenses. It helps the company record and manage employee expenses for financial purposes.

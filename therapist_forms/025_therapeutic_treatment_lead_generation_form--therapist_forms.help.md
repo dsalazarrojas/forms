@@ -1,11 +1,3 @@
-<thinking>
-
-The Therapeutic Treatment Lead Generation Form is used to collect information from potential clients who are interested in seeking therapeutic treatment. This form is meant to gather contact and demographic information to help our organization better understand the needs and preferences of potential clients. Please complete this form carefully and thoroughly to ensure we can provide you with the best possible service.
-
-When filling out this form, please ensure that the information provided is accurate and up-to-date. If you have any questions or concerns, feel free to ask.
-
-</thinking>
-
 # Therapeutic Treatment Lead Generation Form - Help Guide
 ## Purpose
 The Therapeutic Treatment Lead Generation Form is a tool used to collect information from potential clients who are interested in seeking therapeutic treatment. This form helps us understand their needs and preferences to provide the best possible service.

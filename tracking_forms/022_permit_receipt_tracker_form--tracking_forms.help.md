@@ -1,11 +1,3 @@
-<thinking>
-**Form Purpose:**
-The Permit Receipt Tracker Form is designed to collect and track receipt information from businesses.
-It serves as a tool for tracking and organizing data on permits, receipts, and related business information. The form helps to ensure that all relevant details are captured and stored for future reference.
-**Form purpose relevance and non-duplication:**
-Before using this form, please ensure that you are not duplicating data entry efforts or using it for purposes other than tracking permits. If you have specific business needs or concerns, consider consulting with the form creators or relevant business stakeholders for clarification.
-</thinking>
-
 # Permit Receipt Tracker Form - Help Guide
 ## Purpose
 This form is designed to collect and track receipt information from businesses.

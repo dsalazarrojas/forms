@@ -1,6 +1,3 @@
-<thinking> 
-This form is a Physical Therapy Time Off Request form, used to submit requests for time off from physical therapy work, likely for reasons of leave, vacation, or personal health. The form is likely used within a clinical or healthcare setting where physical therapy staff need to take breaks or time off for various reasons. This form should be filled out by physical therapists to request time off, providing the necessary details such as employee ID, start and end dates, reason for the request, and specific details about the time off such as start and end times, duration, frequency, and recurrence start and end dates. There may be some optional fields for notes or comments to provide further context. It's essential to ensure that this form is filled out correctly to prevent duplicate requests or misinterpretation of the request.</thinking>
-
 # Physical Therapy Time Off Request - Help Guide
 ## Purpose
 This form is used by physical therapists to request time off for leave, vacation, or other personal health reasons.

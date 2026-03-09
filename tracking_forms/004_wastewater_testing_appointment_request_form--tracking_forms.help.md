@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is used to request a wastewater testing appointment. The purpose of this form is to collect information about the user's request, including their name, contact information, and testing preferences. This form ensures that the user's needs are met and that the testing process is efficient and effective. It is crucial to fill out the form accurately to avoid any miscommunication or misassignment of the testing appointment.</thinking>
-
 # Wastewater Testing Appointment Request Form - Help Guide
 ## Purpose
 This form is used to request a wastewater testing appointment. It is essential to fill out the form accurately to ensure that your needs are met and that the testing process is efficient and effective.

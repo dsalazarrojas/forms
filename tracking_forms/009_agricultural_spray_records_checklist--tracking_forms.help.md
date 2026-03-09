@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and document agricultural spray records, ensuring that all necessary information is captured and reported accurately. This includes operator and farm name, spray date and time, field name and size, crop type, target pest or weed, and other relevant details such as equipment used, wind speed, and buffer zones maintained. It also captures data on the amount and type of product used, application rate, and total water used. Additionally, it includes fields for reporting incidents or spills, and supervisor signature, ensuring accountability and accuracy in record-keeping. This form aims to streamline the process of tracking and reporting agricultural spray activities, making it easier for operators to accurately document their work and for supervisors to monitor and review performance.
-</thinking>
-
 # Agricultural Spray Records Checklist - Help Guide
 ## Purpose
 This form is designed to gather accurate and detailed information about agricultural spray activities, ensuring compliance with regulations and best practices.

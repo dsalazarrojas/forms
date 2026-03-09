@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Boat Complaint Tracking Log - Help Guide
 ## Purpose
 The Boat Complaint Tracking Log is a system used to record and track boat-related complaints received by the marina. It helps staff to quickly identify and address issues, ensuring timely resolution and customer satisfaction. This guide will walk you through how to complete the form and what information is required.

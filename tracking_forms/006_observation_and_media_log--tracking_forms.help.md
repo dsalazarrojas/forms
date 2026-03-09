@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Observation And Media Log - Help Guide
 ## Purpose
 This form is used to record and track observations, including media types and related notes. It's intended for use by fieldworkers to document their findings and experiences during observations, which can be audio, video, text, or other types of media. This form is not meant to be used for duplicate observations, so please make sure to complete a new entry each time you perform a new observation.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about historic tours, including their titles, dates, start and end times, visitor counts, visitor types, contact details, and payment information. The form will be used to track and manage visitor data for historic tours, ensuring that all necessary contact and payment details are collected for each tour. It's essential to fill out this form accurately and thoroughly to ensure that the tour operators, museums, and heritage sites are properly informed and prepared for each tour. Before starting, please review the form carefully to ensure you have all the required information.
-
-</thinking>
-
 # historic tour visitor information form - Help Guide
 ## Purpose
 This form is designed to collect information about historic tours, including their titles, dates, start and end times, visitor counts, visitor types, contact details, and payment information.

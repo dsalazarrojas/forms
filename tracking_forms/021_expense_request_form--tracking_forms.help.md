@@ -1,7 +1,3 @@
-<thinking>
-The form is used for requesting reimbursement for expenses. It captures essential details like the date of the expense, the amount spent, the purpose of the expense, and the status of the request. This form is likely used by employees to report their expenses to the company. It's crucial to fill out the form accurately to ensure a smooth and efficient reimbursement process.
-</thinking>
-
 # Expense Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request reimbursement for expenses. It is used to provide details about the expense, including the date it was incurred, the amount spent, and the purpose of the expense.

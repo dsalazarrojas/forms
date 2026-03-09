@@ -1,14 +1,3 @@
-<thinking>
-To ensure that end-users can accurately fill out the Time Capture Requirements Survey, it's essential to understand the form's purpose. This form is designed to collect specific information required for time tracking, such as project details, team lead and manager information, time capture settings, time entry details, and reporting frequency. The form's purpose is to gather comprehensive data for efficient time tracking and reporting. It is crucial to fill out each field accurately and completely to ensure that the collected information is reliable and useful for analysis.
-
-Before starting to fill out the form, please ensure that you have all the necessary information required for each field. The following guide will walk you through each field and its requirements.
-
-Please note that some fields are marked as "required" which means that they must be filled out to proceed. Filling out non-required fields is optional but can provide additional context for analysis.
-
-This guide will cover each field in detail to help you understand what is expected from you.
-
-</thinking>
-
 # Time Capture Requirements Survey - Help Guide
 ## Purpose
 The Time Capture Requirements Survey is designed to collect information required for efficient time tracking and reporting.

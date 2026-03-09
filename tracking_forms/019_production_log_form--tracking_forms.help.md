@@ -1,7 +1,3 @@
-<thinking>
-This form is for documenting and tracking production activities. The purpose is to provide a simple and efficient way to log and track production-related data. This information will help in maintaining a record of production activities, which can be useful for various purposes such as reporting, analysis, and future reference. It is essential to fill this form accurately and completely to ensure that the data is reliable and can be used effectively. Please note that some fields may be optional, and you can fill them only if they are relevant to your specific production activity. 
-</thinking>
-
 # Production Log Form - Help Guide
 ## Purpose
 The Production Log Form is designed to help you record and track production activities. This form is a simple tool for documenting and maintaining a record of production-related data.

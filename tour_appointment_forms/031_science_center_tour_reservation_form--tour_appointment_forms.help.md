@@ -1,13 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "science_center_tour_reservation_form" to ensure that end-users understand the form's purpose and how to complete it correctly.
-
-The form's purpose is to collect information for the Science Center tour reservations. It gathers essential details about the tour, such as the tour details, school name, date, start and end times, number of students, contact person, phone number, email, and other additional notes or confirmation information. 
-
-We will be using this form to prevent over-reservations, ensure that each tour is properly scheduled and that all necessary information is available. 
-
-We will be checking if the user has already reserved a similar tour in the near future to prevent over-reservations.
-</thinking>
-
 # science_center_tour_reservation_form - Help Guide
 ## Purpose
 This form is for scheduling a Science Center tour. The information collected will be used to ensure that each tour is properly scheduled and that all necessary details are available.

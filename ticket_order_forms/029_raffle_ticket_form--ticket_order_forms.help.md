@@ -1,19 +1,3 @@
-<thinking>
-
-To create a comprehensive and user-friendly guide for the Raffle Ticket Form, I'll need to carefully read and understand the provided YAML definition of the form's structure and fields. This will allow me to provide clear and concise explanations for end-users.
-
-After reviewing the form's structure and fields, I've identified the following key points to focus on:
-
-* The form's purpose and expected use case
-* The step-by-step process to complete the form
-* A field-by-field explanation of each field and its corresponding label
-
-Here's the internal reasoning block:
-
-This form is intended for creating and managing raffle tickets, allowing users to input ticket details such as ID, name, email, phone number, and order notes. The form also includes fields for payment methods, drawing dates and times, and ticket status and payment status. Users can select the payment method from a dropdown list and input additional information for other payment methods. The form's purpose is to collect and manage data for raffle tickets, enabling users to track and update ticket status and payment information.
-
-</thinking>
-
 # Raffle Ticket Form - Help Guide
 ## Purpose
 The Raffle Ticket Form is designed to collect and manage data for raffle tickets, including ticket details, payment information, and drawing dates and times. This form is intended for users to input ticket information, select payment methods, and track ticket status and payment status.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track the inventory of various items. This form may be used to record new items, modify existing ones, or search for specific items in the inventory.
-</thinking>
-
 # itw_inventory_form - Help Guide
 
 ## Purpose

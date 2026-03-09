@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I'll examine the fields and labels provided in the YAML input schema. This form appears to be a time-tracking form for landscaping jobs, likely used by staff to report their work hours and status on various tasks. The fields suggest that the form is used for multiple job instances, with fields for each job's details, such as job ID, employee name, work hours, and job status. There might be concerns about data duplication or redundancy, but without further context, I'll assume each field is intentionally duplicated for some reason, possibly for backup or comparison purposes.
-
-The form requires several fields to be filled out, including job ID, job date, employee name, job status, start time, and end time. These are likely the most critical fields, as they provide the core information for time tracking. Other fields, such as work notes and pay rates, seem to be optional and might be used for additional context or administrative purposes.
-
-To create a comprehensive help guide, I'll focus on explaining each field's purpose and how to complete it, assuming that the fields are intentionally duplicated for a valid reason.
-
-</thinking>
-
 # Landscaping General Time Sheet Form - Help Guide
 ## Purpose
 The Landscaping General Time Sheet Form is a tool used to track work hours and status on various landscaping jobs. This form is designed to provide a clear overview of each job's progress and allow staff to report their work hours accurately.

@@ -1,5 +1,3 @@
-<thinking>This form is a critical part of the booking process for train tickets. It helps users provide essential information for ticketing purposes, such as ticket details, traveler's information, contact details, payment method, and ticket price. Ensuring that all required fields are filled correctly and accurately is crucial to complete the booking process effectively.</thinking>
-
 # Train Ticket Booking - Help Guide
 ## Purpose
 The Train Ticket Booking form is designed to collect and process information for train ticket bookings, allowing users to book and track their tickets efficiently.

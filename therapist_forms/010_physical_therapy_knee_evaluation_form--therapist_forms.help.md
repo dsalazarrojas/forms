@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physical Therapy Knee Evaluation Form - Help Guide
 
 ## Purpose

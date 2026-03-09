@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for therapist access authorization. The form is meant for clients to provide necessary information for therapists to access their client data. The form is used in conjunction with other forms and internal processes to ensure that therapists have the necessary clearance to view or interact with client data. This form will be used as a reference to prevent duplication of effort or incorrect data entry.
-
-</thinking>
-
 # Therapist Access Authorization Form - Help Guide
 ## Purpose
 This form is used to request access to client data for therapists. It requires the following information from the client:

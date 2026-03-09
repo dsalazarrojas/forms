@@ -1,7 +1,3 @@
-<thinking>
-This form is used for an employee to submit a request for paid time off (PTO) or sick leave. It is essential that the form be filled out accurately and honestly. Please note that this form is meant to be filled out by the employee, not their manager. To avoid any duplication of effort, please do not submit a new form if you have already made a request for the same time off period.
-</thinking>
-
 # pto_and_sick_leave_agreement - Help Guide
 ## Purpose
 This form is used to request paid time off (PTO) or sick leave for an employee. It is an essential document that must be signed by the employee before the leave can be approved.

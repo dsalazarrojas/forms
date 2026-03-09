@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for individuals applying for a physiotherapist position. To ensure the best possible application, we recommend that you carefully review the form instructions and ensure that you do not duplicate your application.
 
 # Physiotherapist Job Application Form - Help Guide

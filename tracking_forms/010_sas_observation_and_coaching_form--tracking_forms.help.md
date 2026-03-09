@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # SAS Observation And Coaching Form - Help Guide
 ## Purpose
 This form is designed to collect information on observations and coaching interactions between team members or supervisors. It is meant to be used for tracking and recording observations, providing guidance, and monitoring progress in coaching and development activities.

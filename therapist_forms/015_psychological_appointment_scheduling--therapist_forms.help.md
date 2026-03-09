@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by patients or clients to schedule a psychological appointment with a therapist. The form will collect necessary information to book an appointment and ensure that the client is aware of what to expect and what is required of them. This guide will walk the user through the form fields, explaining each field's purpose and how to fill it out correctly.
-</thinking>
-
 # Psychological Appointment Scheduling - Help Guide
 ## Purpose
 This form is used to schedule a psychological appointment with a therapist. It gathers information about the client, such as their name, contact details, appointment preferences, and other relevant details.

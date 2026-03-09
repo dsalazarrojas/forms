@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an online ticket purchase form. This form is used to purchase tickets for events. The form collects information from the customer, including event details, ticket type, ticket price, customer information, and payment details. We need to ensure that the customer fills out the form correctly to avoid any issues with the ticket purchase process.
-</thinking>
-
 # Online Ticket Purchase Form - Help Guide
 ## Purpose
 This form is designed to collect information for ticket purchases, allowing customers to easily and securely purchase tickets for events. Please fill out the form accurately to ensure that your ticket purchase is processed correctly.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by our customers to provide feedback and input on their recent visit to our service department. The form will allow the customer to select the contact information of the service advisor who assisted them, details about their service, and provide any additional feedback they may have. This form is intended to gather valuable insights and opinions from customers to help us improve our service. 
-
-Please note that this form should not be filled out by customers who are seeking to complain or report an issue with their visit. Instead, this form should be used for genuine feedback and constructive criticism.
-</thinking>
-
 # Service Advisor Follow Up Form - Help Guide
 ## Purpose
 The Service Advisor Follow Up Form is designed to gather feedback and input from customers on their recent service visit. This form is intended to be used for customers to provide their opinions and suggestions to help us improve our service.

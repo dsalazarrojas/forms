@@ -1,7 +1,3 @@
-<thinking>
-The "performance_appraisal_form" is a form designed for evaluating the performance of employees. It is intended for use in the process of performance appraisals, which are regular assessments of an employee's work and progress. The form is meant to guide reviewers through a series of questions and prompts to help them provide a fair and accurate evaluation of the employee's performance. This form is likely used in HR or management settings to facilitate a structured and thorough review process. 
-</thinking>
-
 # performance_appraisal_form - Help Guide
 ## Purpose
 The "performance_appraisal_form" is designed for use in performance appraisals to evaluate the performance of employees.

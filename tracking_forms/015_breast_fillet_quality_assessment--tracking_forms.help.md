@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to assess the quality of breast fillets. It is used to collect data on the product's appearance, texture, and other attributes at different stages of production and handling. The form is used by quality inspectors to evaluate the fillets' quality and make recommendations for further action. This form will be used by multiple inspectors, so it's essential to ensure that the information provided is accurate and consistent.
-
-To avoid duplication and ensure that the form is filled out correctly, please review the following fields and ensure that you have all the necessary information before proceeding. If you're unsure about any field, refer to the help guide for clarification.
-
-</thinking>
-
 # Breast Fillet Quality Assessment - Help Guide
 
 ## Purpose

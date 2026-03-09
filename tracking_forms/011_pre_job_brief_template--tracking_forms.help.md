@@ -1,7 +1,3 @@
-<thinking>This form is a comprehensive template for tracking job briefs. It is designed to collect and store essential information about a job, including its id, title, start date, type, status, location, and other relevant details. To ensure that you are using this form correctly, please note that it is intended for tracking jobs and not for creating new job openings. Before filling out this form, please make sure that you are not duplicating information that already exists in the system.
-
-To complete this form, follow the instructions below:</thinking>
-
 # pre_job_brief_template - Help Guide
 ## Purpose
 The "pre_job_brief_template" form is a tool used to track and store job-related information.

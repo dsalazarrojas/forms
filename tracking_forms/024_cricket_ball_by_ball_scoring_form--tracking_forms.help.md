@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for scoring and tracking cricket matches, particularly for recording the score of a specific ball. The form likely serves a dual purpose - both as a tool for recording and tracking the score, and as a way to collect data for analysis and reporting. Given the presence of fields for both team names, scores, and various player roles, it appears the form might be used for comparing team performance and scoring. Additionally, the presence of fields like 'match_id' and 'user_id' suggests the form could be used for storing and retrieving data from a database, possibly for historical and comparison purposes. This form's structure and field options imply it caters to both individual ball scoring and team performance comparison. It's likely used within a cricket management system or application, possibly for sports management or data analysis. The 'cricket' ball option under 'ball_type' hints at this context.
-
-</thinking>
-
 # cricket_ball_by_ball_scoring_form - Help Guide
 ## Purpose
 This form is designed for scoring and tracking individual cricket balls and team performance. It helps record the details of each ball, including type, score, and various player roles. This form is likely used for data analysis, team comparison, and historical data storage.

@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to provide users with a simple, user-friendly interface to monitor and manage warehouse inventory levels, schedule pickups, and confirm pickups. This form aims to gather essential information to facilitate efficient logistics operations. By completing this form, users can quickly review key data without having to navigate through multiple systems or documents.
-
-The form will likely be used by warehouse management, inventory managers, and logistics coordinators.
-
-Before starting, ensure you have all the necessary data at hand.
-
-</thinking>
 # Warehouse Dashboard - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information and data for various tasks and operations across different pages, with options to select multiple or single items, dates, and text inputs. This form is likely used in a business or administrative setting where tasks and operations need to be tracked and documented. The form seems to cover a wide range of information, including task details, dates, photos, and facility information. The form is composed of 25 pages, each with its own label and options. 
-
-It is assumed that the form is designed for a specific business process or workflow, and the user is expected to fill out the form to provide relevant information for the relevant tasks. It's worth noting that some pages have multiple options, indicating that the user can select multiple items, while others require single selections. The form also includes date inputs, which are likely used to track dates for specific tasks or operations.
-
-To ensure the form is correctly filled out, the user should carefully review each page and select the relevant options or input the required information. The form's structure and options should be clear, making it easy for users to understand and fill out the form accurately.
-
-</thinking>
-
 # digital_checklist_form - Help Guide
 ## Purpose
 The digital checklist form is designed to gather information and data for various tasks and operations across different pages, with options to select multiple or single items, dates, and text inputs.

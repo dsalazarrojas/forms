@@ -1,7 +1,3 @@
-<thinking>
-This form is used by healthcare professionals to track the daily status of COVID-19 patients, including their personal details, medical history, and vaccination status. The form helps the healthcare team to quickly and accurately update patient information in real-time, ensuring that critical data is up to date and readily available for reference and reporting purposes.
-</thinking>
-
 # Covid 19 Daily Status Update Form - Help Guide
 ## Purpose
 The Covid 19 Daily Status Update Form is used to track the daily status of COVID-19 patients. It captures essential details such as patient name, date of birth, address, COVID-19 vaccine status, and vaccination dates. This form is essential for healthcare professionals to maintain accurate and up-to-date records.

@@ -1,18 +1,3 @@
-<thinking>
-The form is designed to help Doulas track the details of their services, including service hours, visit details, client sessions, service provider, agency, service type, start and end time, location, notes, date, and time.
-
-To avoid duplication and ensure accurate tracking, it's essential to review the form's purpose and instructions carefully before completing it.
-
-This form is intended to be used by Doulas to record the timesheet information of each service provided to their clients. The form is divided into several sections, each with specific fields that require accurate input to ensure accurate tracking and reporting.
-
-Doulas are advised to read through the form carefully and ensure they understand the required and optional fields before starting to fill it out.
-
-The goal of this form is to provide a comprehensive and standardized way to track service details, making it easier to manage and analyze service timesheets.
-
-To avoid errors and ensure accuracy, Doulas should review the form carefully before submitting it.
-
-</thinking>
-
 # Doula Service Timesheet - Help Guide
 ## Purpose
 The Doula Service Timesheet form is designed to help Doulas track the details of their services, including service hours, visit details, client sessions, service provider, agency, service type, start and end time, location, notes, date, and time.

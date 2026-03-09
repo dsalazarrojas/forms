@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for users to book tickets for operations at a ticket counter. The form's purpose is to collect information from customers about their ticket bookings, including the type of ticket, customer contact details, and any comments or messages they may have. This form is likely used in a retail or event management context where customers can book tickets for events or services. The form's fields are designed to gather relevant information for the ticketing system to process the booking. It is possible that the form is also used internally within an organization to track ticket bookings or as a support tool for customer service representatives.</thinking>
-
 # Ticket Counter Operation Booking Form - Help Guide
 ## Purpose
 This form is used to book tickets for operations at a ticket counter. It allows customers to provide information about their ticket type, booking date, start and end times, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-The Animation Studio Tour Booking Form is a digital tool used to book a tour at an animation studio. The form is designed to collect necessary information from visitors, such as the organizer's contact details, tour preferences, and any special requests or accommodations. The form is intended for both public and internal use, and its completion is required for tour bookings. The form does not duplicate any existing form, and its purpose is specific to the animation studio's tour booking process.
-</thinking>
-
 # Animation Studio Tour Booking Form - Help Guide
 ## Purpose
 The Animation Studio Tour Booking Form is designed to collect information from visitors to book a tour at the animation studio. This form is required to be completed for all tour bookings.

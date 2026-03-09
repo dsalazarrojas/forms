@@ -1,5 +1,3 @@
-<thinking>...This form is designed to track and manage the allocation of tools and equipment within a project environment. It is intended for use by project managers and team members to record, update, and track the status of equipment assigned to projects. This form helps in ensuring that the equipment is properly allocated, assigned, and returned to avoid delays and conflicts. Please use this form to ensure that you are aware of all fields and their corresponding labels to complete it accurately and efficiently.</thinking>
-
 # Tool And Equipment Allocation Form - Help Guide
 ## Purpose
 The Tool And Equipment Allocation Form is used to track and manage the allocation of tools and equipment within a project environment.

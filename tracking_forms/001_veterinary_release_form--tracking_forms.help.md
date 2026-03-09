@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to aid veterinary professionals in tracking and recording important information about medical releases for animals. Its purpose is to standardize the process of obtaining necessary consent and authorization for animal medical procedures. This form ensures that all relevant data is collected and documented in a structured format, allowing for better collaboration and reference among veterinarians. Before using this form, ensure that you are not creating duplicates and are aware of any internal regulations or specific client requirements.
-</thinking>
-
 # Veterinary Release Form - Help Guide
 ## Purpose
 This form is used to collect information about the release of an animal from a veterinary facility, such as a hospital or clinic. It includes fields to record the owner's details, veterinary information, and medical treatment history. The form's goal is to ensure that all necessary data is gathered and documented, facilitating better communication and collaboration among veterinary professionals.

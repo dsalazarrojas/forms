@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is for customers to register for a sports season ticket. This form will help gather information about the game, team, ticket type, attendee details, ticket quantity, ticket price, contact details, and any special requests or comments from the customer.
 
 To complete this form, users should select the correct ticket type and fill out the required and optional fields as needed. This form is not meant to be filled out multiple times by the same user. If you have registered for a ticket in the past, please do not submit this form again as your information will not be updated.

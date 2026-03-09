@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information, personal goals, contact preferences, communication channels, email, phone number, date of birth, time of day, and notes from users. This form is designed to be completed by users who want to get in touch with the Strength Empire team or provide feedback. The information collected will help the team to better understand the user's needs and preferences.
-</thinking>
-
 # Strength Empire Consult Form - Help Guide
 ## Purpose
 The Strength Empire Consult Form is a simple form designed to collect information from users who want to get in touch with the Strength Empire team or provide feedback.

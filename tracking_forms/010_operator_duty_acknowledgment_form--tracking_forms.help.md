@@ -1,10 +1,3 @@
-<thinking>
-This form is used to acknowledge and document an operator's duty status, including their operator details, duty timing, and assignment notes. It is likely used in a work environment where operators are assigned duties or shifts and need to confirm their status and details of the assignment. The form is intended to be filled out by operators when they complete their duties or at the end of their shifts.
-
-To avoid duplication and ensure accurate tracking, it's essential that each operator only fills out this form once per assignment.
-
-</thinking>
-
 # Operator Duty Acknowledgment Form - Help Guide
 ## Purpose
 The Operator Duty Acknowledgment Form is a form used to document an operator's duty status and details of their assignment. This form helps ensure that operators confirm and acknowledge their duties, allowing for accurate tracking and communication within the organization.

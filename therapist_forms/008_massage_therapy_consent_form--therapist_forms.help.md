@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from clients who are receiving massage therapy services. The purpose of this form is to collect essential details about the client, including their medical conditions, contact information, and preferences for their massage session. This form is likely to be used by massage therapists or healthcare professionals to ensure they have a clear understanding of the client's needs and limitations before providing treatment.
-</thinking>
-
 # Massage Therapy Consent Form - Help Guide
 ## Purpose
 The Massage Therapy Consent Form is used to collect information from clients who are receiving massage therapy services. This form helps the massage therapist understand the client's medical conditions, contact information, and preferences for their massage session.

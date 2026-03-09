@@ -1,7 +1,3 @@
-<thinking>
-This form is used by doulas to track their service hours and client interactions. It's crucial to ensure that the form is filled out accurately, as it helps the agency to manage client relationships, billing, and reporting. To avoid duplication, please ensure that you only fill out this form for unique client sessions. If a client has multiple sessions with the same doula, fill out separate forms for each session.
-</thinking>
-
 # Doula Service Timesheet - Help Guide
 ## Purpose
 The Doula Service Timesheet is a form used to track the service hours worked by doulas for clients. It's essential to accurately document client interactions, service hours, and any relevant details to ensure efficient agency management.

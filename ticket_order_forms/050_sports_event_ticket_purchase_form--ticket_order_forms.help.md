@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to allow users to purchase tickets for sports events. The form is not intended for internal use, but rather for external end users who wish to buy tickets. The form fields are designed to be simple and user-friendly, allowing the user to easily enter the required information. The fields are not necessarily linked or dependent on each other, so users can fill out the form in any order. The form does not have any specific validation or conditional logic built into it, so users can complete it without needing to know any specific rules or regulations.
-</thinking>
-
 # Sports Event Ticket Purchase Form - Help Guide
 ## Purpose
 The Sports Event Ticket Purchase Form is designed to allow users to purchase tickets for sports events. This form collects information about the buyer and the event, as well as payment and ticket details.

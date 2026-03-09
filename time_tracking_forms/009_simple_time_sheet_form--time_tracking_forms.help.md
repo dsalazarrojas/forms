@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to track employee time worked on various projects and tasks. It captures essential details such as employee name, hours worked, work date, work time, job title, work location, project name, and task details. This form ensures accurate and efficient tracking of work hours, enabling managers and administrators to monitor productivity and performance. Please ensure you fill out this form for every employee to record their work hours accurately.
-
-</thinking>
-
 # simple_time_sheet_form - Help Guide
 ## Purpose
 The purpose of this form is to track employee time worked on various projects and tasks.

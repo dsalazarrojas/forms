@@ -1,5 +1,3 @@
-<thinking>Before diving into the form design and user guide, let's break down the form's purpose and relevance. This Medical Skills Transfer Tracking Form appears to be used for tracking medical skills transferred during sessions. It's likely used in a healthcare or clinical setting. The form seems to be designed for both clinical and administrative use, allowing users to document and manage the progress of medical skills transferred between professionals. This form's purpose is to provide a standardized and efficient way to track medical skills transfer, including assessments, follow-ups, and next actions.</thinking>
-
 # Medical Skills Transfer Tracking Form - Help Guide
 ## Purpose
 The Medical Skills Transfer Tracking Form is used to document and track the transfer of medical skills between professionals in a clinical or healthcare setting. This form helps to standardize the process of tracking assessments, follow-ups, and next actions related to medical skills transfer.

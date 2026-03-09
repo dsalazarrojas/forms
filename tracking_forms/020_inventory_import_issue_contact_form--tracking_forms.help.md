@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form is designed to gather information from users about potential issues related to inventory imports. It is crucial to ensure that the inventory data is accurate and up-to-date. If a user submits a form, it will trigger an internal review process to address the issue. This form should not be used for duplicate reports of the same issue, as it may lead to unnecessary discussions and potential delays in resolution. Users are encouraged to report new issues only if they haven't already reported a similar issue in the past.</thinking>
-
 # Inventory Import Issue Contact Form - Help Guide
 
 ## Purpose

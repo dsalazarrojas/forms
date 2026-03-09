@@ -1,7 +1,3 @@
-<thinking> This form is for users to register office space tours. The purpose of this form is to gather information about the tour request, contact details, and other relevant information. The form is not meant for users who are already in progress or have already completed the tour. Please note that some fields are not required and can be filled in based on user discretion.
-
-</thinking>
-
 # Office Space Tour Registration - Help Guide
 ## Purpose
 

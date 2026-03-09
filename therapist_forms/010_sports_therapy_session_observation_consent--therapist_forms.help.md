@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the consent and session observation details for sports therapy sessions. It is used to gather information from participants about their goals, progress, and experiences during the therapy sessions. The form should only be used by authorized therapists and participants.
-</thinking>
-
 # sports_therapy_session_observation_consent - Help Guide
 ## Purpose
 This form is used to obtain consent from participants and record observation details for sports therapy sessions.

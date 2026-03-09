@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spray Batch Production Log - Help Guide
 ## Purpose
 This form is used to track the production process of spray batches. It is essential to fill out this form accurately and completely to ensure that all relevant information is recorded for quality control and production tracking purposes.

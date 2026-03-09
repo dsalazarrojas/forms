@@ -1,13 +1,3 @@
-<thinking>Checking the YAML file to understand the form purpose and requirements for this Shipping Load Report Form...
-
-The form appears to be a comprehensive tracking and reporting form for shipments. It includes fields for various shipment details such as pickup and delivery dates, shipment ID, trailer number, prophets (multiple selection), warehouse location, carrier ID, shipment weight, shipment status, notes, and more. The form seems to be designed for data collection and reporting purposes.
-
-However, upon reviewing the form schema, I notice that some fields are marked as required (false), which might indicate that this form is intended for optional reporting or historical data entry.
-
-To confirm, I'd like to reiterate the form purpose: **The Shipping Load Report Form is designed for tracking and reporting shipment details, allowing users to input various information about shipments, including dates, IDs, locations, and other relevant data.**
-
-</thinking>
-
 # Shipping Load Report Form - Help Guide
 
 ## Purpose

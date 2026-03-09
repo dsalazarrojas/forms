@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and required fields must be checked before proceeding. This form is used to gather information about events. It should only be filled out by someone who is actually purchasing a ticket. There should not be duplicate submissions for the same event.
-</thinking>
-
 # event_ticket_form - Help Guide
 ## Purpose
 This form is used to collect information about events for ticketing purposes.

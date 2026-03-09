@@ -1,7 +1,3 @@
-<thinking>
-This form is used to upload information about a specific alarm session. It is designed to collect relevant data for incident tracking and response. Please note that before uploading, ensure that the session ID is unique and not a duplicate. This form requires several mandatory fields, which are marked as "required" in the form schema.
-</thinking>
-
 # Alarm Session Upload Form - Help Guide
 ## Purpose
 This form is used to upload information about a specific alarm session, providing detailed data for incident tracking and response.

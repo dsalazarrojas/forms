@@ -1,8 +1,3 @@
-<thinking>
-This is the Auction Bid Form, used for bidding on auctioned items. The form is meant to collect bidder information, item details, and payment preferences. This information will be used to confirm bid placement and handle delivery or payment. Please ensure that all required fields are filled out accurately and thoroughly.
-
-</thinking>
-
 # Auction Bid Form - Help Guide
 ## Purpose
 The Auction Bid Form is used to submit bids on auctioned items. It collects important information from the bidder, such as their name, email, phone number, item number, bid amount, and time of bid submission. This information is used to process the bid and handle delivery or payment if the bid is successful.

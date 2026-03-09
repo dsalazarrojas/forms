@@ -1,12 +1,3 @@
-<thinking> 
-The goal of this form is to track rainfall measurements for specific locations and time periods. The form is intended for users to record measurements for multiple locations and can be used to monitor changes in rainfall patterns over time.
-
-This form appears to be designed for users to submit multiple sets of measurements, each with its own fields for location, measurement unit, measurement value, duration, frequency, and date/time. The form also includes optional fields for submitting multiple locations and measurements.
-
-To avoid duplication, the form should only be filled out for locations and time periods that have not been previously measured.
-
-</thinking>
-
 # Rainfall Measurement Form - Help Guide
 
 ## Purpose

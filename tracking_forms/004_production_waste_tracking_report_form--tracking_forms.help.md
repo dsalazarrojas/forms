@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to track production waste during various stages of manufacturing processes. It's designed to record information about the amount and type of waste generated, as well as the reasons behind it. This form is intended to be filled out by production team members to help identify areas for improvement and optimize the production process.
-
-To ensure accurate and helpful data is collected, please only fill out the form for instances of production waste that actually occur during production. Do not fill out the form for speculative or hypothetical scenarios.
-
-The form should be used for both planned and unplanned instances of production waste. For example, if a specific production line has a known issue that causes waste, or if an unexpected issue arises during production and results in waste.
-
-</thinking>
-
 # Production Waste Tracking Report Form - Help Guide
 ## Purpose
 This form is used to collect data on production waste generated during various stages of the manufacturing process. The collected information helps identify areas where improvements can be made to reduce waste.

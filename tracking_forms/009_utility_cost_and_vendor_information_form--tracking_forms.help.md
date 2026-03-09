@@ -1,16 +1,3 @@
-<thinking>
-The "Utility Cost And Vendor Information Form" is designed to collect information from users about their utility usage and vendor interactions. This form is intended to gather data on various aspects of a user's relationship with their utility supplier, including the type of utility used, payment methods, bill costs, and contact information for vendor-related issues. The form is likely used for internal analysis and decision-making purposes within a utility company.
-
-The form is divided into 12 sections, with some sections being optional. The purpose of this guide is to help users understand what each section is for and how to fill it out correctly.
-
-This form is not intended to be a survey, but rather a data collection tool. Please answer the questions honestly to provide accurate information.
-
-Before starting, make sure you have the necessary information ready to fill out the form. 
-
-This guide will walk you through each field and explain its purpose.
-
-</thinking>
-
 # Utility Cost And Vendor Information Form - Help Guide
 ## Purpose
 The "Utility Cost And Vendor Information Form" is designed to collect information about your utility usage and vendor interactions. This form will help us better understand your needs and improve our services.

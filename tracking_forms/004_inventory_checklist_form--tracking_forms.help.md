@@ -1,10 +1,3 @@
-<thinking>
-The form is used to track inventory items, allowing users to input details such as item name, quantity, price, category, status, date received, and other relevant information. This form is designed to gather data for inventory management and tracking purposes.
-
-Before proceeding, ensure that the inventory item is not already tracked in the system. To avoid duplication, please check the inventory database or contact the relevant team member before filling out this form.
-
-</thinking>
-
 # Inventory Checklist Form - Help Guide
 ## Purpose
 The Inventory Checklist Form is a tool used to track and manage inventory items in the system.

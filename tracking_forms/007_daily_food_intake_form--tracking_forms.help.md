@@ -1,8 +1,3 @@
-<thinking>
-Form Purpose: This form appears to be a comprehensive user tracking form, designed to collect various health and wellness metrics such as physical activity, sleep, and nutrition information. It may be used for personal habit tracking, fitness monitoring, or health assessments.
-Relevance: This form is likely used for users to report their daily habits and activities, providing valuable insights into their overall health and wellness. Non-duplication: This form is not designed to be used for multiple users, as it appears to be a personal health tracking tool.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to track your daily habits and activities for health and wellness purposes. Please provide accurate and honest answers to give yourself a comprehensive picture of your health status.

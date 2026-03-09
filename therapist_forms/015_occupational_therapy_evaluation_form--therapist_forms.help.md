@@ -1,10 +1,3 @@
-<thinking>
-The Occupational Therapy Evaluation Form is a comprehensive evaluation tool used to assess the functional abilities and needs of patients undergoing occupational therapy. It is used to gather information on the patient's medical history, physical and cognitive function, as well as their treatment goals and follow-up schedules. This form helps occupational therapists identify areas of concern and develop personalized treatment plans tailored to each patient's needs.
-
-To prevent duplication of efforts, please note that this form should only be used by authorized healthcare professionals with the necessary training and expertise in occupational therapy.
-
-</thinking>
-
 # Occupational Therapy Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # end_of_year_payroll_data_form - Help Guide
 ## Purpose
 The end_of_year_payroll_data_form is a form used to track yearly payroll data. This form helps to collect information about an employee's pay period, such as the start and end dates, pay rate, wages paid, and insurance premiums.

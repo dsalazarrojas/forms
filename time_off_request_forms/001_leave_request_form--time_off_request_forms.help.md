@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record and manage employee leave requests. The form helps in collecting essential information about the leave, such as employee name, start and end dates, reason for leave, leave type, and other relevant details. This information is crucial for the HR or management to evaluate and process the leave request efficiently.
-
-</thinking>
-
 # Leave Request Form - Help Guide
 ## Purpose
 This form is used to record and manage employee leave requests, providing a structured approach to collect necessary information for evaluation and processing.

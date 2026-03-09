@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Worker Timesheet And Tracking Form" is to collect time tracking data from workers, including clock-in and clock-out times, lunch breaks, total hours worked, time zone, and other relevant information. This data is crucial for managing worker hours, payroll, and performance metrics. To ensure accurate and complete data, it's essential to understand each field's purpose. This guide will walk you through the process of filling out the form and explain each field in detail.
-
-</thinking>
-
 # Worker Timesheet And Tracking Form - Help Guide
 ## Purpose
 This form is designed to collect time tracking data from workers, which is essential for managing worker hours, payroll, and performance metrics.

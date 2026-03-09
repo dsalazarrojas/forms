@@ -1,7 +1,3 @@
-<thinking>
-This form, titled "medication_adherence_tracker", is a tool for tracking patient medication routines, adherence, and follow-up information. It appears to be designed for healthcare professionals to monitor and evaluate patient medication regimens, possibly for research, clinical, or administrative purposes. The form is structured into several sections, each focusing on a different aspect of medication management. This guide will explain each field and its purpose in detail.
-</thinking>
-
 # medication_adherence_tracker - Help Guide
 ## Purpose
 The "medication_adherence_tracker" form is designed for healthcare professionals to monitor and analyze patient medication routines. This form helps track medication regimens, including medication taken, dose frequency, and adherence scores. The form is used to gather data for research, clinical, or administrative purposes.

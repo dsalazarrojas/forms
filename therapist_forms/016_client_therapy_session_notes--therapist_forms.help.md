@@ -1,5 +1,3 @@
-<thinking>This form, "Client Therapy Session Notes," is used to record essential details about the client's progress in therapy sessions. Its primary purpose is to aid therapists in keeping organized and accurate records of each session, ensuring effective treatment planning and continuity of care. By using this form, therapists can efficiently document and review session content, track client response and engagement, and identify areas of improvement. To prevent duplication of information and ensure relevance, it is recommended that therapists fill out this form immediately after each session.</thinking>
-
 # Client Therapy Session Notes - Help Guide
 ## Purpose
 The Client Therapy Session Notes form is designed to provide a structured way for therapists to record important details about each session with their clients. This helps maintain organized and accurate records, ensuring effective treatment planning and continuity of care.

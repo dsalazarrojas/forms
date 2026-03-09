@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for therapists to provide quotes to clients for upcoming sessions or services. The form is designed to gather necessary details and information for the client, including services offered, payment information, and contact details. Before filling out this form, please ensure you have not previously submitted a quote for this client, as this form is not intended for duplicate submissions. If you're unsure about any of the fields or the purpose of this form, please refer to this help guide for clarification.
-</thinking>
-
 # Therapist Quote Form - Help Guide
 ## Purpose
 The Therapist Quote Form is a tool for therapists to provide quotes to clients for upcoming sessions or services. This form helps therapists gather important details and information to ensure a smooth and efficient quote process.

@@ -1,8 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and usage of the "Model Timecard Submission" form, which is used for recording and tracking time spent on various jobs. 
-The form is designed to capture relevant details such as job titles, start and end times, hours worked, and other essential information that will aid in efficient and accurate time tracking. This form is likely used for internal time tracking and reporting purposes.
-</thinking>
-
 # Model Timecard Submission - Help Guide
 ## Purpose
 The "Model Timecard Submission" form is a tool for users to submit their time tracking data for specific jobs. It helps in maintaining an accurate record of hours worked, start and end times, and other relevant details for each job.

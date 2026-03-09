@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Client Intake Consent Form is to gather essential information from clients about their skin type, medical history, and consent to treatment. This form helps ensure that clients are aware of the potential outcomes and risks associated with any treatment or product usage. It's crucial that clients provide accurate and truthful answers to the questions in this form, as they will be used to guide the treatment process and ensure their safety.
-</thinking>
-
 # Client Intake Consent Form - Help Guide
 ## Purpose
 The Client Intake Consent Form is a crucial document that clients must complete before starting any treatment or product usage. This form ensures that clients are aware of their skin type, medical history, and the potential outcomes and risks associated with any treatment or product usage.

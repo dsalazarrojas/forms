@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rotating_schedule_time_off_form - Help Guide
 ## Purpose
 The "Rotating Schedule Time Off Form" is used to request time off from your rotating schedule. This form helps you to submit a request for a specific time off period and receive approval from your manager.

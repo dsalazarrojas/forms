@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the Delegation Of Duties Log form, I'll first analyze the provided YAML fields and identify the form's purpose, which is to record and track delegations of duties within a team. The form appears to be used for assigning tasks to team members, tracking progress, and capturing relevant information such as due dates, start dates, task names, and more. This form is likely used by team leaders or managers to oversee and manage task assignments and progress.
-
-Before creating the help guide, I'll review the fields to ensure that the explanation is clear and concise. The form has a mix of text, select, date, time, and email fields, which indicates that it's designed for capturing detailed information about tasks and their assignments. The presence of fields like "Progress" and "Notes" suggests that the form is also used for tracking and commenting on task progress.
-
-</thinking>
-
 # Delegation Of Duties Log - Help Guide
 ## Purpose
 The Delegation Of Duties Log form is used to record and track tasks assigned to team members, including task details, due dates, progress, and other relevant information. This form helps team leaders or managers oversee task assignments and progress, ensuring that tasks are completed on time and according to team requirements.

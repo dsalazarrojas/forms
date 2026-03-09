@@ -1,7 +1,3 @@
-<thinking>
-The form is used for tracking comets and recording important observations and data associated with the discovery of the comet. This form is intended to be filled out by astronomers or individuals observing comets. The goal is to gather accurate and detailed information about the comet and the observation conditions. It's essential to follow this guide carefully to ensure accurate and complete data.
-</thinking>
-
 # Comet Discovery Report - Help Guide
 ## Purpose
 The Comet Discovery Report form is used to document and track the discovery of comets. This form helps to gather crucial information about the comet, including its designation, location, and characteristics. It's a vital tool for astronomers and researchers to record and analyze comet data.

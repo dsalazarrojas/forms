@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the daily progress and activities of construction projects. The form captures information on the project name, date, weather conditions, work hours, number of workers on site, tasks completed, and other relevant details. This will help project managers and superintendents to keep track of the project's progress and identify any potential issues or concerns. Please ensure that you are using this form for the intended purpose and not duplicating work. If you are unsure, please refer back to the project manager or supervisor before submitting the report.
-</thinking>
-
 # Construction Daily Report Form - Help Guide
 ## Purpose
 This form is designed to track the daily progress and activities of construction projects.

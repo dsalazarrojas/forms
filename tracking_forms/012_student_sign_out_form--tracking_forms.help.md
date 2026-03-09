@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to ensure that the user-facing help guide is clear, concise, and practical for end-users.</thinking>
-
 # Student Sign Out Form - Help Guide
 ## Purpose
 The Student Sign Out Form is used to track student attendance and any relevant notes for teachers or staff to keep records of student activities. This form is essential for maintaining accurate records and facilitating smooth communication among staff members.

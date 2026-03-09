@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to manage recurring tasks, which are tasks that need to be performed on a regular schedule. The purpose of this form is to create, edit, or delete recurring tasks in a project or task management system. It's intended for use by administrators or users who need to track and schedule repetitive tasks. This form should only be used to create or edit tasks that have already been previously established as recurring tasks, as it doesn't support creating new tasks from scratch. This form is not meant for users to report new, one-time tasks. It's a utility form for managing recurring tasks and their schedules.
-</thinking>
-
 # Recurring Task Management Form - Help Guide
 ## Purpose
 This form is designed for managing recurring tasks, allowing you to create, edit, or delete tasks that occur on a regular schedule. It's meant for administrators or users who need to track and schedule repetitive tasks, ensuring that such tasks are properly managed and executed as needed.

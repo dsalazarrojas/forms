@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Volunteer Hour Log Form - Help Guide
 ## Purpose
 This form is designed for students to track and record their volunteer hours, allowing them to accurately report their service hours to the relevant authorities.

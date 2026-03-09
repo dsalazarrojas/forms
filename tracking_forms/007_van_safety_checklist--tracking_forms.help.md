@@ -1,8 +1,3 @@
-<thinking>
-We need to create a help guide for a Van Safety Checklist form that explains its purpose, how to complete it, and what each field means. The form is designed to track and record the safety checks on a van, covering various categories such as brakes, engine, electrical, and more. This form will likely be used by mechanics, fleet managers, or anyone responsible for maintaining or inspecting vans. Before proceeding, let's ensure this form is not being used for other purposes or is not a duplicate of an existing form. This help guide will be concise, practical, and easy to understand, explaining each field in a clear and concrete manner.
-
-</thinking>
-
 # Van Safety Checklist - Help Guide
 ## Purpose
 The Van Safety Checklist is a form designed to record and track the safety checks on a van, ensuring that all critical systems and components are properly functioning. This form helps identify potential issues and schedule necessary maintenance or repairs.

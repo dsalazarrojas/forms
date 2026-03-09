@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a product, specifically to track its registration. This form is intended for use by customers or users who have purchased a product and want to provide details about it. The form fields are designed to capture relevant information about the customer, product, and purchase history.
-</thinking>
-
 # Product Registration - Help Guide
 ## Purpose
 The Product Registration form is used to collect information about a product from the customer, including their contact details, product details, and purchase history.

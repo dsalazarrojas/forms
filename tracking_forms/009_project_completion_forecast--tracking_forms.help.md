@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about project completion, including project start date, duration, completion date, and project status. It is intended to be filled out by project managers or team members to provide a forecast of project completion, including confidence levels and potential issues that may arise. The form should only be filled out once the project has been started, and it's meant to be a tool for tracking and monitoring project progress.</thinking>
-
 # Project Completion Forecast - Help Guide
 ## Purpose
 This form is used to forecast project completion, including project start date, duration, completion date, and project status. It helps project managers and team members track and monitor project progress.

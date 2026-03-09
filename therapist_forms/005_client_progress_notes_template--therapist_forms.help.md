@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used by healthcare professionals, such as physical therapists and counselors, to document client progress after a session, which is a crucial part of their practice for various reasons. It is essential to ensure that the form is completed accurately and thoroughly for effective care. It should be used for each client's session to monitor progress, identify areas that require more attention, and inform future treatment strategies. 
-
-</thinking>
-
 # Client Progress Notes Template - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals, such as physical therapists and counselors, document the progress of their clients after each session. It is a crucial tool for monitoring progress, identifying areas that require more attention, and informing future treatment strategies.

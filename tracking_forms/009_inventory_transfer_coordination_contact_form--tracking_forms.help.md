@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to facilitate the coordination and management of inventory transfers within an organization. It allows users to provide information about the transfer request, including the transfer item, contact details, and transfer date and time. The form also captures additional information about the transfer requester and transferer, including their contact details, organization, and notes.
-
-This form is a crucial tool for streamlining the inventory transfer process, ensuring that all necessary information is captured and communicated efficiently. It is designed to be used by both the transfer requester and transferer, providing a clear and concise format for communication and coordination.
-
-Before proceeding, please note that some fields are marked as required or optional. Please ensure that you have the necessary information and permissions to complete the form accurately and truthfully.
-
-</thinking>
-
 # Inventory Transfer Coordination Contact Form - Help Guide
 ## Purpose
 The Inventory Transfer Coordination Contact Form is used to capture information about inventory transfers, including contact details and transfer dates.

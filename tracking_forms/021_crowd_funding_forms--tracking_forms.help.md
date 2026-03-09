@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: The "Crowd Funding Forms" is designed to collect basic information from users.
-This form should only be used for crowd funding projects that have a specific purpose. The form's fields and layout are designed to accommodate a variety of crowd funding use cases.
-</thinking>
-
 # Crowd Funding Forms - Help Guide
 ## Purpose
 The "Crowd Funding Forms" is a form used to collect basic information from users, typically for crowd funding projects. This form helps to collect relevant details about the user, such as their name, email, phone number, and other personal details.

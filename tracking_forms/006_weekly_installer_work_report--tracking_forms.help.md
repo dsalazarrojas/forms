@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the activities and progress of installers on a weekly basis, providing an overview of their work, incidents, and other relevant information. It's intended for installers to report their weekly activities, ensuring consistency and reducing the need for manual data entry by the team leader. To avoid duplication of work, ensure that the form is only filled out once a week.
-</thinking>
-
 # Weekly Installer Work Report - Help Guide
 ## Purpose
 The Weekly Installer Work Report form is used to collect weekly progress from installers, allowing team leaders to have a consolidated view of the team's overall status.

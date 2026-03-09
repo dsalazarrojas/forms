@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for the "Gift Basket Raffle Ticket Purchase" process. The form is intended to collect information from ticket purchasers regarding their purchase of gift baskets. It seems to be part of a raffle or lottery-style ticket purchase system, where users can buy tickets for a gift basket and potentially win a prize. 
-
-The form appears to be used for both the initial purchase of tickets and the collection of information for existing ticket purchases. It's possible that this form is part of a larger system for managing gift basket sales and distribution. 
-
-This form does not seem to be intended for any other purpose, such as customer support or account management, so it's unlikely to be duplicated. The form is focused on capturing relevant information for the gift basket raffle ticket purchase process.
-</thinking>
-
 # Gift Basket Raffle Ticket Purchase - Help Guide
 
 ## Purpose

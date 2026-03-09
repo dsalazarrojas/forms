@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gift Progress Record Form - Help Guide
 
 ## Purpose

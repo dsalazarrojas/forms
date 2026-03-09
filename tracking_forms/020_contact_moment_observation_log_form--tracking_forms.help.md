@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? It appears to be a tool for quality assurance and coaching, likely used to gather feedback on interactions between employees or agents. It seems to track observations of interactions and provide a way to evaluate and improve performance. To confirm, the form has fields for observer name, agent name, date and time of observation, communication channel, interaction duration, greeting score, active listening score, resolution score, closing score, key strengths observed, areas for development, immediate coaching provided, and scheduled next review date. This form is likely used for performance evaluation, coaching, and development purposes.</thinking>
-
 # Contact Moment Observation Log Form - Help Guide
 ## Purpose
 The Contact Moment Observation Log Form is a tool for quality assurance and coaching. It helps track observations of interactions between employees or agents, providing a way to evaluate performance and identify areas for development.

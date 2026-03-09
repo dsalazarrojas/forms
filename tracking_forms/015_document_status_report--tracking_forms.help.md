@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Document Status Report form is a tool used to track and manage the progress of documents throughout the project lifecycle. This form helps stakeholders to monitor the current status of documents, update owners, set deadlines, and track progress. It's essential to ensure accurate and timely reporting, reducing errors and increasing transparency. 
 
 </thinking>

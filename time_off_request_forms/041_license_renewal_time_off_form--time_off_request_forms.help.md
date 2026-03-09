@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of submitting a request for time off for license renewal purposes. The form will be used to gather information from employees who wish to take time off for license renewal, ensuring that all necessary details are captured for processing and approval. To avoid duplication of effort, please ensure that you do not submit multiple requests for the same license renewal period. Before proceeding, verify that you are submitting a new request and not re-submitting an existing one.
-</thinking>
 # License Renewal Time Off Form - Help Guide
 ## Purpose
 This form is designed to help employees submit a request for time off for license renewal purposes. Please use this form to provide necessary details for processing and approval.

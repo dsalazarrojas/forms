@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be for tracking and managing items, specifically "swaps." A swap is a transaction or exchange of items or services. This form could be used to track the status of swaps, including whether they are active, lost, completed, or cancelled. It might also be used to manage photos and notes related to each swap.
-The fields suggest that the form is intended to track multiple swaps, with some fields being repeated for each swap. This form does not appear to be for public users, as it requires knowledge of swap tracking and management.
-Before filling out this form, it's essential to review all the fields and understand their purpose to avoid any mistakes or misinterpretation.
-</thinking>
-
 # Swap Item Tracker - Help Guide
 
 ## Purpose

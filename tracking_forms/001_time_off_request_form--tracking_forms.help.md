@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Time Off Request Form is to allow employees to provide their time off requests, including employee information, time off details, and any additional comments. 
-
-This form is designed to be completed by employees to facilitate the process of requesting time off, and is used by HR or management to track and process time off requests. 
-
-Before filling out this form, please ensure that you have checked with your supervisor and obtained approval to complete this form.
-
-</thinking>
-
 # Time Off Request Form - Help Guide
 
 ## Purpose

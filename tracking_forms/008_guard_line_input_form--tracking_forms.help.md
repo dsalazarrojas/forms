@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to input information related to guard lines, specifically for tracking purposes. The form is designed to capture general information, guard line specific details, and patrol information. It may not be required for the form to be submitted, but filling it out can improve the accuracy and completeness of the data.
-</thinking>
-
 # Guard Line Input Form - Help Guide
 
 ## Purpose

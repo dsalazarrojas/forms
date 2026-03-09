@@ -1,8 +1,3 @@
-<thinking> 
-The Driver Expense Tracking Form is used for tracking and recording expenses incurred by drivers during a trip. This form is designed to collect information about the trip, including the type of expense, location, vehicle details, and other relevant information. This form is intended to be used by employees or managers to track and report expenses related to vehicle usage. The goal is to ensure accurate and efficient tracking of expenses, which can help with budgeting, reporting, and compliance.
-
-</thinking>
-
 # Driver Expense Tracking Form - Help Guide
 ## Purpose
 The Driver Expense Tracking Form is a tool to track and record expenses incurred by drivers during a trip. It helps to collect and store information about the trip, including the type of expense, location, vehicle details, and other relevant data.

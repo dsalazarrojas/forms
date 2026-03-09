@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for tracking incidents or reports, and the specific fields are likely related to the details of each incident. The form might be used by IT or customer support teams to track and manage incidents in a organized manner. The form could be used for both internal and external reporting of incidents. This form has multiple pages, but the exact purpose and fields will be described in more detail in this help guide.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to track and manage incidents in a organized manner. It can be used for both internal and external reporting of incidents.

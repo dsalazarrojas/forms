@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users track their time spent on specific tasks and projects. It is meant to be a comprehensive tool for time management and project monitoring. The form should only be used for recording actual work hours spent on tasks or projects, and not for tracking other activities or non-work-related time. To ensure consistency and accuracy, please note that this form should be used for tracking time spent on actual work hours, not for personal or leisure activities.
-</thinking>
-
 # Time Tracker Form - Help Guide
 ## Purpose
 

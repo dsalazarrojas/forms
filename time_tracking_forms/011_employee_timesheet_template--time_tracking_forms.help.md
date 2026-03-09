@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Timesheet Template - Help Guide
 ## Purpose
 The Employee Timesheet Template is a form designed to help employees track their working hours and activities on various projects. This form aims to provide a standardized way of recording work hours, allowing for accurate tracking and reporting of employee work time. The form is typically used by employees to log their work hours at the start and end of each day, or week, to ensure that their work time is accurately represented in the company's records.

@@ -1,9 +1,3 @@
-<thinking>
-Please note that this form is designed to be filled out by users to create a new work ticket.
-The form is not intended for editing or updating existing tickets.
-This form should only be used for creating new tickets, not for editing or deleting existing tickets.
-</thinking>
-
 # Work Ticket Form - Help Guide
 ## Purpose
 The Work Ticket Form is used to create new work tickets for various tasks and issues.

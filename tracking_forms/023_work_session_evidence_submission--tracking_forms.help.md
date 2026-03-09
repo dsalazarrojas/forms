@@ -1,5 +1,3 @@
-<thinking>...This form is used for submitting evidence related to a work session, which is a critical component in tracking and managing work sessions. A work session is an instance of work that an individual or team undertakes, and evidence submission provides valuable information for review, analysis, and decision-making. This form ensures that all required details are captured accurately and comprehensively. By submitting evidence, teams and administrators can ensure that work sessions are properly documented and accounted for. Ensure that you are submitting evidence for the correct work session and have all necessary information before proceeding.</thinking>
-
 # Work Session Evidence Submission - Help Guide
 ## Purpose
 The Work Session Evidence Submission form is used to provide detailed information about a work session, including its start and end dates and times, location, and submitted evidence type.

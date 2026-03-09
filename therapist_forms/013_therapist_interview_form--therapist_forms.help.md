@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I'm going to create a user-facing help guide for the Therapist Interview Form. This form is designed to collect information from therapists for a specific purpose, likely for administrative or research purposes. I'll assume the form is used to gather data about a patient's mental health diagnosis, medical conditions, and goals/objectives. To ensure the form is completed correctly, I'll need to carefully review the form's structure and field explanations. I'll also check for any potential duplication or redundancy in the fields, such as multiple fields that collect similar information.</thinking>
-
 # Therapist Interview Form - Help Guide
 ## Purpose
 This form is used to collect information from therapists about a patient's mental health diagnosis, medical conditions, and goals/objectives. This information will be used for administrative or research purposes.

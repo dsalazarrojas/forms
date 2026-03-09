@@ -1,5 +1,3 @@
-<thinking>...the form is designed to collect weekly shift report data from employees, which will be used to track and analyze work hours and attendance. The purpose of this form is to gather accurate and consistent information about employee shifts, allowing management to make informed decisions about staffing and scheduling. This form should not be filled out multiple times for the same week, as it is intended for weekly submission. Please ensure that only one form is completed per week... </thinking>
-
 # weekly_shift_report - Help Guide
 ## Purpose
 This form is used to collect data on employee shifts for a given week.

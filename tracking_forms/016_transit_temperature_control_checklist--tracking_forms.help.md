@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track temperature control checks for shipments. It's a critical process that ensures goods are transported safely and efficiently. The form is used to document and record in-transit temperature checks, document inspections, and corrective actions taken. This form helps identify potential issues before they become major problems, ensuring timely intervention and reducing risks to the shipment's integrity.
-</thinking>
-
 # Transit Temperature Control Checklist - Help Guide
 ## Purpose
 The purpose of this form is to document and track temperature control checks for shipments, ensuring the goods are transported safely and efficiently.

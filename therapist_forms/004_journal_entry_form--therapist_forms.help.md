@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for medical professionals to document patient information in a journal entry format. The primary purpose of the form is to capture essential details such as patient demographics, medical diagnosis, treatment plans, and insurance information. The form is intended for use in a medical setting, likely within a healthcare organization or clinic.
-</thinking>
-
 # journal_entry_form - Help Guide
 ## Purpose
 

@@ -1,14 +1,3 @@
-<thinking> 
-This form is used to track and manage tasks, allowing users to enter and update information on a daily basis. The form collects data on various fields such as entry date, task description, deadline, category, priority, status, notes, phone, email, tags, location, attachment, comment, user, user ID, time, duration, repeat, frequency, start time, end time, start date, end date, last updated, and version. Each field is carefully crafted to collect specific information that can be used to track and analyze tasks.
-
-To ensure data consistency and prevent duplication, the form is designed to require certain fields, including entry date, task description, deadline, category, priority, status, phone, email, user, user ID, time, and version. This helps to maintain a standardized and reliable record of tasks.
-
-Please note that some fields are optional, such as notes, location, attachment, comment, and tags, which can be used to provide additional context and details.
-
-The form will guide you through the process of creating and editing tasks efficiently and effectively.
-
-</thinking>
-
 # Daily Task List Entry Form - Help Guide
 ## Purpose
 The Daily Task List Entry Form is used to track and manage tasks, collecting information on various fields for analysis and record-keeping purposes.

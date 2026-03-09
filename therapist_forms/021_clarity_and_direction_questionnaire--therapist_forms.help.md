@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clarity And Direction Questionnaire - Help Guide
 ## Purpose
 The Clarity And Direction Questionnaire is a tool designed to help individuals gain clarity and direction in their lives. It is meant to be a starting point for self-reflection and exploration of one's goals, challenges, and strengths. This questionnaire is not a diagnostic tool, but rather a guide to help you identify areas where you may need support and guidance.

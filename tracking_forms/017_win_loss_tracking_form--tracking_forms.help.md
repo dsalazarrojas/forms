@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Win Loss Tracking Form - Help Guide
 
 ## Purpose

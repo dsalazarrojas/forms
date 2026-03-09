@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to track and document details of prosthetic therapy sessions. The purpose of this form is to provide a structured and organized way for therapists to record and review session information, ensuring consistency and accuracy in their records. This form should be used for every session, and it's essential to fill it out thoroughly and accurately to maintain a complete and up-to-date record.
 
 # Prosthetic Therapy Session Log - Help Guide

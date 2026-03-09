@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the counter_inquiry_log_form for end users. This form is a critical tool for tracking and managing customer inquiries, providing a centralized platform for documenting and resolving requests, inquiries, and complaints. It is essential to ensure that each inquiry is thoroughly reviewed and addressed in a timely and effective manner. To avoid duplication of effort, please check the existing log before creating a new entry.
-</thinking>
-
 # counter_inquiry_log_form - Help Guide
 ## Purpose
 The counter_inquiry_log_form is designed to track and manage customer inquiries, allowing for efficient organization and follow-up on requests, inquiries, and complaints. This form ensures that each inquiry is thoroughly reviewed and addressed in a timely and effective manner, preventing duplication and ensuring resolution.

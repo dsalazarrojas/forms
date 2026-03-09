@@ -1,12 +1,3 @@
-<thinking>
-To determine the most accurate explanation for this form, let's break it down:
-
-- The form is called "Documentary Screening Pre Order Form". 
-- Upon analyzing the fields, it appears this form is related to events, screenings, or possibly a conference with tickets being sold for it. 
-- It includes fields for event details (title, date, address, city, state, zip), ticket price and quantity, type of ticket, and payment method.
-
-</thinking>
-
 # Documentary Screening Pre Order Form - Help Guide
 ## Purpose
 The Documentary Screening Pre Order Form is used to collect information about events, screenings, or conferences with ticket sales. This form helps event organizers gather details about their event, such as the title, date, address, and ticket sales information, to process and manage their event efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by HR or management personnel to process requests from employees to take physical therapy sessions off work, potentially for recovery, injury, or other related reasons. The form is likely intended to be filled out by employees, and the fields might be related to scheduling, approval, and communication processes. 
-</thinking>
-
 # Physical Therapy Time Off Request - Help Guide
 ## Purpose
 This form is used to request time off for physical therapy sessions. Please fill out the form to submit your request and ensure that your manager receives it for approval.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from clients for appointment scheduling with a therapist. To ensure accurate and efficient processing, please use the form for its intended purpose and avoid duplicating or resubmitting information. The form's fields and options are carefully crafted to facilitate a smooth and respectful therapeutic experience.
-</thinking>
-
 # Click & Meet Form - Help Guide
 ## Purpose
 This form is used to schedule appointments with therapists for clients to discuss their concerns and receive guidance.

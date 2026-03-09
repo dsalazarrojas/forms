@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from clients seeking treatment for Sex and Love Addiction (SLAA). The purpose of this form is to help clients and therapists understand the client's recovery goals, feelings about SLAA, relapse prevention strategies, support system, recovery process, additional comments, and personal contact information (name, email, phone number). It is essential to complete this form accurately and honestly to ensure that the client's needs are properly assessed and addressed.
-Please note that this form is part of the SLAA treatment process, and the information gathered will be used to guide the treatment plan and progress of the client. It is not a duplicate of any other form, and the information collected will not be used for any other purpose.
-</thinking>
-
 # SLAA Recovery Questionnaire - Help Guide
 ## Purpose
 The SLAA Recovery Questionnaire is a form designed to help clients seeking treatment for Sex and Love Addiction (SLAA) by gathering information about their recovery goals, feelings, relapse prevention strategies, support system, recovery process, and personal contact information.

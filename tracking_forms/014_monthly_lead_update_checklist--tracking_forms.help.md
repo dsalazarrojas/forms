@@ -1,8 +1,3 @@
-<thinking>
-The "Monthly Lead Update Checklist" form is used to gather information on the current status of leads, including category, description, lead status, sales stage, contact person, email, phone number, notes, lead date, lead time, and other relevant details. This form aims to provide a concise and structured way of updating and tracking leads on a monthly basis. It is likely used by sales teams or customer support teams to keep track of their leads and progress.
-Before proceeding, please ensure that you have not already created an entry for this month's lead update. If you have already submitted the form for this month, please do not submit it again.
-</thinking>
-
 # Monthly Lead Update Checklist - Help Guide
 ## Purpose
 The "Monthly Lead Update Checklist" is used to update and track the status of leads on a monthly basis.

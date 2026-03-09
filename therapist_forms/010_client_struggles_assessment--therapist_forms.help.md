@@ -1,7 +1,3 @@
-<thinking>
-The "Client Struggles Assessment" form is designed to help therapists and clinicians assess a client's primary challenges, assess the impact on their life, and prioritize treatment goals. This form is meant to be completed by clients to provide detailed information about their struggles and needs, which will aid therapists in creating an effective treatment plan. This form is not a diagnostic tool, and its primary function is to gather client-reported data for treatment planning. Please ensure that the form is being used in alignment with local laws, regulations, and professional standards regarding client assessment and treatment.
-</thinking>
-
 # Client Struggles Assessment - Help Guide
 ## Purpose
 The Client Struggles Assessment form is a tool designed to help therapists and clinicians assess a client's primary challenges, assess the impact on their life, and prioritize treatment goals.

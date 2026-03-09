@@ -1,11 +1,3 @@
-<thinking>
-This guide is designed to provide a user-friendly explanation of the Ticket Request Form, ensuring end users understand its purpose, how to complete it, and what each field means. The form is a comprehensive tool for submitting ticket requests, gathering essential information from the requester, and streamlining the ticketing process. 
-
-Before proceeding, please note that this form is designed to collect information for both individual and group requests. The form's layout is divided into logical sections to facilitate smooth completion. 
-
-The form is not meant for urgent requests; it's for planned events or recurring requests. Please fill it out accurately and thoroughly to ensure that your ticket request is processed efficiently.
-</thinking>
-
 # Ticket Request Form - Help Guide
 
 ## Purpose

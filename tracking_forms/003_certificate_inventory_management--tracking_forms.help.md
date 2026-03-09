@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to manage the inventory of certificates issued to individuals or organizations. It allows users to track and update information such as certificate IDs, recipient names, issue dates, expiration dates, certificate types, issuing authorities, status, and additional notes. This form is intended for use in various settings where certificate management is required, such as in educational institutions, corporate settings, or government agencies. 
-
-To avoid duplication and ensure accuracy, it is essential to review the form before filling it out to ensure that all necessary information is provided and that the form is filled out completely and correctly.
-
-</thinking>
-
 # Certificate Inventory Management - Help Guide
 ## Purpose
 The Certificate Inventory Management form is designed to track and manage certificates issued to individuals or organizations. It provides a structured platform to collect and store information about certificates, including details such as issue dates, expiration dates, and status.

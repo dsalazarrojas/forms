@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and track the medical history of a player in a sports or fitness context. This form helps to gather essential information about the player's health, including their personal details, medical history, and potential health conditions.
-</thinking>
-
 # Player Medical History - Help Guide
 ## Purpose
 This form is designed to record the medical history of a player, including their name, birth date, health card number, emergency contact information, and a list of medical conditions such as allergies, illnesses, and previous injuries. This information will help in providing medical care and attention to the player in case of any health-related issues.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on behavioral incidents that occur in a school setting. This form helps staff members document and track incidents, which can aid in developing follow-up plans and interventions to address student behavior issues. This form is intended to be used by school staff members to record incidents as they occur, providing a systematic way to capture relevant details and actions taken.
-</thinking>
-
 # Behavioral Tracking Log - Help Guide
 ## Purpose
 This form is used to document and track behavioral incidents that occur in a school setting. It helps staff members to gather information and develop follow-up plans to address student behavior issues.

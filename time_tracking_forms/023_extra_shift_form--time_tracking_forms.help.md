@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about their availability for additional shifts. The form is intended for employees to report their interest in working extra shifts, providing details such as start and end times, shift IDs, and other relevant information.
-
-Before proceeding, please note that this form is a custom creation, not affiliated with any specific form platform. The information collected is for internal use and will be reviewed by designated personnel.
-
-</thinking>
-
 # Extra Shift Form - Help Guide
 ## Purpose
 The Extra Shift Form is designed to gather information about your availability for additional shifts. This form helps us understand your interest and capacity to work extra hours, ensuring that we can effectively manage shift assignments and resource allocation.

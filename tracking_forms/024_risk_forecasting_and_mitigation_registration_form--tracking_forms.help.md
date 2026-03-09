@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about risks that need to be managed and mitigated. This form is used to document the risk forecasting and mitigation process, which helps to ensure that risks are identified, assessed, and addressed in a structured and systematic way. To prevent duplication of efforts, please make sure to check the system before submitting a new form entry.
-</thinking>
-
 # Risk Forecasting And Mitigation Registration Form - Help Guide
 ## Purpose
 The Risk Forecasting and Mitigation Registration Form is a tool used to collect and document information about potential risks that need to be managed and mitigated. This form helps to identify, assess, and prioritize risks, which enables effective risk management and mitigation strategies to be put in place.

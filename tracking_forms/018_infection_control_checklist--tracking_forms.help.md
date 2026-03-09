@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track and record information about patient contact and potential infection control measures. The purpose of this form is to document patient interactions, assess the risk of infection transmission, and determine the need for follow-up actions. This form should only be completed by authorized personnel.
-</thinking>
-
 # Infection Control Checklist - Help Guide
 
 ## Purpose

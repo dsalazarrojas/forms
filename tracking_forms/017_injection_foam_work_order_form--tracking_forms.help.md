@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is for the Injection Foam Work Order Form, a tool used to track and manage work orders related to injection foams. This form helps users to request, review, and manage work orders efficiently. Before proceeding, please ensure you have a valid work order to complete the form. If you're unsure whether you should be using this form, please consult with your supervisor or refer to your organization's policies.
-
-</thinking>
-
 # Injection Foam Work Order Form - Help Guide
 ## Purpose
 The Injection Foam Work Order Form is used to track and manage work orders related to injection foams. It provides a structured way to gather essential information about work orders, ensuring that all relevant details are captured and reviewed efficiently.

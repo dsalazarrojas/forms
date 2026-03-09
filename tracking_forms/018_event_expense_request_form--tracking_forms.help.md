@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their expenses related to company events. The purpose of this form is to ensure accurate tracking and reporting of expenses, which is crucial for financial management and compliance. Before filling out this form, please ensure that you have already checked the company's expense policies and procedures to understand what types of expenses are eligible for reimbursement and what supporting documentation may be required. Additionally, if you have already submitted a similar request, please do not resubmit the form to avoid duplicating your request.
-</thinking>
-
 # Event Expense Request Form - Help Guide
 
 ## Purpose

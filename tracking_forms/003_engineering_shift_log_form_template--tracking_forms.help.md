@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Engineering Shift Log Form Template - Help Guide
 ## Purpose
 The Engineering Shift Log Form Template is used for tracking the progress and activities of engineering shifts. This form is used to record the tasks completed, progress, and any issues encountered during a shift. It is essential to fill out this form accurately to ensure that the team's performance and work are properly documented and reported.

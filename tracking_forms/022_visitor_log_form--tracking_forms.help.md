@@ -1,18 +1,3 @@
-<thinking> 
-This form is used to log visitors who arrive at the facility. It is an optional form, meaning users can complete it if they want to provide more information. This form is likely used by receptionists or staff to track visitor arrivals and departures. The form should only be filled out once per visitor. 
-
-The form has the following fields:
-- Visitor log form label (title)
-- Visitor name
-- Visitor email (if provided)
-- Visitor phone number (if provided)
-- Date of visit
-- Time of arrival
-- Time of departure
-- Notes (optional)
-
-</thinking>
-
 # Visitor Log Form - Help Guide
 ## Purpose
 The Visitor Log Form is used to track the details of visitors who arrive at the facility. This information can be used to verify the identity of visitors, keep a record of their visit, and potentially for follow-up actions or invitations for future visits.

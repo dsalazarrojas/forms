@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Anniversary Celebration Time Off Form", we need to understand the form's purpose and its intended use case. This form is designed to support employees in requesting time off for anniversary celebrations, which is likely a company-wide policy to acknowledge and appreciate employees' years of service. The form likely needs to be completed by employees who are eligible for the anniversary celebration leave policy.
-
-Before proceeding, please ensure you are completing this form for the correct purpose. If you are requesting time off for a different reason, please refer to the relevant company policy or contact your HR department for guidance.
-
-</thinking>
-
 # Anniversary Celebration Time Off Form - Help Guide
 ## Purpose
 The "Anniversary Celebration Time Off Form" is a document used to request time off for anniversary celebrations, which is a company-wide policy to acknowledge and appreciate employees' years of service. This form helps employees to provide necessary information for their leave request.

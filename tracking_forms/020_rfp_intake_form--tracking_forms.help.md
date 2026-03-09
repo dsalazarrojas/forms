@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users complete the RFP (Request for Proposal) Intake Form accurately and efficiently. It is a tool for collecting information about a Request for Proposal, which is a formal bid or offer to provide a service or product. This form is meant to be a straightforward way to gather the necessary data from the customer to assess their needs and provide a quote or bid.
-
-Please note that this form is not meant to be a comprehensive bid or proposal submission. It is a preliminary form used for the purpose of gathering basic information and initial assessment. To ensure that the user provides the most accurate and relevant information, please complete the form carefully and thoroughly.
-
-Before filling out the form, please check that you are not duplicating any existing proposals or bids. This will help prevent unnecessary work and ensure that the correct information is collected and processed.
-
-</thinking>
-
 # RFP Intake Form - Help Guide
 ## Purpose
 The RFP Intake Form is a tool used to gather basic information about a Request for Proposal from a customer. This form is meant to be a starting point for assessing the customer's needs and providing a quote or bid.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for tracking tasks, allowing users to input and manage various task details. The form includes fields for task status, due date, description, assignee, priority, priority type, progress, assigned team, created date, updated date, and notes. This form is intended for users to track tasks and monitor their progress. It does not include any fields that are not required for this specific form purpose.
-
-</thinking>
-
 # Task Tracking Form - Help Guide
 ## Purpose
 The Task Tracking Form is a tool used to monitor and manage tasks. It helps users input and manage various task details such as task status, due date, description, assignee, priority, progress, and more.

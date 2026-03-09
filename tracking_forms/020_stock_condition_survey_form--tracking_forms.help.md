@@ -1,11 +1,3 @@
-<thinking>
-This form is used to track the condition of stock items. It is meant to be filled out by users who need to report on the status of items in stock. This form is not required to be filled out for every item, but rather for items that need special attention or tracking. The goal of this form is to gather information about the stock item's condition and status in order to make informed decisions about its use or disposal. This form should only be filled out once per stock item.
-
-Please note that this form is designed to be flexible and can be used in various contexts. However, it is primarily intended for tracking stock items that are not currently in use or are in a pending status.
-
-Before filling out this form, it's essential to understand the purpose of each field, which is explained below.
-</thinking>
-
 # stock_condition_survey_form - Help Guide
 ## Purpose
 The stock condition survey form is used to track the condition and status of stock items. This form is meant to be filled out by users who need to report on the status of items in stock, particularly those that are not currently in use or are in a pending status.

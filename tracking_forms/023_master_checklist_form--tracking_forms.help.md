@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a tracking tool for various aspects of project management, including recurring workflows, project action items, task management, progress tracking, priority management, task status, operational routines, task priorities, task assignments, notes, team management, and progress updates. The form is used to gather information on the status of these aspects of project management. This form is not intended to be a comprehensive project management tool, but rather a supplementary tool to aid in tracking and monitoring project progress. 
-</thinking>
-
 # Master Checklist Form - Help Guide
 ## Purpose
 The Master Checklist Form is a tool for tracking and monitoring various aspects of project management, including recurring workflows, project action items, and other related tasks and statuses.

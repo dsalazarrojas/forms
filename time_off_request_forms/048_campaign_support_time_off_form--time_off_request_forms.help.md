@@ -1,8 +1,3 @@
-<thinking>
-Internal reason for this form: Campaign Support Time Off Form is used by employees to request time off for various reasons such as vacation, personal, or medical. This form is a crucial tool for HR and campaign leadership to manage staff leave requests and ensure a smooth continuation of campaign operations during the absence of staff members.
-To avoid duplication of effort, please ensure that you have not recently submitted a time off request for the same dates or a similar reason. If you're unsure, please consult with HR or your team lead.
-</thinking>
-
 # Campaign Support Time Off Form - Help Guide
 ## Purpose
 The Campaign Support Time Off Form is a tool for staff members to submit time off requests for various reasons such as vacation, personal, or medical.

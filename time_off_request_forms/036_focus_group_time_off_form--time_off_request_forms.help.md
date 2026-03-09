@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning block is used to check whether a time off request is allowed and whether it has been previously approved or not.
-This form is for managers to review and approve time off requests from employees within their teams.
-The form should only be filled if a manager is not sure if a time off request has been already made or if a new time off request is necessary.
-</thinking>
-
 # Focus Group Time Off Form - Help Guide
 ## Purpose
 The purpose of this form is to request time off from your supervisor. Please fill out the form completely to ensure accurate review and processing.

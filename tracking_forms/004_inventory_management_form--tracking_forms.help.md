@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inventory Management Form - Help Guide
 ## Purpose
 This form is used to track and manage the inventory of items in the warehouse. It is a comprehensive form that captures various details about each item, including its category, quantity, description, price, location, serial number, date received, date added, time received, employee ID, employee name, notes, phone number, and email address. 

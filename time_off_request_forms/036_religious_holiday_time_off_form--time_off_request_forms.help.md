@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Religious Holiday Time Off Form - Help Guide
 
 ## Purpose

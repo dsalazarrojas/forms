@@ -1,13 +1,3 @@
-<thinking>
-This form is used to report the usage of medical supplies. It is meant to be completed by healthcare workers to track which products were used, how many products were used, the truck number of the delivery, the name of the person submitting the form, and any additional comments or notes. 
-
-Before proceeding, please ensure that you have the following:
-* You are authorized to access and submit this form.
-* You have a valid reason to complete this form (e.g. you have used a medical supply).
-* You are not duplicating an existing report.
-
-</thinking>
-
 # Medical Supplies Usage Report Form - Help Guide
 
 ## Purpose

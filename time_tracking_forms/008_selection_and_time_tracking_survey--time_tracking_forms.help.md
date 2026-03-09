@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for selection and time tracking surveys, aiming to gather data on respondents' allocation of time for various activities and their level of satisfaction with the current selection process. It is meant to be a straightforward and user-friendly way to collect information on respondents' time spent on different activities, their satisfaction levels, and any additional comments they may have. This form is intended to be used for internal use, likely as part of a larger survey or research project, and its purpose is to provide insights on the selection and time tracking process. Please note that this form is not meant to be a comprehensive assessment tool or a formal evaluation form, but rather a simple data collection tool.
-
-Before starting, please ensure you are filling this form only once and not duplicating your responses. If you are unsure about the purpose or content of this form, please contact the relevant team members for clarification.
-
-After reading this help guide, please ensure you fill in the form accurately and honestly, and do not hesitate to ask for help if you need any clarification.
-</thinking>
-
 # Selection And Time Tracking Survey - Help Guide
 ## Purpose
 

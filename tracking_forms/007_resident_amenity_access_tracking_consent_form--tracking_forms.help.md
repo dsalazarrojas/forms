@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for residents to provide information about their access to amenities and preferences for emergency contact and communication. 
-The purpose of this form is to track and record residents' consents and preferences, ensuring that their rights and wishes are respected while providing them with the necessary information for smooth and efficient service delivery. 
-This form will help in avoiding duplication of effort and ensuring that the information collected is accurate and up-to-date. 
-
-</thinking>
 # Resident Amenity Access Tracking Consent Form - Help Guide
 ## Purpose
 The Resident Amenity Access Tracking Consent Form is designed to collect information from residents about their preferences and consents for access to amenities and emergency contacts. This form helps in tracking and recording residents' consents and preferences, ensuring that their rights and wishes are respected while providing them with the necessary information for smooth and efficient service delivery.

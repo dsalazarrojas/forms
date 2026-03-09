@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's quickly review the form's purpose and internal logic to ensure we're on the same page. The Psychotherapy Intake Form is a crucial document that collects vital information from clients to assess their mental health and medical status. It's essential to understand the form's purpose and the reasoning behind its design. The form is designed to gather information about the client's contact details, medical history, mental status, and emergency contact information. The fields are carefully crafted to elicit relevant and accurate information to aid in the therapy process. Please review the fields carefully to ensure you're completing it correctly.</thinking>
-
 # Psychotherapy Intake Form - Help Guide
 
 ## Purpose

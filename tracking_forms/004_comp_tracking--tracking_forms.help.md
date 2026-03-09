@@ -1,10 +1,3 @@
-<thinking>
-This form is used for tracking compensation and performance changes, specifically for employees. It is used by HR personnel to record and monitor these changes, ensuring accurate and up-to-date information is maintained. This form should only be filled out by authorized personnel, and duplicate entries should be avoided to prevent unnecessary complications.
-
-Before proceeding, please review the form's purpose and the fields below to ensure you are filling out the correct information.
-
-</thinking>
-
 # Comp Tracking - Help Guide
 ## Purpose
 The Comp Tracking form is used for recording and tracking changes to an employee's compensation and performance. This form helps maintain accurate and up-to-date information about these changes.

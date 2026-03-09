@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the purpose of the Isolation And Absence Tracking Form: to record and track student absences or isolations due to COVID-19 or other reasons, allowing teachers and staff to keep accurate records of student attendance and potential exposure risks. This form is designed to be simple and user-friendly, making it easy for teachers and staff to quickly input relevant information while minimizing data entry burden. The form is meant to be filled out for each student who is absent or isolated, providing a clear and structured way to document their absence or isolation period.
 
 # Isolation And Absence Tracking Form - Help Guide

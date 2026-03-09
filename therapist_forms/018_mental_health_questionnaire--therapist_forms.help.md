@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient's mental health status, including their overall mood, anxiety and stress levels, sleep quality, pain levels, any mental health conditions, medication usage, and medical notes. The form will guide the user through a series of questions to gather this information in a structured and efficient manner. Please ensure you are completing this form only once and for the right purpose. If you are unsure about your mental health status, please reach out to a mental health professional for assistance.
-</thinking>
-
 # Mental Health Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about your mental health status, which will help us better understand your needs and provide you with appropriate support.

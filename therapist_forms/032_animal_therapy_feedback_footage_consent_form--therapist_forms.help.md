@@ -1,18 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Animal Therapy Feedback Footage Consent Form," we must first consider the internal reasoning behind its purpose and ensure that the guide is clear, concise, and practical for end-users. This form is designed to collect feedback from clients or their guardians regarding animal therapy sessions, including their comfort level with animal interaction, progress in therapy, and consent for video and audio recordings. The form aims to gather essential information to improve the effectiveness of the animal therapy program.
-
-Before diving into the guide, let's consider the following key points:
-
-*   The form is divided into three main sections: Client Information, Therapy Session Information, and Recording Consent.
-*   Clients are asked to provide personal details such as name, email, date of birth, and contact information.
-*   Questions cover the type of therapy, frequency, and therapist's name.
-*   The form includes ratings on comfort level with animal interaction, the therapist's skills, and perceived progress.
-*   Consent for recording, usage, and sharing of footage is a critical aspect of the form.
-*   The form concludes with a confidentiality agreement and acceptance of terms.
-
-The following guide will cover each section in detail, aiming to clarify the purpose and expectations for each field.
-</thinking>
-
 # Animal Therapy Feedback Footage Consent Form - Help Guide
 ## Purpose
 The Animal Therapy Feedback Footage Consent Form is designed to collect essential information from clients or their guardians regarding their experiences and feedback on animal therapy sessions. This form helps improve the effectiveness of the program by gathering ratings on comfort levels, progress, and consent for recordings and usage.

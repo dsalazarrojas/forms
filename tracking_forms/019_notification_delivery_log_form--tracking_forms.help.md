@@ -1,11 +1,3 @@
-<thinking>
-This form is for tracking notifications delivered to recipients. Its primary purpose is to record the details of sent notifications and follow-up actions taken. The form is designed to be a simple log for keeping track of sent notifications, including the time of delivery and any follow-up actions.
-
-Before proceeding, please ensure that you are not duplicating a log entry that already exists. This form is intended for one-time use, and repeated submission of the same entry will be considered a redundant entry.
-
-To complete this form, follow the instructions below:
-</thinking>
-
 # Notification Delivery Log Form - Help Guide
 ## Purpose
 The Notification Delivery Log Form is a tool for tracking notifications sent to recipients. It is used to record the details of sent notifications and follow-up actions taken.

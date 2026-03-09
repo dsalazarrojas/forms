@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for promotional tours reservations. This form appears to be a simple reservation system where users can provide details such as start and end dates, customer information (name and email), and tour-related data (tour ID and promotional tour type and price). The form likely aims to streamline the process of booking promotional tours by gathering all necessary information in one place. 
-</thinking>
-
 # promotional_tour_reservation_form - Help Guide
 ## Purpose
 The promotional tour reservation form is designed to collect information for promotional tours reservations, allowing users to book and manage promotional tours efficiently.

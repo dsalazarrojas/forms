@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Resource Request Form - Help Guide
 
 ## Purpose

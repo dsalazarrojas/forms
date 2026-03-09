@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect data for tracking meat inventory. This form is likely used in a business or restaurant setting to monitor and manage the quantity and quality of meat products. To ensure the form is completed accurately and efficiently, we should check if it's being filled out for the correct purpose and not for other, unrelated tasks. Let's make sure this form is not being used for non-duplication of existing records or tracking other types of products. 
-</thinking>
-
 # Meat Inventory Management Form - Help Guide
 ## Purpose
 This form is designed to collect and track information about meat inventory, including stock levels, suppliers, expiration dates, and any relevant notes or comments. 

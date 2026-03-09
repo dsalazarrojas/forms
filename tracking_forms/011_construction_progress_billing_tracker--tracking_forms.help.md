@@ -1,10 +1,3 @@
-<thinking>
-This form is likely to be used for tracking progress and billing in the construction industry, specifically for submitting billings for projects. It is designed to collect key information about a project's progress and billing details, including the start and end dates of the billing period, the project's reference number or name, the total amount billed, the percentage of completion, any supporting documents attached, and the name of the certifying officer who approved the billing.
-The form's purpose is to standardize the process of submitting billings and ensuring that all necessary information is collected and presented in a clear and consistent manner.
-There is likely to be a central repository or database where the submitted form data will be stored, and this form will be one of the interfaces for users to interact with it.
-
-</thinking>
-
 # Construction Progress Billing Tracker - Help Guide
 
 ## Purpose

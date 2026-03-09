@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to help contractors track their work time and progress for projects. It's a standardized form to ensure accuracy and consistency in data collection. Please make sure to fill out all required fields, and if you are unsure about any section or field, refer to your project manager or supervisor for clarification.
-
-</thinking>
-
 # Contractor Work and Time Record Form - Help Guide
 ## Purpose
 

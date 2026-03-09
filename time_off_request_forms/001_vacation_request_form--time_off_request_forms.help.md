@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's quickly confirm that the form is for requesting vacation time off for employees. This form is used for employees to submit their vacation request, including the start and end dates of their vacation, their name, job title, and reason for the request. This form is not meant to be used for other purposes, and filling it out is required to ensure that your vacation time off is recorded and approved correctly.</thinking>
-
 # Vacation Request Form - Help Guide
 ## Purpose
 The Vacation Request Form is used by employees to submit their vacation time off requests, including the start and end dates of their vacation, their name, job title, and reason for the request.

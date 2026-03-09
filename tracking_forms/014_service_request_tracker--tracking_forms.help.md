@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Request Tracker - Help Guide
 ## Purpose
 The Service Request Tracker form is used to track and manage service requests from customers or users. It helps you to keep track of service requests, prioritize them, and assign them to specific individuals or departments.

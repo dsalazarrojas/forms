@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Call Log - Help Guide
 ## Purpose
 The Client Call Log form is used to record and track client interactions, including calls, messages, and other communication. It helps to provide a clear and detailed history of client engagements, enabling staff to efficiently manage follow-up actions, client satisfaction, and issue resolution.

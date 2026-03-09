@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to track the daily requisition report for air conditioning work. It is intended to be completed by employees who perform air conditioning work, such as technicians, and is meant to be used by supervisors and managers to monitor and report on the progress and status of air conditioning work. The form is used to record important information about the work performed, including the employee's name, employee ID, report date, shift, job site location, customer name, type of work, equipment type, and other relevant details. 
-
-To prevent duplication and ensure accurate reporting, it's essential to fill in the form accurately and completely.
-
-</thinking>
-
 # Air Conditioning Daily Requisition Report Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a daily report of air conditioning work performed by employees, allowing supervisors and managers to track and monitor progress and status.

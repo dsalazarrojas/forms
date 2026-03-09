@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for employees who need to request time off due to a wildfire evacuation. The form is used to provide information about their absence from work due to a wildfire. Before starting, please confirm that there is no other way to request time off and that this is not a duplicate request.
-</thinking>
-
 # Wildfire Evacuation Time Off Form - Help Guide
 ## Purpose
 This form is used to notify your manager that you will be taking time off from work due to a wildfire evacuation. Please fill out this form with accurate and complete information so that your manager can process your request efficiently.

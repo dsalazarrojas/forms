@@ -1,12 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication ...
-
-This form is designed to provide detailed information about production work on a specific product, including its name, supplier details, quantity, unit price, total value, and production status among other fields. This form is likely used in an inventory management system or in a production planning process to keep track of production details.
-
-The form is divided into multiple pages (or sections), but the primary focus is on capturing information about the product being produced. Some fields, like "Notes" and "Tracking Notes", are meant to provide additional context or comments related to the production process.
-
-To complete this form, the user needs to fill out the required fields (if any) and provide as much detail as possible in the optional fields. The form is likely used by production managers or team members to track and manage production activities.
-
-</thinking>
 # Production Worksheet Form - Help Guide
 ## Purpose
 The Production Worksheet Form is a document used to record and track production details for a specific product. It captures information about the product, its supplier, quantity, price, and status among other fields.

@@ -1,26 +1,3 @@
-<thinking>
-This form is designed to collect information from adults about their personal characteristics, preferences, and behaviors. The purpose of this form is to analyze and understand individual adult personalities, communication styles, and coping mechanisms. The form is likely used in a professional setting such as a coaching or counseling service.
-
-The form has 13 questions, ranging from basic demographics to more in-depth personality and behavioral traits. Some questions, such as "Full Name", "Age Group", and "Occupation" are straightforward and require direct responses. Others, such as "Social Energy Level", "Decision Making Style", and "Stress Management Approach", assess personality traits and behaviors.
-
-Before filling out the form, it is essential to understand each question and provide honest and accurate responses. Please take your time to reflect on your answers and provide the best fit for each question.
-
-The form can be completed at the end-user's pace, and it is not expected to be finished in one session. Users can navigate between pages and save their progress.
-
-Below is the help guide for the form:
-
-# Adult Personal Analysis Questionnaire - Help Guide
-## Purpose
-This form is designed to collect information about your personal characteristics, preferences, and behaviors to help us understand you better.
-
-## How To Complete This Form
-- Take your time to answer each question honestly and accurately.
-- You can navigate between pages and save your progress.
-- If you need to stop and come back later, your progress will be saved.
-
-## Field-by-Field Explanation
-</thinking>
-
 # Adult Personal Analysis Questionnaire - Help Guide
 ## Field-by-Field Explanation
 

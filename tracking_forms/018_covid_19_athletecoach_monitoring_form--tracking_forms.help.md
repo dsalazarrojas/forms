@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the health status of athletes, coaches, and staff members in relation to COVID-19. The form is meant to be filled out on a daily basis, or as often as necessary, to monitor the presence of symptoms and other health-related factors that may impact an individual's participation in physical activities. The form is intended to help identify potential cases of COVID-19 and facilitate appropriate action to mitigate any risks. It is a crucial tool for maintaining the health and safety of athletes, coaches, and staff. This form should only be filled out by authorized personnel, and all responses are confidential and secure.
-</thinking>
-
 # COVID-19 AthleteCoach Monitoring Form - Help Guide
 ## Purpose
 This form is designed to track the health status of athletes, coaches, and staff members in relation to COVID-19, helping to identify potential cases and mitigate any risks.

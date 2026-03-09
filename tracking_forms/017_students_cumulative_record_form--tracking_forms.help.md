@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information about students' cumulative records. It appears to be used to track students' grades across multiple levels or semesters. The purpose of this form is likely to provide a quick and efficient way for administrators or teachers to record and view students' performance over time. However, to avoid duplication of effort, users should only use this form for tracking grades that are not already being recorded elsewhere. For instance, if grades are already being tracked through an electronic student information system, it's best to use this form to supplement or correct records, rather than duplicating effort. This form seems to be designed for a simple and lightweight tracking purpose, rather than a comprehensive or complex grading system.</thinking>
-
 # students_cumulative_record_form - Help Guide
 ## Purpose
 The students_cumulative_record_form is designed to collect and track students' grades across multiple levels or semesters.

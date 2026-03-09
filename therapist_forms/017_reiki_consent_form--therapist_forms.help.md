@@ -1,25 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients about their medical history, allergies, and other relevant health-related information. This form is used by therapists to ensure that clients are properly assessed and treated for their conditions. It is essential to complete this form accurately and honestly to ensure the best possible outcome. Please note that this form is not meant to be a substitute for professional medical advice.
-
-To complete this form, please follow these steps:
-
-1.  Fill in your information in the Client Information section.
-2.  Select any allergies you have from the list.
-3.  Provide a detailed description of your medical history, including any chronic conditions, surgeries, and injuries.
-4.  Mention any medications you are currently taking.
-5.  If you have an emergency contact, please select 'True' to indicate that you have one.
-6.  If you have a medical history that includes surgeries, please describe them in the Medical History Surgery field.
-7.  If you have any medical history that includes injuries, please describe them in the Medical History Injuries field.
-8.  If you have any medical history that includes fatigue, please describe it in the Medical History Fatigue field.
-9.  If you have any other medical history that is not included in the previous fields, please describe it in the Medical History Other field.
-10. Select any chronic conditions you have from the list.
-11. If you have any medical history related to mental health, please describe it in the Medical History Mental Health field.
-12. If you have any information about your sleep history, please describe it in the Medical History Sleep field.
-13. If you have any information about your personal hygiene, please describe it in the Medical History Hygiene field.
-
-Please provide as much detail as possible in each field, and if you are unsure about any of the questions, please ask your therapist for guidance.
-</thinking>
-
 # Reiki Consent Form - Help Guide
 ## Purpose
 

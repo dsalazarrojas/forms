@@ -1,5 +1,3 @@
-<thinking>This form is used to collect information from clients or patients for therapy sessions. It is an informed consent form, which means it is used to inform clients/patients about the purpose and risks of the therapy sessions and to obtain their consent before starting treatment. This form should not be used as a template for other purposes, such as medical records or insurance claims. Please ensure that you have reviewed the form carefully and that the client/patient has understood and signed it before proceeding with the therapy sessions.</thinking>
-
 # Therapy Informed Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from clients or patients for therapy sessions.

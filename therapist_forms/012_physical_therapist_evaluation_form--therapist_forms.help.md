@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to be used by patients to evaluate their experiences with a physical therapist. This form will help to gather feedback and ratings from patients about their interactions with the therapist, which can be used by the therapist to improve their services.
-The form should only be used for patients who have received treatment from the physical therapist. If the form is being used for other purposes, such as for a new patient intake, it should not include the "Patient Comments" and "Therapist Comments" sections.
-It is essential to fill out the form accurately and thoroughly to ensure that the feedback is useful for the physical therapist to improve their skills and services.
-</thinking>
-
 # Physical Therapist Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings from patients about their experiences with a physical therapist. It helps the therapist to improve their services.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to track a contractor's weekly work hours, tasks, and progress towards goals. It is designed to be completed by the contractor on a weekly basis, providing an overview of their work activities, time spent on tasks, and any challenges or issues faced during the week. It also serves as a means of communication between the contractor and their supervisor, allowing them to stay informed about the contractor's performance and progress.
-To ensure consistency and accuracy, it is recommended that the form be completed by the contractor each week, ideally at the end of the week or on the following Monday. This will help in maintaining a regular and uniform record of their work activities and progress.
-This form is not meant to be duplicated, and any information entered should be unique to the current week's activities. Please ensure that you do not reuse or duplicate entries from previous weeks.
-</thinking>
-
 # Contractor Weekly Accountability Sheet - Help Guide
 ## Purpose
 The Contractor Weekly Accountability Sheet is a form used to track a contractor's work activities, hours, and progress towards goals on a weekly basis. It serves as a means of communication between the contractor and their supervisor, providing an overview of their work and any challenges or issues faced during the week.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # late_paperwork_submission_form - Help Guide
 
 ## Purpose

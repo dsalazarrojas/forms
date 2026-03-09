@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their health status, massage goals, massage preferences, and other relevant details for a coronavirus-related massage therapy session. This form ensures that therapists have a comprehensive understanding of the client's needs and requirements before proceeding with the massage therapy session.
-
-Before filling out this form, please ensure that you have not already filled out a similar form for the same purpose. This form is intended for individual use and should not be used for commercial or non-personal purposes. If you have any doubts or concerns, please reach out to the form administrator.
-
-</thinking>
-
 # Coronavirus Intake Form For Massage Therapy - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the coronavirus intake form for massage therapy.

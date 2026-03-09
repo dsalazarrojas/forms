@@ -1,7 +1,3 @@
-<thinking>
-We have a form named "Gap Analysis Form" that appears to be used for tracking performance gaps between current and future states or goals. The form asks users to input various metrics and goals for both present and future timeframes, including performance, actions taken, benefits achieved, and additional goals. The form might be used in project management, performance evaluation, or strategic planning contexts. It's essential to ensure that users fill out all required fields and understand the implications of their input.
-</thinking>
-
 # Gap Analysis Form - Help Guide
 ## Purpose
 The Gap Analysis Form is a tool used to identify and analyze gaps in performance between current and future states or goals.

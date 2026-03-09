@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "To Do Reminder" form, we must consider the form's purpose, which is to provide a simple and straightforward way to track tasks and their corresponding deadlines. This form is likely used to keep track of tasks, assign deadlines, and list multiple tasks for each submission. Before proceeding, verify that the form is relevant to your specific use case and that you're not duplicating efforts.
-</thinking>
-
 # To Do Reminder - Help Guide
 ## Purpose
 The "To Do Reminder" form is designed to help you track and organize tasks with their respective deadlines. It's a simple, user-friendly way to keep track of tasks and stay on top of your work.

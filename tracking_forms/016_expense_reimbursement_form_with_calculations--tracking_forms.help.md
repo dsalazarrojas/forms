@@ -1,22 +1,3 @@
-<thinking>
-This form is used to track and record expenses incurred during travel, allowing managers to keep track of expenses, reimbursement amounts, and approval status. The form will help streamline the reimbursement process by providing a standardized template for users to report their expenses and receive reimbursement.
-
-The form will have the following fields:
-- **Expense Details**: A text field for users to describe their expenses.
-- **Date of Travel**: A date field for users to record the date of their travel.
-- **Total Expenses**: A numeric field for users to enter the total amount of expenses incurred.
-- **Reimbursable Expenses**: A multi-select field with options "Yes" and "No" to determine if the expenses are reimbursable.
-- **Reimbursement Amount**: A numeric field for managers to enter the amount to be reimbursed.
-- **Approval Status**: A single-select field with options "Active" and "Inactive" to indicate the current approval status.
-- **Manager Name**: A text field for the manager to enter their name.
-- **Department**: A text field for the user to enter their department.
-- **Approval Date**: A date field for the manager to record the approval date.
-- **Manager Notes**: A text field for the manager to add any additional notes.
-
-This form is designed to be completed by travelers and managers, ensuring that all necessary information is captured and recorded for easy tracking and reference.
-
-</thinking>
-
 # expense_reimbursement_form_with_calculations - Help Guide
 ## Purpose
 The purpose of this form is to track and record expenses incurred during travel, allowing managers to keep track of expenses, reimbursement amounts, and approval status.

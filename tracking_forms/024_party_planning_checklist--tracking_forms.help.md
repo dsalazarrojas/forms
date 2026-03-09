@@ -1,8 +1,3 @@
-<thinking>
-This is a form that is likely used to track and plan details for parties or social events. It is used by party planners and hosts to gather important information for events. This form might be used for internal purposes only, as it is likely that the information collected here will not be shared publicly. This form might duplicate other forms or systems, or it might be one of several forms used for party planning. However, it serves a distinct purpose that is not immediately apparent without knowing the context in which it is used. The form is likely part of a larger system or process, and its use might be specific to a certain group or organization. It's worth noting that the form has a mix of simple text fields and more specific fields like select and date fields. The form also has a few specific fields for planning and hosting a party, such as invitations, guest list, and decorations. Overall, this form is focused on collecting information to help with the organization and planning of a party, and is likely part of a workflow for managing social events. To be certain of this form's purpose and use, further investigation and clarification would be needed. However, based on its structure and fields, it is likely to be used by party planners and hosts to gather necessary information for events.
-
-</thinking>
-
 # Party Planning Checklist - Help Guide
 
 ## Purpose

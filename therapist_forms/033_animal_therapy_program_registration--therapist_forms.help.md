@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for individuals to register for an animal therapy program. It collects personal and health information, goals and preferences, and consent and emergency contact details. The form is meant to be completed by participants who wish to enroll in the program. To ensure accurate and complete registration, please review each field carefully and provide the requested information. Please note that some fields are optional, but all required fields must be filled out in order to proceed with the registration process. Before starting, verify that you have not previously registered for the program and that you have the necessary permissions and consents to proceed. If you have any questions or concerns, please reach out to our support team.</thinking>
-
 # Animal Therapy Program Registration - Help Guide
 ## Purpose
 The Animal Therapy Program Registration form is designed to collect necessary information from individuals who wish to enroll in the program. This form is required to be completed by all participants to ensure a smooth registration process.

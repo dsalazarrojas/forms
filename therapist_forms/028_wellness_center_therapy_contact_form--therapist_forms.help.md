@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential clients or patients who are interested in seeking therapy services at the Wellness Center. This form is designed to be completed by individuals who want to inquire about treatment options, schedules, and availability. The form will help the Wellness Center's staff to understand the client's needs and preferences, and to provide personalized guidance and support. This form is not intended to be a commitment or agreement, but rather a means of initiating contact and exploring potential opportunities for treatment. 
-</thinking>
-
 # Wellness Center Therapy Contact Form - Help Guide
 ## Purpose
 The Wellness Center Therapy Contact Form is a tool used to gather information from potential clients or patients who are interested in seeking therapy services. This form helps the staff of the Wellness Center to understand the client's needs and preferences.

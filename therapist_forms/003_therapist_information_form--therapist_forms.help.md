@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from therapists for internal use in a specific system. It should only be completed by authorized personnel. The form will not be visible to the public. Please note that the fields are not required and are optional by design. This form may be used for various purposes such as therapist registration, verification, or other administrative tasks.
-</thinking>
-
 # Therapist Information Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track fuel tank information, which is used to monitor and manage fuel levels, last updated times, and associated personnel information. This form is likely used in the context of fuel management, possibly in industries such as aviation, marine, or energy production. The form should be filled out for each fuel tank, providing a unique tank ID, tank name, current fuel level, last updated date, who last updated the information, and any additional notes. This form should not be used for other purposes, such as creating new fuel tanks.
-</thinking>
-
 # fuel_tank_tracker_form - Help Guide
 ## Purpose
 This form is used to track fuel tank information, including tank ID, name, fuel level, last updated date, last updated by, and any additional notes.

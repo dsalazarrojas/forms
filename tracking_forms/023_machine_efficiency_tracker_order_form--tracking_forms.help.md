@@ -1,6 +1,3 @@
-<thinking>
-We need to determine the purpose and relevance of this form. Based on the YAML schema, the form is likely used for tracking orders of machine monitoring tools. The form has fields for machine monitoring tool ID, name, email, phone number, description, tool type, tool model, serial number, order date, and order time. These fields suggest that the form is used for capturing information about machine orders, possibly for inventory management or customer service purposes.</thinking>
-
 # Machine Efficiency Tracker Order Form - Help Guide
 ## Purpose
 The Machine Efficiency Tracker Order Form is used to capture information about orders of machine monitoring tools. This form is designed to help you track the details of the tools being ordered, including the tool's ID, name, and model.

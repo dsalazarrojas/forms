@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is designed to track a user's workflow and productivity during Pomodoro sessions. It is used to record and analyze individual session data, including start and end times, work done, focused and break time spent, and session frequency. This form is not meant to be used for time tracking across multiple sessions, but rather for individual session analysis. Users may fill out this form multiple times, and each submission is a single instance of a session.
-
-</thinking>
-
 # Pomodoro Timer Workflow Tracker - Help Guide
 
 ## Purpose

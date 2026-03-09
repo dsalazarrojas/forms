@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ad Viewing Activity Log Form - Help Guide
 
 ## Purpose

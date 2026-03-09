@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Assignment Completion Check Form - Help Guide
 
 ## Purpose

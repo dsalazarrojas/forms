@@ -1,18 +1,3 @@
-<thinking>
-
-This form appears to be designed for referring patients for therapeutic support. The form is likely used in a healthcare setting to gather information about a patient's treatment and care needs. To confirm, let's review the form fields:
-
-- Patient Information (page 2) suggests that the form is used to collect demographic data about the patient.
-- Referral Reason (page 3) indicates that the form is used to determine why the patient is being referred for therapeutic support.
-- Therapeutic Services Required (page 4) implies that the form is used to identify the type of support the patient needs.
-- The various "select_multiple" fields, such as Patient Care Team (page 7) and Social Worker (page 9), suggest that the form is used to determine the patient's care team and support network.
-- The "date" and "time" fields, such as Date of Service Request (page 16) and Time of Service Request (page 17), suggest that the form is used to schedule appointments and services.
-- The "text" fields, such as Service Requested (page 24) and Additional Comments (page 25), suggest that the form is used to gather more detailed information about the patient's needs and circumstances.
-
-To confirm, this form is used to gather information about a patient's treatment and care needs, particularly for therapeutic support services.
-
-</thinking>
-
 # Therapeutic Support Referral Form - Help Guide
 ## Purpose
 This form is used to gather information about a patient's treatment and care needs for therapeutic support services. It helps healthcare professionals determine the type and level of support required.

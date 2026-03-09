@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be related to requesting a quantity of tickets, likely for printing or production purposes. It's probably used by staff members to request a specific quantity of tickets with certain characteristics, such as type and color. Before proceeding, please ensure you have not submitted a similar request recently and that you have the necessary authorization to make this request.
-</thinking>
-
 # Ticket Printing Quantity Request Form - Help Guide
 ## Purpose
 This form is designed to request a quantity of tickets for printing or production purposes.

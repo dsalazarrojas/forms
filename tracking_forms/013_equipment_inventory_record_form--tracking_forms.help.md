@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to create or edit a record for an equipment item in the company's inventory. To ensure that you are filling out the correct type of form, please verify that you are in the correct context and that you have the necessary permissions to access this form. 
-
-Note: This form is designed to be filled out in conjunction with other relevant forms and systems within the company.
-
-</thinking>
-
 # equipment_inventory_record_form - Help Guide
 ## Purpose
 The equipment_inventory_record_form is used to create or edit a record for an equipment item in the company's inventory. This form captures key information about the equipment, including asset details, purchase and maintenance history, and warranty information.

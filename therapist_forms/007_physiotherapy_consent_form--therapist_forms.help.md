@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for capturing patient consent for physiotherapy treatment. It appears to be a comprehensive form that covers various aspects of physiotherapy, including patient interest, contact details, consent dates and times, and other relevant information. However, I will verify the form's relevance and uniqueness in the context of physiotherapy consent forms.
-Please note that the form has some optional fields that seem to be redundant, such as "physiotherapy consent physiotherapist" and "physiotherapy consent physio", which do not provide much value. I will remove those fields from the final guide.
-</thinking>
-
 # Physiotherapy Consent Form - Help Guide
 ## Purpose
 This form is designed to capture the necessary information from a patient for physiotherapy treatment, ensuring they have provided informed consent.

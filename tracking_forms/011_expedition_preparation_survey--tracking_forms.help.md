@@ -1,11 +1,3 @@
-<thinking>
-Please note that this form is designed for tracking participant experiences and preparation for expeditions. Its purpose is to collect information about the participant's health, emergency contacts, and any allergies they may have. This form is intended for individuals who will be participating in expeditions, such as researchers, explorers, or adventurers. The form is not designed to be a comprehensive medical form, but rather a brief survey to help the participant prepare for their expedition.
-
-This form appears to be a repetitive and redundant design, with multiple fields having similar labels and purposes. It is possible that some of these fields could be combined or removed to improve user experience and reduce redundancy.
-
-Please provide feedback if you'd like me to review and adjust this form further.
-</thinking>
-
 # Expedition Preparation Survey - Help Guide
 ## Purpose
 The Expedition Preparation Survey is a form designed to collect information from participants about their experiences and preparations for expeditions.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a music inventory record, such as its location, owner, and status. This form is intended for internal use within an organization that manages music inventories. To ensure that the form is completed correctly, please make sure to follow these guidelines:
-- Each page of the form corresponds to a specific part of the music inventory record.
-- The form can be completed in multiple pages, with each page providing additional information about the music inventory record.
-- Each field on the form is optional, but please complete all fields that are relevant to your specific music inventory record.
-- If you need to report multiple music inventory records, you can save this form and complete it multiple times.
-</thinking>
-
 # music_inventory_information_record_form - Help Guide
 ## Purpose
 This form is used to record music inventory information for internal management and tracking purposes.

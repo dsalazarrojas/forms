@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to navigation incidents or events that occurred during a navigation process, such as records, events, incidents, observations, and supporting evidence. This form is designed to be used by staff members to document and track navigation records and evidence in a standardized and efficient manner. Before filling out this form, please ensure that you have not already documented this navigation record and that it is not a duplicate entry.
-
-</thinking>
-
 # Navigation Records And Evidence Form - Help Guide
 ## Purpose
 The Navigation Records And Evidence Form is used to collect information related to navigation incidents or events that occurred during a navigation process.

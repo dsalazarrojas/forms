@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, I need to create a user-facing help guide for the Vendor Reference Check Form. This form appears to be part of a process for assessing and verifying information about a vendor, likely for a business or procurement context. It seems the form is designed to collect various contact and company details, as well as references from relevant individuals or companies. I will create a clear and concise guide that explains the purpose, completion process, and individual field explanations for each page and field. The goal is to help end-users understand the importance of each piece of information and ensure accurate and efficient completion of the form.
-
-</thinking>
-
 # Vendor Reference Check Form - Help Guide
 ## Purpose
 This form is used to gather information about a vendor for reference checks. This process is part of our business's vetting process for vendors we consider partnering with or working with. It helps us assess a vendor's contact details, company information, and references to ensure we're making informed decisions.

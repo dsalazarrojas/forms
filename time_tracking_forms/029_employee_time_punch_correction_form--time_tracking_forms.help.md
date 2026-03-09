@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Time Punch Correction Form - Help Guide
 ## Purpose
 This form is used to correct an employee's time punches. Time punches are recorded during an employee's workday to track their work hours. This form allows employees to correct any errors or discrepancies in their punches, ensuring accuracy in their recorded time.

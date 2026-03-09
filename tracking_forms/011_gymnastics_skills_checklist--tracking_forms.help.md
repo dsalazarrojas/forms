@@ -1,13 +1,3 @@
-<thinking>
-The Gymnastics Skills Checklist form is designed to help coaches, instructors, or evaluators assess the skills and abilities of a gymnast in a specific area, such as vaulting, uneven bars, balance beam, or floor exercise. This form is typically used for assessment and evaluation purposes, and it's essential to ensure that the gymnast has mastered the skills required for their level of competition or training.
-
-To confirm that this form is not being used for any other purpose than its intended use, please verify that the gymnast's name, date, and ID number are correctly filled in, and that the skills listed are relevant to the gymnast's specific competition or training level.
-
-The form is designed to be completed by someone familiar with the gymnast's skills and abilities, such as a coach, instructor, or evaluator. The assessment is based on the gymnast's current level of proficiency in each skill, using a 5-level scale: None, Basic, Proficient, Advanced, and Mastered.
-
-The assessment will help determine the gymnast's progress, strengths, and areas for improvement, which can inform coaching, training plans, and future competition strategies.
-</thinking>
-
 # Gymnastics Skills Checklist - Help Guide
 ## Purpose
 The Gymnastics Skills Checklist is a form used to assess and evaluate a gymnast's skills and abilities in various areas of the sport. It is designed to help coaches, instructors, or evaluators to evaluate a gymnast's current level of proficiency in each skill.

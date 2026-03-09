@@ -1,18 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the "personal_graduation_planning_form" form. The form is used for tracking personal graduation planning and requires users to provide information about their graduation date, expected major, graduation location, graduation type, graduation status, and other relevant details. 
-
-To ensure accurate and complete information, please ensure that you have the necessary data before proceeding with the form. 
-
-This form has been designed to be completed by one person per submission. If you are representing multiple individuals, please create a separate form for each person. 
-
-Before starting, please note that some fields are required, while others are optional. 
-
-Please ensure you have the necessary permissions to access the form's features and data. 
-
-Please review the fields below carefully and complete the form accurately. 
-
-</thinking>
-
 # personal_graduation_planning_form - Help Guide
 ## Purpose
 The "personal_graduation_planning_form" is used for tracking personal graduation planning information. This form captures details such as graduation date, expected major, graduation location, and more.

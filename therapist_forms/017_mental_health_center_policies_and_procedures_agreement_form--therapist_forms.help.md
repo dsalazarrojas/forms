@@ -1,7 +1,3 @@
-<thinking> 
-  This form is designed to be completed by patients to acknowledge and agree to the mental health center's policies and procedures. It is essential for patients to understand and consent to these policies before proceeding with treatment. Completing this form will help ensure that patients are aware of and have agreed to the center's expectations and guidelines. Please ensure that you are only completing this form for a valid reason and not duplicating efforts. 
-  </thinking>
-
 # Mental Health Center Policies And Procedures Agreement Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for tracking and documenting aviation training and flight testing safety data. It is essential to ensure that pilots and instructors adhere to safety protocols and procedures during and after flights. Please fill out the form accurately to help maintain accurate and reliable records. This form must be completed for each flight, and all required fields must be filled out. If any field is left blank, it may lead to errors or duplication of records.
-</thinking>
-
 # Aviation Training And Flight Testing Safety Form - Help Guide
 ## Purpose
 This form is designed to track and document safety data for aviation training and flight testing operations. It ensures that pilots and instructors follow established safety protocols, and the collected data helps in maintaining accurate and reliable records.

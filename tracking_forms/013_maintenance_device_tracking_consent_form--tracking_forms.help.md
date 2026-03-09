@@ -1,12 +1,3 @@
-<thinking>
-This form is used to track user's preferences for maintenance devices, such as how often they want to be tracked, the method of tracking, and which devices they are willing to track. This form is designed to be completed by users, and the information gathered will be used to provide personalized tracking experiences.
-
-The form is split into several sections, each with its own set of questions. The user can choose to submit the form when completed, and their email address is required for contact.
-
-This form is not meant to be a one-time use form, but rather a recurring form that will be filled out periodically to update the user's preferences. The information gathered will be used to provide ongoing support and maintenance for the user's devices.
-
-</thinking>
-
 # Maintenance Device Tracking Consent Form - Help Guide
 ## Purpose
 This form is used to track user's preferences for maintenance devices, such as how often they want to be tracked, the method of tracking, and which devices they are willing to track.

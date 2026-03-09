@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track and report bugs or issues encountered during testing of applications or software. This form is used to gather relevant information about the bug, including the tester's name, contact email, the application being tested, and details about the bug itself. The form also allows the tester to specify the severity and priority of the bug, as well as its current status. This form will help ensure that all necessary information is collected in a structured and consistent manner, making it easier to track and manage bugs throughout the testing process.
-</thinking>
-
 # Bug Tracking Form - Help Guide
 ## Purpose
 The Bug Tracking Form is a tool used to gather and record information about bugs or issues encountered during testing of applications or software.

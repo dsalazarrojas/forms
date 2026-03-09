@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who are interested in booking a tour at a brewery. The form is designed to gather details about the user's group, including their name, contact information, and tour preferences. This information will be used to schedule a tour that meets the group's needs and interests. The form should only be filled out once for each tour inquiry. 
-</thinking>
-
 # Brewery Tour Inquiry Contact Form - Help Guide
 ## Purpose
 This form is used to book a tour at a brewery. Please fill it out to provide the necessary information for us to schedule a tour that suits your needs.

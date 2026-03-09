@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that you complete the Security Shift Checklist form accurately, let's first understand its purpose. The form is designed to gather information about security personnel on a shift and any incidents that may have occurred during that time. 
-
-The form is not intended for use by personnel on their first day or for training purposes. It's meant for more experienced individuals who can provide detailed and accurate information. This form is meant to be used in conjunction with other procedures, and its answers will be reviewed and used to identify areas for improvement.
-
-Before starting, ensure that you're familiar with the procedures and that this form is not being used for the same purpose as other forms. If you're unsure, please consult your supervisor or the relevant procedures.
-
-</thinking>
-
 # Security Shift Checklist - Help Guide
 ## Purpose
 The Security Shift Checklist is a form used to document the details of a security shift, including the security personnel on shift and any incidents that occurred. 

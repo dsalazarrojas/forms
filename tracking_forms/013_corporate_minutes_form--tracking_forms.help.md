@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect corporate meeting-related data. To determine if it's suitable for your needs, ensure:
-* You are authorized to access meeting minutes.
-* Your organization has a meeting schedule.
-* This form doesn't conflict with existing meeting protocols or tools.
-
-</thinking>
-
 # Corporate Minutes Form - Help Guide
 ## Purpose
 The Corporate Minutes Form is used to document and track corporate meetings. It helps in organizing and storing meeting-related information, such as meeting dates, types, attendees, locations, agendas, action items, and next meeting dates.

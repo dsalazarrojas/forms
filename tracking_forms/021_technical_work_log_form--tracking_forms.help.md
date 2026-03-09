@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Technical Work Log Form - Help Guide
 
 ## Purpose

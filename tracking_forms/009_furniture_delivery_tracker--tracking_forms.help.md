@@ -1,9 +1,3 @@
-<thinking>
-
-The form "Furniture Delivery Tracker" is intended to track the status of furniture deliveries, including the delivery date, store confirmation, and delivery confirmation. This form is used to provide an overview of the delivery status in a concise manner. The form's fields are designed to be simple and easy to understand, making it accessible to a wide range of users.
-
-</thinking>
-
 # Furniture Delivery Tracker - Help Guide
 ## Purpose
 The Furniture Delivery Tracker form helps you track the status of furniture deliveries. It allows you to input key information about each delivery, including the delivery date, store confirmation, and delivery confirmation.

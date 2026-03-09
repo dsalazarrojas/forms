@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Email Campaign Plan Form Template - Help Guide
 
 ## Purpose

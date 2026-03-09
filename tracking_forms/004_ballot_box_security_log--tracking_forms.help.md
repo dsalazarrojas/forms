@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is designed to assist users in understanding the Ballot Box Security Log form and its purpose. This form is used for tracking and recording security checks, inspections, and incidents related to ballot boxes. Each field is carefully designed to capture relevant information for ensuring the integrity and security of the ballot box.
-
-To start, ensure that the form is filled out for the correct purpose and not duplicated. This form is intended for recording security checks, inspections, and incidents related to ballot boxes, and should only be used for this specific purpose.
-
-</thinking>
-
 # Ballot Box Security Log - Help Guide
 ## Purpose
 The Ballot Box Security Log is a form designed for tracking and recording security checks, inspections, and incidents related to ballot boxes. It helps ensure the integrity and security of the ballot box by capturing relevant information about the location and equipment details, seal verification, chain of custody, and any security incidents or discrepancies that may occur.

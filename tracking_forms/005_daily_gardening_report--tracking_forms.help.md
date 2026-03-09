@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect daily gardening report data from users. The form is meant to be completed by gardeners to provide information about their daily activities, plant health, and site conditions. This form will help the gardeners track their progress and provide valuable insights for garden management and decision-making. Please ensure that each field is filled in accurately and thoroughly, as it will help us better understand your gardening activities and make informed decisions. 
-</thinking>
-
 # Daily Gardening Report - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your daily gardening activities, plant health, and site conditions. This will help us track your progress and provide valuable insights for garden management and decision-making.

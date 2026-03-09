@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for tracking waste shipments, allowing users to log and manage information about incoming and outgoing shipments. The form is likely used for logistics and inventory management purposes within a business or organization. It's essential to ensure the form is completed accurately to maintain accurate records and facilitate efficient shipping operations.
-
-Before proceeding, please review the form carefully to avoid duplication or unnecessary entries. Ensure you understand the required fields and the purpose of each section.
-</thinking>
-
 # waste_manifest_tracker_form - Help Guide
 ## Purpose
 The waste manifest tracker form is used to log and manage information about waste shipments, including shipment details, tracking numbers, and status updates.

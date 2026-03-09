@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gather essential information for project planning and tracking. It appears to be a basic project management form used to collect metadata about a project, including its status, manager, team members, and submission details. This form is likely used in an internal or team-based environment. It's possible that this form is part of a larger project management system or workflow. The fields provided suggest a need for basic tracking and reporting of project progress, milestones, and personnel involved. Please confirm or deny this interpretation before proceeding. 
-</thinking>
 # Project Planning Form - Help Guide
 ## Purpose
 This form is used to collect and track information for project planning and management.

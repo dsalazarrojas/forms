@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Container Loading Track Form - Help Guide
 
 ## Purpose

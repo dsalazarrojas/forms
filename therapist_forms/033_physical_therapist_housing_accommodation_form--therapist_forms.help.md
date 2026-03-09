@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the user understands the purpose and requirements of the form before proceeding. This form is designed to collect information about a physical therapist's housing accommodation for a patient. It will be used to record the accommodation details, including accommodation type, duration, start and end dates, and other relevant information. Please ensure that you have the necessary permissions and authority to complete this form, and that the information provided is accurate and up-to-date. If you are unsure about any of the fields, please refer to the help guide below.
-</thinking>
-
 # Physical Therapist Housing Accommodation Form - Help Guide
 ## Purpose
 This form is used to collect information about the housing accommodation for a physical therapist, including accommodation type, duration, start and end dates, and other relevant details.

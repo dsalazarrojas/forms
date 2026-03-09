@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to track family communication and interactions. It is intended to be used by caregivers or family members to record and report on conversations, decisions, and other important events that occur within the family unit. This form is meant to be completed by family members who are in close contact with the client or patient. The information collected will help healthcare professionals understand the family dynamics and provide better care.
 
 </thinking>

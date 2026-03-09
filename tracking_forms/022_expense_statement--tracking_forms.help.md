@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to track employee expenses, ensuring accuracy and completeness of submitted reports. This is a required field for employees to accurately report their expenses, which is essential for financial planning and analysis. Ensure that you have filled out all required fields and submitted the form accurately.
 
 # Expense Statement - Help Guide

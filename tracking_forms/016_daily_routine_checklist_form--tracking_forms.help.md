@@ -1,5 +1,3 @@
-<thinking>... This form is designed to track daily routines, including morning routines, afternoon activities, evening routines, and more. Its purpose is to provide a structured way to document tasks and schedules for users to maintain a consistent daily routine. This form is intended for personal use and is not intended for public sharing. It is recommended to complete this form daily to establish a long-term tracking habit... </thinking>
-
 # Daily Routine Checklist Form - Help Guide
 ## Purpose
 The Daily Routine Checklist Form is designed to help you track your daily routines, tasks, and schedules in a structured and organized way.

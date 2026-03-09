@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telehealth Physical Therapy Consent Form - Help Guide
 ## Purpose
 The Telehealth Physical Therapy Consent Form is a document that aims to gather essential information from patients before beginning telehealth physical therapy services. This form ensures that patients understand the terms and conditions of the treatment, including payment and confidentiality agreements.

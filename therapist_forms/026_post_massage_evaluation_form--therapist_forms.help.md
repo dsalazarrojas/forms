@@ -1,6 +1,3 @@
-<thinking>
-...the form is intended to gather feedback and evaluation from clients after a massage session, collecting information on their experience, areas touched, and other details to improve future massage sessions... this form will help therapists refine their skills and ensure client satisfaction... please ensure you only fill out this form after a completed massage session... do not fill it out if you've had multiple sessions recently, as this form will not reflect your full range of experiences...</thinking>
-
 # Post Massage Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation from clients after a massage session. Your input is essential in helping our therapists refine their skills and provide better services.

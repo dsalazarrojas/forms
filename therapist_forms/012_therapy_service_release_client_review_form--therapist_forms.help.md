@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for collecting client feedback and ratings from clients who have received therapy services. It seems to be used by therapists or therapy services to gauge the effectiveness of their work. The form likely aims to capture quantitative feedback, such as ratings, and qualitative feedback, including written testimonials and consent statements. It may also include fields for collecting contact information, such as email and phone numbers.
-
-Before filling out this form, make sure that you have not already provided a review and rating for this therapy service. If you have already submitted a review, please do not submit another one.
-
-</thinking>
-
 # Therapy Service Release & Client Review Form - Help Guide
 ## Purpose
 

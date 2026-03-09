@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey to collect information on departure and arrival times for a trip. The form is designed to be flexible and adaptable to different types of travel, allowing users to input their departure and arrival details in a way that feels natural and user-friendly. This form does not require a login or account creation, making it suitable for use in various contexts, such as event surveys, travel questionnaires, or any other scenario where data collection is essential. The form's purpose is to gather accurate and comprehensive data without duplication or redundancy. By using this form, users can provide clear and concise information about their departure and arrival times, travel methods, and other relevant details. This form is an original adaptation of public survey topic metadata and is released under CC BY 4.0, allowing free use, modification, and even sale of forms derived from it, as long as credit is given. Contact: form@gic.mx for more information.
-</thinking>
-
 # Departure Time Survey - Help Guide
 ## Purpose
 The Departure Time Survey is a form designed to collect information on departure and arrival times for a trip. It aims to gather accurate and comprehensive data in a user-friendly way, allowing users to input their details without requiring a login or account creation.

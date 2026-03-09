@@ -1,7 +1,3 @@
-<thinking>
-This form is a time-tracking form for cleaning staff to record their work hours for the week. It is used to track attendance, hours worked, and any breaks taken during the week. It is not applicable for non-paid time off like holidays or vacation. It's used to track work hours and not for other purposes. The form is intended for employees to report their working hours, breaks, and any time off taken.
-</thinking>
-
 # Cleaning Staff Weekly Time Sheet - Help Guide
 ## Purpose
 This form is used to record weekly working hours, attendance, and any breaks taken by cleaning staff.

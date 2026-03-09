@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect early bird subscription details from users. The form is intended to be completed by users who wish to sign up for a special early bird subscription offer. The purpose of this form is to gather necessary information from users, such as their personal details, event details, subscription details, and payment information, which will be used to finalize their early bird subscription.
-
-To confirm that this form is not a duplicate, it is recommended to check the system for any existing subscriptions with the same email address associated with the form submission. This will ensure that the user is not attempting to sign up for the early bird subscription with a duplicate email address, which could lead to account duplication and other technical issues.
-
-Before proceeding, ensure that you have the necessary permissions and approvals to complete this form on behalf of the user.
-</thinking>
-
 # early_bird_subscription_form - Help Guide
 ## Purpose
 The early_bird_subscription_form is designed to collect early bird subscription details from users.

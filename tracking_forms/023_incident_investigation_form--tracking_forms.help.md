@@ -1,5 +1,3 @@
-<thinking>This form is intended for tracking incidents that have occurred in a workplace or facility. The form will guide you through the collection of essential details about the incident, including the type, location, and description of the incident, as well as the status and any relevant comments or follow-up information. The form is designed to be completed by an incident reporter, and the information collected will be used to document and investigate the incident thoroughly. Please ensure that you have the necessary permissions to complete this form, and that the information you provide is accurate and complete.</thinking>
-
 # Incident Investigation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document information about incidents that have occurred in a workplace or facility.

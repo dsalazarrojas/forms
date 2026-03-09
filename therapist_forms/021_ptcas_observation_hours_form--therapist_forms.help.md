@@ -1,7 +1,3 @@
-<thinking>
-This guide provides an internal explanation for the form's purpose to help ensure that the form is being used correctly. The form is used to collect information about observation hours. This form is used to gather data on observation hours for a specific purpose. The form should only be used in the context of observation hours, and users should not be using it for any other purpose.
-</thinking>
-
 # ptcas_observation_hours_form - Help Guide
 ## Purpose
 The ptcas_observation_hours_form is a form used to collect information about observation hours for a specific purpose.

@@ -1,11 +1,3 @@
-<thinking>
-To create a help guide for the "product_inventory_information_record_form", I will first analyze the form's purpose and fields based on the provided YAML.
-
-The form is for collecting information about product inventory records. It appears to be a simple form for tracking products, including their IDs, names, quantities, and locations. The form has four fields: product_id, product_name, product_quantity, and product_location. The fields are not required, which means users can leave them blank, but it's likely that the form is intended to collect basic product information for inventory management purposes.
-
-Given this understanding, I will now create the help guide in Markdown format.
-</thinking>
-
 # product_inventory_information_record_form - Help Guide
 ## Purpose
 The "product_inventory_information_record_form" is a form for collecting basic information about products in your inventory. This includes tracking product IDs, names, quantities, and locations for easy management and reference.

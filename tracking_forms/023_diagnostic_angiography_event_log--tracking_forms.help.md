@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and document the events and procedures related to diagnostic angiography, a medical imaging procedure that uses X-rays and contrast dye to visualize the inside of blood vessels. The form is intended for medical professionals to log and review angiography events, including patient information, procedure details, image quality, and review status. This form should only be used for events that are relevant to diagnostic angiography, and should not be used for other medical procedures or events.
-</thinking>
-
 # Diagnostic Angiography Event Log - Help Guide
 ## Purpose
 This form is used to log and track events related to diagnostic angiography procedures, including patient information, procedure details, image quality, and review status.

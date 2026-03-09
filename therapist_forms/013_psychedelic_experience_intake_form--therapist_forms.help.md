@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a user's experiences with psychedelic substances. This form is designed to collect detailed descriptions of the user's experiences, including their feelings, visual, auditory, and emotional changes, as well as their social interactions and overall intensity. This form also asks about the user's last experience, including the duration, intensity, and frequency of use. The goal of this form is to provide a comprehensive understanding of the user's experiences and help therapists better understand their situation.
-</thinking>
-
 # Psychedelic Experience Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a user's experiences with psychedelic substances.

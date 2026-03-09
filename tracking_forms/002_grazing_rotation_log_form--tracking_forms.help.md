@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track user inputs, rotation details, and notes for grazing purposes. It is intended for users to provide information about their activities and interactions with animals. The form is not affiliated with or endorsed by any form platform, and it is released under a Creative Commons BY 4.0 license. You are free to use, modify, and even sell forms derived from this original adaptation.
-</thinking>
-
 # Grazing Rotation Log Form - Help Guide
 ## Purpose
 

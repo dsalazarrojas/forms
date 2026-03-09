@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information on social isolation, which is a measure of the extent to which an individual feels disconnected from others and lacks meaningful relationships. The Social Isolation Survey is used to assess an individual's level of social isolation and its impact on their physical and mental health. 
-
-This form is part of a larger assessment tool used to identify individuals who may be at risk for social isolation and provide support and interventions to help them establish and maintain relationships.
-
-Please note that this survey should not be used as a standalone diagnostic tool and should be used in conjunction with other assessments and professional evaluations.
-
-Also, please ensure that the survey is not filled out by someone who is experiencing a current crisis or emergency. If you are in crisis or need immediate support, please contact the National Crisis Text Line at 741-741 for help.
-
-</thinking>
-
 # Social Isolation Survey - Help Guide
 ## Purpose
 The Social Isolation Survey is a tool used to measure an individual's level of social isolation and its impact on their physical and mental health.

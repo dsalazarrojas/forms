@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for Valentine's Day party tickets. The form is used to gather details about the attendee's name, contact information, ticket preferences, and any special requests. The form will be used to process ticket orders and ensure a smooth event experience for all attendees. It is essential to ensure that this form is filled out accurately and completely to guarantee the correct tickets are assigned to the correct individuals. Please fill out this form carefully, and if you have any questions or concerns, don't hesitate to reach out to us.
-</thinking>
-
 # Valentines Day Party Ticket Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for Valentine's Day party tickets. The collected data will be used to process ticket orders and provide a smooth experience for all attendees.

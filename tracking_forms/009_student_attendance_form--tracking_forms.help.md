@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to inform end users about the Student Attendance Form, which is used to track student attendance. The form is meant to be completed by teachers or administrators to record student presence or absence on a particular date and time. Before proceeding, please ensure you are using this form to track attendance and not for other purposes.
-</thinking>
-
 # Student Attendance Form - Help Guide
 ## Purpose
 The Student Attendance Form is used to record student attendance on a particular date and time. This form is meant to be completed by teachers or administrators to track student presence or absence.

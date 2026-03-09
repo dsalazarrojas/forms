@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to create a log for tracking and monitoring an individual's writing sessions. This form will be used to capture relevant details about each writing session, including start and end times, dates, locations, and any additional notes or observations. To ensure that the data entered is accurate and consistent, users should follow the guidelines below for completing the form.
-
-</thinking>
-
 # My Writing Log: Track Your Writing - Help Guide
 ## Purpose
 The My Writing Log: Track Your Writing form is designed to help you monitor and track your writing sessions, providing a convenient and organized way to record and reflect on your progress, thoughts, and experiences.

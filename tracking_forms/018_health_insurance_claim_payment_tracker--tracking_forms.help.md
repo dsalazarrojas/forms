@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to track health insurance claims payments, providing a centralized platform for tracking claimant and patient information, payment status, and reimbursement details. 
-
-To determine relevance, this form is intended for health insurance companies to track payments related to claims, ensuring accurate and timely payment information. To prevent duplication, ensure that each claim ID is unique and not submitted multiple times.
-
-</thinking>
-
 # Health Insurance Claim Payment Tracker - Help Guide
 ## Purpose
 The Health Insurance Claim Payment Tracker form is designed to provide an overview of health insurance claims payments, including claimant and patient information, payment status, and reimbursement details.

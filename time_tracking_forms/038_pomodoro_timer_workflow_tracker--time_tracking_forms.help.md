@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track a user's Pomodoro timer sessions, which are time management technique where a user works for a set focus period, followed by a break of a predetermined length. The form is used to log and analyze individual sessions, providing a record of the user's productivity and time usage.
-</thinking>
-
 # pomodoro_timer_workflow_tracker - Help Guide
 ## Purpose
 This form is used to track and log individual Pomodoro timer sessions. It helps users to analyze their productivity and time management.

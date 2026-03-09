@@ -1,9 +1,3 @@
-<thinking> 
-  The "First Notice Of Loss Form" is a template for reporting a loss event. This form is likely used in an insurance context, where an individual reports a loss to their insurer or insurance company. It appears to gather detailed information about the loss event, including the date and time of the event, a description of what happened, the amount of the loss, and contact details for the insured and insurer.
-  Before filling out this form, please ensure that you are reporting a new loss event and not a previously reported one. This form is meant to be used for initial reports, and duplicate submissions may be considered unnecessary or even spam. If you are unsure, please contact your insurance representative or support team for clarification.
-  This form is designed to be completed by the insured or their representative, and the information provided will be used to initiate the claims process. Please ensure that all fields are completed accurately and thoroughly to facilitate a smooth and efficient process.
-</thinking>
-
 # First Notice Of Loss Form - Help Guide
 ## Purpose
 The "First Notice Of Loss Form" is a template for reporting a loss event to an insurance company or insurer. This form is used to gather information about the loss event, including date, time, location, and details about the insured and insurer.

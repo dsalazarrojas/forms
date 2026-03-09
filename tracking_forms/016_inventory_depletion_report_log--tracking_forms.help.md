@@ -1,11 +1,3 @@
-<thinking>
-This form is for logging inventory depletion reports for tracking purposes. 
-This form is used to document the details of a specific inventory depletion event, including the date of the event, the affected stock item, quantity depleted, reason, location, and any notes or assigned tools used in the process. 
-The form should be completed in cases where an inventory depletion occurs. 
-The form fields are designed to gather all relevant information about the event, making it easy to track and analyze inventory depletion trends. 
-This form does not require user authentication or login, making it easily accessible for anyone in the organization. 
-</thinking>
-
 # Inventory Depletion Report Log - Help Guide
 ## Purpose
 This form is used to log and track inventory depletion reports for the purpose of maintaining accurate inventory records and facilitating better decision-making.

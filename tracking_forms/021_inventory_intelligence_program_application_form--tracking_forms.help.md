@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users as part of the Inventory Intelligence Program. The form collects various details including the title of the program, name, email, phone number, date and time, note, multiple selections, single selection, decimal and integer fields, and two optional notes. The fields are a mix of text, date, time, select, and note fields, catering to different types of input required for the program.
-
-</thinking>
-
 # Inventory Intelligence Program Application Form - Help Guide
 
 ## Purpose

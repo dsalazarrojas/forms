@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "to_do_reminder", seems to be to gather information about task reminders. Given its structure, it's likely intended for users to set deadlines, select tasks, and provide notes related to those tasks. Before proceeding, let's assume this form will be used for users to create custom reminders for their tasks or projects. This form is not meant for duplicate entries or tracking progress, based on the provided YAML. It's essential to fill out this form correctly to ensure accurate tracking and reminders.
-</thinking>
-
 # to_do_reminder - Help Guide
 ## Purpose
 The "to_do_reminder" form is designed to help users set custom reminders for tasks or projects. It's a straightforward form for gathering essential information to create accurate and timely reminders.

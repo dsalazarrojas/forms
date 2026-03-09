@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Modification Cert - Help Guide
 
 ## Purpose

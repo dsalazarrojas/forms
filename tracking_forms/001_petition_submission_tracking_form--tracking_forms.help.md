@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're creating a help guide for the Petition Submission Tracking Form. This form is designed to track the progress and status of petitions submitted for review. 
 
 **Form Purpose:** The form is meant to gather information about the petition, its submission date, and the progress it has made through the review process. This data is crucial for tracking and monitoring the status of petitions, which helps in making informed decisions and taking appropriate actions.

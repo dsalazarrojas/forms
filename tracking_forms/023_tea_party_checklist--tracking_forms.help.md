@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to create a comprehensive checklist for a tea party, allowing users to input essential details such as guest list, food and beverages preferences, decorations, start and end times, venue, dress code, parking information, and more. This form will help the party host or organizer to track and manage all the necessary aspects of the tea party.
 
 To complete this form, follow these steps:

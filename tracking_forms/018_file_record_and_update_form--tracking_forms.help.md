@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and update file records, allowing users to input and manage various metadata associated with files. It seems to be a comprehensive form for file management, likely used in a workgroup or organizational setting where multiple users are involved in updating and tracking file versions. Before proceeding, please note that this form is not affiliated with any proprietary form platforms, and its purpose is to provide a generic solution for file record and update purposes. Ensure you understand the form's intent and the fields' explanations before proceeding to fill it out.
-</thinking>
-
 # File Record And Update Form - Help Guide
 ## Purpose
 This form is designed to track and update file records, allowing users to input and manage various metadata associated with files. It is likely used in a workgroup or organizational setting where multiple users are involved in updating and tracking file versions.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for therapists to obtain informed consent from patients before starting a hypnotherapy session. 
-This form is part of a standard clinical practice that ensures patients are aware of the therapy process, their rights, and the expectations. 
-Please ensure that the patient understands the content of this form before they sign it. 
-</thinking>
-
 # Hypnotherapy Informed Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from patients before starting a hypnotherapy session. It is a standard clinical practice that ensures patients are aware of the therapy process, their rights, and the expectations.

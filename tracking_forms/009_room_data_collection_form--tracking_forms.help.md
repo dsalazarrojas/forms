@@ -1,8 +1,3 @@
-<thinking>
-We need to determine the purpose and structure of this form to create a helpful user guide. From the provided YAML, it appears that this form is designed to collect data about a room, with various fields for different aspects of the room's properties. The form has multiple fields, including text fields for general information, dropdowns for specific attributes like features and status, and a note field for additional comments. We will break down each field and provide explanations for end-users to fill out the form correctly and efficiently.
-
-</thinking>
-
 # Room Data Collection Form - Help Guide
 ## Purpose
 The Room Data Collection Form is designed to gather information about a specific room, including its occupancy details, features, and status. This form helps to ensure that accurate and consistent data is collected and stored for reference.

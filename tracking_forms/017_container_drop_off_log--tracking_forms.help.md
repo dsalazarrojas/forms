@@ -1,27 +1,3 @@
-<thinking>
-This form is intended for tracking container drop-offs, which are likely shipments of goods or cargo. The purpose of this form is to record the details of each drop-off event, including the delivery information and the shipment details. This form should be used by staff members or drivers to log each container drop-off, ensuring accurate and up-to-date records.
-
-The form may be completed multiple times, with each entry representing a different drop-off event. It is essential to fill out each field accurately to maintain a clear and organized record.
-
-The following fields should be filled out with caution, as they are required:
-
-*   Container Identification Number
-*   Container Type
-*   Drop-off Date
-*   Drop-off Time
-*   Vehicle License Plate Number
-*   Driver Full Name
-*   Driver Phone Number
-*   Description of Contents
-*   Shipment Origin
-*   Recipient Full Name
-*   Recipient Phone Number
-*   Delivery Confirmed?
-
-Please review this form carefully, ensuring all required fields are filled out accurately and comprehensively. This guide will walk you through each field of the form to help you with this process.
-
-</thinking>
-
 # Container Drop Off Log - Help Guide
 
 ## Purpose

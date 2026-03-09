@@ -1,5 +1,3 @@
-<thinking>Before we can start, let's ensure that you're familiar with the purpose and process of this form. This form is designed to track car maintenance history, including essential information about the vehicle, service history, and details of work performed. Please review each field to understand what information is needed to complete the form accurately.</thinking>
-
 # Car Maintenance Log Form - Help Guide
 
 ## Purpose

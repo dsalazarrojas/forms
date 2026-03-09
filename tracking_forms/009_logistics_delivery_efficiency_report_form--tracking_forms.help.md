@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track the efficiency of delivery services by collecting information about the delivery route, driver, time, document delay, on-time delivery, document type, document status, and delivery status. This form aims to provide insights into the effectiveness of logistics operations. Before proceeding, check if you have any existing reports or forms that serve a similar purpose, as duplicating effort may not be necessary.
-</thinking>
-
 # Logistics Delivery Efficiency Report Form - Help Guide
 ## Purpose
 The Logistics Delivery Efficiency Report Form is designed to collect information about delivery services, aiming to provide insights into the effectiveness of logistics operations.

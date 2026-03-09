@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form's purpose is to assist field teams in conducting thorough assessments of outdoor equipment checks, ensuring that all necessary safety measures and equipment requirements are met before proceeding with activities. The form can be used in various settings, such as construction, manufacturing, or emergency response teams, to maintain equipment integrity and participant safety. 
 
 This form's design is based on the provided YAML metadata, which describes a simple form with five fields: participant information, participant details, equipment list, notes, and participant email. The form is not affiliated with any specific form platform and is an original adaptation for general use.

@@ -1,5 +1,3 @@
-<thinking>As a couples therapy intake form, this document aims to gather information about the relationship dynamics and experiences of clients who are seeking couples therapy. The goal is to provide a comprehensive understanding of the relationship status, history, and patterns that may be contributing to the client's current difficulties. This form should only be filled out by one partner in the relationship, typically the client who initiates the therapy sessions. Please fill out this form carefully and accurately, and if you have any questions or concerns, reach out to your therapist for clarification.</thinking>
-
 # Couples Therapy Intake Form - Help Guide
 
 ## Purpose

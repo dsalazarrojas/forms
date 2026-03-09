@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form is intended to capture the details of a season ticket order, including ticket quantity, payment type, billing address, phone number, email, and additional information. The purpose of the form is to streamline the ticket purchasing process for the end-user. To confirm relevance, we will use the fields to gather necessary information to process a season ticket order. To prevent duplication, we will verify the uniqueness of each form submission based on the input values. ...</thinking>
-
 # Season Ticket Order Form - Help Guide
 
 ## Purpose

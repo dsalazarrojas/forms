@@ -1,9 +1,3 @@
-<thinking>
-This form is used to track and maintain an inventory of personal properties, including items and their associated information. This form is designed to collect detailed information about each item, such as its name, description, value, location, and categories. The form also includes fields for insurance policy details and contact information. The purpose of this form is to ensure accurate and up-to-date records of personal properties, which can be useful for various purposes such as insurance claims, estate planning, and asset management.
-
-To avoid duplicating effort, please note that this form is intended for use by authorized personnel only. If you are not authorized to use this form, please do not proceed.
-</thinking>
-
 # personal_property_inventory_form - Help Guide
 ## Purpose
 This form is used to track and maintain an inventory of personal properties, including items and their associated information.

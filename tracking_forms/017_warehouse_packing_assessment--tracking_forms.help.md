@@ -1,5 +1,3 @@
-<thinking>Warehouse Packing Assessment forms are used to track the packing of warehouse shipments. This form is designed to gather information about the materials used, observations, compliance level, and other relevant details about the packing process. To ensure accurate and complete data, please make sure to fill out the form thoroughly and accurately. Note that this form is used to record information for the purpose of tracking and record-keeping, and the information collected will be used to improve the efficiency and quality of the packing process. Please review the following guide to understand how to complete the form correctly and what each field represents.</thinking>
-
 # Warehouse Packing Assessment - Help Guide
 ## Purpose
 The Warehouse Packing Assessment form is a tool used to track the packing of warehouse shipments, gathering information about materials used, observations, compliance level, and other relevant details.

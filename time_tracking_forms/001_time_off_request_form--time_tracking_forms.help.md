@@ -1,8 +1,3 @@
-<thinking>
-The Time Off Request Form is designed to gather information from employees for their requests for time off, which is a period of leave from work. This form ensures that the required information is provided, such as contact details, the start and end dates of the time off, and the time interval requested. It also allows employees to provide additional comments or reasons for their request.
-Before filling out this form, please check that you have not already submitted a time off request and that this is not a recurring or routine request.
-</thinking>
-
 # Time Off Request Form - Help Guide
 ## Purpose
 The Time Off Request Form is a tool used by employees to submit their time off requests, providing necessary details for processing and approval.

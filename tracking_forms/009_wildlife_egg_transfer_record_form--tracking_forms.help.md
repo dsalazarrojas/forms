@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wildlife Egg Transfer Record Form - Help Guide
 ## Purpose
 The Wildlife Egg Transfer Record Form is used to document the transfer of wildlife eggs between locations. This form helps track the date, location, and species of the eggs transferred, as well as any additional notes about the transfer.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for tracking and documenting agenda items for meetings or events. It is intended to be completed by the meeting chair or facilitator, and is used to record details about each agenda item, including its title, description, and associated tasks and deadlines. The form is designed to help ensure that all necessary information is captured and recorded for future reference.
-</thinking>
-
 # Agenda Item Details Form - Help Guide
 ## Purpose
 The Agenda Item Details Form is used to document and track agenda items for meetings or events.

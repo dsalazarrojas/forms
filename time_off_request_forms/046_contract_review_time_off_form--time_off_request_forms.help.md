@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contract Review Time Off Form - Help Guide
 ## Purpose
 The Contract Review Time Off Form is used for employees to request time off from work, allowing them to take breaks and recharge. This form is used by management to review and approve requests based on business needs and contracts.

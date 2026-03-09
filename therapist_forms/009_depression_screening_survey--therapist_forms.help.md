@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to screen for symptoms of depression and other feelings-related issues in patients. The purpose of this form is to gather information about the patient's emotional state and help identify potential areas of concern. This form is not intended to be a comprehensive diagnostic tool, but rather a preliminary assessment to aid in further evaluation and treatment. Please note that this form should not be used as a sole determinant for diagnosis or treatment decisions. It is meant to be used in conjunction with a comprehensive medical evaluation and treatment plan.
-
-Before completing this form, please note that it is designed to collect sensitive information. If you are experiencing any distress or discomfort while filling out this form, please seek support from a qualified mental health professional.
-
-Please answer the questions honestly, and remember that your responses will be kept confidential. If you have any questions or concerns, please don't hesitate to reach out to your healthcare provider.
-
-</thinking>
-
 # Depression Screening Survey - Help Guide
 ## Purpose
 This form is designed to help identify symptoms of depression and other feelings-related issues in patients. It is not intended to be a comprehensive diagnostic tool, but rather a preliminary assessment to aid in further evaluation and treatment.

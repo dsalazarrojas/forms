@@ -1,5 +1,3 @@
-<thinking>This form is used for submitting time-off requests for product managers. The form captures necessary information to process the request, including the manager's details, time-off dates, reason for leave, duration, type, and status. This form helps to ensure that time-off requests are processed efficiently and effectively. Before filling out this form, please check if you have already submitted a time-off request for the same period. This will help prevent duplicate requests and ensure that your request is processed in a timely manner.</thinking>
-
 # Product Manager Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used for submitting time-off requests for product managers to take a leave of absence.

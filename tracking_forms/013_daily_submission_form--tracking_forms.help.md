@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Submission Form - Help Guide
 
 ## Purpose

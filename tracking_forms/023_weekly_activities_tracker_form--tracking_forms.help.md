@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track weekly activities, allowing users to input progress and dates related to those activities. This form may be used by managers or team members to report progress, set goals, or track deadlines. It is likely to be used in a work-related context, such as in project management or team leadership.
- 
-</thinking>
-
 # weekly_activities_tracker_form - Help Guide
 ## Purpose
 This form is used to track weekly activities, progress, and deadlines. It allows users to report their work and set goals for the week.

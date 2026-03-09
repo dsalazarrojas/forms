@@ -1,9 +1,3 @@
-<thinking>
-Internal reason for this form: to allow employees to request time off early, without needing to fill out a full vacation request form. This form should be used when an employee wants to leave work early but is not planning to take the full day off. This helps the manager to approve or deny the request, ensuring that the employee is not abusing the system. Please ensure that you're not requesting time off for an extended period or without proper approval.
-
-Before filling out this form, please check that you don't already have a time off request in progress. If you do, please do not submit this form. Submitting multiple time off requests may lead to confusion and affect your work performance.
-</thinking>
-
 # Early Departure Time Off Form - Help Guide
 ## Purpose
 This form is for requesting to leave work early, without needing to fill out a full vacation request form. You can submit this form when you want to take a shorter break during the day.

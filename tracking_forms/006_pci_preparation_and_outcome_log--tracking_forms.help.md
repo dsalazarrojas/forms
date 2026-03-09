@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to record the preparation and outcome of a PCI (Payment Card Industry) procedure. The purpose of this form is to provide a clear and organized way to document the steps taken during the preparation phase and the details of the procedure, including the date and time it was performed, the time zone, the tool used, and whether the form was submitted by the user or not. This form is not meant to be a substitute for the actual PCI procedure, but rather a log of the events that occurred during the procedure.
-
-Before completing this form, ensure that you are filling out a new log entry and not duplicating an existing one. If you're unsure, check the "PCI Preparation And Outcome Log" database or consult with your supervisor.
-</thinking>
-
 # PCI Preparation And Outcome Log - Help Guide
 ## Purpose
 The PCI Preparation And Outcome Log is a form used to document the preparation and outcome of a PCI procedure.

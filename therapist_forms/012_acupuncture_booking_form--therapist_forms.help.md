@@ -1,23 +1,3 @@
-<thinking>
-This form is intended to gather information for booking an appointment at an acupuncture clinic. The purpose of this form is to collect the patient's contact details, select the type of acupuncture service they are interested in, and schedule a booking. The form will likely be filled out by patients seeking acupuncture services, and its completion is a necessary step in the booking process.
-
-The form will be used to collect the following information:
-
-*   Contact details (name, email, phone number)
-*   Selected acupuncture service
-*   Optional add-on services
-*   Requested booking date and time
-*   Clinic location
-*   Additional information about health concerns or goals
-*   List of current medications or supplements
-*   Information about pacemakers or metal implants
-*   Description of implants (if applicable)
-*   Preferred confirmation method
-
-The form will be used to book appointments for the selected services and communicate with the patient about their booking.
-
-</thinking>
-
 # Acupuncture Booking Form - Help Guide
 ## Purpose
 This form is used to book an appointment for acupuncture services at our clinic. It collects contact information, service selection, and scheduling details.

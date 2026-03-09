@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Free Raffle Ticket Number Generator - Help Guide
 
 ## Purpose

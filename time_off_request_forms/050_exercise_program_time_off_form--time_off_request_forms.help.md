@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request a time off from the exercise program, allowing employees to schedule a break from their physical activities. To prevent duplicate requests, the system will check for active and pending time off requests before processing a new request. 
-
-This form will be visible to the employee requesting the time off, and to the administrators who will review and approve or deny the request.
-
-</thinking>
-
 # Exercise Program Time Off Form - Help Guide
 
 ## Purpose

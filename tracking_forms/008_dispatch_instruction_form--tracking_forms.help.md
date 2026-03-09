@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's briefly review the Dispatch Instruction Form purpose. This form is designed to collect critical information from customers for successful delivery of services. To avoid duplication, ensure you haven't already submitted a form with the same customer information or delivery instructions. This form is intended for one-time submissions only. Please review and complete the form carefully.</thinking>
-
 # Dispatch Instruction Form - Help Guide
 ## Purpose
 

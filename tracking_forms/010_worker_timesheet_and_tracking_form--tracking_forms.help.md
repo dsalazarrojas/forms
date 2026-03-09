@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to track employee work hours and breaks. It is used to capture start and end times for clock-in/clock-out sessions, break times, and total hours worked. Employee information, such as name and contact details, is also captured.
-
-The form has multiple pages, each representing a single clock-in/clock-out session.
-
-The form is intended to be filled out by individual employees.
-
-This form is intended for internal use by employees, managers, and HR staff to track work hours and breaks.
-
-There may be multiple versions of this form, each for a different employee.
-
-</thinking>
-
 # Worker Timesheet And Tracking Form - Help Guide
 ## Purpose
 This form is used to track employee work hours and breaks for multiple sessions. It captures start and end times for clock-in/clock-out sessions, break times, and total hours worked. Employee information, such as name and contact details, is also captured.

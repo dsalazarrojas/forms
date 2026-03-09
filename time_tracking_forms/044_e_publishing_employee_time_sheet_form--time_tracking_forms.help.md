@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the E Publishing Employee Time Sheet Form is to track and report employee work hours, projects, and other relevant information. This form is used to capture data from employees on their work schedule, including start and end dates, work hours, and any comments or additional project notes. This form is essential for accurate time tracking, reporting, and project management within the organization.
-
-Before proceeding, please ensure that you have not filled out a similar form for the same period. Repeating the process can lead to data duplication and errors in reporting.
-
-Please note that the form is divided into different sections. The following guide will walk you through each section to help you complete the form efficiently.
-
-</thinking>
-
 # E Publishing Employee Time Sheet Form - Help Guide
 ## Purpose
 The E Publishing Employee Time Sheet Form is designed to track and report employee work hours, projects, and other relevant information.

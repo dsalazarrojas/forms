@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Before creating the form, ensure that you have reviewed your schedule and discussed your request with your team lead or manager to avoid conflicts or misunderstandings. Please fill out this form only if you have been granted approval to take time off. 
 
 ### Hourly Worker Time Off Form - Help Guide

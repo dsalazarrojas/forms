@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for therapists to collect information on a patient's OCD (Obsessive-Compulsive Disorder) symptoms, frequency, severity, and treatment goals. This form is intended to be completed by a patient during their therapy sessions. It is crucial to fill out this form accurately and thoroughly, as the information collected will help the therapist understand the patient's condition and develop an effective treatment plan.
-
-To prevent duplication and ensure consistency, please make sure to complete this form only once per therapy session.
-
-Before filling out this form, please note that each field is marked as "required" which means the field must be completed for the form submission to be valid. If a field is marked as optional, it is still encouraged to be filled out, but it is not mandatory.
-
-Please review each field carefully and provide accurate information to ensure the therapist receives a comprehensive understanding of the patient's condition.
-
-</thinking>
-
 # ocd_monitoring_form - Help Guide
 ## Purpose
 The OCD Monitoring Form is designed to collect information on a patient's Obsessive-Compulsive Disorder symptoms, frequency, severity, and treatment goals. This form is intended to be completed by a patient during their therapy sessions.

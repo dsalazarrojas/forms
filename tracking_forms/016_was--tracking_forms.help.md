@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "WAS" is designed to track the progress and comments of teams, allowing users to input team names, start dates for weeks, director comments, team comments, team name labels, and week numbers. The form is intended to be completed for each team and week. If a team is already being tracked in the form, the user will be prompted to confirm they want to add the new team. This form is part of a larger system, so please ensure to complete all required fields and use the correct format for each field.
 
 # WAS - Help Guide

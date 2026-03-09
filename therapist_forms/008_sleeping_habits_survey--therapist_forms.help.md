@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's sleeping habits. It consists of multiple pages with various questions and fields that gather data on different aspects of sleep, such as wake-up time, sleep duration, sleep environment, and sleep schedule. The form aims to understand an individual's sleep patterns and habits, which can be useful for research or personal improvement purposes.
-
-Before filling out this form, please ensure that you are filling it out for the correct purpose and that you are not duplicating your efforts. If you have already filled out this form previously, please do not fill it out again.
-
-This form is designed to be completed by individuals who are interested in tracking their sleep habits and patterns. It is not intended for commercial use or to be used as a diagnostic tool for medical professionals.
-
-Please note that this form is not a medical questionnaire, and any information collected from this form will not be used for medical diagnosis or treatment.
-
-If you have any questions or concerns, please do not hesitate to contact us.
-</thinking>
-
 # Sleeping Habits Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about an individual's sleeping habits and patterns.

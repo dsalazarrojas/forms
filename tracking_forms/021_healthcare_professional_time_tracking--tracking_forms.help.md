@@ -1,9 +1,3 @@
-<thinking>
-We need to check if this form is for tracking a healthcare professional's shifts, if it's not duplicate, and if the form has all the required fields.
-The form is for "Healthcare Professional Time Tracking" which should be used for tracking shifts by healthcare professionals such as doctors and nurses. 
-This form is likely unique as it has various fields such as "Staff Shifts", "Shift Start Time", "Role", "Units", "Activities", "Shift End Time", "Staff Name", "Shift Length" and "Unit" that are likely specific to the healthcare domain.
-</thinking>
-
 # Healthcare Professional Time Tracking - Help Guide
 ## Purpose
 This form is for tracking shifts worked by healthcare professionals such as doctors and nurses. It is used to record details about their shifts, including start and end times, roles, units, activities, and staff names.

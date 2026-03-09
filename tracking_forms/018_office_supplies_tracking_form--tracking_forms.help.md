@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track office supplies, allowing users to easily keep track of the type of supply, current stock, last replenish date, next replenish date, and replenishment status. This form will likely be used by office administrators or supply managers to monitor and manage office supplies effectively. To avoid duplication of data, this form should be used for a specific office or location, and all related records should be kept together.
-</thinking>
-
 # Office Supplies Tracking Form - Help Guide
 ## Purpose
 The Office Supplies Tracking Form is a tool used to monitor and manage office supplies. This form provides an overview of the current stock, supply type, replenishment status, and other relevant information to ensure efficient tracking and ordering of office supplies.

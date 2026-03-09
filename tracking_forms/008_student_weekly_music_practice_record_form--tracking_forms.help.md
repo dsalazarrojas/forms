@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the music practice of students. It should be used by students to report their practice habits, including how often they practice, on which instrument, for how long, and what difficulties they encounter. This form can be completed weekly to monitor progress and identify areas where students may need extra support. It is recommended to complete this form every week, ideally at the same time each week. Please ensure that you are not completing this form multiple times a week for the same week.
-</thinking>
-
 # student-weekly-music-practice-record-form - Help Guide
 ## Purpose
 This form is designed to track the music practice of students. It should be used by students to report their practice habits, including how often they practice, on which instrument, for how long, and what difficulties they encounter.

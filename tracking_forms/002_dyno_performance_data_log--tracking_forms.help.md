@@ -1,12 +1,3 @@
-<thinking>
-The Dyno Performance Data Log Form is used to track the performance data of a vehicle's dyno (a type of engine test bench). This form is likely used in a business setting, perhaps in a car dealership or a service center, where technicians need to record the details of dyno tests performed on various vehicles. The form may be part of a larger system for tracking and analyzing performance data.
-
-Before filling out the form, please ensure that you have all the necessary information and data ready for each field. This form is intended for a specific use case, so please only use it for this purpose to avoid duplication of effort or confusion.
-
-The form is divided into several sections, each with its own set of fields. Please follow the instructions for each field carefully to ensure accurate and complete data entry.
-
-</thinking>
-
 # Dyno Performance Data Log Form - Help Guide
 
 ## Purpose

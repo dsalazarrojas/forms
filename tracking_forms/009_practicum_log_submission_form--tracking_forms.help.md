@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and logic are as follows: The Practicum Log Submission Form is used for logging and reporting practicum activities, hours spent, and relevant details. It's designed to be completed by students and/or their supervisors to ensure accurate and consistent submission of practicum data. To prevent duplication, users must ensure that each submission is made only once per practicum session. This form will guide you on how to fill it out properly.
-</thinking>
-
 # Practicum Log Submission Form - Help Guide
 
 ## Purpose

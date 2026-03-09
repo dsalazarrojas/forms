@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? It's a form to gather information about travel agent income, likely for accounting or financial purposes. Is this form part of a larger set of forms or applications? It's not explicitly mentioned, so I'll assume it's a standalone form. Is this form already completed or will it be used to create new data?</thinking>
-
 # Travel Agent Income Form - Help Guide
 ## Purpose
 The Travel Agent Income Form is a tool for travel agents to report their income and expenses. This form helps to track and record income earned from different travel agencies, dates, and expense categories.

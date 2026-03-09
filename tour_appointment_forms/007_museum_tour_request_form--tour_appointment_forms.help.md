@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for museum staff to collect information from individuals or groups requesting a tour of the museum. The form helps staff track and process these requests efficiently. Before proceeding with this form, please ensure you have not submitted a similar request in the past 24 hours, as this form is intended for new inquiries.
-</thinking>
 # Museum Tour Request Form - Help Guide
 ## Purpose
 The Museum Tour Request Form is used to gather information from individuals or groups interested in taking a tour of the museum. It allows museum staff to track and process these requests, ensuring accurate and timely communication with the requesters.

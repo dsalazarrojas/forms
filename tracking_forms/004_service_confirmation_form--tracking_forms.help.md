@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Confirmation Form - Help Guide
 ## Purpose
 

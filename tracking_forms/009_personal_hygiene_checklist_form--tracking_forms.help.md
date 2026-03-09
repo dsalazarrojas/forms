@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # personal_hygiene_checklist_form - Help Guide
 ## Purpose
 

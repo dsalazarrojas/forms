@@ -1,6 +1,3 @@
-<thinking>
-This form is used for tracking session summaries, which are essential for monitoring and analyzing session attendance, duration, and content. It's crucial to ensure that the form is filled out accurately and consistently to provide reliable data for future decision-making and reporting. To avoid duplication, please use this form only for new sessions or updates to existing sessions. Ensure that each field is filled out correctly to maintain data quality and consistency.</thinking>
-
 # Session Summary Tracking Log Form - Help Guide
 ## Purpose
 The Session Summary Tracking Log Form is a tool used to track and monitor session-related information, including session dates, times, duration, attendees, topics, and notes.

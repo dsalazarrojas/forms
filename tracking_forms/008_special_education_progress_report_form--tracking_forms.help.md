@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Special Education Progress Report Form - Help Guide
 ## Purpose
 The Special Education Progress Report Form is designed to track the progress of special education students, providing a structured way to collect relevant information from students, teachers, and other staff members. This form helps to ensure that everyone involved in the student's education is on the same page and can work collaboratively to support the student's needs.

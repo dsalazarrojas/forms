@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document product data flow, which is a process that tracks the flow of data related to a product. This form is designed to collect information about the data source, data destination, data transfer method, data owner, data flow description, data flow frequency, and last update of the product data. This form is intended for internal use and should only be completed by authorized personnel.
-</thinking>
-
 # Product Data Flow Documentation - Help Guide
 ## Purpose
 This form is used to document the flow of data related to a product, including the source, destination, method, owner, and other relevant details.

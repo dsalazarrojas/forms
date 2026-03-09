@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their time off requests, including whether they have been approved or denied, and to track the status of these requests. The form should be filled out by the employee making the request, and will be reviewed and updated by their manager. This form is used for internal purposes only and should not be used for external communication. Please ensure that you are filling out this form for a legitimate reason and not for personal use.
-
-</thinking>
-
 # Day Off Request Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # retail_staff_maternity_leave_of_absence_form - Help Guide
 
 ## Purpose

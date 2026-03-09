@@ -1,9 +1,3 @@
-<thinking>
-We need to create a help guide for a form used to track coronavirus measures. This form appears to be used for logging symptoms, temperatures, and other relevant information about employees. It's possible this form is used for employee health monitoring or reporting within an organization. The purpose of this form is not explicitly stated in the YAML, so let's assume it's a checklist of coronavirus measures for employees.
-We should verify that the form is not intended to be used for other purposes, like patient tracking.
-We should also check for any redundant fields that may not need to be displayed in the help guide. For example, fields 14-17 seem to be duplicates of fields 2-5.
-</thinking>
-
 # coronavirus_measures_checklist - Help Guide
 ## Purpose
 This form is used to track employees' coronavirus measures, including symptom logs, temperatures, travel history, and other relevant information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to track and record the skills of preschool children, providing a comprehensive overview of their abilities and development. It is likely used by educators or caregivers to assess and monitor the progress of children in a preschool setting. This form should not be used for other purposes, such as general contact information or event scheduling.
-</thinking>
-
 # Preschool Skills Checklist Form - Help Guide
 ## Purpose
 The Preschool Skills Checklist Form is designed to track and record the skills of preschool children, providing a comprehensive overview of their abilities and development.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Intuitive Energy Treatment Consent Form - Help Guide
 
 ## Purpose

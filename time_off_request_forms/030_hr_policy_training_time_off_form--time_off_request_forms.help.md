@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the HR Policy Training Time Off Form, which is used to request time off for training purposes. This form is designed to facilitate the process of requesting time off for approved training programs or events. Please review the form carefully to ensure that you are requesting time off for a valid reason and to avoid duplication of requests.
 
 # HR Policy Training Time Off Form - Help Guide

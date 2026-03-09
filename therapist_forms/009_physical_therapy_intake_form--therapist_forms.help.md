@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for physical therapy settings, where patients can provide information about themselves to help the physical therapist understand their needs and conditions. This form is likely used to collect data for assessment and treatment planning purposes. Please ensure that the form is not duplicated or used for other purposes, and that sensitive information is handled appropriately.
-</thinking>
-
 # Physical Therapy Intake Form - Help Guide
 ## Purpose
 The Physical Therapy Intake Form is designed to collect information from patients about their personal and medical history, lifestyle, and other relevant details to help the physical therapist understand their needs and conditions.

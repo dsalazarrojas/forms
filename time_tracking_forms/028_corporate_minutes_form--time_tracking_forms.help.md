@@ -1,7 +1,3 @@
-<thinking>
-The Corporate Minutes Form is a form used to record and document the details of corporate meetings. It is intended to be filled out after a meeting to ensure that all relevant information is accurately captured and stored for future reference. This form should only be used to document meetings that have taken place, and not for planning or scheduling future meetings. Please ensure that you are filling out the correct type of form and not attempting to use it for other purposes. 
-</thinking>
-
 # Corporate Minutes Form - Help Guide
 ## Purpose
 The Corporate Minutes Form is a tool used to document the details of corporate meetings in a structured and organized way.

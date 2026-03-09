@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a tracking tool for morning setups and checklists, likely used to capture information and data from end-users. It may be used for quality control, process improvement, or other related purposes. It seems to be designed for users to provide information on various aspects of morning setups, including tasks, readiness, issues, and goals. However, without further clarification, it's uncertain whether this form is for tracking individual morning setups or for a team or organization.
-</thinking>
-
 # morning-setup-checklist - Help Guide
 ## Purpose
 This form is designed to collect information from users about their morning setups. The purpose of this form is to gather data on various aspects of morning setups, including tasks, readiness, issues, and goals.

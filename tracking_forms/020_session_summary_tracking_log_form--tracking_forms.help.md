@@ -1,5 +1,3 @@
-<thinking>... This form is designed to track sessions, and it appears that the purpose of this form is to collect information about a specific session, such as the date, start and end times, reported by field, and session notes. The form likely serves as a summary of the session, hence the name Session Summary Tracking Log Form. It's essential to ensure that the form is filled out accurately and consistently to maintain a precise record of the sessions. Before filling out this form, check that a similar session log does not already exist, to avoid duplication of effort and maintain data consistency.</thinking>
-
 # Session Summary Tracking Log Form - Help Guide
 ## Purpose
 The Session Summary Tracking Log Form is a tool used to record and summarize sessions, ensuring accurate and consistent data collection. This form is crucial for tracking sessions across different times and dates, allowing for efficient analysis and decision-making.

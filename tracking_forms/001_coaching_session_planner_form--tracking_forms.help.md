@@ -1,7 +1,3 @@
-<thinking>Before creating this guide, I need to clarify the purpose and requirements for the "Coaching Session Planner Form". This form is designed to collect information from clients for coaching sessions, ensuring that the coach is well-prepared for the meeting and can tailor the session to the client's needs. The form gathers details such as the client's name, email, phone number, and session date and time, as well as their objectives, areas of focus, and any necessary resources. It also helps coaches plan and schedule sessions effectively.
-
-Please ensure you are filling out this form for the correct purpose and not duplicating information that has already been collected. For instance, if you've had previous sessions with this client, please review the "previous_session_notes" field to avoid unnecessary repetition.</thinking>
-
 # Coaching Session Planner Form - Help Guide
 ## Purpose
 The Coaching Session Planner Form is a tool to help coaches prepare for coaching sessions with clients. It ensures that all necessary information is collected and that the coach is well-equipped to tailor the session to the client's needs.

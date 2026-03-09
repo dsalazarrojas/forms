@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a simple and easy-to-use interface for employees to clock in and out of work, track their work hours, and record their paid time. It is crucial to ensure that the form is filled out accurately, as it directly affects payroll and employee records. Before proceeding, please confirm that:
-- You are clocking in/out for work at the correct time.
-- You have not already submitted a clock in/out time for this period.
-- You are using this form in accordance with company policies and procedures.
-</thinking>
-
 # Paid Clock Time Form - Help Guide
 ## Purpose
 The Paid Clock Time Form is designed to help employees accurately track their paid time by recording clock in and out times and hours worked. This helps ensure accurate payroll and employee record keeping.

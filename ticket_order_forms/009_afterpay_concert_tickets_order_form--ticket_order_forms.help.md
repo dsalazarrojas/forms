@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to purchase concert tickets on an afterpay plan, allowing them to split the payment over several installments. The purpose of this form is to collect essential information from the customer, including their contact details, ticket preferences, and payment method. This form is designed to be completed by the customer, and the information collected will be used to process the ticket order and facilitate delivery.
-</thinking>
-
 # Afterpay Concert Tickets Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to purchase concert tickets on an afterpay plan. The form is meant to ensure that all necessary details are provided for successful ticket delivery and payment processing.

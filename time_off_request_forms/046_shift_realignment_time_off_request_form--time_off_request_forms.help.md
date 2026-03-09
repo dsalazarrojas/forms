@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request a shift realignment for employees. Shift realignment is when an employee is assigned to a different shift or work period. This form is typically used when an employee needs to adjust their schedule due to personal reasons or operational needs. 
-
-To ensure that this form is used correctly and in a timely manner, please note the following guidelines:
-- Use this form only for shift realignment requests.
-- Do not use this form for other types of time-off requests such as vacation, sick leave, or personal time off.
-- Complete the form as soon as possible to ensure that the request is processed in a timely manner.
-</thinking>
-
 # shift_realignment_time_off_request_form - Help Guide
 ## Purpose
 The shift realignment time-off request form is used to request a shift realignment for employees. This form is used to inform the manager of the request and to ensure that the necessary information is provided to process the request.

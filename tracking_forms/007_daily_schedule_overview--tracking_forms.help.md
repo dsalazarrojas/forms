@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for tracking daily schedules or meetings. The fields suggest it's meant to record details about a meeting or schedule, such as start and end times, duration, participants, and any additional notes. I'm assuming it's a form for administrative or operational use, possibly for planning or coordinating meetings within an organization. To avoid duplication, I will provide a guide that covers the essential information without going into too much depth.
-</thinking>
-
 # daily_schedule_overview_form - Help Guide
 ## Purpose
 This form is designed to gather information about daily schedules or meetings. It helps users track and record details about meetings, including start and end times, participants, and other relevant notes.

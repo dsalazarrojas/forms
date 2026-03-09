@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to track student behavior in different scenarios. It is intended to be used by teachers and staff to report on student actions, comments, and other notable events. The purpose of this form is to gather data that can help identify areas where students may need additional support or resources. It is a crucial tool for providing targeted interventions and ensuring a positive learning environment.
-
-Before completing this form, please ensure that you are filling it out for the correct student and that you are using it for its intended purpose. If you are unsure about which form to use or how to fill it out, please consult with your supervisor or contact the relevant department.
-
-</thinking>
-
 # Student Behavior Tracking Form - Help Guide
 ## Purpose
 The Student Behavior Tracking Form is a tool for teachers and staff to report on student behavior, actions, and comments. This form helps to gather data for identifying areas where students may need additional support or resources.

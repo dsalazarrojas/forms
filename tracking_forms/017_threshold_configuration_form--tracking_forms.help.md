@@ -1,5 +1,3 @@
-<thinking>**This form is for defining and configuring threshold settings for various metrics. It helps you determine when to trigger specific actions based on certain conditions. You need to select the conditions, threshold value, and methods to trigger notifications and actions when these conditions are met. Please ensure to fill out only the fields that apply to your scenario, and be mindful of the required fields, as they are necessary for the form to function properly.</thinking>
-
 # Threshold Configuration Form - Help Guide
 ## Purpose
 This form is for defining and configuring threshold settings for various metrics. It helps you determine when to trigger specific actions based on certain conditions.

@@ -1,9 +1,3 @@
-<thinking>
-This form is likely being used to gather information for in-person therapy sessions, such as client details, recent symptoms or exposures, and medical clearances. This form should be filled out by clients or their representatives prior to attending a therapy session. The form is not intended for general medical diagnosis or treatment.
-
-Before filling out this form, please ensure that you have not filled it out previously for this purpose. If you have any questions or concerns, please reach out to the therapy provider for clarification.
-</thinking>
-
 # In Person Therapy Safety Guidelines - Help Guide
 ## Purpose
 The In Person Therapy Safety Guidelines form is designed to gather essential information from clients prior to attending an in-person therapy session. This information helps the therapy provider to assess the client's safety and well-being, and to take necessary precautions to ensure a safe and effective session.

@@ -1,11 +1,3 @@
-<thinking>**Summer Intern Timesheet: Tracking Your Summer Interns' Progress**
-
-The purpose of this form is to track the progress of summer interns during their internship period. It's essential to ensure that the intern's work hours, project updates, and progress are accurately recorded. This information will help in evaluating their performance and making necessary adjustments to their schedules.
-
-Before you begin, please note that this form is for tracking summer interns' progress, and you must fill it out if you're an intern, your team lead, or a supervisor. If you've already completed this form, please don't submit it again. Each field is designed to capture specific information, so please follow the instructions below to complete it accurately.
-
-</thinking>
-
 # Summer Intern Timesheet - Help Guide
 
 ## Purpose

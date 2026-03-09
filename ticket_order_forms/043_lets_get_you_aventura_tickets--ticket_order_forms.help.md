@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and ticket details for AVENTURA tickets. It will be used to gather data from customers who are interested in purchasing tickets for an event or service. This form should only be filled out once per customer to avoid duplication of effort and to ensure accurate recordkeeping. Please fill out the form carefully and thoroughly, and make sure to include all relevant information.
-</thinking>
-
 # Lets Get You AVENTURA TICKETS ! - Help Guide
 ## Purpose
 This form is designed to collect contact information and ticket details for AVENTURA tickets.

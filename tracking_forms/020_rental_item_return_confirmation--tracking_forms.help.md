@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rental Item Return Confirmation - Help Guide
 
 ## Purpose

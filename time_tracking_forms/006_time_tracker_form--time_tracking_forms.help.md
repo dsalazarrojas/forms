@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Time Tracker Form - Help Guide
 ## Purpose
 The Time Tracker Form is used to record and track work hours for employees in your organization. It helps managers and team leaders monitor work hours, improve time tracking, and provide accurate reporting. This form is typically used for time tracking, reporting, and payroll purposes.

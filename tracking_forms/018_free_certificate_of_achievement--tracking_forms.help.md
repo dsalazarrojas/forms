@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for generating a certificate of achievement, likely for academic or educational purposes. The purpose of this form is to collect information from both the student and the school, as well as details about the achievement itself. It is likely that this form will be used to create a formal certificate that can be printed or digitally shared.
-</thinking>
-
 # Free Certificate Of Achievement - Help Guide
 
 ## Purpose

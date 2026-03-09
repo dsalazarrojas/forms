@@ -1,7 +1,3 @@
-<thinking>
-This form is for mining industry employees to request a vacation or absence leave. It is essential to ensure that all necessary information is provided to process the request correctly. Please fill out this form carefully and completely. Before submitting, ensure that you have the approval of your manager to avoid any delays in processing your request.
-</thinking>
-
 # Mining Industry Vacation Leave Of Absence Form - Help Guide
 ## Purpose
 The purpose of this form is to request a vacation or absence leave for mining industry employees. It is used to capture essential information for processing and approving the leave request.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to track daily activities and events related to vessel operations. It is intended for use by personnel involved in vessel management, operations, or maintenance. The form should not be used for general notes or long-term records, but rather for specific daily entries to track vessel performance, crew activities, and notable events. 
-
-The form is divided into several sections, each representing a different type of information to be collected. The purpose of this form is to gather data that can be used for tracking and analysis of vessel operations.
-
-</thinking>
-
 # Vessel Daily Log Form - Help Guide
 ## Purpose
 The Vessel Daily Log Form is used to track daily activities and events related to vessel operations, such as vessel maintenance, crew activities, and notable events. This form helps to gather information that can be used for analysis and improvement of vessel performance.

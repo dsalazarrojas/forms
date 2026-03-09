@@ -1,7 +1,3 @@
-<thinking>
-Internal Review Time Off Form purpose is designed to request a time off from work. This form is to be filled out by employees to request time off for a specific period, providing a detailed reason for the absence and ensuring that the absence aligns with company policies. This form should be filled out only once for each time off request, and should not be completed for duplicate requests.
-</thinking>
-
 # Internal Review Time Off Form - Help Guide
 ## Purpose
 This form is designed to request a time off from work. It's used to submit a formal request for a specific period of absence from the workplace.

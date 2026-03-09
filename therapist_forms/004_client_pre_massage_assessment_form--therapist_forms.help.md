@@ -1,16 +1,3 @@
-<thinking>
-
-Before we dive into the form's help guide, it's essential to understand its purpose and context. The "Client Pre Massage Assessment Form" is designed to gather essential information about the client's background, health, and preferences to ensure a safe and effective massage therapy session. This form helps the massage therapist to:
-
-* Understand the client's overall health status and any potential contraindications
-* Identify areas of concern or pain that require special attention
-* Determine the client's massage preferences, such as pressure level and type of massage
-* Set realistic expectations and goals for the session
-
-This form is typically completed by the client before their first massage therapy session, and it may be used for subsequent sessions to track progress and changes.
-
-</thinking>
-
 # Client Pre Massage Assessment Form - Help Guide
 
 ## Purpose

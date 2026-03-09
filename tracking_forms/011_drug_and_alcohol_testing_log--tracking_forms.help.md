@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Drug And Alcohol Testing Log - Help Guide
 ## Purpose
 This form is used to track and record the results of drug and alcohol testing for employees. It is intended to provide a centralized log for management and HR to monitor and manage testing results, ensuring compliance with company policies and procedures.

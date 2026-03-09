@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information, medical history, and consent for chiropractic treatment. The fields are organized to gather essential details about the patient, including their name, contact information, and medical history. The form also asks about their reason for visiting the chiropractor, their pain level, and whether they consent to treatment. The goal is to ensure that the chiropractor has the necessary information to provide effective and safe care. Before filling out this form, please ensure that you have completed any necessary medical history or treatment forms for the chiropractor. If you have any questions or concerns about this form, please don't hesitate to reach out to the clinic staff.
-</thinking>
-
 # Adult Chiropractic Treatment Intake Form - Help Guide
 
 ## Purpose

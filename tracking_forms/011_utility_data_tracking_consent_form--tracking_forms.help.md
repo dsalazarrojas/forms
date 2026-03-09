@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to track utility data for various utilities, including their collection, storage, and sharing methods. This form is intended for utility customers or users to provide information about their utility data collection practices, such as the frequency and method of collection, as well as their consent for data sharing and storage. 
-
-This form is likely used by utility companies or organizations to gather information about their customers' data handling practices, ensuring they are compliant with relevant laws and regulations. The form should only be completed by authorized personnel, and the data collected should be handled and stored securely. 
-
-Please note that the form fields may not be relevant to all users, and some fields might be redundant or not applicable. It's essential to review the form carefully and only answer questions that are relevant to your situation.
-
-</thinking>
-
 # Utility Data Tracking Consent Form - Help Guide
 ## Purpose
 This form is designed to track utility data collection practices, including consent for data sharing and storage, for various utility services.

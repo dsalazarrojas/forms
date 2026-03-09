@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # epic_departure_form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's departure from an epic journey or trip. It is intended to be used for tracking purposes and should be completed by the employee or their representative. The form should only be filled out once per journey.

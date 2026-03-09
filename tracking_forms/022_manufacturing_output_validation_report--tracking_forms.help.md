@@ -1,24 +1,3 @@
-<thinking>
-This is a form used to document the manufacturing output validation results. It is used by quality control inspectors to report the outcome of inspections on manufactured products or batches. The purpose of this form is to record inspection findings, identify defects, and provide additional notes and observations. The form is used to support quality control processes and ensure that products meet the required standards.
-
-This form is not meant to be used for any other purpose other than documenting the manufacturing output validation results. Please note that some fields may not be required depending on the specific inspection process. 
-
-The following is a step-by-step guide to complete this form:
-
-1. Enter the batch details in the "batch_details" field. This may include information such as the batch number, production date, and other relevant details.
-2. In the "inspection_results" field, briefly describe the inspection results.
-3. In the "quantities" field, enter the quantity of the inspected items.
-4. In the "observations" field, provide any additional observations or notes related to the inspection.
-5. In the "batch_id" field, enter the batch ID number.
-6. In the "inspector_name" field, enter the name of the inspector who performed the inspection.
-7. In the "inspection_status" field, select the outcome of the inspection from the provided options.
-8. In the "remarks" field, provide any additional comments or remarks related to the inspection.
-9. In the "date_of_inspection" field, select the date of the inspection.
-10. In the "time_of_inspection" field, select the time of the inspection.
-11. In the "quantity" field, enter the quantity of the inspected items.
-
-</thinking>
-
 # Manufacturing Output Validation Report - Help Guide
 ## Purpose
 This form is used to document the manufacturing output validation results.

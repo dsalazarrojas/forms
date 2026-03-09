@@ -1,13 +1,3 @@
-<thinking>
-To provide a comprehensive and user-friendly help guide for the "Group Therapy Confidentiality Form", we need to understand its purpose and relevance. This form is designed to collect sensitive information from patients and therapists, ensuring that both parties are on the same page regarding confidentiality agreements.
-
-The form is likely used in a therapeutic setting, where building trust and maintaining confidentiality are crucial. It's essential to clarify that this form is an original adaptation created by AI, not affiliated with or derived from any form platform.
-
-Given the extensive number of fields, it seems that the form is used to cover various aspects of confidentiality agreements in group therapy settings. The fields include patient and therapist names, emergency contact information, and multiple agreement-related fields. This form likely serves as a template for therapists to adapt to their specific needs.
-
-We should ensure that the help guide is clear, concise, and practical, explaining each field's purpose without assuming extra context. We'll break down the guide into sections for better readability and user experience.
-</thinking>
-
 # Group Therapy Confidentiality Form - Help Guide
 
 ## Purpose

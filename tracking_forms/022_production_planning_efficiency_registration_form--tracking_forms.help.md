@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Planning Efficiency Registration Form - Help Guide
 
 ## Purpose

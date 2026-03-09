@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect time-tracking and progress report data for weekly work hours, goals, and status from employees or team members. The form should only be completed once a week, typically on a Friday or Monday morning. Ensure you are not duplicating efforts by only submitting one report per week. This will help team leads and managers monitor progress and stay updated on individual and team performance.
-</thinking>
-
 # Weekly Timesheet And Progress Report Form - Help Guide
 ## Purpose
 This form is used to submit weekly time-tracking and progress report data for individual work hours, goals, and status.

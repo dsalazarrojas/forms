@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the completion of events and ensure that all necessary tasks and checks are performed before closing an event. It is likely used by event managers or administrators to verify that all necessary steps have been taken, and to document the completion of these steps for future reference. This form should not be used for duplicate events.
-</thinking>
-
 # Event Closing Checklist - Help Guide
 ## Purpose
 The Event Closing Checklist is a form used to track the completion of events and ensure that all necessary tasks and checks are performed before closing an event.

@@ -1,7 +1,3 @@
-<thinking>
-**Form Purpose:** This form is used to register logistics data management information. It's designed to collect relevant details for tracking and managing logistics activities. Before filling out the form, please ensure you're registering information that's accurate and relevant to your activities. Please do not duplicate or register outdated information. Make sure to fill out all required fields as they are essential for proper data management.
-</thinking>
-
 # Logistics Data Management Registration Form - Help Guide
 ## Purpose
 This form is used to register logistics data management information for tracking and managing logistics activities.

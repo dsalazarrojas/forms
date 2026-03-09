@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients interested in scheduling a holistic therapy session. It will be used to generate a quote for the desired session. The form is part of the internal system's workflow for processing and handling requests for therapy sessions. The form fields are designed to gather essential details about the client, session preferences, and other relevant information.
-
-This form should be filled out by clients who want to inquire about a session, and it will be reviewed internally to provide a quote and schedule the session if possible. Please make sure to fill out this form accurately and completely to help us better understand your needs and provide the best possible service.
-
-Before starting, please make sure that this form is not a duplicate request. If you have already submitted a request, please do not submit another one. If you are unsure or have any questions, feel free to contact us directly.
-</thinking>
-
 # Holistic Therapy Quote Form - Help Guide
 ## Purpose
 The Holistic Therapy Quote Form is designed to collect information from clients interested in scheduling a holistic therapy session. This form will be used to generate a quote for the desired session and facilitate the internal processing and handling of requests.

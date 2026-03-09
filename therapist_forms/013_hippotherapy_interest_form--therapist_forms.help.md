@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about a patient who is interested in hippotherapy, a form of equine-assisted therapy. The purpose of this form is to gather the patient's personal details, contact information, and medical conditions, as well as any relevant notes for the therapist. Please fill out this form carefully and completely to ensure that you are eligible for hippotherapy programs. If you are unsure about any of the information requested, please contact us for clarification. You will only need to fill out this form once, even if you are applying for multiple hippotherapy programs.</thinking>
-
 # Hippotherapy Interest Form - Help Guide
 ## Purpose
 The Hippotherapy Interest Form is designed to collect information about patients who are interested in participating in hippotherapy programs.

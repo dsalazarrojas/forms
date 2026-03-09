@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # days_off_request_form - Help Guide
 
 ## Purpose

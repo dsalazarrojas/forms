@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to track the willingness of employees to work extra shifts. It asks whether or not an employee is available to work additional shifts and provides a text field for them to describe the extra shifts they are willing to work. It also asks for their availability for the extra shifts and for their contact information (phone number and email), which will be used to contact them for further shifts.
-
-To avoid duplication, this form should only be used for employees who have not already opted-out of extra shifts.
-
-</thinking>
-
 # Extra Shift Form - Help Guide
 
 ## Purpose

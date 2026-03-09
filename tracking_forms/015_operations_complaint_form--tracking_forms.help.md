@@ -1,11 +1,3 @@
-<thinking>
-This form, called "operations_complaint_form," is likely used within an organizational setting to track operational complaints or issues. It may be employed by management or staff to document, categorize, and manage complaints or incidents. The form might be part of a broader operations management system that helps teams stay on top of their tasks and activities. To ensure this form serves its intended purpose, users should be aware of the following:
-
-- The form is not designed to handle emergency or urgent situations; its use is for tracking and documenting non-urgent complaints.
-- Users must carefully select the correct category and status for accurate complaint tracking.
-- The form's fields should not be used to store sensitive or confidential information.
-</thinking>
-
 # operations_complaint_form - Help Guide
 ## Purpose
 The "operations_complaint_form" is a tool for tracking and managing operational complaints or issues within an organization.

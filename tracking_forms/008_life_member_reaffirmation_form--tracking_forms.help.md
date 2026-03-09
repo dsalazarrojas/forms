@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from Life Members to update their status and reaffirm their affiliation with the organization. This form should only be used by Life Members who have been previously registered with the organization, and their information should be accurate and up-to-date to ensure the correct status is reflected in the organization's records. Before filling out this form, please confirm that you are a Life Member of the organization and that your information is current.
-</thinking>
-
 # Life Member Reaffirmation Form - Help Guide
 ## Purpose
 The Life Member Reaffirmation Form is used to update the status of Life Members and reaffirm their affiliation with the organization. This form should only be used by Life Members who have been previously registered with the organization.

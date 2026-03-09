@@ -1,5 +1,3 @@
-<thinking>As a telehealth platform, we want to ensure that our therapists are properly on-boarded and set up to provide high-quality care to patients. This form is designed to gather essential information from new therapists, allowing us to verify their credentials, understand their work setup, and facilitate their access to our platform.</thinking>
-
 # Telehealth Therapist Onboarding Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Verbal Language Assessment Form - Help Guide
 ## Purpose
 The Verbal Language Assessment Form is designed to evaluate an individual's verbal language abilities, including their ability to communicate effectively, understand spoken language, and express themselves clearly. This form helps assessors evaluate the individual's verbal language skills in various contexts.

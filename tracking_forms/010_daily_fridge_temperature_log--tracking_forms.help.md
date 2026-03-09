@@ -1,7 +1,3 @@
-<thinking>
-To determine the form's purpose, let's analyze the input schema. The form is named "Daily Fridge Temperature Log" and contains multiple fields with "temperature" labels. This suggests that the form is for tracking temperature readings from different parts of a refrigerator. There is no indication of data storage or processing, so it's likely that the form is for human observation and reporting. No fields indicate that the form is for data duplication or redundancy, so it's possible that the form is intended for daily or regular temperature checks. However, there is a lack of information about what specific temperatures are being logged (e.g., ambient, meat, etc.).
-</thinking>
-
 # Daily Fridge Temperature Log - Help Guide
 ## Purpose
 This form is for logging daily temperature readings from different parts of a refrigerator. Please fill it out regularly to monitor your fridge's temperature conditions.

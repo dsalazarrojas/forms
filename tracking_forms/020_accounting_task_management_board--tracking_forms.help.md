@@ -1,15 +1,3 @@
-<thinking>
-This help guide will cover the Accounting Task Management Board form, designed to track and manage accounting tasks efficiently. 
-
-Before diving into the guide, a few things to consider:
-- This form is used to create, track, and manage tasks related to accounting tasks.
-- It's a centralized board where users can view and interact with task information.
-- Users can add new tasks, assign tasks to individuals or teams, track progress, and mark tasks as completed.
-- The form includes various fields to collect relevant information about each task.
-- This guide will explain each field's purpose and how to complete the form effectively.
-
-</thinking>
-
 # Accounting Task Management Board - Help Guide
 ## Purpose
 The Accounting Task Management Board form is a tool for tracking and managing accounting tasks. It helps users to create, track, and interact with tasks efficiently.
